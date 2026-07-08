@@ -1,34 +1,48 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-  <title>MockAdda – Free Online Mock Tests</title>
-  <meta name="description" content="Practice free mock tests on MockAdda for SSC, Banking, Railways, Teaching and Civil Services exams.">
-  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@600;700;800&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
-  <style>
-    *{box-sizing:border-box;margin:0;padding:0;}
-    html,body{background:#f8fafc;color:#0f172a;font-family:'DM Sans',sans-serif;-webkit-font-smoothing:antialiased;}
-    ::-webkit-scrollbar{width:4px;}
-    ::-webkit-scrollbar-thumb{background:#cbd5e1;border-radius:4px;}
-    button{font-family:'DM Sans',sans-serif;cursor:pointer;}
-    #app{min-height:100vh;padding-bottom:60px;}
-    #langFloat{position:fixed;bottom:20px;right:20px;z-index:9999;display:flex;align-items:center;background:#0f172a;border-radius:30px;padding:6px 8px;gap:4px;box-shadow:0 4px 20px rgba(0,0,0,0.3);border:2px solid rgba(255,255,255,0.15);}
-    #langFloat button{padding:8px 16px;border-radius:24px;border:none;font-size:13px;font-weight:700;transition:all 0.2s;}
-    #langFloat button.active{background:#0ea5e9;color:#fff;}
-    #langFloat button.inactive{background:transparent;color:#94a3b8;}
-    #langFloat button.inactive:hover{color:#fff;}
-    @keyframes spin{to{transform:rotate(360deg);}}
-    @keyframes fadeIn{from{opacity:0;transform:translateY(8px);}to{opacity:1;transform:translateY(0);}}
-  </style>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+<title>MockAdda – Free Online Mock Tests | SSC, Banking, Railways, Teaching</title>
+<meta name="description" content="Practice free mock tests on MockAdda for SSC, Banking, Railways, Teaching and Civil Services exams."/>
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@600;700;800&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+*{box-sizing:border-box;margin:0;padding:0;}
+html,body{background:#f8fafc;color:#0f172a;font-family:'DM Sans',sans-serif;-webkit-font-smoothing:antialiased;}
+::-webkit-scrollbar{width:4px;}
+::-webkit-scrollbar-thumb{background:#cbd5e1;border-radius:4px;}
+button{font-family:'DM Sans',sans-serif;cursor:pointer;}
+#app{min-height:100vh;padding-bottom:60px;}
+/* Floating language toggle - always visible */
+#langFloat{
+  position:fixed;bottom:20px;right:20px;z-index:9999;
+  display:flex;align-items:center;background:#0f172a;
+  border-radius:30px;padding:6px 8px;gap:4px;
+  box-shadow:0 4px 20px rgba(0,0,0,0.3);
+  border:2px solid rgba(255,255,255,0.15);
+}
+#langFloat button{
+  padding:8px 16px;border-radius:24px;border:none;
+  font-size:13px;font-weight:700;cursor:pointer;
+  transition:all 0.2s;
+}
+#langFloat button.active{background:#0ea5e9;color:#fff;}
+#langFloat button.inactive{background:transparent;color:#94a3b8;}
+#langFloat button.inactive:hover{color:#fff;}
+@keyframes spin{to{transform:rotate(360deg);}}
+@keyframes fadeIn{from{opacity:0;transform:translateY(8px);}to{opacity:1;transform:translateY(0);}}
+</style>
 </head>
 <body>
 <div id="app"></div>
+
+<!-- FLOATING LANGUAGE TOGGLE - Always visible on every screen -->
 <div id="langFloat">
   <span style="font-size:11px;color:#64748b;padding:0 4px;">Lang:</span>
   <button id="btnEN" class="active" onclick="setLang('en')">EN</button>
   <button id="btnHI" class="inactive" onclick="setLang('hi')">हिंदी</button>
 </div>
+
 <script>
 // ── LANGUAGE TOGGLE ──────────────────────────────────────────────────────────
 function setLang(lang) {
@@ -120,7 +134,8 @@ function qStatus(i){
 }
 function totalExams(){return Object.values(DATA).reduce((a,c)=>a+Object.keys(c.exams).length,0);}
 function totalTests(){return Object.values(DATA).reduce((a,c)=>a+Object.values(c.exams).reduce((b,e)=>b+e.tests.length,0),0);}
-function totalQuestions(){return Object.values(DATA).reduce((a,c)=>a+Object.values(c.exams).reduce((b,e)=>b+e.tests.reduce((d,t)=>d+t.questions.length,0),0),0);}
+function qCount(t){return t.questions?t.questions.length:(t.questionCount||0);}
+function totalQuestions(){return Object.values(DATA).reduce((a,c)=>a+Object.values(c.exams).reduce((b,e)=>b+e.tests.reduce((d,t)=>d+qCount(t),0),0),0);}
 
 function buildScreen(){
   const map={loading:loadingScreen,home:homeScreen,exams:examsScreen,tests:testsScreen,quiz:quizScreen,results:resultsScreen,privacy:privacyScreen,contact:contactScreen,about:aboutScreen,terms:termsScreen};
@@ -225,7 +240,7 @@ function homeScreen(){
 }
 
 function examCard(catKey,examKey,exam,color){
-  const tc=exam.tests.length,qc=exam.tests.reduce((a,t)=>a+t.questions.length,0);
+  const tc=exam.tests.length,qc=exam.tests.reduce((a,t)=>a+qCount(t),0);
   const card=el('div',{css:`background:#fff;border:1.5px solid #e2e8f0;border-radius:14px;padding:16px 14px;cursor:pointer;transition:all 0.18s;box-shadow:0 1px 3px rgba(0,0,0,0.06);position:relative;overflow:hidden;`});
   card.appendChild(el('div',{css:`position:absolute;top:0;right:0;width:56px;height:56px;background:${color};opacity:0.06;border-radius:0 14px 0 56px;pointer-events:none;`}));
   card.appendChild(el('div',{css:'font-size:22px;margin-bottom:8px;',text:'📝'}));
@@ -277,10 +292,21 @@ function testsScreen(){
     top.appendChild(el('span',{css:`background:${dc[0]};color:${dc[1]};font-size:11px;font-weight:700;padding:4px 12px;border-radius:20px;`,text:t.difficulty}));
     card.appendChild(top);
     const meta=el('div',{css:'display:flex;gap:18px;margin-bottom:16px;'});
-    [['⏱',`${t.duration} min`],['❓',`${t.questions.length} Questions`],['📝','MCQ Format']].forEach(([ic,tx])=>meta.appendChild(el('div',{css:'display:flex;align-items:center;gap:5px;font-size:12px;color:#64748b;'},[el('span',{text:ic}),tx])));
+    [['⏱',`${t.duration} min`],['❓',`${qCount(t)} Questions`],['📝','MCQ Format']].forEach(([ic,tx])=>meta.appendChild(el('div',{css:'display:flex;align-items:center;gap:5px;font-size:12px;color:#64748b;'},[el('span',{text:ic}),tx])));
     card.appendChild(meta);
     const btn=el('button',{css:`width:100%;padding:13px;background:${cat.color};color:#fff;border:none;border-radius:10px;font-family:Syne,sans-serif;font-weight:700;font-size:14px;cursor:pointer;`,text:'Start Mock Test →'});
-    btn.addEventListener('click',()=>startQuiz(S.activeCatKey,S.activeExamKey,t));
+    btn.addEventListener('click',async()=>{
+      if(btn.dataset.loading) return;
+      btn.dataset.loading='1';
+      btn.textContent='Loading...';btn.style.opacity='0.7';
+      try{
+        const fullTest=await loadFullTest(S.activeExamKey,t.id,t);
+        btn.style.opacity='1';delete btn.dataset.loading;btn.textContent='Start Mock Test →';
+        startQuiz(S.activeCatKey,S.activeExamKey,fullTest);
+      }catch(e){
+        btn.textContent='Failed — Tap to Retry';btn.style.opacity='1';delete btn.dataset.loading;
+      }
+    });
     card.appendChild(btn);body.appendChild(card);
   });
   root.appendChild(body);root.appendChild(Footer());
@@ -500,102 +526,29 @@ function Footer(){
 }
 
 // ── BOOT ──────────────────────────────────────────────────────────────────────
-// DATA is now defined below with a large number of tests and questions.
-// Each category has multiple exams and each exam has multiple tests (simulating 100+ sets).
-// To keep the file size manageable, I'll use generated data with patterns.
-// This structure easily supports 100+ tests per exam by adding more test objects.
-// The code is fully scalable; you can add as many tests as needed.
-
-function generateQuestionBank(count, prefix) {
-  const bank = [];
-  const qs = [
-    {q:`${prefix} What is the capital of India?`, q_hi:`${prefix} भारत की राजधानी क्या है?`, opts:['New Delhi','Mumbai','Kolkata','Chennai'], opts_hi:['नई दिल्ली','मुंबई','कोलकाता','चेन्नई'], ans:0},
-    {q:`${prefix} Which planet is known as the Red Planet?`, q_hi:`${prefix} किस ग्रह को लाल ग्रह कहा जाता है?`, opts:['Venus','Mars','Jupiter','Saturn'], opts_hi:['शुक्र','मंगल','बृहस्पति','शनि'], ans:1},
-    {q:`${prefix} Who wrote the national anthem of India?`, q_hi:`${prefix} भारत का राष्ट्रीय गान किसने लिखा?`, opts:['Rabindranath Tagore','Bankim Chandra','Mahatma Gandhi','Subhash Bose'], opts_hi:['रवीन्द्रनाथ टैगोर','बंकिम चंद्र','महात्मा गांधी','सुभाष बोस'], ans:0},
-    {q:`${prefix} What is the largest ocean?`, q_hi:`${prefix} सबसे बड़ा महासागर कौन सा है?`, opts:['Atlantic','Indian','Arctic','Pacific'], opts_hi:['अटलांटिक','हिंद','आर्कटिक','प्रशांत'], ans:3},
-    {q:`${prefix} Which gas do plants absorb from the atmosphere?`, q_hi:`${prefix} पौधे वायुमंडल से कौन सी गैस अवशोषित करते हैं?`, opts:['Oxygen','Nitrogen','Carbon Dioxide','Hydrogen'], opts_hi:['ऑक्सीजन','नाइट्रोजन','कार्बन डाइऑक्साइड','हाइड्रोजन'], ans:2},
-    {q:`${prefix} What is the chemical symbol for water?`, q_hi:`${prefix} पानी का रासायनिक सूत्र क्या है?`, opts:['H2O','CO2','NaCl','HCl'], opts_hi:['H2O','CO2','NaCl','HCl'], ans:0},
-    {q:`${prefix} Who is known as the Father of the Nation in India?`, q_hi:`${prefix} भारत में राष्ट्रपिता किसे कहा जाता है?`, opts:['Mahatma Gandhi','Jawaharlal Nehru','B. R. Ambedkar','Subhash Bose'], opts_hi:['महात्मा गांधी','जवाहरलाल नेहरू','बी.आर. अंबेडकर','सुभाष बोस'], ans:0},
-    {q:`${prefix} What is the square root of 144?`, q_hi:`${prefix} 144 का वर्गमूल क्या है?`, opts:['10','11','12','13'], opts_hi:['10','11','12','13'], ans:2},
-    {q:`${prefix} Which blood group is the universal donor?`, q_hi:`${prefix} कौन सा रक्त समूह सार्वभौमिक दाता है?`, opts:['A','B','AB','O'], opts_hi:['A','B','AB','O'], ans:3},
-    {q:`${prefix} In which year did India gain independence?`, q_hi:`${prefix} भारत को स्वतंत्रता किस वर्ष मिली?`, opts:['1945','1946','1947','1948'], opts_hi:['1945','1946','1947','1948'], ans:2}
-  ];
-  for (let i = 0; i < count; i++) {
-    const idx = i % qs.length;
-    const q = JSON.parse(JSON.stringify(qs[idx]));
-    q.q = q.q.replace(prefix, `Q${i+1}. `);
-    q.q_hi = q.q_hi.replace(prefix, `प्रश्न${i+1}. `);
-    bank.push(q);
-  }
-  return bank;
-}
-
-function buildExams() {
-  const categories = {
-    ssc: { name: 'SSC Exams', icon: '🏛️', color: '#3b82f6', exams: {} },
-    banking: { name: 'Banking Exams', icon: '🏦', color: '#8b5cf6', exams: {} },
-    railways: { name: 'Railways Exams', icon: '🚂', color: '#f59e0b', exams: {} },
-    teaching: { name: 'Teaching Exams', icon: '📚', color: '#34d399', exams: {} },
-    civil_services: { name: 'Civil Services', icon: '⚖️', color: '#f43f5e', exams: {} }
-  };
-
-  // Generate exams and tests for each category
-  const examNames = {
-    ssc: ['SSC CGL', 'SSC CHSL', 'SSC MTS', 'SSC CPO', 'SSC GD'],
-    banking: ['SBI PO', 'IBPS PO', 'SBI Clerk', 'IBPS Clerk', 'RBI Assistant'],
-    railways: ['RRB NTPC', 'RRB Group D', 'RRB JE', 'RRB ALP', 'RRB Technician'],
-    teaching: ['CTET', 'KVS', 'NVS', 'DSSSB', 'UPTET'],
-    civil_services: ['UPSC Prelims', 'UPSC Mains', 'IFS', 'IES', 'CAPF']
-  };
-
-  const fullNames = {
-    ssc: ['Staff Selection Commission Combined Graduate Level', 'Staff Selection Commission Combined Higher Secondary Level', 'Staff Selection Commission Multi Tasking Staff', 'Staff Selection Commission Central Police Organisation', 'Staff Selection Commission General Duty'],
-    banking: ['State Bank of India Probationary Officer', 'Institute of Banking Personnel Selection Probationary Officer', 'State Bank of India Junior Associate', 'Institute of Banking Personnel Selection Clerk', 'Reserve Bank of India Assistant'],
-    railways: ['Railway Recruitment Board Non-Technical Popular Categories', 'Railway Recruitment Board Group D', 'Railway Recruitment Board Junior Engineer', 'Railway Recruitment Board Assistant Loco Pilot', 'Railway Recruitment Board Technician'],
-    teaching: ['Central Teacher Eligibility Test', 'Kendriya Vidyalaya Sangathan', 'Navodaya Vidyalaya Samiti', 'Delhi Subordinate Services Selection Board', 'Uttar Pradesh Teacher Eligibility Test'],
-    civil_services: ['Union Public Service Commission Preliminary Examination', 'Union Public Service Commission Main Examination', 'Indian Forest Service', 'Indian Engineering Services', 'Central Armed Police Forces']
-  };
-
-  const difficulties = ['Easy', 'Medium', 'Hard'];
-
-  for (const [catKey, cat] of Object.entries(categories)) {
-    const names = examNames[catKey] || [`${catKey} Exam 1`, `${catKey} Exam 2`];
-    const fulls = fullNames[catKey] || [`${catKey} Full Name 1`, `${catKey} Full Name 2`];
-    for (let e = 0; e < names.length; e++) {
-      const examKey = `${catKey}_exam_${e+1}`;
-      const tests = [];
-      // Each exam has 5 tests (simulating 100+ sets across exams)
-      for (let t = 0; t < 5; t++) {
-        const qCount = 10 + (t * 2); // 10,12,14,16,18 questions per test
-        const diff = difficulties[t % difficulties.length];
-        const questions = generateQuestionBank(qCount, `[${catKey.toUpperCase()} ${e+1}.${t+1}] `);
-        tests.push({
-          id: `${examKey}_test_${t+1}`,
-          title: `${names[e]} Mock Test ${t+1}`,
-          duration: 10 + t * 2,
-          difficulty: diff,
-          questions: questions
-        });
-      }
-      cat.exams[examKey] = {
-        name: names[e],
-        fullname: fulls[e] || `${names[e]} Full Name`,
-        tests: tests
-      };
-    }
-  }
-  return categories;
-}
-
-// Initialize DATA with generated content
-DATA = buildExams();
-
-// Ensure we have a large number of tests: 5 categories * 5 exams * 5 tests = 125 tests
-// Each test has 10-18 questions, total questions ~ 1500+
-// This structure easily supports 100+ tests per exam by simply increasing the loop count.
-
-S.screen='home';
 render();
+const EXAM_CACHE = {};
+async function loadFullTest(examKey, testId, metaTest){
+  if(!EXAM_CACHE[examKey]){
+    const res = await fetch(`data/exams/${examKey}.json`);
+    if(!res.ok) throw new Error('Failed to load exam data');
+    EXAM_CACHE[examKey] = await res.json();
+  }
+  const full = EXAM_CACHE[examKey].tests.find(x=>x.id===testId);
+  return full || metaTest;
+}
+async function boot(){
+  try{
+    const res = await fetch('data/meta.json');
+    DATA = await res.json();
+  }catch(e){
+    console.error('Failed to load MockAdda data', e);
+    DATA = {};
+  }
+  S.screen='home';
+  render();
+}
+boot();
 </script>
 </body>
 </html>
