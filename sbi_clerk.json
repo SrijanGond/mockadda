@@ -202,6 +202,31 @@
           "ans": 2
         }
       ]
+    },
+    {
+      "id": "sbi_clerk_3",
+      "title": "SBI Clerk Mock Test 3",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which of the following is the first bank in India to launch 'WhatsApp Banking'?",
+          "q_hi": "व्हाट्सएप बैंकिंग' लॉन्च करने वाला भारत का पहला बैंक निम्नलिखित में से कौन सा है?",
+          "opts": [
+            "ICICI Bank",
+            "HDFC Bank",
+            "Axis Bank",
+            "State Bank of India"
+          ],
+          "opts_hi": [
+            "ICICI बैंक",
+            "HDFC बैंक",
+            "एक्सिस बैंक",
+            "भारतीय स्टेट बैंक"
+          ],
+          "ans": 0
+        }
+      ]
     }
   ]
 }
