@@ -1,1 +1,228 @@
-{"ssc": {"name": "SSC Exams", "icon": "🏛️", "color": "#3b82f6", "exams": {"ssc_cgl": {"name": "SSC CGL", "fullname": "Staff Selection Commission Combined Graduate Level", "tests": [{"id": "ssc_cgl_1", "title": "SSC CGL Mock Test 1", "duration": 15, "difficulty": "Medium", "questionCount": 10}, {"id": "ssc_cgl_2", "title": "SSC CGL Mock Test 2", "duration": 15, "difficulty": "Hard", "questionCount": 10}]}, "ssc_chsl": {"name": "SSC CHSL", "fullname": "Staff Selection Commission Combined Higher Secondary Level", "tests": [{"id": "ssc_chsl_1", "title": "SSC CHSL Mock Test 1", "duration": 15, "difficulty": "Easy", "questionCount": 10}]}, "ssc_mts": {"name": "SSC MTS", "fullname": "Staff Selection Commission Multi Tasking Staff", "tests": [{"id": "ssc_mts_1", "title": "SSC MTS Mock Test 1", "duration": 10, "difficulty": "Easy", "questionCount": 10}]}}}, "banking": {"name": "Banking Exams", "icon": "🏦", "color": "#8b5cf6", "exams": {"sbi_po": {"name": "SBI PO", "fullname": "State Bank of India Probationary Officer", "tests": [{"id": "sbi_po_1", "title": "SBI PO Mock Test 1", "duration": 20, "difficulty": "Hard", "questionCount": 10}]}, "ibps_po": {"name": "IBPS PO", "fullname": "Institute of Banking Personnel Selection Probationary Officer", "tests": [{"id": "ibps_po_1", "title": "IBPS PO Mock Test 1", "duration": 20, "difficulty": "Hard", "questionCount": 10}]}, "sbi_clerk": {"name": "SBI Clerk", "fullname": "State Bank of India Junior Associates", "tests": [{"id": "sbi_clerk_1", "title": "SBI Clerk Mock Test 1", "duration": 15, "difficulty": "Medium", "questionCount": 10}]}}}, "railways": {"name": "Railways Exams", "icon": "🚂", "color": "#f59e0b", "exams": {"rrb_ntpc": {"name": "RRB NTPC", "fullname": "Railway Recruitment Board Non-Technical Popular Categories", "tests": [{"id": "rrb_ntpc_1", "title": "RRB NTPC Mock Test 1", "duration": 15, "difficulty": "Medium", "questionCount": 10}]}, "rrb_group_d": {"name": "RRB Group D", "fullname": "Railway Recruitment Board Group D", "tests": [{"id": "rrb_gd_1", "title": "RRB Group D Mock Test 1", "duration": 10, "difficulty": "Easy", "questionCount": 10}]}}}, "teaching": {"name": "Teaching Exams", "icon": "📚", "color": "#34d399", "exams": {"ctet": {"name": "CTET", "fullname": "Central Teacher Eligibility Test", "tests": [{"id": "ctet_1", "title": "CTET Paper 1 Mock Test", "duration": 15, "difficulty": "Medium", "questionCount": 10}]}, "kvs": {"name": "KVS", "fullname": "Kendriya Vidyalaya Sangathan Teacher", "tests": [{"id": "kvs_1", "title": "KVS PRT Mock Test 1", "duration": 15, "difficulty": "Medium", "questionCount": 10}]}}}, "civil_services": {"name": "Civil Services", "icon": "⚖️", "color": "#f43f5e", "exams": {"upsc_prelims": {"name": "UPSC Prelims", "fullname": "Union Public Service Commission Preliminary Examination", "tests": [{"id": "upsc_pre_1", "title": "UPSC Prelims GS Mock Test 1", "duration": 20, "difficulty": "Hard", "questionCount": 10}, {"id": "upsc_pre_2", "title": "UPSC Prelims GS Mock Test 2", "duration": 20, "difficulty": "Hard", "questionCount": 10}]}}}, "roaro": {"name": "RO/ARO Allahabad HC", "icon": "📜", "color": "#0891b2", "exams": {"roaro_prelims": {"name": "RO/ARO Prelims", "fullname": "Allahabad High Court Review Officer / Assistant Review Officer — Preliminary Exam (General Studies)", "tests": [{"id": "roaro_pre_1", "title": "RO/ARO Prelims GS Mock Test 1", "duration": 60, "difficulty": "Hard", "questionCount": 100}, {"id": "roaro_pre_2", "title": "RO/ARO Prelims GS Mock Test 2", "duration": 60, "difficulty": "Hard", "questionCount": 100}]}}}}
+{
+  "ssc": {
+    "name": "SSC Exams",
+    "icon": "🏛️",
+    "color": "#3b82f6",
+    "exams": {
+      "ssc_cgl": {
+        "name": "SSC CGL",
+        "fullname": "Staff Selection Commission Combined Graduate Level",
+        "tests": [
+          {
+            "id": "ssc_cgl_1",
+            "title": "SSC CGL Mock Test 1",
+            "duration": 15,
+            "difficulty": "Medium",
+            "questionCount": 10
+          },
+          {
+            "id": "ssc_cgl_2",
+            "title": "SSC CGL Mock Test 2",
+            "duration": 15,
+            "difficulty": "Hard",
+            "questionCount": 10
+          }
+        ]
+      },
+      "ssc_chsl": {
+        "name": "SSC CHSL",
+        "fullname": "Staff Selection Commission Combined Higher Secondary Level",
+        "tests": [
+          {
+            "id": "ssc_chsl_1",
+            "title": "SSC CHSL Mock Test 1",
+            "duration": 15,
+            "difficulty": "Easy",
+            "questionCount": 10
+          }
+        ]
+      },
+      "ssc_mts": {
+        "name": "SSC MTS",
+        "fullname": "Staff Selection Commission Multi Tasking Staff",
+        "tests": [
+          {
+            "id": "ssc_mts_1",
+            "title": "SSC MTS Mock Test 1",
+            "duration": 10,
+            "difficulty": "Easy",
+            "questionCount": 10
+          }
+        ]
+      }
+    }
+  },
+  "banking": {
+    "name": "Banking Exams",
+    "icon": "🏦",
+    "color": "#8b5cf6",
+    "exams": {
+      "sbi_po": {
+        "name": "SBI PO",
+        "fullname": "State Bank of India Probationary Officer",
+        "tests": [
+          {
+            "id": "sbi_po_1",
+            "title": "SBI PO Mock Test 1",
+            "duration": 20,
+            "difficulty": "Hard",
+            "questionCount": 10
+          }
+        ]
+      },
+      "ibps_po": {
+        "name": "IBPS PO",
+        "fullname": "Institute of Banking Personnel Selection Probationary Officer",
+        "tests": [
+          {
+            "id": "ibps_po_1",
+            "title": "IBPS PO Mock Test 1",
+            "duration": 20,
+            "difficulty": "Hard",
+            "questionCount": 10
+          }
+        ]
+      },
+      "sbi_clerk": {
+        "name": "SBI Clerk",
+        "fullname": "State Bank of India Junior Associates",
+        "tests": [
+          {
+            "id": "sbi_clerk_1",
+            "title": "SBI Clerk Mock Test 1",
+            "duration": 15,
+            "difficulty": "Medium",
+            "questionCount": 10
+          }
+        ]
+      }
+    }
+  },
+  "railways": {
+    "name": "Railways Exams",
+    "icon": "🚂",
+    "color": "#f59e0b",
+    "exams": {
+      "rrb_ntpc": {
+        "name": "RRB NTPC",
+        "fullname": "Railway Recruitment Board Non-Technical Popular Categories",
+        "tests": [
+          {
+            "id": "rrb_ntpc_1",
+            "title": "RRB NTPC Mock Test 1",
+            "duration": 15,
+            "difficulty": "Medium",
+            "questionCount": 10
+          }
+        ]
+      },
+      "rrb_group_d": {
+        "name": "RRB Group D",
+        "fullname": "Railway Recruitment Board Group D",
+        "tests": [
+          {
+            "id": "rrb_gd_1",
+            "title": "RRB Group D Mock Test 1",
+            "duration": 10,
+            "difficulty": "Easy",
+            "questionCount": 10
+          }
+        ]
+      }
+    }
+  },
+  "teaching": {
+    "name": "Teaching Exams",
+    "icon": "📚",
+    "color": "#34d399",
+    "exams": {
+      "ctet": {
+        "name": "CTET",
+        "fullname": "Central Teacher Eligibility Test",
+        "tests": [
+          {
+            "id": "ctet_1",
+            "title": "CTET Paper 1 Mock Test",
+            "duration": 15,
+            "difficulty": "Medium",
+            "questionCount": 10
+          }
+        ]
+      },
+      "kvs": {
+        "name": "KVS",
+        "fullname": "Kendriya Vidyalaya Sangathan Teacher",
+        "tests": [
+          {
+            "id": "kvs_1",
+            "title": "KVS PRT Mock Test 1",
+            "duration": 15,
+            "difficulty": "Medium",
+            "questionCount": 10
+          }
+        ]
+      }
+    }
+  },
+  "civil_services": {
+    "name": "Civil Services",
+    "icon": "⚖️",
+    "color": "#f43f5e",
+    "exams": {
+      "upsc_prelims": {
+        "name": "UPSC Prelims",
+        "fullname": "Union Public Service Commission Preliminary Examination",
+        "tests": [
+          {
+            "id": "upsc_pre_1",
+            "title": "UPSC Prelims GS Mock Test 1",
+            "duration": 20,
+            "difficulty": "Hard",
+            "questionCount": 10
+          },
+          {
+            "id": "upsc_pre_2",
+            "title": "UPSC Prelims GS Mock Test 2",
+            "duration": 20,
+            "difficulty": "Hard",
+            "questionCount": 10
+          },
+          {
+            "id": "upsc_prelims_3",
+            "title": "UPSC Prelims Mock Test 3",
+            "duration": 10,
+            "difficulty": "Medium",
+            "questionCount": 1
+          }
+        ]
+      }
+    }
+  },
+  "roaro": {
+    "name": "RO/ARO Allahabad HC",
+    "icon": "📜",
+    "color": "#0891b2",
+    "exams": {
+      "roaro_prelims": {
+        "name": "RO/ARO Prelims",
+        "fullname": "Allahabad High Court Review Officer / Assistant Review Officer — Preliminary Exam (General Studies)",
+        "tests": [
+          {
+            "id": "roaro_pre_1",
+            "title": "RO/ARO Prelims GS Mock Test 1",
+            "duration": 60,
+            "difficulty": "Hard",
+            "questionCount": 100
+          },
+          {
+            "id": "roaro_pre_2",
+            "title": "RO/ARO Prelims GS Mock Test 2",
+            "duration": 60,
+            "difficulty": "Hard",
+            "questionCount": 100
+          }
+        ]
+      }
+    }
+  }
+}
