@@ -380,6 +380,82 @@
           "ans": 0
         }
       ]
+    },
+    {
+      "id": "upsc_prelims_4",
+      "title": "UPSC Prelims Mock Test 4",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "The concept of 'Judicial Review' in the Indian Constitution is borrowed from which country?",
+          "q_hi": "भारतीय संविधान में 'न्यायिक समीक्षा' की अवधारणा किस देश से ली गई है?",
+          "opts": [
+            "United Kingdom",
+            "United States of America",
+            "Canada",
+            "Australia"
+          ],
+          "opts_hi": [
+            "यूनाइटेड किंगडम",
+            "संयुक्त राज्य अमेरिका",
+            "कनाडा",
+            "ऑस्ट्रेलिया"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "Which of the following is a 'Critically Endangered' species according to the IUCN Red List?",
+          "q_hi": "IUCN रेड लिस्ट के अनुसार निम्नलिखित में से कौन सी 'गंभीर रूप से संकटग्रस्त' प्रजाति है?",
+          "opts": [
+            "Bengal Tiger",
+            "Indian Elephant",
+            "Great Indian Bustard",
+            "Snow Leopard"
+          ],
+          "opts_hi": [
+            "बंगाल टाइगर",
+            "भारतीय हाथी",
+            "ग्रेट इंडियन बस्टर्ड",
+            "हिम तेंदुआ"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "Which Sultan of Delhi introduced the 'Token Currency' (copper coins with brass and copper mixture)?",
+          "q_hi": "दिल्ली के किस सुल्तान ने 'टोकन मुद्रा' (पीतल और तांबे के मिश्रण के सिक्के) शुरू की थी?",
+          "opts": [
+            "Alauddin Khilji",
+            "Muhammad bin Tughlaq",
+            "Firuz Shah Tughlaq",
+            "Iltutmish"
+          ],
+          "opts_hi": [
+            "अलाउद्दीन खिलजी",
+            "मुहम्मद बिन तुगलक",
+            "फिरोज शाह तुगलक",
+            "इल्तुतमिश"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "Which part of the Constitution of India deals with the Municipalities?",
+          "q_hi": "भारतीय संविधान का कौन सा भाग नगर पालिकाओं से संबंधित है?",
+          "opts": [
+            "Part VIII",
+            "Part IXA",
+            "Part IX",
+            "Part X"
+          ],
+          "opts_hi": [
+            "भाग VIII",
+            "भाग IXA",
+            "भाग IX",
+            "भाग X"
+          ],
+          "ans": 1
+        }
+      ]
     }
   ]
 }
