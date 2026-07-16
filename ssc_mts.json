@@ -1,1 +1,207 @@
-{"tests": [{"id": "ssc_mts_1", "title": "SSC MTS Mock Test 1", "duration": 10, "difficulty": "Easy", "questions": [{"q": "National bird of India?", "q_hi": "भारत का राष्ट्रीय पक्षी कौन सा है?", "opts": ["Sparrow", "Peacock", "Parrot", "Pigeon"], "opts_hi": ["गौरेया", "मोर", "तोता", "कबूतर"], "ans": 1}, {"q": "2 + 2 × 2 = ?", "q_hi": "2 + 2 × 2 = ?", "opts": ["8", "6", "4", "10"], "opts_hi": ["8", "6", "4", "10"], "ans": 1}, {"q": "Which is the capital of Rajasthan?", "q_hi": "राजस्थान की राजधानी कौन सी है?", "opts": ["Jodhpur", "Udaipur", "Jaipur", "Ajmer"], "opts_hi": ["जोधपुर", "उदयपुर", "जयपुर", "अजमेर"], "ans": 2}, {"q": "Full form of ATM?", "q_hi": "ATM का पूर्ण रूप क्या है?", "opts": ["Automatic Teller Machine", "Automated Teller Machine", "Auto Transaction Machine", "Automated Transaction Machine"], "opts_hi": ["स्वचालित टेलर मशीन", "स्वचालित टेलर मशीन", "स्वतः लेनदेन मशीन", "स्वचालित लेनदेन मशीन"], "ans": 1}, {"q": "Who invented the telephone?", "q_hi": "टेलीफोन का आविष्कार किसने किया?", "opts": ["Thomas Edison", "Alexander Graham Bell", "Nikola Tesla", "Isaac Newton"], "opts_hi": ["थॉमस एडिसन", "अलेक्जेंडर ग्राहम बेल", "निकोला टेस्ला", "आइजैक न्यूटन"], "ans": 1}, {"q": "How many days in a leap year?", "q_hi": "लीप वर्ष में कितने दिन होते हैं?", "opts": ["364", "365", "366", "367"], "opts_hi": ["364", "365", "366", "367"], "ans": 2}, {"q": "Capital of France?", "q_hi": "फ्रांस की राजधानी कौन सी है?", "opts": ["Berlin", "Rome", "Paris", "Madrid"], "opts_hi": ["बर्लिन", "रोम", "पेरिस", "मैड्रिड"], "ans": 2}, {"q": "National flower of India?", "q_hi": "भारत का राष्ट्रीय फूल कौन सा है?", "opts": ["Rose", "Lotus", "Marigold", "Jasmine"], "opts_hi": ["गुलाब", "कमल", "गेंदा", "चमेली"], "ans": 1}, {"q": "1 dozen = ?", "q_hi": "1 दर्जन = ?", "opts": ["10", "11", "12", "13"], "opts_hi": ["10", "11", "12", "13"], "ans": 2}, {"q": "Largest continent in the world?", "q_hi": "विश्व का सबसे बड़ा महाद्वीप कौन सा है?", "opts": ["Africa", "Europe", "Asia", "Australia"], "opts_hi": ["अफ्रीका", "यूरोप", "एशिया", "ऑस्ट्रेलिया"], "ans": 2}]}]}
+{
+  "tests": [
+    {
+      "id": "ssc_mts_1",
+      "title": "SSC MTS Mock Test 1",
+      "duration": 10,
+      "difficulty": "Easy",
+      "questions": [
+        {
+          "q": "National bird of India?",
+          "q_hi": "भारत का राष्ट्रीय पक्षी कौन सा है?",
+          "opts": [
+            "Sparrow",
+            "Peacock",
+            "Parrot",
+            "Pigeon"
+          ],
+          "opts_hi": [
+            "गौरेया",
+            "मोर",
+            "तोता",
+            "कबूतर"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "2 + 2 × 2 = ?",
+          "q_hi": "2 + 2 × 2 = ?",
+          "opts": [
+            "8",
+            "6",
+            "4",
+            "10"
+          ],
+          "opts_hi": [
+            "8",
+            "6",
+            "4",
+            "10"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "Which is the capital of Rajasthan?",
+          "q_hi": "राजस्थान की राजधानी कौन सी है?",
+          "opts": [
+            "Jodhpur",
+            "Udaipur",
+            "Jaipur",
+            "Ajmer"
+          ],
+          "opts_hi": [
+            "जोधपुर",
+            "उदयपुर",
+            "जयपुर",
+            "अजमेर"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "Full form of ATM?",
+          "q_hi": "ATM का पूर्ण रूप क्या है?",
+          "opts": [
+            "Automatic Teller Machine",
+            "Automated Teller Machine",
+            "Auto Transaction Machine",
+            "Automated Transaction Machine"
+          ],
+          "opts_hi": [
+            "स्वचालित टेलर मशीन",
+            "स्वचालित टेलर मशीन",
+            "स्वतः लेनदेन मशीन",
+            "स्वचालित लेनदेन मशीन"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "Who invented the telephone?",
+          "q_hi": "टेलीफोन का आविष्कार किसने किया?",
+          "opts": [
+            "Thomas Edison",
+            "Alexander Graham Bell",
+            "Nikola Tesla",
+            "Isaac Newton"
+          ],
+          "opts_hi": [
+            "थॉमस एडिसन",
+            "अलेक्जेंडर ग्राहम बेल",
+            "निकोला टेस्ला",
+            "आइजैक न्यूटन"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "How many days in a leap year?",
+          "q_hi": "लीप वर्ष में कितने दिन होते हैं?",
+          "opts": [
+            "364",
+            "365",
+            "366",
+            "367"
+          ],
+          "opts_hi": [
+            "364",
+            "365",
+            "366",
+            "367"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "Capital of France?",
+          "q_hi": "फ्रांस की राजधानी कौन सी है?",
+          "opts": [
+            "Berlin",
+            "Rome",
+            "Paris",
+            "Madrid"
+          ],
+          "opts_hi": [
+            "बर्लिन",
+            "रोम",
+            "पेरिस",
+            "मैड्रिड"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "National flower of India?",
+          "q_hi": "भारत का राष्ट्रीय फूल कौन सा है?",
+          "opts": [
+            "Rose",
+            "Lotus",
+            "Marigold",
+            "Jasmine"
+          ],
+          "opts_hi": [
+            "गुलाब",
+            "कमल",
+            "गेंदा",
+            "चमेली"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "1 dozen = ?",
+          "q_hi": "1 दर्जन = ?",
+          "opts": [
+            "10",
+            "11",
+            "12",
+            "13"
+          ],
+          "opts_hi": [
+            "10",
+            "11",
+            "12",
+            "13"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "Largest continent in the world?",
+          "q_hi": "विश्व का सबसे बड़ा महाद्वीप कौन सा है?",
+          "opts": [
+            "Africa",
+            "Europe",
+            "Asia",
+            "Australia"
+          ],
+          "opts_hi": [
+            "अफ्रीका",
+            "यूरोप",
+            "एशिया",
+            "ऑस्ट्रेलिया"
+          ],
+          "ans": 2
+        }
+      ]
+    },
+    {
+      "id": "ssc_mts_2",
+      "title": "SSC MTS Mock Test 2",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which vitamin is also known as ascorbic acid?",
+          "q_hi": "किस विटामिन को एस्कॉर्बिक एसिड भी कहा जाता है?",
+          "opts": [
+            "Vitamin A",
+            "Vitamin B12",
+            "Vitamin C",
+            "Vitamin D"
+          ],
+          "opts_hi": [
+            "विटामिन A",
+            "विटामिन B12",
+            "विटामिन C",
+            "विटामिन D"
+          ],
+          "ans": 2
+        }
+      ]
+    }
+  ]
+}
