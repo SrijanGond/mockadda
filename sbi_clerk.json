@@ -1,1 +1,207 @@
-{"tests": [{"id": "sbi_clerk_1", "title": "SBI Clerk Mock Test 1", "duration": 15, "difficulty": "Medium", "questions": [{"q": "How many nationalized banks are there in India?", "q_hi": "भारत में कितने राष्ट्रीयकृत बैंक हैं?", "opts": ["10", "12", "19", "21"], "opts_hi": ["10", "12", "19", "21"], "ans": 1}, {"q": "The tagline of SBI is?", "q_hi": "SBI का टैगलाइन क्या है?", "opts": ["The Name You Can Bank On", "With You All The Way", "Pure Banking Nothing Else", "Good People to Bank With"], "opts_hi": ["द नेम यू कैन बैंक ऑन", "विद यू ऑल द वे", "प्योर बैंकिंग नथिंग एल्स", "गुड पीपल टू बैंक विद"], "ans": 1}, {"q": "Simple Interest on ₹5000 at 8% for 3 years?", "q_hi": "₹5000 पर 8% की दर से 3 वर्षों का साधारण ब्याज?", "opts": ["₹1000", "₹1100", "₹1200", "₹1300"], "opts_hi": ["₹1000", "₹1100", "₹1200", "₹1300"], "ans": 2}, {"q": "Minimum balance for SBI savings account in metro cities?", "q_hi": "महानगरों में SBI बचत खाते के लिए न्यूनतम शेष राशि?", "opts": ["₹500", "₹1000", "₹3000", "₹5000"], "opts_hi": ["₹500", "₹1000", "₹3000", "₹5000"], "ans": 2}, {"q": "KYC stands for?", "q_hi": "KYC का पूर्ण रूप क्या है?", "opts": ["Keep Your Cash", "Know Your Customer", "Keep Your Customer", "Know Your Cash"], "opts_hi": ["कीप यौर कैश", "अपने ग्राहक को जानें", "कीप यौर कस्टमर", "नो यौर कैश"], "ans": 1}, {"q": "Which of the following is NOT a function of RBI?", "q_hi": "निम्नलिखित में से कौन सा RBI का कार्य नहीं है?", "opts": ["Issue of currency", "Banker to government", "Accepting deposits from public", "Lender of last resort"], "opts_hi": ["मुद्रा जारी करना", "सरकार का बैंकर", "जनता से जमा स्वीकार करना", "अंतिम ऋणदाता"], "ans": 2}, {"q": "What is 35% of 500?", "q_hi": "500 का 35% क्या है?", "opts": ["155", "165", "175", "185"], "opts_hi": ["155", "165", "175", "185"], "ans": 2}, {"q": "UPI was launched by?", "q_hi": "UPI किसके द्वारा लॉन्च किया गया था?", "opts": ["SBI", "RBI", "NPCI", "SEBI"], "opts_hi": ["SBI", "RBI", "NPCI", "SEBI"], "ans": 2}, {"q": "Error detection: 'He do not know the answer.'", "q_hi": "त्रुटि पहचानें: 'He do not know the answer.'", "opts": ["He", "do not", "know", "the answer"], "opts_hi": ["He", "do not", "know", "the answer"], "ans": 1}, {"q": "Insurance deposits up to ₹__ are protected by DICGC?", "q_hi": "DICGC द्वारा ₹__ तक की बीमा जमा राशि सुरक्षित है?", "opts": ["1 lakh", "2 lakh", "5 lakh", "10 lakh"], "opts_hi": ["1 लाख", "2 लाख", "5 लाख", "10 लाख"], "ans": 2}]}]}
+{
+  "tests": [
+    {
+      "id": "sbi_clerk_1",
+      "title": "SBI Clerk Mock Test 1",
+      "duration": 15,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "How many nationalized banks are there in India?",
+          "q_hi": "भारत में कितने राष्ट्रीयकृत बैंक हैं?",
+          "opts": [
+            "10",
+            "12",
+            "19",
+            "21"
+          ],
+          "opts_hi": [
+            "10",
+            "12",
+            "19",
+            "21"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "The tagline of SBI is?",
+          "q_hi": "SBI का टैगलाइन क्या है?",
+          "opts": [
+            "The Name You Can Bank On",
+            "With You All The Way",
+            "Pure Banking Nothing Else",
+            "Good People to Bank With"
+          ],
+          "opts_hi": [
+            "द नेम यू कैन बैंक ऑन",
+            "विद यू ऑल द वे",
+            "प्योर बैंकिंग नथिंग एल्स",
+            "गुड पीपल टू बैंक विद"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "Simple Interest on ₹5000 at 8% for 3 years?",
+          "q_hi": "₹5000 पर 8% की दर से 3 वर्षों का साधारण ब्याज?",
+          "opts": [
+            "₹1000",
+            "₹1100",
+            "₹1200",
+            "₹1300"
+          ],
+          "opts_hi": [
+            "₹1000",
+            "₹1100",
+            "₹1200",
+            "₹1300"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "Minimum balance for SBI savings account in metro cities?",
+          "q_hi": "महानगरों में SBI बचत खाते के लिए न्यूनतम शेष राशि?",
+          "opts": [
+            "₹500",
+            "₹1000",
+            "₹3000",
+            "₹5000"
+          ],
+          "opts_hi": [
+            "₹500",
+            "₹1000",
+            "₹3000",
+            "₹5000"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "KYC stands for?",
+          "q_hi": "KYC का पूर्ण रूप क्या है?",
+          "opts": [
+            "Keep Your Cash",
+            "Know Your Customer",
+            "Keep Your Customer",
+            "Know Your Cash"
+          ],
+          "opts_hi": [
+            "कीप यौर कैश",
+            "अपने ग्राहक को जानें",
+            "कीप यौर कस्टमर",
+            "नो यौर कैश"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "Which of the following is NOT a function of RBI?",
+          "q_hi": "निम्नलिखित में से कौन सा RBI का कार्य नहीं है?",
+          "opts": [
+            "Issue of currency",
+            "Banker to government",
+            "Accepting deposits from public",
+            "Lender of last resort"
+          ],
+          "opts_hi": [
+            "मुद्रा जारी करना",
+            "सरकार का बैंकर",
+            "जनता से जमा स्वीकार करना",
+            "अंतिम ऋणदाता"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "What is 35% of 500?",
+          "q_hi": "500 का 35% क्या है?",
+          "opts": [
+            "155",
+            "165",
+            "175",
+            "185"
+          ],
+          "opts_hi": [
+            "155",
+            "165",
+            "175",
+            "185"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "UPI was launched by?",
+          "q_hi": "UPI किसके द्वारा लॉन्च किया गया था?",
+          "opts": [
+            "SBI",
+            "RBI",
+            "NPCI",
+            "SEBI"
+          ],
+          "opts_hi": [
+            "SBI",
+            "RBI",
+            "NPCI",
+            "SEBI"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "Error detection: 'He do not know the answer.'",
+          "q_hi": "त्रुटि पहचानें: 'He do not know the answer.'",
+          "opts": [
+            "He",
+            "do not",
+            "know",
+            "the answer"
+          ],
+          "opts_hi": [
+            "He",
+            "do not",
+            "know",
+            "the answer"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "Insurance deposits up to ₹__ are protected by DICGC?",
+          "q_hi": "DICGC द्वारा ₹__ तक की बीमा जमा राशि सुरक्षित है?",
+          "opts": [
+            "1 lakh",
+            "2 lakh",
+            "5 lakh",
+            "10 lakh"
+          ],
+          "opts_hi": [
+            "1 लाख",
+            "2 लाख",
+            "5 लाख",
+            "10 लाख"
+          ],
+          "ans": 2
+        }
+      ]
+    },
+    {
+      "id": "sbi_clerk_2",
+      "title": "SBI Clerk Mock Test 2",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which bank has launched the 'YONO' digital banking platform?",
+          "q_hi": "किस बैंक ने 'YONO' डिजिटल बैंकिंग प्लेटफॉर्म लॉन्च किया है?",
+          "opts": [
+            "HDFC Bank",
+            "ICICI Bank",
+            "State Bank of India",
+            "Axis Bank"
+          ],
+          "opts_hi": [
+            "HDFC बैंक",
+            "ICICI बैंक",
+            "भारतीय स्टेट बैंक",
+            "एक्सिस बैंक"
+          ],
+          "ans": 2
+        }
+      ]
+    }
+  ]
+}
