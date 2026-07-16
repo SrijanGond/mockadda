@@ -3457,6 +3457,65 @@
           "ans": 3
         }
       ]
+    },
+    {
+      "id": "roaro_prelims_4",
+      "title": "RO/ARO Prelims Mock Test 4",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which Fundamental Right in the Indian Constitution prohibits the practice of untouchability?",
+          "q_hi": "भारतीय संविधान में कौन सा मौलिक अधिकार अस्पृश्यता की प्रथा को प्रतिबंधित करता है?",
+          "opts": [
+            "Right to Equality (Article 15)",
+            "Right to Equality (Article 17)",
+            "Right to Freedom (Article 19)",
+            "Right against Exploitation (Article 23)"
+          ],
+          "opts_hi": [
+            "समानता का अधिकार (अनुच्छेद 15)",
+            "समानता का अधिकार (अनुच्छेद 17)",
+            "स्वतंत्रता का अधिकार (अनुच्छेद 19)",
+            "शोषण के विरुद्ध अधिकार (अनुच्छेद 23)"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "Which of the following is the largest district of Uttar Pradesh by area?",
+          "q_hi": "उत्तर प्रदेश का क्षेत्रफल की दृष्टि से सबसे बड़ा जिला निम्नलिखित में से कौन सा है?",
+          "opts": [
+            "Lucknow",
+            "Prayagraj",
+            "Lakhimpur Kheri",
+            "Varanasi"
+          ],
+          "opts_hi": [
+            "लखनऊ",
+            "प्रयागराज",
+            "लखीमपुर खीरी",
+            "वाराणसी"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "Which of the following is the longest river in India?",
+          "q_hi": "भारत की सबसे लंबी नदी निम्नलिखित में से कौन सी है?",
+          "opts": [
+            "Ganga",
+            "Godavari",
+            "Brahmaputra",
+            "Indus"
+          ],
+          "opts_hi": [
+            "गंगा",
+            "गोदावरी",
+            "ब्रह्मपुत्र",
+            "सिंधु"
+          ],
+          "ans": 0
+        }
+      ]
     }
   ]
 }
