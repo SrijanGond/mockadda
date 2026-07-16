@@ -1,1 +1,207 @@
-{"tests": [{"id": "rrb_gd_1", "title": "RRB Group D Mock Test 1", "duration": 10, "difficulty": "Easy", "questions": [{"q": "What is the gauge most commonly used in Indian Railways?", "q_hi": "भारतीय रेलवे में सबसे अधिक उपयोग होने वाला गेज कौन सा है?", "opts": ["Narrow Gauge", "Metre Gauge", "Broad Gauge", "Standard Gauge"], "opts_hi": ["नैरो गेज", "मीटर गेज", "ब्रॉड गेज", "स्टैंडर्ड गेज"], "ans": 2}, {"q": "Who is known as the 'Father of Indian Railways'?", "q_hi": "'भारतीय रेलवे का जनक' किसे कहा जाता है?", "opts": ["Lord Dalhousie", "Lord Curzon", "Lord Mountbatten", "Lord Ripon"], "opts_hi": ["लॉर्ड डलहौजी", "लॉर्ड कर्जन", "लॉर्ड माउंटबेटन", "लॉर्ड रिपन"], "ans": 0}, {"q": "HCF of 36 and 48?", "q_hi": "36 और 48 का महत्तम समापवर्तक (HCF) क्या है?", "opts": ["6", "9", "12", "18"], "opts_hi": ["6", "9", "12", "18"], "ans": 2}, {"q": "Water boils at?", "q_hi": "पानी किस तापमान पर उबलता है?", "opts": ["90°C", "95°C", "100°C", "105°C"], "opts_hi": ["90°C", "95°C", "100°C", "105°C"], "ans": 2}, {"q": "How many zones does Indian Railways have?", "q_hi": "भारतीय रेलवे में कितने मंडल (Zones) हैं?", "opts": ["14", "16", "18", "20"], "opts_hi": ["14", "16", "18", "20"], "ans": 2}, {"q": "Largest railway zone in India?", "q_hi": "भारत का सबसे बड़ा रेलवे मंडल कौन सा है?", "opts": ["Northern Railway", "Western Railway", "Central Railway", "Southern Railway"], "opts_hi": ["उत्तर रेलवे", "पश्चिम रेलवे", "मध्य रेलवे", "दक्षिण रेलवे"], "ans": 0}, {"q": "Choose correct spelling:", "q_hi": "सही वर्तनी (Spelling) चुनें:", "opts": ["Accomodation", "Accommodation", "Acommodation", "Acomodation"], "opts_hi": ["Accomodation", "Accommodation", "Acommodation", "Acomodation"], "ans": 1}, {"q": "The first railway line in India ran between?", "q_hi": "भारत में पहली रेल लाइन किनके बीच चली?", "opts": ["Mumbai to Pune", "Mumbai to Thane", "Kolkata to Delhi", "Delhi to Agra"], "opts_hi": ["मुंबई से पुणे", "मुंबई से ठाणे", "कोलकाता से दिल्ली", "दिल्ली से आगरा"], "ans": 1}, {"q": "Value of π approximately?", "q_hi": "π का अनुमानित मान क्या है?", "opts": ["3.14", "3.41", "3.12", "3.21"], "opts_hi": ["3.14", "3.41", "3.12", "3.21"], "ans": 0}, {"q": "Diesel locomotives in India are manufactured at?", "q_hi": "भारत में डीजल इंजन कहाँ बनाए जाते हैं?", "opts": ["Varanasi", "Chittranjan", "Kapurthala", "Yelahanka"], "opts_hi": ["वाराणसी", "चित्तरंजन", "कपूरथला", "येलहंका"], "ans": 0}]}]}
+{
+  "tests": [
+    {
+      "id": "rrb_gd_1",
+      "title": "RRB Group D Mock Test 1",
+      "duration": 10,
+      "difficulty": "Easy",
+      "questions": [
+        {
+          "q": "What is the gauge most commonly used in Indian Railways?",
+          "q_hi": "भारतीय रेलवे में सबसे अधिक उपयोग होने वाला गेज कौन सा है?",
+          "opts": [
+            "Narrow Gauge",
+            "Metre Gauge",
+            "Broad Gauge",
+            "Standard Gauge"
+          ],
+          "opts_hi": [
+            "नैरो गेज",
+            "मीटर गेज",
+            "ब्रॉड गेज",
+            "स्टैंडर्ड गेज"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "Who is known as the 'Father of Indian Railways'?",
+          "q_hi": "'भारतीय रेलवे का जनक' किसे कहा जाता है?",
+          "opts": [
+            "Lord Dalhousie",
+            "Lord Curzon",
+            "Lord Mountbatten",
+            "Lord Ripon"
+          ],
+          "opts_hi": [
+            "लॉर्ड डलहौजी",
+            "लॉर्ड कर्जन",
+            "लॉर्ड माउंटबेटन",
+            "लॉर्ड रिपन"
+          ],
+          "ans": 0
+        },
+        {
+          "q": "HCF of 36 and 48?",
+          "q_hi": "36 और 48 का महत्तम समापवर्तक (HCF) क्या है?",
+          "opts": [
+            "6",
+            "9",
+            "12",
+            "18"
+          ],
+          "opts_hi": [
+            "6",
+            "9",
+            "12",
+            "18"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "Water boils at?",
+          "q_hi": "पानी किस तापमान पर उबलता है?",
+          "opts": [
+            "90°C",
+            "95°C",
+            "100°C",
+            "105°C"
+          ],
+          "opts_hi": [
+            "90°C",
+            "95°C",
+            "100°C",
+            "105°C"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "How many zones does Indian Railways have?",
+          "q_hi": "भारतीय रेलवे में कितने मंडल (Zones) हैं?",
+          "opts": [
+            "14",
+            "16",
+            "18",
+            "20"
+          ],
+          "opts_hi": [
+            "14",
+            "16",
+            "18",
+            "20"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "Largest railway zone in India?",
+          "q_hi": "भारत का सबसे बड़ा रेलवे मंडल कौन सा है?",
+          "opts": [
+            "Northern Railway",
+            "Western Railway",
+            "Central Railway",
+            "Southern Railway"
+          ],
+          "opts_hi": [
+            "उत्तर रेलवे",
+            "पश्चिम रेलवे",
+            "मध्य रेलवे",
+            "दक्षिण रेलवे"
+          ],
+          "ans": 0
+        },
+        {
+          "q": "Choose correct spelling:",
+          "q_hi": "सही वर्तनी (Spelling) चुनें:",
+          "opts": [
+            "Accomodation",
+            "Accommodation",
+            "Acommodation",
+            "Acomodation"
+          ],
+          "opts_hi": [
+            "Accomodation",
+            "Accommodation",
+            "Acommodation",
+            "Acomodation"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "The first railway line in India ran between?",
+          "q_hi": "भारत में पहली रेल लाइन किनके बीच चली?",
+          "opts": [
+            "Mumbai to Pune",
+            "Mumbai to Thane",
+            "Kolkata to Delhi",
+            "Delhi to Agra"
+          ],
+          "opts_hi": [
+            "मुंबई से पुणे",
+            "मुंबई से ठाणे",
+            "कोलकाता से दिल्ली",
+            "दिल्ली से आगरा"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "Value of π approximately?",
+          "q_hi": "π का अनुमानित मान क्या है?",
+          "opts": [
+            "3.14",
+            "3.41",
+            "3.12",
+            "3.21"
+          ],
+          "opts_hi": [
+            "3.14",
+            "3.41",
+            "3.12",
+            "3.21"
+          ],
+          "ans": 0
+        },
+        {
+          "q": "Diesel locomotives in India are manufactured at?",
+          "q_hi": "भारत में डीजल इंजन कहाँ बनाए जाते हैं?",
+          "opts": [
+            "Varanasi",
+            "Chittranjan",
+            "Kapurthala",
+            "Yelahanka"
+          ],
+          "opts_hi": [
+            "वाराणसी",
+            "चित्तरंजन",
+            "कपूरथला",
+            "येलहंका"
+          ],
+          "ans": 0
+        }
+      ]
+    },
+    {
+      "id": "rrb_group_d_2",
+      "title": "RRB Group D Mock Test 2",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which of the following is the largest saltwater lake in India?",
+          "q_hi": "भारत की सबसे बड़ी खारे पानी की झील निम्नलिखित में से कौन सी है?",
+          "opts": [
+            "Dal Lake",
+            "Chilika Lake",
+            "Wular Lake",
+            "Loktak Lake"
+          ],
+          "opts_hi": [
+            "डल झील",
+            "चिलिका झील",
+            "वुलर झील",
+            "लोकतक झील"
+          ],
+          "ans": 1
+        }
+      ]
+    }
+  ]
+}
