@@ -219,6 +219,31 @@
           "ans": 0
         }
       ]
+    },
+    {
+      "id": "sbi_po_3",
+      "title": "SBI PO Mock Test 3",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which of the following schemes is related to financial inclusion in India?",
+          "q_hi": "भारत में वित्तीय समावेशन से संबंधित निम्नलिखित में से कौन सी योजना है?",
+          "opts": [
+            "Pradhan Mantri Awas Yojana",
+            "Pradhan Mantri Jan Dhan Yojana",
+            "Pradhan Mantri Fasal Bima Yojana",
+            "Pradhan Mantri Ujjwala Yojana"
+          ],
+          "opts_hi": [
+            "प्रधान मंत्री आवास योजना",
+            "प्रधान मंत्री जन धन योजना",
+            "प्रधान मंत्री फसल बीमा योजना",
+            "प्रधान मंत्री उज्ज्वला योजना"
+          ],
+          "ans": 1
+        }
+      ]
     }
   ]
 }
