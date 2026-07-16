@@ -202,6 +202,48 @@
           "ans": 2
         }
       ]
+    },
+    {
+      "id": "rrb_ntpc_3",
+      "title": "RRB NTPC Mock Test 3",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What is the minimum age required to become the Prime Minister of India?",
+          "q_hi": "भारत का प्रधान मंत्री बनने के लिए न्यूनतम आयु क्या है?",
+          "opts": [
+            "25 years",
+            "30 years",
+            "35 years",
+            "40 years"
+          ],
+          "opts_hi": [
+            "25 वर्ष",
+            "30 वर्ष",
+            "35 वर्ष",
+            "40 वर्ष"
+          ],
+          "ans": 0
+        },
+        {
+          "q": "Which of the following is the fastest train in India?",
+          "q_hi": "भारत में सबसे तेज ट्रेन निम्नलिखित में से कौन सी है?",
+          "opts": [
+            "Shatabdi Express",
+            "Rajdhani Express",
+            "Vande Bharat Express",
+            "Duronto Express"
+          ],
+          "opts_hi": [
+            "शताब्दी एक्सप्रेस",
+            "राजधानी एक्सप्रेस",
+            "वंदे भारत एक्सप्रेस",
+            "दुरंतो एक्सप्रेस"
+          ],
+          "ans": 2
+        }
+      ]
     }
   ]
 }
