@@ -202,6 +202,48 @@
           "ans": 2
         }
       ]
+    },
+    {
+      "id": "ssc_mts_3",
+      "title": "SSC MTS Mock Test 3",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which of the following is the chemical formula of water?",
+          "q_hi": "पानी का रासायनिक सूत्र निम्नलिखित में से कौन सा है?",
+          "opts": [
+            "H2O",
+            "CO2",
+            "NaCl",
+            "HCl"
+          ],
+          "opts_hi": [
+            "H2O",
+            "CO2",
+            "NaCl",
+            "HCl"
+          ],
+          "ans": 0
+        },
+        {
+          "q": "Which of the following is known as the 'Iron Man of India'?",
+          "q_hi": "निम्नलिखित में से किसे 'भारत का लौह पुरुष' कहा जाता है?",
+          "opts": [
+            "Jawaharlal Nehru",
+            "Mahatma Gandhi",
+            "Sardar Vallabhbhai Patel",
+            "Subhas Chandra Bose"
+          ],
+          "opts_hi": [
+            "जवाहरलाल नेहरू",
+            "महात्मा गांधी",
+            "सरदार वल्लभभाई पटेल",
+            "सुभाष चंद्र बोस"
+          ],
+          "ans": 2
+        }
+      ]
     }
   ]
 }
