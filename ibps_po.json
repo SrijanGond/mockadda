@@ -1,1 +1,207 @@
-{"tests": [{"id": "ibps_po_1", "title": "IBPS PO Mock Test 1", "duration": 20, "difficulty": "Hard", "questions": [{"q": "IBPS stands for?", "q_hi": "IBPS का पूर्ण रूप क्या है?", "opts": ["Institute of Banking Personnel Selection", "Indian Banking Personnel System", "Institute of Bank Personnel System", "Indian Bureau of Personnel Selection"], "opts_hi": ["इंस्टीट्यूट ऑफ बैंकिंग पर्सनल सेलेक्शन", "इंडियन बैंकिंग पर्सनल सिस्टम", "इंस्टीट्यूट ऑफ बैंक पर्सनल सिस्टम", "इंडियन ब्यूरो ऑफ पर्सनल सेलेक्शन"], "ans": 0}, {"q": "CRR full form?", "q_hi": "CRR का पूर्ण रूप क्या है?", "opts": ["Credit Reserve Ratio", "Cash Reserve Ratio", "Central Reserve Ratio", "Capital Reserve Ratio"], "opts_hi": ["क्रेडिट रिजर्व अनुपात", "नकद आरक्षित अनुपात", "केंद्रीय आरक्षित अनुपात", "पूंजी आरक्षित अनुपात"], "ans": 1}, {"q": "If 15 men can do a work in 12 days, how many men needed to finish in 9 days?", "q_hi": "यदि 15 पुरुष एक काम 12 दिनों में करते हैं, तो 9 दिनों में काम पूरा करने के लिए कितने पुरुष चाहिए?", "opts": ["18", "20", "22", "24"], "opts_hi": ["18", "20", "22", "24"], "ans": 1}, {"q": "Which bank introduced the first ATM in India?", "q_hi": "भारत में पहला ATM किस बैंक ने लगाया?", "opts": ["SBI", "PNB", "HSBC", "Citibank"], "opts_hi": ["एसबीआई", "पीएनबी", "एचएसबीसी", "सिटीबैंक"], "ans": 3}, {"q": "A train 200m long passes a pole in 10 seconds. Speed in km/h?", "q_hi": "200 मीटर लंबी ट्रेन एक खंभे को 10 सेकंड में पार करती है। किमी/घंटे में गति?", "opts": ["60", "68", "72", "80"], "opts_hi": ["60", "68", "72", "80"], "ans": 2}, {"q": "Priority Sector Lending target for banks is?", "q_hi": "बैंकों के लिए प्राथमिकता क्षेत्र ऋण का लक्ष्य है?", "opts": ["30%", "35%", "40%", "45%"], "opts_hi": ["30%", "35%", "40%", "45%"], "ans": 2}, {"q": "What is Bancassurance?", "q_hi": "बैंकएश्योरेंस क्या है?", "opts": ["Bank offering loans", "Bank selling insurance products", "Bank providing investment advice", "Bank foreign exchange services"], "opts_hi": ["बैंक द्वारा ऋण देना", "बैंक द्वारा बीमा उत्पाद बेचना", "बैंक द्वारा निवेश सलाह देना", "बैंक विदेशी मुद्रा सेवाएं"], "ans": 1}, {"q": "RTGS is used for amounts above?", "q_hi": "RTGS का उपयोग कितनी राशि से अधिक के लिए किया जाता है?", "opts": ["₹1 lakh", "₹2 lakh", "₹5 lakh", "₹10 lakh"], "opts_hi": ["₹1 लाख", "₹2 लाख", "₹5 लाख", "₹10 लाख"], "ans": 1}, {"q": "Fill in the blank: She is _____ honest girl.", "q_hi": "रिक्त स्थान भरें: She is _____ honest girl.", "opts": ["a", "an", "the", "no article"], "opts_hi": ["a", "an", "the", "कोई article नहीं"], "ans": 1}, {"q": "PLR stands for?", "q_hi": "PLR का पूर्ण रूप क्या है?", "opts": ["Prime Lending Rate", "Public Loan Rate", "Primary Lending Rate", "Premium Loan Rate"], "opts_hi": ["प्राइम लेंडिंग रेट", "पब्लिक लोन रेट", "प्राइमरी लेंडिंग रेट", "प्रीमियम लोन रेट"], "ans": 0}]}]}
+{
+  "tests": [
+    {
+      "id": "ibps_po_1",
+      "title": "IBPS PO Mock Test 1",
+      "duration": 20,
+      "difficulty": "Hard",
+      "questions": [
+        {
+          "q": "IBPS stands for?",
+          "q_hi": "IBPS का पूर्ण रूप क्या है?",
+          "opts": [
+            "Institute of Banking Personnel Selection",
+            "Indian Banking Personnel System",
+            "Institute of Bank Personnel System",
+            "Indian Bureau of Personnel Selection"
+          ],
+          "opts_hi": [
+            "इंस्टीट्यूट ऑफ बैंकिंग पर्सनल सेलेक्शन",
+            "इंडियन बैंकिंग पर्सनल सिस्टम",
+            "इंस्टीट्यूट ऑफ बैंक पर्सनल सिस्टम",
+            "इंडियन ब्यूरो ऑफ पर्सनल सेलेक्शन"
+          ],
+          "ans": 0
+        },
+        {
+          "q": "CRR full form?",
+          "q_hi": "CRR का पूर्ण रूप क्या है?",
+          "opts": [
+            "Credit Reserve Ratio",
+            "Cash Reserve Ratio",
+            "Central Reserve Ratio",
+            "Capital Reserve Ratio"
+          ],
+          "opts_hi": [
+            "क्रेडिट रिजर्व अनुपात",
+            "नकद आरक्षित अनुपात",
+            "केंद्रीय आरक्षित अनुपात",
+            "पूंजी आरक्षित अनुपात"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "If 15 men can do a work in 12 days, how many men needed to finish in 9 days?",
+          "q_hi": "यदि 15 पुरुष एक काम 12 दिनों में करते हैं, तो 9 दिनों में काम पूरा करने के लिए कितने पुरुष चाहिए?",
+          "opts": [
+            "18",
+            "20",
+            "22",
+            "24"
+          ],
+          "opts_hi": [
+            "18",
+            "20",
+            "22",
+            "24"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "Which bank introduced the first ATM in India?",
+          "q_hi": "भारत में पहला ATM किस बैंक ने लगाया?",
+          "opts": [
+            "SBI",
+            "PNB",
+            "HSBC",
+            "Citibank"
+          ],
+          "opts_hi": [
+            "एसबीआई",
+            "पीएनबी",
+            "एचएसबीसी",
+            "सिटीबैंक"
+          ],
+          "ans": 3
+        },
+        {
+          "q": "A train 200m long passes a pole in 10 seconds. Speed in km/h?",
+          "q_hi": "200 मीटर लंबी ट्रेन एक खंभे को 10 सेकंड में पार करती है। किमी/घंटे में गति?",
+          "opts": [
+            "60",
+            "68",
+            "72",
+            "80"
+          ],
+          "opts_hi": [
+            "60",
+            "68",
+            "72",
+            "80"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "Priority Sector Lending target for banks is?",
+          "q_hi": "बैंकों के लिए प्राथमिकता क्षेत्र ऋण का लक्ष्य है?",
+          "opts": [
+            "30%",
+            "35%",
+            "40%",
+            "45%"
+          ],
+          "opts_hi": [
+            "30%",
+            "35%",
+            "40%",
+            "45%"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "What is Bancassurance?",
+          "q_hi": "बैंकएश्योरेंस क्या है?",
+          "opts": [
+            "Bank offering loans",
+            "Bank selling insurance products",
+            "Bank providing investment advice",
+            "Bank foreign exchange services"
+          ],
+          "opts_hi": [
+            "बैंक द्वारा ऋण देना",
+            "बैंक द्वारा बीमा उत्पाद बेचना",
+            "बैंक द्वारा निवेश सलाह देना",
+            "बैंक विदेशी मुद्रा सेवाएं"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "RTGS is used for amounts above?",
+          "q_hi": "RTGS का उपयोग कितनी राशि से अधिक के लिए किया जाता है?",
+          "opts": [
+            "₹1 lakh",
+            "₹2 lakh",
+            "₹5 lakh",
+            "₹10 lakh"
+          ],
+          "opts_hi": [
+            "₹1 लाख",
+            "₹2 लाख",
+            "₹5 लाख",
+            "₹10 लाख"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "Fill in the blank: She is _____ honest girl.",
+          "q_hi": "रिक्त स्थान भरें: She is _____ honest girl.",
+          "opts": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ],
+          "opts_hi": [
+            "a",
+            "an",
+            "the",
+            "कोई article नहीं"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "PLR stands for?",
+          "q_hi": "PLR का पूर्ण रूप क्या है?",
+          "opts": [
+            "Prime Lending Rate",
+            "Public Loan Rate",
+            "Primary Lending Rate",
+            "Premium Loan Rate"
+          ],
+          "opts_hi": [
+            "प्राइम लेंडिंग रेट",
+            "पब्लिक लोन रेट",
+            "प्राइमरी लेंडिंग रेट",
+            "प्रीमियम लोन रेट"
+          ],
+          "ans": 0
+        }
+      ]
+    },
+    {
+      "id": "ibps_po_2",
+      "title": "IBPS PO Mock Test 2",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What does 'CRR' stand for in the context of the Reserve Bank of India's monetary policy?",
+          "q_hi": "भारतीय रिजर्व बैंक की मौद्रिक नीति के संदर्भ में 'CRR' का क्या अर्थ है?",
+          "opts": [
+            "Cash Reserve Ratio",
+            "Credit Reserve Ratio",
+            "Current Reserve Rate",
+            "Capital Reserve Ratio"
+          ],
+          "opts_hi": [
+            "कैश रिजर्व रेशियो",
+            "क्रेडिट रिजर्व रेशियो",
+            "करेंट रिजर्व रेट",
+            "कैपिटल रिजर्व रेशियो"
+          ],
+          "ans": 0
+        }
+      ]
+    }
+  ]
+}
