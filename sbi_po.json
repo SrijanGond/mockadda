@@ -1,1 +1,224 @@
-{"tests": [{"id": "sbi_po_1", "title": "SBI PO Mock Test 1", "duration": 20, "difficulty": "Hard", "questions": [{"q": "SBI was established in?", "q_hi": "SBI की स्थापना कब हुई?", "opts": ["1950", "1953", "1955", "1960"], "opts_hi": ["1950", "1953", "1955", "1960"], "ans": 2}, {"q": "Repo Rate is set by?", "q_hi": "रेपो दर किसके द्वारा निर्धारित की जाती है?", "opts": ["SBI", "SEBI", "RBI", "Finance Ministry"], "opts_hi": ["SBI", "SEBI", "RBI", "वित्त मंत्रालय"], "ans": 2}, {"q": "If x + y = 10 and xy = 21, find x² + y²?", "q_hi": "यदि x + y = 10 और xy = 21 हो, तो x² + y² = ?", "opts": ["52", "56", "58", "60"], "opts_hi": ["52", "56", "58", "60"], "ans": 2}, {"q": "SWIFT stands for?", "q_hi": "SWIFT का पूर्ण रूप क्या है?", "opts": ["Society for Worldwide Interbank Financial Telecommunication", "System for World Interbank Finance Transfer", "Society for World Internet Finance Transfer", "None of these"], "opts_hi": ["सोसाइटी फॉर वर्ल्डवाइड इंटरबैंक फाइनेंशियल टेलीकम्युनिकेशन", "सिस्टम फॉर वर्ल्ड इंटरबैंक फाइनेंस ट्रांसफर", "सोसाइटी फॉर वर्ल्ड इंटरनेट फाइनेंस ट्रांसफर", "इनमें से कोई नहीं"], "ans": 0}, {"q": "What is the full form of NEFT?", "q_hi": "NEFT का पूर्ण रूप क्या है?", "opts": ["National Electronic Fund Transfer", "National Efficient Fund Transfer", "National Electronic Finance Transaction", "None"], "opts_hi": ["राष्ट्रीय इलेक्ट्रॉनिक निधि अंतरण", "नेशनल एफिशिएंट फंड ट्रांसफर", "नेशनल इलेक्ट्रॉनिक फाइनेंस ट्रांजेक्शन", "कोई नहीं"], "ans": 0}, {"q": "Basel III norms are related to?", "q_hi": "बेसल III मानदंड किससे संबंधित हैं?", "opts": ["Insurance", "Banking", "Stock Market", "Mutual Funds"], "opts_hi": ["बीमा", "बैंकिंग", "शेयर बाजार", "म्युचुअल फंड"], "ans": 1}, {"q": "A sum doubles in 8 years at SI. Rate of interest is?", "q_hi": "साधारण ब्याज पर एक राशि 8 वर्षों में दोगुनी हो जाती है। ब्याज दर क्या है?", "opts": ["10%", "11%", "12.5%", "15%"], "opts_hi": ["10%", "11%", "12.5%", "15%"], "ans": 2}, {"q": "The headquarters of World Bank is in?", "q_hi": "विश्व बैंक का मुख्यालय कहाँ है?", "opts": ["New York", "London", "Washington D.C.", "Geneva"], "opts_hi": ["न्यूयॉर्क", "लंदन", "वाशिंगटन डी.सी.", "जिनेवा"], "ans": 2}, {"q": "Choose the correct sentence:", "q_hi": "सही वाक्य चुनें:", "opts": ["She has went to market", "She has gone to market", "She have gone to market", "She gone to market"], "opts_hi": ["She has went to market", "She has gone to market", "She have gone to market", "She gone to market"], "ans": 1}, {"q": "Current Account Deficit means?", "q_hi": "चालू खाता घाटे का अर्थ है?", "opts": ["Exports > Imports", "Imports > Exports", "FDI > FII", "Revenue > Expenditure"], "opts_hi": ["निर्यात > आयात", "आयात > निर्यात", "एफडीआई > एफआईआई", "राजस्व > व्यय"], "ans": 1}]}]}
+{
+  "tests": [
+    {
+      "id": "sbi_po_1",
+      "title": "SBI PO Mock Test 1",
+      "duration": 20,
+      "difficulty": "Hard",
+      "questions": [
+        {
+          "q": "SBI was established in?",
+          "q_hi": "SBI की स्थापना कब हुई?",
+          "opts": [
+            "1950",
+            "1953",
+            "1955",
+            "1960"
+          ],
+          "opts_hi": [
+            "1950",
+            "1953",
+            "1955",
+            "1960"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "Repo Rate is set by?",
+          "q_hi": "रेपो दर किसके द्वारा निर्धारित की जाती है?",
+          "opts": [
+            "SBI",
+            "SEBI",
+            "RBI",
+            "Finance Ministry"
+          ],
+          "opts_hi": [
+            "SBI",
+            "SEBI",
+            "RBI",
+            "वित्त मंत्रालय"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "If x + y = 10 and xy = 21, find x² + y²?",
+          "q_hi": "यदि x + y = 10 और xy = 21 हो, तो x² + y² = ?",
+          "opts": [
+            "52",
+            "56",
+            "58",
+            "60"
+          ],
+          "opts_hi": [
+            "52",
+            "56",
+            "58",
+            "60"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "SWIFT stands for?",
+          "q_hi": "SWIFT का पूर्ण रूप क्या है?",
+          "opts": [
+            "Society for Worldwide Interbank Financial Telecommunication",
+            "System for World Interbank Finance Transfer",
+            "Society for World Internet Finance Transfer",
+            "None of these"
+          ],
+          "opts_hi": [
+            "सोसाइटी फॉर वर्ल्डवाइड इंटरबैंक फाइनेंशियल टेलीकम्युनिकेशन",
+            "सिस्टम फॉर वर्ल्ड इंटरबैंक फाइनेंस ट्रांसफर",
+            "सोसाइटी फॉर वर्ल्ड इंटरनेट फाइनेंस ट्रांसफर",
+            "इनमें से कोई नहीं"
+          ],
+          "ans": 0
+        },
+        {
+          "q": "What is the full form of NEFT?",
+          "q_hi": "NEFT का पूर्ण रूप क्या है?",
+          "opts": [
+            "National Electronic Fund Transfer",
+            "National Efficient Fund Transfer",
+            "National Electronic Finance Transaction",
+            "None"
+          ],
+          "opts_hi": [
+            "राष्ट्रीय इलेक्ट्रॉनिक निधि अंतरण",
+            "नेशनल एफिशिएंट फंड ट्रांसफर",
+            "नेशनल इलेक्ट्रॉनिक फाइनेंस ट्रांजेक्शन",
+            "कोई नहीं"
+          ],
+          "ans": 0
+        },
+        {
+          "q": "Basel III norms are related to?",
+          "q_hi": "बेसल III मानदंड किससे संबंधित हैं?",
+          "opts": [
+            "Insurance",
+            "Banking",
+            "Stock Market",
+            "Mutual Funds"
+          ],
+          "opts_hi": [
+            "बीमा",
+            "बैंकिंग",
+            "शेयर बाजार",
+            "म्युचुअल फंड"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "A sum doubles in 8 years at SI. Rate of interest is?",
+          "q_hi": "साधारण ब्याज पर एक राशि 8 वर्षों में दोगुनी हो जाती है। ब्याज दर क्या है?",
+          "opts": [
+            "10%",
+            "11%",
+            "12.5%",
+            "15%"
+          ],
+          "opts_hi": [
+            "10%",
+            "11%",
+            "12.5%",
+            "15%"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "The headquarters of World Bank is in?",
+          "q_hi": "विश्व बैंक का मुख्यालय कहाँ है?",
+          "opts": [
+            "New York",
+            "London",
+            "Washington D.C.",
+            "Geneva"
+          ],
+          "opts_hi": [
+            "न्यूयॉर्क",
+            "लंदन",
+            "वाशिंगटन डी.सी.",
+            "जिनेवा"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "Choose the correct sentence:",
+          "q_hi": "सही वाक्य चुनें:",
+          "opts": [
+            "She has went to market",
+            "She has gone to market",
+            "She have gone to market",
+            "She gone to market"
+          ],
+          "opts_hi": [
+            "She has went to market",
+            "She has gone to market",
+            "She have gone to market",
+            "She gone to market"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "Current Account Deficit means?",
+          "q_hi": "चालू खाता घाटे का अर्थ है?",
+          "opts": [
+            "Exports > Imports",
+            "Imports > Exports",
+            "FDI > FII",
+            "Revenue > Expenditure"
+          ],
+          "opts_hi": [
+            "निर्यात > आयात",
+            "आयात > निर्यात",
+            "एफडीआई > एफआईआई",
+            "राजस्व > व्यय"
+          ],
+          "ans": 1
+        }
+      ]
+    },
+    {
+      "id": "sbi_po_2",
+      "title": "SBI PO Mock Test 2",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What is the full form of KYC in banking terminology?",
+          "q_hi": "बैंकिंग शब्दावली में KYC का पूर्ण रूप क्या है?",
+          "opts": [
+            "Know Your Customer",
+            "Keep Your Cash",
+            "Know Your Company",
+            "Keep Your Credit"
+          ],
+          "opts_hi": [
+            "नो योर कस्टमर",
+            "कीप योर कैश",
+            "नो योर कंपनी",
+            "कीप योर क्रेडिट"
+          ],
+          "ans": 0
+        },
+        {
+          "q": "Which of the following terms refers to the practice of banks lending money to multiple borrowers against the same security?",
+          "q_hi": "बैंकों द्वारा एक ही प्रतिभूति के विरुद्ध कई उधारकर्ताओं को पैसा उधार देने की प्रथा को निम्नलिखित में से किस शब्द से संदर्भित किया जाता है?",
+          "opts": [
+            "Cross Collateralization",
+            "Hypothecation",
+            "Overdraft",
+            "Multiple Financing"
+          ],
+          "opts_hi": [
+            "क्रॉस कोलेटरलाइजेशन",
+            "हाइपोथिकेशन",
+            "ओवरड्राफ्ट",
+            "मल्टीपल फाइनेंसिंग"
+          ],
+          "ans": 0
+        }
+      ]
+    }
+  ]
+}
