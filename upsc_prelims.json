@@ -456,6 +456,116 @@
           "ans": 1
         }
       ]
+    },
+    {
+      "id": "upsc_prelims_5",
+      "title": "UPSC Prelims Mock Test 5",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which of the following is the correct sequence of the Earth's atmospheric layers from the surface upwards?",
+          "q_hi": "पृथ्वी के वायुमंडलीय परतों का सतह से ऊपर की ओर सही क्रम निम्नलिखित में से कौन सा है?",
+          "opts": [
+            "Troposphere → Stratosphere → Mesosphere → Thermosphere → Exosphere",
+            "Troposphere → Mesosphere → Stratosphere → Thermosphere → Exosphere",
+            "Stratosphere → Troposphere → Mesosphere → Thermosphere → Exosphere",
+            "Troposphere → Stratosphere → Thermosphere → Mesosphere → Exosphere"
+          ],
+          "opts_hi": [
+            "क्षोभमंडल → समतापमंडल → मध्यमंडल → तापमंडल → बहिर्मंडल",
+            "क्षोभमंडल → मध्यमंडल → समतापमंडल → तापमंडल → बहिर्मंडल",
+            "समतापमंडल → क्षोभमंडल → मध्यमंडल → तापमंडल → बहिर्मंडल",
+            "क्षोभमंडल → समतापमंडल → तापमंडल → मध्यमंडल → बहिर्मंडल"
+          ],
+          "ans": 0
+        },
+        {
+          "q": "Which of the following is NOT a greenhouse gas?",
+          "q_hi": "निम्नलिखित में से कौन सी ग्रीनहाउस गैस नहीं है?",
+          "opts": [
+            "Carbon Dioxide (CO2)",
+            "Methane (CH4)",
+            "Nitrous Oxide (N2O)",
+            "Oxygen (O2)"
+          ],
+          "opts_hi": [
+            "कार्बन डाइऑक्साइड (CO2)",
+            "मीथेन (CH4)",
+            "नाइट्रस ऑक्साइड (N2O)",
+            "ऑक्सीजन (O2)"
+          ],
+          "ans": 3
+        },
+        {
+          "q": "Who among the following founded the 'Indian National Congress'?",
+          "q_hi": "निम्नलिखित में से किसने 'भारतीय राष्ट्रीय कांग्रेस' की स्थापना की थी?",
+          "opts": [
+            "Dadabhai Naoroji",
+            "Allan Octavian Hume",
+            "Womesh Chunder Bonnerjee",
+            "Surendranath Banerjee"
+          ],
+          "opts_hi": [
+            "दादाभाई नौरोजी",
+            "एलन ऑक्टेवियन ह्यूम",
+            "वोमेश चंद्र बनर्जी",
+            "सुरेंद्रनाथ बनर्जी"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "Which of the following is NOT a feature of the Indian Constitution?",
+          "q_hi": "भारतीय संविधान की निम्नलिखित में से कौन सी विशेषता नहीं है?",
+          "opts": [
+            "Federal system with unitary bias",
+            "Parliamentary form of government",
+            "Presidential form of government",
+            "Fundamental Rights and Duties"
+          ],
+          "opts_hi": [
+            "संघीय व्यवस्था जिसमें एकात्मक झुकाव है",
+            "संसदीय शासन प्रणाली",
+            "राष्ट्रपति शासन प्रणाली",
+            "मौलिक अधिकार और कर्तव्य"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "Which of the following is a biodiversity hotspot in India?",
+          "q_hi": "भारत में निम्नलिखित में से कौन सा एक जैव विविधता हॉटस्पॉट है?",
+          "opts": [
+            "Thar Desert",
+            "Western Ghats",
+            "Deccan Plateau",
+            "Gangetic Plains"
+          ],
+          "opts_hi": [
+            "थार रेगिस्तान",
+            "पश्चिमी घाट",
+            "दक्कन का पठार",
+            "गंगा का मैदान"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "Which of the following was the capital of the Mauryan Empire?",
+          "q_hi": "मौर्य साम्राज्य की राजधानी निम्नलिखित में से कौन सी थी?",
+          "opts": [
+            "Varanasi",
+            "Pataliputra",
+            "Ujjain",
+            "Taxila"
+          ],
+          "opts_hi": [
+            "वाराणसी",
+            "पाटलिपुत्र",
+            "उज्जैन",
+            "तक्षशिला"
+          ],
+          "ans": 1
+        }
+      ]
     }
   ]
 }
