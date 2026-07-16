@@ -202,6 +202,31 @@
           "ans": 2
         }
       ]
+    },
+    {
+      "id": "ctet_3",
+      "title": "CTET Mock Test 3",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Who is the founder of 'Operant Conditioning' theory of learning?",
+          "q_hi": "अधिगम के 'क्रिया-प्रसूत अनुबंधन' सिद्धांत के संस्थापक कौन हैं?",
+          "opts": [
+            "Ivan Pavlov",
+            "B.F. Skinner",
+            "Jean Piaget",
+            "Lev Vygotsky"
+          ],
+          "opts_hi": [
+            "इवान पावलोव",
+            "बी.एफ. स्किनर",
+            "जीन पियाजे",
+            "लेव वायगोत्स्की"
+          ],
+          "ans": 1
+        }
+      ]
     }
   ]
 }
