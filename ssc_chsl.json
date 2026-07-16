@@ -219,6 +219,31 @@
           "ans": 1
         }
       ]
+    },
+    {
+      "id": "ssc_chsl_3",
+      "title": "SSC CHSL Mock Test 3",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which of the following is the apex bank for agricultural credit in India?",
+          "q_hi": "भारत में कृषि ऋण के लिए शीर्ष बैंक निम्नलिखित में से कौन सा है?",
+          "opts": [
+            "Reserve Bank of India (RBI)",
+            "State Bank of India (SBI)",
+            "NABARD",
+            "Punjab National Bank (PNB)"
+          ],
+          "opts_hi": [
+            "भारतीय रिजर्व बैंक (RBI)",
+            "भारतीय स्टेट बैंक (SBI)",
+            "NABARD",
+            "पंजाब नेशनल बैंक (PNB)"
+          ],
+          "ans": 2
+        }
+      ]
     }
   ]
 }
