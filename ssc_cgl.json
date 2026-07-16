@@ -397,6 +397,48 @@
           "ans": 0
         }
       ]
+    },
+    {
+      "id": "ssc_cgl_4",
+      "title": "SSC CGL Mock Test 4",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which of the following battles marked the beginning of British rule in India?",
+          "q_hi": "भारत में ब्रिटिश शासन की शुरुआत निम्नलिखित में से किस युद्ध ने चिह्नित की?",
+          "opts": [
+            "Battle of Plassey",
+            "Battle of Buxar",
+            "Battle of Panipat",
+            "Battle of Wandiwash"
+          ],
+          "opts_hi": [
+            "प्लासी का युद्ध",
+            "बक्सर का युद्ध",
+            "पानीपत का युद्ध",
+            "वंडीवाश का युद्ध"
+          ],
+          "ans": 0
+        },
+        {
+          "q": "Which of the following was the capital of the Mauryan Empire?",
+          "q_hi": "मौर्य साम्राज्य की राजधानी निम्नलिखित में से कौन सी थी?",
+          "opts": [
+            "Varanasi",
+            "Pataliputra",
+            "Ujjain",
+            "Taxila"
+          ],
+          "opts_hi": [
+            "वाराणसी",
+            "पाटलिपुत्र",
+            "उज्जैन",
+            "तक्षशिला"
+          ],
+          "ans": 1
+        }
+      ]
     }
   ]
 }
