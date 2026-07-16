@@ -202,6 +202,48 @@
           "ans": 0
         }
       ]
+    },
+    {
+      "id": "ibps_po_3",
+      "title": "IBPS PO Mock Test 3",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "The 'Basel III' norms primarily focus on which of the following aspects of banking?",
+          "q_hi": "बेसल III' मानदंड मुख्य रूप से बैंकिंग के निम्नलिखित में से किस पहलू पर केंद्रित है?",
+          "opts": [
+            "Technology upgradation in banks",
+            "Capital adequacy and risk management",
+            "Customer relationship management",
+            "Branch expansion and rural banking"
+          ],
+          "opts_hi": [
+            "बैंकों में प्रौद्योगिकी उन्नयन",
+            "पूंजी पर्याप्तता और जोखिम प्रबंधन",
+            "ग्राहक संबंध प्रबंधन",
+            "शाखा विस्तार और ग्रामीण बैंकिंग"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "Which of the following is NOT a function of the Reserve Bank of India?",
+          "q_hi": "निम्नलिखित में से कौन सा भारतीय रिजर्व बैंक का कार्य नहीं है?",
+          "opts": [
+            "Issuer of currency notes",
+            "Banker to the Government",
+            "Lender of Last Resort",
+            "Acceptance of deposits from the public"
+          ],
+          "opts_hi": [
+            "करेंसी नोट जारी करना",
+            "सरकार का बैंकर",
+            "अंतिम उपाय का ऋणदाता",
+            "जनता से जमा स्वीकार करना"
+          ],
+          "ans": 3
+        }
+      ]
     }
   ]
 }
