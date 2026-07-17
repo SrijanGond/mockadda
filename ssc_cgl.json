@@ -498,6 +498,82 @@
           "ans": 2
         }
       ]
+    },
+    {
+      "id": "ssc_cgl_6",
+      "title": "SSC CGL Mock Test 6",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Who is the author of the book 'The Discovery of India'?",
+          "q_hi": "द डिस्कवरी ऑफ इंडिया' पुस्तक के लेखक कौन हैं?",
+          "opts": [
+            "Mahatma Gandhi",
+            "Jawaharlal Nehru",
+            "B.R. Ambedkar",
+            "Rabindranath Tagore"
+          ],
+          "opts_hi": [
+            "महात्मा गांधी",
+            "जवाहरलाल नेहरू",
+            "बी.आर. अम्बेडकर",
+            "रवींद्रनाथ टैगोर"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "The idea of the 'Concurrent List' in the Indian Constitution was borrowed from the Constitution of which country?",
+          "q_hi": "भारतीय संविधान में 'समवर्ती सूची' का विचार किस देश के संविधान से लिया गया था?",
+          "opts": [
+            "Canada",
+            "USA",
+            "Australia",
+            "Ireland"
+          ],
+          "opts_hi": [
+            "कनाडा",
+            "यूएसए",
+            "ऑस्ट्रेलिया",
+            "आयरलैंड"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "Which of the following is the oldest Veda?",
+          "q_hi": "निम्नलिखित में से कौन सा सबसे पुराना वेद है?",
+          "opts": [
+            "Samaveda",
+            "Yajurveda",
+            "Rigveda",
+            "Atharvaveda"
+          ],
+          "opts_hi": [
+            "सामवेद",
+            "यजुर्वेद",
+            "ऋग्वेद",
+            "अथर्ववेद"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "Which of the following is the authorized body for conducting elections in India?",
+          "q_hi": "भारत में चुनाव कराने के लिए अधिकृत निकाय निम्नलिखित में से कौन सा है?",
+          "opts": [
+            "Election Commission of India",
+            "President of India",
+            "Prime Minister's Office",
+            "Parliament"
+          ],
+          "opts_hi": [
+            "भारत का चुनाव आयोग",
+            "भारत के राष्ट्रपति",
+            "प्रधान मंत्री कार्यालय",
+            "संसद"
+          ],
+          "ans": 0
+        }
+      ]
     }
   ]
 }
