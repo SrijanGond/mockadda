@@ -726,6 +726,65 @@
           "ans": 1
         }
       ]
+    },
+    {
+      "id": "ssc_cgl_9",
+      "title": "SSC CGL Mock Test 9",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which country will host the G7 Summit 2026?",
+          "q_hi": "G7 शिखर सम्मेलन 2026 की मेजबानी कौन सा देश करेगा?",
+          "opts": [
+            "Germany",
+            "France",
+            "Canada",
+            "Italy"
+          ],
+          "opts_hi": [
+            "जर्मनी",
+            "फ्रांस",
+            "कनाडा",
+            "इटली"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "Where is India's first private marine gas turbine repair complex located?",
+          "q_hi": "भारत का पहला निजी समुद्री गैस टरबाइन मरम्मत परिसर कहाँ स्थित है?",
+          "opts": [
+            "Mumbai, Maharashtra",
+            "Vizag, Andhra Pradesh",
+            "Cochin, Kerala",
+            "Goa"
+          ],
+          "opts_hi": [
+            "मुंबई, महाराष्ट्र",
+            "विजाग, आंध्र प्रदेश",
+            "कोच्चि, केरल",
+            "गोवा"
+          ],
+          "ans": 0
+        },
+        {
+          "q": "What is the funding pattern of PMGSY (Pradhan Mantri Gram Sadak Yojana) Phase IV?",
+          "q_hi": "PMGSY (प्रधान मंत्री ग्राम सड़क योजना) चरण IV का वित्तपोषण पैटर्न क्या है?",
+          "opts": [
+            "60% Central, 40% State",
+            "75% Central, 25% State",
+            "80% Central, 20% State",
+            "90% Central, 10% State"
+          ],
+          "opts_hi": [
+            "60% केंद्रीय, 40% राज्य",
+            "75% केंद्रीय, 25% राज्य",
+            "80% केंद्रीय, 20% राज्य",
+            "90% केंद्रीय, 10% राज्य"
+          ],
+          "ans": 0
+        }
+      ]
     }
   ]
 }
