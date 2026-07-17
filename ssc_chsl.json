@@ -328,6 +328,48 @@
           "ans": 1
         }
       ]
+    },
+    {
+      "id": "ssc_chsl_6",
+      "title": "SSC CHSL Mock Test 6",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "If the price of a commodity is increased by 20%, by what percentage should the consumption be reduced to keep the expenditure same?",
+          "q_hi": "यदि किसी वस्तु की कीमत 20% बढ़ा दी जाए, तो खर्च को समान रखने के लिए खपत कितने प्रतिशत कम की जानी चाहिए?",
+          "opts": [
+            "0.1667",
+            "0.2",
+            "0.25",
+            "0.15"
+          ],
+          "opts_hi": [
+            "0.1667",
+            "0.2",
+            "0.25",
+            "0.15"
+          ],
+          "ans": 0
+        },
+        {
+          "q": "A shopkeeper buys an article for Rs. 400 and sells it at a profit of 20%. What is the selling price?",
+          "q_hi": "एक दुकानदार एक वस्तु Rs. 400 में खरीदता है और 20% लाभ पर बेचता है। विक्रय मूल्य क्या है?",
+          "opts": [
+            "Rs. 480",
+            "Rs. 500",
+            "Rs. 450",
+            "Rs. 520"
+          ],
+          "opts_hi": [
+            "Rs. 480",
+            "Rs. 500",
+            "Rs. 450",
+            "Rs. 520"
+          ],
+          "ans": 0
+        }
+      ]
     }
   ]
 }
