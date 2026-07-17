@@ -286,6 +286,31 @@
           "ans": 0
         }
       ]
+    },
+    {
+      "id": "ibps_po_5",
+      "title": "IBPS PO Mock Test 5",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What does 'APR' stand for in the context of banking and finance?",
+          "q_hi": "बैंकिंग और वित्त के संदर्भ में 'APR' का क्या अर्थ है?",
+          "opts": [
+            "Annual Percentage Rate",
+            "Annual Payment Rate",
+            "Average Payment Rate",
+            "Asset Payment Ratio"
+          ],
+          "opts_hi": [
+            "एनुअल परसेंटेज रेट",
+            "एनुअल पेमेंट रेट",
+            "औसत भुगतान दर",
+            "एसेट पेमेंट रेशियो"
+          ],
+          "ans": 0
+        }
+      ]
     }
   ]
 }
