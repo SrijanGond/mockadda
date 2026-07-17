@@ -269,6 +269,31 @@
           "ans": 0
         }
       ]
+    },
+    {
+      "id": "ssc_mts_5",
+      "title": "SSC MTS Mock Test 5",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "If sin θ = 3/5, what is the value of cos θ?",
+          "q_hi": "यदि sin θ = 3/5 है, तो cos θ का मान क्या है?",
+          "opts": [
+            "Mon May 04 2026 05:30:00 GMT+0530 (India Standard Time)",
+            "Fri Apr 03 2026 05:30:00 GMT+0530 (India Standard Time)",
+            "Thu Mar 05 2026 05:30:00 GMT+0530 (India Standard Time)",
+            "Sat May 02 2026 05:30:00 GMT+0530 (India Standard Time)"
+          ],
+          "opts_hi": [
+            "Mon May 04 2026 05:30:00 GMT+0530 (India Standard Time)",
+            "Fri Apr 03 2026 05:30:00 GMT+0530 (India Standard Time)",
+            "Thu Mar 05 2026 05:30:00 GMT+0530 (India Standard Time)",
+            "Sat May 02 2026 05:30:00 GMT+0530 (India Standard Time)"
+          ],
+          "ans": 0
+        }
+      ]
     }
   ]
 }
