@@ -785,6 +785,48 @@
           "ans": 0
         }
       ]
+    },
+    {
+      "id": "ssc_cgl_10",
+      "title": "SSC CGL Mock Test 10",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which of the following is the SI unit of force?",
+          "q_hi": "बल की SI इकाई निम्नलिखित में से कौन सी है?",
+          "opts": [
+            "Newton",
+            "Joule",
+            "Watt",
+            "Pascal"
+          ],
+          "opts_hi": [
+            "न्यूटन",
+            "जूल",
+            "वाट",
+            "पास्कल"
+          ],
+          "ans": 0
+        },
+        {
+          "q": "Which of the following is the most abundant gas in the Earth's atmosphere?",
+          "q_hi": "पृथ्वी के वायुमंडल में सबसे प्रचुर मात्रा में पाई जाने वाली गैस निम्नलिखित में से कौन सी है?",
+          "opts": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Nitrogen",
+            "Argon"
+          ],
+          "opts_hi": [
+            "ऑक्सीजन",
+            "कार्बन डाइऑक्साइड",
+            "नाइट्रोजन",
+            "आर्गन"
+          ],
+          "ans": 2
+        }
+      ]
     }
   ]
 }
