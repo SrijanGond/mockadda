@@ -488,6 +488,31 @@
           "ans": 2
         }
       ]
+    },
+    {
+      "id": "ssc_chsl_9",
+      "title": "SSC CHSL Mock Test 9",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which cells are responsible for the production of antibodies in the human body?",
+          "q_hi": "मानव शरीर में एंटीबॉडी के उत्पादन के लिए कौन सी कोशिकाएँ जिम्मेदार हैं?",
+          "opts": [
+            "Red Blood Cells (RBCs)",
+            "White Blood Cells (WBCs - B Lymphocytes)",
+            "Platelets",
+            "Plasma cells"
+          ],
+          "opts_hi": [
+            "लाल रक्त कोशिकाएँ (RBCs)",
+            "श्वेत रक्त कोशिकाएँ (WBCs - B लिम्फोसाइट्स)",
+            "प्लेटलेट्स",
+            "प्लाज्मा कोशिकाएँ"
+          ],
+          "ans": 1
+        }
+      ]
     }
   ]
 }
