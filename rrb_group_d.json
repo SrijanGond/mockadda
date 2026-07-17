@@ -294,6 +294,48 @@
           "ans": 2
         }
       ]
+    },
+    {
+      "id": "rrb_group_d_6",
+      "title": "RRB Group D Mock Test 6",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Exercise 'Prachand Prahar' is a bilateral military exercise between India and which country?",
+          "q_hi": "प्रचंड प्रहार' अभ्यास भारत और किस देश के बीच एक द्विपक्षीय सैन्य अभ्यास है?",
+          "opts": [
+            "Nepal",
+            "Bangladesh",
+            "Sri Lanka",
+            "Myanmar"
+          ],
+          "opts_hi": [
+            "नेपाल",
+            "बांग्लादेश",
+            "श्रीलंका",
+            "म्यांमार"
+          ],
+          "ans": 0
+        },
+        {
+          "q": "Exercise Dharma Guardian is a bilateral military exercise between India and which country?",
+          "q_hi": "धर्म गार्जियन अभ्यास भारत और किस देश के बीच एक द्विपक्षीय सैन्य अभ्यास है?",
+          "opts": [
+            "Japan",
+            "France",
+            "USA",
+            "Indonesia"
+          ],
+          "opts_hi": [
+            "जापान",
+            "फ्रांस",
+            "यूएसए",
+            "इंडोनेशिया"
+          ],
+          "ans": 0
+        }
+      ]
     }
   ]
 }
