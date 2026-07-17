@@ -676,6 +676,82 @@
           "ans": 3
         }
       ]
+    },
+    {
+      "id": "upsc_prelims_7",
+      "title": "UPSC Prelims Mock Test 7",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "With reference to ancient Indian history, what does the term 'Tripitaka' refer to?",
+          "q_hi": "प्राचीन भारतीय इतिहास के संदर्भ में, 'त्रिपिटक' शब्द किसे संदर्भित करता है?",
+          "opts": [
+            "Hindu scriptures",
+            "Buddhist canonical texts",
+            "Jain Agamas",
+            "Vedas"
+          ],
+          "opts_hi": [
+            "हिंदू धर्मग्रंथ",
+            "बौद्ध सिद्धांत ग्रंथ",
+            "जैन आगम",
+            "वेद"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "Which of the following is the first national park of India?",
+          "q_hi": "भारत का पहला राष्ट्रीय उद्यान निम्नलिखित में से कौन सा है?",
+          "opts": [
+            "Kanha National Park",
+            "Jim Corbett National Park",
+            "Bandhavgarh National Park",
+            "Kaziranga National Park"
+          ],
+          "opts_hi": [
+            "कान्हा राष्ट्रीय उद्यान",
+            "जिम कॉर्बेट राष्ट्रीय उद्यान",
+            "बांधवगढ़ राष्ट्रीय उद्यान",
+            "काजीरंगा राष्ट्रीय उद्यान"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "The first session of the Indian National Congress was held in which city?",
+          "q_hi": "भारतीय राष्ट्रीय कांग्रेस का पहला सत्र किस शहर में आयोजित किया गया था?",
+          "opts": [
+            "Calcutta (Kolkata)",
+            "Bombay (Mumbai)",
+            "Madras (Chennai)",
+            "Poona (Pune)"
+          ],
+          "opts_hi": [
+            "कलकत्ता (कोलकाता)",
+            "बॉम्बे (मुंबई)",
+            "मद्रास (चेन्नई)",
+            "पूना (पुणे)"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "Which of the following is the first biosphere reserve of India?",
+          "q_hi": "भारत का पहला बायोस्फीयर रिजर्व निम्नलिखित में से कौन सा है?",
+          "opts": [
+            "Sundarbans",
+            "Nilgiri",
+            "Nanda Devi",
+            "Gulf of Mannar"
+          ],
+          "opts_hi": [
+            "सुंदरवन",
+            "नीलगिरी",
+            "नंदा देवी",
+            "मन्नार की खाड़ी"
+          ],
+          "ans": 1
+        }
+      ]
     }
   ]
 }
