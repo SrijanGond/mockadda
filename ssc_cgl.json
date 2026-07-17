@@ -574,6 +574,65 @@
           "ans": 0
         }
       ]
+    },
+    {
+      "id": "ssc_cgl_7",
+      "title": "SSC CGL Mock Test 7",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What is the HCF of 144, 180 and 192?",
+          "q_hi": "144, 180 और 192 का म.स.प. (HCF) क्या है?",
+          "opts": [
+            "12",
+            "24",
+            "36",
+            "48"
+          ],
+          "opts_hi": [
+            "12",
+            "24",
+            "36",
+            "48"
+          ],
+          "ans": 0
+        },
+        {
+          "q": "What is the LCM of 24, 36 and 40?",
+          "q_hi": "24, 36 और 40 का ल.स.प. (LCM) क्या है?",
+          "opts": [
+            "360",
+            "720",
+            "180",
+            "120"
+          ],
+          "opts_hi": [
+            "360",
+            "720",
+            "180",
+            "120"
+          ],
+          "ans": 0
+        },
+        {
+          "q": "If the angles of a triangle are in the ratio 2:3:4, what is the smallest angle?",
+          "q_hi": "यदि एक त्रिभुज के कोण 2:3:4 के अनुपात में हैं, तो सबसे छोटा कोण क्या है?",
+          "opts": [
+            "40°",
+            "60°",
+            "80°",
+            "20°"
+          ],
+          "opts_hi": [
+            "40°",
+            "60°",
+            "80°",
+            "20°"
+          ],
+          "ans": 0
+        }
+      ]
     }
   ]
 }
