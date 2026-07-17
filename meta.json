@@ -70,6 +70,13 @@
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 3
+          },
+          {
+            "id": "ssc_cgl_10",
+            "title": "SSC CGL Mock Test 10",
+            "duration": 10,
+            "difficulty": "Medium",
+            "questionCount": 2
           }
         ]
       },
@@ -132,6 +139,13 @@
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 2
+          },
+          {
+            "id": "ssc_chsl_9",
+            "title": "SSC CHSL Mock Test 9",
+            "duration": 10,
+            "difficulty": "Medium",
+            "questionCount": 1
           }
         ]
       },
@@ -184,6 +198,13 @@
           {
             "id": "ssc_mts_7",
             "title": "SSC MTS Mock Test 7",
+            "duration": 10,
+            "difficulty": "Medium",
+            "questionCount": 2
+          },
+          {
+            "id": "ssc_mts_8",
+            "title": "SSC MTS Mock Test 8",
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 2
@@ -256,6 +277,13 @@
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 2
+          },
+          {
+            "id": "sbi_po_9",
+            "title": "SBI PO Mock Test 9",
+            "duration": 10,
+            "difficulty": "Medium",
+            "questionCount": 1
           }
         ]
       },
@@ -318,6 +346,13 @@
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 3
+          },
+          {
+            "id": "ibps_po_9",
+            "title": "IBPS PO Mock Test 9",
+            "duration": 10,
+            "difficulty": "Medium",
+            "questionCount": 3
           }
         ]
       },
@@ -373,6 +408,13 @@
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 3
+          },
+          {
+            "id": "sbi_clerk_8",
+            "title": "SBI Clerk Mock Test 8",
+            "duration": 10,
+            "difficulty": "Medium",
+            "questionCount": 2
           }
         ]
       }
@@ -545,6 +587,13 @@
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 3
+          },
+          {
+            "id": "ctet_7",
+            "title": "CTET Mock Test 7",
+            "duration": 10,
+            "difficulty": "Medium",
+            "questionCount": 1
           }
         ]
       },
@@ -579,6 +628,13 @@
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 2
+          },
+          {
+            "id": "kvs_5",
+            "title": "KVS Mock Test 5",
+            "duration": 10,
+            "difficulty": "Medium",
+            "questionCount": 1
           }
         ]
       }
@@ -662,6 +718,13 @@
             "duration": 16,
             "difficulty": "Medium",
             "questionCount": 13
+          },
+          {
+            "id": "upsc_prelims_11",
+            "title": "UPSC Prelims Mock Test 11",
+            "duration": 17,
+            "difficulty": "Medium",
+            "questionCount": 14
           }
         ]
       }
@@ -728,6 +791,13 @@
           {
             "id": "roaro_prelims_8",
             "title": "RO/ARO Prelims Mock Test 8",
+            "duration": 10,
+            "difficulty": "Medium",
+            "questionCount": 3
+          },
+          {
+            "id": "roaro_prelims_9",
+            "title": "RO/ARO Prelims Mock Test 9",
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 3
