@@ -319,6 +319,48 @@
           "ans": 3
         }
       ]
+    },
+    {
+      "id": "ssc_mts_7",
+      "title": "SSC MTS Mock Test 7",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Exercise 'INIOCHOS-25' is a bilateral exercise between India and which country?",
+          "q_hi": "INIOCHOS-25' अभ्यास भारत और किस देश के बीच एक द्विपक्षीय अभ्यास है?",
+          "opts": [
+            "Italy",
+            "France",
+            "Greece",
+            "Israel"
+          ],
+          "opts_hi": [
+            "इटली",
+            "फ्रांस",
+            "ग्रीस",
+            "इज़राइल"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "Under IRDAI's revised corporate governance framework, which of the following is NOT a new performance parameter for Key Managerial Personnel (KMPs)?",
+          "q_hi": "IRDAI के संशोधित कॉर्पोरेट गवर्नेंस ढाँचे के तहत, निम्नलिखित में से कौन सा प्रमुख प्रबंधकीय कर्मियों (KMPs) के लिए नया प्रदर्शन पैरामीटर नहीं है?",
+          "opts": [
+            "Customer satisfaction and claims responsiveness",
+            "Grievance redressal timelines and reduction in repeat complaints",
+            "Removal of dark patterns from insurer websites",
+            "Market capitalization growth targets"
+          ],
+          "opts_hi": [
+            "ग्राहक संतुष्टि और दावा प्रतिक्रियाशीलता",
+            "शिकायत निवारण समय-सीमा और पुनरावृत्ति शिकायतों में कमी",
+            "बीमाकर्ता वेबसाइटों से डार्क पैटर्न हटाना",
+            "बाजार पूंजीकरण वृद्धि लक्ष्य"
+          ],
+          "ans": 3
+        }
+      ]
     }
   ]
 }
