@@ -566,6 +566,116 @@
           "ans": 1
         }
       ]
+    },
+    {
+      "id": "upsc_prelims_6",
+      "title": "UPSC Prelims Mock Test 6",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which of the following was the first ruler to issue gold coins in India?",
+          "q_hi": "भारत में सोने के सिक्के जारी करने वाला पहला शासक निम्नलिखित में से कौन था?",
+          "opts": [
+            "Chandragupta Maurya",
+            "Kanishka",
+            "Samudragupta",
+            "Harshavardhana"
+          ],
+          "opts_hi": [
+            "चंद्रगुप्त मौर्य",
+            "कनिष्क",
+            "समुद्रगुप्त",
+            "हर्षवर्धन"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "Which of the following is a 'Carbon Sink'?",
+          "q_hi": "निम्नलिखित में से कौन एक 'कार्बन सिंक' है?",
+          "opts": [
+            "Forests",
+            "Oceans",
+            "Soil",
+            "All of the above"
+          ],
+          "opts_hi": [
+            "वन",
+            "महासागर",
+            "मिट्टी",
+            "उपरोक्त सभी"
+          ],
+          "ans": 3
+        },
+        {
+          "q": "Which of the following states has the longest coastline in India?",
+          "q_hi": "भारत में सबसे लंबी तटरेखा वाला राज्य निम्नलिखित में से कौन सा है?",
+          "opts": [
+            "Tamil Nadu",
+            "Gujarat",
+            "Andhra Pradesh",
+            "Maharashtra"
+          ],
+          "opts_hi": [
+            "तमिलनाडु",
+            "गुजरात",
+            "आंध्र प्रदेश",
+            "महाराष्ट्र"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "Which of the following is the largest tiger reserve in India by area?",
+          "q_hi": "क्षेत्रफल की दृष्टि से भारत का सबसे बड़ा टाइगर रिजर्व निम्नलिखित में से कौन सा है?",
+          "opts": [
+            "Corbett Tiger Reserve",
+            "Bandhavgarh Tiger Reserve",
+            "Nagarjunsagar-Srisailam Tiger Reserve",
+            "Sundarbans Tiger Reserve"
+          ],
+          "opts_hi": [
+            "कॉर्बेट टाइगर रिजर्व",
+            "बांधवगढ़ टाइगर रिजर्व",
+            "नागार्जुनसागर-श्रीशैलम टाइगर रिजर्व",
+            "सुंदरवन टाइगर रिजर्व"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "Which of the following is NOT a Fundamental Duty under Article 51A of the Indian Constitution?",
+          "q_hi": "भारतीय संविधान के अनुच्छेद 51A के तहत निम्नलिखित में से कौन सा मौलिक कर्तव्य नहीं है?",
+          "opts": [
+            "To respect the National Flag and the National Anthem",
+            "To protect the environment",
+            "To pay taxes regularly",
+            "To develop scientific temper"
+          ],
+          "opts_hi": [
+            "राष्ट्रीय ध्वज और राष्ट्रीय गान का सम्मान करना",
+            "पर्यावरण की रक्षा करना",
+            "नियमित रूप से करों का भुगतान करना",
+            "वैज्ञानिक दृष्टिकोण विकसित करना"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "Which of the following was the first Muslim invader to India?",
+          "q_hi": "भारत पर आक्रमण करने वाला पहला मुस्लिम आक्रमणकारी निम्नलिखित में से कौन था?",
+          "opts": [
+            "Mahmud of Ghazni",
+            "Muhammad of Ghori",
+            "Qutb-ud-din Aibak",
+            "Mohammad bin Qasim"
+          ],
+          "opts_hi": [
+            "महमूद गजनवी",
+            "मुहम्मद गोरी",
+            "कुतुब-उद-दीन ऐबक",
+            "मोहम्मद बिन कासिम"
+          ],
+          "ans": 3
+        }
+      ]
     }
   ]
 }
