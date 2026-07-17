@@ -370,6 +370,82 @@
           "ans": 0
         }
       ]
+    },
+    {
+      "id": "ibps_po_7",
+      "title": "IBPS PO Mock Test 7",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What was the record surplus transfer/dividend declared by the RBI to the government for the fiscal year FY26?",
+          "q_hi": "वित्तीय वर्ष FY26 के लिए RBI द्वारा सरकार को घोषित रिकॉर्ड अधिशेष/लाभांश क्या था?",
+          "opts": [
+            "₹1.5 lakh crore",
+            "₹2.1 lakh crore",
+            "₹2.5 lakh crore",
+            "₹3.0 lakh crore"
+          ],
+          "opts_hi": [
+            "₹1.5 लाख करोड़",
+            "₹2.1 लाख करोड़",
+            "₹2.5 लाख करोड़",
+            "₹3.0 लाख करोड़"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "Which SEBI platform was launched to replace email-based regulatory communication?",
+          "q_hi": "ईमेल-आधारित नियामक संचार को बदलने के लिए कौन सा SEBI प्लेटफॉर्म लॉन्च किया गया?",
+          "opts": [
+            "SEBI Connect",
+            "SEBI Portal",
+            "SEBI e-Office",
+            "SEBI Sahyog"
+          ],
+          "opts_hi": [
+            "SEBI कनेक्ट",
+            "SEBI पोर्टल",
+            "SEBI ई-ऑफिस",
+            "SEBI सहयोग"
+          ],
+          "ans": 0
+        },
+        {
+          "q": "The RBI formed an 8-member expert panel named Q-SAFE. What does 'Q-SAFE' stand for?",
+          "q_hi": "RBI ने Q-SAFE नामक 8-सदस्यीय विशेषज्ञ पैनल का गठन किया। 'Q-SAFE' का क्या अर्थ है?",
+          "opts": [
+            "Quality Standards and Financial Excellence",
+            "Quantum Security and Financial Ecosystem",
+            "Quantitative Assessment and Financial Evaluation",
+            "Quantum, Security, and Financial Ecosystem"
+          ],
+          "opts_hi": [
+            "क्वालिटी स्टैंडर्ड्स एंड फाइनेंशियल एक्सीलेंस",
+            "क्वांटम सिक्योरिटी एंड फाइनेंशियल इकोसिस्टम",
+            "क्वांटिटेटिव असेसमेंट एंड फाइनेंशियल इवैल्यूएशन",
+            "क्वांटम, सिक्योरिटी, एंड फाइनेंशियल इकोसिस्टम"
+          ],
+          "ans": 3
+        },
+        {
+          "q": "As per RBI's FY27 projections, what is the real GDP growth rate?",
+          "q_hi": "RBI के FY27 अनुमानों के अनुसार, वास्तविक GDP वृद्धि दर क्या है?",
+          "opts": [
+            "0.06",
+            "0.065",
+            "0.07",
+            "0.075"
+          ],
+          "opts_hi": [
+            "0.06",
+            "0.065",
+            "0.07",
+            "0.075"
+          ],
+          "ans": 1
+        }
+      ]
     }
   ]
 }
