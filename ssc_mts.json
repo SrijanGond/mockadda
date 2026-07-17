@@ -244,6 +244,31 @@
           "ans": 2
         }
       ]
+    },
+    {
+      "id": "ssc_mts_4",
+      "title": "SSC MTS Mock Test 4",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which of the following is a direct tax?",
+          "q_hi": "निम्नलिखित में से कौन सा प्रत्यक्ष कर है?",
+          "opts": [
+            "Income Tax",
+            "GST (Goods and Services Tax)",
+            "Excise Duty",
+            "Customs Duty"
+          ],
+          "opts_hi": [
+            "आयकर",
+            "GST (वस्तु एवं सेवा कर)",
+            "उत्पाद शुल्क",
+            "सीमा शुल्क"
+          ],
+          "ans": 0
+        }
+      ]
     }
   ]
 }
