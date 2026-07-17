@@ -227,6 +227,48 @@
           "ans": 0
         }
       ]
+    },
+    {
+      "id": "kvs_4",
+      "title": "KVS Mock Test 4",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What is India's projected real GDP growth for FY27 as per the United Nations Department of Economic and Social Affairs (WESP 2026)?",
+          "q_hi": "संयुक्त राष्ट्र आर्थिक और सामाजिक मामलों के विभाग (WESP 2026) के अनुसार FY27 के लिए भारत की अनुमानित वास्तविक GDP वृद्धि क्या है?",
+          "opts": [
+            "0.058",
+            "0.06",
+            "0.064",
+            "0.068"
+          ],
+          "opts_hi": [
+            "0.058",
+            "0.06",
+            "0.064",
+            "0.068"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "The G4 meeting on UNSC reforms in 2026 was held during which security conference?",
+          "q_hi": "संयुक्त राष्ट्र सुरक्षा परिषद सुधारों पर 2026 में G4 बैठक किस सुरक्षा सम्मेलन के दौरान आयोजित की गई थी?",
+          "opts": [
+            "Raisina Dialogue",
+            "Munich Security Conference",
+            "Shangri-La Dialogue",
+            "Helsinki Summit"
+          ],
+          "opts_hi": [
+            "रायसीना संवाद",
+            "म्यूनिख सुरक्षा सम्मेलन",
+            "शांगरी-ला संवाद",
+            "हेलसिंकी शिखर सम्मेलन"
+          ],
+          "ans": 1
+        }
+      ]
     }
   ]
 }
