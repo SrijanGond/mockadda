@@ -244,6 +244,65 @@
           "ans": 2
         }
       ]
+    },
+    {
+      "id": "ssc_chsl_4",
+      "title": "SSC CHSL Mock Test 4",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which of the following is the apex body for regulating the insurance sector in India?",
+          "q_hi": "भारत में बीमा क्षेत्र को विनियमित करने के लिए शीर्ष निकाय निम्नलिखित में से कौन सा है?",
+          "opts": [
+            "SEBI",
+            "IRDAI",
+            "RBI",
+            "PFRDA"
+          ],
+          "opts_hi": [
+            "SEBI",
+            "IRDAI",
+            "RBI",
+            "PFRDA"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "Which of the following is the largest organ in the human body?",
+          "q_hi": "मानव शरीर का सबसे बड़ा अंग निम्नलिखित में से कौन सा है?",
+          "opts": [
+            "Liver",
+            "Heart",
+            "Skin",
+            "Brain"
+          ],
+          "opts_hi": [
+            "यकृत",
+            "हृदय",
+            "त्वचा",
+            "मस्तिष्क"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "Which of the following is the full form of GDP?",
+          "q_hi": "GDP का पूर्ण रूप निम्नलिखित में से कौन सा है?",
+          "opts": [
+            "Gross Domestic Product",
+            "Gross Development Product",
+            "Growth Domestic Product",
+            "General Domestic Product"
+          ],
+          "opts_hi": [
+            "ग्रॉस डोमेस्टिक प्रोडक्ट",
+            "ग्रॉस डेवलपमेंट प्रोडक्ट",
+            "ग्रोथ डोमेस्टिक प्रोडक्ट",
+            "जनरल डोमेस्टिक प्रोडक्ट"
+          ],
+          "ans": 0
+        }
+      ]
     }
   ]
 }
