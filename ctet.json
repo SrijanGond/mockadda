@@ -252,6 +252,31 @@
           "ans": 2
         }
       ]
+    },
+    {
+      "id": "ctet_5",
+      "title": "CTET Mock Test 5",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What is the primary purpose of the Continuous and Comprehensive Evaluation (CCE) system in schools?",
+          "q_hi": "स्कूलों में सतत और व्यापक मूल्यांकन (CCE) प्रणाली का प्राथमिक उद्देश्य क्या है?",
+          "opts": [
+            "To rank students academically",
+            "To assess students in both scholastic and co-scholastic areas",
+            "To prepare students for competitive exams",
+            "To reduce the workload of teachers"
+          ],
+          "opts_hi": [
+            "छात्रों को शैक्षणिक रूप से रैंक करना",
+            "विद्यालयी और सह-विद्यालयी दोनों क्षेत्रों में छात्रों का आकलन करना",
+            "छात्रों को प्रतियोगी परीक्षाओं के लिए तैयार करना",
+            "शिक्षकों के कार्यभार को कम करना"
+          ],
+          "ans": 1
+        }
+      ]
     }
   ]
 }
