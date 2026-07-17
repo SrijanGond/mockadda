@@ -633,6 +633,99 @@
           "ans": 0
         }
       ]
+    },
+    {
+      "id": "ssc_cgl_8",
+      "title": "SSC CGL Mock Test 8",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which of the following statements about a 'Zero FIR' under the Bharatiya Nagarik Suraksha Sanhita (BNSS) 2023 is/are correct?",
+          "q_hi": "भारतीय नागरिक सुरक्षा संहिता (BNSS) 2023 के तहत 'जीरो FIR' के बारे में निम्नलिखित में से कौन सा/से कथन सही है/हैं?",
+          "opts": [
+            "It can be lodged at a police station outside territorial jurisdiction and obligatory for the informant to furnish information electronically",
+            "The Officer-in-Charge may initiate preliminary enquiry with permission of competent authority only",
+            "It can be lodged at any police station and the Officer-in-Charge may initiate preliminary enquiry with permission",
+            "Zero FIR is mandatory for all cognizable offences only"
+          ],
+          "opts_hi": [
+            "इसे क्षेत्रीय अधिकार क्षेत्र के बाहर थाने में दर्ज कराया जा सकता है और सूचनाकर्ता के लिए इलेक्ट्रॉनिक रूप से जानकारी देना अनिवार्य है",
+            "प्रभारी अधिकारी सक्षम प्राधिकारी की अनुमति से ही प्रारंभिक जांच शुरू कर सकता है",
+            "इसे किसी भी थाने में दर्ज कराया जा सकता है और प्रभारी अधिकारी अनुमति से प्रारंभिक जांच शुरू कर सकता है",
+            "जीरो FIR केवल सभी संज्ञेय अपराधों के लिए अनिवार्य है"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "Which of the following pairs is correctly matched according to UPSC Weekly Current Affairs Quiz?",
+          "q_hi": "UPSC साप्ताहिक करंट अफेयर्स क्विज के अनुसार निम्नलिखित में से कौन सा युग्म सही सुमेलित है?",
+          "opts": [
+            "Akash - Light Combat Helicopter",
+            "Rudra - Surface-to-air missile",
+            "Prachand - Advanced Light Helicopter",
+            "Akash - Surface-to-air missile"
+          ],
+          "opts_hi": [
+            "अकाश - लाइट कॉम्बैट हेलीकॉप्टर",
+            "रुद्र - सतह से हवा में मार करने वाली मिसाइल",
+            "प्रचंड - एडवांस्ड लाइट हेलीकॉप्टर",
+            "अकाश - सतह से हवा में मार करने वाली मिसाइल"
+          ],
+          "ans": 3
+        },
+        {
+          "q": "The NVS-02 satellite, launched by ISRO, was meant to serve which system?",
+          "q_hi": "ISRO द्वारा लॉन्च किया गया NVS-02 उपग्रह किस प्रणाली की सेवा के लिए था?",
+          "opts": [
+            "Indian Regional Navigation Satellite System (IRNSS)",
+            "GSAT communication network",
+            "Chandrayaan mission",
+            "GPS system of India"
+          ],
+          "opts_hi": [
+            "भारतीय क्षेत्रीय नेविगेशन उपग्रह प्रणाली (IRNSS)",
+            "GSAT संचार नेटवर्क",
+            "चंद्रयान मिशन",
+            "भारत की GPS प्रणाली"
+          ],
+          "ans": 0
+        },
+        {
+          "q": "The Global River Cities Alliance was initiated by India in which mission?",
+          "q_hi": "ग्लोबल रिवर सिटीज अलायंस की शुरुआत भारत ने किस मिशन में की?",
+          "opts": [
+            "Smart Cities Mission",
+            "National Mission for Clean Ganga",
+            "Namami Gange Programme",
+            "Jal Jeevan Mission"
+          ],
+          "opts_hi": [
+            "स्मार्ट सिटी मिशन",
+            "राष्ट्रीय स्वच्छ गंगा मिशन",
+            "नमामि गंगे कार्यक्रम",
+            "जल जीवन मिशन"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "Which state's tribal people of Pakaria village were praised by PM Modi for water conservation efforts?",
+          "q_hi": "जल संरक्षण प्रयासों के लिए PM मोदी द्वारा किस राज्य के पकारिया गाँव के आदिवासी लोगों की प्रशंसा की गई?",
+          "opts": [
+            "Uttarakhand",
+            "Madhya Pradesh",
+            "Rajasthan",
+            "Jharkhand"
+          ],
+          "opts_hi": [
+            "उत्तराखंड",
+            "मध्य प्रदेश",
+            "राजस्थान",
+            "झारखंड"
+          ],
+          "ans": 1
+        }
+      ]
     }
   ]
 }
