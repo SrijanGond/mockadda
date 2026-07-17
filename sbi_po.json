@@ -244,6 +244,31 @@
           "ans": 1
         }
       ]
+    },
+    {
+      "id": "sbi_po_4",
+      "title": "SBI PO Mock Test 4",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "In banking, what does the term 'BASE RATE' refer to?",
+          "q_hi": "बैंकिंग में, 'बेस रेट' शब्द किसे संदर्भित करता है?",
+          "opts": [
+            "The rate at which RBI lends to commercial banks",
+            "The minimum lending rate below which banks cannot lend",
+            "The rate of interest on savings accounts",
+            "The rate at which banks borrow from each other"
+          ],
+          "opts_hi": [
+            "वह दर जिस पर RBI वाणिज्यिक बैंकों को ऋण देता है",
+            "न्यूनतम ऋण दर जिससे नीचे बैंक ऋण नहीं दे सकते",
+            "बचत खातों पर ब्याज दर",
+            "वह दर जिस पर बैंक एक दूसरे से उधार लेते हैं"
+          ],
+          "ans": 1
+        }
+      ]
     }
   ]
 }
