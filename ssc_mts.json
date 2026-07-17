@@ -294,6 +294,31 @@
           "ans": 0
         }
       ]
+    },
+    {
+      "id": "ssc_mts_6",
+      "title": "SSC MTS Mock Test 6",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "The stay on the UGC Equity Regulations, 2026 was issued by which institution?",
+          "q_hi": "UGC इक्विटी विनियम, 2026 पर रोक किस संस्थान ने लगाई?",
+          "opts": [
+            "Ministry of Education",
+            "University Grants Commission",
+            "Parliamentary Standing Committee",
+            "Supreme Court of India"
+          ],
+          "opts_hi": [
+            "शिक्षा मंत्रालय",
+            "विश्वविद्यालय अनुदान आयोग",
+            "संसदीय स्थायी समिति",
+            "भारत का सर्वोच्च न्यायालय"
+          ],
+          "ans": 3
+        }
+      ]
     }
   ]
 }
