@@ -3600,6 +3600,82 @@
           "ans": 3
         }
       ]
+    },
+    {
+      "id": "roaro_prelims_7",
+      "title": "RO/ARO Prelims Mock Test 7",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Who has been appointed President of the Olympic Council of Asia?",
+          "q_hi": "एशियाई ओलंपिक परिषद के अध्यक्ष के रूप में किसे नियुक्त किया गया है?",
+          "opts": [
+            "Sheikh Ahmad Al-Fahad",
+            "Sheikh Tamim bin Hamad",
+            "Sultan Al-Thani",
+            "Sheikh Joaan bin Hamad Al Thani"
+          ],
+          "opts_hi": [
+            "शेख अहमद अल-फहद",
+            "शेख तमीम बिन हमद",
+            "सुल्तान अल-थानी",
+            "शेख जोआन बिन हमद अल थानी"
+          ],
+          "ans": 3
+        },
+        {
+          "q": "Under the PM KISAN Samman Nidhi Yojana, which of the following statements is/are correct?",
+          "q_hi": "PM KISAN सम्मान निधि योजना के तहत, निम्नलिखित में से कौन सा/से कथन सही है/हैं?",
+          "opts": [
+            "Eligible farmers receive Rs. 2,000 every four months and land ownership is a key eligibility criterion",
+            "One-beneficiary-per-family rule applies and land ownership is not a criterion",
+            "Only one-beneficiary-per-family rule applies",
+            "Farmers receive Rs. 3,000 every four months"
+          ],
+          "opts_hi": [
+            "पात्र किसानों को हर चार महीने में Rs. 2,000 मिलते हैं और भूमि स्वामित्व एक प्रमुख पात्रता मानदंड है",
+            "एक-परिवार-एक-लाभार्थी नियम लागू होता है और भूमि स्वामित्व कोई मानदंड नहीं है",
+            "केवल एक-परिवार-एक-लाभार्थी नियम लागू होता है",
+            "किसानों को हर चार महीने में Rs. 3,000 मिलते हैं"
+          ],
+          "ans": 0
+        },
+        {
+          "q": "India launched which operation to safeguard energy routes via Strait of Hormuz?",
+          "q_hi": "होर्मुज जलडमरूमध्य के माध्यम से ऊर्जा मार्गों की सुरक्षा के लिए भारत ने कौन सा अभियान शुरू किया?",
+          "opts": [
+            "Operation Sankalp",
+            "Operation Samudra Setu",
+            "Operation Urja Suraksha",
+            "Operation Raahat"
+          ],
+          "opts_hi": [
+            "ऑपरेशन संकल्प",
+            "ऑपरेशन समुद्र सेतु",
+            "ऑपरेशन उर्जा सुरक्षा",
+            "ऑपरेशन राहत"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "The Experimental Advanced Superconducting Tokamak (EAST) reactor is associated with which country?",
+          "q_hi": "प्रायोगिक उन्नत सुपरकंडक्टिंग टोकामक (EAST) रिएक्टर किस देश से जुड़ा है?",
+          "opts": [
+            "USA",
+            "Russia",
+            "Japan",
+            "China"
+          ],
+          "opts_hi": [
+            "यूएसए",
+            "रूस",
+            "जापान",
+            "चीन"
+          ],
+          "ans": 3
+        }
+      ]
     }
   ]
 }
