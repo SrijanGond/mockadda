@@ -3541,6 +3541,65 @@
           "ans": 1
         }
       ]
+    },
+    {
+      "id": "roaro_prelims_6",
+      "title": "RO/ARO Prelims Mock Test 6",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which of the following is the smallest district of Uttar Pradesh by area?",
+          "q_hi": "उत्तर प्रदेश का क्षेत्रफल की दृष्टि से सबसे छोटा जिला निम्नलिखित में से कौन सा है?",
+          "opts": [
+            "Mahoba",
+            "Hathras",
+            "Ghaziabad",
+            "Budaun"
+          ],
+          "opts_hi": [
+            "महोबा",
+            "हाथरस",
+            "गाजियाबाद",
+            "बदायूँ"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "Which of the following articles of the Indian Constitution contains the provisions for the Panchayati Raj system?",
+          "q_hi": "भारतीय संविधान के निम्नलिखित में से कौन सा अनुच्छेद पंचायती राज व्यवस्था के प्रावधानों को समाहित करता है?",
+          "opts": [
+            "Article 40",
+            "Article 243-243ZG",
+            "Article 243-243O",
+            "Article 32"
+          ],
+          "opts_hi": [
+            "अनुच्छेद 40",
+            "अनुच्छेद 243-243ZG",
+            "अनुच्छेद 243-243O",
+            "अनुच्छेद 32"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "Which of the following is NOT a district of Uttar Pradesh?",
+          "q_hi": "उत्तर प्रदेश का जिला निम्नलिखित में से कौन सा नहीं है?",
+          "opts": [
+            "Gonda",
+            "Bahraich",
+            "Rampur",
+            "Haldwani"
+          ],
+          "opts_hi": [
+            "गोंडा",
+            "बहराइच",
+            "रामपुर",
+            "हल्द्वानी"
+          ],
+          "ans": 3
+        }
+      ]
     }
   ]
 }
