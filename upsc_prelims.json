@@ -752,6 +752,82 @@
           "ans": 1
         }
       ]
+    },
+    {
+      "id": "upsc_prelims_8",
+      "title": "UPSC Prelims Mock Test 8",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "If a+b+c=0, then what is the value of (a²+b²+c²)/(ab+bc+ca)?",
+          "q_hi": "यदि a+b+c=0 है, तो (a²+b²+c²)/(ab+bc+ca) का मान क्या है?",
+          "opts": [
+            "1",
+            "-2",
+            "2",
+            "-1"
+          ],
+          "opts_hi": [
+            "1",
+            "-2",
+            "2",
+            "-1"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "The radius of a sphere is increased by 10%. What is the percentage increase in its volume?",
+          "q_hi": "एक गोले की त्रिज्या 10% बढ़ा दी जाती है। इसके आयतन में कितने प्रतिशत की वृद्धि होती है?",
+          "opts": [
+            "0.331",
+            "0.3",
+            "0.21",
+            "0.1"
+          ],
+          "opts_hi": [
+            "0.331",
+            "0.3",
+            "0.21",
+            "0.1"
+          ],
+          "ans": 0
+        },
+        {
+          "q": "The area of a circle is 154 cm². What is its radius? (Take π = 22/7)",
+          "q_hi": "एक वृत्त का क्षेत्रफल 154 सेमी² है। इसकी त्रिज्या क्या है? (π = 22/7 लें)",
+          "opts": [
+            "7 cm",
+            "14 cm",
+            "11 cm",
+            "22 cm"
+          ],
+          "opts_hi": [
+            "7 सेमी",
+            "14 सेमी",
+            "11 सेमी",
+            "22 सेमी"
+          ],
+          "ans": 0
+        },
+        {
+          "q": "If x² + 1/x² = 14, find the value of x + 1/x.",
+          "q_hi": "यदि x² + 1/x² = 14 है, तो x + 1/x का मान ज्ञात करें।",
+          "opts": [
+            "4",
+            "3",
+            "5",
+            "6"
+          ],
+          "opts_hi": [
+            "4",
+            "3",
+            "5",
+            "6"
+          ],
+          "ans": 0
+        }
+      ]
     }
   ]
 }
