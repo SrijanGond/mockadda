@@ -378,6 +378,48 @@
           "ans": 0
         }
       ]
+    },
+    {
+      "id": "sbi_clerk_8",
+      "title": "SBI Clerk Mock Test 8",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which of the following plant hormones is responsible for the ripening of fruits?",
+          "q_hi": "फलों के पकने के लिए निम्नलिखित में से कौन सा पौधा हार्मोन जिम्मेदार है?",
+          "opts": [
+            "Auxin",
+            "Gibberellin",
+            "Cytokinin",
+            "Ethylene"
+          ],
+          "opts_hi": [
+            "ऑक्सिन",
+            "जिबरेलिन",
+            "साइटोकिनिन",
+            "एथिलीन"
+          ],
+          "ans": 3
+        },
+        {
+          "q": "Which of the following is NOT a greenhouse gas?",
+          "q_hi": "निम्नलिखित में से कौन सी ग्रीनहाउस गैस नहीं है?",
+          "opts": [
+            "Carbon Dioxide (CO2)",
+            "Methane (CH4)",
+            "Nitrous Oxide (N2O)",
+            "Oxygen (O2)"
+          ],
+          "opts_hi": [
+            "कार्बन डाइऑक्साइड (CO2)",
+            "मीथेन (CH4)",
+            "नाइट्रस ऑक्साइड (N2O)",
+            "ऑक्सीजन (O2)"
+          ],
+          "ans": 3
+        }
+      ]
     }
   ]
 }
