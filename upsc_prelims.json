@@ -1040,6 +1040,235 @@
           "ans": 1
         }
       ]
+    },
+    {
+      "id": "upsc_prelims_10",
+      "title": "UPSC Prelims Mock Test 10",
+      "duration": 16,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Regarding the Kunming-Montreal Global Biodiversity Framework (GBF), which of the following statements is/are correct? 1. The framework has 23 targets to address the loss of biodiversity and restore natural ecosystems by 2030. 2. The GBF aims to protect at least 30% of the planet by 2030 and reverse ecosystem degradation. 3. The Global Environment Facility has been requested to establish a Special Trust Fund to support its implementation.",
+          "q_hi": "कुनमिंग-मॉन्ट्रियल वैश्विक जैव विविधता ढाँचा (GBF) के संबंध में, निम्नलिखित में से कौन सा/से कथन सही है/हैं? 1. ढाँचे में 2030 तक जैव विविधता के नुकसान को दूर करने और प्राकृतिक पारिस्थितिकी तंत्र को बहाल करने के 23 लक्ष्य हैं। 2. GBF का 2030 तक ग्रह के कम से कम 30% की रक्षा करने और पारिस्थितिकी तंत्र के क्षरण को उलटने का लक्ष्य है। 3. ग्लोबल एनवायरनमेंट फैसिलिटी को इसके कार्यान्वयन का समर्थन करने के लिए एक विशेष ट्रस्ट फंड स्थापित करने का अनुरोध किया गया है।",
+          "opts": [
+            "1 and 2 only",
+            "1, 2 and 3",
+            "2 and 3 only",
+            "1 only"
+          ],
+          "opts_hi": [
+            "केवल 1 और 2",
+            "1, 2 और 3",
+            "केवल 2 और 3",
+            "केवल 1"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "Exercise INDRA is a bilateral military exercise between India and which country?",
+          "q_hi": "इंद्र अभ्यास भारत और किस देश के बीच एक द्विपक्षीय सैन्य अभ्यास है?",
+          "opts": [
+            "USA",
+            "Russia",
+            "Japan",
+            "UK"
+          ],
+          "opts_hi": [
+            "यूएसए",
+            "रूस",
+            "जापान",
+            "यूके"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "The term 'AI Washing' that has recently been in the headlines refers to which of the following?",
+          "q_hi": "AI वॉशिंग' शब्द, जो हाल ही में सुर्खियों में है, निम्नलिखित में से किसे संदर्भित करता है?",
+          "opts": [
+            "The practice of making exaggerated claims about AI capabilities",
+            "The process of cleaning data for AI training",
+            "Regulating AI through government washing",
+            "The washing of AI hardware components"
+          ],
+          "opts_hi": [
+            "AI क्षमताओं के बारे में अतिरंजित दावे करने की प्रथा",
+            "AI प्रशिक्षण के लिए डेटा साफ करने की प्रक्रिया",
+            "सरकारी वॉशिंग के माध्यम से AI को विनियमित करना",
+            "AI हार्डवेयर घटकों को धोना"
+          ],
+          "ans": 0
+        },
+        {
+          "q": "The Kampala Declaration, a 10-year strategy to transform agri-food systems and ensure food security, was launched by which organization?",
+          "q_hi": "कंपाला घोषणा, कृषि-खाद्य प्रणालियों को बदलने और खाद्य सुरक्षा सुनिश्चित करने के लिए एक 10-वर्षीय रणनीति, किस संगठन द्वारा लॉन्च की गई थी?",
+          "opts": [
+            "World Bank",
+            "Food and Agriculture Organization (FAO)",
+            "African Union",
+            "United Nations Development Programme (UNDP)"
+          ],
+          "opts_hi": [
+            "विश्व बैंक",
+            "खाद्य एवं कृषि संगठन (FAO)",
+            "अफ्रीकी संघ",
+            "संयुक्त राष्ट्र विकास कार्यक्रम (UNDP)"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "The Experimental Advanced Superconducting Tokamak (EAST) reactor, frequently cited in news reports, is associated with which country?",
+          "q_hi": "प्रायोगिक उन्नत सुपरकंडक्टिंग टोकामक (EAST) रिएक्टर, जो अक्सर समाचार रिपोर्टों में उद्धृत होता है, किस देश से जुड़ा है?",
+          "opts": [
+            "USA",
+            "Russia",
+            "Japan",
+            "China"
+          ],
+          "opts_hi": [
+            "यूएसए",
+            "रूस",
+            "जापान",
+            "चीन"
+          ],
+          "ans": 3
+        },
+        {
+          "q": "Which digital platform replaced the OCMS system for monitoring major central sector infrastructure projects?",
+          "q_hi": "प्रमुख केंद्रीय क्षेत्र की बुनियादी ढाँचा परियोजनाओं की निगरानी के लिए OCMS प्रणाली को किस डिजिटल प्लेटफॉर्म ने प्रतिस्थापित किया?",
+          "opts": [
+            "PAIMANA",
+            "DISHA",
+            "PRAGATI",
+            "e-Samiksha"
+          ],
+          "opts_hi": [
+            "PAIMANA",
+            "DISHA",
+            "PRAGATI",
+            "ई-समीक्षा"
+          ],
+          "ans": 0
+        },
+        {
+          "q": "Exercise 'Samudra Shakti' is a bilateral naval exercise between India and which country?",
+          "q_hi": "समुद्र शक्ति' अभ्यास भारत और किस देश के बीच एक द्विपक्षीय नौसेना अभ्यास है?",
+          "opts": [
+            "Malaysia",
+            "Indonesia",
+            "Vietnam",
+            "Thailand"
+          ],
+          "opts_hi": [
+            "मलेशिया",
+            "इंडोनेशिया",
+            "वियतनाम",
+            "थाईलैंड"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "Consider the following statements regarding India-Indonesia relations: 1. In 2018, India and Indonesia elevated their bilateral ties to a 'Comprehensive Strategic Partnership'. 2. Sabang Port, where India is collaborating with Indonesia for infrastructure development, is strategically located close to the Andaman and Nicobar Islands. Which of the statements given above is/are correct?",
+          "q_hi": "भारत-इंडोनेशिया संबंधों के संबंध में निम्नलिखित कथनों पर विचार करें: 1. 2018 में, भारत और इंडोनेशिया ने अपने द्विपक्षीय संबंधों को 'व्यापक रणनीतिक साझेदारी' तक बढ़ाया। 2. सबांग बंदरगाह, जहाँ भारत बुनियादी ढाँचे के विकास के लिए इंडोनेशिया के साथ सहयोग कर रहा है, रणनीतिक रूप से अंडमान और निकोबार द्वीप समूह के करीब स्थित है। ऊपर दिए गए कथनों में से कौन सा/से सही है/हैं?",
+          "opts": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "opts_hi": [
+            "केवल 1",
+            "केवल 2",
+            "1 और 2 दोनों",
+            "न तो 1 और न ही 2"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "Which two countries are being connected by the Power of Siberia 2 Pipeline?",
+          "q_hi": "पावर ऑफ साइबेरिया 2 पाइपलाइन किन दो देशों को जोड़ रही है?",
+          "opts": [
+            "Russia and India",
+            "Russia and China",
+            "China and Kazakhstan",
+            "Russia and Europe"
+          ],
+          "opts_hi": [
+            "रूस और भारत",
+            "रूस और चीन",
+            "चीन और कजाकिस्तान",
+            "रूस और यूरोप"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "The arrival of Amur Falcons at Doyang Lake in Nagaland each year from Mongolia showcases which of the following?",
+          "q_hi": "अमूर फाल्कनों का हर साल मंगोलिया से नागालैंड की डोयांग झील पर आना निम्नलिखित में से किसे दर्शाता है?",
+          "opts": [
+            "Adaptation to permanent residency in India due to favourable habitat changes",
+            "Global success of advanced tracking technologies that guide migratory birds back to their stopover sites",
+            "Sustained local conservation efforts contributing to the arrival and protection of international migratory birds",
+            "Climate change impact on bird migration patterns"
+          ],
+          "opts_hi": [
+            "अनुकूल आवास परिवर्तनों के कारण भारत में स्थायी निवास के अनुकूलन",
+            "प्रवासी पक्षियों को उनके पड़ाव स्थलों पर वापस मार्गदर्शन करने वाली उन्नत ट्रैकिंग तकनीकों की वैश्विक सफलता",
+            "स्थायी स्थानीय संरक्षण प्रयास अंतर्राष्ट्रीय प्रवासी पक्षियों के आगमन और संरक्षण में योगदान करते हैं",
+            "पक्षी प्रवास पैटर्न पर जलवायु परिवर्तन का प्रभाव"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "Which country's nuclear arsenal was urged to be overseen by the International Atomic Energy Agency (IAEA)?",
+          "q_hi": "अंतर्राष्ट्रीय परमाणु ऊर्जा एजेंसी (IAEA) द्वारा किस देश के परमाणु शस्त्रागार की निगरानी करने का आग्रह किया गया था?",
+          "opts": [
+            "North Korea",
+            "Pakistan",
+            "Iran",
+            "Israel"
+          ],
+          "opts_hi": [
+            "उत्तर कोरिया",
+            "पाकिस्तान",
+            "ईरान",
+            "इज़राइल"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "What is the name of India's first AI air-powered UCAV (Unmanned Combat Aerial Vehicle)?",
+          "q_hi": "भारत के पहले AI वायु-संचालित UCAV (मानवरहित लड़ाकू विमान) का नाम क्या है?",
+          "opts": [
+            "ARPIT",
+            "PRABAL",
+            "SWIFT",
+            "VEER"
+          ],
+          "opts_hi": [
+            "अर्पित",
+            "प्रबल",
+            "स्विफ्ट",
+            "वीर"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "Which valley is the site of India's first geothermal power project?",
+          "q_hi": "भारत की पहली भूतापीय बिजली परियोजना किस घाटी में स्थित है?",
+          "opts": [
+            "Spiti Valley",
+            "Puga Valley",
+            "Kullu Valley",
+            "Dzukou Valley"
+          ],
+          "opts_hi": [
+            "स्पीति घाटी",
+            "पुगा घाटी",
+            "कुल्लू घाटी",
+            "डिज़ौकू घाटी"
+          ],
+          "ans": 1
+        }
+      ]
     }
   ]
 }
