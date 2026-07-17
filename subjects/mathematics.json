@@ -1,0 +1,344 @@
+{
+  "questions": [
+    {
+      "q": "What is the HCF of 144, 180 and 192?",
+      "q_hi": "144, 180 और 192 का म.स.प. (HCF) क्या है?",
+      "opts": [
+        "12",
+        "24",
+        "36",
+        "48"
+      ],
+      "opts_hi": [
+        "12",
+        "24",
+        "36",
+        "48"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "If the price of a commodity is increased by 20%, by what percentage should the consumption be reduced to keep the expenditure same?",
+      "q_hi": "यदि किसी वस्तु की कीमत 20% बढ़ा दी जाए, तो खर्च को समान रखने के लिए खपत कितने प्रतिशत कम की जानी चाहिए?",
+      "opts": [
+        "0.1667",
+        "0.2",
+        "0.25",
+        "0.15"
+      ],
+      "opts_hi": [
+        "0.1667",
+        "0.2",
+        "0.25",
+        "0.15"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "The average age of a class of 30 students is 15 years. If the teacher's age is included, the average becomes 16 years. What is the teacher's age?",
+      "q_hi": "30 छात्रों की एक कक्षा की औसत आयु 15 वर्ष है। यदि शिक्षक की आयु शामिल कर ली जाए, तो औसत 16 वर्ष हो जाता है। शिक्षक की आयु क्या है?",
+      "opts": [
+        "45 years",
+        "46 years",
+        "48 years",
+        "50 years"
+      ],
+      "opts_hi": [
+        "45 वर्ष",
+        "46 वर्ष",
+        "48 वर्ष",
+        "50 वर्ष"
+      ],
+      "ans": 1
+    },
+    {
+      "q": "If A:B = 2:3 and B:C = 4:5, find A:C.",
+      "q_hi": "यदि A:B = 2:3 और B:C = 4:5 है, तो A:C ज्ञात करें।",
+      "opts": [
+        "Sat Dec 30 1899 13:36:10 GMT+0521 (India Standard Time)",
+        "2:5",
+        "4:5",
+        "1:2"
+      ],
+      "opts_hi": [
+        "Sat Dec 30 1899 13:36:10 GMT+0521 (India Standard Time)",
+        "2:5",
+        "4:5",
+        "1:2"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "If a+b+c=0, then what is the value of (a²+b²+c²)/(ab+bc+ca)?",
+      "q_hi": "यदि a+b+c=0 है, तो (a²+b²+c²)/(ab+bc+ca) का मान क्या है?",
+      "opts": [
+        "1",
+        "-2",
+        "2",
+        "-1"
+      ],
+      "opts_hi": [
+        "1",
+        "-2",
+        "2",
+        "-1"
+      ],
+      "ans": 1
+    },
+    {
+      "q": "A sum of money doubles itself in 8 years at simple interest. What is the rate of interest?",
+      "q_hi": "कोई राशि साधारण ब्याज पर 8 वर्षों में दोगुनी हो जाती है। ब्याज की दर क्या है?",
+      "opts": [
+        "0.1",
+        "0.125",
+        "0.15",
+        "0.08"
+      ],
+      "opts_hi": [
+        "0.1",
+        "0.125",
+        "0.15",
+        "0.08"
+      ],
+      "ans": 1
+    },
+    {
+      "q": "The radius of a sphere is increased by 10%. What is the percentage increase in its volume?",
+      "q_hi": "एक गोले की त्रिज्या 10% बढ़ा दी जाती है। इसके आयतन में कितने प्रतिशत की वृद्धि होती है?",
+      "opts": [
+        "0.331",
+        "0.3",
+        "0.21",
+        "0.1"
+      ],
+      "opts_hi": [
+        "0.331",
+        "0.3",
+        "0.21",
+        "0.1"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "If sin θ = 3/5, what is the value of cos θ?",
+      "q_hi": "यदि sin θ = 3/5 है, तो cos θ का मान क्या है?",
+      "opts": [
+        "Mon May 04 2026 05:30:00 GMT+0530 (India Standard Time)",
+        "Fri Apr 03 2026 05:30:00 GMT+0530 (India Standard Time)",
+        "Thu Mar 05 2026 05:30:00 GMT+0530 (India Standard Time)",
+        "Sat May 02 2026 05:30:00 GMT+0530 (India Standard Time)"
+      ],
+      "opts_hi": [
+        "Mon May 04 2026 05:30:00 GMT+0530 (India Standard Time)",
+        "Fri Apr 03 2026 05:30:00 GMT+0530 (India Standard Time)",
+        "Thu Mar 05 2026 05:30:00 GMT+0530 (India Standard Time)",
+        "Sat May 02 2026 05:30:00 GMT+0530 (India Standard Time)"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "Study the following pie chart and answer: If the total expenditure is Rs. 50,000, what is the amount spent on food (25%)?",
+      "q_hi": "निम्नलिखित पाई चार्ट का अध्ययन करें और उत्तर दें: यदि कुल व्यय Rs. 50,000 है, तो भोजन पर कितनी राशि खर्च होती है (25%)?",
+      "opts": [
+        "Rs. 12,500",
+        "Rs. 10,000",
+        "Rs. 15,000",
+        "Rs. 20,000"
+      ],
+      "opts_hi": [
+        "Rs. 12,500",
+        "Rs. 10,000",
+        "Rs. 15,000",
+        "Rs. 20,000"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "A can do a work in 12 days and B in 15 days. In how many days will they complete the work together?",
+      "q_hi": "A एक कार्य को 12 दिनों में और B 15 दिनों में कर सकता है। वे दोनों मिलकर कार्य को कितने दिनों में पूरा करेंगे?",
+      "opts": [
+        "20/3 days",
+        "27/2 days",
+        "30 days",
+        "27 days"
+      ],
+      "opts_hi": [
+        "20/3 दिन",
+        "27/2 दिन",
+        "30 दिन",
+        "27 दिन"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "What is the LCM of 24, 36 and 40?",
+      "q_hi": "24, 36 और 40 का ल.स.प. (LCM) क्या है?",
+      "opts": [
+        "360",
+        "720",
+        "180",
+        "120"
+      ],
+      "opts_hi": [
+        "360",
+        "720",
+        "180",
+        "120"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "What is the compound interest on Rs. 10,000 for 2 years at 10% per annum compounded annually?",
+      "q_hi": "Rs. 10,000 पर 2 वर्षों के लिए 10% वार्षिक दर से चक्रवृद्धि ब्याज क्या है?",
+      "opts": [
+        "Rs. 2,100",
+        "Rs. 2,000",
+        "Rs. 2,200",
+        "Rs. 2,500"
+      ],
+      "opts_hi": [
+        "Rs. 2,100",
+        "Rs. 2,000",
+        "Rs. 2,200",
+        "Rs. 2,500"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "A shopkeeper buys an article for Rs. 400 and sells it at a profit of 20%. What is the selling price?",
+      "q_hi": "एक दुकानदार एक वस्तु Rs. 400 में खरीदता है और 20% लाभ पर बेचता है। विक्रय मूल्य क्या है?",
+      "opts": [
+        "Rs. 480",
+        "Rs. 500",
+        "Rs. 450",
+        "Rs. 520"
+      ],
+      "opts_hi": [
+        "Rs. 480",
+        "Rs. 500",
+        "Rs. 450",
+        "Rs. 520"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "A train 200 m long passes a pole in 10 seconds. What is the speed of the train in km/h?",
+      "q_hi": "200 मीटर लंबी एक ट्रेन एक खंभे को 10 सेकंड में पार करती है। ट्रेन की गति किमी/घंटा में क्या है?",
+      "opts": [
+        "72 km/h",
+        "60 km/h",
+        "80 km/h",
+        "54 km/h"
+      ],
+      "opts_hi": [
+        "72 किमी/घंटा",
+        "60 किमी/घंटा",
+        "80 किमी/घंटा",
+        "54 किमी/घंटा"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "The area of a circle is 154 cm². What is its radius? (Take π = 22/7)",
+      "q_hi": "एक वृत्त का क्षेत्रफल 154 सेमी² है। इसकी त्रिज्या क्या है? (π = 22/7 लें)",
+      "opts": [
+        "7 cm",
+        "14 cm",
+        "11 cm",
+        "22 cm"
+      ],
+      "opts_hi": [
+        "7 सेमी",
+        "14 सेमी",
+        "11 सेमी",
+        "22 सेमी"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "The ratio of the ages of Ram and Shyam is 3:4. After 5 years, the ratio becomes 4:5. What is Shyam's present age?",
+      "q_hi": "राम और श्याम की आयु का अनुपात 3:4 है। 5 वर्ष बाद अनुपात 4:5 हो जाता है। श्याम की वर्तमान आयु क्या है?",
+      "opts": [
+        "15 years",
+        "20 years",
+        "25 years",
+        "30 years"
+      ],
+      "opts_hi": [
+        "15 वर्ष",
+        "20 वर्ष",
+        "25 वर्ष",
+        "30 वर्ष"
+      ],
+      "ans": 1
+    },
+    {
+      "q": "If the angles of a triangle are in the ratio 2:3:4, what is the smallest angle?",
+      "q_hi": "यदि एक त्रिभुज के कोण 2:3:4 के अनुपात में हैं, तो सबसे छोटा कोण क्या है?",
+      "opts": [
+        "40°",
+        "60°",
+        "80°",
+        "20°"
+      ],
+      "opts_hi": [
+        "40°",
+        "60°",
+        "80°",
+        "20°"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "A table shows marks of 5 students. What is the average marks if total marks are 400 and there are 5 students?",
+      "q_hi": "एक तालिका 5 छात्रों के अंक दिखाती है। यदि कुल अंक 400 हैं और 5 छात्र हैं, तो औसत अंक क्या है?",
+      "opts": [
+        "80",
+        "85",
+        "75",
+        "90"
+      ],
+      "opts_hi": [
+        "80",
+        "85",
+        "75",
+        "90"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "A man covers a distance of 60 km in 2 hours. What is his speed in km/h?",
+      "q_hi": "एक व्यक्ति 60 किमी की दूरी 2 घंटे में तय करता है। उसकी गति किमी/घंटा में क्या है?",
+      "opts": [
+        "30 km/h",
+        "40 km/h",
+        "20 km/h",
+        "50 km/h"
+      ],
+      "opts_hi": [
+        "30 किमी/घंटा",
+        "40 किमी/घंटा",
+        "20 किमी/घंटा",
+        "50 किमी/घंटा"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "If x² + 1/x² = 14, find the value of x + 1/x.",
+      "q_hi": "यदि x² + 1/x² = 14 है, तो x + 1/x का मान ज्ञात करें।",
+      "opts": [
+        "4",
+        "3",
+        "5",
+        "6"
+      ],
+      "opts_hi": [
+        "4",
+        "3",
+        "5",
+        "6"
+      ],
+      "ans": 0
+    }
+  ]
+}
