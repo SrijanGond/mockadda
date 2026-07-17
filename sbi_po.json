@@ -311,6 +311,31 @@
           "ans": 1
         }
       ]
+    },
+    {
+      "id": "sbi_po_6",
+      "title": "SBI PO Mock Test 6",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What is the compound interest on Rs. 10,000 for 2 years at 10% per annum compounded annually?",
+          "q_hi": "Rs. 10,000 पर 2 वर्षों के लिए 10% वार्षिक दर से चक्रवृद्धि ब्याज क्या है?",
+          "opts": [
+            "Rs. 2,100",
+            "Rs. 2,000",
+            "Rs. 2,200",
+            "Rs. 2,500"
+          ],
+          "opts_hi": [
+            "Rs. 2,100",
+            "Rs. 2,000",
+            "Rs. 2,200",
+            "Rs. 2,500"
+          ],
+          "ans": 0
+        }
+      ]
     }
   ]
 }
