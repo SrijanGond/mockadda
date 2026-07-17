@@ -1,0 +1,123 @@
+{
+  "questions": [
+    {
+      "q": "Who is the author of the book 'The Discovery of India'?",
+      "q_hi": "द डिस्कवरी ऑफ इंडिया' पुस्तक के लेखक कौन हैं?",
+      "opts": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "B.R. Ambedkar",
+        "Rabindranath Tagore"
+      ],
+      "opts_hi": [
+        "महात्मा गांधी",
+        "जवाहरलाल नेहरू",
+        "बी.आर. अम्बेडकर",
+        "रवींद्रनाथ टैगोर"
+      ],
+      "ans": 1
+    },
+    {
+      "q": "Which of the following is the smallest district of Uttar Pradesh by area?",
+      "q_hi": "उत्तर प्रदेश का क्षेत्रफल की दृष्टि से सबसे छोटा जिला निम्नलिखित में से कौन सा है?",
+      "opts": [
+        "Mahoba",
+        "Hathras",
+        "Ghaziabad",
+        "Budaun"
+      ],
+      "opts_hi": [
+        "महोबा",
+        "हाथरस",
+        "गाजियाबाद",
+        "बदायूँ"
+      ],
+      "ans": 1
+    },
+    {
+      "q": "Which of the following is the headquarters of the Western Railway Zone?",
+      "q_hi": "पश्चिमी रेलवे क्षेत्र का मुख्यालय निम्नलिखित में से कौन सा है?",
+      "opts": [
+        "Mumbai",
+        "Ahmedabad",
+        "Ratlam",
+        "Vadodara"
+      ],
+      "opts_hi": [
+        "मुंबई",
+        "अहमदाबाद",
+        "रतलाम",
+        "वडोदरा"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "Which of the following is a direct tax?",
+      "q_hi": "निम्नलिखित में से कौन सा प्रत्यक्ष कर है?",
+      "opts": [
+        "Income Tax",
+        "GST (Goods and Services Tax)",
+        "Excise Duty",
+        "Customs Duty"
+      ],
+      "opts_hi": [
+        "आयकर",
+        "GST (वस्तु एवं सेवा कर)",
+        "उत्पाद शुल्क",
+        "सीमा शुल्क"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "Which of the following is the highest waterfall in India?",
+      "q_hi": "भारत की सबसे ऊँची जलप्रपात निम्नलिखित में से कौन सी है?",
+      "opts": [
+        "Jog Falls",
+        "Kunchikal Falls",
+        "Dudhsagar Falls",
+        "Hogenakkal Falls"
+      ],
+      "opts_hi": [
+        "जोग जलप्रपात",
+        "कुंचीकल जलप्रपात",
+        "दूधसागर जलप्रपात",
+        "होगेनकल जलप्रपात"
+      ],
+      "ans": 1
+    },
+    {
+      "q": "Which of the following is the official language of the Supreme Court of India?",
+      "q_hi": "भारत के सर्वोच्च न्यायालय की राजभाषा निम्नलिखित में से कौन सी है?",
+      "opts": [
+        "Hindi",
+        "English",
+        "Both Hindi and English",
+        "Sanskrit"
+      ],
+      "opts_hi": [
+        "हिंदी",
+        "अंग्रेजी",
+        "हिंदी और अंग्रेजी दोनों",
+        "संस्कृत"
+      ],
+      "ans": 1
+    },
+    {
+      "q": "Which of the following is NOT a district of Uttar Pradesh?",
+      "q_hi": "उत्तर प्रदेश का जिला निम्नलिखित में से कौन सा नहीं है?",
+      "opts": [
+        "Gonda",
+        "Bahraich",
+        "Rampur",
+        "Haldwani"
+      ],
+      "opts_hi": [
+        "गोंडा",
+        "बहराइच",
+        "रामपुर",
+        "हल्द्वानी"
+      ],
+      "ans": 3
+    }
+  ]
+}
