@@ -370,6 +370,82 @@
           "ans": 0
         }
       ]
+    },
+    {
+      "id": "ssc_chsl_7",
+      "title": "SSC CHSL Mock Test 7",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "India and which country signed a Memorandum of Understanding to manufacture aircraft in India?",
+          "q_hi": "भारत में विमान निर्माण के लिए भारत ने किस देश के साथ समझौता ज्ञापन पर हस्ताक्षर किए?",
+          "opts": [
+            "USA",
+            "Brazil",
+            "France",
+            "Russia"
+          ],
+          "opts_hi": [
+            "यूएसए",
+            "ब्राजील",
+            "फ्रांस",
+            "रूस"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "Which state launched the 'Chief Minister Sehat Yojana' for free cashless healthcare?",
+          "q_hi": "मुफ्त कैशलेस स्वास्थ्य सेवा के लिए 'मुख्यमंत्री सेहत योजना' किस राज्य ने शुरू की?",
+          "opts": [
+            "Haryana",
+            "Rajasthan",
+            "Himachal Pradesh",
+            "Punjab"
+          ],
+          "opts_hi": [
+            "हरियाणा",
+            "राजस्थान",
+            "हिमाचल प्रदेश",
+            "पंजाब"
+          ],
+          "ans": 3
+        },
+        {
+          "q": "Who won the Wiley Research Heroes Prize 2025?",
+          "q_hi": "विली रिसर्च हीरोज पुरस्कार 2025 किसने जीता?",
+          "opts": [
+            "Soumya Swaminathan",
+            "Randeep Guleria",
+            "Chandrakant Lahariya",
+            "Arvind Panagariya"
+          ],
+          "opts_hi": [
+            "सौम्या स्वामीनाथन",
+            "रणदीप गुलेरिया",
+            "चंद्रकांत लहरिया",
+            "अरविंद पनगढ़िया"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "Uttar Pradesh launched 'Nivesh Mitra 3.0' to improve what?",
+          "q_hi": "उत्तर प्रदेश ने 'निवेश मित्र 3.0' किसे बेहतर बनाने के लिए लॉन्च किया?",
+          "opts": [
+            "Agriculture productivity",
+            "Investor experience",
+            "Healthcare services",
+            "Education quality"
+          ],
+          "opts_hi": [
+            "कृषि उत्पादकता",
+            "निवेशक अनुभव",
+            "स्वास्थ्य सेवाएँ",
+            "शिक्षा की गुणवत्ता"
+          ],
+          "ans": 1
+        }
+      ]
     }
   ]
 }
