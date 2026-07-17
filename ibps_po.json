@@ -244,6 +244,48 @@
           "ans": 3
         }
       ]
+    },
+    {
+      "id": "ibps_po_4",
+      "title": "IBPS PO Mock Test 4",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which of the following is NOT a function of SEBI?",
+          "q_hi": "निम्नलिखित में से कौन सा SEBI का कार्य नहीं है?",
+          "opts": [
+            "To protect the interests of investors",
+            "To regulate the securities market",
+            "To promote the development of the securities market",
+            "To formulate monetary policy"
+          ],
+          "opts_hi": [
+            "निवेशकों के हितों की रक्षा करना",
+            "प्रतिभूति बाजार को विनियमित करना",
+            "प्रतिभूति बाजार के विकास को बढ़ावा देना",
+            "मौद्रिक नीति तैयार करना"
+          ],
+          "ans": 3
+        },
+        {
+          "q": "Which of the following is the first bank to introduce the 'Rupay' payment system?",
+          "q_hi": "रुपे' भुगतान प्रणाली शुरू करने वाला पहला बैंक निम्नलिखित में से कौन सा है?",
+          "opts": [
+            "State Bank of India",
+            "ICICI Bank",
+            "HDFC Bank",
+            "Axis Bank"
+          ],
+          "opts_hi": [
+            "भारतीय स्टेट बैंक",
+            "ICICI बैंक",
+            "HDFC बैंक",
+            "एक्सिस बैंक"
+          ],
+          "ans": 0
+        }
+      ]
     }
   ]
 }
