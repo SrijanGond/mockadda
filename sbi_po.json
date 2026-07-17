@@ -269,6 +269,48 @@
           "ans": 1
         }
       ]
+    },
+    {
+      "id": "sbi_po_5",
+      "title": "SBI PO Mock Test 5",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "In banking, the term 'CAMELS' is used for rating banks. What does the letter 'E' stand for in CAMELS?",
+          "q_hi": "बैंकिंग में, 'CAMELS' शब्द का उपयोग बैंकों की रेटिंग के लिए किया जाता है। CAMELS में 'E' अक्षर किसके लिए है?",
+          "opts": [
+            "Earnings",
+            "Efficiency",
+            "Equity",
+            "External Risk"
+          ],
+          "opts_hi": [
+            "अर्निंग्स",
+            "एफिशिएंसी",
+            "इक्विटी",
+            "एक्सटर्नल रिस्क"
+          ],
+          "ans": 0
+        },
+        {
+          "q": "Which of the following is the first bank in India to issue 'Green Bonds'?",
+          "q_hi": "ग्रीन बॉन्ड' जारी करने वाला भारत का पहला बैंक निम्नलिखित में से कौन सा है?",
+          "opts": [
+            "State Bank of India",
+            "YES Bank",
+            "ICICI Bank",
+            "Axis Bank"
+          ],
+          "opts_hi": [
+            "भारतीय स्टेट बैंक",
+            "YES बैंक",
+            "ICICI बैंक",
+            "एक्सिस बैंक"
+          ],
+          "ans": 1
+        }
+      ]
     }
   ]
 }
