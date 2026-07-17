@@ -269,6 +269,31 @@
           "ans": 1
         }
       ]
+    },
+    {
+      "id": "kvs_5",
+      "title": "KVS Mock Test 5",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which of the following is the largest organ of the human body?",
+          "q_hi": "मानव शरीर का सबसे बड़ा अंग निम्नलिखित में से कौन सा है?",
+          "opts": [
+            "Liver",
+            "Heart",
+            "Skin",
+            "Lungs"
+          ],
+          "opts_hi": [
+            "यकृत",
+            "हृदय",
+            "त्वचा",
+            "फेफड़े"
+          ],
+          "ans": 2
+        }
+      ]
     }
   ]
 }
