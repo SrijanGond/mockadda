@@ -1,0 +1,55 @@
+{
+  "questions": [
+    {
+      "q": "The idea of the 'Concurrent List' in the Indian Constitution was borrowed from the Constitution of which country?",
+      "q_hi": "भारतीय संविधान में 'समवर्ती सूची' का विचार किस देश के संविधान से लिया गया था?",
+      "opts": [
+        "Canada",
+        "USA",
+        "Australia",
+        "Ireland"
+      ],
+      "opts_hi": [
+        "कनाडा",
+        "यूएसए",
+        "ऑस्ट्रेलिया",
+        "आयरलैंड"
+      ],
+      "ans": 2
+    },
+    {
+      "q": "Which of the following articles of the Indian Constitution contains the provisions for the Panchayati Raj system?",
+      "q_hi": "भारतीय संविधान के निम्नलिखित में से कौन सा अनुच्छेद पंचायती राज व्यवस्था के प्रावधानों को समाहित करता है?",
+      "opts": [
+        "Article 40",
+        "Article 243-243ZG",
+        "Article 243-243O",
+        "Article 32"
+      ],
+      "opts_hi": [
+        "अनुच्छेद 40",
+        "अनुच्छेद 243-243ZG",
+        "अनुच्छेद 243-243O",
+        "अनुच्छेद 32"
+      ],
+      "ans": 1
+    },
+    {
+      "q": "Which of the following is the authorized body for conducting elections in India?",
+      "q_hi": "भारत में चुनाव कराने के लिए अधिकृत निकाय निम्नलिखित में से कौन सा है?",
+      "opts": [
+        "Election Commission of India",
+        "President of India",
+        "Prime Minister's Office",
+        "Parliament"
+      ],
+      "opts_hi": [
+        "भारत का चुनाव आयोग",
+        "भारत के राष्ट्रपति",
+        "प्रधान मंत्री कार्यालय",
+        "संसद"
+      ],
+      "ans": 0
+    }
+  ]
+}
