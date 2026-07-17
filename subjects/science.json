@@ -1,0 +1,514 @@
+{
+  "questions": [
+    {
+      "q": "Which one of the following words/phrases is most appropriately used to denote 'an interoperable network of 3D virtual worlds that can be accessed simultaneously by millions of users, who can exert property rights over virtual items'?",
+      "q_hi": "एक इंटरऑपरेबल नेटवर्क ऑफ 3D वर्चुअल वर्ल्ड जिसे लाखों उपयोगकर्ता एक साथ एक्सेस कर सकते हैं, जो वर्चुअल आइटम्स पर संपत्ति अधिकार रख सकते हैं' को दर्शाने के लिए निम्नलिखित में से किस शब्द/वाक्यांश का सबसे उपयुक्त उपयोग किया जाता है?",
+      "opts": [
+        "Big data analytics",
+        "Cryptography",
+        "Metaverse",
+        "Virtual matrix"
+      ],
+      "opts_hi": [
+        "बिग डेटा एनालिटिक्स",
+        "क्रिप्टोग्राफी",
+        "मेटावर्स",
+        "वर्चुअल मैट्रिक्स"
+      ],
+      "ans": 2
+    },
+    {
+      "q": "With reference to radioisotope thermoelectric generators (RTGs), consider the following statements: 1. RTGs are miniature fission reactors. 2. RTGs are used for powering the onboard systems of spacecraft. 3. RTGs can use Plutonium-238, which is a by-product of weapons developments. Which of the statements given above are correct?",
+      "q_hi": "रेडियोआइसोटोप थर्मोइलेक्ट्रिक जनरेटर (RTGs) के संदर्भ में, निम्नलिखित कथनों पर विचार करें: 1. RTGs लघु विखंडन रिएक्टर हैं। 2. RTGs का उपयोग अंतरिक्ष यान के ऑनबोर्ड सिस्टम को पावर देने के लिए किया जाता है। 3. RTGs प्लूटोनियम-238 का उपयोग कर सकते हैं, जो हथियार विकास का उप-उत्पाद है। ऊपर दिए गए कथनों में से कौन से सही हैं?",
+      "opts": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "opts_hi": [
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "केवल 1 और 3",
+        "1, 2 और 3"
+      ],
+      "ans": 1
+    },
+    {
+      "q": "Consider the following statements: Statement I: Giant stars live much longer than dwarf stars. Statement II: Compared to dwarf stars, giant stars have a greater rate of nuclear reactions. Which one of the following is correct in respect of the above statements?",
+      "q_hi": "निम्नलिखित कथनों पर विचार करें: कथन I: विशाल तारे बौने तारों की तुलना में अधिक समय तक जीवित रहते हैं। कथन II: बौने तारों की तुलना में, विशाल तारों में नाभिकीय अभिक्रियाओं की दर अधिक होती है। उपरोक्त कथनों के संबंध में निम्नलिखित में से कौन सा सही है?",
+      "opts": [
+        "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+        "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+        "Statement I is correct, but Statement II is incorrect",
+        "Statement I is incorrect, but Statement II is correct"
+      ],
+      "opts_hi": [
+        "कथन-I और कथन-II दोनों सही हैं और कथन-II, कथन-I की व्याख्या करता है",
+        "कथन-I और कथन-II दोनों सही हैं, लेकिन कथन-II, कथन-I की व्याख्या नहीं करता है",
+        "कथन I सही है, लेकिन कथन II गलत है",
+        "कथन I गलत है, लेकिन कथन II सही है"
+      ],
+      "ans": 3
+    },
+    {
+      "q": "Which one of the following is synthesised in the human body that dilates blood vessels and increases blood flow?",
+      "q_hi": "मानव शरीर में निम्नलिखित में से कौन सा संश्लेषित होता है जो रक्त वाहिकाओं को फैलाता है और रक्त प्रवाह को बढ़ाता है?",
+      "opts": [
+        "Nitric oxide",
+        "Nitrous oxide",
+        "Nitrogen dioxide",
+        "Nitrogen pentoxide"
+      ],
+      "opts_hi": [
+        "नाइट्रिक ऑक्साइड",
+        "नाइट्रस ऑक्साइड",
+        "नाइट्रोजन डाइऑक्साइड",
+        "नाइट्रोजन पेंटॉक्साइड"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "Consider the following activities: 1. Identification of narcotics on passengers at airports or in aircraft 2. Monitoring of precipitation 3. Tracking the migration of animals In how many of the above activities can radars be used?",
+      "q_hi": "निम्नलिखित गतिविधियों पर विचार करें: 1. हवाई अड्डों पर या विमान में यात्रियों पर मादक पदार्थों की पहचान 2. वर्षा की निगरानी 3. जानवरों के प्रवासन का ट्रैकिंग उपरोक्त में से कितनी गतिविधियों में रडार का उपयोग किया जा सकता है?",
+      "opts": [
+        "Only one",
+        "Only two",
+        "All three",
+        "None"
+      ],
+      "opts_hi": [
+        "केवल एक",
+        "केवल दो",
+        "सभी तीन",
+        "कोई नहीं"
+      ],
+      "ans": 2
+    },
+    {
+      "q": "Consider the following aircraft: 1. Rafael 2. MiG-29 3. Tejas MK-1 How many of the above are considered fifth-generation fighter aircraft?",
+      "q_hi": "निम्नलिखित विमानों पर विचार करें: 1. राफेल 2. MiG-29 3. तेजस MK-1 उपरोक्त में से कितने को पाँचवीं पीढ़ी के लड़ाकू विमान माना जाता है?",
+      "opts": [
+        "Only one",
+        "Only two",
+        "All three",
+        "None"
+      ],
+      "opts_hi": [
+        "केवल एक",
+        "केवल दो",
+        "सभी तीन",
+        "कोई नहीं"
+      ],
+      "ans": 3
+    },
+    {
+      "q": "In which of the following are hydrogels used? 1. Controlled drug delivery in patients 2. Mobile air-conditioning systems 3. Preparation of industrial lubricants Select the correct answer using the code given below:",
+      "q_hi": "हाइड्रोजेल का उपयोग निम्नलिखित में से किनमें किया जाता है? 1. रोगियों में नियंत्रित दवा वितरण 2. मोबाइल एयर-कंडीशनिंग सिस्टम 3. औद्योगिक स्नेहक की तैयारी नीचे दिए गए कूट का उपयोग करके सही उत्तर चुनें:",
+      "opts": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "opts_hi": [
+        "केवल 1",
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "1, 2 और 3"
+      ],
+      "ans": 3
+    },
+    {
+      "q": "Which one of the following is the exhaust pipe emission from Fuel Cell Electric Vehicles, powered by hydrogen?",
+      "q_hi": "हाइड्रोजन द्वारा संचालित ईंधन सेल इलेक्ट्रिक वाहनों से निकास पाइप उत्सर्जन निम्नलिखित में से कौन सा है?",
+      "opts": [
+        "Hydrogen peroxide",
+        "Hydronium",
+        "Oxygen",
+        "Water vapour"
+      ],
+      "opts_hi": [
+        "हाइड्रोजन पेरोक्साइड",
+        "हाइड्रोनियम",
+        "ऑक्सीजन",
+        "जल वाष्प"
+      ],
+      "ans": 3
+    },
+    {
+      "q": "Recently, the term 'pumped-storage hydropower' is actually and appropriately discussed in the context of which one of the following?",
+      "q_hi": "हाल ही में, 'पंप-स्टोरेज हाइड्रोपावर' शब्द वास्तव में और उचित रूप से निम्नलिखित में से किसके संदर्भ में चर्चा की जाती है?",
+      "opts": [
+        "Irrigation of terraced crop fields",
+        "Lift irrigation of cereal crops",
+        "Long duration energy storage",
+        "Rainwater harvesting system"
+      ],
+      "opts_hi": [
+        "सीढ़ीदार फसल खेतों की सिंचाई",
+        "अनाज की फसलों की लिफ्ट सिंचाई",
+        "लंबी अवधि की ऊर्जा भंडारण",
+        "वर्षा जल संचयन प्रणाली"
+      ],
+      "ans": 2
+    },
+    {
+      "q": "Membrane Bioreactors' are often discussed in the context of:",
+      "q_hi": "मेम्ब्रेन बायोरिएक्टर्स' पर अक्सर किसके संदर्भ में चर्चा की जाती है?",
+      "opts": [
+        "Assisted reproductive technologies",
+        "Drug delivery nanotechnologies",
+        "Vaccine production technologies",
+        "Wastewater treatment technologies"
+      ],
+      "opts_hi": [
+        "सहायक प्रजनन तकनीकें",
+        "दवा वितरण नैनोटेक्नोलॉजी",
+        "वैक्सीन उत्पादन प्रौद्योगिकियाँ",
+        "अपशिष्ट जल उपचार प्रौद्योगिकियाँ"
+      ],
+      "ans": 3
+    },
+    {
+      "q": "Which of the following vitamins is synthesized in the human body with the help of sunlight?",
+      "q_hi": "मानव शरीर में सूर्य के प्रकाश की सहायता से निम्नलिखित में से कौन सा विटामिन संश्लेषित होता है?",
+      "opts": [
+        "Vitamin A",
+        "Vitamin B12",
+        "Vitamin D",
+        "Vitamin K"
+      ],
+      "opts_hi": [
+        "विटामिन A",
+        "विटामिन B12",
+        "विटामिन D",
+        "विटामिन K"
+      ],
+      "ans": 2
+    },
+    {
+      "q": "Which of the following is the SI unit of force?",
+      "q_hi": "बल की SI इकाई निम्नलिखित में से कौन सी है?",
+      "opts": [
+        "Newton",
+        "Joule",
+        "Watt",
+        "Pascal"
+      ],
+      "opts_hi": [
+        "न्यूटन",
+        "जूल",
+        "वाट",
+        "पास्कल"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "Which of the following is the most abundant gas in the Earth's atmosphere?",
+      "q_hi": "पृथ्वी के वायुमंडल में सबसे प्रचुर मात्रा में पाई जाने वाली गैस निम्नलिखित में से कौन सी है?",
+      "opts": [
+        "Oxygen",
+        "Carbon Dioxide",
+        "Nitrogen",
+        "Argon"
+      ],
+      "opts_hi": [
+        "ऑक्सीजन",
+        "कार्बन डाइऑक्साइड",
+        "नाइट्रोजन",
+        "आर्गन"
+      ],
+      "ans": 2
+    },
+    {
+      "q": "The CRISPR-Cas9 technology is primarily associated with which of the following?",
+      "q_hi": "CRISPR-Cas9 प्रौद्योगिकी मुख्य रूप से निम्नलिखित में से किससे संबंधित है?",
+      "opts": [
+        "Gene editing",
+        "Protein synthesis",
+        "Cell respiration",
+        "Photosynthesis"
+      ],
+      "opts_hi": [
+        "जीन संपादन",
+        "प्रोटीन संश्लेषण",
+        "कोशिकीय श्वसन",
+        "प्रकाश संश्लेषण"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "Which of the following was India's first interplanetary mission?",
+      "q_hi": "भारत का पहला अंतर्ग्रहीय मिशन निम्नलिखित में से कौन सा था?",
+      "opts": [
+        "Chandrayaan-1",
+        "Mangalyaan (Mars Orbiter Mission)",
+        "Gaganyaan",
+        "Aditya-L1"
+      ],
+      "opts_hi": [
+        "चंद्रयान-1",
+        "मंगलयान (मार्स ऑर्बिटर मिशन)",
+        "गगनयान",
+        "आदित्य-L1"
+      ],
+      "ans": 1
+    },
+    {
+      "q": "What is the SI unit of frequency?",
+      "q_hi": "आवृत्ति की SI इकाई क्या है?",
+      "opts": [
+        "Hertz",
+        "Decibel",
+        "Ampere",
+        "Ohm"
+      ],
+      "opts_hi": [
+        "हर्ट्ज",
+        "डेसिबल",
+        "एम्पीयर",
+        "ओम"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "Which of the following is the largest organ of the human body?",
+      "q_hi": "मानव शरीर का सबसे बड़ा अंग निम्नलिखित में से कौन सा है?",
+      "opts": [
+        "Liver",
+        "Heart",
+        "Skin",
+        "Lungs"
+      ],
+      "opts_hi": [
+        "यकृत",
+        "हृदय",
+        "त्वचा",
+        "फेफड़े"
+      ],
+      "ans": 2
+    },
+    {
+      "q": "Which of the following is used as an antacid to neutralize excess stomach acid?",
+      "q_hi": "निम्नलिखित में से किसका उपयोग अतिरिक्त पेट के एसिड को बेअसर करने के लिए एंटासिड के रूप में किया जाता है?",
+      "opts": [
+        "Sodium Hydroxide",
+        "Magnesium Hydroxide",
+        "Hydrochloric Acid",
+        "Sulphuric Acid"
+      ],
+      "opts_hi": [
+        "सोडियम हाइड्रॉक्साइड",
+        "मैग्नीशियम हाइड्रॉक्साइड",
+        "हाइड्रोक्लोरिक एसिड",
+        "सल्फ्यूरिक एसिड"
+      ],
+      "ans": 1
+    },
+    {
+      "q": "Which of the following isotopes is commonly used in nuclear reactors as a fuel?",
+      "q_hi": "निम्नलिखित में से किस समस्थानिक का उपयोग आमतौर पर परमाणु रिएक्टरों में ईंधन के रूप में किया जाता है?",
+      "opts": [
+        "U-235",
+        "U-238",
+        "Pu-239",
+        "Both U-235 and Pu-239"
+      ],
+      "opts_hi": [
+        "U-235",
+        "U-238",
+        "Pu-239",
+        "U-235 और Pu-239 दोनों"
+      ],
+      "ans": 3
+    },
+    {
+      "q": "Which of the following plant hormones is responsible for the ripening of fruits?",
+      "q_hi": "फलों के पकने के लिए निम्नलिखित में से कौन सा पौधा हार्मोन जिम्मेदार है?",
+      "opts": [
+        "Auxin",
+        "Gibberellin",
+        "Cytokinin",
+        "Ethylene"
+      ],
+      "opts_hi": [
+        "ऑक्सिन",
+        "जिबरेलिन",
+        "साइटोकिनिन",
+        "एथिलीन"
+      ],
+      "ans": 3
+    },
+    {
+      "q": "Aditya-L1, India's first solar mission, was placed in orbit around which point?",
+      "q_hi": "आदित्य-L1, भारत का पहला सौर मिशन, किस बिंदु के चारों ओर कक्षा में स्थापित किया गया था?",
+      "opts": [
+        "L1 Lagrange Point",
+        "L2 Lagrange Point",
+        "Geostationary Orbit",
+        "Polar Orbit"
+      ],
+      "opts_hi": [
+        "L1 लैग्रेंज बिंदु",
+        "L2 लैग्रेंज बिंदु",
+        "भू-स्थिर कक्षा",
+        "ध्रुवीय कक्षा"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "Which of the following is the colour of light with the shortest wavelength?",
+      "q_hi": "सबसे छोटी तरंग दैर्ध्य वाले प्रकाश का रंग निम्नलिखित में से कौन सा है?",
+      "opts": [
+        "Red",
+        "Violet",
+        "Blue",
+        "Green"
+      ],
+      "opts_hi": [
+        "लाल",
+        "बैंगनी",
+        "नीला",
+        "हरा"
+      ],
+      "ans": 1
+    },
+    {
+      "q": "Which of the following is NOT a greenhouse gas?",
+      "q_hi": "निम्नलिखित में से कौन सी ग्रीनहाउस गैस नहीं है?",
+      "opts": [
+        "Carbon Dioxide (CO2)",
+        "Methane (CH4)",
+        "Nitrous Oxide (N2O)",
+        "Oxygen (O2)"
+      ],
+      "opts_hi": [
+        "कार्बन डाइऑक्साइड (CO2)",
+        "मीथेन (CH4)",
+        "नाइट्रस ऑक्साइड (N2O)",
+        "ऑक्सीजन (O2)"
+      ],
+      "ans": 3
+    },
+    {
+      "q": "Membrane Bioreactors are often discussed in the context of which of the following?",
+      "q_hi": "मेम्ब्रेन बायोरिएक्टर्स पर अक्सर निम्नलिखित में से किसके संदर्भ में चर्चा की जाती है?",
+      "opts": [
+        "Assisted reproductive technologies",
+        "Drug delivery nanotechnologies",
+        "Vaccine production technologies",
+        "Wastewater treatment technologies"
+      ],
+      "opts_hi": [
+        "सहायक प्रजनन तकनीकें",
+        "दवा वितरण नैनोटेक्नोलॉजी",
+        "वैक्सीन उत्पादन प्रौद्योगिकियाँ",
+        "अपशिष्ट जल उपचार प्रौद्योगिकियाँ"
+      ],
+      "ans": 3
+    },
+    {
+      "q": "Which blood group is known as the 'universal donor'?",
+      "q_hi": "किस रक्त समूह को 'यूनिवर्सल डोनर' के रूप में जाना जाता है?",
+      "opts": [
+        "A Positive",
+        "O Negative",
+        "AB Positive",
+        "B Negative"
+      ],
+      "opts_hi": [
+        "A पॉजिटिव",
+        "O नेगेटिव",
+        "AB पॉजिटिव",
+        "B नेगेटिव"
+      ],
+      "ans": 1
+    },
+    {
+      "q": "Which of the following is India's first human spaceflight mission?",
+      "q_hi": "भारत का पहला मानव अंतरिक्ष उड़ान मिशन निम्नलिखित में से कौन सा है?",
+      "opts": [
+        "Chandrayaan-3",
+        "Mangalyaan",
+        "Gaganyaan",
+        "Aditya-L1"
+      ],
+      "opts_hi": [
+        "चंद्रयान-3",
+        "मंगलयान",
+        "गगनयान",
+        "आदित्य-L1"
+      ],
+      "ans": 2
+    },
+    {
+      "q": "Which of the following is the unit of acceleration?",
+      "q_hi": "त्वरण की इकाई निम्नलिखित में से कौन सी है?",
+      "opts": [
+        "m/s",
+        "m/s²",
+        "kg m/s",
+        "Joule"
+      ],
+      "opts_hi": [
+        "मी/से",
+        "मी/से²",
+        "किग्रा मी/से",
+        "जूल"
+      ],
+      "ans": 1
+    },
+    {
+      "q": "Which of the following gases is responsible for the depletion of the ozone layer?",
+      "q_hi": "ओजोन परत के क्षय के लिए निम्नलिखित में से कौन सी गैस जिम्मेदार है?",
+      "opts": [
+        "Carbon Dioxide",
+        "Methane",
+        "Chlorofluorocarbons (CFCs)",
+        "Nitrogen"
+      ],
+      "opts_hi": [
+        "कार्बन डाइऑक्साइड",
+        "मीथेन",
+        "क्लोरोफ्लोरोकार्बन (CFCs)",
+        "नाइट्रोजन"
+      ],
+      "ans": 2
+    },
+    {
+      "q": "Which cells are responsible for the production of antibodies in the human body?",
+      "q_hi": "मानव शरीर में एंटीबॉडी के उत्पादन के लिए कौन सी कोशिकाएँ जिम्मेदार हैं?",
+      "opts": [
+        "Red Blood Cells (RBCs)",
+        "White Blood Cells (WBCs - B Lymphocytes)",
+        "Platelets",
+        "Plasma cells"
+      ],
+      "opts_hi": [
+        "लाल रक्त कोशिकाएँ (RBCs)",
+        "श्वेत रक्त कोशिकाएँ (WBCs - B लिम्फोसाइट्स)",
+        "प्लेटलेट्स",
+        "प्लाज्मा कोशिकाएँ"
+      ],
+      "ans": 1
+    },
+    {
+      "q": "Vaccination works by which of the following mechanisms?",
+      "q_hi": "टीकाकरण निम्नलिखित में से किस तंत्र द्वारा कार्य करता है?",
+      "opts": [
+        "Introducing antibodies directly into the body",
+        "Stimulating the body's immune system to produce antibodies",
+        "Killing pathogens directly",
+        "Neutralizing toxins only"
+      ],
+      "opts_hi": [
+        "शरीर में सीधे एंटीबॉडी का परिचय",
+        "शरीर की प्रतिरक्षा प्रणाली को एंटीबॉडी उत्पन्न करने के लिए उत्तेजित करना",
+        "सीधे रोगजनकों को मारना",
+        "केवल विषाक्त पदार्थों को बेअसर करना"
+      ],
+      "ans": 1
+    }
+  ]
+}
