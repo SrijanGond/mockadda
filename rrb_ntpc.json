@@ -370,6 +370,65 @@
           "ans": 0
         }
       ]
+    },
+    {
+      "id": "rrb_ntpc_7",
+      "title": "RRB NTPC Mock Test 7",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "India Energy Week 2026 began in which state?",
+          "q_hi": "इंडिया एनर्जी वीक 2026 किस राज्य में शुरू हुआ?",
+          "opts": [
+            "Delhi",
+            "Maharashtra",
+            "Kerala",
+            "Goa"
+          ],
+          "opts_hi": [
+            "दिल्ली",
+            "महाराष्ट्र",
+            "केरल",
+            "गोवा"
+          ],
+          "ans": 3
+        },
+        {
+          "q": "Which state received over ₹57 crore for the development of Sepahijala Wildlife Sanctuary?",
+          "q_hi": "सेपहिजाला वन्यजीव अभयारण्य के विकास के लिए किस राज्य को ₹57 करोड़ से अधिक प्राप्त हुए?",
+          "opts": [
+            "Assam",
+            "Mizoram",
+            "Tripura",
+            "Meghalaya"
+          ],
+          "opts_hi": [
+            "असम",
+            "मिजोरम",
+            "त्रिपुरा",
+            "मेघालय"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "One Nation, One Time' initiative aims to establish what?",
+          "q_hi": "एक राष्ट्र, एक समय' पहल का उद्देश्य क्या स्थापित करना है?",
+          "opts": [
+            "A uniform Indian Standard Time across the country",
+            "One time zone for all government offices only",
+            "Digital time synchronization for railways only",
+            "Global time standard for India"
+          ],
+          "opts_hi": [
+            "देश भर में एक समान भारतीय मानक समय",
+            "केवल सभी सरकारी कार्यालयों के लिए एक समय क्षेत्र",
+            "केवल रेलवे के लिए डिजिटल समय समन्वयन",
+            "भारत के लिए वैश्विक समय मानक"
+          ],
+          "ans": 0
+        }
+      ]
     }
   ]
 }
