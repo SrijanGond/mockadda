@@ -311,6 +311,65 @@
           "ans": 0
         }
       ]
+    },
+    {
+      "id": "rrb_ntpc_6",
+      "title": "RRB NTPC Mock Test 6",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "If A:B = 2:3 and B:C = 4:5, find A:C.",
+          "q_hi": "यदि A:B = 2:3 और B:C = 4:5 है, तो A:C ज्ञात करें।",
+          "opts": [
+            "Sat Dec 30 1899 13:36:10 GMT+0521 (India Standard Time)",
+            "2:5",
+            "4:5",
+            "1:2"
+          ],
+          "opts_hi": [
+            "Sat Dec 30 1899 13:36:10 GMT+0521 (India Standard Time)",
+            "2:5",
+            "4:5",
+            "1:2"
+          ],
+          "ans": 0
+        },
+        {
+          "q": "A can do a work in 12 days and B in 15 days. In how many days will they complete the work together?",
+          "q_hi": "A एक कार्य को 12 दिनों में और B 15 दिनों में कर सकता है। वे दोनों मिलकर कार्य को कितने दिनों में पूरा करेंगे?",
+          "opts": [
+            "20/3 days",
+            "27/2 days",
+            "30 days",
+            "27 days"
+          ],
+          "opts_hi": [
+            "20/3 दिन",
+            "27/2 दिन",
+            "30 दिन",
+            "27 दिन"
+          ],
+          "ans": 0
+        },
+        {
+          "q": "A man covers a distance of 60 km in 2 hours. What is his speed in km/h?",
+          "q_hi": "एक व्यक्ति 60 किमी की दूरी 2 घंटे में तय करता है। उसकी गति किमी/घंटा में क्या है?",
+          "opts": [
+            "30 km/h",
+            "40 km/h",
+            "20 km/h",
+            "50 km/h"
+          ],
+          "opts_hi": [
+            "30 किमी/घंटा",
+            "40 किमी/घंटा",
+            "20 किमी/घंटा",
+            "50 किमी/घंटा"
+          ],
+          "ans": 0
+        }
+      ]
     }
   ]
 }
