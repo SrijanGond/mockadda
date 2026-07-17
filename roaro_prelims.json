@@ -3676,6 +3676,65 @@
           "ans": 3
         }
       ]
+    },
+    {
+      "id": "roaro_prelims_8",
+      "title": "RO/ARO Prelims Mock Test 8",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Exercise Ekuverin is a bilateral military exercise between India and which country?",
+          "q_hi": "एकुवेरिन अभ्यास भारत और किस देश के बीच एक द्विपक्षीय सैन्य अभ्यास है?",
+          "opts": [
+            "Japan",
+            "Indonesia",
+            "Maldives",
+            "France"
+          ],
+          "opts_hi": [
+            "जापान",
+            "इंडोनेशिया",
+            "मालदीव",
+            "फ्रांस"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "According to the CMFRI 2025 data, which state is the top marine fish producing state in India?",
+          "q_hi": "CMFRI 2025 के आंकड़ों के अनुसार, भारत का शीर्ष समुद्री मछली उत्पादक राज्य कौन सा है?",
+          "opts": [
+            "Kerala",
+            "Andhra Pradesh",
+            "Tamil Nadu",
+            "Gujarat"
+          ],
+          "opts_hi": [
+            "केरल",
+            "आंध्र प्रदेश",
+            "तमिलनाडु",
+            "गुजरात"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "Which state became India's first to achieve fully paperless judiciary?",
+          "q_hi": "भारत का पहला पूर्णतः पेपरलेस न्यायपालिका वाला राज्य कौन सा बना?",
+          "opts": [
+            "Maharashtra",
+            "Kerala",
+            "Haryana",
+            "Assam"
+          ],
+          "opts_hi": [
+            "महाराष्ट्र",
+            "केरल",
+            "हरियाणा",
+            "असम"
+          ],
+          "ans": 2
+        }
+      ]
     }
   ]
 }
