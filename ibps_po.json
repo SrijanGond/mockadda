@@ -505,6 +505,65 @@
           "ans": 2
         }
       ]
+    },
+    {
+      "id": "ibps_po_9",
+      "title": "IBPS PO Mock Test 9",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which one of the following words/phrases is most appropriately used to denote 'an interoperable network of 3D virtual worlds that can be accessed simultaneously by millions of users, who can exert property rights over virtual items'?",
+          "q_hi": "एक इंटरऑपरेबल नेटवर्क ऑफ 3D वर्चुअल वर्ल्ड जिसे लाखों उपयोगकर्ता एक साथ एक्सेस कर सकते हैं, जो वर्चुअल आइटम्स पर संपत्ति अधिकार रख सकते हैं' को दर्शाने के लिए निम्नलिखित में से किस शब्द/वाक्यांश का सबसे उपयुक्त उपयोग किया जाता है?",
+          "opts": [
+            "Big data analytics",
+            "Cryptography",
+            "Metaverse",
+            "Virtual matrix"
+          ],
+          "opts_hi": [
+            "बिग डेटा एनालिटिक्स",
+            "क्रिप्टोग्राफी",
+            "मेटावर्स",
+            "वर्चुअल मैट्रिक्स"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "Recently, the term 'pumped-storage hydropower' is actually and appropriately discussed in the context of which one of the following?",
+          "q_hi": "हाल ही में, 'पंप-स्टोरेज हाइड्रोपावर' शब्द वास्तव में और उचित रूप से निम्नलिखित में से किसके संदर्भ में चर्चा की जाती है?",
+          "opts": [
+            "Irrigation of terraced crop fields",
+            "Lift irrigation of cereal crops",
+            "Long duration energy storage",
+            "Rainwater harvesting system"
+          ],
+          "opts_hi": [
+            "सीढ़ीदार फसल खेतों की सिंचाई",
+            "अनाज की फसलों की लिफ्ट सिंचाई",
+            "लंबी अवधि की ऊर्जा भंडारण",
+            "वर्षा जल संचयन प्रणाली"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "Which blood group is known as the 'universal donor'?",
+          "q_hi": "किस रक्त समूह को 'यूनिवर्सल डोनर' के रूप में जाना जाता है?",
+          "opts": [
+            "A Positive",
+            "O Negative",
+            "AB Positive",
+            "B Negative"
+          ],
+          "opts_hi": [
+            "A पॉजिटिव",
+            "O नेगेटिव",
+            "AB पॉजिटिव",
+            "B नेगेटिव"
+          ],
+          "ans": 1
+        }
+      ]
     }
   ]
 }
