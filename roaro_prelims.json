@@ -3735,6 +3735,65 @@
           "ans": 2
         }
       ]
+    },
+    {
+      "id": "roaro_prelims_9",
+      "title": "RO/ARO Prelims Mock Test 9",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which one of the following is synthesised in the human body that dilates blood vessels and increases blood flow?",
+          "q_hi": "मानव शरीर में निम्नलिखित में से कौन सा संश्लेषित होता है जो रक्त वाहिकाओं को फैलाता है और रक्त प्रवाह को बढ़ाता है?",
+          "opts": [
+            "Nitric oxide",
+            "Nitrous oxide",
+            "Nitrogen dioxide",
+            "Nitrogen pentoxide"
+          ],
+          "opts_hi": [
+            "नाइट्रिक ऑक्साइड",
+            "नाइट्रस ऑक्साइड",
+            "नाइट्रोजन डाइऑक्साइड",
+            "नाइट्रोजन पेंटॉक्साइड"
+          ],
+          "ans": 0
+        },
+        {
+          "q": "The CRISPR-Cas9 technology is primarily associated with which of the following?",
+          "q_hi": "CRISPR-Cas9 प्रौद्योगिकी मुख्य रूप से निम्नलिखित में से किससे संबंधित है?",
+          "opts": [
+            "Gene editing",
+            "Protein synthesis",
+            "Cell respiration",
+            "Photosynthesis"
+          ],
+          "opts_hi": [
+            "जीन संपादन",
+            "प्रोटीन संश्लेषण",
+            "कोशिकीय श्वसन",
+            "प्रकाश संश्लेषण"
+          ],
+          "ans": 0
+        },
+        {
+          "q": "What is the SI unit of frequency?",
+          "q_hi": "आवृत्ति की SI इकाई क्या है?",
+          "opts": [
+            "Hertz",
+            "Decibel",
+            "Ampere",
+            "Ohm"
+          ],
+          "opts_hi": [
+            "हर्ट्ज",
+            "डेसिबल",
+            "एम्पीयर",
+            "ओम"
+          ],
+          "ans": 0
+        }
+      ]
     }
   ]
 }
