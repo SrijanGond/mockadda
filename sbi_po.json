@@ -471,6 +471,31 @@
           "ans": 2
         }
       ]
+    },
+    {
+      "id": "sbi_po_9",
+      "title": "SBI PO Mock Test 9",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which of the following is the colour of light with the shortest wavelength?",
+          "q_hi": "सबसे छोटी तरंग दैर्ध्य वाले प्रकाश का रंग निम्नलिखित में से कौन सा है?",
+          "opts": [
+            "Red",
+            "Violet",
+            "Blue",
+            "Green"
+          ],
+          "opts_hi": [
+            "लाल",
+            "बैंगनी",
+            "नीला",
+            "हरा"
+          ],
+          "ans": 1
+        }
+      ]
     }
   ]
 }
