@@ -303,6 +303,31 @@
           "ans": 0
         }
       ]
+    },
+    {
+      "id": "ssc_chsl_5",
+      "title": "SSC CHSL Mock Test 5",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which of the following is the highest waterfall in India?",
+          "q_hi": "भारत की सबसे ऊँची जलप्रपात निम्नलिखित में से कौन सी है?",
+          "opts": [
+            "Jog Falls",
+            "Kunchikal Falls",
+            "Dudhsagar Falls",
+            "Hogenakkal Falls"
+          ],
+          "opts_hi": [
+            "जोग जलप्रपात",
+            "कुंचीकल जलप्रपात",
+            "दूधसागर जलप्रपात",
+            "होगेनकल जलप्रपात"
+          ],
+          "ans": 1
+        }
+      ]
     }
   ]
 }
