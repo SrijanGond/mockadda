@@ -252,6 +252,31 @@
           "ans": 0
         }
       ]
+    },
+    {
+      "id": "sbi_clerk_5",
+      "title": "SBI Clerk Mock Test 5",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which of the following is the first bank in India to introduce the 'Cash Recycler Machine'?",
+          "q_hi": "कैश रीसाइक्लर मशीन' शुरू करने वाला भारत का पहला बैंक निम्नलिखित में से कौन सा है?",
+          "opts": [
+            "HDFC Bank",
+            "ICICI Bank",
+            "Axis Bank",
+            "State Bank of India"
+          ],
+          "opts_hi": [
+            "HDFC बैंक",
+            "ICICI बैंक",
+            "एक्सिस बैंक",
+            "भारतीय स्टेट बैंक"
+          ],
+          "ans": 0
+        }
+      ]
     }
   ]
 }
