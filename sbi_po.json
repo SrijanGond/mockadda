@@ -336,6 +336,99 @@
           "ans": 0
         }
       ]
+    },
+    {
+      "id": "sbi_po_7",
+      "title": "SBI PO Mock Test 7",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Under updated RBI norms, what is the asset threshold below which a Type I NBFC (with no public funds and no customer interface) is exempt from registration?",
+          "q_hi": "अद्यतन RBI मानदंडों के तहत, वह संपत्ति सीमा क्या है जिसके तहत एक टाइप I NBFC (बिना सार्वजनिक निधि और बिना ग्राहक इंटरफेस के) पंजीकरण से छूट प्राप्त है?",
+          "opts": [
+            "₹50 crore",
+            "₹100 crore",
+            "₹200 crore",
+            "₹500 crore"
+          ],
+          "opts_hi": [
+            "₹50 करोड़",
+            "₹100 करोड़",
+            "₹200 करोड़",
+            "₹500 करोड़"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "As per RBI's Utkarsh 2029 strategy, which project is dedicated to modernizing currency management?",
+          "q_hi": "RBI की उत्कर्ष 2029 रणनीति के अनुसार, कौन सी परियोजना मुद्रा प्रबंधन के आधुनिकीकरण के लिए समर्पित है?",
+          "opts": [
+            "Project Digital Rupee",
+            "Project Sa-Mudra",
+            "Project Currency 2029",
+            "Project Cash 2.0"
+          ],
+          "opts_hi": [
+            "प्रोजेक्ट डिजिटल रुपया",
+            "प्रोजेक्ट सा-मुद्रा",
+            "प्रोजेक्ट करेंसी 2029",
+            "प्रोजेक्ट कैश 2.0"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "Under revised RBI norms, what is the maximum individual unsecured loan limit for Tier-1 Urban Cooperative Banks (UCBs)?",
+          "q_hi": "संशोधित RBI मानदंडों के तहत, टियर-1 शहरी सहकारी बैंकों (UCBs) के लिए अधिकतम व्यक्तिगत असुरक्षित ऋण सीमा क्या है?",
+          "opts": [
+            "₹2 lakh",
+            "₹5 lakh",
+            "₹10 lakh",
+            "₹15 lakh"
+          ],
+          "opts_hi": [
+            "₹2 लाख",
+            "₹5 लाख",
+            "₹10 लाख",
+            "₹15 लाख"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "According to RBI's FY27 projections, what is the CPI inflation rate?",
+          "q_hi": "RBI के FY27 अनुमानों के अनुसार, CPI मुद्रास्फीति दर क्या है?",
+          "opts": [
+            "0.035",
+            "0.04",
+            "0.045",
+            "0.05"
+          ],
+          "opts_hi": [
+            "0.035",
+            "0.04",
+            "0.045",
+            "0.05"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "What is India's rank in the global pollution rankings 2025 according to IQAir report?",
+          "q_hi": "IQAir रिपोर्ट के अनुसार वैश्विक प्रदूषण रैंकिंग 2025 में भारत का स्थान क्या है?",
+          "opts": [
+            "3rd",
+            "4th",
+            "5th",
+            "6th"
+          ],
+          "opts_hi": [
+            "तीसरा",
+            "चौथा",
+            "पाँचवाँ",
+            "छठा"
+          ],
+          "ans": 3
+        }
+      ]
     }
   ]
 }
