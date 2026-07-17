@@ -227,6 +227,31 @@
           "ans": 0
         }
       ]
+    },
+    {
+      "id": "sbi_clerk_4",
+      "title": "SBI Clerk Mock Test 4",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which of the following is the first bank in India to be fully digital?",
+          "q_hi": "भारत का पहला पूर्णतः डिजिटल बैंक निम्नलिखित में से कौन सा है?",
+          "opts": [
+            "Paytm Payments Bank",
+            "India Post Payments Bank",
+            "NSDL Payments Bank",
+            "Airtel Payments Bank"
+          ],
+          "opts_hi": [
+            "पेटीएम पेमेंट्स बैंक",
+            "इंडिया पोस्ट पेमेंट्स बैंक",
+            "NSDL पेमेंट्स बैंक",
+            "एयरटेल पेमेंट्स बैंक"
+          ],
+          "ans": 0
+        }
+      ]
     }
   ]
 }
