@@ -286,6 +286,31 @@
           "ans": 1
         }
       ]
+    },
+    {
+      "id": "rrb_ntpc_5",
+      "title": "RRB NTPC Mock Test 5",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which of the following is the headquarters of the Western Railway Zone?",
+          "q_hi": "पश्चिमी रेलवे क्षेत्र का मुख्यालय निम्नलिखित में से कौन सा है?",
+          "opts": [
+            "Mumbai",
+            "Ahmedabad",
+            "Ratlam",
+            "Vadodara"
+          ],
+          "opts_hi": [
+            "मुंबई",
+            "अहमदाबाद",
+            "रतलाम",
+            "वडोदरा"
+          ],
+          "ans": 0
+        }
+      ]
     }
   ]
 }
