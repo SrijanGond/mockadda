@@ -252,6 +252,48 @@
           "ans": 0
         }
       ]
+    },
+    {
+      "id": "rrb_group_d_5",
+      "title": "RRB Group D Mock Test 5",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which cricketers were honoured with the Padma Shri in 2026?",
+          "q_hi": "2026 में किन क्रिकेटरों को पद्म श्री से सम्मानित किया गया?",
+          "opts": [
+            "Virat Kohli and Smriti Mandhana",
+            "Rohit Sharma and Harmanpreet Kaur",
+            "MS Dhoni and Mithali Raj",
+            "Ravichandran Ashwin and Jemimah Rodrigues"
+          ],
+          "opts_hi": [
+            "विराट कोहली और स्मृति मंधाना",
+            "रोहित शर्मा और हरमनप्रीत कौर",
+            "एमएस धोनी और मिताली राज",
+            "रविचंद्रन अश्विन और जेमिमा रोड्रिग्स"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "Which state launched 'Nivesh Mitra 3.0' in March 2026?",
+          "q_hi": "मार्च 2026 में किस राज्य ने 'निवेश मित्र 3.0' लॉन्च किया?",
+          "opts": [
+            "Bihar",
+            "Madhya Pradesh",
+            "Uttar Pradesh",
+            "Rajasthan"
+          ],
+          "opts_hi": [
+            "बिहार",
+            "मध्य प्रदेश",
+            "उत्तर प्रदेश",
+            "राजस्थान"
+          ],
+          "ans": 2
+        }
+      ]
     }
   ]
 }
