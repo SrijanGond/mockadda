@@ -277,6 +277,65 @@
           "ans": 1
         }
       ]
+    },
+    {
+      "id": "ctet_6",
+      "title": "CTET Mock Test 6",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which organization launched India's first Bee Corridors initiative?",
+          "q_hi": "भारत की पहली बी कॉरिडोर पहल किस संगठन ने शुरू की?",
+          "opts": [
+            "NITI Aayog",
+            "NHAI (National Highways Authority of India)",
+            "Ministry of Environment",
+            "ICAR"
+          ],
+          "opts_hi": [
+            "नीति आयोग",
+            "NHAI (राष्ट्रीय राजमार्ग प्राधिकरण)",
+            "पर्यावरण मंत्रालय",
+            "ICAR"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "Tejaswin Shankar won gold in which event at the Asian Indoor Athletics Championships 2026?",
+          "q_hi": "तेजस्विन शंकर ने एशियाई इंडोर एथलेटिक्स चैंपियनशिप 2026 में किस स्पर्धा में स्वर्ण जीता?",
+          "opts": [
+            "High Jump",
+            "Long Jump",
+            "Heptathlon",
+            "Shot Put"
+          ],
+          "opts_hi": [
+            "हाई जंप",
+            "लॉन्ग जंप",
+            "हेप्टाथलॉन",
+            "शॉट पुट"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "The Reserve Bank of India's Q-SAFE expert panel was formed to explore security frameworks in which sector?",
+          "q_hi": "भारतीय रिजर्व बैंक के Q-SAFE विशेषज्ञ पैनल का गठन किस क्षेत्र में सुरक्षा ढाँचे का पता लगाने के लिए किया गया था?",
+          "opts": [
+            "Banking sector only",
+            "Financial sector",
+            "Defence sector",
+            "Space technology sector"
+          ],
+          "opts_hi": [
+            "केवल बैंकिंग क्षेत्र",
+            "वित्तीय क्षेत्र",
+            "रक्षा क्षेत्र",
+            "अंतरिक्ष प्रौद्योगिकी क्षेत्र"
+          ],
+          "ans": 1
+        }
+      ]
     }
   ]
 }
