@@ -277,6 +277,48 @@
           "ans": 0
         }
       ]
+    },
+    {
+      "id": "sbi_clerk_6",
+      "title": "SBI Clerk Mock Test 6",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "A sum of money doubles itself in 8 years at simple interest. What is the rate of interest?",
+          "q_hi": "कोई राशि साधारण ब्याज पर 8 वर्षों में दोगुनी हो जाती है। ब्याज की दर क्या है?",
+          "opts": [
+            "0.1",
+            "0.125",
+            "0.15",
+            "0.08"
+          ],
+          "opts_hi": [
+            "0.1",
+            "0.125",
+            "0.15",
+            "0.08"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "The ratio of the ages of Ram and Shyam is 3:4. After 5 years, the ratio becomes 4:5. What is Shyam's present age?",
+          "q_hi": "राम और श्याम की आयु का अनुपात 3:4 है। 5 वर्ष बाद अनुपात 4:5 हो जाता है। श्याम की वर्तमान आयु क्या है?",
+          "opts": [
+            "15 years",
+            "20 years",
+            "25 years",
+            "30 years"
+          ],
+          "opts_hi": [
+            "15 वर्ष",
+            "20 वर्ष",
+            "25 वर्ष",
+            "30 वर्ष"
+          ],
+          "ans": 1
+        }
+      ]
     }
   ]
 }
