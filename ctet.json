@@ -336,6 +336,31 @@
           "ans": 1
         }
       ]
+    },
+    {
+      "id": "ctet_7",
+      "title": "CTET Mock Test 7",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which of the following is used as an antacid to neutralize excess stomach acid?",
+          "q_hi": "निम्नलिखित में से किसका उपयोग अतिरिक्त पेट के एसिड को बेअसर करने के लिए एंटासिड के रूप में किया जाता है?",
+          "opts": [
+            "Sodium Hydroxide",
+            "Magnesium Hydroxide",
+            "Hydrochloric Acid",
+            "Sulphuric Acid"
+          ],
+          "opts_hi": [
+            "सोडियम हाइड्रॉक्साइड",
+            "मैग्नीशियम हाइड्रॉक्साइड",
+            "हाइड्रोक्लोरिक एसिड",
+            "सल्फ्यूरिक एसिड"
+          ],
+          "ans": 1
+        }
+      ]
     }
   ]
 }
