@@ -429,6 +429,31 @@
           "ans": 0
         }
       ]
+    },
+    {
+      "id": "rrb_ntpc_8",
+      "title": "RRB NTPC Mock Test 8",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Bharat-VISTAAR, an AI-powered multilingual advisory platform for farmers, was announced in which budget?",
+          "q_hi": "भारत-विस्तार, किसानों के लिए एक AI-संचालित बहुभाषी सलाहकार प्लेटफॉर्म, किस बजट में घोषित किया गया था?",
+          "opts": [
+            "2024-25",
+            "2025-26",
+            "2026-27",
+            "None"
+          ],
+          "opts_hi": [
+            "2024-25",
+            "2025-26",
+            "2026-27",
+            "कोई नहीं"
+          ],
+          "ans": 1
+        }
+      ]
     }
   ]
 }
