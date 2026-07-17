@@ -202,6 +202,31 @@
           "ans": 1
         }
       ]
+    },
+    {
+      "id": "rrb_group_d_3",
+      "title": "RRB Group D Mock Test 3",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which of the following is the official language of the Supreme Court of India?",
+          "q_hi": "भारत के सर्वोच्च न्यायालय की राजभाषा निम्नलिखित में से कौन सी है?",
+          "opts": [
+            "Hindi",
+            "English",
+            "Both Hindi and English",
+            "Sanskrit"
+          ],
+          "opts_hi": [
+            "हिंदी",
+            "अंग्रेजी",
+            "हिंदी और अंग्रेजी दोनों",
+            "संस्कृत"
+          ],
+          "ans": 1
+        }
+      ]
     }
   ]
 }
