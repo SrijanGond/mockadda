@@ -63,6 +63,13 @@
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 5
+          },
+          {
+            "id": "ssc_cgl_9",
+            "title": "SSC CGL Mock Test 9",
+            "duration": 10,
+            "difficulty": "Medium",
+            "questionCount": 3
           }
         ]
       },
@@ -118,6 +125,13 @@
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 4
+          },
+          {
+            "id": "ssc_chsl_8",
+            "title": "SSC CHSL Mock Test 8",
+            "duration": 10,
+            "difficulty": "Medium",
+            "questionCount": 2
           }
         ]
       },
@@ -166,6 +180,13 @@
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 1
+          },
+          {
+            "id": "ssc_mts_7",
+            "title": "SSC MTS Mock Test 7",
+            "duration": 10,
+            "difficulty": "Medium",
+            "questionCount": 2
           }
         ]
       }
@@ -228,6 +249,13 @@
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 5
+          },
+          {
+            "id": "sbi_po_8",
+            "title": "SBI PO Mock Test 8",
+            "duration": 10,
+            "difficulty": "Medium",
+            "questionCount": 2
           }
         ]
       },
@@ -283,6 +311,13 @@
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 4
+          },
+          {
+            "id": "ibps_po_8",
+            "title": "IBPS PO Mock Test 8",
+            "duration": 10,
+            "difficulty": "Medium",
+            "questionCount": 3
           }
         ]
       },
@@ -331,6 +366,13 @@
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 2
+          },
+          {
+            "id": "sbi_clerk_7",
+            "title": "SBI Clerk Mock Test 7",
+            "duration": 10,
+            "difficulty": "Medium",
+            "questionCount": 3
           }
         ]
       }
@@ -393,6 +435,13 @@
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 3
+          },
+          {
+            "id": "rrb_ntpc_8",
+            "title": "RRB NTPC Mock Test 8",
+            "duration": 10,
+            "difficulty": "Medium",
+            "questionCount": 1
           }
         ]
       },
@@ -431,6 +480,13 @@
           {
             "id": "rrb_group_d_5",
             "title": "RRB Group D Mock Test 5",
+            "duration": 10,
+            "difficulty": "Medium",
+            "questionCount": 2
+          },
+          {
+            "id": "rrb_group_d_6",
+            "title": "RRB Group D Mock Test 6",
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 2
@@ -482,6 +538,13 @@
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 1
+          },
+          {
+            "id": "ctet_6",
+            "title": "CTET Mock Test 6",
+            "duration": 10,
+            "difficulty": "Medium",
+            "questionCount": 3
           }
         ]
       },
@@ -509,6 +572,13 @@
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 1
+          },
+          {
+            "id": "kvs_4",
+            "title": "KVS Mock Test 4",
+            "duration": 10,
+            "difficulty": "Medium",
+            "questionCount": 2
           }
         ]
       }
@@ -585,6 +655,13 @@
             "duration": 14,
             "difficulty": "Medium",
             "questionCount": 12
+          },
+          {
+            "id": "upsc_prelims_10",
+            "title": "UPSC Prelims Mock Test 10",
+            "duration": 16,
+            "difficulty": "Medium",
+            "questionCount": 13
           }
         ]
       }
@@ -647,6 +724,13 @@
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 4
+          },
+          {
+            "id": "roaro_prelims_8",
+            "title": "RO/ARO Prelims Mock Test 8",
+            "duration": 10,
+            "difficulty": "Medium",
+            "questionCount": 3
           }
         ]
       }
