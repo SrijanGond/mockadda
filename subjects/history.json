@@ -1,0 +1,55 @@
+{
+  "questions": [
+    {
+      "q": "With reference to ancient Indian history, what does the term 'Tripitaka' refer to?",
+      "q_hi": "प्राचीन भारतीय इतिहास के संदर्भ में, 'त्रिपिटक' शब्द किसे संदर्भित करता है?",
+      "opts": [
+        "Hindu scriptures",
+        "Buddhist canonical texts",
+        "Jain Agamas",
+        "Vedas"
+      ],
+      "opts_hi": [
+        "हिंदू धर्मग्रंथ",
+        "बौद्ध सिद्धांत ग्रंथ",
+        "जैन आगम",
+        "वेद"
+      ],
+      "ans": 1
+    },
+    {
+      "q": "The first session of the Indian National Congress was held in which city?",
+      "q_hi": "भारतीय राष्ट्रीय कांग्रेस का पहला सत्र किस शहर में आयोजित किया गया था?",
+      "opts": [
+        "Calcutta (Kolkata)",
+        "Bombay (Mumbai)",
+        "Madras (Chennai)",
+        "Poona (Pune)"
+      ],
+      "opts_hi": [
+        "कलकत्ता (कोलकाता)",
+        "बॉम्बे (मुंबई)",
+        "मद्रास (चेन्नई)",
+        "पूना (पुणे)"
+      ],
+      "ans": 1
+    },
+    {
+      "q": "Which of the following is the oldest Veda?",
+      "q_hi": "निम्नलिखित में से कौन सा सबसे पुराना वेद है?",
+      "opts": [
+        "Samaveda",
+        "Yajurveda",
+        "Rigveda",
+        "Atharvaveda"
+      ],
+      "opts_hi": [
+        "सामवेद",
+        "यजुर्वेद",
+        "ऋग्वेद",
+        "अथर्ववेद"
+      ],
+      "ans": 2
+    }
+  ]
+}
