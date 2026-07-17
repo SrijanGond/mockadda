@@ -202,6 +202,31 @@
           "ans": 2
         }
       ]
+    },
+    {
+      "id": "kvs_3",
+      "title": "KVS Mock Test 3",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "According to Vygotsky, what is the term for the difference between what a child can do independently and what they can achieve with guidance?",
+          "q_hi": "वायगोत्स्की के अनुसार, एक बच्चा स्वतंत्र रूप से क्या कर सकता है और मार्गदर्शन के साथ क्या प्राप्त कर सकता है, के बीच के अंतर के लिए क्या शब्द है?",
+          "opts": [
+            "Zone of Proximal Development (ZPD)",
+            "Scaffolding",
+            "Piaget's Stage",
+            "Sensorimotor Stage"
+          ],
+          "opts_hi": [
+            "समीपस्थ विकास का क्षेत्र (ZPD)",
+            "स्कैफोल्डिंग",
+            "पियाजे की अवस्था",
+            "संवेदी-गामक अवस्था"
+          ],
+          "ans": 0
+        }
+      ]
     }
   ]
 }
