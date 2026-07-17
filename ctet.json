@@ -227,6 +227,31 @@
           "ans": 1
         }
       ]
+    },
+    {
+      "id": "ctet_4",
+      "title": "CTET Mock Test 4",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which of the following is the most important factor for a child's cognitive development according to Jean Piaget?",
+          "q_hi": "जीन पियाजे के अनुसार, बच्चे के संज्ञानात्मक विकास के लिए निम्नलिखित में से कौन सा सबसे महत्वपूर्ण कारक है?",
+          "opts": [
+            "Genetic factors",
+            "Social interaction",
+            "Maturation",
+            "Education"
+          ],
+          "opts_hi": [
+            "आनुवंशिक कारक",
+            "सामाजिक संपर्क",
+            "परिपक्वता",
+            "शिक्षा"
+          ],
+          "ans": 2
+        }
+      ]
     }
   ]
 }
