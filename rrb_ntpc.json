@@ -244,6 +244,48 @@
           "ans": 2
         }
       ]
+    },
+    {
+      "id": "rrb_ntpc_4",
+      "title": "RRB NTPC Mock Test 4",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which of the following is the longest railway platform in India?",
+          "q_hi": "भारत का सबसे लंबा रेलवे प्लेटफॉर्म निम्नलिखित में से कौन सा है?",
+          "opts": [
+            "Howrah Junction",
+            "Gorakhpur Junction",
+            "New Delhi Station",
+            "Mumbai Central"
+          ],
+          "opts_hi": [
+            "हावड़ा जंक्शन",
+            "गोरखपुर जंक्शन",
+            "नई दिल्ली स्टेशन",
+            "मुंबई सेंट्रल"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "Which of the following is the highest court of appeal in India?",
+          "q_hi": "भारत में सर्वोच्च अपील न्यायालय निम्नलिखित में से कौन सा है?",
+          "opts": [
+            "High Court",
+            "Supreme Court",
+            "District Court",
+            "Session Court"
+          ],
+          "opts_hi": [
+            "उच्च न्यायालय",
+            "सर्वोच्च न्यायालय",
+            "जिला न्यायालय",
+            "सत्र न्यायालय"
+          ],
+          "ans": 1
+        }
+      ]
     }
   ]
 }
