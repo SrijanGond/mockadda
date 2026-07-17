@@ -319,6 +319,65 @@
           "ans": 1
         }
       ]
+    },
+    {
+      "id": "sbi_clerk_7",
+      "title": "SBI Clerk Mock Test 7",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "The Global River Cities Alliance was initiated by India in which mission?",
+          "q_hi": "ग्लोबल रिवर सिटीज अलायंस की शुरुआत भारत ने किस मिशन में की?",
+          "opts": [
+            "Smart Cities Mission",
+            "National Mission for Clean Ganga",
+            "Namami Gange Programme",
+            "Jal Jeevan Mission"
+          ],
+          "opts_hi": [
+            "स्मार्ट सिटी मिशन",
+            "राष्ट्रीय स्वच्छ गंगा मिशन",
+            "नमामि गंगे कार्यक्रम",
+            "जल जीवन मिशन"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "Under SEBI's revised regulations, what is the new minimum investment amount for individual investors in social impact funds?",
+          "q_hi": "SEBI के संशोधित विनियमों के तहत, सोशल इम्पैक्ट फंड्स में व्यक्तिगत निवेशकों के लिए नई न्यूनतम निवेश राशि क्या है?",
+          "opts": [
+            "₹1,000",
+            "₹10,000",
+            "₹50,000",
+            "₹2,00,000"
+          ],
+          "opts_hi": [
+            "₹1,000",
+            "₹10,000",
+            "₹50,000",
+            "₹2,00,000"
+          ],
+          "ans": 0
+        },
+        {
+          "q": "Which new IT platform was launched by SEBI to replace email-based regulatory communication?",
+          "q_hi": "ईमेल-आधारित नियामक संचार को बदलने के लिए SEBI द्वारा कौन सा नया IT प्लेटफॉर्म लॉन्च किया गया?",
+          "opts": [
+            "SEBI Connect",
+            "SEBI Portal",
+            "SEBI e-Office",
+            "SEBI Sahyog"
+          ],
+          "opts_hi": [
+            "SEBI कनेक्ट",
+            "SEBI पोर्टल",
+            "SEBI ई-ऑफिस",
+            "SEBI सहयोग"
+          ],
+          "ans": 0
+        }
+      ]
     }
   ]
 }
