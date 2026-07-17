@@ -446,6 +446,65 @@
           "ans": 1
         }
       ]
+    },
+    {
+      "id": "ibps_po_8",
+      "title": "IBPS PO Mock Test 8",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Under the RBI's revised framework, what is the asset threshold below which Type I NBFCs with no public funds and no customer interface are exempt from registration?",
+          "q_hi": "RBI के संशोधित ढाँचे के तहत, बिना सार्वजनिक निधि और बिना ग्राहक इंटरफेस वाले टाइप I NBFC, किस संपत्ति सीमा से नीचे पंजीकरण से छूट प्राप्त हैं?",
+          "opts": [
+            "₹50 crore",
+            "₹100 crore",
+            "₹200 crore",
+            "₹500 crore"
+          ],
+          "opts_hi": [
+            "₹50 करोड़",
+            "₹100 करोड़",
+            "₹200 करोड़",
+            "₹500 करोड़"
+          ],
+          "ans": 1
+        },
+        {
+          "q": "Under RBI's revised guidelines for recurring digital payments, what is the threshold for transactions permitted without Additional Factor of Authentication (AFA) for insurance premium payments and mutual fund subscriptions?",
+          "q_hi": "RBI के आवर्ती डिजिटल भुगतान के लिए संशोधित दिशानिर्देशों के तहत, बीमा प्रीमियम भुगतान और म्यूचुअल फंड सब्सक्रिप्शन के लिए बिना अतिरिक्त प्रमाणीकरण कारक (AFA) के अनुमत लेनदेन की सीमा क्या है?",
+          "opts": [
+            "₹15,000",
+            "₹25,000",
+            "₹50,000",
+            "₹1,00,000"
+          ],
+          "opts_hi": [
+            "₹15,000",
+            "₹25,000",
+            "₹50,000",
+            "₹1,00,000"
+          ],
+          "ans": 3
+        },
+        {
+          "q": "The Shahpur Kandi Dam, which prevents unused flows into Pakistan, is located in which state?",
+          "q_hi": "शाहपुर कंडी बांध, जो पाकिस्तान में अप्रयुक्त प्रवाह को रोकता है, किस राज्य में स्थित है?",
+          "opts": [
+            "Himachal Pradesh",
+            "Uttarakhand",
+            "Punjab",
+            "Jammu and Kashmir"
+          ],
+          "opts_hi": [
+            "हिमाचल प्रदेश",
+            "उत्तराखंड",
+            "पंजाब",
+            "जम्मू और कश्मीर"
+          ],
+          "ans": 2
+        }
+      ]
     }
   ]
 }
