@@ -42,6 +42,13 @@
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 3
+          },
+          {
+            "id": "ssc_cgl_6",
+            "title": "SSC CGL Mock Test 6",
+            "duration": 10,
+            "difficulty": "Medium",
+            "questionCount": 4
           }
         ]
       },
@@ -76,6 +83,13 @@
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 3
+          },
+          {
+            "id": "ssc_chsl_5",
+            "title": "SSC CHSL Mock Test 5",
+            "duration": 10,
+            "difficulty": "Medium",
+            "questionCount": 1
           }
         ]
       },
@@ -103,6 +117,13 @@
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 2
+          },
+          {
+            "id": "ssc_mts_4",
+            "title": "SSC MTS Mock Test 4",
+            "duration": 10,
+            "difficulty": "Medium",
+            "questionCount": 1
           }
         ]
       }
@@ -144,6 +165,13 @@
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 1
+          },
+          {
+            "id": "sbi_po_5",
+            "title": "SBI PO Mock Test 5",
+            "duration": 10,
+            "difficulty": "Medium",
+            "questionCount": 2
           }
         ]
       },
@@ -178,6 +206,13 @@
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 2
+          },
+          {
+            "id": "ibps_po_5",
+            "title": "IBPS PO Mock Test 5",
+            "duration": 10,
+            "difficulty": "Medium",
+            "questionCount": 1
           }
         ]
       },
@@ -209,6 +244,13 @@
           {
             "id": "sbi_clerk_4",
             "title": "SBI Clerk Mock Test 4",
+            "duration": 10,
+            "difficulty": "Medium",
+            "questionCount": 1
+          },
+          {
+            "id": "sbi_clerk_5",
+            "title": "SBI Clerk Mock Test 5",
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 1
@@ -253,6 +295,13 @@
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 2
+          },
+          {
+            "id": "rrb_ntpc_5",
+            "title": "RRB NTPC Mock Test 5",
+            "duration": 10,
+            "difficulty": "Medium",
+            "questionCount": 1
           }
         ]
       },
@@ -270,6 +319,13 @@
           {
             "id": "rrb_group_d_2",
             "title": "RRB Group D Mock Test 2",
+            "duration": 10,
+            "difficulty": "Medium",
+            "questionCount": 1
+          },
+          {
+            "id": "rrb_group_d_3",
+            "title": "RRB Group D Mock Test 3",
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 1
@@ -311,6 +367,13 @@
           {
             "id": "ctet_4",
             "title": "CTET Mock Test 4",
+            "duration": 10,
+            "difficulty": "Medium",
+            "questionCount": 1
+          },
+          {
+            "id": "ctet_5",
+            "title": "CTET Mock Test 5",
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 1
@@ -396,6 +459,13 @@
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 6
+          },
+          {
+            "id": "upsc_prelims_7",
+            "title": "UPSC Prelims Mock Test 7",
+            "duration": 10,
+            "difficulty": "Medium",
+            "questionCount": 4
           }
         ]
       }
@@ -444,6 +514,13 @@
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 1
+          },
+          {
+            "id": "roaro_prelims_6",
+            "title": "RO/ARO Prelims Mock Test 6",
+            "duration": 10,
+            "difficulty": "Medium",
+            "questionCount": 3
           }
         ]
       }
