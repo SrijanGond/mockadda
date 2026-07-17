@@ -3516,6 +3516,31 @@
           "ans": 0
         }
       ]
+    },
+    {
+      "id": "roaro_prelims_5",
+      "title": "RO/ARO Prelims Mock Test 5",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which of the following Schedules of the Indian Constitution deals with the administration of Scheduled Areas and Tribal Areas?",
+          "q_hi": "भारतीय संविधान की निम्नलिखित में से कौन सी अनुसूची अनुसूचित क्षेत्रों और जनजातीय क्षेत्रों के प्रशासन से संबंधित है?",
+          "opts": [
+            "Fifth Schedule",
+            "Sixth Schedule",
+            "Eighth Schedule",
+            "Tenth Schedule"
+          ],
+          "opts_hi": [
+            "पाँचवीं अनुसूची",
+            "छठी अनुसूची",
+            "आठवीं अनुसूची",
+            "दसवीं अनुसूची"
+          ],
+          "ans": 1
+        }
+      ]
     }
   ]
 }
