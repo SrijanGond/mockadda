@@ -429,6 +429,48 @@
           "ans": 3
         }
       ]
+    },
+    {
+      "id": "sbi_po_8",
+      "title": "SBI PO Mock Test 8",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which agency was assigned the role of PARRV (Passive Risk and Return Verification) under the SEBI framework?",
+          "q_hi": "SEBI ढाँचे के तहत PARRV (पैसिव रिस्क एंड रिटर्न वेरिफिकेशन) की भूमिका किस एजेंसी को सौंपी गई?",
+          "opts": [
+            "CRISIL",
+            "ICRA",
+            "CARE Ratings",
+            "India Ratings"
+          ],
+          "opts_hi": [
+            "CRISIL",
+            "ICRA",
+            "CARE रेटिंग्स",
+            "इंडिया रेटिंग्स"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "As per RBI's revised guidelines effective from 2026, what is the cooling-off period for directors upon completion of a continuous tenure of ten years on the board of UCBs and RCBs?",
+          "q_hi": "RBI के संशोधित दिशानिर्देशों के अनुसार 2026 से प्रभावी, UCBs और RCBs के बोर्ड पर दस वर्षों की निरंतर अवधि पूरी होने पर निदेशकों के लिए कूलिंग-ऑफ अवधि क्या है?",
+          "opts": [
+            "1 year",
+            "2 years",
+            "3 years",
+            "5 years"
+          ],
+          "opts_hi": [
+            "1 वर्ष",
+            "2 वर्ष",
+            "3 वर्ष",
+            "5 वर्ष"
+          ],
+          "ans": 2
+        }
+      ]
     }
   ]
 }
