@@ -361,6 +361,48 @@
           "ans": 3
         }
       ]
+    },
+    {
+      "id": "ssc_mts_8",
+      "title": "SSC MTS Mock Test 8",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which of the following vitamins is synthesized in the human body with the help of sunlight?",
+          "q_hi": "मानव शरीर में सूर्य के प्रकाश की सहायता से निम्नलिखित में से कौन सा विटामिन संश्लेषित होता है?",
+          "opts": [
+            "Vitamin A",
+            "Vitamin B12",
+            "Vitamin D",
+            "Vitamin K"
+          ],
+          "opts_hi": [
+            "विटामिन A",
+            "विटामिन B12",
+            "विटामिन D",
+            "विटामिन K"
+          ],
+          "ans": 2
+        },
+        {
+          "q": "Which of the following is the unit of acceleration?",
+          "q_hi": "त्वरण की इकाई निम्नलिखित में से कौन सी है?",
+          "opts": [
+            "m/s",
+            "m/s²",
+            "kg m/s",
+            "Joule"
+          ],
+          "opts_hi": [
+            "मी/से",
+            "मी/से²",
+            "किग्रा मी/से",
+            "जूल"
+          ],
+          "ans": 1
+        }
+      ]
     }
   ]
 }
