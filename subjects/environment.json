@@ -1,0 +1,38 @@
+{
+  "questions": [
+    {
+      "q": "Which of the following is the first national park of India?",
+      "q_hi": "भारत का पहला राष्ट्रीय उद्यान निम्नलिखित में से कौन सा है?",
+      "opts": [
+        "Kanha National Park",
+        "Jim Corbett National Park",
+        "Bandhavgarh National Park",
+        "Kaziranga National Park"
+      ],
+      "opts_hi": [
+        "कान्हा राष्ट्रीय उद्यान",
+        "जिम कॉर्बेट राष्ट्रीय उद्यान",
+        "बांधवगढ़ राष्ट्रीय उद्यान",
+        "काजीरंगा राष्ट्रीय उद्यान"
+      ],
+      "ans": 1
+    },
+    {
+      "q": "Which of the following is the first biosphere reserve of India?",
+      "q_hi": "भारत का पहला बायोस्फीयर रिजर्व निम्नलिखित में से कौन सा है?",
+      "opts": [
+        "Sundarbans",
+        "Nilgiri",
+        "Nanda Devi",
+        "Gulf of Mannar"
+      ],
+      "opts_hi": [
+        "सुंदरवन",
+        "नीलगिरी",
+        "नंदा देवी",
+        "मन्नार की खाड़ी"
+      ],
+      "ans": 1
+    }
+  ]
+}
