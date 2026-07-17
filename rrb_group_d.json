@@ -227,6 +227,31 @@
           "ans": 1
         }
       ]
+    },
+    {
+      "id": "rrb_group_d_4",
+      "title": "RRB Group D Mock Test 4",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "A train 200 m long passes a pole in 10 seconds. What is the speed of the train in km/h?",
+          "q_hi": "200 मीटर लंबी एक ट्रेन एक खंभे को 10 सेकंड में पार करती है। ट्रेन की गति किमी/घंटा में क्या है?",
+          "opts": [
+            "72 km/h",
+            "60 km/h",
+            "80 km/h",
+            "54 km/h"
+          ],
+          "opts_hi": [
+            "72 किमी/घंटा",
+            "60 किमी/घंटा",
+            "80 किमी/घंटा",
+            "54 किमी/घंटा"
+          ],
+          "ans": 0
+        }
+      ]
     }
   ]
 }
