@@ -879,6 +879,32 @@
           "subject": "Mathematics"
         }
       ]
+    },
+    {
+      "id": "ssc_cgl_13",
+      "title": "SSC CGL Mock Test 13",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which of the following statements with regard to genetic medicine is/are correct? 1. Genetic medicines correct/compensate for the faulty genes responsible for disease. 2. Engineered viruses and lipid nanoparticles are used as carriers of the genetic medicine. 3. Genetic medicines alter the entire DNA sequence.",
+          "q_hi": "आनुवंशिक चिकित्सा के संबंध में निम्नलिखित में से कौन सा/से कथन सही है/हैं? 1. आनुवंशिक दवाएँ रोग के लिए जिम्मेदार दोषपूर्ण जीन को सही/क्षतिपूर्ति करती हैं। 2. आनुवंशिक दवा के वाहक के रूप में इंजीनियर वायरस और लिपिड नैनोकणों का उपयोग किया जाता है। 3. आनुवंशिक दवाएँ संपूर्ण DNA अनुक्रम को बदल देती हैं।",
+          "opts": [
+            "1 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "opts_hi": [
+            "केवल 1",
+            "केवल 1 और 2",
+            "केवल 2 और 3",
+            "1, 2 और 3"
+          ],
+          "ans": 1,
+          "subject": "Science"
+        }
+      ]
     }
   ]
 }
