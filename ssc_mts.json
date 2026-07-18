@@ -429,6 +429,32 @@
           "subject": "Mathematics"
         }
       ]
+    },
+    {
+      "id": "ssc_mts_10",
+      "title": "SSC MTS Mock Test 10",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "If the angles of a triangle are 2x, 3x and 4x, find the value of x.",
+          "q_hi": "यदि एक त्रिभुज के कोण 2x, 3x और 4x हैं, तो x का मान ज्ञात करें।",
+          "opts": [
+            "10°",
+            "15°",
+            "20°",
+            "25°"
+          ],
+          "opts_hi": [
+            "10°",
+            "15°",
+            "20°",
+            "25°"
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        }
+      ]
     }
   ]
 }
