@@ -564,6 +564,32 @@
           "ans": 1
         }
       ]
+    },
+    {
+      "id": "ibps_po_10",
+      "title": "IBPS PO Mock Test 10",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Find the average of the first 10 natural numbers.",
+          "q_hi": "प्रथम 10 प्राकृतिक संख्याओं का औसत ज्ञात करें।",
+          "opts": [
+            "4.5",
+            "5",
+            "5.5",
+            "6"
+          ],
+          "opts_hi": [
+            "4.5",
+            "5",
+            "5.5",
+            "6"
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        }
+      ]
     }
   ]
 }
