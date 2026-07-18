@@ -746,6 +746,50 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "sbi_clerk_16",
+      "title": "SBI Clerk Mock Test 16",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Five friends A, B, C, D, E have different weights. A is heavier than B but lighter than C. D is heavier than E. Who is the second heaviest?",
+          "q_hi": "पाँच मित्र A, B, C, D, E के अलग-अलग वजन हैं। A, B से भारी है लेकिन C से हल्का है। D, E से भारी है। दूसरा सबसे भारी कौन है?",
+          "opts": [
+            "A",
+            "C",
+            "D",
+            "Cannot be determined"
+          ],
+          "opts_hi": [
+            "A",
+            "C",
+            "D",
+            "निर्धारित नहीं किया जा सकता"
+          ],
+          "ans": 3,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "If \"MULTIPLY\" is coded as \"NWMJUQMZ\" and \"DIVIDE\" is coded as \"EJWJEF\", then \"SUBTRACT\" is coded as:",
+          "q_hi": "यदि \"MULTIPLY\" को \"NWMJUQMZ\" के रूप में कोडित किया जाता है और \"DIVIDE\" को \"EJWJEF\" के रूप में कोडित किया जाता है, तो \"SUBTRACT\" को किस रूप में कोडित किया जाएगा?",
+          "opts": [
+            "TVCUSBDU",
+            "TVCUSBDU",
+            "TVCUSCDU",
+            "TVCUSBEU"
+          ],
+          "opts_hi": [
+            "TVCUSBDU",
+            "TVCUSBDU",
+            "TVCUSCDU",
+            "TVCUSBEU"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
