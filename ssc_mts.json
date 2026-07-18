@@ -587,6 +587,50 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "ssc_mts_14",
+      "title": "SSC MTS Mock Test 14",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What is the angle between the hour and minute hands of a clock at 9:00?",
+          "q_hi": "9:00 पर घड़ी की घंटे और मिनट की सुइयों के बीच का कोण क्या है?",
+          "opts": [
+            "90°",
+            "180°",
+            "270°",
+            "0°"
+          ],
+          "opts_hi": [
+            "90°",
+            "180°",
+            "270°",
+            "0°"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "A person walks 5 km towards East, then turns right and walks 12 km, then turns right and walks 5 km. How far is he from the starting point?",
+          "q_hi": "एक व्यक्ति पूर्व की ओर 5 किमी चलता है, फिर दाएँ मुड़ता है और 12 किमी चलता है, फिर दाएँ मुड़ता है और 5 किमी चलता है। वह आरंभिक बिंदु से कितनी दूर है?",
+          "opts": [
+            "5 km",
+            "12 km",
+            "13 km",
+            "17 km"
+          ],
+          "opts_hi": [
+            "5 किमी",
+            "12 किमी",
+            "13 किमी",
+            "17 किमी"
+          ],
+          "ans": 1,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
