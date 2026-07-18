@@ -864,6 +864,68 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "ibps_po_16",
+      "title": "IBPS PO Mock Test 16",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "If \"INDIA\" is coded as \"KPFKC\" and \"CHINA\" is coded as \"EJKPC\", then \"BHARAT\" is coded as:",
+          "q_hi": "यदि \"INDIA\" को \"KPFKC\" के रूप में कोडित किया जाता है और \"CHINA\" को \"EJKPC\" के रूप में कोडित किया जाता है, तो \"BHARAT\" को किस रूप में कोडित किया जाएगा?",
+          "opts": [
+            "DJCTCV",
+            "DJCTCV",
+            "DJCTDV",
+            "DJCTV"
+          ],
+          "opts_hi": [
+            "DJCTCV",
+            "DJCTCV",
+            "DJCTDV",
+            "DJCTV"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "Eight people A, B, C, D, E, F, G, H are sitting in a row facing north. A sits third to the right of B. C sits between A and D. E sits second to the left of F. Who sits at the extreme right end?",
+          "q_hi": "आठ लोग A, B, C, D, E, F, G, H एक पंक्ति में उत्तर की ओर मुख करके बैठे हैं। A, B के दाएँ तीसरे स्थान पर बैठा है। C, A और D के बीच में बैठा है। E, F के बाएँ दूसरे स्थान पर बैठा है। अत्यंत दाएँ छोर पर कौन बैठा है?",
+          "opts": [
+            "H",
+            "G",
+            "D",
+            "Cannot be determined"
+          ],
+          "opts_hi": [
+            "H",
+            "G",
+            "D",
+            "निर्धारित नहीं किया जा सकता"
+          ],
+          "ans": 3,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "If P ≤ Q > R = S < T, which of the following is definitely true?",
+          "q_hi": "यदि P ≤ Q > R = S < T है, तो निम्नलिखित में से कौन सा निश्चित रूप से सत्य है?",
+          "opts": [
+            "P < R",
+            "Q > S",
+            "R = T",
+            "P < T"
+          ],
+          "opts_hi": [
+            "P < R",
+            "Q > S",
+            "R = T",
+            "P < T"
+          ],
+          "ans": 1,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
