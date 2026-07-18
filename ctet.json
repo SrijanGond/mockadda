@@ -361,6 +361,50 @@
           "ans": 1
         }
       ]
+    },
+    {
+      "id": "ctet_8",
+      "title": "CTET Mock Test 8",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What is the value of 1/4 × (4856 × 0.5) × 12?",
+          "q_hi": "1/4 × (4856 × 0.5) × 12 का मान क्या है?",
+          "opts": [
+            "7284",
+            "7280",
+            "7288",
+            "7290"
+          ],
+          "opts_hi": [
+            "7284",
+            "7280",
+            "7288",
+            "7290"
+          ],
+          "ans": 0,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "The ratio of two numbers is 3:5 and their sum is 120. Find the larger number.",
+          "q_hi": "दो संख्याओं का अनुपात 3:5 है और उनका योग 120 है। बड़ी संख्या ज्ञात करें।",
+          "opts": [
+            "60",
+            "75",
+            "80",
+            "85"
+          ],
+          "opts_hi": [
+            "60",
+            "75",
+            "80",
+            "85"
+          ],
+          "ans": 1,
+          "subject": "Mathematics"
+        }
+      ]
     }
   ]
 }
