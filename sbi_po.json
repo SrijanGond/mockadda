@@ -734,6 +734,68 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "sbi_po_15",
+      "title": "SBI PO Mock Test 15",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which of the following is true if A > B > C > D = E < F?",
+          "q_hi": "यदि A > B > C > D = E < F है, तो निम्नलिखित में से कौन सा सत्य है?",
+          "opts": [
+            "B > F",
+            "C = F",
+            "A > E",
+            "B = E"
+          ],
+          "opts_hi": [
+            "B > F",
+            "C = F",
+            "A > E",
+            "B = E"
+          ],
+          "ans": 2,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "If P > Q = R ≥ S < T, which of the following is true?",
+          "q_hi": "यदि P > Q = R ≥ S < T है, तो निम्नलिखित में से कौन सा सत्य है?",
+          "opts": [
+            "P > S",
+            "Q = T",
+            "R < S",
+            "P = R"
+          ],
+          "opts_hi": [
+            "P > S",
+            "Q = T",
+            "R < S",
+            "P = R"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "If A is the brother of B, B is the sister of C, and C is the father of D, how is A related to D?",
+          "q_hi": "यदि A, B का भाई है, B, C की बहन है, और C, D का पिता है, तो A, D से किस प्रकार संबंधित है?",
+          "opts": [
+            "Father",
+            "Uncle",
+            "Brother",
+            "Cousin"
+          ],
+          "opts_hi": [
+            "पिता",
+            "चाचा/मामा",
+            "भाई",
+            "चचेरा/ममेरा"
+          ],
+          "ans": 1,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
