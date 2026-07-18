@@ -509,6 +509,582 @@
         "केवल विषाक्त पदार्थों को बेअसर करना"
       ],
       "ans": 1
+    },
+    {
+      "q": "Which of the following statements with regard to genetic medicine is/are correct? 1. Genetic medicines correct/compensate for the faulty genes responsible for disease. 2. Engineered viruses and lipid nanoparticles are used as carriers of the genetic medicine. 3. Genetic medicines alter the entire DNA sequence.",
+      "q_hi": "आनुवंशिक चिकित्सा के संबंध में निम्नलिखित में से कौन सा/से कथन सही है/हैं? 1. आनुवंशिक दवाएँ रोग के लिए जिम्मेदार दोषपूर्ण जीन को सही/क्षतिपूर्ति करती हैं। 2. आनुवंशिक दवा के वाहक के रूप में इंजीनियर वायरस और लिपिड नैनोकणों का उपयोग किया जाता है। 3. आनुवंशिक दवाएँ संपूर्ण DNA अनुक्रम को बदल देती हैं।",
+      "opts": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "opts_hi": [
+        "केवल 1",
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "1, 2 और 3"
+      ],
+      "ans": 1,
+      "subject": "Science"
+    },
+    {
+      "q": "Which of the following statements with regard to Large Language Models (LLMs) used in machine learning is/are correct? 1. LLMs assign probabilities to the next possible words and then pick the one with the highest probability. 2. LLMs process data through mathematical optimization to minimise prediction errors. 3. LLMs produce unbiased outputs.",
+      "q_hi": "मशीन लर्निंग में उपयोग किए जाने वाले लार्ज लैंग्वेज मॉडल (LLMs) के संबंध में निम्नलिखित में से कौन सा/से कथन सही है/हैं? 1. LLMs अगले संभावित शब्दों को संभावनाएँ प्रदान करते हैं और फिर उच्चतम संभावना वाले शब्द को चुनते हैं। 2. LLMs पूर्वानुमान त्रुटियों को कम करने के लिए गणितीय अनुकूलन के माध्यम से डेटा संसाधित करते हैं। 3. LLMs निष्पक्ष आउटपुट उत्पन्न करते हैं।",
+      "opts": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "opts_hi": [
+        "केवल 1",
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "1, 2 और 3"
+      ],
+      "ans": 1,
+      "subject": "Science"
+    },
+    {
+      "q": "Which of the following statements with regard to stealth technology is/are correct? 1. Stealth objects have a very small radar cross-section and are coated with Radar Absorbing Material. 2. Stealth objects can be detected using specific frequencies. 3. Stealth objects are coated with metamaterials to increase the scattering of electromagnetic radiation.",
+      "q_hi": "स्टील्थ प्रौद्योगिकी के संबंध में निम्नलिखित में से कौन सा/से कथन सही है/हैं? 1. स्टील्थ वस्तुओं में बहुत छोटा रडार क्रॉस-सेक्शन होता है और वे रडार अवशोषक सामग्री से लेपित होती हैं। 2. स्टील्थ वस्तुओं का विशिष्ट आवृत्तियों का उपयोग करके पता लगाया जा सकता है। 3. स्टील्थ वस्तुओं को विद्युत चुम्बकीय विकिरण के प्रकीर्णन को बढ़ाने के लिए मेटामटेरियल से लेपित किया जाता है।",
+      "opts": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "opts_hi": [
+        "केवल 1",
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "1, 2 और 3"
+      ],
+      "ans": 2,
+      "subject": "Science"
+    },
+    {
+      "q": "Which of the following statements with regard to Black Boxes used in modern aircrafts is/are correct? 1. They carry a beacon emitting red light pulses to facilitate underwater detection. 2. They record both the cockpit voice and flight data. 3. Their memory units are made using either stainless steel or titanium.",
+      "q_hi": "आधुनिक विमानों में उपयोग किए जाने वाले ब्लैक बॉक्स के संबंध में निम्नलिखित में से कौन सा/से कथन सही है/हैं? 1. वे पानी के नीचे का पता लगाने की सुविधा के लिए लाल प्रकाश दालें उत्सर्जित करने वाला एक बीकन रखते हैं। 2. वे कॉकपिट वॉयस और उड़ान डेटा दोनों रिकॉर्ड करते हैं। 3. उनकी मेमोरी यूनिट या तो स्टेनलेस स्टील या टाइटेनियम का उपयोग करके बनाई जाती है।",
+      "opts": [
+        "1 only",
+        "2 and 3 only",
+        "1 and 2 only",
+        "1, 2 and 3"
+      ],
+      "opts_hi": [
+        "केवल 1",
+        "केवल 2 और 3",
+        "केवल 1 और 2",
+        "1, 2 और 3"
+      ],
+      "ans": 1,
+      "subject": "Science"
+    },
+    {
+      "q": "Which of the following statements with regard to GenomeIndia Project is/are correct? 1. It is a part of the Human Genome Project. 2. The project is funded by the Department of Biotechnology (DBT), Government of India. 3. Its primary aim is to build a catalogue of genetic diversity of the Indian population.",
+      "q_hi": "जीनोमइंडिया परियोजना के संबंध में निम्नलिखित में से कौन सा/से कथन सही है/हैं? 1. यह मानव जीनोम परियोजना का एक हिस्सा है। 2. इस परियोजना को भारत सरकार के जैव प्रौद्योगिकी विभाग (DBT) द्वारा वित्त पोषित किया जाता है। 3. इसका प्राथमिक उद्देश्य भारतीय आबादी की आनुवंशिक विविधता की एक सूची तैयार करना है।",
+      "opts": [
+        "1 only",
+        "2 and 3 only",
+        "1 and 2 only",
+        "1, 2 and 3"
+      ],
+      "opts_hi": [
+        "केवल 1",
+        "केवल 2 और 3",
+        "केवल 1 और 2",
+        "1, 2 और 3"
+      ],
+      "ans": 1,
+      "subject": "Science"
+    },
+    {
+      "q": "Consider the following statements with regard to involvement of private entities in India's space programme: 1. The Indian National Space Promotion and Authorisation Centre (IN-SPACe) is an autonomous agency formed to facilitate participation of private entities. 2. Agnikul Cosmos launched the world's first flight using 3D-printed rocket engine. 3. Skyroot Aerospace has developed liquid fuel for GSLV.",
+      "q_hi": "भारत के अंतरिक्ष कार्यक्रम में निजी संस्थाओं की भागीदारी के संबंध में निम्नलिखित कथनों पर विचार करें: 1. भारतीय राष्ट्रीय अंतरिक्ष संवर्धन और प्राधिकरण केंद्र (IN-SPACe) एक स्वायत्त एजेंसी है जो निजी संस्थाओं की भागीदारी को सुविधाजनक बनाने के लिए बनाई गई है। 2. अग्निकुल कॉसमॉस ने 3D-मुद्रित रॉकेट इंजन का उपयोग करके दुनिया की पहली उड़ान लॉन्च की। 3. स्काईरूट एयरोस्पेस ने GSLV के लिए तरल ईंधन विकसित किया है।",
+      "opts": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "opts_hi": [
+        "केवल 1",
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "1, 2 और 3"
+      ],
+      "ans": 2,
+      "subject": "Science"
+    },
+    {
+      "q": "Which of the following statements with regard to drone swarms is/are correct? 1. They use Terahertz band of frequency to communicate with the command centre. 2. Individual drones in the swarm can communicate with other drones in the swarm. 3. GPS Spoofing is a commonly used technique to counter drone swarm attack.",
+      "q_hi": "ड्रोन झुंडों के संबंध में निम्नलिखित में से कौन सा/से कथन सही है/हैं? 1. वे कमांड सेंटर के साथ संचार करने के लिए टेराहर्ट्ज आवृत्ति बैंड का उपयोग करते हैं। 2. झुंड में व्यक्तिगत ड्रोन झुंड में अन्य ड्रोनों के साथ संचार कर सकते हैं। 3. ड्रोन झुंड हमले का मुकाबला करने के लिए GPS स्पूफिंग एक सामान्य रूप से उपयोग की जाने वाली तकनीक है।",
+      "opts": [
+        "1 only",
+        "2 and 3 only",
+        "1 and 2 only",
+        "1, 2 and 3"
+      ],
+      "opts_hi": [
+        "केवल 1",
+        "केवल 2 और 3",
+        "केवल 1 और 2",
+        "1, 2 और 3"
+      ],
+      "ans": 1,
+      "subject": "Science"
+    },
+    {
+      "q": "Which of the following statements with regard to the National Quantum Mission (NQM) is/are correct? 1. It aims at developing intermediate-scale quantum computers with 50-1000 physical qubits. 2. Its implementation includes setting up of four Thematic Hubs (T-Hubs) in academic and national R&D institutes across India.",
+      "q_hi": "राष्ट्रीय क्वांटम मिशन (NQM) के संबंध में निम्नलिखित में से कौन सा/से कथन सही है/हैं? 1. इसका उद्देश्य 50-1000 भौतिक क्विबिट वाले मध्यवर्ती-स्तरीय क्वांटम कंप्यूटर विकसित करना है। 2. इसके कार्यान्वयन में पूरे भारत में शैक्षणिक और राष्ट्रीय R&D संस्थानों में चार थीमैटिक हब (T-Hubs) स्थापित करना शामिल है।",
+      "opts": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "opts_hi": [
+        "केवल 1",
+        "केवल 2",
+        "1 और 2 दोनों",
+        "न तो 1 और न ही 2"
+      ],
+      "ans": 2,
+      "subject": "Science"
+    },
+    {
+      "q": "Which of the following statements with regard to India's Deep Ocean Mission is/are correct? 1. It was launched by the Ministry of Ports, Shipping and Waterways, Government of India. 2. Matsya-6000 has been designed to carry 3 people for deep sea exploration. 3. Samudrayaan is a project under this mission.",
+      "q_hi": "भारत के डीप ओशन मिशन के संबंध में निम्नलिखित में से कौन सा/से कथन सही है/हैं? 1. इसे भारत सरकार के बंदरगाह, जहाजरानी और जलमार्ग मंत्रालय द्वारा लॉन्च किया गया था। 2. Matsya-6000 को गहरे समुद्र की खोज के लिए 3 लोगों को ले जाने के लिए डिज़ाइन किया गया है। 3. समुद्रयान इस मिशन के तहत एक परियोजना है।",
+      "opts": [
+        "1 only",
+        "2 and 3 only",
+        "1 and 2 only",
+        "1, 2 and 3"
+      ],
+      "opts_hi": [
+        "केवल 1",
+        "केवल 2 और 3",
+        "केवल 1 और 2",
+        "1, 2 और 3"
+      ],
+      "ans": 1,
+      "subject": "Science"
+    },
+    {
+      "q": "Which of the following items of defence hardware is/are manufactured in India? 1. Su-30 MKI Fighter Jets 2. T-90 MK-III Tanks 3. Akula Class Submarine",
+      "q_hi": "निम्नलिखित में से कौन सी/से रक्षा हार्डवेयर वस्तुएँ भारत में निर्मित होती हैं? 1. Su-30 MKI लड़ाकू विमान 2. T-90 MK-III टैंक 3. अकुला श्रेणी की पनडुब्बी",
+      "opts": [
+        "1 and 2 only",
+        "1 and 3 only",
+        "1 only",
+        "2 only"
+      ],
+      "opts_hi": [
+        "केवल 1 और 2",
+        "केवल 1 और 3",
+        "केवल 1",
+        "केवल 2"
+      ],
+      "ans": 0,
+      "subject": "Science"
+    },
+    {
+      "q": "Which of the following statements about DHRUV64 is/are correct? 1. It is the third chip fabricated under the DIR-V Programme with an overall aim to enable the creation of microprocessors for India. 2. It is India's first homegrown 1.0 GHz, 64-bit dual-core microprocessor.",
+      "q_hi": "DHRUV64 के बारे में निम्नलिखित में से कौन सा/से कथन सही है/हैं? 1. यह DIR-V कार्यक्रम के तहत निर्मित तीसरी चिप है जिसका समग्र उद्देश्य भारत के लिए माइक्रोप्रोसेसरों का निर्माण सक्षम करना है। 2. यह भारत का पहला स्वदेशी 1.0 GHz, 64-bit दोहरी-कोर माइक्रोप्रोसेसर है।",
+      "opts": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "opts_hi": [
+        "केवल 1",
+        "केवल 2",
+        "1 और 2 दोनों",
+        "न तो 1 और न ही 2"
+      ],
+      "ans": 2,
+      "subject": "Science"
+    },
+    {
+      "q": "The Bureau of Indian Standards (BIS) recently introduced a national standard to test and assess bomb disposal system. Which of the following statements with regard to this system is/are correct? 1. The new standard is known as IS 19445 : 2025. 2. It will improve interoperability of equipment across agencies. 3. It was developed by TBRL, DRDO in collaboration with the 30th Central Scientific Research Institute, Russia.",
+      "q_hi": "भारतीय मानक ब्यूरो (BIS) ने हाल ही में बम निपटान प्रणाली के परीक्षण और आकलन के लिए एक राष्ट्रीय मानक पेश किया। इस प्रणाली के संबंध में निम्नलिखित में से कौन सा/से कथन सही है/हैं? 1. नया मानक IS 19445 : 2025 के नाम से जाना जाता है। 2. यह एजेंसियों के बीच उपकरणों की अंतरसंचालनीयता में सुधार करेगा। 3. इसे TBRL, DRDO द्वारा रूस के 30वें केंद्रीय वैज्ञानिक अनुसंधान संस्थान के सहयोग से विकसित किया गया था।",
+      "opts": [
+        "1, 2 and 3",
+        "2 and 3 only",
+        "1 and 2 only",
+        "1 only"
+      ],
+      "opts_hi": [
+        "1, 2 और 3",
+        "केवल 2 और 3",
+        "केवल 1 और 2",
+        "केवल 1"
+      ],
+      "ans": 0,
+      "subject": "Science"
+    },
+    {
+      "q": "Which of the following statements with regard to India's indigenous new high resolution weather model, the 'Bharat Forecast System,' is/are correct? 1. Its objective is to generate forecasts at the Panchayats cluster level. 2. It was developed by IIT Delhi.",
+      "q_hi": "भारत के स्वदेशी नए उच्च-रिज़ॉल्यूशन मौसम मॉडल, 'भारत पूर्वानुमान प्रणाली' के संबंध में निम्नलिखित में से कौन सा/से कथन सही है/हैं? 1. इसका उद्देश्य पंचायत क्लस्टर स्तर पर पूर्वानुमान उत्पन्न करना है। 2. इसे IIT दिल्ली द्वारा विकसित किया गया था।",
+      "opts": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "opts_hi": [
+        "केवल 1",
+        "केवल 2",
+        "1 और 2 दोनों",
+        "न तो 1 और न ही 2"
+      ],
+      "ans": 0,
+      "subject": "Science"
+    },
+    {
+      "q": "Which of the following statements regarding the features of blockchain technology are correct? 1. Records stored in the database may be made visible to relevant stakeholders without risk of alteration. 2. Copies of the entire database are stored on multiple computers on a network, syncing within seconds. 3. Consortium blockchain is a blend of public and private blockchains allowing selective data access. 4. Mathematical algorithms make it impossible to change or delete any data once recorded and accepted.",
+      "q_hi": "ब्लॉकचेन प्रौद्योगिकी की विशेषताओं के बारे में निम्नलिखित में से कौन से कथन सही हैं? 1. डेटाबेस में संग्रहीत रिकॉर्ड को परिवर्तन के जोखिम के बिना प्रासंगिक हितधारकों को दिखाई दिया जा सकता है। 2. संपूर्ण डेटाबेस की प्रतियाँ एक नेटवर्क पर कई कंप्यूटरों पर संग्रहीत की जाती हैं, जो सेकंडों के भीतर सिंक होती हैं। 3. कंसोर्टियम ब्लॉकचेन सार्वजनिक और निजी ब्लॉकचेन का एक मिश्रण है जो चयनात्मक डेटा पहुँच की अनुमति देता है। 4. गणितीय एल्गोरिदम एक बार रिकॉर्ड और स्वीकार किए जाने के बाद किसी भी डेटा को बदलना या हटाना असंभव बना देते हैं।",
+      "opts": [
+        "1 and 3 only",
+        "2 and 4 only",
+        "1, 2 and 4",
+        "1 and 4 only"
+      ],
+      "opts_hi": [
+        "केवल 1 और 3",
+        "केवल 2 और 4",
+        "1, 2 और 4",
+        "केवल 1 और 4"
+      ],
+      "ans": 2,
+      "subject": "Science"
+    },
+    {
+      "q": "Why is the Earth an oblate spheroid and not a perfect sphere?",
+      "q_hi": "पृथ्वी एक चपटी गोलाभ है और पूर्ण गोलक नहीं है यह किस कारण से है?",
+      "opts": [
+        "Earth's rotational speed increases from poles to equator",
+        "Equator experiences more gravitational pull from the Sun",
+        "Sunlight intensity is higher at equator",
+        "Earth's core is not spherical"
+      ],
+      "opts_hi": [
+        "पृथ्वी की घूर्णी गति ध्रुवों से भूमध्य रेखा की ओर बढ़ती है",
+        "भूमध्य रेखा सूर्य से अधिक गुरुत्वीय कर्षण अनुभव करती है",
+        "भूमध्य रेखा पर सूर्य प्रकाश की तीव्रता अधिक है",
+        "पृथ्वी का कोर गोलाकार नहीं है"
+      ],
+      "ans": 0,
+      "subject": "Science"
+    },
+    {
+      "q": "An object X sinks in liquids P and Q but floats in liquid R. Which of the following statements are correct? 1. The density of X is greater than the density of P. 2. The density of X is less than the density of R. 3. The density of P is different from the density of R.",
+      "q_hi": "एक वस्तु X तरल P और Q में डूबती है लेकिन तरल R में तैरती है। निम्नलिखित में से कौन से कथन सही हैं? 1. X का घनत्व P के घनत्व से अधिक है। 2. X का घनत्व R के घनत्व से कम है। 3. P का घनत्व R के घनत्व से भिन्न है।",
+      "opts": [
+        "1 and 2 only",
+        "1, 2 and 3",
+        "2 and 3 only",
+        "1 and 3 only"
+      ],
+      "opts_hi": [
+        "केवल 1 और 2",
+        "1, 2 और 3",
+        "केवल 2 और 3",
+        "केवल 1 और 3"
+      ],
+      "ans": 1,
+      "subject": "Science"
+    },
+    {
+      "q": "Which fat-soluble vitamin is necessary for good skin?",
+      "q_hi": "अच्छी त्वचा के लिए कौन सा वसा-घुलनशील विटामिन आवश्यक है?",
+      "opts": [
+        "Vitamin B",
+        "Vitamin C",
+        "Vitamin A",
+        "Vitamin K"
+      ],
+      "opts_hi": [
+        "विटामिन B",
+        "विटामिन C",
+        "विटामिन A",
+        "विटामिन K"
+      ],
+      "ans": 2,
+      "subject": "Science"
+    },
+    {
+      "q": "After rain, suspended particles settle down. Which process is responsible for this?",
+      "q_hi": "वर्षा के बाद, निलंबित कण नीचे बैठ जाते हैं। इसके लिए कौन सी प्रक्रिया जिम्मेदार है?",
+      "opts": [
+        "Distillation",
+        "Loading",
+        "Condensation",
+        "Sedimentation"
+      ],
+      "opts_hi": [
+        "आसवन",
+        "लोडिंग",
+        "संघनन",
+        "अवसादन"
+      ],
+      "ans": 1,
+      "subject": "Science"
+    },
+    {
+      "q": "Which of the following statements is correct?",
+      "q_hi": "निम्नलिखित में से कौन सा कथन सही है?",
+      "opts": [
+        "Chemical change is usually irreversible",
+        "In physical change there is always a change in state",
+        "Physical change is irreversible",
+        "Chemical change is always reversible"
+      ],
+      "opts_hi": [
+        "रासायनिक परिवर्तन आमतौर पर अपरिवर्तनीय होता है",
+        "भौतिक परिवर्तन में हमेशा अवस्था में परिवर्तन होता है",
+        "भौतिक परिवर्तन अपरिवर्तनीय है",
+        "रासायनिक परिवर्तन हमेशा प्रतिवर्ती होता है"
+      ],
+      "ans": 0,
+      "subject": "Science"
+    },
+    {
+      "q": "X is the largest gland in our body. It secretes Y which is stored in Z. X, Y and Z are respectively:",
+      "q_hi": "X हमारे शरीर की सबसे बड़ी ग्रंथि है। यह Y स्रावित करता है जो Z में संग्रहीत होता है। X, Y और Z क्रमशः हैं:",
+      "opts": [
+        "Pancreas - Insulin - Liver",
+        "Liver - Enzyme - Stomach",
+        "Liver - Bile - Gall bladder",
+        "Stomach - Acid - Intestine"
+      ],
+      "opts_hi": [
+        "अग्न्याशय - इंसुलिन - यकृत",
+        "यकृत - एंजाइम - पेट",
+        "यकृत - पित्त - पित्ताशय",
+        "पेट - अम्ल - आंत"
+      ],
+      "ans": 2,
+      "subject": "Science"
+    },
+    {
+      "q": "An indicator shows no change in acid but reddish-brown colour in base. The indicator is:",
+      "q_hi": "एक सूचक अम्ल में कोई परिवर्तन नहीं दिखाता है लेकिन क्षार में लाल-भूरा रंग दिखाता है। सूचक है:",
+      "opts": [
+        "Litmus",
+        "Turmeric",
+        "Phenolphthalein",
+        "China rose"
+      ],
+      "opts_hi": [
+        "लिटमस",
+        "हल्दी",
+        "फेनोल्फथेलिन",
+        "चीन गुलाब"
+      ],
+      "ans": 1,
+      "subject": "Science"
+    },
+    {
+      "q": "At the center of Earth, the acceleration due to gravity is:",
+      "q_hi": "पृथ्वी के केंद्र पर, गुरुत्वाकर्षण के कारण त्वरण है:",
+      "opts": [
+        "Zero",
+        "Maximum",
+        "Equal to surface gravity",
+        "Infinite"
+      ],
+      "opts_hi": [
+        "शून्य",
+        "अधिकतम",
+        "सतह गुरुत्वाकर्षण के बराबर",
+        "अनंत"
+      ],
+      "ans": 0,
+      "subject": "Science"
+    },
+    {
+      "q": "Which of the following cell organelles contain hydrolytic enzymes?",
+      "q_hi": "निम्नलिखित में से किस कोशिका अंगक में हाइड्रोलाइटिक एंजाइम होते हैं?",
+      "opts": [
+        "Vacuoles",
+        "Plastids",
+        "Lysosomes",
+        "Golgi bodies"
+      ],
+      "opts_hi": [
+        "रिक्तिकाएँ",
+        "प्लास्टिड्स",
+        "लाइसोसोम",
+        "गॉल्जी निकाय"
+      ],
+      "ans": 2,
+      "subject": "Science"
+    },
+    {
+      "q": "Which organ in the human body is called \"The graveyard of RBC\"?",
+      "q_hi": "मानव शरीर में किस अंग को \"RBC का कब्रिस्तान\" कहा जाता है?",
+      "opts": [
+        "Liver",
+        "Heart",
+        "Kidney",
+        "Spleen"
+      ],
+      "opts_hi": [
+        "यकृत",
+        "हृदय",
+        "गुर्दा",
+        "तिल्ली"
+      ],
+      "ans": 3,
+      "subject": "Science"
+    },
+    {
+      "q": "Who was the founder of the five kingdom system of classification?",
+      "q_hi": "पाँच जगत वर्गीकरण प्रणाली के संस्थापक कौन थे?",
+      "opts": [
+        "R.H. Whittaker",
+        "Carl Woese",
+        "Ernst Haeckel",
+        "Carolus Linnaeus"
+      ],
+      "opts_hi": [
+        "आर.एच. व्हिटेकर",
+        "कार्ल वोइस",
+        "अर्न्स्ट हेकल",
+        "कैरोलस लिनिअस"
+      ],
+      "ans": 0,
+      "subject": "Science"
+    },
+    {
+      "q": "Match the chemical substances with their application: (a) Bleaching powder - (i) Decolourisation, (b) Baking soda - (ii) Antacid, (c) Washing soda - (iii) Preparation of glass, (d) Sodium chloride - (iv) Production of H2 and Cl2.",
+      "q_hi": "रासायनिक पदार्थों को उनके अनुप्रयोगों से सुमेलित करें: (a) ब्लीचिंग पाउडर - (i) विरंजन, (b) बेकिंग सोडा - (ii) एंटासिड, (c) वॉशिंग सोडा - (iii) कांच का निर्माण, (d) सोडियम क्लोराइड - (iv) H2 और Cl2 का उत्पादन।",
+      "opts": [
+        "a-(iii), b-(iv), c-(i), d-(ii)",
+        "a-(iii), b-(ii), c-(i), d-(iv)",
+        "a-(i), b-(ii), c-(iii), d-(iv)",
+        "a-(ii), b-(i), c-(iv), d-(iii)"
+      ],
+      "opts_hi": [
+        "a-(iii), b-(iv), c-(i), d-(ii)",
+        "a-(iii), b-(ii), c-(i), d-(iv)",
+        "a-(i), b-(ii), c-(iii), d-(iv)",
+        "a-(ii), b-(i), c-(iv), d-(iii)"
+      ],
+      "ans": 1,
+      "subject": "Science"
+    },
+    {
+      "q": "Carotenes are found in which of the following?",
+      "q_hi": "कैरोटीन निम्नलिखित में से किसमें पाया जाता है?",
+      "opts": [
+        "Milk",
+        "Carrot",
+        "Meat",
+        "Lemon"
+      ],
+      "opts_hi": [
+        "दूध",
+        "गाजर",
+        "मांस",
+        "नींबू"
+      ],
+      "ans": 1,
+      "subject": "Science"
+    },
+    {
+      "q": "What is the function of the enzyme \"Lipase\"?",
+      "q_hi": "एंजाइम \"लाइपेज\" का कार्य क्या है?",
+      "opts": [
+        "Converts proteins into amino acids",
+        "Converts maltose into glucose",
+        "Converts starch into sugar",
+        "Catalyzes fats into fatty acids and glycerine"
+      ],
+      "opts_hi": [
+        "प्रोटीन को अमीनो अम्ल में परिवर्तित करता है",
+        "माल्टोज़ को ग्लूकोज़ में परिवर्तित करता है",
+        "स्टार्च को शर्करा में परिवर्तित करता है",
+        "वसा को फैटी अम्ल और ग्लिसरीन में उत्प्रेरित करता है"
+      ],
+      "ans": 3,
+      "subject": "Science"
+    },
+    {
+      "q": "Which instrument is used to measure the potential difference?",
+      "q_hi": "विभवांतर मापने के लिए किस उपकरण का उपयोग किया जाता है?",
+      "opts": [
+        "Barometer",
+        "Galvanometer",
+        "Ammeter",
+        "Voltmeter"
+      ],
+      "opts_hi": [
+        "बैरोमीटर",
+        "गैल्वेनोमीटर",
+        "एमीटर",
+        "वोल्टमीटर"
+      ],
+      "ans": 3,
+      "subject": "Science"
+    },
+    {
+      "q": "Why did Mendeleev leave gaps in his periodic table?",
+      "q_hi": "मेंडेलीव ने अपनी आवर्त सारणी में स्थान क्यों छोड़े?",
+      "opts": [
+        "For undiscovered elements",
+        "To include isotopes",
+        "To avoid repetition",
+        "To make the table symmetrical"
+      ],
+      "opts_hi": [
+        "अनदेखे तत्वों के लिए",
+        "समस्थानिकों को शामिल करने के लिए",
+        "पुनरावृत्ति से बचने के लिए",
+        "सारणी को सममित बनाने के लिए"
+      ],
+      "ans": 0,
+      "subject": "Science"
+    },
+    {
+      "q": "Which of the following correctly describes the path of blood flow through the human heart?",
+      "q_hi": "मानव हृदय में रक्त प्रवाह का सही मार्ग निम्नलिखित में से कौन सा है?",
+      "opts": [
+        "Right atrium → Right ventricle → Lungs → Left atrium → Left ventricle",
+        "Right ventricle → Right atrium → Lungs → Left ventricle → Left atrium",
+        "Left atrium → Left ventricle → Lungs → Right atrium → Right ventricle",
+        "Right atrium → Lungs → Right ventricle → Left atrium → Left ventricle"
+      ],
+      "opts_hi": [
+        "दायाँ अलिंद → दायाँ निलय → फेफड़े → बायाँ अलिंद → बायाँ निलय",
+        "दायाँ निलय → दायाँ अलिंद → फेफड़े → बायाँ निलय → बायाँ अलिंद",
+        "बायाँ अलिंद → बायाँ निलय → फेफड़े → दायाँ अलिंद → दायाँ निलय",
+        "दायाँ अलिंद → फेफड़े → दायाँ निलय → बायाँ अलिंद → बायाँ निलय"
+      ],
+      "ans": 0,
+      "subject": "Science"
+    },
+    {
+      "q": "Which of the following is used in optical fibers for transmitting information?",
+      "q_hi": "सूचना संचारित करने के लिए ऑप्टिकल फाइबर में निम्नलिखित में से किसका उपयोग किया जाता है?",
+      "opts": [
+        "Total internal reflection",
+        "Refraction",
+        "Diffraction",
+        "Scattering"
+      ],
+      "opts_hi": [
+        "पूर्ण आंतरिक परावर्तन",
+        "अपवर्तन",
+        "विवर्तन",
+        "प्रकीर्णन"
+      ],
+      "ans": 0,
+      "subject": "Science"
     }
   ]
 }
