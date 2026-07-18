@@ -614,6 +614,86 @@
           "subject": "Mathematics"
         }
       ]
+    },
+    {
+      "id": "rrb_ntpc_11",
+      "title": "RRB NTPC Mock Test 11",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which of the following items of defence hardware is/are manufactured in India? 1. Su-30 MKI Fighter Jets 2. T-90 MK-III Tanks 3. Akula Class Submarine",
+          "q_hi": "निम्नलिखित में से कौन सी/से रक्षा हार्डवेयर वस्तुएँ भारत में निर्मित होती हैं? 1. Su-30 MKI लड़ाकू विमान 2. T-90 MK-III टैंक 3. अकुला श्रेणी की पनडुब्बी",
+          "opts": [
+            "1 and 2 only",
+            "1 and 3 only",
+            "1 only",
+            "2 only"
+          ],
+          "opts_hi": [
+            "केवल 1 और 2",
+            "केवल 1 और 3",
+            "केवल 1",
+            "केवल 2"
+          ],
+          "ans": 0,
+          "subject": "Science"
+        },
+        {
+          "q": "Which of the following statements about DHRUV64 is/are correct? 1. It is the third chip fabricated under the DIR-V Programme with an overall aim to enable the creation of microprocessors for India. 2. It is India's first homegrown 1.0 GHz, 64-bit dual-core microprocessor.",
+          "q_hi": "DHRUV64 के बारे में निम्नलिखित में से कौन सा/से कथन सही है/हैं? 1. यह DIR-V कार्यक्रम के तहत निर्मित तीसरी चिप है जिसका समग्र उद्देश्य भारत के लिए माइक्रोप्रोसेसरों का निर्माण सक्षम करना है। 2. यह भारत का पहला स्वदेशी 1.0 GHz, 64-bit दोहरी-कोर माइक्रोप्रोसेसर है।",
+          "opts": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "opts_hi": [
+            "केवल 1",
+            "केवल 2",
+            "1 और 2 दोनों",
+            "न तो 1 और न ही 2"
+          ],
+          "ans": 2,
+          "subject": "Science"
+        },
+        {
+          "q": "The Bureau of Indian Standards (BIS) recently introduced a national standard to test and assess bomb disposal system. Which of the following statements with regard to this system is/are correct? 1. The new standard is known as IS 19445 : 2025. 2. It will improve interoperability of equipment across agencies. 3. It was developed by TBRL, DRDO in collaboration with the 30th Central Scientific Research Institute, Russia.",
+          "q_hi": "भारतीय मानक ब्यूरो (BIS) ने हाल ही में बम निपटान प्रणाली के परीक्षण और आकलन के लिए एक राष्ट्रीय मानक पेश किया। इस प्रणाली के संबंध में निम्नलिखित में से कौन सा/से कथन सही है/हैं? 1. नया मानक IS 19445 : 2025 के नाम से जाना जाता है। 2. यह एजेंसियों के बीच उपकरणों की अंतरसंचालनीयता में सुधार करेगा। 3. इसे TBRL, DRDO द्वारा रूस के 30वें केंद्रीय वैज्ञानिक अनुसंधान संस्थान के सहयोग से विकसित किया गया था।",
+          "opts": [
+            "1, 2 and 3",
+            "2 and 3 only",
+            "1 and 2 only",
+            "1 only"
+          ],
+          "opts_hi": [
+            "1, 2 और 3",
+            "केवल 2 और 3",
+            "केवल 1 और 2",
+            "केवल 1"
+          ],
+          "ans": 0,
+          "subject": "Science"
+        },
+        {
+          "q": "Which of the following correctly describes the path of blood flow through the human heart?",
+          "q_hi": "मानव हृदय में रक्त प्रवाह का सही मार्ग निम्नलिखित में से कौन सा है?",
+          "opts": [
+            "Right atrium → Right ventricle → Lungs → Left atrium → Left ventricle",
+            "Right ventricle → Right atrium → Lungs → Left ventricle → Left atrium",
+            "Left atrium → Left ventricle → Lungs → Right atrium → Right ventricle",
+            "Right atrium → Lungs → Right ventricle → Left atrium → Left ventricle"
+          ],
+          "opts_hi": [
+            "दायाँ अलिंद → दायाँ निलय → फेफड़े → बायाँ अलिंद → बायाँ निलय",
+            "दायाँ निलय → दायाँ अलिंद → फेफड़े → बायाँ निलय → बायाँ अलिंद",
+            "बायाँ अलिंद → बायाँ निलय → फेफड़े → दायाँ अलिंद → दायाँ निलय",
+            "दायाँ अलिंद → फेफड़े → दायाँ निलय → बायाँ अलिंद → बायाँ निलय"
+          ],
+          "ans": 0,
+          "subject": "Science"
+        }
+      ]
     }
   ]
 }
