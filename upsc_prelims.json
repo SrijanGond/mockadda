@@ -2165,6 +2165,50 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "upsc_prelims_19",
+      "title": "UPSC Prelims Mock Test 19",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which of the following correctly represents the relationship: Men, Doctors, Engineers?",
+          "q_hi": "निम्नलिखित में से कौन सा संबंध को सही दर्शाता है: पुरुष, डॉक्टर, इंजीनियर?",
+          "opts": [
+            "Three overlapping circles",
+            "Three separate circles",
+            "Two circles inside a third",
+            "One circle inside another"
+          ],
+          "opts_hi": [
+            "तीन प्रतिच्छेद करते वृत्त",
+            "तीन अलग-अलग वृत्त",
+            "दो वृत्त तीसरे के अंदर",
+            "एक वृत्त दूसरे के अंदर"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "Which is similar to \"Pen : Writer\"?",
+          "q_hi": "Pen : Writer के समान कौन सा है?",
+          "opts": [
+            "Book : Reader",
+            "Brush : Painter",
+            "Chisel : Sculptor",
+            "All of the above"
+          ],
+          "opts_hi": [
+            "पुस्तक : पाठक",
+            "ब्रश : चित्रकार",
+            "छेनी : मूर्तिकार",
+            "उपरोक्त सभी"
+          ],
+          "ans": 3,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
