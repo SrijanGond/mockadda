@@ -632,6 +632,50 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "sbi_clerk_13",
+      "title": "SBI Clerk Mock Test 13",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Five friends P, Q, R, S, T are standing in a line. P is taller than Q but shorter than R. S is taller than T. Who is the second tallest?",
+          "q_hi": "पाँच दोस्त P, Q, R, S, T एक पंक्ति में खड़े हैं। P, Q से लंबा है लेकिन R से छोटा है। S, T से लंबा है। दूसरा सबसे लंबा कौन है?",
+          "opts": [
+            "P",
+            "R",
+            "S",
+            "Cannot be determined"
+          ],
+          "opts_hi": [
+            "P",
+            "R",
+            "S",
+            "निर्धारित नहीं किया जा सकता"
+          ],
+          "ans": 3,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "Pointing to a lady, a man said, \"She is the daughter of the only daughter of my father.\" How is the lady related to the man?",
+          "q_hi": "एक महिला की ओर इशारा करते हुए, एक व्यक्ति ने कहा, \"वह मेरे पिता की इकलौती पुत्री की पुत्री है।\" वह महिला उस व्यक्ति से किस प्रकार संबंधित है?",
+          "opts": [
+            "Daughter",
+            "Sister",
+            "Niece",
+            "Granddaughter"
+          ],
+          "opts_hi": [
+            "पुत्री",
+            "बहन",
+            "भतीजी",
+            "पोती"
+          ],
+          "ans": 3,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
