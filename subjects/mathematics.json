@@ -339,6 +339,456 @@
         "6"
       ],
       "ans": 0
+    },
+    {
+      "q": "What is the remainder when 2^100 is divided by 7?",
+      "q_hi": "2^100 को 7 से विभाजित करने पर शेषफल क्या है?",
+      "opts": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "opts_hi": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "ans": 1,
+      "subject": "Mathematics"
+    },
+    {
+      "q": "If the product of three consecutive positive integers is 720, what is the sum of these integers?",
+      "q_hi": "यदि तीन क्रमागत धनात्मक पूर्णांकों का गुणनफल 720 है, तो इन पूर्णांकों का योग क्या है?",
+      "opts": [
+        "27",
+        "28",
+        "29",
+        "30"
+      ],
+      "opts_hi": [
+        "27",
+        "28",
+        "29",
+        "30"
+      ],
+      "ans": 0,
+      "subject": "Mathematics"
+    },
+    {
+      "q": "The LCM of two numbers is 144 and their HCF is 6. If one number is 18, what is the other number?",
+      "q_hi": "दो संख्याओं का LCM 144 है और उनका HCF 6 है। यदि एक संख्या 18 है, तो दूसरी संख्या क्या है?",
+      "opts": [
+        "42",
+        "48",
+        "54",
+        "60"
+      ],
+      "opts_hi": [
+        "42",
+        "48",
+        "54",
+        "60"
+      ],
+      "ans": 1,
+      "subject": "Mathematics"
+    },
+    {
+      "q": "What is the value of 1/4 × (4856 × 0.5) × 12?",
+      "q_hi": "1/4 × (4856 × 0.5) × 12 का मान क्या है?",
+      "opts": [
+        "7284",
+        "7280",
+        "7288",
+        "7290"
+      ],
+      "opts_hi": [
+        "7284",
+        "7280",
+        "7288",
+        "7290"
+      ],
+      "ans": 0,
+      "subject": "Mathematics"
+    },
+    {
+      "q": "70% of 1680 + ?% of 1750 = 55% of 2820 - 886",
+      "q_hi": "70% of 1680 + ?% of 1750 = 55% of 2820 - 886",
+      "opts": [
+        "0.15",
+        "0.18",
+        "0.2",
+        "0.22"
+      ],
+      "opts_hi": [
+        "0.15",
+        "0.18",
+        "0.2",
+        "0.22"
+      ],
+      "ans": 1,
+      "subject": "Mathematics"
+    },
+    {
+      "q": "A shopkeeper buys a book for Rs.500 and sells it for Rs.600. What is his profit percentage?",
+      "q_hi": "एक दुकानदार एक किताब Rs.500 में खरीदता है और Rs.600 में बेचता है। उसका लाभ प्रतिशत क्या है?",
+      "opts": [
+        "0.1",
+        "0.15",
+        "0.2",
+        "0.25"
+      ],
+      "opts_hi": [
+        "0.1",
+        "0.15",
+        "0.2",
+        "0.25"
+      ],
+      "ans": 2,
+      "subject": "Mathematics"
+    },
+    {
+      "q": "If A can finish a work in 10 days and B can finish it in 15 days, how many days will they take to finish the work together?",
+      "q_hi": "यदि A किसी कार्य को 10 दिनों में और B 15 दिनों में कर सकता है, तो वे दोनों मिलकर कार्य को कितने दिनों में पूरा करेंगे?",
+      "opts": [
+        "5 days",
+        "6 days",
+        "7 days",
+        "8 days"
+      ],
+      "opts_hi": [
+        "5 दिन",
+        "6 दिन",
+        "7 दिन",
+        "8 दिन"
+      ],
+      "ans": 1,
+      "subject": "Mathematics"
+    },
+    {
+      "q": "The total number of candidates in the UPSC Prelims 2026 is 5,00,000. 20% clear the Prelims. 40% of those clearing Prelims clear the Mains. What percentage of original candidates clear the Mains?",
+      "q_hi": "UPSC प्रारंभिक 2026 में कुल उम्मीदवारों की संख्या 5,00,000 है। 20% प्रारंभिक परीक्षा पास करते हैं। इनमें से 40% मुख्य परीक्षा पास करते हैं। मूल उम्मीदवारों का कितना प्रतिशत मुख्य परीक्षा पास करता है?",
+      "opts": [
+        "0.06",
+        "0.08",
+        "0.1",
+        "0.12"
+      ],
+      "opts_hi": [
+        "0.06",
+        "0.08",
+        "0.1",
+        "0.12"
+      ],
+      "ans": 1,
+      "subject": "Mathematics"
+    },
+    {
+      "q": "A man allows a 20% discount on his goods and still makes a profit of 10%. Find the marked price if the cost price is Rs.800.",
+      "q_hi": "एक व्यक्ति अपने माल पर 20% छूट देता है और फिर भी 10% का लाभ कमाता है। यदि क्रय मूल्य Rs.800 है, तो अंकित मूल्य ज्ञात करें।",
+      "opts": [
+        "Rs. 1000",
+        "Rs. 1100",
+        "Rs. 1200",
+        "Rs. 1300"
+      ],
+      "opts_hi": [
+        "Rs. 1000",
+        "Rs. 1100",
+        "Rs. 1200",
+        "Rs. 1300"
+      ],
+      "ans": 1,
+      "subject": "Mathematics"
+    },
+    {
+      "q": "The ratio of two numbers is 3:5 and their sum is 120. Find the larger number.",
+      "q_hi": "दो संख्याओं का अनुपात 3:5 है और उनका योग 120 है। बड़ी संख्या ज्ञात करें।",
+      "opts": [
+        "60",
+        "75",
+        "80",
+        "85"
+      ],
+      "opts_hi": [
+        "60",
+        "75",
+        "80",
+        "85"
+      ],
+      "ans": 1,
+      "subject": "Mathematics"
+    },
+    {
+      "q": "Find the simple interest on Rs.4000 at 5% per annum for 3 years.",
+      "q_hi": "Rs.4000 पर 5% वार्षिक दर से 3 वर्षों का साधारण ब्याज ज्ञात करें।",
+      "opts": [
+        "Rs. 500",
+        "Rs. 550",
+        "Rs. 600",
+        "Rs. 650"
+      ],
+      "opts_hi": [
+        "Rs. 500",
+        "Rs. 550",
+        "Rs. 600",
+        "Rs. 650"
+      ],
+      "ans": 2,
+      "subject": "Mathematics"
+    },
+    {
+      "q": "Question: What is the average of 5 numbers? Statement I: Sum of 3 numbers is 30. Statement II: Sum of remaining 2 numbers is 20. Which of the following is correct?",
+      "q_hi": "प्रश्न: 5 संख्याओं का औसत क्या है? कथन I: 3 संख्याओं का योग 30 है। कथन II: शेष 2 संख्याओं का योग 20 है। निम्नलिखित में से कौन सा सही है?",
+      "opts": [
+        "Both statements together are sufficient to answer the question",
+        "Statement I alone is sufficient",
+        "Statement II alone is sufficient",
+        "Both statements are insufficient"
+      ],
+      "opts_hi": [
+        "प्रश्न का उत्तर देने के लिए दोनों कथन एक साथ पर्याप्त हैं",
+        "केवल कथन I पर्याप्त है",
+        "केवल कथन II पर्याप्त है",
+        "दोनों कथन अपर्याप्त हैं"
+      ],
+      "ans": 0,
+      "subject": "Mathematics"
+    },
+    {
+      "q": "If the roots of x² - 7x + k = 0 are equal, find the value of k.",
+      "q_hi": "यदि x² - 7x + k = 0 के मूल समान हैं, तो k का मान ज्ञात करें।",
+      "opts": [
+        "49/4",
+        "49/2",
+        "49",
+        "Sat Feb 07 2026 05:30:00 GMT+0530 (India Standard Time)"
+      ],
+      "opts_hi": [
+        "49/4",
+        "49/2",
+        "49",
+        "Sat Feb 07 2026 05:30:00 GMT+0530 (India Standard Time)"
+      ],
+      "ans": 0,
+      "subject": "Mathematics"
+    },
+    {
+      "q": "In an election, a candidate who gets 40% of votes is defeated by 400 votes. What is the total number of votes polled?",
+      "q_hi": "एक चुनाव में, 40% वोट पाने वाला उम्मीदवार 400 वोटों से हार जाता है। कुल कितने वोट पड़े?",
+      "opts": [
+        "1000",
+        "1500",
+        "2000",
+        "2500"
+      ],
+      "opts_hi": [
+        "1000",
+        "1500",
+        "2000",
+        "2500"
+      ],
+      "ans": 2,
+      "subject": "Mathematics"
+    },
+    {
+      "q": "What is the compound interest on Rs.10000 for 2 years at 10% per annum compounded annually?",
+      "q_hi": "Rs.10000 पर 2 वर्षों के लिए 10% वार्षिक दर से चक्रवृद्धि ब्याज क्या है, जो वार्षिक रूप से संयोजित होता है?",
+      "opts": [
+        "Rs. 2000",
+        "Rs. 2100",
+        "Rs. 2200",
+        "Rs. 2300"
+      ],
+      "opts_hi": [
+        "Rs. 2000",
+        "Rs. 2100",
+        "Rs. 2200",
+        "Rs. 2300"
+      ],
+      "ans": 1,
+      "subject": "Mathematics"
+    },
+    {
+      "q": "Find the HCF of 24 and 36.",
+      "q_hi": "24 और 36 का HCF ज्ञात करें।",
+      "opts": [
+        "6",
+        "8",
+        "12",
+        "18"
+      ],
+      "opts_hi": [
+        "6",
+        "8",
+        "12",
+        "18"
+      ],
+      "ans": 2,
+      "subject": "Mathematics"
+    },
+    {
+      "q": "Gold and silver are mixed in the ratio 7:3. If the total mixture weighs 100g, what is the weight of gold?",
+      "q_hi": "सोने और चाँदी को 7:3 के अनुपात में मिलाया जाता है। यदि कुल मिश्रण का वजन 100g है, तो सोने का वजन क्या है?",
+      "opts": [
+        "30g",
+        "50g",
+        "70g",
+        "80g"
+      ],
+      "opts_hi": [
+        "30g",
+        "50g",
+        "70g",
+        "80g"
+      ],
+      "ans": 2,
+      "subject": "Mathematics"
+    },
+    {
+      "q": "The average of 6 numbers is 20. If one number is replaced by 32, the average increases by 2. Find the number that was replaced.",
+      "q_hi": "6 संख्याओं का औसत 20 है। यदि एक संख्या को 32 से बदल दिया जाए, तो औसत 2 बढ़ जाता है। बदली गई संख्या ज्ञात करें।",
+      "opts": [
+        "12",
+        "14",
+        "16",
+        "18"
+      ],
+      "opts_hi": [
+        "12",
+        "14",
+        "16",
+        "18"
+      ],
+      "ans": 2,
+      "subject": "Mathematics"
+    },
+    {
+      "q": "Question: What is the ratio of girls to boys in a school? Statement I: There are 100 more boys than girls. Statement II: Number of boys is 250. Which of the following is correct?",
+      "q_hi": "प्रश्न: एक स्कूल में लड़कियों और लड़कों का अनुपात क्या है? कथन I: लड़कों की संख्या लड़कियों से 100 अधिक है। कथन II: लड़कों की संख्या 250 है। निम्नलिखित में से कौन सा सही है?",
+      "opts": [
+        "Both statements together are sufficient to answer the question",
+        "Statement I alone is sufficient",
+        "Statement II alone is sufficient",
+        "Both statements are insufficient"
+      ],
+      "opts_hi": [
+        "प्रश्न का उत्तर देने के लिए दोनों कथन एक साथ पर्याप्त हैं",
+        "केवल कथन I पर्याप्त है",
+        "केवल कथन II पर्याप्त है",
+        "दोनों कथन अपर्याप्त हैं"
+      ],
+      "ans": 0,
+      "subject": "Mathematics"
+    },
+    {
+      "q": "A number is increased by 20%. Find the increase if the original number is 200.",
+      "q_hi": "एक संख्या 20% बढ़ा दी जाती है। यदि मूल संख्या 200 है, तो वृद्धि ज्ञात करें।",
+      "opts": [
+        "30",
+        "40",
+        "50",
+        "60"
+      ],
+      "opts_hi": [
+        "30",
+        "40",
+        "50",
+        "60"
+      ],
+      "ans": 1,
+      "subject": "Mathematics"
+    },
+    {
+      "q": "Find the average of the first 10 natural numbers.",
+      "q_hi": "प्रथम 10 प्राकृतिक संख्याओं का औसत ज्ञात करें।",
+      "opts": [
+        "4.5",
+        "5",
+        "5.5",
+        "6"
+      ],
+      "opts_hi": [
+        "4.5",
+        "5",
+        "5.5",
+        "6"
+      ],
+      "ans": 2,
+      "subject": "Mathematics"
+    },
+    {
+      "q": "Find the LCM of 12 and 18.",
+      "q_hi": "12 और 18 का LCM ज्ञात करें।",
+      "opts": [
+        "18",
+        "24",
+        "36",
+        "72"
+      ],
+      "opts_hi": [
+        "18",
+        "24",
+        "36",
+        "72"
+      ],
+      "ans": 2,
+      "subject": "Mathematics"
+    },
+    {
+      "q": "A can complete work in 10 days and B in 15 days. In how many days will they complete it together?",
+      "q_hi": "A किसी कार्य को 10 दिनों में और B 15 दिनों में पूरा कर सकता है। वे दोनों मिलकर कार्य को कितने दिनों में पूरा करेंगे?",
+      "opts": [
+        "5 days",
+        "6 days",
+        "7 days",
+        "8 days"
+      ],
+      "opts_hi": [
+        "5 दिन",
+        "6 दिन",
+        "7 दिन",
+        "8 दिन"
+      ],
+      "ans": 1,
+      "subject": "Mathematics"
+    },
+    {
+      "q": "Find the compound interest on Rs.1000 at 10% p.a. for 2 years.",
+      "q_hi": "Rs.1000 पर 10% वार्षिक दर से 2 वर्षों का चक्रवृद्धि ब्याज ज्ञात करें।",
+      "opts": [
+        "Rs. 200",
+        "Rs. 210",
+        "Rs. 220",
+        "Rs. 230"
+      ],
+      "opts_hi": [
+        "Rs. 200",
+        "Rs. 210",
+        "Rs. 220",
+        "Rs. 230"
+      ],
+      "ans": 1,
+      "subject": "Mathematics"
+    },
+    {
+      "q": "A shopkeeper gains 25% on selling an article. The cost price is Rs.800. Find the selling price.",
+      "q_hi": "एक दुकानदार एक वस्तु को 25% लाभ पर बेचता है। क्रय मूल्य Rs.800 है। विक्रय मूल्य ज्ञात करें।",
+      "opts": [
+        "Rs. 900",
+        "Rs. 950",
+        "Rs. 1000",
+        "Rs. 1050"
+      ],
+      "opts_hi": [
+        "Rs. 900",
+        "Rs. 950",
+        "Rs. 1000",
+        "Rs. 1050"
+      ],
+      "ans": 2,
+      "subject": "Mathematics"
     }
   ]
 }
