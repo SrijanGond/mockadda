@@ -1043,6 +1043,546 @@
       ],
       "ans": 2,
       "subject": "Reasoning"
+    },
+    {
+      "q": "What will come in place of question mark (?) in the following series? 7, 14, 28, 56, 112, ?",
+      "q_hi": "निम्नलिखित श्रृंखला में प्रश्न चिह्न (?) के स्थान पर क्या आएगा? 7, 14, 28, 56, 112, ?",
+      "opts": [
+        "168",
+        "196",
+        "224",
+        "252"
+      ],
+      "opts_hi": [
+        "168",
+        "196",
+        "224",
+        "252"
+      ],
+      "ans": 2,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "If \"MONKEY\" is coded as \"NPOLEZ\" and \"TIGER\" is coded as \"UJHFS\", then \"LION\" is coded as:",
+      "q_hi": "यदि \"MONKEY\" को \"NPOLEZ\" के रूप में कोडित किया जाता है और \"TIGER\" को \"UJHFS\" के रूप में कोडित किया जाता है, तो \"LION\" को किस रूप में कोडित किया जाएगा?",
+      "opts": [
+        "MJPO",
+        "MJRO",
+        "MJPS",
+        "MKPO"
+      ],
+      "opts_hi": [
+        "MJPO",
+        "MJRO",
+        "MJPS",
+        "MKPO"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Find the odd one out: 2, 5, 10, 17, 26, 37, 50, 65, 82, 101, 122, 145, 170, 197, 226, 257, 290, 325, 362, 401",
+      "q_hi": "विषम ज्ञात करें: 2, 5, 10, 17, 26, 37, 50, 65, 82, 101, 122, 145, 170, 197, 226, 257, 290, 325, 362, 401",
+      "opts": [
+        "2",
+        "290",
+        "401",
+        "362"
+      ],
+      "opts_hi": [
+        "2",
+        "290",
+        "401",
+        "362"
+      ],
+      "ans": 2,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "A person walks 10 km towards North, then turns right and walks 10 km, then turns right and walks 10 km, then turns left and walks 10 km. In which direction is he now from the starting point?",
+      "q_hi": "एक व्यक्ति उत्तर की ओर 10 किमी चलता है, फिर दाएँ मुड़ता है और 10 किमी चलता है, फिर दाएँ मुड़ता है और 10 किमी चलता है, फिर बाएँ मुड़ता है और 10 किमी चलता है। वह अब आरंभिक बिंदु से किस दिशा में है?",
+      "opts": [
+        "North",
+        "East",
+        "South",
+        "West"
+      ],
+      "opts_hi": [
+        "उत्तर",
+        "पूर्व",
+        "दक्षिण",
+        "पश्चिम"
+      ],
+      "ans": 1,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Pointing to a photo, a man said, \"He is the son of the only daughter of my mother.\" How is the person in the photo related to the man?",
+      "q_hi": "एक फोटो की ओर इशारा करते हुए, एक व्यक्ति ने कहा, \"वह मेरी माँ की इकलौती पुत्री का पुत्र है।\" फोटो में व्यक्ति उस व्यक्ति से किस प्रकार संबंधित है?",
+      "opts": [
+        "Nephew",
+        "Son",
+        "Brother",
+        "Cousin"
+      ],
+      "opts_hi": [
+        "भतीजा",
+        "पुत्र",
+        "भाई",
+        "चचेरा/ममेरा"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Select the option that is related to the third term in the same way as the second term is related to the first term. Doctor : Hospital :: Teacher : ?",
+      "q_hi": "उस विकल्प का चयन करें जो तीसरे पद से उसी प्रकार संबंधित है जैसे दूसरा पद पहले पद से संबंधित है। Doctor : Hospital :: Teacher : ?",
+      "opts": [
+        "School",
+        "College",
+        "University",
+        "Library"
+      ],
+      "opts_hi": [
+        "स्कूल",
+        "कॉलेज",
+        "विश्वविद्यालय",
+        "पुस्तकालय"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "What comes next in the series? C, F, I, L, O, ?",
+      "q_hi": "श्रृंखला में आगे क्या आएगा? C, F, I, L, O, ?",
+      "opts": [
+        "P",
+        "Q",
+        "R",
+        "S"
+      ],
+      "opts_hi": [
+        "P",
+        "Q",
+        "R",
+        "S"
+      ],
+      "ans": 2,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Statement: \"Some fruits are apples. All apples are red.\" Conclusion: Some red things are fruits.",
+      "q_hi": "कथन: \"कुछ फल सेब हैं। सभी सेब लाल हैं।\" निष्कर्ष: कुछ लाल चीज़ें फल हैं।",
+      "opts": [
+        "Conclusion follows",
+        "Conclusion does not follow",
+        "Conclusion is true only sometimes",
+        "Cannot be determined"
+      ],
+      "opts_hi": [
+        "निष्कर्ष अनुसरण करता है",
+        "निष्कर्ष अनुसरण नहीं करता",
+        "निष्कर्ष केवल कभी-कभी सत्य है",
+        "निर्धारित नहीं किया जा सकता"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "What is the angle between the hour and minute hands of a clock at 9:00?",
+      "q_hi": "9:00 पर घड़ी की घंटे और मिनट की सुइयों के बीच का कोण क्या है?",
+      "opts": [
+        "90°",
+        "180°",
+        "270°",
+        "0°"
+      ],
+      "opts_hi": [
+        "90°",
+        "180°",
+        "270°",
+        "0°"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Eight people are sitting in a row facing north. A sits third to the right of B. C sits between A and D. E sits at the left end. Who is second to the right of E?",
+      "q_hi": "आठ लोग एक पंक्ति में उत्तर की ओर मुख करके बैठे हैं। A, B के दाएँ तीसरे स्थान पर बैठा है। C, A और D के बीच में बैठा है। E बाएँ छोर पर बैठा है। E के दाएँ दूसरे स्थान पर कौन बैठा है?",
+      "opts": [
+        "F",
+        "B",
+        "C",
+        "Cannot be determined"
+      ],
+      "opts_hi": [
+        "F",
+        "B",
+        "C",
+        "निर्धारित नहीं किया जा सकता"
+      ],
+      "ans": 3,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Find the odd one out: 4, 9, 16, 25, 36, 49, 64, 81, 100, 121, 144, 169, 196, 225, 256, 289, 324, 361, 400, 441, 484, 529, 576, 625, 676, 729, 784, 841, 900, 961, 1024, 1089, 1156, 1225, 1296, 1369, 1444, 1521, 1600, 1681, 1764, 1849, 1936, 2025, 2116, 2209, 2304, 2401, 2500, 2601, 2704, 2809, 2916, 3025, 3136, 3249, 3364, 3481, 3600, 3721, 3844, 3969, 4096, 4225, 4356, 4489, 4624, 4761, 4900, 5041, 5184, 5329, 5476, 5625, 5776, 5929, 6084, 6241, 6400, 6561, 6724, 6889, 7056, 7225, 7396, 7569, 7744, 7921, 8100, 8281, 8464, 8649, 8836, 9025, 9216, 9409, 9604, 9801, 10000",
+      "q_hi": "विषम ज्ञात करें: 4, 9, 16, 25, 36, 49, 64, 81, 100, 121, 144, 169, 196, 225, 256, 289, 324, 361, 400, 441, 484, 529, 576, 625, 676, 729, 784, 841, 900, 961, 1024, 1089, 1156, 1225, 1296, 1369, 1444, 1521, 1600, 1681, 1764, 1849, 1936, 2025, 2116, 2209, 2304, 2401, 2500, 2601, 2704, 2809, 2916, 3025, 3136, 3249, 3364, 3481, 3600, 3721, 3844, 3969, 4096, 4225, 4356, 4489, 4624, 4761, 4900, 5041, 5184, 5329, 5476, 5625, 5776, 5929, 6084, 6241, 6400, 6561, 6724, 6889, 7056, 7225, 7396, 7569, 7744, 7921, 8100, 8281, 8464, 8649, 8836, 9025, 9216, 9409, 9604, 9801, 10000",
+      "opts": [
+        "4 (2²)",
+        "10000 (100²)",
+        "9409 (97²)",
+        "None, all are squares"
+      ],
+      "opts_hi": [
+        "4 (2²)",
+        "10000 (100²)",
+        "9409 (97²)",
+        "कोई नहीं, सभी वर्ग हैं"
+      ],
+      "ans": 3,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Statement: \"All teachers should undergo training every year.\" Which of the following is the underlying assumption?",
+      "q_hi": "कथन: \"सभी शिक्षकों को प्रत्येक वर्ष प्रशिक्षण से गुजरना चाहिए।\" निम्नलिखित में से कौन सी अंतर्निहित धारणा है?",
+      "opts": [
+        "Teachers are not competent enough",
+        "Training improves teaching skills",
+        "Teachers enjoy training",
+        "Training is expensive"
+      ],
+      "opts_hi": [
+        "शिक्षक पर्याप्त सक्षम नहीं हैं",
+        "प्रशिक्षण शिक्षण कौशल में सुधार करता है",
+        "शिक्षक प्रशिक्षण का आनंद लेते हैं",
+        "प्रशिक्षण महंगा है"
+      ],
+      "ans": 1,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Which letter is 3rd to the right of the 10th letter from the right in the English alphabet?",
+      "q_hi": "अंग्रेजी वर्णमाला में दाएँ से 10वें अक्षर के दाएँ तीसरा अक्षर कौन सा है?",
+      "opts": [
+        "Q",
+        "R",
+        "S",
+        "T"
+      ],
+      "opts_hi": [
+        "Q",
+        "R",
+        "S",
+        "T"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "If M > N ≥ O = P < Q, which of the following is true?",
+      "q_hi": "यदि M > N ≥ O = P < Q है, तो निम्नलिखित में से कौन सा सत्य है?",
+      "opts": [
+        "M > O",
+        "M = O",
+        "O > Q",
+        "M < Q"
+      ],
+      "opts_hi": [
+        "M > O",
+        "M = O",
+        "O > Q",
+        "M < Q"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Which of the following correctly represents the relationship: Birds, Penguins, Animals?",
+      "q_hi": "निम्नलिखित में से कौन सा संबंध को सही दर्शाता है: पक्षी, पेंगुइन, जानवर?",
+      "opts": [
+        "A circle inside another circle inside a third circle",
+        "Two circles inside a third",
+        "Three separate circles",
+        "Two separate circles"
+      ],
+      "opts_hi": [
+        "एक वृत्त दूसरे वृत्त के अंदर और तीसरे वृत्त के अंदर",
+        "दो वृत्त तीसरे के अंदर",
+        "तीन अलग-अलग वृत्त",
+        "दो अलग-अलग वृत्त"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "What comes next in the series? 1, 4, 9, 16, 25, 36, 49, ?",
+      "q_hi": "श्रृंखला में आगे क्या आएगा? 1, 4, 9, 16, 25, 36, 49, ?",
+      "opts": [
+        "56",
+        "64",
+        "72",
+        "81"
+      ],
+      "opts_hi": [
+        "56",
+        "64",
+        "72",
+        "81"
+      ],
+      "ans": 1,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Five people A, B, C, D, E have different heights. A is taller than B but shorter than C. D is taller than E. Who is the tallest?",
+      "q_hi": "पाँच लोग A, B, C, D, E की अलग-अलग ऊँचाई है। A, B से लंबा है लेकिन C से छोटा है। D, E से लंबा है। सबसे लंबा कौन है?",
+      "opts": [
+        "A",
+        "C",
+        "D",
+        "Cannot be determined"
+      ],
+      "opts_hi": [
+        "A",
+        "C",
+        "D",
+        "निर्धारित नहीं किया जा सकता"
+      ],
+      "ans": 3,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Which of the following is the mirror image of the word \"MIRROR\"?",
+      "q_hi": "MIRROR शब्द का दर्पण प्रतिबिंब निम्नलिखित में से कौन सा है?",
+      "opts": [
+        "RORRIM",
+        "RORRIM",
+        "RORRIM",
+        "RORRIM"
+      ],
+      "opts_hi": [
+        "RORRIM",
+        "RORRIM",
+        "RORRIM",
+        "RORRIM"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Arrange the following in a logical order: 1. Birth, 2. Childhood, 3. Adolescence, 4. Adulthood, 5. Old age",
+      "q_hi": "निम्नलिखित को तार्किक क्रम में व्यवस्थित करें: 1. जन्म, 2. बचपन, 3. किशोरावस्था, 4. वयस्कता, 5. वृद्धावस्था",
+      "opts": [
+        "1, 2, 3, 4, 5",
+        "1, 3, 2, 4, 5",
+        "2, 1, 3, 4, 5",
+        "4, 3, 2, 1, 5"
+      ],
+      "opts_hi": [
+        "1, 2, 3, 4, 5",
+        "1, 3, 2, 4, 5",
+        "2, 1, 3, 4, 5",
+        "4, 3, 2, 1, 5"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "If A is the father of B, B is the mother of C, and C is the sister of D, how is A related to D?",
+      "q_hi": "यदि A, B का पिता है, B, C की माता है, और C, D की बहन है, तो A, D से किस प्रकार संबंधित है?",
+      "opts": [
+        "Grandfather",
+        "Father",
+        "Uncle",
+        "Brother"
+      ],
+      "opts_hi": [
+        "दादा/नाना",
+        "पिता",
+        "चाचा/मामा",
+        "भाई"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Which of the following is similar to 9 : 81?",
+      "q_hi": "निम्नलिखित में से कौन सा 9 : 81 के समान है?",
+      "opts": [
+        "7 : 49",
+        "5 : 25",
+        "6 : 36",
+        "All of the above"
+      ],
+      "opts_hi": [
+        "7 : 49",
+        "5 : 25",
+        "6 : 36",
+        "उपरोक्त सभी"
+      ],
+      "ans": 3,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "What will come in place of question mark (?) in the following series? 10, 20, 40, 80, 160, ?",
+      "q_hi": "निम्नलिखित श्रृंखला में प्रश्न चिह्न (?) के स्थान पर क्या आएगा? 10, 20, 40, 80, 160, ?",
+      "opts": [
+        "240",
+        "280",
+        "320",
+        "360"
+      ],
+      "opts_hi": [
+        "240",
+        "280",
+        "320",
+        "360"
+      ],
+      "ans": 2,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "A person walks 5 km towards East, then turns right and walks 12 km, then turns right and walks 5 km. How far is he from the starting point?",
+      "q_hi": "एक व्यक्ति पूर्व की ओर 5 किमी चलता है, फिर दाएँ मुड़ता है और 12 किमी चलता है, फिर दाएँ मुड़ता है और 5 किमी चलता है। वह आरंभिक बिंदु से कितनी दूर है?",
+      "opts": [
+        "5 km",
+        "12 km",
+        "13 km",
+        "17 km"
+      ],
+      "opts_hi": [
+        "5 किमी",
+        "12 किमी",
+        "13 किमी",
+        "17 किमी"
+      ],
+      "ans": 1,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "If \"ABCD\" is coded as \"BCDE\" and \"WXYZ\" is coded as \"XYZA\", then \"PQRS\" is coded as:",
+      "q_hi": "यदि \"ABCD\" को \"BCDE\" के रूप में कोडित किया जाता है और \"WXYZ\" को \"XYZA\" के रूप में कोडित किया जाता है, तो \"PQRS\" को किस रूप में कोडित किया जाएगा?",
+      "opts": [
+        "QRST",
+        "QRTV",
+        "QRSU",
+        "QRTU"
+      ],
+      "opts_hi": [
+        "QRST",
+        "QRTV",
+        "QRSU",
+        "QRTU"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "What is the angle between the hour and minute hands of a clock at 3:00?",
+      "q_hi": "3:00 पर घड़ी की घंटे और मिनट की सुइयों के बीच का कोण क्या है?",
+      "opts": [
+        "90°",
+        "45°",
+        "60°",
+        "30°"
+      ],
+      "opts_hi": [
+        "90°",
+        "45°",
+        "60°",
+        "30°"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Statement: \"All roses are flowers. Some flowers are red.\" Conclusion: Some roses are red.",
+      "q_hi": "कथन: \"सभी गुलाब फूल हैं। कुछ फूल लाल हैं।\" निष्कर्ष: कुछ गुलाब लाल हैं।",
+      "opts": [
+        "Conclusion follows",
+        "Conclusion does not follow",
+        "Conclusion is true only sometimes",
+        "Cannot be determined"
+      ],
+      "opts_hi": [
+        "निष्कर्ष अनुसरण करता है",
+        "निष्कर्ष अनुसरण नहीं करता",
+        "निष्कर्ष केवल कभी-कभी सत्य है",
+        "निर्धारित नहीं किया जा सकता"
+      ],
+      "ans": 1,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "What comes next in the series? 1, 11, 21, 31, 41, ?",
+      "q_hi": "श्रृंखला में आगे क्या आएगा? 1, 11, 21, 31, 41, ?",
+      "opts": [
+        "45",
+        "50",
+        "51",
+        "55"
+      ],
+      "opts_hi": [
+        "45",
+        "50",
+        "51",
+        "55"
+      ],
+      "ans": 2,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "If X ≤ Y > Z < W, which of the following is true?",
+      "q_hi": "यदि X ≤ Y > Z < W है, तो निम्नलिखित में से कौन सा सत्य है?",
+      "opts": [
+        "X < Z",
+        "W > Z",
+        "X = Z",
+        "Y = W"
+      ],
+      "opts_hi": [
+        "X < Z",
+        "W > Z",
+        "X = Z",
+        "Y = W"
+      ],
+      "ans": 1,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Find the odd one out: 11, 22, 33, 44, 55, 66, 77, 88, 99, 110, 121, 132, 143, 154, 165, 176, 187, 198, 209, 220, 231, 242, 253, 264, 275, 286, 297, 308, 319, 330, 341, 352, 363, 374, 385, 396, 407, 418, 429, 440, 451, 462, 473, 484, 495, 506, 517, 528, 539, 550, 561, 572, 583, 594, 605, 616, 627, 638, 649, 660, 671, 682, 693, 704, 715, 726, 737, 748, 759, 770, 781, 792, 803, 814, 825, 836, 847, 858, 869, 880, 891, 902, 913, 924, 935, 946, 957, 968, 979, 990, 1001, 1012, 1023, 1034, 1045, 1056, 1067, 1078, 1089, 1100",
+      "q_hi": "विषम ज्ञात करें: 11, 22, 33, 44, 55, 66, 77, 88, 99, 110, 121, 132, 143, 154, 165, 176, 187, 198, 209, 220, 231, 242, 253, 264, 275, 286, 297, 308, 319, 330, 341, 352, 363, 374, 385, 396, 407, 418, 429, 440, 451, 462, 473, 484, 495, 506, 517, 528, 539, 550, 561, 572, 583, 594, 605, 616, 627, 638, 649, 660, 671, 682, 693, 704, 715, 726, 737, 748, 759, 770, 781, 792, 803, 814, 825, 836, 847, 858, 869, 880, 891, 902, 913, 924, 935, 946, 957, 968, 979, 990, 1001, 1012, 1023, 1034, 1045, 1056, 1067, 1078, 1089, 1100",
+      "opts": [
+        "11 (multiple of 11)",
+        "1100 (multiple of 11)",
+        "1089 (multiple of 11)",
+        "None, all are multiples of 11"
+      ],
+      "opts_hi": [
+        "11 (11 का गुणज)",
+        "1100 (11 का गुणज)",
+        "1089 (11 का गुणज)",
+        "कोई नहीं, सभी 11 के गुणज हैं"
+      ],
+      "ans": 3,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Which letter is 5th to the left of the 10th letter from the left in the English alphabet?",
+      "q_hi": "अंग्रेजी वर्णमाला में बाएँ से 10वें अक्षर के बाएँ पाँचवाँ अक्षर कौन सा है?",
+      "opts": [
+        "E",
+        "F",
+        "D",
+        "C"
+      ],
+      "opts_hi": [
+        "E",
+        "F",
+        "D",
+        "C"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
     }
   ]
 }
