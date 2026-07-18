@@ -617,6 +617,68 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "ctet_13",
+      "title": "CTET Mock Test 13",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Arrange the following in a logical order: 1. Flower, 2. Fruit, 3. Seed, 4. Plant, 5. Sapling",
+          "q_hi": "निम्नलिखित को तार्किक क्रम में व्यवस्थित करें: 1. फूल, 2. फल, 3. बीज, 4. पौधा, 5. अंकुर",
+          "opts": [
+            "3, 5, 4, 1, 2",
+            "3, 4, 5, 1, 2",
+            "5, 3, 4, 1, 2",
+            "4, 5, 3, 1, 2"
+          ],
+          "opts_hi": [
+            "3, 5, 4, 1, 2",
+            "3, 4, 5, 1, 2",
+            "5, 3, 4, 1, 2",
+            "4, 5, 3, 1, 2"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "Statement: \"Government has banned single-use plastic.\" Inference: People will stop using plastic.",
+          "q_hi": "कथन: \"सरकार ने एकल-उपयोग प्लास्टिक पर प्रतिबंध लगा दिया है।\" निष्कर्ष: लोग प्लास्टिक का उपयोग बंद कर देंगे।",
+          "opts": [
+            "Inference is valid",
+            "Inference is not valid",
+            "Inference is true only sometimes",
+            "Cannot be determined"
+          ],
+          "opts_hi": [
+            "निष्कर्ष मान्य है",
+            "निष्कर्ष मान्य नहीं है",
+            "निष्कर्ष केवल कभी-कभी सत्य है",
+            "निर्धारित नहीं किया जा सकता"
+          ],
+          "ans": 1,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "Arrange the following in ascending order of size: 1. Book, 2. Chapter, 3. Letter, 4. Word, 5. Page",
+          "q_hi": "निम्नलिखित को आकार के बढ़ते क्रम में व्यवस्थित करें: 1. पुस्तक, 2. अध्याय, 3. अक्षर, 4. शब्द, 5. पृष्ठ",
+          "opts": [
+            "3, 4, 5, 2, 1",
+            "4, 3, 5, 2, 1",
+            "3, 5, 4, 2, 1",
+            "4, 5, 3, 2, 1"
+          ],
+          "opts_hi": [
+            "3, 4, 5, 2, 1",
+            "4, 3, 5, 2, 1",
+            "3, 5, 4, 2, 1",
+            "4, 5, 3, 2, 1"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
