@@ -1515,6 +1515,122 @@
           "ans": 1
         }
       ]
+    },
+    {
+      "id": "upsc_prelims_12",
+      "title": "UPSC Prelims Mock Test 12",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "The total number of candidates in the UPSC Prelims 2026 is 5,00,000. 20% clear the Prelims. 40% of those clearing Prelims clear the Mains. What percentage of original candidates clear the Mains?",
+          "q_hi": "UPSC प्रारंभिक 2026 में कुल उम्मीदवारों की संख्या 5,00,000 है। 20% प्रारंभिक परीक्षा पास करते हैं। इनमें से 40% मुख्य परीक्षा पास करते हैं। मूल उम्मीदवारों का कितना प्रतिशत मुख्य परीक्षा पास करता है?",
+          "opts": [
+            "0.06",
+            "0.08",
+            "0.1",
+            "0.12"
+          ],
+          "opts_hi": [
+            "0.06",
+            "0.08",
+            "0.1",
+            "0.12"
+          ],
+          "ans": 1,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "Question: What is the average of 5 numbers? Statement I: Sum of 3 numbers is 30. Statement II: Sum of remaining 2 numbers is 20. Which of the following is correct?",
+          "q_hi": "प्रश्न: 5 संख्याओं का औसत क्या है? कथन I: 3 संख्याओं का योग 30 है। कथन II: शेष 2 संख्याओं का योग 20 है। निम्नलिखित में से कौन सा सही है?",
+          "opts": [
+            "Both statements together are sufficient to answer the question",
+            "Statement I alone is sufficient",
+            "Statement II alone is sufficient",
+            "Both statements are insufficient"
+          ],
+          "opts_hi": [
+            "प्रश्न का उत्तर देने के लिए दोनों कथन एक साथ पर्याप्त हैं",
+            "केवल कथन I पर्याप्त है",
+            "केवल कथन II पर्याप्त है",
+            "दोनों कथन अपर्याप्त हैं"
+          ],
+          "ans": 0,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "In an election, a candidate who gets 40% of votes is defeated by 400 votes. What is the total number of votes polled?",
+          "q_hi": "एक चुनाव में, 40% वोट पाने वाला उम्मीदवार 400 वोटों से हार जाता है। कुल कितने वोट पड़े?",
+          "opts": [
+            "1000",
+            "1500",
+            "2000",
+            "2500"
+          ],
+          "opts_hi": [
+            "1000",
+            "1500",
+            "2000",
+            "2500"
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "Gold and silver are mixed in the ratio 7:3. If the total mixture weighs 100g, what is the weight of gold?",
+          "q_hi": "सोने और चाँदी को 7:3 के अनुपात में मिलाया जाता है। यदि कुल मिश्रण का वजन 100g है, तो सोने का वजन क्या है?",
+          "opts": [
+            "30g",
+            "50g",
+            "70g",
+            "80g"
+          ],
+          "opts_hi": [
+            "30g",
+            "50g",
+            "70g",
+            "80g"
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "Question: What is the ratio of girls to boys in a school? Statement I: There are 100 more boys than girls. Statement II: Number of boys is 250. Which of the following is correct?",
+          "q_hi": "प्रश्न: एक स्कूल में लड़कियों और लड़कों का अनुपात क्या है? कथन I: लड़कों की संख्या लड़कियों से 100 अधिक है। कथन II: लड़कों की संख्या 250 है। निम्नलिखित में से कौन सा सही है?",
+          "opts": [
+            "Both statements together are sufficient to answer the question",
+            "Statement I alone is sufficient",
+            "Statement II alone is sufficient",
+            "Both statements are insufficient"
+          ],
+          "opts_hi": [
+            "प्रश्न का उत्तर देने के लिए दोनों कथन एक साथ पर्याप्त हैं",
+            "केवल कथन I पर्याप्त है",
+            "केवल कथन II पर्याप्त है",
+            "दोनों कथन अपर्याप्त हैं"
+          ],
+          "ans": 0,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "A shopkeeper gains 25% on selling an article. The cost price is Rs.800. Find the selling price.",
+          "q_hi": "एक दुकानदार एक वस्तु को 25% लाभ पर बेचता है। क्रय मूल्य Rs.800 है। विक्रय मूल्य ज्ञात करें।",
+          "opts": [
+            "Rs. 900",
+            "Rs. 950",
+            "Rs. 1000",
+            "Rs. 1050"
+          ],
+          "opts_hi": [
+            "Rs. 900",
+            "Rs. 950",
+            "Rs. 1000",
+            "Rs. 1050"
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        }
+      ]
     }
   ]
 }
