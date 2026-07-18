@@ -3882,6 +3882,158 @@
           "subject": "Mathematics"
         }
       ]
+    },
+    {
+      "id": "roaro_prelims_12",
+      "title": "RO/ARO Prelims Mock Test 12",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "At the center of Earth, the acceleration due to gravity is:",
+          "q_hi": "पृथ्वी के केंद्र पर, गुरुत्वाकर्षण के कारण त्वरण है:",
+          "opts": [
+            "Zero",
+            "Maximum",
+            "Equal to surface gravity",
+            "Infinite"
+          ],
+          "opts_hi": [
+            "शून्य",
+            "अधिकतम",
+            "सतह गुरुत्वाकर्षण के बराबर",
+            "अनंत"
+          ],
+          "ans": 0,
+          "subject": "Science"
+        },
+        {
+          "q": "Which of the following cell organelles contain hydrolytic enzymes?",
+          "q_hi": "निम्नलिखित में से किस कोशिका अंगक में हाइड्रोलाइटिक एंजाइम होते हैं?",
+          "opts": [
+            "Vacuoles",
+            "Plastids",
+            "Lysosomes",
+            "Golgi bodies"
+          ],
+          "opts_hi": [
+            "रिक्तिकाएँ",
+            "प्लास्टिड्स",
+            "लाइसोसोम",
+            "गॉल्जी निकाय"
+          ],
+          "ans": 2,
+          "subject": "Science"
+        },
+        {
+          "q": "Which organ in the human body is called \"The graveyard of RBC\"?",
+          "q_hi": "मानव शरीर में किस अंग को \"RBC का कब्रिस्तान\" कहा जाता है?",
+          "opts": [
+            "Liver",
+            "Heart",
+            "Kidney",
+            "Spleen"
+          ],
+          "opts_hi": [
+            "यकृत",
+            "हृदय",
+            "गुर्दा",
+            "तिल्ली"
+          ],
+          "ans": 3,
+          "subject": "Science"
+        },
+        {
+          "q": "Who was the founder of the five kingdom system of classification?",
+          "q_hi": "पाँच जगत वर्गीकरण प्रणाली के संस्थापक कौन थे?",
+          "opts": [
+            "R.H. Whittaker",
+            "Carl Woese",
+            "Ernst Haeckel",
+            "Carolus Linnaeus"
+          ],
+          "opts_hi": [
+            "आर.एच. व्हिटेकर",
+            "कार्ल वोइस",
+            "अर्न्स्ट हेकल",
+            "कैरोलस लिनिअस"
+          ],
+          "ans": 0,
+          "subject": "Science"
+        },
+        {
+          "q": "Match the chemical substances with their application: (a) Bleaching powder - (i) Decolourisation, (b) Baking soda - (ii) Antacid, (c) Washing soda - (iii) Preparation of glass, (d) Sodium chloride - (iv) Production of H2 and Cl2.",
+          "q_hi": "रासायनिक पदार्थों को उनके अनुप्रयोगों से सुमेलित करें: (a) ब्लीचिंग पाउडर - (i) विरंजन, (b) बेकिंग सोडा - (ii) एंटासिड, (c) वॉशिंग सोडा - (iii) कांच का निर्माण, (d) सोडियम क्लोराइड - (iv) H2 और Cl2 का उत्पादन।",
+          "opts": [
+            "a-(iii), b-(iv), c-(i), d-(ii)",
+            "a-(iii), b-(ii), c-(i), d-(iv)",
+            "a-(i), b-(ii), c-(iii), d-(iv)",
+            "a-(ii), b-(i), c-(iv), d-(iii)"
+          ],
+          "opts_hi": [
+            "a-(iii), b-(iv), c-(i), d-(ii)",
+            "a-(iii), b-(ii), c-(i), d-(iv)",
+            "a-(i), b-(ii), c-(iii), d-(iv)",
+            "a-(ii), b-(i), c-(iv), d-(iii)"
+          ],
+          "ans": 1,
+          "subject": "Science"
+        },
+        {
+          "q": "Carotenes are found in which of the following?",
+          "q_hi": "कैरोटीन निम्नलिखित में से किसमें पाया जाता है?",
+          "opts": [
+            "Milk",
+            "Carrot",
+            "Meat",
+            "Lemon"
+          ],
+          "opts_hi": [
+            "दूध",
+            "गाजर",
+            "मांस",
+            "नींबू"
+          ],
+          "ans": 1,
+          "subject": "Science"
+        },
+        {
+          "q": "What is the function of the enzyme \"Lipase\"?",
+          "q_hi": "एंजाइम \"लाइपेज\" का कार्य क्या है?",
+          "opts": [
+            "Converts proteins into amino acids",
+            "Converts maltose into glucose",
+            "Converts starch into sugar",
+            "Catalyzes fats into fatty acids and glycerine"
+          ],
+          "opts_hi": [
+            "प्रोटीन को अमीनो अम्ल में परिवर्तित करता है",
+            "माल्टोज़ को ग्लूकोज़ में परिवर्तित करता है",
+            "स्टार्च को शर्करा में परिवर्तित करता है",
+            "वसा को फैटी अम्ल और ग्लिसरीन में उत्प्रेरित करता है"
+          ],
+          "ans": 3,
+          "subject": "Science"
+        },
+        {
+          "q": "Which instrument is used to measure the potential difference?",
+          "q_hi": "विभवांतर मापने के लिए किस उपकरण का उपयोग किया जाता है?",
+          "opts": [
+            "Barometer",
+            "Galvanometer",
+            "Ammeter",
+            "Voltmeter"
+          ],
+          "opts_hi": [
+            "बैरोमीटर",
+            "गैल्वेनोमीटर",
+            "एमीटर",
+            "वोल्टमीटर"
+          ],
+          "ans": 3,
+          "subject": "Science"
+        }
+      ]
     }
   ]
 }
