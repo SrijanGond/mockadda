@@ -199,7 +199,8 @@
             "करेंट रिजर्व रेट",
             "कैपिटल रिजर्व रेशियो"
           ],
-          "ans": 0
+          "ans": 0,
+          "subject": "Banking"
         }
       ]
     },
@@ -224,7 +225,8 @@
             "ग्राहक संबंध प्रबंधन",
             "शाखा विस्तार और ग्रामीण बैंकिंग"
           ],
-          "ans": 1
+          "ans": 1,
+          "subject": "Banking"
         },
         {
           "q": "Which of the following is NOT a function of the Reserve Bank of India?",
@@ -241,7 +243,8 @@
             "अंतिम उपाय का ऋणदाता",
             "जनता से जमा स्वीकार करना"
           ],
-          "ans": 3
+          "ans": 3,
+          "subject": "Banking"
         }
       ]
     },
@@ -266,7 +269,8 @@
             "प्रतिभूति बाजार के विकास को बढ़ावा देना",
             "मौद्रिक नीति तैयार करना"
           ],
-          "ans": 3
+          "ans": 3,
+          "subject": "Banking"
         },
         {
           "q": "Which of the following is the first bank to introduce the 'Rupay' payment system?",
@@ -283,7 +287,8 @@
             "HDFC बैंक",
             "एक्सिस बैंक"
           ],
-          "ans": 0
+          "ans": 0,
+          "subject": "Banking"
         }
       ]
     },
@@ -308,7 +313,8 @@
             "औसत भुगतान दर",
             "एसेट पेमेंट रेशियो"
           ],
-          "ans": 0
+          "ans": 0,
+          "subject": "Banking"
         }
       ]
     },
@@ -333,7 +339,8 @@
             "48 वर्ष",
             "50 वर्ष"
           ],
-          "ans": 1
+          "ans": 1,
+          "subject": "Mathematics"
         },
         {
           "q": "Study the following pie chart and answer: If the total expenditure is Rs. 50,000, what is the amount spent on food (25%)?",
@@ -350,7 +357,8 @@
             "Rs. 15,000",
             "Rs. 20,000"
           ],
-          "ans": 0
+          "ans": 0,
+          "subject": "Mathematics"
         },
         {
           "q": "A table shows marks of 5 students. What is the average marks if total marks are 400 and there are 5 students?",
@@ -367,7 +375,8 @@
             "75",
             "90"
           ],
-          "ans": 0
+          "ans": 0,
+          "subject": "Mathematics"
         }
       ]
     },
@@ -392,7 +401,8 @@
             "₹2.5 लाख करोड़",
             "₹3.0 लाख करोड़"
           ],
-          "ans": 1
+          "ans": 1,
+          "subject": "Current Affairs"
         },
         {
           "q": "Which SEBI platform was launched to replace email-based regulatory communication?",
@@ -409,7 +419,8 @@
             "SEBI ई-ऑफिस",
             "SEBI सहयोग"
           ],
-          "ans": 0
+          "ans": 0,
+          "subject": "Current Affairs"
         },
         {
           "q": "The RBI formed an 8-member expert panel named Q-SAFE. What does 'Q-SAFE' stand for?",
@@ -426,7 +437,8 @@
             "क्वांटिटेटिव असेसमेंट एंड फाइनेंशियल इवैल्यूएशन",
             "क्वांटम, सिक्योरिटी, एंड फाइनेंशियल इकोसिस्टम"
           ],
-          "ans": 3
+          "ans": 3,
+          "subject": "Current Affairs"
         },
         {
           "q": "As per RBI's FY27 projections, what is the real GDP growth rate?",
@@ -443,7 +455,8 @@
             "0.07",
             "0.075"
           ],
-          "ans": 1
+          "ans": 1,
+          "subject": "Current Affairs"
         }
       ]
     },
@@ -468,7 +481,8 @@
             "₹200 करोड़",
             "₹500 करोड़"
           ],
-          "ans": 1
+          "ans": 1,
+          "subject": "Current Affairs"
         },
         {
           "q": "Under RBI's revised guidelines for recurring digital payments, what is the threshold for transactions permitted without Additional Factor of Authentication (AFA) for insurance premium payments and mutual fund subscriptions?",
@@ -485,7 +499,8 @@
             "₹50,000",
             "₹1,00,000"
           ],
-          "ans": 3
+          "ans": 3,
+          "subject": "Current Affairs"
         },
         {
           "q": "The Shahpur Kandi Dam, which prevents unused flows into Pakistan, is located in which state?",
@@ -502,7 +517,8 @@
             "पंजाब",
             "जम्मू और कश्मीर"
           ],
-          "ans": 2
+          "ans": 2,
+          "subject": "Current Affairs"
         }
       ]
     },
@@ -527,7 +543,8 @@
             "मेटावर्स",
             "वर्चुअल मैट्रिक्स"
           ],
-          "ans": 2
+          "ans": 2,
+          "subject": "Science"
         },
         {
           "q": "Recently, the term 'pumped-storage hydropower' is actually and appropriately discussed in the context of which one of the following?",
@@ -544,7 +561,8 @@
             "लंबी अवधि की ऊर्जा भंडारण",
             "वर्षा जल संचयन प्रणाली"
           ],
-          "ans": 2
+          "ans": 2,
+          "subject": "Science"
         },
         {
           "q": "Which blood group is known as the 'universal donor'?",
@@ -561,7 +579,8 @@
             "AB पॉजिटिव",
             "B नेगेटिव"
           ],
-          "ans": 1
+          "ans": 1,
+          "subject": "Science"
         }
       ]
     },
