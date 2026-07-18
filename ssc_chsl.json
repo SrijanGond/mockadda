@@ -1159,6 +1159,32 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "ssc_chsl_19",
+      "title": "SSC CHSL Mock Test 19",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which of the following rivers is NOT a tributary of the Ganga River system?",
+          "q_hi": "निम्नलिखित में से कौन सी नदी गंगा नदी तंत्र की सहायक नदी नहीं है?",
+          "opts": [
+            "Yamuna",
+            "Ghaghara",
+            "Son",
+            "Mahanadi"
+          ],
+          "opts_hi": [
+            "यमुना",
+            "घाघरा",
+            "सोन",
+            "महानदी"
+          ],
+          "ans": 3,
+          "subject": "General Knowledge"
+        }
+      ]
     }
   ]
 }
