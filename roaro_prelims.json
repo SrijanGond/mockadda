@@ -3838,6 +3838,50 @@
           "subject": "Mathematics"
         }
       ]
+    },
+    {
+      "id": "roaro_prelims_11",
+      "title": "RO/ARO Prelims Mock Test 11",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "The perimeter of a rectangle is 40 cm. If its length is 12 cm, find its breadth.",
+          "q_hi": "एक आयत का परिमाप 40 सेमी है। यदि इसकी लंबाई 12 सेमी है, तो इसकी चौड़ाई ज्ञात करें।",
+          "opts": [
+            "6 cm",
+            "8 cm",
+            "10 cm",
+            "12 cm"
+          ],
+          "opts_hi": [
+            "6 सेमी",
+            "8 सेमी",
+            "10 सेमी",
+            "12 सेमी"
+          ],
+          "ans": 1,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "A number is increased by 25% and then decreased by 20%. Find the net percentage change.",
+          "q_hi": "एक संख्या को 25% बढ़ाया जाता है और फिर 20% घटाया जाता है। शुद्ध प्रतिशत परिवर्तन ज्ञात करें।",
+          "opts": [
+            "0% (No change)",
+            "5% increase",
+            "5% decrease",
+            "10% increase"
+          ],
+          "opts_hi": [
+            "0% (कोई परिवर्तन नहीं)",
+            "5% वृद्धि",
+            "5% कमी",
+            "10% वृद्धि"
+          ],
+          "ans": 0,
+          "subject": "Mathematics"
+        }
+      ]
     }
   ]
 }
