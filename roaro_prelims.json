@@ -4096,6 +4096,32 @@
           "subject": "Science"
         }
       ]
+    },
+    {
+      "id": "roaro_prelims_14",
+      "title": "RO/ARO Prelims Mock Test 14",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Find the odd word among the following:",
+          "q_hi": "निम्नलिखित में से विषम शब्द ज्ञात करें:",
+          "opts": [
+            "Apple",
+            "Mango",
+            "Orange",
+            "Potato"
+          ],
+          "opts_hi": [
+            "सेब",
+            "आम",
+            "संतरा",
+            "आलू"
+          ],
+          "ans": 3,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
