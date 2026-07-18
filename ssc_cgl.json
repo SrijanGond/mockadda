@@ -1011,6 +1011,50 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "ssc_cgl_16",
+      "title": "SSC CGL Mock Test 16",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Find the odd one out: 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 51, 53",
+          "q_hi": "विषम ज्ञात करें: 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 51, 53",
+          "opts": [
+            "51",
+            "47",
+            "43",
+            "53"
+          ],
+          "opts_hi": [
+            "51",
+            "47",
+            "43",
+            "53"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "What comes next in the series? 2, 6, 18, 54, 162, ?",
+          "q_hi": "श्रृंखला में आगे क्या आएगा? 2, 6, 18, 54, 162, ?",
+          "opts": [
+            "324",
+            "432",
+            "486",
+            "540"
+          ],
+          "opts_hi": [
+            "324",
+            "432",
+            "486",
+            "540"
+          ],
+          "ans": 2,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
