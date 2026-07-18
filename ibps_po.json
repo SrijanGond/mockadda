@@ -590,6 +590,50 @@
           "subject": "Mathematics"
         }
       ]
+    },
+    {
+      "id": "ibps_po_11",
+      "title": "IBPS PO Mock Test 11",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Find the compound interest on Rs.8000 for 2 years at 5% per annum compounded annually.",
+          "q_hi": "Rs.8000 पर 2 वर्षों के लिए 5% वार्षिक दर से चक्रवृद्धि ब्याज ज्ञात करें, जो वार्षिक रूप से संयोजित होता है।",
+          "opts": [
+            "Rs. 800",
+            "Rs. 820",
+            "Rs. 840",
+            "Rs. 860"
+          ],
+          "opts_hi": [
+            "Rs. 800",
+            "Rs. 820",
+            "Rs. 840",
+            "Rs. 860"
+          ],
+          "ans": 1,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "If x² + 1/x² = 18, find x + 1/x.",
+          "q_hi": "यदि x² + 1/x² = 18 है, तो x + 1/x ज्ञात करें।",
+          "opts": [
+            "√16",
+            "√18",
+            "√20",
+            "√22"
+          ],
+          "opts_hi": [
+            "√16",
+            "√18",
+            "√20",
+            "√22"
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        }
+      ]
     }
   ]
 }
