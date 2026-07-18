@@ -796,6 +796,68 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "sbi_po_16",
+      "title": "SBI PO Mock Test 16",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "If \"MONKEY\" is coded as \"NPOLEZ\" and \"TIGER\" is coded as \"UJHFS\", then \"LION\" is coded as:",
+          "q_hi": "यदि \"MONKEY\" को \"NPOLEZ\" के रूप में कोडित किया जाता है और \"TIGER\" को \"UJHFS\" के रूप में कोडित किया जाता है, तो \"LION\" को किस रूप में कोडित किया जाएगा?",
+          "opts": [
+            "MJPO",
+            "MJRO",
+            "MJPS",
+            "MKPO"
+          ],
+          "opts_hi": [
+            "MJPO",
+            "MJRO",
+            "MJPS",
+            "MKPO"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "If M > N ≥ O = P < Q, which of the following is true?",
+          "q_hi": "यदि M > N ≥ O = P < Q है, तो निम्नलिखित में से कौन सा सत्य है?",
+          "opts": [
+            "M > O",
+            "M = O",
+            "O > Q",
+            "M < Q"
+          ],
+          "opts_hi": [
+            "M > O",
+            "M = O",
+            "O > Q",
+            "M < Q"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "If X ≤ Y > Z < W, which of the following is true?",
+          "q_hi": "यदि X ≤ Y > Z < W है, तो निम्नलिखित में से कौन सा सत्य है?",
+          "opts": [
+            "X < Z",
+            "W > Z",
+            "X = Z",
+            "Y = W"
+          ],
+          "opts_hi": [
+            "X < Z",
+            "W > Z",
+            "X = Z",
+            "Y = W"
+          ],
+          "ans": 1,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
