@@ -534,6 +534,86 @@
           "subject": "Mathematics"
         }
       ]
+    },
+    {
+      "id": "rrb_ntpc_10",
+      "title": "RRB NTPC Mock Test 10",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "If 30% of a number is 75, what is the number?",
+          "q_hi": "यदि किसी संख्या का 30% 75 है, तो वह संख्या क्या है?",
+          "opts": [
+            "200",
+            "225",
+            "250",
+            "275"
+          ],
+          "opts_hi": [
+            "200",
+            "225",
+            "250",
+            "275"
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "A student scored 80 marks out of 100 in one test and 60 marks out of 80 in another. What is the overall percentage?",
+          "q_hi": "एक छात्र ने एक परीक्षा में 100 में से 80 अंक और दूसरी में 80 में से 60 अंक प्राप्त किए। कुल प्रतिशत क्या है?",
+          "opts": [
+            "0.7",
+            "0.725",
+            "0.75",
+            "0.775"
+          ],
+          "opts_hi": [
+            "0.7",
+            "0.725",
+            "0.75",
+            "0.775"
+          ],
+          "ans": 3,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "A seller loses 10% on selling an article for Rs.450. What is the cost price?",
+          "q_hi": "एक विक्रेता किसी वस्तु को Rs.450 में बेचने पर 10% हानि उठाता है। क्रय मूल्य क्या है?",
+          "opts": [
+            "Rs. 450",
+            "Rs. 475",
+            "Rs. 500",
+            "Rs. 525"
+          ],
+          "opts_hi": [
+            "Rs. 450",
+            "Rs. 475",
+            "Rs. 500",
+            "Rs. 525"
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "Find the compound interest on Rs.2000 for 2 years at 10% per annum compounded annually.",
+          "q_hi": "Rs.2000 पर 2 वर्षों के लिए 10% वार्षिक दर से चक्रवृद्धि ब्याज ज्ञात करें, जो वार्षिक रूप से संयोजित होता है।",
+          "opts": [
+            "Rs. 380",
+            "Rs. 400",
+            "Rs. 420",
+            "Rs. 440"
+          ],
+          "opts_hi": [
+            "Rs. 380",
+            "Rs. 400",
+            "Rs. 420",
+            "Rs. 440"
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        }
+      ]
     }
   ]
 }
