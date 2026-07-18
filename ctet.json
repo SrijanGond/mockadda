@@ -467,6 +467,86 @@
           "subject": "Mathematics"
         }
       ]
+    },
+    {
+      "id": "ctet_10",
+      "title": "CTET Mock Test 10",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which of the following statements with regard to India's Deep Ocean Mission is/are correct? 1. It was launched by the Ministry of Ports, Shipping and Waterways, Government of India. 2. Matsya-6000 has been designed to carry 3 people for deep sea exploration. 3. Samudrayaan is a project under this mission.",
+          "q_hi": "भारत के डीप ओशन मिशन के संबंध में निम्नलिखित में से कौन सा/से कथन सही है/हैं? 1. इसे भारत सरकार के बंदरगाह, जहाजरानी और जलमार्ग मंत्रालय द्वारा लॉन्च किया गया था। 2. Matsya-6000 को गहरे समुद्र की खोज के लिए 3 लोगों को ले जाने के लिए डिज़ाइन किया गया है। 3. समुद्रयान इस मिशन के तहत एक परियोजना है।",
+          "opts": [
+            "1 only",
+            "2 and 3 only",
+            "1 and 2 only",
+            "1, 2 and 3"
+          ],
+          "opts_hi": [
+            "केवल 1",
+            "केवल 2 और 3",
+            "केवल 1 और 2",
+            "1, 2 और 3"
+          ],
+          "ans": 1,
+          "subject": "Science"
+        },
+        {
+          "q": "An object X sinks in liquids P and Q but floats in liquid R. Which of the following statements are correct? 1. The density of X is greater than the density of P. 2. The density of X is less than the density of R. 3. The density of P is different from the density of R.",
+          "q_hi": "एक वस्तु X तरल P और Q में डूबती है लेकिन तरल R में तैरती है। निम्नलिखित में से कौन से कथन सही हैं? 1. X का घनत्व P के घनत्व से अधिक है। 2. X का घनत्व R के घनत्व से कम है। 3. P का घनत्व R के घनत्व से भिन्न है।",
+          "opts": [
+            "1 and 2 only",
+            "1, 2 and 3",
+            "2 and 3 only",
+            "1 and 3 only"
+          ],
+          "opts_hi": [
+            "केवल 1 और 2",
+            "1, 2 और 3",
+            "केवल 2 और 3",
+            "केवल 1 और 3"
+          ],
+          "ans": 1,
+          "subject": "Science"
+        },
+        {
+          "q": "Which fat-soluble vitamin is necessary for good skin?",
+          "q_hi": "अच्छी त्वचा के लिए कौन सा वसा-घुलनशील विटामिन आवश्यक है?",
+          "opts": [
+            "Vitamin B",
+            "Vitamin C",
+            "Vitamin A",
+            "Vitamin K"
+          ],
+          "opts_hi": [
+            "विटामिन B",
+            "विटामिन C",
+            "विटामिन A",
+            "विटामिन K"
+          ],
+          "ans": 2,
+          "subject": "Science"
+        },
+        {
+          "q": "X is the largest gland in our body. It secretes Y which is stored in Z. X, Y and Z are respectively:",
+          "q_hi": "X हमारे शरीर की सबसे बड़ी ग्रंथि है। यह Y स्रावित करता है जो Z में संग्रहीत होता है। X, Y और Z क्रमशः हैं:",
+          "opts": [
+            "Pancreas - Insulin - Liver",
+            "Liver - Enzyme - Stomach",
+            "Liver - Bile - Gall bladder",
+            "Stomach - Acid - Intestine"
+          ],
+          "opts_hi": [
+            "अग्न्याशय - इंसुलिन - यकृत",
+            "यकृत - एंजाइम - पेट",
+            "यकृत - पित्त - पित्ताशय",
+            "पेट - अम्ल - आंत"
+          ],
+          "ans": 2,
+          "subject": "Science"
+        }
+      ]
     }
   ]
 }
