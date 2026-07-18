@@ -1283,6 +1283,32 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "ssc_cgl_20",
+      "title": "SSC CGL Mock Test 20",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "With reference to the medieval history of India, which of the following dynasties built the famous 'Qutub Minar' in Delhi?",
+          "q_hi": "भारत के मध्यकालीन इतिहास के संदर्भ में, दिल्ली में प्रसिद्ध 'कुतुब मीनार' का निर्माण निम्नलिखित में से किस वंश ने करवाया था?",
+          "opts": [
+            "Slave Dynasty (Mamluk)",
+            "Khilji Dynasty",
+            "Tughlaq Dynasty",
+            "Lodi Dynasty"
+          ],
+          "opts_hi": [
+            "गुलाम वंश (मामलुक)",
+            "खिलजी वंश",
+            "तुगलक वंश",
+            "लोदी वंश"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        }
+      ]
     }
   ]
 }
