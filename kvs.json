@@ -514,6 +514,32 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "kvs_11",
+      "title": "KVS Mock Test 11",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Statement: \"All cats are animals. Some animals are dogs.\" Conclusion: Some cats are dogs.",
+          "q_hi": "कथन: \"सभी बिल्लियाँ जानवर हैं। कुछ जानवर कुत्ते हैं।\" निष्कर्ष: कुछ बिल्लियाँ कुत्ते हैं।",
+          "opts": [
+            "Conclusion follows",
+            "Conclusion does not follow",
+            "Conclusion is true only sometimes",
+            "Cannot be determined"
+          ],
+          "opts_hi": [
+            "निष्कर्ष अनुसरण करता है",
+            "निष्कर्ष अनुसरण नहीं करता",
+            "निष्कर्ष केवल कभी-कभी सत्य है",
+            "निर्धारित नहीं किया जा सकता"
+          ],
+          "ans": 1,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
