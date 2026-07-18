@@ -753,6 +753,50 @@
           "subject": "Science"
         }
       ]
+    },
+    {
+      "id": "ssc_chsl_13",
+      "title": "SSC CHSL Mock Test 13",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What is the pH value of pure water?",
+          "q_hi": "शुद्ध जल का pH मान क्या है?",
+          "opts": [
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          "opts_hi": [
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          "ans": 2,
+          "subject": "Science"
+        },
+        {
+          "q": "Which gas is used in fire extinguishers?",
+          "q_hi": "अग्निशामक यंत्रों में किस गैस का उपयोग किया जाता है?",
+          "opts": [
+            "Oxygen",
+            "Nitrogen",
+            "Carbon dioxide",
+            "Hydrogen"
+          ],
+          "opts_hi": [
+            "ऑक्सीजन",
+            "नाइट्रोजन",
+            "कार्बन डाइऑक्साइड",
+            "हाइड्रोजन"
+          ],
+          "ans": 2,
+          "subject": "Science"
+        }
+      ]
     }
   ]
 }
