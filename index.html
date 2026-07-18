@@ -288,7 +288,13 @@ function startTimer(){
     const d=document.getElementById('timerDisp');
     if(d){
       d.textContent=fmt(S.timeLeft);
-      if(S.timeLeft<60){ d.style.background=CBT.red; d.style.boxShadow='0 4px 14px rgba(220,38,38,0.4)'; }
+      if(S.timeLeft<60){ 
+        d.style.background=CBT.red; 
+        d.style.boxShadow='0 4px 14px rgba(220,38,38,0.4)'; 
+      } else {
+        d.style.background=CBT.green;
+        d.style.boxShadow='0 4px 14px rgba(22,163,74,0.35)';
+      }
     }
   },1000);
 }
@@ -784,7 +790,9 @@ function buildQuestionPalette(qs,sections,accent){
 function navPanel(qs,accent){
   const sections=getSubjectSections(S.test);
   const ov=el('div',{css:`position:fixed;inset:0;background:rgba(0,0,0,0.5);z-index:100;display:flex;align-items:flex-end;`});
-  ov.addEventListener('click',()=>{S.navOpen=false;render();});
+  ov.addEventListener('click',(e)=>{
+    if(e.target===ov){S.navOpen=false;render();}
+  });
   const sheet=el('div',{css:`background:${CBT.bg};width:100%;border-radius:18px 18px 0 0;padding:18px;max-height:82vh;overflow-y:auto;`});
   sheet.addEventListener('click',e=>e.stopPropagation());
   sheet.appendChild(el('div',{css:'display:flex;justify-content:space-between;align-items:center;margin-bottom:12px;'},[
