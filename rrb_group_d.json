@@ -680,6 +680,50 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "rrb_group_d_14",
+      "title": "RRB Group D Mock Test 14",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What comes next in the series? AB, DE, HI, LM, PQ, ?",
+          "q_hi": "श्रृंखला में आगे क्या आएगा? AB, DE, HI, LM, PQ, ?",
+          "opts": [
+            "ST",
+            "TU",
+            "UV",
+            "VW"
+          ],
+          "opts_hi": [
+            "ST",
+            "TU",
+            "UV",
+            "UV"
+          ],
+          "ans": 2,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "What will replace the question mark (?) in the following? 1, 4, 10, 22, 46, ?",
+          "q_hi": "निम्नलिखित में प्रश्न चिह्न (?) के स्थान पर क्या आएगा? 1, 4, 10, 22, 46, ?",
+          "opts": [
+            "92",
+            "93",
+            "94",
+            "95"
+          ],
+          "opts_hi": [
+            "92",
+            "93",
+            "94",
+            "95"
+          ],
+          "ans": 2,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
