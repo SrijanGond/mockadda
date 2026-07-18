@@ -2103,6 +2103,68 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "upsc_prelims_18",
+      "title": "UPSC Prelims Mock Test 18",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Select the option that is related to the third term in the same way as the second term is related to the first term. Doctor : Hospital :: Teacher : ?",
+          "q_hi": "उस विकल्प का चयन करें जो तीसरे पद से उसी प्रकार संबंधित है जैसे दूसरा पद पहले पद से संबंधित है। Doctor : Hospital :: Teacher : ?",
+          "opts": [
+            "School",
+            "College",
+            "University",
+            "Library"
+          ],
+          "opts_hi": [
+            "स्कूल",
+            "कॉलेज",
+            "विश्वविद्यालय",
+            "पुस्तकालय"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "Which of the following correctly represents the relationship: Birds, Penguins, Animals?",
+          "q_hi": "निम्नलिखित में से कौन सा संबंध को सही दर्शाता है: पक्षी, पेंगुइन, जानवर?",
+          "opts": [
+            "A circle inside another circle inside a third circle",
+            "Two circles inside a third",
+            "Three separate circles",
+            "Two separate circles"
+          ],
+          "opts_hi": [
+            "एक वृत्त दूसरे वृत्त के अंदर और तीसरे वृत्त के अंदर",
+            "दो वृत्त तीसरे के अंदर",
+            "तीन अलग-अलग वृत्त",
+            "दो अलग-अलग वृत्त"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "Which letter is 5th to the left of the 10th letter from the left in the English alphabet?",
+          "q_hi": "अंग्रेजी वर्णमाला में बाएँ से 10वें अक्षर के बाएँ पाँचवाँ अक्षर कौन सा है?",
+          "opts": [
+            "E",
+            "F",
+            "D",
+            "C"
+          ],
+          "opts_hi": [
+            "E",
+            "F",
+            "D",
+            "C"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
