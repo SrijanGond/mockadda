@@ -460,6 +460,32 @@
           "subject": "Mathematics"
         }
       ]
+    },
+    {
+      "id": "rrb_group_d_9",
+      "title": "RRB Group D Mock Test 9",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Why did Mendeleev leave gaps in his periodic table?",
+          "q_hi": "मेंडेलीव ने अपनी आवर्त सारणी में स्थान क्यों छोड़े?",
+          "opts": [
+            "For undiscovered elements",
+            "To include isotopes",
+            "To avoid repetition",
+            "To make the table symmetrical"
+          ],
+          "opts_hi": [
+            "अनदेखे तत्वों के लिए",
+            "समस्थानिकों को शामिल करने के लिए",
+            "पुनरावृत्ति से बचने के लिए",
+            "सारणी को सममित बनाने के लिए"
+          ],
+          "ans": 0,
+          "subject": "Science"
+        }
+      ]
     }
   ]
 }
