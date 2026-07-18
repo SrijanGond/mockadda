@@ -566,6 +566,50 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "kvs_13",
+      "title": "KVS Mock Test 13",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Statement: \"Travelling by train is safer than travelling by road.\" Which of the following is the underlying assumption?",
+          "q_hi": "कथन: \"रेल द्वारा यात्रा करना सड़क द्वारा यात्रा करने से अधिक सुरक्षित है।\" निम्नलिखित में से कौन सी अंतर्निहित धारणा है?",
+          "opts": [
+            "Trains are the fastest mode of travel",
+            "Train accidents are less frequent than road accidents",
+            "Road travel is enjoyable",
+            "Trains are expensive"
+          ],
+          "opts_hi": [
+            "रेल यात्रा का सबसे तेज़ साधन है",
+            "रेल दुर्घटनाएँ सड़क दुर्घटनाओं से कम होती हैं",
+            "सड़क यात्रा आनंददायक है",
+            "रेल महंगी है"
+          ],
+          "ans": 1,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "Arrange the following in ascending order of time: 1. Year, 2. Month, 3. Week, 4. Day, 5. Hour",
+          "q_hi": "निम्नलिखित को समय के बढ़ते क्रम में व्यवस्थित करें: 1. वर्ष, 2. माह, 3. सप्ताह, 4. दिन, 5. घंटा",
+          "opts": [
+            "5, 4, 3, 2, 1",
+            "4, 5, 3, 2, 1",
+            "5, 3, 4, 2, 1",
+            "4, 3, 5, 2, 1"
+          ],
+          "opts_hi": [
+            "5, 4, 3, 2, 1",
+            "4, 5, 3, 2, 1",
+            "5, 3, 4, 2, 1",
+            "4, 3, 5, 2, 1"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
