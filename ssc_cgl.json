@@ -905,6 +905,32 @@
           "subject": "Science"
         }
       ]
+    },
+    {
+      "id": "ssc_cgl_14",
+      "title": "SSC CGL Mock Test 14",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which of the following is the process by which plants prepare their own food?",
+          "q_hi": "पौधे अपना भोजन स्वयं किस प्रक्रिया द्वारा तैयार करते हैं?",
+          "opts": [
+            "Respiration",
+            "Photosynthesis",
+            "Fermentation",
+            "Transpiration"
+          ],
+          "opts_hi": [
+            "श्वसन",
+            "प्रकाश संश्लेषण",
+            "किण्वन",
+            "वाष्पोत्सर्जन"
+          ],
+          "ans": 1,
+          "subject": "Science"
+        }
+      ]
     }
   ]
 }
