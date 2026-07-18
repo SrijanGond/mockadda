@@ -691,6 +691,68 @@
           "subject": "Mathematics"
         }
       ]
+    },
+    {
+      "id": "ssc_chsl_12",
+      "title": "SSC CHSL Mock Test 12",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Consider the following statements with regard to involvement of private entities in India's space programme: 1. The Indian National Space Promotion and Authorisation Centre (IN-SPACe) is an autonomous agency formed to facilitate participation of private entities. 2. Agnikul Cosmos launched the world's first flight using 3D-printed rocket engine. 3. Skyroot Aerospace has developed liquid fuel for GSLV.",
+          "q_hi": "भारत के अंतरिक्ष कार्यक्रम में निजी संस्थाओं की भागीदारी के संबंध में निम्नलिखित कथनों पर विचार करें: 1. भारतीय राष्ट्रीय अंतरिक्ष संवर्धन और प्राधिकरण केंद्र (IN-SPACe) एक स्वायत्त एजेंसी है जो निजी संस्थाओं की भागीदारी को सुविधाजनक बनाने के लिए बनाई गई है। 2. अग्निकुल कॉसमॉस ने 3D-मुद्रित रॉकेट इंजन का उपयोग करके दुनिया की पहली उड़ान लॉन्च की। 3. स्काईरूट एयरोस्पेस ने GSLV के लिए तरल ईंधन विकसित किया है।",
+          "opts": [
+            "1 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "opts_hi": [
+            "केवल 1",
+            "केवल 1 और 2",
+            "केवल 2 और 3",
+            "1, 2 और 3"
+          ],
+          "ans": 2,
+          "subject": "Science"
+        },
+        {
+          "q": "Which of the following statements regarding the features of blockchain technology are correct? 1. Records stored in the database may be made visible to relevant stakeholders without risk of alteration. 2. Copies of the entire database are stored on multiple computers on a network, syncing within seconds. 3. Consortium blockchain is a blend of public and private blockchains allowing selective data access. 4. Mathematical algorithms make it impossible to change or delete any data once recorded and accepted.",
+          "q_hi": "ब्लॉकचेन प्रौद्योगिकी की विशेषताओं के बारे में निम्नलिखित में से कौन से कथन सही हैं? 1. डेटाबेस में संग्रहीत रिकॉर्ड को परिवर्तन के जोखिम के बिना प्रासंगिक हितधारकों को दिखाई दिया जा सकता है। 2. संपूर्ण डेटाबेस की प्रतियाँ एक नेटवर्क पर कई कंप्यूटरों पर संग्रहीत की जाती हैं, जो सेकंडों के भीतर सिंक होती हैं। 3. कंसोर्टियम ब्लॉकचेन सार्वजनिक और निजी ब्लॉकचेन का एक मिश्रण है जो चयनात्मक डेटा पहुँच की अनुमति देता है। 4. गणितीय एल्गोरिदम एक बार रिकॉर्ड और स्वीकार किए जाने के बाद किसी भी डेटा को बदलना या हटाना असंभव बना देते हैं।",
+          "opts": [
+            "1 and 3 only",
+            "2 and 4 only",
+            "1, 2 and 4",
+            "1 and 4 only"
+          ],
+          "opts_hi": [
+            "केवल 1 और 3",
+            "केवल 2 और 4",
+            "1, 2 और 4",
+            "केवल 1 और 4"
+          ],
+          "ans": 2,
+          "subject": "Science"
+        },
+        {
+          "q": "Why is the Earth an oblate spheroid and not a perfect sphere?",
+          "q_hi": "पृथ्वी एक चपटी गोलाभ है और पूर्ण गोलक नहीं है यह किस कारण से है?",
+          "opts": [
+            "Earth's rotational speed increases from poles to equator",
+            "Equator experiences more gravitational pull from the Sun",
+            "Sunlight intensity is higher at equator",
+            "Earth's core is not spherical"
+          ],
+          "opts_hi": [
+            "पृथ्वी की घूर्णी गति ध्रुवों से भूमध्य रेखा की ओर बढ़ती है",
+            "भूमध्य रेखा सूर्य से अधिक गुरुत्वीय कर्षण अनुभव करती है",
+            "भूमध्य रेखा पर सूर्य प्रकाश की तीव्रता अधिक है",
+            "पृथ्वी का कोर गोलाकार नहीं है"
+          ],
+          "ans": 0,
+          "subject": "Science"
+        }
+      ]
     }
   ]
 }
