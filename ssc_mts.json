@@ -631,6 +631,86 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "ssc_mts_15",
+      "title": "SSC MTS Mock Test 15",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Pointing to a boy, a girl said, \"He is the son of the only son of my grandfather.\" How is the boy related to the girl?",
+          "q_hi": "एक लड़के की ओर इशारा करते हुए, एक लड़की ने कहा, \"वह मेरे दादा के इकलौते पुत्र का पुत्र है।\" वह लड़का उस लड़की से किस प्रकार संबंधित है?",
+          "opts": [
+            "Brother",
+            "Cousin",
+            "Nephew",
+            "Son"
+          ],
+          "opts_hi": [
+            "भाई",
+            "चचेरा भाई",
+            "भतीजा",
+            "पुत्र"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "What is the angle between the hour and minute hands of a clock at 4:40?",
+          "q_hi": "4:40 पर घड़ी की घंटे और मिनट की सुइयों के बीच का कोण क्या है?",
+          "opts": [
+            "100°",
+            "110°",
+            "120°",
+            "130°"
+          ],
+          "opts_hi": [
+            "100°",
+            "110°",
+            "120°",
+            "130°"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "Which of the following is the mirror image of the word \"SUNSHINE\"?",
+          "q_hi": "SUNSHINE शब्द का दर्पण प्रतिबिंब निम्नलिखित में से कौन सा है?",
+          "opts": [
+            "ENIHSUNS",
+            "ENIHSNUS",
+            "ENIHSUNS",
+            "ENIHSNUS"
+          ],
+          "opts_hi": [
+            "ENIHSUNS",
+            "ENIHSNUS",
+            "ENIHSUNS",
+            "ENIHSNUS"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "Find the odd one out: 3, 7, 15, 31, 63, 127, 255, 511, 1023, 2047, 4095, 8191, 16383, 32767, 65535, 131071, 262143, 524287, 1048575, 2097151, 4194303, 8388607, 16777215, 33554431, 67108863, 134217727, 268435455, 536870911, 1073741823, 2147483647",
+          "q_hi": "विषम ज्ञात करें: 3, 7, 15, 31, 63, 127, 255, 511, 1023, 2047, 4095, 8191, 16383, 32767, 65535, 131071, 262143, 524287, 1048575, 2097151, 4194303, 8388607, 16777215, 33554431, 67108863, 134217727, 268435455, 536870911, 1073741823, 2147483647",
+          "opts": [
+            "3 (2²-1)",
+            "2147483647 (2³¹-1)",
+            "1073741823 (2³⁰-1)",
+            "None, all are 2ⁿ-1"
+          ],
+          "opts_hi": [
+            "3 (2²-1)",
+            "2147483647 (2³¹-1)",
+            "1073741823 (2³⁰-1)",
+            "कोई नहीं, सभी 2ⁿ-1 हैं"
+          ],
+          "ans": 3,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
