@@ -336,6 +336,68 @@
           "ans": 0
         }
       ]
+    },
+    {
+      "id": "rrb_group_d_7",
+      "title": "RRB Group D Mock Test 7",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "A shopkeeper buys a book for Rs.500 and sells it for Rs.600. What is his profit percentage?",
+          "q_hi": "एक दुकानदार एक किताब Rs.500 में खरीदता है और Rs.600 में बेचता है। उसका लाभ प्रतिशत क्या है?",
+          "opts": [
+            "0.1",
+            "0.15",
+            "0.2",
+            "0.25"
+          ],
+          "opts_hi": [
+            "0.1",
+            "0.15",
+            "0.2",
+            "0.25"
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "If the angles of a triangle are in the ratio 2:3:4, what is the smallest angle?",
+          "q_hi": "यदि एक त्रिभुज के कोण 2:3:4 के अनुपात में हैं, तो सबसे छोटा कोण क्या है?",
+          "opts": [
+            "30°",
+            "40°",
+            "50°",
+            "60°"
+          ],
+          "opts_hi": [
+            "30°",
+            "40°",
+            "50°",
+            "60°"
+          ],
+          "ans": 1,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "Find the compound interest on Rs.1000 at 10% p.a. for 2 years.",
+          "q_hi": "Rs.1000 पर 10% वार्षिक दर से 2 वर्षों का चक्रवृद्धि ब्याज ज्ञात करें।",
+          "opts": [
+            "Rs. 200",
+            "Rs. 210",
+            "Rs. 220",
+            "Rs. 230"
+          ],
+          "opts_hi": [
+            "Rs. 200",
+            "Rs. 210",
+            "Rs. 220",
+            "Rs. 230"
+          ],
+          "ans": 1,
+          "subject": "Mathematics"
+        }
+      ]
     }
   ]
 }
