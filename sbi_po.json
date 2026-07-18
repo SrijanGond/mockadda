@@ -884,6 +884,68 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "sbi_po_18",
+      "title": "SBI PO Mock Test 18",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Pointing to a lady, a man said, \"She is the daughter of the only son of my father's sister.\" How is the lady related to the man?",
+          "q_hi": "एक महिला की ओर इशारा करते हुए, एक व्यक्ति ने कहा, \"वह मेरे पिता की बहन के इकलौते पुत्र की पुत्री है।\" वह महिला उस व्यक्ति से किस प्रकार संबंधित है?",
+          "opts": [
+            "Cousin sister",
+            "Niece",
+            "Sister",
+            "Aunt"
+          ],
+          "opts_hi": [
+            "चचेरी/ममेरी बहन",
+            "भतीजी",
+            "बहन",
+            "चाची/मामी"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "Which of the following is true if A > B > C > D = E?",
+          "q_hi": "यदि A > B > C > D = E है, तो निम्नलिखित में से कौन सा सत्य है?",
+          "opts": [
+            "A > E",
+            "B = E",
+            "C = E",
+            "D > A"
+          ],
+          "opts_hi": [
+            "A > E",
+            "B = E",
+            "C = E",
+            "D > A"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "Statements: All roses are flowers. All flowers are plants. No plant is a tree. Conclusions: I. No rose is a tree. II. Some plants are flowers. Which follows?",
+          "q_hi": "कथन: सभी गुलाब फूल हैं। सभी फूल पौधे हैं। कोई पौधा पेड़ नहीं है। निष्कर्ष: I. कोई गुलाब पेड़ नहीं है। II. कुछ पौधे फूल हैं। कौन सा अनुसरण करता है?",
+          "opts": [
+            "Only I",
+            "Only II",
+            "Both I and II",
+            "Neither I nor II"
+          ],
+          "opts_hi": [
+            "केवल I",
+            "केवल II",
+            "I और II दोनों",
+            "न तो I और न ही II"
+          ],
+          "ans": 2,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
