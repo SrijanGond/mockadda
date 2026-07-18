@@ -2209,6 +2209,50 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "upsc_prelims_20",
+      "title": "UPSC Prelims Mock Test 20",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What is the angle between the hour and minute hands of a clock at 2:15?",
+          "q_hi": "2:15 पर घड़ी की घंटे और मिनट की सुइयों के बीच का कोण क्या है?",
+          "opts": [
+            "22.5°",
+            "30°",
+            "37.5°",
+            "45°"
+          ],
+          "opts_hi": [
+            "22.5°",
+            "30°",
+            "37.5°",
+            "45°"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "Which of the following is the mirror image of the word \"EVOLUTION\"?",
+          "q_hi": "EVOLUTION शब्द का दर्पण प्रतिबिंब निम्नलिखित में से कौन सा है?",
+          "opts": [
+            "NOITULOVE",
+            "NOITULOVE",
+            "NOITULOVE",
+            "NOITULOVE"
+          ],
+          "opts_hi": [
+            "NOITULOVE",
+            "NOITULOVE",
+            "NOITULOVE",
+            "NOITULOVE"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
