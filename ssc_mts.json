@@ -455,6 +455,32 @@
           "subject": "Mathematics"
         }
       ]
+    },
+    {
+      "id": "ssc_mts_11",
+      "title": "SSC MTS Mock Test 11",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "The part of the human eye responsible for controlling the amount of light entering is:",
+          "q_hi": "मानव नेत्र का वह भाग जो प्रवेश करने वाले प्रकाश की मात्रा को नियंत्रित करने के लिए जिम्मेदार है:",
+          "opts": [
+            "Cornea",
+            "Iris",
+            "Lens",
+            "Retina"
+          ],
+          "opts_hi": [
+            "कॉर्निया",
+            "आइरिस",
+            "लेंस",
+            "रेटिना"
+          ],
+          "ans": 1,
+          "subject": "Science"
+        }
+      ]
     }
   ]
 }
