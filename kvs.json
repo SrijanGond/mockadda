@@ -346,6 +346,86 @@
           "subject": "Mathematics"
         }
       ]
+    },
+    {
+      "id": "kvs_8",
+      "title": "KVS Mock Test 8",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which of the following statements with regard to the National Quantum Mission (NQM) is/are correct? 1. It aims at developing intermediate-scale quantum computers with 50-1000 physical qubits. 2. Its implementation includes setting up of four Thematic Hubs (T-Hubs) in academic and national R&D institutes across India.",
+          "q_hi": "राष्ट्रीय क्वांटम मिशन (NQM) के संबंध में निम्नलिखित में से कौन सा/से कथन सही है/हैं? 1. इसका उद्देश्य 50-1000 भौतिक क्विबिट वाले मध्यवर्ती-स्तरीय क्वांटम कंप्यूटर विकसित करना है। 2. इसके कार्यान्वयन में पूरे भारत में शैक्षणिक और राष्ट्रीय R&D संस्थानों में चार थीमैटिक हब (T-Hubs) स्थापित करना शामिल है।",
+          "opts": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "opts_hi": [
+            "केवल 1",
+            "केवल 2",
+            "1 और 2 दोनों",
+            "न तो 1 और न ही 2"
+          ],
+          "ans": 2,
+          "subject": "Science"
+        },
+        {
+          "q": "After rain, suspended particles settle down. Which process is responsible for this?",
+          "q_hi": "वर्षा के बाद, निलंबित कण नीचे बैठ जाते हैं। इसके लिए कौन सी प्रक्रिया जिम्मेदार है?",
+          "opts": [
+            "Distillation",
+            "Loading",
+            "Condensation",
+            "Sedimentation"
+          ],
+          "opts_hi": [
+            "आसवन",
+            "लोडिंग",
+            "संघनन",
+            "अवसादन"
+          ],
+          "ans": 1,
+          "subject": "Science"
+        },
+        {
+          "q": "Which of the following statements is correct?",
+          "q_hi": "निम्नलिखित में से कौन सा कथन सही है?",
+          "opts": [
+            "Chemical change is usually irreversible",
+            "In physical change there is always a change in state",
+            "Physical change is irreversible",
+            "Chemical change is always reversible"
+          ],
+          "opts_hi": [
+            "रासायनिक परिवर्तन आमतौर पर अपरिवर्तनीय होता है",
+            "भौतिक परिवर्तन में हमेशा अवस्था में परिवर्तन होता है",
+            "भौतिक परिवर्तन अपरिवर्तनीय है",
+            "रासायनिक परिवर्तन हमेशा प्रतिवर्ती होता है"
+          ],
+          "ans": 0,
+          "subject": "Science"
+        },
+        {
+          "q": "An indicator shows no change in acid but reddish-brown colour in base. The indicator is:",
+          "q_hi": "एक सूचक अम्ल में कोई परिवर्तन नहीं दिखाता है लेकिन क्षार में लाल-भूरा रंग दिखाता है। सूचक है:",
+          "opts": [
+            "Litmus",
+            "Turmeric",
+            "Phenolphthalein",
+            "China rose"
+          ],
+          "opts_hi": [
+            "लिटमस",
+            "हल्दी",
+            "फेनोल्फथेलिन",
+            "चीन गुलाब"
+          ],
+          "ans": 1,
+          "subject": "Science"
+        }
+      ]
     }
   ]
 }
