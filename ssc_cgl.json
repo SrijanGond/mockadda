@@ -931,6 +931,86 @@
           "subject": "Science"
         }
       ]
+    },
+    {
+      "id": "ssc_cgl_15",
+      "title": "SSC CGL Mock Test 15",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What will come in place of question mark (?) in the following series? 2, 6, 12, 20, 30, ?",
+          "q_hi": "निम्नलिखित श्रृंखला में प्रश्न चिह्न (?) के स्थान पर क्या आएगा? 2, 6, 12, 20, 30, ?",
+          "opts": [
+            "40",
+            "42",
+            "44",
+            "46"
+          ],
+          "opts_hi": [
+            "40",
+            "42",
+            "44",
+            "46"
+          ],
+          "ans": 1,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "Which letter is 3rd to the right of the 10th letter from the left in the English alphabet?",
+          "q_hi": "अंग्रेजी वर्णमाला में बाएँ से 10वें अक्षर के दाएँ तीसरा अक्षर कौन सा है?",
+          "opts": [
+            "L",
+            "M",
+            "N",
+            "O"
+          ],
+          "opts_hi": [
+            "L",
+            "M",
+            "N",
+            "O"
+          ],
+          "ans": 1,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "Which number will replace the question mark (?) in the series? 2, 7, 17, 37, 77, ?",
+          "q_hi": "श्रृंखला में प्रश्न चिह्न (?) के स्थान पर कौन सी संख्या आएगी? 2, 7, 17, 37, 77, ?",
+          "opts": [
+            "147",
+            "157",
+            "137",
+            "127"
+          ],
+          "opts_hi": [
+            "147",
+            "157",
+            "137",
+            "127"
+          ],
+          "ans": 1,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "Find the odd one out: 121, 144, 169, 196, 225, 256, 289, 324, 361, 400, 441, 484, 529, 576, 625, 676, 729, 784, 841, 920",
+          "q_hi": "विषम ज्ञात करें: 121, 144, 169, 196, 225, 256, 289, 324, 361, 400, 441, 484, 529, 576, 625, 676, 729, 784, 841, 920",
+          "opts": [
+            "920",
+            "841",
+            "729",
+            "484"
+          ],
+          "opts_hi": [
+            "920",
+            "841",
+            "729",
+            "484"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
