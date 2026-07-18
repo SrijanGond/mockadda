@@ -584,6 +584,50 @@
           "subject": "Mathematics"
         }
       ]
+    },
+    {
+      "id": "sbi_po_12",
+      "title": "SBI PO Mock Test 12",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which of the following statements with regard to India's indigenous new high resolution weather model, the 'Bharat Forecast System,' is/are correct? 1. Its objective is to generate forecasts at the Panchayats cluster level. 2. It was developed by IIT Delhi.",
+          "q_hi": "भारत के स्वदेशी नए उच्च-रिज़ॉल्यूशन मौसम मॉडल, 'भारत पूर्वानुमान प्रणाली' के संबंध में निम्नलिखित में से कौन सा/से कथन सही है/हैं? 1. इसका उद्देश्य पंचायत क्लस्टर स्तर पर पूर्वानुमान उत्पन्न करना है। 2. इसे IIT दिल्ली द्वारा विकसित किया गया था।",
+          "opts": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "opts_hi": [
+            "केवल 1",
+            "केवल 2",
+            "1 और 2 दोनों",
+            "न तो 1 और न ही 2"
+          ],
+          "ans": 0,
+          "subject": "Science"
+        },
+        {
+          "q": "Which of the following is used in optical fibers for transmitting information?",
+          "q_hi": "सूचना संचारित करने के लिए ऑप्टिकल फाइबर में निम्नलिखित में से किसका उपयोग किया जाता है?",
+          "opts": [
+            "Total internal reflection",
+            "Refraction",
+            "Diffraction",
+            "Scattering"
+          ],
+          "opts_hi": [
+            "पूर्ण आंतरिक परावर्तन",
+            "अपवर्तन",
+            "विवर्तन",
+            "प्रकीर्णन"
+          ],
+          "ans": 0,
+          "subject": "Science"
+        }
+      ]
     }
   ]
 }
