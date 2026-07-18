@@ -2077,6 +2077,32 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "upsc_prelims_17",
+      "title": "UPSC Prelims Mock Test 17",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What will come in place of question mark (?) in the following series? 1, 8, 27, 64, 125, ?",
+          "q_hi": "निम्नलिखित श्रृंखला में प्रश्न चिह्न (?) के स्थान पर क्या आएगा? 1, 8, 27, 64, 125, ?",
+          "opts": [
+            "216",
+            "225",
+            "200",
+            "180"
+          ],
+          "opts_hi": [
+            "216",
+            "225",
+            "200",
+            "180"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
