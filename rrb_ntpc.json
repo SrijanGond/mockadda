@@ -738,6 +738,32 @@
           "subject": "Science"
         }
       ]
+    },
+    {
+      "id": "rrb_ntpc_13",
+      "title": "RRB NTPC Mock Test 13",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which figure will complete the series if the pattern follows: Square, Triangle, Circle, Square, Triangle, ?",
+          "q_hi": "यदि पैटर्न इस प्रकार है: वर्ग, त्रिभुज, वृत्त, वर्ग, त्रिभुज, ? तो श्रृंखला को कौन सी आकृति पूरी करेगी?",
+          "opts": [
+            "Square",
+            "Triangle",
+            "Circle",
+            "Pentagon"
+          ],
+          "opts_hi": [
+            "वर्ग",
+            "त्रिभुज",
+            "वृत्त",
+            "पंचभुज"
+          ],
+          "ans": 2,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
