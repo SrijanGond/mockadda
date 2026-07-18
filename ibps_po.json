@@ -678,6 +678,86 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "ibps_po_13",
+      "title": "IBPS PO Mock Test 13",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Introducing a girl, Raj said, \"She is the daughter of the only son of my grandfather.\" How is the girl related to Raj?",
+          "q_hi": "एक लड़की का परिचय देते हुए, राज ने कहा, \"वह मेरे दादा के इकलौते पुत्र की पुत्री है।\" वह लड़की राज से किस प्रकार संबंधित है?",
+          "opts": [
+            "Sister",
+            "Cousin",
+            "Niece",
+            "Daughter"
+          ],
+          "opts_hi": [
+            "बहन",
+            "चचेरी बहन",
+            "भतीजी",
+            "पुत्री"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "If \"PENCIL\" is coded as \"QFOFMJ\" and \"BOOK\" is coded as \"CPPL\", then \"PAPER\" is coded as:",
+          "q_hi": "यदि \"PENCIL\" को \"QFOFMJ\" के रूप में कोडित किया जाता है और \"BOOK\" को \"CPPL\" के रूप में कोडित किया जाता है, तो \"PAPER\" को किस रूप में कोडित किया जाएगा?",
+          "opts": [
+            "QBQFS",
+            "QBRFS",
+            "QCRFS",
+            "QCSFS"
+          ],
+          "opts_hi": [
+            "QBQFS",
+            "QBRFS",
+            "QCRFS",
+            "QCSFS"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "Statements: All flowers are roses. Some roses are tulips. No tulip is a sunflower. Conclusions: I. Some flowers are tulips. II. Some roses are not sunflowers. Which follows?",
+          "q_hi": "कथन: सभी फूल गुलाब हैं। कुछ गुलाब ट्यूलिप हैं। कोई ट्यूलिप सूरजमुखी नहीं है। निष्कर्ष: I. कुछ फूल ट्यूलिप हैं। II. कुछ गुलाब सूरजमुखी नहीं हैं। कौन सा अनुसरण करता है?",
+          "opts": [
+            "Only I",
+            "Only II",
+            "Both I and II",
+            "Neither I nor II"
+          ],
+          "opts_hi": [
+            "केवल I",
+            "केवल II",
+            "I और II दोनों",
+            "न तो I और न ही II"
+          ],
+          "ans": 1,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "Four friends work on Monday, Tuesday, Wednesday, and Thursday. A works after B. C works before D. Who works on Wednesday?",
+          "q_hi": "चार मित्र सोमवार, मंगलवार, बुधवार और गुरुवार को काम करते हैं। A, B के बाद काम करता है। C, D से पहले काम करता है। बुधवार को कौन काम करता है?",
+          "opts": [
+            "A",
+            "B",
+            "C",
+            "Cannot be determined"
+          ],
+          "opts_hi": [
+            "A",
+            "B",
+            "C",
+            "निर्धारित नहीं किया जा सकता"
+          ],
+          "ans": 3,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
