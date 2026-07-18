@@ -1631,6 +1631,50 @@
           "subject": "Mathematics"
         }
       ]
+    },
+    {
+      "id": "upsc_prelims_13",
+      "title": "UPSC Prelims Mock Test 13",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Question: What is the area of a rectangle? Statement I: Its length is 10 cm. Statement II: Its breadth is 5 cm. Which of the following is correct?",
+          "q_hi": "प्रश्न: एक आयत का क्षेत्रफल क्या है? कथन I: इसकी लंबाई 10 सेमी है। कथन II: इसकी चौड़ाई 5 सेमी है। निम्नलिखित में से कौन सा सही है?",
+          "opts": [
+            "Both statements together are sufficient to answer the question",
+            "Statement I alone is sufficient",
+            "Statement II alone is sufficient",
+            "Both statements are insufficient"
+          ],
+          "opts_hi": [
+            "प्रश्न का उत्तर देने के लिए दोनों कथन एक साथ पर्याप्त हैं",
+            "केवल कथन I पर्याप्त है",
+            "केवल कथन II पर्याप्त है",
+            "दोनों कथन अपर्याप्त हैं"
+          ],
+          "ans": 0,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "A man walks 5 km in 1 hour and then runs 10 km in 1 hour. What is his average speed for the entire journey?",
+          "q_hi": "एक व्यक्ति 1 घंटे में 5 किमी चलता है और फिर 1 घंटे में 10 किमी दौड़ता है। पूरी यात्रा के लिए उसकी औसत गति क्या है?",
+          "opts": [
+            "5 km/h",
+            "6 km/h",
+            "7.5 km/h",
+            "10 km/h"
+          ],
+          "opts_hi": [
+            "5 किमी/घंटा",
+            "6 किमी/घंटा",
+            "7.5 किमी/घंटा",
+            "10 किमी/घंटा"
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        }
+      ]
     }
   ]
 }
