@@ -377,7 +377,8 @@
             "गुप्त → मौर्य → कुषाण",
             "मौर्य → गुप्त → कुषाण"
           ],
-          "ans": 0
+          "ans": 0,
+          "subject": "History"
         }
       ]
     },
@@ -402,7 +403,8 @@
             "कनाडा",
             "ऑस्ट्रेलिया"
           ],
-          "ans": 1
+          "ans": 1,
+          "subject": "Polity"
         },
         {
           "q": "Which of the following is a 'Critically Endangered' species according to the IUCN Red List?",
@@ -419,7 +421,8 @@
             "ग्रेट इंडियन बस्टर्ड",
             "हिम तेंदुआ"
           ],
-          "ans": 2
+          "ans": 2,
+          "subject": "Environment"
         },
         {
           "q": "Which Sultan of Delhi introduced the 'Token Currency' (copper coins with brass and copper mixture)?",
@@ -436,7 +439,8 @@
             "फिरोज शाह तुगलक",
             "इल्तुतमिश"
           ],
-          "ans": 1
+          "ans": 1,
+          "subject": "History"
         },
         {
           "q": "Which part of the Constitution of India deals with the Municipalities?",
@@ -453,7 +457,8 @@
             "भाग IX",
             "भाग X"
           ],
-          "ans": 1
+          "ans": 1,
+          "subject": "Polity"
         }
       ]
     },
@@ -478,7 +483,8 @@
             "समतापमंडल → क्षोभमंडल → मध्यमंडल → तापमंडल → बहिर्मंडल",
             "क्षोभमंडल → समतापमंडल → तापमंडल → मध्यमंडल → बहिर्मंडल"
           ],
-          "ans": 0
+          "ans": 0,
+          "subject": "Geography"
         },
         {
           "q": "Which of the following is NOT a greenhouse gas?",
@@ -495,7 +501,8 @@
             "नाइट्रस ऑक्साइड (N2O)",
             "ऑक्सीजन (O2)"
           ],
-          "ans": 3
+          "ans": 3,
+          "subject": "Science"
         },
         {
           "q": "Who among the following founded the 'Indian National Congress'?",
@@ -512,7 +519,8 @@
             "वोमेश चंद्र बनर्जी",
             "सुरेंद्रनाथ बनर्जी"
           ],
-          "ans": 1
+          "ans": 1,
+          "subject": "History"
         },
         {
           "q": "Which of the following is NOT a feature of the Indian Constitution?",
@@ -529,7 +537,8 @@
             "राष्ट्रपति शासन प्रणाली",
             "मौलिक अधिकार और कर्तव्य"
           ],
-          "ans": 2
+          "ans": 2,
+          "subject": "Polity"
         },
         {
           "q": "Which of the following is a biodiversity hotspot in India?",
@@ -546,7 +555,8 @@
             "दक्कन का पठार",
             "गंगा का मैदान"
           ],
-          "ans": 1
+          "ans": 1,
+          "subject": "Environment"
         },
         {
           "q": "Which of the following was the capital of the Mauryan Empire?",
@@ -563,7 +573,8 @@
             "उज्जैन",
             "तक्षशिला"
           ],
-          "ans": 1
+          "ans": 1,
+          "subject": "History"
         }
       ]
     },
@@ -588,7 +599,8 @@
             "समुद्रगुप्त",
             "हर्षवर्धन"
           ],
-          "ans": 1
+          "ans": 1,
+          "subject": "History"
         },
         {
           "q": "Which of the following is a 'Carbon Sink'?",
@@ -605,7 +617,8 @@
             "मिट्टी",
             "उपरोक्त सभी"
           ],
-          "ans": 3
+          "ans": 3,
+          "subject": "Environment"
         },
         {
           "q": "Which of the following states has the longest coastline in India?",
@@ -622,7 +635,8 @@
             "आंध्र प्रदेश",
             "महाराष्ट्र"
           ],
-          "ans": 1
+          "ans": 1,
+          "subject": "Geography"
         },
         {
           "q": "Which of the following is the largest tiger reserve in India by area?",
@@ -639,7 +653,8 @@
             "नागार्जुनसागर-श्रीशैलम टाइगर रिजर्व",
             "सुंदरवन टाइगर रिजर्व"
           ],
-          "ans": 2
+          "ans": 2,
+          "subject": "Environment"
         },
         {
           "q": "Which of the following is NOT a Fundamental Duty under Article 51A of the Indian Constitution?",
@@ -656,7 +671,8 @@
             "नियमित रूप से करों का भुगतान करना",
             "वैज्ञानिक दृष्टिकोण विकसित करना"
           ],
-          "ans": 2
+          "ans": 2,
+          "subject": "Polity"
         },
         {
           "q": "Which of the following was the first Muslim invader to India?",
@@ -673,7 +689,8 @@
             "कुतुब-उद-दीन ऐबक",
             "मोहम्मद बिन कासिम"
           ],
-          "ans": 3
+          "ans": 3,
+          "subject": "History"
         }
       ]
     },
@@ -698,7 +715,8 @@
             "जैन आगम",
             "वेद"
           ],
-          "ans": 1
+          "ans": 1,
+          "subject": "History"
         },
         {
           "q": "Which of the following is the first national park of India?",
@@ -715,7 +733,8 @@
             "बांधवगढ़ राष्ट्रीय उद्यान",
             "काजीरंगा राष्ट्रीय उद्यान"
           ],
-          "ans": 1
+          "ans": 1,
+          "subject": "Environment"
         },
         {
           "q": "The first session of the Indian National Congress was held in which city?",
@@ -732,7 +751,8 @@
             "मद्रास (चेन्नई)",
             "पूना (पुणे)"
           ],
-          "ans": 1
+          "ans": 1,
+          "subject": "History"
         },
         {
           "q": "Which of the following is the first biosphere reserve of India?",
@@ -749,7 +769,8 @@
             "नंदा देवी",
             "मन्नार की खाड़ी"
           ],
-          "ans": 1
+          "ans": 1,
+          "subject": "Environment"
         }
       ]
     },
@@ -774,7 +795,8 @@
             "2",
             "-1"
           ],
-          "ans": 1
+          "ans": 1,
+          "subject": "Mathematics"
         },
         {
           "q": "The radius of a sphere is increased by 10%. What is the percentage increase in its volume?",
@@ -791,7 +813,8 @@
             "0.21",
             "0.1"
           ],
-          "ans": 0
+          "ans": 0,
+          "subject": "Mathematics"
         },
         {
           "q": "The area of a circle is 154 cm². What is its radius? (Take π = 22/7)",
@@ -808,7 +831,8 @@
             "11 सेमी",
             "22 सेमी"
           ],
-          "ans": 0
+          "ans": 0,
+          "subject": "Mathematics"
         },
         {
           "q": "If x² + 1/x² = 14, find the value of x + 1/x.",
@@ -825,7 +849,8 @@
             "5",
             "6"
           ],
-          "ans": 0
+          "ans": 0,
+          "subject": "Mathematics"
         }
       ]
     },
@@ -850,7 +875,8 @@
             "राष्ट्रीय सम्मान अपमान निवारण विधेयक",
             "परिसीमन विधेयक"
           ],
-          "ans": 1
+          "ans": 1,
+          "subject": "Current Affairs"
         },
         {
           "q": "With reference to Madhav National Park, which of the following statements is/are correct as per the UPSC Prelims 2026 exam?",
@@ -867,7 +893,8 @@
             "इसका क्षेत्र केवल MP और राजस्थान के बीच साझा है",
             "सख्या सागर केवल एक रामसर स्थल है"
           ],
-          "ans": 0
+          "ans": 0,
+          "subject": "Current Affairs"
         },
         {
           "q": "Tungurahua Volcano, declared a Global Geopark by UNESCO in 2025, is situated in which country?",
@@ -884,7 +911,8 @@
             "बोलीविया",
             "कोलंबिया"
           ],
-          "ans": 1
+          "ans": 1,
+          "subject": "Current Affairs"
         },
         {
           "q": "At the United Nations Ocean Conference (UNOC) 2025, the FAO proposed the 'Four Betters' for 'Blue Transformation'. Which combination is correct?",
@@ -901,7 +929,8 @@
             "बेहतर मूंगा चट्टानें, बेहतर पोषण, बेहतर पर्यावरण और बेहतर जीवन",
             "बेहतर मुहाना, बेहतर पोषण, बेहतर पर्यावरण और बेहतर मैंग्रोव"
           ],
-          "ans": 1
+          "ans": 1,
+          "subject": "Current Affairs"
         },
         {
           "q": "Who was conferred the Nobel Prize in 2025 and was a professor in an American university when the prize was announced?",
@@ -918,7 +947,8 @@
             "जॉन क्लार्क",
             "जोएल मोकिर"
           ],
-          "ans": 2
+          "ans": 2,
+          "subject": "Current Affairs"
         },
         {
           "q": "Which variant of the Akash Weapon System was tested by the Indian Army in July 2025?",
@@ -935,7 +965,8 @@
             "अकाश प्राइम",
             "अकाश Mk-II"
           ],
-          "ans": 2
+          "ans": 2,
+          "subject": "Current Affairs"
         },
         {
           "q": "Which organization launched the Kampala Declaration, a 10-year strategy to transform agri-food systems?",
@@ -952,7 +983,8 @@
             "अफ्रीकी संघ",
             "संयुक्त राष्ट्र विकास कार्यक्रम (UNDP)"
           ],
-          "ans": 2
+          "ans": 2,
+          "subject": "Current Affairs"
         },
         {
           "q": "India and which country signed a Free Trade Agreement (FTA) as per April 2026 developments?",
@@ -969,7 +1001,8 @@
             "यूरोपीय संघ",
             "ऑस्ट्रेलिया"
           ],
-          "ans": 2
+          "ans": 2,
+          "subject": "Current Affairs"
         },
         {
           "q": "Who became the first German to win the Abel Prize 2026?",
@@ -986,7 +1019,8 @@
             "गेर्ड फाल्टिंग्स",
             "ग्रिगोरी पेरेलमैन"
           ],
-          "ans": 2
+          "ans": 2,
+          "subject": "Current Affairs"
         },
         {
           "q": "The Kunming-Montreal Global Biodiversity Framework (GBF) aims to protect what percentage of the planet by 2030?",
@@ -1003,7 +1037,8 @@
             "0.4",
             "0.5"
           ],
-          "ans": 1
+          "ans": 1,
+          "subject": "Current Affairs"
         },
         {
           "q": "Which Indian wetlands were recently added to the Ramsar List as per UPSC Current Affairs?",
@@ -1020,7 +1055,8 @@
             "केवल गोगाबील झील और कराईवेट्टी पक्षी अभयारण्य",
             "लांगवुड शोला और सिलीसर झील"
           ],
-          "ans": 0
+          "ans": 0,
+          "subject": "Current Affairs"
         },
         {
           "q": "The Power of Siberia 2 Pipeline (PoS-2) is a proposed project to transport natural gas from Russia to which country?",
@@ -1037,7 +1073,8 @@
             "यूरोप",
             "जापान"
           ],
-          "ans": 1
+          "ans": 1,
+          "subject": "Current Affairs"
         }
       ]
     },
@@ -1062,7 +1099,8 @@
             "केवल 2 और 3",
             "केवल 1"
           ],
-          "ans": 1
+          "ans": 1,
+          "subject": "Current Affairs"
         },
         {
           "q": "Exercise INDRA is a bilateral military exercise between India and which country?",
@@ -1079,7 +1117,8 @@
             "जापान",
             "यूके"
           ],
-          "ans": 1
+          "ans": 1,
+          "subject": "Current Affairs"
         },
         {
           "q": "The term 'AI Washing' that has recently been in the headlines refers to which of the following?",
@@ -1096,7 +1135,8 @@
             "सरकारी वॉशिंग के माध्यम से AI को विनियमित करना",
             "AI हार्डवेयर घटकों को धोना"
           ],
-          "ans": 0
+          "ans": 0,
+          "subject": "Current Affairs"
         },
         {
           "q": "The Kampala Declaration, a 10-year strategy to transform agri-food systems and ensure food security, was launched by which organization?",
@@ -1113,7 +1153,8 @@
             "अफ्रीकी संघ",
             "संयुक्त राष्ट्र विकास कार्यक्रम (UNDP)"
           ],
-          "ans": 2
+          "ans": 2,
+          "subject": "Current Affairs"
         },
         {
           "q": "The Experimental Advanced Superconducting Tokamak (EAST) reactor, frequently cited in news reports, is associated with which country?",
@@ -1130,7 +1171,8 @@
             "जापान",
             "चीन"
           ],
-          "ans": 3
+          "ans": 3,
+          "subject": "Current Affairs"
         },
         {
           "q": "Which digital platform replaced the OCMS system for monitoring major central sector infrastructure projects?",
@@ -1147,7 +1189,8 @@
             "PRAGATI",
             "ई-समीक्षा"
           ],
-          "ans": 0
+          "ans": 0,
+          "subject": "Current Affairs"
         },
         {
           "q": "Exercise 'Samudra Shakti' is a bilateral naval exercise between India and which country?",
@@ -1164,7 +1207,8 @@
             "वियतनाम",
             "थाईलैंड"
           ],
-          "ans": 1
+          "ans": 1,
+          "subject": "Current Affairs"
         },
         {
           "q": "Consider the following statements regarding India-Indonesia relations: 1. In 2018, India and Indonesia elevated their bilateral ties to a 'Comprehensive Strategic Partnership'. 2. Sabang Port, where India is collaborating with Indonesia for infrastructure development, is strategically located close to the Andaman and Nicobar Islands. Which of the statements given above is/are correct?",
@@ -1181,7 +1225,8 @@
             "1 और 2 दोनों",
             "न तो 1 और न ही 2"
           ],
-          "ans": 2
+          "ans": 2,
+          "subject": "Current Affairs"
         },
         {
           "q": "Which two countries are being connected by the Power of Siberia 2 Pipeline?",
@@ -1198,7 +1243,8 @@
             "चीन और कजाकिस्तान",
             "रूस और यूरोप"
           ],
-          "ans": 1
+          "ans": 1,
+          "subject": "Current Affairs"
         },
         {
           "q": "The arrival of Amur Falcons at Doyang Lake in Nagaland each year from Mongolia showcases which of the following?",
@@ -1215,7 +1261,8 @@
             "स्थायी स्थानीय संरक्षण प्रयास अंतर्राष्ट्रीय प्रवासी पक्षियों के आगमन और संरक्षण में योगदान करते हैं",
             "पक्षी प्रवास पैटर्न पर जलवायु परिवर्तन का प्रभाव"
           ],
-          "ans": 2
+          "ans": 2,
+          "subject": "Current Affairs"
         },
         {
           "q": "Which country's nuclear arsenal was urged to be overseen by the International Atomic Energy Agency (IAEA)?",
@@ -1232,7 +1279,8 @@
             "ईरान",
             "इज़राइल"
           ],
-          "ans": 1
+          "ans": 1,
+          "subject": "Current Affairs"
         },
         {
           "q": "What is the name of India's first AI air-powered UCAV (Unmanned Combat Aerial Vehicle)?",
@@ -1249,7 +1297,8 @@
             "स्विफ्ट",
             "वीर"
           ],
-          "ans": 2
+          "ans": 2,
+          "subject": "Current Affairs"
         },
         {
           "q": "Which valley is the site of India's first geothermal power project?",
@@ -1266,7 +1315,8 @@
             "कुल्लू घाटी",
             "डिज़ौकू घाटी"
           ],
-          "ans": 1
+          "ans": 1,
+          "subject": "Current Affairs"
         }
       ]
     },
@@ -1291,7 +1341,8 @@
             "केवल 1 और 3",
             "1, 2 और 3"
           ],
-          "ans": 1
+          "ans": 1,
+          "subject": "Science"
         },
         {
           "q": "Consider the following statements: Statement I: Giant stars live much longer than dwarf stars. Statement II: Compared to dwarf stars, giant stars have a greater rate of nuclear reactions. Which one of the following is correct in respect of the above statements?",
@@ -1308,7 +1359,8 @@
             "कथन I सही है, लेकिन कथन II गलत है",
             "कथन I गलत है, लेकिन कथन II सही है"
           ],
-          "ans": 3
+          "ans": 3,
+          "subject": "Science"
         },
         {
           "q": "Consider the following activities: 1. Identification of narcotics on passengers at airports or in aircraft 2. Monitoring of precipitation 3. Tracking the migration of animals In how many of the above activities can radars be used?",
@@ -1325,7 +1377,8 @@
             "सभी तीन",
             "कोई नहीं"
           ],
-          "ans": 2
+          "ans": 2,
+          "subject": "Science"
         },
         {
           "q": "Consider the following aircraft: 1. Rafael 2. MiG-29 3. Tejas MK-1 How many of the above are considered fifth-generation fighter aircraft?",
@@ -1342,7 +1395,8 @@
             "सभी तीन",
             "कोई नहीं"
           ],
-          "ans": 3
+          "ans": 3,
+          "subject": "Science"
         },
         {
           "q": "In which of the following are hydrogels used? 1. Controlled drug delivery in patients 2. Mobile air-conditioning systems 3. Preparation of industrial lubricants Select the correct answer using the code given below:",
@@ -1359,7 +1413,8 @@
             "केवल 2 और 3",
             "1, 2 और 3"
           ],
-          "ans": 3
+          "ans": 3,
+          "subject": "Science"
         },
         {
           "q": "Which one of the following is the exhaust pipe emission from Fuel Cell Electric Vehicles, powered by hydrogen?",
@@ -1376,7 +1431,8 @@
             "ऑक्सीजन",
             "जल वाष्प"
           ],
-          "ans": 3
+          "ans": 3,
+          "subject": "Science"
         },
         {
           "q": "Membrane Bioreactors' are often discussed in the context of:",
@@ -1393,7 +1449,8 @@
             "वैक्सीन उत्पादन प्रौद्योगिकियाँ",
             "अपशिष्ट जल उपचार प्रौद्योगिकियाँ"
           ],
-          "ans": 3
+          "ans": 3,
+          "subject": "Science"
         },
         {
           "q": "Which of the following was India's first interplanetary mission?",
@@ -1410,7 +1467,8 @@
             "गगनयान",
             "आदित्य-L1"
           ],
-          "ans": 1
+          "ans": 1,
+          "subject": "Science"
         },
         {
           "q": "Which of the following isotopes is commonly used in nuclear reactors as a fuel?",
@@ -1427,7 +1485,8 @@
             "Pu-239",
             "U-235 और Pu-239 दोनों"
           ],
-          "ans": 3
+          "ans": 3,
+          "subject": "Science"
         },
         {
           "q": "Aditya-L1, India's first solar mission, was placed in orbit around which point?",
@@ -1444,7 +1503,8 @@
             "भू-स्थिर कक्षा",
             "ध्रुवीय कक्षा"
           ],
-          "ans": 0
+          "ans": 0,
+          "subject": "Science"
         },
         {
           "q": "Membrane Bioreactors are often discussed in the context of which of the following?",
@@ -1461,7 +1521,8 @@
             "वैक्सीन उत्पादन प्रौद्योगिकियाँ",
             "अपशिष्ट जल उपचार प्रौद्योगिकियाँ"
           ],
-          "ans": 3
+          "ans": 3,
+          "subject": "Science"
         },
         {
           "q": "Which of the following is India's first human spaceflight mission?",
@@ -1478,7 +1539,8 @@
             "गगनयान",
             "आदित्य-L1"
           ],
-          "ans": 2
+          "ans": 2,
+          "subject": "Science"
         },
         {
           "q": "Which of the following gases is responsible for the depletion of the ozone layer?",
@@ -1495,7 +1557,8 @@
             "क्लोरोफ्लोरोकार्बन (CFCs)",
             "नाइट्रोजन"
           ],
-          "ans": 2
+          "ans": 2,
+          "subject": "Science"
         },
         {
           "q": "Vaccination works by which of the following mechanisms?",
@@ -1512,7 +1575,8 @@
             "सीधे रोगजनकों को मारना",
             "केवल विषाक्त पदार्थों को बेअसर करना"
           ],
-          "ans": 1
+          "ans": 1,
+          "subject": "Science"
         }
       ]
     },
