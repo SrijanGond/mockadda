@@ -4290,6 +4290,50 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "roaro_prelims_18",
+      "title": "RO/ARO Prelims Mock Test 18",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which of the following is similar to 25 : 49?",
+          "q_hi": "निम्नलिखित में से कौन सा 25 : 49 के समान है?",
+          "opts": [
+            "16 : 25",
+            "36 : 64",
+            "9 : 16",
+            "All of the above"
+          ],
+          "opts_hi": [
+            "16 : 25",
+            "36 : 64",
+            "9 : 16",
+            "उपरोक्त सभी"
+          ],
+          "ans": 3,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "Which letter is 3rd to the left of the 12th letter from the right in the English alphabet?",
+          "q_hi": "अंग्रेजी वर्णमाला में दाएँ से 12वें अक्षर के बाएँ तीसरा अक्षर कौन सा है?",
+          "opts": [
+            "K",
+            "L",
+            "M",
+            "J"
+          ],
+          "opts_hi": [
+            "K",
+            "L",
+            "M",
+            "J"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
