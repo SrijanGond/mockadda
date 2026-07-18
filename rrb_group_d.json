@@ -654,6 +654,32 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "rrb_group_d_13",
+      "title": "RRB Group D Mock Test 13",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What comes next in the series? Z, X, V, T, R, ?",
+          "q_hi": "श्रृंखला में आगे क्या आएगा? Z, X, V, T, R, ?",
+          "opts": [
+            "P",
+            "Q",
+            "O",
+            "N"
+          ],
+          "opts_hi": [
+            "P",
+            "Q",
+            "O",
+            "N"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
