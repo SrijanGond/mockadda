@@ -199,7 +199,8 @@
             "भारतीय स्टेट बैंक",
             "एक्सिस बैंक"
           ],
-          "ans": 2
+          "ans": 2,
+          "subject": "Banking"
         }
       ]
     },
@@ -224,7 +225,8 @@
             "एक्सिस बैंक",
             "भारतीय स्टेट बैंक"
           ],
-          "ans": 0
+          "ans": 0,
+          "subject": "Banking"
         }
       ]
     },
@@ -249,7 +251,8 @@
             "NSDL पेमेंट्स बैंक",
             "एयरटेल पेमेंट्स बैंक"
           ],
-          "ans": 0
+          "ans": 0,
+          "subject": "Banking"
         }
       ]
     },
@@ -274,7 +277,8 @@
             "एक्सिस बैंक",
             "भारतीय स्टेट बैंक"
           ],
-          "ans": 0
+          "ans": 0,
+          "subject": "Banking"
         }
       ]
     },
@@ -299,7 +303,8 @@
             "0.15",
             "0.08"
           ],
-          "ans": 1
+          "ans": 1,
+          "subject": "Mathematics"
         },
         {
           "q": "The ratio of the ages of Ram and Shyam is 3:4. After 5 years, the ratio becomes 4:5. What is Shyam's present age?",
@@ -316,7 +321,8 @@
             "25 वर्ष",
             "30 वर्ष"
           ],
-          "ans": 1
+          "ans": 1,
+          "subject": "Mathematics"
         }
       ]
     },
@@ -341,7 +347,8 @@
             "नमामि गंगे कार्यक्रम",
             "जल जीवन मिशन"
           ],
-          "ans": 1
+          "ans": 1,
+          "subject": "Current Affairs"
         },
         {
           "q": "Under SEBI's revised regulations, what is the new minimum investment amount for individual investors in social impact funds?",
@@ -358,7 +365,8 @@
             "₹50,000",
             "₹2,00,000"
           ],
-          "ans": 0
+          "ans": 0,
+          "subject": "Current Affairs"
         },
         {
           "q": "Which new IT platform was launched by SEBI to replace email-based regulatory communication?",
@@ -375,7 +383,8 @@
             "SEBI ई-ऑफिस",
             "SEBI सहयोग"
           ],
-          "ans": 0
+          "ans": 0,
+          "subject": "Current Affairs"
         }
       ]
     },
@@ -400,7 +409,8 @@
             "साइटोकिनिन",
             "एथिलीन"
           ],
-          "ans": 3
+          "ans": 3,
+          "subject": "Science"
         },
         {
           "q": "Which of the following is NOT a greenhouse gas?",
@@ -417,7 +427,8 @@
             "नाइट्रस ऑक्साइड (N2O)",
             "ऑक्सीजन (O2)"
           ],
-          "ans": 3
+          "ans": 3,
+          "subject": "Science"
         }
       ]
     },
