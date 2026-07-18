@@ -403,6 +403,32 @@
           "ans": 1
         }
       ]
+    },
+    {
+      "id": "ssc_mts_9",
+      "title": "SSC MTS Mock Test 9",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "70% of 1680 + ?% of 1750 = 55% of 2820 - 886",
+          "q_hi": "70% of 1680 + ?% of 1750 = 55% of 2820 - 886",
+          "opts": [
+            "0.15",
+            "0.18",
+            "0.2",
+            "0.22"
+          ],
+          "opts_hi": [
+            "0.15",
+            "0.18",
+            "0.2",
+            "0.22"
+          ],
+          "ans": 1,
+          "subject": "Mathematics"
+        }
+      ]
     }
   ]
 }
