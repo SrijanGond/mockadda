@@ -294,6 +294,32 @@
           "ans": 2
         }
       ]
+    },
+    {
+      "id": "kvs_6",
+      "title": "KVS Mock Test 6",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Find the simple interest on Rs.4000 at 5% per annum for 3 years.",
+          "q_hi": "Rs.4000 पर 5% वार्षिक दर से 3 वर्षों का साधारण ब्याज ज्ञात करें।",
+          "opts": [
+            "Rs. 500",
+            "Rs. 550",
+            "Rs. 600",
+            "Rs. 650"
+          ],
+          "opts_hi": [
+            "Rs. 500",
+            "Rs. 550",
+            "Rs. 600",
+            "Rs. 650"
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        }
+      ]
     }
   ]
 }
