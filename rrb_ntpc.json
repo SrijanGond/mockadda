@@ -826,6 +826,50 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "rrb_ntpc_15",
+      "title": "RRB NTPC Mock Test 15",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What comes next in the series? C, F, I, L, O, ?",
+          "q_hi": "श्रृंखला में आगे क्या आएगा? C, F, I, L, O, ?",
+          "opts": [
+            "P",
+            "Q",
+            "R",
+            "S"
+          ],
+          "opts_hi": [
+            "P",
+            "Q",
+            "R",
+            "S"
+          ],
+          "ans": 2,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "What will come in place of question mark (?) in the following series? 10, 20, 40, 80, 160, ?",
+          "q_hi": "निम्नलिखित श्रृंखला में प्रश्न चिह्न (?) के स्थान पर क्या आएगा? 10, 20, 40, 80, 160, ?",
+          "opts": [
+            "240",
+            "280",
+            "320",
+            "360"
+          ],
+          "opts_hi": [
+            "240",
+            "280",
+            "320",
+            "360"
+          ],
+          "ans": 2,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
