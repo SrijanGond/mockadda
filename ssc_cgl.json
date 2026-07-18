@@ -853,6 +853,32 @@
           "subject": "Mathematics"
         }
       ]
+    },
+    {
+      "id": "ssc_cgl_12",
+      "title": "SSC CGL Mock Test 12",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "If a:b = 2:3 and b:c = 4:5, find a:c.",
+          "q_hi": "यदि a:b = 2:3 और b:c = 4:5 है, तो a:c ज्ञात करें।",
+          "opts": [
+            "Sat Dec 30 1899 11:36:10 GMT+0521 (India Standard Time)",
+            "Sat Dec 30 1899 13:36:10 GMT+0521 (India Standard Time)",
+            "2:5",
+            "4:5"
+          ],
+          "opts_hi": [
+            "Sat Dec 30 1899 11:36:10 GMT+0521 (India Standard Time)",
+            "Sat Dec 30 1899 13:36:10 GMT+0521 (India Standard Time)",
+            "2:5",
+            "4:5"
+          ],
+          "ans": 1,
+          "subject": "Mathematics"
+        }
+      ]
     }
   ]
 }
