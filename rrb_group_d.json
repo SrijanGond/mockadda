@@ -566,6 +566,50 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "rrb_group_d_11",
+      "title": "RRB Group D Mock Test 11",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which of the following is analogous to Pencil : Eraser?",
+          "q_hi": "निम्नलिखित में से कौन सा Pencil : Eraser के समान है?",
+          "opts": [
+            "Pen : Paper",
+            "Tea : Coffee",
+            "Lock : Key",
+            "Shoes : Socks"
+          ],
+          "opts_hi": [
+            "कलम : कागज",
+            "चाय : कॉफी",
+            "ताला : चाबी",
+            "जूते : मोज़े"
+          ],
+          "ans": 2,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "What will replace the question mark (?) in the following? 2, 3, 5, 8, 13, ?",
+          "q_hi": "निम्नलिखित में प्रश्न चिह्न (?) के स्थान पर क्या आएगा? 2, 3, 5, 8, 13, ?",
+          "opts": [
+            "20",
+            "21",
+            "22",
+            "23"
+          ],
+          "opts_hi": [
+            "20",
+            "21",
+            "22",
+            "23"
+          ],
+          "ans": 1,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
