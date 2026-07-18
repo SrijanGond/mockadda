@@ -562,6 +562,32 @@
           "subject": "Mathematics"
         }
       ]
+    },
+    {
+      "id": "sbi_clerk_11",
+      "title": "SBI Clerk Mock Test 11",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which of the following acids is present in vinegar?",
+          "q_hi": "सिरके में निम्नलिखित में से कौन सा अम्ल उपस्थित होता है?",
+          "opts": [
+            "Citric acid",
+            "Lactic acid",
+            "Acetic acid",
+            "Oxalic acid"
+          ],
+          "opts_hi": [
+            "साइट्रिक अम्ल",
+            "लैक्टिक अम्ल",
+            "एसिटिक अम्ल",
+            "ऑक्सालिक अम्ल"
+          ],
+          "ans": 2,
+          "subject": "Science"
+        }
+      ]
     }
   ]
 }
