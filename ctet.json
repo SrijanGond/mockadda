@@ -591,6 +591,32 @@
           "subject": "Science"
         }
       ]
+    },
+    {
+      "id": "ctet_12",
+      "title": "CTET Mock Test 12",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Arrange the following words in a logical sequence: 1. Study, 2. Exam, 3. Result, 4. Admission, 5. Graduation",
+          "q_hi": "निम्नलिखित शब्दों को तार्किक क्रम में व्यवस्थित करें: 1. अध्ययन, 2. परीक्षा, 3. परिणाम, 4. प्रवेश, 5. स्नातक",
+          "opts": [
+            "1, 2, 3, 4, 5",
+            "4, 1, 2, 3, 5",
+            "1, 4, 2, 3, 5",
+            "4, 2, 1, 3, 5"
+          ],
+          "opts_hi": [
+            "1, 2, 3, 4, 5",
+            "4, 1, 2, 3, 5",
+            "1, 4, 2, 3, 5",
+            "4, 2, 1, 3, 5"
+          ],
+          "ans": 1,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
