@@ -610,6 +610,32 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "kvs_14",
+      "title": "KVS Mock Test 14",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Statement: \"Reading books improves knowledge.\" Inference: People who read books are more knowledgeable than those who don't.",
+          "q_hi": "कथन: \"पुस्तकें पढ़ने से ज्ञान में सुधार होता है।\" निष्कर्ष: पुस्तकें पढ़ने वाले लोग न पढ़ने वालों की तुलना में अधिक जानकार होते हैं।",
+          "opts": [
+            "Inference is valid",
+            "Inference is not valid",
+            "Inference is true only sometimes",
+            "Cannot be determined"
+          ],
+          "opts_hi": [
+            "निष्कर्ष मान्य है",
+            "निष्कर्ष मान्य नहीं है",
+            "निष्कर्ष केवल कभी-कभी सत्य है",
+            "निर्धारित नहीं किया जा सकता"
+          ],
+          "ans": 1,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
