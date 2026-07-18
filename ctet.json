@@ -679,6 +679,68 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "ctet_14",
+      "title": "CTET Mock Test 14",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Statement: \"Some fruits are apples. All apples are red.\" Conclusion: Some red things are fruits.",
+          "q_hi": "कथन: \"कुछ फल सेब हैं। सभी सेब लाल हैं।\" निष्कर्ष: कुछ लाल चीज़ें फल हैं।",
+          "opts": [
+            "Conclusion follows",
+            "Conclusion does not follow",
+            "Conclusion is true only sometimes",
+            "Cannot be determined"
+          ],
+          "opts_hi": [
+            "निष्कर्ष अनुसरण करता है",
+            "निष्कर्ष अनुसरण नहीं करता",
+            "निष्कर्ष केवल कभी-कभी सत्य है",
+            "निर्धारित नहीं किया जा सकता"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "Statement: \"All teachers should undergo training every year.\" Which of the following is the underlying assumption?",
+          "q_hi": "कथन: \"सभी शिक्षकों को प्रत्येक वर्ष प्रशिक्षण से गुजरना चाहिए।\" निम्नलिखित में से कौन सी अंतर्निहित धारणा है?",
+          "opts": [
+            "Teachers are not competent enough",
+            "Training improves teaching skills",
+            "Teachers enjoy training",
+            "Training is expensive"
+          ],
+          "opts_hi": [
+            "शिक्षक पर्याप्त सक्षम नहीं हैं",
+            "प्रशिक्षण शिक्षण कौशल में सुधार करता है",
+            "शिक्षक प्रशिक्षण का आनंद लेते हैं",
+            "प्रशिक्षण महंगा है"
+          ],
+          "ans": 1,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "Statement: \"All roses are flowers. Some flowers are red.\" Conclusion: Some roses are red.",
+          "q_hi": "कथन: \"सभी गुलाब फूल हैं। कुछ फूल लाल हैं।\" निष्कर्ष: कुछ गुलाब लाल हैं।",
+          "opts": [
+            "Conclusion follows",
+            "Conclusion does not follow",
+            "Conclusion is true only sometimes",
+            "Cannot be determined"
+          ],
+          "opts_hi": [
+            "निष्कर्ष अनुसरण करता है",
+            "निष्कर्ष अनुसरण नहीं करता",
+            "निष्कर्ष केवल कभी-कभी सत्य है",
+            "निर्धारित नहीं किया जा सकता"
+          ],
+          "ans": 1,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
