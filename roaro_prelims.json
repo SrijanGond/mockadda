@@ -4034,6 +4034,68 @@
           "subject": "Science"
         }
       ]
+    },
+    {
+      "id": "roaro_prelims_13",
+      "title": "RO/ARO Prelims Mock Test 13",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which of the following is a compound?",
+          "q_hi": "निम्नलिखित में से कौन सा यौगिक है?",
+          "opts": [
+            "Oxygen",
+            "Nitrogen",
+            "Sodium",
+            "Water"
+          ],
+          "opts_hi": [
+            "ऑक्सीजन",
+            "नाइट्रोजन",
+            "सोडियम",
+            "जल"
+          ],
+          "ans": 3,
+          "subject": "Science"
+        },
+        {
+          "q": "In which part of the human digestive system is maximum absorption of water takes place?",
+          "q_hi": "मानव पाचन तंत्र के किस भाग में जल का अधिकतम अवशोषण होता है?",
+          "opts": [
+            "Stomach",
+            "Small intestine",
+            "Large intestine",
+            "Oesophagus"
+          ],
+          "opts_hi": [
+            "पेट",
+            "छोटी आंत",
+            "बड़ी आंत",
+            "ग्रासनली"
+          ],
+          "ans": 2,
+          "subject": "Science"
+        },
+        {
+          "q": "Which of the following subatomic particles has the least mass?",
+          "q_hi": "निम्नलिखित में से किस उप-परमाणु कण का द्रव्यमान सबसे कम है?",
+          "opts": [
+            "Proton",
+            "Neutron",
+            "Electron",
+            "They all have the same mass"
+          ],
+          "opts_hi": [
+            "प्रोटॉन",
+            "न्यूट्रॉन",
+            "इलेक्ट्रॉन",
+            "उन सभी का द्रव्यमान समान है"
+          ],
+          "ans": 2,
+          "subject": "Science"
+        }
+      ]
     }
   ]
 }
