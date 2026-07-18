@@ -4122,6 +4122,86 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "roaro_prelims_15",
+      "title": "RO/ARO Prelims Mock Test 15",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Rahul walks 15 km towards East, turns right and walks 20 km, then turns left and walks 10 km. In which direction is he now from the starting point?",
+          "q_hi": "राहुल पूर्व की ओर 15 किमी चलता है, दाएँ मुड़ता है और 20 किमी चलता है, फिर बाएँ मुड़ता है और 10 किमी चलता है। वह अब आरंभिक बिंदु से किस दिशा में है?",
+          "opts": [
+            "North-East",
+            "South-East",
+            "South-West",
+            "North-West"
+          ],
+          "opts_hi": [
+            "उत्तर-पूर्व",
+            "दक्षिण-पूर्व",
+            "दक्षिण-पश्चिम",
+            "उत्तर-पश्चिम"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "What is the angle between the hour and minute hands of a clock at 6:30?",
+          "q_hi": "6:30 पर घड़ी की घंटे और मिनट की सुइयों के बीच का कोण क्या है?",
+          "opts": [
+            "15°",
+            "30°",
+            "45°",
+            "60°"
+          ],
+          "opts_hi": [
+            "15°",
+            "30°",
+            "45°",
+            "60°"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "Which of the following is the mirror image of the word \"TABLET\"?",
+          "q_hi": "TABLET शब्द का दर्पण प्रतिबिंब निम्नलिखित में से कौन सा है?",
+          "opts": [
+            "TELBAT",
+            "TELBAT",
+            "TELBAT",
+            "TELBAT"
+          ],
+          "opts_hi": [
+            "TELBAT",
+            "TELBAT",
+            "TELBAT",
+            "TELBAT"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "Which letter is 4th to the left of the 15th letter from the right in the English alphabet?",
+          "q_hi": "अंग्रेजी वर्णमाला में दाएँ से 15वें अक्षर के बाएँ चौथा अक्षर कौन सा है?",
+          "opts": [
+            "L",
+            "K",
+            "J",
+            "H"
+          ],
+          "opts_hi": [
+            "L",
+            "K",
+            "J",
+            "H"
+          ],
+          "ans": 3,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
