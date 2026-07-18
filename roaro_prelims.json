@@ -3794,6 +3794,50 @@
           "ans": 0
         }
       ]
+    },
+    {
+      "id": "roaro_prelims_10",
+      "title": "RO/ARO Prelims Mock Test 10",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "If the product of three consecutive positive integers is 720, what is the sum of these integers?",
+          "q_hi": "यदि तीन क्रमागत धनात्मक पूर्णांकों का गुणनफल 720 है, तो इन पूर्णांकों का योग क्या है?",
+          "opts": [
+            "27",
+            "28",
+            "29",
+            "30"
+          ],
+          "opts_hi": [
+            "27",
+            "28",
+            "29",
+            "30"
+          ],
+          "ans": 0,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "A can complete work in 10 days and B in 15 days. In how many days will they complete it together?",
+          "q_hi": "A किसी कार्य को 10 दिनों में और B 15 दिनों में पूरा कर सकता है। वे दोनों मिलकर कार्य को कितने दिनों में पूरा करेंगे?",
+          "opts": [
+            "5 days",
+            "6 days",
+            "7 days",
+            "8 days"
+          ],
+          "opts_hi": [
+            "5 दिन",
+            "6 दिन",
+            "7 दिन",
+            "8 दिन"
+          ],
+          "ans": 1,
+          "subject": "Mathematics"
+        }
+      ]
     }
   ]
 }
