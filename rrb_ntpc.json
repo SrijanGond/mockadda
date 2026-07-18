@@ -694,6 +694,50 @@
           "subject": "Science"
         }
       ]
+    },
+    {
+      "id": "rrb_ntpc_12",
+      "title": "RRB NTPC Mock Test 12",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which of the following is NOT a state of matter?",
+          "q_hi": "निम्नलिखित में से कौन सी पदार्थ की अवस्था नहीं है?",
+          "opts": [
+            "Solid",
+            "Liquid",
+            "Gas",
+            "Energy"
+          ],
+          "opts_hi": [
+            "ठोस",
+            "द्रव",
+            "गैस",
+            "ऊर्जा"
+          ],
+          "ans": 3,
+          "subject": "Science"
+        },
+        {
+          "q": "Which gland is known as the \"Master Gland\" of the human body?",
+          "q_hi": "मानव शरीर की \"मास्टर ग्रंथि\" के रूप में कौन सी ग्रंथि जानी जाती है?",
+          "opts": [
+            "Thyroid gland",
+            "Pituitary gland",
+            "Adrenal gland",
+            "Pancreas"
+          ],
+          "opts_hi": [
+            "थायरॉइड ग्रंथि",
+            "पिट्यूटरी ग्रंथि",
+            "अधिवृक्क ग्रंथि",
+            "अग्न्याशय"
+          ],
+          "ans": 1,
+          "subject": "Science"
+        }
+      ]
     }
   ]
 }
