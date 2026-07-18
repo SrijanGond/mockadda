@@ -785,6 +785,50 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "ctet_16",
+      "title": "CTET Mock Test 16",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Statement: \"No cat is a dog. Some dogs are animals.\" Conclusion: Some animals are not cats.",
+          "q_hi": "कथन: \"कोई बिल्ली कुत्ता नहीं है। कुछ कुत्ते जानवर हैं।\" निष्कर्ष: कुछ जानवर बिल्लियाँ नहीं हैं।",
+          "opts": [
+            "Conclusion follows",
+            "Conclusion does not follow",
+            "Conclusion is true only sometimes",
+            "Cannot be determined"
+          ],
+          "opts_hi": [
+            "निष्कर्ष अनुसरण करता है",
+            "निष्कर्ष अनुसरण नहीं करता",
+            "निष्कर्ष केवल कभी-कभी सत्य है",
+            "निर्धारित नहीं किया जा सकता"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "Arrange the following in ascending order of area: 1. Room, 2. Building, 3. Floor, 4. Block, 5. City",
+          "q_hi": "निम्नलिखित को क्षेत्रफल के बढ़ते क्रम में व्यवस्थित करें: 1. कमरा, 2. भवन, 3. मंजिल, 4. ब्लॉक, 5. शहर",
+          "opts": [
+            "1, 3, 2, 4, 5",
+            "1, 2, 3, 4, 5",
+            "3, 1, 2, 4, 5",
+            "4, 2, 3, 1, 5"
+          ],
+          "opts_hi": [
+            "1, 3, 2, 4, 5",
+            "1, 2, 3, 4, 5",
+            "3, 1, 2, 4, 5",
+            "4, 2, 3, 1, 5"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
