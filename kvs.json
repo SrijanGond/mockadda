@@ -320,6 +320,32 @@
           "subject": "Mathematics"
         }
       ]
+    },
+    {
+      "id": "kvs_7",
+      "title": "KVS Mock Test 7",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "At what rate of interest will Rs.5000 amount to Rs.6000 in 4 years at simple interest?",
+          "q_hi": "साधारण ब्याज पर Rs.5000, 4 वर्षों में Rs.6000 हो जाता है। ब्याज की दर क्या है?",
+          "opts": [
+            "0.04",
+            "0.05",
+            "0.06",
+            "0.07"
+          ],
+          "opts_hi": [
+            "0.04",
+            "0.05",
+            "0.06",
+            "0.07"
+          ],
+          "ans": 1,
+          "subject": "Mathematics"
+        }
+      ]
     }
   ]
 }
