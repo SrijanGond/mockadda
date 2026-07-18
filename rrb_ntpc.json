@@ -914,6 +914,68 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "rrb_ntpc_17",
+      "title": "RRB NTPC Mock Test 17",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which of the following is similar to \"Chair : Furniture\"?",
+          "q_hi": "निम्नलिखित में से कौन सा \"Chair : Furniture\" के समान है?",
+          "opts": [
+            "Book : Page",
+            "Table : Wood",
+            "Rose : Flower",
+            "Car : Road"
+          ],
+          "opts_hi": [
+            "पुस्तक : पृष्ठ",
+            "मेज : लकड़ी",
+            "गुलाब : फूल",
+            "कार : सड़क"
+          ],
+          "ans": 2,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "What comes next in the series? 8, 24, 72, 216, ?",
+          "q_hi": "श्रृंखला में आगे क्या आएगा? 8, 24, 72, 216, ?",
+          "opts": [
+            "432",
+            "576",
+            "648",
+            "720"
+          ],
+          "opts_hi": [
+            "432",
+            "576",
+            "648",
+            "720"
+          ],
+          "ans": 2,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "Which figure will come next in the series: Square, Square, Circle, Square, Square, Circle, ?",
+          "q_hi": "श्रृंखला में आगे कौन सी आकृति आएगी: वर्ग, वर्ग, वृत्त, वर्ग, वर्ग, वृत्त, ?",
+          "opts": [
+            "Square",
+            "Circle",
+            "Triangle",
+            "Rectangle"
+          ],
+          "opts_hi": [
+            "वर्ग",
+            "वृत्त",
+            "त्रिभुज",
+            "आयत"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
