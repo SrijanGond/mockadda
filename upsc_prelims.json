@@ -2051,6 +2051,32 @@
           "subject": "Science"
         }
       ]
+    },
+    {
+      "id": "upsc_prelims_16",
+      "title": "UPSC Prelims Mock Test 16",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "In a certain code, \"MOBILE\" is written as \"QSMFPI\" and \"LAPTOP\" is written as \"PETSSD\". How is \"TABLET\" written in that code?",
+          "q_hi": "एक निश्चित कूट में, \"MOBILE\" को \"QSMFPI\" लिखा जाता है और \"LAPTOP\" को \"PETSSD\" लिखा जाता है। उस कूट में \"TABLET\" कैसे लिखा जाएगा?",
+          "opts": [
+            "XEFPIX",
+            "XFFPIX",
+            "XEFPJX",
+            "XFFPJX"
+          ],
+          "opts_hi": [
+            "XEFPIX",
+            "XFFPIX",
+            "XEFPJX",
+            "XFFPJX"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
