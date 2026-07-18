@@ -420,6 +420,50 @@
           "ans": 3
         }
       ]
+    },
+    {
+      "id": "sbi_clerk_9",
+      "title": "SBI Clerk Mock Test 9",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "If the roots of x² - 7x + k = 0 are equal, find the value of k.",
+          "q_hi": "यदि x² - 7x + k = 0 के मूल समान हैं, तो k का मान ज्ञात करें।",
+          "opts": [
+            "49/4",
+            "49/2",
+            "49",
+            "Sat Feb 07 2026 05:30:00 GMT+0530 (India Standard Time)"
+          ],
+          "opts_hi": [
+            "49/4",
+            "49/2",
+            "49",
+            "Sat Feb 07 2026 05:30:00 GMT+0530 (India Standard Time)"
+          ],
+          "ans": 0,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the compound interest on Rs.10000 for 2 years at 10% per annum compounded annually?",
+          "q_hi": "Rs.10000 पर 2 वर्षों के लिए 10% वार्षिक दर से चक्रवृद्धि ब्याज क्या है, जो वार्षिक रूप से संयोजित होता है?",
+          "opts": [
+            "Rs. 2000",
+            "Rs. 2100",
+            "Rs. 2200",
+            "Rs. 2300"
+          ],
+          "opts_hi": [
+            "Rs. 2000",
+            "Rs. 2100",
+            "Rs. 2200",
+            "Rs. 2300"
+          ],
+          "ans": 1,
+          "subject": "Mathematics"
+        }
+      ]
     }
   ]
 }
