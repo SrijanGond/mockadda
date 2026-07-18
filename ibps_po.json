@@ -634,6 +634,50 @@
           "subject": "Mathematics"
         }
       ]
+    },
+    {
+      "id": "ibps_po_12",
+      "title": "IBPS PO Mock Test 12",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which of the following expressions is true if A > B ≥ C = D < E ≤ F?",
+          "q_hi": "यदि A > B ≥ C = D < E ≤ F है, तो निम्नलिखित में से कौन सा व्यंजक सत्य है?",
+          "opts": [
+            "F = C",
+            "A > D",
+            "B < D",
+            "E > F"
+          ],
+          "opts_hi": [
+            "F = C",
+            "A > D",
+            "B < D",
+            "E > F"
+          ],
+          "ans": 1,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "If P > Q ≥ R = S < T, which of the following is definitely true?",
+          "q_hi": "यदि P > Q ≥ R = S < T है, तो निम्नलिखित में से कौन सा निश्चित रूप से सत्य है?",
+          "opts": [
+            "P > S",
+            "Q = T",
+            "R > T",
+            "S > P"
+          ],
+          "opts_hi": [
+            "P > S",
+            "Q = T",
+            "R > T",
+            "S > P"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
