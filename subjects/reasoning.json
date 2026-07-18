@@ -1583,6 +1583,492 @@
       ],
       "ans": 0,
       "subject": "Reasoning"
+    },
+    {
+      "q": "What will come in place of question mark (?) in the following series? 3, 10, 21, 36, 55, ?",
+      "q_hi": "निम्नलिखित श्रृंखला में प्रश्न चिह्न (?) के स्थान पर क्या आएगा? 3, 10, 21, 36, 55, ?",
+      "opts": [
+        "78",
+        "80",
+        "82",
+        "84"
+      ],
+      "opts_hi": [
+        "78",
+        "80",
+        "82",
+        "84"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "If \"TRAIN\" is coded as \"WUDLQ\" and \"SHIP\" is coded as \"VKLS\", then \"BOAT\" is coded as:",
+      "q_hi": "यदि \"TRAIN\" को \"WUDLQ\" के रूप में कोडित किया जाता है और \"SHIP\" को \"VKLS\" के रूप में कोडित किया जाता है, तो \"BOAT\" को किस रूप में कोडित किया जाएगा?",
+      "opts": [
+        "ERDW",
+        "ERDV",
+        "ERDW",
+        "ERDV"
+      ],
+      "opts_hi": [
+        "ERDW",
+        "ERDV",
+        "ERDW",
+        "ERDV"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Find the odd one out: 1, 8, 27, 64, 125, 216, 343, 512, 729, 1000, 1331, 1728, 2197, 2744, 3375, 4096, 4913, 5832, 6859, 8000, 9261, 10648, 12167, 13824, 15625, 17576, 19683, 21952, 24389, 27000, 29791, 32768, 35937, 39304, 42875, 46656, 50653, 54872, 59319, 64000, 68921, 74088, 79507, 85184, 91125, 97336, 103823, 110592, 117649, 125000",
+      "q_hi": "विषम ज्ञात करें: 1, 8, 27, 64, 125, 216, 343, 512, 729, 1000, 1331, 1728, 2197, 2744, 3375, 4096, 4913, 5832, 6859, 8000, 9261, 10648, 12167, 13824, 15625, 17576, 19683, 21952, 24389, 27000, 29791, 32768, 35937, 39304, 42875, 46656, 50653, 54872, 59319, 64000, 68921, 74088, 79507, 85184, 91125, 97336, 103823, 110592, 117649, 125000",
+      "opts": [
+        "1 (1³)",
+        "125000 (50³)",
+        "32768 (32³)",
+        "None, all are cubes"
+      ],
+      "opts_hi": [
+        "1 (1³)",
+        "125000 (50³)",
+        "32768 (32³)",
+        "कोई नहीं, सभी घन हैं"
+      ],
+      "ans": 3,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Pointing to a boy, a girl said, \"He is the son of the only son of my grandfather.\" How is the boy related to the girl?",
+      "q_hi": "एक लड़के की ओर इशारा करते हुए, एक लड़की ने कहा, \"वह मेरे दादा के इकलौते पुत्र का पुत्र है।\" वह लड़का उस लड़की से किस प्रकार संबंधित है?",
+      "opts": [
+        "Brother",
+        "Cousin",
+        "Nephew",
+        "Son"
+      ],
+      "opts_hi": [
+        "भाई",
+        "चचेरा भाई",
+        "भतीजा",
+        "पुत्र"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Six people A, B, C, D, E, F live on six different floors. A lives on an even numbered floor. B lives immediately above A. C lives above B. D lives below C. E lives below D. F lives on the top floor. Who lives on the 4th floor?",
+      "q_hi": "छह लोग A, B, C, D, E, F छह अलग-अलग मंजिलों पर रहते हैं। A सम संख्या वाली मंजिल पर रहता है। B, A के ठीक ऊपर रहता है। C, B के ऊपर रहता है। D, C के नीचे रहता है। E, D के नीचे रहता है। F सबसे ऊपर की मंजिल पर रहता है। चौथी मंजिल पर कौन रहता है?",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "opts_hi": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "ans": 1,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Select the option that is related to the third term in the same way as the second term is related to the first term. Earth : Planet :: Sun : ?",
+      "q_hi": "उस विकल्प का चयन करें जो तीसरे पद से उसी प्रकार संबंधित है जैसे दूसरा पद पहले पद से संबंधित है। Earth : Planet :: Sun : ?",
+      "opts": [
+        "Star",
+        "Galaxy",
+        "Moon",
+        "Satellite"
+      ],
+      "opts_hi": [
+        "तारा",
+        "आकाशगंगा",
+        "चंद्रमा",
+        "उपग्रह"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Argument: \"All students should have access to computers.\" Which of the following weakens this argument?",
+      "q_hi": "तर्क: \"सभी छात्रों के पास कंप्यूटर तक पहुंच होनी चाहिए।\" निम्नलिखित में से कौन सा इस तर्क को कमजोर करता है?",
+      "opts": [
+        "Computers help in learning",
+        "Computers are expensive and many schools cannot afford them",
+        "Computers are used in offices",
+        "Computers are easy to use"
+      ],
+      "opts_hi": [
+        "कंप्यूटर सीखने में सहायक हैं",
+        "कंप्यूटर महंगे हैं और कई स्कूल उन्हें वहन नहीं कर सकते",
+        "कंप्यूटर का उपयोग कार्यालयों में किया जाता है",
+        "कंप्यूटर का उपयोग करना आसान है"
+      ],
+      "ans": 1,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "A person starts from point A, walks 10 km North, then turns right and walks 10 km, then turns left and walks 10 km, then turns right and walks 10 km, then turns left and walks 10 km. In which direction is he now from the starting point?",
+      "q_hi": "एक व्यक्ति बिंदु A से शुरू करता है, 10 किमी उत्तर चलता है, फिर दाएँ मुड़ता है और 10 किमी चलता है, फिर बाएँ मुड़ता है और 10 किमी चलता है, फिर दाएँ मुड़ता है और 10 किमी चलता है, फिर बाएँ मुड़ता है और 10 किमी चलता है। वह अब आरंभिक बिंदु से किस दिशा में है?",
+      "opts": [
+        "North-East",
+        "North-West",
+        "South-East",
+        "South-West"
+      ],
+      "opts_hi": [
+        "उत्तर-पूर्व",
+        "उत्तर-पश्चिम",
+        "दक्षिण-पूर्व",
+        "दक्षिण-पश्चिम"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Which of the following correctly represents the relationship: Men, Doctors, Engineers?",
+      "q_hi": "निम्नलिखित में से कौन सा संबंध को सही दर्शाता है: पुरुष, डॉक्टर, इंजीनियर?",
+      "opts": [
+        "Three overlapping circles",
+        "Three separate circles",
+        "Two circles inside a third",
+        "One circle inside another"
+      ],
+      "opts_hi": [
+        "तीन प्रतिच्छेद करते वृत्त",
+        "तीन अलग-अलग वृत्त",
+        "दो वृत्त तीसरे के अंदर",
+        "एक वृत्त दूसरे के अंदर"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "What comes next in the series? Z, X, V, T, R, ?",
+      "q_hi": "श्रृंखला में आगे क्या आएगा? Z, X, V, T, R, ?",
+      "opts": [
+        "P",
+        "Q",
+        "O",
+        "N"
+      ],
+      "opts_hi": [
+        "P",
+        "Q",
+        "O",
+        "N"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "What is the angle between the hour and minute hands of a clock at 4:40?",
+      "q_hi": "4:40 पर घड़ी की घंटे और मिनट की सुइयों के बीच का कोण क्या है?",
+      "opts": [
+        "100°",
+        "110°",
+        "120°",
+        "130°"
+      ],
+      "opts_hi": [
+        "100°",
+        "110°",
+        "120°",
+        "130°"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Statement: \"Travelling by train is safer than travelling by road.\" Which of the following is the underlying assumption?",
+      "q_hi": "कथन: \"रेल द्वारा यात्रा करना सड़क द्वारा यात्रा करने से अधिक सुरक्षित है।\" निम्नलिखित में से कौन सी अंतर्निहित धारणा है?",
+      "opts": [
+        "Trains are the fastest mode of travel",
+        "Train accidents are less frequent than road accidents",
+        "Road travel is enjoyable",
+        "Trains are expensive"
+      ],
+      "opts_hi": [
+        "रेल यात्रा का सबसे तेज़ साधन है",
+        "रेल दुर्घटनाएँ सड़क दुर्घटनाओं से कम होती हैं",
+        "सड़क यात्रा आनंददायक है",
+        "रेल महंगी है"
+      ],
+      "ans": 1,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Six friends are sitting in a circle facing the center. A sits second to the right of B. C sits between D and E. F sits immediate left of A. Who sits opposite to C?",
+      "q_hi": "छह मित्र केंद्र की ओर मुख करके एक वृत्त में बैठे हैं। A, B के दाएँ दूसरे स्थान पर बैठा है। C, D और E के बीच में बैठा है। F, A के ठीक बाएँ बैठा है। C के विपरीत कौन बैठा है?",
+      "opts": [
+        "B",
+        "D",
+        "F",
+        "E"
+      ],
+      "opts_hi": [
+        "B",
+        "D",
+        "F",
+        "E"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Which of the following is the mirror image of the word \"SUNSHINE\"?",
+      "q_hi": "SUNSHINE शब्द का दर्पण प्रतिबिंब निम्नलिखित में से कौन सा है?",
+      "opts": [
+        "ENIHSUNS",
+        "ENIHSNUS",
+        "ENIHSUNS",
+        "ENIHSNUS"
+      ],
+      "opts_hi": [
+        "ENIHSUNS",
+        "ENIHSNUS",
+        "ENIHSUNS",
+        "ENIHSNUS"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "What comes next in the series? 2, 5, 9, 14, 20, ?",
+      "q_hi": "श्रृंखला में आगे क्या आएगा? 2, 5, 9, 14, 20, ?",
+      "opts": [
+        "25",
+        "26",
+        "27",
+        "28"
+      ],
+      "opts_hi": [
+        "25",
+        "26",
+        "27",
+        "28"
+      ],
+      "ans": 2,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Statements: All men are mortal. No mortal is immortal. Some immortals are gods. Conclusions: I. Some gods are men. II. No man is a god. Which follows?",
+      "q_hi": "कथन: सभी मनुष्य नश्वर हैं। कोई नश्वर अमर नहीं है। कुछ अमर देवता हैं। निष्कर्ष: I. कुछ देवता मनुष्य हैं। II. कोई मनुष्य देवता नहीं है। कौन सा अनुसरण करता है?",
+      "opts": [
+        "Only I",
+        "Only II",
+        "Both I and II",
+        "Neither I nor II"
+      ],
+      "opts_hi": [
+        "केवल I",
+        "केवल II",
+        "I और II दोनों",
+        "न तो I और न ही II"
+      ],
+      "ans": 1,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Which letter is 4th to the right of the 8th letter from the left in the English alphabet?",
+      "q_hi": "अंग्रेजी वर्णमाला में बाएँ से 8वें अक्षर के दाएँ चौथा अक्षर कौन सा है?",
+      "opts": [
+        "J",
+        "K",
+        "L",
+        "M"
+      ],
+      "opts_hi": [
+        "J",
+        "K",
+        "L",
+        "M"
+      ],
+      "ans": 2,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "What will replace the question mark (?) in the following? 1, 5, 13, 29, 61, ?",
+      "q_hi": "निम्नलिखित में प्रश्न चिह्न (?) के स्थान पर क्या आएगा? 1, 5, 13, 29, 61, ?",
+      "opts": [
+        "121",
+        "125",
+        "129",
+        "133"
+      ],
+      "opts_hi": [
+        "121",
+        "125",
+        "129",
+        "133"
+      ],
+      "ans": 1,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Find the odd one out: 2, 6, 12, 20, 30, 42, 56, 72, 90, 110, 132, 156, 182, 210, 240, 272, 306, 342, 380, 420, 462, 506, 552, 600, 650, 702, 756, 812, 870, 930, 992, 1056, 1122, 1190, 1260, 1332, 1406, 1482, 1560, 1640, 1722, 1806, 1892, 1980, 2070, 2162, 2256, 2352, 2450, 2550, 2652, 2756, 2862, 2970, 3080, 3192, 3306, 3422, 3540, 3660, 3782, 3906, 4032, 4160, 4290, 4422, 4556, 4692, 4830, 4970, 5112, 5256, 5402, 5550, 5700, 5852, 6006, 6162, 6320, 6480, 6642, 6806, 6972, 7140, 7310, 7482, 7656, 7832, 8010, 8190, 8372, 8556, 8742, 8930, 9120, 9312, 9506, 9702, 9900, 10100",
+      "q_hi": "विषम ज्ञात करें: 2, 6, 12, 20, 30, 42, 56, 72, 90, 110, 132, 156, 182, 210, 240, 272, 306, 342, 380, 420, 462, 506, 552, 600, 650, 702, 756, 812, 870, 930, 992, 1056, 1122, 1190, 1260, 1332, 1406, 1482, 1560, 1640, 1722, 1806, 1892, 1980, 2070, 2162, 2256, 2352, 2450, 2550, 2652, 2756, 2862, 2970, 3080, 3192, 3306, 3422, 3540, 3660, 3782, 3906, 4032, 4160, 4290, 4422, 4556, 4692, 4830, 4970, 5112, 5256, 5402, 5550, 5700, 5852, 6006, 6162, 6320, 6480, 6642, 6806, 6972, 7140, 7310, 7482, 7656, 7832, 8010, 8190, 8372, 8556, 8742, 8930, 9120, 9312, 9506, 9702, 9900, 10100",
+      "opts": [
+        "2",
+        "9900",
+        "10100",
+        "None, all are n×(n+1)"
+      ],
+      "opts_hi": [
+        "2",
+        "9900",
+        "10100",
+        "कोई नहीं, सभी n×(n+1) हैं"
+      ],
+      "ans": 2,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Which is similar to \"Pen : Writer\"?",
+      "q_hi": "Pen : Writer के समान कौन सा है?",
+      "opts": [
+        "Book : Reader",
+        "Brush : Painter",
+        "Chisel : Sculptor",
+        "All of the above"
+      ],
+      "opts_hi": [
+        "पुस्तक : पाठक",
+        "ब्रश : चित्रकार",
+        "छेनी : मूर्तिकार",
+        "उपरोक्त सभी"
+      ],
+      "ans": 3,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Arrange the following in ascending order of time: 1. Year, 2. Month, 3. Week, 4. Day, 5. Hour",
+      "q_hi": "निम्नलिखित को समय के बढ़ते क्रम में व्यवस्थित करें: 1. वर्ष, 2. माह, 3. सप्ताह, 4. दिन, 5. घंटा",
+      "opts": [
+        "5, 4, 3, 2, 1",
+        "4, 5, 3, 2, 1",
+        "5, 3, 4, 2, 1",
+        "4, 3, 5, 2, 1"
+      ],
+      "opts_hi": [
+        "5, 4, 3, 2, 1",
+        "4, 5, 3, 2, 1",
+        "5, 3, 4, 2, 1",
+        "4, 3, 5, 2, 1"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Find the odd one out: 3, 7, 15, 31, 63, 127, 255, 511, 1023, 2047, 4095, 8191, 16383, 32767, 65535, 131071, 262143, 524287, 1048575, 2097151, 4194303, 8388607, 16777215, 33554431, 67108863, 134217727, 268435455, 536870911, 1073741823, 2147483647",
+      "q_hi": "विषम ज्ञात करें: 3, 7, 15, 31, 63, 127, 255, 511, 1023, 2047, 4095, 8191, 16383, 32767, 65535, 131071, 262143, 524287, 1048575, 2097151, 4194303, 8388607, 16777215, 33554431, 67108863, 134217727, 268435455, 536870911, 1073741823, 2147483647",
+      "opts": [
+        "3 (2²-1)",
+        "2147483647 (2³¹-1)",
+        "1073741823 (2³⁰-1)",
+        "None, all are 2ⁿ-1"
+      ],
+      "opts_hi": [
+        "3 (2²-1)",
+        "2147483647 (2³¹-1)",
+        "1073741823 (2³⁰-1)",
+        "कोई नहीं, सभी 2ⁿ-1 हैं"
+      ],
+      "ans": 3,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Four people P, Q, R, S work on different days of the week starting from Monday. P works before Q. R works after S. Who works on Wednesday?",
+      "q_hi": "चार लोग P, Q, R, S सोमवार से शुरू होने वाले सप्ताह के अलग-अलग दिनों में काम करते हैं। P, Q से पहले काम करता है। R, S के बाद काम करता है। बुधवार को कौन काम करता है?",
+      "opts": [
+        "P",
+        "Q",
+        "R",
+        "Cannot be determined"
+      ],
+      "opts_hi": [
+        "P",
+        "Q",
+        "R",
+        "निर्धारित नहीं किया जा सकता"
+      ],
+      "ans": 3,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "A person walks 15 km towards East, then turns left and walks 8 km, then turns left and walks 15 km. How far is he from the starting point?",
+      "q_hi": "एक व्यक्ति पूर्व की ओर 15 किमी चलता है, फिर बाएँ मुड़ता है और 8 किमी चलता है, फिर बाएँ मुड़ता है और 15 किमी चलता है। वह आरंभिक बिंदु से कितनी दूर है?",
+      "opts": [
+        "8 km",
+        "15 km",
+        "17 km",
+        "23 km"
+      ],
+      "opts_hi": [
+        "8 किमी",
+        "15 किमी",
+        "17 किमी",
+        "23 किमी"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Statement: \"Regular exercise is good for health.\" Conclusion: All healthy people exercise regularly.",
+      "q_hi": "कथन: \"नियमित व्यायाम स्वास्थ्य के लिए अच्छा है।\" निष्कर्ष: सभी स्वस्थ लोग नियमित व्यायाम करते हैं।",
+      "opts": [
+        "Conclusion follows",
+        "Conclusion does not follow",
+        "Conclusion is true only sometimes",
+        "Cannot be determined"
+      ],
+      "opts_hi": [
+        "निष्कर्ष अनुसरण करता है",
+        "निष्कर्ष अनुसरण नहीं करता",
+        "निष्कर्ष केवल कभी-कभी सत्य है",
+        "निर्धारित नहीं किया जा सकता"
+      ],
+      "ans": 1,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "What is the angle between the hour and minute hands of a clock at 5:30?",
+      "q_hi": "5:30 पर घड़ी की घंटे और मिनट की सुइयों के बीच का कोण क्या है?",
+      "opts": [
+        "15°",
+        "30°",
+        "45°",
+        "60°"
+      ],
+      "opts_hi": [
+        "15°",
+        "30°",
+        "45°",
+        "60°"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Which of the following is similar to \"ACE : DFH\"?",
+      "q_hi": "निम्नलिखित में से कौन सा \"ACE : DFH\" के समान है?",
+      "opts": [
+        "BDF : EGI",
+        "CEG : FHK",
+        "EGI : HJL",
+        "All of the above"
+      ],
+      "opts_hi": [
+        "BDF : EGI",
+        "CEG : FHK",
+        "EGI : HJL",
+        "उपरोक्त सभी"
+      ],
+      "ans": 3,
+      "subject": "Reasoning"
     }
   ]
 }
