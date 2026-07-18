@@ -1773,6 +1773,284 @@
           "subject": "Science"
         }
       ]
+    },
+    {
+      "id": "upsc_prelims_15",
+      "title": "UPSC Prelims Mock Test 15",
+      "duration": 18,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which of the following correctly describes the structure of DNA?",
+          "q_hi": "DNA की संरचना का सही वर्णन निम्नलिखित में से कौन सा करता है?",
+          "opts": [
+            "Single-stranded helix",
+            "Double-stranded helix with complementary base pairing",
+            "Triple-stranded helix",
+            "Linear structure without coiling"
+          ],
+          "opts_hi": [
+            "एकल-रज्जुक कुंडलित",
+            "दोहरी-रज्जुक कुंडलित जिसमें पूरक क्षार युग्मन होता है",
+            "त्रिक-रज्जुक कुंडलित",
+            "बिना कुंडलन के रैखिक संरचना"
+          ],
+          "ans": 1,
+          "subject": "Science"
+        },
+        {
+          "q": "Which of the following is NOT a characteristic of sound waves?",
+          "q_hi": "ध्वनि तरंगों की निम्नलिखित में से कौन सी विशेषता नहीं है?",
+          "opts": [
+            "They are mechanical waves",
+            "They can travel in vacuum",
+            "They require a medium to travel",
+            "They are longitudinal waves"
+          ],
+          "opts_hi": [
+            "वे यांत्रिक तरंगें हैं",
+            "वे निर्वात में यात्रा कर सकती हैं",
+            "उन्हें यात्रा करने के लिए माध्यम की आवश्यकता होती है",
+            "वे अनुदैर्ध्य तरंगें हैं"
+          ],
+          "ans": 1,
+          "subject": "Science"
+        },
+        {
+          "q": "Which of the following statements about Chandrayaan-3 is/are correct? 1. It successfully landed near the lunar south pole. 2. It carried a rover named Pragyan. 3. The lander was named Vikram.",
+          "q_hi": "चंद्रयान-3 के बारे में निम्नलिखित में से कौन सा/से कथन सही है/हैं? 1. इसने चंद्र के दक्षिणी ध्रुव के पास सफलतापूर्वक लैंडिंग की। 2. इसने प्रज्ञान नामक एक रोवर ले जाया। 3. लैंडर का नाम विक्रम था।",
+          "opts": [
+            "1 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "opts_hi": [
+            "केवल 1",
+            "केवल 1 और 2",
+            "केवल 2 और 3",
+            "1, 2 और 3"
+          ],
+          "ans": 3,
+          "subject": "Science"
+        },
+        {
+          "q": "Which of the following is a type of Artificial Intelligence that can perform any intellectual task that a human can?",
+          "q_hi": "कृत्रिम बुद्धिमत्ता का कौन सा प्रकार कोई भी बौद्धिक कार्य कर सकता है जो एक मानव कर सकता है?",
+          "opts": [
+            "ANI (Artificial Narrow Intelligence)",
+            "AGI (Artificial General Intelligence)",
+            "ASI (Artificial Superintelligence)",
+            "ML (Machine Learning)"
+          ],
+          "opts_hi": [
+            "ANI (कृत्रिम संकीर्ण बुद्धिमत्ता)",
+            "AGI (कृत्रिम सामान्य बुद्धिमत्ता)",
+            "ASI (कृत्रिम अति बुद्धिमत्ता)",
+            "ML (मशीन लर्निंग)"
+          ],
+          "ans": 1,
+          "subject": "Science"
+        },
+        {
+          "q": "The angle of incidence is equal to the angle of reflection in:",
+          "q_hi": "आपतन कोण, परावर्तन कोण के बराबर होता है:",
+          "opts": [
+            "Refraction",
+            "Reflection",
+            "Dispersion",
+            "Total Internal Reflection"
+          ],
+          "opts_hi": [
+            "अपवर्तन",
+            "परावर्तन",
+            "विक्षेपण",
+            "पूर्ण आंतरिक परावर्तन"
+          ],
+          "ans": 1,
+          "subject": "Science"
+        },
+        {
+          "q": "Aditya-L1 is India's first mission to study which of the following?",
+          "q_hi": "आदित्य-L1 भारत का निम्नलिखित में से किसका अध्ययन करने वाला पहला मिशन है?",
+          "opts": [
+            "The Moon",
+            "The Sun",
+            "Mars",
+            "Venus"
+          ],
+          "opts_hi": [
+            "चंद्रमा",
+            "सूर्य",
+            "मंगल",
+            "शुक्र"
+          ],
+          "ans": 1,
+          "subject": "Science"
+        },
+        {
+          "q": "Which of the following is a vector quantity?",
+          "q_hi": "निम्नलिखित में से कौन सी सदिश राशि है?",
+          "opts": [
+            "Speed",
+            "Distance",
+            "Velocity",
+            "Time"
+          ],
+          "opts_hi": [
+            "चाल",
+            "दूरी",
+            "वेग",
+            "समय"
+          ],
+          "ans": 2,
+          "subject": "Science"
+        },
+        {
+          "q": "Which blood cells are responsible for producing antibodies?",
+          "q_hi": "एंटीबॉडी का उत्पादन करने के लिए कौन सी रक्त कोशिकाएँ जिम्मेदार हैं?",
+          "opts": [
+            "Red Blood Cells",
+            "Platelets",
+            "White Blood Cells (B-Lymphocytes)",
+            "Plasma"
+          ],
+          "opts_hi": [
+            "लाल रक्त कोशिकाएँ",
+            "प्लेटलेट्स",
+            "श्वेत रक्त कोशिकाएँ (B-लिम्फोसाइट्स)",
+            "प्लाज्मा"
+          ],
+          "ans": 2,
+          "subject": "Science"
+        },
+        {
+          "q": "Which of the following is a noble gas?",
+          "q_hi": "निम्नलिखित में से कौन सी उत्कृष्ट गैस है?",
+          "opts": [
+            "Hydrogen",
+            "Oxygen",
+            "Nitrogen",
+            "Neon"
+          ],
+          "opts_hi": [
+            "हाइड्रोजन",
+            "ऑक्सीजन",
+            "नाइट्रोजन",
+            "नियॉन"
+          ],
+          "ans": 3,
+          "subject": "Science"
+        },
+        {
+          "q": "Which type of lens is used to correct hypermetropia (long-sightedness)?",
+          "q_hi": "हाइपरमेट्रोपिया (दूरदर्शिता) को ठीक करने के लिए किस प्रकार के लेंस का उपयोग किया जाता है?",
+          "opts": [
+            "Concave lens",
+            "Convex lens",
+            "Bifocal lens",
+            "Cylindrical lens"
+          ],
+          "opts_hi": [
+            "अवतल लेंस",
+            "उत्तल लेंस",
+            "द्विफोकल लेंस",
+            "बेलनाकार लेंस"
+          ],
+          "ans": 1,
+          "subject": "Science"
+        },
+        {
+          "q": "The genetic material in humans is:",
+          "q_hi": "मनुष्यों में आनुवंशिक पदार्थ है:",
+          "opts": [
+            "RNA",
+            "DNA",
+            "Protein",
+            "Carbohydrate"
+          ],
+          "opts_hi": [
+            "RNA",
+            "DNA",
+            "प्रोटीन",
+            "कार्बोहाइड्रेट"
+          ],
+          "ans": 1,
+          "subject": "Science"
+        },
+        {
+          "q": "Agni-5 is which type of missile?",
+          "q_hi": "अग्नि-5 किस प्रकार की मिसाइल है?",
+          "opts": [
+            "Short-range ballistic missile",
+            "Medium-range ballistic missile",
+            "Intercontinental ballistic missile (ICBM)",
+            "Cruise missile"
+          ],
+          "opts_hi": [
+            "कम दूरी की बैलिस्टिक मिसाइल",
+            "मध्यम दूरी की बैलिस्टिक मिसाइल",
+            "अंतरमहाद्वीपीय बैलिस्टिक मिसाइल (ICBM)",
+            "क्रूज मिसाइल"
+          ],
+          "ans": 2,
+          "subject": "Science"
+        },
+        {
+          "q": "The speed of light in a vacuum is approximately:",
+          "q_hi": "निर्वात में प्रकाश की गति लगभग है:",
+          "opts": [
+            "3 × 10⁵ km/s",
+            "3 × 10⁸ m/s",
+            "3 × 10⁶ km/s",
+            "3 × 10⁹ m/s"
+          ],
+          "opts_hi": [
+            "3 × 10⁵ किमी/सेकंड",
+            "3 × 10⁸ मी/सेकंड",
+            "3 × 10⁶ किमी/सेकंड",
+            "3 × 10⁹ मी/सेकंड"
+          ],
+          "ans": 1,
+          "subject": "Science"
+        },
+        {
+          "q": "The structural and functional unit of the nervous system is:",
+          "q_hi": "तंत्रिका तंत्र की संरचनात्मक और कार्यात्मक इकाई है:",
+          "opts": [
+            "Neuron",
+            "Nephron",
+            "Axon",
+            "Myelin sheath"
+          ],
+          "opts_hi": [
+            "न्यूरॉन",
+            "नेफ्रॉन",
+            "एक्सॉन",
+            "माइलिन आवरण"
+          ],
+          "ans": 0,
+          "subject": "Science"
+        },
+        {
+          "q": "Which of the following is India's second lunar mission?",
+          "q_hi": "निम्नलिखित में से कौन सा भारत का दूसरा चंद्र मिशन है?",
+          "opts": [
+            "Chandrayaan-1",
+            "Chandrayaan-2",
+            "Chandrayaan-3",
+            "Mangalyaan"
+          ],
+          "opts_hi": [
+            "चंद्रयान-1",
+            "चंद्रयान-2",
+            "चंद्रयान-3",
+            "मंगलयान"
+          ],
+          "ans": 1,
+          "subject": "Science"
+        }
+      ]
     }
   ]
 }
