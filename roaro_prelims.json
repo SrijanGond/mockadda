@@ -4202,6 +4202,32 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "roaro_prelims_16",
+      "title": "RO/ARO Prelims Mock Test 16",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which of the following is similar to 9 : 81?",
+          "q_hi": "निम्नलिखित में से कौन सा 9 : 81 के समान है?",
+          "opts": [
+            "7 : 49",
+            "5 : 25",
+            "6 : 36",
+            "All of the above"
+          ],
+          "opts_hi": [
+            "7 : 49",
+            "5 : 25",
+            "6 : 36",
+            "उपरोक्त सभी"
+          ],
+          "ans": 3,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
