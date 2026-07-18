@@ -426,6 +426,32 @@
           "subject": "Science"
         }
       ]
+    },
+    {
+      "id": "kvs_9",
+      "title": "KVS Mock Test 9",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "The strength of an electromagnet can be increased by:",
+          "q_hi": "एक विद्युत चुंबक की ताकत को बढ़ाया जा सकता है:",
+          "opts": [
+            "Increasing the number of turns in the coil",
+            "Decreasing the current",
+            "Removing the iron core",
+            "Using copper wire instead of iron wire"
+          ],
+          "opts_hi": [
+            "कुंडली में फेरों की संख्या बढ़ाकर",
+            "धारा कम करके",
+            "लोहे के कोर को हटाकर",
+            "लोहे के तार के बजाय तांबे के तार का उपयोग करके"
+          ],
+          "ans": 0,
+          "subject": "Science"
+        }
+      ]
     }
   ]
 }
