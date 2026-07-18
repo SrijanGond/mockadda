@@ -4228,6 +4228,68 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "roaro_prelims_17",
+      "title": "RO/ARO Prelims Mock Test 17",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "A person starts from point A, walks 10 km North, then turns right and walks 10 km, then turns left and walks 10 km, then turns right and walks 10 km, then turns left and walks 10 km. In which direction is he now from the starting point?",
+          "q_hi": "एक व्यक्ति बिंदु A से शुरू करता है, 10 किमी उत्तर चलता है, फिर दाएँ मुड़ता है और 10 किमी चलता है, फिर बाएँ मुड़ता है और 10 किमी चलता है, फिर दाएँ मुड़ता है और 10 किमी चलता है, फिर बाएँ मुड़ता है और 10 किमी चलता है। वह अब आरंभिक बिंदु से किस दिशा में है?",
+          "opts": [
+            "North-East",
+            "North-West",
+            "South-East",
+            "South-West"
+          ],
+          "opts_hi": [
+            "उत्तर-पूर्व",
+            "उत्तर-पश्चिम",
+            "दक्षिण-पूर्व",
+            "दक्षिण-पश्चिम"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "Which letter is 4th to the right of the 8th letter from the left in the English alphabet?",
+          "q_hi": "अंग्रेजी वर्णमाला में बाएँ से 8वें अक्षर के दाएँ चौथा अक्षर कौन सा है?",
+          "opts": [
+            "J",
+            "K",
+            "L",
+            "M"
+          ],
+          "opts_hi": [
+            "J",
+            "K",
+            "L",
+            "M"
+          ],
+          "ans": 2,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "Which of the following is similar to \"ACE : DFH\"?",
+          "q_hi": "निम्नलिखित में से कौन सा \"ACE : DFH\" के समान है?",
+          "opts": [
+            "BDF : EGI",
+            "CEG : FHK",
+            "EGI : HJL",
+            "All of the above"
+          ],
+          "opts_hi": [
+            "BDF : EGI",
+            "CEG : FHK",
+            "EGI : HJL",
+            "उपरोक्त सभी"
+          ],
+          "ans": 3,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
