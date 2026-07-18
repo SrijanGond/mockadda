@@ -1,0 +1,508 @@
+{
+  "questions": [
+    {
+      "q": "What will come in place of question mark (?) in the following series? 2, 6, 12, 20, 30, ?",
+      "q_hi": "निम्नलिखित श्रृंखला में प्रश्न चिह्न (?) के स्थान पर क्या आएगा? 2, 6, 12, 20, 30, ?",
+      "opts": [
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "opts_hi": [
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "ans": 1,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Select the option that is related to the third term in the same way as the second term is related to the first term. BOOK : READ :: MOVIE : ?",
+      "q_hi": "उस विकल्प का चयन करें जो तीसरे पद से उसी प्रकार संबंधित है जैसे दूसरा पद पहले पद से संबंधित है। BOOK : READ :: MOVIE : ?",
+      "opts": [
+        "Watch",
+        "Listen",
+        "Play",
+        "Write"
+      ],
+      "opts_hi": [
+        "देखना",
+        "सुनना",
+        "खेलना",
+        "लिखना"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Pointing to a photograph, a man said, \"I have no brother or sister, but that man's father is my father's son.\" Whose photograph was it?",
+      "q_hi": "एक फोटोग्राफ की ओर इशारा करते हुए, एक व्यक्ति ने कहा, \"मेरा कोई भाई या बहन नहीं है, लेकिन उस व्यक्ति के पिता मेरे पिता के पुत्र हैं।\" वह किसकी फोटोग्राफ थी?",
+      "opts": [
+        "His own",
+        "His father",
+        "His son",
+        "His brother"
+      ],
+      "opts_hi": [
+        "उसकी अपनी",
+        "उसके पिता",
+        "उसके पुत्र",
+        "उसके भाई"
+      ],
+      "ans": 2,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Find the odd one out: 25, 36, 49, 64, 81, 100, 120",
+      "q_hi": "विषम ज्ञात करें: 25, 36, 49, 64, 81, 100, 120",
+      "opts": [
+        "25",
+        "120",
+        "81",
+        "100"
+      ],
+      "opts_hi": [
+        "25",
+        "120",
+        "81",
+        "100"
+      ],
+      "ans": 1,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "A person walks 10 km towards north. He turns right and walks 15 km. Then turns right and walks 10 km. Then turns left and walks 5 km. In which direction is he now from the starting point?",
+      "q_hi": "एक व्यक्ति उत्तर की ओर 10 किमी चलता है। वह दाएँ मुड़ता है और 15 किमी चलता है। फिर दाएँ मुड़ता है और 10 किमी चलता है। फिर बाएँ मुड़ता है और 5 किमी चलता है। वह अब आरंभिक बिंदु से किस दिशा में है?",
+      "opts": [
+        "North",
+        "South",
+        "East",
+        "West"
+      ],
+      "opts_hi": [
+        "उत्तर",
+        "दक्षिण",
+        "पूर्व",
+        "पश्चिम"
+      ],
+      "ans": 2,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Which of the following expressions is true if A > B ≥ C = D < E ≤ F?",
+      "q_hi": "यदि A > B ≥ C = D < E ≤ F है, तो निम्नलिखित में से कौन सा व्यंजक सत्य है?",
+      "opts": [
+        "F = C",
+        "A > D",
+        "B < D",
+        "E > F"
+      ],
+      "opts_hi": [
+        "F = C",
+        "A > D",
+        "B < D",
+        "E > F"
+      ],
+      "ans": 1,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "What will come in place of question mark (?) in the following series? A, E, I, M, Q, ?",
+      "q_hi": "निम्नलिखित श्रृंखला में प्रश्न चिह्न (?) के स्थान पर क्या आएगा? A, E, I, M, Q, ?",
+      "opts": [
+        "S",
+        "T",
+        "U",
+        "V"
+      ],
+      "opts_hi": [
+        "S",
+        "T",
+        "U",
+        "V"
+      ],
+      "ans": 2,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "In a certain code, \"MOBILE\" is written as \"QSMFPI\" and \"LAPTOP\" is written as \"PETSSD\". How is \"TABLET\" written in that code?",
+      "q_hi": "एक निश्चित कूट में, \"MOBILE\" को \"QSMFPI\" लिखा जाता है और \"LAPTOP\" को \"PETSSD\" लिखा जाता है। उस कूट में \"TABLET\" कैसे लिखा जाएगा?",
+      "opts": [
+        "XEFPIX",
+        "XFFPIX",
+        "XEFPJX",
+        "XFFPJX"
+      ],
+      "opts_hi": [
+        "XEFPIX",
+        "XFFPIX",
+        "XEFPJX",
+        "XFFPJX"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Six people A, B, C, D, E, and F are sitting in a row facing north. A sits third to the right of B. C sits between A and D. E sits at the extreme left end. Who sits second to the left of C?",
+      "q_hi": "छह व्यक्ति A, B, C, D, E और F एक पंक्ति में उत्तर की ओर मुख करके बैठे हैं। A, B के दाएँ तीसरे स्थान पर बैठा है। C, A और D के बीच में बैठा है। E अत्यंत बाएँ छोर पर बैठा है। C के बाएँ दूसरे स्थान पर कौन बैठा है?",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "opts_hi": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "ans": 1,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Statement: \"If you want to succeed in life, you must work hard.\" Which of the following is an underlying assumption?",
+      "q_hi": "कथन: \"यदि आप जीवन में सफल होना चाहते हैं, तो आपको कड़ी मेहनत करनी चाहिए।\" निम्नलिखित में से कौन सी एक अंतर्निहित धारणा है?",
+      "opts": [
+        "Hard work alone guarantees success",
+        "Success is not possible without hard work",
+        "Only successful people work hard",
+        "Hard work is easy"
+      ],
+      "opts_hi": [
+        "केवल कड़ी मेहनत ही सफलता की गारंटी देती है",
+        "सफलता कड़ी मेहनत के बिना संभव नहीं है",
+        "केवल सफल लोग ही कड़ी मेहनत करते हैं",
+        "कड़ी मेहनत आसान है"
+      ],
+      "ans": 1,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Which figure will complete the series if the pattern follows: Square, Triangle, Circle, Square, Triangle, ?",
+      "q_hi": "यदि पैटर्न इस प्रकार है: वर्ग, त्रिभुज, वृत्त, वर्ग, त्रिभुज, ? तो श्रृंखला को कौन सी आकृति पूरी करेगी?",
+      "opts": [
+        "Square",
+        "Triangle",
+        "Circle",
+        "Pentagon"
+      ],
+      "opts_hi": [
+        "वर्ग",
+        "त्रिभुज",
+        "वृत्त",
+        "पंचभुज"
+      ],
+      "ans": 2,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Which letter is 3rd to the right of the 10th letter from the left in the English alphabet?",
+      "q_hi": "अंग्रेजी वर्णमाला में बाएँ से 10वें अक्षर के दाएँ तीसरा अक्षर कौन सा है?",
+      "opts": [
+        "L",
+        "M",
+        "N",
+        "O"
+      ],
+      "opts_hi": [
+        "L",
+        "M",
+        "N",
+        "O"
+      ],
+      "ans": 1,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Statements: All pens are pencils. Some pencils are erasers. No eraser is a sharpener. Conclusions: I. Some pens are sharpeners. II. Some pencils are not sharpeners. Which conclusion follows?",
+      "q_hi": "कथन: सभी पेन पेंसिल हैं। कुछ पेंसिल इरेज़र हैं। कोई इरेज़र शार्पनर नहीं है। निष्कर्ष: I. कुछ पेन शार्पनर हैं। II. कुछ पेंसिल शार्पनर नहीं हैं। कौन सा निष्कर्ष अनुसरण करता है?",
+      "opts": [
+        "Only I",
+        "Only II",
+        "Both I and II",
+        "Neither I nor II"
+      ],
+      "opts_hi": [
+        "केवल I",
+        "केवल II",
+        "I और II दोनों",
+        "न तो I और न ही II"
+      ],
+      "ans": 1,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Which number will replace the question mark (?) in the series? 2, 7, 17, 37, 77, ?",
+      "q_hi": "श्रृंखला में प्रश्न चिह्न (?) के स्थान पर कौन सी संख्या आएगी? 2, 7, 17, 37, 77, ?",
+      "opts": [
+        "147",
+        "157",
+        "137",
+        "127"
+      ],
+      "opts_hi": [
+        "147",
+        "157",
+        "137",
+        "127"
+      ],
+      "ans": 1,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "A is older than B but younger than C. D is older than C but younger than E. Who is the youngest?",
+      "q_hi": "A, B से बड़ा है लेकिन C से छोटा है। D, C से बड़ा है लेकिन E से छोटा है। सबसे छोटा कौन है?",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "opts_hi": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "ans": 1,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Statement: \"All teenagers who play video games are not necessarily lazy.\" Conclusion: Some teenagers who play video games are lazy. Which of the following is true?",
+      "q_hi": "कथन: \"वीडियो गेम खेलने वाले सभी किशोर आवश्यक रूप से आलसी नहीं होते हैं।\" निष्कर्ष: वीडियो गेम खेलने वाले कुछ किशोर आलसी होते हैं। निम्नलिखित में से कौन सा सत्य है?",
+      "opts": [
+        "Conclusion follows",
+        "Conclusion does not follow",
+        "Statement is true only sometimes",
+        "Cannot be determined"
+      ],
+      "opts_hi": [
+        "निष्कर्ष अनुसरण करता है",
+        "निष्कर्ष अनुसरण नहीं करता",
+        "कथन केवल कभी-कभी सत्य है",
+        "निर्धारित नहीं किया जा सकता"
+      ],
+      "ans": 1,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Find the odd word among the following:",
+      "q_hi": "निम्नलिखित में से विषम शब्द ज्ञात करें:",
+      "opts": [
+        "Apple",
+        "Mango",
+        "Orange",
+        "Potato"
+      ],
+      "opts_hi": [
+        "सेब",
+        "आम",
+        "संतरा",
+        "आलू"
+      ],
+      "ans": 3,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Find the missing number in the series: 3, 9, 27, 81, ?",
+      "q_hi": "श्रृंखला में लुप्त संख्या ज्ञात करें: 3, 9, 27, 81, ?",
+      "opts": [
+        "162",
+        "243",
+        "216",
+        "189"
+      ],
+      "opts_hi": [
+        "162",
+        "243",
+        "216",
+        "189"
+      ],
+      "ans": 1,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "What will come in place of question mark (?) in the following series? 2A5, 4C10, 6E15, 8G20, ?",
+      "q_hi": "निम्नलिखित श्रृंखला में प्रश्न चिह्न (?) के स्थान पर क्या आएगा? 2A5, 4C10, 6E15, 8G20, ?",
+      "opts": [
+        "10I25",
+        "10J25",
+        "10I30",
+        "10J30"
+      ],
+      "opts_hi": [
+        "10I25",
+        "10J25",
+        "10I30",
+        "10J30"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Which of the following is similar to the given analogy? 8 : 512 :: 12 : ?",
+      "q_hi": "निम्नलिखित में से कौन सा दिए गए सादृश्य के समान है? 8 : 512 :: 12 : ?",
+      "opts": [
+        "144",
+        "1728",
+        "1228",
+        "1200"
+      ],
+      "opts_hi": [
+        "144",
+        "1728",
+        "1228",
+        "1200"
+      ],
+      "ans": 1,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Arrange the following words in a logical sequence: 1. Study, 2. Exam, 3. Result, 4. Admission, 5. Graduation",
+      "q_hi": "निम्नलिखित शब्दों को तार्किक क्रम में व्यवस्थित करें: 1. अध्ययन, 2. परीक्षा, 3. परिणाम, 4. प्रवेश, 5. स्नातक",
+      "opts": [
+        "1, 2, 3, 4, 5",
+        "4, 1, 2, 3, 5",
+        "1, 4, 2, 3, 5",
+        "4, 2, 1, 3, 5"
+      ],
+      "opts_hi": [
+        "1, 2, 3, 4, 5",
+        "4, 1, 2, 3, 5",
+        "1, 4, 2, 3, 5",
+        "4, 2, 1, 3, 5"
+      ],
+      "ans": 1,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Which of the following correctly represents the relationship: Girls, Women, Humans?",
+      "q_hi": "निम्नलिखित में से कौन सा संबंध को सही दर्शाता है: लड़कियाँ, महिलाएँ, मानव?",
+      "opts": [
+        "A circle inside a circle inside a third circle",
+        "Two separate circles intersecting",
+        "Three separate circles",
+        "Two circles inside a third"
+      ],
+      "opts_hi": [
+        "एक वृत्त दूसरे वृत्त के अंदर और तीसरे वृत्त के अंदर",
+        "दो अलग-अलग वृत्त प्रतिच्छेद करते हुए",
+        "तीन अलग-अलग वृत्त",
+        "दो वृत्त तीसरे के अंदर"
+      ],
+      "ans": 3,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "If P > Q ≥ R = S < T, which of the following is definitely true?",
+      "q_hi": "यदि P > Q ≥ R = S < T है, तो निम्नलिखित में से कौन सा निश्चित रूप से सत्य है?",
+      "opts": [
+        "P > S",
+        "Q = T",
+        "R > T",
+        "S > P"
+      ],
+      "opts_hi": [
+        "P > S",
+        "Q = T",
+        "R > T",
+        "S > P"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Which of the following is the mirror image of the word \"CLOCK\"?",
+      "q_hi": "CLOCK शब्द का दर्पण प्रतिबिंब निम्नलिखित में से कौन सा है?",
+      "opts": [
+        "KCOLC",
+        "KCOLG",
+        "KLOCG",
+        "KCOLC"
+      ],
+      "opts_hi": [
+        "KCOLC",
+        "KCOLG",
+        "KLOCG",
+        "KCOLC"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "What is the angle between the hour and minute hands of a clock at 3:15?",
+      "q_hi": "3:15 पर घड़ी की घंटे और मिनट की सुइयों के बीच का कोण क्या है?",
+      "opts": [
+        "0°",
+        "7.5°",
+        "15°",
+        "22.5°"
+      ],
+      "opts_hi": [
+        "0°",
+        "7.5°",
+        "15°",
+        "22.5°"
+      ],
+      "ans": 1,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Six people live on six different floors of a building. A lives above B but below C. D lives above E but below F. Who lives on the top floor?",
+      "q_hi": "छह लोग एक इमारत की छह अलग-अलग मंजिलों पर रहते हैं। A, B के ऊपर लेकिन C के नीचे रहता है। D, E के ऊपर लेकिन F के नीचे रहता है। सबसे ऊपर की मंजिल पर कौन रहता है?",
+      "opts": [
+        "A",
+        "C",
+        "F",
+        "Cannot be determined"
+      ],
+      "opts_hi": [
+        "A",
+        "C",
+        "F",
+        "निर्धारित नहीं किया जा सकता"
+      ],
+      "ans": 3,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Statement: \"The school has decided to make uniforms compulsory for all students.\" Which of the following is the most likely reason?",
+      "q_hi": "कथन: \"स्कूल ने सभी छात्रों के लिए वर्दी अनिवार्य करने का निर्णय लिया है।\" निम्नलिखित में से कौन सा सबसे संभावित कारण है?",
+      "opts": [
+        "To promote equality among students",
+        "To make students look similar",
+        "To increase school fees",
+        "To reduce teachers' workload"
+      ],
+      "opts_hi": [
+        "छात्रों में समानता को बढ़ावा देने के लिए",
+        "छात्रों को समान दिखाने के लिए",
+        "स्कूल शुल्क बढ़ाने के लिए",
+        "शिक्षकों का कार्यभार कम करने के लिए"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Find the odd one out: 121, 144, 169, 196, 225, 256, 289, 324, 361, 400, 441, 484, 529, 576, 625, 676, 729, 784, 841, 920",
+      "q_hi": "विषम ज्ञात करें: 121, 144, 169, 196, 225, 256, 289, 324, 361, 400, 441, 484, 529, 576, 625, 676, 729, 784, 841, 920",
+      "opts": [
+        "920",
+        "841",
+        "729",
+        "484"
+      ],
+      "opts_hi": [
+        "920",
+        "841",
+        "729",
+        "484"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    }
+  ]
+}
