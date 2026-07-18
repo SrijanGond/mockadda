@@ -764,6 +764,68 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "rrb_ntpc_14",
+      "title": "RRB NTPC Mock Test 14",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What comes next in the series? B, E, H, K, N, ?",
+          "q_hi": "श्रृंखला में आगे क्या आएगा? B, E, H, K, N, ?",
+          "opts": [
+            "P",
+            "Q",
+            "R",
+            "S"
+          ],
+          "opts_hi": [
+            "P",
+            "Q",
+            "R",
+            "S"
+          ],
+          "ans": 1,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "Which of the following is similar to 6 : 216?",
+          "q_hi": "निम्नलिखित में से कौन सा 6 : 216 के समान है?",
+          "opts": [
+            "7 : 343",
+            "8 : 512",
+            "9 : 729",
+            "All of the above"
+          ],
+          "opts_hi": [
+            "7 : 343",
+            "8 : 512",
+            "9 : 729",
+            "उपरोक्त सभी"
+          ],
+          "ans": 3,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "Which figure will come next in the series: Triangle, Square, Pentagon, Hexagon, ?",
+          "q_hi": "श्रृंखला में आगे कौन सी आकृति आएगी: त्रिभुज, वर्ग, पंचभुज, षट्भुज, ?",
+          "opts": [
+            "Heptagon",
+            "Octagon",
+            "Nonagon",
+            "Decagon"
+          ],
+          "opts_hi": [
+            "सप्तभुज",
+            "अष्टभुज",
+            "नवभुज",
+            "दशभुज"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
