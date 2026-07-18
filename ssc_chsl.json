@@ -859,6 +859,68 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "ssc_chsl_15",
+      "title": "SSC CHSL Mock Test 15",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What will come in place of question mark (?) in the following series? 5, 12, 21, 32, 45, ?",
+          "q_hi": "निम्नलिखित श्रृंखला में प्रश्न चिह्न (?) के स्थान पर क्या आएगा? 5, 12, 21, 32, 45, ?",
+          "opts": [
+            "58",
+            "60",
+            "62",
+            "64"
+          ],
+          "opts_hi": [
+            "58",
+            "60",
+            "62",
+            "64"
+          ],
+          "ans": 1,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "Which of the following correctly represents the relationship: Men, Fathers, Doctors?",
+          "q_hi": "निम्नलिखित में से कौन सा संबंध को सही दर्शाता है: पुरुष, पिता, डॉक्टर?",
+          "opts": [
+            "Two separate circles intersecting",
+            "Three separate circles",
+            "Two circles inside a third with overlap",
+            "Three circles overlapping"
+          ],
+          "opts_hi": [
+            "दो अलग-अलग वृत्त प्रतिच्छेद करते हुए",
+            "तीन अलग-अलग वृत्त",
+            "दो वृत्त तीसरे के अंदर जो प्रतिच्छेद करते हैं",
+            "तीन वृत्त प्रतिच्छेद करते हुए"
+          ],
+          "ans": 3,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "A person starts from point A, walks 20 m East, then 15 m North, then 10 m West, then 5 m South. How far is he from point A?",
+          "q_hi": "एक व्यक्ति बिंदु A से शुरू करता है, 20 मीटर पूर्व, फिर 15 मीटर उत्तर, फिर 10 मीटर पश्चिम, फिर 5 मीटर दक्षिण चलता है। वह बिंदु A से कितनी दूर है?",
+          "opts": [
+            "10 m",
+            "15 m",
+            "20 m",
+            "25 m"
+          ],
+          "opts_hi": [
+            "10 मीटर",
+            "15 मीटर",
+            "20 मीटर",
+            "25 मीटर"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
