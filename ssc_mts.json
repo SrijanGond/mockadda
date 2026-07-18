@@ -543,6 +543,50 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "ssc_mts_13",
+      "title": "SSC MTS Mock Test 13",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Find the odd one out: 3, 8, 15, 24, 35, 48, 63, 80, 99, 120, 143, 169",
+          "q_hi": "विषम ज्ञात करें: 3, 8, 15, 24, 35, 48, 63, 80, 99, 120, 143, 169",
+          "opts": [
+            "120",
+            "143",
+            "169",
+            "99"
+          ],
+          "opts_hi": [
+            "120",
+            "143",
+            "169",
+            "99"
+          ],
+          "ans": 2,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "Which is similar to \"School : Student\"?",
+          "q_hi": "School : Student के समान कौन सा है?",
+          "opts": [
+            "Hospital : Patient",
+            "Bank : Money",
+            "College : Degree",
+            "Office : Boss"
+          ],
+          "opts_hi": [
+            "अस्पताल : रोगी",
+            "बैंक : पैसा",
+            "कॉलेज : डिग्री",
+            "कार्यालय : मालिक"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
