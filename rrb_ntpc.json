@@ -454,6 +454,86 @@
           "ans": 1
         }
       ]
+    },
+    {
+      "id": "rrb_ntpc_9",
+      "title": "RRB NTPC Mock Test 9",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "If A can finish a work in 10 days and B can finish it in 15 days, how many days will they take to finish the work together?",
+          "q_hi": "यदि A किसी कार्य को 10 दिनों में और B 15 दिनों में कर सकता है, तो वे दोनों मिलकर कार्य को कितने दिनों में पूरा करेंगे?",
+          "opts": [
+            "5 days",
+            "6 days",
+            "7 days",
+            "8 days"
+          ],
+          "opts_hi": [
+            "5 दिन",
+            "6 दिन",
+            "7 दिन",
+            "8 दिन"
+          ],
+          "ans": 1,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "A train 200 m long passes a pole in 10 seconds. What is the speed of the train in km/h?",
+          "q_hi": "200 मीटर लंबी एक ट्रेन एक खंभे को 10 सेकंड में पार करती है। ट्रेन की गति किमी/घंटा में क्या है?",
+          "opts": [
+            "60 km/h",
+            "72 km/h",
+            "80 km/h",
+            "90 km/h"
+          ],
+          "opts_hi": [
+            "60 किमी/घंटा",
+            "72 किमी/घंटा",
+            "80 किमी/घंटा",
+            "90 किमी/घंटा"
+          ],
+          "ans": 1,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "The area of a circle is 154 cm². What is its radius? (Take π = 22/7)",
+          "q_hi": "एक वृत्त का क्षेत्रफल 154 सेमी² है। इसकी त्रिज्या क्या है? (π = 22/7 लें)",
+          "opts": [
+            "5 cm",
+            "6 cm",
+            "7 cm",
+            "8 cm"
+          ],
+          "opts_hi": [
+            "5 सेमी",
+            "6 सेमी",
+            "7 सेमी",
+            "8 सेमी"
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "A sum of money doubles itself in 8 years at simple interest. What is the rate of interest?",
+          "q_hi": "कोई राशि साधारण ब्याज पर 8 वर्षों में दोगुनी हो जाती है। ब्याज की दर क्या है?",
+          "opts": [
+            "0.1",
+            "0.125",
+            "0.15",
+            "0.16"
+          ],
+          "opts_hi": [
+            "0.1",
+            "0.125",
+            "0.15",
+            "0.16"
+          ],
+          "ans": 1,
+          "subject": "Mathematics"
+        }
+      ]
     }
   ]
 }
