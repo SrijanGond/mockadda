@@ -628,6 +628,50 @@
           "subject": "Science"
         }
       ]
+    },
+    {
+      "id": "sbi_po_13",
+      "title": "SBI PO Mock Test 13",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which of the following is the process of conversion of solid directly into gas?",
+          "q_hi": "ठोस का सीधे गैस में रूपांतरण की प्रक्रिया निम्नलिखित में से कौन सी है?",
+          "opts": [
+            "Condensation",
+            "Sublimation",
+            "Evaporation",
+            "Fusion"
+          ],
+          "opts_hi": [
+            "संघनन",
+            "उर्ध्वपातन",
+            "वाष्पीकरण",
+            "संलयन"
+          ],
+          "ans": 1,
+          "subject": "Science"
+        },
+        {
+          "q": "Which of the following is the SI unit of temperature?",
+          "q_hi": "तापमान की SI इकाई निम्नलिखित में से कौन सी है?",
+          "opts": [
+            "Celsius",
+            "Fahrenheit",
+            "Kelvin",
+            "Rankine"
+          ],
+          "opts_hi": [
+            "सेल्सियस",
+            "फारेनहाइट",
+            "केल्विन",
+            "रैंकिन"
+          ],
+          "ans": 2,
+          "subject": "Science"
+        }
+      ]
     }
   ]
 }
