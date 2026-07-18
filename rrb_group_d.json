@@ -398,6 +398,68 @@
           "subject": "Mathematics"
         }
       ]
+    },
+    {
+      "id": "rrb_group_d_8",
+      "title": "RRB Group D Mock Test 8",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Find the simple interest on Rs.5000 at 6% per annum for 2 years.",
+          "q_hi": "Rs.5000 पर 6% वार्षिक दर से 2 वर्षों का साधारण ब्याज ज्ञात करें।",
+          "opts": [
+            "Rs. 400",
+            "Rs. 500",
+            "Rs. 600",
+            "Rs. 700"
+          ],
+          "opts_hi": [
+            "Rs. 400",
+            "Rs. 500",
+            "Rs. 600",
+            "Rs. 700"
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "A car travels 240 km in 4 hours. What is its speed in m/s?",
+          "q_hi": "एक कार 240 किमी 4 घंटे में तय करती है। इसकी गति मी/से में क्या है?",
+          "opts": [
+            "12.5 m/s",
+            "13.5 m/s",
+            "14.5 m/s",
+            "16.67 m/s"
+          ],
+          "opts_hi": [
+            "12.5 मी/से",
+            "13.5 मी/से",
+            "14.5 मी/से",
+            "16.67 मी/से"
+          ],
+          "ans": 3,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "The volume of a cube is 216 cm³. Find the length of its edge.",
+          "q_hi": "एक घन का आयतन 216 सेमी³ है। इसके किनारे की लंबाई ज्ञात करें।",
+          "opts": [
+            "4 cm",
+            "5 cm",
+            "6 cm",
+            "7 cm"
+          ],
+          "opts_hi": [
+            "4 सेमी",
+            "5 सेमी",
+            "6 सेमी",
+            "7 सेमी"
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        }
+      ]
     }
   ]
 }
