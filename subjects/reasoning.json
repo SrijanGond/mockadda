@@ -2069,6 +2069,546 @@
       ],
       "ans": 3,
       "subject": "Reasoning"
+    },
+    {
+      "q": "What will come in place of question mark (?) in the following series? 4, 11, 23, 40, 62, ?",
+      "q_hi": "निम्नलिखित श्रृंखला में प्रश्न चिह्न (?) के स्थान पर क्या आएगा? 4, 11, 23, 40, 62, ?",
+      "opts": [
+        "89",
+        "90",
+        "91",
+        "92"
+      ],
+      "opts_hi": [
+        "89",
+        "90",
+        "91",
+        "92"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "If \"INDIA\" is coded as \"KPFKC\" and \"CHINA\" is coded as \"EJKPC\", then \"BHARAT\" is coded as:",
+      "q_hi": "यदि \"INDIA\" को \"KPFKC\" के रूप में कोडित किया जाता है और \"CHINA\" को \"EJKPC\" के रूप में कोडित किया जाता है, तो \"BHARAT\" को किस रूप में कोडित किया जाएगा?",
+      "opts": [
+        "DJCTCV",
+        "DJCTCV",
+        "DJCTDV",
+        "DJCTV"
+      ],
+      "opts_hi": [
+        "DJCTCV",
+        "DJCTCV",
+        "DJCTDV",
+        "DJCTV"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Which of the following is similar to \"Chair : Furniture\"?",
+      "q_hi": "निम्नलिखित में से कौन सा \"Chair : Furniture\" के समान है?",
+      "opts": [
+        "Book : Page",
+        "Table : Wood",
+        "Rose : Flower",
+        "Car : Road"
+      ],
+      "opts_hi": [
+        "पुस्तक : पृष्ठ",
+        "मेज : लकड़ी",
+        "गुलाब : फूल",
+        "कार : सड़क"
+      ],
+      "ans": 2,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "A person walks 12 km towards East, then turns right and walks 5 km, then turns right and walks 12 km, then turns left and walks 10 km. In which direction is he now from the starting point?",
+      "q_hi": "एक व्यक्ति पूर्व की ओर 12 किमी चलता है, फिर दाएँ मुड़ता है और 5 किमी चलता है, फिर दाएँ मुड़ता है और 12 किमी चलता है, फिर बाएँ मुड़ता है और 10 किमी चलता है। वह अब आरंभिक बिंदु से किस दिशा में है?",
+      "opts": [
+        "North",
+        "South",
+        "East",
+        "West"
+      ],
+      "opts_hi": [
+        "उत्तर",
+        "दक्षिण",
+        "पूर्व",
+        "पश्चिम"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Pointing to a lady, a man said, \"She is the daughter of the only son of my father's sister.\" How is the lady related to the man?",
+      "q_hi": "एक महिला की ओर इशारा करते हुए, एक व्यक्ति ने कहा, \"वह मेरे पिता की बहन के इकलौते पुत्र की पुत्री है।\" वह महिला उस व्यक्ति से किस प्रकार संबंधित है?",
+      "opts": [
+        "Cousin sister",
+        "Niece",
+        "Sister",
+        "Aunt"
+      ],
+      "opts_hi": [
+        "चचेरी/ममेरी बहन",
+        "भतीजी",
+        "बहन",
+        "चाची/मामी"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Find the odd one out: 31, 37, 41, 43, 47, 49, 53, 59",
+      "q_hi": "विषम ज्ञात करें: 31, 37, 41, 43, 47, 49, 53, 59",
+      "opts": [
+        "31",
+        "49",
+        "53",
+        "59"
+      ],
+      "opts_hi": [
+        "31",
+        "49",
+        "53",
+        "59"
+      ],
+      "ans": 1,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Statement: \"Reading books improves knowledge.\" Inference: People who read books are more knowledgeable than those who don't.",
+      "q_hi": "कथन: \"पुस्तकें पढ़ने से ज्ञान में सुधार होता है।\" निष्कर्ष: पुस्तकें पढ़ने वाले लोग न पढ़ने वालों की तुलना में अधिक जानकार होते हैं।",
+      "opts": [
+        "Inference is valid",
+        "Inference is not valid",
+        "Inference is true only sometimes",
+        "Cannot be determined"
+      ],
+      "opts_hi": [
+        "निष्कर्ष मान्य है",
+        "निष्कर्ष मान्य नहीं है",
+        "निष्कर्ष केवल कभी-कभी सत्य है",
+        "निर्धारित नहीं किया जा सकता"
+      ],
+      "ans": 1,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Eight people A, B, C, D, E, F, G, H are sitting in a row facing north. A sits third to the right of B. C sits between A and D. E sits second to the left of F. Who sits at the extreme right end?",
+      "q_hi": "आठ लोग A, B, C, D, E, F, G, H एक पंक्ति में उत्तर की ओर मुख करके बैठे हैं। A, B के दाएँ तीसरे स्थान पर बैठा है। C, A और D के बीच में बैठा है। E, F के बाएँ दूसरे स्थान पर बैठा है। अत्यंत दाएँ छोर पर कौन बैठा है?",
+      "opts": [
+        "H",
+        "G",
+        "D",
+        "Cannot be determined"
+      ],
+      "opts_hi": [
+        "H",
+        "G",
+        "D",
+        "निर्धारित नहीं किया जा सकता"
+      ],
+      "ans": 3,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "What is the angle between the hour and minute hands of a clock at 2:15?",
+      "q_hi": "2:15 पर घड़ी की घंटे और मिनट की सुइयों के बीच का कोण क्या है?",
+      "opts": [
+        "22.5°",
+        "30°",
+        "37.5°",
+        "45°"
+      ],
+      "opts_hi": [
+        "22.5°",
+        "30°",
+        "37.5°",
+        "45°"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Which of the following is true if A > B > C > D = E?",
+      "q_hi": "यदि A > B > C > D = E है, तो निम्नलिखित में से कौन सा सत्य है?",
+      "opts": [
+        "A > E",
+        "B = E",
+        "C = E",
+        "D > A"
+      ],
+      "opts_hi": [
+        "A > E",
+        "B = E",
+        "C = E",
+        "D > A"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "What comes next in the series? AB, DE, HI, LM, PQ, ?",
+      "q_hi": "श्रृंखला में आगे क्या आएगा? AB, DE, HI, LM, PQ, ?",
+      "opts": [
+        "ST",
+        "TU",
+        "UV",
+        "VW"
+      ],
+      "opts_hi": [
+        "ST",
+        "TU",
+        "UV",
+        "UV"
+      ],
+      "ans": 2,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Which of the following is similar to 25 : 49?",
+      "q_hi": "निम्नलिखित में से कौन सा 25 : 49 के समान है?",
+      "opts": [
+        "16 : 25",
+        "36 : 64",
+        "9 : 16",
+        "All of the above"
+      ],
+      "opts_hi": [
+        "16 : 25",
+        "36 : 64",
+        "9 : 16",
+        "उपरोक्त सभी"
+      ],
+      "ans": 3,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Statement: \"No cat is a dog. Some dogs are animals.\" Conclusion: Some animals are not cats.",
+      "q_hi": "कथन: \"कोई बिल्ली कुत्ता नहीं है। कुछ कुत्ते जानवर हैं।\" निष्कर्ष: कुछ जानवर बिल्लियाँ नहीं हैं।",
+      "opts": [
+        "Conclusion follows",
+        "Conclusion does not follow",
+        "Conclusion is true only sometimes",
+        "Cannot be determined"
+      ],
+      "opts_hi": [
+        "निष्कर्ष अनुसरण करता है",
+        "निष्कर्ष अनुसरण नहीं करता",
+        "निष्कर्ष केवल कभी-कभी सत्य है",
+        "निर्धारित नहीं किया जा सकता"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Which letter is 2nd to the left of the 14th letter from the right in the English alphabet?",
+      "q_hi": "अंग्रेजी वर्णमाला में दाएँ से 14वें अक्षर के बाएँ दूसरा अक्षर कौन सा है?",
+      "opts": [
+        "K",
+        "L",
+        "M",
+        "N"
+      ],
+      "opts_hi": [
+        "K",
+        "L",
+        "M",
+        "N"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Five friends A, B, C, D, E have different weights. A is heavier than B but lighter than C. D is heavier than E. Who is the second heaviest?",
+      "q_hi": "पाँच मित्र A, B, C, D, E के अलग-अलग वजन हैं। A, B से भारी है लेकिन C से हल्का है। D, E से भारी है। दूसरा सबसे भारी कौन है?",
+      "opts": [
+        "A",
+        "C",
+        "D",
+        "Cannot be determined"
+      ],
+      "opts_hi": [
+        "A",
+        "C",
+        "D",
+        "निर्धारित नहीं किया जा सकता"
+      ],
+      "ans": 3,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "What will replace the question mark (?) in the following? 0, 6, 24, 60, 120, ?",
+      "q_hi": "निम्नलिखित में प्रश्न चिह्न (?) के स्थान पर क्या आएगा? 0, 6, 24, 60, 120, ?",
+      "opts": [
+        "180",
+        "190",
+        "200",
+        "210"
+      ],
+      "opts_hi": [
+        "180",
+        "190",
+        "200",
+        "210"
+      ],
+      "ans": 3,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "What comes next in the series? 8, 24, 72, 216, ?",
+      "q_hi": "श्रृंखला में आगे क्या आएगा? 8, 24, 72, 216, ?",
+      "opts": [
+        "432",
+        "576",
+        "648",
+        "720"
+      ],
+      "opts_hi": [
+        "432",
+        "576",
+        "648",
+        "720"
+      ],
+      "ans": 2,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Which of the following correctly represents the relationship: Fruits, Apples, Oranges?",
+      "q_hi": "निम्नलिखित में से कौन सा संबंध को सही दर्शाता है: फल, सेब, संतरे?",
+      "opts": [
+        "Two circles inside a third",
+        "Two overlapping circles inside a third",
+        "Three separate circles",
+        "One circle inside another"
+      ],
+      "opts_hi": [
+        "दो वृत्त तीसरे के अंदर",
+        "दो प्रतिच्छेद करते वृत्त तीसरे के अंदर",
+        "तीन अलग-अलग वृत्त",
+        "एक वृत्त दूसरे के अंदर"
+      ],
+      "ans": 1,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "If \"MULTIPLY\" is coded as \"NWMJUQMZ\" and \"DIVIDE\" is coded as \"EJWJEF\", then \"SUBTRACT\" is coded as:",
+      "q_hi": "यदि \"MULTIPLY\" को \"NWMJUQMZ\" के रूप में कोडित किया जाता है और \"DIVIDE\" को \"EJWJEF\" के रूप में कोडित किया जाता है, तो \"SUBTRACT\" को किस रूप में कोडित किया जाएगा?",
+      "opts": [
+        "TVCUSBDU",
+        "TVCUSBDU",
+        "TVCUSCDU",
+        "TVCUSBEU"
+      ],
+      "opts_hi": [
+        "TVCUSBDU",
+        "TVCUSBDU",
+        "TVCUSCDU",
+        "TVCUSBEU"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Which of the following is the mirror image of the word \"EVOLUTION\"?",
+      "q_hi": "EVOLUTION शब्द का दर्पण प्रतिबिंब निम्नलिखित में से कौन सा है?",
+      "opts": [
+        "NOITULOVE",
+        "NOITULOVE",
+        "NOITULOVE",
+        "NOITULOVE"
+      ],
+      "opts_hi": [
+        "NOITULOVE",
+        "NOITULOVE",
+        "NOITULOVE",
+        "NOITULOVE"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Arrange the following in ascending order of area: 1. Room, 2. Building, 3. Floor, 4. Block, 5. City",
+      "q_hi": "निम्नलिखित को क्षेत्रफल के बढ़ते क्रम में व्यवस्थित करें: 1. कमरा, 2. भवन, 3. मंजिल, 4. ब्लॉक, 5. शहर",
+      "opts": [
+        "1, 3, 2, 4, 5",
+        "1, 2, 3, 4, 5",
+        "3, 1, 2, 4, 5",
+        "4, 2, 3, 1, 5"
+      ],
+      "opts_hi": [
+        "1, 3, 2, 4, 5",
+        "1, 2, 3, 4, 5",
+        "3, 1, 2, 4, 5",
+        "4, 2, 3, 1, 5"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Find the odd one out: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 51, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97",
+      "q_hi": "विषम ज्ञात करें: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 51, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97",
+      "opts": [
+        "2",
+        "51",
+        "97",
+        "89"
+      ],
+      "opts_hi": [
+        "2",
+        "51",
+        "97",
+        "89"
+      ],
+      "ans": 1,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "If P ≤ Q > R = S < T, which of the following is definitely true?",
+      "q_hi": "यदि P ≤ Q > R = S < T है, तो निम्नलिखित में से कौन सा निश्चित रूप से सत्य है?",
+      "opts": [
+        "P < R",
+        "Q > S",
+        "R = T",
+        "P < T"
+      ],
+      "opts_hi": [
+        "P < R",
+        "Q > S",
+        "R = T",
+        "P < T"
+      ],
+      "ans": 1,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "What is the angle between the hour and minute hands of a clock at 10:10?",
+      "q_hi": "10:10 पर घड़ी की घंटे और मिनट की सुइयों के बीच का कोण क्या है?",
+      "opts": [
+        "115°",
+        "120°",
+        "110°",
+        "105°"
+      ],
+      "opts_hi": [
+        "115°",
+        "120°",
+        "110°",
+        "105°"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "What will replace the question mark (?) in the following? 1, 4, 10, 22, 46, ?",
+      "q_hi": "निम्नलिखित में प्रश्न चिह्न (?) के स्थान पर क्या आएगा? 1, 4, 10, 22, 46, ?",
+      "opts": [
+        "92",
+        "93",
+        "94",
+        "95"
+      ],
+      "opts_hi": [
+        "92",
+        "93",
+        "94",
+        "95"
+      ],
+      "ans": 2,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "If A is the mother of B, B is the father of C, and C is the brother of D, how is A related to D?",
+      "q_hi": "यदि A, B की माता है, B, C का पिता है, और C, D का भाई है, तो A, D से किस प्रकार संबंधित है?",
+      "opts": [
+        "Grandmother",
+        "Mother",
+        "Aunt",
+        "Sister"
+      ],
+      "opts_hi": [
+        "दादी/नानी",
+        "माता",
+        "चाची/मामी",
+        "बहन"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Statements: All roses are flowers. All flowers are plants. No plant is a tree. Conclusions: I. No rose is a tree. II. Some plants are flowers. Which follows?",
+      "q_hi": "कथन: सभी गुलाब फूल हैं। सभी फूल पौधे हैं। कोई पौधा पेड़ नहीं है। निष्कर्ष: I. कोई गुलाब पेड़ नहीं है। II. कुछ पौधे फूल हैं। कौन सा अनुसरण करता है?",
+      "opts": [
+        "Only I",
+        "Only II",
+        "Both I and II",
+        "Neither I nor II"
+      ],
+      "opts_hi": [
+        "केवल I",
+        "केवल II",
+        "I और II दोनों",
+        "न तो I और न ही II"
+      ],
+      "ans": 2,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "What will come in place of question mark (?) in the following series? 6, 13, 24, 39, 58, ?",
+      "q_hi": "निम्नलिखित श्रृंखला में प्रश्न चिह्न (?) के स्थान पर क्या आएगा? 6, 13, 24, 39, 58, ?",
+      "opts": [
+        "78",
+        "79",
+        "80",
+        "81"
+      ],
+      "opts_hi": [
+        "78",
+        "79",
+        "80",
+        "81"
+      ],
+      "ans": 3,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Which figure will come next in the series: Square, Square, Circle, Square, Square, Circle, ?",
+      "q_hi": "श्रृंखला में आगे कौन सी आकृति आएगी: वर्ग, वर्ग, वृत्त, वर्ग, वर्ग, वृत्त, ?",
+      "opts": [
+        "Square",
+        "Circle",
+        "Triangle",
+        "Rectangle"
+      ],
+      "opts_hi": [
+        "वर्ग",
+        "वृत्त",
+        "त्रिभुज",
+        "आयत"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Which letter is 3rd to the left of the 12th letter from the right in the English alphabet?",
+      "q_hi": "अंग्रेजी वर्णमाला में दाएँ से 12वें अक्षर के बाएँ तीसरा अक्षर कौन सा है?",
+      "opts": [
+        "K",
+        "L",
+        "M",
+        "J"
+      ],
+      "opts_hi": [
+        "K",
+        "L",
+        "M",
+        "J"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
     }
   ]
 }
