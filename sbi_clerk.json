@@ -720,6 +720,32 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "sbi_clerk_15",
+      "title": "SBI Clerk Mock Test 15",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "If \"TRAIN\" is coded as \"WUDLQ\" and \"SHIP\" is coded as \"VKLS\", then \"BOAT\" is coded as:",
+          "q_hi": "यदि \"TRAIN\" को \"WUDLQ\" के रूप में कोडित किया जाता है और \"SHIP\" को \"VKLS\" के रूप में कोडित किया जाता है, तो \"BOAT\" को किस रूप में कोडित किया जाएगा?",
+          "opts": [
+            "ERDW",
+            "ERDV",
+            "ERDW",
+            "ERDV"
+          ],
+          "opts_hi": [
+            "ERDW",
+            "ERDV",
+            "ERDW",
+            "ERDV"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
