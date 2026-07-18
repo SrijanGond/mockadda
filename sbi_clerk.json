@@ -588,6 +588,50 @@
           "subject": "Science"
         }
       ]
+    },
+    {
+      "id": "sbi_clerk_12",
+      "title": "SBI Clerk Mock Test 12",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "A is older than B but younger than C. D is older than C but younger than E. Who is the youngest?",
+          "q_hi": "A, B से बड़ा है लेकिन C से छोटा है। D, C से बड़ा है लेकिन E से छोटा है। सबसे छोटा कौन है?",
+          "opts": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "opts_hi": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "ans": 1,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "What will come in place of question mark (?) in the following series? 2A5, 4C10, 6E15, 8G20, ?",
+          "q_hi": "निम्नलिखित श्रृंखला में प्रश्न चिह्न (?) के स्थान पर क्या आएगा? 2A5, 4C10, 6E15, 8G20, ?",
+          "opts": [
+            "10I25",
+            "10J25",
+            "10I30",
+            "10J30"
+          ],
+          "opts_hi": [
+            "10I25",
+            "10J25",
+            "10I30",
+            "10J30"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
