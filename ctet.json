@@ -547,6 +547,50 @@
           "subject": "Science"
         }
       ]
+    },
+    {
+      "id": "ctet_11",
+      "title": "CTET Mock Test 11",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which cell organelle is known as the \"Powerhouse of the cell\"?",
+          "q_hi": "किस कोशिका अंगक को \"कोशिका का पावरहाउस\" के रूप में जाना जाता है?",
+          "opts": [
+            "Nucleus",
+            "Ribosome",
+            "Mitochondria",
+            "Endoplasmic Reticulum"
+          ],
+          "opts_hi": [
+            "नाभिक",
+            "राइबोसोम",
+            "माइटोकॉन्ड्रिया",
+            "अंतर्द्रव्यी जालिका"
+          ],
+          "ans": 2,
+          "subject": "Science"
+        },
+        {
+          "q": "Which of the following is an example of a double displacement reaction?",
+          "q_hi": "निम्नलिखित में से कौन सा द्विविस्थापन अभिक्रिया का उदाहरण है?",
+          "opts": [
+            "Combustion of methane",
+            "Reaction of sodium with water",
+            "Reaction of silver nitrate with sodium chloride",
+            "Decomposition of calcium carbonate"
+          ],
+          "opts_hi": [
+            "मीथेन का दहन",
+            "सोडियम की जल के साथ अभिक्रिया",
+            "सिल्वर नाइट्रेट की सोडियम क्लोराइड के साथ अभिक्रिया",
+            "कैल्शियम कार्बोनेट का विघटन"
+          ],
+          "ans": 2,
+          "subject": "Science"
+        }
+      ]
     }
   ]
 }
