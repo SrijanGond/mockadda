@@ -711,6 +711,86 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "ssc_mts_16",
+      "title": "SSC MTS Mock Test 16",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What will come in place of question mark (?) in the following series? 4, 11, 23, 40, 62, ?",
+          "q_hi": "निम्नलिखित श्रृंखला में प्रश्न चिह्न (?) के स्थान पर क्या आएगा? 4, 11, 23, 40, 62, ?",
+          "opts": [
+            "89",
+            "90",
+            "91",
+            "92"
+          ],
+          "opts_hi": [
+            "89",
+            "90",
+            "91",
+            "92"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "A person walks 12 km towards East, then turns right and walks 5 km, then turns right and walks 12 km, then turns left and walks 10 km. In which direction is he now from the starting point?",
+          "q_hi": "एक व्यक्ति पूर्व की ओर 12 किमी चलता है, फिर दाएँ मुड़ता है और 5 किमी चलता है, फिर दाएँ मुड़ता है और 12 किमी चलता है, फिर बाएँ मुड़ता है और 10 किमी चलता है। वह अब आरंभिक बिंदु से किस दिशा में है?",
+          "opts": [
+            "North",
+            "South",
+            "East",
+            "West"
+          ],
+          "opts_hi": [
+            "उत्तर",
+            "दक्षिण",
+            "पूर्व",
+            "पश्चिम"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "Which letter is 2nd to the left of the 14th letter from the right in the English alphabet?",
+          "q_hi": "अंग्रेजी वर्णमाला में दाएँ से 14वें अक्षर के बाएँ दूसरा अक्षर कौन सा है?",
+          "opts": [
+            "K",
+            "L",
+            "M",
+            "N"
+          ],
+          "opts_hi": [
+            "K",
+            "L",
+            "M",
+            "N"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "Find the odd one out: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 51, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97",
+          "q_hi": "विषम ज्ञात करें: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 51, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97",
+          "opts": [
+            "2",
+            "51",
+            "97",
+            "89"
+          ],
+          "opts_hi": [
+            "2",
+            "51",
+            "97",
+            "89"
+          ],
+          "ans": 1,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
