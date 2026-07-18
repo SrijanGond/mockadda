@@ -758,6 +758,68 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "ibps_po_14",
+      "title": "IBPS PO Mock Test 14",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Eight people are sitting in a row facing north. A sits third to the right of B. C sits between A and D. E sits at the left end. Who is second to the right of E?",
+          "q_hi": "आठ लोग एक पंक्ति में उत्तर की ओर मुख करके बैठे हैं। A, B के दाएँ तीसरे स्थान पर बैठा है। C, A और D के बीच में बैठा है। E बाएँ छोर पर बैठा है। E के दाएँ दूसरे स्थान पर कौन बैठा है?",
+          "opts": [
+            "F",
+            "B",
+            "C",
+            "Cannot be determined"
+          ],
+          "opts_hi": [
+            "F",
+            "B",
+            "C",
+            "निर्धारित नहीं किया जा सकता"
+          ],
+          "ans": 3,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "If A is the father of B, B is the mother of C, and C is the sister of D, how is A related to D?",
+          "q_hi": "यदि A, B का पिता है, B, C की माता है, और C, D की बहन है, तो A, D से किस प्रकार संबंधित है?",
+          "opts": [
+            "Grandfather",
+            "Father",
+            "Uncle",
+            "Brother"
+          ],
+          "opts_hi": [
+            "दादा/नाना",
+            "पिता",
+            "चाचा/मामा",
+            "भाई"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "If \"ABCD\" is coded as \"BCDE\" and \"WXYZ\" is coded as \"XYZA\", then \"PQRS\" is coded as:",
+          "q_hi": "यदि \"ABCD\" को \"BCDE\" के रूप में कोडित किया जाता है और \"WXYZ\" को \"XYZA\" के रूप में कोडित किया जाता है, तो \"PQRS\" को किस रूप में कोडित किया जाएगा?",
+          "opts": [
+            "QRST",
+            "QRTV",
+            "QRSU",
+            "QRTU"
+          ],
+          "opts_hi": [
+            "QRST",
+            "QRTV",
+            "QRSU",
+            "QRTU"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
