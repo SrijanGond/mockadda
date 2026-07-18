@@ -1063,6 +1063,86 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "ssc_chsl_18",
+      "title": "SSC CHSL Mock Test 18",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Find the odd one out: 31, 37, 41, 43, 47, 49, 53, 59",
+          "q_hi": "विषम ज्ञात करें: 31, 37, 41, 43, 47, 49, 53, 59",
+          "opts": [
+            "31",
+            "49",
+            "53",
+            "59"
+          ],
+          "opts_hi": [
+            "31",
+            "49",
+            "53",
+            "59"
+          ],
+          "ans": 1,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "What will replace the question mark (?) in the following? 0, 6, 24, 60, 120, ?",
+          "q_hi": "निम्नलिखित में प्रश्न चिह्न (?) के स्थान पर क्या आएगा? 0, 6, 24, 60, 120, ?",
+          "opts": [
+            "180",
+            "190",
+            "200",
+            "210"
+          ],
+          "opts_hi": [
+            "180",
+            "190",
+            "200",
+            "210"
+          ],
+          "ans": 3,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "What is the angle between the hour and minute hands of a clock at 10:10?",
+          "q_hi": "10:10 पर घड़ी की घंटे और मिनट की सुइयों के बीच का कोण क्या है?",
+          "opts": [
+            "115°",
+            "120°",
+            "110°",
+            "105°"
+          ],
+          "opts_hi": [
+            "115°",
+            "120°",
+            "110°",
+            "105°"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "If A is the mother of B, B is the father of C, and C is the brother of D, how is A related to D?",
+          "q_hi": "यदि A, B की माता है, B, C का पिता है, और C, D का भाई है, तो A, D से किस प्रकार संबंधित है?",
+          "opts": [
+            "Grandmother",
+            "Mother",
+            "Aunt",
+            "Sister"
+          ],
+          "opts_hi": [
+            "दादी/नानी",
+            "माता",
+            "चाची/मामी",
+            "बहन"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
