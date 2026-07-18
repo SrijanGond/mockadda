@@ -676,6 +676,50 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "sbi_clerk_14",
+      "title": "SBI Clerk Mock Test 14",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Pointing to a photo, a man said, \"He is the son of the only daughter of my mother.\" How is the person in the photo related to the man?",
+          "q_hi": "एक फोटो की ओर इशारा करते हुए, एक व्यक्ति ने कहा, \"वह मेरी माँ की इकलौती पुत्री का पुत्र है।\" फोटो में व्यक्ति उस व्यक्ति से किस प्रकार संबंधित है?",
+          "opts": [
+            "Nephew",
+            "Son",
+            "Brother",
+            "Cousin"
+          ],
+          "opts_hi": [
+            "भतीजा",
+            "पुत्र",
+            "भाई",
+            "चचेरा/ममेरा"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "Five people A, B, C, D, E have different heights. A is taller than B but shorter than C. D is taller than E. Who is the tallest?",
+          "q_hi": "पाँच लोग A, B, C, D, E की अलग-अलग ऊँचाई है। A, B से लंबा है लेकिन C से छोटा है। D, E से लंबा है। सबसे लंबा कौन है?",
+          "opts": [
+            "A",
+            "C",
+            "D",
+            "Cannot be determined"
+          ],
+          "opts_hi": [
+            "A",
+            "C",
+            "D",
+            "निर्धारित नहीं किया जा सकता"
+          ],
+          "ans": 3,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
