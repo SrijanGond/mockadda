@@ -486,6 +486,86 @@
           "subject": "Science"
         }
       ]
+    },
+    {
+      "id": "rrb_group_d_10",
+      "title": "RRB Group D Mock Test 10",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Find the odd one out: 25, 36, 49, 64, 81, 100, 120",
+          "q_hi": "विषम ज्ञात करें: 25, 36, 49, 64, 81, 100, 120",
+          "opts": [
+            "25",
+            "120",
+            "81",
+            "100"
+          ],
+          "opts_hi": [
+            "25",
+            "120",
+            "81",
+            "100"
+          ],
+          "ans": 1,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "What will come in place of question mark (?) in the following series? A, E, I, M, Q, ?",
+          "q_hi": "निम्नलिखित श्रृंखला में प्रश्न चिह्न (?) के स्थान पर क्या आएगा? A, E, I, M, Q, ?",
+          "opts": [
+            "S",
+            "T",
+            "U",
+            "V"
+          ],
+          "opts_hi": [
+            "S",
+            "T",
+            "U",
+            "V"
+          ],
+          "ans": 2,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "Find the missing number in the series: 3, 9, 27, 81, ?",
+          "q_hi": "श्रृंखला में लुप्त संख्या ज्ञात करें: 3, 9, 27, 81, ?",
+          "opts": [
+            "162",
+            "243",
+            "216",
+            "189"
+          ],
+          "opts_hi": [
+            "162",
+            "243",
+            "216",
+            "189"
+          ],
+          "ans": 1,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "Which of the following is the mirror image of the word \"CLOCK\"?",
+          "q_hi": "CLOCK शब्द का दर्पण प्रतिबिंब निम्नलिखित में से कौन सा है?",
+          "opts": [
+            "KCOLC",
+            "KCOLG",
+            "KLOCG",
+            "KCOLC"
+          ],
+          "opts_hi": [
+            "KCOLC",
+            "KCOLG",
+            "KLOCG",
+            "KCOLC"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
