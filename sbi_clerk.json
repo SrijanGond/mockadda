@@ -464,6 +464,104 @@
           "subject": "Mathematics"
         }
       ]
+    },
+    {
+      "id": "sbi_clerk_10",
+      "title": "SBI Clerk Mock Test 10",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Find the value of 25% of 160 + 35% of 200.",
+          "q_hi": "160 का 25% + 200 का 35% ज्ञात करें।",
+          "opts": [
+            "100",
+            "110",
+            "120",
+            "130"
+          ],
+          "opts_hi": [
+            "100",
+            "110",
+            "120",
+            "130"
+          ],
+          "ans": 1,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "The average of 5 numbers is 18. If one number is removed, the average becomes 16. Find the removed number.",
+          "q_hi": "5 संख्याओं का औसत 18 है। यदि एक संख्या हटा दी जाए, तो औसत 16 हो जाता है। हटाई गई संख्या ज्ञात करें।",
+          "opts": [
+            "20",
+            "22",
+            "24",
+            "26"
+          ],
+          "opts_hi": [
+            "20",
+            "22",
+            "24",
+            "26"
+          ],
+          "ans": 3,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "The ratio of incomes of A and B is 3:4 and the ratio of their expenditures is 2:3. If each saves Rs.2000, find the income of B.",
+          "q_hi": "A और B की आय का अनुपात 3:4 है और उनके खर्चों का अनुपात 2:3 है। यदि प्रत्येक Rs.2000 बचाता है, तो B की आय ज्ञात करें।",
+          "opts": [
+            "Rs. 6000",
+            "Rs. 8000",
+            "Rs. 10000",
+            "Rs. 12000"
+          ],
+          "opts_hi": [
+            "Rs. 6000",
+            "Rs. 8000",
+            "Rs. 10000",
+            "Rs. 12000"
+          ],
+          "ans": 1,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "The average age of 20 students is 15 years. If the teacher's age is included, the average becomes 16 years. Find the teacher's age.",
+          "q_hi": "20 छात्रों की औसत आयु 15 वर्ष है। यदि शिक्षक की आयु शामिल कर ली जाए, तो औसत 16 वर्ष हो जाता है। शिक्षक की आयु ज्ञात करें।",
+          "opts": [
+            "30 years",
+            "35 years",
+            "36 years",
+            "40 years"
+          ],
+          "opts_hi": [
+            "30 वर्ष",
+            "35 वर्ष",
+            "36 वर्ष",
+            "40 वर्ष"
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "A man buys a cycle for Rs.1200 and sells it at a profit of 15%. What is the selling price?",
+          "q_hi": "एक व्यक्ति एक साइकिल Rs.1200 में खरीदता है और उसे 15% लाभ पर बेचता है। विक्रय मूल्य क्या है?",
+          "opts": [
+            "Rs. 1320",
+            "Rs. 1380",
+            "Rs. 1420",
+            "Rs. 1500"
+          ],
+          "opts_hi": [
+            "Rs. 1320",
+            "Rs. 1380",
+            "Rs. 1420",
+            "Rs. 1500"
+          ],
+          "ans": 1,
+          "subject": "Mathematics"
+        }
+      ]
     }
   ]
 }
