@@ -503,6 +503,546 @@
       ],
       "ans": 0,
       "subject": "Reasoning"
+    },
+    {
+      "q": "What will come in place of question mark (?) in the following series? 5, 12, 21, 32, 45, ?",
+      "q_hi": "निम्नलिखित श्रृंखला में प्रश्न चिह्न (?) के स्थान पर क्या आएगा? 5, 12, 21, 32, 45, ?",
+      "opts": [
+        "58",
+        "60",
+        "62",
+        "64"
+      ],
+      "opts_hi": [
+        "58",
+        "60",
+        "62",
+        "64"
+      ],
+      "ans": 1,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Introducing a girl, Raj said, \"She is the daughter of the only son of my grandfather.\" How is the girl related to Raj?",
+      "q_hi": "एक लड़की का परिचय देते हुए, राज ने कहा, \"वह मेरे दादा के इकलौते पुत्र की पुत्री है।\" वह लड़की राज से किस प्रकार संबंधित है?",
+      "opts": [
+        "Sister",
+        "Cousin",
+        "Niece",
+        "Daughter"
+      ],
+      "opts_hi": [
+        "बहन",
+        "चचेरी बहन",
+        "भतीजी",
+        "पुत्री"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Which of the following is analogous to Pencil : Eraser?",
+      "q_hi": "निम्नलिखित में से कौन सा Pencil : Eraser के समान है?",
+      "opts": [
+        "Pen : Paper",
+        "Tea : Coffee",
+        "Lock : Key",
+        "Shoes : Socks"
+      ],
+      "opts_hi": [
+        "कलम : कागज",
+        "चाय : कॉफी",
+        "ताला : चाबी",
+        "जूते : मोज़े"
+      ],
+      "ans": 2,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Rahul walks 15 km towards East, turns right and walks 20 km, then turns left and walks 10 km. In which direction is he now from the starting point?",
+      "q_hi": "राहुल पूर्व की ओर 15 किमी चलता है, दाएँ मुड़ता है और 20 किमी चलता है, फिर बाएँ मुड़ता है और 10 किमी चलता है। वह अब आरंभिक बिंदु से किस दिशा में है?",
+      "opts": [
+        "North-East",
+        "South-East",
+        "South-West",
+        "North-West"
+      ],
+      "opts_hi": [
+        "उत्तर-पूर्व",
+        "दक्षिण-पूर्व",
+        "दक्षिण-पश्चिम",
+        "उत्तर-पश्चिम"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "If \"PENCIL\" is coded as \"QFOFMJ\" and \"BOOK\" is coded as \"CPPL\", then \"PAPER\" is coded as:",
+      "q_hi": "यदि \"PENCIL\" को \"QFOFMJ\" के रूप में कोडित किया जाता है और \"BOOK\" को \"CPPL\" के रूप में कोडित किया जाता है, तो \"PAPER\" को किस रूप में कोडित किया जाएगा?",
+      "opts": [
+        "QBQFS",
+        "QBRFS",
+        "QCRFS",
+        "QCSFS"
+      ],
+      "opts_hi": [
+        "QBQFS",
+        "QBRFS",
+        "QCRFS",
+        "QCSFS"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Find the odd one out: 3, 8, 15, 24, 35, 48, 63, 80, 99, 120, 143, 169",
+      "q_hi": "विषम ज्ञात करें: 3, 8, 15, 24, 35, 48, 63, 80, 99, 120, 143, 169",
+      "opts": [
+        "120",
+        "143",
+        "169",
+        "99"
+      ],
+      "opts_hi": [
+        "120",
+        "143",
+        "169",
+        "99"
+      ],
+      "ans": 2,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Arrange the following in a logical order: 1. Flower, 2. Fruit, 3. Seed, 4. Plant, 5. Sapling",
+      "q_hi": "निम्नलिखित को तार्किक क्रम में व्यवस्थित करें: 1. फूल, 2. फल, 3. बीज, 4. पौधा, 5. अंकुर",
+      "opts": [
+        "3, 5, 4, 1, 2",
+        "3, 4, 5, 1, 2",
+        "5, 3, 4, 1, 2",
+        "4, 5, 3, 1, 2"
+      ],
+      "opts_hi": [
+        "3, 5, 4, 1, 2",
+        "3, 4, 5, 1, 2",
+        "5, 3, 4, 1, 2",
+        "4, 5, 3, 1, 2"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Which of the following is true if A > B > C > D = E < F?",
+      "q_hi": "यदि A > B > C > D = E < F है, तो निम्नलिखित में से कौन सा सत्य है?",
+      "opts": [
+        "B > F",
+        "C = F",
+        "A > E",
+        "B = E"
+      ],
+      "opts_hi": [
+        "B > F",
+        "C = F",
+        "A > E",
+        "B = E"
+      ],
+      "ans": 2,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "What comes next in the series? B, E, H, K, N, ?",
+      "q_hi": "श्रृंखला में आगे क्या आएगा? B, E, H, K, N, ?",
+      "opts": [
+        "P",
+        "Q",
+        "R",
+        "S"
+      ],
+      "opts_hi": [
+        "P",
+        "Q",
+        "R",
+        "S"
+      ],
+      "ans": 1,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "What is the angle between the hour and minute hands of a clock at 6:30?",
+      "q_hi": "6:30 पर घड़ी की घंटे और मिनट की सुइयों के बीच का कोण क्या है?",
+      "opts": [
+        "15°",
+        "30°",
+        "45°",
+        "60°"
+      ],
+      "opts_hi": [
+        "15°",
+        "30°",
+        "45°",
+        "60°"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Five friends P, Q, R, S, T are standing in a line. P is taller than Q but shorter than R. S is taller than T. Who is the second tallest?",
+      "q_hi": "पाँच दोस्त P, Q, R, S, T एक पंक्ति में खड़े हैं। P, Q से लंबा है लेकिन R से छोटा है। S, T से लंबा है। दूसरा सबसे लंबा कौन है?",
+      "opts": [
+        "P",
+        "R",
+        "S",
+        "Cannot be determined"
+      ],
+      "opts_hi": [
+        "P",
+        "R",
+        "S",
+        "निर्धारित नहीं किया जा सकता"
+      ],
+      "ans": 3,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Statement: \"All cats are animals. Some animals are dogs.\" Conclusion: Some cats are dogs.",
+      "q_hi": "कथन: \"सभी बिल्लियाँ जानवर हैं। कुछ जानवर कुत्ते हैं।\" निष्कर्ष: कुछ बिल्लियाँ कुत्ते हैं।",
+      "opts": [
+        "Conclusion follows",
+        "Conclusion does not follow",
+        "Conclusion is true only sometimes",
+        "Cannot be determined"
+      ],
+      "opts_hi": [
+        "निष्कर्ष अनुसरण करता है",
+        "निष्कर्ष अनुसरण नहीं करता",
+        "निष्कर्ष केवल कभी-कभी सत्य है",
+        "निर्धारित नहीं किया जा सकता"
+      ],
+      "ans": 1,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "What will come in place of question mark (?) in the following series? 1, 8, 27, 64, 125, ?",
+      "q_hi": "निम्नलिखित श्रृंखला में प्रश्न चिह्न (?) के स्थान पर क्या आएगा? 1, 8, 27, 64, 125, ?",
+      "opts": [
+        "216",
+        "225",
+        "200",
+        "180"
+      ],
+      "opts_hi": [
+        "216",
+        "225",
+        "200",
+        "180"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Pointing to a lady, a man said, \"She is the daughter of the only daughter of my father.\" How is the lady related to the man?",
+      "q_hi": "एक महिला की ओर इशारा करते हुए, एक व्यक्ति ने कहा, \"वह मेरे पिता की इकलौती पुत्री की पुत्री है।\" वह महिला उस व्यक्ति से किस प्रकार संबंधित है?",
+      "opts": [
+        "Daughter",
+        "Sister",
+        "Niece",
+        "Granddaughter"
+      ],
+      "opts_hi": [
+        "पुत्री",
+        "बहन",
+        "भतीजी",
+        "पोती"
+      ],
+      "ans": 3,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Which of the following is similar to 6 : 216?",
+      "q_hi": "निम्नलिखित में से कौन सा 6 : 216 के समान है?",
+      "opts": [
+        "7 : 343",
+        "8 : 512",
+        "9 : 729",
+        "All of the above"
+      ],
+      "opts_hi": [
+        "7 : 343",
+        "8 : 512",
+        "9 : 729",
+        "उपरोक्त सभी"
+      ],
+      "ans": 3,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Which of the following correctly represents the relationship: Men, Fathers, Doctors?",
+      "q_hi": "निम्नलिखित में से कौन सा संबंध को सही दर्शाता है: पुरुष, पिता, डॉक्टर?",
+      "opts": [
+        "Two separate circles intersecting",
+        "Three separate circles",
+        "Two circles inside a third with overlap",
+        "Three circles overlapping"
+      ],
+      "opts_hi": [
+        "दो अलग-अलग वृत्त प्रतिच्छेद करते हुए",
+        "तीन अलग-अलग वृत्त",
+        "दो वृत्त तीसरे के अंदर जो प्रतिच्छेद करते हैं",
+        "तीन वृत्त प्रतिच्छेद करते हुए"
+      ],
+      "ans": 3,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Statements: All flowers are roses. Some roses are tulips. No tulip is a sunflower. Conclusions: I. Some flowers are tulips. II. Some roses are not sunflowers. Which follows?",
+      "q_hi": "कथन: सभी फूल गुलाब हैं। कुछ गुलाब ट्यूलिप हैं। कोई ट्यूलिप सूरजमुखी नहीं है। निष्कर्ष: I. कुछ फूल ट्यूलिप हैं। II. कुछ गुलाब सूरजमुखी नहीं हैं। कौन सा अनुसरण करता है?",
+      "opts": [
+        "Only I",
+        "Only II",
+        "Both I and II",
+        "Neither I nor II"
+      ],
+      "opts_hi": [
+        "केवल I",
+        "केवल II",
+        "I और II दोनों",
+        "न तो I और न ही II"
+      ],
+      "ans": 1,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Find the odd one out: 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 51, 53",
+      "q_hi": "विषम ज्ञात करें: 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 51, 53",
+      "opts": [
+        "51",
+        "47",
+        "43",
+        "53"
+      ],
+      "opts_hi": [
+        "51",
+        "47",
+        "43",
+        "53"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Statement: \"Government has banned single-use plastic.\" Inference: People will stop using plastic.",
+      "q_hi": "कथन: \"सरकार ने एकल-उपयोग प्लास्टिक पर प्रतिबंध लगा दिया है।\" निष्कर्ष: लोग प्लास्टिक का उपयोग बंद कर देंगे।",
+      "opts": [
+        "Inference is valid",
+        "Inference is not valid",
+        "Inference is true only sometimes",
+        "Cannot be determined"
+      ],
+      "opts_hi": [
+        "निष्कर्ष मान्य है",
+        "निष्कर्ष मान्य नहीं है",
+        "निष्कर्ष केवल कभी-कभी सत्य है",
+        "निर्धारित नहीं किया जा सकता"
+      ],
+      "ans": 1,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Which of the following is the mirror image of the word \"TABLET\"?",
+      "q_hi": "TABLET शब्द का दर्पण प्रतिबिंब निम्नलिखित में से कौन सा है?",
+      "opts": [
+        "TELBAT",
+        "TELBAT",
+        "TELBAT",
+        "TELBAT"
+      ],
+      "opts_hi": [
+        "TELBAT",
+        "TELBAT",
+        "TELBAT",
+        "TELBAT"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "What will replace the question mark (?) in the following? 2, 3, 5, 8, 13, ?",
+      "q_hi": "निम्नलिखित में प्रश्न चिह्न (?) के स्थान पर क्या आएगा? 2, 3, 5, 8, 13, ?",
+      "opts": [
+        "20",
+        "21",
+        "22",
+        "23"
+      ],
+      "opts_hi": [
+        "20",
+        "21",
+        "22",
+        "23"
+      ],
+      "ans": 1,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Four friends work on Monday, Tuesday, Wednesday, and Thursday. A works after B. C works before D. Who works on Wednesday?",
+      "q_hi": "चार मित्र सोमवार, मंगलवार, बुधवार और गुरुवार को काम करते हैं। A, B के बाद काम करता है। C, D से पहले काम करता है। बुधवार को कौन काम करता है?",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "Cannot be determined"
+      ],
+      "opts_hi": [
+        "A",
+        "B",
+        "C",
+        "निर्धारित नहीं किया जा सकता"
+      ],
+      "ans": 3,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Which letter is 4th to the left of the 15th letter from the right in the English alphabet?",
+      "q_hi": "अंग्रेजी वर्णमाला में दाएँ से 15वें अक्षर के बाएँ चौथा अक्षर कौन सा है?",
+      "opts": [
+        "L",
+        "K",
+        "J",
+        "H"
+      ],
+      "opts_hi": [
+        "L",
+        "K",
+        "J",
+        "H"
+      ],
+      "ans": 3,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Arrange the following in ascending order of size: 1. Book, 2. Chapter, 3. Letter, 4. Word, 5. Page",
+      "q_hi": "निम्नलिखित को आकार के बढ़ते क्रम में व्यवस्थित करें: 1. पुस्तक, 2. अध्याय, 3. अक्षर, 4. शब्द, 5. पृष्ठ",
+      "opts": [
+        "3, 4, 5, 2, 1",
+        "4, 3, 5, 2, 1",
+        "3, 5, 4, 2, 1",
+        "4, 5, 3, 2, 1"
+      ],
+      "opts_hi": [
+        "3, 4, 5, 2, 1",
+        "4, 3, 5, 2, 1",
+        "3, 5, 4, 2, 1",
+        "4, 5, 3, 2, 1"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Which is similar to \"School : Student\"?",
+      "q_hi": "School : Student के समान कौन सा है?",
+      "opts": [
+        "Hospital : Patient",
+        "Bank : Money",
+        "College : Degree",
+        "Office : Boss"
+      ],
+      "opts_hi": [
+        "अस्पताल : रोगी",
+        "बैंक : पैसा",
+        "कॉलेज : डिग्री",
+        "कार्यालय : मालिक"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "If P > Q = R ≥ S < T, which of the following is true?",
+      "q_hi": "यदि P > Q = R ≥ S < T है, तो निम्नलिखित में से कौन सा सत्य है?",
+      "opts": [
+        "P > S",
+        "Q = T",
+        "R < S",
+        "P = R"
+      ],
+      "opts_hi": [
+        "P > S",
+        "Q = T",
+        "R < S",
+        "P = R"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "Which figure will come next in the series: Triangle, Square, Pentagon, Hexagon, ?",
+      "q_hi": "श्रृंखला में आगे कौन सी आकृति आएगी: त्रिभुज, वर्ग, पंचभुज, षट्भुज, ?",
+      "opts": [
+        "Heptagon",
+        "Octagon",
+        "Nonagon",
+        "Decagon"
+      ],
+      "opts_hi": [
+        "सप्तभुज",
+        "अष्टभुज",
+        "नवभुज",
+        "दशभुज"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "A person starts from point A, walks 20 m East, then 15 m North, then 10 m West, then 5 m South. How far is he from point A?",
+      "q_hi": "एक व्यक्ति बिंदु A से शुरू करता है, 20 मीटर पूर्व, फिर 15 मीटर उत्तर, फिर 10 मीटर पश्चिम, फिर 5 मीटर दक्षिण चलता है। वह बिंदु A से कितनी दूर है?",
+      "opts": [
+        "10 m",
+        "15 m",
+        "20 m",
+        "25 m"
+      ],
+      "opts_hi": [
+        "10 मीटर",
+        "15 मीटर",
+        "20 मीटर",
+        "25 मीटर"
+      ],
+      "ans": 0,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "If A is the brother of B, B is the sister of C, and C is the father of D, how is A related to D?",
+      "q_hi": "यदि A, B का भाई है, B, C की बहन है, और C, D का पिता है, तो A, D से किस प्रकार संबंधित है?",
+      "opts": [
+        "Father",
+        "Uncle",
+        "Brother",
+        "Cousin"
+      ],
+      "opts_hi": [
+        "पिता",
+        "चाचा/मामा",
+        "भाई",
+        "चचेरा/ममेरा"
+      ],
+      "ans": 1,
+      "subject": "Reasoning"
+    },
+    {
+      "q": "What comes next in the series? 2, 6, 18, 54, 162, ?",
+      "q_hi": "श्रृंखला में आगे क्या आएगा? 2, 6, 18, 54, 162, ?",
+      "opts": [
+        "324",
+        "432",
+        "486",
+        "540"
+      ],
+      "opts_hi": [
+        "324",
+        "432",
+        "486",
+        "540"
+      ],
+      "ans": 2,
+      "subject": "Reasoning"
     }
   ]
 }
