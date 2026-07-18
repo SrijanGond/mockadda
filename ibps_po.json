@@ -820,6 +820,50 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "ibps_po_15",
+      "title": "IBPS PO Mock Test 15",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Six friends are sitting in a circle facing the center. A sits second to the right of B. C sits between D and E. F sits immediate left of A. Who sits opposite to C?",
+          "q_hi": "छह मित्र केंद्र की ओर मुख करके एक वृत्त में बैठे हैं। A, B के दाएँ दूसरे स्थान पर बैठा है। C, D और E के बीच में बैठा है। F, A के ठीक बाएँ बैठा है। C के विपरीत कौन बैठा है?",
+          "opts": [
+            "B",
+            "D",
+            "F",
+            "E"
+          ],
+          "opts_hi": [
+            "B",
+            "D",
+            "F",
+            "E"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "Four people P, Q, R, S work on different days of the week starting from Monday. P works before Q. R works after S. Who works on Wednesday?",
+          "q_hi": "चार लोग P, Q, R, S सोमवार से शुरू होने वाले सप्ताह के अलग-अलग दिनों में काम करते हैं। P, Q से पहले काम करता है। R, S के बाद काम करता है। बुधवार को कौन काम करता है?",
+          "opts": [
+            "P",
+            "Q",
+            "R",
+            "Cannot be determined"
+          ],
+          "opts_hi": [
+            "P",
+            "Q",
+            "R",
+            "निर्धारित नहीं किया जा सकता"
+          ],
+          "ans": 3,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
