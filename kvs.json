@@ -452,6 +452,68 @@
           "subject": "Science"
         }
       ]
+    },
+    {
+      "id": "kvs_10",
+      "title": "KVS Mock Test 10",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Statement: \"If you want to succeed in life, you must work hard.\" Which of the following is an underlying assumption?",
+          "q_hi": "कथन: \"यदि आप जीवन में सफल होना चाहते हैं, तो आपको कड़ी मेहनत करनी चाहिए।\" निम्नलिखित में से कौन सी एक अंतर्निहित धारणा है?",
+          "opts": [
+            "Hard work alone guarantees success",
+            "Success is not possible without hard work",
+            "Only successful people work hard",
+            "Hard work is easy"
+          ],
+          "opts_hi": [
+            "केवल कड़ी मेहनत ही सफलता की गारंटी देती है",
+            "सफलता कड़ी मेहनत के बिना संभव नहीं है",
+            "केवल सफल लोग ही कड़ी मेहनत करते हैं",
+            "कड़ी मेहनत आसान है"
+          ],
+          "ans": 1,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "Statement: \"All teenagers who play video games are not necessarily lazy.\" Conclusion: Some teenagers who play video games are lazy. Which of the following is true?",
+          "q_hi": "कथन: \"वीडियो गेम खेलने वाले सभी किशोर आवश्यक रूप से आलसी नहीं होते हैं।\" निष्कर्ष: वीडियो गेम खेलने वाले कुछ किशोर आलसी होते हैं। निम्नलिखित में से कौन सा सत्य है?",
+          "opts": [
+            "Conclusion follows",
+            "Conclusion does not follow",
+            "Statement is true only sometimes",
+            "Cannot be determined"
+          ],
+          "opts_hi": [
+            "निष्कर्ष अनुसरण करता है",
+            "निष्कर्ष अनुसरण नहीं करता",
+            "कथन केवल कभी-कभी सत्य है",
+            "निर्धारित नहीं किया जा सकता"
+          ],
+          "ans": 1,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "Statement: \"The school has decided to make uniforms compulsory for all students.\" Which of the following is the most likely reason?",
+          "q_hi": "कथन: \"स्कूल ने सभी छात्रों के लिए वर्दी अनिवार्य करने का निर्णय लिया है।\" निम्नलिखित में से कौन सा सबसे संभावित कारण है?",
+          "opts": [
+            "To promote equality among students",
+            "To make students look similar",
+            "To increase school fees",
+            "To reduce teachers' workload"
+          ],
+          "opts_hi": [
+            "छात्रों में समानता को बढ़ावा देने के लिए",
+            "छात्रों को समान दिखाने के लिए",
+            "स्कूल शुल्क बढ़ाने के लिए",
+            "शिक्षकों का कार्यभार कम करने के लिए"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
