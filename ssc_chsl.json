@@ -797,6 +797,68 @@
           "subject": "Science"
         }
       ]
+    },
+    {
+      "id": "ssc_chsl_14",
+      "title": "SSC CHSL Mock Test 14",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Select the option that is related to the third term in the same way as the second term is related to the first term. BOOK : READ :: MOVIE : ?",
+          "q_hi": "उस विकल्प का चयन करें जो तीसरे पद से उसी प्रकार संबंधित है जैसे दूसरा पद पहले पद से संबंधित है। BOOK : READ :: MOVIE : ?",
+          "opts": [
+            "Watch",
+            "Listen",
+            "Play",
+            "Write"
+          ],
+          "opts_hi": [
+            "देखना",
+            "सुनना",
+            "खेलना",
+            "लिखना"
+          ],
+          "ans": 0,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "Which of the following correctly represents the relationship: Girls, Women, Humans?",
+          "q_hi": "निम्नलिखित में से कौन सा संबंध को सही दर्शाता है: लड़कियाँ, महिलाएँ, मानव?",
+          "opts": [
+            "A circle inside a circle inside a third circle",
+            "Two separate circles intersecting",
+            "Three separate circles",
+            "Two circles inside a third"
+          ],
+          "opts_hi": [
+            "एक वृत्त दूसरे वृत्त के अंदर और तीसरे वृत्त के अंदर",
+            "दो अलग-अलग वृत्त प्रतिच्छेद करते हुए",
+            "तीन अलग-अलग वृत्त",
+            "दो वृत्त तीसरे के अंदर"
+          ],
+          "ans": 3,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "What is the angle between the hour and minute hands of a clock at 3:15?",
+          "q_hi": "3:15 पर घड़ी की घंटे और मिनट की सुइयों के बीच का कोण क्या है?",
+          "opts": [
+            "0°",
+            "7.5°",
+            "15°",
+            "22.5°"
+          ],
+          "opts_hi": [
+            "0°",
+            "7.5°",
+            "15°",
+            "22.5°"
+          ],
+          "ans": 1,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
