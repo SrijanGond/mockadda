@@ -827,6 +827,32 @@
           "ans": 2
         }
       ]
+    },
+    {
+      "id": "ssc_cgl_11",
+      "title": "SSC CGL Mock Test 11",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What is the remainder when 2^100 is divided by 7?",
+          "q_hi": "2^100 को 7 से विभाजित करने पर शेषफल क्या है?",
+          "opts": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "opts_hi": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "ans": 1,
+          "subject": "Mathematics"
+        }
+      ]
     }
   ]
 }
