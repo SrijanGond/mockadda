@@ -1215,6 +1215,50 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "ssc_cgl_19",
+      "title": "SSC CGL Mock Test 19",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which of the following correctly represents the relationship: Fruits, Apples, Oranges?",
+          "q_hi": "निम्नलिखित में से कौन सा संबंध को सही दर्शाता है: फल, सेब, संतरे?",
+          "opts": [
+            "Two circles inside a third",
+            "Two overlapping circles inside a third",
+            "Three separate circles",
+            "One circle inside another"
+          ],
+          "opts_hi": [
+            "दो वृत्त तीसरे के अंदर",
+            "दो प्रतिच्छेद करते वृत्त तीसरे के अंदर",
+            "तीन अलग-अलग वृत्त",
+            "एक वृत्त दूसरे के अंदर"
+          ],
+          "ans": 1,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "What will come in place of question mark (?) in the following series? 6, 13, 24, 39, 58, ?",
+          "q_hi": "निम्नलिखित श्रृंखला में प्रश्न चिह्न (?) के स्थान पर क्या आएगा? 6, 13, 24, 39, 58, ?",
+          "opts": [
+            "78",
+            "79",
+            "80",
+            "81"
+          ],
+          "opts_hi": [
+            "78",
+            "79",
+            "80",
+            "81"
+          ],
+          "ans": 3,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
