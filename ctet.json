@@ -405,6 +405,68 @@
           "subject": "Mathematics"
         }
       ]
+    },
+    {
+      "id": "ctet_9",
+      "title": "CTET Mock Test 9",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What is the remainder when 3^50 is divided by 8?",
+          "q_hi": "3^50 को 8 से विभाजित करने पर शेषफल क्या है?",
+          "opts": [
+            "1",
+            "3",
+            "5",
+            "7"
+          ],
+          "opts_hi": [
+            "1",
+            "3",
+            "5",
+            "7"
+          ],
+          "ans": 0,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "If x + y = 10 and xy = 21, find x² + y².",
+          "q_hi": "यदि x + y = 10 और xy = 21 है, तो x² + y² ज्ञात करें।",
+          "opts": [
+            "50",
+            "54",
+            "58",
+            "62"
+          ],
+          "opts_hi": [
+            "50",
+            "54",
+            "58",
+            "62"
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "Find the HCF of 48 and 72.",
+          "q_hi": "48 और 72 का HCF ज्ञात करें।",
+          "opts": [
+            "12",
+            "16",
+            "20",
+            "24"
+          ],
+          "opts_hi": [
+            "12",
+            "16",
+            "20",
+            "24"
+          ],
+          "ans": 3,
+          "subject": "Mathematics"
+        }
+      ]
     }
   ]
 }
