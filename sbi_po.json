@@ -496,6 +496,50 @@
           "ans": 1
         }
       ]
+    },
+    {
+      "id": "sbi_po_10",
+      "title": "SBI PO Mock Test 10",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "A man allows a 20% discount on his goods and still makes a profit of 10%. Find the marked price if the cost price is Rs.800.",
+          "q_hi": "एक व्यक्ति अपने माल पर 20% छूट देता है और फिर भी 10% का लाभ कमाता है। यदि क्रय मूल्य Rs.800 है, तो अंकित मूल्य ज्ञात करें।",
+          "opts": [
+            "Rs. 1000",
+            "Rs. 1100",
+            "Rs. 1200",
+            "Rs. 1300"
+          ],
+          "opts_hi": [
+            "Rs. 1000",
+            "Rs. 1100",
+            "Rs. 1200",
+            "Rs. 1300"
+          ],
+          "ans": 1,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "The average of 6 numbers is 20. If one number is replaced by 32, the average increases by 2. Find the number that was replaced.",
+          "q_hi": "6 संख्याओं का औसत 20 है। यदि एक संख्या को 32 से बदल दिया जाए, तो औसत 2 बढ़ जाता है। बदली गई संख्या ज्ञात करें।",
+          "opts": [
+            "12",
+            "14",
+            "16",
+            "18"
+          ],
+          "opts_hi": [
+            "12",
+            "14",
+            "16",
+            "18"
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        }
+      ]
     }
   ]
 }
