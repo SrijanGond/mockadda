@@ -611,6 +611,86 @@
           "subject": "Mathematics"
         }
       ]
+    },
+    {
+      "id": "ssc_chsl_11",
+      "title": "SSC CHSL Mock Test 11",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "How many prime numbers are there between 1 and 50?",
+          "q_hi": "1 और 50 के बीच कितनी अभाज्य संख्याएँ हैं?",
+          "opts": [
+            "12",
+            "15",
+            "17",
+            "20"
+          ],
+          "opts_hi": [
+            "12",
+            "15",
+            "17",
+            "20"
+          ],
+          "ans": 1,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "A and B together can complete a work in 12 days. If A alone can complete it in 18 days, in how many days can B alone complete the work?",
+          "q_hi": "A और B मिलकर किसी कार्य को 12 दिनों में पूरा कर सकते हैं। यदि A अकेला उसे 18 दिनों में पूरा कर सकता है, तो B अकेला उसे कितने दिनों में पूरा करेगा?",
+          "opts": [
+            "24 days",
+            "30 days",
+            "36 days",
+            "42 days"
+          ],
+          "opts_hi": [
+            "24 दिन",
+            "30 दिन",
+            "36 दिन",
+            "42 दिन"
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "Find the LCM of 15, 25 and 30.",
+          "q_hi": "15, 25 और 30 का LCM ज्ञात करें।",
+          "opts": [
+            "75",
+            "100",
+            "125",
+            "150"
+          ],
+          "opts_hi": [
+            "75",
+            "100",
+            "125",
+            "150"
+          ],
+          "ans": 3,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "If a + b = 12 and a - b = 4, find the value of ab.",
+          "q_hi": "यदि a + b = 12 और a - b = 4 है, तो ab का मान ज्ञात करें।",
+          "opts": [
+            "28",
+            "30",
+            "32",
+            "34"
+          ],
+          "opts_hi": [
+            "28",
+            "30",
+            "32",
+            "34"
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        }
+      ]
     }
   ]
 }
