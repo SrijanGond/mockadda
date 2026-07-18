@@ -540,6 +540,50 @@
           "subject": "Mathematics"
         }
       ]
+    },
+    {
+      "id": "sbi_po_11",
+      "title": "SBI PO Mock Test 11",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What is the value of (45 × 12) ÷ 9 + 18?",
+          "q_hi": "(45 × 12) ÷ 9 + 18 का मान क्या है?",
+          "opts": [
+            "70",
+            "78",
+            "82",
+            "88"
+          ],
+          "opts_hi": [
+            "70",
+            "78",
+            "82",
+            "88"
+          ],
+          "ans": 1,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "A shopkeeper buys a pen for Rs.50 and sells it for Rs.65. What is his profit percentage?",
+          "q_hi": "एक दुकानदार एक पेन Rs.50 में खरीदता है और Rs.65 में बेचता है। उसका लाभ प्रतिशत क्या है?",
+          "opts": [
+            "0.2",
+            "0.25",
+            "0.3",
+            "0.35"
+          ],
+          "opts_hi": [
+            "0.2",
+            "0.25",
+            "0.3",
+            "0.35"
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        }
+      ]
     }
   ]
 }
