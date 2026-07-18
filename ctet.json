@@ -741,6 +741,50 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "ctet_15",
+      "title": "CTET Mock Test 15",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Argument: \"All students should have access to computers.\" Which of the following weakens this argument?",
+          "q_hi": "तर्क: \"सभी छात्रों के पास कंप्यूटर तक पहुंच होनी चाहिए।\" निम्नलिखित में से कौन सा इस तर्क को कमजोर करता है?",
+          "opts": [
+            "Computers help in learning",
+            "Computers are expensive and many schools cannot afford them",
+            "Computers are used in offices",
+            "Computers are easy to use"
+          ],
+          "opts_hi": [
+            "कंप्यूटर सीखने में सहायक हैं",
+            "कंप्यूटर महंगे हैं और कई स्कूल उन्हें वहन नहीं कर सकते",
+            "कंप्यूटर का उपयोग कार्यालयों में किया जाता है",
+            "कंप्यूटर का उपयोग करना आसान है"
+          ],
+          "ans": 1,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "Statement: \"Regular exercise is good for health.\" Conclusion: All healthy people exercise regularly.",
+          "q_hi": "कथन: \"नियमित व्यायाम स्वास्थ्य के लिए अच्छा है।\" निष्कर्ष: सभी स्वस्थ लोग नियमित व्यायाम करते हैं।",
+          "opts": [
+            "Conclusion follows",
+            "Conclusion does not follow",
+            "Conclusion is true only sometimes",
+            "Cannot be determined"
+          ],
+          "opts_hi": [
+            "निष्कर्ष अनुसरण करता है",
+            "निष्कर्ष अनुसरण नहीं करता",
+            "निष्कर्ष केवल कभी-कभी सत्य है",
+            "निर्धारित नहीं किया जा सकता"
+          ],
+          "ans": 1,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
