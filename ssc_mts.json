@@ -481,6 +481,68 @@
           "subject": "Science"
         }
       ]
+    },
+    {
+      "id": "ssc_mts_12",
+      "title": "SSC MTS Mock Test 12",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Pointing to a photograph, a man said, \"I have no brother or sister, but that man's father is my father's son.\" Whose photograph was it?",
+          "q_hi": "एक फोटोग्राफ की ओर इशारा करते हुए, एक व्यक्ति ने कहा, \"मेरा कोई भाई या बहन नहीं है, लेकिन उस व्यक्ति के पिता मेरे पिता के पुत्र हैं।\" वह किसकी फोटोग्राफ थी?",
+          "opts": [
+            "His own",
+            "His father",
+            "His son",
+            "His brother"
+          ],
+          "opts_hi": [
+            "उसकी अपनी",
+            "उसके पिता",
+            "उसके पुत्र",
+            "उसके भाई"
+          ],
+          "ans": 2,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "A person walks 10 km towards north. He turns right and walks 15 km. Then turns right and walks 10 km. Then turns left and walks 5 km. In which direction is he now from the starting point?",
+          "q_hi": "एक व्यक्ति उत्तर की ओर 10 किमी चलता है। वह दाएँ मुड़ता है और 15 किमी चलता है। फिर दाएँ मुड़ता है और 10 किमी चलता है। फिर बाएँ मुड़ता है और 5 किमी चलता है। वह अब आरंभिक बिंदु से किस दिशा में है?",
+          "opts": [
+            "North",
+            "South",
+            "East",
+            "West"
+          ],
+          "opts_hi": [
+            "उत्तर",
+            "दक्षिण",
+            "पूर्व",
+            "पश्चिम"
+          ],
+          "ans": 2,
+          "subject": "Reasoning"
+        },
+        {
+          "q": "Which of the following is similar to the given analogy? 8 : 512 :: 12 : ?",
+          "q_hi": "निम्नलिखित में से कौन सा दिए गए सादृश्य के समान है? 8 : 512 :: 12 : ?",
+          "opts": [
+            "144",
+            "1728",
+            "1228",
+            "1200"
+          ],
+          "opts_hi": [
+            "144",
+            "1728",
+            "1228",
+            "1200"
+          ],
+          "ans": 1,
+          "subject": "Reasoning"
+        }
+      ]
     }
   ]
 }
