@@ -1,0 +1,454 @@
+{
+  "questions": [
+    {
+      "q": "Who is known as the \"Father of the Indian Constitution\"?",
+      "q_hi": "भारतीय संविधान के जनक के रूप में किसे जाना जाता है?",
+      "opts": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "B.R. Ambedkar",
+        "Sardar Patel"
+      ],
+      "opts_hi": [
+        "महात्मा गांधी",
+        "जवाहरलाल नेहरू",
+        "बी.आर. अम्बेडकर",
+        "सरदार पटेल"
+      ],
+      "ans": 2,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "Which of the following is a non-metallic mineral?",
+      "q_hi": "निम्नलिखित में से कौन सा अधात्विक खनिज है?",
+      "opts": [
+        "Iron Ore",
+        "Bauxite",
+        "Mica",
+        "Copper"
+      ],
+      "opts_hi": [
+        "लौह अयस्क",
+        "बॉक्साइट",
+        "अभ्रक",
+        "तांबा"
+      ],
+      "ans": 2,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "The \"Gandhi-Irwin Pact\" was signed in which year?",
+      "q_hi": "गांधी-इरविन समझौता किस वर्ष हस्ताक्षरित किया गया था?",
+      "opts": [
+        "1929",
+        "1930",
+        "1931",
+        "1932"
+      ],
+      "opts_hi": [
+        "1929",
+        "1930",
+        "1931",
+        "1932"
+      ],
+      "ans": 2,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "The largest gland in the human body is the:",
+      "q_hi": "मानव शरीर की सबसे बड़ी ग्रंथि है:",
+      "opts": [
+        "Liver",
+        "Kidney",
+        "Pancreas",
+        "Thyroid"
+      ],
+      "opts_hi": [
+        "यकृत",
+        "वृक्क",
+        "अग्न्याशय",
+        "थायराइड"
+      ],
+      "ans": 0,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "Which of the following is NOT a Kharif crop?",
+      "q_hi": "निम्नलिखित में से कौन सी खरीफ की फसल नहीं है?",
+      "opts": [
+        "Rice",
+        "Wheat",
+        "Cotton",
+        "Sugarcane"
+      ],
+      "opts_hi": [
+        "धान",
+        "गेहूँ",
+        "कपास",
+        "गन्ना"
+      ],
+      "ans": 1,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "The Panchayati Raj system was first introduced in which Indian state?",
+      "q_hi": "पंचायती राज प्रणाली सबसे पहले किस भारतीय राज्य में शुरू की गई थी?",
+      "opts": [
+        "Uttar Pradesh",
+        "Rajasthan",
+        "Gujarat",
+        "Maharashtra"
+      ],
+      "opts_hi": [
+        "उत्तर प्रदेश",
+        "राजस्थान",
+        "गुजरात",
+        "महाराष्ट्र"
+      ],
+      "ans": 1,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "The concept of \"Gross Domestic Product\" (GDP) was popularized by:",
+      "q_hi": "सकल घरेलू उत्पाद (GDP) की अवधारणा को किसने लोकप्रिय बनाया?",
+      "opts": [
+        "Adam Smith",
+        "Karl Marx",
+        "Simon Kuznets",
+        "John Maynard Keynes"
+      ],
+      "opts_hi": [
+        "एडम स्मिथ",
+        "कार्ल मार्क्स",
+        "साइमन कुजनेट्स",
+        "जॉन मेनार्ड कीन्स"
+      ],
+      "ans": 2,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "Bauxite is an ore of which metal?",
+      "q_hi": "बॉक्साइट किस धातु का अयस्क है?",
+      "opts": [
+        "Iron",
+        "Copper",
+        "Aluminum",
+        "Gold"
+      ],
+      "opts_hi": [
+        "लोहा",
+        "तांबा",
+        "एल्यूमीनियम",
+        "सोना"
+      ],
+      "ans": 2,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "Which planet is known as the \"Morning Star\"?",
+      "q_hi": "किस ग्रह को \"सुबह का तारा\" कहा जाता है?",
+      "opts": [
+        "Mars",
+        "Jupiter",
+        "Venus",
+        "Mercury"
+      ],
+      "opts_hi": [
+        "मंगल",
+        "बृहस्पति",
+        "शुक्र",
+        "बुध"
+      ],
+      "ans": 2,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "Which Amendment Act is known as the \"Mini Constitution\" of India?",
+      "q_hi": "किस संशोधन अधिनियम को भारत का \"लघु संविधान\" कहा जाता है?",
+      "opts": [
+        "42nd Amendment",
+        "44th Amendment",
+        "73rd Amendment",
+        "86th Amendment"
+      ],
+      "opts_hi": [
+        "42वाँ संशोधन",
+        "44वाँ संशोधन",
+        "73वाँ संशोधन",
+        "86वाँ संशोधन"
+      ],
+      "ans": 0,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "The first woman President of India was:",
+      "q_hi": "भारत की पहली महिला राष्ट्रपति थीं:",
+      "opts": [
+        "Indira Gandhi",
+        "Pratibha Patil",
+        "Sarojini Naidu",
+        "Sonia Gandhi"
+      ],
+      "opts_hi": [
+        "इंदिरा गांधी",
+        "प्रतिभा पाटिल",
+        "सरोजिनी नायडू",
+        "सोनिया गांधी"
+      ],
+      "ans": 1,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "Which gas is most abundant in the Earth's atmosphere?",
+      "q_hi": "पृथ्वी के वायुमंडल में कौन सी गैस सबसे अधिक प्रचुर मात्रा में है?",
+      "opts": [
+        "Oxygen",
+        "Carbon Dioxide",
+        "Nitrogen",
+        "Argon"
+      ],
+      "opts_hi": [
+        "ऑक्सीजन",
+        "कार्बन डाइऑक्साइड",
+        "नाइट्रोजन",
+        "आर्गन"
+      ],
+      "ans": 2,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "The Battle of Plassey was fought in which year?",
+      "q_hi": "प्लासी का युद्ध किस वर्ष लड़ा गया था?",
+      "opts": [
+        "1757",
+        "1764",
+        "1857",
+        "1776"
+      ],
+      "opts_hi": [
+        "1757",
+        "1764",
+        "1857",
+        "1776"
+      ],
+      "ans": 0,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "The currency of Japan is:",
+      "q_hi": "जापान की मुद्रा है:",
+      "opts": [
+        "Yuan",
+        "Won",
+        "Yen",
+        "Ringgit"
+      ],
+      "opts_hi": [
+        "युआन",
+        "वोन",
+        "येन",
+        "रिंगित"
+      ],
+      "ans": 2,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "Which of the following is a Rabi crop?",
+      "q_hi": "निम्नलिखित में से कौन सी रबी की फसल है?",
+      "opts": [
+        "Rice",
+        "Maize",
+        "Wheat",
+        "Cotton"
+      ],
+      "opts_hi": [
+        "धान",
+        "मक्का",
+        "गेहूँ",
+        "कपास"
+      ],
+      "ans": 2,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "The \"Mughal Empire\" was founded by:",
+      "q_hi": "मुगल साम्राज्य की स्थापना किसने की थी?",
+      "opts": [
+        "Akbar",
+        "Babur",
+        "Humayun",
+        "Shah Jahan"
+      ],
+      "opts_hi": [
+        "अकबर",
+        "बाबर",
+        "हुमायूँ",
+        "शाहजहाँ"
+      ],
+      "ans": 1,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "Blood is purified in the:",
+      "q_hi": "रक्त किसमें शुद्ध होता है?",
+      "opts": [
+        "Heart",
+        "Lungs",
+        "Kidney",
+        "Liver"
+      ],
+      "opts_hi": [
+        "हृदय",
+        "फेफड़े",
+        "वृक्क",
+        "यकृत"
+      ],
+      "ans": 2,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "Which of the following is a renewable source of energy?",
+      "q_hi": "निम्नलिखित में से कौन सा ऊर्जा का नवीकरणीय स्रोत है?",
+      "opts": [
+        "Coal",
+        "Petroleum",
+        "Natural Gas",
+        "Solar Energy"
+      ],
+      "opts_hi": [
+        "कोयला",
+        "पेट्रोलियम",
+        "प्राकृतिक गैस",
+        "सौर ऊर्जा"
+      ],
+      "ans": 3,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "The first Indian satellite was named:",
+      "q_hi": "भारत का पहला उपग्रह किस नाम से जाना जाता था?",
+      "opts": [
+        "INSAT-1B",
+        "IRS-1A",
+        "Aryabhata",
+        "Bhaskara"
+      ],
+      "opts_hi": [
+        "INSAT-1B",
+        "IRS-1A",
+        "आर्यभट्ट",
+        "भास्कर"
+      ],
+      "ans": 2,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "The capital of Australia is:",
+      "q_hi": "ऑस्ट्रेलिया की राजधानी है:",
+      "opts": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Brisbane"
+      ],
+      "opts_hi": [
+        "सिडनी",
+        "मेलबर्न",
+        "कैनबरा",
+        "ब्रिस्बेन"
+      ],
+      "ans": 2,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "The longest river in India is:",
+      "q_hi": "भारत की सबसे लंबी नदी है:",
+      "opts": [
+        "Ganga",
+        "Brahmaputra",
+        "Godavari",
+        "Yamuna"
+      ],
+      "opts_hi": [
+        "गंगा",
+        "ब्रह्मपुत्र",
+        "गोदावरी",
+        "यमुना"
+      ],
+      "ans": 0,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "The \"Quit India Movement\" was launched in:",
+      "q_hi": "भारत छोड़ो आंदोलन किस वर्ष शुरू किया गया था?",
+      "opts": [
+        "1942",
+        "1945",
+        "1947",
+        "1939"
+      ],
+      "opts_hi": [
+        "1942",
+        "1945",
+        "1947",
+        "1939"
+      ],
+      "ans": 0,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "The chemical formula of water is:",
+      "q_hi": "जल का रासायनिक सूत्र है:",
+      "opts": [
+        "H2O",
+        "CO2",
+        "NaCl",
+        "HCl"
+      ],
+      "opts_hi": [
+        "H2O",
+        "CO2",
+        "NaCl",
+        "HCl"
+      ],
+      "ans": 0,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "Which state is known as the \"Land of Five Rivers\"?",
+      "q_hi": "किस राज्य को \"पाँच नदियों की भूमि\" के रूप में जाना जाता है?",
+      "opts": [
+        "Uttar Pradesh",
+        "Punjab",
+        "Haryana",
+        "Rajasthan"
+      ],
+      "opts_hi": [
+        "उत्तर प्रदेश",
+        "पंजाब",
+        "हरियाणा",
+        "राजस्थान"
+      ],
+      "ans": 1,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "The author of the book \"Discovery of India\" is:",
+      "q_hi": "Discovery of India पुस्तक के लेखक हैं:",
+      "opts": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Rabindranath Tagore",
+        "Subhash Chandra Bose"
+      ],
+      "opts_hi": [
+        "महात्मा गांधी",
+        "जवाहरलाल नेहरू",
+        "रवीन्द्रनाथ टैगोर",
+        "सुभाष चंद्र बोस"
+      ],
+      "ans": 1,
+      "subject": "General Awareness"
+    }
+  ]
+}
