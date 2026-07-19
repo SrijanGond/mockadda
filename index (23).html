@@ -1,0 +1,1555 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+<title>MockAdda – Free Online Mock Tests | SSC, Banking, Railways, Teaching</title>
+<meta name="description" content="Practice free mock tests on MockAdda for SSC, Banking, Railways, Teaching and Civil Services exams."/>
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@600;700;800&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+*{box-sizing:border-box;margin:0;padding:0;}
+html,body{background:linear-gradient(180deg,#eef2ff 0%,#f8fafc 420px,#f8fafc 100%);color:#0f172a;font-family:'DM Sans',sans-serif;-webkit-font-smoothing:antialiased;}
+::-webkit-scrollbar{width:4px;}
+::-webkit-scrollbar-thumb{background:#cbd5e1;border-radius:4px;}
+button{font-family:'DM Sans',sans-serif;cursor:pointer;}
+#app{min-height:100vh;padding-bottom:60px;}
+/* Floating language toggle - always visible */
+#langFloat{
+  position:fixed;bottom:20px;right:20px;z-index:9999;
+  display:flex;align-items:center;background:#0f172a;
+  border-radius:30px;padding:6px 8px;gap:4px;
+  box-shadow:0 4px 20px rgba(0,0,0,0.3);
+  border:2px solid rgba(255,255,255,0.15);
+  transition:bottom 0.2s;
+}
+body[data-screen="quiz"] #langFloat{
+  bottom:86px;
+}
+#langFloat button{
+  padding:8px 16px;border-radius:24px;border:none;
+  font-size:13px;font-weight:700;cursor:pointer;
+  transition:all 0.2s;
+}
+#langFloat button.active{background:#0ea5e9;color:#fff;}
+#langFloat button.inactive{background:transparent;color:#94a3b8;}
+#langFloat button.inactive:hover{color:#fff;}
+@keyframes spin{to{transform:rotate(360deg);}}
+@keyframes fadeIn{from{opacity:0;transform:translateY(8px);}to{opacity:1;transform:translateY(0);}}
+
+/* CBT (Computer Based Test) quiz screen — responsive layout.
+   Mobile: single column, question palette opens as a bottom sheet.
+   Desktop (>=960px): two columns, palette always visible as a sidebar. */
+.qb-sidebar{display:none;}
+.qb-mobile-nav-btn{display:inline-flex;}
+.qb-main-col{width:100%;}
+@media(min-width:960px){
+  .qb-container{display:flex;gap:18px;align-items:flex-start;}
+  .qb-main-col{flex:1;min-width:0;}
+  .qb-sidebar{display:block !important;width:300px;flex-shrink:0;position:sticky;top:76px;}
+  .qb-mobile-nav-btn{display:none !important;}
+}
+</style>
+</head>
+<body>
+<div id="app"></div>
+
+<!-- FLOATING LANGUAGE TOGGLE - Always visible on every screen -->
+<div id="langFloat">
+  <span style="font-size:11px;color:#64748b;padding:0 4px;">Lang:</span>
+  <button id="btnEN" class="active" onclick="setLang('en')">EN</button>
+  <button id="btnHI" class="inactive" onclick="setLang('hi')">हिंदी</button>
+</div>
+
+<script>
+// ── LANGUAGE TOGGLE ──────────────────────────────────────────────────────────
+function setLang(lang) {
+  S.lang = lang;
+  document.getElementById('btnEN').className = lang==='en' ? 'active' : 'inactive';
+  document.getElementById('btnHI').className = lang==='hi' ? 'active' : 'inactive';
+  render();
+}
+
+// ── STATE ────────────────────────────────────────────────────────────────────
+let DATA = {};
+let S = {
+  screen:'loading', activeCatKey:null, activeExamKey:null, activeExam:null,
+  test:null, qi:0, ans:{}, flagged:new Set(), visited:new Set([0]),
+  timeLeft:0, timeTaken:0, startTime:null,
+  navOpen:false, confirm:false, reviewOpen:false, stopConfirm:false,
+  lang:'en', returnScreen:'tests',
+  sectional:false, sectionsCache:null, sectionIndex:0, sectionTimeLeft:0, sectionDurationSec:0, sectionLocked:new Set()
+};
+let timerHandle = null;
+const app = document.getElementById('app');
+const fmt = s=>`${String(Math.floor(s/60)).padStart(2,'0')}:${String(s%60).padStart(2,'0')}`;
+
+// ── TYPING PRACTICE: STATE & DATA ─────────────────────────────────────────────
+let T = { lang:'en', duration:180, passage:null, typed:'', startTime:null, timeLeft:0, finished:false, results:null, selectedPassageId:null };
+
+// ── VOCABULARY BUILDER — WORD OF THE DAY ──────────────────────────────────────
+const VOCAB_WORDS = [
+  {word:'Abate', meaning_en:'To become less intense or severe', meaning_hi:'कम होना, घटना', example:'The government hopes new measures will abate inflation.', synonym:'Decrease', antonym:'Intensify'},
+  {word:'Candid', meaning_en:'Truthful and straightforward; frank', meaning_hi:'स्पष्टवादी, निष्कपट', example:'The officer gave a candid assessment of the situation.', synonym:'Frank', antonym:'Evasive'},
+  {word:'Diligent', meaning_en:'Showing careful and persistent effort', meaning_hi:'परिश्रमी, मेहनती', example:'Diligent students revise their notes every single day.', synonym:'Hardworking', antonym:'Lazy'},
+  {word:'Eloquent', meaning_en:'Fluent and persuasive in speaking or writing', meaning_hi:'वाक्पटु, प्रभावशाली', example:'Her eloquent speech convinced the entire committee.', synonym:'Articulate', antonym:'Inarticulate'},
+  {word:'Feasible', meaning_en:'Possible to do easily or conveniently', meaning_hi:'व्यवहार्य, संभव', example:'The proposed budget cut was not feasible this year.', synonym:'Viable', antonym:'Impractical'},
+  {word:'Gregarious', meaning_en:'Fond of company; sociable', meaning_hi:'मिलनसार, सामाजिक', example:'A gregarious officer builds rapport with the public quickly.', synonym:'Sociable', antonym:'Reserved'},
+  {word:'Hostile', meaning_en:'Unfriendly or antagonistic', meaning_hi:'शत्रुतापूर्ण, विरोधी', example:'The two nations maintained hostile relations for years.', synonym:'Antagonistic', antonym:'Friendly'},
+  {word:'Impartial', meaning_en:'Treating all sides equally; unbiased', meaning_hi:'निष्पक्ष', example:'A judge must remain impartial while hearing a case.', synonym:'Unbiased', antonym:'Biased'},
+  {word:'Judicious', meaning_en:'Having good judgment; sensible', meaning_hi:'विवेकपूर्ण, बुद्धिमान', example:'The committee made a judicious decision on fund allocation.', synonym:'Prudent', antonym:'Reckless'},
+  {word:'Lucid', meaning_en:'Clear and easy to understand', meaning_hi:'स्पष्ट, सुबोध', example:'The teacher gave a lucid explanation of the new policy.', synonym:'Clear', antonym:'Confusing'},
+  {word:'Meticulous', meaning_en:'Showing great attention to detail', meaning_hi:'सूक्ष्म, बारीकी से', example:'She was meticulous while checking the exam answer sheets.', synonym:'Thorough', antonym:'Careless'},
+  {word:'Novice', meaning_en:'A person new to a particular activity', meaning_hi:'नौसिखिया, शुरुआती', example:'As a novice, he made a few errors in his first test.', synonym:'Beginner', antonym:'Expert'},
+  {word:'Obsolete', meaning_en:'No longer produced or used; outdated', meaning_hi:'अप्रचलित, पुराना', example:'That old recruitment process is now obsolete.', synonym:'Outdated', antonym:'Modern'},
+  {word:'Pragmatic', meaning_en:'Dealing with things sensibly and realistically', meaning_hi:'व्यावहारिक', example:'The officer took a pragmatic approach to the crisis.', synonym:'Practical', antonym:'Idealistic'},
+  {word:'Quandary', meaning_en:'A state of uncertainty over what to do', meaning_hi:'दुविधा, असमंजस', example:'She was in a quandary about which exam to prepare for first.', synonym:'Dilemma', antonym:'Certainty'},
+  {word:'Resilient', meaning_en:'Able to recover quickly from difficulties', meaning_hi:'लचीला, दृढ़', example:'A resilient candidate bounces back after a failed attempt.', synonym:'Tough', antonym:'Fragile'},
+  {word:'Scrutinize', meaning_en:'To examine closely and carefully', meaning_hi:'बारीकी से जांच करना', example:'Officials will scrutinize every application this year.', synonym:'Inspect', antonym:'Overlook'},
+  {word:'Tenacious', meaning_en:'Persistent in maintaining or achieving something', meaning_hi:'दृढ़, हठी', example:'His tenacious preparation finally paid off in the exam.', synonym:'Persistent', antonym:'Yielding'},
+  {word:'Unanimous', meaning_en:'Fully in agreement', meaning_hi:'सर्वसम्मत', example:'The panel reached a unanimous decision on the new syllabus.', synonym:'Undisputed', antonym:'Divided'},
+  {word:'Vigilant', meaning_en:'Keeping careful watch for possible danger', meaning_hi:'सतर्क, चौकस', example:'Invigilators remain vigilant throughout the examination.', synonym:'Watchful', antonym:'Careless'},
+  {word:'Ambiguous', meaning_en:'Open to more than one interpretation; unclear', meaning_hi:'अस्पष्ट, संदिग्ध', example:'The question paper had one ambiguous statement.', synonym:'Vague', antonym:'Clear'},
+  {word:'Benevolent', meaning_en:'Well meaning and kindly', meaning_hi:'परोपकारी, दयालु', example:'The benevolent scheme aims to help rural students.', synonym:'Kind', antonym:'Malicious'},
+  {word:'Concise', meaning_en:'Giving information clearly in few words', meaning_hi:'संक्षिप्त', example:'Keep your answers concise during the interview round.', synonym:'Brief', antonym:'Verbose'},
+  {word:'Deficit', meaning_en:'The amount by which something falls short', meaning_hi:'घाटा, कमी', example:'The state reported a fiscal deficit this quarter.', synonym:'Shortfall', antonym:'Surplus'},
+  {word:'Empirical', meaning_en:'Based on observation or experience rather than theory', meaning_hi:'अनुभवजन्य', example:'The report relies on empirical data from the field survey.', synonym:'Observed', antonym:'Theoretical'},
+  {word:'Frugal', meaning_en:'Sparing or economical with money or resources', meaning_hi:'मितव्ययी, कम खर्च करने वाला', example:'A frugal budget helped the department save costs.', synonym:'Thrifty', antonym:'Extravagant'},
+  {word:'Genuine', meaning_en:'Truly what it is said to be; authentic', meaning_hi:'वास्तविक, असली', example:'Only genuine certificates will be accepted during verification.', synonym:'Authentic', antonym:'Fake'},
+  {word:'Hamper', meaning_en:'To hinder or impede the progress of something', meaning_hi:'बाधा डालना', example:'Heavy rain hampered the exam center arrangements.', synonym:'Hinder', antonym:'Facilitate'},
+  {word:'Illustrious', meaning_en:'Well known and highly respected', meaning_hi:'प्रतिष्ठित, यशस्वी', example:'The institute has an illustrious record of successful candidates.', synonym:'Distinguished', antonym:'Obscure'},
+  {word:'Jeopardize', meaning_en:'To put at risk of harm, loss, or failure', meaning_hi:'खतरे में डालना', example:'Skipping revision could jeopardize your final score.', synonym:'Endanger', antonym:'Protect'},
+];
+function getWordOfDay(){
+  const now = new Date();
+  const start = new Date(now.getFullYear(),0,0);
+  const diff = now - start;
+  const dayOfYear = Math.floor(diff / 86400000);
+  return VOCAB_WORDS[dayOfYear % VOCAB_WORDS.length];
+}
+
+let typingTimerHandle = null;
+
+const TYPING_PASSAGES = {
+  en: [
+    { id:'en1', level:'Beginner', title:'Daily Practice',
+      text:"Success comes to those who work hard every single day. A student who practices typing for even ten minutes daily will see steady improvement within a few weeks. Speed matters, but accuracy matters more. Focus on typing every word correctly before trying to type faster." },
+    { id:'en2', level:'Beginner', title:'Simple Habits',
+      text:"Good habits build a good future. Waking up early, reading for a few minutes, and reviewing notes at the end of the day are small steps. None of these steps feel big on their own, but together they create real progress over months and years of steady effort." },
+    { id:'en3', level:'Intermediate', title:'Exam Preparation',
+      text:"Government job exams in India test a wide range of skills, from general knowledge to reasoning and quantitative aptitude. Many posts, especially Data Entry Operator roles, also require a typing speed test as part of the selection process. Building typing speed alongside subject knowledge gives candidates a real advantage during the final stages of recruitment." },
+    { id:'en4', level:'Intermediate', title:'Time Management',
+      text:"Time management is often the difference between candidates who clear an exam and those who do not. Dividing the syllabus into weekly targets, revising older topics regularly, and taking timed mock tests helps students understand exactly where they stand before the real exam day arrives." },
+    { id:'en5', level:'Advanced', title:'Discipline and Consistency',
+      text:"Consistency beats intensity when it comes to long term preparation. A candidate who studies for two focused hours every day for six months will almost always outperform someone who studies for twelve hours occasionally and then takes long breaks. The same principle applies to typing practice. Short, regular sessions build muscle memory far more effectively than infrequent, lengthy ones. Set a realistic daily target, track your words per minute and accuracy over time, and celebrate small improvements along the way." },
+    { id:'en6', level:'Advanced', title:'General Awareness Matters',
+      text:"Current affairs and general awareness sections often decide the final rank in competitive exams, precisely because they are the sections most candidates neglect. Reading a newspaper daily, noting down important schemes, appointments, and dates, and revising them weekly is far more effective than trying to memorize months of news the night before an exam. Numbers like 42.5%, budgets worth Rs. 12,000 crore, or dates such as 15/08/1947 also test how comfortable a candidate is typing digits and punctuation accurately under time pressure." }
+  ],
+  hi: [
+    { id:'hi1', level:'Beginner', title:'रोज़ अभ्यास',
+      text:"मेहनत करने वालों की कभी हार नहीं होती। जो विद्यार्थी हर दिन दस मिनट भी टाइपिंग का अभ्यास करता है, वह कुछ ही सप्ताह में सुधार देखता है। गति महत्वपूर्ण है, लेकिन सटीकता उससे भी अधिक महत्वपूर्ण है। तेज़ टाइप करने से पहले हर शब्द को सही ढंग से टाइप करने पर ध्यान दें।" },
+    { id:'hi2', level:'Beginner', title:'अच्छी आदतें',
+      text:"अच्छी आदतें एक अच्छे भविष्य का निर्माण करती हैं। जल्दी उठना, कुछ मिनट पढ़ना, और दिन के अंत में नोट्स की समीक्षा करना छोटे कदम हैं। ये सभी कदम अकेले बड़े नहीं लगते, लेकिन महीनों और वर्षों के निरंतर प्रयास से मिलकर ये वास्तविक प्रगति बनाते हैं।" },
+    { id:'hi3', level:'Intermediate', title:'परीक्षा की तैयारी',
+      text:"भारत में सरकारी नौकरी की परीक्षाएं सामान्य ज्ञान से लेकर तर्कशक्ति और गणितीय योग्यता तक कई कौशलों की परीक्षा लेती हैं। कई पदों के लिए, विशेष रूप से डेटा एंट्री ऑपरेटर की भूमिकाओं के लिए, चयन प्रक्रिया के भाग के रूप में टाइपिंग गति परीक्षण भी आवश्यक होता है। विषय ज्ञान के साथ टाइपिंग गति बढ़ाना उम्मीदवारों को भर्ती के अंतिम चरणों में वास्तविक बढ़त देता है।" },
+    { id:'hi4', level:'Intermediate', title:'समय प्रबंधन',
+      text:"समय प्रबंधन अक्सर उन उम्मीदवारों के बीच अंतर पैदा करता है जो परीक्षा पास करते हैं और जो नहीं करते। पाठ्यक्रम को साप्ताहिक लक्ष्यों में विभाजित करना, पुराने विषयों को नियमित रूप से दोहराना, और समयबद्ध मॉक टेस्ट देना विद्यार्थियों को यह समझने में मदद करता है कि वास्तविक परीक्षा के दिन से पहले वे कहाँ खड़े हैं।" },
+    { id:'hi5', level:'Advanced', title:'अनुशासन और निरंतरता',
+      text:"लंबी अवधि की तैयारी में निरंतरता तीव्रता से अधिक महत्वपूर्ण होती है। जो उम्मीदवार छह महीने तक हर दिन दो घंटे केंद्रित होकर पढ़ता है, वह उस व्यक्ति से हमेशा बेहतर प्रदर्शन करेगा जो कभी-कभी बारह घंटे पढ़ता है और फिर लंबा अवकाश लेता है। यही सिद्धांत टाइपिंग अभ्यास पर भी लागू होता है। छोटे, नियमित सत्र अनियमित और लंबे सत्रों की तुलना में मांसपेशियों की स्मृति को कहीं अधिक प्रभावी ढंग से बनाते हैं।" },
+    { id:'hi6', level:'Advanced', title:'सामान्य ज्ञान का महत्व',
+      text:"प्रतियोगी परीक्षाओं में करेंट अफेयर्स और सामान्य ज्ञान खंड अक्सर अंतिम रैंक तय करते हैं, ठीक इसलिए क्योंकि यही वे खंड हैं जिन्हें अधिकतर उम्मीदवार नज़रअंदाज़ करते हैं। रोज़ अखबार पढ़ना, महत्वपूर्ण योजनाओं, नियुक्तियों और तारीखों को नोट करना, और साप्ताहिक रूप से उन्हें दोहराना परीक्षा से एक रात पहले महीनों की खबरें याद करने की कोशिश से कहीं अधिक प्रभावी है। 42.5% जैसी संख्याएँ, 12,000 करोड़ रुपये का बजट, या 15/08/1947 जैसी तारीखें यह भी परखती हैं कि उम्मीदवार समय के दबाव में अंकों और विराम चिह्नों को कितनी सटीकता से टाइप कर पाता है।" }
+  ]
+};
+
+function el(tag,props={},children=[]){
+  const e=document.createElement(tag);
+  for(const [k,v] of Object.entries(props)){
+    if(k==='style') Object.assign(e.style,v);
+    else if(k==='css') e.style.cssText=v;
+    else if(k.startsWith('on')) e.addEventListener(k.slice(2).toLowerCase(),v);
+    else if(k==='html') e.innerHTML=v;
+    else if(k==='text') e.textContent=v;
+    else e.setAttribute(k,v);
+  }
+  children.filter(Boolean).forEach(c=>e.appendChild(typeof c==='string'?document.createTextNode(c):c));
+  return e;
+}
+const render=()=>{app.innerHTML='';app.appendChild(buildScreen());document.body.setAttribute('data-screen',S.screen);window.scrollTo(0,0);};
+const go=screen=>{S.screen=screen;render();};
+
+// Darkens (negative percent) or lightens (positive percent) a hex color, e.g. shadeColor('#3b82f6', -20)
+function shadeColor(hex, percent){
+  let r=parseInt(hex.slice(1,3),16), g=parseInt(hex.slice(3,5),16), b=parseInt(hex.slice(5,7),16);
+  r=Math.round(Math.min(255,Math.max(0,r+(percent/100)*255)));
+  g=Math.round(Math.min(255,Math.max(0,g+(percent/100)*255)));
+  b=Math.round(Math.min(255,Math.max(0,b+(percent/100)*255)));
+  return '#'+[r,g,b].map(v=>v.toString(16).padStart(2,'0')).join('');
+}
+
+// ── MISTAKE NOTEBOOK (saved on this device via localStorage) ─────────────────
+const MISTAKES_KEY = 'mockadda_mistakes_v1';
+function loadMistakes(){
+  try{ return JSON.parse(localStorage.getItem(MISTAKES_KEY) || '[]'); }catch(e){ return []; }
+}
+function saveMistakesList(list){
+  try{ localStorage.setItem(MISTAKES_KEY, JSON.stringify(list)); }catch(e){ /* storage unavailable — fail silently */ }
+}
+function isMistakeSaved(qText){
+  return loadMistakes().some(m=>m.q===qText);
+}
+function toggleMistake(q){
+  const list = loadMistakes();
+  const idx = list.findIndex(m=>m.q===q.q);
+  if(idx>-1){ list.splice(idx,1); } else { list.push({...q, savedAt:Date.now()}); }
+  saveMistakesList(list);
+}
+
+// ── STUDY STREAK TRACKER (saved on this device via localStorage) ─────────────
+const STREAK_KEY = 'mockadda_streak_v1';
+function todayStr(){
+  const d=new Date();
+  return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0');
+}
+function loadStreak(){
+  try{ return JSON.parse(localStorage.getItem(STREAK_KEY)) || {lastActiveDate:null, currentStreak:0, longestStreak:0, totalSessions:0}; }
+  catch(e){ return {lastActiveDate:null, currentStreak:0, longestStreak:0, totalSessions:0}; }
+}
+function recordActivity(){
+  const s = loadStreak();
+  const today = todayStr();
+  if(s.lastActiveDate===today){ s.totalSessions++; }
+  else {
+    const yesterday = new Date(Date.now()-86400000);
+    const yStr = yesterday.getFullYear()+'-'+String(yesterday.getMonth()+1).padStart(2,'0')+'-'+String(yesterday.getDate()).padStart(2,'0');
+    s.currentStreak = (s.lastActiveDate===yStr) ? s.currentStreak+1 : 1;
+    s.longestStreak = Math.max(s.longestStreak, s.currentStreak);
+    s.lastActiveDate = today;
+    s.totalSessions = (s.totalSessions||0)+1;
+  }
+  try{ localStorage.setItem(STREAK_KEY, JSON.stringify(s)); }catch(e){}
+  return s;
+}
+
+const Q={
+  bg:'#070c18',surface:'#0d1426',card:'#121c33',
+  border:'rgba(255,255,255,0.08)',
+  green:'#34d399',red:'#f87171',purple:'#a78bfa',dim:'#475569',
+  text:'#f1f5f9',muted:'#94a3b8',
+};
+const ST={unvisited:Q.dim,visited:Q.red,answered:Q.green,flagged:Q.purple,'ans-flag':Q.purple};
+
+// Light CBT (Computer Based Test) theme — used for the actual test-taking screen,
+// matching the classic exam-portal look (NTA/SSC/Banking style) students already know.
+// Kept separate from Q (the dark theme used elsewhere) so changing one never affects the other.
+const CBT = {
+  bg:'#eef1f5', card:'#ffffff', border:'#e2e8f0', text:'#1e293b', muted:'#64748b', gridBg:'#f8fafc',
+  green:'#16a34a', red:'#dc2626', purple:'#a21caf', unvisited:'#94a3b8'
+};
+const CBT_ST = {unvisited:CBT.unvisited, visited:CBT.red, answered:CBT.green, flagged:CBT.purple, 'ans-flag':CBT.purple};
+
+// Groups a test's questions by subject, in first-seen order. Returns null if the
+// test has no subject data at all, or only one subject (tabs aren't useful with just one).
+function getSubjectSections(test){
+  const hasSubjects = test.questions.some(q=>q.subject);
+  if(!hasSubjects) return null;
+  const order=[], map={};
+  test.questions.forEach((q,i)=>{
+    const subj = q.subject || 'General';
+    if(!map[subj]){ map[subj]=[]; order.push(subj); }
+    map[subj].push(i);
+  });
+  const sections = order.map(subj=>({subject:subj, indices:map[subj]}));
+  return sections.length>1 ? sections : null;
+}
+
+// Marking scheme for a test — defaults to +1/0 (no negative marking) unless the
+// test JSON explicitly sets correctMarks / negativeMarks.
+function getMarkingScheme(test){
+  return {
+    correct: (typeof test.correctMarks==='number') ? test.correctMarks : 1,
+    wrong: (typeof test.negativeMarks==='number') ? test.negativeMarks : 0
+  };
+}
+
+// ── QUIZ LOGIC ────────────────────────────────────────────────────────────────
+function startQuiz(catKey,examKey,test,returnScreen){
+  S.activeCatKey=catKey; S.activeExamKey=examKey;
+  S.activeExam=(catKey && DATA[catKey] && DATA[catKey].exams) ? DATA[catKey].exams[examKey] : null;
+  S.returnScreen = returnScreen || 'tests';
+  S.test={...test,questions:[...test.questions]};
+  S.qi=0;S.ans={};S.flagged=new Set();S.visited=new Set([0]);
+  S.timeLeft=test.duration*60;S.startTime=Date.now();
+  S.navOpen=false;S.confirm=false;S.reviewOpen=false;S.stopConfirm=false;
+
+  S.sectional = !!test.sectional;
+  S.sectionLocked = new Set();
+  if(S.sectional){
+    S.sectionsCache = getSubjectSections(S.test) || [];
+    S.sectionIndex = 0;
+    S.sectionDurationSec = test.sectionDurationSec || Math.round((test.duration*60)/(S.sectionsCache.length||1));
+    S.sectionTimeLeft = S.sectionDurationSec;
+    if(S.sectionsCache.length){ S.qi = S.sectionsCache[0].indices[0]; S.visited=new Set([S.qi]); }
+  } else {
+    S.sectionsCache=null; S.sectionIndex=0; S.sectionTimeLeft=0; S.sectionDurationSec=0;
+  }
+
+  S.screen='quiz';render();startTimer();
+}
+function startTimer(){
+  clearInterval(timerHandle);
+  timerHandle=setInterval(()=>{
+    S.timeLeft=Math.max(0,S.timeLeft-1); // overall exam time, always tracked (used for results timeTaken + total-remaining display)
+    if(S.sectional){
+      S.sectionTimeLeft=Math.max(0,S.sectionTimeLeft-1);
+      if(S.sectionTimeLeft===0){ advanceSection(); return; }
+    } else if(S.timeLeft===0){
+      clearInterval(timerHandle);submit();return;
+    }
+    const d=document.getElementById('timerDisp');
+    if(d){
+      const displaySec = S.sectional ? S.sectionTimeLeft : S.timeLeft;
+      d.textContent=fmt(displaySec);
+      if(displaySec<60){ d.style.background=CBT.red; d.style.boxShadow='0 4px 14px rgba(220,38,38,0.4)'; }
+    }
+  },1000);
+}
+
+// Called when a section's 15-minute timer hits 0, OR the student manually ends the section early.
+// Locks every question in the finishing section (no going back), then moves to the next section's
+// first question with a fresh timer — or submits the whole test if this was the last section.
+function advanceSection(){
+  const sections=S.sectionsCache;
+  if(!sections || !sections.length){ clearInterval(timerHandle); submit(); return; }
+  const cur=sections[S.sectionIndex];
+  cur.indices.forEach(i=>S.sectionLocked.add(i));
+  if(S.sectionIndex>=sections.length-1){
+    clearInterval(timerHandle); submit(); return;
+  }
+  S.sectionIndex++;
+  const next=sections[S.sectionIndex];
+  S.sectionTimeLeft=S.sectionDurationSec;
+  S.qi=next.indices[0];
+  S.visited.add(S.qi);
+  render();
+}
+function goQ(idx){ if(S.sectionLocked.has(idx)) return; S.visited.add(idx);S.qi=idx;S.navOpen=false;render();}
+function submit(){
+  clearInterval(timerHandle);
+  if(S.startTime) S.timeTaken=Math.floor((Date.now()-S.startTime)/1000);
+  recordActivity();
+  S.screen='results';S.confirm=false;S.navOpen=false;render();
+}
+function getResults(){
+  if(!S.test) return null;
+  let correct=0,wrong=0;
+  S.test.questions.forEach((q,i)=>{
+    if(S.ans[i]===undefined) return;
+    S.ans[i]===q.ans?correct++:wrong++;
+  });
+  const total=S.test.questions.length;
+  const marks=getMarkingScheme(S.test);
+  const marksScored=correct*marks.correct - wrong*marks.wrong;
+  const maxMarks=total*marks.correct;
+  return{correct,wrong,unattempted:total-correct-wrong,score:Math.round((correct/total)*100),total,marksScored,maxMarks,marks};
+}
+
+function getSubjectBreakdown(){
+  if(!S.test) return null;
+  const hasSubjects = S.test.questions.some(q=>q.subject);
+  if(!hasSubjects) return null;
+  const bySubject = {};
+  S.test.questions.forEach((q,i)=>{
+    const subj = q.subject || 'Other';
+    if(!bySubject[subj]) bySubject[subj] = {correct:0,wrong:0,unattempted:0,total:0};
+    bySubject[subj].total++;
+    const ua = S.ans[i];
+    if(ua===undefined) bySubject[subj].unattempted++;
+    else if(ua===q.ans) bySubject[subj].correct++;
+    else bySubject[subj].wrong++;
+  });
+  return bySubject;
+}
+
+const SUBJECT_TIPS = {
+  history:'Build a timeline of major events and revise it weekly rather than reading randomly.',
+  polity:'Focus on the Constitution\'s articles, amendments, and key facts — these repeat across exams.',
+  geography:'Study with a map open — visual memory of locations sticks far better than text alone.',
+  mathematics:'Practice speed calculation tricks daily; most marks are lost to slow calculation, not wrong concepts.',
+  maths:'Practice speed calculation tricks daily; most marks are lost to slow calculation, not wrong concepts.',
+  economy:'Link current government schemes and budget figures to core economic concepts for easier recall.',
+  computer:'Revise shortcut keys, basic hardware/software terms, and computer generations — these repeat often.',
+  'current affairs':'Read a daily digest and note only exam-relevant facts — dates, names, numbers.',
+  environment:'Focus on international agreements, national parks, and recent environmental schemes.',
+  sports:'Keep a running note of major tournament winners and venues — this updates every few months.',
+  culture:'Pair monuments, dances, and festivals with their states — associations recall easier than lists.',
+  defence:'Track recent defence exercises, equipment inductions, and key appointments.',
+  reasoning:'Practice a mix of puzzle types daily rather than repeating one pattern — reasoning rewards variety.',
+  english:'Read short passages daily and note new vocabulary — grammar sticks better with real examples.',
+  'general science':'Revisit NCERT-level science basics — most questions test fundamentals, not advanced concepts.',
+  science:'Revisit NCERT-level science basics — most questions test fundamentals, not advanced concepts.',
+};
+function subjectTip(subject){
+  const key = String(subject||'').toLowerCase().trim();
+  return SUBJECT_TIPS[key] || ('Review your basics in '+subject+' and practice more MCQs regularly to build confidence.');
+}
+
+function buildQuizInsights(results, breakdown, singleSubject){
+  const strengths=[], weaknesses=[], tips=[];
+  if(breakdown){
+    const rows=[];
+    Object.keys(breakdown).forEach(subj=>{
+      const b=breakdown[subj];
+      const attempted=b.correct+b.wrong;
+      if(!attempted) return; // fully skipped subject — not enough info to judge
+      const accuracy=Math.round((b.correct/attempted)*100);
+      rows.push({subj,accuracy});
+      if(accuracy>=80) strengths.push(subj+' — '+accuracy+'% accuracy');
+      else if(accuracy<50){ weaknesses.push(subj+' — '+accuracy+'% accuracy'); tips.push(subjectTip(subj)); }
+    });
+    // if nothing crossed the absolute weak threshold, still call out the relatively weakest subject
+    if(!weaknesses.length && rows.length>1){
+      const worst = rows.reduce((a,b)=> (b.accuracy<a.accuracy ? b : a));
+      weaknesses.push(worst.subj+' — your relatively weakest subject ('+worst.accuracy+'% accuracy)');
+      tips.push(subjectTip(worst.subj));
+    }
+  } else if(singleSubject){
+    const attempted=results.correct+results.wrong;
+    if(attempted){
+      const accuracy=Math.round((results.correct/attempted)*100);
+      if(accuracy>=80) strengths.push(singleSubject+' — '+accuracy+'% accuracy');
+      else if(accuracy<50){ weaknesses.push(singleSubject+' — '+accuracy+'% accuracy'); tips.push(subjectTip(singleSubject)); }
+    }
+  }
+  if(results.unattempted > results.total*0.2){
+    weaknesses.push(results.unattempted+' question(s) left unattempted');
+    tips.push('Try to attempt every question — even an educated guess has a chance, while a skip guarantees zero.');
+  }
+  if(results.score>=80) strengths.push('Strong overall score ('+results.score+'%)');
+  if(!strengths.length) strengths.push('Keep practicing — your strengths will show up as you build consistency.');
+  if(!weaknesses.length) weaknesses.push('No major weak areas found in this test — well done!');
+  return { strengths, weaknesses, tips:[...new Set(tips)] };
+}
+function qStatus(i){
+  if(!S.visited.has(i)) return 'unvisited';
+  const a=S.ans[i]!==undefined,f=S.flagged.has(i);
+  if(a&&f) return 'ans-flag';if(a) return 'answered';if(f) return 'flagged';return 'visited';
+}
+function totalExams(){return Object.values(DATA).reduce((a,c)=>a+Object.keys(c.exams).length,0);}
+function totalTests(){return Object.values(DATA).reduce((a,c)=>a+Object.values(c.exams).reduce((b,e)=>b+e.tests.length,0),0);}
+function qCount(t){return t.questions?t.questions.length:(t.questionCount||0);}
+function totalQuestions(){return Object.values(DATA).reduce((a,c)=>a+Object.values(c.exams).reduce((b,e)=>b+e.tests.reduce((d,t)=>d+qCount(t),0),0),0);}
+
+function buildScreen(){
+  const map={loading:loadingScreen,home:homeScreen,exams:examsScreen,tests:testsScreen,quiz:quizScreen,results:resultsScreen,privacy:privacyScreen,contact:contactScreen,about:aboutScreen,terms:termsScreen,typingHome:typingHomeScreen,typingTest:typingTestScreen,typingResults:typingResultsScreen,subjectsHome:subjectsHomeScreen,mistakesHome:mistakesHomeScreen,vocabHome:vocabHomeScreen};
+  return(map[S.screen]||loadingScreen)();
+}
+
+// ── LOADING ───────────────────────────────────────────────────────────────────
+function loadingScreen(){
+  return el('div',{css:'min-height:100vh;display:flex;align-items:center;justify-content:center;flex-direction:column;gap:16px;'},[
+    el('div',{css:'width:44px;height:44px;border:4px solid #e2e8f0;border-top:4px solid #0ea5e9;border-radius:50%;animation:spin 1s linear infinite;'}),
+    el('div',{css:'font-family:Syne,sans-serif;font-weight:700;color:#0ea5e9;font-size:16px;',text:'Loading MockAdda...'})
+  ]);
+}
+
+// ── NAVBAR ────────────────────────────────────────────────────────────────────
+function Navbar(){
+  const nav=el('nav',{css:'position:sticky;top:0;z-index:50;background:#fff;border-bottom:1px solid #e2e8f0;padding:0 20px;display:flex;align-items:center;justify-content:space-between;height:58px;box-shadow:0 1px 4px rgba(0,0,0,0.06);'});
+  const logo=el('div',{css:'display:flex;align-items:center;gap:8px;cursor:pointer;',onClick:()=>go('home')});
+  logo.appendChild(el('div',{css:'width:36px;height:36px;border-radius:10px;background:linear-gradient(135deg,#0ea5e9,#7c3aed);display:flex;align-items:center;justify-content:center;color:#fff;font-weight:800;font-size:17px;font-family:Syne,sans-serif;',text:'M'}));
+  const lt=el('div',{css:'display:flex;align-items:baseline;gap:1px;'});
+  lt.appendChild(el('span',{css:'font-family:Syne,sans-serif;font-weight:800;font-size:19px;color:#0f172a;',text:'Mock'}));
+  lt.appendChild(el('span',{css:'font-family:Syne,sans-serif;font-weight:800;font-size:19px;color:#0ea5e9;',text:'Adda'}));
+  logo.appendChild(lt);nav.appendChild(logo);
+  const right=el('div',{css:'display:flex;align-items:center;gap:10px;'});
+  right.appendChild(el('a',{href:'mailto:contact@mockadda.com',css:'font-size:12px;color:#64748b;font-weight:500;',text:'Contact'}));
+  nav.appendChild(right);
+  return nav;
+}
+
+// ── HOME ──────────────────────────────────────────────────────────────────────
+function homeScreen(){
+  const root=el('div');
+  root.appendChild(Navbar());
+  const hero=el('div',{css:'background:linear-gradient(135deg,#0f172a 0%,#1e1b4b 60%,#0f172a 100%);padding:44px 20px 48px;text-align:center;position:relative;overflow:hidden;'});
+  hero.appendChild(el('div',{css:'position:absolute;top:-80px;left:-80px;width:260px;height:260px;background:rgba(14,165,233,0.07);border-radius:50%;pointer-events:none;'}));
+  hero.appendChild(el('div',{css:'position:absolute;bottom:-100px;right:-60px;width:300px;height:300px;background:rgba(124,58,237,0.06);border-radius:50%;pointer-events:none;'}));
+  const hi=el('div',{css:'position:relative;max-width:600px;margin:0 auto;'});
+  hi.appendChild(el('div',{css:'display:inline-block;background:rgba(14,165,233,0.15);border:1px solid rgba(14,165,233,0.3);color:#38bdf8;font-size:11px;font-weight:700;padding:5px 16px;border-radius:20px;letter-spacing:0.1em;margin-bottom:18px;',text:'🎯 FREE MOCK TESTS FOR ALL COMPETITIVE EXAMS'}));
+  hi.appendChild(el('h1',{css:'font-family:Syne,sans-serif;font-weight:800;font-size:26px;color:#fff;line-height:1.3;margin-bottom:12px;',text:'One Destination for Complete Exam Preparation'}));
+  hi.appendChild(el('p',{css:'color:#94a3b8;font-size:14px;line-height:1.7;margin-bottom:28px;',text:'Practice with real exam-pattern mock tests for SSC, Banking, Railways, Teaching & Civil Services.'}));
+  const lr=el('div',{css:'display:flex;justify-content:center;gap:6px;align-items:center;margin-bottom:28px;flex-wrap:wrap;'});
+  ['Learn','Practice','Improve','Succeed'].forEach((t,i,arr)=>{
+    lr.appendChild(el('span',{css:'color:#f1f5f9;font-size:13px;font-weight:600;',text:t}));
+    if(i<arr.length-1) lr.appendChild(el('span',{css:'color:#0ea5e9;font-size:16px;',text:'→'}));
+  });
+  hi.appendChild(lr);
+  const stats=el('div',{css:'display:flex;justify-content:center;gap:0;background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.08);border-radius:16px;overflow:hidden;'});
+  [[Object.keys(DATA).length+'','Categories'],[totalExams()+'','Exams'],[totalTests()+'','Mock Tests'],[totalQuestions()+'','Questions']].forEach(([v,l],i,arr)=>{
+    const s=el('div',{css:`flex:1;padding:16px 10px;text-align:center;${i<arr.length-1?'border-right:1px solid rgba(255,255,255,0.08);':''}`});
+    s.appendChild(el('div',{css:'font-family:Syne,sans-serif;font-size:22px;font-weight:800;color:#0ea5e9;',text:v}));
+    s.appendChild(el('div',{css:'font-size:10px;color:#64748b;margin-top:2px;font-weight:500;',text:l}));
+    stats.appendChild(s);
+  });
+  hi.appendChild(stats);hero.appendChild(hi);root.appendChild(hero);
+
+  // Quick-launch cards — placed right after the hero so students see them without scrolling
+  const quickWrap=el('div',{css:'padding:16px 20px 4px;max-width:800px;margin:0 auto;'});
+  const quickGrid=el('div',{css:'display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;'});
+  const quickCards=[
+    ['⌨️','Typing Practice','English & Hindi','#0891b2','#0e7490',()=>{S.screen='typingHome';render();}],
+    ['📚','Practice by Subject','Maths, Polity, English & more','#7c3aed','#6d28d9',()=>{S.screen='subjectsHome';render();}],
+    ['🔖','Mistake Notebook','Revisit questions you got wrong','#db2777','#be185d',()=>{S.screen='mistakesHome';render();}],
+    ['📖','Word of the Day','Build your English vocabulary','#059669','#047857',()=>{S.screen='vocabHome';render();}],
+  ];
+  quickCards.forEach(([ic,title,sub,c1,c2,onClick])=>{
+    const card=el('div',{css:`background:linear-gradient(135deg,${c1},${c2});border-radius:14px;padding:16px 14px;cursor:pointer;`,onClick});
+    card.appendChild(el('div',{css:'font-size:24px;margin-bottom:6px;',text:ic}));
+    card.appendChild(el('div',{css:'font-family:Syne,sans-serif;font-weight:800;font-size:13px;color:#fff;margin-bottom:2px;',text:title}));
+    card.appendChild(el('div',{css:'font-size:11px;color:rgba(255,255,255,0.85);line-height:1.4;',text:sub}));
+    quickGrid.appendChild(card);
+  });
+  quickWrap.appendChild(quickGrid);root.appendChild(quickWrap);
+
+  const streak = loadStreak();
+  if(streak.currentStreak>0){
+    const streakBar=el('div',{css:'max-width:800px;margin:10px auto 0;padding:0 20px;'});
+    const streakCard=el('div',{css:'background:linear-gradient(135deg,#f59e0b,#d97706);border-radius:12px;padding:12px 16px;display:flex;align-items:center;gap:10px;'});
+    streakCard.appendChild(el('div',{css:'font-size:22px;',text:'🔥'}));
+    const stText=el('div',{css:'flex:1;'});
+    stText.appendChild(el('div',{css:'font-family:Syne,sans-serif;font-weight:800;font-size:13px;color:#fff;',text:streak.currentStreak+' day'+(streak.currentStreak===1?'':'s')+' streak!'}));
+    stText.appendChild(el('div',{css:'font-size:11px;color:rgba(255,255,255,0.85);',text:'Longest: '+streak.longestStreak+' day'+(streak.longestStreak===1?'':'s')+' · '+streak.totalSessions+' session'+(streak.totalSessions===1?'':'s')+' total'}));
+    streakCard.appendChild(stText);
+    streakBar.appendChild(streakCard);
+    root.appendChild(streakBar);
+  }
+
+
+  const tabWrap=el('div',{css:'background:#fff;border-bottom:2px solid #e2e8f0;padding:0 20px;overflow-x:auto;white-space:nowrap;scrollbar-width:none;'});
+  const tabs=el('div',{css:'display:inline-flex;gap:2px;'});
+  Object.entries(DATA).forEach(([k,cat])=>{
+    const tab=el('button',{css:`background:none;border:none;border-bottom:2px solid transparent;margin-bottom:-2px;padding:14px 16px;font-size:13px;font-weight:600;color:#64748b;cursor:pointer;white-space:nowrap;transition:all 0.15s;`,onClick:()=>{S.activeCatKey=k;go('exams');}});
+    tab.appendChild(el('span',{text:cat.icon+' '+cat.name}));
+    tab.addEventListener('mouseenter',()=>{tab.style.color=cat.color;tab.style.borderBottomColor=cat.color;});
+    tab.addEventListener('mouseleave',()=>{tab.style.color='#64748b';tab.style.borderBottomColor='transparent';});
+    tabs.appendChild(tab);
+  });
+  tabWrap.appendChild(tabs);root.appendChild(tabWrap);
+
+  const body=el('div',{css:'padding:28px 20px 20px;max-width:800px;margin:0 auto;'});
+  const banner=el('div',{css:'background:linear-gradient(135deg,#f0f9ff,#faf5ff);border:1px solid #e0f2fe;border-radius:14px;padding:16px 18px;margin-bottom:28px;display:flex;align-items:center;gap:14px;'});
+  banner.appendChild(el('div',{css:'font-size:28px;flex-shrink:0;',text:'📊'}));
+  const bt=el('div');
+  bt.appendChild(el('div',{css:'font-family:Syne,sans-serif;font-weight:700;font-size:14px;color:#0f172a;margin-bottom:3px;',text:'Real Exam Pattern Mock Tests'}));
+  bt.appendChild(el('div',{css:'font-size:12px;color:#64748b;line-height:1.5;',text:'All tests follow the latest exam pattern with timed interface, auto-submit, and detailed result analysis.'}));
+  banner.appendChild(bt);body.appendChild(banner);
+  body.appendChild(el('h2',{css:'font-family:Syne,sans-serif;font-weight:800;font-size:18px;color:#0f172a;margin-bottom:20px;',text:'Popular Exams'}));
+  Object.entries(DATA).forEach(([catKey,cat])=>{
+    const sec=el('div',{css:'margin-bottom:28px;'});
+    const sh=el('div',{css:'display:flex;align-items:center;justify-content:space-between;margin-bottom:12px;'});
+    const sl=el('div',{css:'display:flex;align-items:center;gap:8px;'});
+    sl.appendChild(el('div',{css:`width:32px;height:32px;background:${cat.color}18;color:${cat.color};border-radius:8px;display:flex;align-items:center;justify-content:center;font-size:16px;`,text:cat.icon}));
+    sl.appendChild(el('span',{css:'font-family:Syne,sans-serif;font-weight:700;font-size:15px;color:#0f172a;',text:cat.name}));
+    sl.appendChild(el('span',{css:'font-size:11px;color:#94a3b8;',text:`(${Object.keys(cat.exams).length} exams)`}));
+    sh.appendChild(sl);
+    sh.appendChild(el('span',{css:`font-size:12px;color:${cat.color};font-weight:600;cursor:pointer;`,text:'View All →',onClick:()=>{S.activeCatKey=catKey;go('exams');}}));
+    sec.appendChild(sh);
+    const grid=el('div',{css:'display:grid;grid-template-columns:1fr 1fr;gap:10px;'});
+    Object.entries(cat.exams).forEach(([ek,exam])=>grid.appendChild(examCard(catKey,ek,exam,cat.color)));
+    sec.appendChild(grid);body.appendChild(sec);
+  });
+  const feat=el('div',{css:'background:linear-gradient(135deg,#0f172a,#1e1b4b);border-radius:16px;padding:24px 20px;margin-bottom:28px;'});
+  feat.appendChild(el('h3',{css:'font-family:Syne,sans-serif;font-weight:800;font-size:16px;color:#fff;text-align:center;margin-bottom:18px;',text:'Why MockAdda?'}));
+  const fg=el('div',{css:'display:grid;grid-template-columns:1fr 1fr;gap:12px;'});
+  [['⏱','Timed Tests','Real CBT experience with auto-submit'],['📊','Detailed Results','Score, accuracy & time analysis'],['📝','Answer Review','Check correct answers after test'],['🆓','100% Free','No registration required']].forEach(([ic,t,d])=>{
+    const f=el('div',{css:'background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.08);border-radius:12px;padding:14px 12px;'});
+    f.appendChild(el('div',{css:'font-size:22px;margin-bottom:6px;',text:ic}));
+    f.appendChild(el('div',{css:'font-family:Syne,sans-serif;font-weight:700;font-size:12px;color:#f1f5f9;margin-bottom:3px;',text:t}));
+    f.appendChild(el('div',{css:'font-size:11px;color:#64748b;line-height:1.4;',text:d}));
+    fg.appendChild(f);
+  });
+  feat.appendChild(fg);body.appendChild(feat);
+  root.appendChild(body);root.appendChild(Footer());
+  return root;
+}
+
+function examCard(catKey,examKey,exam,color){
+  const tc=exam.tests.length,qc=exam.tests.reduce((a,t)=>a+qCount(t),0);
+  const dark=shadeColor(color,-22);
+  const card=el('div',{css:`background:linear-gradient(135deg,${color},${dark});border-radius:16px;padding:17px 15px;cursor:pointer;transition:all 0.18s;box-shadow:0 4px 14px ${color}4d;position:relative;overflow:hidden;`});
+  card.appendChild(el('div',{css:`position:absolute;top:-26px;right:-26px;width:80px;height:80px;background:rgba(255,255,255,0.14);border-radius:50%;pointer-events:none;`}));
+  card.appendChild(el('div',{css:`position:absolute;bottom:-30px;left:-16px;width:70px;height:70px;background:rgba(255,255,255,0.08);border-radius:50%;pointer-events:none;`}));
+  card.appendChild(el('div',{css:'font-size:24px;margin-bottom:8px;position:relative;',text:'📝'}));
+  card.appendChild(el('div',{css:'font-family:Syne,sans-serif;font-weight:800;font-size:13px;color:#fff;margin-bottom:3px;position:relative;',text:exam.name}));
+  card.appendChild(el('div',{css:'font-size:10px;color:rgba(255,255,255,0.85);margin-bottom:11px;line-height:1.4;position:relative;',text:exam.fullname}));
+  const tags=el('div',{css:'display:flex;gap:6px;flex-wrap:wrap;position:relative;'});
+  tags.appendChild(el('span',{css:`background:rgba(255,255,255,0.25);color:#fff;font-size:10px;font-weight:700;padding:3px 9px;border-radius:8px;`,text:`${tc} Tests`}));
+  tags.appendChild(el('span',{css:'background:rgba(255,255,255,0.25);color:#fff;font-size:10px;font-weight:600;padding:3px 9px;border-radius:8px;',text:`${qc} Qs`}));
+  card.appendChild(tags);
+  card.addEventListener('mouseenter',()=>{card.style.transform='translateY(-3px)';card.style.boxShadow=`0 8px 22px ${color}66`;});
+  card.addEventListener('mouseleave',()=>{card.style.transform='';card.style.boxShadow=`0 4px 14px ${color}4d`;});
+  card.addEventListener('click',()=>{S.activeCatKey=catKey;S.activeExamKey=examKey;S.activeExam=exam;go('tests');});
+  return card;
+}
+
+// ── EXAMS SCREEN ──────────────────────────────────────────────────────────────
+function examsScreen(){
+  const cat=DATA[S.activeCatKey];
+  const root=el('div');root.appendChild(Navbar());
+  const hdr=el('div',{css:`background:linear-gradient(135deg,${cat.color}15,${cat.color}05);border-bottom:1px solid #e2e8f0;padding:20px;`});
+  hdr.appendChild(el('button',{css:'background:none;border:none;color:#64748b;font-size:13px;cursor:pointer;margin-bottom:10px;display:flex;align-items:center;gap:4px;padding:0;',text:'← Back to Home',onClick:()=>go('home')}));
+  hdr.appendChild(el('div',{css:'display:flex;align-items:center;gap:10px;'},[el('div',{css:'font-size:28px;',text:cat.icon}),el('h2',{css:'font-family:Syne,sans-serif;font-weight:800;font-size:20px;color:#0f172a;',text:cat.name})]));
+  hdr.appendChild(el('p',{css:'font-size:13px;color:#64748b;margin-top:4px;',text:`${Object.keys(cat.exams).length} exams available`}));
+  root.appendChild(hdr);
+  const body=el('div',{css:'padding:20px;max-width:800px;margin:0 auto;'});
+  const grid=el('div',{css:'display:grid;grid-template-columns:1fr 1fr;gap:12px;'});
+  Object.entries(cat.exams).forEach(([ek,exam])=>grid.appendChild(examCard(S.activeCatKey,ek,exam,cat.color)));
+  body.appendChild(grid);root.appendChild(body);root.appendChild(Footer());
+  return root;
+}
+
+// ── TESTS SCREEN ──────────────────────────────────────────────────────────────
+function testsScreen(){
+  const cat=DATA[S.activeCatKey],exam=S.activeExam;
+  const root=el('div');root.appendChild(Navbar());
+  const hdr=el('div',{css:`background:linear-gradient(135deg,${cat.color}15,${cat.color}04);padding:20px;border-bottom:1px solid #e2e8f0;`});
+  hdr.appendChild(el('button',{css:'background:none;border:none;color:#64748b;font-size:13px;cursor:pointer;margin-bottom:10px;display:flex;align-items:center;gap:4px;padding:0;',text:'← Back',onClick:()=>go('exams')}));
+  hdr.appendChild(el('div',{css:'display:flex;align-items:center;gap:8px;margin-bottom:6px;'},[el('span',{css:`background:${cat.color};color:#fff;font-size:11px;font-weight:700;padding:3px 10px;border-radius:8px;`,text:cat.name})]));
+  hdr.appendChild(el('h2',{css:'font-family:Syne,sans-serif;font-weight:800;font-size:20px;color:#0f172a;margin-bottom:3px;',text:exam.name}));
+  hdr.appendChild(el('p',{css:'font-size:12px;color:#64748b;',text:exam.fullname}));
+  root.appendChild(hdr);
+  const body=el('div',{css:'padding:20px;max-width:800px;margin:0 auto;'});
+  body.appendChild(el('p',{css:'font-size:13px;color:#64748b;margin-bottom:18px;line-height:1.6;background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:12px 14px;',text:'⚠️ Tests are timed. Once started, the timer cannot be paused. The test auto-submits when time expires.'}));
+  exam.tests.forEach((t,i)=>{
+    const dc={Easy:['#f0fdf4','#16a34a'],Medium:['#fffbeb','#d97706'],Hard:['#fef2f2','#dc2626']}[t.difficulty]||['#f8fafc','#64748b'];
+    const card=el('div',{css:`background:#fff;border:1.5px solid #e2e8f0;border-left:5px solid ${cat.color};border-radius:14px;padding:18px;margin-bottom:12px;box-shadow:0 2px 8px ${cat.color}1a;`});
+    const top=el('div',{css:'display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:14px;'});
+    top.appendChild(el('div',{},[el('div',{css:'font-family:Syne,sans-serif;font-weight:700;font-size:15px;color:#0f172a;margin-bottom:3px;',text:t.title}),el('div',{css:'font-size:11px;color:#94a3b8;',text:`Mock Test ${i+1}`})]));
+    top.appendChild(el('span',{css:`background:${dc[0]};color:${dc[1]};font-size:11px;font-weight:700;padding:4px 12px;border-radius:20px;`,text:t.difficulty}));
+    card.appendChild(top);
+    const meta=el('div',{css:'display:flex;gap:18px;margin-bottom:16px;'});
+    [['⏱',`${t.duration} min`],['❓',`${qCount(t)} Questions`],['📝','MCQ Format']].forEach(([ic,tx])=>meta.appendChild(el('div',{css:'display:flex;align-items:center;gap:5px;font-size:12px;color:#64748b;'},[el('span',{text:ic}),tx])));
+    card.appendChild(meta);
+    const btn=el('button',{css:`width:100%;padding:13px;background:linear-gradient(135deg,${cat.color},${shadeColor(cat.color,-18)});color:#fff;border:none;border-radius:10px;font-family:Syne,sans-serif;font-weight:700;font-size:14px;cursor:pointer;box-shadow:0 3px 10px ${cat.color}4d;`,text:'Start Mock Test →'});
+    btn.addEventListener('click',async()=>{
+      if(btn.dataset.loading) return;
+      btn.dataset.loading='1';
+      btn.textContent='Loading...';btn.style.opacity='0.7';
+      try{
+        const fullTest=await loadFullTest(S.activeExamKey,t.id,t);
+        btn.style.opacity='1';delete btn.dataset.loading;btn.textContent='Start Mock Test →';
+        startQuiz(S.activeCatKey,S.activeExamKey,fullTest);
+      }catch(e){
+        btn.textContent='Failed — Tap to Retry';btn.style.opacity='1';delete btn.dataset.loading;
+      }
+    });
+    card.appendChild(btn);body.appendChild(card);
+  });
+  root.appendChild(body);root.appendChild(Footer());
+  return root;
+}
+
+// ── QUIZ SCREEN ───────────────────────────────────────────────────────────────
+function quizScreen(){
+  const test=S.test,qs=test.questions,q=qs[S.qi],sel=S.ans[S.qi];
+  const cat=DATA[S.activeCatKey];
+  const accent=cat?cat.color:'#0ea5e9';
+  const answered=Object.keys(S.ans).length;
+  const sections=getSubjectSections(test);
+  const marks=getMarkingScheme(test);
+  const currentSubject=q.subject||null;
+
+  const root=el('div',{css:`min-height:100vh;background:${CBT.bg};font-family:'DM Sans',sans-serif;color:${CBT.text};`});
+
+  // Minimal top utility bar — exit + mobile palette toggle only
+  const topBar=el('div',{css:`position:sticky;top:0;z-index:20;background:#fff;border-bottom:1px solid ${CBT.border};padding:8px 14px;display:flex;align-items:center;justify-content:space-between;gap:10px;`});
+  topBar.appendChild(el('button',{css:`background:${CBT.gridBg};border:1px solid ${CBT.border};color:${CBT.muted};width:30px;height:30px;border-radius:8px;font-size:15px;cursor:pointer;flex-shrink:0;display:flex;align-items:center;justify-content:center;`,text:'✕',onClick:()=>{S.stopConfirm=true;render();}}));
+  topBar.appendChild(el('button',{class:'qb-mobile-nav-btn',css:`background:${accent};color:#fff;border:none;padding:7px 14px;border-radius:8px;font-size:12px;font-weight:700;cursor:pointer;`,text:`📋 ${answered}/${qs.length}`,onClick:()=>{S.navOpen=true;render();}}));
+  root.appendChild(topBar);
+
+  const container=el('div',{class:'qb-container',css:'max-width:1100px;margin:0 auto;padding:16px;'});
+  const mainCol=el('div',{class:'qb-main-col'});
+
+  // Exam title header
+  const examHeader=el('div',{css:'text-align:center;margin-bottom:12px;'});
+  examHeader.appendChild(el('div',{css:`font-family:Syne,sans-serif;font-weight:800;font-size:19px;color:${accent};`,text:(S.activeExam?S.activeExam.name:(cat?cat.name:'Mock Test'))}));
+  examHeader.appendChild(el('div',{css:`font-family:Syne,sans-serif;font-weight:700;font-size:14px;color:${CBT.text};margin-top:2px;`,text:test.title}));
+  mainCol.appendChild(examHeader);
+
+  // Info bar: question count, time, marking scheme
+  const infoBar=el('div',{css:`background:#fff;border:1px solid ${CBT.border};border-radius:10px;padding:10px 16px;margin-bottom:14px;display:flex;flex-wrap:wrap;justify-content:center;gap:6px 24px;font-size:12px;color:${CBT.text};`});
+  const timeLabel = S.sectional ? test.duration+' min (strict '+Math.round(S.sectionDurationSec/60)+' min per section)' : test.duration+' min';
+  const infoItems=[['Number Of Questions',String(qs.length)],['Time',timeLabel],['Correct Answer Carries','+'+marks.correct]];
+  if(marks.wrong>0) infoItems.push(['Wrong Answer Carries','-'+marks.wrong]);
+  infoItems.forEach(([label,val])=>{
+    infoBar.appendChild(el('div',{},[el('strong',{text:label+': '}),val]));
+  });
+  mainCol.appendChild(infoBar);
+
+  // Big countdown pill — shows CURRENT SECTION time when sectional, else overall exam time
+  const displaySec = S.sectional ? S.sectionTimeLeft : S.timeLeft;
+  const timerWrap=el('div',{css:'text-align:center;margin-bottom:8px;'});
+  timerWrap.appendChild(el('div',{id:'timerDisp',css:`display:inline-block;background:${CBT.green};color:#fff;padding:10px 34px;border-radius:30px;font-family:Syne,sans-serif;font-weight:800;font-size:20px;box-shadow:0 4px 14px rgba(22,163,74,0.35);`,text:fmt(displaySec)}));
+  mainCol.appendChild(timerWrap);
+  if(S.sectional && S.sectionsCache && S.sectionsCache.length){
+    mainCol.appendChild(el('div',{css:`text-align:center;font-size:11px;color:${CBT.muted};margin-bottom:14px;`,text:'Section '+(S.sectionIndex+1)+' of '+S.sectionsCache.length+' · Total time remaining: '+fmt(S.timeLeft)}));
+  } else {
+    mainCol.appendChild(el('div',{css:'margin-bottom:8px;'}));
+  }
+
+  // Subject section heading
+  if(currentSubject){
+    mainCol.appendChild(el('div',{css:`text-align:center;font-family:Syne,sans-serif;font-weight:800;font-size:17px;color:${CBT.text};margin-bottom:14px;`,text:currentSubject}));
+  }
+
+  // Question card
+  const qCard=el('div',{css:`background:#fff;border:1px solid ${CBT.border};border-radius:12px;padding:20px;margin-bottom:16px;box-shadow:0 1px 4px rgba(0,0,0,0.06);`});
+  const qTextWrap=el('div',{css:'display:flex;gap:8px;margin-bottom:18px;'});
+  qTextWrap.appendChild(el('div',{css:`font-weight:700;color:${accent};flex-shrink:0;`,text:(S.qi+1)+'.'}));
+  const qTextInner=el('div',{css:'flex:1;'});
+  qTextInner.appendChild(el('div',{css:`font-size:15px;line-height:1.7;color:${CBT.text};`,text:q.q}));
+  if(S.lang==='hi'&&q.q_hi){
+    qTextInner.appendChild(el('div',{css:`font-size:14px;color:#4338ca;margin-top:6px;line-height:1.7;`,text:q.q_hi}));
+  }
+  qTextWrap.appendChild(qTextInner);
+  qCard.appendChild(qTextWrap);
+
+  // Options — classic radio-button rows, 2 per line
+  const optsGrid=el('div',{css:'display:grid;grid-template-columns:1fr 1fr;gap:14px 20px;margin-bottom:18px;'});
+  q.opts.forEach((opt,i)=>{
+    const isSel=sel===i;
+    const hindiOpt=(S.lang==='hi'&&q.opts_hi&&q.opts_hi[i])?q.opts_hi[i]:null;
+    const row=el('label',{css:`display:flex;align-items:flex-start;gap:9px;cursor:pointer;font-size:14px;color:${CBT.text};padding:6px;border-radius:8px;`});
+    const radio=el('input',{type:'radio',name:'qopt',css:`margin-top:3px;accent-color:${accent};cursor:pointer;flex-shrink:0;width:16px;height:16px;`});
+    if(isSel) radio.checked=true;
+    radio.addEventListener('change',()=>{S.ans[S.qi]=i;render();});
+    row.appendChild(radio);
+    const optText=el('div',{css:'flex:1;line-height:1.5;'});
+    optText.appendChild(el('span',{css:'font-weight:600;margin-right:4px;',text:'('+(i+1)+')'}));
+    if(hindiOpt){
+      optText.appendChild(el('span',{text:hindiOpt}));
+      optText.appendChild(el('div',{css:`font-size:12px;color:${CBT.muted};margin-top:2px;`,text:opt}));
+    } else {
+      optText.appendChild(el('span',{text:opt}));
+    }
+    row.appendChild(optText);
+    optsGrid.appendChild(row);
+  });
+  qCard.appendChild(optsGrid);
+
+  // Clear Response / Review Later
+  const isFlagged=S.flagged.has(S.qi);
+  const actionRow=el('div',{css:'display:flex;gap:10px;flex-wrap:wrap;'});
+  actionRow.appendChild(el('button',{css:`padding:9px 18px;background:#fff;border:1.5px solid ${CBT.border};color:${CBT.text};border-radius:8px;font-size:13px;font-weight:600;cursor:pointer;`,text:'Clear Response',onClick:()=>{delete S.ans[S.qi];render();}}));
+  actionRow.appendChild(el('button',{css:`padding:9px 18px;background:${isFlagged?CBT.purple+'18':'#fff'};border:1.5px solid ${isFlagged?CBT.purple:CBT.border};color:${isFlagged?CBT.purple:CBT.text};border-radius:8px;font-size:13px;font-weight:600;cursor:pointer;`,text:isFlagged?'✓ Marked for Review':'Review Later',onClick:()=>{isFlagged?S.flagged.delete(S.qi):S.flagged.add(S.qi);render();}}));
+  qCard.appendChild(actionRow);
+  mainCol.appendChild(qCard);
+
+  // Previous / Save & Next / Submit Section / Submit Test — all section-aware
+  const curSection = (S.sectional && S.sectionsCache) ? S.sectionsCache[S.sectionIndex] : null;
+  const isSectionFirstQ = curSection ? (S.qi===curSection.indices[0]) : (S.qi===0);
+  const isSectionLastQ = curSection ? (S.qi===curSection.indices[curSection.indices.length-1]) : (S.qi===qs.length-1);
+  const isFinalSection = !S.sectional || (S.sectionsCache && S.sectionIndex===S.sectionsCache.length-1);
+  const prevDisabled = S.sectional ? isSectionFirstQ : (S.qi===0);
+
+  const navRow=el('div',{css:'display:flex;gap:10px;margin-bottom:20px;'});
+  navRow.appendChild(el('button',{css:`flex:1;padding:12px;background:#fff;border:1.5px solid ${CBT.border};color:${prevDisabled?'#cbd5e1':CBT.text};border-radius:10px;font-weight:600;font-size:14px;cursor:pointer;`,text:'← Previous',onClick:()=>{if(!prevDisabled)goQ(S.qi-1);}}));
+  if(isSectionLastQ && isFinalSection){
+    navRow.appendChild(el('button',{css:`flex:1;padding:12px;background:${CBT.green};border:none;color:#fff;border-radius:10px;font-family:Syne,sans-serif;font-weight:700;font-size:14px;cursor:pointer;`,text:'Submit Test',onClick:()=>{S.confirm=true;render();}}));
+  } else if(isSectionLastQ && !isFinalSection){
+    navRow.appendChild(el('button',{css:`flex:1;padding:12px;background:${accent};border:none;color:#fff;border-radius:10px;font-weight:700;font-size:13px;cursor:pointer;`,text:'Submit Section & Continue →',onClick:()=>advanceSection()}));
+  } else {
+    navRow.appendChild(el('button',{css:`flex:1;padding:12px;background:${accent};border:none;color:#fff;border-radius:10px;font-weight:700;font-size:14px;cursor:pointer;`,text:'Save & Next →',onClick:()=>goQ(S.qi+1)}));
+  }
+  mainCol.appendChild(navRow);
+  container.appendChild(mainCol);
+
+  // Sidebar (desktop: always visible; mobile: shown via bottom sheet instead)
+  const sidebar=el('div',{class:'qb-sidebar'});
+  sidebar.appendChild(buildQuestionPalette(qs,sections,accent));
+  container.appendChild(sidebar);
+
+  root.appendChild(container);
+  if(S.navOpen) root.appendChild(navPanel(qs,accent));
+  if(S.confirm) root.appendChild(confirmPanel(qs,answered));
+  if(S.stopConfirm) root.appendChild(stopConfirmPanel());
+  return root;
+}
+
+// Shared question-palette builder — used both in the desktop sidebar and the mobile bottom sheet
+function buildQuestionPalette(qs,sections,accent){
+  const wrap=el('div',{css:`background:#fff;border:1px solid ${CBT.border};border-radius:14px;padding:16px;`});
+
+  // Legend + counts — always computed across the WHOLE test, not just the visible subject
+  const counts={unvisited:0,visited:0,answered:0,flagged:0,'ans-flag':0};
+  qs.forEach((_,i)=>{counts[qStatus(i)]++;});
+  const answeredTotal=counts.answered+counts['ans-flag'];
+  const flaggedTotal=counts.flagged+counts['ans-flag'];
+  const legend=el('div',{css:'display:flex;justify-content:space-between;margin-bottom:14px;'});
+  [[CBT.green,'Answered',answeredTotal],[CBT.purple,'Marked',flaggedTotal],[CBT.unvisited,'Remaining',qs.length-answeredTotal]].forEach(([c,label,val])=>{
+    legend.appendChild(el('div',{css:'text-align:center;flex:1;'},[
+      el('div',{css:`width:14px;height:14px;background:${c};border-radius:3px;margin:0 auto 4px;`}),
+      el('div',{css:`font-weight:700;font-size:13px;color:${CBT.text};`,text:String(val)}),
+      el('div',{css:`color:${CBT.muted};font-size:10px;`,text:label})
+    ]));
+  });
+  wrap.appendChild(legend);
+
+  // Grid — global 1..N numbering by default (subject tabs below are just quick-jump shortcuts).
+  // Only switches to subject-scoped local numbering + locking for tests with STRICT sectional
+  // timing enabled (test.sectional === true), where real exams restrict you to the current section.
+  const currentSubj=qs[S.qi]?qs[S.qi].subject:null;
+  let gridIndices, localNumbering;
+  if(S.sectional && sections){
+    const activeSection=sections.find(s=>s.subject===currentSubj)||sections[0];
+    gridIndices=activeSection.indices; localNumbering=true;
+  } else {
+    gridIndices=qs.map((_,i)=>i); localNumbering=false;
+  }
+  const grid=el('div',{css:'display:grid;grid-template-columns:repeat(5,1fr);gap:8px;margin-bottom:16px;'});
+  gridIndices.forEach((globalIdx,localIdx)=>{
+    const st=qStatus(globalIdx),c=CBT_ST[st];
+    const label=localNumbering?String(localIdx+1):String(globalIdx+1);
+    const locked=S.sectionLocked.has(globalIdx);
+    const btn=el('button',{
+      css:locked
+        ? `padding:8px 0;border-radius:8px;background:#f1f5f9;border:2px solid #e2e8f0;color:#cbd5e1;font-weight:700;font-size:12px;cursor:not-allowed;`
+        : `padding:8px 0;border-radius:8px;background:${globalIdx===S.qi?c:'#fff'};border:2px solid ${c};color:${globalIdx===S.qi?'#fff':c};font-weight:700;font-size:12px;cursor:pointer;`,
+      text:label
+    });
+    if(!locked) btn.addEventListener('click',()=>goQ(globalIdx));
+    grid.appendChild(btn);
+  });
+  wrap.appendChild(grid);
+
+  // Subject tabs — pure status indicators during sectional mode (no jumping between sections allowed);
+  // fully clickable navigation when not sectional (e.g. regular multi-subject mock tests)
+  if(sections){
+    const tabWrap=el('div',{css:'display:flex;flex-wrap:wrap;gap:6px;margin-bottom:16px;'});
+    sections.forEach(sec=>{
+      const isActive=sec.subject===currentSubj;
+      const isLockedSection=S.sectional && sec.indices.every(i=>S.sectionLocked.has(i));
+      const clickable=!S.sectional; // in sectional mode, tabs are display-only
+      const tabBtn=el('button',{css:`padding:8px 14px;border-radius:8px;border:1.5px solid ${isActive?accent:CBT.border};background:${isActive?accent:isLockedSection?'#f1f5f9':'#fff'};color:${isActive?'#fff':isLockedSection?'#cbd5e1':CBT.text};font-size:12px;font-weight:700;cursor:${clickable?'pointer':'default'};`,text:(isLockedSection?'✓ ':'')+sec.subject});
+      if(clickable) tabBtn.addEventListener('click',()=>goQ(sec.indices[0]));
+      tabWrap.appendChild(tabBtn);
+    });
+    wrap.appendChild(tabWrap);
+  }
+
+  // Fullscreen + Submit
+  const actionsRow=el('div',{css:'display:flex;gap:8px;'});
+  const fsBtn=el('button',{css:`width:40px;height:40px;background:#fff;border:1.5px solid ${CBT.border};border-radius:8px;font-size:16px;cursor:pointer;flex-shrink:0;`,text:'⛶'});
+  fsBtn.addEventListener('click',()=>{
+    if(!document.fullscreenElement){ document.documentElement.requestFullscreen().catch(()=>{}); }
+    else { document.exitFullscreen().catch(()=>{}); }
+  });
+  actionsRow.appendChild(fsBtn);
+  actionsRow.appendChild(el('button',{css:`flex:1;padding:10px;background:${CBT.green};border:none;color:#fff;border-radius:8px;font-family:Syne,sans-serif;font-weight:700;font-size:14px;cursor:pointer;`,text:'Submit',onClick:()=>{S.navOpen=false;S.confirm=true;render();}}));
+  wrap.appendChild(actionsRow);
+
+  return wrap;
+}
+
+function navPanel(qs,accent){
+  const sections=getSubjectSections(S.test);
+  const ov=el('div',{css:`position:fixed;inset:0;background:rgba(0,0,0,0.5);z-index:100;display:flex;align-items:flex-end;`});
+  ov.addEventListener('click',()=>{S.navOpen=false;render();});
+  const sheet=el('div',{css:`background:${CBT.bg};width:100%;border-radius:18px 18px 0 0;padding:18px;max-height:82vh;overflow-y:auto;`});
+  sheet.addEventListener('click',e=>e.stopPropagation());
+  sheet.appendChild(el('div',{css:'display:flex;justify-content:space-between;align-items:center;margin-bottom:12px;'},[
+    el('div',{css:`font-family:Syne,sans-serif;font-weight:700;font-size:15px;color:${CBT.text};`,text:'Question Palette'}),
+    el('button',{css:`background:none;border:none;color:${CBT.muted};font-size:22px;cursor:pointer;`,text:'✕',onClick:()=>{S.navOpen=false;render();}})
+  ]));
+  sheet.appendChild(buildQuestionPalette(qs,sections,accent));
+  ov.appendChild(sheet);return ov;
+}
+
+function confirmPanel(qs,answered){
+  const ov=el('div',{css:`position:fixed;inset:0;background:rgba(0,0,0,0.5);z-index:200;display:flex;align-items:center;justify-content:center;padding:24px;`});
+  const box=el('div',{css:`background:#fff;border-radius:16px;padding:24px;border:1px solid ${CBT.border};width:100%;max-width:320px;box-shadow:0 10px 40px rgba(0,0,0,0.2);`});
+  box.appendChild(el('div',{css:`font-family:Syne,sans-serif;font-weight:700;font-size:18px;margin-bottom:10px;color:${CBT.text};`,text:'Submit Test?'}));
+  const rem=qs.length-answered;
+  const al=el('div',{css:`font-size:13px;color:${CBT.muted};margin-bottom:6px;`});
+  al.innerHTML=`Answered: <strong style="color:${CBT.green}">${answered}</strong> / ${qs.length}`;
+  box.appendChild(al);
+  box.appendChild(el('div',{css:`font-size:13px;color:${rem>0?CBT.red:CBT.green};margin-bottom:10px;`,text:rem>0?`⚠ ${rem} question(s) unattempted`:'✓ All questions attempted!'}));
+  if(S.sectional && S.sectionsCache && S.sectionIndex<S.sectionsCache.length-1){
+    box.appendChild(el('div',{css:`font-size:12px;color:${CBT.red};margin-bottom:18px;line-height:1.5;`,text:'⚠ You still have '+(S.sectionsCache.length-1-S.sectionIndex)+' section(s) remaining. Submitting now ends the exam immediately — you will NOT get to attempt them.'}));
+  } else {
+    box.appendChild(el('div',{css:'margin-bottom:8px;'}));
+  }
+  box.appendChild(el('div',{css:'display:flex;gap:10px;'},[
+    el('button',{css:`flex:1;padding:12px;background:${CBT.gridBg};border:1px solid ${CBT.border};color:${CBT.text};border-radius:10px;cursor:pointer;font-weight:600;`,text:'Cancel',onClick:()=>{S.confirm=false;render();}}),
+    el('button',{css:`flex:1;padding:12px;background:${CBT.green};border:none;color:#fff;border-radius:10px;cursor:pointer;font-family:Syne,sans-serif;font-weight:700;`,text:'Submit',onClick:submit})
+  ]));
+  ov.appendChild(box);return ov;
+}
+
+function stopConfirmPanel(){
+  const ov=el('div',{css:`position:fixed;inset:0;background:rgba(0,0,0,0.5);z-index:200;display:flex;align-items:center;justify-content:center;padding:24px;`});
+  const box=el('div',{css:`background:#fff;border-radius:16px;padding:24px;border:1px solid ${CBT.border};width:100%;max-width:320px;box-shadow:0 10px 40px rgba(0,0,0,0.2);`});
+  box.appendChild(el('div',{css:`font-family:Syne,sans-serif;font-weight:700;font-size:18px;margin-bottom:10px;color:${CBT.text};`,text:'Stop this test?'}));
+  box.appendChild(el('div',{css:`font-size:13px;color:${CBT.muted};margin-bottom:18px;line-height:1.5;`,text:'Your progress will not be saved and the timer will stop. You can start this test again anytime from the beginning.'}));
+  box.appendChild(el('div',{css:'display:flex;gap:10px;'},[
+    el('button',{css:`flex:1;padding:12px;background:${CBT.gridBg};border:1px solid ${CBT.border};color:${CBT.text};border-radius:10px;cursor:pointer;font-weight:600;`,text:'Keep Going',onClick:()=>{S.stopConfirm=false;render();}}),
+    el('button',{css:`flex:1;padding:12px;background:${CBT.red};border:none;color:#fff;border-radius:10px;cursor:pointer;font-family:Syne,sans-serif;font-weight:700;`,text:'Stop Test',onClick:()=>{clearInterval(timerHandle);S.stopConfirm=false;S.screen=S.returnScreen;render();}})
+  ]));
+  ov.appendChild(box);return ov;
+}
+
+// ── RESULTS ───────────────────────────────────────────────────────────────────
+function resultsScreen(){
+  const r=getResults();
+  const{correct,wrong,unattempted,score,total}=r;
+  const cat=DATA[S.activeCatKey];
+  const accent=cat?cat.color:'#0ea5e9';
+  const C=2*Math.PI*58,filled=(score/100)*C;
+  const ringColor=score>=75?Q.green:score>=40?accent:Q.red;
+  const root=el('div',{css:`min-height:100vh;background:${Q.bg};font-family:'DM Sans',sans-serif;color:${Q.text};`});
+  const hdr=el('div',{css:`padding:12px 20px;background:${Q.surface};border-bottom:1px solid ${Q.border};display:flex;align-items:center;gap:12px;`});
+  hdr.appendChild(el('button',{css:`background:none;border:none;color:${Q.muted};font-size:22px;cursor:pointer;`,text:'←',onClick:()=>{S.screen=S.returnScreen;render();}}));
+  hdr.appendChild(el('div',{},[el('div',{css:`font-family:Syne,sans-serif;font-weight:700;font-size:17px;color:${Q.text};`,text:'Test Results'}),el('div',{css:`font-size:11px;color:${Q.muted};margin-top:1px;`,text:S.test.title})]));
+  root.appendChild(hdr);
+  const body=el('div',{css:'padding:22px 20px 40px;max-width:600px;margin:0 auto;'});
+  const sw=el('div',{css:'text-align:center;margin-bottom:24px;'});
+  sw.innerHTML=`<svg width="150" height="150" viewBox="0 0 150 150"><circle cx="75" cy="75" r="58" fill="none" stroke="${Q.card}" stroke-width="10"/><circle cx="75" cy="75" r="58" fill="none" stroke="${ringColor}" stroke-width="10" stroke-dasharray="${filled} ${C}" stroke-linecap="round" transform="rotate(-90 75 75)"/><text x="75" y="68" text-anchor="middle" fill="#f1f5f9" font-size="26" font-weight="800" font-family="Syne">${score}%</text><text x="75" y="90" text-anchor="middle" fill="#94a3b8" font-size="11">${correct}/${total} correct</text></svg>`;
+  sw.appendChild(el('div',{css:`font-family:Syne,sans-serif;font-weight:800;font-size:20px;margin-top:4px;color:${Q.text};`,text:score>=75?'🎉 Excellent!':score>=40?'👍 Good Effort!':'📚 Keep Practicing!'}));
+  sw.appendChild(el('div',{css:`font-size:12px;color:${Q.muted};margin-top:4px;`,text:`Time: ${Math.floor(S.timeTaken/60)}m ${S.timeTaken%60}s`}));
+  body.appendChild(sw);
+  const sg=el('div',{css:'display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:20px;'});
+  [[Q.green,'✓','Correct',correct],[Q.red,'✗','Wrong',wrong],[Q.dim,'–','Skipped',unattempted],[Q.muted,'⏱','Duration',`${S.test.duration}m`]].forEach(([c,ic,lb,vl])=>{
+    sg.appendChild(el('div',{css:`background:${Q.card};border:1px solid ${Q.border};border-radius:12px;padding:14px 12px;`},[el('div',{css:`color:${c};font-size:20px;margin-bottom:4px;`,text:ic}),el('div',{css:`font-family:Syne,sans-serif;font-weight:700;font-size:22px;color:${c};`,text:String(vl)}),el('div',{css:`font-size:11px;color:${Q.muted};`,text:lb})]));
+  });
+  body.appendChild(sg);
+
+  if(r.marks.wrong>0){
+    body.appendChild(el('div',{css:`background:${Q.card};border:1px solid ${Q.border};border-radius:12px;padding:12px 16px;margin-bottom:16px;text-align:center;`},[
+      el('span',{css:`color:${Q.muted};font-size:12px;`,text:'Marks Scored (based on this test\'s marking scheme): '}),
+      el('span',{css:`font-family:Syne,sans-serif;font-weight:800;font-size:14px;color:${accent};`,text:r.marksScored+' / '+r.maxMarks})
+    ]));
+  }
+
+  const breakdown = getSubjectBreakdown();
+  const singleSubject = (!breakdown && S.test.practiceSubject) ? S.test.practiceSubject : null;
+  const insights = buildQuizInsights(r, breakdown, singleSubject);
+
+  if(!breakdown && !singleSubject){
+    const note=el('div',{css:`background:${accent}15;border:1px solid ${accent}40;border-radius:10px;padding:10px 12px;margin-bottom:14px;font-size:11px;color:${Q.muted};line-height:1.5;`,text:'ℹ️ This test\'s questions don\'t have subject tags yet, so a subject-wise breakdown isn\'t available here — only overall performance below. Newer tests will show a full subject breakdown automatically.'});
+    body.appendChild(note);
+  }
+
+  const swGrid=el('div',{css:'display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:16px;'});
+  const strengthBox=el('div',{css:`background:${Q.green}15;border:1px solid ${Q.green}40;border-radius:12px;padding:14px;`});
+  strengthBox.appendChild(el('div',{css:`font-family:Syne,sans-serif;font-weight:700;font-size:12px;color:${Q.green};margin-bottom:8px;`,text:'💪 Strengths'}));
+  insights.strengths.forEach(s=>strengthBox.appendChild(el('div',{css:`font-size:11px;color:${Q.text};margin-bottom:5px;line-height:1.4;`,text:'• '+s})));
+  swGrid.appendChild(strengthBox);
+  const weakBox=el('div',{css:`background:${Q.red}15;border:1px solid ${Q.red}40;border-radius:12px;padding:14px;`});
+  weakBox.appendChild(el('div',{css:`font-family:Syne,sans-serif;font-weight:700;font-size:12px;color:${Q.red};margin-bottom:8px;`,text:'🎯 Areas to Improve'}));
+  insights.weaknesses.forEach(s=>weakBox.appendChild(el('div',{css:`font-size:11px;color:${Q.text};margin-bottom:5px;line-height:1.4;`,text:'• '+s})));
+  swGrid.appendChild(weakBox);
+  body.appendChild(swGrid);
+
+  if(insights.tips.length){
+    const tipsBox=el('div',{css:`background:${accent}15;border:1px solid ${accent}40;border-radius:12px;padding:14px;margin-bottom:16px;`});
+    tipsBox.appendChild(el('div',{css:`font-family:Syne,sans-serif;font-weight:700;font-size:12px;color:${accent};margin-bottom:8px;`,text:'💡 Tips to Improve'}));
+    insights.tips.forEach(t=>tipsBox.appendChild(el('div',{css:`font-size:11px;color:${Q.text};margin-bottom:6px;line-height:1.5;`,text:'• '+t})));
+    body.appendChild(tipsBox);
+  }
+
+  body.appendChild(el('button',{css:`width:100%;padding:11px;background:${Q.card};border:1px solid ${Q.border};color:${Q.text};border-radius:10px;font-weight:600;font-size:13px;margin-bottom:16px;cursor:pointer;`,text:(S.reviewOpen?'Hide':'View')+' Answer Review '+(S.reviewOpen?'▲':'▼'),onClick:()=>{S.reviewOpen=!S.reviewOpen;render();}}));
+  if(S.reviewOpen){
+    const rv=el('div',{css:'margin-bottom:16px;'});
+    S.test.questions.forEach((q,i)=>{
+      const ua=S.ans[i],ok=ua===q.ans,sk=ua===undefined;
+      const card=el('div',{css:`background:${Q.card};border:1px solid ${sk?Q.border:ok?Q.green+'35':Q.red+'35'};border-radius:12px;padding:12px 14px;margin-bottom:8px;`});
+      const row=el('div',{css:'display:flex;justify-content:space-between;gap:8px;'});
+      const qt=el('div',{css:`font-size:12px;line-height:1.5;flex:1;color:${Q.text};`});
+      qt.appendChild(el('span',{css:`color:${Q.muted};margin-right:6px;font-weight:600;`,text:`Q${i+1}.`}));
+      qt.appendChild(document.createTextNode(q.q));
+      if(S.lang==='hi'&&q.q_hi) qt.appendChild(el('div',{css:`font-size:11px;color:#818cf8;margin-top:2px;`,text:q.q_hi}));
+      row.appendChild(qt);
+      row.appendChild(el('span',{css:`flex-shrink:0;color:${sk?Q.dim:ok?Q.green:Q.red};font-size:16px;`,text:sk?'–':ok?'✓':'✗'}));
+      card.appendChild(row);
+      // Always show the correct answer, regardless of whether the student got it right, wrong, or skipped it
+      const ct=S.lang==='hi'&&q.opts_hi?`सही उत्तर: ${q.opts_hi[q.ans]} (${q.opts[q.ans]})`:`Correct Answer: ${q.opts[q.ans]}`;
+      card.appendChild(el('div',{css:`margin-top:6px;font-size:11px;color:${Q.green};`,text:ct}));
+      if(!sk&&!ok){
+        const yt=S.lang==='hi'&&q.opts_hi?`आपका उत्तर: ${q.opts_hi[ua]} (${q.opts[ua]})`:`Your Answer: ${q.opts[ua]}`;
+        card.appendChild(el('div',{css:`margin-top:3px;font-size:11px;color:${Q.red};`,text:yt}));
+        const saved = isMistakeSaved(q.q);
+        const bmBtn = el('button',{css:`margin-top:8px;background:${saved?Q.purple+'22':'transparent'};border:1px solid ${saved?Q.purple:Q.border};color:${saved?Q.purple:Q.muted};padding:4px 10px;border-radius:8px;font-size:10px;font-weight:600;cursor:pointer;`,text:saved?'🔖 Saved to Mistake Notebook':'🔖 Save to Mistake Notebook'});
+        bmBtn.addEventListener('click',()=>{ toggleMistake(q); render(); });
+        card.appendChild(bmBtn);
+      }
+      rv.appendChild(card);
+    });
+    body.appendChild(rv);
+  }
+  body.appendChild(el('div',{css:'display:flex;gap:10px;'},[
+    el('button',{css:`flex:1;padding:12px;background:${Q.card};border:1px solid ${Q.border};color:${Q.text};border-radius:10px;font-weight:600;font-size:13px;cursor:pointer;`,text:'Retry',onClick:()=>startQuiz(S.activeCatKey,S.activeExamKey,S.test,S.returnScreen)}),
+    el('button',{css:`flex:1;padding:12px;background:${accent};border:none;color:#fff;border-radius:10px;font-family:Syne,sans-serif;font-weight:700;font-size:13px;cursor:pointer;`,text:S.returnScreen==='subjectsHome'?'More Subjects':'More Tests',onClick:()=>{S.screen=S.returnScreen;render();}})
+  ]));
+  root.appendChild(body);return root;
+}
+
+// ── VOCABULARY BUILDER SCREEN ─────────────────────────────────────────────────
+function vocabHomeScreen(){
+  const root=el('div');root.appendChild(Navbar());
+  const hdr=el('div',{css:'background:linear-gradient(135deg,#059669,#047857);padding:28px 20px;'});
+  hdr.appendChild(el('button',{css:'background:none;border:none;color:rgba(255,255,255,0.8);font-size:13px;cursor:pointer;margin-bottom:10px;display:block;padding:0;',text:'← Back to Home',onClick:()=>go('home')}));
+  hdr.appendChild(el('div',{css:'display:flex;align-items:center;gap:10px;'},[el('div',{css:'font-size:28px;',text:'📖'}),el('h2',{css:'font-family:Syne,sans-serif;font-weight:800;font-size:22px;color:#fff;',text:'Word of the Day'})]));
+  hdr.appendChild(el('p',{css:'font-size:13px;color:#d1fae5;margin-top:6px;',text:'A new word every day to build the vocabulary tested in the English section.'}));
+  root.appendChild(hdr);
+
+  const body=el('div',{css:'padding:20px;max-width:700px;margin:0 auto;'});
+
+  const wod = getWordOfDay();
+  const wodCard=el('div',{css:'background:linear-gradient(135deg,#059669,#047857);border-radius:16px;padding:22px;margin-bottom:24px;box-shadow:0 6px 20px #05966955;'});
+  wodCard.appendChild(el('div',{css:'font-size:11px;color:#a7f3d0;font-weight:700;text-transform:uppercase;letter-spacing:0.08em;margin-bottom:8px;',text:"Today's Word"}));
+  wodCard.appendChild(el('div',{css:'font-family:Syne,sans-serif;font-weight:800;font-size:28px;color:#fff;margin-bottom:10px;',text:wod.word}));
+  wodCard.appendChild(el('div',{css:'font-size:13px;color:#fff;margin-bottom:4px;line-height:1.5;'},[el('strong',{text:'Meaning: '}),wod.meaning_en]));
+  wodCard.appendChild(el('div',{css:'font-size:13px;color:#d1fae5;margin-bottom:10px;line-height:1.5;',text:wod.meaning_hi}));
+  wodCard.appendChild(el('div',{css:'font-size:12px;color:#fff;font-style:italic;background:rgba(255,255,255,0.15);padding:10px 12px;border-radius:8px;margin-bottom:12px;line-height:1.5;',text:'"'+wod.example+'"'}));
+  const tagRow=el('div',{css:'display:flex;gap:8px;'});
+  tagRow.appendChild(el('span',{css:'background:rgba(255,255,255,0.2);color:#fff;font-size:11px;font-weight:600;padding:4px 12px;border-radius:20px;',text:'Synonym: '+wod.synonym}));
+  tagRow.appendChild(el('span',{css:'background:rgba(255,255,255,0.2);color:#fff;font-size:11px;font-weight:600;padding:4px 12px;border-radius:20px;',text:'Antonym: '+wod.antonym}));
+  wodCard.appendChild(tagRow);
+  body.appendChild(wodCard);
+
+  body.appendChild(el('div',{css:'font-size:12px;font-weight:700;color:#64748b;margin-bottom:12px;text-transform:uppercase;letter-spacing:0.05em;',text:'Browse All Words ('+VOCAB_WORDS.length+')'}));
+  VOCAB_WORDS.forEach(w=>{
+    const isToday = w.word===wod.word;
+    const card=el('div',{css:`background:#fff;border:1.5px solid ${isToday?'#059669':'#e2e8f0'};border-radius:12px;padding:14px;margin-bottom:10px;`});
+    const top=el('div',{css:'display:flex;justify-content:space-between;align-items:center;margin-bottom:5px;'});
+    top.appendChild(el('div',{css:'font-family:Syne,sans-serif;font-weight:700;font-size:14px;color:#0f172a;',text:w.word}));
+    if(isToday) top.appendChild(el('span',{css:'background:#05966918;color:#059669;font-size:10px;font-weight:700;padding:2px 8px;border-radius:8px;',text:"Today's Word"}));
+    card.appendChild(top);
+    card.appendChild(el('div',{css:'font-size:12px;color:#475569;margin-bottom:2px;',text:w.meaning_en}));
+    card.appendChild(el('div',{css:'font-size:12px;color:#94a3b8;',text:w.meaning_hi}));
+    body.appendChild(card);
+  });
+
+  root.appendChild(body);root.appendChild(Footer());
+  return root;
+}
+
+// ── MISTAKE NOTEBOOK SCREEN ───────────────────────────────────────────────────
+function mistakesHomeScreen(){
+  const root=el('div');root.appendChild(Navbar());
+  const hdr=el('div',{css:'background:linear-gradient(135deg,#db2777,#be185d);padding:28px 20px;'});
+  hdr.appendChild(el('button',{css:'background:none;border:none;color:rgba(255,255,255,0.8);font-size:13px;cursor:pointer;margin-bottom:10px;display:block;padding:0;',text:'← Back to Home',onClick:()=>go('home')}));
+  hdr.appendChild(el('div',{css:'display:flex;align-items:center;gap:10px;'},[el('div',{css:'font-size:28px;',text:'🔖'}),el('h2',{css:'font-family:Syne,sans-serif;font-weight:800;font-size:22px;color:#fff;',text:'Mistake Notebook'})]));
+  hdr.appendChild(el('p',{css:'font-size:13px;color:#fce7f3;margin-top:6px;',text:'Questions you got wrong, saved from your mock tests. Practice these until they stick.'}));
+  root.appendChild(hdr);
+
+  const body=el('div',{css:'padding:20px;max-width:700px;margin:0 auto;'});
+  const mistakes = loadMistakes();
+
+  if(!mistakes.length){
+    body.appendChild(el('div',{css:'text-align:center;padding:40px 20px;'},[
+      el('div',{css:'font-size:40px;margin-bottom:12px;',text:'📭'}),
+      el('div',{css:'font-family:Syne,sans-serif;font-weight:700;font-size:15px;color:#0f172a;margin-bottom:6px;',text:'No saved mistakes yet'}),
+      el('div',{css:'font-size:12px;color:#94a3b8;line-height:1.6;',text:'After any mock test, open "View Answer Review" and tap "Save to Mistake Notebook" on questions you got wrong.'})
+    ]));
+    root.appendChild(body);root.appendChild(Footer());
+    return root;
+  }
+
+  const summary=el('div',{css:'display:flex;justify-content:space-between;align-items:center;margin-bottom:18px;'});
+  summary.appendChild(el('div',{css:'font-size:13px;color:#64748b;'},[el('strong',{css:'color:#0f172a;',text:String(mistakes.length)}),' saved question'+(mistakes.length===1?'':'s')]));
+  const clearBtn=el('button',{css:'background:none;border:none;color:#dc2626;font-size:12px;font-weight:600;cursor:pointer;',text:'Clear All'});
+  clearBtn.addEventListener('click',()=>{ if(confirm('Remove all saved mistakes?')){ saveMistakesList([]); render(); } });
+  summary.appendChild(clearBtn);
+  body.appendChild(summary);
+
+  const practiceBtn=el('button',{css:'width:100%;padding:14px;background:linear-gradient(135deg,#db2777,#be185d);color:#fff;border:none;border-radius:12px;font-family:Syne,sans-serif;font-weight:700;font-size:14px;cursor:pointer;margin-bottom:20px;box-shadow:0 4px 14px #db27774d;',text:'Practice All Saved Mistakes →'});
+  practiceBtn.addEventListener('click',()=>{
+    const questions = mistakes.map(m=>({q:m.q,q_hi:m.q_hi,opts:m.opts,opts_hi:m.opts_hi,ans:m.ans,subject:m.subject}));
+    const duration = Math.max(10, Math.round(questions.length*1.2));
+    const test = { id:'mistakes-'+Date.now(), title:'Mistake Notebook Practice', duration, difficulty:'Review', questions };
+    startQuiz(null,null,test,'mistakesHome');
+  });
+  body.appendChild(practiceBtn);
+
+  mistakes.slice().reverse().forEach(m=>{
+    const card=el('div',{css:'background:#fff;border:1px solid #e2e8f0;border-radius:12px;padding:14px;margin-bottom:10px;'});
+    card.appendChild(el('div',{css:'font-size:12px;color:#0f172a;line-height:1.5;margin-bottom:8px;',text:m.q}));
+    const rmBtn=el('button',{css:'background:none;border:none;color:#94a3b8;font-size:11px;font-weight:600;cursor:pointer;',text:'Remove'});
+    rmBtn.addEventListener('click',()=>{ toggleMistake(m); render(); });
+    card.appendChild(rmBtn);
+    body.appendChild(card);
+  });
+
+  root.appendChild(body);root.appendChild(Footer());
+  return root;
+}
+
+// ── SUBJECT-WISE PRACTICE ────────────────────────────────────────────────────
+let SUBJECTS_META = null; // cached after first fetch
+const SUBJECT_CACHE = {}; // slug -> questions[]
+
+function slugify(s){
+  return String(s||'').toLowerCase().trim().replace(/[^a-z0-9]+/g,'_').replace(/^_+|_+$/g,'');
+}
+
+async function loadSubjectsMeta(){
+  if(SUBJECTS_META) return SUBJECTS_META;
+  try{
+    const res = await fetch('subjects_meta.json');
+    if(!res.ok) throw new Error('not found');
+    SUBJECTS_META = await res.json();
+  }catch(e){
+    SUBJECTS_META = {};
+  }
+  return SUBJECTS_META;
+}
+
+function shuffle(arr){
+  const a=[...arr];
+  for(let i=a.length-1;i>0;i--){ const j=Math.floor(Math.random()*(i+1)); [a[i],a[j]]=[a[j],a[i]]; }
+  return a;
+}
+
+function subjectsHomeScreen(){
+  const root=el('div');root.appendChild(Navbar());
+  const hdr=el('div',{css:'background:linear-gradient(135deg,#7c3aed,#6d28d9);padding:28px 20px;'});
+  hdr.appendChild(el('button',{css:'background:none;border:none;color:rgba(255,255,255,0.8);font-size:13px;cursor:pointer;margin-bottom:10px;display:block;padding:0;',text:'← Back to Home',onClick:()=>go('home')}));
+  hdr.appendChild(el('div',{css:'display:flex;align-items:center;gap:10px;'},[el('div',{css:'font-size:28px;',text:'📚'}),el('h2',{css:'font-family:Syne,sans-serif;font-weight:800;font-size:22px;color:#fff;',text:'Practice by Subject'})]));
+  hdr.appendChild(el('p',{css:'font-size:13px;color:#ede9fe;margin-top:6px;',text:'Pick a subject and practice a random set of questions, pulled from across all exams.'}));
+  root.appendChild(hdr);
+
+  const body=el('div',{css:'padding:20px;max-width:700px;margin:0 auto;'});
+  const listWrap=el('div',{id:'subjectsList'});
+  listWrap.appendChild(el('div',{css:'text-align:center;padding:30px;color:#94a3b8;font-size:13px;',text:'Loading subjects...'}));
+  body.appendChild(listWrap);
+  root.appendChild(body);root.appendChild(Footer());
+
+  loadSubjectsMeta().then(meta=>{
+    listWrap.innerHTML='';
+    const slugs = Object.keys(meta);
+    if(!slugs.length){
+      listWrap.appendChild(el('div',{css:'text-align:center;padding:30px;color:#94a3b8;font-size:13px;line-height:1.6;',text:'No subject-wise questions are available yet. Check back soon — new subjects are added regularly.'}));
+      return;
+    }
+    slugs.sort((a,b)=>meta[b].count-meta[a].count).forEach(slug=>{
+      const s=meta[slug];
+      const card=el('div',{css:'background:#fff;border:1.5px solid #e2e8f0;border-radius:14px;padding:16px;margin-bottom:12px;box-shadow:0 1px 3px rgba(0,0,0,0.06);display:flex;align-items:center;justify-content:space-between;gap:12px;cursor:pointer;'});
+      const left=el('div',{});
+      left.appendChild(el('div',{css:'font-family:Syne,sans-serif;font-weight:700;font-size:14px;color:#0f172a;margin-bottom:3px;',text:s.name}));
+      left.appendChild(el('div',{css:'font-size:11px;color:#94a3b8;',text:s.count+' question'+(s.count===1?'':'s')+' available'}));
+      card.appendChild(left);
+      card.appendChild(el('div',{css:'background:#7c3aed18;color:#7c3aed;font-size:12px;font-weight:700;padding:8px 14px;border-radius:20px;flex-shrink:0;',text:'Practice →'}));
+      card.addEventListener('click',()=>launchSubjectPractice(slug,s.name,s.count));
+      listWrap.appendChild(card);
+    });
+  });
+
+  return root;
+}
+
+async function launchSubjectPractice(slug, name, count){
+  const listWrap=document.getElementById('subjectsList');
+  if(listWrap) listWrap.innerHTML='<div style="text-align:center;padding:30px;color:#94a3b8;font-size:13px;">Loading questions...</div>';
+  try{
+    if(!SUBJECT_CACHE[slug]){
+      const res = await fetch('subjects/'+slug+'.json');
+      if(!res.ok) throw new Error('Failed to load subject data');
+      const data = await res.json();
+      SUBJECT_CACHE[slug] = data.questions || [];
+    }
+    const pool = SUBJECT_CACHE[slug];
+    const sampleSize = Math.min(20, pool.length);
+    const questions = shuffle(pool).slice(0, sampleSize);
+    const duration = Math.max(10, Math.round(sampleSize * 1));
+    const test = { id:'subject-'+slug+'-'+Date.now(), title:name+' — Subject Practice', duration, difficulty:'Mixed', questions, practiceSubject:name };
+    startQuiz(null, null, test, 'subjectsHome');
+  }catch(e){
+    if(listWrap) listWrap.innerHTML='<div style="text-align:center;padding:30px;color:#dc2626;font-size:13px;">Could not load this subject right now. Please try again.</div>';
+  }
+}
+
+// ── TYPING PRACTICE ────────────────────────────────────────────────────────────
+function typingHomeScreen(){
+  const root=el('div');root.appendChild(Navbar());
+  const hdr=el('div',{css:'background:linear-gradient(135deg,#0891b2,#0e7490);padding:28px 20px;'});
+  hdr.appendChild(el('button',{css:'background:none;border:none;color:rgba(255,255,255,0.8);font-size:13px;cursor:pointer;margin-bottom:10px;display:block;padding:0;',text:'← Back to Home',onClick:()=>go('home')}));
+  hdr.appendChild(el('div',{css:'display:flex;align-items:center;gap:10px;'},[el('div',{css:'font-size:28px;',text:'⌨️'}),el('h2',{css:'font-family:Syne,sans-serif;font-weight:800;font-size:22px;color:#fff;',text:'Typing Practice'})]));
+  hdr.appendChild(el('p',{css:'font-size:13px;color:#cffafe;margin-top:6px;',text:'Practice typing in English or Hindi. Track your speed (WPM) and accuracy live.'}));
+  root.appendChild(hdr);
+
+  const body=el('div',{css:'padding:20px;max-width:700px;margin:0 auto;'});
+
+  // language toggle
+  const langRow=el('div',{css:'display:flex;gap:8px;margin-bottom:18px;'});
+  ['en','hi'].forEach(l=>{
+    const active=T.lang===l;
+    const b=el('button',{css:`flex:1;padding:11px;border-radius:10px;border:1.5px solid ${active?'#0891b2':'#e2e8f0'};background:${active?'#0891b2':'#fff'};color:${active?'#fff':'#64748b'};font-weight:700;font-size:13px;cursor:pointer;`,text:l==='en'?'English':'हिंदी (Hindi)',onClick:()=>{T.lang=l;render();}});
+    langRow.appendChild(b);
+  });
+  body.appendChild(langRow);
+
+  // duration selector
+  body.appendChild(el('div',{css:'font-size:12px;font-weight:700;color:#64748b;margin-bottom:8px;text-transform:uppercase;letter-spacing:0.05em;',text:'Test Duration'}));
+  const durRow=el('div',{css:'display:flex;gap:8px;margin-bottom:22px;flex-wrap:wrap;'});
+  [[60,'1 min'],[180,'3 min'],[300,'5 min'],[600,'10 min'],[900,'15 min'],[1200,'20 min'],[1800,'30 min']].forEach(([sec,label])=>{
+    const active=T.duration===sec;
+    const b=el('button',{css:`padding:9px 14px;border-radius:10px;border:1.5px solid ${active?'#0891b2':'#e2e8f0'};background:${active?'#0891b2':'#fff'};color:${active?'#fff':'#64748b'};font-weight:600;font-size:12px;cursor:pointer;`,text:label,onClick:()=>{T.duration=sec;render();}});
+    durRow.appendChild(b);
+  });
+  body.appendChild(durRow);
+
+  body.appendChild(el('div',{css:'font-size:12px;font-weight:700;color:#64748b;margin-bottom:8px;text-transform:uppercase;letter-spacing:0.05em;',text:'Choose a Passage'}));
+  body.appendChild(el('div',{css:'font-size:11px;color:#94a3b8;margin-bottom:10px;line-height:1.5;',text:'💡 The passage continues automatically for your full selected time — type at whatever speed feels natural, there\'s no limit.'}));
+
+  const LEVEL_ORDER = {Beginner:0, Intermediate:1, Advanced:2};
+  const sortedPassages = [...TYPING_PASSAGES[T.lang]].sort((a,b)=>(LEVEL_ORDER[a.level]??9)-(LEVEL_ORDER[b.level]??9));
+
+  // keep selection valid when switching language, or default to the easiest passage
+  if(!sortedPassages.some(p=>p.id===T.selectedPassageId)){
+    T.selectedPassageId = sortedPassages[0] ? sortedPassages[0].id : null;
+  }
+
+  const selectWrap=el('div',{css:'background:#fff;border:1.5px solid #e2e8f0;border-radius:12px;padding:4px;margin-bottom:14px;'});
+  const select=el('select',{id:'passageSelect',css:'width:100%;padding:12px 10px;border:none;background:transparent;font-size:14px;font-family:inherit;color:#0f172a;outline:none;cursor:pointer;'});
+  sortedPassages.forEach(p=>{
+    const opt=el('option',{value:p.id},[`${p.level} — ${p.title}`]);
+    select.appendChild(opt);
+  });
+  select.value = T.selectedPassageId;
+  select.addEventListener('change',e=>{ T.selectedPassageId=e.target.value; render(); });
+  selectWrap.appendChild(select);
+  body.appendChild(selectWrap);
+
+  const selectedPassage = sortedPassages.find(p=>p.id===T.selectedPassageId) || sortedPassages[0];
+  if(selectedPassage){
+    const lc={Beginner:['#f0fdf4','#16a34a'],Intermediate:['#fffbeb','#d97706'],Advanced:['#fef2f2','#dc2626']}[selectedPassage.level]||['#f8fafc','#64748b'];
+    const preview=el('div',{css:'background:#fff;border:1.5px solid #e2e8f0;border-radius:14px;padding:18px;margin-bottom:20px;box-shadow:0 1px 3px rgba(0,0,0,0.06);'});
+    const top=el('div',{css:'display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:10px;'});
+    top.appendChild(el('div',{css:'font-family:Syne,sans-serif;font-weight:700;font-size:15px;color:#0f172a;',text:selectedPassage.title}));
+    top.appendChild(el('span',{css:`background:${lc[0]};color:${lc[1]};font-size:10px;font-weight:700;padding:3px 10px;border-radius:20px;flex-shrink:0;`,text:selectedPassage.level}));
+    preview.appendChild(top);
+    preview.appendChild(el('div',{css:'font-size:12px;color:#64748b;line-height:1.6;margin-bottom:14px;max-height:80px;overflow-y:auto;',text:selectedPassage.text.slice(0,180)+(selectedPassage.text.length>180?'...':'')}));
+    preview.appendChild(el('button',{css:'width:100%;padding:12px;background:linear-gradient(135deg,#0891b2,#0e7490);color:#fff;border:none;border-radius:10px;font-family:Syne,sans-serif;font-weight:700;font-size:14px;cursor:pointer;box-shadow:0 3px 10px #0891b24d;',text:'Start Typing Test →',onClick:()=>startTypingTest(selectedPassage)}));
+    body.appendChild(preview);
+  }
+
+  root.appendChild(body);root.appendChild(Footer());
+  return root;
+}
+
+function buildRepeatedText(base, durationSec){
+  // Generous upper bound so even a very fast typist (100+ WPM) never runs out of text before time is up
+  const estCharsNeeded = Math.ceil((durationSec/60) * 110 * 5) + 500;
+  let out = base;
+  while(out.length < estCharsNeeded){ out += ' ' + base; }
+  return out;
+}
+
+function startTypingTest(passage){
+  T.passage=passage;T.fullText=buildRepeatedText(passage.text,T.duration);T.typed='';T.startTime=null;T.timeLeft=T.duration;T.finished=false;T.results=null;T.corrections=0;
+  S.screen='typingTest';render();
+}
+
+function typingTestScreen(){
+  const p=T.passage;
+  const root=el('div',{css:'min-height:100vh;background:#f8fafc;'});
+  const bar=el('div',{css:'padding:12px 16px;background:#fff;border-bottom:1px solid #e2e8f0;display:flex;align-items:center;justify-content:space-between;gap:10px;'});
+  bar.appendChild(el('button',{css:'background:#f1f5f9;border:1px solid #e2e8f0;color:#64748b;width:32px;height:32px;border-radius:8px;font-size:15px;cursor:pointer;',text:'✕',onClick:()=>{stopTypingTimer();S.screen='typingHome';render();}}));
+  bar.appendChild(el('div',{css:'font-family:Syne,sans-serif;font-weight:700;font-size:13px;color:#0f172a;',text:p.title}));
+  bar.appendChild(el('div',{id:'typingTimerDisp',css:'background:#0891b218;color:#0891b2;padding:5px 12px;border-radius:8px;font-family:Syne,sans-serif;font-weight:700;font-size:14px;',text:'⏱ '+fmt(T.timeLeft)}));
+  root.appendChild(bar);
+
+  const body=el('div',{css:'padding:20px 16px;max-width:700px;margin:0 auto;'});
+
+  const liveStats=el('div',{id:'typingLiveStats',css:'display:flex;gap:10px;margin-bottom:16px;'});
+  ['WPM','Accuracy','Errors'].forEach(label=>{
+    const s=el('div',{css:'flex:1;background:#fff;border:1px solid #e2e8f0;border-radius:10px;padding:10px;text-align:center;'});
+    s.appendChild(el('div',{id:'stat'+label,css:'font-family:Syne,sans-serif;font-weight:800;font-size:18px;color:#0891b2;',text:label==='Accuracy'?'100%':'0'}));
+    s.appendChild(el('div',{css:'font-size:10px;color:#94a3b8;margin-top:2px;',text:label}));
+    liveStats.appendChild(s);
+  });
+  body.appendChild(liveStats);
+
+  const passageBox=el('div',{id:'passageBox',css:`background:#fff;border:1px solid #e2e8f0;border-radius:14px;padding:20px;font-size:16px;line-height:2;letter-spacing:0.3px;margin-bottom:16px;user-select:none;max-height:190px;overflow-y:auto;${T.lang==='hi'?'font-family:sans-serif;':''}`});
+  [...T.fullText].forEach((ch,i)=>{
+    passageBox.appendChild(el('span',{id:'ch'+i,css:'color:#cbd5e1;'},[ch]));
+  });
+  body.appendChild(passageBox);
+
+  const inputBox=el('textarea',{
+    id:'typingInput',
+    rows:'3',
+    placeholder:'Click here and start typing the passage above...',
+    css:'width:100%;padding:14px;border:2px solid #0891b2;border-radius:12px;font-size:15px;font-family:inherit;resize:none;outline:none;'
+  });
+  body.appendChild(inputBox);
+  body.appendChild(el('button',{css:'width:100%;margin-top:14px;padding:12px;background:#f1f5f9;border:1px solid #e2e8f0;color:#64748b;border-radius:10px;font-weight:600;font-size:13px;cursor:pointer;',text:'Finish Now',onClick:()=>finishTypingTest('manual')}));
+
+  root.appendChild(body);
+
+  // wire up input handling after DOM is attached
+  setTimeout(()=>{
+    inputBox.focus();
+    inputBox.addEventListener('input', onTypingInput);
+    inputBox.addEventListener('keydown', e=>{ if(e.key==='Backspace'||e.key==='Delete') T.corrections++; });
+  }, 0);
+
+  return root;
+}
+
+function onTypingInput(e){
+  if(T.finished) return;
+  if(!T.startTime){ T.startTime=Date.now(); startTypingTimer(); }
+  T.typed = e.target.value;
+  updateTypingDisplay();
+  if(T.typed.length >= T.fullText.length){ finishTypingTest('complete'); }
+}
+
+function charCategory(ch){
+  if(/[0-9]/.test(ch)) return 'numbers';
+  if(/\s/.test(ch)) return 'spaces';
+  if(/[a-zA-Zअ-ह]/.test(ch)) return 'letters';
+  return 'punctuation';
+}
+
+function updateTypingDisplay(){
+  const target = T.fullText;
+  let errors = 0;
+  for(let i=0;i<T.typed.length;i++){
+    const span = document.getElementById('ch'+i);
+    if(!span) continue;
+    const isCorrect = T.typed[i] === target[i];
+    if(!isCorrect) errors++;
+    span.style.color = isCorrect ? '#16a34a' : '#dc2626';
+    span.style.textDecoration = isCorrect ? 'none' : 'underline';
+    span.style.background = 'transparent';
+  }
+  const curSpan = document.getElementById('ch'+T.typed.length);
+  if(curSpan){
+    curSpan.style.color = '#0f172a';
+    curSpan.style.background = '#0891b230';
+    curSpan.scrollIntoView({block:'nearest'});
+  }
+  for(let i=T.typed.length+1;i<Math.min(target.length,T.typed.length+400);i++){
+    const span = document.getElementById('ch'+i);
+    if(!span) continue;
+    span.style.color = '#cbd5e1';
+    span.style.background = 'transparent';
+    span.style.textDecoration = 'none';
+  }
+  const elapsedMin = T.startTime ? Math.max((Date.now()-T.startTime)/60000, 1/60) : 1/60;
+  const correctChars = T.typed.length - errors;
+  const wpm = Math.max(0, Math.round((correctChars/5)/elapsedMin));
+  const accuracy = T.typed.length ? Math.round((correctChars/T.typed.length)*100) : 100;
+  const wpmEl=document.getElementById('statWPM'), accEl=document.getElementById('statAccuracy'), errEl=document.getElementById('statErrors');
+  if(wpmEl) wpmEl.textContent = String(wpm);
+  if(accEl) accEl.textContent = accuracy+'%';
+  if(errEl) errEl.textContent = String(errors);
+}
+
+function startTypingTimer(){
+  clearInterval(typingTimerHandle);
+  typingTimerHandle = setInterval(()=>{
+    T.timeLeft = Math.max(0, T.timeLeft-1);
+    const d=document.getElementById('typingTimerDisp');
+    if(d){
+      d.textContent = '⏱ '+fmt(T.timeLeft);
+      if(T.timeLeft<10){ d.style.background='#fef2f2'; d.style.color='#dc2626'; }
+    }
+    if(T.timeLeft===0){ finishTypingTest('timeup'); }
+  },1000);
+}
+function stopTypingTimer(){ clearInterval(typingTimerHandle); }
+
+function finishTypingTest(reason){
+  if(T.finished) return;
+  T.finished = true;
+  stopTypingTimer();
+  const target = T.fullText;
+  const typed = T.typed;
+  let errors = 0;
+  const compareLen = Math.min(typed.length, target.length);
+
+  // category-level breakdown for weak/strong-point analysis
+  const cats = { letters:{total:0,wrong:0}, numbers:{total:0,wrong:0}, punctuation:{total:0,wrong:0}, spaces:{total:0,wrong:0} };
+  for(let i=0;i<compareLen;i++){
+    const cat = charCategory(target[i]);
+    cats[cat].total++;
+    if(typed[i]!==target[i]){ errors++; cats[cat].wrong++; }
+  }
+
+  const elapsedSec = T.startTime ? (Date.now()-T.startTime)/1000 : T.duration - T.timeLeft;
+  const elapsedMin = Math.max(elapsedSec/60, 1/60);
+  const correctChars = typed.length - errors;
+  const wpm = Math.max(0, Math.round((correctChars/5)/elapsedMin));
+  const accuracy = typed.length ? Math.round((correctChars/typed.length)*100) : 0;
+  const correctionRate = typed.length ? Math.round((T.corrections/typed.length)*100) : 0;
+
+  T.results = { wpm, accuracy, errors, typedChars: typed.length, totalChars: target.length,
+    timeTaken: Math.round(elapsedSec), reason, cats, corrections: T.corrections, correctionRate };
+  if(typed.length>=15) recordActivity();
+  S.screen='typingResults';render();
+}
+
+const CATEGORY_LABELS = { letters:'Letters', numbers:'Numbers', punctuation:'Punctuation', spaces:'Spacing' };
+const CATEGORY_TIPS = {
+  letters:'Practice touch typing without looking at the keyboard — it builds accuracy on letter keys fastest.',
+  numbers:'Spend a few minutes daily on the number row (1–0) — it\'s usually the least-practiced part of the keyboard.',
+  punctuation:'Slow down slightly around commas, periods and other punctuation — these are commonly rushed and mistyped.',
+  spaces:'You\'re mistiming the spacebar — this usually means rushing to the next word. Slow down slightly between words.'
+};
+
+function buildTypingInsights(r){
+  const strengths=[], weaknesses=[], tips=[];
+  if(r.typedChars<15){
+    return { strengths:['Not enough was typed to analyze — try completing more of the passage next time.'],
+             weaknesses:['No data to analyze yet'], tips:[] };
+  }
+  const catRates = Object.keys(r.cats)
+    .map(cat=>({cat, ...r.cats[cat], rate: r.cats[cat].total ? r.cats[cat].wrong/r.cats[cat].total : null}))
+    .filter(c=>c.total>=3);
+  catRates.forEach(c=>{
+    if(c.rate<=0.04) strengths.push(CATEGORY_LABELS[c.cat]+' — very accurate');
+    else if(c.rate>0.15){ weaknesses.push(CATEGORY_LABELS[c.cat]+' — '+Math.round(c.rate*100)+'% error rate'); tips.push(CATEGORY_TIPS[c.cat]); }
+  });
+  // if nothing crossed the absolute weakness threshold, still call out the relatively weakest category as a growth area
+  if(!weaknesses.length && catRates.length){
+    const worst = catRates.reduce((a,b)=> (b.rate>a.rate ? b : a));
+    if(worst.rate>0){ weaknesses.push(CATEGORY_LABELS[worst.cat]+' — your relatively weakest area ('+Math.round(worst.rate*100)+'% error rate)'); tips.push(CATEGORY_TIPS[worst.cat]); }
+  }
+  if(r.accuracy>=95) strengths.push('Overall accuracy is excellent');
+  else if(r.accuracy<85){ weaknesses.push('Overall accuracy ('+r.accuracy+'%) needs work'); tips.push('Focus on accuracy over speed for now — a slower, error-free pace naturally gets faster with practice.'); }
+  if(r.wpm>=40) strengths.push('Good typing speed ('+r.wpm+' WPM)');
+  else if(r.wpm<20){ weaknesses.push('Typing speed ('+r.wpm+' WPM) is on the slower side'); tips.push('Practice for just 10–15 minutes daily rather than long, infrequent sessions — consistency builds speed fastest.'); }
+  if(r.correctionRate>15){ weaknesses.push('Frequent corrections ('+r.correctionRate+'% of keystrokes were backspace/delete)'); tips.push('You\'re backspacing a lot — try typing each word deliberately once rather than rushing and correcting.'); }
+  if(!strengths.length) strengths.push('Keep practicing — your strengths will show up as you build consistency.');
+  if(!weaknesses.length) weaknesses.push('No major weak areas found in this test — well done!');
+  return { strengths, weaknesses, tips: [...new Set(tips)] };
+}
+
+function typingResultsScreen(){
+  const r=T.results;
+  const insights=buildTypingInsights(r);
+  const root=el('div',{css:'min-height:100vh;background:#f8fafc;'});
+  const hdr=el('div',{css:'padding:20px;background:linear-gradient(135deg,#0891b2,#0e7490);'});
+  hdr.appendChild(el('div',{css:'display:flex;align-items:center;gap:10px;'},[el('div',{css:'font-size:26px;',text:'⌨️'}),el('h2',{css:'font-family:Syne,sans-serif;font-weight:800;font-size:19px;color:#fff;',text:'Typing Test Results'})]));
+  hdr.appendChild(el('p',{css:'font-size:12px;color:#cffafe;margin-top:4px;',text:T.passage.title+' — '+(T.lang==='en'?'English':'Hindi')}));
+  root.appendChild(hdr);
+
+  const body=el('div',{css:'padding:22px 20px 40px;max-width:600px;margin:0 auto;'});
+  const grid=el('div',{css:'display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-bottom:20px;'});
+  [['⚡',r.wpm,'Words Per Minute','#0891b2'],['🎯',r.accuracy+'%','Accuracy','#16a34a'],['✗',r.errors,'Errors','#dc2626'],['⏱',fmt(r.timeTaken),'Time Taken','#64748b']].forEach(([ic,vl,lb,c])=>{
+    grid.appendChild(el('div',{css:'background:#fff;border:1px solid #e2e8f0;border-radius:14px;padding:16px 12px;text-align:center;'},[
+      el('div',{css:`font-size:22px;margin-bottom:6px;`,text:ic}),
+      el('div',{css:`font-family:Syne,sans-serif;font-weight:800;font-size:24px;color:${c};`,text:String(vl)}),
+      el('div',{css:'font-size:11px;color:#94a3b8;margin-top:2px;',text:lb})
+    ]));
+  });
+  body.appendChild(grid);
+
+  const msg = r.wpm>=40?'🎉 Excellent speed!':r.wpm>=25?'👍 Good progress, keep practicing!':'📚 Keep practicing daily to build speed.';
+  body.appendChild(el('div',{css:'text-align:center;font-family:Syne,sans-serif;font-weight:700;font-size:15px;color:#0f172a;margin-bottom:20px;',text:msg}));
+
+  // Strengths & Weaknesses
+  const swGrid=el('div',{css:'display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-bottom:16px;'});
+  const strengthBox=el('div',{css:'background:#f0fdf4;border:1px solid #bbf7d0;border-radius:12px;padding:14px;'});
+  strengthBox.appendChild(el('div',{css:'font-family:Syne,sans-serif;font-weight:700;font-size:12px;color:#16a34a;margin-bottom:8px;',text:'💪 Strengths'}));
+  insights.strengths.forEach(s=>strengthBox.appendChild(el('div',{css:'font-size:11px;color:#166534;margin-bottom:5px;line-height:1.4;',text:'• '+s})));
+  swGrid.appendChild(strengthBox);
+  const weakBox=el('div',{css:'background:#fef2f2;border:1px solid #fecaca;border-radius:12px;padding:14px;'});
+  weakBox.appendChild(el('div',{css:'font-family:Syne,sans-serif;font-weight:700;font-size:12px;color:#dc2626;margin-bottom:8px;',text:'🎯 Areas to Improve'}));
+  insights.weaknesses.forEach(s=>weakBox.appendChild(el('div',{css:'font-size:11px;color:#991b1b;margin-bottom:5px;line-height:1.4;',text:'• '+s})));
+  swGrid.appendChild(weakBox);
+  body.appendChild(swGrid);
+
+  if(insights.tips.length){
+    const tipsBox=el('div',{css:'background:#eff6ff;border:1px solid #bfdbfe;border-radius:12px;padding:14px;margin-bottom:24px;'});
+    tipsBox.appendChild(el('div',{css:'font-family:Syne,sans-serif;font-weight:700;font-size:12px;color:#1d4ed8;margin-bottom:8px;',text:'💡 Tips to Improve'}));
+    insights.tips.forEach(t=>tipsBox.appendChild(el('div',{css:'font-size:11px;color:#1e40af;margin-bottom:6px;line-height:1.5;',text:'• '+t})));
+    body.appendChild(tipsBox);
+  } else {
+    body.appendChild(el('div',{css:'margin-bottom:24px;'}));
+  }
+
+  body.appendChild(el('div',{css:'display:flex;gap:10px;'},[
+    el('button',{css:'flex:1;padding:12px;background:#fff;border:1px solid #e2e8f0;color:#0f172a;border-radius:10px;font-weight:600;font-size:13px;cursor:pointer;',text:'Retry',onClick:()=>startTypingTest(T.passage)}),
+    el('button',{css:'flex:1;padding:12px;background:#0891b2;border:none;color:#fff;border-radius:10px;font-family:Syne,sans-serif;font-weight:700;font-size:13px;cursor:pointer;',text:'More Passages',onClick:()=>go('typingHome')})
+  ]));
+  root.appendChild(body);root.appendChild(Footer());
+  return root;
+}
+
+// ── STATIC PAGES ──────────────────────────────────────────────────────────────
+function staticPage(title,content){
+  const root=el('div');root.appendChild(Navbar());
+  const hdr=el('div',{css:'background:linear-gradient(135deg,#0f172a,#1e1b4b);padding:28px 20px;'});
+  hdr.appendChild(el('button',{css:'background:none;border:none;color:#94a3b8;font-size:13px;cursor:pointer;margin-bottom:8px;display:block;padding:0;',text:'← Back to Home',onClick:()=>go('home')}));
+  hdr.appendChild(el('h1',{css:'font-family:Syne,sans-serif;font-weight:800;font-size:22px;color:#fff;',text:title}));
+  root.appendChild(hdr);
+  const body=el('div',{css:'padding:24px 20px 40px;max-width:720px;margin:0 auto;font-size:14px;line-height:1.8;color:#374151;'});
+  body.innerHTML=content;root.appendChild(body);root.appendChild(Footer());return root;
+}
+function aboutScreen(){return staticPage('About MockAdda',`<h2 style="font-family:Syne,sans-serif;font-weight:700;font-size:17px;color:#0f172a;margin-bottom:10px;">Who We Are</h2><p style="margin-bottom:16px;">MockAdda is a free online mock test platform built for students preparing for competitive exams in India. We provide high-quality, exam-pattern mock tests for SSC, Banking, Railways, Teaching, and Civil Services exams — completely free of charge.</p><h2 style="font-family:Syne,sans-serif;font-weight:700;font-size:17px;color:#0f172a;margin-bottom:10px;">Our Mission</h2><p style="margin-bottom:16px;">Our mission is simple: give every student in India access to quality mock tests without any cost. We believe that financial barriers should not stop anyone from preparing for their dream government job.</p><h2 style="font-family:Syne,sans-serif;font-weight:700;font-size:17px;color:#0f172a;margin-bottom:10px;">What We Offer</h2><ul style="padding-left:20px;margin-bottom:16px;"><li style="margin-bottom:8px;">Real exam-pattern timed mock tests</li><li style="margin-bottom:8px;">Bilingual questions (English + Hindi)</li><li style="margin-bottom:8px;">Tests for SSC, Banking, Railways, Teaching & Civil Services</li><li style="margin-bottom:8px;">Mobile-friendly CBT simulator</li><li style="margin-bottom:8px;">Completely free — no login required</li></ul>`);}
+function contactScreen(){return staticPage('Contact Us',`<p style="margin-bottom:20px;color:#64748b;">Have a question or found an error? We'd love to hear from you!</p><div style="background:#f0f9ff;border:1px solid #e0f2fe;border-radius:14px;padding:20px;margin-bottom:20px;"><div style="font-family:Syne,sans-serif;font-weight:700;font-size:15px;color:#0f172a;margin-bottom:14px;">📬 Get In Touch</div><div style="display:flex;align-items:center;gap:10px;margin-bottom:12px;"><span style="font-size:18px;">📧</span><div><div style="font-size:11px;color:#64748b;font-weight:600;">Email Us</div><a href="mailto:contact@mockadda.com" style="color:#0ea5e9;font-weight:600;">contact@mockadda.com</a></div></div></div>`);}
+function privacyScreen(){return staticPage('Privacy Policy',`<p style="color:#64748b;margin-bottom:20px;font-size:13px;">Last updated: July 2025</p><p style="margin-bottom:16px;">MockAdda does not require registration or login. We do not collect personally identifiable information. We may use analytics tools to improve the site. Questions and test content are for personal educational use only.</p><p>Contact: <a href="mailto:contact@mockadda.com" style="color:#0ea5e9;">contact@mockadda.com</a></p>`);}
+function termsScreen(){return staticPage('Terms of Service',`<p style="color:#64748b;margin-bottom:20px;font-size:13px;">Last updated: July 2025</p><p style="margin-bottom:16px;">All content on MockAdda is for personal, non-commercial educational use only. While we strive for accuracy, always refer to official sources. MockAdda is not liable for any exam outcome. By using this site, you agree to these terms.</p>`);}
+
+// ── FOOTER ────────────────────────────────────────────────────────────────────
+function Footer(){
+  const f=el('footer',{css:'background:#0f172a;padding:32px 20px 20px;'});
+  const top=el('div',{css:'max-width:800px;margin:0 auto;'});
+  const brand=el('div',{css:'display:flex;align-items:center;gap:8px;margin-bottom:10px;'});
+  brand.appendChild(el('div',{css:'width:32px;height:32px;border-radius:8px;background:linear-gradient(135deg,#0ea5e9,#7c3aed);display:flex;align-items:center;justify-content:center;color:#fff;font-weight:800;font-size:16px;font-family:Syne,sans-serif;',text:'M'}));
+  brand.appendChild(el('span',{css:'font-family:Syne,sans-serif;font-weight:800;font-size:18px;color:#fff;',text:'MockAdda'}));
+  top.appendChild(brand);
+  top.appendChild(el('p',{css:'font-size:12px;color:#475569;line-height:1.6;margin-bottom:20px;',text:'Free mock tests for SSC, Banking, Railways, Teaching & Civil Services. Practice with real exam-pattern tests.'}));
+  const lg=el('div',{css:'display:grid;grid-template-columns:1fr 1fr;gap:20px;margin-bottom:24px;'});
+  const c1=el('div');
+  c1.appendChild(el('div',{css:'font-family:Syne,sans-serif;font-weight:700;font-size:12px;color:#94a3b8;letter-spacing:0.08em;text-transform:uppercase;margin-bottom:10px;',text:'Exams'}));
+  Object.entries(DATA).forEach(([k,cat])=>{
+    const lk=el('div',{css:'font-size:13px;color:#64748b;margin-bottom:7px;cursor:pointer;',text:cat.name});
+    lk.addEventListener('click',()=>{S.activeCatKey=k;go('exams');});
+    c1.appendChild(lk);
+  });
+  lg.appendChild(c1);
+  const c2=el('div');
+  c2.appendChild(el('div',{css:'font-family:Syne,sans-serif;font-weight:700;font-size:12px;color:#94a3b8;letter-spacing:0.08em;text-transform:uppercase;margin-bottom:10px;',text:'Company'}));
+  [['Typing Practice','typingHome'],['Practice by Subject','subjectsHome'],['Mistake Notebook','mistakesHome'],['Word of the Day','vocabHome'],['About Us','about'],['Contact Us','contact'],['Privacy Policy','privacy'],['Terms of Service','terms']].forEach(([n,s])=>{
+    const lk=el('div',{css:'font-size:13px;color:#64748b;margin-bottom:7px;cursor:pointer;',text:n,onClick:()=>go(s)});
+    c2.appendChild(lk);
+  });
+  lg.appendChild(c2);top.appendChild(lg);
+  top.appendChild(el('div',{css:'border-top:1px solid rgba(255,255,255,0.07);padding-top:16px;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px;'},[
+    el('div',{css:'font-size:11px;color:#374151;',text:`© ${new Date().getFullYear()} MockAdda. All rights reserved.`}),
+    el('div',{css:'font-size:11px;color:#374151;',text:'Made with ❤️ for students of India 🇮🇳'})
+  ]));
+  f.appendChild(top);return f;
+}
+
+// ── BOOT ──────────────────────────────────────────────────────────────────────
+render();
+const EXAM_CACHE = {};
+async function loadFullTest(examKey, testId, metaTest){
+  if(!EXAM_CACHE[examKey]){
+    const res = await fetch(`${examKey}.json`);
+    if(!res.ok) throw new Error('Failed to load exam data');
+    EXAM_CACHE[examKey] = await res.json();
+  }
+  const full = EXAM_CACHE[examKey].tests.find(x=>x.id===testId);
+  return full || metaTest;
+}
+async function boot(){
+  try{
+    const res = await fetch('meta.json');
+    DATA = await res.json();
+  }catch(e){
+    console.error('Failed to load MockAdda data', e);
+    DATA = {};
+  }
+  S.screen='home';
+  render();
+}
+boot();
+</script>
+</body>
+</html>
