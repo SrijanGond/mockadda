@@ -1,0 +1,454 @@
+{
+  "questions": [
+    {
+      "q": "Select the set in which the numbers are related in the same way as are the numbers of the following set. (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits.) Set: 14 : 30 : 46",
+      "q_hi": "उस समुच्चय का चयन करें जिसमें संख्याएँ उसी प्रकार संबंधित हैं जैसे निम्नलिखित समुच्चय की संख्याएँ संबंधित हैं। (नोट: संख्याओं को उनके घटक अंकों में विभाजित किए बिना, पूर्ण संख्याओं पर संक्रियाएँ की जानी चाहिए।) समुच्चय: 14 : 30 : 46",
+      "opts": [
+        "22 : 46 : 72",
+        "18 : 38 : 58",
+        "26 : 54 : 84",
+        "12 : 28 : 42"
+      ],
+      "opts_hi": [
+        "22 : 46 : 72",
+        "18 : 38 : 58",
+        "26 : 54 : 84",
+        "12 : 28 : 42"
+      ],
+      "ans": 1,
+      "subject": "General Intelligence & Reasoning"
+    },
+    {
+      "q": "Select the option that is related to the third term in the same way as the second term is related to the first term. PRESIDENT : PESDITNR :: CURRENCY : ?",
+      "q_hi": "वह विकल्प चुनें जो तीसरे पद से उसी प्रकार संबंधित है जैसे दूसरा पद पहले पद से संबंधित है। PRESIDENT : PESDITNR :: CURRENCY : ?",
+      "opts": [
+        "CYNRCERU",
+        "CYURCNER",
+        "CYRNCERU",
+        "CYCRNREU"
+      ],
+      "opts_hi": [
+        "CYNRCERU",
+        "CYURCNER",
+        "CYRNCERU",
+        "CYCRNREU"
+      ],
+      "ans": 2,
+      "subject": "General Intelligence & Reasoning"
+    },
+    {
+      "q": "How many triangles are there in the given figure? (Figure: A star inscribed in a pentagon)",
+      "q_hi": "दी गई आकृति में कितने त्रिभुज हैं? (आकृति: एक पंचभुज के अंदर बना तारा)",
+      "opts": [
+        "20",
+        "25",
+        "30",
+        "35"
+      ],
+      "opts_hi": [
+        "20",
+        "25",
+        "30",
+        "35"
+      ],
+      "ans": 3,
+      "subject": "General Intelligence & Reasoning"
+    },
+    {
+      "q": "A series is given with one term missing. Select the correct alternative from the given ones that will complete the series. AZ, CX, FU, IQ, ?",
+      "q_hi": "एक श्रृंखला दी गई है जिसमें एक पद लुप्त है। दिए गए विकल्पों में से सही विकल्प चुनें जो श्रृंखला को पूरा करेगा। AZ, CX, FU, IQ, ?",
+      "opts": [
+        "OL",
+        "NL",
+        "NM",
+        "OM"
+      ],
+      "opts_hi": [
+        "OL",
+        "NL",
+        "NM",
+        "OM"
+      ],
+      "ans": 0,
+      "subject": "General Intelligence & Reasoning"
+    },
+    {
+      "q": "In a certain code language, 'TAX' is written as '20-1-24'. How will 'FINE' be written in that language?",
+      "q_hi": "एक निश्चित कूट भाषा में, 'TAX' को '20-1-24' लिखा जाता है। उस भाषा में 'FINE' को कैसे लिखा जाएगा?",
+      "opts": [
+        "6-9-14-5",
+        "6-9-13-4",
+        "5-8-14-5",
+        "6-10-14-4"
+      ],
+      "opts_hi": [
+        "6-9-14-5",
+        "6-9-13-4",
+        "5-8-14-5",
+        "6-10-14-4"
+      ],
+      "ans": 0,
+      "subject": "General Intelligence & Reasoning"
+    },
+    {
+      "q": "Pointing to a man, a woman said, \"His mother is the only daughter of my father.\" How is the man related to the woman?",
+      "q_hi": "एक व्यक्ति की ओर इशारा करते हुए, एक महिला ने कहा, \"उसकी माता मेरे पिता की इकलौती पुत्री है।\" वह व्यक्ति उस महिला से किस प्रकार संबंधित है?",
+      "opts": [
+        "Brother",
+        "Son",
+        "Nephew",
+        "Father"
+      ],
+      "opts_hi": [
+        "भाई",
+        "पुत्र",
+        "भतीजा",
+        "पिता"
+      ],
+      "ans": 1,
+      "subject": "General Intelligence & Reasoning"
+    },
+    {
+      "q": "A piece of paper is folded and cut as shown below. How will it appear when unfolded? (Figure: A circle cut on a folded square)",
+      "q_hi": "कागज के एक टुकड़े को मोड़ा और काटा जाता है जैसा कि नीचे दिखाया गया है। खोलने पर यह कैसा दिखाई देगा? (आकृति: एक मुड़े हुए वर्ग पर काटा गया वृत्त)",
+      "opts": [
+        "Four circles in the corners",
+        "Two circles opposite each other",
+        "One circle in the center",
+        "Four circles in a straight line"
+      ],
+      "opts_hi": [
+        "चारों कोनों में चार वृत्त",
+        "दो विपरीत वृत्त",
+        "एक वृत्त केंद्र में",
+        "चार वृत्त एक सीधी रेखा में"
+      ],
+      "ans": 0,
+      "subject": "General Intelligence & Reasoning"
+    },
+    {
+      "q": "Find the odd word from the given alternatives.",
+      "q_hi": "दिए गए विकल्पों में से विषम शब्द ज्ञात कीजिए।",
+      "opts": [
+        "Mango",
+        "Apple",
+        "Orange",
+        "Potato"
+      ],
+      "opts_hi": [
+        "आम",
+        "सेब",
+        "संतरा",
+        "आलू"
+      ],
+      "ans": 3,
+      "subject": "General Intelligence & Reasoning"
+    },
+    {
+      "q": "If '+' means '×', '–' means '+', '×' means '÷', and '÷' means '–', then find the value of: 16 × 4 + 2 – 5 ÷ 3",
+      "q_hi": "यदि '+' का अर्थ '×' है, '–' का अर्थ '+' है, '×' का अर्थ '÷' है, और '÷' का अर्थ '–' है, तो निम्नलिखित का मान ज्ञात करें: 16 × 4 + 2 – 5 ÷ 3",
+      "opts": [
+        "10",
+        "12",
+        "14",
+        "16"
+      ],
+      "opts_hi": [
+        "10",
+        "12",
+        "14",
+        "16"
+      ],
+      "ans": 0,
+      "subject": "General Intelligence & Reasoning"
+    },
+    {
+      "q": "Seven friends A, B, C, D, E, F, and G are sitting in a circle facing the center. C is second to the right of D. A is third to the left of C. B is immediate right of A. E is between D and F. Who is sitting to the immediate left of G?",
+      "q_hi": "सात मित्र A, B, C, D, E, F और G केंद्र की ओर मुख करके एक वृत्त में बैठे हैं। C, D के दाईं ओर दूसरे स्थान पर है। A, C के बाईं ओर तीसरे स्थान पर है। B, A के निकटतम दाईं ओर है। E, D और F के बीच में है। G के निकटतम बाईं ओर कौन बैठा है?",
+      "opts": [
+        "B",
+        "C",
+        "F",
+        "D"
+      ],
+      "opts_hi": [
+        "B",
+        "C",
+        "F",
+        "D"
+      ],
+      "ans": 2,
+      "subject": "General Intelligence & Reasoning"
+    },
+    {
+      "q": "Which number will replace the question mark? 5 : 125 :: 6 : ?",
+      "q_hi": "कौन सी संख्या प्रश्नचिह्न के स्थान पर आएगी? 5 : 125 :: 6 : ?",
+      "opts": [
+        "216",
+        "36",
+        "215",
+        "226"
+      ],
+      "opts_hi": [
+        "216",
+        "36",
+        "215",
+        "226"
+      ],
+      "ans": 0,
+      "subject": "General Intelligence & Reasoning"
+    },
+    {
+      "q": "Select the option that is related to the third letter-cluster in the same way as the second letter-cluster is related to the first. ABC : DEF :: GHI : ?",
+      "q_hi": "वह विकल्प चुनें जो तीसरे अक्षर-समूह से उसी प्रकार संबंधित है जैसे दूसरा अक्षर-समूह पहले से संबंधित है। ABC : DEF :: GHI : ?",
+      "opts": [
+        "JKL",
+        "JKM",
+        "IKL",
+        "HIJ"
+      ],
+      "opts_hi": [
+        "JKL",
+        "JKM",
+        "IKL",
+        "HIJ"
+      ],
+      "ans": 0,
+      "subject": "General Intelligence & Reasoning"
+    },
+    {
+      "q": "In a certain code language, 'LOGIC' is coded as 'QNKFJ'. How will 'MATHS' be coded?",
+      "q_hi": "एक निश्चित कूट भाषा में, 'LOGIC' को 'QNKFJ' के रूप में कूटबद्ध किया जाता है। 'MATHS' को किस प्रकार कूटबद्ध किया जाएगा?",
+      "opts": [
+        "PDWKV",
+        "PDVKW",
+        "PDUKW",
+        "PDWJU"
+      ],
+      "opts_hi": [
+        "PDWKV",
+        "PDVKW",
+        "PDUKW",
+        "PDWJU"
+      ],
+      "ans": 0,
+      "subject": "General Intelligence & Reasoning"
+    },
+    {
+      "q": "If the first and third letters of the word 'COMPUTER' are interchanged, similarly the second and fourth, and so on, then which letter will be the 5th from the right?",
+      "q_hi": "यदि 'COMPUTER' शब्द के पहले और तीसरे अक्षर को आपस में बदल दिया जाए, इसी प्रकार दूसरे और चौथे को, और इसी तरह आगे, तो दाईं ओर से 5वाँ अक्षर कौन सा होगा?",
+      "opts": [
+        "M",
+        "O",
+        "P",
+        "U"
+      ],
+      "opts_hi": [
+        "M",
+        "O",
+        "P",
+        "U"
+      ],
+      "ans": 2,
+      "subject": "General Intelligence & Reasoning"
+    },
+    {
+      "q": "Statements: All pens are books. All books are copies. Conclusions: I. All pens are copies. II. Some copies are pens.",
+      "q_hi": "कथन: सभी पेन किताबें हैं। सभी किताबें कॉपियाँ हैं। निष्कर्ष: I. सभी पेन कॉपियाँ हैं। II. कुछ कॉपियाँ पेन हैं।",
+      "opts": [
+        "Only I follows",
+        "Only II follows",
+        "Both I and II follow",
+        "Neither follows"
+      ],
+      "opts_hi": [
+        "केवल I अनुसरण करता है",
+        "केवल II अनुसरण करता है",
+        "I और II दोनों अनुसरण करते हैं",
+        "कोई भी अनुसरण नहीं करता"
+      ],
+      "ans": 2,
+      "subject": "General Intelligence & Reasoning"
+    },
+    {
+      "q": "In a row of 40 students, A is 15th from the left and B is 20th from the right. How many students are between A and B?",
+      "q_hi": "40 छात्रों की एक पंक्ति में, A बाईं ओर से 15वें स्थान पर है और B दाईं ओर से 20वें स्थान पर है। A और B के बीच कितने छात्र हैं?",
+      "opts": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "opts_hi": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "ans": 0,
+      "subject": "General Intelligence & Reasoning"
+    },
+    {
+      "q": "Find the odd letters from the given alternatives.",
+      "q_hi": "दिए गए विकल्पों में से विषम अक्षरों को चुनें।",
+      "opts": [
+        "HIJ",
+        "PQR",
+        "STU",
+        "MNO"
+      ],
+      "opts_hi": [
+        "HIJ",
+        "PQR",
+        "STU",
+        "MNO"
+      ],
+      "ans": 0,
+      "subject": "General Intelligence & Reasoning"
+    },
+    {
+      "q": "Which one will replace the question mark? 7 : 56 :: 9 : ?",
+      "q_hi": "कौन सा प्रश्नचिह्न के स्थान पर आएगा? 7 : 56 :: 9 : ?",
+      "opts": [
+        "81",
+        "90",
+        "63",
+        "72"
+      ],
+      "opts_hi": [
+        "81",
+        "90",
+        "63",
+        "72"
+      ],
+      "ans": 1,
+      "subject": "General Intelligence & Reasoning"
+    },
+    {
+      "q": "If the clock shows 3:15, what is the angle between the hour and minute hands?",
+      "q_hi": "यदि घड़ी 3:15 दिखाती है, तो घंटे और मिनट की सुइयों के बीच का कोण क्या है?",
+      "opts": [
+        "0°",
+        "7.5°",
+        "15°",
+        "22.5°"
+      ],
+      "opts_hi": [
+        "0°",
+        "7.5°",
+        "15°",
+        "22.5°"
+      ],
+      "ans": 1,
+      "subject": "General Intelligence & Reasoning"
+    },
+    {
+      "q": "A man walks 10 km south, turns right and walks 5 km, turns right again and walks 10 km. How far is he from the starting point?",
+      "q_hi": "एक व्यक्ति 10 किमी दक्षिण चलता है, दाईं ओर मुड़ता है और 5 किमी चलता है, फिर दाईं ओर मुड़ता है और 10 किमी चलता है। वह प्रारंभिक बिंदु से कितनी दूर है?",
+      "opts": [
+        "5 km",
+        "10 km",
+        "15 km",
+        "20 km"
+      ],
+      "opts_hi": [
+        "5 किमी",
+        "10 किमी",
+        "15 किमी",
+        "20 किमी"
+      ],
+      "ans": 0,
+      "subject": "General Intelligence & Reasoning"
+    },
+    {
+      "q": "Select the Venn diagram that best represents the relationship between: Mothers, Women, Doctors",
+      "q_hi": "उस वेन आरेख का चयन करें जो निम्न के बीच संबंध को सर्वोत्तम रूप से दर्शाता है: माताएँ, महिलाएँ, डॉक्टर",
+      "opts": [
+        "Three overlapping circles",
+        "Two concentric circles with one separate",
+        "Three separate circles",
+        "Two overlapping circles"
+      ],
+      "opts_hi": [
+        "तीन परस्पर प्रतिच्छेदी वृत्त",
+        "दो संकेन्द्री वृत्त और एक अलग",
+        "तीन अलग-अलग वृत्त",
+        "दो परस्पर प्रतिच्छेदी वृत्त"
+      ],
+      "ans": 0,
+      "subject": "General Intelligence & Reasoning"
+    },
+    {
+      "q": "In a certain code, 'PEN' is written as 'QFO'. How is 'PENCIL' written?",
+      "q_hi": "एक निश्चित कूट में, 'PEN' को 'QFO' लिखा जाता है। 'PENCIL' को कैसे लिखा जाएगा?",
+      "opts": [
+        "QFODJM",
+        "QFODNK",
+        "QFODJL",
+        "QFODJM"
+      ],
+      "opts_hi": [
+        "QFODJM",
+        "QFODNK",
+        "QFODJL",
+        "QFODJM"
+      ],
+      "ans": 0,
+      "subject": "General Intelligence & Reasoning"
+    },
+    {
+      "q": "If 'BIRD' is coded as 'CJSF', then 'FISH' is coded as:",
+      "q_hi": "यदि 'BIRD' को 'CJSF' के रूप में कूटबद्ध किया जाता है, तो 'FISH' को किस रूप में कूटबद्ध किया जाएगा:",
+      "opts": [
+        "GJTI",
+        "GJTH",
+        "GKTI",
+        "GJSI"
+      ],
+      "opts_hi": [
+        "GJTI",
+        "GJTH",
+        "GKTI",
+        "GJSI"
+      ],
+      "ans": 0,
+      "subject": "General Intelligence & Reasoning"
+    },
+    {
+      "q": "Statements: Some cats are dogs. All dogs are cows. Conclusions: I. Some cows are cats. II. All cats are cows.",
+      "q_hi": "कथन: कुछ बिल्लियाँ कुत्ते हैं। सभी कुत्ते गायें हैं। निष्कर्ष: I. कुछ गायें बिल्लियाँ हैं। II. सभी बिल्लियाँ गायें हैं।",
+      "opts": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "Neither follows"
+      ],
+      "opts_hi": [
+        "केवल I अनुसरण करता है",
+        "केवल II अनुसरण करता है",
+        "दोनों अनुसरण करते हैं",
+        "कोई भी अनुसरण नहीं करता"
+      ],
+      "ans": 0,
+      "subject": "General Intelligence & Reasoning"
+    },
+    {
+      "q": "What comes next in the series: 2, 6, 12, 20, 30, ?",
+      "q_hi": "श्रृंखला में अगला पद क्या है: 2, 6, 12, 20, 30, ?",
+      "opts": [
+        "36",
+        "38",
+        "40",
+        "42"
+      ],
+      "opts_hi": [
+        "36",
+        "38",
+        "40",
+        "42"
+      ],
+      "ans": 3,
+      "subject": "General Intelligence & Reasoning"
+    }
+  ]
+}
