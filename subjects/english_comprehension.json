@@ -1,0 +1,454 @@
+{
+  "questions": [
+    {
+      "q": "Choose the correctly spelled word.",
+      "q_hi": "सही वर्तनी वाला शब्द चुनें।",
+      "opts": [
+        "Seperate",
+        "Separate",
+        "Seperete",
+        "Seprate"
+      ],
+      "opts_hi": [
+        "Seperate",
+        "Separate",
+        "Seperete",
+        "Seprate"
+      ],
+      "ans": 1,
+      "subject": "English Comprehension"
+    },
+    {
+      "q": "Select the synonym of \"Benevolent.\"",
+      "q_hi": "Benevolent का पर्यायवाची शब्द चुनें।",
+      "opts": [
+        "Malevolent",
+        "Kind",
+        "Cruel",
+        "Angry"
+      ],
+      "opts_hi": [
+        "Malevolent",
+        "Kind",
+        "Cruel",
+        "Angry"
+      ],
+      "ans": 1,
+      "subject": "English Comprehension"
+    },
+    {
+      "q": "Identify the sentence with the correct use of the tense.",
+      "q_hi": "सही काल प्रयोग वाले वाक्य की पहचान करें।",
+      "opts": [
+        "She is working here since 2019.",
+        "She has worked here since 2019.",
+        "She was working here since 2019.",
+        "She have worked here since 2019."
+      ],
+      "opts_hi": [
+        "She is working here since 2019.",
+        "She has worked here since 2019.",
+        "She was working here since 2019.",
+        "She have worked here since 2019."
+      ],
+      "ans": 1,
+      "subject": "English Comprehension"
+    },
+    {
+      "q": "Choose the correct article: He is _______ honest man.",
+      "q_hi": "सही आर्टिकल चुनें: He is _______ honest man.",
+      "opts": [
+        "a",
+        "an",
+        "the",
+        "No article"
+      ],
+      "opts_hi": [
+        "a",
+        "an",
+        "the",
+        "No article"
+      ],
+      "ans": 1,
+      "subject": "English Comprehension"
+    },
+    {
+      "q": "Select the antonym of \"Meticulous.\"",
+      "q_hi": "Meticulous का विलोम शब्द चुनें।",
+      "opts": [
+        "Careful",
+        "Precise",
+        "Careless",
+        "Thorough"
+      ],
+      "opts_hi": [
+        "Careful",
+        "Precise",
+        "Careless",
+        "Thorough"
+      ],
+      "ans": 2,
+      "subject": "English Comprehension"
+    },
+    {
+      "q": "Find the error in the sentence: \"The sceneries of Kashmir (A) / is very beautiful (B) / and attracts many tourists (C) / every year. (D)\"",
+      "q_hi": "वाक्य में त्रुटि ज्ञात करें: \"The sceneries of Kashmir (A) / is very beautiful (B) / and attracts many tourists (C) / every year. (D)\"",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "opts_hi": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "ans": 0,
+      "subject": "English Comprehension"
+    },
+    {
+      "q": "The phrase \"To be at loggerheads\" means:",
+      "q_hi": "To be at loggerheads वाक्यांश का अर्थ है:",
+      "opts": [
+        "To be in a romantic relationship",
+        "To be in a state of agreement",
+        "To be in a state of disagreement",
+        "To be working together"
+      ],
+      "opts_hi": [
+        "रोमांटिक रिश्ते में होना",
+        "सहमति की स्थिति में होना",
+        "असहमति की स्थिति में होना",
+        "एक साथ काम करना"
+      ],
+      "ans": 2,
+      "subject": "English Comprehension"
+    },
+    {
+      "q": "Fill in the blank: I am looking forward _______ you.",
+      "q_hi": "रिक्त स्थान भरें: I am looking forward _______ you.",
+      "opts": [
+        "to meet",
+        "to meeting",
+        "meeting",
+        "meet"
+      ],
+      "opts_hi": [
+        "to meet",
+        "to meeting",
+        "meeting",
+        "meet"
+      ],
+      "ans": 1,
+      "subject": "English Comprehension"
+    },
+    {
+      "q": "Choose the correct passive voice form of: \"They are building a new mall.\"",
+      "q_hi": "का सही passive voice रूप चुनें: \"They are building a new mall.\"",
+      "opts": [
+        "A new mall is being built by them.",
+        "A new mall was being built by them.",
+        "A new mall is built by them.",
+        "A new mall was built by them."
+      ],
+      "opts_hi": [
+        "A new mall is being built by them.",
+        "A new mall was being built by them.",
+        "A new mall is built by them.",
+        "A new mall was built by them."
+      ],
+      "ans": 0,
+      "subject": "English Comprehension"
+    },
+    {
+      "q": "Rearrange the following to form a meaningful sentence: (P) of modern technology (Q) the advancement (R) is largely dependent on (S) economic growth",
+      "q_hi": "एक सार्थक वाक्य बनाने के लिए निम्नलिखित को पुनर्व्यवस्थित करें: (P) of modern technology (Q) the advancement (R) is largely dependent on (S) economic growth",
+      "opts": [
+        "S P R Q",
+        "Q P S R",
+        "S R Q P",
+        "R P S Q"
+      ],
+      "opts_hi": [
+        "S P R Q",
+        "Q P S R",
+        "S R Q P",
+        "R P S Q"
+      ],
+      "ans": 2,
+      "subject": "English Comprehension"
+    },
+    {
+      "q": "Choose the correct meaning of the idiom \"A piece of cake.\"",
+      "q_hi": "A piece of cake मुहावरे का सही अर्थ चुनें।",
+      "opts": [
+        "Difficult task",
+        "Very easy task",
+        "Expensive item",
+        "Delicious food"
+      ],
+      "opts_hi": [
+        "कठिन कार्य",
+        "बहुत आसान कार्य",
+        "महंगी वस्तु",
+        "स्वादिष्ट भोजन"
+      ],
+      "ans": 1,
+      "subject": "English Comprehension"
+    },
+    {
+      "q": "Select the word that is OPPOSITE in meaning to \"Obscure.\"",
+      "q_hi": "Obscure के विपरीत अर्थ वाला शब्द चुनें।",
+      "opts": [
+        "Clear",
+        "Vague",
+        "Dark",
+        "Hidden"
+      ],
+      "opts_hi": [
+        "Clear",
+        "Vague",
+        "Dark",
+        "Hidden"
+      ],
+      "ans": 0,
+      "subject": "English Comprehension"
+    },
+    {
+      "q": "Choose the correct indirect speech: He said, \"I am going to Delhi.\"",
+      "q_hi": "सही indirect speech चुनें: He said, \"I am going to Delhi.\"",
+      "opts": [
+        "He said that he is going to Delhi.",
+        "He said that he was going to Delhi.",
+        "He said that I am going to Delhi.",
+        "He said that he went to Delhi."
+      ],
+      "opts_hi": [
+        "He said that he is going to Delhi.",
+        "He said that he was going to Delhi.",
+        "He said that I am going to Delhi.",
+        "He said that he went to Delhi."
+      ],
+      "ans": 1,
+      "subject": "English Comprehension"
+    },
+    {
+      "q": "Identify the type of sentence: \"Please close the door.\"",
+      "q_hi": "वाक्य का प्रकार पहचानें: \"Please close the door.\"",
+      "opts": [
+        "Declarative",
+        "Interrogative",
+        "Imperative",
+        "Exclamatory"
+      ],
+      "opts_hi": [
+        "घोषणात्मक",
+        "प्रश्नवाचक",
+        "आज्ञावाचक",
+        "विस्मयादिबोधक"
+      ],
+      "ans": 2,
+      "subject": "English Comprehension"
+    },
+    {
+      "q": "Fill in the blank: Neither of the students _______ present.",
+      "q_hi": "रिक्त स्थान भरें: Neither of the students _______ present.",
+      "opts": [
+        "is",
+        "are",
+        "were",
+        "have"
+      ],
+      "opts_hi": [
+        "is",
+        "are",
+        "were",
+        "have"
+      ],
+      "ans": 0,
+      "subject": "English Comprehension"
+    },
+    {
+      "q": "Find the word that is correctly spelled.",
+      "q_hi": "सही वर्तनी वाला शब्द ज्ञात करें।",
+      "opts": [
+        "Accomodate",
+        "Accommodate",
+        "Acommodate",
+        "Accomadate"
+      ],
+      "opts_hi": [
+        "Accomodate",
+        "Accommodate",
+        "Acommodate",
+        "Accomadate"
+      ],
+      "ans": 1,
+      "subject": "English Comprehension"
+    },
+    {
+      "q": "The word \"Diligent\" means:",
+      "q_hi": "शब्द \"Diligent\" का अर्थ है:",
+      "opts": [
+        "Lazy",
+        "Hardworking",
+        "Careless",
+        "Slow"
+      ],
+      "opts_hi": [
+        "आलसी",
+        "मेहनती",
+        "लापरवाह",
+        "धीमा"
+      ],
+      "ans": 1,
+      "subject": "English Comprehension"
+    },
+    {
+      "q": "Choose the correct article: She is _______ best student in the class.",
+      "q_hi": "सही आर्टिकल चुनें: She is _______ best student in the class.",
+      "opts": [
+        "a",
+        "an",
+        "the",
+        "No article"
+      ],
+      "opts_hi": [
+        "a",
+        "an",
+        "the",
+        "No article"
+      ],
+      "ans": 2,
+      "subject": "English Comprehension"
+    },
+    {
+      "q": "Identify the error: \"He is one of the best student in the class.\"",
+      "q_hi": "त्रुटि पहचानें: \"He is one of the best student in the class.\"",
+      "opts": [
+        "is",
+        "of",
+        "student",
+        "in"
+      ],
+      "opts_hi": [
+        "is",
+        "of",
+        "student",
+        "in"
+      ],
+      "ans": 2,
+      "subject": "English Comprehension"
+    },
+    {
+      "q": "The phrase \"Turn a deaf ear\" means:",
+      "q_hi": "Turn a deaf ear वाक्यांश का अर्थ है:",
+      "opts": [
+        "Listen carefully",
+        "Pretend not to hear",
+        "Lose hearing ability",
+        "Speak loudly"
+      ],
+      "opts_hi": [
+        "ध्यान से सुनना",
+        "सुनने का नाटक करना",
+        "सुनने की क्षमता खोना",
+        "जोर से बोलना"
+      ],
+      "ans": 0,
+      "subject": "English Comprehension"
+    },
+    {
+      "q": "Choose the synonym of \"Abundant.\"",
+      "q_hi": "Abundant का पर्यायवाची शब्द चुनें।",
+      "opts": [
+        "Scarce",
+        "Plentiful",
+        "Limited",
+        "Lacking"
+      ],
+      "opts_hi": [
+        "दुर्लभ",
+        "प्रचुर",
+        "सीमित",
+        "कमी"
+      ],
+      "ans": 1,
+      "subject": "English Comprehension"
+    },
+    {
+      "q": "Which of the following is a compound sentence?",
+      "q_hi": "निम्नलिखित में से कौन सा एक संयुक्त वाक्य है?",
+      "opts": [
+        "I went to the market.",
+        "I went to the market and bought vegetables.",
+        "I went to the market because I needed vegetables.",
+        "Going to the market, I bought vegetables."
+      ],
+      "opts_hi": [
+        "I went to the market.",
+        "I went to the market and bought vegetables.",
+        "I went to the market because I needed vegetables.",
+        "Going to the market, I bought vegetables."
+      ],
+      "ans": 1,
+      "subject": "English Comprehension"
+    },
+    {
+      "q": "Fill in the blank: He has been waiting _______ 2 hours.",
+      "q_hi": "रिक्त स्थान भरें: He has been waiting _______ 2 hours.",
+      "opts": [
+        "since",
+        "for",
+        "from",
+        "until"
+      ],
+      "opts_hi": [
+        "since",
+        "for",
+        "from",
+        "until"
+      ],
+      "ans": 1,
+      "subject": "English Comprehension"
+    },
+    {
+      "q": "Select the antonym of \"Genuine.\"",
+      "q_hi": "Genuine का विलोम शब्द चुनें।",
+      "opts": [
+        "Real",
+        "Authentic",
+        "Fake",
+        "Original"
+      ],
+      "opts_hi": [
+        "Real",
+        "Authentic",
+        "Fake",
+        "Original"
+      ],
+      "ans": 2,
+      "subject": "English Comprehension"
+    },
+    {
+      "q": "Improve the bracketed part: She (has) a beautiful voice.",
+      "q_hi": "कोष्ठक भाग में सुधार करें: She (has) a beautiful voice.",
+      "opts": [
+        "have",
+        "is having",
+        "had",
+        "No improvement"
+      ],
+      "opts_hi": [
+        "have",
+        "is having",
+        "had",
+        "No improvement"
+      ],
+      "ans": 3,
+      "subject": "English Comprehension"
+    }
+  ]
+}
