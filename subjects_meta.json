@@ -38,5 +38,21 @@
   "reasoning": {
     "name": "Reasoning",
     "count": 145
+  },
+  "general_intelligence_reasoning": {
+    "name": "General Intelligence & Reasoning",
+    "count": 25
+  },
+  "general_awareness": {
+    "name": "General Awareness",
+    "count": 25
+  },
+  "quantitative_aptitude": {
+    "name": "Quantitative Aptitude",
+    "count": 25
+  },
+  "english_comprehension": {
+    "name": "English Comprehension",
+    "count": 25
   }
 }
