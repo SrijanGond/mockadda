@@ -1365,6 +1365,50 @@
           "subject": "Current Affairs"
         }
       ]
+    },
+    {
+      "id": "rrb_ntpc_20",
+      "title": "RRB NTPC Mock Test 20",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Where is the headquarters of Indian Railways?",
+          "q_hi": "भारतीय रेलवे का मुख्यालय कहाँ है?",
+          "opts": [
+            "New Delhi",
+            "Mumbai",
+            "Kolkata",
+            "Chennai"
+          ],
+          "opts_hi": [
+            "नई दिल्ली",
+            "मुंबई",
+            "कोलकाता",
+            "चेन्नई"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which sport is associated with the term “Deuce”?",
+          "q_hi": "“ड्यूस” शब्द किस खेल से संबंधित है?",
+          "opts": [
+            "Badminton",
+            "Tennis",
+            "Cricket",
+            "Hockey"
+          ],
+          "opts_hi": [
+            "बैडमिंटन",
+            "टेनिस",
+            "क्रिकेट",
+            "हॉकी"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        }
+      ]
     }
   ]
 }
