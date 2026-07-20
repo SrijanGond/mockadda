@@ -91,6 +91,13 @@
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 6
+          },
+          {
+            "id": "ssc_cgl_13",
+            "title": "SSC CGL Mock Test 13",
+            "duration": 17,
+            "difficulty": "Medium",
+            "questionCount": 14
           }
         ]
       },
@@ -279,6 +286,13 @@
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 3
+          },
+          {
+            "id": "ssc_chsl_27",
+            "title": "SSC CHSL Mock Test 27",
+            "duration": 14,
+            "difficulty": "Medium",
+            "questionCount": 12
           }
         ]
       },
@@ -439,6 +453,13 @@
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 2
+          },
+          {
+            "id": "ssc_mts_23",
+            "title": "SSC MTS Mock Test 23",
+            "duration": 13,
+            "difficulty": "Medium",
+            "questionCount": 11
           }
         ]
       }
@@ -1079,6 +1100,13 @@
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 1
+          },
+          {
+            "id": "rrb_ntpc_24",
+            "title": "RRB NTPC Mock Test 24",
+            "duration": 13,
+            "difficulty": "Medium",
+            "questionCount": 11
           }
         ]
       },
@@ -1698,6 +1726,13 @@
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 3
+          },
+          {
+            "id": "upsc_prelims_27",
+            "title": "UPSC Prelims Mock Test 27",
+            "duration": 10,
+            "difficulty": "Medium",
+            "questionCount": 1
           }
         ]
       }
