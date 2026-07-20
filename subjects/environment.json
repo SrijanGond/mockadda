@@ -87,6 +87,24 @@
       ],
       "ans": 1,
       "subject": "Environment"
+    },
+    {
+      "q": "Which national park is famous for one-horned rhinoceros?",
+      "q_hi": "एक सींग वाले गैंडे के लिए कौन सा राष्ट्रीय उद्यान प्रसिद्ध है?",
+      "opts": [
+        "Kaziranga",
+        "Sundarbans",
+        "Gir",
+        "Bandipur"
+      ],
+      "opts_hi": [
+        "काजीरंगा",
+        "सुंदरबन",
+        "गिर",
+        "बांदीपुर"
+      ],
+      "ans": 0,
+      "subject": "Environment"
     }
   ]
 }
