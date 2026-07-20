@@ -229,6 +229,42 @@
       ],
       "ans": 1,
       "subject": "Banking"
+    },
+    {
+      "q": "What is the full form of RTGS?",
+      "q_hi": "RTGS का पूर्ण रूप क्या है?",
+      "opts": [
+        "Real Time Gross Settlement",
+        "Rapid Transfer Gross System",
+        "None",
+        "Real Time Gross System"
+      ],
+      "opts_hi": [
+        "रियल टाइम ग्रॉस सेटलमेंट",
+        "रैपिड ट्रांसफर ग्रॉस सिस्टम",
+        "कोई नहीं",
+        "रियल टाइम ग्रॉस सिस्टम"
+      ],
+      "ans": 0,
+      "subject": "Banking"
+    },
+    {
+      "q": "What is the full form of MICR?",
+      "q_hi": "MICR का पूर्ण रूप क्या है?",
+      "opts": [
+        "Magnetic Ink Character Recognition",
+        "Magnetic Ink Character Reader",
+        "None",
+        "Magnetic Ink Code Reader"
+      ],
+      "opts_hi": [
+        "मैग्नेटिक इंक कैरेक्टर रिकॉग्निशन",
+        "मैग्नेटिक इंक कैरेक्टर रीडर",
+        "कोई नहीं",
+        "मैग्नेटिक इंक कोड रीडर"
+      ],
+      "ans": 0,
+      "subject": "Banking"
     }
   ]
 }
