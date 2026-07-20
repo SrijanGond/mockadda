@@ -1,97 +1,102 @@
 {
-  "exam": "UPSSSC PET",
-  "fullname": "UP Subordinate Services Selection Commission — Preliminary Eligibility Test",
-  "totalQuestions": 100,
-  "questions": [
+  "tests": [
     {
-      "id": 1,
-      "type": "multiple_choice",
-      "subject": "General Intelligence",
-      "question": "If 'A' is the mother of 'B', and 'B' is the sister of 'C', how is 'A' related to 'C'?",
-      "options": ["A) Mother", "B) Aunt", "C) Grandmother", "D) Sister"],
-      "correct": "A",
-      "explanation": "A is the mother of B and B is the sister of C, so A is the mother of C as well."
-    },
-    {
-      "id": 2,
-      "type": "multiple_choice",
-      "subject": "General Knowledge",
-      "question": "Which is the largest state in India by area?",
-      "options": ["A) Uttar Pradesh", "B) Maharashtra", "C) Rajasthan", "D) Madhya Pradesh"],
-      "correct": "C",
-      "explanation": "Rajasthan is the largest state in India by area."
-    },
-    {
-      "id": 3,
-      "type": "multiple_choice",
-      "subject": "Elementary Mathematics",
-      "question": "What is the square root of 1764?",
-      "options": ["A) 40", "B) 42", "C) 44", "D) 46"],
-      "correct": "B",
-      "explanation": "42 × 42 = 1764"
-    },
-    {
-      "id": 4,
-      "type": "multiple_choice",
-      "subject": "General Knowledge",
-      "question": "Who wrote the national anthem of India?",
-      "options": ["A) Bankim Chandra Chattopadhyay", "B) Rabindranath Tagore", "C) Sarojini Naidu", "D) Subhas Chandra Bose"],
-      "correct": "B",
-      "explanation": "Rabindranath Tagore wrote the national anthem 'Jana Gana Mana'."
-    },
-    {
-      "id": 5,
-      "type": "multiple_choice",
-      "subject": "Reasoning",
-      "question": "Find the odd one out: 1, 4, 9, 16, 23, 36",
-      "options": ["A) 9", "B) 16", "C) 23", "D) 36"],
-      "correct": "C",
-      "explanation": "All are perfect squares except 23."
-    },
-    {
-      "id": 6,
-      "type": "multiple_choice",
-      "subject": "Elementary Mathematics",
-      "question": "If a:b = 2:3 and b:c = 4:5, what is a:c?",
-      "options": ["A) 8:15", "B) 6:15", "C) 4:15", "D) 2:5"],
-      "correct": "A",
-      "explanation": "a:b = 2:3 = 8:12, b:c = 4:5 = 12:15, so a:c = 8:15"
-    },
-    {
-      "id": 7,
-      "type": "multiple_choice",
-      "subject": "General Knowledge",
-      "question": "Which planet is known as the 'Red Planet'?",
-      "options": ["A) Venus", "B) Mars", "C) Jupiter", "D) Saturn"],
-      "correct": "B",
-      "explanation": "Mars is known as the 'Red Planet' due to its reddish appearance."
-    },
-    {
-      "id": 8,
-      "type": "multiple_choice",
-      "subject": "Reasoning",
-      "question": "Which number will come next: 2, 3, 5, 7, 11, ?",
-      "options": ["A) 12", "B) 13", "C) 15", "D) 17"],
-      "correct": "B",
-      "explanation": "These are prime numbers. The next prime number after 11 is 13."
-    },
-    {
-      "id": 9,
-      "type": "multiple_choice",
-      "subject": "Elementary Mathematics",
-      "question": "A shopkeeper bought a product for ₹500 and sold it at a profit of 20%. What was the selling price?",
-      "options": ["A) ₹550", "B) ₹600", "C) ₹650", "D) ₹700"],
-      "correct": "B",
-      "explanation": "Selling Price = 500 + 20% of 500 = 500 + 100 = ₹600"
-    },
-    {
-      "id": 10,
-      "type": "multiple_choice",
-      "subject": "General Knowledge",
-      "question": "What is the full form of PET in UPSSSC PET?",
-      "options": ["A) Preliminary Eligibility Test", "B) Preliminary Examination Test", "C) Primary Eligibility Test", "D) Pre-Employment Test"],
-      "correct": "A",
-      "explanation": "PET stands for Preliminary Eligibility Test."
+      "id": "upsssc_pet_1",
+      "title": "UPSSSC PET Mock Test 1",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Who wrote the famous book 'Discovery of India'?",
+          "q_hi": "प्रसिद्ध पुस्तक 'Discovery of India' किसने लिखी?",
+          "opts": [
+            "Rabindranath Tagore",
+            "Jawaharlal Nehru",
+            "Mahatma Gandhi",
+            "Subhash Chandra Bose"
+          ],
+          "opts_hi": [
+            "रवीन्द्रनाथ टैगोर",
+            "जवाहरलाल नेहरू",
+            "महात्मा गांधी",
+            "सुभाष चंद्र बोस"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which planet is known as the 'Morning Star'?",
+          "q_hi": "किस ग्रह को 'सुबह का तारा' कहा जाता है?",
+          "opts": [
+            "Mars",
+            "Jupiter",
+            "Venus",
+            "Saturn"
+          ],
+          "opts_hi": [
+            "मंगल",
+            "बृहस्पति",
+            "शुक्र",
+            "शनि"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "What is the SI unit of force?",
+          "q_hi": "बल की SI इकाई क्या है?",
+          "opts": [
+            "Joule",
+            "Newton",
+            "Watt",
+            "Pascal"
+          ],
+          "opts_hi": [
+            "जूल",
+            "न्यूटन",
+            "वाट",
+            "पास्कल"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "The largest freshwater lake in India is?",
+          "q_hi": "भारत की सबसे बड़ी मीठे पानी की झील कौन सी है?",
+          "opts": [
+            "Dal Lake",
+            "Wular Lake",
+            "Loktak Lake",
+            "Chilika Lake"
+          ],
+          "opts_hi": [
+            "डल झील",
+            "वुलर झील",
+            "लोकटक झील",
+            "चिलिका झील"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which strait separates India and Sri Lanka?",
+          "q_hi": "कौन सी जलडमरूमध्य भारत और श्रीलंका को अलग करती है?",
+          "opts": [
+            "Palk Strait",
+            "Malacca Strait",
+            "Bering Strait",
+            "Gibraltar Strait"
+          ],
+          "opts_hi": [
+            "पाक जलडमरूमध्य",
+            "मलक्का जलडमरूमध्य",
+            "बेरिंग जलडमरूमध्य",
+            "जिब्राल्टर जलडमरूमध्य"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        }
+      ]
     }
   ]
 }
