@@ -2515,6 +2515,212 @@
           "subject": "General Knowledge"
         }
       ]
+    },
+    {
+      "id": "ssc_chsl_31",
+      "title": "SSC CHSL Mock Test 31",
+      "duration": 13,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Who gave the slogan \"Inquilab Zindabad\"?",
+          "q_hi": "इंकलाब जिंदाबाद का नारा किसने दिया?",
+          "opts": [
+            "Bhagat Singh",
+            "Mahatma Gandhi",
+            "Subhas Chandra Bose",
+            "Lala Lajpat Rai"
+          ],
+          "opts_hi": [
+            "भगत सिंह",
+            "महात्मा गांधी",
+            "सुभाष चंद्र बोस",
+            "लाला लाजपत राय"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "Who founded the Indian National Congress?",
+          "q_hi": "भारतीय राष्ट्रीय कांग्रेस की स्थापना किसने की?",
+          "opts": [
+            "A.O. Hume",
+            "W.C. Bonnerjee",
+            "Dadabhai Naoroji",
+            "B.G. Tilak"
+          ],
+          "opts_hi": [
+            "ए.ओ. ह्यूम",
+            "डब्ल्यू.सी. बनर्जी",
+            "दादाभाई नौरोजी",
+            "बी.जी. तिलक"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "Who was the founder of the Brahmo Samaj?",
+          "q_hi": "ब्राह्मो समाज के संस्थापक कौन थे?",
+          "opts": [
+            "Raja Ram Mohan Roy",
+            "Swami Vivekananda",
+            "Dayanand Saraswati",
+            "Ishwar Chandra Vidyasagar"
+          ],
+          "opts_hi": [
+            "राजा राममोहन राय",
+            "स्वामी विवेकानंद",
+            "दयानंद सरस्वती",
+            "ईश्वर चंद्र विद्यासागर"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "Who was the Viceroy during the Jallianwala Bagh Massacre?",
+          "q_hi": "जलियांवाला बाग हत्याकांड के समय वायसराय कौन था?",
+          "opts": [
+            "Lord Chelmsford",
+            "Lord Irwin",
+            "Lord Reading",
+            "Lord Linlithgow"
+          ],
+          "opts_hi": [
+            "लॉर्ड चेम्सफोर्ड",
+            "लॉर्ड इरविन",
+            "लॉर्ड रीडिंग",
+            "लॉर्ड लिनलिथगो"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "Who was known as the 'Frontier Gandhi'?",
+          "q_hi": "सरहदी गांधी' किसे कहा जाता है?",
+          "opts": [
+            "Khan Abdul Ghaffar Khan",
+            "Mahatma Gandhi",
+            "Subhas Chandra Bose",
+            "Lala Lajpat Rai"
+          ],
+          "opts_hi": [
+            "खान अब्दुल गफ्फार खान",
+            "महात्मा गांधी",
+            "सुभाष चंद्र बोस",
+            "लाला लाजपत राय"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "Who was the first Indian to win the Nobel Prize?",
+          "q_hi": "नोबेल पुरस्कार जीतने वाले पहले भारतीय कौन थे?",
+          "opts": [
+            "Rabindranath Tagore",
+            "C.V. Raman",
+            "Mother Teresa",
+            "Amartya Sen"
+          ],
+          "opts_hi": [
+            "रवींद्रनाथ टैगोर",
+            "सी.वी. रमन",
+            "मदर टेरेसा",
+            "अमर्त्य सेन"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "Who was the President of the Lahore Session of Congress in 1929?",
+          "q_hi": "1929 के लाहौर अधिवेशन के अध्यक्ष कौन थे?",
+          "opts": [
+            "Jawaharlal Nehru",
+            "Mahatma Gandhi",
+            "Subhas Chandra Bose",
+            "Motilal Nehru"
+          ],
+          "opts_hi": [
+            "जवाहरलाल नेहरू",
+            "महात्मा गांधी",
+            "सुभाष चंद्र बोस",
+            "मोतीलाल नेहरू"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "Who was the founder of the All India Muslim League?",
+          "q_hi": "ऑल इंडिया मुस्लिम लीग के संस्थापक कौन थे?",
+          "opts": [
+            "Aga Khan",
+            "Muhammad Ali Jinnah",
+            "Sir Syed Ahmed Khan",
+            "Viceroy Minto"
+          ],
+          "opts_hi": [
+            "आगा खान",
+            "मुहम्मद अली जिन्ना",
+            "सर सैयद अहमद खान",
+            "वायसराय मिंटो"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "Who was the first woman President of the Indian National Congress?",
+          "q_hi": "भारतीय राष्ट्रीय कांग्रेस की पहली महिला अध्यक्ष कौन थीं?",
+          "opts": [
+            "Annie Besant",
+            "Sarojini Naidu",
+            "Indira Gandhi",
+            "Vijaya Lakshmi Pandit"
+          ],
+          "opts_hi": [
+            "एनी बेसेंट",
+            "सरोजिनी नायडू",
+            "इंदिरा गांधी",
+            "विजय लक्ष्मी पंडित"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "Who was known as the 'Lion of Punjab'?",
+          "q_hi": "पंजाब का शेर' किसे कहा जाता है?",
+          "opts": [
+            "Lala Lajpat Rai",
+            "Bal Gangadhar Tilak",
+            "Bipin Chandra Pal",
+            "Gopal Krishna Gokhale"
+          ],
+          "opts_hi": [
+            "लाला लाजपत राय",
+            "बाल गंगाधर तिलक",
+            "बिपिन चंद्र पाल",
+            "गोपाल कृष्ण गोखले"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "Who was the first Indian woman to become President of the Indian National Congress?",
+          "q_hi": "भारतीय राष्ट्रीय कांग्रेस की पहली भारतीय महिला अध्यक्ष कौन थीं?",
+          "opts": [
+            "Sarojini Naidu",
+            "Annie Besant",
+            "Indira Gandhi",
+            "Kasturba Gandhi"
+          ],
+          "opts_hi": [
+            "सरोजिनी नायडू",
+            "एनी बेसेंट",
+            "इंदिरा गांधी",
+            "कस्तूरबा गांधी"
+          ],
+          "ans": 1,
+          "subject": "History"
+        }
+      ]
     }
   ]
 }
