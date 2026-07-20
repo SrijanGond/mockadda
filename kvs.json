@@ -829,6 +829,194 @@
           "subject": "General Knowledge"
         }
       ]
+    },
+    {
+      "id": "kvs_16",
+      "title": "KVS Mock Test 16",
+      "duration": 12,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Who founded the city of Agra?",
+          "q_hi": "आगरा शहर की स्थापना किसने की?",
+          "opts": [
+            "Akbar",
+            "Sikandar Lodi",
+            "Shah Jahan",
+            "Bahlul Lodi"
+          ],
+          "opts_hi": [
+            "अकबर",
+            "सिकंदर लोदी",
+            "शाहजहाँ",
+            "बहलोल लोदी"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which Committee recommended the Panchayati Raj system?",
+          "q_hi": "पंचायती राज व्यवस्था की सिफारिश किस समिति ने की थी?",
+          "opts": [
+            "Ashok Mehta Committee",
+            "Balwant Rai Mehta Committee",
+            "L.M. Singhvi Committee",
+            "Thungon Committee"
+          ],
+          "opts_hi": [
+            "अशोक मेहता समिति",
+            "बलवंत राय मेहता समिति",
+            "एल.एम. सिंघवी समिति",
+            "थुंगन समिति"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "What technology is used to track objects like submarines underwater?",
+          "q_hi": "पानी के नीचे पनडुब्बियों जैसी वस्तुओं को ट्रैक करने के लिए किस तकनीक का उपयोग किया जाता है?",
+          "opts": [
+            "RADAR",
+            "SONAR",
+            "LIDAR",
+            "GPS"
+          ],
+          "opts_hi": [
+            "रडार",
+            "सोनार",
+            "लिडार",
+            "जीपीएस"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "The reason for a swimming pool to appear less deep than the actual depth is:",
+          "q_hi": "स्विमिंग पूल के वास्तविक गहराई से कम गहरा दिखाई देने का कारण है:",
+          "opts": [
+            "Reflection",
+            "Refraction",
+            "Diffraction",
+            "Scattering"
+          ],
+          "opts_hi": [
+            "परावर्तन",
+            "अपवर्तन",
+            "विवर्तन",
+            "प्रकीर्णन"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "What is the term for the portion of wealth donated for charity in Islam?",
+          "q_hi": "इस्लाम में दान के लिए दी जाने वाली संपत्ति के हिस्से को क्या कहा जाता है?",
+          "opts": [
+            "Zakat",
+            "Hajj",
+            "Roza",
+            "Namaz"
+          ],
+          "opts_hi": [
+            "ज़कात",
+            "हज",
+            "रोज़ा",
+            "नमाज़"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "What was the Gross NPA level of Scheduled Commercial Banks as per RBI's June 2026 Financial Stability Report?",
+          "q_hi": "RBI की जून 2026 वित्तीय स्थिरता रिपोर्ट के अनुसार, अनुसूचित वाणिज्यिक बैंकों का सकल NPA स्तर क्या था?",
+          "opts": [
+            "Record low in decades",
+            "0.035",
+            "0.042",
+            "0.051"
+          ],
+          "opts_hi": [
+            "दशकों में सबसे निम्नतम",
+            "0.035",
+            "0.042",
+            "0.051"
+          ],
+          "ans": 0,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Which Indian institutions are participating in the LSST mission?",
+          "q_hi": "LSST मिशन में कौन से भारतीय संस्थान भाग ले रहे हैं?",
+          "opts": [
+            "ISRO and IIT Bombay",
+            "IUCAA and NCRA-TIFR",
+            "PRL and IISc",
+            "URSC and SAC"
+          ],
+          "opts_hi": [
+            "ISRO और IIT बॉम्बे",
+            "IUCAA और NCRA-TIFR",
+            "PRL और IISc",
+            "URSC और SAC"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Which asteroid does NASA's Psyche mission aim to study?",
+          "q_hi": "NASA का Psyche मिशन किस क्षुद्रग्रह का अध्ययन करना है?",
+          "opts": [
+            "Psyche",
+            "Ceres",
+            "Vesta",
+            "Eros"
+          ],
+          "opts_hi": [
+            "साइकी",
+            "सेरेस",
+            "वेस्टा",
+            "इरोस"
+          ],
+          "ans": 0,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Who is remembered as the first martyr of the Telangana Armed Peasant Struggle on July 4?",
+          "q_hi": "4 जुलाई को तेलंगाना सशस्त्र किसान संघर्ष के पहले शहीद के रूप में किसे याद किया जाता है?",
+          "opts": [
+            "Doddi Komarayya",
+            "Rampa Rao",
+            "Komaram Bheem",
+            "Alluri Sitarama Raju"
+          ],
+          "opts_hi": [
+            "दोड्डी कोमरय्या",
+            "रामपा राव",
+            "कोमाराम भीम",
+            "अल्लूरी सीताराम राजू"
+          ],
+          "ans": 0,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "How many MoUs were signed between India and Indonesia during PM Modi's visit?",
+          "q_hi": "PM मोदी की यात्रा के दौरान भारत और इंडोनेशिया के बीच कितने MoUs पर हस्ताक्षर किए गए?",
+          "opts": [
+            "5",
+            "8",
+            "12",
+            "15"
+          ],
+          "opts_hi": [
+            "5",
+            "8",
+            "12",
+            "15"
+          ],
+          "ans": 0,
+          "subject": "Current Affairs"
+        }
+      ]
     }
   ]
 }
