@@ -1953,6 +1953,158 @@
           "subject": "Geography"
         }
       ]
+    },
+    {
+      "id": "rrb_ntpc_26",
+      "title": "RRB NTPC Mock Test 26",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "When will the FIFA World Cup 2026 start?",
+          "q_hi": "2026 FIFA विश्व कप कब शुरू होगा?",
+          "opts": [
+            "Mon Jun 01 2026 05:30:00 GMT+0530 (India Standard Time)",
+            "Wed Jul 01 2026 05:30:00 GMT+0530 (India Standard Time)",
+            "Fri May 01 2026 05:30:00 GMT+0530 (India Standard Time)",
+            "Sat Aug 01 2026 05:30:00 GMT+0530 (India Standard Time)"
+          ],
+          "opts_hi": [
+            "जून 2026",
+            "जुलाई 2026",
+            "मई 2026",
+            "अगस्त 2026"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which city will host the third place match of FIFA World Cup 2026?",
+          "q_hi": "2026 FIFA विश्व कप का तीसरा स्थान मैच किस शहर में होगा?",
+          "opts": [
+            "Los Angeles",
+            "Miami",
+            "Atlanta",
+            "Philadelphia"
+          ],
+          "opts_hi": [
+            "लॉस एंजेलिस",
+            "मियामी",
+            "अटलांटा",
+            "फिलाडेल्फिया"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "What is the official song of FIFA World Cup 2026?",
+          "q_hi": "2026 FIFA विश्व कप का आधिकारिक गाना क्या है?",
+          "opts": [
+            "Glory",
+            "We Are One",
+            "Live It Up",
+            "Not announced yet"
+          ],
+          "opts_hi": [
+            "ग्लोरी",
+            "वी आर वन",
+            "लाइव इट अप",
+            "अभी घोषित नहीं"
+          ],
+          "ans": 3,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which venue will host the most matches in FIFA World Cup 2026?",
+          "q_hi": "2026 FIFA विश्व कप में सबसे अधिक मैच किस वेन्यू पर होंगे?",
+          "opts": [
+            "MetLife Stadium",
+            "AT&T Stadium",
+            "SoFi Stadium",
+            "Hard Rock Stadium"
+          ],
+          "opts_hi": [
+            "मेटलाइफ स्टेडियम",
+            "एटीएंडटी स्टेडियम",
+            "सोफी स्टेडियम",
+            "हार्ड रॉक स्टेडियम"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which US city will host the final?",
+          "q_hi": "2026 FIFA विश्व कप का फाइनल मैच किस अमेरिकी शहर में होगा?",
+          "opts": [
+            "New York/New Jersey",
+            "Los Angeles",
+            "Miami",
+            "Dallas"
+          ],
+          "opts_hi": [
+            "न्यूयॉर्क/न्यू जर्सी",
+            "लॉस एंजेलिस",
+            "मियामी",
+            "डलास"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which is the first World Cup with 48 teams format?",
+          "q_hi": "48 टीमों वाले प्रारूप का पहला विश्व कप कौन सा है?",
+          "opts": [
+            "2026",
+            "2030",
+            "2022",
+            "2014"
+          ],
+          "opts_hi": [
+            "2026",
+            "2030",
+            "2022",
+            "2014"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which stadium in Los Angeles will host matches?",
+          "q_hi": "2026 FIFA विश्व कप में लॉस एंजेलिस के किस स्टेडियम में मैच होंगे?",
+          "opts": [
+            "SoFi Stadium",
+            "Rose Bowl",
+            "Levi's Stadium",
+            "None"
+          ],
+          "opts_hi": [
+            "सोफी स्टेडियम",
+            "रोज बाउल",
+            "लेवी स्टेडियम",
+            "कोई नहीं"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which US state will host the most venues?",
+          "q_hi": "2026 FIFA विश्व कप में सबसे अधिक वेन्यू किस अमेरिकी राज्य में होंगे?",
+          "opts": [
+            "California",
+            "Texas",
+            "New York",
+            "Florida"
+          ],
+          "opts_hi": [
+            "कैलिफोर्निया",
+            "टेक्सास",
+            "न्यूयॉर्क",
+            "फ्लोरिडा"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        }
+      ]
     }
   ]
 }
