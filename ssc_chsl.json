@@ -1471,6 +1471,32 @@
           "subject": "Current Affairs"
         }
       ]
+    },
+    {
+      "id": "ssc_chsl_22",
+      "title": "SSC CHSL Mock Test 22",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Fundamental Rights are enshrined in which Part of the Indian Constitution?",
+          "q_hi": "मौलिक अधिकार भारतीय संविधान के किस भाग में निहित हैं?",
+          "opts": [
+            "Part I",
+            "Part III",
+            "Part IV",
+            "Part V"
+          ],
+          "opts_hi": [
+            "भाग I",
+            "भाग III",
+            "भाग IV",
+            "भाग V"
+          ],
+          "ans": 1,
+          "subject": "Polity"
+        }
+      ]
     }
   ]
 }
