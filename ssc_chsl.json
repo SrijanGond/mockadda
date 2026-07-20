@@ -1541,6 +1541,68 @@
           "subject": "General Knowledge"
         }
       ]
+    },
+    {
+      "id": "ssc_chsl_24",
+      "title": "SSC CHSL Mock Test 24",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Who wrote the national song 'Vande Mataram'?",
+          "q_hi": "राष्ट्रीय गान 'वंदे मातरम' किसने लिखा?",
+          "opts": [
+            "Rabindranath Tagore",
+            "Bankim Chandra Chatterjee",
+            "Sarojini Naidu",
+            "Subramania Bharati"
+          ],
+          "opts_hi": [
+            "रवींद्रनाथ टैगोर",
+            "बंकिम चंद्र चटर्जी",
+            "सरोजिनी नायडू",
+            "सुब्रमण्यम भारती"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which Article deals with the abolition of untouchability?",
+          "q_hi": "अस्पृश्यता के उन्मूलन से संबंधित अनुच्छेद कौन सा है?",
+          "opts": [
+            "Article 14",
+            "Article 15",
+            "Article 16",
+            "Article 17"
+          ],
+          "opts_hi": [
+            "अनुच्छेद 14",
+            "अनुच्छेद 15",
+            "अनुच्छेद 16",
+            "अनुच्छेद 17"
+          ],
+          "ans": 3,
+          "subject": "Polity"
+        },
+        {
+          "q": "What is the powerhouse of the cell?",
+          "q_hi": "कोशिका का पावरहाउस क्या है?",
+          "opts": [
+            "Nucleus",
+            "Mitochondria",
+            "Ribosome",
+            "Golgi Body"
+          ],
+          "opts_hi": [
+            "न्यूक्लियस",
+            "माइटोकॉन्ड्रिया",
+            "राइबोसोम",
+            "गॉल्जी बॉडी"
+          ],
+          "ans": 1,
+          "subject": "Science"
+        }
+      ]
     }
   ]
 }
