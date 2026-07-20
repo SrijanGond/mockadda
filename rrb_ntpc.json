@@ -989,6 +989,230 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "rrb_ntpc_18",
+      "title": "RRB NTPC Mock Test 18",
+      "duration": 14,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Who was known as the \"Napoleon of India\"?",
+          "q_hi": "भारत का नेपोलियन किसे कहा जाता था?",
+          "opts": [
+            "Chandragupta Maurya",
+            "Samudragupta",
+            "Ashoka",
+            "Harshavardhana"
+          ],
+          "opts_hi": [
+            "चंद्रगुप्त मौर्य",
+            "समुद्रगुप्त",
+            "अशोक",
+            "हर्षवर्धन"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which is the longest river in India?",
+          "q_hi": "भारत की सबसे लंबी नदी कौन सी है?",
+          "opts": [
+            "Ganga",
+            "Godavari",
+            "Brahmaputra",
+            "Yamuna"
+          ],
+          "opts_hi": [
+            "गंगा",
+            "गोदावरी",
+            "ब्रह्मपुत्र",
+            "यमुना"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which state is the largest producer of tea in India?",
+          "q_hi": "भारत में चाय का सबसे बड़ा उत्पादक राज्य कौन सा है?",
+          "opts": [
+            "West Bengal",
+            "Assam",
+            "Tamil Nadu",
+            "Kerala"
+          ],
+          "opts_hi": [
+            "पश्चिम बंगाल",
+            "असम",
+            "तमिलनाडु",
+            "केरल"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which Constitutional Amendment lowered the voting age from 21 to 18 years?",
+          "q_hi": "किस संवैधानिक संशोधन ने मतदान की आयु 21 से घटाकर 18 वर्ष कर दी?",
+          "opts": [
+            "42nd Amendment",
+            "44th Amendment",
+            "61st Amendment",
+            "73rd Amendment"
+          ],
+          "opts_hi": [
+            "42वाँ संशोधन",
+            "44वाँ संशोधन",
+            "61वाँ संशोधन",
+            "73वाँ संशोधन"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "The longest cell of the human body is:",
+          "q_hi": "मानव शरीर की सबसे लंबी कोशिका है:",
+          "opts": [
+            "Skin cell",
+            "Nerve cell",
+            "Muscle cell",
+            "Blood cell"
+          ],
+          "opts_hi": [
+            "त्वचा कोशिका",
+            "तंत्रिका कोशिका",
+            "मांसपेशी कोशिका",
+            "रक्त कोशिका"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which is the highest mountain peak in the world?",
+          "q_hi": "दुनिया की सबसे ऊँची पर्वत चोटी कौन सी है?",
+          "opts": [
+            "K2",
+            "Mount Everest",
+            "Kangchenjunga",
+            "Lhotse"
+          ],
+          "opts_hi": [
+            "के2",
+            "माउंट एवरेस्ट",
+            "कंचनजंगा",
+            "ल्होत्से"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which is the latest state formed in India?",
+          "q_hi": "भारत में बनने वाला नवीनतम राज्य कौन सा है?",
+          "opts": [
+            "Jharkhand",
+            "Uttarakhand",
+            "Chhattisgarh",
+            "Telangana"
+          ],
+          "opts_hi": [
+            "झारखंड",
+            "उत्तराखंड",
+            "छत्तीसगढ़",
+            "तेलंगाना"
+          ],
+          "ans": 3,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Who is the first woman Finance Minister of India?",
+          "q_hi": "भारत की पहली महिला वित्त मंत्री कौन हैं?",
+          "opts": [
+            "Indira Gandhi",
+            "Pratibha Patil",
+            "Nirmala Sitharaman",
+            "Sushma Swaraj"
+          ],
+          "opts_hi": [
+            "इंदिरा गांधी",
+            "प्रतिभा पाटिल",
+            "निर्मला सीतारमण",
+            "सुषमा स्वराज"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Who is the current Secretary-General of the United Nations?",
+          "q_hi": "संयुक्त राष्ट्र के वर्तमान महासचिव कौन हैं?",
+          "opts": [
+            "Ban Ki-moon",
+            "Kofi Annan",
+            "António Guterres",
+            "Javier Pérez de Cuéllar"
+          ],
+          "opts_hi": [
+            "बान की-मून",
+            "कोफी अन्नान",
+            "एंटोनियो गुटेरेस",
+            "जेवियर पेरेज़ डी क्यूएलर"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which Indian state has the highest literacy rate?",
+          "q_hi": "किस भारतीय राज्य में साक्षरता दर सबसे अधिक है?",
+          "opts": [
+            "Kerala",
+            "Tamil Nadu",
+            "Maharashtra",
+            "Himachal Pradesh"
+          ],
+          "opts_hi": [
+            "केरल",
+            "तमिलनाडु",
+            "महाराष्ट्र",
+            "हिमाचल प्रदेश"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Who gave the slogan \"Jai Hind\"?",
+          "q_hi": "जय हिंद का नारा किसने दिया?",
+          "opts": [
+            "Mahatma Gandhi",
+            "Jawaharlal Nehru",
+            "Subhas Chandra Bose",
+            "Bhagat Singh"
+          ],
+          "opts_hi": [
+            "महात्मा गांधी",
+            "जवाहरलाल नेहरू",
+            "सुभाष चंद्र बोस",
+            "भगत सिंह"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "The Tropic of Cancer passes through how many states in India?",
+          "q_hi": "कर्क रेखा भारत में कितने राज्यों से होकर गुजरती है?",
+          "opts": [
+            "6",
+            "7",
+            "8",
+            "9"
+          ],
+          "opts_hi": [
+            "6",
+            "7",
+            "8",
+            "9"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        }
+      ]
     }
   ]
 }
