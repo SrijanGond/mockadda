@@ -3627,6 +3627,248 @@
           "subject": "General Knowledge"
         }
       ]
+    },
+    {
+      "id": "ssc_cgl_11",
+      "title": "SSC CGL Mock Test 11",
+      "duration": 16,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What is the maximum strength of Lok Sabha?",
+          "q_hi": "लोकसभा की अधिकतम सदस्य संख्या कितनी है?",
+          "opts": [
+            "545",
+            "552",
+            "543",
+            "550"
+          ],
+          "opts_hi": [
+            "545",
+            "552",
+            "543",
+            "550"
+          ],
+          "ans": 0,
+          "subject": "Polity"
+        },
+        {
+          "q": "Which is the largest salt lake in India?",
+          "q_hi": "भारत की सबसे बड़ी नमक झील कौन सी है?",
+          "opts": [
+            "Sambhar Lake",
+            "Chilika Lake",
+            "Wular Lake",
+            "Pong Dam Lake"
+          ],
+          "opts_hi": [
+            "सांभर झील",
+            "चिल्का झील",
+            "वुलर झील",
+            "पोंग डैम झील"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Who was the founder of Mauryan Empire?",
+          "q_hi": "मौर्य साम्राज्य के संस्थापक कौन थे?",
+          "opts": [
+            "Ashoka",
+            "Chandragupta Maurya",
+            "Bindusara",
+            "Bimbisara"
+          ],
+          "opts_hi": [
+            "अशोक",
+            "चंद्रगुप्त मौर्य",
+            "बिंदुसार",
+            "बिंबिसार"
+          ],
+          "ans": 1,
+          "subject": "History"
+        },
+        {
+          "q": "Which state is known as the 'Land of Five Rivers'?",
+          "q_hi": "पांच नदियों की भूमि' किस राज्य को कहा जाता है?",
+          "opts": [
+            "Punjab",
+            "Haryana",
+            "Rajasthan",
+            "Uttar Pradesh"
+          ],
+          "opts_hi": [
+            "पंजाब",
+            "हरियाणा",
+            "राजस्थान",
+            "उत्तर प्रदेश"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "When is Independence Day celebrated in India?",
+          "q_hi": "भारत में स्वतंत्रता दिवस कब मनाया जाता है?",
+          "opts": [
+            "Sat Aug 15 2026 05:30:00 GMT+0530 (India Standard Time)",
+            "Mon Jan 26 2026 05:30:00 GMT+0530 (India Standard Time)",
+            "Fri Oct 02 2026 05:30:00 GMT+0530 (India Standard Time)",
+            "Fri Aug 14 2026 05:30:00 GMT+0530 (India Standard Time)"
+          ],
+          "opts_hi": [
+            "15 अगस्त",
+            "26 जनवरी",
+            "2 अक्टूबर",
+            "14 अगस्त"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "The Dandi March was part of which movement?",
+          "q_hi": "दांडी मार्च किस आंदोलन का हिस्सा था?",
+          "opts": [
+            "Non-Cooperation",
+            "Quit India",
+            "Civil Disobedience",
+            "Swadeshi"
+          ],
+          "opts_hi": [
+            "असहयोग",
+            "भारत छोड़ो",
+            "सविनय अवज्ञा",
+            "स्वदेशी"
+          ],
+          "ans": 2,
+          "subject": "History"
+        },
+        {
+          "q": "When is Republic Day celebrated?",
+          "q_hi": "गणतंत्र दिवस कब मनाया जाता है?",
+          "opts": [
+            "Mon Jan 26 2026 05:30:00 GMT+0530 (India Standard Time)",
+            "Sat Aug 15 2026 05:30:00 GMT+0530 (India Standard Time)",
+            "Fri Oct 02 2026 05:30:00 GMT+0530 (India Standard Time)",
+            "Sat Sep 05 2026 05:30:00 GMT+0530 (India Standard Time)"
+          ],
+          "opts_hi": [
+            "26 जनवरी",
+            "15 अगस्त",
+            "2 अक्टूबर",
+            "5 सितंबर"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "The President of India is elected by whom?",
+          "q_hi": "भारत के राष्ट्रपति का चुनाव कौन करता है?",
+          "opts": [
+            "People",
+            "Parliament",
+            "Electoral College",
+            "Prime Minister"
+          ],
+          "opts_hi": [
+            "जनता",
+            "संसद",
+            "निर्वाचक मंडल",
+            "प्रधानमंत्री"
+          ],
+          "ans": 2,
+          "subject": "Polity"
+        },
+        {
+          "q": "The Jallianwala Bagh massacre took place in which year?",
+          "q_hi": "जलियांवाला बाग हत्याकांड किस वर्ष हुआ?",
+          "opts": [
+            "1919",
+            "1920",
+            "1942",
+            "1857"
+          ],
+          "opts_hi": [
+            "1919",
+            "1920",
+            "1942",
+            "1857"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "When is Teachers' Day celebrated in India?",
+          "q_hi": "भारत में शिक्षक दिवस कब मनाया जाता है?",
+          "opts": [
+            "Sat Sep 05 2026 05:30:00 GMT+0530 (India Standard Time)",
+            "Sat Nov 14 2026 05:30:00 GMT+0530 (India Standard Time)",
+            "Fri Oct 02 2026 05:30:00 GMT+0530 (India Standard Time)",
+            "Sat Aug 15 2026 05:30:00 GMT+0530 (India Standard Time)"
+          ],
+          "opts_hi": [
+            "5 सितंबर",
+            "14 नवंबर",
+            "2 अक्टूबर",
+            "15 अगस्त"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "The Vice President of India is the ex-officio chairman of which house?",
+          "q_hi": "भारत के उपराष्ट्रपति किस सदन के पदेन अध्यक्ष होते हैं?",
+          "opts": [
+            "Lok Sabha",
+            "Rajya Sabha",
+            "Both",
+            "None"
+          ],
+          "opts_hi": [
+            "लोकसभा",
+            "राज्यसभा",
+            "दोनों",
+            "कोई नहीं"
+          ],
+          "ans": 1,
+          "subject": "Polity"
+        },
+        {
+          "q": "The Simon Commission came to India in which year?",
+          "q_hi": "साइमन कमीशन भारत कब आया?",
+          "opts": [
+            "1927",
+            "1928",
+            "1930",
+            "1942"
+          ],
+          "opts_hi": [
+            "1927",
+            "1928",
+            "1930",
+            "1942"
+          ],
+          "ans": 1,
+          "subject": "History"
+        },
+        {
+          "q": "When is World Health Day celebrated?",
+          "q_hi": "विश्व स्वास्थ्य दिवस कब मनाया जाता है?",
+          "opts": [
+            "Tue Apr 07 2026 05:30:00 GMT+0530 (India Standard Time)",
+            "Sun Mar 08 2026 05:30:00 GMT+0530 (India Standard Time)",
+            "Fri Jun 05 2026 05:30:00 GMT+0530 (India Standard Time)",
+            "Wed Apr 22 2026 05:30:00 GMT+0530 (India Standard Time)"
+          ],
+          "opts_hi": [
+            "7 अप्रैल",
+            "8 मार्च",
+            "5 जून",
+            "22 अप्रैल"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        }
+      ]
     }
   ]
 }
