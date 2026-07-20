@@ -1719,6 +1719,68 @@
           "subject": "Science"
         }
       ]
+    },
+    {
+      "id": "ssc_chsl_26",
+      "title": "SSC CHSL Mock Test 26",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which award is given for lifetime achievement in sports?",
+          "q_hi": "खेल में जीवन भर की उपलब्धि के लिए कौन सा पुरस्कार दिया जाता है?",
+          "opts": [
+            "Arjuna Award",
+            "Dronacharya Award",
+            "Rashtriya Khel Protsahan Puraskar",
+            "Dhyan Chand Award"
+          ],
+          "opts_hi": [
+            "अर्जुन पुरस्कार",
+            "द्रोणाचार्य पुरस्कार",
+            "राष्ट्रीय खेल प्रोत्साहन पुरस्कार",
+            "ध्यान चंद पुरस्कार"
+          ],
+          "ans": 3,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which schedule deals with the division of powers between Centre and States?",
+          "q_hi": "केंद्र और राज्यों के बीच शक्तियों के विभाजन से कौन सा अनुसूची संबंधित है?",
+          "opts": [
+            "Seventh Schedule",
+            "Eighth Schedule",
+            "Ninth Schedule",
+            "Tenth Schedule"
+          ],
+          "opts_hi": [
+            "सातवीं अनुसूची",
+            "आठवीं अनुसूची",
+            "नवीं अनुसूची",
+            "दसवीं अनुसूची"
+          ],
+          "ans": 0,
+          "subject": "Polity"
+        },
+        {
+          "q": "What is the unit of electric power?",
+          "q_hi": "विद्युत शक्ति की इकाई क्या है?",
+          "opts": [
+            "Volt",
+            "Watt",
+            "Ampere",
+            "Ohm"
+          ],
+          "opts_hi": [
+            "वोल्ट",
+            "वाट",
+            "एम्पियर",
+            "ओम"
+          ],
+          "ans": 1,
+          "subject": "Science"
+        }
+      ]
     }
   ]
 }
