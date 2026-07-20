@@ -35,6 +35,42 @@
       ],
       "ans": 1,
       "subject": "Geography"
+    },
+    {
+      "q": "Which is the longest river in the world?",
+      "q_hi": "दुनिया की सबसे लंबी नदी कौन सी है?",
+      "opts": [
+        "Amazon",
+        "Yangtze",
+        "Nile",
+        "Mississippi"
+      ],
+      "opts_hi": [
+        "अमेज़न",
+        "यांग्त्ज़ी",
+        "नाइल",
+        "मिसिसिप्पी"
+      ],
+      "ans": 2,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which state is known as the 'Spice Garden of India'?",
+      "q_hi": "भारत का मसाला बाग' किस राज्य को कहा जाता है?",
+      "opts": [
+        "Kerala",
+        "Tamil Nadu",
+        "Karnataka",
+        "Andhra Pradesh"
+      ],
+      "opts_hi": [
+        "केरल",
+        "तमिलनाडु",
+        "कर्नाटक",
+        "आंध्र प्रदेश"
+      ],
+      "ans": 0,
+      "subject": "Geography"
     }
   ]
 }
