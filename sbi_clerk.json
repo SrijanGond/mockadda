@@ -1229,6 +1229,86 @@
           "subject": "Banking"
         }
       ]
+    },
+    {
+      "id": "sbi_clerk_21",
+      "title": "SBI Clerk Mock Test 21",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What is the parent organization of RBI?",
+          "q_hi": "आरबीआई की पैरेंट संस्था कौन सी है?",
+          "opts": [
+            "Ministry of Finance",
+            "Government of India",
+            "SEBI",
+            "None"
+          ],
+          "opts_hi": [
+            "वित्त मंत्रालय",
+            "भारत सरकार",
+            "सेबी",
+            "कोई नहीं"
+          ],
+          "ans": 1,
+          "subject": "Banking"
+        },
+        {
+          "q": "What is the apex body for microfinance in India?",
+          "q_hi": "भारत में सूक्ष्म वित्त का शीर्ष निकाय कौन सा है?",
+          "opts": [
+            "NABARD",
+            "RBI",
+            "SEBI",
+            "NHB"
+          ],
+          "opts_hi": [
+            "नाबार्ड",
+            "आरबीआई",
+            "सेबी",
+            "एनएचबी"
+          ],
+          "ans": 0,
+          "subject": "Banking"
+        },
+        {
+          "q": "What is the full form of ATM?",
+          "q_hi": "ATM का पूर्ण रूप क्या है?",
+          "opts": [
+            "Any Time Money",
+            "Automated Teller Machine",
+            "Automatic Transfer Machine",
+            "None"
+          ],
+          "opts_hi": [
+            "एनी टाइम मनी",
+            "ऑटोमेटेड टेलर मशीन",
+            "ऑटोमैटिक ट्रांसफर मशीन",
+            "कोई नहीं"
+          ],
+          "ans": 1,
+          "subject": "Banking"
+        },
+        {
+          "q": "Which organization regulates insurance in India?",
+          "q_hi": "भारत में बीमा का नियमन कौन करता है?",
+          "opts": [
+            "RBI",
+            "IRDAI",
+            "SEBI",
+            "PFRDA"
+          ],
+          "opts_hi": [
+            "आरबीआई",
+            "आईआरडीएआई",
+            "सेबी",
+            "पीएफआरडीए"
+          ],
+          "ans": 1,
+          "subject": "Banking"
+        }
+      ]
     }
   ]
 }
