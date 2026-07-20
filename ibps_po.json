@@ -1195,6 +1195,68 @@
           "subject": "Current Affairs"
         }
       ]
+    },
+    {
+      "id": "ibps_po_19",
+      "title": "IBPS PO Mock Test 19",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What is the chemical name of common salt?",
+          "q_hi": "सामान्य नमक का रासायनिक नाम क्या है?",
+          "opts": [
+            "Sodium Carbonate",
+            "Sodium Chloride",
+            "Sodium Bicarbonate",
+            "Sodium Hydroxide"
+          ],
+          "opts_hi": [
+            "सोडियम कार्बोनेट",
+            "सोडियम क्लोराइड",
+            "सोडियम बाइकार्बोनेट",
+            "सोडियम हाइड्रॉक्साइड"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Who gave the slogan \"Do or Die\"?",
+          "q_hi": "करो या मरो का नारा किसने दिया?",
+          "opts": [
+            "Jawaharlal Nehru",
+            "Mahatma Gandhi",
+            "Subhas Chandra Bose",
+            "Bal Gangadhar Tilak"
+          ],
+          "opts_hi": [
+            "जवाहरलाल नेहरू",
+            "महात्मा गांधी",
+            "सुभाष चंद्र बोस",
+            "बाल गंगाधर तिलक"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which Amendment added \"Socialist,\" \"Secular,\" and \"Integrity\" to the Preamble?",
+          "q_hi": "किस संशोधन ने प्रस्तावना में \"समाजवादी,\" \"धर्मनिरपेक्ष\" और \"अखंडता\" शब्द जोड़े?",
+          "opts": [
+            "42nd Amendment Act, 1976",
+            "44th Amendment Act, 1978",
+            "61st Amendment Act, 1988",
+            "73rd Amendment Act, 1992"
+          ],
+          "opts_hi": [
+            "42वाँ संशोधन अधिनियम, 1976",
+            "44वाँ संशोधन अधिनियम, 1978",
+            "61वाँ संशोधन अधिनियम, 1988",
+            "73वाँ संशोधन अधिनियम, 1992"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        }
+      ]
     }
   ]
 }
