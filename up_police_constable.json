@@ -1,97 +1,138 @@
 {
-  "exam": "UP Police Constable",
-  "fullname": "Uttar Pradesh Police Recruitment and Promotion Board — Constable Civil Police",
-  "totalQuestions": 100,
-  "questions": [
+  "tests": [
     {
-      "id": 1,
-      "type": "multiple_choice",
-      "subject": "General Hindi",
-      "question": "'श्रद्धा' शब्द का विलोम शब्द क्या है?",
-      "options": ["A) अश्रद्धा", "B) विश्वास", "C) भक्ति", "D) प्रेम"],
-      "correct": "A",
-      "explanation": "'श्रद्धा' का विलोम 'अश्रद्धा' है।"
-    },
-    {
-      "id": 2,
-      "type": "multiple_choice",
-      "subject": "General Knowledge",
-      "question": "Which state is known as the 'Land of Five Rivers'?",
-      "options": ["A) Punjab", "B) Haryana", "C) Uttar Pradesh", "D) Bihar"],
-      "correct": "A",
-      "explanation": "Punjab is known as the 'Land of Five Rivers'."
-    },
-    {
-      "id": 3,
-      "type": "multiple_choice",
-      "subject": "Mathematics",
-      "question": "If the perimeter of a square is 64 cm, what is its area?",
-      "options": ["A) 128 cm²", "B) 192 cm²", "C) 256 cm²", "D) 320 cm²"],
-      "correct": "C",
-      "explanation": "Side = 64/4 = 16 cm, Area = 16×16 = 256 cm²"
-    },
-    {
-      "id": 4,
-      "type": "multiple_choice",
-      "subject": "General Hindi",
-      "question": "'अतिथि' शब्द का पर्यायवाची क्या है?",
-      "options": ["A) मेहमान", "B) पाहुना", "C) आगंतुक", "D) उपरोक्त सभी"],
-      "correct": "D",
-      "explanation": "'अतिथि' के सभी पर्यायवाची शब्द उपरोक्त हैं।"
-    },
-    {
-      "id": 5,
-      "type": "multiple_choice",
-      "subject": "General Knowledge",
-      "question": "Who founded the Indian National Congress?",
-      "options": ["A) A.O. Hume", "B) W.C. Banerjee", "C) Dadabhai Naoroji", "D) Surendranath Banerjee"],
-      "correct": "A",
-      "explanation": "A.O. Hume founded the Indian National Congress in 1885."
-    },
-    {
-      "id": 6,
-      "type": "multiple_choice",
-      "subject": "Reasoning",
-      "question": "If 'CAT' is coded as 'DBU', then 'DOG' will be coded as?",
-      "options": ["A) EPH", "B) EOH", "C) EQH", "D) FPH"],
-      "correct": "A",
-      "explanation": "Each letter is shifted by +1: D→E, O→P, G→H"
-    },
-    {
-      "id": 7,
-      "type": "multiple_choice",
-      "subject": "Mathematics",
-      "question": "What is the compound interest on ₹10,000 at 10% per annum for 2 years?",
-      "options": ["A) ₹2000", "B) ₹2100", "C) ₹2200", "D) ₹2400"],
-      "correct": "B",
-      "explanation": "CI = P(1+R/100)^n - P = 10000(1.1)^2 - 10000 = 12100 - 10000 = ₹2100"
-    },
-    {
-      "id": 8,
-      "type": "multiple_choice",
-      "subject": "General Hindi",
-      "question": "'सूर्य' शब्द का संधि-विच्छेद क्या है?",
-      "options": ["A) सु + उर्य", "B) सू + अर्य", "C) सु + र्य", "D) सू + र्य"],
-      "correct": "A",
-      "explanation": "'सूर्य' का संधि-विच्छेद 'सु + उर्य' है।"
-    },
-    {
-      "id": 9,
-      "type": "multiple_choice",
-      "subject": "General Knowledge",
-      "question": "What is the capital of Uttar Pradesh?",
-      "options": ["A) Agra", "B) Varanasi", "C) Lucknow", "D) Kanpur"],
-      "correct": "C",
-      "explanation": "Lucknow is the capital of Uttar Pradesh."
-    },
-    {
-      "id": 10,
-      "type": "multiple_choice",
-      "subject": "Reasoning",
-      "question": "Find the missing number: 2, 6, 12, 20, 30, ?",
-      "options": ["A) 36", "B) 40", "C) 42", "D) 48"],
-      "correct": "C",
-      "explanation": "Pattern: 2+4=6, 6+6=12, 12+8=20, 20+10=30, 30+12=42"
+      "id": "up_police_constable_1",
+      "title": "UP Police Constable Mock Test 1",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What is the chemical formula of Ozone?",
+          "q_hi": "ओज़ोन का रासायनिक सूत्र क्या है?",
+          "opts": [
+            "O₂",
+            "O₃",
+            "O₄",
+            "O"
+          ],
+          "opts_hi": [
+            "O₂",
+            "O₃",
+            "O₄",
+            "O"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which Indian state has the longest coastline?",
+          "q_hi": "किस भारतीय राज्य की तटरेखा सबसे लंबी है?",
+          "opts": [
+            "Tamil Nadu",
+            "Gujarat",
+            "Maharashtra",
+            "Andhra Pradesh"
+          ],
+          "opts_hi": [
+            "तमिलनाडु",
+            "गुजरात",
+            "महाराष्ट्र",
+            "आंध्र प्रदेश"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "What is the full form of GDP?",
+          "q_hi": "GDP का पूर्ण रूप क्या है?",
+          "opts": [
+            "Gross Domestic Production",
+            "Gross Domestic Product",
+            "General Domestic Product",
+            "Global Domestic Product"
+          ],
+          "opts_hi": [
+            "ग्रॉस डोमेस्टिक प्रोडक्शन",
+            "ग्रॉस डोमेस्टिक प्रोडक्ट",
+            "जनरल डोमेस्टिक प्रोडक्ट",
+            "ग्लोबल डोमेस्टिक प्रोडक्ट"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Who was the first woman President of India?",
+          "q_hi": "भारत की पहली महिला राष्ट्रपति कौन थीं?",
+          "opts": [
+            "Indira Gandhi",
+            "Pratibha Patil",
+            "Sarojini Naidu",
+            "Sucheta Kriplani"
+          ],
+          "opts_hi": [
+            "इंदिरा गांधी",
+            "प्रतिभा पाटिल",
+            "सरोजिनी नायडू",
+            "सुचेता कृपलानी"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "India's first nuclear test was conducted in which year?",
+          "q_hi": "भारत का पहला परमाणु परीक्षण किस वर्ष किया गया था?",
+          "opts": [
+            "1964",
+            "1974",
+            "1984",
+            "1998"
+          ],
+          "opts_hi": [
+            "1964",
+            "1974",
+            "1984",
+            "1998"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Who was the first Indian to win the Nobel Prize?",
+          "q_hi": "नोबेल पुरस्कार जीतने वाले पहले भारतीय कौन थे?",
+          "opts": [
+            "Rabindranath Tagore",
+            "C.V. Raman",
+            "Chandrashekhar",
+            "Amartya Sen"
+          ],
+          "opts_hi": [
+            "रवीन्द्रनाथ टैगोर",
+            "सी.वी. रमन",
+            "चंद्रशेखर",
+            "अमर्त्य सेन"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "The maximum number of members in the Rajya Sabha is?",
+          "q_hi": "राज्य सभा में सदस्यों की अधिकतम संख्या कितनी है?",
+          "opts": [
+            "238",
+            "245",
+            "250",
+            "252"
+          ],
+          "opts_hi": [
+            "238",
+            "245",
+            "250",
+            "252"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        }
+      ]
     }
   ]
 }
