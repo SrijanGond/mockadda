@@ -2995,6 +2995,32 @@
           "subject": "Polity"
         }
       ]
+    },
+    {
+      "id": "upsc_prelims_27",
+      "title": "UPSC Prelims Mock Test 27",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which state is the largest producer of coffee in India?",
+          "q_hi": "भारत में कॉफी का सबसे बड़ा उत्पादक राज्य कौन सा है?",
+          "opts": [
+            "Karnataka",
+            "Kerala",
+            "Tamil Nadu",
+            "Andhra Pradesh"
+          ],
+          "opts_hi": [
+            "कर्नाटक",
+            "केरल",
+            "तमिलनाडु",
+            "आंध्र प्रदेश"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        }
+      ]
     }
   ]
 }
