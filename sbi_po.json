@@ -1095,6 +1095,158 @@
           "subject": "General Knowledge"
         }
       ]
+    },
+    {
+      "id": "sbi_po_20",
+      "title": "SBI PO Mock Test 20",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which is the largest producer of jute in the world?",
+          "q_hi": "दुनिया में जूट का सबसे बड़ा उत्पादक कौन सा है?",
+          "opts": [
+            "India",
+            "Bangladesh",
+            "China",
+            "Pakistan"
+          ],
+          "opts_hi": [
+            "भारत",
+            "बांग्लादेश",
+            "चीन",
+            "पाकिस्तान"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which UTs have their own Legislative Assembly?",
+          "q_hi": "किन केंद्र शासित प्रदेशों की अपनी विधान सभा है?",
+          "opts": [
+            "Delhi and Puducherry only",
+            "Delhi, Puducherry, and Jammu & Kashmir",
+            "Delhi, Puducherry, and Ladakh",
+            "Only Delhi"
+          ],
+          "opts_hi": [
+            "केवल दिल्ली और पुडुचेरी",
+            "दिल्ली, पुडुचेरी और जम्मू-कश्मीर",
+            "दिल्ली, पुडुचेरी और लद्दाख",
+            "केवल दिल्ली"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "How many seats of Rajya Sabha are present in the state of Maharashtra?",
+          "q_hi": "महाराष्ट्र राज्य से राज्य सभा की कितनी सीटें हैं?",
+          "opts": [
+            "16",
+            "17",
+            "18",
+            "19"
+          ],
+          "opts_hi": [
+            "16",
+            "17",
+            "18",
+            "19"
+          ],
+          "ans": 3,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "In which year was the Dowry Prohibition Act passed in India?",
+          "q_hi": "भारत में दहेज निषेध अधिनियम किस वर्ष पारित किया गया था?",
+          "opts": [
+            "1956",
+            "1961",
+            "1971",
+            "1984"
+          ],
+          "opts_hi": [
+            "1956",
+            "1961",
+            "1971",
+            "1984"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "What is the financial outlay for the PM Vishwakarma scheme approved by the Cabinet?",
+          "q_hi": "कैबिनेट द्वारा अनुमोदित पीएम विश्वकर्मा योजना का वित्तीय परिव्यय क्या है?",
+          "opts": [
+            "₹10,000 crore",
+            "₹13,000 crore",
+            "₹15,000 crore",
+            "₹20,000 crore"
+          ],
+          "opts_hi": [
+            "₹10,000 करोड़",
+            "₹13,000 करोड़",
+            "₹15,000 करोड़",
+            "₹20,000 करोड़"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Which Indian hockey player received the Padma Shri in 2026?",
+          "q_hi": "2026 में किस भारतीय हॉकी खिलाड़ी को पद्म श्री से सम्मानित किया गया?",
+          "opts": [
+            "PR Sreejesh",
+            "Manpreet Singh",
+            "Savita Punia",
+            "Rani Rampal"
+          ],
+          "opts_hi": [
+            "पी.आर. श्रीजेश",
+            "मनप्रीत सिंह",
+            "सविता पुनिया",
+            "रानी रामपाल"
+          ],
+          "ans": 2,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Which vision does India use for security and growth in the region?",
+          "q_hi": "भारत क्षेत्र में सुरक्षा और विकास के लिए किस दृष्टिकोण का उपयोग करता है?",
+          "opts": [
+            "MAHASAGAR",
+            "Act East Policy",
+            "Look West Policy",
+            "Indo-Pacific Strategy"
+          ],
+          "opts_hi": [
+            "महासागर",
+            "एक्ट ईस्ट पॉलिसी",
+            "लुक वेस्ट पॉलिसी",
+            "इंडो-पैसिफिक स्ट्रैटेजी"
+          ],
+          "ans": 0,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "What is the megapixel count of the world's largest digital camera?",
+          "q_hi": "दुनिया के सबसे बड़े डिजिटल कैमरे का मेगापिक्सल क्या है?",
+          "opts": [
+            "1,200 megapixel",
+            "3,200 megapixel",
+            "5,000 megapixel",
+            "10,000 megapixel"
+          ],
+          "opts_hi": [
+            "1,200 मेगापिक्सल",
+            "3,200 मेगापिक्सल",
+            "5,000 मेगापिक्सल",
+            "10,000 मेगापिक्सल"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        }
+      ]
     }
   ]
 }
