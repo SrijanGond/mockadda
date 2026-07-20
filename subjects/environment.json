@@ -69,6 +69,24 @@
       ],
       "ans": 1,
       "subject": "Environment"
+    },
+    {
+      "q": "Which country hosted COP26?",
+      "q_hi": "COP26 की मेजबानी किस देश ने की?",
+      "opts": [
+        "France",
+        "UK",
+        "India",
+        "Germany"
+      ],
+      "opts_hi": [
+        "फ्रांस",
+        "यूके",
+        "भारत",
+        "जर्मनी"
+      ],
+      "ans": 1,
+      "subject": "Environment"
     }
   ]
 }
