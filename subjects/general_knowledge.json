@@ -3268,6 +3268,888 @@
       ],
       "ans": 0,
       "subject": "General Knowledge"
+    },
+    {
+      "q": "Which country is hosting the FIFA World Cup 2026?",
+      "q_hi": "2026 FIFA विश्व कप की मेजबानी कौन सा देश कर रहा है?",
+      "opts": [
+        "USA",
+        "Canada",
+        "Mexico",
+        "All three"
+      ],
+      "opts_hi": [
+        "यूएसए",
+        "कनाडा",
+        "मेक्सिको",
+        "तीनों"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "How many teams will participate in FIFA World Cup 2026?",
+      "q_hi": "2026 FIFA विश्व कप में कितनी टीमें भाग लेंगी?",
+      "opts": [
+        "32",
+        "48",
+        "40",
+        "64"
+      ],
+      "opts_hi": [
+        "32",
+        "48",
+        "40",
+        "64"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which stadium will host the final of FIFA World Cup 2026?",
+      "q_hi": "2026 FIFA विश्व कप का फाइनल मैच किस स्टेडियम में खेला जाएगा?",
+      "opts": [
+        "MetLife Stadium",
+        "AT&T Stadium",
+        "SoFi Stadium",
+        "Hard Rock Stadium"
+      ],
+      "opts_hi": [
+        "मेटलाइफ स्टेडियम",
+        "एटीएंडटी स्टेडियम",
+        "सोफी स्टेडियम",
+        "हार्ड रॉक स्टेडियम"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "How many venues will be used for FIFA World Cup 2026?",
+      "q_hi": "2026 FIFA विश्व कप के लिए कितने वेन्यू इस्तेमाल किए जाएंगे?",
+      "opts": [
+        "11",
+        "12",
+        "16",
+        "8"
+      ],
+      "opts_hi": [
+        "11",
+        "12",
+        "16",
+        "8"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which three countries are co-hosting FIFA World Cup 2026?",
+      "q_hi": "2026 FIFA विश्व कप की संयुक्त मेजबानी कौन से तीन देश कर रहे हैं?",
+      "opts": [
+        "USA, Canada, Mexico",
+        "Brazil, Argentina, Uruguay",
+        "Spain, Portugal, Morocco",
+        "England, Germany, France"
+      ],
+      "opts_hi": [
+        "यूएसए, कनाडा, मेक्सिको",
+        "ब्राजील, अर्जेंटीना, उरुग्वे",
+        "स्पेन, पुर्तगाल, मोरक्को",
+        "इंग्लैंड, जर्मनी, फ्रांस"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "When will the FIFA World Cup 2026 start?",
+      "q_hi": "2026 FIFA विश्व कप कब शुरू होगा?",
+      "opts": [
+        "Mon Jun 01 2026 05:30:00 GMT+0530 (India Standard Time)",
+        "Wed Jul 01 2026 05:30:00 GMT+0530 (India Standard Time)",
+        "Fri May 01 2026 05:30:00 GMT+0530 (India Standard Time)",
+        "Sat Aug 01 2026 05:30:00 GMT+0530 (India Standard Time)"
+      ],
+      "opts_hi": [
+        "जून 2026",
+        "जुलाई 2026",
+        "मई 2026",
+        "अगस्त 2026"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which city will host the opening match of FIFA World Cup 2026?",
+      "q_hi": "2026 FIFA विश्व कप का उद्घाटन मैच किस शहर में होगा?",
+      "opts": [
+        "Mexico City",
+        "Toronto",
+        "Los Angeles",
+        "New York"
+      ],
+      "opts_hi": [
+        "मेक्सिको सिटी",
+        "टोरंटो",
+        "लॉस एंजेलिस",
+        "न्यूयॉर्क"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "What is the official slogan of FIFA World Cup 2026?",
+      "q_hi": "2026 FIFA विश्व कप का आधिकारिक नारा क्या है?",
+      "opts": [
+        "We Are One",
+        "One Love",
+        "Unite the World",
+        "Live the Dream"
+      ],
+      "opts_hi": [
+        "वी आर वन",
+        "वन लव",
+        "यूनाइट द वर्ल्ड",
+        "लाइव द ड्रीम"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which stadium has the highest capacity for FIFA World Cup 2026?",
+      "q_hi": "2026 FIFA विश्व कप के लिए सबसे बड़ी क्षमता वाला स्टेडियम कौन सा है?",
+      "opts": [
+        "AT&T Stadium",
+        "MetLife Stadium",
+        "SoFi Stadium",
+        "Levi's Stadium"
+      ],
+      "opts_hi": [
+        "एटीएंडटी स्टेडियम",
+        "मेटलाइफ स्टेडियम",
+        "सोफी स्टेडियम",
+        "लेवी स्टेडियम"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "How many groups will there be in the group stage of FIFA World Cup 2026?",
+      "q_hi": "2026 FIFA विश्व कप के ग्रुप स्टेज में कितने ग्रुप होंगे?",
+      "opts": [
+        "8",
+        "12",
+        "16",
+        "6"
+      ],
+      "opts_hi": [
+        "8",
+        "12",
+        "16",
+        "6"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which confederation will have the most teams in FIFA World Cup 2026?",
+      "q_hi": "2026 FIFA विश्व कप में सबसे अधिक टीमें किस महासंघ की होंगी?",
+      "opts": [
+        "UEFA",
+        "CONCACAF",
+        "CONMEBOL",
+        "AFC"
+      ],
+      "opts_hi": [
+        "यूईएफए",
+        "कॉनकाकाफ",
+        "कॉनमेबोल",
+        "एएफसी"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which city will host the third place match of FIFA World Cup 2026?",
+      "q_hi": "2026 FIFA विश्व कप का तीसरा स्थान मैच किस शहर में होगा?",
+      "opts": [
+        "Los Angeles",
+        "Miami",
+        "Atlanta",
+        "Philadelphia"
+      ],
+      "opts_hi": [
+        "लॉस एंजेलिस",
+        "मियामी",
+        "अटलांटा",
+        "फिलाडेल्फिया"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "What is the official mascot of FIFA World Cup 2026?",
+      "q_hi": "2026 FIFA विश्व कप का आधिकारिक मास्कॉट क्या है?",
+      "opts": [
+        "La'eeb",
+        "Gazoo",
+        "World Cup Willie",
+        "None announced yet"
+      ],
+      "opts_hi": [
+        "ला'ईब",
+        "गजू",
+        "वर्ल्ड कप विली",
+        "अभी घोषित नहीं"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "How many matches will be played in FIFA World Cup 2026?",
+      "q_hi": "2026 FIFA विश्व कप में कितने मैच खेले जाएंगे?",
+      "opts": [
+        "64",
+        "80",
+        "104",
+        "48"
+      ],
+      "opts_hi": [
+        "64",
+        "80",
+        "104",
+        "48"
+      ],
+      "ans": 2,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which stadium will host the semi-finals of FIFA World Cup 2026?",
+      "q_hi": "2026 FIFA विश्व कप के सेमीफाइनल किस स्टेडियम में होंगे?",
+      "opts": [
+        "MetLife Stadium",
+        "SoFi Stadium",
+        "AT&T Stadium",
+        "Multiple"
+      ],
+      "opts_hi": [
+        "मेटलाइफ स्टेडियम",
+        "सोफी स्टेडियम",
+        "एटीएंडटी स्टेडियम",
+        "एकाधिक"
+      ],
+      "ans": 3,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which confederation is hosting FIFA World Cup 2026 for the first time?",
+      "q_hi": "2026 FIFA विश्व कप पहली बार किस महासंघ में आयोजित हो रहा है?",
+      "opts": [
+        "CONCACAF",
+        "UEFA",
+        "CONMEBOL",
+        "AFC"
+      ],
+      "opts_hi": [
+        "कॉनकाकाफ",
+        "यूईएफए",
+        "कॉनमेबोल",
+        "एएफसी"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "What is the official song of FIFA World Cup 2026?",
+      "q_hi": "2026 FIFA विश्व कप का आधिकारिक गाना क्या है?",
+      "opts": [
+        "Glory",
+        "We Are One",
+        "Live It Up",
+        "Not announced yet"
+      ],
+      "opts_hi": [
+        "ग्लोरी",
+        "वी आर वन",
+        "लाइव इट अप",
+        "अभी घोषित नहीं"
+      ],
+      "ans": 3,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which city in Canada will host matches in FIFA World Cup 2026?",
+      "q_hi": "2026 FIFA विश्व कप में कनाडा के किस शहर में मैच होंगे?",
+      "opts": [
+        "Toronto",
+        "Vancouver",
+        "Edmonton",
+        "All three"
+      ],
+      "opts_hi": [
+        "टोरंटो",
+        "वैंकूवर",
+        "एडमंटन",
+        "तीनों"
+      ],
+      "ans": 3,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which is the first expansion of the World Cup to 48 teams?",
+      "q_hi": "विश्व कप को 48 टीमों तक बढ़ाने का यह पहला अवसर है?",
+      "opts": [
+        "2022",
+        "2026",
+        "2030",
+        "2018"
+      ],
+      "opts_hi": [
+        "2022",
+        "2026",
+        "2030",
+        "2018"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which Mexican city will host the opening ceremony?",
+      "q_hi": "उद्घाटन समारोह की मेजबानी कौन सा मेक्सिकन शहर करेगा?",
+      "opts": [
+        "Mexico City",
+        "Monterrey",
+        "Guadalajara",
+        "None"
+      ],
+      "opts_hi": [
+        "मेक्सिको सिटी",
+        "मॉन्टेरे",
+        "ग्वाडलाजारा",
+        "कोई नहीं"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "How many matches will each team play in the group stage?",
+      "q_hi": "ग्रुप स्टेज में प्रत्येक टीम कितने मैच खेलेगी?",
+      "opts": [
+        "3",
+        "4",
+        "5",
+        "2"
+      ],
+      "opts_hi": [
+        "3",
+        "4",
+        "5",
+        "2"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which confederation will get 16 slots in FIFA World Cup 2026?",
+      "q_hi": "2026 FIFA विश्व कप में 16 स्लॉट किस महासंघ को मिलेंगे?",
+      "opts": [
+        "UEFA",
+        "CONMEBOL",
+        "CONCACAF",
+        "AFC"
+      ],
+      "opts_hi": [
+        "यूईएफए",
+        "कॉनमेबोल",
+        "कॉनकाकाफ",
+        "एएफसी"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which venue will host the most matches in FIFA World Cup 2026?",
+      "q_hi": "2026 FIFA विश्व कप में सबसे अधिक मैच किस वेन्यू पर होंगे?",
+      "opts": [
+        "MetLife Stadium",
+        "AT&T Stadium",
+        "SoFi Stadium",
+        "Hard Rock Stadium"
+      ],
+      "opts_hi": [
+        "मेटलाइफ स्टेडियम",
+        "एटीएंडटी स्टेडियम",
+        "सोफी स्टेडियम",
+        "हार्ड रॉक स्टेडियम"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which is the first Arab country to co-host a World Cup?",
+      "q_hi": "2026 FIFA विश्व कप में पहला अरब देश कौन सा है?",
+      "opts": [
+        "Morocco",
+        "Qatar",
+        "Saudi Arabia",
+        "None"
+      ],
+      "opts_hi": [
+        "मोरक्को",
+        "कतर",
+        "सऊदी अरब",
+        "कोई नहीं"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "What is the expected number of spectators for FIFA World Cup 2026?",
+      "q_hi": "2026 FIFA विश्व कप में कुल दर्शकों की अनुमानित संख्या कितनी है?",
+      "opts": [
+        "Over 5 million",
+        "Over 3 million",
+        "Over 4 million",
+        "Over 6 million"
+      ],
+      "opts_hi": [
+        "5 मिलियन से अधिक",
+        "3 मिलियन से अधिक",
+        "4 मिलियन से अधिक",
+        "6 मिलियन से अधिक"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which Canadian city will host matches?",
+      "q_hi": "2026 FIFA विश्व कप में कनाडा के किस शहर में मैच होंगे?",
+      "opts": [
+        "Toronto",
+        "Vancouver",
+        "Edmonton",
+        "Calgary"
+      ],
+      "opts_hi": [
+        "टोरंटो",
+        "वैंकूवर",
+        "एडमंटन",
+        "कैलगरी"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "What is the new format change in FIFA World Cup 2026?",
+      "q_hi": "2026 FIFA विश्व कप में नया प्रारूप परिवर्तन क्या है?",
+      "opts": [
+        "48 teams",
+        "32 teams",
+        "Expanded groups",
+        "None"
+      ],
+      "opts_hi": [
+        "48 टीमें",
+        "32 टीमें",
+        "विस्तारित ग्रुप",
+        "कोई नहीं"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which is the official ball of FIFA World Cup 2026?",
+      "q_hi": "2026 FIFA विश्व कप की आधिकारिक गेंद क्या है?",
+      "opts": [
+        "Al Rihla",
+        "Al Hilal",
+        "Not announced",
+        "Adidas Brazuca"
+      ],
+      "opts_hi": [
+        "अल रिहला",
+        "अल हिलाल",
+        "अभी घोषित नहीं",
+        "एडिडास ब्राजुका"
+      ],
+      "ans": 2,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which US city will host the final?",
+      "q_hi": "2026 FIFA विश्व कप का फाइनल मैच किस अमेरिकी शहर में होगा?",
+      "opts": [
+        "New York/New Jersey",
+        "Los Angeles",
+        "Miami",
+        "Dallas"
+      ],
+      "opts_hi": [
+        "न्यूयॉर्क/न्यू जर्सी",
+        "लॉस एंजेलिस",
+        "मियामी",
+        "डलास"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "How many matches will be played in the knockout stage?",
+      "q_hi": "नॉकआउट स्टेज में कितने मैच खेले जाएंगे?",
+      "opts": [
+        "32",
+        "48",
+        "16",
+        "64"
+      ],
+      "opts_hi": [
+        "32",
+        "48",
+        "16",
+        "64"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which is the first World Cup to be hosted in three countries?",
+      "q_hi": "तीन देशों में आयोजित होने वाला पहला विश्व कप कौन सा है?",
+      "opts": [
+        "2026",
+        "2030",
+        "2022",
+        "2018"
+      ],
+      "opts_hi": [
+        "2026",
+        "2030",
+        "2022",
+        "2018"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which stadium in Mexico will host matches?",
+      "q_hi": "2026 FIFA विश्व कप में मेक्सिको के किस स्टेडियम में मैच होंगे?",
+      "opts": [
+        "Estadio Azteca",
+        "Estadio BBVA",
+        "Estadio Akron",
+        "All three"
+      ],
+      "opts_hi": [
+        "एस्टाडियो एज्टेका",
+        "एस्टाडियो बीबीवीए",
+        "एस्टाडियो अक्रॉन",
+        "तीनों"
+      ],
+      "ans": 3,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "What is the expected revenue for FIFA from World Cup 2026?",
+      "q_hi": "2026 विश्व कप से FIFA को अनुमानित राजस्व कितना है?",
+      "opts": [
+        "Over $11 billion",
+        "Over $5 billion",
+        "Over $8 billion",
+        "Over $15 billion"
+      ],
+      "opts_hi": [
+        "11 अरब डॉलर से अधिक",
+        "5 अरब डॉलर से अधिक",
+        "8 अरब डॉलर से अधिक",
+        "15 अरब डॉलर से अधिक"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which continent is hosting FIFA World Cup 2026?",
+      "q_hi": "2026 FIFA विश्व कप किस महाद्वीप में आयोजित हो रहा है?",
+      "opts": [
+        "North America",
+        "South America",
+        "Europe",
+        "Asia"
+      ],
+      "opts_hi": [
+        "उत्तर अमेरिका",
+        "दक्षिण अमेरिका",
+        "यूरोप",
+        "एशिया"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which is the first World Cup with 48 teams format?",
+      "q_hi": "48 टीमों वाले प्रारूप का पहला विश्व कप कौन सा है?",
+      "opts": [
+        "2026",
+        "2030",
+        "2022",
+        "2014"
+      ],
+      "opts_hi": [
+        "2026",
+        "2030",
+        "2022",
+        "2014"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which Canadian province will host matches?",
+      "q_hi": "2026 FIFA विश्व कप में कनाडा के किस प्रांत में मैच होंगे?",
+      "opts": [
+        "Ontario",
+        "British Columbia",
+        "Alberta",
+        "Quebec"
+      ],
+      "opts_hi": [
+        "ओन्टारियो",
+        "ब्रिटिश कोलंबिया",
+        "अल्बर्टा",
+        "क्यूबेक"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "What is the total number of venues in the USA for FIFA World Cup 2026?",
+      "q_hi": "2026 FIFA विश्व कप के लिए यूएसए में कितने वेन्यू हैं?",
+      "opts": [
+        "11",
+        "8",
+        "6",
+        "10"
+      ],
+      "opts_hi": [
+        "11",
+        "8",
+        "6",
+        "10"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which is the official broadcaster for FIFA World Cup 2026 in India?",
+      "q_hi": "भारत में 2026 FIFA विश्व कप का आधिकारिक प्रसारक कौन है?",
+      "opts": [
+        "Sony Sports",
+        "Star Sports",
+        "Disney+ Hotstar",
+        "None"
+      ],
+      "opts_hi": [
+        "सोनी स्पोर्ट्स",
+        "स्टार स्पोर्ट्स",
+        "डिज्नी+ हॉटस्टार",
+        "कोई नहीं"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "How many teams from Asia (AFC) will qualify for FIFA World Cup 2026?",
+      "q_hi": "2026 FIFA विश्व कप के लिए एशिया (AFC) से कितनी टीमें क्वालीफाई करेंगी?",
+      "opts": [
+        "8",
+        "6",
+        "4",
+        "9"
+      ],
+      "opts_hi": [
+        "8",
+        "6",
+        "4",
+        "9"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which is the host confederation for FIFA World Cup 2026?",
+      "q_hi": "2026 FIFA विश्व कप का मेजबान महासंघ कौन सा है?",
+      "opts": [
+        "CONCACAF",
+        "CONMEBOL",
+        "UEFA",
+        "AFC"
+      ],
+      "opts_hi": [
+        "कॉनकाकाफ",
+        "कॉनमेबोल",
+        "यूईएफए",
+        "एएफसी"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which stadium in Los Angeles will host matches?",
+      "q_hi": "2026 FIFA विश्व कप में लॉस एंजेलिस के किस स्टेडियम में मैच होंगे?",
+      "opts": [
+        "SoFi Stadium",
+        "Rose Bowl",
+        "Levi's Stadium",
+        "None"
+      ],
+      "opts_hi": [
+        "सोफी स्टेडियम",
+        "रोज बाउल",
+        "लेवी स्टेडियम",
+        "कोई नहीं"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "What is the expected number of visitors for FIFA World Cup 2026?",
+      "q_hi": "2026 FIFA विश्व कप के दौरान अनुमानित पर्यटकों की संख्या कितनी है?",
+      "opts": [
+        "Over 5 million",
+        "Over 3 million",
+        "Over 10 million",
+        "Over 1 million"
+      ],
+      "opts_hi": [
+        "5 मिलियन से अधिक",
+        "3 मिलियन से अधिक",
+        "10 मिलियन से अधिक",
+        "1 मिलियन से अधिक"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which is the first World Cup to be played across three countries?",
+      "q_hi": "तीन देशों में खेला जाने वाला पहला विश्व कप कौन सा है?",
+      "opts": [
+        "2026",
+        "2030",
+        "2022",
+        "2014"
+      ],
+      "opts_hi": [
+        "2026",
+        "2030",
+        "2022",
+        "2014"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which Mexican stadium is one of the oldest venues for 2026?",
+      "q_hi": "2026 के लिए सबसे पुराने वेन्यू में से एक कौन सा मेक्सिकन स्टेडियम है?",
+      "opts": [
+        "Estadio Azteca",
+        "Estadio BBVA",
+        "Estadio Olímpico",
+        "None"
+      ],
+      "opts_hi": [
+        "एस्टाडियो एज्टेका",
+        "एस्टाडियो बीबीवीए",
+        "एस्टाडियो ओलिंपिको",
+        "कोई नहीं"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "How many matches will be played in the round of 32?",
+      "q_hi": "32 के राउंड में कितने मैच खेले जाएंगे?",
+      "opts": [
+        "16",
+        "32",
+        "8",
+        "24"
+      ],
+      "opts_hi": [
+        "16",
+        "32",
+        "8",
+        "24"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which is the official partner of FIFA World Cup 2026?",
+      "q_hi": "2026 FIFA विश्व कप का आधिकारिक पार्टनर कौन है?",
+      "opts": [
+        "Adidas",
+        "Nike",
+        "Coca-Cola",
+        "Visa"
+      ],
+      "opts_hi": [
+        "एडिडास",
+        "नाइकी",
+        "कोका-कोला",
+        "वीसा"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which US state will host the most venues?",
+      "q_hi": "2026 FIFA विश्व कप में सबसे अधिक वेन्यू किस अमेरिकी राज्य में होंगे?",
+      "opts": [
+        "California",
+        "Texas",
+        "New York",
+        "Florida"
+      ],
+      "opts_hi": [
+        "कैलिफोर्निया",
+        "टेक्सास",
+        "न्यूयॉर्क",
+        "फ्लोरिडा"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "What is the total prize money pool for FIFA World Cup 2026?",
+      "q_hi": "2026 FIFA विश्व कप के कुल पुरस्कार राशि पूल कितना है?",
+      "opts": [
+        "Over $150 million",
+        "Over $100 million",
+        "Over $200 million",
+        "Over $300 million"
+      ],
+      "opts_hi": [
+        "150 मिलियन डॉलर से अधिक",
+        "100 मिलियन डॉलर से अधिक",
+        "200 मिलियन डॉलर से अधिक",
+        "300 मिलियन डॉलर से अधिक"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which is the first World Cup to feature a 48-team group stage?",
+      "q_hi": "48 टीमों वाले ग्रुप स्टेज वाला पहला विश्व कप कौन सा है?",
+      "opts": [
+        "2026",
+        "2030",
+        "2022",
+        "2018"
+      ],
+      "opts_hi": [
+        "2026",
+        "2030",
+        "2022",
+        "2018"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
     }
   ]
 }
