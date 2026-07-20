@@ -1954,6 +1954,816 @@
       ],
       "ans": 1,
       "subject": "General Knowledge"
+    },
+    {
+      "q": "What are the 10 books or volumes of the Rigveda called?",
+      "q_hi": "ऋग्वेद के 10 पुस्तकों या खंडों को क्या कहा जाता है?",
+      "opts": [
+        "Mandalas",
+        "Suktas",
+        "Brahmanas",
+        "Upanishads"
+      ],
+      "opts_hi": [
+        "मंडल",
+        "सूक्त",
+        "ब्राह्मण",
+        "उपनिषद"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which inscription provides detailed information about the achievements of Samudragupta?",
+      "q_hi": "समुद्रगुप्त की उपलब्धियों के बारे में विस्तृत जानकारी किस अभिलेख से मिलती है?",
+      "opts": [
+        "Ashoka's Edicts",
+        "Prayag Prashasti (Allahabad Pillar Inscription)",
+        "Girnar Inscription",
+        "Junagadh Inscription"
+      ],
+      "opts_hi": [
+        "अशोक के अभिलेख",
+        "प्रयाग प्रशस्ति (इलाहाबाद स्तंभ अभिलेख)",
+        "गिरनार अभिलेख",
+        "जूनागढ़ अभिलेख"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "In medieval India, the term 'Amir-i-Chahalgani' referred to:",
+      "q_hi": "मध्यकालीन भारत में, 'अमीर-ए-चहलगनी' शब्द किसे संदर्भित करता था?",
+      "opts": [
+        "Foreign Invaders",
+        "Trusted Nobles",
+        "Women Spies",
+        "Agricultural labourers"
+      ],
+      "opts_hi": [
+        "विदेशी आक्रमणकारी",
+        "विश्वसनीय अमीर",
+        "महिला जासूस",
+        "कृषि मजदूर"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who founded the city of Agra?",
+      "q_hi": "आगरा शहर की स्थापना किसने की?",
+      "opts": [
+        "Akbar",
+        "Sikandar Lodi",
+        "Shah Jahan",
+        "Bahlul Lodi"
+      ],
+      "opts_hi": [
+        "अकबर",
+        "सिकंदर लोदी",
+        "शाहजहाँ",
+        "बहलोल लोदी"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who drafted the \"Gandhian Plan\" for the economy in 1944?",
+      "q_hi": "1944 में अर्थव्यवस्था के लिए \"गांधीवादी योजना\" का मसौदा किसने तैयार किया?",
+      "opts": [
+        "Jayaprakash Narayan",
+        "Shriman Narayan Agarwal",
+        "M. Visvesvaraya",
+        "Subhash Chandra Bose"
+      ],
+      "opts_hi": [
+        "जयप्रकाश नारायण",
+        "श्रीमान नारायण अग्रवाल",
+        "एम. विश्वेश्वरैया",
+        "सुभाष चंद्र बोस"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who proposed the \"Sarvodaya Plan\" in 1950?",
+      "q_hi": "1950 में \"सर्वोदय योजना\" किसने प्रस्तावित की?",
+      "opts": [
+        "Mahatma Gandhi",
+        "Jayaprakash Narayan",
+        "Vinoba Bhave",
+        "M. Visvesvaraya"
+      ],
+      "opts_hi": [
+        "महात्मा गांधी",
+        "जयप्रकाश नारायण",
+        "विनोबा भावे",
+        "एम. विश्वेश्वरैया"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which Article of the Constitution is known as the \"Heart and Soul of the Constitution\"?",
+      "q_hi": "संविधान का कौन सा अनुच्छेद \"संविधान के हृदय और आत्मा\" के रूप में जाना जाता है?",
+      "opts": [
+        "Article 14",
+        "Article 21",
+        "Article 32",
+        "Article 44"
+      ],
+      "opts_hi": [
+        "अनुच्छेद 14",
+        "अनुच्छेद 21",
+        "अनुच्छेद 32",
+        "अनुच्छेद 44"
+      ],
+      "ans": 2,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which Amendment added \"Socialist,\" \"Secular,\" and \"Integrity\" to the Preamble?",
+      "q_hi": "किस संशोधन ने प्रस्तावना में \"समाजवादी,\" \"धर्मनिरपेक्ष\" और \"अखंडता\" शब्द जोड़े?",
+      "opts": [
+        "42nd Amendment Act, 1976",
+        "44th Amendment Act, 1978",
+        "61st Amendment Act, 1988",
+        "73rd Amendment Act, 1992"
+      ],
+      "opts_hi": [
+        "42वाँ संशोधन अधिनियम, 1976",
+        "44वाँ संशोधन अधिनियम, 1978",
+        "61वाँ संशोधन अधिनियम, 1988",
+        "73वाँ संशोधन अधिनियम, 1992"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "With reference to 'Money Bill', which statement is correct?",
+      "q_hi": "धन विधेयक' के संदर्भ में, कौन सा कथन सही है?",
+      "opts": [
+        "It can be introduced only in the Lok Sabha",
+        "A joint sitting can be convened in case of deadlock",
+        "President can withhold assent",
+        "All of the above"
+      ],
+      "opts_hi": [
+        "इसे केवल लोक सभा में पेश किया जा सकता है",
+        "गतिरोध की स्थिति में संयुक्त बैठक बुलाई जा सकती है",
+        "राष्ट्रपति सहमति रोक सकते हैं",
+        "उपरोक्त सभी"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which Part of the Constitution covers the Directive Principles of State Policy (DPSP)?",
+      "q_hi": "संविधान का कौन सा भाग राज्य नीति के निर्देशक सिद्धांतों (DPSP) को शामिल करता है?",
+      "opts": [
+        "Part III",
+        "Part IV",
+        "Part IV-A",
+        "Part V"
+      ],
+      "opts_hi": [
+        "भाग III",
+        "भाग IV",
+        "भाग IV-A",
+        "भाग V"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which Schedule of the Constitution deals with the division of powers between Union and States?",
+      "q_hi": "संविधान की कौन सी अनुसूची संघ और राज्यों के बीच शक्तियों के विभाजन से संबंधित है?",
+      "opts": [
+        "6th Schedule",
+        "7th Schedule",
+        "8th Schedule",
+        "10th Schedule"
+      ],
+      "opts_hi": [
+        "6ठी अनुसूची",
+        "7वीं अनुसूची",
+        "8वीं अनुसूची",
+        "10वीं अनुसूची"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which Article of the Constitution establishes the Parliament?",
+      "q_hi": "संविधान का कौन सा अनुच्छेद संसद की स्थापना करता है?",
+      "opts": [
+        "Article 79",
+        "Article 80",
+        "Article 81",
+        "Article 82"
+      ],
+      "opts_hi": [
+        "अनुच्छेद 79",
+        "अनुच्छेद 80",
+        "अनुच्छेद 81",
+        "अनुच्छेद 82"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "What is the maximum number of members in the Rajya Sabha?",
+      "q_hi": "राज्य सभा में अधिकतम सदस्यों की संख्या क्या है?",
+      "opts": [
+        "238",
+        "245",
+        "250",
+        "252"
+      ],
+      "opts_hi": [
+        "238",
+        "245",
+        "250",
+        "252"
+      ],
+      "ans": 2,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which Committee recommended the Panchayati Raj system?",
+      "q_hi": "पंचायती राज व्यवस्था की सिफारिश किस समिति ने की थी?",
+      "opts": [
+        "Ashok Mehta Committee",
+        "Balwant Rai Mehta Committee",
+        "L.M. Singhvi Committee",
+        "Thungon Committee"
+      ],
+      "opts_hi": [
+        "अशोक मेहता समिति",
+        "बलवंत राय मेहता समिति",
+        "एल.एम. सिंघवी समिति",
+        "थुंगन समिति"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which river flows through the Rift Valley in India?",
+      "q_hi": "भारत में कौन सी नदी दरार घाटी से होकर बहती है?",
+      "opts": [
+        "Narmada",
+        "Ganga",
+        "Godavari",
+        "Krishna"
+      ],
+      "opts_hi": [
+        "नर्मदा",
+        "गंगा",
+        "गोदावरी",
+        "कृष्णा"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Where is the Nokrek Biosphere Reserve located?",
+      "q_hi": "नोकरेक बायोस्फीयर रिजर्व कहाँ स्थित है?",
+      "opts": [
+        "Kerala",
+        "Meghalaya",
+        "Assam",
+        "West Bengal"
+      ],
+      "opts_hi": [
+        "केरल",
+        "मेघालय",
+        "असम",
+        "पश्चिम बंगाल"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "The Shevaroy Hills are located in which state of India?",
+      "q_hi": "शेवरॉय पहाड़ियाँ भारत के किस राज्य में स्थित हैं?",
+      "opts": [
+        "Kerala",
+        "Tamil Nadu",
+        "Karnataka",
+        "Andhra Pradesh"
+      ],
+      "opts_hi": [
+        "केरल",
+        "तमिलनाडु",
+        "कर्नाटक",
+        "आंध्र प्रदेश"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which of the following is the second largest artificial lake in Asia?",
+      "q_hi": "निम्नलिखित में से कौन सी एशिया की दूसरी सबसे बड़ी कृत्रिम झील है?",
+      "opts": [
+        "Chilika Lake in Odisha",
+        "Dhebar Lake in Rajasthan",
+        "Kolleru Lake in Andhra Pradesh",
+        "Chandubi Lake in Assam"
+      ],
+      "opts_hi": [
+        "ओडिशा की चिलिका झील",
+        "राजस्थान की ढेबर झील",
+        "आंध्र प्रदेश की कोलेरू झील",
+        "असम की चांदुबी झील"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which of the following countries has borders with Ukraine?",
+      "q_hi": "निम्नलिखित में से किस देश की सीमा यूक्रेन से लगती है?",
+      "opts": [
+        "Belarus, Hungary, Poland",
+        "Estonia, Czech Republic, Belarus",
+        "Hungary, Estonia, Czech Republic",
+        "Belarus, Estonia, Poland"
+      ],
+      "opts_hi": [
+        "बेलारूस, हंगरी, पोलैंड",
+        "एस्टोनिया, चेक गणराज्य, बेलारूस",
+        "हंगरी, एस्टोनिया, चेक गणराज्य",
+        "बेलारूस, एस्टोनिया, पोलैंड"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which is the largest producer of jute in the world?",
+      "q_hi": "दुनिया में जूट का सबसे बड़ा उत्पादक कौन सा है?",
+      "opts": [
+        "India",
+        "Bangladesh",
+        "China",
+        "Pakistan"
+      ],
+      "opts_hi": [
+        "भारत",
+        "बांग्लादेश",
+        "चीन",
+        "पाकिस्तान"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Where was the first jute mill set up in India?",
+      "q_hi": "भारत में पहली जूट मिल कहाँ स्थापित की गई थी?",
+      "opts": [
+        "Kolkata",
+        "Rishra (West Bengal)",
+        "Dhaka",
+        "Mumbai"
+      ],
+      "opts_hi": [
+        "कोलकाता",
+        "रिशड़ा (पश्चिम बंगाल)",
+        "ढाका",
+        "मुंबई"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which state is the largest producer of sugarcane in India?",
+      "q_hi": "भारत में सबसे बड़ा गन्ना उत्पादक राज्य कौन सा है?",
+      "opts": [
+        "Maharashtra",
+        "Uttar Pradesh",
+        "Karnataka",
+        "Tamil Nadu"
+      ],
+      "opts_hi": [
+        "महाराष्ट्र",
+        "उत्तर प्रदेश",
+        "कर्नाटक",
+        "तमिलनाडु"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "What technology is used to track objects like submarines underwater?",
+      "q_hi": "पानी के नीचे पनडुब्बियों जैसी वस्तुओं को ट्रैक करने के लिए किस तकनीक का उपयोग किया जाता है?",
+      "opts": [
+        "RADAR",
+        "SONAR",
+        "LIDAR",
+        "GPS"
+      ],
+      "opts_hi": [
+        "रडार",
+        "सोनार",
+        "लिडार",
+        "जीपीएस"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "What is the full form of SONAR?",
+      "q_hi": "SONAR का पूर्ण रूप क्या है?",
+      "opts": [
+        "Sound Navigation and Ranging",
+        "Sound Nautical and Radar",
+        "Signal Navigation and Radar",
+        "Sound Observation and Ranging"
+      ],
+      "opts_hi": [
+        "साउंड नेविगेशन एंड रेंजिंग",
+        "साउंड नॉटिकल एंड रडार",
+        "सिग्नल नेविगेशन एंड रडार",
+        "साउंड ऑब्जर्वेशन एंड रेंजिंग"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which layer of the atmosphere contains the ozone layer?",
+      "q_hi": "वायुमंडल की किस परत में ओजोन परत स्थित है?",
+      "opts": [
+        "Troposphere",
+        "Stratosphere",
+        "Mesosphere",
+        "Thermosphere"
+      ],
+      "opts_hi": [
+        "क्षोभमंडल",
+        "समतापमंडल",
+        "मध्यमंडल",
+        "तापमंडल"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who is known as the Father of Indian missile technology?",
+      "q_hi": "भारतीय मिसाइल प्रौद्योगिकी के जनक के रूप में किसे जाना जाता है?",
+      "opts": [
+        "Dr. Vikram Sarabhai",
+        "Dr. A.P.J. Abdul Kalam",
+        "Dr. Homi Bhabha",
+        "Dr. C.V. Raman"
+      ],
+      "opts_hi": [
+        "डॉ. विक्रम साराभाई",
+        "डॉ. ए.पी.जे. अब्दुल कलाम",
+        "डॉ. होमी भाभा",
+        "डॉ. सी.वी. रमण"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who was the first Indian to win a Nobel Prize?",
+      "q_hi": "नोबेल पुरस्कार जीतने वाले पहले भारतीय कौन थे?",
+      "opts": [
+        "Rabindranath Tagore",
+        "C.V. Raman",
+        "Amartya Sen",
+        "Hargobind Khorana"
+      ],
+      "opts_hi": [
+        "रवींद्रनाथ टैगोर",
+        "सी.वी. रमण",
+        "अमर्त्य सेन",
+        "हरगोबिंद खुराना"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who was the first Indian to win a Nobel Prize in Physics?",
+      "q_hi": "भौतिकी में नोबेल पुरस्कार जीतने वाले पहले भारतीय कौन थे?",
+      "opts": [
+        "Rabindranath Tagore",
+        "C.V. Raman",
+        "Amartya Sen",
+        "Hargobind Khorana"
+      ],
+      "opts_hi": [
+        "रवींद्रनाथ टैगोर",
+        "सी.वी. रमण",
+        "अमर्त्य सेन",
+        "हरगोबिंद खुराना"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "How many Union Territories (UTs) are currently in India?",
+      "q_hi": "वर्तमान में भारत में कितने केंद्र शासित प्रदेश (UTs) हैं?",
+      "opts": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "opts_hi": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which UTs have their own Legislative Assembly?",
+      "q_hi": "किन केंद्र शासित प्रदेशों की अपनी विधान सभा है?",
+      "opts": [
+        "Delhi and Puducherry only",
+        "Delhi, Puducherry, and Jammu & Kashmir",
+        "Delhi, Puducherry, and Ladakh",
+        "Only Delhi"
+      ],
+      "opts_hi": [
+        "केवल दिल्ली और पुडुचेरी",
+        "दिल्ली, पुडुचेरी और जम्मू-कश्मीर",
+        "दिल्ली, पुडुचेरी और लद्दाख",
+        "केवल दिल्ली"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which is the only country in the world to have both tigers and lions?",
+      "q_hi": "दुनिया का एकमात्र देश जहाँ बाघ और शेर दोनों पाए जाते हैं, कौन सा है?",
+      "opts": [
+        "India",
+        "China",
+        "South Africa",
+        "Russia"
+      ],
+      "opts_hi": [
+        "भारत",
+        "चीन",
+        "दक्षिण अफ्रीका",
+        "रूस"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which is the world's longest man-made waterway?",
+      "q_hi": "दुनिया की सबसे लंबी मानव निर्मित जलमार्ग कौन सी है?",
+      "opts": [
+        "Suez Canal",
+        "Panama Canal",
+        "Grand Canal (China)",
+        "Kiel Canal"
+      ],
+      "opts_hi": [
+        "स्वेज नहर",
+        "पनामा नहर",
+        "ग्रैंड नहर (चीन)",
+        "कील नहर"
+      ],
+      "ans": 2,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which continent is referred to as a \"Continent Dedicated to Science\"?",
+      "q_hi": "किस महाद्वीप को \"विज्ञान के लिए समर्पित महाद्वीप\" कहा जाता है?",
+      "opts": [
+        "Africa",
+        "Antarctica",
+        "North America",
+        "Asia"
+      ],
+      "opts_hi": [
+        "अफ्रीका",
+        "अंटार्कटिका",
+        "उत्तरी अमेरिका",
+        "एशिया"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "In which year was the 'Regulating Act' passed by the British Parliament to regulate the activities of the East India Company?",
+      "q_hi": "ईस्ट इंडिया कंपनी की गतिविधियों को विनियमित करने के लिए ब्रिटिश संसद द्वारा 'रेगुलेटिंग एक्ट' कब पारित किया गया था?",
+      "opts": [
+        "1757",
+        "1773",
+        "1784",
+        "1858"
+      ],
+      "opts_hi": [
+        "1757",
+        "1773",
+        "1784",
+        "1858"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "In which city was the Jhanda Satyagraha or Flag Satyagraha of 1923 held?",
+      "q_hi": "1923 का 'झंडा सत्याग्रह' (या 'ध्वज सत्याग्रह') किस शहर में आयोजित किया गया था?",
+      "opts": [
+        "Nagpur",
+        "Jabalpur",
+        "Bombay",
+        "Amritsar"
+      ],
+      "opts_hi": [
+        "नागपुर",
+        "जबलपुर",
+        "बॉम्बे",
+        "अमृतसर"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "How many seats of Rajya Sabha are present in the state of Maharashtra?",
+      "q_hi": "महाराष्ट्र राज्य से राज्य सभा की कितनी सीटें हैं?",
+      "opts": [
+        "16",
+        "17",
+        "18",
+        "19"
+      ],
+      "opts_hi": [
+        "16",
+        "17",
+        "18",
+        "19"
+      ],
+      "ans": 3,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "In which year was the Dowry Prohibition Act passed in India?",
+      "q_hi": "भारत में दहेज निषेध अधिनियम किस वर्ष पारित किया गया था?",
+      "opts": [
+        "1956",
+        "1961",
+        "1971",
+        "1984"
+      ],
+      "opts_hi": [
+        "1956",
+        "1961",
+        "1971",
+        "1984"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which of the following statements about Red Fort are correct? 1. It was constructed during the reign of Shah Jahan. 2. It is located on the banks of the Yamuna River. 3. It served as the main residence of Mughal emperors.",
+      "q_hi": "लाल किले के बारे में निम्नलिखित में से कौन-से कथन सही हैं? 1. इसका निर्माण शाहजहाँ के शासनकाल में हुआ था। 2. यह यमुना नदी के तट पर स्थित है। 3. यह मुगल सम्राटों का मुख्य निवास स्थान था।",
+      "opts": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "opts_hi": [
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "केवल 1 और 3",
+        "1, 2 और 3"
+      ],
+      "ans": 3,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which classical dance form has the earliest documented mentions?",
+      "q_hi": "किस शास्त्रीय नृत्य शैली का सबसे पुराना लिखित उल्लेख है?",
+      "opts": [
+        "Bharatanatyam",
+        "Kathak",
+        "Mohiniyattam",
+        "Manipuri"
+      ],
+      "opts_hi": [
+        "भरतनाट्यम",
+        "कथक",
+        "मोहिनीअट्टम",
+        "मणिपुरी"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "What is the main objective of the Right to Information Act, 2005?",
+      "q_hi": "सूचना का अधिकार अधिनियम, 2005 का मुख्य उद्देश्य क्या है?",
+      "opts": [
+        "To protect government secrets",
+        "To empower citizens to access information from the government",
+        "To restrict media freedom",
+        "To increase government transparency"
+      ],
+      "opts_hi": [
+        "सरकारी रहस्यों की रक्षा करना",
+        "नागरिकों को सरकार से जानकारी प्राप्त करने के लिए सशक्त बनाना",
+        "मीडिया की स्वतंत्रता को प्रतिबंधित करना",
+        "सरकारी पारदर्शिता बढ़ाना"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which state produces the maximum sunflower oil in India?",
+      "q_hi": "भारत में सबसे अधिक सूरजमुखी तेल उत्पादन करने वाला राज्य कौन सा है?",
+      "opts": [
+        "Karnataka",
+        "Andhra Pradesh",
+        "Tamil Nadu",
+        "Kerala"
+      ],
+      "opts_hi": [
+        "कर्नाटक",
+        "आंध्र प्रदेश",
+        "तमिलनाडु",
+        "केरल"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "According to the classification of modern Indian languages, which linguistic family accounts for the largest share of the Indian population?",
+      "q_hi": "आधुनिक भारतीय भाषाओं के वर्गीकरण के अनुसार, किस भाषा परिवार का भारतीय जनसंख्या में सबसे बड़ा हिस्सा है?",
+      "opts": [
+        "Sino-Tibetan (Kirata)",
+        "Dravidian",
+        "Austric (Nishada)",
+        "Indo-European (Aryan)"
+      ],
+      "opts_hi": [
+        "चीनी-तिब्बती (किरात)",
+        "द्रविड़",
+        "आस्ट्रिक (निषाद)",
+        "इंडो-यूरोपीय (आर्य)"
+      ],
+      "ans": 3,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "What is the term for the portion of wealth donated for charity in Islam?",
+      "q_hi": "इस्लाम में दान के लिए दी जाने वाली संपत्ति के हिस्से को क्या कहा जाता है?",
+      "opts": [
+        "Zakat",
+        "Hajj",
+        "Roza",
+        "Namaz"
+      ],
+      "opts_hi": [
+        "ज़कात",
+        "हज",
+        "रोज़ा",
+        "नमाज़"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "In which year was the Asian Development Bank (ADB) established?",
+      "q_hi": "एशियाई विकास बैंक (ADB) की स्थापना किस वर्ष हुई थी?",
+      "opts": [
+        "1956",
+        "1966",
+        "1976",
+        "1986"
+      ],
+      "opts_hi": [
+        "1956",
+        "1966",
+        "1976",
+        "1986"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who was the chairman of the Karachi Session of Congress in 1931?",
+      "q_hi": "1931 में कांग्रेस के कराची अधिवेशन के अध्यक्ष कौन थे?",
+      "opts": [
+        "Sardar Vallabhbhai Patel",
+        "Jawaharlal Nehru",
+        "Subhash Chandra Bose",
+        "Mahatma Gandhi"
+      ],
+      "opts_hi": [
+        "सरदार वल्लभभाई पटेल",
+        "जवाहरलाल नेहरू",
+        "सुभाष चंद्र बोस",
+        "महात्मा गांधी"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
     }
   ]
 }
