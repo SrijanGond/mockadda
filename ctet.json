@@ -1007,6 +1007,212 @@
           "subject": "General Knowledge"
         }
       ]
+    },
+    {
+      "id": "ctet_18",
+      "title": "CTET Mock Test 18",
+      "duration": 13,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which inscription provides detailed information about the achievements of Samudragupta?",
+          "q_hi": "समुद्रगुप्त की उपलब्धियों के बारे में विस्तृत जानकारी किस अभिलेख से मिलती है?",
+          "opts": [
+            "Ashoka's Edicts",
+            "Prayag Prashasti (Allahabad Pillar Inscription)",
+            "Girnar Inscription",
+            "Junagadh Inscription"
+          ],
+          "opts_hi": [
+            "अशोक के अभिलेख",
+            "प्रयाग प्रशस्ति (इलाहाबाद स्तंभ अभिलेख)",
+            "गिरनार अभिलेख",
+            "जूनागढ़ अभिलेख"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "In medieval India, the term 'Amir-i-Chahalgani' referred to:",
+          "q_hi": "मध्यकालीन भारत में, 'अमीर-ए-चहलगनी' शब्द किसे संदर्भित करता था?",
+          "opts": [
+            "Foreign Invaders",
+            "Trusted Nobles",
+            "Women Spies",
+            "Agricultural labourers"
+          ],
+          "opts_hi": [
+            "विदेशी आक्रमणकारी",
+            "विश्वसनीय अमीर",
+            "महिला जासूस",
+            "कृषि मजदूर"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which Amendment added \"Socialist,\" \"Secular,\" and \"Integrity\" to the Preamble?",
+          "q_hi": "किस संशोधन ने प्रस्तावना में \"समाजवादी,\" \"धर्मनिरपेक्ष\" और \"अखंडता\" शब्द जोड़े?",
+          "opts": [
+            "42nd Amendment Act, 1976",
+            "44th Amendment Act, 1978",
+            "61st Amendment Act, 1988",
+            "73rd Amendment Act, 1992"
+          ],
+          "opts_hi": [
+            "42वाँ संशोधन अधिनियम, 1976",
+            "44वाँ संशोधन अधिनियम, 1978",
+            "61वाँ संशोधन अधिनियम, 1988",
+            "73वाँ संशोधन अधिनियम, 1992"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Where is the Nokrek Biosphere Reserve located?",
+          "q_hi": "नोकरेक बायोस्फीयर रिजर्व कहाँ स्थित है?",
+          "opts": [
+            "Kerala",
+            "Meghalaya",
+            "Assam",
+            "West Bengal"
+          ],
+          "opts_hi": [
+            "केरल",
+            "मेघालय",
+            "असम",
+            "पश्चिम बंगाल"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which layer of the atmosphere contains the ozone layer?",
+          "q_hi": "वायुमंडल की किस परत में ओजोन परत स्थित है?",
+          "opts": [
+            "Troposphere",
+            "Stratosphere",
+            "Mesosphere",
+            "Thermosphere"
+          ],
+          "opts_hi": [
+            "क्षोभमंडल",
+            "समतापमंडल",
+            "मध्यमंडल",
+            "तापमंडल"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "What was the profit after tax of Scheduled Commercial Banks in FY26 as per RBI?",
+          "q_hi": "RBI के अनुसार, वित्तीय वर्ष 2025-26 में अनुसूचित वाणिज्यिक बैंकों का कर-पश्चात लाभ कितना था?",
+          "opts": [
+            "₹3.78 lakh crore",
+            "₹4.05 lakh crore",
+            "₹4.50 lakh crore",
+            "₹5.20 lakh crore"
+          ],
+          "opts_hi": [
+            "₹3.78 लाख करोड़",
+            "₹4.05 लाख करोड़",
+            "₹4.50 लाख करोड़",
+            "₹5.20 लाख करोड़"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Which observatory in Chile has launched the Legacy Survey of Space and Time (LSST) mission?",
+          "q_hi": "चिली में किस वेधशाला ने Legacy Survey of Space and Time (LSST) मिशन लॉन्च किया है?",
+          "opts": [
+            "Vera C. Rubin Observatory",
+            "Very Large Telescope",
+            "Atacama Observatory",
+            "Palomar Observatory"
+          ],
+          "opts_hi": [
+            "वेरा सी. रुबिन वेधशाला",
+            "बहुत बड़ा दूरबीन",
+            "अटाकामा वेधशाला",
+            "पालोमर वेधशाला"
+          ],
+          "ans": 0,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "What is the highest sporting honour of India that was recommended for Hardik Singh in 2025-26?",
+          "q_hi": "2025-26 में हार्दिक सिंह के लिए अनुशंसित भारत का सर्वोच्च खेल सम्मान क्या है?",
+          "opts": [
+            "Arjuna Award",
+            "Khel Ratna Award",
+            "Dronacharya Award",
+            "Rajiv Gandhi Khel Ratna"
+          ],
+          "opts_hi": [
+            "अर्जुन पुरस्कार",
+            "खेल रत्न पुरस्कार",
+            "द्रोणाचार्य पुरस्कार",
+            "राजीव गांधी खेल रत्न"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Which athlete publicly criticized the delay in National Sports Awards 2026?",
+          "q_hi": "किस खिलाड़ी ने 2026 के राष्ट्रीय खेल पुरस्कारों में देरी की सार्वजनिक रूप से आलोचना की?",
+          "opts": [
+            "Neeraj Chopra",
+            "Tejaswin Shankar",
+            "PV Sindhu",
+            "Mirabai Chanu"
+          ],
+          "opts_hi": [
+            "नीरज चोपड़ा",
+            "तेजस्विन शंकर",
+            "पी.वी. सिंधु",
+            "मीराबाई चानू"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "What is India's GDP growth for FY26 as per RBI?",
+          "q_hi": "RBI के अनुसार FY26 में भारत की GDP वृद्धि क्या थी?",
+          "opts": [
+            "0.065",
+            "0.07",
+            "0.077",
+            "0.08"
+          ],
+          "opts_hi": [
+            "0.065",
+            "0.07",
+            "0.077",
+            "0.08"
+          ],
+          "ans": 2,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "What is the maximum loan amount provided under the PM Vishwakarma scheme?",
+          "q_hi": "PM विश्वकर्मा योजना के तहत अधिकतम ऋण राशि क्या है?",
+          "opts": [
+            "₹50,000",
+            "₹1,00,000",
+            "₹2,00,000",
+            "₹5,00,000"
+          ],
+          "opts_hi": [
+            "₹50,000",
+            "₹1,00,000",
+            "₹2,00,000",
+            "₹5,00,000"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        }
+      ]
     }
   ]
 }
