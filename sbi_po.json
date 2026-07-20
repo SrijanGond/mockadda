@@ -1274,6 +1274,32 @@
           "subject": "Banking"
         }
       ]
+    },
+    {
+      "id": "sbi_po_22",
+      "title": "SBI PO Mock Test 22",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What does IFSC stand for?",
+          "q_hi": "IFSC का पूर्ण रूप क्या है?",
+          "opts": [
+            "Indian Financial System Code",
+            "International Financial System Code",
+            "Indian Fund Settlement Code",
+            "None"
+          ],
+          "opts_hi": [
+            "इंडियन फाइनेंशियल सिस्टम कोड",
+            "इंटरनेशनल फाइनेंशियल सिस्टम कोड",
+            "इंडियन फंड सेटलमेंट कोड",
+            "कोई नहीं"
+          ],
+          "ans": 0,
+          "subject": "Banking"
+        }
+      ]
     }
   ]
 }
