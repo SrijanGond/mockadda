@@ -1372,6 +1372,212 @@
           "subject": "General Knowledge"
         }
       ]
+    },
+    {
+      "id": "ssc_mts_23",
+      "title": "SSC MTS Mock Test 23",
+      "duration": 13,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which river is known as the 'Lifeline of Gujarat'?",
+          "q_hi": "गुजरात की जीवन रेखा' किस नदी को कहा जाता है?",
+          "opts": [
+            "Narmada",
+            "Tapi",
+            "Sabarmati",
+            "Mahi"
+          ],
+          "opts_hi": [
+            "नर्मदा",
+            "ताप्ती",
+            "साबरमती",
+            "माही"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "What is the imaginary line at 0° latitude called?",
+          "q_hi": "0° अक्षांश वाली काल्पनिक रेखा को क्या कहते हैं?",
+          "opts": [
+            "Equator",
+            "Tropic of Cancer",
+            "Prime Meridian",
+            "International Date Line"
+          ],
+          "opts_hi": [
+            "भूमध्य रेखा",
+            "कर्क रेखा",
+            "प्राइम मेरिडियन",
+            "अंतर्राष्ट्रीय तिथि रेखा"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "What is the deepest ocean in the world?",
+          "q_hi": "दुनिया का सबसे गहरा महासागर कौन सा है?",
+          "opts": [
+            "Pacific Ocean",
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Arctic Ocean"
+          ],
+          "opts_hi": [
+            "प्रशांत महासागर",
+            "अटलांटिक महासागर",
+            "हिंद महासागर",
+            "आर्कटिक महासागर"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "What is the imaginary line at 0° longitude called?",
+          "q_hi": "0° देशांतर वाली काल्पनिक रेखा को क्या कहते हैं?",
+          "opts": [
+            "Equator",
+            "Prime Meridian",
+            "Tropic of Cancer",
+            "International Date Line"
+          ],
+          "opts_hi": [
+            "भूमध्य रेखा",
+            "प्राइम मेरिडियन",
+            "कर्क रेखा",
+            "अंतर्राष्ट्रीय तिथि रेखा"
+          ],
+          "ans": 1,
+          "subject": "Geography"
+        },
+        {
+          "q": "What is the main cause of tides?",
+          "q_hi": "ज्वार-भाटा का मुख्य कारण क्या है?",
+          "opts": [
+            "Gravitational pull of the Moon",
+            "Gravitational pull of the Sun",
+            "Wind",
+            "Earth's rotation"
+          ],
+          "opts_hi": [
+            "चंद्रमा का गुरुत्वाकर्षण",
+            "सूर्य का गुरुत्वाकर्षण",
+            "हवा",
+            "पृथ्वी का घूर्णन"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "What is the main gas in the Earth's atmosphere?",
+          "q_hi": "पृथ्वी के वायुमंडल का मुख्य गैस कौन सी है?",
+          "opts": [
+            "Oxygen",
+            "Nitrogen",
+            "Carbon Dioxide",
+            "Hydrogen"
+          ],
+          "opts_hi": [
+            "ऑक्सीजन",
+            "नाइट्रोजन",
+            "कार्बन डाइऑक्साइड",
+            "हाइड्रोजन"
+          ],
+          "ans": 1,
+          "subject": "Geography"
+        },
+        {
+          "q": "What is the main reason for seasons on Earth?",
+          "q_hi": "पृथ्वी पर मौसमों का मुख्य कारण क्या है?",
+          "opts": [
+            "Tilt of Earth's axis",
+            "Distance from Sun",
+            "Rotation of Earth",
+            "None"
+          ],
+          "opts_hi": [
+            "पृथ्वी की धुरी का झुकाव",
+            "सूर्य से दूरी",
+            "पृथ्वी का घूर्णन",
+            "कोई नहीं"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "What is the unit of measurement for earthquakes?",
+          "q_hi": "भूकंप की तीव्रता मापने की इकाई क्या है?",
+          "opts": [
+            "Richter Scale",
+            "Mercalli Scale",
+            "Beaufort Scale",
+            "None"
+          ],
+          "opts_hi": [
+            "रिक्टर स्केल",
+            "मर्केली स्केल",
+            "ब्यूफोर्ट स्केल",
+            "कोई नहीं"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "What is the main component of natural gas?",
+          "q_hi": "प्राकृतिक गैस का मुख्य घटक क्या है?",
+          "opts": [
+            "Methane",
+            "Propane",
+            "Butane",
+            "Ethane"
+          ],
+          "opts_hi": [
+            "मीथेन",
+            "प्रोपेन",
+            "ब्यूटेन",
+            "इथेन"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "What causes the phenomenon of day and night?",
+          "q_hi": "दिन और रात का कारण क्या है?",
+          "opts": [
+            "Rotation of Earth",
+            "Revolution of Earth",
+            "Tilt of Earth",
+            "None"
+          ],
+          "opts_hi": [
+            "पृथ्वी का घूर्णन",
+            "पृथ्वी का परिक्रमण",
+            "पृथ्वी का झुकाव",
+            "कोई नहीं"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "What is the main cause of wind?",
+          "q_hi": "हवा का मुख्य कारण क्या है?",
+          "opts": [
+            "Pressure difference",
+            "Temperature difference",
+            "Earth's rotation",
+            "None"
+          ],
+          "opts_hi": [
+            "दबाव का अंतर",
+            "तापमान का अंतर",
+            "पृथ्वी का घूर्णन",
+            "कोई नहीं"
+          ],
+          "ans": 1,
+          "subject": "Geography"
+        }
+      ]
     }
   ]
 }
