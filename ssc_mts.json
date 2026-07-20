@@ -1766,6 +1766,158 @@
           "subject": "Geography"
         }
       ]
+    },
+    {
+      "id": "ssc_mts_25",
+      "title": "SSC MTS Mock Test 25",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which three countries are co-hosting FIFA World Cup 2026?",
+          "q_hi": "2026 FIFA विश्व कप की संयुक्त मेजबानी कौन से तीन देश कर रहे हैं?",
+          "opts": [
+            "USA, Canada, Mexico",
+            "Brazil, Argentina, Uruguay",
+            "Spain, Portugal, Morocco",
+            "England, Germany, France"
+          ],
+          "opts_hi": [
+            "यूएसए, कनाडा, मेक्सिको",
+            "ब्राजील, अर्जेंटीना, उरुग्वे",
+            "स्पेन, पुर्तगाल, मोरक्को",
+            "इंग्लैंड, जर्मनी, फ्रांस"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which confederation will have the most teams in FIFA World Cup 2026?",
+          "q_hi": "2026 FIFA विश्व कप में सबसे अधिक टीमें किस महासंघ की होंगी?",
+          "opts": [
+            "UEFA",
+            "CONCACAF",
+            "CONMEBOL",
+            "AFC"
+          ],
+          "opts_hi": [
+            "यूईएफए",
+            "कॉनकाकाफ",
+            "कॉनमेबोल",
+            "एएफसी"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which confederation is hosting FIFA World Cup 2026 for the first time?",
+          "q_hi": "2026 FIFA विश्व कप पहली बार किस महासंघ में आयोजित हो रहा है?",
+          "opts": [
+            "CONCACAF",
+            "UEFA",
+            "CONMEBOL",
+            "AFC"
+          ],
+          "opts_hi": [
+            "कॉनकाकाफ",
+            "यूईएफए",
+            "कॉनमेबोल",
+            "एएफसी"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which confederation will get 16 slots in FIFA World Cup 2026?",
+          "q_hi": "2026 FIFA विश्व कप में 16 स्लॉट किस महासंघ को मिलेंगे?",
+          "opts": [
+            "UEFA",
+            "CONMEBOL",
+            "CONCACAF",
+            "AFC"
+          ],
+          "opts_hi": [
+            "यूईएफए",
+            "कॉनमेबोल",
+            "कॉनकाकाफ",
+            "एएफसी"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which is the official ball of FIFA World Cup 2026?",
+          "q_hi": "2026 FIFA विश्व कप की आधिकारिक गेंद क्या है?",
+          "opts": [
+            "Al Rihla",
+            "Al Hilal",
+            "Not announced",
+            "Adidas Brazuca"
+          ],
+          "opts_hi": [
+            "अल रिहला",
+            "अल हिलाल",
+            "अभी घोषित नहीं",
+            "एडिडास ब्राजुका"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which continent is hosting FIFA World Cup 2026?",
+          "q_hi": "2026 FIFA विश्व कप किस महाद्वीप में आयोजित हो रहा है?",
+          "opts": [
+            "North America",
+            "South America",
+            "Europe",
+            "Asia"
+          ],
+          "opts_hi": [
+            "उत्तर अमेरिका",
+            "दक्षिण अमेरिका",
+            "यूरोप",
+            "एशिया"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which is the host confederation for FIFA World Cup 2026?",
+          "q_hi": "2026 FIFA विश्व कप का मेजबान महासंघ कौन सा है?",
+          "opts": [
+            "CONCACAF",
+            "CONMEBOL",
+            "UEFA",
+            "AFC"
+          ],
+          "opts_hi": [
+            "कॉनकाकाफ",
+            "कॉनमेबोल",
+            "यूईएफए",
+            "एएफसी"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which is the official partner of FIFA World Cup 2026?",
+          "q_hi": "2026 FIFA विश्व कप का आधिकारिक पार्टनर कौन है?",
+          "opts": [
+            "Adidas",
+            "Nike",
+            "Coca-Cola",
+            "Visa"
+          ],
+          "opts_hi": [
+            "एडिडास",
+            "नाइकी",
+            "कोका-कोला",
+            "वीसा"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        }
+      ]
     }
   ]
 }
