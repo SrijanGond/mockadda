@@ -2615,6 +2615,104 @@
           "subject": "History"
         }
       ]
+    },
+    {
+      "id": "rrb_ntpc_30",
+      "title": "RRB NTPC Mock Test 30",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What is the full form of SEBI?",
+          "q_hi": "SEBI का पूर्ण रूप क्या है?",
+          "opts": [
+            "Securities and Exchange Board of India",
+            "Stock Exchange Board of India",
+            "None",
+            "Securities Exchange Board"
+          ],
+          "opts_hi": [
+            "सिक्योरिटीज एंड एक्सचेंज बोर्ड ऑफ इंडिया",
+            "स्टॉक एक्सचेंज बोर्ड ऑफ इंडिया",
+            "कोई नहीं",
+            "सिक्योरिटीज एक्सचेंज बोर्ड"
+          ],
+          "ans": 0,
+          "subject": "Economics"
+        },
+        {
+          "q": "What is the full form of FDI?",
+          "q_hi": "FDI का पूर्ण रूप क्या है?",
+          "opts": [
+            "Foreign Direct Investment",
+            "Foreign Development Investment",
+            "None",
+            "Foreign Domestic Investment"
+          ],
+          "opts_hi": [
+            "फॉरेन डायरेक्ट इन्वेस्टमेंट",
+            "फॉरेन डेवलपमेंट इन्वेस्टमेंट",
+            "कोई नहीं",
+            "फॉरेन डोमेस्टिक इन्वेस्टमेंट"
+          ],
+          "ans": 0,
+          "subject": "Economics"
+        },
+        {
+          "q": "What is the full form of CRR?",
+          "q_hi": "CRR का पूर्ण रूप क्या है?",
+          "opts": [
+            "Cash Reserve Ratio",
+            "Current Reserve Ratio",
+            "None",
+            "Cash Reserve Rate"
+          ],
+          "opts_hi": [
+            "कैश रिजर्व रेशियो",
+            "करंट रिजर्व रेशियो",
+            "कोई नहीं",
+            "कैश रिजर्व रेट"
+          ],
+          "ans": 0,
+          "subject": "Economics"
+        },
+        {
+          "q": "What is the full form of NPA?",
+          "q_hi": "NPA का पूर्ण रूप क्या है?",
+          "opts": [
+            "Non-Performing Asset",
+            "Non-Performing Account",
+            "None",
+            "Non-Performing Asset"
+          ],
+          "opts_hi": [
+            "नॉन-परफॉर्मिंग एसेट",
+            "नॉन-परफॉर्मिंग अकाउंट",
+            "कोई नहीं",
+            "नॉन-परफॉर्मिंग एसेट"
+          ],
+          "ans": 0,
+          "subject": "Economics"
+        },
+        {
+          "q": "What is the full form of SLR?",
+          "q_hi": "SLR का पूर्ण रूप क्या है?",
+          "opts": [
+            "Statutory Liquidity Ratio",
+            "Statutory Liquidity Reserve",
+            "None",
+            "Statutory Liquidity Rate"
+          ],
+          "opts_hi": [
+            "स्टैट्यूटरी लिक्विडिटी रेशियो",
+            "स्टैट्यूटरी लिक्विडिटी रिजर्व",
+            "कोई नहीं",
+            "स्टैट्यूटरी लिक्विडिटी रेट"
+          ],
+          "ans": 0,
+          "subject": "Economics"
+        }
+      ]
     }
   ]
 }
