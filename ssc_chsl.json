@@ -2005,6 +2005,230 @@
           "subject": "Geography"
         }
       ]
+    },
+    {
+      "id": "ssc_chsl_28",
+      "title": "SSC CHSL Mock Test 28",
+      "duration": 14,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What is the approximate age of the Earth according to modern estimates?",
+          "q_hi": "आधुनिक अनुमानों के अनुसार पृथ्वी की आयु लगभग कितनी है?",
+          "opts": [
+            "4.5 billion years",
+            "3.5 billion years",
+            "5.5 billion years",
+            "6.5 billion years"
+          ],
+          "opts_hi": [
+            "45 अरब वर्ष",
+            "35 अरब वर्ष",
+            "55 अरब वर्ष",
+            "65 अरब वर्ष"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which is the longest river bridge in India?",
+          "q_hi": "भारत का सबसे लंबा नदी पुल कौन सा है?",
+          "opts": [
+            "Bhupen Hazarika Bridge",
+            "Chenab Bridge",
+            "Godavari Arch Bridge",
+            "Bogibeel Bridge"
+          ],
+          "opts_hi": [
+            "भूपेन हazarिका ब्रिज",
+            "चेनाब ब्रिज",
+            "गोदावरी आर्च ब्रिज",
+            "बोगीबील ब्रिज"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which is the largest artificial lake in India?",
+          "q_hi": "भारत की सबसे बड़ी मानव निर्मित झील कौन सी है?",
+          "opts": [
+            "Gobind Sagar",
+            "Indira Sagar",
+            "Tehri Lake",
+            "Hirakud Reservoir"
+          ],
+          "opts_hi": [
+            "गोबिंद सागर",
+            "इंदिरा सागर",
+            "टिहरी झील",
+            "हीराकुड जलाशय"
+          ],
+          "ans": 1,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which river is known as the 'Ganges of the South'?",
+          "q_hi": "दक्षिण की गंगा' किस नदी को कहा जाता है?",
+          "opts": [
+            "Godavari",
+            "Kaveri",
+            "Tungabhadra",
+            "Krishna"
+          ],
+          "opts_hi": [
+            "गोदावरी",
+            "कावेरी",
+            "तुंगभद्रा",
+            "कृष्णा"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which state has the largest area under bamboo forests?",
+          "q_hi": "बांस के वनों के अंतर्गत सबसे बड़ा क्षेत्रफल वाला राज्य कौन सा है?",
+          "opts": [
+            "Madhya Pradesh",
+            "Arunachal Pradesh",
+            "Assam",
+            "Manipur"
+          ],
+          "opts_hi": [
+            "मध्य प्रदेश",
+            "अरुणाचल प्रदेश",
+            "असम",
+            "मणिपुर"
+          ],
+          "ans": 1,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which state is the largest producer of silk in India?",
+          "q_hi": "भारत में रेशम का सबसे बड़ा उत्पादक राज्य कौन सा है?",
+          "opts": [
+            "Karnataka",
+            "Tamil Nadu",
+            "Andhra Pradesh",
+            "West Bengal"
+          ],
+          "opts_hi": [
+            "कर्नाटक",
+            "तमिलनाडु",
+            "आंध्र प्रदेश",
+            "पश्चिम बंगाल"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which state has the largest installed solar power capacity?",
+          "q_hi": "सबसे अधिक सौर ऊर्जा क्षमता वाला राज्य कौन सा है?",
+          "opts": [
+            "Rajasthan",
+            "Gujarat",
+            "Karnataka",
+            "Tamil Nadu"
+          ],
+          "opts_hi": [
+            "राजस्थान",
+            "गुजरात",
+            "कर्नाटक",
+            "तमिलनाडु"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which state is the largest producer of maize in India?",
+          "q_hi": "भारत में मक्का का सबसे बड़ा उत्पादक राज्य कौन सा है?",
+          "opts": [
+            "Madhya Pradesh",
+            "Rajasthan",
+            "Karnataka",
+            "Andhra Pradesh"
+          ],
+          "opts_hi": [
+            "मध्य प्रदेश",
+            "राजस्थान",
+            "कर्नाटक",
+            "आंध्र प्रदेश"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which state is the largest producer of turmeric in India?",
+          "q_hi": "भारत में हल्दी का सबसे बड़ा उत्पादक राज्य कौन सा है?",
+          "opts": [
+            "Telangana",
+            "Andhra Pradesh",
+            "Karnataka",
+            "Tamil Nadu"
+          ],
+          "opts_hi": [
+            "तेलंगाना",
+            "आंध्र प्रदेश",
+            "कर्नाटक",
+            "तमिलनाडु"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which state is the largest producer of groundnut in India?",
+          "q_hi": "भारत में मूंगफली का सबसे बड़ा उत्पादक राज्य कौन सा है?",
+          "opts": [
+            "Gujarat",
+            "Rajasthan",
+            "Andhra Pradesh",
+            "Karnataka"
+          ],
+          "opts_hi": [
+            "गुजरात",
+            "राजस्थान",
+            "आंध्र प्रदेश",
+            "कर्नाटक"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which state is the largest producer of soybean in India?",
+          "q_hi": "भारत में सोयाबीन का सबसे बड़ा उत्पादक राज्य कौन सा है?",
+          "opts": [
+            "Madhya Pradesh",
+            "Maharashtra",
+            "Rajasthan",
+            "Uttar Pradesh"
+          ],
+          "opts_hi": [
+            "मध्य प्रदेश",
+            "महाराष्ट्र",
+            "राजस्थान",
+            "उत्तर प्रदेश"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which state has the largest reserves of limestone?",
+          "q_hi": "चूना पत्थर के सबसे बड़े भंडार किस राज्य के पास हैं?",
+          "opts": [
+            "Rajasthan",
+            "Madhya Pradesh",
+            "Andhra Pradesh",
+            "Tamil Nadu"
+          ],
+          "opts_hi": [
+            "राजस्थान",
+            "मध्य प्रदेश",
+            "आंध्र प्रदेश",
+            "तमिलनाडु"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        }
+      ]
     }
   ]
 }
