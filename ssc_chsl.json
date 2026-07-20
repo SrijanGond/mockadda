@@ -1497,6 +1497,50 @@
           "subject": "Polity"
         }
       ]
+    },
+    {
+      "id": "ssc_chsl_23",
+      "title": "SSC CHSL Mock Test 23",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Who built the Grand Trunk Road?",
+          "q_hi": "ग्रैंड ट्रंक रोड का निर्माण किसने किया?",
+          "opts": [
+            "Chandragupta Maurya",
+            "Sher Shah Suri",
+            "Akbar",
+            "Ashoka"
+          ],
+          "opts_hi": [
+            "चंद्रगुप्त मौर्य",
+            "शेर शाह सूरी",
+            "अकबर",
+            "अशोक"
+          ],
+          "ans": 1,
+          "subject": "History"
+        },
+        {
+          "q": "What is the chemical name of Vitamin C?",
+          "q_hi": "विटामिन C का रासायनिक नाम क्या है?",
+          "opts": [
+            "Ascorbic Acid",
+            "Citric Acid",
+            "Lactic Acid",
+            "Tartaric Acid"
+          ],
+          "opts_hi": [
+            "एस्कॉर्बिक एसिड",
+            "सिट्रिक एसिड",
+            "लैक्टिक एसिड",
+            "टार्टरिक एसिड"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        }
+      ]
     }
   ]
 }
