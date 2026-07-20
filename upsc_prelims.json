@@ -2719,6 +2719,68 @@
           "subject": "Environment"
         }
       ]
+    },
+    {
+      "id": "upsc_prelims_24",
+      "title": "UPSC Prelims Mock Test 24",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Who was the first Governor-General of Independent India?",
+          "q_hi": "स्वतंत्र भारत के पहले गवर्नर-जनरल कौन थे?",
+          "opts": [
+            "Lord Mountbatten",
+            "C. Rajagopalachari",
+            "Lord Wavell",
+            "Jawaharlal Nehru"
+          ],
+          "opts_hi": [
+            "लॉर्ड माउंटबेटन",
+            "सी. राजगोपालाचारी",
+            "लॉर्ड वेवेल",
+            "जवाहरलाल नेहरू"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "Which country hosted COP26?",
+          "q_hi": "COP26 की मेजबानी किस देश ने की?",
+          "opts": [
+            "France",
+            "UK",
+            "India",
+            "Germany"
+          ],
+          "opts_hi": [
+            "फ्रांस",
+            "यूके",
+            "भारत",
+            "जर्मनी"
+          ],
+          "ans": 1,
+          "subject": "Environment"
+        },
+        {
+          "q": "Article 1 of the Indian Constitution describes India as?",
+          "q_hi": "भारतीय संविधान का अनुच्छेद 1 भारत को क्या कहता है?",
+          "opts": [
+            "Union of States",
+            "Federation of States",
+            "Union of Territories",
+            "Republic"
+          ],
+          "opts_hi": [
+            "स्टेट्स का यूनियन",
+            "फेडरेशन ऑफ स्टेट्स",
+            "यूनियन ऑफ टेरिटरीज",
+            "रिपब्लिक"
+          ],
+          "ans": 0,
+          "subject": "Polity"
+        }
+      ]
     }
   ]
 }
