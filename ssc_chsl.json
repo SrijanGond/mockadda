@@ -2229,6 +2229,158 @@
           "subject": "Geography"
         }
       ]
+    },
+    {
+      "id": "ssc_chsl_29",
+      "title": "SSC CHSL Mock Test 29",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "How many venues will be used for FIFA World Cup 2026?",
+          "q_hi": "2026 FIFA विश्व कप के लिए कितने वेन्यू इस्तेमाल किए जाएंगे?",
+          "opts": [
+            "11",
+            "12",
+            "16",
+            "8"
+          ],
+          "opts_hi": [
+            "11",
+            "12",
+            "16",
+            "8"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "How many groups will there be in the group stage of FIFA World Cup 2026?",
+          "q_hi": "2026 FIFA विश्व कप के ग्रुप स्टेज में कितने ग्रुप होंगे?",
+          "opts": [
+            "8",
+            "12",
+            "16",
+            "6"
+          ],
+          "opts_hi": [
+            "8",
+            "12",
+            "16",
+            "6"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which stadium will host the semi-finals of FIFA World Cup 2026?",
+          "q_hi": "2026 FIFA विश्व कप के सेमीफाइनल किस स्टेडियम में होंगे?",
+          "opts": [
+            "MetLife Stadium",
+            "SoFi Stadium",
+            "AT&T Stadium",
+            "Multiple"
+          ],
+          "opts_hi": [
+            "मेटलाइफ स्टेडियम",
+            "सोफी स्टेडियम",
+            "एटीएंडटी स्टेडियम",
+            "एकाधिक"
+          ],
+          "ans": 3,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "How many matches will each team play in the group stage?",
+          "q_hi": "ग्रुप स्टेज में प्रत्येक टीम कितने मैच खेलेगी?",
+          "opts": [
+            "3",
+            "4",
+            "5",
+            "2"
+          ],
+          "opts_hi": [
+            "3",
+            "4",
+            "5",
+            "2"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "What is the new format change in FIFA World Cup 2026?",
+          "q_hi": "2026 FIFA विश्व कप में नया प्रारूप परिवर्तन क्या है?",
+          "opts": [
+            "48 teams",
+            "32 teams",
+            "Expanded groups",
+            "None"
+          ],
+          "opts_hi": [
+            "48 टीमें",
+            "32 टीमें",
+            "विस्तारित ग्रुप",
+            "कोई नहीं"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "What is the expected revenue for FIFA from World Cup 2026?",
+          "q_hi": "2026 विश्व कप से FIFA को अनुमानित राजस्व कितना है?",
+          "opts": [
+            "Over $11 billion",
+            "Over $5 billion",
+            "Over $8 billion",
+            "Over $15 billion"
+          ],
+          "opts_hi": [
+            "11 अरब डॉलर से अधिक",
+            "5 अरब डॉलर से अधिक",
+            "8 अरब डॉलर से अधिक",
+            "15 अरब डॉलर से अधिक"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "How many teams from Asia (AFC) will qualify for FIFA World Cup 2026?",
+          "q_hi": "2026 FIFA विश्व कप के लिए एशिया (AFC) से कितनी टीमें क्वालीफाई करेंगी?",
+          "opts": [
+            "8",
+            "6",
+            "4",
+            "9"
+          ],
+          "opts_hi": [
+            "8",
+            "6",
+            "4",
+            "9"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "How many matches will be played in the round of 32?",
+          "q_hi": "32 के राउंड में कितने मैच खेले जाएंगे?",
+          "opts": [
+            "16",
+            "32",
+            "8",
+            "24"
+          ],
+          "opts_hi": [
+            "16",
+            "32",
+            "8",
+            "24"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        }
+      ]
     }
   ]
 }
