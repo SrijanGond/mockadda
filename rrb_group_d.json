@@ -731,6 +731,122 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "rrb_group_d_15",
+      "title": "RRB Group D Mock Test 15",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Who introduced the Doctrine of Lapse?",
+          "q_hi": "व्यपगत का सिद्धांत किसने पेश किया?",
+          "opts": [
+            "Lord Wellesley",
+            "Lord Dalhousie",
+            "Lord Canning",
+            "Lord Curzon"
+          ],
+          "opts_hi": [
+            "लॉर्ड वेलेस्ली",
+            "लॉर्ड डलहौज़ी",
+            "लॉर्ड कैनिंग",
+            "लॉर्ड कर्जन"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Who invented the telephone?",
+          "q_hi": "टेलीफोन का आविष्कार किसने किया?",
+          "opts": [
+            "Thomas Edison",
+            "Alexander Graham Bell",
+            "Nikola Tesla",
+            "Guglielmo Marconi"
+          ],
+          "opts_hi": [
+            "थॉमस एडिसन",
+            "अलेक्जेंडर ग्राहम बेल",
+            "निकोला टेस्ला",
+            "गुग्लिएल्मो मार्कोनी"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "What does the spleen do?",
+          "q_hi": "तिल्ली क्या करती है?",
+          "opts": [
+            "Digest food",
+            "Form blood",
+            "Destroys old blood cells",
+            "Produce calcium"
+          ],
+          "opts_hi": [
+            "भोजन पचाना",
+            "रक्त बनाना",
+            "पुरानी रक्त कोशिकाओं को नष्ट करना",
+            "कैल्शियम उत्पन्न करना"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Who won the ICC World Cup 2019?",
+          "q_hi": "ICC विश्व कप 2019 किसने जीता?",
+          "opts": [
+            "India",
+            "New Zealand",
+            "England",
+            "Australia"
+          ],
+          "opts_hi": [
+            "भारत",
+            "न्यूज़ीलैंड",
+            "इंग्लैंड",
+            "ऑस्ट्रेलिया"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Who is the current RBI Governor?",
+          "q_hi": "RBI के वर्तमान गवर्नर कौन हैं?",
+          "opts": [
+            "Raghuram Rajan",
+            "Urjit Patel",
+            "Shaktikanta Das",
+            "Nirmala Sitharaman"
+          ],
+          "opts_hi": [
+            "रघुराम राजन",
+            "उर्जित पटेल",
+            "शक्तिकांत दास",
+            "निर्मला सीतारमण"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Who was the first female Prime Minister of India?",
+          "q_hi": "भारत की पहली महिला प्रधान मंत्री कौन थी?",
+          "opts": [
+            "Indira Gandhi",
+            "Pratibha Patil",
+            "Sarojini Naidu",
+            "Vijaya Lakshmi Pandit"
+          ],
+          "opts_hi": [
+            "इंदिरा गांधी",
+            "प्रतिभा पाटिल",
+            "सरोजिनी नायडू",
+            "विजया लक्ष्मी पंडित"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        }
+      ]
     }
   ]
 }
