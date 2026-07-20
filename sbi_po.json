@@ -1326,6 +1326,158 @@
           "subject": "Banking"
         }
       ]
+    },
+    {
+      "id": "sbi_po_24",
+      "title": "SBI PO Mock Test 24",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which city will host the opening match of FIFA World Cup 2026?",
+          "q_hi": "2026 FIFA विश्व कप का उद्घाटन मैच किस शहर में होगा?",
+          "opts": [
+            "Mexico City",
+            "Toronto",
+            "Los Angeles",
+            "New York"
+          ],
+          "opts_hi": [
+            "मेक्सिको सिटी",
+            "टोरंटो",
+            "लॉस एंजेलिस",
+            "न्यूयॉर्क"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "What is the official mascot of FIFA World Cup 2026?",
+          "q_hi": "2026 FIFA विश्व कप का आधिकारिक मास्कॉट क्या है?",
+          "opts": [
+            "La'eeb",
+            "Gazoo",
+            "World Cup Willie",
+            "None announced yet"
+          ],
+          "opts_hi": [
+            "ला'ईब",
+            "गजू",
+            "वर्ल्ड कप विली",
+            "अभी घोषित नहीं"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which city in Canada will host matches in FIFA World Cup 2026?",
+          "q_hi": "2026 FIFA विश्व कप में कनाडा के किस शहर में मैच होंगे?",
+          "opts": [
+            "Toronto",
+            "Vancouver",
+            "Edmonton",
+            "All three"
+          ],
+          "opts_hi": [
+            "टोरंटो",
+            "वैंकूवर",
+            "एडमंटन",
+            "तीनों"
+          ],
+          "ans": 3,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which is the first Arab country to co-host a World Cup?",
+          "q_hi": "2026 FIFA विश्व कप में पहला अरब देश कौन सा है?",
+          "opts": [
+            "Morocco",
+            "Qatar",
+            "Saudi Arabia",
+            "None"
+          ],
+          "opts_hi": [
+            "मोरक्को",
+            "कतर",
+            "सऊदी अरब",
+            "कोई नहीं"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "How many matches will be played in the knockout stage?",
+          "q_hi": "नॉकआउट स्टेज में कितने मैच खेले जाएंगे?",
+          "opts": [
+            "32",
+            "48",
+            "16",
+            "64"
+          ],
+          "opts_hi": [
+            "32",
+            "48",
+            "16",
+            "64"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which Canadian province will host matches?",
+          "q_hi": "2026 FIFA विश्व कप में कनाडा के किस प्रांत में मैच होंगे?",
+          "opts": [
+            "Ontario",
+            "British Columbia",
+            "Alberta",
+            "Quebec"
+          ],
+          "opts_hi": [
+            "ओन्टारियो",
+            "ब्रिटिश कोलंबिया",
+            "अल्बर्टा",
+            "क्यूबेक"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "What is the expected number of visitors for FIFA World Cup 2026?",
+          "q_hi": "2026 FIFA विश्व कप के दौरान अनुमानित पर्यटकों की संख्या कितनी है?",
+          "opts": [
+            "Over 5 million",
+            "Over 3 million",
+            "Over 10 million",
+            "Over 1 million"
+          ],
+          "opts_hi": [
+            "5 मिलियन से अधिक",
+            "3 मिलियन से अधिक",
+            "10 मिलियन से अधिक",
+            "1 मिलियन से अधिक"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "What is the total prize money pool for FIFA World Cup 2026?",
+          "q_hi": "2026 FIFA विश्व कप के कुल पुरस्कार राशि पूल कितना है?",
+          "opts": [
+            "Over $150 million",
+            "Over $100 million",
+            "Over $200 million",
+            "Over $300 million"
+          ],
+          "opts_hi": [
+            "150 मिलियन डॉलर से अधिक",
+            "100 मिलियन डॉलर से अधिक",
+            "200 मिलियन डॉलर से अधिक",
+            "300 मिलियन डॉलर से अधिक"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        }
+      ]
     }
   ]
 }
