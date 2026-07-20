@@ -1918,6 +1918,104 @@
           "subject": "General Knowledge"
         }
       ]
+    },
+    {
+      "id": "ssc_mts_26",
+      "title": "SSC MTS Mock Test 26",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which state is the largest producer of rice in India?",
+          "q_hi": "भारत में चावल का सबसे बड़ा उत्पादक राज्य कौन सा है?",
+          "opts": [
+            "Uttar Pradesh",
+            "West Bengal",
+            "Punjab",
+            "Andhra Pradesh"
+          ],
+          "opts_hi": [
+            "उत्तर प्रदेश",
+            "पश्चिम बंगाल",
+            "पंजाब",
+            "आंध्र प्रदेश"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which is the longest river in India?",
+          "q_hi": "भारत की सबसे लंबी नदी कौन सी है?",
+          "opts": [
+            "Ganga",
+            "Godavari",
+            "Brahmaputra",
+            "Yamuna"
+          ],
+          "opts_hi": [
+            "गंगा",
+            "गोदावरी",
+            "ब्रह्मपुत्र",
+            "यमुना"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "The speed of light in a vacuum is approximately:",
+          "q_hi": "निर्वात में प्रकाश की गति लगभग है:",
+          "opts": [
+            "3 × 10⁵ km/s",
+            "3 × 10⁸ m/s",
+            "3 × 10⁶ km/s",
+            "3 × 10⁹ m/s"
+          ],
+          "opts_hi": [
+            "3 × 10⁵ किमी/सेकंड",
+            "3 × 10⁸ मी/सेकंड",
+            "3 × 10⁶ किमी/सेकंड",
+            "3 × 10⁹ मी/सेकंड"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which is the largest freshwater lake in India?",
+          "q_hi": "भारत की सबसे बड़ी मीठे पानी की झील कौन सी है?",
+          "opts": [
+            "Chilika Lake",
+            "Wular Lake",
+            "Dal Lake",
+            "Loktak Lake"
+          ],
+          "opts_hi": [
+            "चिलिका झील",
+            "वुलर झील",
+            "डल झील",
+            "लोकतक झील"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which is the largest desert in India?",
+          "q_hi": "भारत का सबसे बड़ा मरुस्थल कौन सा है?",
+          "opts": [
+            "Thar Desert",
+            "Rann of Kutch",
+            "Sahara Desert",
+            "Gobi Desert"
+          ],
+          "opts_hi": [
+            "थार मरुस्थल",
+            "कच्छ का रण",
+            "सहारा मरुस्थल",
+            "गोबी मरुस्थल"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        }
+      ]
     }
   ]
 }
