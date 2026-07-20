@@ -1,0 +1,699 @@
+{
+  "tests": [
+    {
+      "id": "ssc_mts_full_1",
+      "title": "SSC MTS Full Mock Test 1 (Session Pattern)",
+      "duration": 90,
+      "difficulty": "Hard",
+      "correctMarks": 3,
+      "negativeMarks": 1,
+      "note": "Real MTS pattern has NO negative marking in Session 1 (Numerical + Reasoning) and -1 only in Session 2 (GA + English). This engine currently applies one marking scheme test-wide; per-session marking is a planned upgrade.",
+      "questions": [
+        {
+          "q": "Pointing to a photograph, a man said, \"I have no brother or sister, but that man's father is my father's son.\" Whose photograph was it?",
+          "q_hi": "एक फोटोग्राफ की ओर इशारा करते हुए...",
+          "opts": [
+            "His own",
+            "His father",
+            "His son",
+            "His brother"
+          ],
+          "opts_hi": [
+            "उसकी अपनी",
+            "उसके पिता",
+            "उसके पुत्र",
+            "उसके भाई"
+          ],
+          "ans": 2,
+          "subject": "Reasoning Ability and Problem Solving"
+        },
+        {
+          "q": "A person walks 10 km towards north. He turns right and walks 15 km. Then turns right and walks 10 km. Then turns left and walks 5 km. In which direction is he now from the starting point?",
+          "q_hi": "एक व्यक्ति उत्तर की ओर 10 किमी चलता है...",
+          "opts": [
+            "North",
+            "South",
+            "East",
+            "West"
+          ],
+          "opts_hi": [
+            "उत्तर",
+            "दक्षिण",
+            "पूर्व",
+            "पश्चिम"
+          ],
+          "ans": 2,
+          "subject": "Reasoning Ability and Problem Solving"
+        },
+        {
+          "q": "Which of the following is similar to the given analogy? 8 : 512 :: 12 : ?",
+          "q_hi": "8 : 512 :: 12 : ?",
+          "opts": [
+            "144",
+            "1728",
+            "1228",
+            "1200"
+          ],
+          "opts_hi": [
+            "144",
+            "1728",
+            "1228",
+            "1200"
+          ],
+          "ans": 1,
+          "subject": "Reasoning Ability and Problem Solving"
+        },
+        {
+          "q": "Find the odd one out: 3, 8, 15, 24, 35, 48, 63, 80, 99, 120, 143, 169",
+          "q_hi": "विषम ज्ञात करें: 3, 8, 15, 24, 35, 48, 63, 80, 99, 120, 143, 169",
+          "opts": [
+            "120",
+            "143",
+            "169",
+            "99"
+          ],
+          "opts_hi": [
+            "120",
+            "143",
+            "169",
+            "99"
+          ],
+          "ans": 2,
+          "subject": "Reasoning Ability and Problem Solving"
+        },
+        {
+          "q": "Which is similar to \"School : Student\"?",
+          "q_hi": "School : Student के समान कौन सा है?",
+          "opts": [
+            "Hospital : Patient",
+            "Bank : Money",
+            "College : Degree",
+            "Office : Boss"
+          ],
+          "opts_hi": [
+            "अस्पताल : रोगी",
+            "बैंक : पैसा",
+            "कॉलेज : डिग्री",
+            "कार्यालय : मालिक"
+          ],
+          "ans": 0,
+          "subject": "Reasoning Ability and Problem Solving"
+        },
+        {
+          "q": "What is the angle between the hour and minute hands of a clock at 9:00?",
+          "q_hi": "9:00 पर घड़ी की सुइयों के बीच का कोण?",
+          "opts": [
+            "90°",
+            "180°",
+            "270°",
+            "0°"
+          ],
+          "opts_hi": [
+            "90°",
+            "180°",
+            "270°",
+            "0°"
+          ],
+          "ans": 0,
+          "subject": "Reasoning Ability and Problem Solving"
+        },
+        {
+          "q": "A person walks 5 km towards East, then turns right and walks 12 km, then turns right and walks 5 km. How far is he from the starting point?",
+          "q_hi": "एक व्यक्ति पूर्व की ओर 5 किमी चलता है...",
+          "opts": [
+            "5 km",
+            "12 km",
+            "13 km",
+            "17 km"
+          ],
+          "opts_hi": [
+            "5 किमी",
+            "12 किमी",
+            "13 किमी",
+            "17 किमी"
+          ],
+          "ans": 1,
+          "subject": "Reasoning Ability and Problem Solving"
+        },
+        {
+          "q": "Pointing to a boy, a girl said, \"He is the son of the only son of my grandfather.\" How is the boy related to the girl?",
+          "q_hi": "एक लड़के की ओर इशारा करते हुए...",
+          "opts": [
+            "Brother",
+            "Cousin",
+            "Nephew",
+            "Son"
+          ],
+          "opts_hi": [
+            "भाई",
+            "चचेरा भाई",
+            "भतीजा",
+            "पुत्र"
+          ],
+          "ans": 0,
+          "subject": "Reasoning Ability and Problem Solving"
+        },
+        {
+          "q": "What is the angle between the hour and minute hands of a clock at 4:40?",
+          "q_hi": "4:40 पर घड़ी की सुइयों के बीच का कोण?",
+          "opts": [
+            "100°",
+            "110°",
+            "120°",
+            "130°"
+          ],
+          "opts_hi": [
+            "100°",
+            "110°",
+            "120°",
+            "130°"
+          ],
+          "ans": 0,
+          "subject": "Reasoning Ability and Problem Solving"
+        },
+        {
+          "q": "Which of the following is the mirror image of the word \"SUNSHINE\"?",
+          "q_hi": "SUNSHINE शब्द का दर्पण प्रतिबिंब निम्नलिखित में से कौन सा है?",
+          "opts": [
+            "ENIHSNUS",
+            "SUNSHINE",
+            "ENIHSUNS",
+            "SNIHSENU"
+          ],
+          "opts_hi": [
+            "ENIHSNUS",
+            "SUNSHINE",
+            "ENIHSUNS",
+            "SNIHSENU"
+          ],
+          "ans": 0,
+          "subject": "Reasoning Ability and Problem Solving"
+        },
+        {
+          "q": "Find the odd one out: 3, 7, 15, 31, 63, 127, 255, 511, 1023 (Mersenne-like series)",
+          "q_hi": "विषम ज्ञात करें: 2ⁿ-1 श्रृंखला",
+          "opts": [
+            "3 (2²-1)",
+            "2147483647 (2³¹-1)",
+            "1073741823 (2³⁰-1)",
+            "None, all are 2ⁿ-1"
+          ],
+          "opts_hi": [
+            "3 (2²-1)",
+            "2147483647 (2³¹-1)",
+            "1073741823 (2³⁰-1)",
+            "कोई नहीं, सभी 2ⁿ-1 हैं"
+          ],
+          "ans": 3,
+          "subject": "Reasoning Ability and Problem Solving"
+        },
+        {
+          "q": "What will come in place of question mark (?) in the following series? 4, 11, 23, 40, 62, ?",
+          "q_hi": "4, 11, 23, 40, 62, ?",
+          "opts": [
+            "89",
+            "90",
+            "91",
+            "92"
+          ],
+          "opts_hi": [
+            "89",
+            "90",
+            "91",
+            "92"
+          ],
+          "ans": 0,
+          "subject": "Reasoning Ability and Problem Solving"
+        },
+        {
+          "q": "A person walks 12 km towards East, then turns right and walks 5 km, then turns right and walks 12 km, then turns left and walks 10 km. In which direction is he now from the starting point?",
+          "q_hi": "एक व्यक्ति पूर्व की ओर 12 किमी चलता है...",
+          "opts": [
+            "North",
+            "South",
+            "East",
+            "West"
+          ],
+          "opts_hi": [
+            "उत्तर",
+            "दक्षिण",
+            "पूर्व",
+            "पश्चिम"
+          ],
+          "ans": 0,
+          "subject": "Reasoning Ability and Problem Solving"
+        },
+        {
+          "q": "Which letter is 2nd to the left of the 14th letter from the right in the English alphabet?",
+          "q_hi": "अंग्रेजी वर्णमाला में दाएँ से 14वें अक्षर के बाएँ दूसरा अक्षर कौन सा है?",
+          "opts": [
+            "K",
+            "L",
+            "M",
+            "N"
+          ],
+          "opts_hi": [
+            "K",
+            "L",
+            "M",
+            "N"
+          ],
+          "ans": 0,
+          "subject": "Reasoning Ability and Problem Solving"
+        },
+        {
+          "q": "Find the odd one out: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 51, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97",
+          "q_hi": "विषम ज्ञात करें: अभाज्य संख्याएँ",
+          "opts": [
+            "2",
+            "51",
+            "97",
+            "89"
+          ],
+          "opts_hi": [
+            "2",
+            "51",
+            "97",
+            "89"
+          ],
+          "ans": 1,
+          "subject": "Reasoning Ability and Problem Solving"
+        },
+        {
+          "q": "National bird of India?",
+          "q_hi": "भारत का राष्ट्रीय पक्षी कौन सा है?",
+          "opts": [
+            "Sparrow",
+            "Peacock",
+            "Parrot",
+            "Pigeon"
+          ],
+          "opts_hi": [
+            "गौरेया",
+            "मोर",
+            "तोता",
+            "कबूतर"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which is the capital of Rajasthan?",
+          "q_hi": "राजस्थान की राजधानी कौन सी है?",
+          "opts": [
+            "Jodhpur",
+            "Udaipur",
+            "Jaipur",
+            "Ajmer"
+          ],
+          "opts_hi": [
+            "जोधपुर",
+            "उदयपुर",
+            "जयपुर",
+            "अजमेर"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Full form of ATM?",
+          "q_hi": "ATM का पूर्ण रूप क्या है?",
+          "opts": [
+            "Automatic Teller Machine",
+            "Automated Teller Machine",
+            "Auto Transaction Machine",
+            "Automated Transaction Machine"
+          ],
+          "opts_hi": [
+            "स्वचालित टेलर मशीन",
+            "स्वचालित टेलर मशीन",
+            "स्वतः लेनदेन मशीन",
+            "स्वचालित लेनदेन मशीन"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Who invented the telephone?",
+          "q_hi": "टेलीफोन का आविष्कार किसने किया?",
+          "opts": [
+            "Thomas Edison",
+            "Alexander Graham Bell",
+            "Nikola Tesla",
+            "Isaac Newton"
+          ],
+          "opts_hi": [
+            "थॉमस एडिसन",
+            "अलेक्जेंडर ग्राहम बेल",
+            "निकोला टेस्ला",
+            "आइजैक न्यूटन"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Capital of France?",
+          "q_hi": "फ्रांस की राजधानी कौन सी है?",
+          "opts": [
+            "Berlin",
+            "Rome",
+            "Paris",
+            "Madrid"
+          ],
+          "opts_hi": [
+            "बर्लिन",
+            "रोम",
+            "पेरिस",
+            "मैड्रिड"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "National flower of India?",
+          "q_hi": "भारत का राष्ट्रीय फूल कौन सा है?",
+          "opts": [
+            "Rose",
+            "Lotus",
+            "Marigold",
+            "Jasmine"
+          ],
+          "opts_hi": [
+            "गुलाब",
+            "कमल",
+            "गेंदा",
+            "चमेली"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Largest continent in the world?",
+          "q_hi": "विश्व का सबसे बड़ा महाद्वीप कौन सा है?",
+          "opts": [
+            "Africa",
+            "Europe",
+            "Asia",
+            "Australia"
+          ],
+          "opts_hi": [
+            "अफ्रीका",
+            "यूरोप",
+            "एशिया",
+            "ऑस्ट्रेलिया"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which vitamin is also known as ascorbic acid?",
+          "q_hi": "किस विटामिन को एस्कॉर्बिक एसिड भी कहा जाता है?",
+          "opts": [
+            "Vitamin A",
+            "Vitamin B12",
+            "Vitamin C",
+            "Vitamin D"
+          ],
+          "opts_hi": [
+            "विटामिन A",
+            "विटामिन B12",
+            "विटामिन C",
+            "विटामिन D"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which of the following is the chemical formula of water?",
+          "q_hi": "पानी का रासायनिक सूत्र निम्नलिखित में से कौन सा है?",
+          "opts": [
+            "H2O",
+            "CO2",
+            "NaCl",
+            "HCl"
+          ],
+          "opts_hi": [
+            "H2O",
+            "CO2",
+            "NaCl",
+            "HCl"
+          ],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which of the following is known as the 'Iron Man of India'?",
+          "q_hi": "निम्नलिखित में से किसे 'भारत का लौह पुरुष' कहा जाता है?",
+          "opts": [
+            "Jawaharlal Nehru",
+            "Mahatma Gandhi",
+            "Sardar Vallabhbhai Patel",
+            "Subhas Chandra Bose"
+          ],
+          "opts_hi": [
+            "जवाहरलाल नेहरू",
+            "महात्मा गांधी",
+            "सरदार वल्लभभाई पटेल",
+            "सुभाष चंद्र बोस"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which of the following is a direct tax?",
+          "q_hi": "निम्नलिखित में से कौन सा प्रत्यक्ष कर है?",
+          "opts": [
+            "Income Tax",
+            "GST (Goods and Services Tax)",
+            "Excise Duty",
+            "Customs Duty"
+          ],
+          "opts_hi": [
+            "आयकर",
+            "GST (वस्तु एवं सेवा कर)",
+            "उत्पाद शुल्क",
+            "सीमा शुल्क"
+          ],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The stay on the UGC Equity Regulations, 2026 was issued by which institution?",
+          "q_hi": "UGC इक्विटी विनियम, 2026 पर रोक किस संस्थान ने लगाई?",
+          "opts": [
+            "Ministry of Education",
+            "University Grants Commission",
+            "Parliamentary Standing Committee",
+            "Supreme Court of India"
+          ],
+          "opts_hi": [
+            "शिक्षा मंत्रालय",
+            "विश्वविद्यालय अनुदान आयोग",
+            "संसदीय स्थायी समिति",
+            "भारत का सर्वोच्च न्यायालय"
+          ],
+          "ans": 3,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Exercise 'INIOCHOS-25' is a bilateral exercise between India and which country?",
+          "q_hi": "INIOCHOS-25' अभ्यास भारत और किस देश के बीच है?",
+          "opts": [
+            "Italy",
+            "France",
+            "Greece",
+            "Israel"
+          ],
+          "opts_hi": [
+            "इटली",
+            "फ्रांस",
+            "ग्रीस",
+            "इज़राइल"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Under IRDAI's revised corporate governance framework, which of the following is NOT a new performance parameter for Key Managerial Personnel (KMPs)?",
+          "q_hi": "IRDAI के संशोधित कॉर्पोरेट गवर्नेंस ढाँचे के तहत...",
+          "opts": [
+            "Customer satisfaction and claims responsiveness",
+            "Grievance redressal timelines and reduction in repeat complaints",
+            "Removal of dark patterns from insurer websites",
+            "Market capitalization growth targets"
+          ],
+          "opts_hi": [
+            "ग्राहक संतुष्टि और दावा प्रतिक्रियाशीलता",
+            "शिकायत निवारण समय-सीमा",
+            "डार्क पैटर्न हटाना",
+            "बाजार पूंजीकरण वृद्धि लक्ष्य"
+          ],
+          "ans": 3,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which of the following vitamins is synthesized in the human body with the help of sunlight?",
+          "q_hi": "मानव शरीर में सूर्य के प्रकाश की सहायता से कौन सा विटामिन संश्लेषित होता है?",
+          "opts": [
+            "Vitamin A",
+            "Vitamin B12",
+            "Vitamin D",
+            "Vitamin K"
+          ],
+          "opts_hi": [
+            "विटामिन A",
+            "विटामिन B12",
+            "विटामिन D",
+            "विटामिन K"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which of the following is the unit of acceleration?",
+          "q_hi": "त्वरण की इकाई निम्नलिखित में से कौन सी है?",
+          "opts": [
+            "m/s",
+            "m/s²",
+            "kg m/s",
+            "Joule"
+          ],
+          "opts_hi": [
+            "मी/से",
+            "मी/से²",
+            "किग्रा मी/से",
+            "जूल"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The part of the human eye responsible for controlling the amount of light entering is:",
+          "q_hi": "मानव नेत्र का वह भाग जो प्रकाश की मात्रा को नियंत्रित करता है:",
+          "opts": [
+            "Cornea",
+            "Iris",
+            "Lens",
+            "Retina"
+          ],
+          "opts_hi": [
+            "कॉर्निया",
+            "आइरिस",
+            "लेंस",
+            "रेटिना"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "2 + 2 × 2 = ?",
+          "q_hi": "2 + 2 × 2 = ?",
+          "opts": [
+            "8",
+            "6",
+            "4",
+            "10"
+          ],
+          "opts_hi": [
+            "8",
+            "6",
+            "4",
+            "10"
+          ],
+          "ans": 1,
+          "subject": "Numerical and Mathematical Ability"
+        },
+        {
+          "q": "How many days in a leap year?",
+          "q_hi": "लीप वर्ष में कितने दिन होते हैं?",
+          "opts": [
+            "364",
+            "365",
+            "366",
+            "367"
+          ],
+          "opts_hi": [
+            "364",
+            "365",
+            "366",
+            "367"
+          ],
+          "ans": 2,
+          "subject": "Numerical and Mathematical Ability"
+        },
+        {
+          "q": "1 dozen = ?",
+          "q_hi": "1 दर्जन = ?",
+          "opts": [
+            "10",
+            "11",
+            "12",
+            "13"
+          ],
+          "opts_hi": [
+            "10",
+            "11",
+            "12",
+            "13"
+          ],
+          "ans": 2,
+          "subject": "Numerical and Mathematical Ability"
+        },
+        {
+          "q": "If sin θ = 3/5, what is the value of cos θ?",
+          "q_hi": "यदि sin θ = 3/5 है, तो cos θ का मान क्या है?",
+          "opts": [
+            "4/5",
+            "3/4",
+            "5/4",
+            "5/3"
+          ],
+          "opts_hi": [
+            "4/5",
+            "3/4",
+            "5/4",
+            "5/3"
+          ],
+          "ans": 0,
+          "subject": "Numerical and Mathematical Ability"
+        },
+        {
+          "q": "70% of 1680 + ?% of 1750 = 55% of 2820 - 886",
+          "q_hi": "70% of 1680 + ?% of 1750 = 55% of 2820 - 886",
+          "opts": [
+            "0.15",
+            "0.18",
+            "0.2",
+            "0.22"
+          ],
+          "opts_hi": [
+            "0.15",
+            "0.18",
+            "0.2",
+            "0.22"
+          ],
+          "ans": 1,
+          "subject": "Numerical and Mathematical Ability"
+        },
+        {
+          "q": "If the angles of a triangle are 2x, 3x and 4x, find the value of x.",
+          "q_hi": "यदि एक त्रिभुज के कोण 2x, 3x और 4x हैं, तो x का मान ज्ञात करें।",
+          "opts": [
+            "10°",
+            "15°",
+            "20°",
+            "25°"
+          ],
+          "opts_hi": [
+            "10°",
+            "15°",
+            "20°",
+            "25°"
+          ],
+          "ans": 2,
+          "subject": "Numerical and Mathematical Ability"
+        }
+      ]
+    }
+  ]
+}
