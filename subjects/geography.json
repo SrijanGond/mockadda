@@ -161,6 +161,42 @@
       ],
       "ans": 0,
       "subject": "Geography"
+    },
+    {
+      "q": "Which river forms the Sunderbans Delta?",
+      "q_hi": "सुंदरबन डेल्टा किस नदी द्वारा बनाया गया है?",
+      "opts": [
+        "Ganga",
+        "Brahmaputra",
+        "Godavari",
+        "Mahanadi"
+      ],
+      "opts_hi": [
+        "गंगा",
+        "ब्रह्मपुत्र",
+        "गोदावरी",
+        "महानदी"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which state is known as the 'Land of Lakes'?",
+      "q_hi": "झीलों की भूमि' किस राज्य को कहा जाता है?",
+      "opts": [
+        "Rajasthan",
+        "Kerala",
+        "Madhya Pradesh",
+        "West Bengal"
+      ],
+      "opts_hi": [
+        "राजस्थान",
+        "केरल",
+        "मध्य प्रदेश",
+        "पश्चिम बंगाल"
+      ],
+      "ans": 1,
+      "subject": "Geography"
     }
   ]
 }
