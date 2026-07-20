@@ -4489,6 +4489,176 @@
           "subject": "General Knowledge"
         }
       ]
+    },
+    {
+      "id": "roaro_prelims_20",
+      "title": "RO/ARO Prelims Mock Test 20",
+      "duration": 11,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Who proposed the \"Sarvodaya Plan\" in 1950?",
+          "q_hi": "1950 में \"सर्वोदय योजना\" किसने प्रस्तावित की?",
+          "opts": [
+            "Mahatma Gandhi",
+            "Jayaprakash Narayan",
+            "Vinoba Bhave",
+            "M. Visvesvaraya"
+          ],
+          "opts_hi": [
+            "महात्मा गांधी",
+            "जयप्रकाश नारायण",
+            "विनोबा भावे",
+            "एम. विश्वेश्वरैया"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which Article of the Constitution establishes the Parliament?",
+          "q_hi": "संविधान का कौन सा अनुच्छेद संसद की स्थापना करता है?",
+          "opts": [
+            "Article 79",
+            "Article 80",
+            "Article 81",
+            "Article 82"
+          ],
+          "opts_hi": [
+            "अनुच्छेद 79",
+            "अनुच्छेद 80",
+            "अनुच्छेद 81",
+            "अनुच्छेद 82"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which state produces the maximum coal in India?",
+          "q_hi": "भारत में सबसे अधिक कोयला उत्पादन करने वाला राज्य कौन सा है?",
+          "opts": [
+            "Jharkhand",
+            "Odisha",
+            "Chhattisgarh",
+            "West Bengal"
+          ],
+          "opts_hi": [
+            "झारखंड",
+            "ओडिशा",
+            "छत्तीसगढ़",
+            "पश्चिम बंगाल"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Who was the chairman of the Karachi Session of Congress in 1931?",
+          "q_hi": "1931 में कांग्रेस के कराची अधिवेशन के अध्यक्ष कौन थे?",
+          "opts": [
+            "Sardar Vallabhbhai Patel",
+            "Jawaharlal Nehru",
+            "Subhash Chandra Bose",
+            "Mahatma Gandhi"
+          ],
+          "opts_hi": [
+            "सरदार वल्लभभाई पटेल",
+            "जवाहरलाल नेहरू",
+            "सुभाष चंद्र बोस",
+            "महात्मा गांधी"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which new scheme has replaced the MGNREGA?",
+          "q_hi": "किस नई योजना ने MGNREGA का स्थान लिया है?",
+          "opts": [
+            "Viksit Bharat - VB-G RAM G Yojana",
+            "PM Garib Kalyan Yojana",
+            "Rural Employment Guarantee Scheme",
+            "National Rural Livelihood Mission"
+          ],
+          "opts_hi": [
+            "विकसित भारत - VB-G RAM G योजना",
+            "पीएम गरीब कल्याण योजना",
+            "ग्रामीण रोजगार गारंटी योजना",
+            "राष्ट्रीय ग्रामीण आजीविका मिशन"
+          ],
+          "ans": 0,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Which country's Prime Minister visited India in July 2026 for the 16th India-Japan Summit?",
+          "q_hi": "16वें भारत-जापान शिखर सम्मेलन के लिए जुलाई 2026 में किस देश के प्रधान मंत्री ने भारत का दौरा किया?",
+          "opts": [
+            "Fumio Kishida",
+            "Sanae Takaichi",
+            "Shinzo Abe",
+            "Yoshihide Suga"
+          ],
+          "opts_hi": [
+            "फुमियो किशिदा",
+            "सानाए ताकाइची",
+            "शिंजो आबे",
+            "योशिहिदे सुगा"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "India and Israel have elevated their partnership to which status?",
+          "q_hi": "भारत और इज़राइल ने अपनी साझेदारी को किस स्तर तक बढ़ाया है?",
+          "opts": [
+            "Comprehensive Strategic Partnership",
+            "Special Strategic Partnership",
+            "Strategic Alliance",
+            "Global Partnership"
+          ],
+          "opts_hi": [
+            "व्यापक रणनीतिक साझेदारी",
+            "विशेष रणनीतिक साझेदारी",
+            "रणनीतिक गठबंधन",
+            "वैश्विक साझेदारी"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "How many traditional trades will be covered under the PM Vishwakarma scheme initially?",
+          "q_hi": "PM विश्वकर्मा योजना के तहत प्रारंभिक रूप से कितने पारंपरिक व्यवसायों को शामिल किया जाएगा?",
+          "opts": [
+            "10",
+            "15",
+            "18",
+            "20"
+          ],
+          "opts_hi": [
+            "10",
+            "15",
+            "18",
+            "20"
+          ],
+          "ans": 2,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "What is the interest rate for loans under the PM Vishwakarma scheme?",
+          "q_hi": "PM विश्वकर्मा योजना के तहत ऋणों की ब्याज दर क्या है?",
+          "opts": [
+            "0.02",
+            "0.04",
+            "0.05",
+            "0.07"
+          ],
+          "opts_hi": [
+            "0.02",
+            "0.04",
+            "0.05",
+            "0.07"
+          ],
+          "ans": 2,
+          "subject": "Current Affairs"
+        }
+      ]
     }
   ]
 }
