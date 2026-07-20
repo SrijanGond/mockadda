@@ -1300,6 +1300,32 @@
           "subject": "Banking"
         }
       ]
+    },
+    {
+      "id": "sbi_po_23",
+      "title": "SBI PO Mock Test 23",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What is the full form of RTGS?",
+          "q_hi": "RTGS का पूर्ण रूप क्या है?",
+          "opts": [
+            "Real Time Gross Settlement",
+            "Rapid Transfer Gross System",
+            "None",
+            "Real Time Gross System"
+          ],
+          "opts_hi": [
+            "रियल टाइम ग्रॉस सेटलमेंट",
+            "रैपिड ट्रांसफर ग्रॉस सिस्टम",
+            "कोई नहीं",
+            "रियल टाइम ग्रॉस सिस्टम"
+          ],
+          "ans": 0,
+          "subject": "Banking"
+        }
+      ]
     }
   ]
 }
