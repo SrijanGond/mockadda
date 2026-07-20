@@ -1097,6 +1097,906 @@
       ],
       "ans": 0,
       "subject": "Geography"
+    },
+    {
+      "q": "Which theory explains the formation of continents and oceans through plate movements?",
+      "q_hi": "महाद्वीपों और महासागरों के निर्माण की व्याख्या कौन सा सिद्धांत करता है?",
+      "opts": [
+        "Continental Drift Theory",
+        "Plate Tectonics Theory",
+        "Seafloor Spreading Theory",
+        "None"
+      ],
+      "opts_hi": [
+        "महाद्वीपीय बहाव सिद्धांत",
+        "प्लेट टेक्टॉनिक्स सिद्धांत",
+        "समुद्री तल फैलाव सिद्धांत",
+        "कोई नहीं"
+      ],
+      "ans": 1,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which is the oldest mountain range in India?",
+      "q_hi": "भारत की सबसे पुरानी पर्वत श्रृंखला कौन सी है?",
+      "opts": [
+        "Himalayas",
+        "Aravalli",
+        "Vindhyas",
+        "Satpura"
+      ],
+      "opts_hi": [
+        "हिमालय",
+        "अरावली",
+        "विंध्याचल",
+        "सतपुड़ा"
+      ],
+      "ans": 1,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which current is responsible for the mild climate of Western Europe?",
+      "q_hi": "पश्चिमी यूरोप के सौम्य जलवायु के लिए कौन सा धारा जिम्मेदार है?",
+      "opts": [
+        "Gulf Stream",
+        "California Current",
+        "Kuroshio Current",
+        "Canary Current"
+      ],
+      "opts_hi": [
+        "गल्फ स्ट्रीम",
+        "कैलिफोर्निया धारा",
+        "कुरोशियो धारा",
+        "कैनरी धारा"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which is the only active volcano in India?",
+      "q_hi": "भारत का एकमात्र सक्रिय ज्वालामुखी कौन सा है?",
+      "opts": [
+        "Barren Island",
+        "Narcondam",
+        "Deccan Traps",
+        "None"
+      ],
+      "opts_hi": [
+        "बैरन द्वीप",
+        "नारकोंडम",
+        "दक्कन ट्रैप्स",
+        "कोई नहीं"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "What is the approximate age of the Earth according to modern estimates?",
+      "q_hi": "आधुनिक अनुमानों के अनुसार पृथ्वी की आयु लगभग कितनी है?",
+      "opts": [
+        "4.5 billion years",
+        "3.5 billion years",
+        "5.5 billion years",
+        "6.5 billion years"
+      ],
+      "opts_hi": [
+        "45 अरब वर्ष",
+        "35 अरब वर्ष",
+        "55 अरब वर्ष",
+        "65 अरब वर्ष"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which river system forms the largest delta in the world?",
+      "q_hi": "दुनिया का सबसे बड़ा डेल्टा किस नदी प्रणाली द्वारा बनाया गया है?",
+      "opts": [
+        "Ganga-Brahmaputra",
+        "Amazon",
+        "Mississippi",
+        "Nile"
+      ],
+      "opts_hi": [
+        "गंगा-ब्रह्मपुत्र",
+        "अमेज़न",
+        "मिसिसिप्पी",
+        "नाइल"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which is the deepest point in the world?",
+      "q_hi": "दुनिया का सबसे गहरा बिंदु कौन सा है?",
+      "opts": [
+        "Mariana Trench",
+        "Challenger Deep",
+        "Tonga Trench",
+        "Puerto Rico Trench"
+      ],
+      "opts_hi": [
+        "मरियाना खाई",
+        "चैलेंजर डीप",
+        "टोंगा खाई",
+        "प्यूर्टो रिको खाई"
+      ],
+      "ans": 1,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which state has the highest biodiversity in India?",
+      "q_hi": "भारत में सबसे अधिक जैव विविधता वाला राज्य कौन सा है?",
+      "opts": [
+        "Meghalaya",
+        "Arunachal Pradesh",
+        "West Bengal",
+        "Kerala"
+      ],
+      "opts_hi": [
+        "मेघालय",
+        "अरुणाचल प्रदेश",
+        "पश्चिम बंगाल",
+        "केरल"
+      ],
+      "ans": 1,
+      "subject": "Geography"
+    },
+    {
+      "q": "What is the main cause of the Coriolis Effect?",
+      "q_hi": "कोरिओलिस प्रभाव का मुख्य कारण क्या है?",
+      "opts": [
+        "Earth's rotation",
+        "Earth's revolution",
+        "Gravitational pull",
+        "Temperature difference"
+      ],
+      "opts_hi": [
+        "पृथ्वी का घूर्णन",
+        "पृथ्वी का परिक्रमण",
+        "गुरुत्वाकर्षण",
+        "तापमान अंतर"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which is the longest river bridge in India?",
+      "q_hi": "भारत का सबसे लंबा नदी पुल कौन सा है?",
+      "opts": [
+        "Bhupen Hazarika Bridge",
+        "Chenab Bridge",
+        "Godavari Arch Bridge",
+        "Bogibeel Bridge"
+      ],
+      "opts_hi": [
+        "भूपेन हazarिका ब्रिज",
+        "चेनाब ब्रिज",
+        "गोदावरी आर्च ब्रिज",
+        "बोगीबील ब्रिज"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "What is the term for the boundary between the troposphere and stratosphere?",
+      "q_hi": "ट्रोपोस्फियर और स्ट्रेटोस्फियर के बीच की सीमा को क्या कहते हैं?",
+      "opts": [
+        "Tropopause",
+        "Stratopause",
+        "Mesopause",
+        "None"
+      ],
+      "opts_hi": [
+        "ट्रोपोपॉज",
+        "स्ट्रेटोपॉज",
+        "मेसोपॉज",
+        "कोई नहीं"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which state has the largest share of mangrove forests?",
+      "q_hi": "भारत में मैंग्रोव वनों का सबसे बड़ा हिस्सा किस राज्य का है?",
+      "opts": [
+        "West Bengal",
+        "Gujarat",
+        "Andhra Pradesh",
+        "Tamil Nadu"
+      ],
+      "opts_hi": [
+        "पश्चिम बंगाल",
+        "गुजरात",
+        "आंध्र प्रदेश",
+        "तमिलनाडु"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which ocean is known as the 'Herring Pond'?",
+      "q_hi": "हेरिंग पोण्ड' किस महासागर को कहा जाता है?",
+      "opts": [
+        "Atlantic Ocean",
+        "Pacific Ocean",
+        "Indian Ocean",
+        "Arctic Ocean"
+      ],
+      "opts_hi": [
+        "अटलांटिक महासागर",
+        "प्रशांत महासागर",
+        "हिंद महासागर",
+        "आर्कटिक महासागर"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which is the largest artificial lake in India?",
+      "q_hi": "भारत की सबसे बड़ी मानव निर्मित झील कौन सी है?",
+      "opts": [
+        "Gobind Sagar",
+        "Indira Sagar",
+        "Tehri Lake",
+        "Hirakud Reservoir"
+      ],
+      "opts_hi": [
+        "गोबिंद सागर",
+        "इंदिरा सागर",
+        "टिहरी झील",
+        "हीराकुड जलाशय"
+      ],
+      "ans": 1,
+      "subject": "Geography"
+    },
+    {
+      "q": "What is the name of the layer of the atmosphere where meteors burn?",
+      "q_hi": "वायुमंडल की वह परत जहाँ उल्कापिंड जलते हैं, उसे क्या कहते हैं?",
+      "opts": [
+        "Mesosphere",
+        "Thermosphere",
+        "Stratosphere",
+        "Troposphere"
+      ],
+      "opts_hi": [
+        "मेसोस्फियर",
+        "थर्मोस्फियर",
+        "स्ट्रेटोस्फियर",
+        "ट्रोपोस्फियर"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which state has the highest per capita forest cover?",
+      "q_hi": "सर्वाधिक प्रति व्यक्ति वन क्षेत्रफल वाला राज्य कौन सा है?",
+      "opts": [
+        "Arunachal Pradesh",
+        "Mizoram",
+        "Nagaland",
+        "Sikkim"
+      ],
+      "opts_hi": [
+        "अरुणाचल प्रदेश",
+        "मिजोरम",
+        "नागालैंड",
+        "सिक्किम"
+      ],
+      "ans": 1,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which is the only continent without any active volcano?",
+      "q_hi": "कौन सा महाद्वीप बिना किसी सक्रिय ज्वालामुखी वाला है?",
+      "opts": [
+        "Australia",
+        "Europe",
+        "Africa",
+        "South America"
+      ],
+      "opts_hi": [
+        "ऑस्ट्रेलिया",
+        "यूरोप",
+        "अफ्रीका",
+        "दक्षिण अमेरिका"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which river is known as the 'Ganges of the South'?",
+      "q_hi": "दक्षिण की गंगा' किस नदी को कहा जाता है?",
+      "opts": [
+        "Godavari",
+        "Kaveri",
+        "Tungabhadra",
+        "Krishna"
+      ],
+      "opts_hi": [
+        "गोदावरी",
+        "कावेरी",
+        "तुंगभद्रा",
+        "कृष्णा"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "What is the term for the point directly above the earthquake origin?",
+      "q_hi": "भूकंप के मूल बिंदु के ठीक ऊपर वाले बिंदु को क्या कहते हैं?",
+      "opts": [
+        "Epicenter",
+        "Hypocenter",
+        "Focus",
+        "None"
+      ],
+      "opts_hi": [
+        "एपिसेंटर",
+        "हाइपोसेंटर",
+        "फोकस",
+        "कोई नहीं"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which is the largest producer of lignite coal in India?",
+      "q_hi": "भारत में लिग्नाइट कोयला का सबसे बड़ा उत्पादक राज्य कौन सा है?",
+      "opts": [
+        "Tamil Nadu",
+        "Gujarat",
+        "Rajasthan",
+        "Jharkhand"
+      ],
+      "opts_hi": [
+        "तमिलनाडु",
+        "गुजरात",
+        "राजस्थान",
+        "झारखंड"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which current is known as the 'Black Current'?",
+      "q_hi": "ब्लैक करंट' किस धारा को कहा जाता है?",
+      "opts": [
+        "Kuroshio Current",
+        "Gulf Stream",
+        "California Current",
+        "Agulhas Current"
+      ],
+      "opts_hi": [
+        "कुरोशियो धारा",
+        "गल्फ स्ट्रीम",
+        "कैलिफोर्निया धारा",
+        "एगुलहास धारा"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which state has the largest area under bamboo forests?",
+      "q_hi": "बांस के वनों के अंतर्गत सबसे बड़ा क्षेत्रफल वाला राज्य कौन सा है?",
+      "opts": [
+        "Madhya Pradesh",
+        "Arunachal Pradesh",
+        "Assam",
+        "Manipur"
+      ],
+      "opts_hi": [
+        "मध्य प्रदेश",
+        "अरुणाचल प्रदेश",
+        "असम",
+        "मणिपुर"
+      ],
+      "ans": 1,
+      "subject": "Geography"
+    },
+    {
+      "q": "What is the name of the boundary between the Earth's crust and mantle?",
+      "q_hi": "पृथ्वी की भूपर्पटी और मेंटल के बीच की सीमा को क्या कहते हैं?",
+      "opts": [
+        "Moho Discontinuity",
+        "Conrad Discontinuity",
+        "Gutenberg Discontinuity",
+        "Lehmann Discontinuity"
+      ],
+      "opts_hi": [
+        "मोहो असंतुलन",
+        "कॉनराड असंतुलन",
+        "गुटेनबर्ग असंतुलन",
+        "लेहमैन असंतुलन"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which is the largest mangrove forest in the world?",
+      "q_hi": "दुनिया का सबसे बड़ा मैंग्रोव वन कौन सा है?",
+      "opts": [
+        "Sunderbans",
+        "Borneo",
+        "Amazon",
+        "None"
+      ],
+      "opts_hi": [
+        "सुंदरबन",
+        "बोर्नियो",
+        "अमेज़न",
+        "कोई नहीं"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which country has the longest coastline?",
+      "q_hi": "सबसे लंबी तटर रेखा वाला देश कौन सा है?",
+      "opts": [
+        "Canada",
+        "Indonesia",
+        "Russia",
+        "Australia"
+      ],
+      "opts_hi": [
+        "कनाडा",
+        "इंडोनेशिया",
+        "रूस",
+        "ऑस्ट्रेलिया"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which state is the largest producer of silk in India?",
+      "q_hi": "भारत में रेशम का सबसे बड़ा उत्पादक राज्य कौन सा है?",
+      "opts": [
+        "Karnataka",
+        "Tamil Nadu",
+        "Andhra Pradesh",
+        "West Bengal"
+      ],
+      "opts_hi": [
+        "कर्नाटक",
+        "तमिलनाडु",
+        "आंध्र प्रदेश",
+        "पश्चिम बंगाल"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "What is the term for the point inside the Earth where an earthquake originates?",
+      "q_hi": "भूकंप का मूल बिंदु (पृथ्वी के अंदर) को क्या कहते हैं?",
+      "opts": [
+        "Epicenter",
+        "Hypocenter",
+        "Focus",
+        "None"
+      ],
+      "opts_hi": [
+        "एपिसेंटर",
+        "हाइपोसेंटर",
+        "फोकस",
+        "कोई नहीं"
+      ],
+      "ans": 2,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which is the largest saline lake in India?",
+      "q_hi": "भारत की सबसे बड़ी खारी झील कौन सी है?",
+      "opts": [
+        "Sambhar Lake",
+        "Chilika Lake",
+        "Pulicat Lake",
+        "Vembanad Lake"
+      ],
+      "opts_hi": [
+        "सांभर झील",
+        "चिल्का झील",
+        "पुलिकट झील",
+        "वेम्बनाड झील"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which is the busiest strait in the world?",
+      "q_hi": "दुनिया का सबसे व्यस्त जलडमरूमध्य कौन सा है?",
+      "opts": [
+        "Malacca Strait",
+        "Hormuz Strait",
+        "Bab-el-Mandeb",
+        "Gibraltar"
+      ],
+      "opts_hi": [
+        "मलक्का जलडमरूमध्य",
+        "होर्मुज जलडमरूमध्य",
+        "बाब-एल-मांडेब",
+        "जिब्राल्टर"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which state has the largest installed solar power capacity?",
+      "q_hi": "सबसे अधिक सौर ऊर्जा क्षमता वाला राज्य कौन सा है?",
+      "opts": [
+        "Rajasthan",
+        "Gujarat",
+        "Karnataka",
+        "Tamil Nadu"
+      ],
+      "opts_hi": [
+        "राजस्थान",
+        "गुजरात",
+        "कर्नाटक",
+        "तमिलनाडु"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "What is the name of the layer of atmosphere that reflects radio waves?",
+      "q_hi": "वायुमंडल की वह परत जो रेडियो तरंगों को परावर्तित करती है, उसे क्या कहते हैं?",
+      "opts": [
+        "Ionosphere",
+        "Troposphere",
+        "Stratosphere",
+        "Mesosphere"
+      ],
+      "opts_hi": [
+        "आयनोस्फियर",
+        "ट्रोपोस्फियर",
+        "स्ट्रेटोस्फियर",
+        "मेसोस्फियर"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which is the largest producer of diamonds in India?",
+      "q_hi": "भारत में हीरे का सबसे बड़ा उत्पादक राज्य कौन सा है?",
+      "opts": [
+        "Madhya Pradesh",
+        "Chhattisgarh",
+        "Andhra Pradesh",
+        "Jharkhand"
+      ],
+      "opts_hi": [
+        "मध्य प्रदेश",
+        "छत्तीसगढ़",
+        "आंध्र प्रदेश",
+        "झारखंड"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which country has the largest number of islands?",
+      "q_hi": "सबसे अधिक द्वीपों वाला देश कौन सा है?",
+      "opts": [
+        "Indonesia",
+        "Philippines",
+        "Sweden",
+        "Canada"
+      ],
+      "opts_hi": [
+        "इंडोनेशिया",
+        "फिलीपींस",
+        "स्वीडन",
+        "कनाडा"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which state is the largest producer of maize in India?",
+      "q_hi": "भारत में मक्का का सबसे बड़ा उत्पादक राज्य कौन सा है?",
+      "opts": [
+        "Madhya Pradesh",
+        "Rajasthan",
+        "Karnataka",
+        "Andhra Pradesh"
+      ],
+      "opts_hi": [
+        "मध्य प्रदेश",
+        "राजस्थान",
+        "कर्नाटक",
+        "आंध्र प्रदेश"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "What is the term for the line joining places of equal temperature?",
+      "q_hi": "समान तापमान वाले स्थानों को जोड़ने वाली रेखा को क्या कहते हैं?",
+      "opts": [
+        "Isotherm",
+        "Isobar",
+        "Isoline",
+        "Isohyet"
+      ],
+      "opts_hi": [
+        "आइसोथर्म",
+        "आइसोबार",
+        "आइसोलाइन",
+        "आइसोहाइट"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which state has the largest reserves of iron ore?",
+      "q_hi": "भारत में लौह अयस्क के सबसे बड़े भंडार किस राज्य के पास हैं?",
+      "opts": [
+        "Odisha",
+        "Jharkhand",
+        "Chhattisgarh",
+        "Karnataka"
+      ],
+      "opts_hi": [
+        "ओडिशा",
+        "झारखंड",
+        "छत्तीसगढ़",
+        "कर्नाटक"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which is the largest producer of wool in the world?",
+      "q_hi": "दुनिया का सबसे बड़ा ऊन उत्पादक देश कौन सा है?",
+      "opts": [
+        "Australia",
+        "China",
+        "New Zealand",
+        "Argentina"
+      ],
+      "opts_hi": [
+        "ऑस्ट्रेलिया",
+        "चीन",
+        "न्यूजीलैंड",
+        "अर्जेंटीना"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which state is the largest producer of turmeric in India?",
+      "q_hi": "भारत में हल्दी का सबसे बड़ा उत्पादक राज्य कौन सा है?",
+      "opts": [
+        "Telangana",
+        "Andhra Pradesh",
+        "Karnataka",
+        "Tamil Nadu"
+      ],
+      "opts_hi": [
+        "तेलंगाना",
+        "आंध्र प्रदेश",
+        "कर्नाटक",
+        "तमिलनाडु"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "What is the term for the line joining places of equal rainfall?",
+      "q_hi": "समान वर्षा वाले स्थानों को जोड़ने वाली रेखा को क्या कहते हैं?",
+      "opts": [
+        "Isohyet",
+        "Isotherm",
+        "Isobar",
+        "Isoline"
+      ],
+      "opts_hi": [
+        "आइसोहाइट",
+        "आइसोथर्म",
+        "आइसोबार",
+        "आइसोलाइन"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which is the largest copper producing state in India?",
+      "q_hi": "भारत में तांबा का सबसे बड़ा उत्पादक राज्य कौन सा है?",
+      "opts": [
+        "Rajasthan",
+        "Jharkhand",
+        "Madhya Pradesh",
+        "Andhra Pradesh"
+      ],
+      "opts_hi": [
+        "राजस्थान",
+        "झारखंड",
+        "मध्य प्रदेश",
+        "आंध्र प्रदेश"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which country has the largest freshwater lake by area?",
+      "q_hi": "क्षेत्रफल के अनुसार दुनिया की सबसे बड़ी मीठे पानी की झील किस देश में है?",
+      "opts": [
+        "Canada",
+        "USA",
+        "Russia",
+        "China"
+      ],
+      "opts_hi": [
+        "कनाडा",
+        "यूएसए",
+        "रूस",
+        "चीन"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which state is the largest producer of groundnut in India?",
+      "q_hi": "भारत में मूंगफली का सबसे बड़ा उत्पादक राज्य कौन सा है?",
+      "opts": [
+        "Gujarat",
+        "Rajasthan",
+        "Andhra Pradesh",
+        "Karnataka"
+      ],
+      "opts_hi": [
+        "गुजरात",
+        "राजस्थान",
+        "आंध्र प्रदेश",
+        "कर्नाटक"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "What is the term for the line joining places of equal pressure?",
+      "q_hi": "समान दबाव वाले स्थानों को जोड़ने वाली रेखा को क्या कहते हैं?",
+      "opts": [
+        "Isobar",
+        "Isotherm",
+        "Isohyet",
+        "Isoline"
+      ],
+      "opts_hi": [
+        "आइसोबार",
+        "आइसोथर्म",
+        "आइसोहाइट",
+        "आइसोलाइन"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which state has the largest reserves of manganese?",
+      "q_hi": "मैंगनीज के सबसे बड़े भंडार किस राज्य के पास हैं?",
+      "opts": [
+        "Odisha",
+        "Maharashtra",
+        "Karnataka",
+        "Jharkhand"
+      ],
+      "opts_hi": [
+        "ओडिशा",
+        "महाराष्ट्र",
+        "कर्नाटक",
+        "झारखंड"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which is the largest producer of bauxite in the world?",
+      "q_hi": "दुनिया का सबसे बड़ा बॉक्साइट उत्पादक देश कौन सा है?",
+      "opts": [
+        "Australia",
+        "China",
+        "Brazil",
+        "India"
+      ],
+      "opts_hi": [
+        "ऑस्ट्रेलिया",
+        "चीन",
+        "ब्राजील",
+        "भारत"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which state is the largest producer of soybean in India?",
+      "q_hi": "भारत में सोयाबीन का सबसे बड़ा उत्पादक राज्य कौन सा है?",
+      "opts": [
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Rajasthan",
+        "Uttar Pradesh"
+      ],
+      "opts_hi": [
+        "मध्य प्रदेश",
+        "महाराष्ट्र",
+        "राजस्थान",
+        "उत्तर प्रदेश"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "What is the term for the line joining places of equal sunshine?",
+      "q_hi": "समान सूर्य प्रकाश वाले स्थानों को जोड़ने वाली रेखा को क्या कहते हैं?",
+      "opts": [
+        "Isoline",
+        "Isopleth",
+        "Isohel",
+        "Isotherm"
+      ],
+      "opts_hi": [
+        "आइसोलाइन",
+        "आइसोप्लेथ",
+        "आइसोहेल",
+        "आइसोथर्म"
+      ],
+      "ans": 2,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which state is the largest producer of cotton in India?",
+      "q_hi": "भारत में कपास का सबसे बड़ा उत्पादक राज्य कौन सा है?",
+      "opts": [
+        "Gujarat",
+        "Maharashtra",
+        "Telangana",
+        "Punjab"
+      ],
+      "opts_hi": [
+        "गुजरात",
+        "महाराष्ट्र",
+        "तेलंगाना",
+        "पंजाब"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which country has the largest number of active volcanoes?",
+      "q_hi": "सबसे अधिक सक्रिय ज्वालामुखियों वाला देश कौन सा है?",
+      "opts": [
+        "Indonesia",
+        "Japan",
+        "USA",
+        "Italy"
+      ],
+      "opts_hi": [
+        "इंडोनेशिया",
+        "जापान",
+        "यूएसए",
+        "इटली"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which state has the largest reserves of limestone?",
+      "q_hi": "चूना पत्थर के सबसे बड़े भंडार किस राज्य के पास हैं?",
+      "opts": [
+        "Rajasthan",
+        "Madhya Pradesh",
+        "Andhra Pradesh",
+        "Tamil Nadu"
+      ],
+      "opts_hi": [
+        "राजस्थान",
+        "मध्य प्रदेश",
+        "आंध्र प्रदेश",
+        "तमिलनाडु"
+      ],
+      "ans": 0,
+      "subject": "Geography"
     }
   ]
 }
