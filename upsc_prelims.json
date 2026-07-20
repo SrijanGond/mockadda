@@ -2781,6 +2781,158 @@
           "subject": "Polity"
         }
       ]
+    },
+    {
+      "id": "upsc_prelims_25",
+      "title": "UPSC Prelims Mock Test 25",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Who was known as the 'Iron Man of India'?",
+          "q_hi": "भारत के लौह पुरुष' किसे कहा जाता है?",
+          "opts": [
+            "Mahatma Gandhi",
+            "Sardar Vallabhbhai Patel",
+            "Subhas Chandra Bose",
+            "B.R. Ambedkar"
+          ],
+          "opts_hi": [
+            "महात्मा गांधी",
+            "सरदार वल्लभभाई पटेल",
+            "सुभाष चंद्र बोस",
+            "बी.आर. आंबेडकर"
+          ],
+          "ans": 1,
+          "subject": "History"
+        },
+        {
+          "q": "Which national park is famous for one-horned rhinoceros?",
+          "q_hi": "एक सींग वाले गैंडे के लिए कौन सा राष्ट्रीय उद्यान प्रसिद्ध है?",
+          "opts": [
+            "Kaziranga",
+            "Sundarbans",
+            "Gir",
+            "Bandipur"
+          ],
+          "opts_hi": [
+            "काजीरंगा",
+            "सुंदरबन",
+            "गिर",
+            "बांदीपुर"
+          ],
+          "ans": 0,
+          "subject": "Environment"
+        },
+        {
+          "q": "Which Article provides for the Right to Constitutional Remedies?",
+          "q_hi": "संवैधानिक उपचार का अधिकार किस अनुच्छेद में है?",
+          "opts": [
+            "Article 19",
+            "Article 21",
+            "Article 32",
+            "Article 226"
+          ],
+          "opts_hi": [
+            "अनुच्छेद 19",
+            "अनुच्छेद 21",
+            "अनुच्छेद 32",
+            "अनुच्छेद 226"
+          ],
+          "ans": 2,
+          "subject": "Polity"
+        },
+        {
+          "q": "Which is the highest mountain peak in India?",
+          "q_hi": "भारत की सबसे ऊंची पर्वत चोटी कौन सी है?",
+          "opts": [
+            "K2",
+            "Kanchenjunga",
+            "Mount Everest",
+            "Nanda Devi"
+          ],
+          "opts_hi": [
+            "के2",
+            "कंचनजंगा",
+            "माउंट एवरेस्ट",
+            "नंदा देवी"
+          ],
+          "ans": 1,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which amendment is known as the Mini Constitution?",
+          "q_hi": "मिनी संविधान' किस संशोधन को कहा जाता है?",
+          "opts": [
+            "42nd",
+            "44th",
+            "73rd",
+            "86th"
+          ],
+          "opts_hi": [
+            "42वाँ",
+            "44वाँ",
+            "73वाँ",
+            "86वाँ"
+          ],
+          "ans": 0,
+          "subject": "Polity"
+        },
+        {
+          "q": "Which Article prohibits forced labour?",
+          "q_hi": "बलात् श्रम को किस अनुच्छेद में प्रतिबंधित किया गया है?",
+          "opts": [
+            "Article 23",
+            "Article 24",
+            "Article 21",
+            "Article 19"
+          ],
+          "opts_hi": [
+            "अनुच्छेद 23",
+            "अनुच्छेद 24",
+            "अनुच्छेद 21",
+            "अनुच्छेद 19"
+          ],
+          "ans": 0,
+          "subject": "Polity"
+        },
+        {
+          "q": "Which river is called the 'Ganga of the South'?",
+          "q_hi": "दक्षिण की गंगा' किस नदी को कहा जाता है?",
+          "opts": [
+            "Godavari",
+            "Kaveri",
+            "Krishna",
+            "Tungabhadra"
+          ],
+          "opts_hi": [
+            "गोदावरी",
+            "कावेरी",
+            "कृष्णा",
+            "तुंगभद्रा"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which Article prohibits child labour?",
+          "q_hi": "बाल श्रम को किस अनुच्छेद में प्रतिबंधित किया गया है?",
+          "opts": [
+            "Article 23",
+            "Article 24",
+            "Article 21",
+            "Article 17"
+          ],
+          "opts_hi": [
+            "अनुच्छेद 23",
+            "अनुच्छेद 24",
+            "अनुच्छेद 21",
+            "अनुच्छेद 17"
+          ],
+          "ans": 1,
+          "subject": "Polity"
+        }
+      ]
     }
   ]
 }
