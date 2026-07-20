@@ -70,6 +70,96 @@
       ],
       "ans": 2,
       "subject": "Teaching"
+    },
+    {
+      "q": "Who proposed the theory of Multiple Intelligences?",
+      "q_hi": "बहु बुद्धिमत्ता सिद्धांत किसने प्रस्तावित किया?",
+      "opts": [
+        "Jean Piaget",
+        "Howard Gardner",
+        "Lev Vygotsky",
+        "B.F. Skinner"
+      ],
+      "opts_hi": [
+        "जीन पियाजे",
+        "हॉवर्ड गार्डनर",
+        "लेव वायगोत्स्की",
+        "बी.एफ. स्किनर"
+      ],
+      "ans": 1,
+      "subject": "Teaching"
+    },
+    {
+      "q": "Which psychologist is associated with Operant Conditioning?",
+      "q_hi": "ऑपरेंट कंडीशनिंग से कौन से मनोवैज्ञानिक जुड़े हैं?",
+      "opts": [
+        "Pavlov",
+        "Skinner",
+        "Piaget",
+        "Freud"
+      ],
+      "opts_hi": [
+        "पावलोव",
+        "स्किनर",
+        "पियाजे",
+        "फ्रायड"
+      ],
+      "ans": 1,
+      "subject": "Teaching"
+    },
+    {
+      "q": "Who is the father of Classical Conditioning?",
+      "q_hi": "क्लासिकल कंडीशनिंग के जनक कौन हैं?",
+      "opts": [
+        "B.F. Skinner",
+        "Ivan Pavlov",
+        "Jean Piaget",
+        "Sigmund Freud"
+      ],
+      "opts_hi": [
+        "बी.एफ. स्किनर",
+        "इवान पावलोव",
+        "जीन पियाजे",
+        "सिगमंड फ्रायड"
+      ],
+      "ans": 1,
+      "subject": "Teaching"
+    },
+    {
+      "q": "Who gave the concept of Zone of Proximal Development?",
+      "q_hi": "प्रॉक्सिमल डेवलपमेंट जोन की अवधारणा किसने दी?",
+      "opts": [
+        "Piaget",
+        "Vygotsky",
+        "Skinner",
+        "Freud"
+      ],
+      "opts_hi": [
+        "पियाजे",
+        "वायगोत्स्की",
+        "स्किनर",
+        "फ्रायड"
+      ],
+      "ans": 1,
+      "subject": "Teaching"
+    },
+    {
+      "q": "Who developed the theory of cognitive development?",
+      "q_hi": "संज्ञानात्मक विकास सिद्धांत किसने विकसित किया?",
+      "opts": [
+        "B.F. Skinner",
+        "Jean Piaget",
+        "Lev Vygotsky",
+        "Erik Erikson"
+      ],
+      "opts_hi": [
+        "बी.एफ. स्किनर",
+        "जीन पियाजे",
+        "लेव वायगोत्स्की",
+        "एरिक एरिक्सन"
+      ],
+      "ans": 1,
+      "subject": "Teaching"
     }
   ]
 }
