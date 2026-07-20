@@ -5329,6 +5329,194 @@
           "subject": "History"
         }
       ]
+    },
+    {
+      "id": "ssc_cgl_19",
+      "title": "SSC CGL Mock Test 19",
+      "duration": 12,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What is the full form of GDP?",
+          "q_hi": "GDP का पूर्ण रूप क्या है?",
+          "opts": [
+            "Gross Domestic Product",
+            "Gross Development Product",
+            "General Domestic Product",
+            "None"
+          ],
+          "opts_hi": [
+            "ग्रॉस डोमेस्टिक प्रोडक्ट",
+            "ग्रॉस डेवलपमेंट प्रोडक्ट",
+            "जनरल डोमेस्टिक प्रोडक्ट",
+            "कोई नहीं"
+          ],
+          "ans": 0,
+          "subject": "Economics"
+        },
+        {
+          "q": "What is the apex body for microfinance in India?",
+          "q_hi": "भारत में सूक्ष्म वित्त का शीर्ष निकाय कौन सा है?",
+          "opts": [
+            "NABARD",
+            "RBI",
+            "SEBI",
+            "NHB"
+          ],
+          "opts_hi": [
+            "नाबार्ड",
+            "आरबीआई",
+            "सेबी",
+            "एनएचबी"
+          ],
+          "ans": 0,
+          "subject": "Economics"
+        },
+        {
+          "q": "What is the current base year for calculating GDP in India?",
+          "q_hi": "भारत में GDP गणना के लिए वर्तमान आधार वर्ष क्या है?",
+          "opts": [
+            "Thu Dec 01 2011 05:30:00 GMT+0530 (India Standard Time)",
+            "Sat May 01 2004 05:30:00 GMT+0530 (India Standard Time)",
+            "2015-16",
+            "2020-21"
+          ],
+          "opts_hi": [
+            "Thu Dec 01 2011 05:30:00 GMT+0530 (India Standard Time)",
+            "Sat May 01 2004 05:30:00 GMT+0530 (India Standard Time)",
+            "2015-16",
+            "2020-21"
+          ],
+          "ans": 0,
+          "subject": "Economics"
+        },
+        {
+          "q": "What is the main objective of Fiscal Policy?",
+          "q_hi": "राजकोषीय नीति का मुख्य उद्देश्य क्या है?",
+          "opts": [
+            "Price stability",
+            "Economic growth",
+            "Both",
+            "None"
+          ],
+          "opts_hi": [
+            "मूल्य स्थिरता",
+            "आर्थिक विकास",
+            "दोनों",
+            "कोई नहीं"
+          ],
+          "ans": 1,
+          "subject": "Economics"
+        },
+        {
+          "q": "What is the main objective of Monetary Policy?",
+          "q_hi": "मौद्रिक नीति का मुख्य उद्देश्य क्या है?",
+          "opts": [
+            "Control inflation",
+            "Economic growth",
+            "Both",
+            "None"
+          ],
+          "opts_hi": [
+            "मुद्रास्फीति नियंत्रण",
+            "आर्थिक विकास",
+            "दोनों",
+            "कोई नहीं"
+          ],
+          "ans": 2,
+          "subject": "Economics"
+        },
+        {
+          "q": "What is the current repo rate decided by RBI called?",
+          "q_hi": "आरबीआई द्वारा तय वर्तमान रेपो दर को क्या कहते हैं?",
+          "opts": [
+            "Repo Rate",
+            "Reverse Repo Rate",
+            "Bank Rate",
+            "CRR"
+          ],
+          "opts_hi": [
+            "रेपो रेट",
+            "रिवर्स रेपो रेट",
+            "बैंक रेट",
+            "सीआरआर"
+          ],
+          "ans": 0,
+          "subject": "Economics"
+        },
+        {
+          "q": "What is the main objective of the Finance Commission?",
+          "q_hi": "वित्त आयोग का मुख्य उद्देश्य क्या है?",
+          "opts": [
+            "Distribution of taxes",
+            "Monetary policy",
+            "Both",
+            "None"
+          ],
+          "opts_hi": [
+            "करों का वितरण",
+            "मौद्रिक नीति",
+            "दोनों",
+            "कोई नहीं"
+          ],
+          "ans": 0,
+          "subject": "Economics"
+        },
+        {
+          "q": "What is the main function of NABARD?",
+          "q_hi": "नाबार्ड का मुख्य कार्य क्या है?",
+          "opts": [
+            "Rural credit",
+            "Urban credit",
+            "Industrial credit",
+            "None"
+          ],
+          "opts_hi": [
+            "ग्रामीण ऋण",
+            "शहरी ऋण",
+            "औद्योगिक ऋण",
+            "कोई नहीं"
+          ],
+          "ans": 0,
+          "subject": "Economics"
+        },
+        {
+          "q": "What is the main function of IRDAI?",
+          "q_hi": "IRDAI का मुख्य कार्य क्या है?",
+          "opts": [
+            "Regulate insurance",
+            "Regulate banking",
+            "Regulate securities",
+            "None"
+          ],
+          "opts_hi": [
+            "बीमा का नियमन",
+            "बैंकिंग का नियमन",
+            "सिक्योरिटीज का नियमन",
+            "कोई नहीं"
+          ],
+          "ans": 0,
+          "subject": "Economics"
+        },
+        {
+          "q": "What is the main objective of the RBI?",
+          "q_hi": "आरबीआई का मुख्य उद्देश्य क्या है?",
+          "opts": [
+            "Price stability",
+            "Economic growth",
+            "Both",
+            "None"
+          ],
+          "opts_hi": [
+            "मूल्य स्थिरता",
+            "आर्थिक विकास",
+            "दोनों",
+            "कोई नहीं"
+          ],
+          "ans": 2,
+          "subject": "Economics"
+        }
+      ]
     }
   ]
 }
