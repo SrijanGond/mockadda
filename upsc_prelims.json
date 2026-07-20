@@ -2487,6 +2487,158 @@
           "subject": "General Knowledge"
         }
       ]
+    },
+    {
+      "id": "upsc_prelims_22",
+      "title": "UPSC Prelims Mock Test 22",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Who drafted the \"Gandhian Plan\" for the economy in 1944?",
+          "q_hi": "1944 में अर्थव्यवस्था के लिए \"गांधीवादी योजना\" का मसौदा किसने तैयार किया?",
+          "opts": [
+            "Jayaprakash Narayan",
+            "Shriman Narayan Agarwal",
+            "M. Visvesvaraya",
+            "Subhash Chandra Bose"
+          ],
+          "opts_hi": [
+            "जयप्रकाश नारायण",
+            "श्रीमान नारायण अग्रवाल",
+            "एम. विश्वेश्वरैया",
+            "सुभाष चंद्र बोस"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "What is the maximum number of members in the Rajya Sabha?",
+          "q_hi": "राज्य सभा में अधिकतम सदस्यों की संख्या क्या है?",
+          "opts": [
+            "238",
+            "245",
+            "250",
+            "252"
+          ],
+          "opts_hi": [
+            "238",
+            "245",
+            "250",
+            "252"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "What is the full form of SONAR?",
+          "q_hi": "SONAR का पूर्ण रूप क्या है?",
+          "opts": [
+            "Sound Navigation and Ranging",
+            "Sound Nautical and Radar",
+            "Signal Navigation and Radar",
+            "Sound Observation and Ranging"
+          ],
+          "opts_hi": [
+            "साउंड नेविगेशन एंड रेंजिंग",
+            "साउंड नॉटिकल एंड रडार",
+            "सिग्नल नेविगेशन एंड रडार",
+            "साउंड ऑब्जर्वेशन एंड रेंजिंग"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "In which year was the Asian Development Bank (ADB) established?",
+          "q_hi": "एशियाई विकास बैंक (ADB) की स्थापना किस वर्ष हुई थी?",
+          "opts": [
+            "1956",
+            "1966",
+            "1976",
+            "1986"
+          ],
+          "opts_hi": [
+            "1956",
+            "1966",
+            "1976",
+            "1986"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "What is the new target for Lakhpati Didis set by PM Modi in July 2026?",
+          "q_hi": "जुलाई 2026 में पीएम मोदी द्वारा लखपति दीदियों का नया लक्ष्य क्या रखा गया है?",
+          "opts": [
+            "3 crore",
+            "4 crore",
+            "6 crore",
+            "10 crore"
+          ],
+          "opts_hi": [
+            "3 करोड़",
+            "4 करोड़",
+            "6 करोड़",
+            "10 करोड़"
+          ],
+          "ans": 2,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Which submarine cable project connecting India to Southeast Asia was announced by Microsoft and Lightstorm?",
+          "q_hi": "Microsoft और Lightstorm द्वारा भारत को दक्षिण-पूर्व एशिया से जोड़ने वाली किस पनडुब्बी केबल परियोजना की घोषणा की गई?",
+          "opts": [
+            "I-2SEA",
+            "MERA",
+            "SEA-ME-WE 6",
+            "Unity"
+          ],
+          "opts_hi": [
+            "I-2SEA",
+            "MERA",
+            "SEA-ME-WE 6",
+            "Unity"
+          ],
+          "ans": 0,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Which Indian business leaders were appointed as founding members of the ITU's AI for Good Global Commission?",
+          "q_hi": "ITU के AI for Good Global Commission के संस्थापक सदस्यों के रूप में किन भारतीय व्यापार नेताओं को नियुक्त किया गया?",
+          "opts": [
+            "Mukesh Ambani, Sunil Bharti Mittal, Lakshmi N. Mittal",
+            "Ratan Tata, Azim Premji, Narayana Murthy",
+            "Anand Mahindra, Kumar Mangalam Birla, Adi Godrej",
+            "Gautam Adani, Rajan Anandan, Nandan Nilekani"
+          ],
+          "opts_hi": [
+            "मुकेश अंबानी, सुनील भारती मित्तल, लक्ष्मी एन. मित्तल",
+            "रतन टाटा, अजीम प्रेमजी, नारायण मूर्ति",
+            "आनंद महिंद्रा, कुमार मंगलम बिड़ला, अदि गोदरेज",
+            "गौतम अडानी, राजन अनंदन, नंदन नीलेकणी"
+          ],
+          "ans": 0,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Which Indian digital payment system is being introduced in Israel?",
+          "q_hi": "कौन सी भारतीय डिजिटल भुगतान प्रणाली इज़राइल में शुरू की जा रही है?",
+          "opts": [
+            "RuPay",
+            "UPI (Unified Payments Interface)",
+            "BHIM",
+            "IMPS"
+          ],
+          "opts_hi": [
+            "रुपे",
+            "UPI (यूनिफाइड पेमेंट्स इंटरफेस)",
+            "भीम",
+            "IMPS"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        }
+      ]
     }
   ]
 }
