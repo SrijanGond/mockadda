@@ -2105,6 +2105,122 @@
           "subject": "General Knowledge"
         }
       ]
+    },
+    {
+      "id": "rrb_ntpc_27",
+      "title": "RRB NTPC Mock Test 27",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Who is called the Father of the Indian Constitution?",
+          "q_hi": "भारतीय संविधान के जनक के रूप में किसे जाना जाता है?",
+          "opts": [
+            "Mahatma Gandhi",
+            "Jawaharlal Nehru",
+            "Dr. B.R. Ambedkar",
+            "Sardar Patel"
+          ],
+          "opts_hi": [
+            "महात्मा गांधी",
+            "जवाहरलाल नेहरू",
+            "डॉ. बी.आर. अम्बेडकर",
+            "सरदार पटेल"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which lens is used to correct hypermetropia (long-sightedness)?",
+          "q_hi": "हाइपरमेट्रोपिया (दूरदर्शिता) को ठीक करने के लिए किस लेंस का उपयोग किया जाता है?",
+          "opts": [
+            "Concave lens",
+            "Convex lens",
+            "Bifocal lens",
+            "Cylindrical lens"
+          ],
+          "opts_hi": [
+            "अवतल लेंस",
+            "उत्तल लेंस",
+            "द्विफोकल लेंस",
+            "बेलनाकार लेंस"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "The idea of the Directive Principles of State Policy was borrowed from which country?",
+          "q_hi": "राज्य नीति के निर्देशक सिद्धांतों का विचार किस देश से लिया गया था?",
+          "opts": [
+            "USA",
+            "Ireland",
+            "UK",
+            "Canada"
+          ],
+          "opts_hi": [
+            "यूएसए",
+            "आयरलैंड",
+            "यूके",
+            "कनाडा"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Who was the first female Prime Minister of India?",
+          "q_hi": "भारत की पहली महिला प्रधान मंत्री कौन थी?",
+          "opts": [
+            "Indira Gandhi",
+            "Pratibha Patil",
+            "Sarojini Naidu",
+            "Vijaya Lakshmi Pandit"
+          ],
+          "opts_hi": [
+            "इंदिरा गांधी",
+            "प्रतिभा पाटिल",
+            "सरोजिनी नायडू",
+            "विजया लक्ष्मी पंडित"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Who was the founder of the Mughal Empire?",
+          "q_hi": "मुगल साम्राज्य का संस्थापक कौन था?",
+          "opts": [
+            "Akbar",
+            "Humayun",
+            "Babur",
+            "Shah Jahan"
+          ],
+          "opts_hi": [
+            "अकबर",
+            "हुमायूँ",
+            "बाबर",
+            "शाहजहाँ"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which river flows through the Rift Valley in India?",
+          "q_hi": "भारत में कौन सी नदी दरार घाटी से होकर बहती है?",
+          "opts": [
+            "Narmada",
+            "Ganga",
+            "Godavari",
+            "Krishna"
+          ],
+          "opts_hi": [
+            "नर्मदा",
+            "गंगा",
+            "गोदावरी",
+            "कृष्णा"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        }
+      ]
     }
   ]
 }
