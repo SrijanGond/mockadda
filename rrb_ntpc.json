@@ -1435,6 +1435,86 @@
           "subject": "General Knowledge"
         }
       ]
+    },
+    {
+      "id": "rrb_ntpc_22",
+      "title": "RRB NTPC Mock Test 22",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Who is the current President of India (as of 2026)?",
+          "q_hi": "भारत के वर्तमान राष्ट्रपति कौन हैं (2026 तक)?",
+          "opts": [
+            "Droupadi Murmu",
+            "Ram Nath Kovind",
+            "Pranab Mukherjee",
+            "Pratibha Patil"
+          ],
+          "opts_hi": [
+            "द्रौपदी मुर्मू",
+            "राम नाथ कोविंद",
+            "प्रणब मुखर्जी",
+            "प्रतिभा पाटिल"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "What is the GST rate on most essential items?",
+          "q_hi": "अधिकांश आवश्यक वस्तुओं पर GST दर क्या है?",
+          "opts": [
+            "0.05",
+            "0.12",
+            "0.18",
+            "0"
+          ],
+          "opts_hi": [
+            "0.05",
+            "0.12",
+            "0.18",
+            ""
+          ],
+          "ans": 3,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Who presents the Union Budget in India?",
+          "q_hi": "भारत में केंद्रीय बजट कौन पेश करता है?",
+          "opts": [
+            "President",
+            "Finance Minister",
+            "Prime Minister",
+            "RBI Governor"
+          ],
+          "opts_hi": [
+            "राष्ट्रपति",
+            "वित्त मंत्री",
+            "प्रधानमंत्री",
+            "आरबीआई गवर्नर"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "What is the full form of GDP?",
+          "q_hi": "GDP का पूर्ण रूप क्या है?",
+          "opts": [
+            "Gross Domestic Product",
+            "Gross Development Product",
+            "General Domestic Product",
+            "None"
+          ],
+          "opts_hi": [
+            "ग्रॉस डोमेस्टिक प्रोडक्ट",
+            "ग्रॉस डेवलपमेंट प्रोडक्ट",
+            "जनरल डोमेस्टिक प्रोडक्ट",
+            "कोई नहीं"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        }
+      ]
     }
   ]
 }
