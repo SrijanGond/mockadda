@@ -3083,6 +3083,122 @@
           "subject": "Geography"
         }
       ]
+    },
+    {
+      "id": "upsc_prelims_29",
+      "title": "UPSC Prelims Mock Test 29",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What is the official slogan of FIFA World Cup 2026?",
+          "q_hi": "2026 FIFA विश्व कप का आधिकारिक नारा क्या है?",
+          "opts": [
+            "We Are One",
+            "One Love",
+            "Unite the World",
+            "Live the Dream"
+          ],
+          "opts_hi": [
+            "वी आर वन",
+            "वन लव",
+            "यूनाइट द वर्ल्ड",
+            "लाइव द ड्रीम"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which is the first expansion of the World Cup to 48 teams?",
+          "q_hi": "विश्व कप को 48 टीमों तक बढ़ाने का यह पहला अवसर है?",
+          "opts": [
+            "2022",
+            "2026",
+            "2030",
+            "2018"
+          ],
+          "opts_hi": [
+            "2022",
+            "2026",
+            "2030",
+            "2018"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "What is the expected number of spectators for FIFA World Cup 2026?",
+          "q_hi": "2026 FIFA विश्व कप में कुल दर्शकों की अनुमानित संख्या कितनी है?",
+          "opts": [
+            "Over 5 million",
+            "Over 3 million",
+            "Over 4 million",
+            "Over 6 million"
+          ],
+          "opts_hi": [
+            "5 मिलियन से अधिक",
+            "3 मिलियन से अधिक",
+            "4 मिलियन से अधिक",
+            "6 मिलियन से अधिक"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which is the first World Cup to be hosted in three countries?",
+          "q_hi": "तीन देशों में आयोजित होने वाला पहला विश्व कप कौन सा है?",
+          "opts": [
+            "2026",
+            "2030",
+            "2022",
+            "2018"
+          ],
+          "opts_hi": [
+            "2026",
+            "2030",
+            "2022",
+            "2018"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "What is the total number of venues in the USA for FIFA World Cup 2026?",
+          "q_hi": "2026 FIFA विश्व कप के लिए यूएसए में कितने वेन्यू हैं?",
+          "opts": [
+            "11",
+            "8",
+            "6",
+            "10"
+          ],
+          "opts_hi": [
+            "11",
+            "8",
+            "6",
+            "10"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which is the first World Cup to be played across three countries?",
+          "q_hi": "तीन देशों में खेला जाने वाला पहला विश्व कप कौन सा है?",
+          "opts": [
+            "2026",
+            "2030",
+            "2022",
+            "2014"
+          ],
+          "opts_hi": [
+            "2026",
+            "2030",
+            "2022",
+            "2014"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        }
+      ]
     }
   ]
 }
