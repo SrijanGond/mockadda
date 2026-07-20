@@ -1,0 +1,40 @@
+{
+  "questions": [
+    {
+      "q": "Which river is known as the ‘Sorrow of Bihar’?",
+      "q_hi": "‘बिहार का शोक’ किस नदी को कहा जाता है?",
+      "opts": [
+        "Ganga",
+        "Yamuna",
+        "Kosi",
+        "Godavari"
+      ],
+      "opts_hi": [
+        "गंगा",
+        "यमुना",
+        "कोसी",
+        "गोदावरी"
+      ],
+      "ans": 2,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which state has the longest coastline in India?",
+      "q_hi": "भारत में सबसे लंबी तटर रेखा वाला राज्य कौन सा है?",
+      "opts": [
+        "Andhra Pradesh",
+        "Gujarat",
+        "Tamil Nadu",
+        "Maharashtra"
+      ],
+      "opts_hi": [
+        "आंध्र प्रदेश",
+        "गुजरात",
+        "तमिलनाडु",
+        "महाराष्ट्र"
+      ],
+      "ans": 1,
+      "subject": "Geography"
+    }
+  ]
+}
