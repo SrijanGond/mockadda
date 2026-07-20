@@ -1409,6 +1409,32 @@
           "subject": "General Knowledge"
         }
       ]
+    },
+    {
+      "id": "rrb_ntpc_21",
+      "title": "RRB NTPC Mock Test 21",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Who is the current head of the Election Commission of India (as of 2026)?",
+          "q_hi": "भारत के चुनाव आयोग के वर्तमान प्रमुख कौन हैं (2026 तक)?",
+          "opts": [
+            "Gyanesh Kumar",
+            "Sunil Arora",
+            "Rajiv Kumar",
+            "Achal Kumar Joti"
+          ],
+          "opts_hi": [
+            "ज्ञानेश कुमार",
+            "सुनील अरोड़ा",
+            "राजीव कुमार",
+            "अचल कुमार जोती"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        }
+      ]
     }
   ]
 }
