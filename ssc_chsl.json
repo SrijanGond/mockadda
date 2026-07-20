@@ -2721,6 +2721,212 @@
           "subject": "History"
         }
       ]
+    },
+    {
+      "id": "ssc_chsl_32",
+      "title": "SSC CHSL Mock Test 32",
+      "duration": 13,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Who introduced the Mansabdari System?",
+          "q_hi": "मनसबदारी प्रणाली किसने शुरू की?",
+          "opts": [
+            "Akbar",
+            "Shah Jahan",
+            "Aurangzeb",
+            "Babur"
+          ],
+          "opts_hi": [
+            "अकबर",
+            "शाहजहाँ",
+            "औरंगजेब",
+            "बाबर"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "The Gandhi-Irwin Pact was signed in which year?",
+          "q_hi": "गांधी-इरविन समझौता किस वर्ष हुआ?",
+          "opts": [
+            "1931",
+            "1930",
+            "1929",
+            "1942"
+          ],
+          "opts_hi": [
+            "1931",
+            "1930",
+            "1929",
+            "1942"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "Who introduced the Zabt revenue system?",
+          "q_hi": "जब्त राजस्व प्रणाली किसने शुरू की?",
+          "opts": [
+            "Akbar",
+            "Shah Jahan",
+            "Aurangzeb",
+            "Sher Shah Suri"
+          ],
+          "opts_hi": [
+            "अकबर",
+            "शाहजहाँ",
+            "औरंगजेब",
+            "शेर शाह सूरी"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "The Cripps Mission was sent in which year?",
+          "q_hi": "क्रिप्स मिशन किस वर्ष भेजा गया?",
+          "opts": [
+            "1942",
+            "1940",
+            "1935",
+            "1946"
+          ],
+          "opts_hi": [
+            "1942",
+            "1940",
+            "1935",
+            "1946"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "Which ruler is known for the construction of the Vikramshila University?",
+          "q_hi": "विक्रमशिला विश्वविद्यालय के निर्माण के लिए कौन से शासक प्रसिद्ध हैं?",
+          "opts": [
+            "Dharmapala",
+            "Harsha",
+            "Ashoka",
+            "Chandragupta"
+          ],
+          "opts_hi": [
+            "धर्मपाल",
+            "हर्षवर्धन",
+            "अशोक",
+            "चंद्रगुप्त"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "Who introduced the market reforms (Sawai) in the Delhi Sultanate?",
+          "q_hi": "दिल्ली सल्तनत में बाजार सुधार (सवाई) किसने शुरू किए?",
+          "opts": [
+            "Alauddin Khilji",
+            "Balban",
+            "Iltutmish",
+            "Firoz Shah Tughlaq"
+          ],
+          "opts_hi": [
+            "अलाउद्दीन खिलजी",
+            "बलबन",
+            "इल्तुतमिश",
+            "फिरोज शाह तुगलक"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "The Simon Commission was boycotted because?",
+          "q_hi": "साइमन कमीशन का बहिष्कार क्यों किया गया?",
+          "opts": [
+            "No Indian member",
+            "Harsh policies",
+            "Both",
+            "None"
+          ],
+          "opts_hi": [
+            "कोई भारतीय सदस्य नहीं",
+            "कठोर नीतियां",
+            "दोनों",
+            "कोई नहीं"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "Which ruler is known for the construction of the Nalanda University?",
+          "q_hi": "नालंदा विश्वविद्यालय के निर्माण के लिए कौन से शासक प्रसिद्ध हैं?",
+          "opts": [
+            "Kumaragupta I",
+            "Ashoka",
+            "Harsha",
+            "Samudragupta"
+          ],
+          "opts_hi": [
+            "कुमारगुप्त I",
+            "अशोक",
+            "हर्षवर्धन",
+            "समुद्रगुप्त"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "Who introduced the Jizya tax on non-Muslims?",
+          "q_hi": "गैर-मुस्लिमों पर जजिया कर किसने लगाया?",
+          "opts": [
+            "Firoz Shah Tughlaq",
+            "Alauddin Khilji",
+            "Aurangzeb",
+            "Balban"
+          ],
+          "opts_hi": [
+            "फिरोज शाह तुगलक",
+            "अलाउद्दीन खिलजी",
+            "औरंगजेब",
+            "बलबन"
+          ],
+          "ans": 2,
+          "subject": "History"
+        },
+        {
+          "q": "The Cabinet Mission Plan proposed what?",
+          "q_hi": "कैबिनेट मिशन योजना ने क्या प्रस्तावित किया?",
+          "opts": [
+            "United India",
+            "Partition",
+            "Dominion Status",
+            "None"
+          ],
+          "opts_hi": [
+            "एकीकृत भारत",
+            "विभाजन",
+            "डोमिनियन स्टेटस",
+            "कोई नहीं"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "Which ruler is known for the construction of the Brihadisvara Temple?",
+          "q_hi": "बृहदीश्वर मंदिर के निर्माण के लिए कौन से राजा प्रसिद्ध हैं?",
+          "opts": [
+            "Rajaraja Chola I",
+            "Rajendra Chola",
+            "Pallava",
+            "Chalukya"
+          ],
+          "opts_hi": [
+            "राजराज चोल I",
+            "राजेंद्र चोल",
+            "पल्लव",
+            "चालुक्य"
+          ],
+          "ans": 0,
+          "subject": "History"
+        }
+      ]
     }
   ]
 }
