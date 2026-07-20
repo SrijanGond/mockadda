@@ -1141,6 +1141,50 @@
           "subject": "Current Affairs"
         }
       ]
+    },
+    {
+      "id": "ssc_mts_19",
+      "title": "SSC MTS Mock Test 19",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which of the following is a critically endangered species?",
+          "q_hi": "निम्नलिखित में से कौन सी गंभीर रूप से संकटग्रस्त प्रजाति है?",
+          "opts": [
+            "Bengal Tiger",
+            "Great Indian Bustard",
+            "Asiatic Lion",
+            "One-horned Rhino"
+          ],
+          "opts_hi": [
+            "बंगाल टाइगर",
+            "ग्रेट इंडियन बस्टर्ड",
+            "एशियाई शेर",
+            "एक सींग वाला गैंडा"
+          ],
+          "ans": 1,
+          "subject": "Environment"
+        },
+        {
+          "q": "Who was the first Sultan of Delhi?",
+          "q_hi": "दिल्ली का पहला सुल्तान कौन था?",
+          "opts": [
+            "Qutb-ud-din Aibak",
+            "Iltutmish",
+            "Balban",
+            "Alauddin Khilji"
+          ],
+          "opts_hi": [
+            "कुतुबुद्दीन ऐबक",
+            "इल्तुतमिश",
+            "बलबन",
+            "अलाउद्दीन खिलजी"
+          ],
+          "ans": 0,
+          "subject": "History"
+        }
+      ]
     }
   ]
 }
