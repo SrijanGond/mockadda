@@ -67,6 +67,42 @@
         "एक्सिस बैंक"
       ],
       "ans": 1
+    },
+    {
+      "q": "What is the full form of KYC?",
+      "q_hi": "KYC का पूर्ण रूप क्या है?",
+      "opts": [
+        "Know Your Customer",
+        "Keep Your Cash",
+        "Know Your Company",
+        "Keep Your Credit"
+      ],
+      "opts_hi": [
+        "नो योर कस्टमर",
+        "कीप योर कैश",
+        "नो योर कंपनी",
+        "कीप योर क्रेडिट"
+      ],
+      "ans": 0,
+      "subject": "Banking"
+    },
+    {
+      "q": "Which bank launched the YONO app?",
+      "q_hi": "किस बैंक ने YONO ऐप लॉन्च किया?",
+      "opts": [
+        "HDFC",
+        "ICICI",
+        "State Bank of India",
+        "Axis"
+      ],
+      "opts_hi": [
+        "एचडीएफसी",
+        "आईसीआईसीआई",
+        "स्टेट बैंक ऑफ इंडिया",
+        "एक्सिस"
+      ],
+      "ans": 2,
+      "subject": "Banking"
     }
   ]
 }
