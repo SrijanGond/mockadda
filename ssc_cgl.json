@@ -3985,6 +3985,266 @@
           "subject": "General Knowledge"
         }
       ]
+    },
+    {
+      "id": "ssc_cgl_13",
+      "title": "SSC CGL Mock Test 13",
+      "duration": 17,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which is the largest freshwater lake in India?",
+          "q_hi": "भारत की सबसे बड़ी मीठे पानी की झील कौन सी है?",
+          "opts": [
+            "Wular Lake",
+            "Dal Lake",
+            "Chilika Lake",
+            "Sambhar Lake"
+          ],
+          "opts_hi": [
+            "वुलर झील",
+            "दल झील",
+            "चिल्का झील",
+            "सांभर झील"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which state has the largest mangrove forest in India?",
+          "q_hi": "भारत में सबसे बड़ा मैंग्रोव वन किस राज्य में है?",
+          "opts": [
+            "West Bengal",
+            "Andhra Pradesh",
+            "Gujarat",
+            "Odisha"
+          ],
+          "opts_hi": [
+            "पश्चिम बंगाल",
+            "आंध्र प्रदेश",
+            "गुजरात",
+            "ओडिशा"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "What is the approximate circumference of the Earth?",
+          "q_hi": "पृथ्वी की अनुमानित परिधि कितनी है?",
+          "opts": [
+            "40,000 km",
+            "36,000 km",
+            "42,000 km",
+            "38,000 km"
+          ],
+          "opts_hi": [
+            "40,000 किमी",
+            "36,000 किमी",
+            "42,000 किमी",
+            "38,000 किमी"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which is the largest island in the world?",
+          "q_hi": "दुनिया का सबसे बड़ा द्वीप कौन सा है?",
+          "opts": [
+            "Greenland",
+            "Australia",
+            "Borneo",
+            "New Guinea"
+          ],
+          "opts_hi": [
+            "ग्रीनलैंड",
+            "ऑस्ट्रेलिया",
+            "बोर्नियो",
+            "न्यू गिनी"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which country has the largest number of time zones?",
+          "q_hi": "किस देश में सबसे अधिक समय क्षेत्र हैं?",
+          "opts": [
+            "Russia",
+            "USA",
+            "China",
+            "France"
+          ],
+          "opts_hi": [
+            "रूस",
+            "यूएसए",
+            "चीन",
+            "फ्रांस"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which strait separates India and Sri Lanka?",
+          "q_hi": "भारत और श्रीलंका को कौन सा जलडमरूमध्य अलग करता है?",
+          "opts": [
+            "Palk Strait",
+            "Gulf of Mannar",
+            "Both",
+            "None"
+          ],
+          "opts_hi": [
+            "पाक जलडमरूमध्य",
+            "मन्नार की खाड़ी",
+            "दोनों",
+            "कोई नहीं"
+          ],
+          "ans": 2,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which country is known as the 'Land of the Midnight Sun'?",
+          "q_hi": "मिडनाइट सन की भूमि' किस देश को कहा जाता है?",
+          "opts": [
+            "Norway",
+            "Sweden",
+            "Finland",
+            "Iceland"
+          ],
+          "opts_hi": [
+            "नॉर्वे",
+            "स्वीडन",
+            "फिनलैंड",
+            "आइसलैंड"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which is the smallest continent in the world?",
+          "q_hi": "दुनिया का सबसे छोटा महाद्वीप कौन सा है?",
+          "opts": [
+            "Australia",
+            "Europe",
+            "Antarctica",
+            "South America"
+          ],
+          "opts_hi": [
+            "ऑस्ट्रेलिया",
+            "यूरोप",
+            "अंटार्कटिका",
+            "दक्षिण अमेरिका"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which strait connects the Red Sea and the Gulf of Aden?",
+          "q_hi": "लाल सागर और एडन की खाड़ी को कौन सा जलडमरूमध्य जोड़ता है?",
+          "opts": [
+            "Bab-el-Mandeb",
+            "Hormuz",
+            "Malacca",
+            "Gibraltar"
+          ],
+          "opts_hi": [
+            "बाब-एल-मांडेब",
+            "होर्मुज",
+            "मलक्का",
+            "जिब्राल्टर"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which country is known as the 'Land of the Rising Sun'?",
+          "q_hi": "सूर्योदय की भूमि' किस देश को कहा जाता है?",
+          "opts": [
+            "China",
+            "Japan",
+            "South Korea",
+            "Thailand"
+          ],
+          "opts_hi": [
+            "चीन",
+            "जापान",
+            "दक्षिण कोरिया",
+            "थाईलैंड"
+          ],
+          "ans": 1,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which is the driest place on Earth?",
+          "q_hi": "पृथ्वी का सबसे शुष्क स्थान कौन सा है?",
+          "opts": [
+            "Atacama Desert",
+            "Sahara Desert",
+            "Antarctica",
+            "Gobi Desert"
+          ],
+          "opts_hi": [
+            "अटाकामा मरुस्थल",
+            "सहारा मरुस्थल",
+            "अंटार्कटिका",
+            "गोबी मरुस्थल"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which country has the largest reserves of natural gas?",
+          "q_hi": "प्राकृतिक गैस के सबसे बड़े भंडार किस देश के पास हैं?",
+          "opts": [
+            "Russia",
+            "Iran",
+            "Qatar",
+            "USA"
+          ],
+          "opts_hi": [
+            "रूस",
+            "ईरान",
+            "कतर",
+            "यूएसए"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which is the largest coral reef system in the world?",
+          "q_hi": "दुनिया का सबसे बड़ा कोरल रीफ सिस्टम कौन सा है?",
+          "opts": [
+            "Great Barrier Reef",
+            "Belize Barrier Reef",
+            "New Caledonia Barrier Reef",
+            "None"
+          ],
+          "opts_hi": [
+            "ग्रेट बैरियर रीफ",
+            "बेलीज बैरियर रीफ",
+            "न्यू कैलेडोनिया बैरियर रीफ",
+            "कोई नहीं"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which country is known as the 'Sugar Bowl of the World'?",
+          "q_hi": "दुनिया का शक्कर का कटोरा' किस देश को कहा जाता है?",
+          "opts": [
+            "Cuba",
+            "Brazil",
+            "India",
+            "USA"
+          ],
+          "opts_hi": [
+            "क्यूबा",
+            "ब्राजील",
+            "भारत",
+            "यूएसए"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        }
+      ]
     }
   ]
 }
