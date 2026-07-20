@@ -154,6 +154,1806 @@
       ],
       "ans": 3,
       "subject": "General Knowledge"
+    },
+    {
+      "q": "Who was the first Governor-General of India?",
+      "q_hi": "भारत के पहले गवर्नर-जनरल कौन थे?",
+      "opts": [
+        "Warren Hastings",
+        "Lord Cornwallis",
+        "Lord Wellesley",
+        "William Bentinck"
+      ],
+      "opts_hi": [
+        "वारेन हेस्टिंग्स",
+        "लॉर्ड कॉर्नवालिस",
+        "लॉर्ड वेलेस्ली",
+        "विलियम बेंटिक"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who was the first President of the Indian National Congress?",
+      "q_hi": "भारतीय राष्ट्रीय कांग्रेस के पहले अध्यक्ष कौन थे?",
+      "opts": [
+        "Dadabhai Naoroji",
+        "W.C. Banerjee",
+        "Surendranath Banerjee",
+        "Allan Octavian Hume"
+      ],
+      "opts_hi": [
+        "दादाभाई नौरोजी",
+        "डब्ल्यू.सी. बनर्जी",
+        "सुरेंद्रनाथ बनर्जी",
+        "एलन ऑक्टेवियन ह्यूम"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who gave the slogan \"Do or Die\"?",
+      "q_hi": "करो या मरो का नारा किसने दिया?",
+      "opts": [
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Subhas Chandra Bose",
+        "Bal Gangadhar Tilak"
+      ],
+      "opts_hi": [
+        "जवाहरलाल नेहरू",
+        "महात्मा गांधी",
+        "सुभाष चंद्र बोस",
+        "बाल गंगाधर तिलक"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who was known as the \"Grand Old Man of India\"?",
+      "q_hi": "भारत के वृद्ध पुरुष के रूप में कौन जाना जाता था?",
+      "opts": [
+        "Mahatma Gandhi",
+        "Dadabhai Naoroji",
+        "Lala Lajpat Rai",
+        "Bal Gangadhar Tilak"
+      ],
+      "opts_hi": [
+        "महात्मा गांधी",
+        "दादाभाई नौरोजी",
+        "लाला लाजपत राय",
+        "बाल गंगाधर तिलक"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who was the founder of the Maurya Empire?",
+      "q_hi": "मौर्य साम्राज्य का संस्थापक कौन था?",
+      "opts": [
+        "Ashoka",
+        "Bindusara",
+        "Chandragupta Maurya",
+        "Samudragupta"
+      ],
+      "opts_hi": [
+        "अशोक",
+        "बिंदुसार",
+        "चंद्रगुप्त मौर्य",
+        "समुद्रगुप्त"
+      ],
+      "ans": 2,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who wrote Arthashastra?",
+      "q_hi": "अर्थशास्त्र किसने लिखा?",
+      "opts": [
+        "Kalidasa",
+        "Kautilya (Chanakya)",
+        "Banabhatta",
+        "Tulsidas"
+      ],
+      "opts_hi": [
+        "कालिदास",
+        "कौटिल्य (चाणक्य)",
+        "बाणभट्ट",
+        "तुलसीदास"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who was known as the \"Napoleon of India\"?",
+      "q_hi": "भारत का नेपोलियन किसे कहा जाता था?",
+      "opts": [
+        "Chandragupta Maurya",
+        "Samudragupta",
+        "Ashoka",
+        "Harshavardhana"
+      ],
+      "opts_hi": [
+        "चंद्रगुप्त मौर्य",
+        "समुद्रगुप्त",
+        "अशोक",
+        "हर्षवर्धन"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who introduced the Doctrine of Lapse?",
+      "q_hi": "व्यपगत का सिद्धांत किसने पेश किया?",
+      "opts": [
+        "Lord Wellesley",
+        "Lord Dalhousie",
+        "Lord Canning",
+        "Lord Curzon"
+      ],
+      "opts_hi": [
+        "लॉर्ड वेलेस्ली",
+        "लॉर्ड डलहौज़ी",
+        "लॉर्ड कैनिंग",
+        "लॉर्ड कर्जन"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who was the founder of the Mughal Empire?",
+      "q_hi": "मुगल साम्राज्य का संस्थापक कौन था?",
+      "opts": [
+        "Akbar",
+        "Humayun",
+        "Babur",
+        "Shah Jahan"
+      ],
+      "opts_hi": [
+        "अकबर",
+        "हुमायूँ",
+        "बाबर",
+        "शाहजहाँ"
+      ],
+      "ans": 2,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "In which year did the Revolt of 1857 take place?",
+      "q_hi": "1857 का विद्रोह किस वर्ष हुआ था?",
+      "opts": [
+        "1856",
+        "1857",
+        "1858",
+        "1859"
+      ],
+      "opts_hi": [
+        "1856",
+        "1857",
+        "1858",
+        "1859"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who was the first woman ruler of Delhi?",
+      "q_hi": "दिल्ली की पहली महिला शासक कौन थी?",
+      "opts": [
+        "Nur Jahan",
+        "Razia Sultan",
+        "Mumtaz Mahal",
+        "Begum Hazrat Mahal"
+      ],
+      "opts_hi": [
+        "नूरजहाँ",
+        "रज़िया सुल्तान",
+        "मुमताज महल",
+        "बेगम हज़रत महल"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who is called the \"Iron Man of India\"?",
+      "q_hi": "भारत का लौह पुरुष किसे कहा जाता है?",
+      "opts": [
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Sardar Vallabhbhai Patel",
+        "Subhas Chandra Bose"
+      ],
+      "opts_hi": [
+        "जवाहरलाल नेहरू",
+        "महात्मा गांधी",
+        "सरदार वल्लभभाई पटेल",
+        "सुभाष चंद्र बोस"
+      ],
+      "ans": 2,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which is the largest state of India by area?",
+      "q_hi": "क्षेत्रफल की दृष्टि से भारत का सबसे बड़ा राज्य कौन सा है?",
+      "opts": [
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Uttar Pradesh",
+        "Rajasthan"
+      ],
+      "opts_hi": [
+        "मध्य प्रदेश",
+        "महाराष्ट्र",
+        "उत्तर प्रदेश",
+        "राजस्थान"
+      ],
+      "ans": 3,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which is the smallest state of India by area?",
+      "q_hi": "क्षेत्रफल की दृष्टि से भारत का सबसे छोटा राज्य कौन सा है?",
+      "opts": [
+        "Sikkim",
+        "Tripura",
+        "Goa",
+        "Mizoram"
+      ],
+      "opts_hi": [
+        "सिक्किम",
+        "त्रिपुरा",
+        "गोवा",
+        "मिजोरम"
+      ],
+      "ans": 2,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which river is known as the \"Sorrow of Bihar\"?",
+      "q_hi": "बिहार का शोक किस नदी को कहा जाता है?",
+      "opts": [
+        "Kosi",
+        "Damodar",
+        "Ganga",
+        "Brahmaputra"
+      ],
+      "opts_hi": [
+        "कोसी",
+        "दामोदर",
+        "गंगा",
+        "ब्रह्मपुत्र"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which river is called the \"Dakshin Ganga\"?",
+      "q_hi": "दक्षिण गंगा किस नदी को कहा जाता है?",
+      "opts": [
+        "Krishna",
+        "Kaveri",
+        "Godavari",
+        "Mahanadi"
+      ],
+      "opts_hi": [
+        "कृष्णा",
+        "कावेरी",
+        "गोदावरी",
+        "महानदी"
+      ],
+      "ans": 2,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which is the highest peak in India?",
+      "q_hi": "भारत की सबसे ऊँची चोटी कौन सी है?",
+      "opts": [
+        "Mount Everest",
+        "Kangchenjunga",
+        "Nanda Devi",
+        "K2"
+      ],
+      "opts_hi": [
+        "माउंट एवरेस्ट",
+        "कंचनजंगा",
+        "नंदा देवी",
+        "के2"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which is the largest freshwater lake in India?",
+      "q_hi": "भारत की सबसे बड़ी मीठे पानी की झील कौन सी है?",
+      "opts": [
+        "Chilika Lake",
+        "Wular Lake",
+        "Dal Lake",
+        "Loktak Lake"
+      ],
+      "opts_hi": [
+        "चिलिका झील",
+        "वुलर झील",
+        "डल झील",
+        "लोकतक झील"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which is the longest river in India?",
+      "q_hi": "भारत की सबसे लंबी नदी कौन सी है?",
+      "opts": [
+        "Ganga",
+        "Godavari",
+        "Brahmaputra",
+        "Yamuna"
+      ],
+      "opts_hi": [
+        "गंगा",
+        "गोदावरी",
+        "ब्रह्मपुत्र",
+        "यमुना"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which state is the largest producer of tea in India?",
+      "q_hi": "भारत में चाय का सबसे बड़ा उत्पादक राज्य कौन सा है?",
+      "opts": [
+        "West Bengal",
+        "Assam",
+        "Tamil Nadu",
+        "Kerala"
+      ],
+      "opts_hi": [
+        "पश्चिम बंगाल",
+        "असम",
+        "तमिलनाडु",
+        "केरल"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who is known as the Father of the Indian Constitution?",
+      "q_hi": "भारतीय संविधान के जनक के रूप में किसे जाना जाता है?",
+      "opts": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Dr. B.R. Ambedkar",
+        "Sardar Patel"
+      ],
+      "opts_hi": [
+        "महात्मा गांधी",
+        "जवाहरलाल नेहरू",
+        "डॉ. बी.आर. अम्बेडकर",
+        "सरदार पटेल"
+      ],
+      "ans": 2,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "How many fundamental rights are guaranteed by the Indian Constitution?",
+      "q_hi": "भारतीय संविधान द्वारा कितने मौलिक अधिकारों की गारंटी दी गई है?",
+      "opts": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "opts_hi": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which Article of the Constitution abolishes Untouchability?",
+      "q_hi": "संविधान का कौन सा अनुच्छेद अस्पृश्यता को समाप्त करता है?",
+      "opts": [
+        "Article 14",
+        "Article 15",
+        "Article 17",
+        "Article 21"
+      ],
+      "opts_hi": [
+        "अनुच्छेद 14",
+        "अनुच्छेद 15",
+        "अनुच्छेद 17",
+        "अनुच्छेद 21"
+      ],
+      "ans": 2,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "The idea of the Directive Principles of State Policy was borrowed from which country?",
+      "q_hi": "राज्य नीति के निर्देशक सिद्धांतों का विचार किस देश से लिया गया था?",
+      "opts": [
+        "USA",
+        "Ireland",
+        "UK",
+        "Canada"
+      ],
+      "opts_hi": [
+        "यूएसए",
+        "आयरलैंड",
+        "यूके",
+        "कनाडा"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who was the first President of India?",
+      "q_hi": "भारत के पहले राष्ट्रपति कौन थे?",
+      "opts": [
+        "Dr. Rajendra Prasad",
+        "Dr. S. Radhakrishnan",
+        "Nehru",
+        "Patel"
+      ],
+      "opts_hi": [
+        "डॉ. राजेंद्र प्रसाद",
+        "डॉ. एस. राधाकृष्णन",
+        "नेहरू",
+        "पटेल"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who was the first Prime Minister of India?",
+      "q_hi": "भारत के पहले प्रधान मंत्री कौन थे?",
+      "opts": [
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Sardar Patel",
+        "Dr. Rajendra Prasad"
+      ],
+      "opts_hi": [
+        "जवाहरलाल नेहरू",
+        "महात्मा गांधी",
+        "सरदार पटेल",
+        "डॉ. राजेंद्र प्रसाद"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "How many schedules are there in the Indian Constitution?",
+      "q_hi": "भारतीय संविधान में कितनी अनुसूचियाँ हैं?",
+      "opts": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "opts_hi": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "ans": 2,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which Constitutional Amendment lowered the voting age from 21 to 18 years?",
+      "q_hi": "किस संवैधानिक संशोधन ने मतदान की आयु 21 से घटाकर 18 वर्ष कर दी?",
+      "opts": [
+        "42nd Amendment",
+        "44th Amendment",
+        "61st Amendment",
+        "73rd Amendment"
+      ],
+      "opts_hi": [
+        "42वाँ संशोधन",
+        "44वाँ संशोधन",
+        "61वाँ संशोधन",
+        "73वाँ संशोधन"
+      ],
+      "ans": 2,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which Article is known as the \"Heart and Soul of the Constitution\"?",
+      "q_hi": "कौन सा अनुच्छेद \"संविधान के हृदय और आत्मा\" के रूप में जाना जाता है?",
+      "opts": [
+        "Article 14",
+        "Article 21",
+        "Article 32",
+        "Article 44"
+      ],
+      "opts_hi": [
+        "अनुच्छेद 14",
+        "अनुच्छेद 21",
+        "अनुच्छेद 32",
+        "अनुच्छेद 44"
+      ],
+      "ans": 2,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who is the current President of India?",
+      "q_hi": "भारत के वर्तमान राष्ट्रपति कौन हैं?",
+      "opts": [
+        "Ram Nath Kovind",
+        "Droupadi Murmu",
+        "Pranab Mukherjee",
+        "Narendra Modi"
+      ],
+      "opts_hi": [
+        "राम नाथ कोविन्द",
+        "द्रौपदी मुर्मू",
+        "प्रणब मुखर्जी",
+        "नरेंद्र मोदी"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who is the current Prime Minister of India?",
+      "q_hi": "भारत के वर्तमान प्रधान मंत्री कौन हैं?",
+      "opts": [
+        "Narendra Modi",
+        "Rahul Gandhi",
+        "Amit Shah",
+        "Nitin Gadkari"
+      ],
+      "opts_hi": [
+        "नरेंद्र मोदी",
+        "राहुल गांधी",
+        "अमित शाह",
+        "नितिन गडकरी"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who is the current Chief Justice of India?",
+      "q_hi": "भारत के वर्तमान मुख्य न्यायाधीश कौन हैं?",
+      "opts": [
+        "D.Y. Chandrachud",
+        "N.V. Ramana",
+        "U.U. Lalit",
+        "H.L. Dattu"
+      ],
+      "opts_hi": [
+        "डी.वाई. चंद्रचूड़",
+        "एन.वी. रमण",
+        "यू.यू. ललित",
+        "एच.एल. दत्तू"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which is the smallest particle of an element?",
+      "q_hi": "किसी तत्व का सबसे छोटा कण कौन सा है?",
+      "opts": [
+        "Atom",
+        "Molecule",
+        "Electron",
+        "Proton"
+      ],
+      "opts_hi": [
+        "परमाणु",
+        "अणु",
+        "इलेक्ट्रॉन",
+        "प्रोटॉन"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which planet is known as the Red Planet?",
+      "q_hi": "किस ग्रह को लाल ग्रह के रूप में जाना जाता है?",
+      "opts": [
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
+      ],
+      "opts_hi": [
+        "शुक्र",
+        "मंगल",
+        "बृहस्पति",
+        "शनि"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who invented the telephone?",
+      "q_hi": "टेलीफोन का आविष्कार किसने किया?",
+      "opts": [
+        "Thomas Edison",
+        "Alexander Graham Bell",
+        "Nikola Tesla",
+        "Guglielmo Marconi"
+      ],
+      "opts_hi": [
+        "थॉमस एडिसन",
+        "अलेक्जेंडर ग्राहम बेल",
+        "निकोला टेस्ला",
+        "गुग्लिएल्मो मार्कोनी"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who discovered the law of gravity?",
+      "q_hi": "गुरुत्वाकर्षण के नियम की खोज किसने की?",
+      "opts": [
+        "Albert Einstein",
+        "Isaac Newton",
+        "Galileo",
+        "Johannes Kepler"
+      ],
+      "opts_hi": [
+        "अल्बर्ट आइंस्टीन",
+        "आइजैक न्यूटन",
+        "गैलीलियो",
+        "जोहान्स केपलर"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "What is the chemical symbol of Gold?",
+      "q_hi": "सोने का रासायनिक प्रतीक क्या है?",
+      "opts": [
+        "Ag",
+        "Au",
+        "Fe",
+        "Cu"
+      ],
+      "opts_hi": [
+        "Ag",
+        "Au",
+        "Fe",
+        "Cu"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which is the hardest natural substance on Earth?",
+      "q_hi": "पृथ्वी पर सबसे कठोर प्राकृतिक पदार्थ कौन सा है?",
+      "opts": [
+        "Graphite",
+        "Gold",
+        "Diamond",
+        "Iron"
+      ],
+      "opts_hi": [
+        "ग्रेफाइट",
+        "सोना",
+        "हीरा",
+        "लोहा"
+      ],
+      "ans": 2,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which vitamin is produced in the body by sunlight?",
+      "q_hi": "कौन सा विटामिन सूर्य के प्रकाश से शरीर में निर्मित होता है?",
+      "opts": [
+        "Vitamin A",
+        "Vitamin B12",
+        "Vitamin C",
+        "Vitamin D"
+      ],
+      "opts_hi": [
+        "विटामिन A",
+        "विटामिन B12",
+        "विटामिन C",
+        "विटामिन D"
+      ],
+      "ans": 3,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "What is the SI unit of Force?",
+      "q_hi": "बल की SI इकाई क्या है?",
+      "opts": [
+        "Joule",
+        "Newton",
+        "Watt",
+        "Pascal"
+      ],
+      "opts_hi": [
+        "जूल",
+        "न्यूटन",
+        "वाट",
+        "पास्कल"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which organ purifies blood in the human body?",
+      "q_hi": "मानव शरीर में कौन सा अंग रक्त को शुद्ध करता है?",
+      "opts": [
+        "Liver",
+        "Heart",
+        "Kidney",
+        "Lungs"
+      ],
+      "opts_hi": [
+        "यकृत",
+        "हृदय",
+        "गुर्दा",
+        "फेफड़े"
+      ],
+      "ans": 2,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which metal is liquid at room temperature?",
+      "q_hi": "कौन सी धातु कमरे के तापमान पर द्रव होती है?",
+      "opts": [
+        "Iron",
+        "Gold",
+        "Mercury",
+        "Silver"
+      ],
+      "opts_hi": [
+        "लोहा",
+        "सोना",
+        "पारा",
+        "चाँदी"
+      ],
+      "ans": 2,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "What is the chemical name of common salt?",
+      "q_hi": "सामान्य नमक का रासायनिक नाम क्या है?",
+      "opts": [
+        "Sodium Carbonate",
+        "Sodium Chloride",
+        "Sodium Bicarbonate",
+        "Sodium Hydroxide"
+      ],
+      "opts_hi": [
+        "सोडियम कार्बोनेट",
+        "सोडियम क्लोराइड",
+        "सोडियम बाइकार्बोनेट",
+        "सोडियम हाइड्रॉक्साइड"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "In the human body, how many muscles are present?",
+      "q_hi": "मानव शरीर में कितनी मांसपेशियाँ होती हैं?",
+      "opts": [
+        "639",
+        "651",
+        "637",
+        "640"
+      ],
+      "opts_hi": [
+        "639",
+        "651",
+        "637",
+        "640"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "In which unit is Sound measured?",
+      "q_hi": "ध्वनि किस इकाई में मापी जाती है?",
+      "opts": [
+        "Decibel",
+        "Coulomb",
+        "Cycle",
+        "Hum"
+      ],
+      "opts_hi": [
+        "डेसिबल",
+        "कूलम्ब",
+        "साइकिल",
+        "हम"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "What does the spleen do?",
+      "q_hi": "तिल्ली क्या करती है?",
+      "opts": [
+        "Digest food",
+        "Form blood",
+        "Destroys old blood cells",
+        "Produce calcium"
+      ],
+      "opts_hi": [
+        "भोजन पचाना",
+        "रक्त बनाना",
+        "पुरानी रक्त कोशिकाओं को नष्ट करना",
+        "कैल्शियम उत्पन्न करना"
+      ],
+      "ans": 2,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "The longest cell of the human body is:",
+      "q_hi": "मानव शरीर की सबसे लंबी कोशिका है:",
+      "opts": [
+        "Skin cell",
+        "Nerve cell",
+        "Muscle cell",
+        "Blood cell"
+      ],
+      "opts_hi": [
+        "त्वचा कोशिका",
+        "तंत्रिका कोशिका",
+        "मांसपेशी कोशिका",
+        "रक्त कोशिका"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which aquatic animal has three hearts?",
+      "q_hi": "किस जलीय जंतु के तीन हृदय होते हैं?",
+      "opts": [
+        "Octopus",
+        "Blue Whale",
+        "Shark",
+        "Crocodile"
+      ],
+      "opts_hi": [
+        "ऑक्टोपस",
+        "ब्लू व्हेल",
+        "शार्क",
+        "मगरमच्छ"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which is the highest-flying bird in the world?",
+      "q_hi": "दुनिया का सबसे ऊँचा उड़ने वाला पक्षी कौन सा है?",
+      "opts": [
+        "Eagle",
+        "Ruppell's Griffon Vulture",
+        "Ostrich",
+        "Albatross"
+      ],
+      "opts_hi": [
+        "ईगल",
+        "रूपेल का गिद्ध",
+        "शुतुरमुर्ग",
+        "अल्बाट्रॉस"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which organ in the human body is also known as the \"Guardian police of the body\"?",
+      "q_hi": "मानव शरीर के किस अंग को \"शरीर का गार्जियन पुलिस\" भी कहा जाता है?",
+      "opts": [
+        "Liver",
+        "Heart",
+        "Lungs",
+        "Stomach"
+      ],
+      "opts_hi": [
+        "यकृत",
+        "हृदय",
+        "फेफड़े",
+        "पेट"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who discovered Nucleus?",
+      "q_hi": "नाभिक की खोज किसने की?",
+      "opts": [
+        "Robert Hooke",
+        "Charles Darwin",
+        "Robert Brown",
+        "Joseph Banks"
+      ],
+      "opts_hi": [
+        "रॉबर्ट हुक",
+        "चार्ल्स डार्विन",
+        "रॉबर्ट ब्राउन",
+        "जोसेफ बैंक्स"
+      ],
+      "ans": 2,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which is the biggest blood vessel of the body?",
+      "q_hi": "शरीर की सबसे बड़ी रक्त वाहिका कौन सी है?",
+      "opts": [
+        "Artery",
+        "Aorta",
+        "Vein",
+        "Alveoli"
+      ],
+      "opts_hi": [
+        "धमनी",
+        "महाधमनी",
+        "शिरा",
+        "एल्वियोली"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which is the largest continent in the world?",
+      "q_hi": "दुनिया का सबसे बड़ा महाद्वीप कौन सा है?",
+      "opts": [
+        "Africa",
+        "North America",
+        "Asia",
+        "Europe"
+      ],
+      "opts_hi": [
+        "अफ्रीका",
+        "उत्तरी अमेरिका",
+        "एशिया",
+        "यूरोप"
+      ],
+      "ans": 2,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which is the largest ocean in the world?",
+      "q_hi": "दुनिया का सबसे बड़ा महासागर कौन सा है?",
+      "opts": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Arctic Ocean"
+      ],
+      "opts_hi": [
+        "अटलांटिक महासागर",
+        "हिंद महासागर",
+        "प्रशांत महासागर",
+        "आर्कटिक महासागर"
+      ],
+      "ans": 2,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which is the smallest country in the world by area?",
+      "q_hi": "क्षेत्रफल की दृष्टि से दुनिया का सबसे छोटा देश कौन सा है?",
+      "opts": [
+        "Monaco",
+        "Vatican City",
+        "San Marino",
+        "Liechtenstein"
+      ],
+      "opts_hi": [
+        "मोनाको",
+        "वेटिकन सिटी",
+        "सैन मैरिनो",
+        "लिकटेंस्टीन"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which is the longest river in the world?",
+      "q_hi": "दुनिया की सबसे लंबी नदी कौन सी है?",
+      "opts": [
+        "Amazon River",
+        "Nile River",
+        "Mississippi River",
+        "Yangtze River"
+      ],
+      "opts_hi": [
+        "अमेज़न नदी",
+        "नील नदी",
+        "मिसिसिपी नदी",
+        "यांग्त्ज़ी नदी"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which is the highest mountain peak in the world?",
+      "q_hi": "दुनिया की सबसे ऊँची पर्वत चोटी कौन सी है?",
+      "opts": [
+        "K2",
+        "Mount Everest",
+        "Kangchenjunga",
+        "Lhotse"
+      ],
+      "opts_hi": [
+        "के2",
+        "माउंट एवरेस्ट",
+        "कंचनजंगा",
+        "ल्होत्से"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who won the ICC World Cup 2019?",
+      "q_hi": "ICC विश्व कप 2019 किसने जीता?",
+      "opts": [
+        "India",
+        "New Zealand",
+        "England",
+        "Australia"
+      ],
+      "opts_hi": [
+        "भारत",
+        "न्यूज़ीलैंड",
+        "इंग्लैंड",
+        "ऑस्ट्रेलिया"
+      ],
+      "ans": 2,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who won the FIFA World Cup 2022?",
+      "q_hi": "FIFA विश्व कप 2022 किसने जीता?",
+      "opts": [
+        "Brazil",
+        "France",
+        "Argentina",
+        "Germany"
+      ],
+      "opts_hi": [
+        "ब्राजील",
+        "फ्रांस",
+        "अर्जेंटीना",
+        "जर्मनी"
+      ],
+      "ans": 2,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who won the Nobel Peace Prize 2022?",
+      "q_hi": "2022 का नोबेल शांति पुरस्कार किसने जीता?",
+      "opts": [
+        "Ales Bialiatski, Memorial & Center for Civil Liberties",
+        "Malala Yousafzai",
+        "Kailash Satyarthi",
+        "Climate activists"
+      ],
+      "opts_hi": [
+        "एलेस बियालियात्स्की, मेमोरियल और सेंटर फॉर सिविल लिबर्टीज",
+        "मलाला यूसुफजई",
+        "कैलाश सत्यार्थी",
+        "जलवायु कार्यकर्ता"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which city is known as the \"Pink City\"?",
+      "q_hi": "किस शहर को \"गुलाबी नगर\" के रूप में जाना जाता है?",
+      "opts": [
+        "Jaipur",
+        "Jodhpur",
+        "Udaipur",
+        "Bikaner"
+      ],
+      "opts_hi": [
+        "जयपुर",
+        "जोधपुर",
+        "उदयपुर",
+        "बीकानेर"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which is the southernmost point of India?",
+      "q_hi": "भारत का सबसे दक्षिणी बिंदु कौन सा है?",
+      "opts": [
+        "Kanyakumari",
+        "Indira Point",
+        "Kochi",
+        "Thiruvananthapuram"
+      ],
+      "opts_hi": [
+        "कन्याकुमारी",
+        "इंदिरा पॉइंट",
+        "कोच्चि",
+        "तिरुवनंतपुरम"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which is the only floating national park in the world?",
+      "q_hi": "दुनिया का एकमात्र तैरता हुआ राष्ट्रीय उद्यान कौन सा है?",
+      "opts": [
+        "Keibul Lamjao National Park",
+        "Kaziranga National Park",
+        "Sundarbans National Park",
+        "Periyar National Park"
+      ],
+      "opts_hi": [
+        "केइबुल लामजाओ राष्ट्रीय उद्यान",
+        "काजीरंगा राष्ट्रीय उद्यान",
+        "सुंदरवन राष्ट्रीय उद्यान",
+        "पेरियार राष्ट्रीय उद्यान"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which state is called the \"Spice Garden of India\"?",
+      "q_hi": "किस राज्य को \"भारत का मसाला उद्यान\" कहा जाता है?",
+      "opts": [
+        "Kerala",
+        "Tamil Nadu",
+        "Karnataka",
+        "Andhra Pradesh"
+      ],
+      "opts_hi": [
+        "केरल",
+        "तमिलनाडु",
+        "कर्नाटक",
+        "आंध्र प्रदेश"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which is the largest desert in India?",
+      "q_hi": "भारत का सबसे बड़ा मरुस्थल कौन सा है?",
+      "opts": [
+        "Thar Desert",
+        "Rann of Kutch",
+        "Sahara Desert",
+        "Gobi Desert"
+      ],
+      "opts_hi": [
+        "थार मरुस्थल",
+        "कच्छ का रण",
+        "सहारा मरुस्थल",
+        "गोबी मरुस्थल"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "The second most important source after fossil fuels contributing to Indian energy need is?",
+      "q_hi": "जीवाश्म ईंधन के बाद भारतीय ऊर्जा आवश्यकता में योगदान देने वाला दूसरा सबसे महत्वपूर्ण स्रोत कौन सा है?",
+      "opts": [
+        "Hydropower energy",
+        "Wind energy",
+        "Nuclear energy",
+        "Solar energy"
+      ],
+      "opts_hi": [
+        "जलविद्युत ऊर्जा",
+        "पवन ऊर्जा",
+        "परमाणु ऊर्जा",
+        "सौर ऊर्जा"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which of the following events is in correct chronological order? (1) Gandhi-Irwin Pact, (2) Poona Pact, (3) Declaration of Purna Swaraj, (4) Civil Disobedience Movement",
+      "q_hi": "निम्नलिखित घटनाओं का सही कालानुक्रम क्या है? (1) गांधी-इरविन समझौता, (2) पूना पैक्ट, (3) पूर्ण स्वराज की घोषणा, (4) सविनय अवज्ञा आंदोलन",
+      "opts": [
+        "1, 2, 3, 4",
+        "3, 4, 1, 2",
+        "4, 1, 3, 2",
+        "2, 3, 1, 4"
+      ],
+      "opts_hi": [
+        "1, 2, 3, 4",
+        "3, 4, 1, 2",
+        "4, 1, 3, 2",
+        "2, 3, 1, 4"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who is the current RBI Governor?",
+      "q_hi": "RBI के वर्तमान गवर्नर कौन हैं?",
+      "opts": [
+        "Raghuram Rajan",
+        "Urjit Patel",
+        "Shaktikanta Das",
+        "Nirmala Sitharaman"
+      ],
+      "opts_hi": [
+        "रघुराम राजन",
+        "उर्जित पटेल",
+        "शक्तिकांत दास",
+        "निर्मला सीतारमण"
+      ],
+      "ans": 2,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which is the latest state formed in India?",
+      "q_hi": "भारत में बनने वाला नवीनतम राज्य कौन सा है?",
+      "opts": [
+        "Jharkhand",
+        "Uttarakhand",
+        "Chhattisgarh",
+        "Telangana"
+      ],
+      "opts_hi": [
+        "झारखंड",
+        "उत्तराखंड",
+        "छत्तीसगढ़",
+        "तेलंगाना"
+      ],
+      "ans": 3,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who is the first woman Finance Minister of India?",
+      "q_hi": "भारत की पहली महिला वित्त मंत्री कौन हैं?",
+      "opts": [
+        "Indira Gandhi",
+        "Pratibha Patil",
+        "Nirmala Sitharaman",
+        "Sushma Swaraj"
+      ],
+      "opts_hi": [
+        "इंदिरा गांधी",
+        "प्रतिभा पाटिल",
+        "निर्मला सीतारमण",
+        "सुषमा स्वराज"
+      ],
+      "ans": 2,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who is the current Secretary-General of the United Nations?",
+      "q_hi": "संयुक्त राष्ट्र के वर्तमान महासचिव कौन हैं?",
+      "opts": [
+        "Ban Ki-moon",
+        "Kofi Annan",
+        "António Guterres",
+        "Javier Pérez de Cuéllar"
+      ],
+      "opts_hi": [
+        "बान की-मून",
+        "कोफी अन्नान",
+        "एंटोनियो गुटेरेस",
+        "जेवियर पेरेज़ डी क्यूएलर"
+      ],
+      "ans": 2,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which is the most populated country in the world (2023)?",
+      "q_hi": "दुनिया का सबसे अधिक जनसंख्या वाला देश (2023) कौन सा है?",
+      "opts": [
+        "China",
+        "India",
+        "USA",
+        "Indonesia"
+      ],
+      "opts_hi": [
+        "चीन",
+        "भारत",
+        "यूएसए",
+        "इंडोनेशिया"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which is the largest economy in the world (Nominal GDP)?",
+      "q_hi": "दुनिया की सबसे बड़ी अर्थव्यवस्था (नाममात्र GDP) कौन सी है?",
+      "opts": [
+        "USA",
+        "China",
+        "Japan",
+        "Germany"
+      ],
+      "opts_hi": [
+        "यूएसए",
+        "चीन",
+        "जापान",
+        "जर्मनी"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which is the largest stadium in India?",
+      "q_hi": "भारत का सबसे बड़ा स्टेडियम कौन सा है?",
+      "opts": [
+        "Eden Gardens",
+        "Wankhede Stadium",
+        "Narendra Modi Stadium",
+        "M. Chinnaswamy Stadium"
+      ],
+      "opts_hi": [
+        "ईडन गार्डन्स",
+        "वानखेड़े स्टेडियम",
+        "नरेंद्र मोदी स्टेडियम",
+        "एम. चिन्नास्वामी स्टेडियम"
+      ],
+      "ans": 2,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which is India's longest railway platform?",
+      "q_hi": "भारत का सबसे लंबा रेलवे प्लेटफॉर्म कौन सा है?",
+      "opts": [
+        "Howrah",
+        "Hubli",
+        "New Delhi",
+        "Gorakhpur"
+      ],
+      "opts_hi": [
+        "हावड़ा",
+        "हुबली",
+        "नई दिल्ली",
+        "गोरखपुर"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which Indian airport is the busiest by passenger traffic?",
+      "q_hi": "यात्री यातायात के हिसाब से कौन सा भारतीय हवाई अड्डा सबसे व्यस्त है?",
+      "opts": [
+        "Mumbai International Airport",
+        "Indira Gandhi International Airport, Delhi",
+        "Kempegowda Airport, Bangalore",
+        "Chennai Airport"
+      ],
+      "opts_hi": [
+        "मुंबई अंतर्राष्ट्रीय हवाई अड्डा",
+        "इंदिरा गांधी अंतर्राष्ट्रीय हवाई अड्डा, दिल्ली",
+        "केम्पेगौड़ा हवाई अड्डा, बैंगलोर",
+        "चेन्नई हवाई अड्डा"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which state produces the maximum coal in India?",
+      "q_hi": "भारत में सबसे अधिक कोयला उत्पादन करने वाला राज्य कौन सा है?",
+      "opts": [
+        "Jharkhand",
+        "Odisha",
+        "Chhattisgarh",
+        "West Bengal"
+      ],
+      "opts_hi": [
+        "झारखंड",
+        "ओडिशा",
+        "छत्तीसगढ़",
+        "पश्चिम बंगाल"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which state produces the maximum rice in India?",
+      "q_hi": "भारत में सबसे अधिक चावल उत्पादन करने वाला राज्य कौन सा है?",
+      "opts": [
+        "Uttar Pradesh",
+        "West Bengal",
+        "Punjab",
+        "Andhra Pradesh"
+      ],
+      "opts_hi": [
+        "उत्तर प्रदेश",
+        "पश्चिम बंगाल",
+        "पंजाब",
+        "आंध्र प्रदेश"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which state produces the maximum wheat in India?",
+      "q_hi": "भारत में सबसे अधिक गेहूं उत्पादन करने वाला राज्य कौन सा है?",
+      "opts": [
+        "Punjab",
+        "Haryana",
+        "Uttar Pradesh",
+        "Madhya Pradesh"
+      ],
+      "opts_hi": [
+        "पंजाब",
+        "हरियाणा",
+        "उत्तर प्रदेश",
+        "मध्य प्रदेश"
+      ],
+      "ans": 2,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which state produces the maximum sugarcane in India?",
+      "q_hi": "भारत में सबसे अधिक गन्ना उत्पादन करने वाला राज्य कौन सा है?",
+      "opts": [
+        "Maharashtra",
+        "Uttar Pradesh",
+        "Karnataka",
+        "Tamil Nadu"
+      ],
+      "opts_hi": [
+        "महाराष्ट्र",
+        "उत्तर प्रदेश",
+        "कर्नाटक",
+        "तमिलनाडु"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which is the largest dam in India?",
+      "q_hi": "भारत की सबसे बड़ी बाँध कौन सी है?",
+      "opts": [
+        "Bhakra Nangal Dam",
+        "Tehri Dam",
+        "Sardar Sarovar Dam",
+        "Nagarjuna Sagar Dam"
+      ],
+      "opts_hi": [
+        "भाखड़ा नांगल बाँध",
+        "टिहरी बाँध",
+        "सरदार सरोवर बाँध",
+        "नागार्जुन सागर बाँध"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which is the longest river bridge in India?",
+      "q_hi": "भारत का सबसे लंबा नदी पुल कौन सा है?",
+      "opts": [
+        "Dhola-Sadiya Bridge (Assam)",
+        "Howrah Bridge",
+        "Mahatma Gandhi Bridge",
+        "Godavari Bridge"
+      ],
+      "opts_hi": [
+        "ढोला-सादिया पुल (असम)",
+        "हावड़ा पुल",
+        "महात्मा गांधी पुल",
+        "गोदावरी पुल"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who is the current Chief Minister of Uttar Pradesh?",
+      "q_hi": "उत्तर प्रदेश के वर्तमान मुख्यमंत्री कौन हैं?",
+      "opts": [
+        "Yogi Adityanath",
+        "Akhilesh Yadav",
+        "Mayawati",
+        "Keshav Prasad Maurya"
+      ],
+      "opts_hi": [
+        "योगी आदित्यनाथ",
+        "अखिलेश यादव",
+        "मायावती",
+        "केशव प्रसाद मौर्य"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who is the current Defence Minister of India?",
+      "q_hi": "भारत के वर्तमान रक्षा मंत्री कौन हैं?",
+      "opts": [
+        "Rajnath Singh",
+        "Amit Shah",
+        "Nirmala Sitharaman",
+        "Manohar Parrikar"
+      ],
+      "opts_hi": [
+        "राजनाथ सिंह",
+        "अमित शाह",
+        "निर्मला सीतारमण",
+        "मनोहर पर्रिकर"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who is the current External Affairs Minister of India?",
+      "q_hi": "भारत के वर्तमान विदेश मंत्री कौन हैं?",
+      "opts": [
+        "S. Jaishankar",
+        "Subrahmanyam Jaishankar",
+        "Amit Shah",
+        "Piyush Goyal"
+      ],
+      "opts_hi": [
+        "एस. जयशंकर",
+        "सुब्रह्मण्यम जयशंकर",
+        "अमित शाह",
+        "पीयूष गोयल"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who is the current Home Minister of India?",
+      "q_hi": "भारत के वर्तमान गृह मंत्री कौन हैं?",
+      "opts": [
+        "Rajnath Singh",
+        "Amit Shah",
+        "Nirmala Sitharaman",
+        "Piyush Goyal"
+      ],
+      "opts_hi": [
+        "राजनाथ सिंह",
+        "अमित शाह",
+        "निर्मला सीतारमण",
+        "पीयूष गोयल"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who is the current Education Minister of India?",
+      "q_hi": "भारत के वर्तमान शिक्षा मंत्री कौन हैं?",
+      "opts": [
+        "Dharmendra Pradhan",
+        "Ramesh Pokhriyal",
+        "Smriti Irani",
+        "Prakash Javadekar"
+      ],
+      "opts_hi": [
+        "धर्मेंद्र प्रधान",
+        "रमेश पोखरियाल",
+        "स्मृति ईरानी",
+        "प्रकाश जावड़ेकर"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "The concept of Fundamental Duties was borrowed from which country?",
+      "q_hi": "मौलिक कर्तव्यों की अवधारणा किस देश से ली गई थी?",
+      "opts": [
+        "USA",
+        "USSR",
+        "Japan",
+        "Germany"
+      ],
+      "opts_hi": [
+        "यूएसए",
+        "यूएसएसआर",
+        "जापान",
+        "जर्मनी"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who was the first female Prime Minister of India?",
+      "q_hi": "भारत की पहली महिला प्रधान मंत्री कौन थी?",
+      "opts": [
+        "Indira Gandhi",
+        "Pratibha Patil",
+        "Sarojini Naidu",
+        "Vijaya Lakshmi Pandit"
+      ],
+      "opts_hi": [
+        "इंदिरा गांधी",
+        "प्रतिभा पाटिल",
+        "सरोजिनी नायडू",
+        "विजया लक्ष्मी पंडित"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which Indian state has the highest literacy rate?",
+      "q_hi": "किस भारतीय राज्य में साक्षरता दर सबसे अधिक है?",
+      "opts": [
+        "Kerala",
+        "Tamil Nadu",
+        "Maharashtra",
+        "Himachal Pradesh"
+      ],
+      "opts_hi": [
+        "केरल",
+        "तमिलनाडु",
+        "महाराष्ट्र",
+        "हिमाचल प्रदेश"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which Indian state has the lowest literacy rate?",
+      "q_hi": "किस भारतीय राज्य में साक्षरता दर सबसे कम है?",
+      "opts": [
+        "Bihar",
+        "Rajasthan",
+        "Uttar Pradesh",
+        "Madhya Pradesh"
+      ],
+      "opts_hi": [
+        "बिहार",
+        "राजस्थान",
+        "उत्तर प्रदेश",
+        "मध्य प्रदेश"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which is India's first bullet train project route?",
+      "q_hi": "भारत का पहला बुलेट ट्रेन परियोजना मार्ग कौन सा है?",
+      "opts": [
+        "Delhi - Agra",
+        "Mumbai - Ahmedabad",
+        "Chennai - Bangalore",
+        "Kolkata - Patna"
+      ],
+      "opts_hi": [
+        "दिल्ली - आगरा",
+        "मुंबई - अहमदाबाद",
+        "चेन्नई - बैंगलोर",
+        "कोलकाता - पटना"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who founded the Arya Samaj?",
+      "q_hi": "आर्य समाज की स्थापना किसने की?",
+      "opts": [
+        "Swami Vivekananda",
+        "Swami Dayananda Saraswati",
+        "Raja Ram Mohan Roy",
+        "Mahatma Gandhi"
+      ],
+      "opts_hi": [
+        "स्वामी विवेकानंद",
+        "स्वामी दयानंद सरस्वती",
+        "राजा राम मोहन राय",
+        "महात्मा गांधी"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who was the last Governor-General of India?",
+      "q_hi": "भारत के अंतिम गवर्नर-जनरल कौन थे?",
+      "opts": [
+        "Lord Mountbatten",
+        "C. Rajagopalachari",
+        "Lord Canning",
+        "Lord Dalhousie"
+      ],
+      "opts_hi": [
+        "लॉर्ड माउंटबेटन",
+        "सी. राजगोपालाचारी",
+        "लॉर्ड कैनिंग",
+        "लॉर्ड डलहौज़ी"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who gave the slogan \"Jai Hind\"?",
+      "q_hi": "जय हिंद का नारा किसने दिया?",
+      "opts": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Bhagat Singh"
+      ],
+      "opts_hi": [
+        "महात्मा गांधी",
+        "जवाहरलाल नेहरू",
+        "सुभाष चंद्र बोस",
+        "भगत सिंह"
+      ],
+      "ans": 2,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "The Tropic of Cancer passes through how many states in India?",
+      "q_hi": "कर्क रेखा भारत में कितने राज्यों से होकर गुजरती है?",
+      "opts": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "opts_hi": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ans": 2,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which city will host the 2024 Olympic Games?",
+      "q_hi": "2024 ओलंपिक खेलों की मेजबानी कौन सा शहर करेगा?",
+      "opts": [
+        "Paris, France",
+        "Tokyo, Japan",
+        "Los Angeles, USA",
+        "London, UK"
+      ],
+      "opts_hi": [
+        "पेरिस, फ्रांस",
+        "टोक्यो, जापान",
+        "लॉस एंजिल्स, यूएसए",
+        "लंदन, यूके"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which is the largest producer of milk in the world?",
+      "q_hi": "दुनिया में दूध का सबसे बड़ा उत्पादक कौन सा है?",
+      "opts": [
+        "India",
+        "USA",
+        "China",
+        "Germany"
+      ],
+      "opts_hi": [
+        "भारत",
+        "यूएसए",
+        "चीन",
+        "जर्मनी"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "The reason for a swimming pool to appear less deep than the actual depth is:",
+      "q_hi": "स्विमिंग पूल के वास्तविक गहराई से कम गहरा प्रतीत होने का कारण है:",
+      "opts": [
+        "Reflection",
+        "Refraction",
+        "Light scattering",
+        "Diffraction"
+      ],
+      "opts_hi": [
+        "परावर्तन",
+        "अपवर्तन",
+        "प्रकाश प्रकीर्णन",
+        "विवर्तन"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "What is the \"Five Eyes\" intelligence alliance?",
+      "q_hi": "फाइव आइज खुफिया गठबंधन क्या है?",
+      "opts": [
+        "An alliance of 5 Asian countries",
+        "An intelligence alliance of USA, UK, Canada, Australia, and New Zealand",
+        "A military alliance of 5 countries",
+        "A trade agreement of 5 countries"
+      ],
+      "opts_hi": [
+        "5 एशियाई देशों का गठबंधन",
+        "USA, UK, Canada, Australia और New Zealand का खुफिया गठबंधन",
+        "5 देशों का सैन्य गठबंधन",
+        "5 देशों का व्यापार समझौता"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
     }
   ]
 }
