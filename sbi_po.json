@@ -961,6 +961,140 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "sbi_po_19",
+      "title": "SBI PO Mock Test 19",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Who was known as the \"Grand Old Man of India\"?",
+          "q_hi": "भारत के वृद्ध पुरुष के रूप में कौन जाना जाता था?",
+          "opts": [
+            "Mahatma Gandhi",
+            "Dadabhai Naoroji",
+            "Lala Lajpat Rai",
+            "Bal Gangadhar Tilak"
+          ],
+          "opts_hi": [
+            "महात्मा गांधी",
+            "दादाभाई नौरोजी",
+            "लाला लाजपत राय",
+            "बाल गंगाधर तिलक"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which river is known as the \"Sorrow of Bihar\"?",
+          "q_hi": "बिहार का शोक किस नदी को कहा जाता है?",
+          "opts": [
+            "Kosi",
+            "Damodar",
+            "Ganga",
+            "Brahmaputra"
+          ],
+          "opts_hi": [
+            "कोसी",
+            "दामोदर",
+            "गंगा",
+            "ब्रह्मपुत्र"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which river is called the \"Dakshin Ganga\"?",
+          "q_hi": "दक्षिण गंगा किस नदी को कहा जाता है?",
+          "opts": [
+            "Krishna",
+            "Kaveri",
+            "Godavari",
+            "Mahanadi"
+          ],
+          "opts_hi": [
+            "कृष्णा",
+            "कावेरी",
+            "गोदावरी",
+            "महानदी"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which is the smallest particle of an element?",
+          "q_hi": "किसी तत्व का सबसे छोटा कण कौन सा है?",
+          "opts": [
+            "Atom",
+            "Molecule",
+            "Electron",
+            "Proton"
+          ],
+          "opts_hi": [
+            "परमाणु",
+            "अणु",
+            "इलेक्ट्रॉन",
+            "प्रोटॉन"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Who discovered Nucleus?",
+          "q_hi": "नाभिक की खोज किसने की?",
+          "opts": [
+            "Robert Hooke",
+            "Charles Darwin",
+            "Robert Brown",
+            "Joseph Banks"
+          ],
+          "opts_hi": [
+            "रॉबर्ट हुक",
+            "चार्ल्स डार्विन",
+            "रॉबर्ट ब्राउन",
+            "जोसेफ बैंक्स"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which is the largest stadium in India?",
+          "q_hi": "भारत का सबसे बड़ा स्टेडियम कौन सा है?",
+          "opts": [
+            "Eden Gardens",
+            "Wankhede Stadium",
+            "Narendra Modi Stadium",
+            "M. Chinnaswamy Stadium"
+          ],
+          "opts_hi": [
+            "ईडन गार्डन्स",
+            "वानखेड़े स्टेडियम",
+            "नरेंद्र मोदी स्टेडियम",
+            "एम. चिन्नास्वामी स्टेडियम"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which state produces the maximum coal in India?",
+          "q_hi": "भारत में सबसे अधिक कोयला उत्पादन करने वाला राज्य कौन सा है?",
+          "opts": [
+            "Jharkhand",
+            "Odisha",
+            "Chhattisgarh",
+            "West Bengal"
+          ],
+          "opts_hi": [
+            "झारखंड",
+            "ओडिशा",
+            "छत्तीसगढ़",
+            "पश्चिम बंगाल"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        }
+      ]
     }
   ]
 }
