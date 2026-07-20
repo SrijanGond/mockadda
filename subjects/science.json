@@ -1661,6 +1661,96 @@
       ],
       "ans": 1,
       "subject": "Science"
+    },
+    {
+      "q": "What is the atomic number of Hydrogen?",
+      "q_hi": "हाइड्रोजन का परमाणु संख्या क्या है?",
+      "opts": [
+        "1",
+        "2",
+        "6",
+        "8"
+      ],
+      "opts_hi": [
+        "1",
+        "2",
+        "6",
+        "8"
+      ],
+      "ans": 0,
+      "subject": "Science"
+    },
+    {
+      "q": "What is the unit of electric current?",
+      "q_hi": "विद्युत धारा की इकाई क्या है?",
+      "opts": [
+        "Volt",
+        "Ampere",
+        "Watt",
+        "Ohm"
+      ],
+      "opts_hi": [
+        "वोल्ट",
+        "एम्पियर",
+        "वाट",
+        "ओम"
+      ],
+      "ans": 1,
+      "subject": "Science"
+    },
+    {
+      "q": "Which organ produces insulin?",
+      "q_hi": "इंसुलिन का उत्पादन कौन सा अंग करता है?",
+      "opts": [
+        "Liver",
+        "Pancreas",
+        "Kidney",
+        "Stomach"
+      ],
+      "opts_hi": [
+        "यकृत",
+        "अग्न्याशय",
+        "किडनी",
+        "पेट"
+      ],
+      "ans": 1,
+      "subject": "Science"
+    },
+    {
+      "q": "What is the speed of light in vacuum?",
+      "q_hi": "निर्वात में प्रकाश की गति कितनी है?",
+      "opts": [
+        "3 × 10^8 m/s",
+        "3 × 10^6 m/s",
+        "3 × 10^10 m/s",
+        "3 × 10^5 m/s"
+      ],
+      "opts_hi": [
+        "3 × 10^8 मी/से",
+        "3 × 10^6 मी/से",
+        "3 × 10^10 मी/से",
+        "3 × 10^5 मी/से"
+      ],
+      "ans": 0,
+      "subject": "Science"
+    },
+    {
+      "q": "What is the largest organ in the human body?",
+      "q_hi": "मानव शरीर का सबसे बड़ा अंग कौन सा है?",
+      "opts": [
+        "Brain",
+        "Liver",
+        "Skin",
+        "Heart"
+      ],
+      "opts_hi": [
+        "मस्तिष्क",
+        "यकृत",
+        "त्वचा",
+        "हृदय"
+      ],
+      "ans": 2,
+      "subject": "Science"
     }
   ]
 }
