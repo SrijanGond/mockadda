@@ -1337,6 +1337,140 @@
           "subject": "General Knowledge"
         }
       ]
+    },
+    {
+      "id": "ssc_chsl_21",
+      "title": "SSC CHSL Mock Test 21",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which Part of the Constitution covers the Directive Principles of State Policy (DPSP)?",
+          "q_hi": "संविधान का कौन सा भाग राज्य नीति के निर्देशक सिद्धांतों (DPSP) को शामिल करता है?",
+          "opts": [
+            "Part III",
+            "Part IV",
+            "Part IV-A",
+            "Part V"
+          ],
+          "opts_hi": [
+            "भाग III",
+            "भाग IV",
+            "भाग IV-A",
+            "भाग V"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which state produces the maximum wheat in India?",
+          "q_hi": "भारत में सबसे अधिक गेहूं उत्पादन करने वाला राज्य कौन सा है?",
+          "opts": [
+            "Punjab",
+            "Haryana",
+            "Uttar Pradesh",
+            "Madhya Pradesh"
+          ],
+          "opts_hi": [
+            "पंजाब",
+            "हरियाणा",
+            "उत्तर प्रदेश",
+            "मध्य प्रदेश"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which is the world's longest man-made waterway?",
+          "q_hi": "दुनिया की सबसे लंबी मानव निर्मित जलमार्ग कौन सी है?",
+          "opts": [
+            "Suez Canal",
+            "Panama Canal",
+            "Grand Canal (China)",
+            "Kiel Canal"
+          ],
+          "opts_hi": [
+            "स्वेज नहर",
+            "पनामा नहर",
+            "ग्रैंड नहर (चीन)",
+            "कील नहर"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "In which year was the 'Regulating Act' passed by the British Parliament to regulate the activities of the East India Company?",
+          "q_hi": "ईस्ट इंडिया कंपनी की गतिविधियों को विनियमित करने के लिए ब्रिटिश संसद द्वारा 'रेगुलेटिंग एक्ट' कब पारित किया गया था?",
+          "opts": [
+            "1757",
+            "1773",
+            "1784",
+            "1858"
+          ],
+          "opts_hi": [
+            "1757",
+            "1773",
+            "1784",
+            "1858"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "From which village was the Viksit Bharat - VB-G RAM G Mission launched?",
+          "q_hi": "विकसित भारत - VB-G RAM G मिशन किस गाँव से लॉन्च किया गया था?",
+          "opts": [
+            "Mukkavaripalli, Andhra Pradesh",
+            "Pipili, Odisha",
+            "Kevadia, Gujarat",
+            "Ladakh"
+          ],
+          "opts_hi": [
+            "मुक्कावरीपल्ली, आंध्र प्रदेश",
+            "पिपिली, ओडिशा",
+            "केवड़िया, गुजरात",
+            "लद्दाख"
+          ],
+          "ans": 0,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "What is the new name of the International Booker Prize from 2027?",
+          "q_hi": "2027 से अंतर्राष्ट्रीय बुकर पुरस्कार का नया क्या होगा?",
+          "opts": [
+            "Booker International Prize",
+            "Bookman International Booker Prize",
+            "Global Booker Prize",
+            "World Booker Prize"
+          ],
+          "opts_hi": [
+            "बुकर अंतर्राष्ट्रीय पुरस्कार",
+            "बुकमैन अंतर्राष्ट्रीय बुकर पुरस्कार",
+            "ग्लोबल बुकर पुरस्कार",
+            "विश्व बुकर पुरस्कार"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Which new feature has been introduced for EPF withdrawals?",
+          "q_hi": "EPF निकासी के लिए कौन सी नई सुविधा शुरू की गई है?",
+          "opts": [
+            "Cheque-based withdrawal",
+            "UPI-based instant PF withdrawal facility",
+            "ATM-based withdrawal",
+            "Bank transfer only"
+          ],
+          "opts_hi": [
+            "चेक-आधारित निकासी",
+            "UPI-आधारित तत्काल PF निकासी सुविधा",
+            "ATM-आधारित निकासी",
+            "केवल बैंक हस्तांतरण"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        }
+      ]
     }
   ]
 }
