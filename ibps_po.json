@@ -1097,6 +1097,104 @@
           "subject": "General Knowledge"
         }
       ]
+    },
+    {
+      "id": "ibps_po_18",
+      "title": "IBPS PO Mock Test 18",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which of the following countries has borders with Ukraine?",
+          "q_hi": "निम्नलिखित में से किस देश की सीमा यूक्रेन से लगती है?",
+          "opts": [
+            "Belarus, Hungary, Poland",
+            "Estonia, Czech Republic, Belarus",
+            "Hungary, Estonia, Czech Republic",
+            "Belarus, Estonia, Poland"
+          ],
+          "opts_hi": [
+            "बेलारूस, हंगरी, पोलैंड",
+            "एस्टोनिया, चेक गणराज्य, बेलारूस",
+            "हंगरी, एस्टोनिया, चेक गणराज्य",
+            "बेलारूस, एस्टोनिया, पोलैंड"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "What is the name of the scheme providing cashless treatment to accident victims?",
+          "q_hi": "दुर्घटना पीड़ितों को कैशलेस उपचार प्रदान करने वाली योजना का नाम क्या है?",
+          "opts": [
+            "PM Health Insurance Scheme",
+            "PM RAHAT Scheme",
+            "PM Arogya Yojana",
+            "PM Accident Care Scheme"
+          ],
+          "opts_hi": [
+            "पीएम स्वास्थ्य बीमा योजना",
+            "पीएम राहत योजना",
+            "पीएम आरोग्य योजना",
+            "पीएम एक्सीडेंट केयर योजना"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Which Indian cricketer was conferred with the Padma Shri in 2026?",
+          "q_hi": "2026 में किस भारतीय क्रिकेटर को पद्म श्री से सम्मानित किया गया?",
+          "opts": [
+            "Virat Kohli",
+            "Rohit Sharma",
+            "Jasprit Bumrah",
+            "Ravichandran Ashwin"
+          ],
+          "opts_hi": [
+            "विराट कोहली",
+            "रोहित शर्मा",
+            "जसप्रीत बुमराह",
+            "रविचंद्रन अश्विन"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Which country proposed imposing a 500% tariff on countries buying Russian energy?",
+          "q_hi": "रूसी ऊर्जा खरीदने वाले देशों पर 500% टैरिफ लगाने का प्रस्ताव किस देश ने रखा?",
+          "opts": [
+            "European Union",
+            "United Kingdom",
+            "USA",
+            "Japan"
+          ],
+          "opts_hi": [
+            "यूरोपीय संघ",
+            "यूनाइटेड किंगडम",
+            "यूएसए",
+            "जापान"
+          ],
+          "ans": 2,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Which Indian business leader was not among the founding members of the AI for Good Global Commission?",
+          "q_hi": "AI for Good Global Commission के संस्थापक सदस्यों में कौन से भारतीय व्यापार नेता शामिल नहीं थे?",
+          "opts": [
+            "Mukesh Ambani",
+            "Sunil Bharti Mittal",
+            "Lakshmi N. Mittal",
+            "Ratan Tata"
+          ],
+          "opts_hi": [
+            "मुकेश अंबानी",
+            "सुनील भारती मित्तल",
+            "लक्ष्मी एन. मित्तल",
+            "रतन टाटा"
+          ],
+          "ans": 3,
+          "subject": "Current Affairs"
+        }
+      ]
     }
   ]
 }
