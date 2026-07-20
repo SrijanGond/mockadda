@@ -3021,6 +3021,68 @@
           "subject": "Geography"
         }
       ]
+    },
+    {
+      "id": "upsc_prelims_28",
+      "title": "UPSC Prelims Mock Test 28",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which theory explains the formation of continents and oceans through plate movements?",
+          "q_hi": "महाद्वीपों और महासागरों के निर्माण की व्याख्या कौन सा सिद्धांत करता है?",
+          "opts": [
+            "Continental Drift Theory",
+            "Plate Tectonics Theory",
+            "Seafloor Spreading Theory",
+            "None"
+          ],
+          "opts_hi": [
+            "महाद्वीपीय बहाव सिद्धांत",
+            "प्लेट टेक्टॉनिक्स सिद्धांत",
+            "समुद्री तल फैलाव सिद्धांत",
+            "कोई नहीं"
+          ],
+          "ans": 1,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which current is responsible for the mild climate of Western Europe?",
+          "q_hi": "पश्चिमी यूरोप के सौम्य जलवायु के लिए कौन सा धारा जिम्मेदार है?",
+          "opts": [
+            "Gulf Stream",
+            "California Current",
+            "Kuroshio Current",
+            "Canary Current"
+          ],
+          "opts_hi": [
+            "गल्फ स्ट्रीम",
+            "कैलिफोर्निया धारा",
+            "कुरोशियो धारा",
+            "कैनरी धारा"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which state has the highest biodiversity in India?",
+          "q_hi": "भारत में सबसे अधिक जैव विविधता वाला राज्य कौन सा है?",
+          "opts": [
+            "Meghalaya",
+            "Arunachal Pradesh",
+            "West Bengal",
+            "Kerala"
+          ],
+          "opts_hi": [
+            "मेघालय",
+            "अरुणाचल प्रदेश",
+            "पश्चिम बंगाल",
+            "केरल"
+          ],
+          "ans": 1,
+          "subject": "Geography"
+        }
+      ]
     }
   ]
 }
