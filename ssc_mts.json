@@ -2222,6 +2222,176 @@
           "subject": "History"
         }
       ]
+    },
+    {
+      "id": "ssc_mts_28",
+      "title": "SSC MTS Mock Test 28",
+      "duration": 11,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Who was the founder of the Bahmani Kingdom?",
+          "q_hi": "बहमनी राज्य के संस्थापक कौन थे?",
+          "opts": [
+            "Hasan Gangu",
+            "Firoz Shah Bahmani",
+            "Muhammad Shah",
+            "None"
+          ],
+          "opts_hi": [
+            "हसन गंगू",
+            "फिरोज शाह बहमनी",
+            "मुहम्मद शाह",
+            "कोई नहीं"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "The Khilafat Movement was launched in support of which issue?",
+          "q_hi": "खिलाफत आंदोलन किस मुद्दे के समर्थन में शुरू हुआ?",
+          "opts": [
+            "Ottoman Caliphate",
+            "Bengal Partition",
+            "Rowlatt Act",
+            "Jallianwala Bagh"
+          ],
+          "opts_hi": [
+            "ओटोमन खलीफा",
+            "बंगाल विभाजन",
+            "रोलट एक्ट",
+            "जलियांवाला बाग"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "Which dynasty is associated with the construction of the Sanchi Stupa?",
+          "q_hi": "सांची स्तूप के निर्माण से कौन सा वंश जुड़ा है?",
+          "opts": [
+            "Maurya",
+            "Gupta",
+            "Shunga",
+            "Satavahana"
+          ],
+          "opts_hi": [
+            "मौर्य",
+            "गुप्त",
+            "शुंग",
+            "सातवाहन"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "Who was the founder of the Sur Empire?",
+          "q_hi": "सूर साम्राज्य के संस्थापक कौन थे?",
+          "opts": [
+            "Sher Shah Suri",
+            "Akbar",
+            "Babur",
+            "Humayun"
+          ],
+          "opts_hi": [
+            "शेर शाह सूरी",
+            "अकबर",
+            "बाबर",
+            "हुमायूं"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "The Gandhi-Irwin Pact was signed after which event?",
+          "q_hi": "गांधी-इरविन समझौता किस घटना के बाद हुआ?",
+          "opts": [
+            "Civil Disobedience Movement",
+            "Non-Cooperation Movement",
+            "Rowlatt Satyagraha",
+            "Quit India Movement"
+          ],
+          "opts_hi": [
+            "सविनय अवज्ञा आंदोलन",
+            "असहयोग आंदोलन",
+            "रोलट सत्याग्रह",
+            "भारत छोड़ो आंदोलन"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "Which dynasty is associated with the construction of the Ajanta Caves?",
+          "q_hi": "अजंता गुफाओं के निर्माण से कौन सा वंश जुड़ा है?",
+          "opts": [
+            "Vakataka",
+            "Maurya",
+            "Gupta",
+            "Shunga"
+          ],
+          "opts_hi": [
+            "वाकाटक",
+            "मौर्य",
+            "गुप्त",
+            "शुंग"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "Who was the founder of the Sayyid Dynasty?",
+          "q_hi": "सैय्यद वंश के संस्थापक कौन थे?",
+          "opts": [
+            "Khizr Khan",
+            "Firoz Shah Tughlaq",
+            "Bahlul Lodi",
+            "None"
+          ],
+          "opts_hi": [
+            "खिज्र खान",
+            "फिरोज शाह तुगलक",
+            "बहलूल लोदी",
+            "कोई नहीं"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "The Wavell Plan was proposed in which year?",
+          "q_hi": "वेवेल योजना किस वर्ष प्रस्तावित की गई?",
+          "opts": [
+            "1945",
+            "1942",
+            "1946",
+            "1935"
+          ],
+          "opts_hi": [
+            "1945",
+            "1942",
+            "1946",
+            "1935"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "Which dynasty is associated with the construction of the Elephanta Caves?",
+          "q_hi": "एलिफेंटा गुफाओं के निर्माण से कौन सा वंश जुड़ा है?",
+          "opts": [
+            "Rashtrakuta",
+            "Chalukya",
+            "Pallava",
+            "Maurya"
+          ],
+          "opts_hi": [
+            "राष्ट्रकूट",
+            "चालुक्य",
+            "पल्लव",
+            "मौर्य"
+          ],
+          "ans": 0,
+          "subject": "History"
+        }
+      ]
     }
   ]
 }
