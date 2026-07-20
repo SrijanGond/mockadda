@@ -1230,6 +1230,104 @@
           "subject": "General Knowledge"
         }
       ]
+    },
+    {
+      "id": "ssc_mts_21",
+      "title": "SSC MTS Mock Test 21",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What is the atomic number of Hydrogen?",
+          "q_hi": "हाइड्रोजन का परमाणु संख्या क्या है?",
+          "opts": [
+            "1",
+            "2",
+            "6",
+            "8"
+          ],
+          "opts_hi": [
+            "1",
+            "2",
+            "6",
+            "8"
+          ],
+          "ans": 0,
+          "subject": "Science"
+        },
+        {
+          "q": "Who wrote 'Godan'?",
+          "q_hi": "गोदान' किसने लिखा?",
+          "opts": [
+            "Premchand",
+            "Rabindranath Tagore",
+            "Munshi Premchand",
+            "Jaishankar Prasad"
+          ],
+          "opts_hi": [
+            "प्रेमचंद",
+            "रवींद्रनाथ टैगोर",
+            "मुंशी प्रेमचंद",
+            "जयशंकर प्रसाद"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "What is the capital of Australia?",
+          "q_hi": "ऑस्ट्रेलिया की राजधानी क्या है?",
+          "opts": [
+            "Sydney",
+            "Melbourne",
+            "Canberra",
+            "Perth"
+          ],
+          "opts_hi": [
+            "सिडनी",
+            "मेलबर्न",
+            "कैनबरा",
+            "पर्थ"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "What is the currency of Japan?",
+          "q_hi": "जापान की मुद्रा क्या है?",
+          "opts": [
+            "Yen",
+            "Won",
+            "Rupee",
+            "Dollar"
+          ],
+          "opts_hi": [
+            "येन",
+            "वॉन",
+            "रुपया",
+            "डॉलर"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "What is the capital of France?",
+          "q_hi": "फ्रांस की राजधानी क्या है?",
+          "opts": [
+            "Paris",
+            "London",
+            "Berlin",
+            "Rome"
+          ],
+          "opts_hi": [
+            "पेरिस",
+            "लंदन",
+            "बर्लिन",
+            "रोम"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        }
+      ]
     }
   ]
 }
