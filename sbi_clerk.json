@@ -1335,6 +1335,122 @@
           "subject": "Banking"
         }
       ]
+    },
+    {
+      "id": "sbi_clerk_23",
+      "title": "SBI Clerk Mock Test 23",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which of the following statements is/are correct for Uttar Pradesh? 1. It is the largest producer of sugarcane in India. 2. It is the highest milk producing state in India. 3. It is the largest producer of rice in India.",
+          "q_hi": "उत्तर प्रदेश के लिए निम्नलिखित में से कौन सा/से कथन सही है/हैं? 1. यह भारत में गन्ने का सबसे बड़ा उत्पादक है। 2. यह भारत का सबसे अधिक दूध उत्पादक राज्य है। 3. यह भारत में चावल का सबसे बड़ा उत्पादक है।",
+          "opts": [
+            "1 and 2 only",
+            "1 and 3 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "opts_hi": [
+            "केवल 1 और 2",
+            "केवल 1 और 3",
+            "केवल 2 और 3",
+            "1, 2 और 3"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Who was the first Prime Minister of India?",
+          "q_hi": "भारत के पहले प्रधान मंत्री कौन थे?",
+          "opts": [
+            "Jawaharlal Nehru",
+            "Mahatma Gandhi",
+            "Sardar Patel",
+            "Dr. Rajendra Prasad"
+          ],
+          "opts_hi": [
+            "जवाहरलाल नेहरू",
+            "महात्मा गांधी",
+            "सरदार पटेल",
+            "डॉ. राजेंद्र प्रसाद"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "How many schedules are there in the Indian Constitution?",
+          "q_hi": "भारतीय संविधान में कितनी अनुसूचियाँ हैं?",
+          "opts": [
+            "10",
+            "11",
+            "12",
+            "13"
+          ],
+          "opts_hi": [
+            "10",
+            "11",
+            "12",
+            "13"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Who was the last Governor-General of India?",
+          "q_hi": "भारत के अंतिम गवर्नर-जनरल कौन थे?",
+          "opts": [
+            "Lord Mountbatten",
+            "C. Rajagopalachari",
+            "Lord Canning",
+            "Lord Dalhousie"
+          ],
+          "opts_hi": [
+            "लॉर्ड माउंटबेटन",
+            "सी. राजगोपालाचारी",
+            "लॉर्ड कैनिंग",
+            "लॉर्ड डलहौज़ी"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which state produces the maximum jute in India?",
+          "q_hi": "भारत में सबसे अधिक जूट उत्पादन करने वाला राज्य कौन सा है?",
+          "opts": [
+            "West Bengal",
+            "Bihar",
+            "Assam",
+            "Uttar Pradesh"
+          ],
+          "opts_hi": [
+            "पश्चिम बंगाल",
+            "बिहार",
+            "असम",
+            "उत्तर प्रदेश"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Who founded the Arya Samaj?",
+          "q_hi": "आर्य समाज की स्थापना किसने की?",
+          "opts": [
+            "Swami Vivekananda",
+            "Swami Dayananda Saraswati",
+            "Raja Ram Mohan Roy",
+            "Mahatma Gandhi"
+          ],
+          "opts_hi": [
+            "स्वामी विवेकानंद",
+            "स्वामी दयानंद सरस्वती",
+            "राजा राम मोहन राय",
+            "महात्मा गांधी"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        }
+      ]
     }
   ]
 }
