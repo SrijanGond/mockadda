@@ -641,6 +641,194 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "kvs_15",
+      "title": "KVS Mock Test 15",
+      "duration": 12,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "In which year did the Revolt of 1857 take place?",
+          "q_hi": "1857 का विद्रोह किस वर्ष हुआ था?",
+          "opts": [
+            "1856",
+            "1857",
+            "1858",
+            "1859"
+          ],
+          "opts_hi": [
+            "1856",
+            "1857",
+            "1858",
+            "1859"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "How many fundamental rights are guaranteed by the Indian Constitution?",
+          "q_hi": "भारतीय संविधान द्वारा कितने मौलिक अधिकारों की गारंटी दी गई है?",
+          "opts": [
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          "opts_hi": [
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Who was the first Prime Minister of India?",
+          "q_hi": "भारत के पहले प्रधान मंत्री कौन थे?",
+          "opts": [
+            "Jawaharlal Nehru",
+            "Mahatma Gandhi",
+            "Sardar Patel",
+            "Dr. Rajendra Prasad"
+          ],
+          "opts_hi": [
+            "जवाहरलाल नेहरू",
+            "महात्मा गांधी",
+            "सरदार पटेल",
+            "डॉ. राजेंद्र प्रसाद"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which vitamin is produced in the body by sunlight?",
+          "q_hi": "कौन सा विटामिन सूर्य के प्रकाश से शरीर में निर्मित होता है?",
+          "opts": [
+            "Vitamin A",
+            "Vitamin B12",
+            "Vitamin C",
+            "Vitamin D"
+          ],
+          "opts_hi": [
+            "विटामिन A",
+            "विटामिन B12",
+            "विटामिन C",
+            "विटामिन D"
+          ],
+          "ans": 3,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "In the human body, how many muscles are present?",
+          "q_hi": "मानव शरीर में कितनी मांसपेशियाँ होती हैं?",
+          "opts": [
+            "639",
+            "651",
+            "637",
+            "640"
+          ],
+          "opts_hi": [
+            "639",
+            "651",
+            "637",
+            "640"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Who won the Nobel Peace Prize 2022?",
+          "q_hi": "2022 का नोबेल शांति पुरस्कार किसने जीता?",
+          "opts": [
+            "Ales Bialiatski, Memorial & Center for Civil Liberties",
+            "Malala Yousafzai",
+            "Kailash Satyarthi",
+            "Climate activists"
+          ],
+          "opts_hi": [
+            "एलेस बियालियात्स्की, मेमोरियल और सेंटर फॉर सिविल लिबर्टीज",
+            "मलाला यूसुफजई",
+            "कैलाश सत्यार्थी",
+            "जलवायु कार्यकर्ता"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which city is known as the \"Pink City\"?",
+          "q_hi": "किस शहर को \"गुलाबी नगर\" के रूप में जाना जाता है?",
+          "opts": [
+            "Jaipur",
+            "Jodhpur",
+            "Udaipur",
+            "Bikaner"
+          ],
+          "opts_hi": [
+            "जयपुर",
+            "जोधपुर",
+            "उदयपुर",
+            "बीकानेर"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "The second most important source after fossil fuels contributing to Indian energy need is?",
+          "q_hi": "जीवाश्म ईंधन के बाद भारतीय ऊर्जा आवश्यकता में योगदान देने वाला दूसरा सबसे महत्वपूर्ण स्रोत कौन सा है?",
+          "opts": [
+            "Hydropower energy",
+            "Wind energy",
+            "Nuclear energy",
+            "Solar energy"
+          ],
+          "opts_hi": [
+            "जलविद्युत ऊर्जा",
+            "पवन ऊर्जा",
+            "परमाणु ऊर्जा",
+            "सौर ऊर्जा"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "The concept of Fundamental Duties was borrowed from which country?",
+          "q_hi": "मौलिक कर्तव्यों की अवधारणा किस देश से ली गई थी?",
+          "opts": [
+            "USA",
+            "USSR",
+            "Japan",
+            "Germany"
+          ],
+          "opts_hi": [
+            "यूएसए",
+            "यूएसएसआर",
+            "जापान",
+            "जर्मनी"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Who founded the Arya Samaj?",
+          "q_hi": "आर्य समाज की स्थापना किसने की?",
+          "opts": [
+            "Swami Vivekananda",
+            "Swami Dayananda Saraswati",
+            "Raja Ram Mohan Roy",
+            "Mahatma Gandhi"
+          ],
+          "opts_hi": [
+            "स्वामी विवेकानंद",
+            "स्वामी दयानंद सरस्वती",
+            "राजा राम मोहन राय",
+            "महात्मा गांधी"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        }
+      ]
     }
   ]
 }
