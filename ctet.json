@@ -1239,6 +1239,50 @@
           "subject": "Teaching"
         }
       ]
+    },
+    {
+      "id": "ctet_20",
+      "title": "CTET Mock Test 20",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Who is known as the father of Modern Education in India?",
+          "q_hi": "भारत में आधुनिक शिक्षा के जनक किसे कहा जाता है?",
+          "opts": [
+            "Swami Vivekananda",
+            "Mahatma Gandhi",
+            "Lord Macaulay",
+            "Dr. Radhakrishnan"
+          ],
+          "opts_hi": [
+            "स्वामी विवेकानंद",
+            "महात्मा गांधी",
+            "लॉर्ड मैकाले",
+            "डॉ. राधाकृष्णन"
+          ],
+          "ans": 2,
+          "subject": "Teaching"
+        },
+        {
+          "q": "According to Kohlberg, moral development has how many stages?",
+          "q_hi": "कोहलबर्ग के अनुसार, नैतिक विकास की कितनी अवस्थाएँ हैं?",
+          "opts": [
+            "3",
+            "4",
+            "6",
+            "8"
+          ],
+          "opts_hi": [
+            "3",
+            "4",
+            "6",
+            "8"
+          ],
+          "ans": 2,
+          "subject": "Teaching"
+        }
+      ]
     }
   ]
 }
