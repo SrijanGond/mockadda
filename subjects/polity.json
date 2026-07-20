@@ -50,6 +50,186 @@
         "संसद"
       ],
       "ans": 0
+    },
+    {
+      "q": "Which article abolishes untouchability?",
+      "q_hi": "किस अनुच्छेद ने अस्पृश्यता को समाप्त किया?",
+      "opts": [
+        "Article 14",
+        "Article 15",
+        "Article 16",
+        "Article 17"
+      ],
+      "opts_hi": [
+        "अनुच्छेद 14",
+        "अनुच्छेद 15",
+        "अनुच्छेद 16",
+        "अनुच्छेद 17"
+      ],
+      "ans": 3,
+      "subject": "Polity"
+    },
+    {
+      "q": "Under which Article is the Right to Education for children aged 6-14 years guaranteed?",
+      "q_hi": "6 से 14 वर्ष के बच्चों के लिए शिक्षा का अधिकार किस अनुच्छेद के तहत सुनिश्चित किया गया है?",
+      "opts": [
+        "Article 21",
+        "Article 21A",
+        "Article 45",
+        "Article 19"
+      ],
+      "opts_hi": [
+        "अनुच्छेद 21",
+        "अनुच्छेद 21A",
+        "अनुच्छेद 45",
+        "अनुच्छेद 19"
+      ],
+      "ans": 2,
+      "subject": "Polity"
+    },
+    {
+      "q": "Which Article of the Indian Constitution deals with \"Equality before the law\"?",
+      "q_hi": "भारतीय संविधान का कौन सा अनुच्छेद \"कानून के समक्ष समानता\" से संबंधित है?",
+      "opts": [
+        "Article 14",
+        "Article 15",
+        "Article 16",
+        "Article 19"
+      ],
+      "opts_hi": [
+        "अनुच्छेद 14",
+        "अनुच्छेद 15",
+        "अनुच्छेद 16",
+        "अनुच्छेद 19"
+      ],
+      "ans": 0,
+      "subject": "Polity"
+    },
+    {
+      "q": "Right to Freedom is guaranteed under which group of Articles?",
+      "q_hi": "स्वतंत्रता का अधिकार किस अनुच्छेद समूह के तहत सुनिश्चित किया गया है?",
+      "opts": [
+        "Article 14-18",
+        "Article 19-22",
+        "Article 23-24",
+        "Article 25-28"
+      ],
+      "opts_hi": [
+        "अनुच्छेद 14-18",
+        "अनुच्छेद 19-22",
+        "अनुच्छेद 23-24",
+        "अनुच्छेद 25-28"
+      ],
+      "ans": 1,
+      "subject": "Polity"
+    },
+    {
+      "q": "The Right to Life and Personal Liberty is guaranteed under which Article?",
+      "q_hi": "जीवन और व्यक्तिगत स्वतंत्रता का अधिकार किस अनुच्छेद के तहत सुनिश्चित किया गया है?",
+      "opts": [
+        "Article 19",
+        "Article 20",
+        "Article 21",
+        "Article 22"
+      ],
+      "opts_hi": [
+        "अनुच्छेद 19",
+        "अनुच्छेद 20",
+        "अनुच्छेद 21",
+        "अनुच्छेद 22"
+      ],
+      "ans": 2,
+      "subject": "Polity"
+    },
+    {
+      "q": "Which Fundamental Right was described by Dr. B.R. Ambedkar as the “heart and soul” of the Constitution?",
+      "q_hi": "डॉ. बी.आर. आंबेडकर द्वारा संविधान का “हृदय और आत्मा” किस मौलिक अधिकार को कहा गया था?",
+      "opts": [
+        "Right to Equality",
+        "Right against Exploitation",
+        "Right to Constitutional Remedies",
+        "Right to Freedom of Religion"
+      ],
+      "opts_hi": [
+        "समानता का अधिकार",
+        "शोषण के विरुद्ध अधिकार",
+        "संवैधानिक उपचार का अधिकार",
+        "धर्म की स्वतंत्रता का अधिकार"
+      ],
+      "ans": 2,
+      "subject": "Polity"
+    },
+    {
+      "q": "Under which Article can the fundamental rights of members of the Armed Forces be restricted?",
+      "q_hi": "सशस्त्र बलों के सदस्यों के मौलिक अधिकारों को किस अनुच्छेद के तहत प्रतिबंधित किया जा सकता है?",
+      "opts": [
+        "Article 19",
+        "Article 21",
+        "Article 25",
+        "Article 33"
+      ],
+      "opts_hi": [
+        "अनुच्छेद 19",
+        "अनुच्छेद 21",
+        "अनुच्छेद 25",
+        "अनुच्छेद 33"
+      ],
+      "ans": 3,
+      "subject": "Polity"
+    },
+    {
+      "q": "Fundamental Rights are enshrined in which Part of the Indian Constitution?",
+      "q_hi": "मौलिक अधिकार भारतीय संविधान के किस भाग में निहित हैं?",
+      "opts": [
+        "Part I",
+        "Part III",
+        "Part IV",
+        "Part V"
+      ],
+      "opts_hi": [
+        "भाग I",
+        "भाग III",
+        "भाग IV",
+        "भाग V"
+      ],
+      "ans": 1,
+      "subject": "Polity"
+    },
+    {
+      "q": "Which Article abolishes titles?",
+      "q_hi": "किस अनुच्छेद द्वारा उपाधियों को समाप्त किया गया?",
+      "opts": [
+        "Article 14",
+        "Article 17",
+        "Article 18",
+        "Article 19"
+      ],
+      "opts_hi": [
+        "अनुच्छेद 14",
+        "अनुच्छेद 17",
+        "अनुच्छेद 18",
+        "अनुच्छेद 19"
+      ],
+      "ans": 2,
+      "subject": "Polity"
+    },
+    {
+      "q": "Right against Exploitation is given under which Articles?",
+      "q_hi": "शोषण के विरुद्ध अधिकार किन अनुच्छेदों के तहत दिया गया है?",
+      "opts": [
+        "Article 19-22",
+        "Article 23-24",
+        "Article 25-28",
+        "Article 29-30"
+      ],
+      "opts_hi": [
+        "अनुच्छेद 19-22",
+        "अनुच्छेद 23-24",
+        "अनुच्छेद 25-28",
+        "अनुच्छेद 29-30"
+      ],
+      "ans": 1,
+      "subject": "Polity"
     }
   ]
 }
