@@ -1247,6 +1247,32 @@
           "subject": "Current Affairs"
         }
       ]
+    },
+    {
+      "id": "sbi_po_21",
+      "title": "SBI PO Mock Test 21",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What is the full form of KYC?",
+          "q_hi": "KYC का पूर्ण रूप क्या है?",
+          "opts": [
+            "Know Your Customer",
+            "Keep Your Cash",
+            "Know Your Company",
+            "Keep Your Credit"
+          ],
+          "opts_hi": [
+            "नो योर कस्टमर",
+            "कीप योर कैश",
+            "नो योर कंपनी",
+            "कीप योर क्रेडिट"
+          ],
+          "ans": 0,
+          "subject": "Banking"
+        }
+      ]
     }
   ]
 }
