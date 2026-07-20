@@ -71,6 +71,96 @@
       ],
       "ans": 0,
       "subject": "Geography"
+    },
+    {
+      "q": "Which is the largest salt lake in India?",
+      "q_hi": "भारत की सबसे बड़ी नमक झील कौन सी है?",
+      "opts": [
+        "Sambhar Lake",
+        "Chilika Lake",
+        "Wular Lake",
+        "Pong Dam Lake"
+      ],
+      "opts_hi": [
+        "सांभर झील",
+        "चिल्का झील",
+        "वुलर झील",
+        "पोंग डैम झील"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which state is known as the 'Land of Five Rivers'?",
+      "q_hi": "पांच नदियों की भूमि' किस राज्य को कहा जाता है?",
+      "opts": [
+        "Punjab",
+        "Haryana",
+        "Rajasthan",
+        "Uttar Pradesh"
+      ],
+      "opts_hi": [
+        "पंजाब",
+        "हरियाणा",
+        "राजस्थान",
+        "उत्तर प्रदेश"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which is the highest mountain peak in India?",
+      "q_hi": "भारत की सबसे ऊंची पर्वत चोटी कौन सी है?",
+      "opts": [
+        "K2",
+        "Kanchenjunga",
+        "Mount Everest",
+        "Nanda Devi"
+      ],
+      "opts_hi": [
+        "के2",
+        "कंचनजंगा",
+        "माउंट एवरेस्ट",
+        "नंदा देवी"
+      ],
+      "ans": 1,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which is the largest desert in India?",
+      "q_hi": "भारत का सबसे बड़ा मरुस्थल कौन सा है?",
+      "opts": [
+        "Thar Desert",
+        "Gobi Desert",
+        "Sahara Desert",
+        "Atacama Desert"
+      ],
+      "opts_hi": [
+        "थार मरुस्थल",
+        "गोबी मरुस्थल",
+        "सहारा मरुस्थल",
+        "अटाकामा मरुस्थल"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which river is called the 'Ganga of the South'?",
+      "q_hi": "दक्षिण की गंगा' किस नदी को कहा जाता है?",
+      "opts": [
+        "Godavari",
+        "Kaveri",
+        "Krishna",
+        "Tungabhadra"
+      ],
+      "opts_hi": [
+        "गोदावरी",
+        "कावेरी",
+        "कृष्णा",
+        "तुंगभद्रा"
+      ],
+      "ans": 0,
+      "subject": "Geography"
     }
   ]
 }
