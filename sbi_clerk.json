@@ -801,6 +801,176 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "sbi_clerk_17",
+      "title": "SBI Clerk Mock Test 17",
+      "duration": 11,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Who wrote Arthashastra?",
+          "q_hi": "अर्थशास्त्र किसने लिखा?",
+          "opts": [
+            "Kalidasa",
+            "Kautilya (Chanakya)",
+            "Banabhatta",
+            "Tulsidas"
+          ],
+          "opts_hi": [
+            "कालिदास",
+            "कौटिल्य (चाणक्य)",
+            "बाणभट्ट",
+            "तुलसीदास"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which is the largest freshwater lake in India?",
+          "q_hi": "भारत की सबसे बड़ी मीठे पानी की झील कौन सी है?",
+          "opts": [
+            "Chilika Lake",
+            "Wular Lake",
+            "Dal Lake",
+            "Loktak Lake"
+          ],
+          "opts_hi": [
+            "चिलिका झील",
+            "वुलर झील",
+            "डल झील",
+            "लोकतक झील"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which Article is known as the \"Heart and Soul of the Constitution\"?",
+          "q_hi": "कौन सा अनुच्छेद \"संविधान के हृदय और आत्मा\" के रूप में जाना जाता है?",
+          "opts": [
+            "Article 14",
+            "Article 21",
+            "Article 32",
+            "Article 44"
+          ],
+          "opts_hi": [
+            "अनुच्छेद 14",
+            "अनुच्छेद 21",
+            "अनुच्छेद 32",
+            "अनुच्छेद 44"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which planet is known as the Red Planet?",
+          "q_hi": "किस ग्रह को लाल ग्रह के रूप में जाना जाता है?",
+          "opts": [
+            "Venus",
+            "Mars",
+            "Jupiter",
+            "Saturn"
+          ],
+          "opts_hi": [
+            "शुक्र",
+            "मंगल",
+            "बृहस्पति",
+            "शनि"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which is the largest ocean in the world?",
+          "q_hi": "दुनिया का सबसे बड़ा महासागर कौन सा है?",
+          "opts": [
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Pacific Ocean",
+            "Arctic Ocean"
+          ],
+          "opts_hi": [
+            "अटलांटिक महासागर",
+            "हिंद महासागर",
+            "प्रशांत महासागर",
+            "आर्कटिक महासागर"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which is the smallest country in the world by area?",
+          "q_hi": "क्षेत्रफल की दृष्टि से दुनिया का सबसे छोटा देश कौन सा है?",
+          "opts": [
+            "Monaco",
+            "Vatican City",
+            "San Marino",
+            "Liechtenstein"
+          ],
+          "opts_hi": [
+            "मोनाको",
+            "वेटिकन सिटी",
+            "सैन मैरिनो",
+            "लिकटेंस्टीन"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which is the longest river in the world?",
+          "q_hi": "दुनिया की सबसे लंबी नदी कौन सी है?",
+          "opts": [
+            "Amazon River",
+            "Nile River",
+            "Mississippi River",
+            "Yangtze River"
+          ],
+          "opts_hi": [
+            "अमेज़न नदी",
+            "नील नदी",
+            "मिसिसिपी नदी",
+            "यांग्त्ज़ी नदी"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which is the most populated country in the world (2023)?",
+          "q_hi": "दुनिया का सबसे अधिक जनसंख्या वाला देश (2023) कौन सा है?",
+          "opts": [
+            "China",
+            "India",
+            "USA",
+            "Indonesia"
+          ],
+          "opts_hi": [
+            "चीन",
+            "भारत",
+            "यूएसए",
+            "इंडोनेशिया"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which city will host the 2024 Olympic Games?",
+          "q_hi": "2024 ओलंपिक खेलों की मेजबानी कौन सा शहर करेगा?",
+          "opts": [
+            "Paris, France",
+            "Tokyo, Japan",
+            "Los Angeles, USA",
+            "London, UK"
+          ],
+          "opts_hi": [
+            "पेरिस, फ्रांस",
+            "टोक्यो, जापान",
+            "लॉस एंजिल्स, यूएसए",
+            "लंदन, यूके"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        }
+      ]
     }
   ]
 }
