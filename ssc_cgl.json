@@ -2975,6 +2975,104 @@
           "subject": "English Comprehension"
         }
       ]
+    },
+    {
+      "id": "ssc_cgl_6",
+      "title": "SSC CGL Mock Test 6",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Who was the first Governor-General of India?",
+          "q_hi": "भारत के पहले गवर्नर-जनरल कौन थे?",
+          "opts": [
+            "Warren Hastings",
+            "Lord Cornwallis",
+            "Lord Wellesley",
+            "William Bentinck"
+          ],
+          "opts_hi": [
+            "वारेन हेस्टिंग्स",
+            "लॉर्ड कॉर्नवालिस",
+            "लॉर्ड वेलेस्ली",
+            "विलियम बेंटिक"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Who is called the \"Iron Man of India\"?",
+          "q_hi": "भारत का लौह पुरुष किसे कहा जाता है?",
+          "opts": [
+            "Jawaharlal Nehru",
+            "Mahatma Gandhi",
+            "Sardar Vallabhbhai Patel",
+            "Subhas Chandra Bose"
+          ],
+          "opts_hi": [
+            "जवाहरलाल नेहरू",
+            "महात्मा गांधी",
+            "सरदार वल्लभभाई पटेल",
+            "सुभाष चंद्र बोस"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Who is the current President of India?",
+          "q_hi": "भारत के वर्तमान राष्ट्रपति कौन हैं?",
+          "opts": [
+            "Ram Nath Kovind",
+            "Droupadi Murmu",
+            "Pranab Mukherjee",
+            "Narendra Modi"
+          ],
+          "opts_hi": [
+            "राम नाथ कोविन्द",
+            "द्रौपदी मुर्मू",
+            "प्रणब मुखर्जी",
+            "नरेंद्र मोदी"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which aquatic animal has three hearts?",
+          "q_hi": "किस जलीय जंतु के तीन हृदय होते हैं?",
+          "opts": [
+            "Octopus",
+            "Blue Whale",
+            "Shark",
+            "Crocodile"
+          ],
+          "opts_hi": [
+            "ऑक्टोपस",
+            "ब्लू व्हेल",
+            "शार्क",
+            "मगरमच्छ"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which is the longest river bridge in India?",
+          "q_hi": "भारत का सबसे लंबा नदी पुल कौन सा है?",
+          "opts": [
+            "Dhola-Sadiya Bridge (Assam)",
+            "Howrah Bridge",
+            "Mahatma Gandhi Bridge",
+            "Godavari Bridge"
+          ],
+          "opts_hi": [
+            "ढोला-सादिया पुल (असम)",
+            "हावड़ा पुल",
+            "महात्मा गांधी पुल",
+            "गोदावरी पुल"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        }
+      ]
     }
   ]
 }
