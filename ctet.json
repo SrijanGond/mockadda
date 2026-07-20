@@ -1381,6 +1381,50 @@
           "subject": "Teaching"
         }
       ]
+    },
+    {
+      "id": "ctet_22",
+      "title": "CTET Mock Test 22",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Who proposed the concept of 'Multiple Intelligences'?",
+          "q_hi": "बहु बुद्धिमत्ता' की अवधारणा किसने प्रस्तावित की?",
+          "opts": [
+            "Howard Gardner",
+            "Jean Piaget",
+            "Lev Vygotsky",
+            "Erik Erikson"
+          ],
+          "opts_hi": [
+            "हॉवर्ड गार्डनर",
+            "जीन पियाजे",
+            "लेव वायगोत्स्की",
+            "एरिक एरिक्सन"
+          ],
+          "ans": 0,
+          "subject": "Teaching"
+        },
+        {
+          "q": "Who is known as the father of progressive education?",
+          "q_hi": "प्रोग्रेसिव शिक्षा के जनक किसे कहा जाता है?",
+          "opts": [
+            "John Dewey",
+            "Jean Piaget",
+            "Maria Montessori",
+            "B.F. Skinner"
+          ],
+          "opts_hi": [
+            "जॉन ड्यूई",
+            "जीन पियाजे",
+            "मारिया मोंटेसरी",
+            "बी.एफ. स्किनर"
+          ],
+          "ans": 0,
+          "subject": "Teaching"
+        }
+      ]
     }
   ]
 }
