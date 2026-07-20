@@ -42,6 +42,13 @@
             "duration": 29,
             "difficulty": "Medium",
             "questionCount": 24
+          },
+          {
+            "id": "ssc_cgl_20",
+            "title": "SSC CGL Mock Test 20",
+            "duration": 10,
+            "difficulty": "Medium",
+            "questionCount": 1
           }
         ]
       },
@@ -319,6 +326,13 @@
             "duration": 30,
             "difficulty": "Easy",
             "questionCount": 25
+          },
+          {
+            "id": "ssc_gd_1",
+            "title": "SSC GD Mock Test 1",
+            "duration": 10,
+            "difficulty": "Medium",
+            "questionCount": 6
           }
         ]
       }
@@ -1451,6 +1465,13 @@
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 2
+          },
+          {
+            "id": "roaro_prelims_22",
+            "title": "RO/ARO Prelims Mock Test 22",
+            "duration": 10,
+            "difficulty": "Medium",
+            "questionCount": 1
           }
         ]
       }
@@ -1471,6 +1492,13 @@
             "duration": 60,
             "difficulty": "Hard",
             "questionCount": 100
+          },
+          {
+            "id": "up_police_constable_1",
+            "title": "UP Police Constable Mock Test 1",
+            "duration": 10,
+            "difficulty": "Medium",
+            "questionCount": 7
           }
         ]
       }
@@ -1491,6 +1519,13 @@
             "duration": 60,
             "difficulty": "Medium",
             "questionCount": 100
+          },
+          {
+            "id": "upsssc_pet_1",
+            "title": "UPSSSC PET Mock Test 1",
+            "duration": 10,
+            "difficulty": "Medium",
+            "questionCount": 5
           }
         ]
       }
