@@ -33,6 +33,42 @@
         "मन्नार की खाड़ी"
       ],
       "ans": 1
+    },
+    {
+      "q": "Which of the following is a critically endangered species?",
+      "q_hi": "निम्नलिखित में से कौन सी गंभीर रूप से संकटग्रस्त प्रजाति है?",
+      "opts": [
+        "Bengal Tiger",
+        "Great Indian Bustard",
+        "Asiatic Lion",
+        "One-horned Rhino"
+      ],
+      "opts_hi": [
+        "बंगाल टाइगर",
+        "ग्रेट इंडियन बस्टर्ड",
+        "एशियाई शेर",
+        "एक सींग वाला गैंडा"
+      ],
+      "ans": 1,
+      "subject": "Environment"
+    },
+    {
+      "q": "Which protocol deals with ozone layer protection?",
+      "q_hi": "ओजोन परत संरक्षण से संबंधित कौन सा प्रोटोकॉल है?",
+      "opts": [
+        "Kyoto Protocol",
+        "Montreal Protocol",
+        "Paris Agreement",
+        "Ramsar Convention"
+      ],
+      "opts_hi": [
+        "क्योटो प्रोटोकॉल",
+        "मॉन्ट्रियल प्रोटोकॉल",
+        "पेरिस समझौता",
+        "रामसर कन्वेंशन"
+      ],
+      "ans": 1,
+      "subject": "Environment"
     }
   ]
 }
