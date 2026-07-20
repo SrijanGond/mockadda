@@ -1515,6 +1515,32 @@
           "subject": "General Knowledge"
         }
       ]
+    },
+    {
+      "id": "rrb_ntpc_23",
+      "title": "RRB NTPC Mock Test 23",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Who is the current Chief Justice of India (as of 2026)?",
+          "q_hi": "भारत के वर्तमान मुख्य न्यायाधीश कौन हैं (2026 तक)?",
+          "opts": [
+            "Sanjiv Khanna",
+            "DY Chandrachud",
+            "NV Ramana",
+            "None"
+          ],
+          "opts_hi": [
+            "संजीव खन्ना",
+            "डीवाई चंद्रचूड़",
+            "एनवी रमना",
+            "कोई नहीं"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        }
+      ]
     }
   ]
 }
