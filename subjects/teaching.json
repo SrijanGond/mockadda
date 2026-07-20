@@ -16,6 +16,24 @@
         "शिक्षकों के कार्यभार को कम करना"
       ],
       "ans": 1
+    },
+    {
+      "q": "According to Piaget, which stage involves logical thinking about concrete events?",
+      "q_hi": "पियाजे के अनुसार, ठोस घटनाओं के बारे में तार्किक सोच किस अवस्था में होती है?",
+      "opts": [
+        "Preoperational",
+        "Concrete Operational",
+        "Formal Operational",
+        "Sensorimotor"
+      ],
+      "opts_hi": [
+        "पूर्व-संक्रियात्मक",
+        "मूर्त संक्रियात्मक",
+        "औपचारिक संक्रियात्मक",
+        "संवेदी-गामक"
+      ],
+      "ans": 1,
+      "subject": "Teaching"
     }
   ]
 }
