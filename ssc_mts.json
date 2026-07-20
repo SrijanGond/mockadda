@@ -1186,6 +1186,50 @@
           "subject": "History"
         }
       ]
+    },
+    {
+      "id": "ssc_mts_20",
+      "title": "SSC MTS Mock Test 20",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What is the SI unit of force?",
+          "q_hi": "बल की SI इकाई क्या है?",
+          "opts": [
+            "Joule",
+            "Newton",
+            "Watt",
+            "Pascal"
+          ],
+          "opts_hi": [
+            "जूल",
+            "न्यूटन",
+            "वाट",
+            "पास्कल"
+          ],
+          "ans": 1,
+          "subject": "Science"
+        },
+        {
+          "q": "Who wrote 'Discovery of India'?",
+          "q_hi": "डिस्कवरी ऑफ इंडिया' किसने लिखी?",
+          "opts": [
+            "Jawaharlal Nehru",
+            "Mahatma Gandhi",
+            "Dr. Ambedkar",
+            "Sardar Patel"
+          ],
+          "opts_hi": [
+            "जवाहरलाल नेहरू",
+            "महात्मा गांधी",
+            "डॉ. आंबेडकर",
+            "सरदार पटेल"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        }
+      ]
     }
   ]
 }
