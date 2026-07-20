@@ -2836,6 +2836,96 @@
       ],
       "ans": 1,
       "subject": "General Knowledge"
+    },
+    {
+      "q": "Who wrote the national song 'Vande Mataram'?",
+      "q_hi": "राष्ट्रीय गान 'वंदे मातरम' किसने लिखा?",
+      "opts": [
+        "Rabindranath Tagore",
+        "Bankim Chandra Chatterjee",
+        "Sarojini Naidu",
+        "Subramania Bharati"
+      ],
+      "opts_hi": [
+        "रवींद्रनाथ टैगोर",
+        "बंकिम चंद्र चटर्जी",
+        "सरोजिनी नायडू",
+        "सुब्रमण्यम भारती"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who is the current head of the Election Commission of India (as of 2026)?",
+      "q_hi": "भारत के चुनाव आयोग के वर्तमान प्रमुख कौन हैं (2026 तक)?",
+      "opts": [
+        "Gyanesh Kumar",
+        "Sunil Arora",
+        "Rajiv Kumar",
+        "Achal Kumar Joti"
+      ],
+      "opts_hi": [
+        "ज्ञानेश कुमार",
+        "सुनील अरोड़ा",
+        "राजीव कुमार",
+        "अचल कुमार जोती"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who wrote 'Discovery of India'?",
+      "q_hi": "डिस्कवरी ऑफ इंडिया' किसने लिखी?",
+      "opts": [
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Dr. Ambedkar",
+        "Sardar Patel"
+      ],
+      "opts_hi": [
+        "जवाहरलाल नेहरू",
+        "महात्मा गांधी",
+        "डॉ. आंबेडकर",
+        "सरदार पटेल"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Kathakali is the classical dance of which state?",
+      "q_hi": "कथकली किस राज्य का शास्त्रीय नृत्य है?",
+      "opts": [
+        "Tamil Nadu",
+        "Kerala",
+        "Odisha",
+        "Andhra Pradesh"
+      ],
+      "opts_hi": [
+        "तमिलनाडु",
+        "केरल",
+        "ओडिशा",
+        "आंध्र प्रदेश"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "When is World Environment Day celebrated?",
+      "q_hi": "विश्व पर्यावरण दिवस कब मनाया जाता है?",
+      "opts": [
+        "Fri Jun 05 2026 05:30:00 GMT+0530 (India Standard Time)",
+        "Wed Apr 22 2026 05:30:00 GMT+0530 (India Standard Time)",
+        "Sun Mar 08 2026 05:30:00 GMT+0530 (India Standard Time)",
+        "Sat Sep 05 2026 05:30:00 GMT+0530 (India Standard Time)"
+      ],
+      "opts_hi": [
+        "5 जून",
+        "22 अप्रैल",
+        "8 मार्च",
+        "5 सितंबर"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
     }
   ]
 }
