@@ -197,6 +197,906 @@
       ],
       "ans": 1,
       "subject": "Geography"
+    },
+    {
+      "q": "Which is the largest freshwater lake in India?",
+      "q_hi": "भारत की सबसे बड़ी मीठे पानी की झील कौन सी है?",
+      "opts": [
+        "Wular Lake",
+        "Dal Lake",
+        "Chilika Lake",
+        "Sambhar Lake"
+      ],
+      "opts_hi": [
+        "वुलर झील",
+        "दल झील",
+        "चिल्का झील",
+        "सांभर झील"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which is the southernmost point of India?",
+      "q_hi": "भारत का दक्षिणतम बिंदु कौन सा है?",
+      "opts": [
+        "Indira Point",
+        "Kanyakumari",
+        "Rameshwaram",
+        "Minicoy"
+      ],
+      "opts_hi": [
+        "इंदिरा पॉइंट",
+        "कन्याकुमारी",
+        "रामेश्वरम",
+        "मिनिकॉय"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which state has the largest mangrove forest in India?",
+      "q_hi": "भारत में सबसे बड़ा मैंग्रोव वन किस राज्य में है?",
+      "opts": [
+        "West Bengal",
+        "Andhra Pradesh",
+        "Gujarat",
+        "Odisha"
+      ],
+      "opts_hi": [
+        "पश्चिम बंगाल",
+        "आंध्र प्रदेश",
+        "गुजरात",
+        "ओडिशा"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which is the longest mountain range in the world?",
+      "q_hi": "दुनिया की सबसे लंबी पर्वत श्रृंखला कौन सी है?",
+      "opts": [
+        "Himalayas",
+        "Andes",
+        "Rockies",
+        "Alps"
+      ],
+      "opts_hi": [
+        "हिमालय",
+        "एंडीज",
+        "रॉकीज",
+        "आल्प्स"
+      ],
+      "ans": 1,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which river is known as the 'Lifeline of Gujarat'?",
+      "q_hi": "गुजरात की जीवन रेखा' किस नदी को कहा जाता है?",
+      "opts": [
+        "Narmada",
+        "Tapi",
+        "Sabarmati",
+        "Mahi"
+      ],
+      "opts_hi": [
+        "नर्मदा",
+        "ताप्ती",
+        "साबरमती",
+        "माही"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which is the highest plateau in India?",
+      "q_hi": "भारत का सबसे ऊंचा पठार कौन सा है?",
+      "opts": [
+        "Deccan Plateau",
+        "Ladakh Plateau",
+        "Chota Nagpur Plateau",
+        "Malwa Plateau"
+      ],
+      "opts_hi": [
+        "दक्कन पठार",
+        "लद्दाख पठार",
+        "छोटा नागपुर पठार",
+        "मालवा पठार"
+      ],
+      "ans": 1,
+      "subject": "Geography"
+    },
+    {
+      "q": "What is the approximate circumference of the Earth?",
+      "q_hi": "पृथ्वी की अनुमानित परिधि कितनी है?",
+      "opts": [
+        "40,000 km",
+        "36,000 km",
+        "42,000 km",
+        "38,000 km"
+      ],
+      "opts_hi": [
+        "40,000 किमी",
+        "36,000 किमी",
+        "42,000 किमी",
+        "38,000 किमी"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which state is the largest producer of coffee in India?",
+      "q_hi": "भारत में कॉफी का सबसे बड़ा उत्पादक राज्य कौन सा है?",
+      "opts": [
+        "Karnataka",
+        "Kerala",
+        "Tamil Nadu",
+        "Andhra Pradesh"
+      ],
+      "opts_hi": [
+        "कर्नाटक",
+        "केरल",
+        "तमिलनाडु",
+        "आंध्र प्रदेश"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which is the largest island in the world?",
+      "q_hi": "दुनिया का सबसे बड़ा द्वीप कौन सा है?",
+      "opts": [
+        "Greenland",
+        "Australia",
+        "Borneo",
+        "New Guinea"
+      ],
+      "opts_hi": [
+        "ग्रीनलैंड",
+        "ऑस्ट्रेलिया",
+        "बोर्नियो",
+        "न्यू गिनी"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which river is known as the 'Sorrow of Odisha'?",
+      "q_hi": "ओडिशा का शोक' किस नदी को कहा जाता है?",
+      "opts": [
+        "Mahanadi",
+        "Brahmani",
+        "Subarnarekha",
+        "Baitarani"
+      ],
+      "opts_hi": [
+        "महानदी",
+        "ब्राह्मणी",
+        "सुबर्णरेखा",
+        "बैतरणी"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "What is the imaginary line at 0° latitude called?",
+      "q_hi": "0° अक्षांश वाली काल्पनिक रेखा को क्या कहते हैं?",
+      "opts": [
+        "Equator",
+        "Tropic of Cancer",
+        "Prime Meridian",
+        "International Date Line"
+      ],
+      "opts_hi": [
+        "भूमध्य रेखा",
+        "कर्क रेखा",
+        "प्राइम मेरिडियन",
+        "अंतर्राष्ट्रीय तिथि रेखा"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which is the wettest place in India?",
+      "q_hi": "भारत का सबसे अधिक वर्षा वाला स्थान कौन सा है?",
+      "opts": [
+        "Mawsynram",
+        "Cherrapunji",
+        "Agumbe",
+        "Mahabaleshwar"
+      ],
+      "opts_hi": [
+        "मावसिनराम",
+        "चेरापूंजी",
+        "अगुम्बे",
+        "महाबलेश्वर"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which country has the largest number of time zones?",
+      "q_hi": "किस देश में सबसे अधिक समय क्षेत्र हैं?",
+      "opts": [
+        "Russia",
+        "USA",
+        "China",
+        "France"
+      ],
+      "opts_hi": [
+        "रूस",
+        "यूएसए",
+        "चीन",
+        "फ्रांस"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which state is the largest producer of rubber in India?",
+      "q_hi": "भारत में रबर का सबसे बड़ा उत्पादक राज्य कौन सा है?",
+      "opts": [
+        "Kerala",
+        "Tamil Nadu",
+        "Karnataka",
+        "Tripura"
+      ],
+      "opts_hi": [
+        "केरल",
+        "तमिलनाडु",
+        "कर्नाटक",
+        "त्रिपुरा"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "What is the deepest ocean in the world?",
+      "q_hi": "दुनिया का सबसे गहरा महासागर कौन सा है?",
+      "opts": [
+        "Pacific Ocean",
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean"
+      ],
+      "opts_hi": [
+        "प्रशांत महासागर",
+        "अटलांटिक महासागर",
+        "हिंद महासागर",
+        "आर्कटिक महासागर"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which is the largest producer of jute in India?",
+      "q_hi": "भारत में जूट का सबसे बड़ा उत्पादक राज्य कौन सा है?",
+      "opts": [
+        "West Bengal",
+        "Bihar",
+        "Assam",
+        "Andhra Pradesh"
+      ],
+      "opts_hi": [
+        "पश्चिम बंगाल",
+        "बिहार",
+        "असम",
+        "आंध्र प्रदेश"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which strait separates India and Sri Lanka?",
+      "q_hi": "भारत और श्रीलंका को कौन सा जलडमरूमध्य अलग करता है?",
+      "opts": [
+        "Palk Strait",
+        "Gulf of Mannar",
+        "Both",
+        "None"
+      ],
+      "opts_hi": [
+        "पाक जलडमरूमध्य",
+        "मन्नार की खाड़ी",
+        "दोनों",
+        "कोई नहीं"
+      ],
+      "ans": 2,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which state has the largest forest cover in India?",
+      "q_hi": "भारत में सबसे अधिक वन क्षेत्रफल वाला राज्य कौन सा है?",
+      "opts": [
+        "Madhya Pradesh",
+        "Arunachal Pradesh",
+        "Chhattisgarh",
+        "Maharashtra"
+      ],
+      "opts_hi": [
+        "मध्य प्रदेश",
+        "अरुणाचल प्रदेश",
+        "छत्तीसगढ़",
+        "महाराष्ट्र"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "What is the imaginary line at 0° longitude called?",
+      "q_hi": "0° देशांतर वाली काल्पनिक रेखा को क्या कहते हैं?",
+      "opts": [
+        "Equator",
+        "Prime Meridian",
+        "Tropic of Cancer",
+        "International Date Line"
+      ],
+      "opts_hi": [
+        "भूमध्य रेखा",
+        "प्राइम मेरिडियन",
+        "कर्क रेखा",
+        "अंतर्राष्ट्रीय तिथि रेखा"
+      ],
+      "ans": 1,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which is the largest oil producing state in India?",
+      "q_hi": "भारत में सबसे बड़ा तेल उत्पादक राज्य कौन सा है?",
+      "opts": [
+        "Assam",
+        "Gujarat",
+        "Rajasthan",
+        "Maharashtra"
+      ],
+      "opts_hi": [
+        "असम",
+        "गुजरात",
+        "राजस्थान",
+        "महाराष्ट्र"
+      ],
+      "ans": 1,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which country is known as the 'Land of the Midnight Sun'?",
+      "q_hi": "मिडनाइट सन की भूमि' किस देश को कहा जाता है?",
+      "opts": [
+        "Norway",
+        "Sweden",
+        "Finland",
+        "Iceland"
+      ],
+      "opts_hi": [
+        "नॉर्वे",
+        "स्वीडन",
+        "फिनलैंड",
+        "आइसलैंड"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which river is known as the 'Dakshin Ganga'?",
+      "q_hi": "दक्षिण गंगा' किस नदी को कहा जाता है?",
+      "opts": [
+        "Godavari",
+        "Kaveri",
+        "Krishna",
+        "Tungabhadra"
+      ],
+      "opts_hi": [
+        "गोदावरी",
+        "कावेरी",
+        "कृष्णा",
+        "तुंगभद्रा"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "What is the main cause of tides?",
+      "q_hi": "ज्वार-भाटा का मुख्य कारण क्या है?",
+      "opts": [
+        "Gravitational pull of the Moon",
+        "Gravitational pull of the Sun",
+        "Wind",
+        "Earth's rotation"
+      ],
+      "opts_hi": [
+        "चंद्रमा का गुरुत्वाकर्षण",
+        "सूर्य का गुरुत्वाकर्षण",
+        "हवा",
+        "पृथ्वी का घूर्णन"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which is the largest coal producing state in India?",
+      "q_hi": "भारत में सबसे बड़ा कोयला उत्पादक राज्य कौन सा है?",
+      "opts": [
+        "Jharkhand",
+        "Chhattisgarh",
+        "West Bengal",
+        "Odisha"
+      ],
+      "opts_hi": [
+        "झारखंड",
+        "छत्तीसगढ़",
+        "पश्चिम बंगाल",
+        "ओडिशा"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which is the smallest continent in the world?",
+      "q_hi": "दुनिया का सबसे छोटा महाद्वीप कौन सा है?",
+      "opts": [
+        "Australia",
+        "Europe",
+        "Antarctica",
+        "South America"
+      ],
+      "opts_hi": [
+        "ऑस्ट्रेलिया",
+        "यूरोप",
+        "अंटार्कटिका",
+        "दक्षिण अमेरिका"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which state is known as the 'Rice Bowl of India'?",
+      "q_hi": "भारत का चावल का कटोरा' किस राज्य को कहा जाता है?",
+      "opts": [
+        "Andhra Pradesh",
+        "West Bengal",
+        "Punjab",
+        "Uttar Pradesh"
+      ],
+      "opts_hi": [
+        "आंध्र प्रदेश",
+        "पश्चिम बंगाल",
+        "पंजाब",
+        "उत्तर प्रदेश"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "What is the main gas in the Earth's atmosphere?",
+      "q_hi": "पृथ्वी के वायुमंडल का मुख्य गैस कौन सी है?",
+      "opts": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon Dioxide",
+        "Hydrogen"
+      ],
+      "opts_hi": [
+        "ऑक्सीजन",
+        "नाइट्रोजन",
+        "कार्बन डाइऑक्साइड",
+        "हाइड्रोजन"
+      ],
+      "ans": 1,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which is the largest bauxite producing state in India?",
+      "q_hi": "भारत में सबसे बड़ा बॉक्साइट उत्पादक राज्य कौन सा है?",
+      "opts": [
+        "Odisha",
+        "Jharkhand",
+        "Chhattisgarh",
+        "Maharashtra"
+      ],
+      "opts_hi": [
+        "ओडिशा",
+        "झारखंड",
+        "छत्तीसगढ़",
+        "महाराष्ट्र"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which strait connects the Red Sea and the Gulf of Aden?",
+      "q_hi": "लाल सागर और एडन की खाड़ी को कौन सा जलडमरूमध्य जोड़ता है?",
+      "opts": [
+        "Bab-el-Mandeb",
+        "Hormuz",
+        "Malacca",
+        "Gibraltar"
+      ],
+      "opts_hi": [
+        "बाब-एल-मांडेब",
+        "होर्मुज",
+        "मलक्का",
+        "जिब्राल्टर"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which state has the largest number of districts?",
+      "q_hi": "सबसे अधिक जिलों वाला राज्य कौन सा है?",
+      "opts": [
+        "Uttar Pradesh",
+        "Madhya Pradesh",
+        "Rajasthan",
+        "Maharashtra"
+      ],
+      "opts_hi": [
+        "उत्तर प्रदेश",
+        "मध्य प्रदेश",
+        "राजस्थान",
+        "महाराष्ट्र"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "What is the main reason for seasons on Earth?",
+      "q_hi": "पृथ्वी पर मौसमों का मुख्य कारण क्या है?",
+      "opts": [
+        "Tilt of Earth's axis",
+        "Distance from Sun",
+        "Rotation of Earth",
+        "None"
+      ],
+      "opts_hi": [
+        "पृथ्वी की धुरी का झुकाव",
+        "सूर्य से दूरी",
+        "पृथ्वी का घूर्णन",
+        "कोई नहीं"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which is the largest producer of tea in India?",
+      "q_hi": "भारत में चाय का सबसे बड़ा उत्पादक राज्य कौन सा है?",
+      "opts": [
+        "Assam",
+        "West Bengal",
+        "Tamil Nadu",
+        "Kerala"
+      ],
+      "opts_hi": [
+        "असम",
+        "पश्चिम बंगाल",
+        "तमिलनाडु",
+        "केरल"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which country is known as the 'Land of the Rising Sun'?",
+      "q_hi": "सूर्योदय की भूमि' किस देश को कहा जाता है?",
+      "opts": [
+        "China",
+        "Japan",
+        "South Korea",
+        "Thailand"
+      ],
+      "opts_hi": [
+        "चीन",
+        "जापान",
+        "दक्षिण कोरिया",
+        "थाईलैंड"
+      ],
+      "ans": 1,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which state is the largest producer of wheat in India?",
+      "q_hi": "भारत में गेहूं का सबसे बड़ा उत्पादक राज्य कौन सा है?",
+      "opts": [
+        "Punjab",
+        "Uttar Pradesh",
+        "Madhya Pradesh",
+        "Haryana"
+      ],
+      "opts_hi": [
+        "पंजाब",
+        "उत्तर प्रदेश",
+        "मध्य प्रदेश",
+        "हरियाणा"
+      ],
+      "ans": 1,
+      "subject": "Geography"
+    },
+    {
+      "q": "What is the unit of measurement for earthquakes?",
+      "q_hi": "भूकंप की तीव्रता मापने की इकाई क्या है?",
+      "opts": [
+        "Richter Scale",
+        "Mercalli Scale",
+        "Beaufort Scale",
+        "None"
+      ],
+      "opts_hi": [
+        "रिक्टर स्केल",
+        "मर्केली स्केल",
+        "ब्यूफोर्ट स्केल",
+        "कोई नहीं"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which is the largest solar park in India?",
+      "q_hi": "भारत का सबसे बड़ा सोलर पार्क कौन सा है?",
+      "opts": [
+        "Bhadla Solar Park",
+        "Pavagada Solar Park",
+        "Charanka Solar Park",
+        "None"
+      ],
+      "opts_hi": [
+        "भदला सोलर पार्क",
+        "पावगड़ा सोलर पार्क",
+        "चरणका सोलर पार्क",
+        "कोई नहीं"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which is the driest place on Earth?",
+      "q_hi": "पृथ्वी का सबसे शुष्क स्थान कौन सा है?",
+      "opts": [
+        "Atacama Desert",
+        "Sahara Desert",
+        "Antarctica",
+        "Gobi Desert"
+      ],
+      "opts_hi": [
+        "अटाकामा मरुस्थल",
+        "सहारा मरुस्थल",
+        "अंटार्कटिका",
+        "गोबी मरुस्थल"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which state has the largest number of UNESCO World Heritage Sites?",
+      "q_hi": "सबसे अधिक यूनेस्को विश्व धरोहर स्थलों वाला राज्य कौन सा है?",
+      "opts": [
+        "Uttar Pradesh",
+        "Rajasthan",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "opts_hi": [
+        "उत्तर प्रदेश",
+        "राजस्थान",
+        "महाराष्ट्र",
+        "तमिलनाडु"
+      ],
+      "ans": 2,
+      "subject": "Geography"
+    },
+    {
+      "q": "What is the main component of natural gas?",
+      "q_hi": "प्राकृतिक गैस का मुख्य घटक क्या है?",
+      "opts": [
+        "Methane",
+        "Propane",
+        "Butane",
+        "Ethane"
+      ],
+      "opts_hi": [
+        "मीथेन",
+        "प्रोपेन",
+        "ब्यूटेन",
+        "इथेन"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which is the largest producer of spices in India?",
+      "q_hi": "भारत में मसालों का सबसे बड़ा उत्पादक राज्य कौन सा है?",
+      "opts": [
+        "Kerala",
+        "Andhra Pradesh",
+        "Karnataka",
+        "Tamil Nadu"
+      ],
+      "opts_hi": [
+        "केरल",
+        "आंध्र प्रदेश",
+        "कर्नाटक",
+        "तमिलनाडु"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which country has the largest reserves of natural gas?",
+      "q_hi": "प्राकृतिक गैस के सबसे बड़े भंडार किस देश के पास हैं?",
+      "opts": [
+        "Russia",
+        "Iran",
+        "Qatar",
+        "USA"
+      ],
+      "opts_hi": [
+        "रूस",
+        "ईरान",
+        "कतर",
+        "यूएसए"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which state is known as the 'Granary of India'?",
+      "q_hi": "भारत का अन्न भंडार' किस राज्य को कहा जाता है?",
+      "opts": [
+        "Punjab",
+        "Haryana",
+        "Uttar Pradesh",
+        "Madhya Pradesh"
+      ],
+      "opts_hi": [
+        "पंजाब",
+        "हरियाणा",
+        "उत्तर प्रदेश",
+        "मध्य प्रदेश"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "What causes the phenomenon of day and night?",
+      "q_hi": "दिन और रात का कारण क्या है?",
+      "opts": [
+        "Rotation of Earth",
+        "Revolution of Earth",
+        "Tilt of Earth",
+        "None"
+      ],
+      "opts_hi": [
+        "पृथ्वी का घूर्णन",
+        "पृथ्वी का परिक्रमण",
+        "पृथ्वी का झुकाव",
+        "कोई नहीं"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which is the largest uranium producing state in India?",
+      "q_hi": "भारत में सबसे बड़ा यूरेनियम उत्पादक राज्य कौन सा है?",
+      "opts": [
+        "Jharkhand",
+        "Rajasthan",
+        "Andhra Pradesh",
+        "Maharashtra"
+      ],
+      "opts_hi": [
+        "झारखंड",
+        "राजस्थान",
+        "आंध्र प्रदेश",
+        "महाराष्ट्र"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which is the largest coral reef system in the world?",
+      "q_hi": "दुनिया का सबसे बड़ा कोरल रीफ सिस्टम कौन सा है?",
+      "opts": [
+        "Great Barrier Reef",
+        "Belize Barrier Reef",
+        "New Caledonia Barrier Reef",
+        "None"
+      ],
+      "opts_hi": [
+        "ग्रेट बैरियर रीफ",
+        "बेलीज बैरियर रीफ",
+        "न्यू कैलेडोनिया बैरियर रीफ",
+        "कोई नहीं"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which state has the largest number of national parks?",
+      "q_hi": "सबसे अधिक राष्ट्रीय उद्यानों वाला राज्य कौन सा है?",
+      "opts": [
+        "Madhya Pradesh",
+        "Rajasthan",
+        "Uttarakhand",
+        "Assam"
+      ],
+      "opts_hi": [
+        "मध्य प्रदेश",
+        "राजस्थान",
+        "उत्तराखंड",
+        "असम"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "What is the main cause of wind?",
+      "q_hi": "हवा का मुख्य कारण क्या है?",
+      "opts": [
+        "Pressure difference",
+        "Temperature difference",
+        "Earth's rotation",
+        "None"
+      ],
+      "opts_hi": [
+        "दबाव का अंतर",
+        "तापमान का अंतर",
+        "पृथ्वी का घूर्णन",
+        "कोई नहीं"
+      ],
+      "ans": 1,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which is the largest mica producing state in India?",
+      "q_hi": "भारत में सबसे बड़ा अभ्रक उत्पादक राज्य कौन सा है?",
+      "opts": [
+        "Bihar",
+        "Rajasthan",
+        "Jharkhand",
+        "Andhra Pradesh"
+      ],
+      "opts_hi": [
+        "बिहार",
+        "राजस्थान",
+        "झारखंड",
+        "आंध्र प्रदेश"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which country is known as the 'Sugar Bowl of the World'?",
+      "q_hi": "दुनिया का शक्कर का कटोरा' किस देश को कहा जाता है?",
+      "opts": [
+        "Cuba",
+        "Brazil",
+        "India",
+        "USA"
+      ],
+      "opts_hi": [
+        "क्यूबा",
+        "ब्राजील",
+        "भारत",
+        "यूएसए"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which state is the largest producer of pulses in India?",
+      "q_hi": "भारत में दालों का सबसे बड़ा उत्पादक राज्य कौन सा है?",
+      "opts": [
+        "Madhya Pradesh",
+        "Rajasthan",
+        "Uttar Pradesh",
+        "Maharashtra"
+      ],
+      "opts_hi": [
+        "मध्य प्रदेश",
+        "राजस्थान",
+        "उत्तर प्रदेश",
+        "महाराष्ट्र"
+      ],
+      "ans": 0,
+      "subject": "Geography"
     }
   ]
 }
