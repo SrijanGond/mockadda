@@ -3073,6 +3073,158 @@
           "subject": "General Knowledge"
         }
       ]
+    },
+    {
+      "id": "ssc_cgl_7",
+      "title": "SSC CGL Mock Test 7",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which Schedule of the Constitution deals with the division of powers between Union and States?",
+          "q_hi": "संविधान की कौन सी अनुसूची संघ और राज्यों के बीच शक्तियों के विभाजन से संबंधित है?",
+          "opts": [
+            "6th Schedule",
+            "7th Schedule",
+            "8th Schedule",
+            "10th Schedule"
+          ],
+          "opts_hi": [
+            "6ठी अनुसूची",
+            "7वीं अनुसूची",
+            "8वीं अनुसूची",
+            "10वीं अनुसूची"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which state is the largest producer of sugarcane in India?",
+          "q_hi": "भारत में सबसे बड़ा गन्ना उत्पादक राज्य कौन सा है?",
+          "opts": [
+            "Maharashtra",
+            "Uttar Pradesh",
+            "Karnataka",
+            "Tamil Nadu"
+          ],
+          "opts_hi": [
+            "महाराष्ट्र",
+            "उत्तर प्रदेश",
+            "कर्नाटक",
+            "तमिलनाडु"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which state produces the maximum rice in India?",
+          "q_hi": "भारत में सबसे अधिक चावल उत्पादन करने वाला राज्य कौन सा है?",
+          "opts": [
+            "Uttar Pradesh",
+            "West Bengal",
+            "Punjab",
+            "Andhra Pradesh"
+          ],
+          "opts_hi": [
+            "उत्तर प्रदेश",
+            "पश्चिम बंगाल",
+            "पंजाब",
+            "आंध्र प्रदेश"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which continent is referred to as a \"Continent Dedicated to Science\"?",
+          "q_hi": "किस महाद्वीप को \"विज्ञान के लिए समर्पित महाद्वीप\" कहा जाता है?",
+          "opts": [
+            "Africa",
+            "Antarctica",
+            "North America",
+            "Asia"
+          ],
+          "opts_hi": [
+            "अफ्रीका",
+            "अंटार्कटिका",
+            "उत्तरी अमेरिका",
+            "एशिया"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which supersonic missile did India agree to sell to Indonesia?",
+          "q_hi": "भारत ने इंडोनेशिया को कौन सी सुपरसोनिक मिसाइल बेचने पर सहमति व्यक्त की?",
+          "opts": [
+            "BrahMos",
+            "Agni-V",
+            "Prithvi",
+            "Akash"
+          ],
+          "opts_hi": [
+            "ब्रह्मोस",
+            "अग्नि-V",
+            "पृथ्वी",
+            "आकाश"
+          ],
+          "ans": 0,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Which country did PM Modi visit in July 2026 to strengthen bilateral ties?",
+          "q_hi": "जुलाई 2026 में PM मोदी ने द्विपक्षीय संबंधों को मजबूत करने के लिए किस देश का दौरा किया?",
+          "opts": [
+            "Indonesia, Australia, New Zealand",
+            "Japan, South Korea, Singapore",
+            "Russia, France, Germany",
+            "UAE, Saudi Arabia, Israel"
+          ],
+          "opts_hi": [
+            "इंडोनेशिया, ऑस्ट्रेलिया, न्यूज़ीलैंड",
+            "जापान, दक्षिण कोरिया, सिंगापुर",
+            "रूस, फ्रांस, जर्मनी",
+            "यूएई, सऊदी अरब, इज़राइल"
+          ],
+          "ans": 0,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Who received the Padma Shri posthumously for bringing international recognition to 'Akhada'?",
+          "q_hi": "अखाड़ा' को अंतर्राष्ट्रीय पहचान दिलाने के लिए किसे मरणोपरांत पद्म श्री मिला?",
+          "opts": [
+            "Vladimer Mestvirishvili",
+            "Bhagwandas Raikwar",
+            "Baldev Singh",
+            "K Pajanivel"
+          ],
+          "opts_hi": [
+            "व्लादिमीर मेस्टविरिश्विली",
+            "भगवानदास रायकवार",
+            "बलदेव सिंह",
+            "के पजनिवेल"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Which country is hosting the 2026 G7 Summit?",
+          "q_hi": "2026 G7 शिखर सम्मेलन की मेजबानी कौन सा देश कर रहा है?",
+          "opts": [
+            "Germany",
+            "France",
+            "Canada",
+            "Italy"
+          ],
+          "opts_hi": [
+            "जर्मनी",
+            "फ्रांस",
+            "कनाडा",
+            "इटली"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        }
+      ]
     }
   ]
 }
