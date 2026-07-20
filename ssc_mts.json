@@ -1328,6 +1328,50 @@
           "subject": "General Knowledge"
         }
       ]
+    },
+    {
+      "id": "ssc_mts_22",
+      "title": "SSC MTS Mock Test 22",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What is the chemical name of common salt?",
+          "q_hi": "सामान्य नमक का रासायनिक नाम क्या है?",
+          "opts": [
+            "Sodium Chloride",
+            "Sodium Carbonate",
+            "Calcium Chloride",
+            "Potassium Nitrate"
+          ],
+          "opts_hi": [
+            "सोडियम क्लोराइड",
+            "सोडियम कार्बोनेट",
+            "कैल्शियम क्लोराइड",
+            "पोटैशियम नाइट्रेट"
+          ],
+          "ans": 0,
+          "subject": "Science"
+        },
+        {
+          "q": "Who wrote 'Panchatantra'?",
+          "q_hi": "पंचतंत्र' किसने लिखा?",
+          "opts": [
+            "Vishnu Sharma",
+            "Valmiki",
+            "Tulsidas",
+            "Kalidas"
+          ],
+          "opts_hi": [
+            "विष्णु शर्मा",
+            "वाल्मीकि",
+            "तुलसीदास",
+            "कालिदास"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        }
+      ]
     }
   ]
 }
