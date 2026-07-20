@@ -2221,6 +2221,212 @@
           "subject": "General Knowledge"
         }
       ]
+    },
+    {
+      "id": "rrb_ntpc_28",
+      "title": "RRB NTPC Mock Test 28",
+      "duration": 13,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "The Battle of Plassey was fought in which year?",
+          "q_hi": "प्लासी का युद्ध किस वर्ष हुआ?",
+          "opts": [
+            "1757",
+            "1857",
+            "1764",
+            "1526"
+          ],
+          "opts_hi": [
+            "1757",
+            "1857",
+            "1764",
+            "1526"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "The Dandi March was a part of which movement?",
+          "q_hi": "दांडी मार्च किस आंदोलन का हिस्सा था?",
+          "opts": [
+            "Non-Cooperation",
+            "Civil Disobedience",
+            "Quit India",
+            "Swadeshi"
+          ],
+          "opts_hi": [
+            "असहयोग",
+            "सविनय अवज्ञा",
+            "भारत छोड़ो",
+            "स्वदेशी"
+          ],
+          "ans": 1,
+          "subject": "History"
+        },
+        {
+          "q": "The Partition of Bengal took place in which year?",
+          "q_hi": "बंगाल का विभाजन किस वर्ष हुआ?",
+          "opts": [
+            "1905",
+            "1911",
+            "1947",
+            "1857"
+          ],
+          "opts_hi": [
+            "1905",
+            "1911",
+            "1947",
+            "1857"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "The Rowlatt Act was passed in which year?",
+          "q_hi": "रोलट एक्ट किस वर्ष पारित हुआ?",
+          "opts": [
+            "1919",
+            "1920",
+            "1935",
+            "1942"
+          ],
+          "opts_hi": [
+            "1919",
+            "1920",
+            "1935",
+            "1942"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "The Swadeshi Movement was launched in response to which event?",
+          "q_hi": "स्वदेशी आंदोलन किस घटना के विरोध में शुरू हुआ?",
+          "opts": [
+            "Partition of Bengal",
+            "Rowlatt Act",
+            "Jallianwala Bagh",
+            "Non-Cooperation"
+          ],
+          "opts_hi": [
+            "बंगाल विभाजन",
+            "रोलट एक्ट",
+            "जलियांवाला बाग",
+            "असहयोग"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "The Quit India Resolution was passed in which year?",
+          "q_hi": "भारत छोड़ो प्रस्ताव किस वर्ष पारित हुआ?",
+          "opts": [
+            "1942",
+            "1940",
+            "1930",
+            "1920"
+          ],
+          "opts_hi": [
+            "1942",
+            "1940",
+            "1930",
+            "1920"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "The Simon Commission was boycotted because?",
+          "q_hi": "साइमन कमीशन का बहिष्कार क्यों किया गया?",
+          "opts": [
+            "No Indian member",
+            "All British members",
+            "Harsh policies",
+            "None"
+          ],
+          "opts_hi": [
+            "कोई भारतीय सदस्य नहीं",
+            "सभी ब्रिटिश सदस्य",
+            "कठोर नीतियां",
+            "कोई नहीं"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "The Chauri Chaura incident led to the suspension of which movement?",
+          "q_hi": "चौरी-चौरा घटना किस आंदोलन को निलंबित करने का कारण बनी?",
+          "opts": [
+            "Non-Cooperation",
+            "Civil Disobedience",
+            "Quit India",
+            "Swadeshi"
+          ],
+          "opts_hi": [
+            "असहयोग",
+            "सविनय अवज्ञा",
+            "भारत छोड़ो",
+            "स्वदेशी"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "The Poona Pact was signed between whom?",
+          "q_hi": "पूना समझौता किनके बीच हुआ?",
+          "opts": [
+            "Gandhi and Ambedkar",
+            "Nehru and Jinnah",
+            "Gandhi and Irwin",
+            "None"
+          ],
+          "opts_hi": [
+            "गांधी और आंबेडकर",
+            "नेहरू और जिन्ना",
+            "गांधी और इरविन",
+            "कोई नहीं"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "The Lucknow Pact was signed in which year?",
+          "q_hi": "लखनऊ समझौता किस वर्ष हुआ?",
+          "opts": [
+            "1916",
+            "1915",
+            "1920",
+            "1906"
+          ],
+          "opts_hi": [
+            "1916",
+            "1915",
+            "1920",
+            "1906"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "The Montagu-Chelmsford Reforms were introduced in which year?",
+          "q_hi": "मॉन्टेग्यू-चेम्सफोर्ड सुधार किस वर्ष लागू किए गए?",
+          "opts": [
+            "1919",
+            "1909",
+            "1935",
+            "1947"
+          ],
+          "opts_hi": [
+            "1919",
+            "1909",
+            "1935",
+            "1947"
+          ],
+          "ans": 0,
+          "subject": "History"
+        }
+      ]
     }
   ]
 }
