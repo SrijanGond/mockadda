@@ -122,6 +122,60 @@
       ],
       "ans": 0,
       "subject": "History"
+    },
+    {
+      "q": "Who was the first Governor-General of Independent India?",
+      "q_hi": "स्वतंत्र भारत के पहले गवर्नर-जनरल कौन थे?",
+      "opts": [
+        "Lord Mountbatten",
+        "C. Rajagopalachari",
+        "Lord Wavell",
+        "Jawaharlal Nehru"
+      ],
+      "opts_hi": [
+        "लॉर्ड माउंटबेटन",
+        "सी. राजगोपालाचारी",
+        "लॉर्ड वेवेल",
+        "जवाहरलाल नेहरू"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "The Indus Valley Civilization was discovered at which site first?",
+      "q_hi": "सिंधु घाटी सभ्यता की खोज सबसे पहले किस स्थल पर हुई?",
+      "opts": [
+        "Harappa",
+        "Mohenjo-Daro",
+        "Lothal",
+        "Kalibangan"
+      ],
+      "opts_hi": [
+        "हरप्पा",
+        "मोहनजो-दारो",
+        "लोथल",
+        "कालीबंगन"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "The Battle of Plassey was fought in which year?",
+      "q_hi": "प्लासी का युद्ध किस वर्ष हुआ था?",
+      "opts": [
+        "1757",
+        "1857",
+        "1764",
+        "1526"
+      ],
+      "opts_hi": [
+        "1757",
+        "1857",
+        "1764",
+        "1526"
+      ],
+      "ans": 0,
+      "subject": "History"
     }
   ]
 }
