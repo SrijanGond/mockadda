@@ -3529,6 +3529,104 @@
           "subject": "Polity"
         }
       ]
+    },
+    {
+      "id": "ssc_cgl_10",
+      "title": "SSC CGL Mock Test 10",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "The Preamble of the Indian Constitution was adopted on which date?",
+          "q_hi": "भारतीय संविधान की प्रस्तावना किस तिथि को अपनाई गई थी?",
+          "opts": [
+            "Sat Nov 26 1949 05:30:00 GMT+0530 (India Standard Time)",
+            "Thu Jan 26 1950 05:30:00 GMT+0530 (India Standard Time)",
+            "Fri Aug 15 1947 05:30:00 GMT+0530 (India Standard Time)",
+            "Mon Dec 09 1946 05:30:00 GMT+0530 (India Standard Time)"
+          ],
+          "opts_hi": [
+            "26 नवंबर 1949",
+            "26 जनवरी 1950",
+            "15 अगस्त 1947",
+            "9 दिसंबर 1946"
+          ],
+          "ans": 0,
+          "subject": "Polity"
+        },
+        {
+          "q": "Which is the longest river in the world?",
+          "q_hi": "दुनिया की सबसे लंबी नदी कौन सी है?",
+          "opts": [
+            "Amazon",
+            "Yangtze",
+            "Nile",
+            "Mississippi"
+          ],
+          "opts_hi": [
+            "अमेज़न",
+            "यांग्त्ज़ी",
+            "नाइल",
+            "मिसिसिप्पी"
+          ],
+          "ans": 2,
+          "subject": "Geography"
+        },
+        {
+          "q": "The Indus Valley Civilization was discovered at which site first?",
+          "q_hi": "सिंधु घाटी सभ्यता की खोज सबसे पहले किस स्थल पर हुई?",
+          "opts": [
+            "Harappa",
+            "Mohenjo-Daro",
+            "Lothal",
+            "Kalibangan"
+          ],
+          "opts_hi": [
+            "हरप्पा",
+            "मोहनजो-दारो",
+            "लोथल",
+            "कालीबंगन"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "Which state is known as the 'Spice Garden of India'?",
+          "q_hi": "भारत का मसाला बाग' किस राज्य को कहा जाता है?",
+          "opts": [
+            "Kerala",
+            "Tamil Nadu",
+            "Karnataka",
+            "Andhra Pradesh"
+          ],
+          "opts_hi": [
+            "केरल",
+            "तमिलनाडु",
+            "कर्नाटक",
+            "आंध्र प्रदेश"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "When is World Environment Day celebrated?",
+          "q_hi": "विश्व पर्यावरण दिवस कब मनाया जाता है?",
+          "opts": [
+            "Fri Jun 05 2026 05:30:00 GMT+0530 (India Standard Time)",
+            "Wed Apr 22 2026 05:30:00 GMT+0530 (India Standard Time)",
+            "Sun Mar 08 2026 05:30:00 GMT+0530 (India Standard Time)",
+            "Sat Sep 05 2026 05:30:00 GMT+0530 (India Standard Time)"
+          ],
+          "opts_hi": [
+            "5 जून",
+            "22 अप्रैल",
+            "8 मार्च",
+            "5 सितंबर"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        }
+      ]
     }
   ]
 }
