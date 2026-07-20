@@ -1603,6 +1603,122 @@
           "subject": "Science"
         }
       ]
+    },
+    {
+      "id": "ssc_chsl_25",
+      "title": "SSC CHSL Mock Test 25",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which is India's highest civilian award?",
+          "q_hi": "भारत का सर्वोच्च नागरिक सम्मान कौन सा है?",
+          "opts": [
+            "Padma Vibhushan",
+            "Padma Bhushan",
+            "Bharat Ratna",
+            "Padma Shri"
+          ],
+          "opts_hi": [
+            "पद्म विभूषण",
+            "पद्म भूषण",
+            "भारत रत्न",
+            "पद्म श्री"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Who is the guardian of the Constitution of India?",
+          "q_hi": "भारतीय संविधान का संरक्षक कौन है?",
+          "opts": [
+            "Parliament",
+            "President",
+            "Supreme Court",
+            "Prime Minister"
+          ],
+          "opts_hi": [
+            "संसद",
+            "राष्ट्रपति",
+            "सर्वोच्च न्यायालय",
+            "प्रधानमंत्री"
+          ],
+          "ans": 2,
+          "subject": "Polity"
+        },
+        {
+          "q": "What is the unit of electric current?",
+          "q_hi": "विद्युत धारा की इकाई क्या है?",
+          "opts": [
+            "Volt",
+            "Ampere",
+            "Watt",
+            "Ohm"
+          ],
+          "opts_hi": [
+            "वोल्ट",
+            "एम्पियर",
+            "वाट",
+            "ओम"
+          ],
+          "ans": 1,
+          "subject": "Science"
+        },
+        {
+          "q": "Which organ produces insulin?",
+          "q_hi": "इंसुलिन का उत्पादन कौन सा अंग करता है?",
+          "opts": [
+            "Liver",
+            "Pancreas",
+            "Kidney",
+            "Stomach"
+          ],
+          "opts_hi": [
+            "यकृत",
+            "अग्न्याशय",
+            "किडनी",
+            "पेट"
+          ],
+          "ans": 1,
+          "subject": "Science"
+        },
+        {
+          "q": "What is the speed of light in vacuum?",
+          "q_hi": "निर्वात में प्रकाश की गति कितनी है?",
+          "opts": [
+            "3 × 10^8 m/s",
+            "3 × 10^6 m/s",
+            "3 × 10^10 m/s",
+            "3 × 10^5 m/s"
+          ],
+          "opts_hi": [
+            "3 × 10^8 मी/से",
+            "3 × 10^6 मी/से",
+            "3 × 10^10 मी/से",
+            "3 × 10^5 मी/से"
+          ],
+          "ans": 0,
+          "subject": "Science"
+        },
+        {
+          "q": "What is the largest organ in the human body?",
+          "q_hi": "मानव शरीर का सबसे बड़ा अंग कौन सा है?",
+          "opts": [
+            "Brain",
+            "Liver",
+            "Skin",
+            "Heart"
+          ],
+          "opts_hi": [
+            "मस्तिष्क",
+            "यकृत",
+            "त्वचा",
+            "हृदय"
+          ],
+          "ans": 2,
+          "subject": "Science"
+        }
+      ]
     }
   ]
 }
