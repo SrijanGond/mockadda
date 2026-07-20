@@ -4711,6 +4711,140 @@
           "subject": "General Knowledge"
         }
       ]
+    },
+    {
+      "id": "ssc_cgl_16",
+      "title": "SSC CGL Mock Test 16",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which vitamin is synthesized in the human body by sunlight?",
+          "q_hi": "मानव शरीर में कौन सा विटामिन सूर्य के प्रकाश से संश्लेषित होता है?",
+          "opts": [
+            "Vitamin A",
+            "Vitamin B12",
+            "Vitamin C",
+            "Vitamin D"
+          ],
+          "opts_hi": [
+            "विटामिन A",
+            "विटामिन B12",
+            "विटामिन C",
+            "विटामिन D"
+          ],
+          "ans": 3,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which Amendment lowered the voting age from 21 to 18 years?",
+          "q_hi": "किस संशोधन ने मतदान की आयु 21 से घटाकर 18 वर्ष कर दी?",
+          "opts": [
+            "42nd Amendment",
+            "44th Amendment",
+            "61st Amendment",
+            "73rd Amendment"
+          ],
+          "opts_hi": [
+            "42वाँ संशोधन",
+            "44वाँ संशोधन",
+            "61वाँ संशोधन",
+            "73वाँ संशोधन"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which is the highest peak in India?",
+          "q_hi": "भारत की सबसे ऊँची चोटी कौन सी है?",
+          "opts": [
+            "Mount Everest",
+            "Kangchenjunga",
+            "Nanda Devi",
+            "K2"
+          ],
+          "opts_hi": [
+            "माउंट एवरेस्ट",
+            "कंचनजंगा",
+            "नंदा देवी",
+            "के2"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which acid is present in vinegar?",
+          "q_hi": "सिरके में कौन सा अम्ल उपस्थित होता है?",
+          "opts": [
+            "Citric acid",
+            "Lactic acid",
+            "Acetic acid",
+            "Oxalic acid"
+          ],
+          "opts_hi": [
+            "साइट्रिक अम्ल",
+            "लैक्टिक अम्ल",
+            "एसिटिक अम्ल",
+            "ऑक्सालिक अम्ल"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which gas is most abundant in Earth's atmosphere?",
+          "q_hi": "पृथ्वी के वायुमंडल में सबसे प्रचुर मात्रा में कौन सी गैस पाई जाती है?",
+          "opts": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Nitrogen",
+            "Argon"
+          ],
+          "opts_hi": [
+            "ऑक्सीजन",
+            "कार्बन डाइऑक्साइड",
+            "नाइट्रोजन",
+            "आर्गन"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "In which year did the Revolt of 1857 take place?",
+          "q_hi": "1857 का विद्रोह किस वर्ष हुआ था?",
+          "opts": [
+            "1856",
+            "1857",
+            "1858",
+            "1859"
+          ],
+          "opts_hi": [
+            "1856",
+            "1857",
+            "1858",
+            "1859"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Who introduced the Doctrine of Lapse?",
+          "q_hi": "व्यपगत का सिद्धांत किसने पेश किया?",
+          "opts": [
+            "Lord Wellesley",
+            "Lord Dalhousie",
+            "Lord Canning",
+            "Lord Curzon"
+          ],
+          "opts_hi": [
+            "लॉर्ड वेलेस्ली",
+            "लॉर्ड डलहौज़ी",
+            "लॉर्ड कैनिंग",
+            "लॉर्ड कर्जन"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        }
+      ]
     }
   ]
 }
