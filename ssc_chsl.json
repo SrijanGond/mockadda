@@ -1781,6 +1781,230 @@
           "subject": "Science"
         }
       ]
+    },
+    {
+      "id": "ssc_chsl_27",
+      "title": "SSC CHSL Mock Test 27",
+      "duration": 14,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which is the longest mountain range in the world?",
+          "q_hi": "दुनिया की सबसे लंबी पर्वत श्रृंखला कौन सी है?",
+          "opts": [
+            "Himalayas",
+            "Andes",
+            "Rockies",
+            "Alps"
+          ],
+          "opts_hi": [
+            "हिमालय",
+            "एंडीज",
+            "रॉकीज",
+            "आल्प्स"
+          ],
+          "ans": 1,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which river is known as the 'Sorrow of Odisha'?",
+          "q_hi": "ओडिशा का शोक' किस नदी को कहा जाता है?",
+          "opts": [
+            "Mahanadi",
+            "Brahmani",
+            "Subarnarekha",
+            "Baitarani"
+          ],
+          "opts_hi": [
+            "महानदी",
+            "ब्राह्मणी",
+            "सुबर्णरेखा",
+            "बैतरणी"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which state is the largest producer of rubber in India?",
+          "q_hi": "भारत में रबर का सबसे बड़ा उत्पादक राज्य कौन सा है?",
+          "opts": [
+            "Kerala",
+            "Tamil Nadu",
+            "Karnataka",
+            "Tripura"
+          ],
+          "opts_hi": [
+            "केरल",
+            "तमिलनाडु",
+            "कर्नाटक",
+            "त्रिपुरा"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which state has the largest forest cover in India?",
+          "q_hi": "भारत में सबसे अधिक वन क्षेत्रफल वाला राज्य कौन सा है?",
+          "opts": [
+            "Madhya Pradesh",
+            "Arunachal Pradesh",
+            "Chhattisgarh",
+            "Maharashtra"
+          ],
+          "opts_hi": [
+            "मध्य प्रदेश",
+            "अरुणाचल प्रदेश",
+            "छत्तीसगढ़",
+            "महाराष्ट्र"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which river is known as the 'Dakshin Ganga'?",
+          "q_hi": "दक्षिण गंगा' किस नदी को कहा जाता है?",
+          "opts": [
+            "Godavari",
+            "Kaveri",
+            "Krishna",
+            "Tungabhadra"
+          ],
+          "opts_hi": [
+            "गोदावरी",
+            "कावेरी",
+            "कृष्णा",
+            "तुंगभद्रा"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which state is known as the 'Rice Bowl of India'?",
+          "q_hi": "भारत का चावल का कटोरा' किस राज्य को कहा जाता है?",
+          "opts": [
+            "Andhra Pradesh",
+            "West Bengal",
+            "Punjab",
+            "Uttar Pradesh"
+          ],
+          "opts_hi": [
+            "आंध्र प्रदेश",
+            "पश्चिम बंगाल",
+            "पंजाब",
+            "उत्तर प्रदेश"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which state has the largest number of districts?",
+          "q_hi": "सबसे अधिक जिलों वाला राज्य कौन सा है?",
+          "opts": [
+            "Uttar Pradesh",
+            "Madhya Pradesh",
+            "Rajasthan",
+            "Maharashtra"
+          ],
+          "opts_hi": [
+            "उत्तर प्रदेश",
+            "मध्य प्रदेश",
+            "राजस्थान",
+            "महाराष्ट्र"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which state is the largest producer of wheat in India?",
+          "q_hi": "भारत में गेहूं का सबसे बड़ा उत्पादक राज्य कौन सा है?",
+          "opts": [
+            "Punjab",
+            "Uttar Pradesh",
+            "Madhya Pradesh",
+            "Haryana"
+          ],
+          "opts_hi": [
+            "पंजाब",
+            "उत्तर प्रदेश",
+            "मध्य प्रदेश",
+            "हरियाणा"
+          ],
+          "ans": 1,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which state has the largest number of UNESCO World Heritage Sites?",
+          "q_hi": "सबसे अधिक यूनेस्को विश्व धरोहर स्थलों वाला राज्य कौन सा है?",
+          "opts": [
+            "Uttar Pradesh",
+            "Rajasthan",
+            "Maharashtra",
+            "Tamil Nadu"
+          ],
+          "opts_hi": [
+            "उत्तर प्रदेश",
+            "राजस्थान",
+            "महाराष्ट्र",
+            "तमिलनाडु"
+          ],
+          "ans": 2,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which state is known as the 'Granary of India'?",
+          "q_hi": "भारत का अन्न भंडार' किस राज्य को कहा जाता है?",
+          "opts": [
+            "Punjab",
+            "Haryana",
+            "Uttar Pradesh",
+            "Madhya Pradesh"
+          ],
+          "opts_hi": [
+            "पंजाब",
+            "हरियाणा",
+            "उत्तर प्रदेश",
+            "मध्य प्रदेश"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which state has the largest number of national parks?",
+          "q_hi": "सबसे अधिक राष्ट्रीय उद्यानों वाला राज्य कौन सा है?",
+          "opts": [
+            "Madhya Pradesh",
+            "Rajasthan",
+            "Uttarakhand",
+            "Assam"
+          ],
+          "opts_hi": [
+            "मध्य प्रदेश",
+            "राजस्थान",
+            "उत्तराखंड",
+            "असम"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which state is the largest producer of pulses in India?",
+          "q_hi": "भारत में दालों का सबसे बड़ा उत्पादक राज्य कौन सा है?",
+          "opts": [
+            "Madhya Pradesh",
+            "Rajasthan",
+            "Uttar Pradesh",
+            "Maharashtra"
+          ],
+          "opts_hi": [
+            "मध्य प्रदेश",
+            "राजस्थान",
+            "उत्तर प्रदेश",
+            "महाराष्ट्र"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        }
+      ]
     }
   ]
 }
