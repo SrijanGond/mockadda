@@ -103,6 +103,42 @@
       ],
       "ans": 2,
       "subject": "Banking"
+    },
+    {
+      "q": "What is the full form of NEFT?",
+      "q_hi": "NEFT का पूर्ण रूप क्या है?",
+      "opts": [
+        "National Electronic Funds Transfer",
+        "National Electronic Finance Transfer",
+        "Net Electronic Fund Transfer",
+        "None"
+      ],
+      "opts_hi": [
+        "नेशनल इलेक्ट्रॉनिक फंड्स ट्रांसफर",
+        "नेशनल इलेक्ट्रॉनिक फाइनेंस ट्रांसफर",
+        "नेट इलेक्ट्रॉनिक फंड ट्रांसफर",
+        "कोई नहीं"
+      ],
+      "ans": 0,
+      "subject": "Banking"
+    },
+    {
+      "q": "What is the tagline of State Bank of India?",
+      "q_hi": "स्टेट बैंक ऑफ इंडिया का टैगलाइन क्या है?",
+      "opts": [
+        "The Banker to Every Indian",
+        "Pure Banking Nothing Else",
+        "India's International Bank",
+        "A Bank for All"
+      ],
+      "opts_hi": [
+        "द बैंकर टू एवरी इंडियन",
+        "प्योर बैंकिंग नथिंग एल्स",
+        "इंडियाज इंटरनेशनल बैंक",
+        "ए बैंक फॉर ऑल"
+      ],
+      "ans": 0,
+      "subject": "Banking"
     }
   ]
 }
