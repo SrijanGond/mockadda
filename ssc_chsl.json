@@ -2381,6 +2381,140 @@
           "subject": "General Knowledge"
         }
       ]
+    },
+    {
+      "id": "ssc_chsl_30",
+      "title": "SSC CHSL Mock Test 30",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What is the chemical symbol of Gold?",
+          "q_hi": "सोने का रासायनिक प्रतीक क्या है?",
+          "opts": [
+            "Ag",
+            "Au",
+            "Fe",
+            "Cu"
+          ],
+          "opts_hi": [
+            "Ag",
+            "Au",
+            "Fe",
+            "Cu"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "In which unit is Sound measured?",
+          "q_hi": "ध्वनि किस इकाई में मापी जाती है?",
+          "opts": [
+            "Decibel",
+            "Coulomb",
+            "Cycle",
+            "Hum"
+          ],
+          "opts_hi": [
+            "डेसिबल",
+            "कूलम्ब",
+            "साइकिल",
+            "हम"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which Article abolishes Untouchability?",
+          "q_hi": "कौन सा अनुच्छेद अस्पृश्यता को समाप्त करता है?",
+          "opts": [
+            "Article 14",
+            "Article 15",
+            "Article 17",
+            "Article 21"
+          ],
+          "opts_hi": [
+            "अनुच्छेद 14",
+            "अनुच्छेद 15",
+            "अनुच्छेद 17",
+            "अनुच्छेद 21"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Who was the first President of India?",
+          "q_hi": "भारत के पहले राष्ट्रपति कौन थे?",
+          "opts": [
+            "Dr. Rajendra Prasad",
+            "Dr. S. Radhakrishnan",
+            "Nehru",
+            "Patel"
+          ],
+          "opts_hi": [
+            "डॉ. राजेंद्र प्रसाद",
+            "डॉ. एस. राधाकृष्णन",
+            "नेहरू",
+            "पटेल"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which blood group is known as the \"Universal Donor\"?",
+          "q_hi": "किस रक्त समूह को \"यूनिवर्सल डोनर\" के रूप में जाना जाता है?",
+          "opts": [
+            "A Positive",
+            "O Negative",
+            "AB Positive",
+            "B Negative"
+          ],
+          "opts_hi": [
+            "A पॉजिटिव",
+            "O नेगेटिव",
+            "AB पॉजिटिव",
+            "B नेगेटिव"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which state produces the maximum cotton in India?",
+          "q_hi": "भारत में सबसे अधिक कपास उत्पादन करने वाला राज्य कौन सा है?",
+          "opts": [
+            "Maharashtra",
+            "Gujarat",
+            "Tamil Nadu",
+            "Andhra Pradesh"
+          ],
+          "opts_hi": [
+            "महाराष्ट्र",
+            "गुजरात",
+            "तमिलनाडु",
+            "आंध्र प्रदेश"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which of the following is a noble gas?",
+          "q_hi": "निम्नलिखित में से कौन सी उत्कृष्ट गैस है?",
+          "opts": [
+            "Hydrogen",
+            "Oxygen",
+            "Nitrogen",
+            "Neon"
+          ],
+          "opts_hi": [
+            "हाइड्रोजन",
+            "ऑक्सीजन",
+            "नाइट्रोजन",
+            "नियॉन"
+          ],
+          "ans": 3,
+          "subject": "General Knowledge"
+        }
+      ]
     }
   ]
 }
