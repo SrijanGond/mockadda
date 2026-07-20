@@ -1,0 +1,472 @@
+{
+  "questions": [
+    {
+      "q": "What is the full form of GDP?",
+      "q_hi": "GDP का पूर्ण रूप क्या है?",
+      "opts": [
+        "Gross Domestic Product",
+        "Gross Development Product",
+        "General Domestic Product",
+        "None"
+      ],
+      "opts_hi": [
+        "ग्रॉस डोमेस्टिक प्रोडक्ट",
+        "ग्रॉस डेवलपमेंट प्रोडक्ट",
+        "जनरल डोमेस्टिक प्रोडक्ट",
+        "कोई नहीं"
+      ],
+      "ans": 0,
+      "subject": "Economics"
+    },
+    {
+      "q": "Who presents the Union Budget in India?",
+      "q_hi": "भारत में केंद्रीय बजट कौन पेश करता है?",
+      "opts": [
+        "President",
+        "Finance Minister",
+        "Prime Minister",
+        "RBI Governor"
+      ],
+      "opts_hi": [
+        "राष्ट्रपति",
+        "वित्त मंत्री",
+        "प्रधानमंत्री",
+        "आरबीआई गवर्नर"
+      ],
+      "ans": 1,
+      "subject": "Economics"
+    },
+    {
+      "q": "What is the apex body for microfinance in India?",
+      "q_hi": "भारत में सूक्ष्म वित्त का शीर्ष निकाय कौन सा है?",
+      "opts": [
+        "NABARD",
+        "RBI",
+        "SEBI",
+        "NHB"
+      ],
+      "opts_hi": [
+        "नाबार्ड",
+        "आरबीआई",
+        "सेबी",
+        "एनएचबी"
+      ],
+      "ans": 0,
+      "subject": "Economics"
+    },
+    {
+      "q": "What is the full form of GST?",
+      "q_hi": "GST का पूर्ण रूप क्या है?",
+      "opts": [
+        "Goods and Services Tax",
+        "General Sales Tax",
+        "Gross Sales Tax",
+        "None"
+      ],
+      "opts_hi": [
+        "गुड्स एंड सर्विसेज टैक्स",
+        "जनरल सेल्स टैक्स",
+        "ग्रॉस सेल्स टैक्स",
+        "कोई नहीं"
+      ],
+      "ans": 0,
+      "subject": "Economics"
+    },
+    {
+      "q": "What is the main function of RBI?",
+      "q_hi": "आरबीआई का मुख्य कार्य क्या है?",
+      "opts": [
+        "Monetary Policy",
+        "Fiscal Policy",
+        "Both",
+        "None"
+      ],
+      "opts_hi": [
+        "मौद्रिक नीति",
+        "राजकोषीय नीति",
+        "दोनों",
+        "कोई नहीं"
+      ],
+      "ans": 0,
+      "subject": "Economics"
+    },
+    {
+      "q": "What is the full form of SEBI?",
+      "q_hi": "SEBI का पूर्ण रूप क्या है?",
+      "opts": [
+        "Securities and Exchange Board of India",
+        "Stock Exchange Board of India",
+        "None",
+        "Securities Exchange Board"
+      ],
+      "opts_hi": [
+        "सिक्योरिटीज एंड एक्सचेंज बोर्ड ऑफ इंडिया",
+        "स्टॉक एक्सचेंज बोर्ड ऑफ इंडिया",
+        "कोई नहीं",
+        "सिक्योरिटीज एक्सचेंज बोर्ड"
+      ],
+      "ans": 0,
+      "subject": "Economics"
+    },
+    {
+      "q": "What is the current base year for calculating GDP in India?",
+      "q_hi": "भारत में GDP गणना के लिए वर्तमान आधार वर्ष क्या है?",
+      "opts": [
+        "Thu Dec 01 2011 05:30:00 GMT+0530 (India Standard Time)",
+        "Sat May 01 2004 05:30:00 GMT+0530 (India Standard Time)",
+        "2015-16",
+        "2020-21"
+      ],
+      "opts_hi": [
+        "Thu Dec 01 2011 05:30:00 GMT+0530 (India Standard Time)",
+        "Sat May 01 2004 05:30:00 GMT+0530 (India Standard Time)",
+        "2015-16",
+        "2020-21"
+      ],
+      "ans": 0,
+      "subject": "Economics"
+    },
+    {
+      "q": "What is the full form of NITI Aayog?",
+      "q_hi": "NITI आयोग का पूर्ण रूप क्या है?",
+      "opts": [
+        "National Institution for Transforming India",
+        "National Institute for Technology and Innovation",
+        "None",
+        "National Institute for Transforming India"
+      ],
+      "opts_hi": [
+        "नेशनल इंस्टीट्यूशन फॉर ट्रांसफॉर्मिंग इंडिया",
+        "नेशनल इंस्टीट्यूट फॉर टेक्नोलॉजी एंड इनोवेशन",
+        "कोई नहीं",
+        "नेशनल इंस्टीट्यूट फॉर ट्रांसफॉर्मिंग इंडिया"
+      ],
+      "ans": 0,
+      "subject": "Economics"
+    },
+    {
+      "q": "What is the main objective of Fiscal Policy?",
+      "q_hi": "राजकोषीय नीति का मुख्य उद्देश्य क्या है?",
+      "opts": [
+        "Price stability",
+        "Economic growth",
+        "Both",
+        "None"
+      ],
+      "opts_hi": [
+        "मूल्य स्थिरता",
+        "आर्थिक विकास",
+        "दोनों",
+        "कोई नहीं"
+      ],
+      "ans": 1,
+      "subject": "Economics"
+    },
+    {
+      "q": "What is the full form of IMF?",
+      "q_hi": "IMF का पूर्ण रूप क्या है?",
+      "opts": [
+        "International Monetary Fund",
+        "Indian Monetary Fund",
+        "International Money Fund",
+        "None"
+      ],
+      "opts_hi": [
+        "इंटरनेशनल मॉनेटरी फंड",
+        "इंडियन मॉनेटरी फंड",
+        "इंटरनेशनल मनी फंड",
+        "कोई नहीं"
+      ],
+      "ans": 0,
+      "subject": "Economics"
+    },
+    {
+      "q": "What is the main function of NABARD?",
+      "q_hi": "नाबार्ड का मुख्य कार्य क्या है?",
+      "opts": [
+        "Rural Development",
+        "Urban Development",
+        "Industrial Development",
+        "None"
+      ],
+      "opts_hi": [
+        "ग्रामीण विकास",
+        "शहरी विकास",
+        "औद्योगिक विकास",
+        "कोई नहीं"
+      ],
+      "ans": 0,
+      "subject": "Economics"
+    },
+    {
+      "q": "What is the full form of FDI?",
+      "q_hi": "FDI का पूर्ण रूप क्या है?",
+      "opts": [
+        "Foreign Direct Investment",
+        "Foreign Development Investment",
+        "None",
+        "Foreign Domestic Investment"
+      ],
+      "opts_hi": [
+        "फॉरेन डायरेक्ट इन्वेस्टमेंट",
+        "फॉरेन डेवलपमेंट इन्वेस्टमेंट",
+        "कोई नहीं",
+        "फॉरेन डोमेस्टिक इन्वेस्टमेंट"
+      ],
+      "ans": 0,
+      "subject": "Economics"
+    },
+    {
+      "q": "What is the main objective of Monetary Policy?",
+      "q_hi": "मौद्रिक नीति का मुख्य उद्देश्य क्या है?",
+      "opts": [
+        "Control inflation",
+        "Economic growth",
+        "Both",
+        "None"
+      ],
+      "opts_hi": [
+        "मुद्रास्फीति नियंत्रण",
+        "आर्थिक विकास",
+        "दोनों",
+        "कोई नहीं"
+      ],
+      "ans": 2,
+      "subject": "Economics"
+    },
+    {
+      "q": "What is the full form of WTO?",
+      "q_hi": "WTO का पूर्ण रूप क्या है?",
+      "opts": [
+        "World Trade Organization",
+        "World Tourism Organization",
+        "None",
+        "World Trade Office"
+      ],
+      "opts_hi": [
+        "वर्ल्ड ट्रेड ऑर्गनाइजेशन",
+        "वर्ल्ड टूरिज्म ऑर्गनाइजेशन",
+        "कोई नहीं",
+        "वर्ल्ड ट्रेड ऑफिस"
+      ],
+      "ans": 0,
+      "subject": "Economics"
+    },
+    {
+      "q": "What is the current repo rate decided by RBI called?",
+      "q_hi": "आरबीआई द्वारा तय वर्तमान रेपो दर को क्या कहते हैं?",
+      "opts": [
+        "Repo Rate",
+        "Reverse Repo Rate",
+        "Bank Rate",
+        "CRR"
+      ],
+      "opts_hi": [
+        "रेपो रेट",
+        "रिवर्स रेपो रेट",
+        "बैंक रेट",
+        "सीआरआर"
+      ],
+      "ans": 0,
+      "subject": "Economics"
+    },
+    {
+      "q": "What is the full form of MSME?",
+      "q_hi": "MSME का पूर्ण रूप क्या है?",
+      "opts": [
+        "Micro, Small and Medium Enterprises",
+        "Micro, Small and Medium Economy",
+        "None",
+        "Micro, Small and Medium Enterprises"
+      ],
+      "opts_hi": [
+        "माइक्रो, स्मॉल एंड मीडियम एंटरप्राइजेज",
+        "माइक्रो, स्मॉल एंड मीडियम इकोनॉमी",
+        "कोई नहीं",
+        "माइक्रो, स्मॉल एंड मीडियम एंटरप्राइजेज"
+      ],
+      "ans": 0,
+      "subject": "Economics"
+    },
+    {
+      "q": "What is the main function of SEBI?",
+      "q_hi": "SEBI का मुख्य कार्य क्या है?",
+      "opts": [
+        "Regulate securities market",
+        "Regulate banking",
+        "Regulate insurance",
+        "None"
+      ],
+      "opts_hi": [
+        "सिक्योरिटीज बाजार का नियमन",
+        "बैंकिंग का नियमन",
+        "बीमा का नियमन",
+        "कोई नहीं"
+      ],
+      "ans": 0,
+      "subject": "Economics"
+    },
+    {
+      "q": "What is the full form of CRR?",
+      "q_hi": "CRR का पूर्ण रूप क्या है?",
+      "opts": [
+        "Cash Reserve Ratio",
+        "Current Reserve Ratio",
+        "None",
+        "Cash Reserve Rate"
+      ],
+      "opts_hi": [
+        "कैश रिजर्व रेशियो",
+        "करंट रिजर्व रेशियो",
+        "कोई नहीं",
+        "कैश रिजर्व रेट"
+      ],
+      "ans": 0,
+      "subject": "Economics"
+    },
+    {
+      "q": "What is the main objective of the Finance Commission?",
+      "q_hi": "वित्त आयोग का मुख्य उद्देश्य क्या है?",
+      "opts": [
+        "Distribution of taxes",
+        "Monetary policy",
+        "Both",
+        "None"
+      ],
+      "opts_hi": [
+        "करों का वितरण",
+        "मौद्रिक नीति",
+        "दोनों",
+        "कोई नहीं"
+      ],
+      "ans": 0,
+      "subject": "Economics"
+    },
+    {
+      "q": "What is the full form of PSL?",
+      "q_hi": "PSL का पूर्ण रूप क्या है?",
+      "opts": [
+        "Priority Sector Lending",
+        "Public Sector Lending",
+        "None",
+        "Private Sector Lending"
+      ],
+      "opts_hi": [
+        "प्रायोरिटी सेक्टर लेंडिंग",
+        "पब्लिक सेक्टर लेंडिंग",
+        "कोई नहीं",
+        "प्राइवेट सेक्टर लेंडिंग"
+      ],
+      "ans": 0,
+      "subject": "Economics"
+    },
+    {
+      "q": "What is the full form of SLR?",
+      "q_hi": "SLR का पूर्ण रूप क्या है?",
+      "opts": [
+        "Statutory Liquidity Ratio",
+        "Statutory Liquidity Reserve",
+        "None",
+        "Statutory Liquidity Rate"
+      ],
+      "opts_hi": [
+        "स्टैट्यूटरी लिक्विडिटी रेशियो",
+        "स्टैट्यूटरी लिक्विडिटी रिजर्व",
+        "कोई नहीं",
+        "स्टैट्यूटरी लिक्विडिटी रेट"
+      ],
+      "ans": 0,
+      "subject": "Economics"
+    },
+    {
+      "q": "What is the main objective of the Planning Commission?",
+      "q_hi": "योजना आयोग का मुख्य उद्देश्य क्या था?",
+      "opts": [
+        "Economic planning",
+        "Monetary policy",
+        "Fiscal policy",
+        "None"
+      ],
+      "opts_hi": [
+        "आर्थिक योजना",
+        "मौद्रिक नीति",
+        "राजकोषीय नीति",
+        "कोई नहीं"
+      ],
+      "ans": 0,
+      "subject": "Economics"
+    },
+    {
+      "q": "What is the full form of NPA?",
+      "q_hi": "NPA का पूर्ण रूप क्या है?",
+      "opts": [
+        "Non-Performing Asset",
+        "Non-Performing Account",
+        "None",
+        "Non-Performing Asset"
+      ],
+      "opts_hi": [
+        "नॉन-परफॉर्मिंग एसेट",
+        "नॉन-परफॉर्मिंग अकाउंट",
+        "कोई नहीं",
+        "नॉन-परफॉर्मिंग एसेट"
+      ],
+      "ans": 0,
+      "subject": "Economics"
+    },
+    {
+      "q": "What is the main function of IRDAI?",
+      "q_hi": "IRDAI का मुख्य कार्य क्या है?",
+      "opts": [
+        "Regulate insurance",
+        "Regulate banking",
+        "Regulate securities",
+        "None"
+      ],
+      "opts_hi": [
+        "बीमा का नियमन",
+        "बैंकिंग का नियमन",
+        "सिक्योरिटीज का नियमन",
+        "कोई नहीं"
+      ],
+      "ans": 0,
+      "subject": "Economics"
+    },
+    {
+      "q": "What is the full form of FII?",
+      "q_hi": "FII का पूर्ण रूप क्या है?",
+      "opts": [
+        "Foreign Institutional Investment",
+        "Foreign Investment Institution",
+        "None",
+        "Foreign Institutional Investor"
+      ],
+      "opts_hi": [
+        "फॉरेन इंस्टीट्यूशनल इन्वेस्टमेंट",
+        "फॉरेन इन्वेस्टमेंट इंस्टीट्यूशन",
+        "कोई नहीं",
+        "फॉरेन इंस्टीट्यूशनल इन्वेस्टर"
+      ],
+      "ans": 0,
+      "subject": "Economics"
+    },
+    {
+      "q": "What is the main objective of the RBI?",
+      "q_hi": "आरबीआई का मुख्य उद्देश्य क्या है?",
+      "opts": [
+        "Price stability",
+        "Economic growth",
+        "Both",
+        "None"
+      ],
+      "opts_hi": [
+        "मूल्य स्थिरता",
+        "आर्थिक विकास",
+        "दोनों",
+        "कोई नहीं"
+      ],
+      "ans": 2,
+      "subject": "Economics"
+    }
+  ]
+}
