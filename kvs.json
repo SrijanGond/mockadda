@@ -1017,6 +1017,140 @@
           "subject": "Current Affairs"
         }
       ]
+    },
+    {
+      "id": "kvs_17",
+      "title": "KVS Mock Test 17",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which is the largest state of India by area?",
+          "q_hi": "क्षेत्रफल की दृष्टि से भारत का सबसे बड़ा राज्य कौन सा है?",
+          "opts": [
+            "Madhya Pradesh",
+            "Maharashtra",
+            "Uttar Pradesh",
+            "Rajasthan"
+          ],
+          "opts_hi": [
+            "मध्य प्रदेश",
+            "महाराष्ट्र",
+            "उत्तर प्रदेश",
+            "राजस्थान"
+          ],
+          "ans": 3,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Who was the founder of the Maurya Empire?",
+          "q_hi": "मौर्य साम्राज्य का संस्थापक कौन था?",
+          "opts": [
+            "Ashoka",
+            "Bindusara",
+            "Chandragupta Maurya",
+            "Samudragupta"
+          ],
+          "opts_hi": [
+            "अशोक",
+            "बिंदुसार",
+            "चंद्रगुप्त मौर्य",
+            "समुद्रगुप्त"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which is the smallest state in India by area?",
+          "q_hi": "क्षेत्रफल की दृष्टि से भारत का सबसे छोटा राज्य कौन सा है?",
+          "opts": [
+            "Sikkim",
+            "Tripura",
+            "Goa",
+            "Mizoram"
+          ],
+          "opts_hi": [
+            "सिक्किम",
+            "त्रिपुरा",
+            "गोवा",
+            "मिजोरम"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which gas is used in fire extinguishers?",
+          "q_hi": "अग्निशामक यंत्रों में किस गैस का उपयोग किया जाता है?",
+          "opts": [
+            "Oxygen",
+            "Nitrogen",
+            "Carbon dioxide",
+            "Hydrogen"
+          ],
+          "opts_hi": [
+            "ऑक्सीजन",
+            "नाइट्रोजन",
+            "कार्बन डाइऑक्साइड",
+            "हाइड्रोजन"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which is the largest saltwater lake in India?",
+          "q_hi": "भारत की सबसे बड़ी खारे पानी की झील कौन सी है?",
+          "opts": [
+            "Chilika Lake",
+            "Wular Lake",
+            "Dal Lake",
+            "Loktak Lake"
+          ],
+          "opts_hi": [
+            "चिलिका झील",
+            "वुलर झील",
+            "डल झील",
+            "लोकतक झील"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which type of lens is used to correct myopia (short-sightedness)?",
+          "q_hi": "मायोपिया (निकट दृष्टि) को ठीक करने के लिए किस प्रकार के लेंस का उपयोग किया जाता है?",
+          "opts": [
+            "Concave lens",
+            "Convex lens",
+            "Bifocal lens",
+            "Cylindrical lens"
+          ],
+          "opts_hi": [
+            "अवतल लेंस",
+            "उत्तल लेंस",
+            "द्विफोकल लेंस",
+            "बेलनाकार लेंस"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which cell organelle is known as the \"Powerhouse of the cell\"?",
+          "q_hi": "किस कोशिका अंगक को \"कोशिका का पावरहाउस\" के रूप में जाना जाता है?",
+          "opts": [
+            "Nucleus",
+            "Ribosome",
+            "Mitochondria",
+            "Endoplasmic Reticulum"
+          ],
+          "opts_hi": [
+            "नाभिक",
+            "राइबोसोम",
+            "माइटोकॉन्ड्रिया",
+            "अंतर्द्रव्यी जालिका"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        }
+      ]
     }
   ]
 }
