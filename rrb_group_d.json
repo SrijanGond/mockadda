@@ -1059,6 +1059,122 @@
           "subject": "General Knowledge"
         }
       ]
+    },
+    {
+      "id": "rrb_group_d_20",
+      "title": "RRB Group D Mock Test 20",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "The famous 'Qutub Minar' in Delhi was built by which dynasty?",
+          "q_hi": "दिल्ली में प्रसिद्ध 'कुतुब मीनार' का निर्माण किस वंश ने करवाया था?",
+          "opts": [
+            "Khilji Dynasty",
+            "Slave Dynasty (Mamluk)",
+            "Tughlaq Dynasty",
+            "Lodi Dynasty"
+          ],
+          "opts_hi": [
+            "खिलजी वंश",
+            "गुलाम वंश (मामलुक)",
+            "तुगलक वंश",
+            "लोदी वंश"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which organ in the human body is known as the \"Graveyard of RBC\"?",
+          "q_hi": "मानव शरीर में किस अंग को \"RBC का कब्रिस्तान\" के रूप में जाना जाता है?",
+          "opts": [
+            "Liver",
+            "Heart",
+            "Kidney",
+            "Spleen"
+          ],
+          "opts_hi": [
+            "यकृत",
+            "हृदय",
+            "गुर्दा",
+            "तिल्ली"
+          ],
+          "ans": 3,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which river is known as the \"Sorrow of Bihar\"?",
+          "q_hi": "बिहार का शोक किस नदी को कहा जाता है?",
+          "opts": [
+            "Kosi",
+            "Damodar",
+            "Ganga",
+            "Brahmaputra"
+          ],
+          "opts_hi": [
+            "कोसी",
+            "दामोदर",
+            "गंगा",
+            "ब्रह्मपुत्र"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Who was the first woman ruler of Delhi?",
+          "q_hi": "दिल्ली की पहली महिला शासक कौन थी?",
+          "opts": [
+            "Nur Jahan",
+            "Razia Sultan",
+            "Mumtaz Mahal",
+            "Begum Hazrat Mahal"
+          ],
+          "opts_hi": [
+            "नूरजहाँ",
+            "रज़िया सुल्तान",
+            "मुमताज महल",
+            "बेगम हज़रत महल"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "At the center of Earth, the acceleration due to gravity is:",
+          "q_hi": "पृथ्वी के केंद्र पर, गुरुत्वाकर्षण के कारण त्वरण है:",
+          "opts": [
+            "Zero",
+            "Maximum",
+            "Equal to surface gravity",
+            "Infinite"
+          ],
+          "opts_hi": [
+            "शून्य",
+            "अधिकतम",
+            "सतह गुरुत्वाकर्षण के बराबर",
+            "अनंत"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which instrument is used to measure potential difference?",
+          "q_hi": "विभवांतर मापने के लिए किस उपकरण का उपयोग किया जाता है?",
+          "opts": [
+            "Barometer",
+            "Galvanometer",
+            "Ammeter",
+            "Voltmeter"
+          ],
+          "opts_hi": [
+            "बैरोमीटर",
+            "गैल्वेनोमीटर",
+            "एमीटर",
+            "वोल्टमीटर"
+          ],
+          "ans": 3,
+          "subject": "General Knowledge"
+        }
+      ]
     }
   ]
 }
