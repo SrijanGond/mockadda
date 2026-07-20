@@ -536,6 +536,60 @@
       ],
       "ans": 1,
       "subject": "Polity"
+    },
+    {
+      "q": "Who presides over the joint sitting of Parliament?",
+      "q_hi": "संसद की संयुक्त बैठक की अध्यक्षता कौन करता है?",
+      "opts": [
+        "President",
+        "Speaker of Lok Sabha",
+        "Vice President",
+        "Prime Minister"
+      ],
+      "opts_hi": [
+        "राष्ट्रपति",
+        "लोकसभा स्पीकर",
+        "उपराष्ट्रपति",
+        "प्रधानमंत्री"
+      ],
+      "ans": 1,
+      "subject": "Polity"
+    },
+    {
+      "q": "Which schedule deals with the division of powers between Centre and States?",
+      "q_hi": "केंद्र और राज्यों के बीच शक्तियों के विभाजन से कौन सा अनुसूची संबंधित है?",
+      "opts": [
+        "Seventh Schedule",
+        "Eighth Schedule",
+        "Ninth Schedule",
+        "Tenth Schedule"
+      ],
+      "opts_hi": [
+        "सातवीं अनुसूची",
+        "आठवीं अनुसूची",
+        "नवीं अनुसूची",
+        "दसवीं अनुसूची"
+      ],
+      "ans": 0,
+      "subject": "Polity"
+    },
+    {
+      "q": "Which Article guarantees freedom of speech and expression?",
+      "q_hi": "वाक् स्वतंत्रता और अभिव्यक्ति की स्वतंत्रता किस अनुच्छेद में है?",
+      "opts": [
+        "Article 19",
+        "Article 21",
+        "Article 14",
+        "Article 25"
+      ],
+      "opts_hi": [
+        "अनुच्छेद 19",
+        "अनुच्छेद 21",
+        "अनुच्छेद 14",
+        "अनुच्छेद 25"
+      ],
+      "ans": 0,
+      "subject": "Polity"
     }
   ]
 }
