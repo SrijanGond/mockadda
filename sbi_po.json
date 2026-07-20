@@ -1478,6 +1478,104 @@
           "subject": "General Knowledge"
         }
       ]
+    },
+    {
+      "id": "sbi_po_25",
+      "title": "SBI PO Mock Test 25",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "In the human body, which is the largest gland?",
+          "q_hi": "मानव शरीर में सबसे बड़ी ग्रंथि कौन सी है?",
+          "opts": [
+            "Pancreas",
+            "Liver",
+            "Thyroid",
+            "Adrenal"
+          ],
+          "opts_hi": [
+            "अग्न्याशय",
+            "यकृत",
+            "थायरॉइड",
+            "अधिवृक्क"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which is the most populated state in India?",
+          "q_hi": "भारत का सबसे अधिक जनसंख्या वाला राज्य कौन सा है?",
+          "opts": [
+            "Maharashtra",
+            "Bihar",
+            "Uttar Pradesh",
+            "Rajasthan"
+          ],
+          "opts_hi": [
+            "महाराष्ट्र",
+            "बिहार",
+            "उत्तर प्रदेश",
+            "राजस्थान"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which gland is known as the \"Master Gland\" of the human body?",
+          "q_hi": "मानव शरीर की \"मास्टर ग्रंथि\" के रूप में कौन सी ग्रंथि जानी जाती है?",
+          "opts": [
+            "Thyroid gland",
+            "Pituitary gland",
+            "Adrenal gland",
+            "Pancreas"
+          ],
+          "opts_hi": [
+            "थायरॉइड ग्रंथि",
+            "पिट्यूटरी ग्रंथि",
+            "अधिवृक्क ग्रंथि",
+            "अग्न्याशय"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "How many fundamental rights are guaranteed by the Indian Constitution?",
+          "q_hi": "भारतीय संविधान द्वारा कितने मौलिक अधिकारों की गारंटी दी गई है?",
+          "opts": [
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          "opts_hi": [
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "What is the SI unit of temperature?",
+          "q_hi": "तापमान की SI इकाई क्या है?",
+          "opts": [
+            "Celsius",
+            "Fahrenheit",
+            "Kelvin",
+            "Rankine"
+          ],
+          "opts_hi": [
+            "सेल्सियस",
+            "फारेनहाइट",
+            "केल्विन",
+            "रैंकिन"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        }
+      ]
     }
   ]
 }
