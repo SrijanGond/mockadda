@@ -4767,6 +4767,32 @@
           "subject": "General Knowledge"
         }
       ]
+    },
+    {
+      "id": "roaro_prelims_22",
+      "title": "RO/ARO Prelims Mock Test 22",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which vitamin is primarily obtained from sunlight?",
+          "q_hi": "कौन सा विटामिन मुख्य रूप से सूर्य के प्रकाश से प्राप्त होता है?",
+          "opts": [
+            "Vitamin A",
+            "Vitamin B",
+            "Vitamin C",
+            "Vitamin D"
+          ],
+          "opts_hi": [
+            "विटामिन A",
+            "विटामिन B",
+            "विटामिन C",
+            "विटामिन D"
+          ],
+          "ans": 3,
+          "subject": "General Knowledge"
+        }
+      ]
     }
   ]
 }
