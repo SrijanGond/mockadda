@@ -338,6 +338,852 @@
       ],
       "ans": 0,
       "subject": "History"
+    },
+    {
+      "q": "Who was the founder of the Mauryan Empire?",
+      "q_hi": "मौर्य साम्राज्य के संस्थापक कौन थे?",
+      "opts": [
+        "Ashoka",
+        "Chandragupta Maurya",
+        "Bindusara",
+        "Bimbisara"
+      ],
+      "opts_hi": [
+        "अशोक",
+        "चंद्रगुप्त मौर्य",
+        "बिंदुसार",
+        "बिंबिसार"
+      ],
+      "ans": 1,
+      "subject": "History"
+    },
+    {
+      "q": "Who built the Taj Mahal?",
+      "q_hi": "ताज महल का निर्माण किसने करवाया?",
+      "opts": [
+        "Shah Jahan",
+        "Akbar",
+        "Jahangir",
+        "Aurangzeb"
+      ],
+      "opts_hi": [
+        "शाहजहाँ",
+        "अकबर",
+        "जहाँगीर",
+        "औरंगजेब"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Who gave the slogan \"Inquilab Zindabad\"?",
+      "q_hi": "इंकलाब जिंदाबाद का नारा किसने दिया?",
+      "opts": [
+        "Bhagat Singh",
+        "Mahatma Gandhi",
+        "Subhas Chandra Bose",
+        "Lala Lajpat Rai"
+      ],
+      "opts_hi": [
+        "भगत सिंह",
+        "महात्मा गांधी",
+        "सुभाष चंद्र बोस",
+        "लाला लाजपत राय"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Who wrote the book 'Arthashastra'?",
+      "q_hi": "अर्थशास्त्र' पुस्तक किसने लिखी?",
+      "opts": [
+        "Chanakya",
+        "Ashoka",
+        "Harsha",
+        "Kautilya"
+      ],
+      "opts_hi": [
+        "चाणक्य",
+        "अशोक",
+        "हर्षवर्धन",
+        "कौटिल्य"
+      ],
+      "ans": 3,
+      "subject": "History"
+    },
+    {
+      "q": "Who was the founder of the Delhi Sultanate?",
+      "q_hi": "दिल्ली सल्तनत के संस्थापक कौन थे?",
+      "opts": [
+        "Qutb-ud-din Aibak",
+        "Iltutmish",
+        "Balban",
+        "Alauddin Khilji"
+      ],
+      "opts_hi": [
+        "कुतुबुद्दीन ऐबक",
+        "इल्तुतमिश",
+        "बलबन",
+        "अलाउद्दीन खिलजी"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Who was the leader of the 1857 Revolt in Kanpur?",
+      "q_hi": "1857 के विद्रोह में कानपुर के नेता कौन थे?",
+      "opts": [
+        "Tantia Tope",
+        "Nana Saheb",
+        "Rani Lakshmibai",
+        "Bahadur Shah Zafar"
+      ],
+      "opts_hi": [
+        "तात्या टोपे",
+        "नाना साहेब",
+        "रानी लक्ष्मीबाई",
+        "बहादुर शाह ज़फर"
+      ],
+      "ans": 1,
+      "subject": "History"
+    },
+    {
+      "q": "Who founded the Indian National Congress?",
+      "q_hi": "भारतीय राष्ट्रीय कांग्रेस की स्थापना किसने की?",
+      "opts": [
+        "A.O. Hume",
+        "W.C. Bonnerjee",
+        "Dadabhai Naoroji",
+        "B.G. Tilak"
+      ],
+      "opts_hi": [
+        "ए.ओ. ह्यूम",
+        "डब्ल्यू.सी. बनर्जी",
+        "दादाभाई नौरोजी",
+        "बी.जी. तिलक"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Who built the Qutub Minar?",
+      "q_hi": "कुतुब मीनार का निर्माण किसने करवाया?",
+      "opts": [
+        "Qutb-ud-din Aibak",
+        "Iltutmish",
+        "Alauddin Khilji",
+        "Firoz Shah Tughlaq"
+      ],
+      "opts_hi": [
+        "कुतुबुद्दीन ऐबक",
+        "इल्तुतमिश",
+        "अलाउद्दीन खिलजी",
+        "फिरोज शाह तुगलक"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "The Dandi March was a part of which movement?",
+      "q_hi": "दांडी मार्च किस आंदोलन का हिस्सा था?",
+      "opts": [
+        "Non-Cooperation",
+        "Civil Disobedience",
+        "Quit India",
+        "Swadeshi"
+      ],
+      "opts_hi": [
+        "असहयोग",
+        "सविनय अवज्ञा",
+        "भारत छोड़ो",
+        "स्वदेशी"
+      ],
+      "ans": 1,
+      "subject": "History"
+    },
+    {
+      "q": "Who was the author of 'Meghaduta'?",
+      "q_hi": "मेघदूत' के लेखक कौन थे?",
+      "opts": [
+        "Kalidas",
+        "Valmiki",
+        "Tulsidas",
+        "Chanakya"
+      ],
+      "opts_hi": [
+        "कालिदास",
+        "वाल्मीकि",
+        "तुलसीदास",
+        "चाणक्य"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Who was the first President of the Indian National Congress?",
+      "q_hi": "भारतीय राष्ट्रीय कांग्रेस के पहले अध्यक्ष कौन थे?",
+      "opts": [
+        "W.C. Bonnerjee",
+        "Dadabhai Naoroji",
+        "A.O. Hume",
+        "Gopal Krishna Gokhale"
+      ],
+      "opts_hi": [
+        "डब्ल्यू.सी. बनर्जी",
+        "दादाभाई नौरोजी",
+        "ए.ओ. ह्यूम",
+        "गोपाल कृष्ण गोखले"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Who was the founder of the Mughal Empire?",
+      "q_hi": "मुगल साम्राज्य के संस्थापक कौन थे?",
+      "opts": [
+        "Babur",
+        "Akbar",
+        "Humayun",
+        "Shah Jahan"
+      ],
+      "opts_hi": [
+        "बाबर",
+        "अकबर",
+        "हुमायूं",
+        "शाहजहाँ"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "The Partition of Bengal took place in which year?",
+      "q_hi": "बंगाल का विभाजन किस वर्ष हुआ?",
+      "opts": [
+        "1905",
+        "1911",
+        "1947",
+        "1857"
+      ],
+      "opts_hi": [
+        "1905",
+        "1911",
+        "1947",
+        "1857"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Which emperor built the Grand Trunk Road?",
+      "q_hi": "ग्रैंड ट्रंक रोड का निर्माण किस सम्राट ने करवाया?",
+      "opts": [
+        "Sher Shah Suri",
+        "Ashoka",
+        "Akbar",
+        "Chandragupta Maurya"
+      ],
+      "opts_hi": [
+        "शेर शाह सूरी",
+        "अशोक",
+        "अकबर",
+        "चंद्रगुप्त मौर्य"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Who was the founder of the Brahmo Samaj?",
+      "q_hi": "ब्राह्मो समाज के संस्थापक कौन थे?",
+      "opts": [
+        "Raja Ram Mohan Roy",
+        "Swami Vivekananda",
+        "Dayanand Saraswati",
+        "Ishwar Chandra Vidyasagar"
+      ],
+      "opts_hi": [
+        "राजा राममोहन राय",
+        "स्वामी विवेकानंद",
+        "दयानंद सरस्वती",
+        "ईश्वर चंद्र विद्यासागर"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Who was the last Mughal Emperor?",
+      "q_hi": "अंतिम मुगल सम्राट कौन था?",
+      "opts": [
+        "Bahadur Shah Zafar",
+        "Aurangzeb",
+        "Shah Jahan",
+        "Akbar"
+      ],
+      "opts_hi": [
+        "बहादुर शाह ज़फर",
+        "औरंगजेब",
+        "शाहजहाँ",
+        "अकबर"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "The Rowlatt Act was passed in which year?",
+      "q_hi": "रोलट एक्ट किस वर्ष पारित हुआ?",
+      "opts": [
+        "1919",
+        "1920",
+        "1935",
+        "1942"
+      ],
+      "opts_hi": [
+        "1919",
+        "1920",
+        "1935",
+        "1942"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Which king is associated with the Kalinga War?",
+      "q_hi": "कलिंग युद्ध किस राजा से संबंधित है?",
+      "opts": [
+        "Ashoka",
+        "Chandragupta Maurya",
+        "Samudragupta",
+        "Harsha"
+      ],
+      "opts_hi": [
+        "अशोक",
+        "चंद्रगुप्त मौर्य",
+        "समुद्रगुप्त",
+        "हर्षवर्धन"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Who was the Viceroy during the Jallianwala Bagh Massacre?",
+      "q_hi": "जलियांवाला बाग हत्याकांड के समय वायसराय कौन था?",
+      "opts": [
+        "Lord Chelmsford",
+        "Lord Irwin",
+        "Lord Reading",
+        "Lord Linlithgow"
+      ],
+      "opts_hi": [
+        "लॉर्ड चेम्सफोर्ड",
+        "लॉर्ड इरविन",
+        "लॉर्ड रीडिंग",
+        "लॉर्ड लिनलिथगो"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Who built the Red Fort in Delhi?",
+      "q_hi": "दिल्ली का लाल किला किसने बनवाया?",
+      "opts": [
+        "Shah Jahan",
+        "Akbar",
+        "Aurangzeb",
+        "Humayun"
+      ],
+      "opts_hi": [
+        "शाहजहाँ",
+        "अकबर",
+        "औरंगजेब",
+        "हुमायूं"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "The Swadeshi Movement was launched in response to which event?",
+      "q_hi": "स्वदेशी आंदोलन किस घटना के विरोध में शुरू हुआ?",
+      "opts": [
+        "Partition of Bengal",
+        "Rowlatt Act",
+        "Jallianwala Bagh",
+        "Non-Cooperation"
+      ],
+      "opts_hi": [
+        "बंगाल विभाजन",
+        "रोलट एक्ट",
+        "जलियांवाला बाग",
+        "असहयोग"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Who was the founder of the Gupta Empire?",
+      "q_hi": "गुप्त साम्राज्य के संस्थापक कौन थे?",
+      "opts": [
+        "Chandragupta I",
+        "Samudragupta",
+        "Chandragupta II",
+        "Skandagupta"
+      ],
+      "opts_hi": [
+        "चंद्रगुप्त I",
+        "समुद्रगुप्त",
+        "चंद्रगुप्त II",
+        "स्कंदगुप्त"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Who was known as the 'Frontier Gandhi'?",
+      "q_hi": "सरहदी गांधी' किसे कहा जाता है?",
+      "opts": [
+        "Khan Abdul Ghaffar Khan",
+        "Mahatma Gandhi",
+        "Subhas Chandra Bose",
+        "Lala Lajpat Rai"
+      ],
+      "opts_hi": [
+        "खान अब्दुल गफ्फार खान",
+        "महात्मा गांधी",
+        "सुभाष चंद्र बोस",
+        "लाला लाजपत राय"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Who was the founder of the Slave Dynasty?",
+      "q_hi": "गुलाम वंश के संस्थापक कौन थे?",
+      "opts": [
+        "Qutb-ud-din Aibak",
+        "Iltutmish",
+        "Balban",
+        "Alauddin Khilji"
+      ],
+      "opts_hi": [
+        "कुतुबुद्दीन ऐबक",
+        "इल्तुतमिश",
+        "बलबन",
+        "अलाउद्दीन खिलजी"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "The Quit India Resolution was passed in which year?",
+      "q_hi": "भारत छोड़ो प्रस्ताव किस वर्ष पारित हुआ?",
+      "opts": [
+        "1942",
+        "1940",
+        "1930",
+        "1920"
+      ],
+      "opts_hi": [
+        "1942",
+        "1940",
+        "1930",
+        "1920"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Which emperor is known for the rock edicts?",
+      "q_hi": "शिलालेखों के लिए कौन से सम्राट प्रसिद्ध हैं?",
+      "opts": [
+        "Ashoka",
+        "Chandragupta Maurya",
+        "Samudragupta",
+        "Harsha"
+      ],
+      "opts_hi": [
+        "अशोक",
+        "चंद्रगुप्त मौर्य",
+        "समुद्रगुप्त",
+        "हर्षवर्धन"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Who was the first Indian to win the Nobel Prize?",
+      "q_hi": "नोबेल पुरस्कार जीतने वाले पहले भारतीय कौन थे?",
+      "opts": [
+        "Rabindranath Tagore",
+        "C.V. Raman",
+        "Mother Teresa",
+        "Amartya Sen"
+      ],
+      "opts_hi": [
+        "रवींद्रनाथ टैगोर",
+        "सी.वी. रमन",
+        "मदर टेरेसा",
+        "अमर्त्य सेन"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Who built the Jama Masjid in Delhi?",
+      "q_hi": "दिल्ली की जामा मस्जिद किसने बनवाई?",
+      "opts": [
+        "Shah Jahan",
+        "Akbar",
+        "Aurangzeb",
+        "Humayun"
+      ],
+      "opts_hi": [
+        "शाहजहाँ",
+        "अकबर",
+        "औरंगजेब",
+        "हुमायूं"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "The Simon Commission was boycotted because?",
+      "q_hi": "साइमन कमीशन का बहिष्कार क्यों किया गया?",
+      "opts": [
+        "No Indian member",
+        "All British members",
+        "Harsh policies",
+        "None"
+      ],
+      "opts_hi": [
+        "कोई भारतीय सदस्य नहीं",
+        "सभी ब्रिटिश सदस्य",
+        "कठोर नीतियां",
+        "कोई नहीं"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Which Veda is the oldest?",
+      "q_hi": "सबसे पुराना वेद कौन सा है?",
+      "opts": [
+        "Rigveda",
+        "Samaveda",
+        "Yajurveda",
+        "Atharvaveda"
+      ],
+      "opts_hi": [
+        "ऋग्वेद",
+        "सामवेद",
+        "यजुर्वेद",
+        "अथर्ववेद"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Who was the President of the Lahore Session of Congress in 1929?",
+      "q_hi": "1929 के लाहौर अधिवेशन के अध्यक्ष कौन थे?",
+      "opts": [
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Subhas Chandra Bose",
+        "Motilal Nehru"
+      ],
+      "opts_hi": [
+        "जवाहरलाल नेहरू",
+        "महात्मा गांधी",
+        "सुभाष चंद्र बोस",
+        "मोतीलाल नेहरू"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Who was the founder of the Khilji Dynasty?",
+      "q_hi": "खिलजी वंश के संस्थापक कौन थे?",
+      "opts": [
+        "Jalaluddin Khilji",
+        "Alauddin Khilji",
+        "Qutb-ud-din Aibak",
+        "Balban"
+      ],
+      "opts_hi": [
+        "जलालुद्दीन खिलजी",
+        "अलाउद्दीन खिलजी",
+        "कुतुबुद्दीन ऐबक",
+        "बलबन"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "The Chauri Chaura incident led to the suspension of which movement?",
+      "q_hi": "चौरी-चौरा घटना किस आंदोलन को निलंबित करने का कारण बनी?",
+      "opts": [
+        "Non-Cooperation",
+        "Civil Disobedience",
+        "Quit India",
+        "Swadeshi"
+      ],
+      "opts_hi": [
+        "असहयोग",
+        "सविनय अवज्ञा",
+        "भारत छोड़ो",
+        "स्वदेशी"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Which king is associated with the Iron Pillar of Delhi?",
+      "q_hi": "दिल्ली का लौह स्तंभ किस राजा से संबंधित है?",
+      "opts": [
+        "Chandragupta II",
+        "Ashoka",
+        "Samudragupta",
+        "Harsha"
+      ],
+      "opts_hi": [
+        "चंद्रगुप्त II",
+        "अशोक",
+        "समुद्रगुप्त",
+        "हर्षवर्धन"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Who was the founder of the All India Muslim League?",
+      "q_hi": "ऑल इंडिया मुस्लिम लीग के संस्थापक कौन थे?",
+      "opts": [
+        "Aga Khan",
+        "Muhammad Ali Jinnah",
+        "Sir Syed Ahmed Khan",
+        "Viceroy Minto"
+      ],
+      "opts_hi": [
+        "आगा खान",
+        "मुहम्मद अली जिन्ना",
+        "सर सैयद अहमद खान",
+        "वायसराय मिंटो"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Who built the Gol Gumbaz?",
+      "q_hi": "गोल गुम्बज किसने बनवाया?",
+      "opts": [
+        "Adil Shah",
+        "Shah Jahan",
+        "Akbar",
+        "Aurangzeb"
+      ],
+      "opts_hi": [
+        "आदिल शाह",
+        "शाहजहाँ",
+        "अकबर",
+        "औरंगजेब"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "The Poona Pact was signed between whom?",
+      "q_hi": "पूना समझौता किनके बीच हुआ?",
+      "opts": [
+        "Gandhi and Ambedkar",
+        "Nehru and Jinnah",
+        "Gandhi and Irwin",
+        "None"
+      ],
+      "opts_hi": [
+        "गांधी और आंबेडकर",
+        "नेहरू और जिन्ना",
+        "गांधी और इरविन",
+        "कोई नहीं"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Which Gupta ruler is known as the 'Napoleon of India'?",
+      "q_hi": "भारत का नेपोलियन' किस गुप्त शासक को कहा जाता है?",
+      "opts": [
+        "Samudragupta",
+        "Chandragupta II",
+        "Skandagupta",
+        "Chandragupta I"
+      ],
+      "opts_hi": [
+        "समुद्रगुप्त",
+        "चंद्रगुप्त II",
+        "स्कंदगुप्त",
+        "चंद्रगुप्त I"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Who was the first woman President of the Indian National Congress?",
+      "q_hi": "भारतीय राष्ट्रीय कांग्रेस की पहली महिला अध्यक्ष कौन थीं?",
+      "opts": [
+        "Annie Besant",
+        "Sarojini Naidu",
+        "Indira Gandhi",
+        "Vijaya Lakshmi Pandit"
+      ],
+      "opts_hi": [
+        "एनी बेसेंट",
+        "सरोजिनी नायडू",
+        "इंदिरा गांधी",
+        "विजय लक्ष्मी पंडित"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Who was the founder of the Tughlaq Dynasty?",
+      "q_hi": "तुगलक वंश के संस्थापक कौन थे?",
+      "opts": [
+        "Ghiyasuddin Tughlaq",
+        "Firoz Shah Tughlaq",
+        "Muhammad bin Tughlaq",
+        "Alauddin Khilji"
+      ],
+      "opts_hi": [
+        "गयासुद्दीन तुगलक",
+        "फिरोज शाह तुगलक",
+        "मुहम्मद बिन तुगलक",
+        "अलाउद्दीन खिलजी"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "The Lucknow Pact was signed in which year?",
+      "q_hi": "लखनऊ समझौता किस वर्ष हुआ?",
+      "opts": [
+        "1916",
+        "1915",
+        "1920",
+        "1906"
+      ],
+      "opts_hi": [
+        "1916",
+        "1915",
+        "1920",
+        "1906"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Which king performed the Ashwamedha Yagna?",
+      "q_hi": "अश्वमेध यज्ञ किस राजा ने किया?",
+      "opts": [
+        "Samudragupta",
+        "Ashoka",
+        "Chandragupta Maurya",
+        "Harsha"
+      ],
+      "opts_hi": [
+        "समुद्रगुप्त",
+        "अशोक",
+        "चंद्रगुप्त मौर्य",
+        "हर्षवर्धन"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Who was known as the 'Lion of Punjab'?",
+      "q_hi": "पंजाब का शेर' किसे कहा जाता है?",
+      "opts": [
+        "Lala Lajpat Rai",
+        "Bal Gangadhar Tilak",
+        "Bipin Chandra Pal",
+        "Gopal Krishna Gokhale"
+      ],
+      "opts_hi": [
+        "लाला लाजपत राय",
+        "बाल गंगाधर तिलक",
+        "बिपिन चंद्र पाल",
+        "गोपाल कृष्ण गोखले"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Who built the Humayun's Tomb?",
+      "q_hi": "हुमायूं का मकबरा किसने बनवाया?",
+      "opts": [
+        "Humayun's widow",
+        "Akbar",
+        "Shah Jahan",
+        "Aurangzeb"
+      ],
+      "opts_hi": [
+        "हुमायूं की विधवा",
+        "अकबर",
+        "शाहजहाँ",
+        "औरंगजेब"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "The Montagu-Chelmsford Reforms were introduced in which year?",
+      "q_hi": "मॉन्टेग्यू-चेम्सफोर्ड सुधार किस वर्ष लागू किए गए?",
+      "opts": [
+        "1919",
+        "1909",
+        "1935",
+        "1947"
+      ],
+      "opts_hi": [
+        "1919",
+        "1909",
+        "1935",
+        "1947"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Which dynasty is known for the construction of Ajanta Caves?",
+      "q_hi": "अजंता गुफाओं के निर्माण के लिए कौन सा वंश प्रसिद्ध है?",
+      "opts": [
+        "Satavahana",
+        "Maurya",
+        "Gupta",
+        "Vakataka"
+      ],
+      "opts_hi": [
+        "सातवाहन",
+        "मौर्य",
+        "गुप्त",
+        "वाकाटक"
+      ],
+      "ans": 3,
+      "subject": "History"
+    },
+    {
+      "q": "Who was the first Indian woman to become President of the Indian National Congress?",
+      "q_hi": "भारतीय राष्ट्रीय कांग्रेस की पहली भारतीय महिला अध्यक्ष कौन थीं?",
+      "opts": [
+        "Sarojini Naidu",
+        "Annie Besant",
+        "Indira Gandhi",
+        "Kasturba Gandhi"
+      ],
+      "opts_hi": [
+        "सरोजिनी नायडू",
+        "एनी बेसेंट",
+        "इंदिरा गांधी",
+        "कस्तूरबा गांधी"
+      ],
+      "ans": 1,
+      "subject": "History"
     }
   ]
 }
