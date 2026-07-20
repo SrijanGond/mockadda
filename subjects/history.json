@@ -1184,6 +1184,744 @@
       ],
       "ans": 1,
       "subject": "History"
+    },
+    {
+      "q": "Which Gupta ruler is known for his patronage of the Nalanda University?",
+      "q_hi": "नालंदा विश्वविद्यालय के संरक्षण के लिए कौन से गुप्त शासक प्रसिद्ध हैं?",
+      "opts": [
+        "Chandragupta II",
+        "Samudragupta",
+        "Skandagupta",
+        "Kumaragupta I"
+      ],
+      "opts_hi": [
+        "चंद्रगुप्त II",
+        "समुद्रगुप्त",
+        "स्कंदगुप्त",
+        "कुमारगुप्त I"
+      ],
+      "ans": 3,
+      "subject": "History"
+    },
+    {
+      "q": "Who was the last ruler of the Lodi Dynasty?",
+      "q_hi": "लोदी वंश का अंतिम शासक कौन था?",
+      "opts": [
+        "Ibrahim Lodi",
+        "Sikandar Lodi",
+        "Bahlul Lodi",
+        "None"
+      ],
+      "opts_hi": [
+        "इब्राहिम लोदी",
+        "सिकंदर लोदी",
+        "बहलूल लोदी",
+        "कोई नहीं"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "The Ilbert Bill controversy took place during the tenure of which Viceroy?",
+      "q_hi": "इल्बर्ट बिल विवाद किस वायसराय के कार्यकाल में हुआ?",
+      "opts": [
+        "Lord Ripon",
+        "Lord Lytton",
+        "Lord Curzon",
+        "Lord Dufferin"
+      ],
+      "opts_hi": [
+        "लॉर्ड रिपन",
+        "लॉर्ड लिटन",
+        "लॉर्ड कर्जन",
+        "लॉर्ड डफरिन"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Which Mauryan ruler is associated with the construction of the Sudarshana Lake?",
+      "q_hi": "सुदर्शन झील के निर्माण से कौन से मौर्य शासक जुड़े हैं?",
+      "opts": [
+        "Chandragupta Maurya",
+        "Ashoka",
+        "Bindusara",
+        "None"
+      ],
+      "opts_hi": [
+        "चंद्रगुप्त मौर्य",
+        "अशोक",
+        "बिंदुसार",
+        "कोई नहीं"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Who introduced the Mansabdari System?",
+      "q_hi": "मनसबदारी प्रणाली किसने शुरू की?",
+      "opts": [
+        "Akbar",
+        "Shah Jahan",
+        "Aurangzeb",
+        "Babur"
+      ],
+      "opts_hi": [
+        "अकबर",
+        "शाहजहाँ",
+        "औरंगजेब",
+        "बाबर"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "The Hunter Commission was appointed in which year?",
+      "q_hi": "हंटर आयोग किस वर्ष नियुक्त किया गया?",
+      "opts": [
+        "1882",
+        "1902",
+        "1854",
+        "1929"
+      ],
+      "opts_hi": [
+        "1882",
+        "1902",
+        "1854",
+        "1929"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Which dynasty is associated with the construction of the Ellora Caves?",
+      "q_hi": "एलोरा गुफाओं के निर्माण से कौन सा वंश जुड़ा है?",
+      "opts": [
+        "Rashtrakuta",
+        "Chalukya",
+        "Pallava",
+        "Satavahana"
+      ],
+      "opts_hi": [
+        "राष्ट्रकूट",
+        "चालुक्य",
+        "पल्लव",
+        "सातवाहन"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "The Gandhi-Irwin Pact was signed in which year?",
+      "q_hi": "गांधी-इरविन समझौता किस वर्ष हुआ?",
+      "opts": [
+        "1931",
+        "1930",
+        "1929",
+        "1942"
+      ],
+      "opts_hi": [
+        "1931",
+        "1930",
+        "1929",
+        "1942"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Who was the founder of the Bahmani Kingdom?",
+      "q_hi": "बहमनी राज्य के संस्थापक कौन थे?",
+      "opts": [
+        "Hasan Gangu",
+        "Firoz Shah Bahmani",
+        "Muhammad Shah",
+        "None"
+      ],
+      "opts_hi": [
+        "हसन गंगू",
+        "फिरोज शाह बहमनी",
+        "मुहम्मद शाह",
+        "कोई नहीं"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "The Vernacular Press Act was passed during the tenure of which Viceroy?",
+      "q_hi": "वर्नाकुलर प्रेस एक्ट किस वायसराय के कार्यकाल में पारित हुआ?",
+      "opts": [
+        "Lord Lytton",
+        "Lord Ripon",
+        "Lord Curzon",
+        "Lord Dufferin"
+      ],
+      "opts_hi": [
+        "लॉर्ड लिटन",
+        "लॉर्ड रिपन",
+        "लॉर्ड कर्जन",
+        "लॉर्ड डफरिन"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Which ruler is known for the rock-cut architecture at Mahabalipuram?",
+      "q_hi": "महाबलीपुरम में शैलकृत वास्तुकला के लिए कौन से शासक प्रसिद्ध हैं?",
+      "opts": [
+        "Pallava",
+        "Chola",
+        "Chalukya",
+        "Pandya"
+      ],
+      "opts_hi": [
+        "पल्लव",
+        "चोल",
+        "चालुक्य",
+        "पांड्य"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Who introduced the Zabt revenue system?",
+      "q_hi": "जब्त राजस्व प्रणाली किसने शुरू की?",
+      "opts": [
+        "Akbar",
+        "Shah Jahan",
+        "Aurangzeb",
+        "Sher Shah Suri"
+      ],
+      "opts_hi": [
+        "अकबर",
+        "शाहजहाँ",
+        "औरंगजेब",
+        "शेर शाह सूरी"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "The Khilafat Movement was launched in support of which issue?",
+      "q_hi": "खिलाफत आंदोलन किस मुद्दे के समर्थन में शुरू हुआ?",
+      "opts": [
+        "Ottoman Caliphate",
+        "Bengal Partition",
+        "Rowlatt Act",
+        "Jallianwala Bagh"
+      ],
+      "opts_hi": [
+        "ओटोमन खलीफा",
+        "बंगाल विभाजन",
+        "रोलट एक्ट",
+        "जलियांवाला बाग"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Which Mauryan ruler sent missionaries to Sri Lanka?",
+      "q_hi": "श्रीलंका में मिशनरी किस मौर्य शासक ने भेजे?",
+      "opts": [
+        "Ashoka",
+        "Chandragupta Maurya",
+        "Bindusara",
+        "None"
+      ],
+      "opts_hi": [
+        "अशोक",
+        "चंद्रगुप्त मौर्य",
+        "बिंदुसार",
+        "कोई नहीं"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Who was the founder of the Vijayanagara Empire?",
+      "q_hi": "विजयनगर साम्राज्य के संस्थापक कौन थे?",
+      "opts": [
+        "Harihara and Bukka",
+        "Krishnadevaraya",
+        "Rama Raya",
+        "None"
+      ],
+      "opts_hi": [
+        "हरिहर और बुक्का",
+        "कृष्णदेवराय",
+        "राम राय",
+        "कोई नहीं"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "The Cripps Mission was sent in which year?",
+      "q_hi": "क्रिप्स मिशन किस वर्ष भेजा गया?",
+      "opts": [
+        "1942",
+        "1940",
+        "1935",
+        "1946"
+      ],
+      "opts_hi": [
+        "1942",
+        "1940",
+        "1935",
+        "1946"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Which dynasty is associated with the construction of the Sanchi Stupa?",
+      "q_hi": "सांची स्तूप के निर्माण से कौन सा वंश जुड़ा है?",
+      "opts": [
+        "Maurya",
+        "Gupta",
+        "Shunga",
+        "Satavahana"
+      ],
+      "opts_hi": [
+        "मौर्य",
+        "गुप्त",
+        "शुंग",
+        "सातवाहन"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Who introduced the Iqta system?",
+      "q_hi": "इक्ता प्रणाली किसने शुरू की?",
+      "opts": [
+        "Iltutmish",
+        "Qutb-ud-din Aibak",
+        "Alauddin Khilji",
+        "Balban"
+      ],
+      "opts_hi": [
+        "इल्तुतमिश",
+        "कुतुबुद्दीन ऐबक",
+        "अलाउद्दीन खिलजी",
+        "बलबन"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "The Cabinet Mission Plan was proposed in which year?",
+      "q_hi": "कैबिनेट मिशन योजना किस वर्ष प्रस्तावित की गई?",
+      "opts": [
+        "1946",
+        "1942",
+        "1935",
+        "1947"
+      ],
+      "opts_hi": [
+        "1946",
+        "1942",
+        "1935",
+        "1947"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Which ruler is known for the construction of the Vikramshila University?",
+      "q_hi": "विक्रमशिला विश्वविद्यालय के निर्माण के लिए कौन से शासक प्रसिद्ध हैं?",
+      "opts": [
+        "Dharmapala",
+        "Harsha",
+        "Ashoka",
+        "Chandragupta"
+      ],
+      "opts_hi": [
+        "धर्मपाल",
+        "हर्षवर्धन",
+        "अशोक",
+        "चंद्रगुप्त"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Who was the founder of the Sur Empire?",
+      "q_hi": "सूर साम्राज्य के संस्थापक कौन थे?",
+      "opts": [
+        "Sher Shah Suri",
+        "Akbar",
+        "Babur",
+        "Humayun"
+      ],
+      "opts_hi": [
+        "शेर शाह सूरी",
+        "अकबर",
+        "बाबर",
+        "हुमायूं"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "The August Offer was made in which year?",
+      "q_hi": "अगस्त प्रस्ताव किस वर्ष दिया गया?",
+      "opts": [
+        "1940",
+        "1942",
+        "1935",
+        "1946"
+      ],
+      "opts_hi": [
+        "1940",
+        "1942",
+        "1935",
+        "1946"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Which king is associated with the construction of the Brihadisvara Temple?",
+      "q_hi": "बृहदीश्वर मंदिर के निर्माण से कौन से राजा जुड़े हैं?",
+      "opts": [
+        "Rajaraja Chola I",
+        "Rajendra Chola",
+        "Pallava",
+        "Chalukya"
+      ],
+      "opts_hi": [
+        "राजराज चोल I",
+        "राजेंद्र चोल",
+        "पल्लव",
+        "चालुक्य"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Who introduced the market reforms (Sawai) in the Delhi Sultanate?",
+      "q_hi": "दिल्ली सल्तनत में बाजार सुधार (सवाई) किसने शुरू किए?",
+      "opts": [
+        "Alauddin Khilji",
+        "Balban",
+        "Iltutmish",
+        "Firoz Shah Tughlaq"
+      ],
+      "opts_hi": [
+        "अलाउद्दीन खिलजी",
+        "बलबन",
+        "इल्तुतमिश",
+        "फिरोज शाह तुगलक"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "The Gandhi-Irwin Pact was signed after which event?",
+      "q_hi": "गांधी-इरविन समझौता किस घटना के बाद हुआ?",
+      "opts": [
+        "Civil Disobedience Movement",
+        "Non-Cooperation Movement",
+        "Rowlatt Satyagraha",
+        "Quit India Movement"
+      ],
+      "opts_hi": [
+        "सविनय अवज्ञा आंदोलन",
+        "असहयोग आंदोलन",
+        "रोलट सत्याग्रह",
+        "भारत छोड़ो आंदोलन"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Which ruler is known for the construction of the Pillar Edicts?",
+      "q_hi": "स्तंभ लेखों के निर्माण के लिए कौन से शासक प्रसिद्ध हैं?",
+      "opts": [
+        "Ashoka",
+        "Chandragupta Maurya",
+        "Samudragupta",
+        "Harsha"
+      ],
+      "opts_hi": [
+        "अशोक",
+        "चंद्रगुप्त मौर्य",
+        "समुद्रगुप्त",
+        "हर्षवर्धन"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Which dynasty is associated with the construction of the Ajanta Caves?",
+      "q_hi": "अजंता गुफाओं के निर्माण से कौन सा वंश जुड़ा है?",
+      "opts": [
+        "Vakataka",
+        "Maurya",
+        "Gupta",
+        "Shunga"
+      ],
+      "opts_hi": [
+        "वाकाटक",
+        "मौर्य",
+        "गुप्त",
+        "शुंग"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Who introduced the Token Currency system?",
+      "q_hi": "टोकन मुद्रा प्रणाली किसने शुरू की?",
+      "opts": [
+        "Muhammad bin Tughlaq",
+        "Alauddin Khilji",
+        "Firoz Shah Tughlaq",
+        "Balban"
+      ],
+      "opts_hi": [
+        "मुहम्मद बिन तुगलक",
+        "अलाउद्दीन खिलजी",
+        "फिरोज शाह तुगलक",
+        "बलबन"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "The Cripps Mission offered which proposal?",
+      "q_hi": "क्रिप्स मिशन ने कौन सा प्रस्ताव दिया?",
+      "opts": [
+        "Dominion Status",
+        "Complete Independence",
+        "Partition",
+        "None"
+      ],
+      "opts_hi": [
+        "डोमिनियन स्टेटस",
+        "पूर्ण स्वराज",
+        "विभाजन",
+        "कोई नहीं"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Which ruler is known for the construction of the Nalanda University?",
+      "q_hi": "नालंदा विश्वविद्यालय के निर्माण के लिए कौन से शासक प्रसिद्ध हैं?",
+      "opts": [
+        "Kumaragupta I",
+        "Ashoka",
+        "Harsha",
+        "Samudragupta"
+      ],
+      "opts_hi": [
+        "कुमारगुप्त I",
+        "अशोक",
+        "हर्षवर्धन",
+        "समुद्रगुप्त"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Who was the founder of the Sayyid Dynasty?",
+      "q_hi": "सैय्यद वंश के संस्थापक कौन थे?",
+      "opts": [
+        "Khizr Khan",
+        "Firoz Shah Tughlaq",
+        "Bahlul Lodi",
+        "None"
+      ],
+      "opts_hi": [
+        "खिज्र खान",
+        "फिरोज शाह तुगलक",
+        "बहलूल लोदी",
+        "कोई नहीं"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "The Mountbatten Plan was announced in which year?",
+      "q_hi": "माउंटबेटन योजना किस वर्ष घोषित की गई?",
+      "opts": [
+        "1947",
+        "1946",
+        "1942",
+        "1935"
+      ],
+      "opts_hi": [
+        "1947",
+        "1946",
+        "1942",
+        "1935"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Which dynasty is associated with the construction of the Kailasa Temple at Ellora?",
+      "q_hi": "एलोरा के कैलाश मंदिर के निर्माण से कौन सा वंश जुड़ा है?",
+      "opts": [
+        "Rashtrakuta",
+        "Chalukya",
+        "Pallava",
+        "Chola"
+      ],
+      "opts_hi": [
+        "राष्ट्रकूट",
+        "चालुक्य",
+        "पल्लव",
+        "चोल"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Who introduced the Jizya tax on non-Muslims?",
+      "q_hi": "गैर-मुस्लिमों पर जजिया कर किसने लगाया?",
+      "opts": [
+        "Firoz Shah Tughlaq",
+        "Alauddin Khilji",
+        "Aurangzeb",
+        "Balban"
+      ],
+      "opts_hi": [
+        "फिरोज शाह तुगलक",
+        "अलाउद्दीन खिलजी",
+        "औरंगजेब",
+        "बलबन"
+      ],
+      "ans": 2,
+      "subject": "History"
+    },
+    {
+      "q": "The Wavell Plan was proposed in which year?",
+      "q_hi": "वेवेल योजना किस वर्ष प्रस्तावित की गई?",
+      "opts": [
+        "1945",
+        "1942",
+        "1946",
+        "1935"
+      ],
+      "opts_hi": [
+        "1945",
+        "1942",
+        "1946",
+        "1935"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Which ruler is known for the construction of the Great Stupa at Sanchi?",
+      "q_hi": "सांची के महान स्तूप के निर्माण के लिए कौन से शासक प्रसिद्ध हैं?",
+      "opts": [
+        "Ashoka",
+        "Chandragupta Maurya",
+        "Samudragupta",
+        "Harsha"
+      ],
+      "opts_hi": [
+        "अशोक",
+        "चंद्रगुप्त मौर्य",
+        "समुद्रगुप्त",
+        "हर्षवर्धन"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "The Cabinet Mission Plan proposed what?",
+      "q_hi": "कैबिनेट मिशन योजना ने क्या प्रस्तावित किया?",
+      "opts": [
+        "United India",
+        "Partition",
+        "Dominion Status",
+        "None"
+      ],
+      "opts_hi": [
+        "एकीकृत भारत",
+        "विभाजन",
+        "डोमिनियन स्टेटस",
+        "कोई नहीं"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Which dynasty is associated with the construction of the Elephanta Caves?",
+      "q_hi": "एलिफेंटा गुफाओं के निर्माण से कौन सा वंश जुड़ा है?",
+      "opts": [
+        "Rashtrakuta",
+        "Chalukya",
+        "Pallava",
+        "Maurya"
+      ],
+      "opts_hi": [
+        "राष्ट्रकूट",
+        "चालुक्य",
+        "पल्लव",
+        "मौर्य"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "The Mountbatten Plan led to what?",
+      "q_hi": "माउंटबेटन योजना के परिणामस्वरूप क्या हुआ?",
+      "opts": [
+        "Partition of India",
+        "Independence",
+        "Both",
+        "None"
+      ],
+      "opts_hi": [
+        "भारत का विभाजन",
+        "स्वतंत्रता",
+        "दोनों",
+        "कोई नहीं"
+      ],
+      "ans": 2,
+      "subject": "History"
+    },
+    {
+      "q": "Which ruler is known for the construction of the Brihadisvara Temple?",
+      "q_hi": "बृहदीश्वर मंदिर के निर्माण के लिए कौन से राजा प्रसिद्ध हैं?",
+      "opts": [
+        "Rajaraja Chola I",
+        "Rajendra Chola",
+        "Pallava",
+        "Chalukya"
+      ],
+      "opts_hi": [
+        "राजराज चोल I",
+        "राजेंद्र चोल",
+        "पल्लव",
+        "चालुक्य"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "The August Offer was made by which Viceroy?",
+      "q_hi": "अगस्त प्रस्ताव किस वायसराय द्वारा दिया गया?",
+      "opts": [
+        "Lord Linlithgow",
+        "Lord Wavell",
+        "Lord Mountbatten",
+        "Lord Irwin"
+      ],
+      "opts_hi": [
+        "लॉर्ड लिनलिथगो",
+        "लॉर्ड वेवेल",
+        "लॉर्ड माउंटबेटन",
+        "लॉर्ड इरविन"
+      ],
+      "ans": 0,
+      "subject": "History"
     }
   ]
 }
