@@ -2926,6 +2926,258 @@
       ],
       "ans": 0,
       "subject": "General Knowledge"
+    },
+    {
+      "q": "Which is India's highest civilian award?",
+      "q_hi": "भारत का सर्वोच्च नागरिक सम्मान कौन सा है?",
+      "opts": [
+        "Padma Vibhushan",
+        "Padma Bhushan",
+        "Bharat Ratna",
+        "Padma Shri"
+      ],
+      "opts_hi": [
+        "पद्म विभूषण",
+        "पद्म भूषण",
+        "भारत रत्न",
+        "पद्म श्री"
+      ],
+      "ans": 2,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who is the current President of India (as of 2026)?",
+      "q_hi": "भारत के वर्तमान राष्ट्रपति कौन हैं (2026 तक)?",
+      "opts": [
+        "Droupadi Murmu",
+        "Ram Nath Kovind",
+        "Pranab Mukherjee",
+        "Pratibha Patil"
+      ],
+      "opts_hi": [
+        "द्रौपदी मुर्मू",
+        "राम नाथ कोविंद",
+        "प्रणब मुखर्जी",
+        "प्रतिभा पाटिल"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who wrote 'Godan'?",
+      "q_hi": "गोदान' किसने लिखा?",
+      "opts": [
+        "Premchand",
+        "Rabindranath Tagore",
+        "Munshi Premchand",
+        "Jaishankar Prasad"
+      ],
+      "opts_hi": [
+        "प्रेमचंद",
+        "रवींद्रनाथ टैगोर",
+        "मुंशी प्रेमचंद",
+        "जयशंकर प्रसाद"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Bharatanatyam is the classical dance of which state?",
+      "q_hi": "भरतनाट्यम किस राज्य का शास्त्रीय नृत्य है?",
+      "opts": [
+        "Kerala",
+        "Tamil Nadu",
+        "Odisha",
+        "Karnataka"
+      ],
+      "opts_hi": [
+        "केरल",
+        "तमिलनाडु",
+        "ओडिशा",
+        "कर्नाटक"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "When is Independence Day celebrated in India?",
+      "q_hi": "भारत में स्वतंत्रता दिवस कब मनाया जाता है?",
+      "opts": [
+        "Sat Aug 15 2026 05:30:00 GMT+0530 (India Standard Time)",
+        "Mon Jan 26 2026 05:30:00 GMT+0530 (India Standard Time)",
+        "Fri Oct 02 2026 05:30:00 GMT+0530 (India Standard Time)",
+        "Fri Aug 14 2026 05:30:00 GMT+0530 (India Standard Time)"
+      ],
+      "opts_hi": [
+        "15 अगस्त",
+        "26 जनवरी",
+        "2 अक्टूबर",
+        "14 अगस्त"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "What is the capital of Australia?",
+      "q_hi": "ऑस्ट्रेलिया की राजधानी क्या है?",
+      "opts": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "opts_hi": [
+        "सिडनी",
+        "मेलबर्न",
+        "कैनबरा",
+        "पर्थ"
+      ],
+      "ans": 2,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "What is the GST rate on most essential items?",
+      "q_hi": "अधिकांश आवश्यक वस्तुओं पर GST दर क्या है?",
+      "opts": [
+        "0.05",
+        "0.12",
+        "0.18",
+        "0"
+      ],
+      "opts_hi": [
+        "0.05",
+        "0.12",
+        "0.18",
+        ""
+      ],
+      "ans": 3,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "When is Republic Day celebrated?",
+      "q_hi": "गणतंत्र दिवस कब मनाया जाता है?",
+      "opts": [
+        "Mon Jan 26 2026 05:30:00 GMT+0530 (India Standard Time)",
+        "Sat Aug 15 2026 05:30:00 GMT+0530 (India Standard Time)",
+        "Fri Oct 02 2026 05:30:00 GMT+0530 (India Standard Time)",
+        "Sat Sep 05 2026 05:30:00 GMT+0530 (India Standard Time)"
+      ],
+      "opts_hi": [
+        "26 जनवरी",
+        "15 अगस्त",
+        "2 अक्टूबर",
+        "5 सितंबर"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "What is the currency of Japan?",
+      "q_hi": "जापान की मुद्रा क्या है?",
+      "opts": [
+        "Yen",
+        "Won",
+        "Rupee",
+        "Dollar"
+      ],
+      "opts_hi": [
+        "येन",
+        "वॉन",
+        "रुपया",
+        "डॉलर"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who presents the Union Budget in India?",
+      "q_hi": "भारत में केंद्रीय बजट कौन पेश करता है?",
+      "opts": [
+        "President",
+        "Finance Minister",
+        "Prime Minister",
+        "RBI Governor"
+      ],
+      "opts_hi": [
+        "राष्ट्रपति",
+        "वित्त मंत्री",
+        "प्रधानमंत्री",
+        "आरबीआई गवर्नर"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "When is Teachers' Day celebrated in India?",
+      "q_hi": "भारत में शिक्षक दिवस कब मनाया जाता है?",
+      "opts": [
+        "Sat Sep 05 2026 05:30:00 GMT+0530 (India Standard Time)",
+        "Sat Nov 14 2026 05:30:00 GMT+0530 (India Standard Time)",
+        "Fri Oct 02 2026 05:30:00 GMT+0530 (India Standard Time)",
+        "Sat Aug 15 2026 05:30:00 GMT+0530 (India Standard Time)"
+      ],
+      "opts_hi": [
+        "5 सितंबर",
+        "14 नवंबर",
+        "2 अक्टूबर",
+        "15 अगस्त"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "What is the capital of France?",
+      "q_hi": "फ्रांस की राजधानी क्या है?",
+      "opts": [
+        "Paris",
+        "London",
+        "Berlin",
+        "Rome"
+      ],
+      "opts_hi": [
+        "पेरिस",
+        "लंदन",
+        "बर्लिन",
+        "रोम"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "What is the full form of GDP?",
+      "q_hi": "GDP का पूर्ण रूप क्या है?",
+      "opts": [
+        "Gross Domestic Product",
+        "Gross Development Product",
+        "General Domestic Product",
+        "None"
+      ],
+      "opts_hi": [
+        "ग्रॉस डोमेस्टिक प्रोडक्ट",
+        "ग्रॉस डेवलपमेंट प्रोडक्ट",
+        "जनरल डोमेस्टिक प्रोडक्ट",
+        "कोई नहीं"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "When is World Health Day celebrated?",
+      "q_hi": "विश्व स्वास्थ्य दिवस कब मनाया जाता है?",
+      "opts": [
+        "Tue Apr 07 2026 05:30:00 GMT+0530 (India Standard Time)",
+        "Sun Mar 08 2026 05:30:00 GMT+0530 (India Standard Time)",
+        "Fri Jun 05 2026 05:30:00 GMT+0530 (India Standard Time)",
+        "Wed Apr 22 2026 05:30:00 GMT+0530 (India Standard Time)"
+      ],
+      "opts_hi": [
+        "7 अप्रैल",
+        "8 मार्च",
+        "5 जून",
+        "22 अप्रैल"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
     }
   ]
 }
