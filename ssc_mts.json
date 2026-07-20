@@ -2392,6 +2392,86 @@
           "subject": "History"
         }
       ]
+    },
+    {
+      "id": "ssc_mts_29",
+      "title": "SSC MTS Mock Test 29",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What is the main function of RBI?",
+          "q_hi": "आरबीआई का मुख्य कार्य क्या है?",
+          "opts": [
+            "Monetary Policy",
+            "Fiscal Policy",
+            "Both",
+            "None"
+          ],
+          "opts_hi": [
+            "मौद्रिक नीति",
+            "राजकोषीय नीति",
+            "दोनों",
+            "कोई नहीं"
+          ],
+          "ans": 0,
+          "subject": "Economics"
+        },
+        {
+          "q": "What is the main function of NABARD?",
+          "q_hi": "नाबार्ड का मुख्य कार्य क्या है?",
+          "opts": [
+            "Rural Development",
+            "Urban Development",
+            "Industrial Development",
+            "None"
+          ],
+          "opts_hi": [
+            "ग्रामीण विकास",
+            "शहरी विकास",
+            "औद्योगिक विकास",
+            "कोई नहीं"
+          ],
+          "ans": 0,
+          "subject": "Economics"
+        },
+        {
+          "q": "What is the main function of SEBI?",
+          "q_hi": "SEBI का मुख्य कार्य क्या है?",
+          "opts": [
+            "Regulate securities market",
+            "Regulate banking",
+            "Regulate insurance",
+            "None"
+          ],
+          "opts_hi": [
+            "सिक्योरिटीज बाजार का नियमन",
+            "बैंकिंग का नियमन",
+            "बीमा का नियमन",
+            "कोई नहीं"
+          ],
+          "ans": 0,
+          "subject": "Economics"
+        },
+        {
+          "q": "What is the main objective of the Planning Commission?",
+          "q_hi": "योजना आयोग का मुख्य उद्देश्य क्या था?",
+          "opts": [
+            "Economic planning",
+            "Monetary policy",
+            "Fiscal policy",
+            "None"
+          ],
+          "opts_hi": [
+            "आर्थिक योजना",
+            "मौद्रिक नीति",
+            "राजकोषीय नीति",
+            "कोई नहीं"
+          ],
+          "ans": 0,
+          "subject": "Economics"
+        }
+      ]
     }
   ]
 }
