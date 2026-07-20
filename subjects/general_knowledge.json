@@ -2764,6 +2764,78 @@
       ],
       "ans": 0,
       "subject": "General Knowledge"
+    },
+    {
+      "q": "What does NABARD stand for?",
+      "q_hi": "NABARD का पूर्ण रूप क्या है?",
+      "opts": [
+        "National Bank for Agriculture and Rural Development",
+        "National Bank for Agricultural Research and Development",
+        "National Agricultural Bank and Rural Development",
+        "None of these"
+      ],
+      "opts_hi": [
+        "नेशनल बैंक फॉर एग्रीकल्चर एंड रूरल डेवलपमेंट",
+        "नेशनल बैंक फॉर एग्रीकल्चरल रिसर्च एंड डेवलपमेंट",
+        "नेशनल एग्रीकल्चरल बैंक एंड रूरल डेवलपमेंट",
+        "इनमें से कोई नहीं"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Where is the headquarters of Indian Railways?",
+      "q_hi": "भारतीय रेलवे का मुख्यालय कहाँ है?",
+      "opts": [
+        "New Delhi",
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
+      ],
+      "opts_hi": [
+        "नई दिल्ली",
+        "मुंबई",
+        "कोलकाता",
+        "चेन्नई"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "What is the chemical name of Vitamin C?",
+      "q_hi": "विटामिन C का रासायनिक नाम क्या है?",
+      "opts": [
+        "Ascorbic Acid",
+        "Citric Acid",
+        "Lactic Acid",
+        "Tartaric Acid"
+      ],
+      "opts_hi": [
+        "एस्कॉर्बिक एसिड",
+        "सिट्रिक एसिड",
+        "लैक्टिक एसिड",
+        "टार्टरिक एसिड"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which sport is associated with the term “Deuce”?",
+      "q_hi": "“ड्यूस” शब्द किस खेल से संबंधित है?",
+      "opts": [
+        "Badminton",
+        "Tennis",
+        "Cricket",
+        "Hockey"
+      ],
+      "opts_hi": [
+        "बैडमिंटन",
+        "टेनिस",
+        "क्रिकेट",
+        "हॉकी"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
     }
   ]
 }
