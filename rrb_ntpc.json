@@ -1213,6 +1213,158 @@
           "subject": "General Knowledge"
         }
       ]
+    },
+    {
+      "id": "rrb_ntpc_19",
+      "title": "RRB NTPC Mock Test 19",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "The Shevaroy Hills are located in which state of India?",
+          "q_hi": "शेवरॉय पहाड़ियाँ भारत के किस राज्य में स्थित हैं?",
+          "opts": [
+            "Kerala",
+            "Tamil Nadu",
+            "Karnataka",
+            "Andhra Pradesh"
+          ],
+          "opts_hi": [
+            "केरल",
+            "तमिलनाडु",
+            "कर्नाटक",
+            "आंध्र प्रदेश"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Who was the first Indian to win a Nobel Prize?",
+          "q_hi": "नोबेल पुरस्कार जीतने वाले पहले भारतीय कौन थे?",
+          "opts": [
+            "Rabindranath Tagore",
+            "C.V. Raman",
+            "Amartya Sen",
+            "Hargobind Khorana"
+          ],
+          "opts_hi": [
+            "रवींद्रनाथ टैगोर",
+            "सी.वी. रमण",
+            "अमर्त्य सेन",
+            "हरगोबिंद खुराना"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Who was the first Indian to win a Nobel Prize in Physics?",
+          "q_hi": "भौतिकी में नोबेल पुरस्कार जीतने वाले पहले भारतीय कौन थे?",
+          "opts": [
+            "Rabindranath Tagore",
+            "C.V. Raman",
+            "Amartya Sen",
+            "Hargobind Khorana"
+          ],
+          "opts_hi": [
+            "रवींद्रनाथ टैगोर",
+            "सी.वी. रमण",
+            "अमर्त्य सेन",
+            "हरगोबिंद खुराना"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "What is the main objective of the Right to Information Act, 2005?",
+          "q_hi": "सूचना का अधिकार अधिनियम, 2005 का मुख्य उद्देश्य क्या है?",
+          "opts": [
+            "To protect government secrets",
+            "To empower citizens to access information from the government",
+            "To restrict media freedom",
+            "To increase government transparency"
+          ],
+          "opts_hi": [
+            "सरकारी रहस्यों की रक्षा करना",
+            "नागरिकों को सरकार से जानकारी प्राप्त करने के लिए सशक्त बनाना",
+            "मीडिया की स्वतंत्रता को प्रतिबंधित करना",
+            "सरकारी पारदर्शिता बढ़ाना"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which state produces the maximum sunflower oil in India?",
+          "q_hi": "भारत में सबसे अधिक सूरजमुखी तेल उत्पादन करने वाला राज्य कौन सा है?",
+          "opts": [
+            "Karnataka",
+            "Andhra Pradesh",
+            "Tamil Nadu",
+            "Kerala"
+          ],
+          "opts_hi": [
+            "कर्नाटक",
+            "आंध्र प्रदेश",
+            "तमिलनाडु",
+            "केरल"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "How many days of employment are guaranteed under the new VB-G RAM G scheme?",
+          "q_hi": "नई VB-G RAM G योजना के तहत रोजगार की कितने दिनों की गारंटी है?",
+          "opts": [
+            "100 days",
+            "125 days",
+            "150 days",
+            "200 days"
+          ],
+          "opts_hi": [
+            "100 दिन",
+            "125 दिन",
+            "150 दिन",
+            "200 दिन"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Which country conducted an Intercontinental Ballistic Missile (ICBM) test on July 6, 2026?",
+          "q_hi": "6 जुलाई, 2026 को किस देश ने अंतरमहाद्वीपीय बैलिस्टिक मिसाइल (ICBM) का परीक्षण किया?",
+          "opts": [
+            "USA",
+            "Russia",
+            "China",
+            "North Korea"
+          ],
+          "opts_hi": [
+            "यूएसए",
+            "रूस",
+            "चीन",
+            "उत्तर कोरिया"
+          ],
+          "ans": 2,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Which sportsperson was recommended for the Khel Ratna Award for 2025-26?",
+          "q_hi": "2025-26 के लिए खेल रत्न पुरस्कार के लिए किस खिलाड़ी की अनुशंसा की गई?",
+          "opts": [
+            "Hardik Singh",
+            "Rohit Sharma",
+            "PV Sindhu",
+            "Neeraj Chopra"
+          ],
+          "opts_hi": [
+            "हार्दिक सिंह",
+            "रोहित शर्मा",
+            "पी.वी. सिंधु",
+            "नीरज चोपड़ा"
+          ],
+          "ans": 0,
+          "subject": "Current Affairs"
+        }
+      ]
     }
   ]
 }
