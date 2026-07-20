@@ -1625,6 +1625,42 @@
       ],
       "ans": 2,
       "subject": "Science"
+    },
+    {
+      "q": "What is the SI unit of force?",
+      "q_hi": "बल की SI इकाई क्या है?",
+      "opts": [
+        "Joule",
+        "Newton",
+        "Watt",
+        "Pascal"
+      ],
+      "opts_hi": [
+        "जूल",
+        "न्यूटन",
+        "वाट",
+        "पास्कल"
+      ],
+      "ans": 1,
+      "subject": "Science"
+    },
+    {
+      "q": "What is the powerhouse of the cell?",
+      "q_hi": "कोशिका का पावरहाउस क्या है?",
+      "opts": [
+        "Nucleus",
+        "Mitochondria",
+        "Ribosome",
+        "Golgi Body"
+      ],
+      "opts_hi": [
+        "न्यूक्लियस",
+        "माइटोकॉन्ड्रिया",
+        "राइबोसोम",
+        "गॉल्जी बॉडी"
+      ],
+      "ans": 1,
+      "subject": "Science"
     }
   ]
 }
