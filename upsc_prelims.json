@@ -2639,6 +2639,86 @@
           "subject": "Current Affairs"
         }
       ]
+    },
+    {
+      "id": "upsc_prelims_23",
+      "title": "UPSC Prelims Mock Test 23",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "How many Fundamental Rights are there in the Indian Constitution at present?",
+          "q_hi": "भारतीय संविधान में वर्तमान में कितने मौलिक अधिकार हैं?",
+          "opts": [
+            "7",
+            "8",
+            "6",
+            "5"
+          ],
+          "opts_hi": [
+            "7",
+            "8",
+            "6",
+            "5"
+          ],
+          "ans": 2,
+          "subject": "Polity"
+        },
+        {
+          "q": "Article 370 was related to which state?",
+          "q_hi": "अनुच्छेद 370 किस राज्य से संबंधित था?",
+          "opts": [
+            "Jammu & Kashmir",
+            "Himachal Pradesh",
+            "Uttarakhand",
+            "Sikkim"
+          ],
+          "opts_hi": [
+            "जम्मू-कश्मीर",
+            "हिमाचल प्रदेश",
+            "उत्तराखंड",
+            "सिक्किम"
+          ],
+          "ans": 0,
+          "subject": "Polity"
+        },
+        {
+          "q": "Who gave the slogan “Inquilab Zindabad”?",
+          "q_hi": "“इंकलाब जिंदाबाद” का नारा किसने दिया?",
+          "opts": [
+            "Bhagat Singh",
+            "Chandrashekhar Azad",
+            "Subhas Chandra Bose",
+            "Lala Lajpat Rai"
+          ],
+          "opts_hi": [
+            "भगत सिंह",
+            "चंद्रशेखर आजाद",
+            "सुभाष चंद्र बोस",
+            "लाला लाजपत राय"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "Which protocol deals with ozone layer protection?",
+          "q_hi": "ओजोन परत संरक्षण से संबंधित कौन सा प्रोटोकॉल है?",
+          "opts": [
+            "Kyoto Protocol",
+            "Montreal Protocol",
+            "Paris Agreement",
+            "Ramsar Convention"
+          ],
+          "opts_hi": [
+            "क्योटो प्रोटोकॉल",
+            "मॉन्ट्रियल प्रोटोकॉल",
+            "पेरिस समझौता",
+            "रामसर कन्वेंशन"
+          ],
+          "ans": 1,
+          "subject": "Environment"
+        }
+      ]
     }
   ]
 }
