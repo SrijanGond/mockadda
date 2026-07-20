@@ -1425,6 +1425,122 @@
           "subject": "Teaching"
         }
       ]
+    },
+    {
+      "id": "ctet_23",
+      "title": "CTET Mock Test 23",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which river is called the \"Dakshin Ganga\"?",
+          "q_hi": "दक्षिण गंगा किस नदी को कहा जाता है?",
+          "opts": [
+            "Krishna",
+            "Kaveri",
+            "Godavari",
+            "Mahanadi"
+          ],
+          "opts_hi": [
+            "कृष्णा",
+            "कावेरी",
+            "गोदावरी",
+            "महानदी"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which metal is liquid at room temperature?",
+          "q_hi": "कमरे के तापमान पर कौन सी धातु द्रव होती है?",
+          "opts": [
+            "Iron",
+            "Gold",
+            "Mercury",
+            "Silver"
+          ],
+          "opts_hi": [
+            "लोहा",
+            "सोना",
+            "पारा",
+            "चाँदी"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Who wrote Arthashastra?",
+          "q_hi": "अर्थशास्त्र किसने लिखा?",
+          "opts": [
+            "Kalidasa",
+            "Kautilya (Chanakya)",
+            "Banabhatta",
+            "Tulsidas"
+          ],
+          "opts_hi": [
+            "कालिदास",
+            "कौटिल्य (चाणक्य)",
+            "बाणभट्ट",
+            "तुलसीदास"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which state is called the \"Spice Garden of India\"?",
+          "q_hi": "किस राज्य को \"भारत का मसाला उद्यान\" कहा जाता है?",
+          "opts": [
+            "Kerala",
+            "Tamil Nadu",
+            "Karnataka",
+            "Andhra Pradesh"
+          ],
+          "opts_hi": [
+            "केरल",
+            "तमिलनाडु",
+            "कर्नाटक",
+            "आंध्र प्रदेश"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which is the largest producer of milk in the world?",
+          "q_hi": "दुनिया में दूध का सबसे बड़ा उत्पादक कौन सा है?",
+          "opts": [
+            "India",
+            "USA",
+            "China",
+            "Germany"
+          ],
+          "opts_hi": [
+            "भारत",
+            "यूएसए",
+            "चीन",
+            "जर्मनी"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which is the southernmost point of India?",
+          "q_hi": "भारत का सबसे दक्षिणी बिंदु कौन सा है?",
+          "opts": [
+            "Kanyakumari",
+            "Indira Point",
+            "Kochi",
+            "Thiruvananthapuram"
+          ],
+          "opts_hi": [
+            "कन्याकुमारी",
+            "इंदिरा पॉइंट",
+            "कोच्चि",
+            "तिरुवनंतपुरम"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        }
+      ]
     }
   ]
 }
