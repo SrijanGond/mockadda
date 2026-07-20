@@ -945,6 +945,158 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "ibps_po_17",
+      "title": "IBPS PO Mock Test 17",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Who was the founder of the Maurya Empire?",
+          "q_hi": "मौर्य साम्राज्य का संस्थापक कौन था?",
+          "opts": [
+            "Ashoka",
+            "Bindusara",
+            "Chandragupta Maurya",
+            "Samudragupta"
+          ],
+          "opts_hi": [
+            "अशोक",
+            "बिंदुसार",
+            "चंद्रगुप्त मौर्य",
+            "समुद्रगुप्त"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which is the highest peak in India?",
+          "q_hi": "भारत की सबसे ऊँची चोटी कौन सी है?",
+          "opts": [
+            "Mount Everest",
+            "Kangchenjunga",
+            "Nanda Devi",
+            "K2"
+          ],
+          "opts_hi": [
+            "माउंट एवरेस्ट",
+            "कंचनजंगा",
+            "नंदा देवी",
+            "के2"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which is the biggest blood vessel of the body?",
+          "q_hi": "शरीर की सबसे बड़ी रक्त वाहिका कौन सी है?",
+          "opts": [
+            "Artery",
+            "Aorta",
+            "Vein",
+            "Alveoli"
+          ],
+          "opts_hi": [
+            "धमनी",
+            "महाधमनी",
+            "शिरा",
+            "एल्वियोली"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which is the largest continent in the world?",
+          "q_hi": "दुनिया का सबसे बड़ा महाद्वीप कौन सा है?",
+          "opts": [
+            "Africa",
+            "North America",
+            "Asia",
+            "Europe"
+          ],
+          "opts_hi": [
+            "अफ्रीका",
+            "उत्तरी अमेरिका",
+            "एशिया",
+            "यूरोप"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which is the largest economy in the world (Nominal GDP)?",
+          "q_hi": "दुनिया की सबसे बड़ी अर्थव्यवस्था (नाममात्र GDP) कौन सी है?",
+          "opts": [
+            "USA",
+            "China",
+            "Japan",
+            "Germany"
+          ],
+          "opts_hi": [
+            "यूएसए",
+            "चीन",
+            "जापान",
+            "जर्मनी"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which is India's longest railway platform?",
+          "q_hi": "भारत का सबसे लंबा रेलवे प्लेटफॉर्म कौन सा है?",
+          "opts": [
+            "Howrah",
+            "Hubli",
+            "New Delhi",
+            "Gorakhpur"
+          ],
+          "opts_hi": [
+            "हावड़ा",
+            "हुबली",
+            "नई दिल्ली",
+            "गोरखपुर"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which Indian airport is the busiest by passenger traffic?",
+          "q_hi": "यात्री यातायात के हिसाब से कौन सा भारतीय हवाई अड्डा सबसे व्यस्त है?",
+          "opts": [
+            "Mumbai International Airport",
+            "Indira Gandhi International Airport, Delhi",
+            "Kempegowda Airport, Bangalore",
+            "Chennai Airport"
+          ],
+          "opts_hi": [
+            "मुंबई अंतर्राष्ट्रीय हवाई अड्डा",
+            "इंदिरा गांधी अंतर्राष्ट्रीय हवाई अड्डा, दिल्ली",
+            "केम्पेगौड़ा हवाई अड्डा, बैंगलोर",
+            "चेन्नई हवाई अड्डा"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which is the largest producer of milk in the world?",
+          "q_hi": "दुनिया में दूध का सबसे बड़ा उत्पादक कौन सा है?",
+          "opts": [
+            "India",
+            "USA",
+            "China",
+            "Germany"
+          ],
+          "opts_hi": [
+            "भारत",
+            "यूएसए",
+            "चीन",
+            "जर्मनी"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        }
+      ]
     }
   ]
 }
