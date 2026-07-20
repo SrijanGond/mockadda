@@ -1033,6 +1033,32 @@
           "subject": "General Knowledge"
         }
       ]
+    },
+    {
+      "id": "rrb_group_d_19",
+      "title": "RRB Group D Mock Test 19",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Kuchipudi is the classical dance of which state?",
+          "q_hi": "कुचिपुड़ी किस राज्य का शास्त्रीय नृत्य है?",
+          "opts": [
+            "Andhra Pradesh",
+            "Tamil Nadu",
+            "Odisha",
+            "Kerala"
+          ],
+          "opts_hi": [
+            "आंध्र प्रदेश",
+            "तमिलनाडु",
+            "ओडिशा",
+            "केरल"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        }
+      ]
     }
   ]
 }
