@@ -284,6 +284,60 @@
       ],
       "ans": 1,
       "subject": "History"
+    },
+    {
+      "q": "Who established the Servants of India Society?",
+      "q_hi": "भारत सेवक समाज की स्थापना किसने की?",
+      "opts": [
+        "Gopal Krishna Gokhale",
+        "Bal Gangadhar Tilak",
+        "Lala Lajpat Rai",
+        "Dadabhai Naoroji"
+      ],
+      "opts_hi": [
+        "गोपाल कृष्ण गोखले",
+        "बाल गंगाधर तिलक",
+        "लाला लाजपत राय",
+        "दादाभाई नौरोजी"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Which dynasty built the Konark Sun Temple?",
+      "q_hi": "कोणार्क सूर्य मंदिर किस वंश ने बनवाया?",
+      "opts": [
+        "Chola",
+        "Chandela",
+        "Ganga",
+        "Maurya"
+      ],
+      "opts_hi": [
+        "चोल",
+        "चंदेल",
+        "गंग",
+        "मौर्य"
+      ],
+      "ans": 2,
+      "subject": "History"
+    },
+    {
+      "q": "The Non-Cooperation Movement was launched in which year?",
+      "q_hi": "असहयोग आंदोलन किस वर्ष शुरू हुआ?",
+      "opts": [
+        "1920",
+        "1919",
+        "1930",
+        "1942"
+      ],
+      "opts_hi": [
+        "1920",
+        "1919",
+        "1930",
+        "1942"
+      ],
+      "ans": 0,
+      "subject": "History"
     }
   ]
 }
