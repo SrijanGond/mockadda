@@ -847,6 +847,140 @@
           "subject": "General Knowledge"
         }
       ]
+    },
+    {
+      "id": "rrb_group_d_16",
+      "title": "RRB Group D Mock Test 16",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which river flows through the Rift Valley in India?",
+          "q_hi": "भारत में कौन सी नदी दरार घाटी से होकर बहती है?",
+          "opts": [
+            "Narmada",
+            "Ganga",
+            "Godavari",
+            "Krishna"
+          ],
+          "opts_hi": [
+            "नर्मदा",
+            "गंगा",
+            "गोदावरी",
+            "कृष्णा"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Who is known as the Father of Indian missile technology?",
+          "q_hi": "भारतीय मिसाइल प्रौद्योगिकी के जनक के रूप में किसे जाना जाता है?",
+          "opts": [
+            "Dr. Vikram Sarabhai",
+            "Dr. A.P.J. Abdul Kalam",
+            "Dr. Homi Bhabha",
+            "Dr. C.V. Raman"
+          ],
+          "opts_hi": [
+            "डॉ. विक्रम साराभाई",
+            "डॉ. ए.पी.जे. अब्दुल कलाम",
+            "डॉ. होमी भाभा",
+            "डॉ. सी.वी. रमण"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "According to the classification of modern Indian languages, which linguistic family accounts for the largest share of the Indian population?",
+          "q_hi": "आधुनिक भारतीय भाषाओं के वर्गीकरण के अनुसार, किस भाषा परिवार का भारतीय जनसंख्या में सबसे बड़ा हिस्सा है?",
+          "opts": [
+            "Sino-Tibetan (Kirata)",
+            "Dravidian",
+            "Austric (Nishada)",
+            "Indo-European (Aryan)"
+          ],
+          "opts_hi": [
+            "चीनी-तिब्बती (किरात)",
+            "द्रविड़",
+            "आस्ट्रिक (निषाद)",
+            "इंडो-यूरोपीय (आर्य)"
+          ],
+          "ans": 3,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "What is RBI's projection for India's GDP growth and inflation for FY27?",
+          "q_hi": "वित्तीय वर्ष 2026-27 के लिए RBI का GDP वृद्धि और मुद्रास्फीति का अनुमान क्या है?",
+          "opts": [
+            "6.6% growth, 5.1% inflation",
+            "7.0% growth, 4.5% inflation",
+            "6.0% growth, 5.5% inflation",
+            "7.7% growth, 4.0% inflation"
+          ],
+          "opts_hi": [
+            "6.6% वृद्धि, 5.1% मुद्रास्फीति",
+            "7.0% वृद्धि, 4.5% मुद्रास्फीति",
+            "6.0% वृद्धि, 5.5% मुद्रास्फीति",
+            "7.7% वृद्धि, 4.0% मुद्रास्फीति"
+          ],
+          "ans": 0,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Which Indian women's cricketer also received the Padma Shri in 2026?",
+          "q_hi": "2026 में किस भारतीय महिला क्रिकेटर को भी पद्म श्री मिला?",
+          "opts": [
+            "Smriti Mandhana",
+            "Mithali Raj",
+            "Harmanpreet Kaur",
+            "Jhulan Goswami"
+          ],
+          "opts_hi": [
+            "स्मृति मंधाना",
+            "मिताली राज",
+            "हरमनप्रीत कौर",
+            "झूलन गोस्वामी"
+          ],
+          "ans": 2,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Where did PM Modi inaugurate his new office in July 2026?",
+          "q_hi": "जुलाई 2026 में PM मोदी ने अपना नया कार्यालय कहाँ उद्घाटन किया?",
+          "opts": [
+            "Vijay Chowk",
+            "Seva Teerth",
+            "India Gate",
+            "Rashtrapati Bhavan"
+          ],
+          "opts_hi": [
+            "विजय चौक",
+            "सेवा तीर्थ",
+            "इंडिया गेट",
+            "राष्ट्रपति भवन"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "What is the length of the I-2SEA submarine cable project?",
+          "q_hi": "I-2SEA पनडुब्बी केबल परियोजना की लंबाई क्या है?",
+          "opts": [
+            "2,500 km",
+            "3,600 km",
+            "4,500 km",
+            "5,200 km"
+          ],
+          "opts_hi": [
+            "2,500 किमी",
+            "3,600 किमी",
+            "4,500 किमी",
+            "5,200 किमी"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        }
+      ]
     }
   ]
 }
