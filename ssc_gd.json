@@ -1,97 +1,120 @@
 {
-  "exam": "SSC GD",
-  "fullname": "Staff Selection Commission General Duty Constable",
-  "totalQuestions": 25,
-  "questions": [
+  "tests": [
     {
-      "id": 1,
-      "type": "multiple_choice",
-      "subject": "General Intelligence & Reasoning",
-      "question": "If '+' means '÷', '÷' means '-', '-' means '×', and '×' means '+', then what is the value of 8 + 4 ÷ 2 - 3 × 2?",
-      "options": ["A) 4", "B) 6", "C) 8", "D) 10"],
-      "correct": "B",
-      "explanation": "8 + 4 ÷ 2 - 3 × 2 becomes 8 ÷ 4 - 2 × 3 + 2 = 2 - 6 + 2 = -2 + 2 = 0"
-    },
-    {
-      "id": 2,
-      "type": "multiple_choice",
-      "subject": "General Knowledge & General Awareness",
-      "question": "Which of the following is the largest planet in our solar system?",
-      "options": ["A) Saturn", "B) Jupiter", "C) Uranus", "D) Neptune"],
-      "correct": "B",
-      "explanation": "Jupiter is the largest planet in our solar system with a diameter of about 139,820 km."
-    },
-    {
-      "id": 3,
-      "type": "multiple_choice",
-      "subject": "Elementary Mathematics",
-      "question": "What is the LCM of 12, 18, and 24?",
-      "options": ["A) 48", "B) 60", "C) 72", "D) 84"],
-      "correct": "C",
-      "explanation": "LCM of 12, 18, and 24 = 72"
-    },
-    {
-      "id": 4,
-      "type": "multiple_choice",
-      "subject": "General Intelligence & Reasoning",
-      "question": "Find the odd one out: 2, 5, 10, 17, 26, 37",
-      "options": ["A) 5", "B) 10", "C) 17", "D) 37"],
-      "correct": "D",
-      "explanation": "The pattern is n² + 1: 1²+1=2, 2²+1=5, 3²+1=10, 4²+1=17, 5²+1=26, 6²+1=37. All follow the pattern except 37 (6²+1=37, actually 37 is correct)"
-    },
-    {
-      "id": 5,
-      "type": "multiple_choice",
-      "subject": "General Knowledge & General Awareness",
-      "question": "Who is known as the 'Father of the Indian Constitution'?",
-      "options": ["A) Mahatma Gandhi", "B) Jawaharlal Nehru", "C) Dr. B.R. Ambedkar", "D) Sardar Vallabhbhai Patel"],
-      "correct": "C",
-      "explanation": "Dr. B.R. Ambedkar is known as the 'Father of the Indian Constitution'."
-    },
-    {
-      "id": 6,
-      "type": "multiple_choice",
-      "subject": "Elementary Mathematics",
-      "question": "A train travels 240 km in 4 hours. What is its speed in m/s?",
-      "options": ["A) 15 m/s", "B) 16.67 m/s", "C) 18 m/s", "D) 20 m/s"],
-      "correct": "B",
-      "explanation": "Speed = 240/4 = 60 km/hr = 60 × 5/18 = 16.67 m/s"
-    },
-    {
-      "id": 7,
-      "type": "multiple_choice",
-      "subject": "General Intelligence & Reasoning",
-      "question": "If the letters of the word 'PARENT' are arranged in alphabetical order, what is the position of 'R'?",
-      "options": ["A) 3rd", "B) 4th", "C) 5th", "D) 6th"],
-      "correct": "C",
-      "explanation": "Alphabetical order: A, E, N, P, R, T. R is at 5th position."
-    },
-    {
-      "id": 8,
-      "type": "multiple_choice",
-      "subject": "General Knowledge & General Awareness",
-      "question": "Which river is known as the 'Ganga of the South'?",
-      "options": ["A) Godavari", "B) Krishna", "C) Kaveri", "D) Tungabhadra"],
-      "correct": "A",
-      "explanation": "Godavari is known as the 'Ganga of the South'."
-    },
-    {
-      "id": 9,
-      "type": "multiple_choice",
-      "subject": "Elementary Mathematics",
-      "question": "What is 15% of 200?",
-      "options": ["A) 20", "B) 25", "C) 30", "D) 35"],
-      "correct": "C",
-      "explanation": "15% of 200 = 200 × 15/100 = 30"
-    },
-    {
-      "id": 10,
-      "type": "multiple_choice",
-      "subject": "General Intelligence & Reasoning",
-      "question": "Which number will replace the question mark: 3, 8, 15, 24, ?",
-      "options": ["A) 32", "B) 33", "C) 35", "D) 40"],
-      "correct": "C",
-      "explanation": "Pattern: 3+5=8, 8+7=15, 15+9=24, 24+11=35"
+      "id": "ssc_gd_1",
+      "title": "SSC GD Mock Test 1",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "The 'Green Revolution' in India was primarily associated with which crop?",
+          "q_hi": "भारत में 'हरित क्रांति' मुख्य रूप से किस फसल से जुड़ी थी?",
+          "opts": [
+            "Rice",
+            "Wheat",
+            "Maize",
+            "Sugarcane"
+          ],
+          "opts_hi": [
+            "चावल",
+            "गेहूँ",
+            "मक्का",
+            "गन्ना"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "The Battle of Plassey was fought in which year?",
+          "q_hi": "प्लासी का युद्ध किस वर्ष लड़ा गया था?",
+          "opts": [
+            "1750",
+            "1757",
+            "1760",
+            "1765"
+          ],
+          "opts_hi": [
+            "1750",
+            "1757",
+            "1760",
+            "1765"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which river is known as the 'Sorrow of Bihar'?",
+          "q_hi": "किस नदी को 'बिहार का शोक' कहा जाता है?",
+          "opts": [
+            "Ganga",
+            "Yamuna",
+            "Kosi",
+            "Gandak"
+          ],
+          "opts_hi": [
+            "गंगा",
+            "यमुना",
+            "कोसी",
+            "गंडक"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which Mughal emperor built the Red Fort in Delhi?",
+          "q_hi": "किस मुगल सम्राट ने दिल्ली का लाल किला बनवाया?",
+          "opts": [
+            "Akbar",
+            "Jahangir",
+            "Shah Jahan",
+            "Aurangzeb"
+          ],
+          "opts_hi": [
+            "अकबर",
+            "जहाँगीर",
+            "शाहजहाँ",
+            "औरंगज़ेब"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which of the following is NOT a greenhouse gas?",
+          "q_hi": "निम्नलिखित में से कौन सी ग्रीनहाउस गैस नहीं है?",
+          "opts": [
+            "Carbon Dioxide",
+            "Methane",
+            "Nitrogen",
+            "Water Vapour"
+          ],
+          "opts_hi": [
+            "कार्बन डाइऑक्साइड",
+            "मीथेन",
+            "नाइट्रोजन",
+            "जल वाष्प"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "The headquarters of RBI (Reserve Bank of India) is in?",
+          "q_hi": "RBI (भारतीय रिजर्व बैंक) का मुख्यालय कहाँ है?",
+          "opts": [
+            "New Delhi",
+            "Kolkata",
+            "Mumbai",
+            "Chennai"
+          ],
+          "opts_hi": [
+            "नई दिल्ली",
+            "कोलकाता",
+            "मुंबई",
+            "चेन्नई"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        }
+      ]
     }
   ]
 }
