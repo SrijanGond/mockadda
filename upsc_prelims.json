@@ -2933,6 +2933,68 @@
           "subject": "Polity"
         }
       ]
+    },
+    {
+      "id": "upsc_prelims_26",
+      "title": "UPSC Prelims Mock Test 26",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Who established the Servants of India Society?",
+          "q_hi": "भारत सेवक समाज की स्थापना किसने की?",
+          "opts": [
+            "Gopal Krishna Gokhale",
+            "Bal Gangadhar Tilak",
+            "Lala Lajpat Rai",
+            "Dadabhai Naoroji"
+          ],
+          "opts_hi": [
+            "गोपाल कृष्ण गोखले",
+            "बाल गंगाधर तिलक",
+            "लाला लाजपत राय",
+            "दादाभाई नौरोजी"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "Project Tiger was launched in which year?",
+          "q_hi": "प्रोजेक्ट टाइगर किस वर्ष शुरू किया गया?",
+          "opts": [
+            "1972",
+            "1973",
+            "1980",
+            "1992"
+          ],
+          "opts_hi": [
+            "1972",
+            "1973",
+            "1980",
+            "1992"
+          ],
+          "ans": 1,
+          "subject": "Environment"
+        },
+        {
+          "q": "Which Article guarantees freedom of speech and expression?",
+          "q_hi": "वाक् स्वतंत्रता और अभिव्यक्ति की स्वतंत्रता किस अनुच्छेद में है?",
+          "opts": [
+            "Article 19",
+            "Article 21",
+            "Article 14",
+            "Article 25"
+          ],
+          "opts_hi": [
+            "अनुच्छेद 19",
+            "अनुच्छेद 21",
+            "अनुच्छेद 14",
+            "अनुच्छेद 25"
+          ],
+          "ans": 0,
+          "subject": "Polity"
+        }
+      ]
     }
   ]
 }
