@@ -3683,6 +3683,32 @@
           "subject": "General Knowledge"
         }
       ]
+    },
+    {
+      "id": "upsc_prelims_32",
+      "title": "UPSC Prelims Mock Test 32",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Who was the leader of the 1857 Revolt in Kanpur?",
+          "q_hi": "1857 के विद्रोह में कानपुर के नेता कौन थे?",
+          "opts": [
+            "Tantia Tope",
+            "Nana Saheb",
+            "Rani Lakshmibai",
+            "Bahadur Shah Zafar"
+          ],
+          "opts_hi": [
+            "तात्या टोपे",
+            "नाना साहेब",
+            "रानी लक्ष्मीबाई",
+            "बहादुर शाह ज़फर"
+          ],
+          "ans": 1,
+          "subject": "History"
+        }
+      ]
     }
   ]
 }
