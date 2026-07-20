@@ -320,6 +320,60 @@
       ],
       "ans": 0,
       "subject": "Polity"
+    },
+    {
+      "q": "The Preamble of the Indian Constitution was adopted on which date?",
+      "q_hi": "भारतीय संविधान की प्रस्तावना किस तिथि को अपनाई गई थी?",
+      "opts": [
+        "Sat Nov 26 1949 05:30:00 GMT+0530 (India Standard Time)",
+        "Thu Jan 26 1950 05:30:00 GMT+0530 (India Standard Time)",
+        "Fri Aug 15 1947 05:30:00 GMT+0530 (India Standard Time)",
+        "Mon Dec 09 1946 05:30:00 GMT+0530 (India Standard Time)"
+      ],
+      "opts_hi": [
+        "26 नवंबर 1949",
+        "26 जनवरी 1950",
+        "15 अगस्त 1947",
+        "9 दिसंबर 1946"
+      ],
+      "ans": 0,
+      "subject": "Polity"
+    },
+    {
+      "q": "Which Article deals with the abolition of untouchability?",
+      "q_hi": "अस्पृश्यता के उन्मूलन से संबंधित अनुच्छेद कौन सा है?",
+      "opts": [
+        "Article 14",
+        "Article 15",
+        "Article 16",
+        "Article 17"
+      ],
+      "opts_hi": [
+        "अनुच्छेद 14",
+        "अनुच्छेद 15",
+        "अनुच्छेद 16",
+        "अनुच्छेद 17"
+      ],
+      "ans": 3,
+      "subject": "Polity"
+    },
+    {
+      "q": "Article 1 of the Indian Constitution describes India as?",
+      "q_hi": "भारतीय संविधान का अनुच्छेद 1 भारत को क्या कहता है?",
+      "opts": [
+        "Union of States",
+        "Federation of States",
+        "Union of Territories",
+        "Republic"
+      ],
+      "opts_hi": [
+        "स्टेट्स का यूनियन",
+        "फेडरेशन ऑफ स्टेट्स",
+        "यूनियन ऑफ टेरिटरीज",
+        "रिपब्लिक"
+      ],
+      "ans": 0,
+      "subject": "Polity"
     }
   ]
 }
