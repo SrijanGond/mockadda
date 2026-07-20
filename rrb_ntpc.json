@@ -1747,6 +1747,212 @@
           "subject": "Geography"
         }
       ]
+    },
+    {
+      "id": "rrb_ntpc_25",
+      "title": "RRB NTPC Mock Test 25",
+      "duration": 13,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which river system forms the largest delta in the world?",
+          "q_hi": "दुनिया का सबसे बड़ा डेल्टा किस नदी प्रणाली द्वारा बनाया गया है?",
+          "opts": [
+            "Ganga-Brahmaputra",
+            "Amazon",
+            "Mississippi",
+            "Nile"
+          ],
+          "opts_hi": [
+            "गंगा-ब्रह्मपुत्र",
+            "अमेज़न",
+            "मिसिसिप्पी",
+            "नाइल"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which state has the largest share of mangrove forests?",
+          "q_hi": "भारत में मैंग्रोव वनों का सबसे बड़ा हिस्सा किस राज्य का है?",
+          "opts": [
+            "West Bengal",
+            "Gujarat",
+            "Andhra Pradesh",
+            "Tamil Nadu"
+          ],
+          "opts_hi": [
+            "पश्चिम बंगाल",
+            "गुजरात",
+            "आंध्र प्रदेश",
+            "तमिलनाडु"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which state has the highest per capita forest cover?",
+          "q_hi": "सर्वाधिक प्रति व्यक्ति वन क्षेत्रफल वाला राज्य कौन सा है?",
+          "opts": [
+            "Arunachal Pradesh",
+            "Mizoram",
+            "Nagaland",
+            "Sikkim"
+          ],
+          "opts_hi": [
+            "अरुणाचल प्रदेश",
+            "मिजोरम",
+            "नागालैंड",
+            "सिक्किम"
+          ],
+          "ans": 1,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which is the largest producer of lignite coal in India?",
+          "q_hi": "भारत में लिग्नाइट कोयला का सबसे बड़ा उत्पादक राज्य कौन सा है?",
+          "opts": [
+            "Tamil Nadu",
+            "Gujarat",
+            "Rajasthan",
+            "Jharkhand"
+          ],
+          "opts_hi": [
+            "तमिलनाडु",
+            "गुजरात",
+            "राजस्थान",
+            "झारखंड"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which is the largest mangrove forest in the world?",
+          "q_hi": "दुनिया का सबसे बड़ा मैंग्रोव वन कौन सा है?",
+          "opts": [
+            "Sunderbans",
+            "Borneo",
+            "Amazon",
+            "None"
+          ],
+          "opts_hi": [
+            "सुंदरबन",
+            "बोर्नियो",
+            "अमेज़न",
+            "कोई नहीं"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which is the largest saline lake in India?",
+          "q_hi": "भारत की सबसे बड़ी खारी झील कौन सी है?",
+          "opts": [
+            "Sambhar Lake",
+            "Chilika Lake",
+            "Pulicat Lake",
+            "Vembanad Lake"
+          ],
+          "opts_hi": [
+            "सांभर झील",
+            "चिल्का झील",
+            "पुलिकट झील",
+            "वेम्बनाड झील"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which is the largest producer of diamonds in India?",
+          "q_hi": "भारत में हीरे का सबसे बड़ा उत्पादक राज्य कौन सा है?",
+          "opts": [
+            "Madhya Pradesh",
+            "Chhattisgarh",
+            "Andhra Pradesh",
+            "Jharkhand"
+          ],
+          "opts_hi": [
+            "मध्य प्रदेश",
+            "छत्तीसगढ़",
+            "आंध्र प्रदेश",
+            "झारखंड"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which state has the largest reserves of iron ore?",
+          "q_hi": "भारत में लौह अयस्क के सबसे बड़े भंडार किस राज्य के पास हैं?",
+          "opts": [
+            "Odisha",
+            "Jharkhand",
+            "Chhattisgarh",
+            "Karnataka"
+          ],
+          "opts_hi": [
+            "ओडिशा",
+            "झारखंड",
+            "छत्तीसगढ़",
+            "कर्नाटक"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which is the largest copper producing state in India?",
+          "q_hi": "भारत में तांबा का सबसे बड़ा उत्पादक राज्य कौन सा है?",
+          "opts": [
+            "Rajasthan",
+            "Jharkhand",
+            "Madhya Pradesh",
+            "Andhra Pradesh"
+          ],
+          "opts_hi": [
+            "राजस्थान",
+            "झारखंड",
+            "मध्य प्रदेश",
+            "आंध्र प्रदेश"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which state has the largest reserves of manganese?",
+          "q_hi": "मैंगनीज के सबसे बड़े भंडार किस राज्य के पास हैं?",
+          "opts": [
+            "Odisha",
+            "Maharashtra",
+            "Karnataka",
+            "Jharkhand"
+          ],
+          "opts_hi": [
+            "ओडिशा",
+            "महाराष्ट्र",
+            "कर्नाटक",
+            "झारखंड"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which state is the largest producer of cotton in India?",
+          "q_hi": "भारत में कपास का सबसे बड़ा उत्पादक राज्य कौन सा है?",
+          "opts": [
+            "Gujarat",
+            "Maharashtra",
+            "Telangana",
+            "Punjab"
+          ],
+          "opts_hi": [
+            "गुजरात",
+            "महाराष्ट्र",
+            "तेलंगाना",
+            "पंजाब"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        }
+      ]
     }
   ]
 }
