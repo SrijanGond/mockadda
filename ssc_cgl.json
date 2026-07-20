@@ -4245,6 +4245,266 @@
           "subject": "Geography"
         }
       ]
+    },
+    {
+      "id": "ssc_cgl_14",
+      "title": "SSC CGL Mock Test 14",
+      "duration": 17,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which is the oldest mountain range in India?",
+          "q_hi": "भारत की सबसे पुरानी पर्वत श्रृंखला कौन सी है?",
+          "opts": [
+            "Himalayas",
+            "Aravalli",
+            "Vindhyas",
+            "Satpura"
+          ],
+          "opts_hi": [
+            "हिमालय",
+            "अरावली",
+            "विंध्याचल",
+            "सतपुड़ा"
+          ],
+          "ans": 1,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which is the only active volcano in India?",
+          "q_hi": "भारत का एकमात्र सक्रिय ज्वालामुखी कौन सा है?",
+          "opts": [
+            "Barren Island",
+            "Narcondam",
+            "Deccan Traps",
+            "None"
+          ],
+          "opts_hi": [
+            "बैरन द्वीप",
+            "नारकोंडम",
+            "दक्कन ट्रैप्स",
+            "कोई नहीं"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which is the deepest point in the world?",
+          "q_hi": "दुनिया का सबसे गहरा बिंदु कौन सा है?",
+          "opts": [
+            "Mariana Trench",
+            "Challenger Deep",
+            "Tonga Trench",
+            "Puerto Rico Trench"
+          ],
+          "opts_hi": [
+            "मरियाना खाई",
+            "चैलेंजर डीप",
+            "टोंगा खाई",
+            "प्यूर्टो रिको खाई"
+          ],
+          "ans": 1,
+          "subject": "Geography"
+        },
+        {
+          "q": "What is the main cause of the Coriolis Effect?",
+          "q_hi": "कोरिओलिस प्रभाव का मुख्य कारण क्या है?",
+          "opts": [
+            "Earth's rotation",
+            "Earth's revolution",
+            "Gravitational pull",
+            "Temperature difference"
+          ],
+          "opts_hi": [
+            "पृथ्वी का घूर्णन",
+            "पृथ्वी का परिक्रमण",
+            "गुरुत्वाकर्षण",
+            "तापमान अंतर"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which ocean is known as the 'Herring Pond'?",
+          "q_hi": "हेरिंग पोण्ड' किस महासागर को कहा जाता है?",
+          "opts": [
+            "Atlantic Ocean",
+            "Pacific Ocean",
+            "Indian Ocean",
+            "Arctic Ocean"
+          ],
+          "opts_hi": [
+            "अटलांटिक महासागर",
+            "प्रशांत महासागर",
+            "हिंद महासागर",
+            "आर्कटिक महासागर"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which is the only continent without any active volcano?",
+          "q_hi": "कौन सा महाद्वीप बिना किसी सक्रिय ज्वालामुखी वाला है?",
+          "opts": [
+            "Australia",
+            "Europe",
+            "Africa",
+            "South America"
+          ],
+          "opts_hi": [
+            "ऑस्ट्रेलिया",
+            "यूरोप",
+            "अफ्रीका",
+            "दक्षिण अमेरिका"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which current is known as the 'Black Current'?",
+          "q_hi": "ब्लैक करंट' किस धारा को कहा जाता है?",
+          "opts": [
+            "Kuroshio Current",
+            "Gulf Stream",
+            "California Current",
+            "Agulhas Current"
+          ],
+          "opts_hi": [
+            "कुरोशियो धारा",
+            "गल्फ स्ट्रीम",
+            "कैलिफोर्निया धारा",
+            "एगुलहास धारा"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which country has the longest coastline?",
+          "q_hi": "सबसे लंबी तटर रेखा वाला देश कौन सा है?",
+          "opts": [
+            "Canada",
+            "Indonesia",
+            "Russia",
+            "Australia"
+          ],
+          "opts_hi": [
+            "कनाडा",
+            "इंडोनेशिया",
+            "रूस",
+            "ऑस्ट्रेलिया"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which is the busiest strait in the world?",
+          "q_hi": "दुनिया का सबसे व्यस्त जलडमरूमध्य कौन सा है?",
+          "opts": [
+            "Malacca Strait",
+            "Hormuz Strait",
+            "Bab-el-Mandeb",
+            "Gibraltar"
+          ],
+          "opts_hi": [
+            "मलक्का जलडमरूमध्य",
+            "होर्मुज जलडमरूमध्य",
+            "बाब-एल-मांडेब",
+            "जिब्राल्टर"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which country has the largest number of islands?",
+          "q_hi": "सबसे अधिक द्वीपों वाला देश कौन सा है?",
+          "opts": [
+            "Indonesia",
+            "Philippines",
+            "Sweden",
+            "Canada"
+          ],
+          "opts_hi": [
+            "इंडोनेशिया",
+            "फिलीपींस",
+            "स्वीडन",
+            "कनाडा"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which is the largest producer of wool in the world?",
+          "q_hi": "दुनिया का सबसे बड़ा ऊन उत्पादक देश कौन सा है?",
+          "opts": [
+            "Australia",
+            "China",
+            "New Zealand",
+            "Argentina"
+          ],
+          "opts_hi": [
+            "ऑस्ट्रेलिया",
+            "चीन",
+            "न्यूजीलैंड",
+            "अर्जेंटीना"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which country has the largest freshwater lake by area?",
+          "q_hi": "क्षेत्रफल के अनुसार दुनिया की सबसे बड़ी मीठे पानी की झील किस देश में है?",
+          "opts": [
+            "Canada",
+            "USA",
+            "Russia",
+            "China"
+          ],
+          "opts_hi": [
+            "कनाडा",
+            "यूएसए",
+            "रूस",
+            "चीन"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which is the largest producer of bauxite in the world?",
+          "q_hi": "दुनिया का सबसे बड़ा बॉक्साइट उत्पादक देश कौन सा है?",
+          "opts": [
+            "Australia",
+            "China",
+            "Brazil",
+            "India"
+          ],
+          "opts_hi": [
+            "ऑस्ट्रेलिया",
+            "चीन",
+            "ब्राजील",
+            "भारत"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which country has the largest number of active volcanoes?",
+          "q_hi": "सबसे अधिक सक्रिय ज्वालामुखियों वाला देश कौन सा है?",
+          "opts": [
+            "Indonesia",
+            "Japan",
+            "USA",
+            "Italy"
+          ],
+          "opts_hi": [
+            "इंडोनेशिया",
+            "जापान",
+            "यूएसए",
+            "इटली"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        }
+      ]
     }
   ]
 }
