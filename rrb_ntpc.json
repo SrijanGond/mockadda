@@ -1541,6 +1541,212 @@
           "subject": "General Knowledge"
         }
       ]
+    },
+    {
+      "id": "rrb_ntpc_24",
+      "title": "RRB NTPC Mock Test 24",
+      "duration": 13,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which is the highest plateau in India?",
+          "q_hi": "भारत का सबसे ऊंचा पठार कौन सा है?",
+          "opts": [
+            "Deccan Plateau",
+            "Ladakh Plateau",
+            "Chota Nagpur Plateau",
+            "Malwa Plateau"
+          ],
+          "opts_hi": [
+            "दक्कन पठार",
+            "लद्दाख पठार",
+            "छोटा नागपुर पठार",
+            "मालवा पठार"
+          ],
+          "ans": 1,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which is the wettest place in India?",
+          "q_hi": "भारत का सबसे अधिक वर्षा वाला स्थान कौन सा है?",
+          "opts": [
+            "Mawsynram",
+            "Cherrapunji",
+            "Agumbe",
+            "Mahabaleshwar"
+          ],
+          "opts_hi": [
+            "मावसिनराम",
+            "चेरापूंजी",
+            "अगुम्बे",
+            "महाबलेश्वर"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which is the largest producer of jute in India?",
+          "q_hi": "भारत में जूट का सबसे बड़ा उत्पादक राज्य कौन सा है?",
+          "opts": [
+            "West Bengal",
+            "Bihar",
+            "Assam",
+            "Andhra Pradesh"
+          ],
+          "opts_hi": [
+            "पश्चिम बंगाल",
+            "बिहार",
+            "असम",
+            "आंध्र प्रदेश"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which is the largest oil producing state in India?",
+          "q_hi": "भारत में सबसे बड़ा तेल उत्पादक राज्य कौन सा है?",
+          "opts": [
+            "Assam",
+            "Gujarat",
+            "Rajasthan",
+            "Maharashtra"
+          ],
+          "opts_hi": [
+            "असम",
+            "गुजरात",
+            "राजस्थान",
+            "महाराष्ट्र"
+          ],
+          "ans": 1,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which is the largest coal producing state in India?",
+          "q_hi": "भारत में सबसे बड़ा कोयला उत्पादक राज्य कौन सा है?",
+          "opts": [
+            "Jharkhand",
+            "Chhattisgarh",
+            "West Bengal",
+            "Odisha"
+          ],
+          "opts_hi": [
+            "झारखंड",
+            "छत्तीसगढ़",
+            "पश्चिम बंगाल",
+            "ओडिशा"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which is the largest bauxite producing state in India?",
+          "q_hi": "भारत में सबसे बड़ा बॉक्साइट उत्पादक राज्य कौन सा है?",
+          "opts": [
+            "Odisha",
+            "Jharkhand",
+            "Chhattisgarh",
+            "Maharashtra"
+          ],
+          "opts_hi": [
+            "ओडिशा",
+            "झारखंड",
+            "छत्तीसगढ़",
+            "महाराष्ट्र"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which is the largest producer of tea in India?",
+          "q_hi": "भारत में चाय का सबसे बड़ा उत्पादक राज्य कौन सा है?",
+          "opts": [
+            "Assam",
+            "West Bengal",
+            "Tamil Nadu",
+            "Kerala"
+          ],
+          "opts_hi": [
+            "असम",
+            "पश्चिम बंगाल",
+            "तमिलनाडु",
+            "केरल"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which is the largest solar park in India?",
+          "q_hi": "भारत का सबसे बड़ा सोलर पार्क कौन सा है?",
+          "opts": [
+            "Bhadla Solar Park",
+            "Pavagada Solar Park",
+            "Charanka Solar Park",
+            "None"
+          ],
+          "opts_hi": [
+            "भदला सोलर पार्क",
+            "पावगड़ा सोलर पार्क",
+            "चरणका सोलर पार्क",
+            "कोई नहीं"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which is the largest producer of spices in India?",
+          "q_hi": "भारत में मसालों का सबसे बड़ा उत्पादक राज्य कौन सा है?",
+          "opts": [
+            "Kerala",
+            "Andhra Pradesh",
+            "Karnataka",
+            "Tamil Nadu"
+          ],
+          "opts_hi": [
+            "केरल",
+            "आंध्र प्रदेश",
+            "कर्नाटक",
+            "तमिलनाडु"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which is the largest uranium producing state in India?",
+          "q_hi": "भारत में सबसे बड़ा यूरेनियम उत्पादक राज्य कौन सा है?",
+          "opts": [
+            "Jharkhand",
+            "Rajasthan",
+            "Andhra Pradesh",
+            "Maharashtra"
+          ],
+          "opts_hi": [
+            "झारखंड",
+            "राजस्थान",
+            "आंध्र प्रदेश",
+            "महाराष्ट्र"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which is the largest mica producing state in India?",
+          "q_hi": "भारत में सबसे बड़ा अभ्रक उत्पादक राज्य कौन सा है?",
+          "opts": [
+            "Bihar",
+            "Rajasthan",
+            "Jharkhand",
+            "Andhra Pradesh"
+          ],
+          "opts_hi": [
+            "बिहार",
+            "राजस्थान",
+            "झारखंड",
+            "आंध्र प्रदेश"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        }
+      ]
     }
   ]
 }
