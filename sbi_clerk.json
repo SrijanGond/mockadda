@@ -971,6 +971,212 @@
           "subject": "General Knowledge"
         }
       ]
+    },
+    {
+      "id": "sbi_clerk_18",
+      "title": "SBI Clerk Mock Test 18",
+      "duration": 13,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What are the 10 books or volumes of the Rigveda called?",
+          "q_hi": "ऋग्वेद के 10 पुस्तकों या खंडों को क्या कहा जाता है?",
+          "opts": [
+            "Mandalas",
+            "Suktas",
+            "Brahmanas",
+            "Upanishads"
+          ],
+          "opts_hi": [
+            "मंडल",
+            "सूक्त",
+            "ब्राह्मण",
+            "उपनिषद"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which of the following is the second largest artificial lake in Asia?",
+          "q_hi": "निम्नलिखित में से कौन सी एशिया की दूसरी सबसे बड़ी कृत्रिम झील है?",
+          "opts": [
+            "Chilika Lake in Odisha",
+            "Dhebar Lake in Rajasthan",
+            "Kolleru Lake in Andhra Pradesh",
+            "Chandubi Lake in Assam"
+          ],
+          "opts_hi": [
+            "ओडिशा की चिलिका झील",
+            "राजस्थान की ढेबर झील",
+            "आंध्र प्रदेश की कोलेरू झील",
+            "असम की चांदुबी झील"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which is the latest state formed in India?",
+          "q_hi": "भारत में बनने वाला नवीनतम राज्य कौन सा है?",
+          "opts": [
+            "Chhattisgarh",
+            "Uttarakhand",
+            "Jharkhand",
+            "Telangana"
+          ],
+          "opts_hi": [
+            "छत्तीसगढ़",
+            "उत्तराखंड",
+            "झारखंड",
+            "तेलंगाना"
+          ],
+          "ans": 3,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "How many Union Territories (UTs) are currently in India?",
+          "q_hi": "वर्तमान में भारत में कितने केंद्र शासित प्रदेश (UTs) हैं?",
+          "opts": [
+            "7",
+            "8",
+            "9",
+            "10"
+          ],
+          "opts_hi": [
+            "7",
+            "8",
+            "9",
+            "10"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which of the following statements about Red Fort are correct? 1. It was constructed during the reign of Shah Jahan. 2. It is located on the banks of the Yamuna River. 3. It served as the main residence of Mughal emperors.",
+          "q_hi": "लाल किले के बारे में निम्नलिखित में से कौन-से कथन सही हैं? 1. इसका निर्माण शाहजहाँ के शासनकाल में हुआ था। 2. यह यमुना नदी के तट पर स्थित है। 3. यह मुगल सम्राटों का मुख्य निवास स्थान था।",
+          "opts": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "opts_hi": [
+            "केवल 1 और 2",
+            "केवल 2 और 3",
+            "केवल 1 और 3",
+            "1, 2 और 3"
+          ],
+          "ans": 3,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which classical dance form has the earliest documented mentions?",
+          "q_hi": "किस शास्त्रीय नृत्य शैली का सबसे पुराना लिखित उल्लेख है?",
+          "opts": [
+            "Bharatanatyam",
+            "Kathak",
+            "Mohiniyattam",
+            "Manipuri"
+          ],
+          "opts_hi": [
+            "भरतनाट्यम",
+            "कथक",
+            "मोहिनीअट्टम",
+            "मणिपुरी"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "What is the new corpus of the Agriculture Infrastructure Fund after the July 2026 announcement?",
+          "q_hi": "जुलाई 2026 की घोषणा के बाद कृषि बुनियादी ढांचा कोष की नई राशि क्या है?",
+          "opts": [
+            "₹1 lakh crore",
+            "₹2 lakh crore",
+            "₹3 lakh crore",
+            "₹5 lakh crore"
+          ],
+          "opts_hi": [
+            "₹1 लाख करोड़",
+            "₹2 लाख करोड़",
+            "₹3 लाख करोड़",
+            "₹5 लाख करोड़"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "What is the corpus of Startup India Fund of Funds 2.0 approved by PM Modi?",
+          "q_hi": "पीएम मोदी द्वारा अनुमोदित स्टार्टअप इंडिया फंड ऑफ फंड्स 2.0 की राशि क्या है?",
+          "opts": [
+            "₹5,000 crore",
+            "₹7,500 crore",
+            "₹10,000 crore",
+            "₹15,000 crore"
+          ],
+          "opts_hi": [
+            "₹5,000 करोड़",
+            "₹7,500 करोड़",
+            "₹10,000 करोड़",
+            "₹15,000 करोड़"
+          ],
+          "ans": 2,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Which Indian defence company is partnering with Brazil's Embraer to manufacture aircraft in India?",
+          "q_hi": "भारत में विमान निर्माण के लिए कौन सी भारतीय रक्षा कंपनी ब्राजील की Embraer के साथ साझेदारी कर रही है?",
+          "opts": [
+            "HAL",
+            "Adani Defence & Aerospace",
+            "BEL",
+            "DRDO"
+          ],
+          "opts_hi": [
+            "HAL",
+            "अदाणी डिफेंस एंड एयरोस्पेस",
+            "BEL",
+            "DRDO"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Which Indian sportsperson became the second Indian goalkeeper to reach 300 international caps in 2025?",
+          "q_hi": "2025 में 300 अंतर्राष्ट्रीय कैप्स तक पहुँचने वाली दूसरी भारतीय गोलकीपर कौन बनी?",
+          "opts": [
+            "PR Sreejesh",
+            "Gurpreet Singh Sandhu",
+            "Savita Punia",
+            "Deepika Thakur"
+          ],
+          "opts_hi": [
+            "पी.आर. श्रीजेश",
+            "गुरप्रीत सिंह संधू",
+            "सविता पुनिया",
+            "दीपिका ठाकुर"
+          ],
+          "ans": 2,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Which state received the highest allocation under the VB-G RAM G scheme?",
+          "q_hi": "VB-G RAM G योजना के तहत किस राज्य को सबसे अधिक आवंटन मिला?",
+          "opts": [
+            "Uttar Pradesh",
+            "Andhra Pradesh",
+            "Rajasthan",
+            "Madhya Pradesh"
+          ],
+          "opts_hi": [
+            "उत्तर प्रदेश",
+            "आंध्र प्रदेश",
+            "राजस्थान",
+            "मध्य प्रदेश"
+          ],
+          "ans": 0,
+          "subject": "Current Affairs"
+        }
+      ]
     }
   ]
 }
