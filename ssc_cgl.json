@@ -4845,6 +4845,248 @@
           "subject": "General Knowledge"
         }
       ]
+    },
+    {
+      "id": "ssc_cgl_17",
+      "title": "SSC CGL Mock Test 17",
+      "duration": 16,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Who was the founder of the Mauryan Empire?",
+          "q_hi": "मौर्य साम्राज्य के संस्थापक कौन थे?",
+          "opts": [
+            "Ashoka",
+            "Chandragupta Maurya",
+            "Bindusara",
+            "Bimbisara"
+          ],
+          "opts_hi": [
+            "अशोक",
+            "चंद्रगुप्त मौर्य",
+            "बिंदुसार",
+            "बिंबिसार"
+          ],
+          "ans": 1,
+          "subject": "History"
+        },
+        {
+          "q": "Who built the Taj Mahal?",
+          "q_hi": "ताज महल का निर्माण किसने करवाया?",
+          "opts": [
+            "Shah Jahan",
+            "Akbar",
+            "Jahangir",
+            "Aurangzeb"
+          ],
+          "opts_hi": [
+            "शाहजहाँ",
+            "अकबर",
+            "जहाँगीर",
+            "औरंगजेब"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "Who was the founder of the Delhi Sultanate?",
+          "q_hi": "दिल्ली सल्तनत के संस्थापक कौन थे?",
+          "opts": [
+            "Qutb-ud-din Aibak",
+            "Iltutmish",
+            "Balban",
+            "Alauddin Khilji"
+          ],
+          "opts_hi": [
+            "कुतुबुद्दीन ऐबक",
+            "इल्तुतमिश",
+            "बलबन",
+            "अलाउद्दीन खिलजी"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "Who was the author of 'Meghaduta'?",
+          "q_hi": "मेघदूत' के लेखक कौन थे?",
+          "opts": [
+            "Kalidas",
+            "Valmiki",
+            "Tulsidas",
+            "Chanakya"
+          ],
+          "opts_hi": [
+            "कालिदास",
+            "वाल्मीकि",
+            "तुलसीदास",
+            "चाणक्य"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "Which emperor built the Grand Trunk Road?",
+          "q_hi": "ग्रैंड ट्रंक रोड का निर्माण किस सम्राट ने करवाया?",
+          "opts": [
+            "Sher Shah Suri",
+            "Ashoka",
+            "Akbar",
+            "Chandragupta Maurya"
+          ],
+          "opts_hi": [
+            "शेर शाह सूरी",
+            "अशोक",
+            "अकबर",
+            "चंद्रगुप्त मौर्य"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "Which king is associated with the Kalinga War?",
+          "q_hi": "कलिंग युद्ध किस राजा से संबंधित है?",
+          "opts": [
+            "Ashoka",
+            "Chandragupta Maurya",
+            "Samudragupta",
+            "Harsha"
+          ],
+          "opts_hi": [
+            "अशोक",
+            "चंद्रगुप्त मौर्य",
+            "समुद्रगुप्त",
+            "हर्षवर्धन"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "Who was the founder of the Gupta Empire?",
+          "q_hi": "गुप्त साम्राज्य के संस्थापक कौन थे?",
+          "opts": [
+            "Chandragupta I",
+            "Samudragupta",
+            "Chandragupta II",
+            "Skandagupta"
+          ],
+          "opts_hi": [
+            "चंद्रगुप्त I",
+            "समुद्रगुप्त",
+            "चंद्रगुप्त II",
+            "स्कंदगुप्त"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "Which emperor is known for the rock edicts?",
+          "q_hi": "शिलालेखों के लिए कौन से सम्राट प्रसिद्ध हैं?",
+          "opts": [
+            "Ashoka",
+            "Chandragupta Maurya",
+            "Samudragupta",
+            "Harsha"
+          ],
+          "opts_hi": [
+            "अशोक",
+            "चंद्रगुप्त मौर्य",
+            "समुद्रगुप्त",
+            "हर्षवर्धन"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "Which Veda is the oldest?",
+          "q_hi": "सबसे पुराना वेद कौन सा है?",
+          "opts": [
+            "Rigveda",
+            "Samaveda",
+            "Yajurveda",
+            "Atharvaveda"
+          ],
+          "opts_hi": [
+            "ऋग्वेद",
+            "सामवेद",
+            "यजुर्वेद",
+            "अथर्ववेद"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "Which king is associated with the Iron Pillar of Delhi?",
+          "q_hi": "दिल्ली का लौह स्तंभ किस राजा से संबंधित है?",
+          "opts": [
+            "Chandragupta II",
+            "Ashoka",
+            "Samudragupta",
+            "Harsha"
+          ],
+          "opts_hi": [
+            "चंद्रगुप्त II",
+            "अशोक",
+            "समुद्रगुप्त",
+            "हर्षवर्धन"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "Which Gupta ruler is known as the 'Napoleon of India'?",
+          "q_hi": "भारत का नेपोलियन' किस गुप्त शासक को कहा जाता है?",
+          "opts": [
+            "Samudragupta",
+            "Chandragupta II",
+            "Skandagupta",
+            "Chandragupta I"
+          ],
+          "opts_hi": [
+            "समुद्रगुप्त",
+            "चंद्रगुप्त II",
+            "स्कंदगुप्त",
+            "चंद्रगुप्त I"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "Which king performed the Ashwamedha Yagna?",
+          "q_hi": "अश्वमेध यज्ञ किस राजा ने किया?",
+          "opts": [
+            "Samudragupta",
+            "Ashoka",
+            "Chandragupta Maurya",
+            "Harsha"
+          ],
+          "opts_hi": [
+            "समुद्रगुप्त",
+            "अशोक",
+            "चंद्रगुप्त मौर्य",
+            "हर्षवर्धन"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "Which dynasty is known for the construction of Ajanta Caves?",
+          "q_hi": "अजंता गुफाओं के निर्माण के लिए कौन सा वंश प्रसिद्ध है?",
+          "opts": [
+            "Satavahana",
+            "Maurya",
+            "Gupta",
+            "Vakataka"
+          ],
+          "opts_hi": [
+            "सातवाहन",
+            "मौर्य",
+            "गुप्त",
+            "वाकाटक"
+          ],
+          "ans": 3,
+          "subject": "History"
+        }
+      ]
     }
   ]
 }
