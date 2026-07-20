@@ -3709,6 +3709,50 @@
           "subject": "History"
         }
       ]
+    },
+    {
+      "id": "upsc_prelims_33",
+      "title": "UPSC Prelims Mock Test 33",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which Gupta ruler is known for his patronage of the Nalanda University?",
+          "q_hi": "नालंदा विश्वविद्यालय के संरक्षण के लिए कौन से गुप्त शासक प्रसिद्ध हैं?",
+          "opts": [
+            "Chandragupta II",
+            "Samudragupta",
+            "Skandagupta",
+            "Kumaragupta I"
+          ],
+          "opts_hi": [
+            "चंद्रगुप्त II",
+            "समुद्रगुप्त",
+            "स्कंदगुप्त",
+            "कुमारगुप्त I"
+          ],
+          "ans": 3,
+          "subject": "History"
+        },
+        {
+          "q": "The Ilbert Bill controversy took place during the tenure of which Viceroy?",
+          "q_hi": "इल्बर्ट बिल विवाद किस वायसराय के कार्यकाल में हुआ?",
+          "opts": [
+            "Lord Ripon",
+            "Lord Lytton",
+            "Lord Curzon",
+            "Lord Dufferin"
+          ],
+          "opts_hi": [
+            "लॉर्ड रिपन",
+            "लॉर्ड लिटन",
+            "लॉर्ड कर्जन",
+            "लॉर्ड डफरिन"
+          ],
+          "ans": 0,
+          "subject": "History"
+        }
+      ]
     }
   ]
 }
