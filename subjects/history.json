@@ -50,6 +50,78 @@
         "अथर्ववेद"
       ],
       "ans": 2
+    },
+    {
+      "q": "Who was the founder of the Indian National Congress?",
+      "q_hi": "भारतीय राष्ट्रीय कांग्रेस के संस्थापक कौन थे?",
+      "opts": [
+        "A.O. Hume",
+        "W.C. Bonnerjee",
+        "Dadabhai Naoroji",
+        "B.G. Tilak"
+      ],
+      "opts_hi": [
+        "ए.ओ. ह्यूम",
+        "डब्ल्यू.सी. बनर्जी",
+        "दादाभाई नौरोजी",
+        "बी.जी. तिलक"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Who built the Grand Trunk Road?",
+      "q_hi": "ग्रैंड ट्रंक रोड का निर्माण किसने किया?",
+      "opts": [
+        "Chandragupta Maurya",
+        "Sher Shah Suri",
+        "Akbar",
+        "Ashoka"
+      ],
+      "opts_hi": [
+        "चंद्रगुप्त मौर्य",
+        "शेर शाह सूरी",
+        "अकबर",
+        "अशोक"
+      ],
+      "ans": 1,
+      "subject": "History"
+    },
+    {
+      "q": "Who gave the slogan “Inquilab Zindabad”?",
+      "q_hi": "“इंकलाब जिंदाबाद” का नारा किसने दिया?",
+      "opts": [
+        "Bhagat Singh",
+        "Chandrashekhar Azad",
+        "Subhas Chandra Bose",
+        "Lala Lajpat Rai"
+      ],
+      "opts_hi": [
+        "भगत सिंह",
+        "चंद्रशेखर आजाद",
+        "सुभाष चंद्र बोस",
+        "लाला लाजपत राय"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "Who was the first Sultan of Delhi?",
+      "q_hi": "दिल्ली का पहला सुल्तान कौन था?",
+      "opts": [
+        "Qutb-ud-din Aibak",
+        "Iltutmish",
+        "Balban",
+        "Alauddin Khilji"
+      ],
+      "opts_hi": [
+        "कुतुबुद्दीन ऐबक",
+        "इल्तुतमिश",
+        "बलबन",
+        "अलाउद्दीन खिलजी"
+      ],
+      "ans": 0,
+      "subject": "History"
     }
   ]
 }
