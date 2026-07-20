@@ -3395,6 +3395,140 @@
           "subject": "Polity"
         }
       ]
+    },
+    {
+      "id": "ssc_cgl_9",
+      "title": "SSC CGL Mock Test 9",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Right to Privacy is protected under which Article?",
+          "q_hi": "राइट टू प्राइवेसी किस अनुच्छेद के तहत संरक्षित है?",
+          "opts": [
+            "Article 19",
+            "Article 20",
+            "Article 21",
+            "Article 22"
+          ],
+          "opts_hi": [
+            "अनुच्छेद 19",
+            "अनुच्छेद 20",
+            "अनुच्छेद 21",
+            "अनुच्छेद 22"
+          ],
+          "ans": 2,
+          "subject": "Polity"
+        },
+        {
+          "q": "Who was the founder of the Indian National Congress?",
+          "q_hi": "भारतीय राष्ट्रीय कांग्रेस के संस्थापक कौन थे?",
+          "opts": [
+            "A.O. Hume",
+            "W.C. Bonnerjee",
+            "Dadabhai Naoroji",
+            "B.G. Tilak"
+          ],
+          "opts_hi": [
+            "ए.ओ. ह्यूम",
+            "डब्ल्यू.सी. बनर्जी",
+            "दादाभाई नौरोजी",
+            "बी.जी. तिलक"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "Which river is known as the ‘Sorrow of Bihar’?",
+          "q_hi": "‘बिहार का शोक’ किस नदी को कहा जाता है?",
+          "opts": [
+            "Ganga",
+            "Yamuna",
+            "Kosi",
+            "Godavari"
+          ],
+          "opts_hi": [
+            "गंगा",
+            "यमुना",
+            "कोसी",
+            "गोदावरी"
+          ],
+          "ans": 2,
+          "subject": "Geography"
+        },
+        {
+          "q": "What does NABARD stand for?",
+          "q_hi": "NABARD का पूर्ण रूप क्या है?",
+          "opts": [
+            "National Bank for Agriculture and Rural Development",
+            "National Bank for Agricultural Research and Development",
+            "National Agricultural Bank and Rural Development",
+            "None of these"
+          ],
+          "opts_hi": [
+            "नेशनल बैंक फॉर एग्रीकल्चर एंड रूरल डेवलपमेंट",
+            "नेशनल बैंक फॉर एग्रीकल्चरल रिसर्च एंड डेवलपमेंट",
+            "नेशनल एग्रीकल्चरल बैंक एंड रूरल डेवलपमेंट",
+            "इनमें से कोई नहीं"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Directive Principles of State Policy are borrowed from which constitution?",
+          "q_hi": "राज्य नीति के निदेशक सिद्धांत किस संविधान से लिए गए हैं?",
+          "opts": [
+            "Irish Constitution",
+            "British Constitution",
+            "American Constitution",
+            "French Constitution"
+          ],
+          "opts_hi": [
+            "आयरिश संविधान",
+            "ब्रिटिश संविधान",
+            "अमेरिकी संविधान",
+            "फ्रांसीसी संविधान"
+          ],
+          "ans": 0,
+          "subject": "Polity"
+        },
+        {
+          "q": "Which state has the longest coastline in India?",
+          "q_hi": "भारत में सबसे लंबी तटर रेखा वाला राज्य कौन सा है?",
+          "opts": [
+            "Andhra Pradesh",
+            "Gujarat",
+            "Tamil Nadu",
+            "Maharashtra"
+          ],
+          "opts_hi": [
+            "आंध्र प्रदेश",
+            "गुजरात",
+            "तमिलनाडु",
+            "महाराष्ट्र"
+          ],
+          "ans": 1,
+          "subject": "Geography"
+        },
+        {
+          "q": "Fundamental Duties were added by which amendment?",
+          "q_hi": "मौलिक कर्तव्यों को किस संशोधन द्वारा जोड़ा गया?",
+          "opts": [
+            "42nd",
+            "44th",
+            "73rd",
+            "86th"
+          ],
+          "opts_hi": [
+            "42वाँ",
+            "44वाँ",
+            "73वाँ",
+            "86वाँ"
+          ],
+          "ans": 0,
+          "subject": "Polity"
+        }
+      ]
     }
   ]
 }
