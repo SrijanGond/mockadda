@@ -801,6 +801,176 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "ssc_mts_17",
+      "title": "SSC MTS Mock Test 17",
+      "duration": 11,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Who gave the slogan \"Do or Die\"?",
+          "q_hi": "करो या मरो का नारा किसने दिया?",
+          "opts": [
+            "Jawaharlal Nehru",
+            "Mahatma Gandhi",
+            "Subhas Chandra Bose",
+            "Bal Gangadhar Tilak"
+          ],
+          "opts_hi": [
+            "जवाहरलाल नेहरू",
+            "महात्मा गांधी",
+            "सुभाष चंद्र बोस",
+            "बाल गंगाधर तिलक"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which is the smallest state of India by area?",
+          "q_hi": "क्षेत्रफल की दृष्टि से भारत का सबसे छोटा राज्य कौन सा है?",
+          "opts": [
+            "Sikkim",
+            "Tripura",
+            "Goa",
+            "Mizoram"
+          ],
+          "opts_hi": [
+            "सिक्किम",
+            "त्रिपुरा",
+            "गोवा",
+            "मिजोरम"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Who is the current Chief Justice of India?",
+          "q_hi": "भारत के वर्तमान मुख्य न्यायाधीश कौन हैं?",
+          "opts": [
+            "D.Y. Chandrachud",
+            "N.V. Ramana",
+            "U.U. Lalit",
+            "H.L. Dattu"
+          ],
+          "opts_hi": [
+            "डी.वाई. चंद्रचूड़",
+            "एन.वी. रमण",
+            "यू.यू. ललित",
+            "एच.एल. दत्तू"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which organ in the human body is also known as the \"Guardian police of the body\"?",
+          "q_hi": "मानव शरीर के किस अंग को \"शरीर का गार्जियन पुलिस\" भी कहा जाता है?",
+          "opts": [
+            "Liver",
+            "Heart",
+            "Lungs",
+            "Stomach"
+          ],
+          "opts_hi": [
+            "यकृत",
+            "हृदय",
+            "फेफड़े",
+            "पेट"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which state produces the maximum rice in India?",
+          "q_hi": "भारत में सबसे अधिक चावल उत्पादन करने वाला राज्य कौन सा है?",
+          "opts": [
+            "Uttar Pradesh",
+            "West Bengal",
+            "Punjab",
+            "Andhra Pradesh"
+          ],
+          "opts_hi": [
+            "उत्तर प्रदेश",
+            "पश्चिम बंगाल",
+            "पंजाब",
+            "आंध्र प्रदेश"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which state produces the maximum wheat in India?",
+          "q_hi": "भारत में सबसे अधिक गेहूं उत्पादन करने वाला राज्य कौन सा है?",
+          "opts": [
+            "Punjab",
+            "Haryana",
+            "Uttar Pradesh",
+            "Madhya Pradesh"
+          ],
+          "opts_hi": [
+            "पंजाब",
+            "हरियाणा",
+            "उत्तर प्रदेश",
+            "मध्य प्रदेश"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which state produces the maximum sugarcane in India?",
+          "q_hi": "भारत में सबसे अधिक गन्ना उत्पादन करने वाला राज्य कौन सा है?",
+          "opts": [
+            "Maharashtra",
+            "Uttar Pradesh",
+            "Karnataka",
+            "Tamil Nadu"
+          ],
+          "opts_hi": [
+            "महाराष्ट्र",
+            "उत्तर प्रदेश",
+            "कर्नाटक",
+            "तमिलनाडु"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Who is the current External Affairs Minister of India?",
+          "q_hi": "भारत के वर्तमान विदेश मंत्री कौन हैं?",
+          "opts": [
+            "S. Jaishankar",
+            "Subrahmanyam Jaishankar",
+            "Amit Shah",
+            "Piyush Goyal"
+          ],
+          "opts_hi": [
+            "एस. जयशंकर",
+            "सुब्रह्मण्यम जयशंकर",
+            "अमित शाह",
+            "पीयूष गोयल"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "The reason for a swimming pool to appear less deep than the actual depth is:",
+          "q_hi": "स्विमिंग पूल के वास्तविक गहराई से कम गहरा प्रतीत होने का कारण है:",
+          "opts": [
+            "Reflection",
+            "Refraction",
+            "Light scattering",
+            "Diffraction"
+          ],
+          "opts_hi": [
+            "परावर्तन",
+            "अपवर्तन",
+            "प्रकाश प्रकीर्णन",
+            "विवर्तन"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        }
+      ]
     }
   ]
 }
