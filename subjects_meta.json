@@ -1,27 +1,27 @@
 {
   "history": {
     "name": "History",
-    "count": 7
+    "count": 10
   },
   "general_knowledge": {
     "name": "General Knowledge",
-    "count": 158
+    "count": 163
   },
   "polity": {
     "name": "Polity",
-    "count": 18
+    "count": 21
   },
   "banking": {
     "name": "Banking",
-    "count": 6
+    "count": 8
   },
   "environment": {
     "name": "Environment",
-    "count": 4
+    "count": 5
   },
   "teaching": {
     "name": "Teaching",
-    "count": 2
+    "count": 4
   },
   "mathematics": {
     "name": "Mathematics",
@@ -33,7 +33,7 @@
   },
   "science": {
     "name": "Science",
-    "count": 92
+    "count": 94
   },
   "reasoning": {
     "name": "Reasoning",
@@ -57,6 +57,6 @@
   },
   "geography": {
     "name": "Geography",
-    "count": 2
+    "count": 4
   }
 }
