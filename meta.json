@@ -9,7 +9,7 @@
         "fullname": "Staff Selection Commission Combined Graduate Level",
         "tests": [
           {
-            "id": "ssc_cgl_full_1",
+            "id": "ssc_cgl_1",
             "title": "SSC CGL Full Mock Test 1 (Tier 1 Pattern)",
             "duration": 60,
             "difficulty": "Hard",
@@ -50,7 +50,7 @@
         "fullname": "Staff Selection Commission Combined Higher Secondary Level",
         "tests": [
           {
-            "id": "ssc_chsl_full_1",
+            "id": "ssc_chsl_1",
             "title": "SSC CHSL Full Mock Test 1 (Tier 1 Pattern)",
             "duration": 60,
             "difficulty": "Hard",
@@ -63,7 +63,7 @@
         "fullname": "Staff Selection Commission Multi Tasking Staff",
         "tests": [
           {
-            "id": "ssc_mts_full_1",
+            "id": "ssc_mts_1",
             "title": "SSC MTS Full Mock Test 1 (Session Pattern)",
             "duration": 90,
             "difficulty": "Hard",
@@ -74,7 +74,29 @@
       "ssc_gd": {
         "name": "SSC GD",
         "fullname": "Staff Selection Commission General Duty Constable",
-        "tests": []
+        "tests": [
+          {
+            "id": "ssc_gd_1",
+            "title": "SSC GD Mock Test 1",
+            "duration": 30,
+            "difficulty": "Easy",
+            "questionCount": 25
+          },
+          {
+            "id": "ssc_gd_2",
+            "title": "SSC GD Mock Test 2",
+            "duration": 30,
+            "difficulty": "Easy",
+            "questionCount": 25
+          },
+          {
+            "id": "ssc_gd_3",
+            "title": "SSC GD Mock Test 3",
+            "duration": 30,
+            "difficulty": "Easy",
+            "questionCount": 25
+          }
+        ]
       }
     }
   },
@@ -588,7 +610,7 @@
         "fullname": "Railway Recruitment Board Group D",
         "tests": [
           {
-            "id": "rrb_gd_1",
+            "id": "rrb_group_d_1",
             "title": "RRB Group D Mock Test 1",
             "duration": 10,
             "difficulty": "Easy",
@@ -928,14 +950,14 @@
         "fullname": "Union Public Service Commission Preliminary Examination",
         "tests": [
           {
-            "id": "upsc_pre_1",
+            "id": "upsc_prelims_1",
             "title": "UPSC Prelims GS Mock Test 1",
             "duration": 20,
             "difficulty": "Hard",
             "questionCount": 10
           },
           {
-            "id": "upsc_pre_2",
+            "id": "upsc_prelims_2",
             "title": "UPSC Prelims GS Mock Test 2",
             "duration": 20,
             "difficulty": "Hard",
@@ -1081,14 +1103,14 @@
         "fullname": "Allahabad High Court Review Officer / Assistant Review Officer — Preliminary Exam (General Studies)",
         "tests": [
           {
-            "id": "roaro_pre_1",
+            "id": "roaro_prelims_1",
             "title": "RO/ARO Prelims GS Mock Test 1",
             "duration": 60,
             "difficulty": "Hard",
             "questionCount": 100
           },
           {
-            "id": "roaro_pre_2",
+            "id": "roaro_prelims_2",
             "title": "RO/ARO Prelims GS Mock Test 2",
             "duration": 60,
             "difficulty": "Hard",
@@ -1218,7 +1240,29 @@
       "up_police_constable": {
         "name": "UP Police Constable",
         "fullname": "Uttar Pradesh Police Recruitment and Promotion Board — Constable Civil Police",
-        "tests": []
+        "tests": [
+          {
+            "id": "up_police_constable_1",
+            "title": "UP Police Constable Mock Test 1",
+            "duration": 60,
+            "difficulty": "Hard",
+            "questionCount": 100
+          },
+          {
+            "id": "up_police_constable_2",
+            "title": "UP Police Constable Mock Test 2",
+            "duration": 60,
+            "difficulty": "Hard",
+            "questionCount": 100
+          },
+          {
+            "id": "up_police_constable_3",
+            "title": "UP Police Constable Mock Test 3",
+            "duration": 60,
+            "difficulty": "Hard",
+            "questionCount": 100
+          }
+        ]
       }
     }
   },
@@ -1230,7 +1274,29 @@
       "upsssc_pet": {
         "name": "UPSSSC PET",
         "fullname": "UP Subordinate Services Selection Commission — Preliminary Eligibility Test",
-        "tests": []
+        "tests": [
+          {
+            "id": "upsssc_pet_1",
+            "title": "UPSSSC PET Mock Test 1",
+            "duration": 60,
+            "difficulty": "Medium",
+            "questionCount": 100
+          },
+          {
+            "id": "upsssc_pet_2",
+            "title": "UPSSSC PET Mock Test 2",
+            "duration": 60,
+            "difficulty": "Medium",
+            "questionCount": 100
+          },
+          {
+            "id": "upsssc_pet_3",
+            "title": "UPSSSC PET Mock Test 3",
+            "duration": 60,
+            "difficulty": "Medium",
+            "questionCount": 100
+          }
+        ]
       }
     }
   }
