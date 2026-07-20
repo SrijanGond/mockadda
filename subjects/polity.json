@@ -230,6 +230,96 @@
       ],
       "ans": 1,
       "subject": "Polity"
+    },
+    {
+      "q": "Right to Privacy is protected under which Article?",
+      "q_hi": "राइट टू प्राइवेसी किस अनुच्छेद के तहत संरक्षित है?",
+      "opts": [
+        "Article 19",
+        "Article 20",
+        "Article 21",
+        "Article 22"
+      ],
+      "opts_hi": [
+        "अनुच्छेद 19",
+        "अनुच्छेद 20",
+        "अनुच्छेद 21",
+        "अनुच्छेद 22"
+      ],
+      "ans": 2,
+      "subject": "Polity"
+    },
+    {
+      "q": "How many Fundamental Rights are there in the Indian Constitution at present?",
+      "q_hi": "भारतीय संविधान में वर्तमान में कितने मौलिक अधिकार हैं?",
+      "opts": [
+        "7",
+        "8",
+        "6",
+        "5"
+      ],
+      "opts_hi": [
+        "7",
+        "8",
+        "6",
+        "5"
+      ],
+      "ans": 2,
+      "subject": "Polity"
+    },
+    {
+      "q": "Article 370 was related to which state?",
+      "q_hi": "अनुच्छेद 370 किस राज्य से संबंधित था?",
+      "opts": [
+        "Jammu & Kashmir",
+        "Himachal Pradesh",
+        "Uttarakhand",
+        "Sikkim"
+      ],
+      "opts_hi": [
+        "जम्मू-कश्मीर",
+        "हिमाचल प्रदेश",
+        "उत्तराखंड",
+        "सिक्किम"
+      ],
+      "ans": 0,
+      "subject": "Polity"
+    },
+    {
+      "q": "Directive Principles of State Policy are borrowed from which constitution?",
+      "q_hi": "राज्य नीति के निदेशक सिद्धांत किस संविधान से लिए गए हैं?",
+      "opts": [
+        "Irish Constitution",
+        "British Constitution",
+        "American Constitution",
+        "French Constitution"
+      ],
+      "opts_hi": [
+        "आयरिश संविधान",
+        "ब्रिटिश संविधान",
+        "अमेरिकी संविधान",
+        "फ्रांसीसी संविधान"
+      ],
+      "ans": 0,
+      "subject": "Polity"
+    },
+    {
+      "q": "Fundamental Duties were added by which amendment?",
+      "q_hi": "मौलिक कर्तव्यों को किस संशोधन द्वारा जोड़ा गया?",
+      "opts": [
+        "42nd",
+        "44th",
+        "73rd",
+        "86th"
+      ],
+      "opts_hi": [
+        "42वाँ",
+        "44वाँ",
+        "73वाँ",
+        "86वाँ"
+      ],
+      "ans": 0,
+      "subject": "Polity"
     }
   ]
 }
