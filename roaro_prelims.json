@@ -4668,6 +4668,104 @@
           "subject": "Current Affairs"
         }
       ]
+    },
+    {
+      "id": "roaro_prelims_21",
+      "title": "RO/ARO Prelims Mock Test 21",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which state is the largest producer of milk in India?",
+          "q_hi": "भारत में दूध का सबसे बड़ा उत्पादक राज्य कौन सा है?",
+          "opts": [
+            "Uttar Pradesh",
+            "Rajasthan",
+            "Gujarat",
+            "Punjab"
+          ],
+          "opts_hi": [
+            "उत्तर प्रदेश",
+            "राजस्थान",
+            "गुजरात",
+            "पंजाब"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "What is the SI unit of Force?",
+          "q_hi": "बल की SI इकाई क्या है?",
+          "opts": [
+            "Joule",
+            "Newton",
+            "Watt",
+            "Pascal"
+          ],
+          "opts_hi": [
+            "जूल",
+            "न्यूटन",
+            "वाट",
+            "पास्कल"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Who was known as the \"Grand Old Man of India\"?",
+          "q_hi": "भारत के वृद्ध पुरुष के रूप में कौन जाना जाता था?",
+          "opts": [
+            "Mahatma Gandhi",
+            "Dadabhai Naoroji",
+            "Lala Lajpat Rai",
+            "Bal Gangadhar Tilak"
+          ],
+          "opts_hi": [
+            "महात्मा गांधी",
+            "दादाभाई नौरोजी",
+            "लाला लाजपत राय",
+            "बाल गंगाधर तिलक"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which is the hardest natural substance on Earth?",
+          "q_hi": "पृथ्वी पर सबसे कठोर प्राकृतिक पदार्थ कौन सा है?",
+          "opts": [
+            "Graphite",
+            "Gold",
+            "Diamond",
+            "Iron"
+          ],
+          "opts_hi": [
+            "ग्रेफाइट",
+            "सोना",
+            "हीरा",
+            "लोहा"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "The Tropic of Cancer passes through how many states in India?",
+          "q_hi": "कर्क रेखा भारत में कितने राज्यों से होकर गुजरती है?",
+          "opts": [
+            "6",
+            "7",
+            "8",
+            "9"
+          ],
+          "opts_hi": [
+            "6",
+            "7",
+            "8",
+            "9"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        }
+      ]
     }
   ]
 }
