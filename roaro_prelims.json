@@ -4355,6 +4355,140 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "roaro_prelims_19",
+      "title": "RO/ARO Prelims Mock Test 19",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Who was the first woman ruler of Delhi?",
+          "q_hi": "दिल्ली की पहली महिला शासक कौन थी?",
+          "opts": [
+            "Nur Jahan",
+            "Razia Sultan",
+            "Mumtaz Mahal",
+            "Begum Hazrat Mahal"
+          ],
+          "opts_hi": [
+            "नूरजहाँ",
+            "रज़िया सुल्तान",
+            "मुमताज महल",
+            "बेगम हज़रत महल"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "The idea of the Directive Principles of State Policy was borrowed from which country?",
+          "q_hi": "राज्य नीति के निर्देशक सिद्धांतों का विचार किस देश से लिया गया था?",
+          "opts": [
+            "USA",
+            "Ireland",
+            "UK",
+            "Canada"
+          ],
+          "opts_hi": [
+            "यूएसए",
+            "आयरलैंड",
+            "यूके",
+            "कनाडा"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which organ purifies blood in the human body?",
+          "q_hi": "मानव शरीर में कौन सा अंग रक्त को शुद्ध करता है?",
+          "opts": [
+            "Liver",
+            "Heart",
+            "Kidney",
+            "Lungs"
+          ],
+          "opts_hi": [
+            "यकृत",
+            "हृदय",
+            "गुर्दा",
+            "फेफड़े"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which is the only floating national park in the world?",
+          "q_hi": "दुनिया का एकमात्र तैरता हुआ राष्ट्रीय उद्यान कौन सा है?",
+          "opts": [
+            "Keibul Lamjao National Park",
+            "Kaziranga National Park",
+            "Sundarbans National Park",
+            "Periyar National Park"
+          ],
+          "opts_hi": [
+            "केइबुल लामजाओ राष्ट्रीय उद्यान",
+            "काजीरंगा राष्ट्रीय उद्यान",
+            "सुंदरवन राष्ट्रीय उद्यान",
+            "पेरियार राष्ट्रीय उद्यान"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which state is called the \"Spice Garden of India\"?",
+          "q_hi": "किस राज्य को \"भारत का मसाला उद्यान\" कहा जाता है?",
+          "opts": [
+            "Kerala",
+            "Tamil Nadu",
+            "Karnataka",
+            "Andhra Pradesh"
+          ],
+          "opts_hi": [
+            "केरल",
+            "तमिलनाडु",
+            "कर्नाटक",
+            "आंध्र प्रदेश"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Who is the current Home Minister of India?",
+          "q_hi": "भारत के वर्तमान गृह मंत्री कौन हैं?",
+          "opts": [
+            "Rajnath Singh",
+            "Amit Shah",
+            "Nirmala Sitharaman",
+            "Piyush Goyal"
+          ],
+          "opts_hi": [
+            "राजनाथ सिंह",
+            "अमित शाह",
+            "निर्मला सीतारमण",
+            "पीयूष गोयल"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which Indian state has the lowest literacy rate?",
+          "q_hi": "किस भारतीय राज्य में साक्षरता दर सबसे कम है?",
+          "opts": [
+            "Bihar",
+            "Rajasthan",
+            "Uttar Pradesh",
+            "Madhya Pradesh"
+          ],
+          "opts_hi": [
+            "बिहार",
+            "राजस्थान",
+            "उत्तर प्रदेश",
+            "मध्य प्रदेश"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        }
+      ]
     }
   ]
 }
