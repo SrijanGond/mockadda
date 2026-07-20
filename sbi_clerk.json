@@ -1309,6 +1309,32 @@
           "subject": "Banking"
         }
       ]
+    },
+    {
+      "id": "sbi_clerk_22",
+      "title": "SBI Clerk Mock Test 22",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What is the full form of MICR?",
+          "q_hi": "MICR का पूर्ण रूप क्या है?",
+          "opts": [
+            "Magnetic Ink Character Recognition",
+            "Magnetic Ink Character Reader",
+            "None",
+            "Magnetic Ink Code Reader"
+          ],
+          "opts_hi": [
+            "मैग्नेटिक इंक कैरेक्टर रिकॉग्निशन",
+            "मैग्नेटिक इंक कैरेक्टर रीडर",
+            "कोई नहीं",
+            "मैग्नेटिक इंक कोड रीडर"
+          ],
+          "ans": 0,
+          "subject": "Banking"
+        }
+      ]
     }
   ]
 }
