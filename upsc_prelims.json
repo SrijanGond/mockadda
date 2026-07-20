@@ -2317,6 +2317,176 @@
           "subject": "Reasoning"
         }
       ]
+    },
+    {
+      "id": "upsc_prelims_21",
+      "title": "UPSC Prelims Mock Test 21",
+      "duration": 11,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which Article of the Constitution abolishes Untouchability?",
+          "q_hi": "संविधान का कौन सा अनुच्छेद अस्पृश्यता को समाप्त करता है?",
+          "opts": [
+            "Article 14",
+            "Article 15",
+            "Article 17",
+            "Article 21"
+          ],
+          "opts_hi": [
+            "अनुच्छेद 14",
+            "अनुच्छेद 15",
+            "अनुच्छेद 17",
+            "अनुच्छेद 21"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Who was the first President of India?",
+          "q_hi": "भारत के पहले राष्ट्रपति कौन थे?",
+          "opts": [
+            "Dr. Rajendra Prasad",
+            "Dr. S. Radhakrishnan",
+            "Nehru",
+            "Patel"
+          ],
+          "opts_hi": [
+            "डॉ. राजेंद्र प्रसाद",
+            "डॉ. एस. राधाकृष्णन",
+            "नेहरू",
+            "पटेल"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which is the hardest natural substance on Earth?",
+          "q_hi": "पृथ्वी पर सबसे कठोर प्राकृतिक पदार्थ कौन सा है?",
+          "opts": [
+            "Graphite",
+            "Gold",
+            "Diamond",
+            "Iron"
+          ],
+          "opts_hi": [
+            "ग्रेफाइट",
+            "सोना",
+            "हीरा",
+            "लोहा"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "What is the SI unit of Force?",
+          "q_hi": "बल की SI इकाई क्या है?",
+          "opts": [
+            "Joule",
+            "Newton",
+            "Watt",
+            "Pascal"
+          ],
+          "opts_hi": [
+            "जूल",
+            "न्यूटन",
+            "वाट",
+            "पास्कल"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "What is the chemical name of common salt?",
+          "q_hi": "सामान्य नमक का रासायनिक नाम क्या है?",
+          "opts": [
+            "Sodium Carbonate",
+            "Sodium Chloride",
+            "Sodium Bicarbonate",
+            "Sodium Hydroxide"
+          ],
+          "opts_hi": [
+            "सोडियम कार्बोनेट",
+            "सोडियम क्लोराइड",
+            "सोडियम बाइकार्बोनेट",
+            "सोडियम हाइड्रॉक्साइड"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which is the southernmost point of India?",
+          "q_hi": "भारत का सबसे दक्षिणी बिंदु कौन सा है?",
+          "opts": [
+            "Kanyakumari",
+            "Indira Point",
+            "Kochi",
+            "Thiruvananthapuram"
+          ],
+          "opts_hi": [
+            "कन्याकुमारी",
+            "इंदिरा पॉइंट",
+            "कोच्चि",
+            "तिरुवनंतपुरम"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which is the largest desert in India?",
+          "q_hi": "भारत का सबसे बड़ा मरुस्थल कौन सा है?",
+          "opts": [
+            "Thar Desert",
+            "Rann of Kutch",
+            "Sahara Desert",
+            "Gobi Desert"
+          ],
+          "opts_hi": [
+            "थार मरुस्थल",
+            "कच्छ का रण",
+            "सहारा मरुस्थल",
+            "गोबी मरुस्थल"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Who is the current Education Minister of India?",
+          "q_hi": "भारत के वर्तमान शिक्षा मंत्री कौन हैं?",
+          "opts": [
+            "Dharmendra Pradhan",
+            "Ramesh Pokhriyal",
+            "Smriti Irani",
+            "Prakash Javadekar"
+          ],
+          "opts_hi": [
+            "धर्मेंद्र प्रधान",
+            "रमेश पोखरियाल",
+            "स्मृति ईरानी",
+            "प्रकाश जावड़ेकर"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which is India's first bullet train project route?",
+          "q_hi": "भारत का पहला बुलेट ट्रेन परियोजना मार्ग कौन सा है?",
+          "opts": [
+            "Delhi - Agra",
+            "Mumbai - Ahmedabad",
+            "Chennai - Bangalore",
+            "Kolkata - Patna"
+          ],
+          "opts_hi": [
+            "दिल्ली - आगरा",
+            "मुंबई - अहमदाबाद",
+            "चेन्नई - बैंगलोर",
+            "कोलकाता - पटना"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        }
+      ]
     }
   ]
 }
