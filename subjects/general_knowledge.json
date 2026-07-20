@@ -3178,6 +3178,96 @@
       ],
       "ans": 0,
       "subject": "General Knowledge"
+    },
+    {
+      "q": "Which award is given for lifetime achievement in sports?",
+      "q_hi": "खेल में जीवन भर की उपलब्धि के लिए कौन सा पुरस्कार दिया जाता है?",
+      "opts": [
+        "Arjuna Award",
+        "Dronacharya Award",
+        "Rashtriya Khel Protsahan Puraskar",
+        "Dhyan Chand Award"
+      ],
+      "opts_hi": [
+        "अर्जुन पुरस्कार",
+        "द्रोणाचार्य पुरस्कार",
+        "राष्ट्रीय खेल प्रोत्साहन पुरस्कार",
+        "ध्यान चंद पुरस्कार"
+      ],
+      "ans": 3,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who is the current Chief Justice of India (as of 2026)?",
+      "q_hi": "भारत के वर्तमान मुख्य न्यायाधीश कौन हैं (2026 तक)?",
+      "opts": [
+        "Sanjiv Khanna",
+        "DY Chandrachud",
+        "NV Ramana",
+        "None"
+      ],
+      "opts_hi": [
+        "संजीव खन्ना",
+        "डीवाई चंद्रचूड़",
+        "एनवी रमना",
+        "कोई नहीं"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who wrote 'Panchatantra'?",
+      "q_hi": "पंचतंत्र' किसने लिखा?",
+      "opts": [
+        "Vishnu Sharma",
+        "Valmiki",
+        "Tulsidas",
+        "Kalidas"
+      ],
+      "opts_hi": [
+        "विष्णु शर्मा",
+        "वाल्मीकि",
+        "तुलसीदास",
+        "कालिदास"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Kuchipudi is the classical dance of which state?",
+      "q_hi": "कुचिपुड़ी किस राज्य का शास्त्रीय नृत्य है?",
+      "opts": [
+        "Andhra Pradesh",
+        "Tamil Nadu",
+        "Odisha",
+        "Kerala"
+      ],
+      "opts_hi": [
+        "आंध्र प्रदेश",
+        "तमिलनाडु",
+        "ओडिशा",
+        "केरल"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "When is World Ozone Day celebrated?",
+      "q_hi": "विश्व ओजोन दिवस कब मनाया जाता है?",
+      "opts": [
+        "Wed Sep 16 2026 05:30:00 GMT+0530 (India Standard Time)",
+        "Fri Jun 05 2026 05:30:00 GMT+0530 (India Standard Time)",
+        "Wed Apr 22 2026 05:30:00 GMT+0530 (India Standard Time)",
+        "Sun Mar 08 2026 05:30:00 GMT+0530 (India Standard Time)"
+      ],
+      "opts_hi": [
+        "16 सितंबर",
+        "5 जून",
+        "22 अप्रैल",
+        "8 मार्च"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
     }
   ]
 }
