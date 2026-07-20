@@ -1578,6 +1578,194 @@
           "subject": "Geography"
         }
       ]
+    },
+    {
+      "id": "ssc_mts_24",
+      "title": "SSC MTS Mock Test 24",
+      "duration": 12,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What is the term for the boundary between the troposphere and stratosphere?",
+          "q_hi": "ट्रोपोस्फियर और स्ट्रेटोस्फियर के बीच की सीमा को क्या कहते हैं?",
+          "opts": [
+            "Tropopause",
+            "Stratopause",
+            "Mesopause",
+            "None"
+          ],
+          "opts_hi": [
+            "ट्रोपोपॉज",
+            "स्ट्रेटोपॉज",
+            "मेसोपॉज",
+            "कोई नहीं"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "What is the name of the layer of the atmosphere where meteors burn?",
+          "q_hi": "वायुमंडल की वह परत जहाँ उल्कापिंड जलते हैं, उसे क्या कहते हैं?",
+          "opts": [
+            "Mesosphere",
+            "Thermosphere",
+            "Stratosphere",
+            "Troposphere"
+          ],
+          "opts_hi": [
+            "मेसोस्फियर",
+            "थर्मोस्फियर",
+            "स्ट्रेटोस्फियर",
+            "ट्रोपोस्फियर"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "What is the term for the point directly above the earthquake origin?",
+          "q_hi": "भूकंप के मूल बिंदु के ठीक ऊपर वाले बिंदु को क्या कहते हैं?",
+          "opts": [
+            "Epicenter",
+            "Hypocenter",
+            "Focus",
+            "None"
+          ],
+          "opts_hi": [
+            "एपिसेंटर",
+            "हाइपोसेंटर",
+            "फोकस",
+            "कोई नहीं"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "What is the name of the boundary between the Earth's crust and mantle?",
+          "q_hi": "पृथ्वी की भूपर्पटी और मेंटल के बीच की सीमा को क्या कहते हैं?",
+          "opts": [
+            "Moho Discontinuity",
+            "Conrad Discontinuity",
+            "Gutenberg Discontinuity",
+            "Lehmann Discontinuity"
+          ],
+          "opts_hi": [
+            "मोहो असंतुलन",
+            "कॉनराड असंतुलन",
+            "गुटेनबर्ग असंतुलन",
+            "लेहमैन असंतुलन"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "What is the term for the point inside the Earth where an earthquake originates?",
+          "q_hi": "भूकंप का मूल बिंदु (पृथ्वी के अंदर) को क्या कहते हैं?",
+          "opts": [
+            "Epicenter",
+            "Hypocenter",
+            "Focus",
+            "None"
+          ],
+          "opts_hi": [
+            "एपिसेंटर",
+            "हाइपोसेंटर",
+            "फोकस",
+            "कोई नहीं"
+          ],
+          "ans": 2,
+          "subject": "Geography"
+        },
+        {
+          "q": "What is the name of the layer of atmosphere that reflects radio waves?",
+          "q_hi": "वायुमंडल की वह परत जो रेडियो तरंगों को परावर्तित करती है, उसे क्या कहते हैं?",
+          "opts": [
+            "Ionosphere",
+            "Troposphere",
+            "Stratosphere",
+            "Mesosphere"
+          ],
+          "opts_hi": [
+            "आयनोस्फियर",
+            "ट्रोपोस्फियर",
+            "स्ट्रेटोस्फियर",
+            "मेसोस्फियर"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "What is the term for the line joining places of equal temperature?",
+          "q_hi": "समान तापमान वाले स्थानों को जोड़ने वाली रेखा को क्या कहते हैं?",
+          "opts": [
+            "Isotherm",
+            "Isobar",
+            "Isoline",
+            "Isohyet"
+          ],
+          "opts_hi": [
+            "आइसोथर्म",
+            "आइसोबार",
+            "आइसोलाइन",
+            "आइसोहाइट"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "What is the term for the line joining places of equal rainfall?",
+          "q_hi": "समान वर्षा वाले स्थानों को जोड़ने वाली रेखा को क्या कहते हैं?",
+          "opts": [
+            "Isohyet",
+            "Isotherm",
+            "Isobar",
+            "Isoline"
+          ],
+          "opts_hi": [
+            "आइसोहाइट",
+            "आइसोथर्म",
+            "आइसोबार",
+            "आइसोलाइन"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "What is the term for the line joining places of equal pressure?",
+          "q_hi": "समान दबाव वाले स्थानों को जोड़ने वाली रेखा को क्या कहते हैं?",
+          "opts": [
+            "Isobar",
+            "Isotherm",
+            "Isohyet",
+            "Isoline"
+          ],
+          "opts_hi": [
+            "आइसोबार",
+            "आइसोथर्म",
+            "आइसोहाइट",
+            "आइसोलाइन"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "What is the term for the line joining places of equal sunshine?",
+          "q_hi": "समान सूर्य प्रकाश वाले स्थानों को जोड़ने वाली रेखा को क्या कहते हैं?",
+          "opts": [
+            "Isoline",
+            "Isopleth",
+            "Isohel",
+            "Isotherm"
+          ],
+          "opts_hi": [
+            "आइसोलाइन",
+            "आइसोप्लेथ",
+            "आइसोहेल",
+            "आइसोथर्म"
+          ],
+          "ans": 2,
+          "subject": "Geography"
+        }
+      ]
     }
   ]
 }
