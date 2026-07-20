@@ -1325,6 +1325,924 @@
         "90% केंद्रीय, 10% राज्य"
       ],
       "ans": 0
+    },
+    {
+      "q": "Which new scheme has replaced the MGNREGA?",
+      "q_hi": "किस नई योजना ने MGNREGA का स्थान लिया है?",
+      "opts": [
+        "Viksit Bharat - VB-G RAM G Yojana",
+        "PM Garib Kalyan Yojana",
+        "Rural Employment Guarantee Scheme",
+        "National Rural Livelihood Mission"
+      ],
+      "opts_hi": [
+        "विकसित भारत - VB-G RAM G योजना",
+        "पीएम गरीब कल्याण योजना",
+        "ग्रामीण रोजगार गारंटी योजना",
+        "राष्ट्रीय ग्रामीण आजीविका मिशन"
+      ],
+      "ans": 0,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "What is the new target for Lakhpati Didis set by PM Modi in July 2026?",
+      "q_hi": "जुलाई 2026 में पीएम मोदी द्वारा लखपति दीदियों का नया लक्ष्य क्या रखा गया है?",
+      "opts": [
+        "3 crore",
+        "4 crore",
+        "6 crore",
+        "10 crore"
+      ],
+      "opts_hi": [
+        "3 करोड़",
+        "4 करोड़",
+        "6 करोड़",
+        "10 करोड़"
+      ],
+      "ans": 2,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "What was the Gross NPA level of Scheduled Commercial Banks as per RBI's June 2026 Financial Stability Report?",
+      "q_hi": "RBI की जून 2026 वित्तीय स्थिरता रिपोर्ट के अनुसार, अनुसूचित वाणिज्यिक बैंकों का सकल NPA स्तर क्या था?",
+      "opts": [
+        "Record low in decades",
+        "0.035",
+        "0.042",
+        "0.051"
+      ],
+      "opts_hi": [
+        "दशकों में सबसे निम्नतम",
+        "0.035",
+        "0.042",
+        "0.051"
+      ],
+      "ans": 0,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "What was the profit after tax of Scheduled Commercial Banks in FY26 as per RBI?",
+      "q_hi": "RBI के अनुसार, वित्तीय वर्ष 2025-26 में अनुसूचित वाणिज्यिक बैंकों का कर-पश्चात लाभ कितना था?",
+      "opts": [
+        "₹3.78 lakh crore",
+        "₹4.05 lakh crore",
+        "₹4.50 lakh crore",
+        "₹5.20 lakh crore"
+      ],
+      "opts_hi": [
+        "₹3.78 लाख करोड़",
+        "₹4.05 लाख करोड़",
+        "₹4.50 लाख करोड़",
+        "₹5.20 लाख करोड़"
+      ],
+      "ans": 1,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "What is RBI's projection for India's GDP growth and inflation for FY27?",
+      "q_hi": "वित्तीय वर्ष 2026-27 के लिए RBI का GDP वृद्धि और मुद्रास्फीति का अनुमान क्या है?",
+      "opts": [
+        "6.6% growth, 5.1% inflation",
+        "7.0% growth, 4.5% inflation",
+        "6.0% growth, 5.5% inflation",
+        "7.7% growth, 4.0% inflation"
+      ],
+      "opts_hi": [
+        "6.6% वृद्धि, 5.1% मुद्रास्फीति",
+        "7.0% वृद्धि, 4.5% मुद्रास्फीति",
+        "6.0% वृद्धि, 5.5% मुद्रास्फीति",
+        "7.7% वृद्धि, 4.0% मुद्रास्फीति"
+      ],
+      "ans": 0,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "How many days of employment are guaranteed under the new VB-G RAM G scheme?",
+      "q_hi": "नई VB-G RAM G योजना के तहत रोजगार की कितने दिनों की गारंटी है?",
+      "opts": [
+        "100 days",
+        "125 days",
+        "150 days",
+        "200 days"
+      ],
+      "opts_hi": [
+        "100 दिन",
+        "125 दिन",
+        "150 दिन",
+        "200 दिन"
+      ],
+      "ans": 1,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "What is the new corpus of the Agriculture Infrastructure Fund after the July 2026 announcement?",
+      "q_hi": "जुलाई 2026 की घोषणा के बाद कृषि बुनियादी ढांचा कोष की नई राशि क्या है?",
+      "opts": [
+        "₹1 lakh crore",
+        "₹2 lakh crore",
+        "₹3 lakh crore",
+        "₹5 lakh crore"
+      ],
+      "opts_hi": [
+        "₹1 लाख करोड़",
+        "₹2 लाख करोड़",
+        "₹3 लाख करोड़",
+        "₹5 लाख करोड़"
+      ],
+      "ans": 1,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "What is the corpus of Startup India Fund of Funds 2.0 approved by PM Modi?",
+      "q_hi": "पीएम मोदी द्वारा अनुमोदित स्टार्टअप इंडिया फंड ऑफ फंड्स 2.0 की राशि क्या है?",
+      "opts": [
+        "₹5,000 crore",
+        "₹7,500 crore",
+        "₹10,000 crore",
+        "₹15,000 crore"
+      ],
+      "opts_hi": [
+        "₹5,000 करोड़",
+        "₹7,500 करोड़",
+        "₹10,000 करोड़",
+        "₹15,000 करोड़"
+      ],
+      "ans": 2,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "What is the name of the scheme providing cashless treatment to accident victims?",
+      "q_hi": "दुर्घटना पीड़ितों को कैशलेस उपचार प्रदान करने वाली योजना का नाम क्या है?",
+      "opts": [
+        "PM Health Insurance Scheme",
+        "PM RAHAT Scheme",
+        "PM Arogya Yojana",
+        "PM Accident Care Scheme"
+      ],
+      "opts_hi": [
+        "पीएम स्वास्थ्य बीमा योजना",
+        "पीएम राहत योजना",
+        "पीएम आरोग्य योजना",
+        "पीएम एक्सीडेंट केयर योजना"
+      ],
+      "ans": 1,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "What is the financial outlay for the PM Vishwakarma scheme approved by the Cabinet?",
+      "q_hi": "कैबिनेट द्वारा अनुमोदित पीएम विश्वकर्मा योजना का वित्तीय परिव्यय क्या है?",
+      "opts": [
+        "₹10,000 crore",
+        "₹13,000 crore",
+        "₹15,000 crore",
+        "₹20,000 crore"
+      ],
+      "opts_hi": [
+        "₹10,000 करोड़",
+        "₹13,000 करोड़",
+        "₹15,000 करोड़",
+        "₹20,000 करोड़"
+      ],
+      "ans": 1,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "What is the new minimum balance requirement for partial EPF withdrawals under EPF Scheme 2026?",
+      "q_hi": "EPF Scheme 2026 के तहत आंशिक EPF निकासी के लिए न्यूनतम शेष राशि आवश्यकता क्या है?",
+      "opts": [
+        "0.1",
+        "0.2",
+        "0.25",
+        "0.3"
+      ],
+      "opts_hi": [
+        "0.1",
+        "0.2",
+        "0.25",
+        "0.3"
+      ],
+      "ans": 2,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "From which village was the Viksit Bharat - VB-G RAM G Mission launched?",
+      "q_hi": "विकसित भारत - VB-G RAM G मिशन किस गाँव से लॉन्च किया गया था?",
+      "opts": [
+        "Mukkavaripalli, Andhra Pradesh",
+        "Pipili, Odisha",
+        "Kevadia, Gujarat",
+        "Ladakh"
+      ],
+      "opts_hi": [
+        "मुक्कावरीपल्ली, आंध्र प्रदेश",
+        "पिपिली, ओडिशा",
+        "केवड़िया, गुजरात",
+        "लद्दाख"
+      ],
+      "ans": 0,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "Which supersonic missile did India agree to sell to Indonesia?",
+      "q_hi": "भारत ने इंडोनेशिया को कौन सी सुपरसोनिक मिसाइल बेचने पर सहमति व्यक्त की?",
+      "opts": [
+        "BrahMos",
+        "Agni-V",
+        "Prithvi",
+        "Akash"
+      ],
+      "opts_hi": [
+        "ब्रह्मोस",
+        "अग्नि-V",
+        "पृथ्वी",
+        "आकाश"
+      ],
+      "ans": 0,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "Which country did PM Modi visit in July 2026 to strengthen bilateral ties?",
+      "q_hi": "जुलाई 2026 में PM मोदी ने द्विपक्षीय संबंधों को मजबूत करने के लिए किस देश का दौरा किया?",
+      "opts": [
+        "Indonesia, Australia, New Zealand",
+        "Japan, South Korea, Singapore",
+        "Russia, France, Germany",
+        "UAE, Saudi Arabia, Israel"
+      ],
+      "opts_hi": [
+        "इंडोनेशिया, ऑस्ट्रेलिया, न्यूज़ीलैंड",
+        "जापान, दक्षिण कोरिया, सिंगापुर",
+        "रूस, फ्रांस, जर्मनी",
+        "यूएई, सऊदी अरब, इज़राइल"
+      ],
+      "ans": 0,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "What is the new name of the International Booker Prize from 2027?",
+      "q_hi": "2027 से अंतर्राष्ट्रीय बुकर पुरस्कार का नया क्या होगा?",
+      "opts": [
+        "Booker International Prize",
+        "Bookman International Booker Prize",
+        "Global Booker Prize",
+        "World Booker Prize"
+      ],
+      "opts_hi": [
+        "बुकर अंतर्राष्ट्रीय पुरस्कार",
+        "बुकमैन अंतर्राष्ट्रीय बुकर पुरस्कार",
+        "ग्लोबल बुकर पुरस्कार",
+        "विश्व बुकर पुरस्कार"
+      ],
+      "ans": 1,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "Which Indian tennis player received the Padma Bhushan in 2026?",
+      "q_hi": "2026 में किस भारतीय टेनिस खिलाड़ी को पद्म भूषण से सम्मानित किया गया?",
+      "opts": [
+        "Rohan Bopanna",
+        "Leander Paes",
+        "Vijay Amritraj",
+        "Mahesh Bhupathi"
+      ],
+      "opts_hi": [
+        "रोहन बोपन्ना",
+        "लिएंडर पेस",
+        "विजय अमृतराज",
+        "महेश भूपति"
+      ],
+      "ans": 2,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "Which Indian hockey player received the Padma Shri in 2026?",
+      "q_hi": "2026 में किस भारतीय हॉकी खिलाड़ी को पद्म श्री से सम्मानित किया गया?",
+      "opts": [
+        "PR Sreejesh",
+        "Manpreet Singh",
+        "Savita Punia",
+        "Rani Rampal"
+      ],
+      "opts_hi": [
+        "पी.आर. श्रीजेश",
+        "मनप्रीत सिंह",
+        "सविता पुनिया",
+        "रानी रामपाल"
+      ],
+      "ans": 2,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "Which Indian cricketer was conferred with the Padma Shri in 2026?",
+      "q_hi": "2026 में किस भारतीय क्रिकेटर को पद्म श्री से सम्मानित किया गया?",
+      "opts": [
+        "Virat Kohli",
+        "Rohit Sharma",
+        "Jasprit Bumrah",
+        "Ravichandran Ashwin"
+      ],
+      "opts_hi": [
+        "विराट कोहली",
+        "रोहित शर्मा",
+        "जसप्रीत बुमराह",
+        "रविचंद्रन अश्विन"
+      ],
+      "ans": 1,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "Which Indian women's cricketer also received the Padma Shri in 2026?",
+      "q_hi": "2026 में किस भारतीय महिला क्रिकेटर को भी पद्म श्री मिला?",
+      "opts": [
+        "Smriti Mandhana",
+        "Mithali Raj",
+        "Harmanpreet Kaur",
+        "Jhulan Goswami"
+      ],
+      "opts_hi": [
+        "स्मृति मंधाना",
+        "मिताली राज",
+        "हरमनप्रीत कौर",
+        "झूलन गोस्वामी"
+      ],
+      "ans": 2,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "Which observatory in Chile has launched the Legacy Survey of Space and Time (LSST) mission?",
+      "q_hi": "चिली में किस वेधशाला ने Legacy Survey of Space and Time (LSST) मिशन लॉन्च किया है?",
+      "opts": [
+        "Vera C. Rubin Observatory",
+        "Very Large Telescope",
+        "Atacama Observatory",
+        "Palomar Observatory"
+      ],
+      "opts_hi": [
+        "वेरा सी. रुबिन वेधशाला",
+        "बहुत बड़ा दूरबीन",
+        "अटाकामा वेधशाला",
+        "पालोमर वेधशाला"
+      ],
+      "ans": 0,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "Which Indian institutions are participating in the LSST mission?",
+      "q_hi": "LSST मिशन में कौन से भारतीय संस्थान भाग ले रहे हैं?",
+      "opts": [
+        "ISRO and IIT Bombay",
+        "IUCAA and NCRA-TIFR",
+        "PRL and IISc",
+        "URSC and SAC"
+      ],
+      "opts_hi": [
+        "ISRO और IIT बॉम्बे",
+        "IUCAA और NCRA-TIFR",
+        "PRL और IISc",
+        "URSC और SAC"
+      ],
+      "ans": 1,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "Which submarine cable project connecting India to Southeast Asia was announced by Microsoft and Lightstorm?",
+      "q_hi": "Microsoft और Lightstorm द्वारा भारत को दक्षिण-पूर्व एशिया से जोड़ने वाली किस पनडुब्बी केबल परियोजना की घोषणा की गई?",
+      "opts": [
+        "I-2SEA",
+        "MERA",
+        "SEA-ME-WE 6",
+        "Unity"
+      ],
+      "opts_hi": [
+        "I-2SEA",
+        "MERA",
+        "SEA-ME-WE 6",
+        "Unity"
+      ],
+      "ans": 0,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "Which Indian business leaders were appointed as founding members of the ITU's AI for Good Global Commission?",
+      "q_hi": "ITU के AI for Good Global Commission के संस्थापक सदस्यों के रूप में किन भारतीय व्यापार नेताओं को नियुक्त किया गया?",
+      "opts": [
+        "Mukesh Ambani, Sunil Bharti Mittal, Lakshmi N. Mittal",
+        "Ratan Tata, Azim Premji, Narayana Murthy",
+        "Anand Mahindra, Kumar Mangalam Birla, Adi Godrej",
+        "Gautam Adani, Rajan Anandan, Nandan Nilekani"
+      ],
+      "opts_hi": [
+        "मुकेश अंबानी, सुनील भारती मित्तल, लक्ष्मी एन. मित्तल",
+        "रतन टाटा, अजीम प्रेमजी, नारायण मूर्ति",
+        "आनंद महिंद्रा, कुमार मंगलम बिड़ला, अदि गोदरेज",
+        "गौतम अडानी, राजन अनंदन, नंदन नीलेकणी"
+      ],
+      "ans": 0,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "Which country's Prime Minister visited India in July 2026 for the 16th India-Japan Summit?",
+      "q_hi": "16वें भारत-जापान शिखर सम्मेलन के लिए जुलाई 2026 में किस देश के प्रधान मंत्री ने भारत का दौरा किया?",
+      "opts": [
+        "Fumio Kishida",
+        "Sanae Takaichi",
+        "Shinzo Abe",
+        "Yoshihide Suga"
+      ],
+      "opts_hi": [
+        "फुमियो किशिदा",
+        "सानाए ताकाइची",
+        "शिंजो आबे",
+        "योशिहिदे सुगा"
+      ],
+      "ans": 1,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "India and Israel have elevated their partnership to which status?",
+      "q_hi": "भारत और इज़राइल ने अपनी साझेदारी को किस स्तर तक बढ़ाया है?",
+      "opts": [
+        "Comprehensive Strategic Partnership",
+        "Special Strategic Partnership",
+        "Strategic Alliance",
+        "Global Partnership"
+      ],
+      "opts_hi": [
+        "व्यापक रणनीतिक साझेदारी",
+        "विशेष रणनीतिक साझेदारी",
+        "रणनीतिक गठबंधन",
+        "वैश्विक साझेदारी"
+      ],
+      "ans": 1,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "Which Indian digital payment system is being introduced in Israel?",
+      "q_hi": "कौन सी भारतीय डिजिटल भुगतान प्रणाली इज़राइल में शुरू की जा रही है?",
+      "opts": [
+        "RuPay",
+        "UPI (Unified Payments Interface)",
+        "BHIM",
+        "IMPS"
+      ],
+      "opts_hi": [
+        "रुपे",
+        "UPI (यूनिफाइड पेमेंट्स इंटरफेस)",
+        "भीम",
+        "IMPS"
+      ],
+      "ans": 1,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "Which asteroid does NASA's Psyche mission aim to study?",
+      "q_hi": "NASA का Psyche मिशन किस क्षुद्रग्रह का अध्ययन करना है?",
+      "opts": [
+        "Psyche",
+        "Ceres",
+        "Vesta",
+        "Eros"
+      ],
+      "opts_hi": [
+        "साइकी",
+        "सेरेस",
+        "वेस्टा",
+        "इरोस"
+      ],
+      "ans": 0,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "What is the highest sporting honour of India that was recommended for Hardik Singh in 2025-26?",
+      "q_hi": "2025-26 में हार्दिक सिंह के लिए अनुशंसित भारत का सर्वोच्च खेल सम्मान क्या है?",
+      "opts": [
+        "Arjuna Award",
+        "Khel Ratna Award",
+        "Dronacharya Award",
+        "Rajiv Gandhi Khel Ratna"
+      ],
+      "opts_hi": [
+        "अर्जुन पुरस्कार",
+        "खेल रत्न पुरस्कार",
+        "द्रोणाचार्य पुरस्कार",
+        "राजीव गांधी खेल रत्न"
+      ],
+      "ans": 1,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "Which athlete publicly criticized the delay in National Sports Awards 2026?",
+      "q_hi": "किस खिलाड़ी ने 2026 के राष्ट्रीय खेल पुरस्कारों में देरी की सार्वजनिक रूप से आलोचना की?",
+      "opts": [
+        "Neeraj Chopra",
+        "Tejaswin Shankar",
+        "PV Sindhu",
+        "Mirabai Chanu"
+      ],
+      "opts_hi": [
+        "नीरज चोपड़ा",
+        "तेजस्विन शंकर",
+        "पी.वी. सिंधु",
+        "मीराबाई चानू"
+      ],
+      "ans": 1,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "Where did PM Modi inaugurate his new office in July 2026?",
+      "q_hi": "जुलाई 2026 में PM मोदी ने अपना नया कार्यालय कहाँ उद्घाटन किया?",
+      "opts": [
+        "Vijay Chowk",
+        "Seva Teerth",
+        "India Gate",
+        "Rashtrapati Bhavan"
+      ],
+      "opts_hi": [
+        "विजय चौक",
+        "सेवा तीर्थ",
+        "इंडिया गेट",
+        "राष्ट्रपति भवन"
+      ],
+      "ans": 1,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "Which country conducted an Intercontinental Ballistic Missile (ICBM) test on July 6, 2026?",
+      "q_hi": "6 जुलाई, 2026 को किस देश ने अंतरमहाद्वीपीय बैलिस्टिक मिसाइल (ICBM) का परीक्षण किया?",
+      "opts": [
+        "USA",
+        "Russia",
+        "China",
+        "North Korea"
+      ],
+      "opts_hi": [
+        "यूएसए",
+        "रूस",
+        "चीन",
+        "उत्तर कोरिया"
+      ],
+      "ans": 2,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "Which Indian defence company is partnering with Brazil's Embraer to manufacture aircraft in India?",
+      "q_hi": "भारत में विमान निर्माण के लिए कौन सी भारतीय रक्षा कंपनी ब्राजील की Embraer के साथ साझेदारी कर रही है?",
+      "opts": [
+        "HAL",
+        "Adani Defence & Aerospace",
+        "BEL",
+        "DRDO"
+      ],
+      "opts_hi": [
+        "HAL",
+        "अदाणी डिफेंस एंड एयरोस्पेस",
+        "BEL",
+        "DRDO"
+      ],
+      "ans": 1,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "Which Indian sportsperson became the second Indian goalkeeper to reach 300 international caps in 2025?",
+      "q_hi": "2025 में 300 अंतर्राष्ट्रीय कैप्स तक पहुँचने वाली दूसरी भारतीय गोलकीपर कौन बनी?",
+      "opts": [
+        "PR Sreejesh",
+        "Gurpreet Singh Sandhu",
+        "Savita Punia",
+        "Deepika Thakur"
+      ],
+      "opts_hi": [
+        "पी.आर. श्रीजेश",
+        "गुरप्रीत सिंह संधू",
+        "सविता पुनिया",
+        "दीपिका ठाकुर"
+      ],
+      "ans": 2,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "Which vision does India use for security and growth in the region?",
+      "q_hi": "भारत क्षेत्र में सुरक्षा और विकास के लिए किस दृष्टिकोण का उपयोग करता है?",
+      "opts": [
+        "MAHASAGAR",
+        "Act East Policy",
+        "Look West Policy",
+        "Indo-Pacific Strategy"
+      ],
+      "opts_hi": [
+        "महासागर",
+        "एक्ट ईस्ट पॉलिसी",
+        "लुक वेस्ट पॉलिसी",
+        "इंडो-पैसिफिक स्ट्रैटेजी"
+      ],
+      "ans": 0,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "According to FM Nirmala Sitharaman, what is the strength of the Indian economy?",
+      "q_hi": "वित्त मंत्री निर्मला सीतारमण के अनुसार, भारतीय अर्थव्यवस्था की ताकत क्या है?",
+      "opts": [
+        "Large domestic market with strong consumption",
+        "High exports of services",
+        "Cheap labour force",
+        "Large foreign reserves"
+      ],
+      "opts_hi": [
+        "बड़ा घरेलू बाजार जिसमें मजबूत खपत है",
+        "सेवाओं का उच्च निर्यात",
+        "सस्ती श्रम शक्ति",
+        "विशाल विदेशी भंडार"
+      ],
+      "ans": 0,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "Which new feature has been introduced for EPF withdrawals?",
+      "q_hi": "EPF निकासी के लिए कौन सी नई सुविधा शुरू की गई है?",
+      "opts": [
+        "Cheque-based withdrawal",
+        "UPI-based instant PF withdrawal facility",
+        "ATM-based withdrawal",
+        "Bank transfer only"
+      ],
+      "opts_hi": [
+        "चेक-आधारित निकासी",
+        "UPI-आधारित तत्काल PF निकासी सुविधा",
+        "ATM-आधारित निकासी",
+        "केवल बैंक हस्तांतरण"
+      ],
+      "ans": 1,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "Who received the Padma Shri posthumously for bringing international recognition to 'Akhada'?",
+      "q_hi": "अखाड़ा' को अंतर्राष्ट्रीय पहचान दिलाने के लिए किसे मरणोपरांत पद्म श्री मिला?",
+      "opts": [
+        "Vladimer Mestvirishvili",
+        "Bhagwandas Raikwar",
+        "Baldev Singh",
+        "K Pajanivel"
+      ],
+      "opts_hi": [
+        "व्लादिमीर मेस्टविरिश्विली",
+        "भगवानदास रायकवार",
+        "बलदेव सिंह",
+        "के पजनिवेल"
+      ],
+      "ans": 1,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "Which country is hosting the 2026 G7 Summit?",
+      "q_hi": "2026 G7 शिखर सम्मेलन की मेजबानी कौन सा देश कर रहा है?",
+      "opts": [
+        "Germany",
+        "France",
+        "Canada",
+        "Italy"
+      ],
+      "opts_hi": [
+        "जर्मनी",
+        "फ्रांस",
+        "कनाडा",
+        "इटली"
+      ],
+      "ans": 1,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "How many galaxies will the LSST mission study?",
+      "q_hi": "LSST मिशन कितनी आकाशगंगाओं का अध्ययन करेगा?",
+      "opts": [
+        "5 billion",
+        "10 billion",
+        "20 billion",
+        "50 billion"
+      ],
+      "opts_hi": [
+        "5 अरब",
+        "10 अरब",
+        "20 अरब",
+        "50 अरब"
+      ],
+      "ans": 2,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "What is the megapixel count of the world's largest digital camera?",
+      "q_hi": "दुनिया के सबसे बड़े डिजिटल कैमरे का मेगापिक्सल क्या है?",
+      "opts": [
+        "1,200 megapixel",
+        "3,200 megapixel",
+        "5,000 megapixel",
+        "10,000 megapixel"
+      ],
+      "opts_hi": [
+        "1,200 मेगापिक्सल",
+        "3,200 मेगापिक्सल",
+        "5,000 मेगापिक्सल",
+        "10,000 मेगापिक्सल"
+      ],
+      "ans": 1,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "Which country proposed imposing a 500% tariff on countries buying Russian energy?",
+      "q_hi": "रूसी ऊर्जा खरीदने वाले देशों पर 500% टैरिफ लगाने का प्रस्ताव किस देश ने रखा?",
+      "opts": [
+        "European Union",
+        "United Kingdom",
+        "USA",
+        "Japan"
+      ],
+      "opts_hi": [
+        "यूरोपीय संघ",
+        "यूनाइटेड किंगडम",
+        "यूएसए",
+        "जापान"
+      ],
+      "ans": 2,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "Which Indian business leader was not among the founding members of the AI for Good Global Commission?",
+      "q_hi": "AI for Good Global Commission के संस्थापक सदस्यों में कौन से भारतीय व्यापार नेता शामिल नहीं थे?",
+      "opts": [
+        "Mukesh Ambani",
+        "Sunil Bharti Mittal",
+        "Lakshmi N. Mittal",
+        "Ratan Tata"
+      ],
+      "opts_hi": [
+        "मुकेश अंबानी",
+        "सुनील भारती मित्तल",
+        "लक्ष्मी एन. मित्तल",
+        "रतन टाटा"
+      ],
+      "ans": 3,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "Which state received the highest allocation under the VB-G RAM G scheme?",
+      "q_hi": "VB-G RAM G योजना के तहत किस राज्य को सबसे अधिक आवंटन मिला?",
+      "opts": [
+        "Uttar Pradesh",
+        "Andhra Pradesh",
+        "Rajasthan",
+        "Madhya Pradesh"
+      ],
+      "opts_hi": [
+        "उत्तर प्रदेश",
+        "आंध्र प्रदेश",
+        "राजस्थान",
+        "मध्य प्रदेश"
+      ],
+      "ans": 0,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "Which sportsperson was recommended for the Khel Ratna Award for 2025-26?",
+      "q_hi": "2025-26 के लिए खेल रत्न पुरस्कार के लिए किस खिलाड़ी की अनुशंसा की गई?",
+      "opts": [
+        "Hardik Singh",
+        "Rohit Sharma",
+        "PV Sindhu",
+        "Neeraj Chopra"
+      ],
+      "opts_hi": [
+        "हार्दिक सिंह",
+        "रोहित शर्मा",
+        "पी.वी. सिंधु",
+        "नीरज चोपड़ा"
+      ],
+      "ans": 0,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "What is the length of the I-2SEA submarine cable project?",
+      "q_hi": "I-2SEA पनडुब्बी केबल परियोजना की लंबाई क्या है?",
+      "opts": [
+        "2,500 km",
+        "3,600 km",
+        "4,500 km",
+        "5,200 km"
+      ],
+      "opts_hi": [
+        "2,500 किमी",
+        "3,600 किमी",
+        "4,500 किमी",
+        "5,200 किमी"
+      ],
+      "ans": 1,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "What is India's GDP growth for FY26 as per RBI?",
+      "q_hi": "RBI के अनुसार FY26 में भारत की GDP वृद्धि क्या थी?",
+      "opts": [
+        "0.065",
+        "0.07",
+        "0.077",
+        "0.08"
+      ],
+      "opts_hi": [
+        "0.065",
+        "0.07",
+        "0.077",
+        "0.08"
+      ],
+      "ans": 2,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "What is the maximum loan amount provided under the PM Vishwakarma scheme?",
+      "q_hi": "PM विश्वकर्मा योजना के तहत अधिकतम ऋण राशि क्या है?",
+      "opts": [
+        "₹50,000",
+        "₹1,00,000",
+        "₹2,00,000",
+        "₹5,00,000"
+      ],
+      "opts_hi": [
+        "₹50,000",
+        "₹1,00,000",
+        "₹2,00,000",
+        "₹5,00,000"
+      ],
+      "ans": 1,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "Who is remembered as the first martyr of the Telangana Armed Peasant Struggle on July 4?",
+      "q_hi": "4 जुलाई को तेलंगाना सशस्त्र किसान संघर्ष के पहले शहीद के रूप में किसे याद किया जाता है?",
+      "opts": [
+        "Doddi Komarayya",
+        "Rampa Rao",
+        "Komaram Bheem",
+        "Alluri Sitarama Raju"
+      ],
+      "opts_hi": [
+        "दोड्डी कोमरय्या",
+        "रामपा राव",
+        "कोमाराम भीम",
+        "अल्लूरी सीताराम राजू"
+      ],
+      "ans": 0,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "How many MoUs were signed between India and Indonesia during PM Modi's visit?",
+      "q_hi": "PM मोदी की यात्रा के दौरान भारत और इंडोनेशिया के बीच कितने MoUs पर हस्ताक्षर किए गए?",
+      "opts": [
+        "5",
+        "8",
+        "12",
+        "15"
+      ],
+      "opts_hi": [
+        "5",
+        "8",
+        "12",
+        "15"
+      ],
+      "ans": 0,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "How many traditional trades will be covered under the PM Vishwakarma scheme initially?",
+      "q_hi": "PM विश्वकर्मा योजना के तहत प्रारंभिक रूप से कितने पारंपरिक व्यवसायों को शामिल किया जाएगा?",
+      "opts": [
+        "10",
+        "15",
+        "18",
+        "20"
+      ],
+      "opts_hi": [
+        "10",
+        "15",
+        "18",
+        "20"
+      ],
+      "ans": 2,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "What is the interest rate for loans under the PM Vishwakarma scheme?",
+      "q_hi": "PM विश्वकर्मा योजना के तहत ऋणों की ब्याज दर क्या है?",
+      "opts": [
+        "0.02",
+        "0.04",
+        "0.05",
+        "0.07"
+      ],
+      "opts_hi": [
+        "0.02",
+        "0.04",
+        "0.05",
+        "0.07"
+      ],
+      "ans": 2,
+      "subject": "Current Affairs"
     }
   ]
 }
