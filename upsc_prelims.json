@@ -3753,6 +3753,104 @@
           "subject": "History"
         }
       ]
+    },
+    {
+      "id": "upsc_prelims_34",
+      "title": "UPSC Prelims Mock Test 34",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Who presents the Union Budget in India?",
+          "q_hi": "भारत में केंद्रीय बजट कौन पेश करता है?",
+          "opts": [
+            "President",
+            "Finance Minister",
+            "Prime Minister",
+            "RBI Governor"
+          ],
+          "opts_hi": [
+            "राष्ट्रपति",
+            "वित्त मंत्री",
+            "प्रधानमंत्री",
+            "आरबीआई गवर्नर"
+          ],
+          "ans": 1,
+          "subject": "Economics"
+        },
+        {
+          "q": "What is the full form of NITI Aayog?",
+          "q_hi": "NITI आयोग का पूर्ण रूप क्या है?",
+          "opts": [
+            "National Institution for Transforming India",
+            "National Institute for Technology and Innovation",
+            "None",
+            "National Institute for Transforming India"
+          ],
+          "opts_hi": [
+            "नेशनल इंस्टीट्यूशन फॉर ट्रांसफॉर्मिंग इंडिया",
+            "नेशनल इंस्टीट्यूट फॉर टेक्नोलॉजी एंड इनोवेशन",
+            "कोई नहीं",
+            "नेशनल इंस्टीट्यूट फॉर ट्रांसफॉर्मिंग इंडिया"
+          ],
+          "ans": 0,
+          "subject": "Economics"
+        },
+        {
+          "q": "What is the full form of WTO?",
+          "q_hi": "WTO का पूर्ण रूप क्या है?",
+          "opts": [
+            "World Trade Organization",
+            "World Tourism Organization",
+            "None",
+            "World Trade Office"
+          ],
+          "opts_hi": [
+            "वर्ल्ड ट्रेड ऑर्गनाइजेशन",
+            "वर्ल्ड टूरिज्म ऑर्गनाइजेशन",
+            "कोई नहीं",
+            "वर्ल्ड ट्रेड ऑफिस"
+          ],
+          "ans": 0,
+          "subject": "Economics"
+        },
+        {
+          "q": "What is the full form of PSL?",
+          "q_hi": "PSL का पूर्ण रूप क्या है?",
+          "opts": [
+            "Priority Sector Lending",
+            "Public Sector Lending",
+            "None",
+            "Private Sector Lending"
+          ],
+          "opts_hi": [
+            "प्रायोरिटी सेक्टर लेंडिंग",
+            "पब्लिक सेक्टर लेंडिंग",
+            "कोई नहीं",
+            "प्राइवेट सेक्टर लेंडिंग"
+          ],
+          "ans": 0,
+          "subject": "Economics"
+        },
+        {
+          "q": "What is the full form of FII?",
+          "q_hi": "FII का पूर्ण रूप क्या है?",
+          "opts": [
+            "Foreign Institutional Investment",
+            "Foreign Investment Institution",
+            "None",
+            "Foreign Institutional Investor"
+          ],
+          "opts_hi": [
+            "फॉरेन इंस्टीट्यूशनल इन्वेस्टमेंट",
+            "फॉरेन इन्वेस्टमेंट इंस्टीट्यूशन",
+            "कोई नहीं",
+            "फॉरेन इंस्टीट्यूशनल इन्वेस्टर"
+          ],
+          "ans": 0,
+          "subject": "Economics"
+        }
+      ]
     }
   ]
 }
