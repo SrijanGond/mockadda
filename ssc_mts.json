@@ -971,6 +971,176 @@
           "subject": "General Knowledge"
         }
       ]
+    },
+    {
+      "id": "ssc_mts_18",
+      "title": "SSC MTS Mock Test 18",
+      "duration": 11,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which Article of the Constitution is known as the \"Heart and Soul of the Constitution\"?",
+          "q_hi": "संविधान का कौन सा अनुच्छेद \"संविधान के हृदय और आत्मा\" के रूप में जाना जाता है?",
+          "opts": [
+            "Article 14",
+            "Article 21",
+            "Article 32",
+            "Article 44"
+          ],
+          "opts_hi": [
+            "अनुच्छेद 14",
+            "अनुच्छेद 21",
+            "अनुच्छेद 32",
+            "अनुच्छेद 44"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "With reference to 'Money Bill', which statement is correct?",
+          "q_hi": "धन विधेयक' के संदर्भ में, कौन सा कथन सही है?",
+          "opts": [
+            "It can be introduced only in the Lok Sabha",
+            "A joint sitting can be convened in case of deadlock",
+            "President can withhold assent",
+            "All of the above"
+          ],
+          "opts_hi": [
+            "इसे केवल लोक सभा में पेश किया जा सकता है",
+            "गतिरोध की स्थिति में संयुक्त बैठक बुलाई जा सकती है",
+            "राष्ट्रपति सहमति रोक सकते हैं",
+            "उपरोक्त सभी"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Where was the first jute mill set up in India?",
+          "q_hi": "भारत में पहली जूट मिल कहाँ स्थापित की गई थी?",
+          "opts": [
+            "Kolkata",
+            "Rishra (West Bengal)",
+            "Dhaka",
+            "Mumbai"
+          ],
+          "opts_hi": [
+            "कोलकाता",
+            "रिशड़ा (पश्चिम बंगाल)",
+            "ढाका",
+            "मुंबई"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which is the only country in the world to have both tigers and lions?",
+          "q_hi": "दुनिया का एकमात्र देश जहाँ बाघ और शेर दोनों पाए जाते हैं, कौन सा है?",
+          "opts": [
+            "India",
+            "China",
+            "South Africa",
+            "Russia"
+          ],
+          "opts_hi": [
+            "भारत",
+            "चीन",
+            "दक्षिण अफ्रीका",
+            "रूस"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "In which city was the Jhanda Satyagraha or Flag Satyagraha of 1923 held?",
+          "q_hi": "1923 का 'झंडा सत्याग्रह' (या 'ध्वज सत्याग्रह') किस शहर में आयोजित किया गया था?",
+          "opts": [
+            "Nagpur",
+            "Jabalpur",
+            "Bombay",
+            "Amritsar"
+          ],
+          "opts_hi": [
+            "नागपुर",
+            "जबलपुर",
+            "बॉम्बे",
+            "अमृतसर"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "What is the new minimum balance requirement for partial EPF withdrawals under EPF Scheme 2026?",
+          "q_hi": "EPF Scheme 2026 के तहत आंशिक EPF निकासी के लिए न्यूनतम शेष राशि आवश्यकता क्या है?",
+          "opts": [
+            "0.1",
+            "0.2",
+            "0.25",
+            "0.3"
+          ],
+          "opts_hi": [
+            "0.1",
+            "0.2",
+            "0.25",
+            "0.3"
+          ],
+          "ans": 2,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Which Indian tennis player received the Padma Bhushan in 2026?",
+          "q_hi": "2026 में किस भारतीय टेनिस खिलाड़ी को पद्म भूषण से सम्मानित किया गया?",
+          "opts": [
+            "Rohan Bopanna",
+            "Leander Paes",
+            "Vijay Amritraj",
+            "Mahesh Bhupathi"
+          ],
+          "opts_hi": [
+            "रोहन बोपन्ना",
+            "लिएंडर पेस",
+            "विजय अमृतराज",
+            "महेश भूपति"
+          ],
+          "ans": 2,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "According to FM Nirmala Sitharaman, what is the strength of the Indian economy?",
+          "q_hi": "वित्त मंत्री निर्मला सीतारमण के अनुसार, भारतीय अर्थव्यवस्था की ताकत क्या है?",
+          "opts": [
+            "Large domestic market with strong consumption",
+            "High exports of services",
+            "Cheap labour force",
+            "Large foreign reserves"
+          ],
+          "opts_hi": [
+            "बड़ा घरेलू बाजार जिसमें मजबूत खपत है",
+            "सेवाओं का उच्च निर्यात",
+            "सस्ती श्रम शक्ति",
+            "विशाल विदेशी भंडार"
+          ],
+          "ans": 0,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "How many galaxies will the LSST mission study?",
+          "q_hi": "LSST मिशन कितनी आकाशगंगाओं का अध्ययन करेगा?",
+          "opts": [
+            "5 billion",
+            "10 billion",
+            "20 billion",
+            "50 billion"
+          ],
+          "opts_hi": [
+            "5 अरब",
+            "10 अरब",
+            "20 अरब",
+            "50 अरब"
+          ],
+          "ans": 2,
+          "subject": "Current Affairs"
+        }
+      ]
     }
   ]
 }
