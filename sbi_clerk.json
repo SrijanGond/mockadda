@@ -1177,6 +1177,32 @@
           "subject": "Current Affairs"
         }
       ]
+    },
+    {
+      "id": "sbi_clerk_19",
+      "title": "SBI Clerk Mock Test 19",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which bank launched the YONO app?",
+          "q_hi": "किस बैंक ने YONO ऐप लॉन्च किया?",
+          "opts": [
+            "HDFC",
+            "ICICI",
+            "State Bank of India",
+            "Axis"
+          ],
+          "opts_hi": [
+            "एचडीएफसी",
+            "आईसीआईसीआई",
+            "स्टेट बैंक ऑफ इंडिया",
+            "एक्सिस"
+          ],
+          "ans": 2,
+          "subject": "Banking"
+        }
+      ]
     }
   ]
 }
