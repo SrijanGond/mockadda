@@ -1185,6 +1185,158 @@
           "subject": "General Knowledge"
         }
       ]
+    },
+    {
+      "id": "ssc_chsl_20",
+      "title": "SSC CHSL Mock Test 20",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Who was the first President of the Indian National Congress?",
+          "q_hi": "भारतीय राष्ट्रीय कांग्रेस के पहले अध्यक्ष कौन थे?",
+          "opts": [
+            "Dadabhai Naoroji",
+            "W.C. Banerjee",
+            "Surendranath Banerjee",
+            "Allan Octavian Hume"
+          ],
+          "opts_hi": [
+            "दादाभाई नौरोजी",
+            "डब्ल्यू.सी. बनर्जी",
+            "सुरेंद्रनाथ बनर्जी",
+            "एलन ऑक्टेवियन ह्यूम"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which is the largest state of India by area?",
+          "q_hi": "क्षेत्रफल की दृष्टि से भारत का सबसे बड़ा राज्य कौन सा है?",
+          "opts": [
+            "Madhya Pradesh",
+            "Maharashtra",
+            "Uttar Pradesh",
+            "Rajasthan"
+          ],
+          "opts_hi": [
+            "मध्य प्रदेश",
+            "महाराष्ट्र",
+            "उत्तर प्रदेश",
+            "राजस्थान"
+          ],
+          "ans": 3,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Who is the current Prime Minister of India?",
+          "q_hi": "भारत के वर्तमान प्रधान मंत्री कौन हैं?",
+          "opts": [
+            "Narendra Modi",
+            "Rahul Gandhi",
+            "Amit Shah",
+            "Nitin Gadkari"
+          ],
+          "opts_hi": [
+            "नरेंद्र मोदी",
+            "राहुल गांधी",
+            "अमित शाह",
+            "नितिन गडकरी"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which is the highest-flying bird in the world?",
+          "q_hi": "दुनिया का सबसे ऊँचा उड़ने वाला पक्षी कौन सा है?",
+          "opts": [
+            "Eagle",
+            "Ruppell's Griffon Vulture",
+            "Ostrich",
+            "Albatross"
+          ],
+          "opts_hi": [
+            "ईगल",
+            "रूपेल का गिद्ध",
+            "शुतुरमुर्ग",
+            "अल्बाट्रॉस"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which is the largest dam in India?",
+          "q_hi": "भारत की सबसे बड़ी बाँध कौन सी है?",
+          "opts": [
+            "Bhakra Nangal Dam",
+            "Tehri Dam",
+            "Sardar Sarovar Dam",
+            "Nagarjuna Sagar Dam"
+          ],
+          "opts_hi": [
+            "भाखड़ा नांगल बाँध",
+            "टिहरी बाँध",
+            "सरदार सरोवर बाँध",
+            "नागार्जुन सागर बाँध"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Who is the current Chief Minister of Uttar Pradesh?",
+          "q_hi": "उत्तर प्रदेश के वर्तमान मुख्यमंत्री कौन हैं?",
+          "opts": [
+            "Yogi Adityanath",
+            "Akhilesh Yadav",
+            "Mayawati",
+            "Keshav Prasad Maurya"
+          ],
+          "opts_hi": [
+            "योगी आदित्यनाथ",
+            "अखिलेश यादव",
+            "मायावती",
+            "केशव प्रसाद मौर्य"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Who is the current Defence Minister of India?",
+          "q_hi": "भारत के वर्तमान रक्षा मंत्री कौन हैं?",
+          "opts": [
+            "Rajnath Singh",
+            "Amit Shah",
+            "Nirmala Sitharaman",
+            "Manohar Parrikar"
+          ],
+          "opts_hi": [
+            "राजनाथ सिंह",
+            "अमित शाह",
+            "निर्मला सीतारमण",
+            "मनोहर पर्रिकर"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "What is the \"Five Eyes\" intelligence alliance?",
+          "q_hi": "फाइव आइज खुफिया गठबंधन क्या है?",
+          "opts": [
+            "An alliance of 5 Asian countries",
+            "An intelligence alliance of USA, UK, Canada, Australia, and New Zealand",
+            "A military alliance of 5 countries",
+            "A trade agreement of 5 countries"
+          ],
+          "opts_hi": [
+            "5 एशियाई देशों का गठबंधन",
+            "USA, UK, Canada, Australia और New Zealand का खुफिया गठबंधन",
+            "5 देशों का सैन्य गठबंधन",
+            "5 देशों का व्यापार समझौता"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge"
+        }
+      ]
     }
   ]
 }
