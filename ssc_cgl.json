@@ -3869,6 +3869,122 @@
           "subject": "General Knowledge"
         }
       ]
+    },
+    {
+      "id": "ssc_cgl_12",
+      "title": "SSC CGL Mock Test 12",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Who presides over the joint sitting of Parliament?",
+          "q_hi": "संसद की संयुक्त बैठक की अध्यक्षता कौन करता है?",
+          "opts": [
+            "President",
+            "Speaker of Lok Sabha",
+            "Vice President",
+            "Prime Minister"
+          ],
+          "opts_hi": [
+            "राष्ट्रपति",
+            "लोकसभा स्पीकर",
+            "उपराष्ट्रपति",
+            "प्रधानमंत्री"
+          ],
+          "ans": 1,
+          "subject": "Polity"
+        },
+        {
+          "q": "Which river forms the Sunderbans Delta?",
+          "q_hi": "सुंदरबन डेल्टा किस नदी द्वारा बनाया गया है?",
+          "opts": [
+            "Ganga",
+            "Brahmaputra",
+            "Godavari",
+            "Mahanadi"
+          ],
+          "opts_hi": [
+            "गंगा",
+            "ब्रह्मपुत्र",
+            "गोदावरी",
+            "महानदी"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which dynasty built the Konark Sun Temple?",
+          "q_hi": "कोणार्क सूर्य मंदिर किस वंश ने बनवाया?",
+          "opts": [
+            "Chola",
+            "Chandela",
+            "Ganga",
+            "Maurya"
+          ],
+          "opts_hi": [
+            "चोल",
+            "चंदेल",
+            "गंग",
+            "मौर्य"
+          ],
+          "ans": 2,
+          "subject": "History"
+        },
+        {
+          "q": "Which state is known as the 'Land of Lakes'?",
+          "q_hi": "झीलों की भूमि' किस राज्य को कहा जाता है?",
+          "opts": [
+            "Rajasthan",
+            "Kerala",
+            "Madhya Pradesh",
+            "West Bengal"
+          ],
+          "opts_hi": [
+            "राजस्थान",
+            "केरल",
+            "मध्य प्रदेश",
+            "पश्चिम बंगाल"
+          ],
+          "ans": 1,
+          "subject": "Geography"
+        },
+        {
+          "q": "The Non-Cooperation Movement was launched in which year?",
+          "q_hi": "असहयोग आंदोलन किस वर्ष शुरू हुआ?",
+          "opts": [
+            "1920",
+            "1919",
+            "1930",
+            "1942"
+          ],
+          "opts_hi": [
+            "1920",
+            "1919",
+            "1930",
+            "1942"
+          ],
+          "ans": 0,
+          "subject": "History"
+        },
+        {
+          "q": "When is World Ozone Day celebrated?",
+          "q_hi": "विश्व ओजोन दिवस कब मनाया जाता है?",
+          "opts": [
+            "Wed Sep 16 2026 05:30:00 GMT+0530 (India Standard Time)",
+            "Fri Jun 05 2026 05:30:00 GMT+0530 (India Standard Time)",
+            "Wed Apr 22 2026 05:30:00 GMT+0530 (India Standard Time)",
+            "Sun Mar 08 2026 05:30:00 GMT+0530 (India Standard Time)"
+          ],
+          "opts_hi": [
+            "16 सितंबर",
+            "5 जून",
+            "22 अप्रैल",
+            "8 मार्च"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge"
+        }
+      ]
     }
   ]
 }
