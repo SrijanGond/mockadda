@@ -374,6 +374,168 @@
       ],
       "ans": 0,
       "subject": "Polity"
+    },
+    {
+      "q": "What is the maximum strength of Lok Sabha?",
+      "q_hi": "लोकसभा की अधिकतम सदस्य संख्या कितनी है?",
+      "opts": [
+        "545",
+        "552",
+        "543",
+        "550"
+      ],
+      "opts_hi": [
+        "545",
+        "552",
+        "543",
+        "550"
+      ],
+      "ans": 0,
+      "subject": "Polity"
+    },
+    {
+      "q": "Who is the guardian of the Constitution of India?",
+      "q_hi": "भारतीय संविधान का संरक्षक कौन है?",
+      "opts": [
+        "Parliament",
+        "President",
+        "Supreme Court",
+        "Prime Minister"
+      ],
+      "opts_hi": [
+        "संसद",
+        "राष्ट्रपति",
+        "सर्वोच्च न्यायालय",
+        "प्रधानमंत्री"
+      ],
+      "ans": 2,
+      "subject": "Polity"
+    },
+    {
+      "q": "Which Article provides for the Right to Constitutional Remedies?",
+      "q_hi": "संवैधानिक उपचार का अधिकार किस अनुच्छेद में है?",
+      "opts": [
+        "Article 19",
+        "Article 21",
+        "Article 32",
+        "Article 226"
+      ],
+      "opts_hi": [
+        "अनुच्छेद 19",
+        "अनुच्छेद 21",
+        "अनुच्छेद 32",
+        "अनुच्छेद 226"
+      ],
+      "ans": 2,
+      "subject": "Polity"
+    },
+    {
+      "q": "Who appoints the Chief Justice of India?",
+      "q_hi": "भारत के मुख्य न्यायाधीश की नियुक्ति कौन करता है?",
+      "opts": [
+        "President",
+        "Prime Minister",
+        "Parliament",
+        "Supreme Court Collegium"
+      ],
+      "opts_hi": [
+        "राष्ट्रपति",
+        "प्रधानमंत्री",
+        "संसद",
+        "सुप्रीम कोर्ट कॉलेजियम"
+      ],
+      "ans": 0,
+      "subject": "Polity"
+    },
+    {
+      "q": "Which amendment is known as the Mini Constitution?",
+      "q_hi": "मिनी संविधान' किस संशोधन को कहा जाता है?",
+      "opts": [
+        "42nd",
+        "44th",
+        "73rd",
+        "86th"
+      ],
+      "opts_hi": [
+        "42वाँ",
+        "44वाँ",
+        "73वाँ",
+        "86वाँ"
+      ],
+      "ans": 0,
+      "subject": "Polity"
+    },
+    {
+      "q": "The President of India is elected by whom?",
+      "q_hi": "भारत के राष्ट्रपति का चुनाव कौन करता है?",
+      "opts": [
+        "People",
+        "Parliament",
+        "Electoral College",
+        "Prime Minister"
+      ],
+      "opts_hi": [
+        "जनता",
+        "संसद",
+        "निर्वाचक मंडल",
+        "प्रधानमंत्री"
+      ],
+      "ans": 2,
+      "subject": "Polity"
+    },
+    {
+      "q": "Which Article prohibits forced labour?",
+      "q_hi": "बलात् श्रम को किस अनुच्छेद में प्रतिबंधित किया गया है?",
+      "opts": [
+        "Article 23",
+        "Article 24",
+        "Article 21",
+        "Article 19"
+      ],
+      "opts_hi": [
+        "अनुच्छेद 23",
+        "अनुच्छेद 24",
+        "अनुच्छेद 21",
+        "अनुच्छेद 19"
+      ],
+      "ans": 0,
+      "subject": "Polity"
+    },
+    {
+      "q": "The Vice President of India is the ex-officio chairman of which house?",
+      "q_hi": "भारत के उपराष्ट्रपति किस सदन के पदेन अध्यक्ष होते हैं?",
+      "opts": [
+        "Lok Sabha",
+        "Rajya Sabha",
+        "Both",
+        "None"
+      ],
+      "opts_hi": [
+        "लोकसभा",
+        "राज्यसभा",
+        "दोनों",
+        "कोई नहीं"
+      ],
+      "ans": 1,
+      "subject": "Polity"
+    },
+    {
+      "q": "Which Article prohibits child labour?",
+      "q_hi": "बाल श्रम को किस अनुच्छेद में प्रतिबंधित किया गया है?",
+      "opts": [
+        "Article 23",
+        "Article 24",
+        "Article 21",
+        "Article 17"
+      ],
+      "opts_hi": [
+        "अनुच्छेद 23",
+        "अनुच्छेद 24",
+        "अनुच्छेद 21",
+        "अनुच्छेद 17"
+      ],
+      "ans": 1,
+      "subject": "Polity"
     }
   ]
 }
