@@ -5517,6 +5517,32 @@
           "subject": "Economics"
         }
       ]
+    },
+    {
+      "id": "ssc_cgl_20",
+      "title": "SSC CGL Mock Test 20",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Who is known as the 'Father of the Indian Constitution'?",
+          "q_hi": "भारतीय संविधान के 'जनक' के रूप में किसे जाना जाता है?",
+          "opts": [
+            "Mahatma Gandhi",
+            "Jawaharlal Nehru",
+            "Dr. B.R. Ambedkar",
+            "Sardar Patel"
+          ],
+          "opts_hi": [
+            "महात्मा गांधी",
+            "जवाहरलाल नेहरू",
+            "डॉ. बी.आर. अम्बेडकर",
+            "सरदार पटेल"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge"
+        }
+      ]
     }
   ]
 }
