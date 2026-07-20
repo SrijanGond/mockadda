@@ -2927,6 +2927,104 @@
           "subject": "History"
         }
       ]
+    },
+    {
+      "id": "ssc_chsl_33",
+      "title": "SSC CHSL Mock Test 33",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What is the full form of GST?",
+          "q_hi": "GST का पूर्ण रूप क्या है?",
+          "opts": [
+            "Goods and Services Tax",
+            "General Sales Tax",
+            "Gross Sales Tax",
+            "None"
+          ],
+          "opts_hi": [
+            "गुड्स एंड सर्विसेज टैक्स",
+            "जनरल सेल्स टैक्स",
+            "ग्रॉस सेल्स टैक्स",
+            "कोई नहीं"
+          ],
+          "ans": 0,
+          "subject": "Economics"
+        },
+        {
+          "q": "What is the full form of IMF?",
+          "q_hi": "IMF का पूर्ण रूप क्या है?",
+          "opts": [
+            "International Monetary Fund",
+            "Indian Monetary Fund",
+            "International Money Fund",
+            "None"
+          ],
+          "opts_hi": [
+            "इंटरनेशनल मॉनेटरी फंड",
+            "इंडियन मॉनेटरी फंड",
+            "इंटरनेशनल मनी फंड",
+            "कोई नहीं"
+          ],
+          "ans": 0,
+          "subject": "Economics"
+        },
+        {
+          "q": "What is the full form of MSME?",
+          "q_hi": "MSME का पूर्ण रूप क्या है?",
+          "opts": [
+            "Micro, Small and Medium Enterprises",
+            "Micro, Small and Medium Economy",
+            "None",
+            "Micro, Small and Medium Enterprises"
+          ],
+          "opts_hi": [
+            "माइक्रो, स्मॉल एंड मीडियम एंटरप्राइजेज",
+            "माइक्रो, स्मॉल एंड मीडियम इकोनॉमी",
+            "कोई नहीं",
+            "माइक्रो, स्मॉल एंड मीडियम एंटरप्राइजेज"
+          ],
+          "ans": 0,
+          "subject": "Economics"
+        },
+        {
+          "q": "What is the full form of SLR?",
+          "q_hi": "SLR का पूर्ण रूप क्या है?",
+          "opts": [
+            "Statutory Liquidity Ratio",
+            "Statutory Liquidity Reserve",
+            "None",
+            "Statutory Liquidity Rate"
+          ],
+          "opts_hi": [
+            "स्टैट्यूटरी लिक्विडिटी रेशियो",
+            "स्टैट्यूटरी लिक्विडिटी रिजर्व",
+            "कोई नहीं",
+            "स्टैट्यूटरी लिक्विडिटी रेट"
+          ],
+          "ans": 0,
+          "subject": "Economics"
+        },
+        {
+          "q": "What is the full form of CRR?",
+          "q_hi": "CRR का पूर्ण रूप क्या है?",
+          "opts": [
+            "Cash Reserve Ratio",
+            "Current Reserve Ratio",
+            "None",
+            "Cash Reserve Rate"
+          ],
+          "opts_hi": [
+            "कैश रिजर्व रेशियो",
+            "करंट रिजर्व रेशियो",
+            "कोई नहीं",
+            "कैश रिजर्व रेट"
+          ],
+          "ans": 0,
+          "subject": "Economics"
+        }
+      ]
     }
   ]
 }
