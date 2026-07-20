@@ -176,6 +176,114 @@
       ],
       "ans": 0,
       "subject": "History"
+    },
+    {
+      "q": "Who was known as the 'Iron Man of India'?",
+      "q_hi": "भारत के लौह पुरुष' किसे कहा जाता है?",
+      "opts": [
+        "Mahatma Gandhi",
+        "Sardar Vallabhbhai Patel",
+        "Subhas Chandra Bose",
+        "B.R. Ambedkar"
+      ],
+      "opts_hi": [
+        "महात्मा गांधी",
+        "सरदार वल्लभभाई पटेल",
+        "सुभाष चंद्र बोस",
+        "बी.आर. आंबेडकर"
+      ],
+      "ans": 1,
+      "subject": "History"
+    },
+    {
+      "q": "Who was the founder of Mauryan Empire?",
+      "q_hi": "मौर्य साम्राज्य के संस्थापक कौन थे?",
+      "opts": [
+        "Ashoka",
+        "Chandragupta Maurya",
+        "Bindusara",
+        "Bimbisara"
+      ],
+      "opts_hi": [
+        "अशोक",
+        "चंद्रगुप्त मौर्य",
+        "बिंदुसार",
+        "बिंबिसार"
+      ],
+      "ans": 1,
+      "subject": "History"
+    },
+    {
+      "q": "The Quit India Movement was launched in which year?",
+      "q_hi": "भारत छोड़ो आंदोलन किस वर्ष शुरू हुआ?",
+      "opts": [
+        "1942",
+        "1930",
+        "1920",
+        "1947"
+      ],
+      "opts_hi": [
+        "1942",
+        "1930",
+        "1920",
+        "1947"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "The Dandi March was part of which movement?",
+      "q_hi": "दांडी मार्च किस आंदोलन का हिस्सा था?",
+      "opts": [
+        "Non-Cooperation",
+        "Quit India",
+        "Civil Disobedience",
+        "Swadeshi"
+      ],
+      "opts_hi": [
+        "असहयोग",
+        "भारत छोड़ो",
+        "सविनय अवज्ञा",
+        "स्वदेशी"
+      ],
+      "ans": 2,
+      "subject": "History"
+    },
+    {
+      "q": "The Jallianwala Bagh massacre took place in which year?",
+      "q_hi": "जलियांवाला बाग हत्याकांड किस वर्ष हुआ?",
+      "opts": [
+        "1919",
+        "1920",
+        "1942",
+        "1857"
+      ],
+      "opts_hi": [
+        "1919",
+        "1920",
+        "1942",
+        "1857"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "The Simon Commission came to India in which year?",
+      "q_hi": "साइमन कमीशन भारत कब आया?",
+      "opts": [
+        "1927",
+        "1928",
+        "1930",
+        "1942"
+      ],
+      "opts_hi": [
+        "1927",
+        "1928",
+        "1930",
+        "1942"
+      ],
+      "ans": 1,
+      "subject": "History"
     }
   ]
 }
