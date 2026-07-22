@@ -1079,6 +1079,32 @@
           "subject": "Polity"
         }
       ]
+    },
+    {
+      "id": "ssc_chsl_3",
+      "title": "SSC CHSL Mock Test 3",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Who was the founder of the Indian National Army (Azad Hind Fauj)?",
+          "q_hi": "भारतीय राष्ट्रीय सेना (आज़ाद हिंद फौज) का संस्थापक कौन था?",
+          "opts": [
+            "Subhas Chandra Bose",
+            "Rash Behari Bose",
+            "Captain Mohan Singh",
+            "Jawaharlal Nehru"
+          ],
+          "opts_hi": [
+            "सुभाष चंद्र बोस",
+            "रास बिहारी बोस",
+            "कैप्टन मोहन सिंह",
+            "जवाहरलाल नेहरू"
+          ],
+          "ans": 2,
+          "subject": "History"
+        }
+      ]
     }
   ]
 }
