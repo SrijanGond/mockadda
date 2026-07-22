@@ -35,6 +35,42 @@
       ],
       "ans": 1,
       "subject": "Economy"
+    },
+    {
+      "q": "The term 'Twin Deficit' in Indian economy refers to which two deficits?",
+      "q_hi": "भारतीय अर्थव्यवस्था में 'जुड़वां घाटा' किन दो घाटों को संदर्भित करता है?",
+      "opts": [
+        "Fiscal Deficit and Revenue Deficit",
+        "Fiscal Deficit and Current Account Deficit",
+        "Revenue Deficit and Primary Deficit",
+        "Current Account Deficit and Trade Deficit"
+      ],
+      "opts_hi": [
+        "राजकोषीय घाटा और राजस्व घाटा",
+        "राजकोषीय घाटा और चालू खाता घाटा",
+        "राजस्व घाटा और प्राथमिक घाटा",
+        "चालू खाता घाटा और व्यापार घाटा"
+      ],
+      "ans": 1,
+      "subject": "Economy"
+    },
+    {
+      "q": "What is the name of the new measure introduced by RBI to manage liquidity in the banking system that replaced the old CRR and SLR framework?",
+      "q_hi": "आरबीआई द्वारा बैंकिंग प्रणाली में तरलता प्रबंधन के लिए शुरू किए गए उस नए उपाय का क्या नाम है जिसने पुराने CRR और SLR ढांचे की जगह ली?",
+      "opts": [
+        "Liquidity Coverage Ratio",
+        "Net Stable Funding Ratio",
+        "Liquidity Adjustment Facility",
+        "Marginal Standing Facility"
+      ],
+      "opts_hi": [
+        "तरलता कवरेज अनुपात",
+        "शुद्ध स्थिर वित्तपोषण अनुपात",
+        "तरलता समायोजन सुविधा",
+        "सीमांत स्थायी सुविधा"
+      ],
+      "ans": 2,
+      "subject": "Economy"
     }
   ]
 }
