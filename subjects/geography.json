@@ -2051,6 +2051,78 @@
       ],
       "ans": 1,
       "subject": "Geography"
+    },
+    {
+      "q": "The Andes Mountains were formed due to the collision of which tectonic plates?",
+      "q_hi": "एंडीज पर्वत किन टेक्टोनिक प्लेटों के टकराव से बना था?",
+      "opts": [
+        "Pacific Plate and South American Plate",
+        "Pacific Plate and Nazca Plate",
+        "South American Plate and African Plate",
+        "Nazca Plate and South American Plate"
+      ],
+      "opts_hi": [
+        "प्रशांत प्लेट और दक्षिण अमेरिकी प्लेट",
+        "प्रशांत प्लेट और नाज़्का प्लेट",
+        "दक्षिण अमेरिकी प्लेट और अफ्रीकी प्लेट",
+        "नाज़्का प्लेट और दक्षिण अमेरिकी प्लेट"
+      ],
+      "ans": 3,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which type of rainfall is common in the equatorial region?",
+      "q_hi": "भूमध्यरेखीय क्षेत्र में किस प्रकार की वर्षा आम है?",
+      "opts": [
+        "Cyclonic rainfall",
+        "Orographic rainfall",
+        "Convectional rainfall",
+        "Frontal rainfall"
+      ],
+      "opts_hi": [
+        "चक्रवाती वर्षा",
+        "पर्वतीय वर्षा",
+        "संवहनी वर्षा",
+        "अग्र वर्षा"
+      ],
+      "ans": 2,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which ocean current is responsible for warming the western coast of Europe?",
+      "q_hi": "यूरोप के पश्चिमी तट को गर्म करने के लिए कौन सी महासागरीय धारा जिम्मेदार है?",
+      "opts": [
+        "Labrador Current",
+        "Canary Current",
+        "North Atlantic Drift",
+        "California Current"
+      ],
+      "opts_hi": [
+        "लैब्राडोर धारा",
+        "केनरी धारा",
+        "उत्तरी अटलांटिक बहाव",
+        "कैलिफ़ोर्निया धारा"
+      ],
+      "ans": 2,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which of the following is the leading producer of tea in India?",
+      "q_hi": "भारत में चाय का अग्रणी उत्पादक निम्नलिखित में से कौन है?",
+      "opts": [
+        "West Bengal",
+        "Tamil Nadu",
+        "Kerala",
+        "Assam"
+      ],
+      "opts_hi": [
+        "पश्चिम बंगाल",
+        "तमिलनाडु",
+        "केरल",
+        "असम"
+      ],
+      "ans": 3,
+      "subject": "Geography"
     }
   ]
 }
