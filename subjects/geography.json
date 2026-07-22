@@ -1997,6 +1997,60 @@
       ],
       "ans": 0,
       "subject": "Geography"
+    },
+    {
+      "q": "Which river is known as the 'Ganga of the South'?",
+      "q_hi": "दक्षिण की गंगा' के नाम से किस नदी को जाना जाता है?",
+      "opts": [
+        "Godavari",
+        "Kaveri",
+        "Krishna",
+        "Tungabhadra"
+      ],
+      "opts_hi": [
+        "गोदावरी",
+        "कावेरी",
+        "कृष्णा",
+        "तुंगभद्रा"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "The highest mountain peak in India is:",
+      "q_hi": "भारत की सबसे ऊँची पर्वत चोटी है:",
+      "opts": [
+        "Kanchenjunga",
+        "Mount Everest",
+        "Nanda Devi",
+        "Anai Mudi"
+      ],
+      "opts_hi": [
+        "कंचनजंगा",
+        "माउंट एवरेस्ट",
+        "नंदा देवी",
+        "अनाई मुडी"
+      ],
+      "ans": 0,
+      "subject": "Geography"
+    },
+    {
+      "q": "Which state receives the highest average annual rainfall in India?",
+      "q_hi": "भारत में सबसे अधिक औसत वार्षिक वर्षा कौन सा राज्य प्राप्त करता है?",
+      "opts": [
+        "Assam",
+        "Meghalaya",
+        "Kerala",
+        "West Bengal"
+      ],
+      "opts_hi": [
+        "असम",
+        "मेघालय",
+        "केरल",
+        "पश्चिम बंगाल"
+      ],
+      "ans": 1,
+      "subject": "Geography"
     }
   ]
 }
