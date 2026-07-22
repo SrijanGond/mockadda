@@ -133,6 +133,32 @@
           "subject": "General Knowledge"
         }
       ]
+    },
+    {
+      "id": "up_police_constable_2",
+      "title": "UP Police Constable Mock Test 2",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What is the SI unit of electric current?",
+          "q_hi": "विद्युत धारा की एसआई इकाई क्या है?",
+          "opts": [
+            "Volt",
+            "Ampere",
+            "Ohm",
+            "Watt"
+          ],
+          "opts_hi": [
+            "वोल्ट",
+            "एम्पियर",
+            "ओम",
+            "वाट"
+          ],
+          "ans": 1,
+          "subject": "Science"
+        }
+      ]
     }
   ]
 }
