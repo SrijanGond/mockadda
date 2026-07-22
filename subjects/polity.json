@@ -590,6 +590,114 @@
       ],
       "ans": 0,
       "subject": "Polity"
+    },
+    {
+      "q": "Which Article of the Indian Constitution deals with the Right to Equality?",
+      "q_hi": "भारतीय संविधान का कौन सा अनुच्छेद समानता के अधिकार से संबंधित है?",
+      "opts": [
+        "Article 14",
+        "Article 19",
+        "Article 21",
+        "Article 25"
+      ],
+      "opts_hi": [
+        "अनुच्छेद 14",
+        "अनुच्छेद 19",
+        "अनुच्छेद 21",
+        "अनुच्छेद 25"
+      ],
+      "ans": 0,
+      "subject": "Polity"
+    },
+    {
+      "q": "The Directive Principles of State Policy are borrowed from which Constitution?",
+      "q_hi": "राज्य नीति के निदेशक सिद्धांत किस संविधान से लिए गए हैं?",
+      "opts": [
+        "Irish Constitution",
+        "British Constitution",
+        "US Constitution",
+        "Canadian Constitution"
+      ],
+      "opts_hi": [
+        "आयरिश संविधान",
+        "ब्रिटिश संविधान",
+        "अमेरिकी संविधान",
+        "कनाडाई संविधान"
+      ],
+      "ans": 0,
+      "subject": "Polity"
+    },
+    {
+      "q": "The minimum age to become the President of India is:",
+      "q_hi": "भारत का राष्ट्रपति बनने की न्यूनतम आयु है:",
+      "opts": [
+        "30 years",
+        "35 years",
+        "40 years",
+        "25 years"
+      ],
+      "opts_hi": [
+        "30 वर्ष",
+        "35 वर्ष",
+        "40 वर्ष",
+        "25 वर्ष"
+      ],
+      "ans": 1,
+      "subject": "Polity"
+    },
+    {
+      "q": "Fundamental Duties were added to the Constitution by which Amendment?",
+      "q_hi": "मूल कर्तव्यों को संविधान में किस संशोधन द्वारा जोड़ा गया?",
+      "opts": [
+        "42nd Amendment",
+        "44th Amendment",
+        "52nd Amendment",
+        "73rd Amendment"
+      ],
+      "opts_hi": [
+        "42वां संशोधन",
+        "44वां संशोधन",
+        "52वां संशोधन",
+        "73वां संशोधन"
+      ],
+      "ans": 0,
+      "subject": "Polity"
+    },
+    {
+      "q": "Who is called the 'Father of the Indian Constitution'?",
+      "q_hi": "भारतीय संविधान के पिता' किसे कहा जाता है?",
+      "opts": [
+        "Jawaharlal Nehru",
+        "B.R. Ambedkar",
+        "Sardar Patel",
+        "Dr. Rajendra Prasad"
+      ],
+      "opts_hi": [
+        "जवाहरलाल नेहरू",
+        "बी.आर. आंबेडकर",
+        "सरदार पटेल",
+        "डॉ. राजेंद्र प्रसाद"
+      ],
+      "ans": 1,
+      "subject": "Polity"
+    },
+    {
+      "q": "The 73rd Constitutional Amendment is related to:",
+      "q_hi": "73वां संवैधानिक संशोधन किससे संबंधित है?",
+      "opts": [
+        "Urban Local Bodies",
+        "Rural Local Bodies",
+        "Fundamental Rights",
+        "Directive Principles"
+      ],
+      "opts_hi": [
+        "नगरीय स्थानीय निकाय",
+        "ग्रामीण स्थानीय निकाय",
+        "मौलिक अधिकार",
+        "निदेशक सिद्धांत"
+      ],
+      "ans": 1,
+      "subject": "Polity"
     }
   ]
 }
