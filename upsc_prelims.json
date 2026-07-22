@@ -3878,6 +3878,86 @@
           "subject": "Geography"
         }
       ]
+    },
+    {
+      "id": "upsc_prelims_36",
+      "title": "UPSC Prelims Mock Test 36",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Under which Article of the Constitution can the President declare a state of Financial Emergency?",
+          "q_hi": "संविधान के किस अनुच्छेद के तहत राष्ट्रपति वित्तीय आपातकाल घोषित कर सकते हैं?",
+          "opts": [
+            "Article 356",
+            "Article 360",
+            "Article 352",
+            "Article 365"
+          ],
+          "opts_hi": [
+            "अनुच्छेद 356",
+            "अनुच्छेद 360",
+            "अनुच्छेद 352",
+            "अनुच्छेद 365"
+          ],
+          "ans": 1,
+          "subject": "Polity"
+        },
+        {
+          "q": "Which ruler is credited with the first empire in India and the establishment of the Mauryan dynasty?",
+          "q_hi": "भारत में पहले साम्राज्य और मौर्य वंश की स्थापना का श्रेय किस शासक को दिया जाता है?",
+          "opts": [
+            "Ashoka",
+            "Bindusara",
+            "Chandragupta Maurya",
+            "Brihadratha"
+          ],
+          "opts_hi": [
+            "अशोक",
+            "बिन्दुसार",
+            "चन्द्रगुप्त मौर्य",
+            "बृहद्रथ"
+          ],
+          "ans": 2,
+          "subject": "History"
+        },
+        {
+          "q": "The famous 'Dancing Girl' statue was found at which Indus Valley Civilization site?",
+          "q_hi": "प्रसिद्ध 'नृत्य करती लड़की' की मूर्ति सिंधु घाटी सभ्यता के किस स्थल से मिली थी?",
+          "opts": [
+            "Harappa",
+            "Mohenjo-Daro",
+            "Lothal",
+            "Dholavira"
+          ],
+          "opts_hi": [
+            "हड़प्पा",
+            "मोहनजोदड़ो",
+            "लोथल",
+            "धोलावीरा"
+          ],
+          "ans": 1,
+          "subject": "History"
+        },
+        {
+          "q": "Which of the following is a fully double-stranded RNA virus?",
+          "q_hi": "निम्नलिखित में से कौन पूर्णतः द्वि-स्ट्रैंडेड RNA वायरस है?",
+          "opts": [
+            "Tobacco Mosaic Virus",
+            "Polio Virus",
+            "Rotavirus",
+            "Influenza Virus"
+          ],
+          "opts_hi": [
+            "तम्बाकू मोज़ेक वायरस",
+            "पोलियो वायरस",
+            "रोटावायरस",
+            "इन्फ्लुएंजा वायरस"
+          ],
+          "ans": 2,
+          "subject": "Science"
+        }
+      ]
     }
   ]
 }
