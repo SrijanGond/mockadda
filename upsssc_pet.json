@@ -123,6 +123,50 @@
           "subject": "History"
         }
       ]
+    },
+    {
+      "id": "upsssc_pet_3",
+      "title": "UPSSSC PET Mock Test 3",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which type of rainfall is common in the equatorial region?",
+          "q_hi": "भूमध्यरेखीय क्षेत्र में किस प्रकार की वर्षा आम है?",
+          "opts": [
+            "Cyclonic rainfall",
+            "Orographic rainfall",
+            "Convectional rainfall",
+            "Frontal rainfall"
+          ],
+          "opts_hi": [
+            "चक्रवाती वर्षा",
+            "पर्वतीय वर्षा",
+            "संवहनी वर्षा",
+            "अग्र वर्षा"
+          ],
+          "ans": 2,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which of the following is NOT a Fundamental Right under the Indian Constitution?",
+          "q_hi": "निम्नलिखित में से कौन भारतीय संविधान के तहत मौलिक अधिकार नहीं है?",
+          "opts": [
+            "Right to Education",
+            "Right to Property",
+            "Right against Exploitation",
+            "Right to Freedom of Religion"
+          ],
+          "opts_hi": [
+            "शिक्षा का अधिकार",
+            "संपत्ति का अधिकार",
+            "शोषण के विरुद्ध अधिकार",
+            "धर्म की स्वतंत्रता का अधिकार"
+          ],
+          "ans": 1,
+          "subject": "Polity"
+        }
+      ]
     }
   ]
 }
