@@ -694,6 +694,32 @@
           "subject": "Numerical and Mathematical Ability"
         }
       ]
+    },
+    {
+      "id": "ssc_mts_2",
+      "title": "SSC MTS Mock Test 2",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "The minimum age to become the President of India is:",
+          "q_hi": "भारत का राष्ट्रपति बनने की न्यूनतम आयु है:",
+          "opts": [
+            "30 years",
+            "35 years",
+            "40 years",
+            "25 years"
+          ],
+          "opts_hi": [
+            "30 वर्ष",
+            "35 वर्ष",
+            "40 वर्ष",
+            "25 वर्ष"
+          ],
+          "ans": 1,
+          "subject": "Polity"
+        }
+      ]
     }
   ]
 }
