@@ -1231,6 +1231,32 @@
           "subject": "History"
         }
       ]
+    },
+    {
+      "id": "kvs_19",
+      "title": "KVS Mock Test 19",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What is the name of the new measure introduced by RBI to manage liquidity in the banking system that replaced the old CRR and SLR framework?",
+          "q_hi": "आरबीआई द्वारा बैंकिंग प्रणाली में तरलता प्रबंधन के लिए शुरू किए गए उस नए उपाय का क्या नाम है जिसने पुराने CRR और SLR ढांचे की जगह ली?",
+          "opts": [
+            "Liquidity Coverage Ratio",
+            "Net Stable Funding Ratio",
+            "Liquidity Adjustment Facility",
+            "Marginal Standing Facility"
+          ],
+          "opts_hi": [
+            "तरलता कवरेज अनुपात",
+            "शुद्ध स्थिर वित्तपोषण अनुपात",
+            "तरलता समायोजन सुविधा",
+            "सीमांत स्थायी सुविधा"
+          ],
+          "ans": 2,
+          "subject": "Economy"
+        }
+      ]
     }
   ]
 }
