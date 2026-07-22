@@ -115,6 +115,50 @@
           "subject": "General Knowledge"
         }
       ]
+    },
+    {
+      "id": "ssc_gd_2",
+      "title": "SSC GD Mock Test 2",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Who is called the 'Father of the Indian Constitution'?",
+          "q_hi": "भारतीय संविधान के पिता' किसे कहा जाता है?",
+          "opts": [
+            "Jawaharlal Nehru",
+            "B.R. Ambedkar",
+            "Sardar Patel",
+            "Dr. Rajendra Prasad"
+          ],
+          "opts_hi": [
+            "जवाहरलाल नेहरू",
+            "बी.आर. आंबेडकर",
+            "सरदार पटेल",
+            "डॉ. राजेंद्र प्रसाद"
+          ],
+          "ans": 1,
+          "subject": "Polity"
+        },
+        {
+          "q": "What is the chemical name of Baking Soda?",
+          "q_hi": "बेकिंग सोडा का रासायनिक नाम क्या है?",
+          "opts": [
+            "Sodium Chloride",
+            "Sodium Bicarbonate",
+            "Sodium Carbonate",
+            "Calcium Carbonate"
+          ],
+          "opts_hi": [
+            "सोडियम क्लोराइड",
+            "सोडियम बाइकार्बोनेट",
+            "सोडियम कार्बोनेट",
+            "कैल्शियम कार्बोनेट"
+          ],
+          "ans": 1,
+          "subject": "Science"
+        }
+      ]
     }
   ]
 }
