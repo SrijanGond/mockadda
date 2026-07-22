@@ -4794,6 +4794,50 @@
           "subject": "General Knowledge"
         }
       ]
+    },
+    {
+      "id": "roaro_prelims_23",
+      "title": "RO/ARO Prelims Mock Test 23",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "The highest mountain peak in India is:",
+          "q_hi": "भारत की सबसे ऊँची पर्वत चोटी है:",
+          "opts": [
+            "Kanchenjunga",
+            "Mount Everest",
+            "Nanda Devi",
+            "Anai Mudi"
+          ],
+          "opts_hi": [
+            "कंचनजंगा",
+            "माउंट एवरेस्ट",
+            "नंदा देवी",
+            "अनाई मुडी"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "q": "The 73rd Constitutional Amendment is related to:",
+          "q_hi": "73वां संवैधानिक संशोधन किससे संबंधित है?",
+          "opts": [
+            "Urban Local Bodies",
+            "Rural Local Bodies",
+            "Fundamental Rights",
+            "Directive Principles"
+          ],
+          "opts_hi": [
+            "नगरीय स्थानीय निकाय",
+            "ग्रामीण स्थानीय निकाय",
+            "मौलिक अधिकार",
+            "निदेशक सिद्धांत"
+          ],
+          "ans": 1,
+          "subject": "Polity"
+        }
+      ]
     }
   ]
 }
