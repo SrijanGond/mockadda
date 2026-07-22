@@ -720,6 +720,32 @@
           "subject": "Polity"
         }
       ]
+    },
+    {
+      "id": "ssc_mts_3",
+      "title": "SSC MTS Mock Test 3",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "The Andes Mountains were formed due to the collision of which tectonic plates?",
+          "q_hi": "एंडीज पर्वत किन टेक्टोनिक प्लेटों के टकराव से बना था?",
+          "opts": [
+            "Pacific Plate and South American Plate",
+            "Pacific Plate and Nazca Plate",
+            "South American Plate and African Plate",
+            "Nazca Plate and South American Plate"
+          ],
+          "opts_hi": [
+            "प्रशांत प्लेट और दक्षिण अमेरिकी प्लेट",
+            "प्रशांत प्लेट और नाज़्का प्लेट",
+            "दक्षिण अमेरिकी प्लेट और अफ्रीकी प्लेट",
+            "नाज़्का प्लेट और दक्षिण अमेरिकी प्लेट"
+          ],
+          "ans": 3,
+          "subject": "Geography"
+        }
+      ]
     }
   ]
 }
