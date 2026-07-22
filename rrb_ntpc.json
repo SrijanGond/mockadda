@@ -2713,6 +2713,32 @@
           "subject": "Economics"
         }
       ]
+    },
+    {
+      "id": "rrb_ntpc_31",
+      "title": "RRB NTPC Mock Test 31",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which river is known as the 'Ganga of the South'?",
+          "q_hi": "दक्षिण की गंगा' के नाम से किस नदी को जाना जाता है?",
+          "opts": [
+            "Godavari",
+            "Kaveri",
+            "Krishna",
+            "Tungabhadra"
+          ],
+          "opts_hi": [
+            "गोदावरी",
+            "कावेरी",
+            "कृष्णा",
+            "तुंगभद्रा"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        }
+      ]
     }
   ]
 }
