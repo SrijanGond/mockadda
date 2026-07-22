@@ -159,6 +159,32 @@
           "subject": "Science"
         }
       ]
+    },
+    {
+      "id": "up_police_constable_3",
+      "title": "UP Police Constable Mock Test 3",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "The Ilbert Bill controversy during Lord Ripon's tenure was related to which issue?",
+          "q_hi": "लॉर्ड रिपन के कार्यकाल के दौरान इल्बर्ट बिल विवाद किस मुद्दे से संबंधित था?",
+          "opts": [
+            "Press freedom",
+            "Judicial powers of Indian magistrates over Europeans",
+            "Tax reform",
+            "Education reform"
+          ],
+          "opts_hi": [
+            "प्रेस स्वतंत्रता",
+            "भारतीय मजिस्ट्रेटों की यूरोपीयों पर न्यायिक शक्तियाँ",
+            "कर सुधार",
+            "शिक्षा सुधार"
+          ],
+          "ans": 1,
+          "subject": "History"
+        }
+      ]
     }
   ]
 }
