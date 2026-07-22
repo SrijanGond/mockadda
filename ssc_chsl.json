@@ -1053,6 +1053,32 @@
           "subject": "English Language"
         }
       ]
+    },
+    {
+      "id": "ssc_chsl_2",
+      "title": "SSC CHSL Mock Test 2",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "The Directive Principles of State Policy are borrowed from which Constitution?",
+          "q_hi": "राज्य नीति के निदेशक सिद्धांत किस संविधान से लिए गए हैं?",
+          "opts": [
+            "Irish Constitution",
+            "British Constitution",
+            "US Constitution",
+            "Canadian Constitution"
+          ],
+          "opts_hi": [
+            "आयरिश संविधान",
+            "ब्रिटिश संविधान",
+            "अमेरिकी संविधान",
+            "कनाडाई संविधान"
+          ],
+          "ans": 0,
+          "subject": "Polity"
+        }
+      ]
     }
   ]
 }
