@@ -1922,6 +1922,60 @@
       ],
       "ans": 0,
       "subject": "History"
+    },
+    {
+      "q": "Who among the following was the first Governor-General of Independent India?",
+      "q_hi": "निम्नलिखित में से स्वतंत्र भारत का प्रथम गवर्नर-जनरल कौन था?",
+      "opts": [
+        "Lord Mountbatten",
+        "C. Rajagopalachari",
+        "Lord Wavell",
+        "Dr. Rajendra Prasad"
+      ],
+      "opts_hi": [
+        "लॉर्ड माउंटबेटन",
+        "सी. राजगोपालाचारी",
+        "लॉर्ड वेवेल",
+        "डॉ. राजेंद्र प्रसाद"
+      ],
+      "ans": 1,
+      "subject": "History"
+    },
+    {
+      "q": "The famous slogan \"Inquilab Zindabad\" was given by:",
+      "q_hi": "प्रसिद्ध नारा \"इंकलाब जिंदाबाद\" किसने दिया था?",
+      "opts": [
+        "Bhagat Singh",
+        "Chandra Shekhar Azad",
+        "Mahatma Gandhi",
+        "Subhas Chandra Bose"
+      ],
+      "opts_hi": [
+        "भगत सिंह",
+        "चंद्रशेखर आजाद",
+        "महात्मा गांधी",
+        "सुभाष चंद्र बोस"
+      ],
+      "ans": 0,
+      "subject": "History"
+    },
+    {
+      "q": "The Indus Valley Civilization is also known as:",
+      "q_hi": "सिंधु घाटी सभ्यता को और किस नाम से जाना जाता है?",
+      "opts": [
+        "Harappan Civilization",
+        "Vedic Civilization",
+        "Mauryan Civilization",
+        "Gupta Civilization"
+      ],
+      "opts_hi": [
+        "हड़प्पा सभ्यता",
+        "वैदिक सभ्यता",
+        "मौर्य सभ्यता",
+        "गुप्त सभ्यता"
+      ],
+      "ans": 0,
+      "subject": "History"
     }
   ]
 }
