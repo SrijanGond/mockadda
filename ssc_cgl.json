@@ -5569,6 +5569,50 @@
           "subject": "Polity"
         }
       ]
+    },
+    {
+      "id": "ssc_cgl_22",
+      "title": "SSC CGL Mock Test 22",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which Constitutional Amendment Act is known as the 'Mini Constitution'?",
+          "q_hi": "किस संवैधानिक संशोधन अधिनियम को 'लघु संविधान' के नाम से जाना जाता है?",
+          "opts": [
+            "42nd Amendment Act",
+            "44th Amendment Act",
+            "52nd Amendment Act",
+            "73rd Amendment Act"
+          ],
+          "opts_hi": [
+            "42वां संशोधन अधिनियम",
+            "44वां संशोधन अधिनियम",
+            "52वां संशोधन अधिनियम",
+            "73वां संशोधन अधिनियम"
+          ],
+          "ans": 0,
+          "subject": "Polity"
+        },
+        {
+          "q": "Which of the following is the leading producer of tea in India?",
+          "q_hi": "भारत में चाय का अग्रणी उत्पादक निम्नलिखित में से कौन है?",
+          "opts": [
+            "West Bengal",
+            "Tamil Nadu",
+            "Kerala",
+            "Assam"
+          ],
+          "opts_hi": [
+            "पश्चिम बंगाल",
+            "तमिलनाडु",
+            "केरल",
+            "असम"
+          ],
+          "ans": 3,
+          "subject": "Geography"
+        }
+      ]
     }
   ]
 }
