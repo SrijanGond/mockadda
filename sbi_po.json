@@ -1576,6 +1576,68 @@
           "subject": "General Knowledge"
         }
       ]
+    },
+    {
+      "id": "sbi_po_26",
+      "title": "SBI PO Mock Test 26",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which amendment made the President's proclamation of Emergency subject to judicial review?",
+          "q_hi": "किस संशोधन ने राष्ट्रपति की आपातकाल उद्घोषणा को न्यायिक समीक्षा के अधीन किया?",
+          "opts": [
+            "38th Amendment",
+            "39th Amendment",
+            "42nd Amendment",
+            "44th Amendment"
+          ],
+          "opts_hi": [
+            "38वां संशोधन",
+            "39वां संशोधन",
+            "42वां संशोधन",
+            "44वां संशोधन"
+          ],
+          "ans": 3,
+          "subject": "Polity"
+        },
+        {
+          "q": "The term 'Twin Deficit' in Indian economy refers to which two deficits?",
+          "q_hi": "भारतीय अर्थव्यवस्था में 'जुड़वां घाटा' किन दो घाटों को संदर्भित करता है?",
+          "opts": [
+            "Fiscal Deficit and Revenue Deficit",
+            "Fiscal Deficit and Current Account Deficit",
+            "Revenue Deficit and Primary Deficit",
+            "Current Account Deficit and Trade Deficit"
+          ],
+          "opts_hi": [
+            "राजकोषीय घाटा और राजस्व घाटा",
+            "राजकोषीय घाटा और चालू खाता घाटा",
+            "राजस्व घाटा और प्राथमिक घाटा",
+            "चालू खाता घाटा और व्यापार घाटा"
+          ],
+          "ans": 1,
+          "subject": "Economy"
+        },
+        {
+          "q": "Under which provision can the Supreme Court of India hear appeals against the decisions of the High Courts in civil matters?",
+          "q_hi": "किस प्रावधान के तहत भारत का सर्वोच्च न्यायालय दीवानी मामलों में उच्च न्यायालयों के निर्णयों के खिलाफ अपील सुन सकता है?",
+          "opts": [
+            "Article 134",
+            "Article 133",
+            "Article 136",
+            "Article 132"
+          ],
+          "opts_hi": [
+            "अनुच्छेद 134",
+            "अनुच्छेद 133",
+            "अनुच्छेद 136",
+            "अनुच्छेद 132"
+          ],
+          "ans": 1,
+          "subject": "Polity"
+        }
+      ]
     }
   ]
 }
