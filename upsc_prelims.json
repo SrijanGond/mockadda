@@ -3852,6 +3852,32 @@
           "subject": "Economics"
         }
       ]
+    },
+    {
+      "id": "upsc_prelims_35",
+      "title": "UPSC Prelims Mock Test 35",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which state receives the highest average annual rainfall in India?",
+          "q_hi": "भारत में सबसे अधिक औसत वार्षिक वर्षा कौन सा राज्य प्राप्त करता है?",
+          "opts": [
+            "Assam",
+            "Meghalaya",
+            "Kerala",
+            "West Bengal"
+          ],
+          "opts_hi": [
+            "असम",
+            "मेघालय",
+            "केरल",
+            "पश्चिम बंगाल"
+          ],
+          "ans": 1,
+          "subject": "Geography"
+        }
+      ]
     }
   ]
 }
