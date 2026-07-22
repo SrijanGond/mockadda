@@ -698,6 +698,114 @@
       ],
       "ans": 1,
       "subject": "Polity"
+    },
+    {
+      "q": "Which Constitutional Amendment Act is known as the 'Mini Constitution'?",
+      "q_hi": "किस संवैधानिक संशोधन अधिनियम को 'लघु संविधान' के नाम से जाना जाता है?",
+      "opts": [
+        "42nd Amendment Act",
+        "44th Amendment Act",
+        "52nd Amendment Act",
+        "73rd Amendment Act"
+      ],
+      "opts_hi": [
+        "42वां संशोधन अधिनियम",
+        "44वां संशोधन अधिनियम",
+        "52वां संशोधन अधिनियम",
+        "73वां संशोधन अधिनियम"
+      ],
+      "ans": 0,
+      "subject": "Polity"
+    },
+    {
+      "q": "Under which Article of the Constitution can the President declare a state of Financial Emergency?",
+      "q_hi": "संविधान के किस अनुच्छेद के तहत राष्ट्रपति वित्तीय आपातकाल घोषित कर सकते हैं?",
+      "opts": [
+        "Article 356",
+        "Article 360",
+        "Article 352",
+        "Article 365"
+      ],
+      "opts_hi": [
+        "अनुच्छेद 356",
+        "अनुच्छेद 360",
+        "अनुच्छेद 352",
+        "अनुच्छेद 365"
+      ],
+      "ans": 1,
+      "subject": "Polity"
+    },
+    {
+      "q": "Which amendment made the President's proclamation of Emergency subject to judicial review?",
+      "q_hi": "किस संशोधन ने राष्ट्रपति की आपातकाल उद्घोषणा को न्यायिक समीक्षा के अधीन किया?",
+      "opts": [
+        "38th Amendment",
+        "39th Amendment",
+        "42nd Amendment",
+        "44th Amendment"
+      ],
+      "opts_hi": [
+        "38वां संशोधन",
+        "39वां संशोधन",
+        "42वां संशोधन",
+        "44वां संशोधन"
+      ],
+      "ans": 3,
+      "subject": "Polity"
+    },
+    {
+      "q": "Which of the following is NOT a Fundamental Right under the Indian Constitution?",
+      "q_hi": "निम्नलिखित में से कौन भारतीय संविधान के तहत मौलिक अधिकार नहीं है?",
+      "opts": [
+        "Right to Education",
+        "Right to Property",
+        "Right against Exploitation",
+        "Right to Freedom of Religion"
+      ],
+      "opts_hi": [
+        "शिक्षा का अधिकार",
+        "संपत्ति का अधिकार",
+        "शोषण के विरुद्ध अधिकार",
+        "धर्म की स्वतंत्रता का अधिकार"
+      ],
+      "ans": 1,
+      "subject": "Polity"
+    },
+    {
+      "q": "Under which provision can the Supreme Court of India hear appeals against the decisions of the High Courts in civil matters?",
+      "q_hi": "किस प्रावधान के तहत भारत का सर्वोच्च न्यायालय दीवानी मामलों में उच्च न्यायालयों के निर्णयों के खिलाफ अपील सुन सकता है?",
+      "opts": [
+        "Article 134",
+        "Article 133",
+        "Article 136",
+        "Article 132"
+      ],
+      "opts_hi": [
+        "अनुच्छेद 134",
+        "अनुच्छेद 133",
+        "अनुच्छेद 136",
+        "अनुच्छेद 132"
+      ],
+      "ans": 1,
+      "subject": "Polity"
+    },
+    {
+      "q": "Which schedule of the Indian Constitution contains the provisions related to the anti-defection law?",
+      "q_hi": "भारतीय संविधान की किस अनुसूची में दल-बदल विरोधी कानून से संबंधित प्रावधान हैं?",
+      "opts": [
+        "Eighth Schedule",
+        "Ninth Schedule",
+        "Tenth Schedule",
+        "Eleventh Schedule"
+      ],
+      "opts_hi": [
+        "आठवीं अनुसूची",
+        "नौवीं अनुसूची",
+        "दसवीं अनुसूची",
+        "ग्यारहवीं अनुसूची"
+      ],
+      "ans": 2,
+      "subject": "Polity"
     }
   ]
 }
