@@ -1976,6 +1976,78 @@
       ],
       "ans": 0,
       "subject": "History"
+    },
+    {
+      "q": "Which ruler is credited with the first empire in India and the establishment of the Mauryan dynasty?",
+      "q_hi": "भारत में पहले साम्राज्य और मौर्य वंश की स्थापना का श्रेय किस शासक को दिया जाता है?",
+      "opts": [
+        "Ashoka",
+        "Bindusara",
+        "Chandragupta Maurya",
+        "Brihadratha"
+      ],
+      "opts_hi": [
+        "अशोक",
+        "बिन्दुसार",
+        "चन्द्रगुप्त मौर्य",
+        "बृहद्रथ"
+      ],
+      "ans": 2,
+      "subject": "History"
+    },
+    {
+      "q": "The Ilbert Bill controversy during Lord Ripon's tenure was related to which issue?",
+      "q_hi": "लॉर्ड रिपन के कार्यकाल के दौरान इल्बर्ट बिल विवाद किस मुद्दे से संबंधित था?",
+      "opts": [
+        "Press freedom",
+        "Judicial powers of Indian magistrates over Europeans",
+        "Tax reform",
+        "Education reform"
+      ],
+      "opts_hi": [
+        "प्रेस स्वतंत्रता",
+        "भारतीय मजिस्ट्रेटों की यूरोपीयों पर न्यायिक शक्तियाँ",
+        "कर सुधार",
+        "शिक्षा सुधार"
+      ],
+      "ans": 1,
+      "subject": "History"
+    },
+    {
+      "q": "The famous 'Dancing Girl' statue was found at which Indus Valley Civilization site?",
+      "q_hi": "प्रसिद्ध 'नृत्य करती लड़की' की मूर्ति सिंधु घाटी सभ्यता के किस स्थल से मिली थी?",
+      "opts": [
+        "Harappa",
+        "Mohenjo-Daro",
+        "Lothal",
+        "Dholavira"
+      ],
+      "opts_hi": [
+        "हड़प्पा",
+        "मोहनजोदड़ो",
+        "लोथल",
+        "धोलावीरा"
+      ],
+      "ans": 1,
+      "subject": "History"
+    },
+    {
+      "q": "Who was the founder of the Indian National Army (Azad Hind Fauj)?",
+      "q_hi": "भारतीय राष्ट्रीय सेना (आज़ाद हिंद फौज) का संस्थापक कौन था?",
+      "opts": [
+        "Subhas Chandra Bose",
+        "Rash Behari Bose",
+        "Captain Mohan Singh",
+        "Jawaharlal Nehru"
+      ],
+      "opts_hi": [
+        "सुभाष चंद्र बोस",
+        "रास बिहारी बोस",
+        "कैप्टन मोहन सिंह",
+        "जवाहरलाल नेहरू"
+      ],
+      "ans": 2,
+      "subject": "History"
     }
   ]
 }
