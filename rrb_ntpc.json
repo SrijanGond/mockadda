@@ -2739,6 +2739,32 @@
           "subject": "Geography"
         }
       ]
+    },
+    {
+      "id": "rrb_ntpc_32",
+      "title": "RRB NTPC Mock Test 32",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which ocean current is responsible for warming the western coast of Europe?",
+          "q_hi": "यूरोप के पश्चिमी तट को गर्म करने के लिए कौन सी महासागरीय धारा जिम्मेदार है?",
+          "opts": [
+            "Labrador Current",
+            "Canary Current",
+            "North Atlantic Drift",
+            "California Current"
+          ],
+          "opts_hi": [
+            "लैब्राडोर धारा",
+            "केनरी धारा",
+            "उत्तरी अटलांटिक बहाव",
+            "कैलिफ़ोर्निया धारा"
+          ],
+          "ans": 2,
+          "subject": "Geography"
+        }
+      ]
     }
   ]
 }
