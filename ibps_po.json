@@ -1257,6 +1257,50 @@
           "subject": "General Knowledge"
         }
       ]
+    },
+    {
+      "id": "ibps_po_20",
+      "title": "IBPS PO Mock Test 20",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Fundamental Duties were added to the Constitution by which Amendment?",
+          "q_hi": "मूल कर्तव्यों को संविधान में किस संशोधन द्वारा जोड़ा गया?",
+          "opts": [
+            "42nd Amendment",
+            "44th Amendment",
+            "52nd Amendment",
+            "73rd Amendment"
+          ],
+          "opts_hi": [
+            "42वां संशोधन",
+            "44वां संशोधन",
+            "52वां संशोधन",
+            "73वां संशोधन"
+          ],
+          "ans": 0,
+          "subject": "Polity"
+        },
+        {
+          "q": "Who appoints the Chief Justice of India?",
+          "q_hi": "भारत के मुख्य न्यायाधीश की नियुक्ति कौन करता है?",
+          "opts": [
+            "President",
+            "Prime Minister",
+            "Collegium of Judges",
+            "Parliament"
+          ],
+          "opts_hi": [
+            "राष्ट्रपति",
+            "प्रधानमंत्री",
+            "न्यायाधीशों का कोलेजियम",
+            "संसद"
+          ],
+          "ans": 0,
+          "subject": "Polity"
+        }
+      ]
     }
   ]
 }
