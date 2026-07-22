@@ -1841,6 +1841,60 @@
       ],
       "ans": 1,
       "subject": "Science"
+    },
+    {
+      "q": "What is the phenomenon where light changes direction when passing from one medium to another?",
+      "q_hi": "जब प्रकाश एक माध्यम से दूसरे माध्यम में जाता है तो दिशा बदलने की घटना क्या कहलाती है?",
+      "opts": [
+        "Dispersion",
+        "Reflection",
+        "Diffraction",
+        "Refraction"
+      ],
+      "opts_hi": [
+        "विक्षेपण",
+        "परावर्तन",
+        "विवर्तन",
+        "अपवर्तन"
+      ],
+      "ans": 3,
+      "subject": "Science"
+    },
+    {
+      "q": "Which allotrope of carbon is the hardest natural substance and consists of a three-dimensional tetrahedral structure?",
+      "q_hi": "कार्बन का कौन सा अपररूप सबसे कठोर प्राकृतिक पदार्थ है और त्रि-आयामी चतुष्फलकीय संरचना से बना होता है?",
+      "opts": [
+        "Graphite",
+        "Diamond",
+        "Fullerene",
+        "Graphene"
+      ],
+      "opts_hi": [
+        "ग्रेफाइट",
+        "हीरा",
+        "फुलरीन",
+        "ग्राफीन"
+      ],
+      "ans": 1,
+      "subject": "Science"
+    },
+    {
+      "q": "Which of the following is a fully double-stranded RNA virus?",
+      "q_hi": "निम्नलिखित में से कौन पूर्णतः द्वि-स्ट्रैंडेड RNA वायरस है?",
+      "opts": [
+        "Tobacco Mosaic Virus",
+        "Polio Virus",
+        "Rotavirus",
+        "Influenza Virus"
+      ],
+      "opts_hi": [
+        "तम्बाकू मोज़ेक वायरस",
+        "पोलियो वायरस",
+        "रोटावायरस",
+        "इन्फ्लुएंजा वायरस"
+      ],
+      "ans": 2,
+      "subject": "Science"
     }
   ]
 }
