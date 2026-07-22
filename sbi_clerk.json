@@ -1451,6 +1451,32 @@
           "subject": "General Knowledge"
         }
       ]
+    },
+    {
+      "id": "sbi_clerk_24",
+      "title": "SBI Clerk Mock Test 24",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Who among the following was the first Governor-General of Independent India?",
+          "q_hi": "निम्नलिखित में से स्वतंत्र भारत का प्रथम गवर्नर-जनरल कौन था?",
+          "opts": [
+            "Lord Mountbatten",
+            "C. Rajagopalachari",
+            "Lord Wavell",
+            "Dr. Rajendra Prasad"
+          ],
+          "opts_hi": [
+            "लॉर्ड माउंटबेटन",
+            "सी. राजगोपालाचारी",
+            "लॉर्ड वेवेल",
+            "डॉ. राजेंद्र प्रसाद"
+          ],
+          "ans": 1,
+          "subject": "History"
+        }
+      ]
     }
   ]
 }
