@@ -1151,6 +1151,86 @@
           "subject": "General Knowledge"
         }
       ]
+    },
+    {
+      "id": "kvs_18",
+      "title": "KVS Mock Test 18",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What does the term 'Repo Rate' refer to?",
+          "q_hi": "रेपो रेट' से क्या अभिप्राय है?",
+          "opts": [
+            "Rate at which RBI buys government securities",
+            "Rate at which RBI lends to commercial banks",
+            "Rate of inflation",
+            "Cash Reserve Ratio"
+          ],
+          "opts_hi": [
+            "आरबीआई द्वारा सरकारी प्रतिभूतियां खरीदने की दर",
+            "आरबीआई द्वारा वाणिज्यिक बैंकों को उधार देने की दर",
+            "मुद्रास्फीति की दर",
+            "नकद आरक्षित अनुपात"
+          ],
+          "ans": 1,
+          "subject": "Economy"
+        },
+        {
+          "q": "What is the value of acceleration due to gravity on Earth?",
+          "q_hi": "पृथ्वी पर गुरुत्वाकर्षण त्वरण का मान क्या है?",
+          "opts": [
+            "9.8 m/s²",
+            "8.9 m/s²",
+            "10 m/s²",
+            "7.8 m/s²"
+          ],
+          "opts_hi": [
+            "9.8 मी/से²",
+            "8.9 मी/से²",
+            "10 मी/से²",
+            "7.8 मी/से²"
+          ],
+          "ans": 0,
+          "subject": "Science"
+        },
+        {
+          "q": "The Union Budget of India is presented by:",
+          "q_hi": "भारत का केंद्रीय बजट किसके द्वारा प्रस्तुत किया जाता है?",
+          "opts": [
+            "President",
+            "Finance Minister",
+            "Prime Minister",
+            "Chief Economic Advisor"
+          ],
+          "opts_hi": [
+            "राष्ट्रपति",
+            "वित्त मंत्री",
+            "प्रधानमंत्री",
+            "मुख्य आर्थिक सलाहकार"
+          ],
+          "ans": 1,
+          "subject": "Economy"
+        },
+        {
+          "q": "The Indus Valley Civilization is also known as:",
+          "q_hi": "सिंधु घाटी सभ्यता को और किस नाम से जाना जाता है?",
+          "opts": [
+            "Harappan Civilization",
+            "Vedic Civilization",
+            "Mauryan Civilization",
+            "Gupta Civilization"
+          ],
+          "opts_hi": [
+            "हड़प्पा सभ्यता",
+            "वैदिक सभ्यता",
+            "मौर्य सभ्यता",
+            "गुप्त सभ्यता"
+          ],
+          "ans": 0,
+          "subject": "History"
+        }
+      ]
     }
   ]
 }
