@@ -1175,6 +1175,32 @@
           "subject": "General Knowledge"
         }
       ]
+    },
+    {
+      "id": "rrb_group_d_21",
+      "title": "RRB Group D Mock Test 21",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which allotrope of carbon is the hardest natural substance and consists of a three-dimensional tetrahedral structure?",
+          "q_hi": "कार्बन का कौन सा अपररूप सबसे कठोर प्राकृतिक पदार्थ है और त्रि-आयामी चतुष्फलकीय संरचना से बना होता है?",
+          "opts": [
+            "Graphite",
+            "Diamond",
+            "Fullerene",
+            "Graphene"
+          ],
+          "opts_hi": [
+            "ग्रेफाइट",
+            "हीरा",
+            "फुलरीन",
+            "ग्राफीन"
+          ],
+          "ans": 1,
+          "subject": "Science"
+        }
+      ]
     }
   ]
 }
