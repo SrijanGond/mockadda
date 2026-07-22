@@ -97,6 +97,32 @@
           "subject": "General Knowledge"
         }
       ]
+    },
+    {
+      "id": "upsssc_pet_2",
+      "title": "UPSSSC PET Mock Test 2",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "The famous slogan \"Inquilab Zindabad\" was given by:",
+          "q_hi": "प्रसिद्ध नारा \"इंकलाब जिंदाबाद\" किसने दिया था?",
+          "opts": [
+            "Bhagat Singh",
+            "Chandra Shekhar Azad",
+            "Mahatma Gandhi",
+            "Subhas Chandra Bose"
+          ],
+          "opts_hi": [
+            "भगत सिंह",
+            "चंद्रशेखर आजाद",
+            "महात्मा गांधी",
+            "सुभाष चंद्र बोस"
+          ],
+          "ans": 0,
+          "subject": "History"
+        }
+      ]
     }
   ]
 }
