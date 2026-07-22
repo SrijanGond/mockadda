@@ -159,6 +159,50 @@
           "subject": "Science"
         }
       ]
+    },
+    {
+      "id": "ssc_gd_3",
+      "title": "SSC GD Mock Test 3",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What is the phenomenon where light changes direction when passing from one medium to another?",
+          "q_hi": "जब प्रकाश एक माध्यम से दूसरे माध्यम में जाता है तो दिशा बदलने की घटना क्या कहलाती है?",
+          "opts": [
+            "Dispersion",
+            "Reflection",
+            "Diffraction",
+            "Refraction"
+          ],
+          "opts_hi": [
+            "विक्षेपण",
+            "परावर्तन",
+            "विवर्तन",
+            "अपवर्तन"
+          ],
+          "ans": 3,
+          "subject": "Science"
+        },
+        {
+          "q": "Which schedule of the Indian Constitution contains the provisions related to the anti-defection law?",
+          "q_hi": "भारतीय संविधान की किस अनुसूची में दल-बदल विरोधी कानून से संबंधित प्रावधान हैं?",
+          "opts": [
+            "Eighth Schedule",
+            "Ninth Schedule",
+            "Tenth Schedule",
+            "Eleventh Schedule"
+          ],
+          "opts_hi": [
+            "आठवीं अनुसूची",
+            "नौवीं अनुसूची",
+            "दसवीं अनुसूची",
+            "ग्यारहवीं अनुसूची"
+          ],
+          "ans": 2,
+          "subject": "Polity"
+        }
+      ]
     }
   ]
 }
