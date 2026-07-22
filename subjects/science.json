@@ -1787,6 +1787,60 @@
       ],
       "ans": 1,
       "subject": "Science"
+    },
+    {
+      "q": "What is the SI unit of electric current?",
+      "q_hi": "विद्युत धारा की एसआई इकाई क्या है?",
+      "opts": [
+        "Volt",
+        "Ampere",
+        "Ohm",
+        "Watt"
+      ],
+      "opts_hi": [
+        "वोल्ट",
+        "एम्पियर",
+        "ओम",
+        "वाट"
+      ],
+      "ans": 1,
+      "subject": "Science"
+    },
+    {
+      "q": "What is the value of acceleration due to gravity on Earth?",
+      "q_hi": "पृथ्वी पर गुरुत्वाकर्षण त्वरण का मान क्या है?",
+      "opts": [
+        "9.8 m/s²",
+        "8.9 m/s²",
+        "10 m/s²",
+        "7.8 m/s²"
+      ],
+      "opts_hi": [
+        "9.8 मी/से²",
+        "8.9 मी/से²",
+        "10 मी/से²",
+        "7.8 मी/से²"
+      ],
+      "ans": 0,
+      "subject": "Science"
+    },
+    {
+      "q": "What is the chemical name of Baking Soda?",
+      "q_hi": "बेकिंग सोडा का रासायनिक नाम क्या है?",
+      "opts": [
+        "Sodium Chloride",
+        "Sodium Bicarbonate",
+        "Sodium Carbonate",
+        "Calcium Carbonate"
+      ],
+      "opts_hi": [
+        "सोडियम क्लोराइड",
+        "सोडियम बाइकार्बोनेट",
+        "सोडियम कार्बोनेट",
+        "कैल्शियम कार्बोनेट"
+      ],
+      "ans": 1,
+      "subject": "Science"
     }
   ]
 }
