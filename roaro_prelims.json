@@ -4839,6 +4839,32 @@
           "subject": "Polity"
         }
       ]
+    },
+    {
+      "id": "roaro_prelims_24",
+      "title": "RO/ARO Prelims Mock Test 24",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which institution's meeting shifted focus from compensatory afforestation to landscape-based ecological restoration?",
+          "q_hi": "किस संस्था की बैठक ने प्रतिपूरक वनीकरण से लैंडस्केप-आधारित पारिस्थितिक बहाली पर ध्यान केंद्रित किया?",
+          "opts": [
+            "Forest Survey of India",
+            "National CAMPA",
+            "Indian Council of Forestry Research",
+            "Ministry of Environment"
+          ],
+          "opts_hi": [
+            "भारत वन सर्वेक्षण",
+            "राष्ट्रीय CAMPA",
+            "भारतीय वानिकी अनुसंधान परिषद",
+            "पर्यावरण मंत्रालय"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        }
+      ]
     }
   ]
 }
