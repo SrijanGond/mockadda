@@ -5711,6 +5711,50 @@
           "subject": "Maths"
         }
       ]
+    },
+    {
+      "id": "ssc_cgl_24",
+      "title": "SSC CGL Mock Test 24",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What is the name of India's first indigenous distilled video story-generating AI model launched under the India AI Mission?",
+          "q_hi": "इंडिया AI मिशन के तहत लॉन्च किया गया भारत का पहला स्वदेशी डिस्टिल्ड वीडियो स्टोरी-जनरेटिंग AI मॉडल क्या है?",
+          "opts": [
+            "BharatGPT",
+            "VishwamAI",
+            "IndusAI",
+            "SaraswatiAI"
+          ],
+          "opts_hi": [
+            "भारतGPT",
+            "विश्वामAI",
+            "इंडसAI",
+            "सरस्वतीAI"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "The National CAMPA's 7th Governing Body Meeting shifted focus from compensatory afforestation to which approach?",
+          "q_hi": "राष्ट्रीय कैम्पा की 7वीं शासी निकाय बैठक ने प्रतिपूरक वनीकरण से किस दृष्टिकोण पर ध्यान केंद्रित किया?",
+          "opts": [
+            "Landscape-based Ecological Restoration",
+            "Urban Forestry",
+            "Industrial Plantations",
+            "Agroforestry"
+          ],
+          "opts_hi": [
+            "लैंडस्केप-आधारित पारिस्थितिक बहाली",
+            "शहरी वानिकी",
+            "औद्योगिक वृक्षारोपण",
+            "कृषि वानिकी"
+          ],
+          "ans": 0,
+          "subject": "Current Affairs"
+        }
+      ]
     }
   ]
 }
