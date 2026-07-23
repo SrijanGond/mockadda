@@ -3984,6 +3984,32 @@
           "subject": "Current Affairs"
         }
       ]
+    },
+    {
+      "id": "upsc_prelims_38",
+      "title": "UPSC Prelims Mock Test 38",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What is the monthly assistance provided to Gurus under the Guru-Shishya Parampara sub-scheme of KSVY?",
+          "q_hi": "KSVY की गुरु-शिष्य परंपरा उप-योजना के तहत गुरुओं को प्रदान की जाने वाली मासिक सहायता क्या है?",
+          "opts": [
+            "₹5,000 per Guru",
+            "₹10,000 per Guru",
+            "₹15,000 per Guru",
+            "₹20,000 per Guru"
+          ],
+          "opts_hi": [
+            "₹5,000 प्रति गुरु",
+            "₹10,000 प्रति गुरु",
+            "₹15,000 प्रति गुरु",
+            "₹20,000 प्रति गुरु"
+          ],
+          "ans": 2,
+          "subject": "Current Affairs"
+        }
+      ]
     }
   ]
 }
