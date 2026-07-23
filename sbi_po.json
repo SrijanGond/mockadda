@@ -1700,6 +1700,86 @@
           "subject": "Current Affairs"
         }
       ]
+    },
+    {
+      "id": "sbi_po_28",
+      "title": "SBI PO Mock Test 28",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Who was appointed as the new CEO of NITI Aayog in July 2026?",
+          "q_hi": "जुलाई 2026 में NITI Aayog के नए CEO के रूप में किसे नियुक्त किया गया?",
+          "opts": [
+            "B.V.R. Subrahmanyam",
+            "Anurag Jain",
+            "Rajiv Gauba",
+            "Suman K. Bery"
+          ],
+          "opts_hi": [
+            "बी.वी.आर. सुब्रह्मण्यम",
+            "अनुराग जैन",
+            "राजीव गौबा",
+            "सुमन के. बेरी"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Which state topped NITI Aayog's first-ever Investment Friendliness Index 2026?",
+          "q_hi": "NITI Aayog के पहले Investment Friendliness Index 2026 में किस राज्य ने शीर्ष स्थान प्राप्त किया?",
+          "opts": [
+            "Maharashtra",
+            "Tamil Nadu",
+            "Gujarat",
+            "Karnataka"
+          ],
+          "opts_hi": [
+            "महाराष्ट्र",
+            "तमिलनाडु",
+            "गुजरात",
+            "कर्नाटक"
+          ],
+          "ans": 2,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Who shared the Best Actor award at the 72nd National Film Awards announced in July 2026?",
+          "q_hi": "जुलाई 2026 में घोषित 72वें राष्ट्रीय फिल्म पुरस्कारों में सर्वश्रेष्ठ अभिनेता का पुरस्कार किसने साझा किया?",
+          "opts": [
+            "Rajkumar Periasamy & Randeep Hooda",
+            "Mammootty & Kartik Aaryan",
+            "Yami Gautam & Mammootty",
+            "Kartik Aaryan & Rajkumar Periasamy"
+          ],
+          "opts_hi": [
+            "राजकुमार पेरियासामी और रणदीप हुड्डा",
+            "मम्मूट्टी और कार्तिक आर्यन",
+            "यामी गौतम और मम्मूट्टी",
+            "कार्तिक आर्यन और राजकुमार पेरियासामी"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "How much foreign portfolio investment (FPI) flowed into Indian equity and debt markets in July 2026 (up to July 20)?",
+          "q_hi": "जुलाई 2026 (20 जुलाई तक) में भारतीय इक्विटी और ऋण बाजारों में कितना विदेशी पोर्टफोलियो निवेश (FPI) आया?",
+          "opts": [
+            "$1.5 billion",
+            "$2.1 billion",
+            "$3.1 billion",
+            "$4.5 billion"
+          ],
+          "opts_hi": [
+            "$1.5 बिलियन",
+            "$2.1 बिलियन",
+            "$3.1 बिलियन",
+            "$4.5 बिलियन"
+          ],
+          "ans": 2,
+          "subject": "Current Affairs"
+        }
+      ]
     }
   ]
 }
