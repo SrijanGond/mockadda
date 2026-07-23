@@ -2827,6 +2827,32 @@
           "subject": "Current Affairs"
         }
       ]
+    },
+    {
+      "id": "rrb_ntpc_34",
+      "title": "RRB NTPC Mock Test 34",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What percentage of India's cotton is rain-fed according to the Ministry of Textiles?",
+          "q_hi": "वस्त्र मंत्रालय के अनुसार, भारत का कितना प्रतिशत कपास वर्षा आधारित है?",
+          "opts": [
+            "0.38",
+            "0.5",
+            "0.62",
+            "0.75"
+          ],
+          "opts_hi": [
+            "0.38",
+            "0.5",
+            "0.62",
+            "0.75"
+          ],
+          "ans": 2,
+          "subject": "Current Affairs"
+        }
+      ]
     }
   ]
 }
