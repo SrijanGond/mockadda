@@ -2603,6 +2603,384 @@
       ],
       "ans": 2,
       "subject": "Current Affairs"
+    },
+    {
+      "q": "Who was appointed as the new CEO of NITI Aayog in July 2026?",
+      "q_hi": "जुलाई 2026 में NITI Aayog के नए CEO के रूप में किसे नियुक्त किया गया?",
+      "opts": [
+        "B.V.R. Subrahmanyam",
+        "Anurag Jain",
+        "Rajiv Gauba",
+        "Suman K. Bery"
+      ],
+      "opts_hi": [
+        "बी.वी.आर. सुब्रह्मण्यम",
+        "अनुराग जैन",
+        "राजीव गौबा",
+        "सुमन के. बेरी"
+      ],
+      "ans": 1,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "Which state topped NITI Aayog's first-ever Investment Friendliness Index 2026?",
+      "q_hi": "NITI Aayog के पहले Investment Friendliness Index 2026 में किस राज्य ने शीर्ष स्थान प्राप्त किया?",
+      "opts": [
+        "Maharashtra",
+        "Tamil Nadu",
+        "Gujarat",
+        "Karnataka"
+      ],
+      "opts_hi": [
+        "महाराष्ट्र",
+        "तमिलनाडु",
+        "गुजरात",
+        "कर्नाटक"
+      ],
+      "ans": 2,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "Which new economic index did the Ministry of Statistics announce it would launch within months in July 2026?",
+      "q_hi": "जुलाई 2026 में सांख्यिकी मंत्रालय ने किस नए आर्थिक सूचकांक को महीनों के भीतर लॉन्च करने की घोषणा की?",
+      "opts": [
+        "Index of Industrial Production",
+        "Index of Services Production",
+        "Consumer Price Index",
+        "Wholesale Price Index"
+      ],
+      "opts_hi": [
+        "औद्योगिक उत्पादन सूचकांक",
+        "सेवाएँ उत्पादन सूचकांक",
+        "उपभोक्ता मूल्य सूचकांक",
+        "थोक मूल्य सूचकांक"
+      ],
+      "ans": 1,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "The Income-tax (Amendment) Bill, 2026, proposed to replace an ordinance exempting foreign investors from tax on investments in which financial instrument?",
+      "q_hi": "Income-tax (Amendment) Bill, 2026, विदेशी निवेशकों को किस वित्तीय साधन में निवेश पर कर से छूट देने वाले अध्यादेश को बदलने का प्रस्ताव है?",
+      "opts": [
+        "Corporate Bonds",
+        "Government Securities (G-secs)",
+        "Equity Shares",
+        "Mutual Funds"
+      ],
+      "opts_hi": [
+        "कॉर्पोरेट बॉन्ड",
+        "सरकारी प्रतिभूतियाँ (G-secs)",
+        "इक्विटी शेयर",
+        "म्यूचुअल फंड"
+      ],
+      "ans": 1,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "Which film won the Best Feature Film award at the 72nd National Film Awards announced in July 2026?",
+      "q_hi": "जुलाई 2026 में घोषित 72वें राष्ट्रीय फिल्म पुरस्कारों में किस फिल्म ने सर्वश्रेष्ठ फीचर फिल्म का पुरस्कार जीता?",
+      "opts": [
+        "Kalki 2898 AD",
+        "Amaran",
+        "Article 370",
+        "Chandu Champion"
+      ],
+      "opts_hi": [
+        "कल्कि 2898 AD",
+        "अमरन",
+        "आर्टिकल 370",
+        "चंदू चैंपियन"
+      ],
+      "ans": 2,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "Who shared the Best Actor award at the 72nd National Film Awards announced in July 2026?",
+      "q_hi": "जुलाई 2026 में घोषित 72वें राष्ट्रीय फिल्म पुरस्कारों में सर्वश्रेष्ठ अभिनेता का पुरस्कार किसने साझा किया?",
+      "opts": [
+        "Rajkumar Periasamy & Randeep Hooda",
+        "Mammootty & Kartik Aaryan",
+        "Yami Gautam & Mammootty",
+        "Kartik Aaryan & Rajkumar Periasamy"
+      ],
+      "opts_hi": [
+        "राजकुमार पेरियासामी और रणदीप हुड्डा",
+        "मम्मूट्टी और कार्तिक आर्यन",
+        "यामी गौतम और मम्मूट्टी",
+        "कार्तिक आर्यन और राजकुमार पेरियासामी"
+      ],
+      "ans": 1,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "Which state will host the Khelo India Youth Games (KIYG) 2026 edition?",
+      "q_hi": "Khelo India Youth Games (KIYG) 2026 संस्करण की मेजबानी कौन सा राज्य करेगा?",
+      "opts": [
+        "Tamil Nadu",
+        "Telangana",
+        "Bihar",
+        "West Bengal"
+      ],
+      "opts_hi": [
+        "तमिलनाडु",
+        "तेलंगाना",
+        "बिहार",
+        "पश्चिम बंगाल"
+      ],
+      "ans": 1,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "How many doping cases were recorded in India as of July 15, 2026, according to the Sports Minister?",
+      "q_hi": "खेल मंत्री के अनुसार, 15 जुलाई 2026 तक भारत में कितने डोपिंग मामले दर्ज किए गए?",
+      "opts": [
+        "260",
+        "131",
+        "78",
+        "220"
+      ],
+      "opts_hi": [
+        "260",
+        "131",
+        "78",
+        "220"
+      ],
+      "ans": 2,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "According to the RBI's July 2026 Bulletin, what was the headline CPI inflation for June 2026?",
+      "q_hi": "RBI के जुलाई 2026 बुलेटिन के अनुसार, जून 2026 के लिए मुख्य CPI मुद्रास्फीति क्या थी?",
+      "opts": [
+        "0.039",
+        "0.04",
+        "0.044",
+        "0.052"
+      ],
+      "opts_hi": [
+        "0.039",
+        "0.04",
+        "0.044",
+        "0.052"
+      ],
+      "ans": 2,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "How much foreign portfolio investment (FPI) flowed into Indian equity and debt markets in July 2026 (up to July 20)?",
+      "q_hi": "जुलाई 2026 (20 जुलाई तक) में भारतीय इक्विटी और ऋण बाजारों में कितना विदेशी पोर्टफोलियो निवेश (FPI) आया?",
+      "opts": [
+        "$1.5 billion",
+        "$2.1 billion",
+        "$3.1 billion",
+        "$4.5 billion"
+      ],
+      "opts_hi": [
+        "$1.5 बिलियन",
+        "$2.1 बिलियन",
+        "$3.1 बिलियन",
+        "$4.5 बिलियन"
+      ],
+      "ans": 2,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "India's Sports Minister Mansukh Mandaviya met with which Commonwealth official on the sidelines of the Commonwealth Sports Ministers' Meeting in Glasgow?",
+      "q_hi": "ग्लासगो में राष्ट्रमंडल खेल मंत्रियों की बैठक के दौरान भारत के खेल मंत्री मनसुख मांडविया ने किस राष्ट्रमंडल अधिकारी से मुलाकात की?",
+      "opts": [
+        "Shirley Ayorkor Botchwey",
+        "Patricia Scotland",
+        "Richard Beattie",
+        "Alison James"
+      ],
+      "opts_hi": [
+        "शर्ली अयोरकोर बॉटचवे",
+        "पेट्रीसिया स्कॉटलैंड",
+        "रिचर्ड बीटी",
+        "एलिसन जेम्स"
+      ],
+      "ans": 0,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "What is the name of the Central Sector umbrella scheme by the Ministry of Culture to promote and preserve India's heritage?",
+      "q_hi": "भारत की विरासत को बढ़ावा देने और संरक्षित करने के लिए संस्कृति मंत्रालय की केंद्रीय क्षेत्र की छत्र योजना का क्या नाम है?",
+      "opts": [
+        "Kala Sanskriti Vikas Yojana",
+        "Rashtriya Sanskriti Mahotsav",
+        "Tagore Cultural Complex Scheme",
+        "Intangible Heritage Protection Scheme"
+      ],
+      "opts_hi": [
+        "कला संस्कृति विकास योजना",
+        "राष्ट्रीय संस्कृति महोत्सव",
+        "टैगोर सांस्कृतिक परिसर योजना",
+        "अमूर्त विरासत संरक्षण योजना"
+      ],
+      "ans": 0,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "What is the target output (in lakh bales) for India's cotton sector under the Mission for Cotton Productivity (2026-31)?",
+      "q_hi": "मिशन फॉर कॉटन प्रोडक्टिविटी (2026-31) के तहत भारत के कपास क्षेत्र के लिए लक्ष्य उत्पादन (लाख गांठों में) क्या है?",
+      "opts": [
+        "297 lakh bales",
+        "350 lakh bales",
+        "400 lakh bales",
+        "498 lakh bales"
+      ],
+      "opts_hi": [
+        "297 लाख गांठें",
+        "350 लाख गांठें",
+        "400 लाख गांठें",
+        "498 लाख गांठें"
+      ],
+      "ans": 3,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "What percentage of India's cotton is rain-fed according to the Ministry of Textiles?",
+      "q_hi": "वस्त्र मंत्रालय के अनुसार, भारत का कितना प्रतिशत कपास वर्षा आधारित है?",
+      "opts": [
+        "0.38",
+        "0.5",
+        "0.62",
+        "0.75"
+      ],
+      "opts_hi": [
+        "0.38",
+        "0.5",
+        "0.62",
+        "0.75"
+      ],
+      "ans": 2,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "What is the objective of NITI Aayog's Investment Friendliness Index (IFI) 2026?",
+      "q_hi": "NITI Aayog के Investment Friendliness Index (IFI) 2026 का उद्देश्य क्या है?",
+      "opts": [
+        "To rank states by GDP growth",
+        "To assess investment ecosystems and identify policy gaps",
+        "To measure agricultural productivity",
+        "To evaluate education outcomes"
+      ],
+      "opts_hi": [
+        "जीडीपी विकास दर के आधार पर राज्यों को रैंक करना",
+        "निवेश पारिस्थितिकी तंत्र का आकलन करना और नीतिगत अंतराल की पहचान करना",
+        "कृषि उत्पादकता मापना",
+        "शिक्षा परिणामों का मूल्यांकन करना"
+      ],
+      "ans": 1,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "What is the name of the proposed Bill that seeks to extend statutory protection to the national song Vande Mataram?",
+      "q_hi": "राष्ट्रीय गीत वंदे मातरम् को वैधानिक संरक्षण देने वाला प्रस्तावित विधेयक का क्या नाम है?",
+      "opts": [
+        "National Song Protection Bill",
+        "Prevention of Insults to National Honour (Amendment) Bill, 2026",
+        "National Heritage Protection Bill",
+        "Vande Mataram Act"
+      ],
+      "opts_hi": [
+        "राष्ट्रीय गीत संरक्षण विधेयक",
+        "राष्ट्रीय सम्मान के अपमान की रोकथाम (संशोधन) विधेयक, 2026",
+        "राष्ट्रीय विरासत संरक्षण विधेयक",
+        "वंदे मातरम् अधिनियम"
+      ],
+      "ans": 1,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "What is the name of the protest movement that emerged in July 2026 demanding the resignation of the Education Minister over exam paper leaks?",
+      "q_hi": "जुलाई 2026 में परीक्षा पेपर लीक पर शिक्षा मंत्री के इस्तीफे की मांग को लेकर उभरा विरोध आंदोलन का क्या नाम है?",
+      "opts": [
+        "Youth for Justice",
+        "Cockroach Janta Party (CJP)",
+        "Students' Rights Movement",
+        "Exam Reform Alliance"
+      ],
+      "opts_hi": [
+        "यूथ फॉर जस्टिस",
+        "कॉकरोच जनता पार्टी (CJP)",
+        "स्टूडेंट्स राइट्स मूवमेंट",
+        "एग्जाम रिफॉर्म अलायंस"
+      ],
+      "ans": 1,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "Which institution's meeting shifted focus from compensatory afforestation to landscape-based ecological restoration?",
+      "q_hi": "किस संस्था की बैठक ने प्रतिपूरक वनीकरण से लैंडस्केप-आधारित पारिस्थितिक बहाली पर ध्यान केंद्रित किया?",
+      "opts": [
+        "Forest Survey of India",
+        "National CAMPA",
+        "Indian Council of Forestry Research",
+        "Ministry of Environment"
+      ],
+      "opts_hi": [
+        "भारत वन सर्वेक्षण",
+        "राष्ट्रीय CAMPA",
+        "भारतीय वानिकी अनुसंधान परिषद",
+        "पर्यावरण मंत्रालय"
+      ],
+      "ans": 1,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "What is the monthly assistance provided to Gurus under the Guru-Shishya Parampara sub-scheme of KSVY?",
+      "q_hi": "KSVY की गुरु-शिष्य परंपरा उप-योजना के तहत गुरुओं को प्रदान की जाने वाली मासिक सहायता क्या है?",
+      "opts": [
+        "₹5,000 per Guru",
+        "₹10,000 per Guru",
+        "₹15,000 per Guru",
+        "₹20,000 per Guru"
+      ],
+      "opts_hi": [
+        "₹5,000 प्रति गुरु",
+        "₹10,000 प्रति गुरु",
+        "₹15,000 प्रति गुरु",
+        "₹20,000 प्रति गुरु"
+      ],
+      "ans": 2,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "Which state's Chief Secretary was appointed as the new CEO of NITI Aayog?",
+      "q_hi": "NITI Aayog के नए CEO के रूप में किस राज्य के मुख्य सचिव को नियुक्त किया गया?",
+      "opts": [
+        "Madhya Pradesh",
+        "Uttar Pradesh",
+        "Gujarat",
+        "Maharashtra"
+      ],
+      "opts_hi": [
+        "मध्य प्रदेश",
+        "उत्तर प्रदेश",
+        "गुजरात",
+        "महाराष्ट्र"
+      ],
+      "ans": 0,
+      "subject": "Current Affairs"
+    },
+    {
+      "q": "What legislative item is expected to be taken up during the Monsoon session of Parliament 2026 as per NDA strategy discussions?",
+      "q_hi": "NDA रणनीति चर्चा के अनुसार, संसद 2026 के मानसून सत्र के दौरान कौन सा विधायी मामला उठाए जाने की संभावना है?",
+      "opts": [
+        "Farm Laws Repeal Bill",
+        "Women's Reservation Bill and Delimitation Bill",
+        "Citizenship Amendment Act Implementation",
+        "Uniform Civil Code"
+      ],
+      "opts_hi": [
+        "कृषि कानून निरसन विधेयक",
+        "महिला आरक्षण विधेयक और परिसीमन विधेयक",
+        "नागरिकता संशोधन अधिनियम कार्यान्वयन",
+        "समान नागरिक संहिता"
+      ],
+      "ans": 1,
+      "subject": "Current Affairs"
     }
   ]
 }
