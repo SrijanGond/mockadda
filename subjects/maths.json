@@ -1,0 +1,94 @@
+{
+  "questions": [
+    {
+      "q": "A shopkeeper marks his goods 40% above cost price and then offers a discount of 25%. What is his profit or loss percentage?",
+      "q_hi": "एक दुकानदार अपनी वस्तुओं को क्रय मूल्य से 40% अधिक अंकित करता है और फिर 25% की छूट देता है। उसका लाभ या हानि प्रतिशत क्या है?",
+      "opts": [
+        "A) 5% profit",
+        "B) 5% loss",
+        "C) 10% profit",
+        "D) 10% loss"
+      ],
+      "opts_hi": [
+        "A) 5% लाभ",
+        "B) 5% हानि",
+        "C) 10% लाभ",
+        "D) 10% हानि"
+      ],
+      "ans": 0,
+      "subject": "Maths"
+    },
+    {
+      "q": "The sum of the present ages of a father and his son is 56 years. Four years ago, the father's age was three times the son's age. What is the present age of the son?",
+      "q_hi": "एक पिता और उसके पुत्र की वर्तमान आयु का योग 56 वर्ष है। चार वर्ष पहले, पिता की आयु पुत्र की आयु की तीन गुना थी। पुत्र की वर्तमान आयु कितनी है?",
+      "opts": [
+        "A) 16 years",
+        "B) 18 years",
+        "C) 14 years",
+        "D) 20 years"
+      ],
+      "opts_hi": [
+        "A) 16 वर्ष",
+        "B) 18 वर्ष",
+        "C) 14 वर्ष",
+        "D) 20 वर्ष"
+      ],
+      "ans": 1,
+      "subject": "Maths"
+    },
+    {
+      "q": "A shopkeeper marks his goods 40% above cost price and offers a discount of 25%. What is his profit or loss percentage?",
+      "q_hi": "एक दुकानदार अपने माल को क्रय मूल्य से 40% अधिक पर अंकित करता है और 25% की छूट देता है। उसका लाभ या हानि प्रतिशत क्या है?",
+      "opts": [
+        "A) 5% profit",
+        "B) 5% loss",
+        "C) 10% profit",
+        "D) 10% loss"
+      ],
+      "opts_hi": [
+        "A) 5% लाभ",
+        "B) 5% हानि",
+        "C) 10% लाभ",
+        "D) 10% हानि"
+      ],
+      "ans": 0,
+      "subject": "Maths"
+    },
+    {
+      "q": "The average of 11 numbers is 36. If the average of the first 6 numbers is 32 and the average of the last 6 numbers is 39, what is the 6th number?",
+      "q_hi": "11 संख्याओं का औसत 36 है। यदि पहली 6 संख्याओं का औसत 32 और अंतिम 6 संख्याओं का औसत 39 है, तो 6वीं संख्या क्या है?",
+      "opts": [
+        "A) 24",
+        "B) 30",
+        "C) 18",
+        "D) 36"
+      ],
+      "opts_hi": [
+        "A) 24",
+        "B) 30",
+        "C) 18",
+        "D) 36"
+      ],
+      "ans": 2,
+      "subject": "Maths"
+    },
+    {
+      "q": "A shopkeeper marks his goods 40% above the cost price and then gives a discount of 25%. What is his profit or loss percentage?",
+      "q_hi": "एक दुकानदार अपने माल पर क्रय मूल्य से 40% अधिक अंकित मूल्य लगाता है और फिर 25% की छूट देता है। उसका लाभ या हानि प्रतिशत क्या है?",
+      "opts": [
+        "5% profit",
+        "5% loss",
+        "10% profit",
+        "10% loss"
+      ],
+      "opts_hi": [
+        "5% लाभ",
+        "5% हानि",
+        "10% लाभ",
+        "10% हानि"
+      ],
+      "ans": 0,
+      "subject": "Maths"
+    }
+  ]
+}
