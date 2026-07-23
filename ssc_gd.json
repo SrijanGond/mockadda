@@ -203,6 +203,32 @@
           "subject": "Polity"
         }
       ]
+    },
+    {
+      "id": "ssc_gd_4",
+      "title": "SSC GD Mock Test 4",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What legislative item is expected to be taken up during the Monsoon session of Parliament 2026 as per NDA strategy discussions?",
+          "q_hi": "NDA रणनीति चर्चा के अनुसार, संसद 2026 के मानसून सत्र के दौरान कौन सा विधायी मामला उठाए जाने की संभावना है?",
+          "opts": [
+            "Farm Laws Repeal Bill",
+            "Women's Reservation Bill and Delimitation Bill",
+            "Citizenship Amendment Act Implementation",
+            "Uniform Civil Code"
+          ],
+          "opts_hi": [
+            "कृषि कानून निरसन विधेयक",
+            "महिला आरक्षण विधेयक और परिसीमन विधेयक",
+            "नागरिकता संशोधन अधिनियम कार्यान्वयन",
+            "समान नागरिक संहिता"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        }
+      ]
     }
   ]
 }
