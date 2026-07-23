@@ -1201,6 +1201,32 @@
           "subject": "Science"
         }
       ]
+    },
+    {
+      "id": "rrb_group_d_22",
+      "title": "RRB Group D Mock Test 22",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "How many strategic agreements were signed between India and Indonesia during PM Modi's visit in July 2026?",
+          "q_hi": "जुलाई 2026 में पीएम मोदी की यात्रा के दौरान भारत और इंडोनेशिया के बीच कितने रणनीतिक समझौतों पर हस्ताक्षर किए गए?",
+          "opts": [
+            "10",
+            "12",
+            "14",
+            "16"
+          ],
+          "opts_hi": [
+            "10",
+            "12",
+            "14",
+            "16"
+          ],
+          "ans": 2,
+          "subject": "Current Affairs"
+        }
+      ]
     }
   ]
 }
