@@ -2765,6 +2765,68 @@
           "subject": "Geography"
         }
       ]
+    },
+    {
+      "id": "rrb_ntpc_33",
+      "title": "RRB NTPC Mock Test 33",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which missile system did India agree to export to Indonesia during the July 2026 bilateral meeting?",
+          "q_hi": "जुलाई 2026 की द्विपक्षीय बैठक के दौरान भारत ने इंडोनेशिया को कौन सी मिसाइल प्रणाली निर्यात करने पर सहमति व्यक्त की?",
+          "opts": [
+            "Prithvi",
+            "BrahMos and Astra",
+            "Agni",
+            "Akash"
+          ],
+          "opts_hi": [
+            "पृथ्वी",
+            "ब्रह्मोस और अस्त्र",
+            "अग्नि",
+            "आकाश"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Who is the current Chief of Naval Staff of India as of July 2026?",
+          "q_hi": "जुलाई 2026 तक भारत के वर्तमान नौसेना प्रमुख कौन हैं?",
+          "opts": [
+            "Admiral Dinesh Tripathi",
+            "Admiral R. Hari Kumar",
+            "Admiral Karambir Singh",
+            "Admiral Sunil Lanba"
+          ],
+          "opts_hi": [
+            "एडमिरल दिनेश त्रिपाठी",
+            "एडमिरल आर. हरि कुमार",
+            "एडमिरल करमबीर सिंह",
+            "एडमिरल सुनील लांबा"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Which bank paid the highest dividend to the Government of India for FY26 among the four PSBs?",
+          "q_hi": "चार PSB में से किस बैंक ने FY26 के लिए भारत सरकार को सबसे अधिक लाभांश का भुगतान किया?",
+          "opts": [
+            "Bank of Baroda",
+            "Punjab National Bank",
+            "Canara Bank",
+            "Indian Bank"
+          ],
+          "opts_hi": [
+            "बैंक ऑफ बड़ौदा",
+            "पंजाब नेशनल बैंक",
+            "केनरा बैंक",
+            "इंडियन बैंक"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        }
+      ]
     }
   ]
 }
