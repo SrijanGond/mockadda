@@ -211,6 +211,32 @@
           "subject": "Current Affairs"
         }
       ]
+    },
+    {
+      "id": "up_police_constable_5",
+      "title": "UP Police Constable Mock Test 5",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which state's Chief Secretary was appointed as the new CEO of NITI Aayog?",
+          "q_hi": "NITI Aayog के नए CEO के रूप में किस राज्य के मुख्य सचिव को नियुक्त किया गया?",
+          "opts": [
+            "Madhya Pradesh",
+            "Uttar Pradesh",
+            "Gujarat",
+            "Maharashtra"
+          ],
+          "opts_hi": [
+            "मध्य प्रदेश",
+            "उत्तर प्रदेश",
+            "गुजरात",
+            "महाराष्ट्र"
+          ],
+          "ans": 0,
+          "subject": "Current Affairs"
+        }
+      ]
     }
   ]
 }
