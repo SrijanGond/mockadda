@@ -1638,6 +1638,68 @@
           "subject": "Polity"
         }
       ]
+    },
+    {
+      "id": "sbi_po_27",
+      "title": "SBI PO Mock Test 27",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which Uttar Pradesh town was renamed as 'Parashurampuri' by the state cabinet in July 2026?",
+          "q_hi": "जुलाई 2026 में उत्तर प्रदेश कैबिनेट ने किस कस्बे का नाम बदलकर 'परशुरामपुरी' कर दिया?",
+          "opts": [
+            "Jalalabad",
+            "Faizabad",
+            "Allahabad",
+            "Mughalsarai"
+          ],
+          "opts_hi": [
+            "जलालाबाद",
+            "फैजाबाद",
+            "इलाहाबाद",
+            "मुगलसराय"
+          ],
+          "ans": 0,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Which fruit from Haryana received the Geographical Indication (GI) Tag in July 2026?",
+          "q_hi": "जुलाई 2026 में हरियाणा के किस फल को भौगोलिक संकेत (GI) टैग मिला?",
+          "opts": [
+            "Kinnow",
+            "Mango",
+            "Guava",
+            "Litchi"
+          ],
+          "opts_hi": [
+            "किन्नू",
+            "आम",
+            "अमरूद",
+            "लीची"
+          ],
+          "ans": 0,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "The Samudra Shakti bilateral exercise is conducted between the navies of India and which country?",
+          "q_hi": "समुद्र शक्ति द्विपक्षीय अभ्यास भारत और किस देश की नौसेनाओं के बीच आयोजित किया जाता है?",
+          "opts": [
+            "Malaysia",
+            "Indonesia",
+            "Vietnam",
+            "Thailand"
+          ],
+          "opts_hi": [
+            "मलेशिया",
+            "इंडोनेशिया",
+            "वियतनाम",
+            "थाईलैंड"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        }
+      ]
     }
   ]
 }
