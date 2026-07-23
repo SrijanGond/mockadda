@@ -1541,6 +1541,32 @@
           "subject": "General Knowledge"
         }
       ]
+    },
+    {
+      "id": "ctet_24",
+      "title": "CTET Mock Test 24",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Prime Minister Modi announced the establishment of which mechanism to ensure speedy trial of paper leak cases?",
+          "q_hi": "प्रधानमंत्री मोदी ने पेपर लीक मामलों की शीघ्र सुनवाई सुनिश्चित करने के लिए किस तंत्र की स्थापना की घोषणा की?",
+          "opts": [
+            "Fast-Track Courts",
+            "Special Investigation Teams",
+            "Central Vigilance Commission",
+            "National Examination Authority"
+          ],
+          "opts_hi": [
+            "फास्ट-ट्रैक कोर्ट",
+            "विशेष जांच दल",
+            "केंद्रीय सतर्कता आयोग",
+            "राष्ट्रीय परीक्षा प्राधिकरण"
+          ],
+          "ans": 0,
+          "subject": "Current Affairs"
+        }
+      ]
     }
   ]
 }
