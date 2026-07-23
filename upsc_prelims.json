@@ -3958,6 +3958,32 @@
           "subject": "Science"
         }
       ]
+    },
+    {
+      "id": "upsc_prelims_37",
+      "title": "UPSC Prelims Mock Test 37",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Bangladesh and China signed an agreement for which river project in July 2026?",
+          "q_hi": "जुलाई 2026 में बांग्लादेश और चीन ने किस नदी परियोजना के लिए समझौते पर हस्ताक्षर किए?",
+          "opts": [
+            "Ganga",
+            "Brahmaputra",
+            "Teesta",
+            "Padma"
+          ],
+          "opts_hi": [
+            "गंगा",
+            "ब्रह्मपुत्र",
+            "तीस्ता",
+            "पद्मा"
+          ],
+          "ans": 2,
+          "subject": "Current Affairs"
+        }
+      ]
     }
   ]
 }
