@@ -1345,6 +1345,32 @@
           "subject": "Current Affairs"
         }
       ]
+    },
+    {
+      "id": "ibps_po_22",
+      "title": "IBPS PO Mock Test 22",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "India's Sports Minister Mansukh Mandaviya met with which Commonwealth official on the sidelines of the Commonwealth Sports Ministers' Meeting in Glasgow?",
+          "q_hi": "ग्लासगो में राष्ट्रमंडल खेल मंत्रियों की बैठक के दौरान भारत के खेल मंत्री मनसुख मांडविया ने किस राष्ट्रमंडल अधिकारी से मुलाकात की?",
+          "opts": [
+            "Shirley Ayorkor Botchwey",
+            "Patricia Scotland",
+            "Richard Beattie",
+            "Alison James"
+          ],
+          "opts_hi": [
+            "शर्ली अयोरकोर बॉटचवे",
+            "पेट्रीसिया स्कॉटलैंड",
+            "रिचर्ड बीटी",
+            "एलिसन जेम्स"
+          ],
+          "ans": 0,
+          "subject": "Current Affairs"
+        }
+      ]
     }
   ]
 }
