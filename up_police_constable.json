@@ -185,6 +185,32 @@
           "subject": "History"
         }
       ]
+    },
+    {
+      "id": "up_police_constable_4",
+      "title": "UP Police Constable Mock Test 4",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "The Aastha Van Sanrakshan Yojana was launched with what initial corpus for 2026-31?",
+          "q_hi": "आस्था वन संरक्षण योजना 2026-31 के लिए कितने प्रारंभिक कोष के साथ शुरू की गई?",
+          "opts": [
+            "₹1,000 crore",
+            "₹2,000 crore",
+            "₹3,000 crore",
+            "₹5,000 crore"
+          ],
+          "opts_hi": [
+            "₹1,000 करोड़",
+            "₹2,000 करोड़",
+            "₹3,000 करोड़",
+            "₹5,000 करोड़"
+          ],
+          "ans": 2,
+          "subject": "Current Affairs"
+        }
+      ]
     }
   ]
 }
