@@ -1503,6 +1503,50 @@
           "subject": "Current Affairs"
         }
       ]
+    },
+    {
+      "id": "sbi_clerk_26",
+      "title": "SBI Clerk Mock Test 26",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What is the name of the Central Sector umbrella scheme by the Ministry of Culture to promote and preserve India's heritage?",
+          "q_hi": "भारत की विरासत को बढ़ावा देने और संरक्षित करने के लिए संस्कृति मंत्रालय की केंद्रीय क्षेत्र की छत्र योजना का क्या नाम है?",
+          "opts": [
+            "Kala Sanskriti Vikas Yojana",
+            "Rashtriya Sanskriti Mahotsav",
+            "Tagore Cultural Complex Scheme",
+            "Intangible Heritage Protection Scheme"
+          ],
+          "opts_hi": [
+            "कला संस्कृति विकास योजना",
+            "राष्ट्रीय संस्कृति महोत्सव",
+            "टैगोर सांस्कृतिक परिसर योजना",
+            "अमूर्त विरासत संरक्षण योजना"
+          ],
+          "ans": 0,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "What is the target output (in lakh bales) for India's cotton sector under the Mission for Cotton Productivity (2026-31)?",
+          "q_hi": "मिशन फॉर कॉटन प्रोडक्टिविटी (2026-31) के तहत भारत के कपास क्षेत्र के लिए लक्ष्य उत्पादन (लाख गांठों में) क्या है?",
+          "opts": [
+            "297 lakh bales",
+            "350 lakh bales",
+            "400 lakh bales",
+            "498 lakh bales"
+          ],
+          "opts_hi": [
+            "297 लाख गांठें",
+            "350 लाख गांठें",
+            "400 लाख गांठें",
+            "498 लाख गांठें"
+          ],
+          "ans": 3,
+          "subject": "Current Affairs"
+        }
+      ]
     }
   ]
 }
