@@ -790,6 +790,50 @@
           "subject": "Current Affairs"
         }
       ]
+    },
+    {
+      "id": "ssc_mts_5",
+      "title": "SSC MTS Mock Test 5",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which new economic index did the Ministry of Statistics announce it would launch within months in July 2026?",
+          "q_hi": "जुलाई 2026 में सांख्यिकी मंत्रालय ने किस नए आर्थिक सूचकांक को महीनों के भीतर लॉन्च करने की घोषणा की?",
+          "opts": [
+            "Index of Industrial Production",
+            "Index of Services Production",
+            "Consumer Price Index",
+            "Wholesale Price Index"
+          ],
+          "opts_hi": [
+            "औद्योगिक उत्पादन सूचकांक",
+            "सेवाएँ उत्पादन सूचकांक",
+            "उपभोक्ता मूल्य सूचकांक",
+            "थोक मूल्य सूचकांक"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Which state will host the Khelo India Youth Games (KIYG) 2026 edition?",
+          "q_hi": "Khelo India Youth Games (KIYG) 2026 संस्करण की मेजबानी कौन सा राज्य करेगा?",
+          "opts": [
+            "Tamil Nadu",
+            "Telangana",
+            "Bihar",
+            "West Bengal"
+          ],
+          "opts_hi": [
+            "तमिलनाडु",
+            "तेलंगाना",
+            "बिहार",
+            "पश्चिम बंगाल"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        }
+      ]
     }
   ]
 }
