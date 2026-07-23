@@ -746,6 +746,50 @@
           "subject": "Geography"
         }
       ]
+    },
+    {
+      "id": "ssc_mts_4",
+      "title": "SSC MTS Mock Test 4",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which public sector bank inaugurated its IFSC Banking Unit at GIFT City, Gandhinagar in July 2026?",
+          "q_hi": "जुलाई 2026 में किस सार्वजनिक क्षेत्र के बैंक ने गिफ्ट सिटी, गांधीनगर में अपनी IFSC बैंकिंग इकाई का उद्घाटन किया?",
+          "opts": [
+            "Bank of Baroda",
+            "Punjab National Bank",
+            "Canara Bank",
+            "Indian Bank"
+          ],
+          "opts_hi": [
+            "बैंक ऑफ बड़ौदा",
+            "पंजाब नेशनल बैंक",
+            "केनरा बैंक",
+            "इंडियन बैंक"
+          ],
+          "ans": 0,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "According to July 2026 current affairs, the Digital India Programme completed how many years on 1 July 2026?",
+          "q_hi": "जुलाई 2026 करंट अफेयर्स के अनुसार, डिजिटल इंडिया कार्यक्रम ने 1 जुलाई 2026 को कितने वर्ष पूरे किए?",
+          "opts": [
+            "8 years",
+            "9 years",
+            "10 years",
+            "11 years"
+          ],
+          "opts_hi": [
+            "8 वर्ष",
+            "9 वर्ष",
+            "10 वर्ष",
+            "11 वर्ष"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        }
+      ]
     }
   ]
 }
