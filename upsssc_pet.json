@@ -167,6 +167,32 @@
           "subject": "Polity"
         }
       ]
+    },
+    {
+      "id": "upsssc_pet_4",
+      "title": "UPSSSC PET Mock Test 4",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which Ethernet-based network protocol was recently inaugurated for Indian Standard Time distribution?",
+          "q_hi": "भारतीय मानक समय वितरण के लिए हाल ही में किस Ethernet-आधारित नेटवर्क प्रोटोकॉल का उद्घाटन किया गया?",
+          "opts": [
+            "White Rabbit",
+            "Black Bird",
+            "Red Fox",
+            "Blue Whale"
+          ],
+          "opts_hi": [
+            "व्हाइट रैबिट",
+            "ब्लैक बर्ड",
+            "रेड फॉक्स",
+            "ब्लू व्हेल"
+          ],
+          "ans": 0,
+          "subject": "Current Affairs"
+        }
+      ]
     }
   ]
 }
