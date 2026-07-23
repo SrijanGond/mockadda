@@ -1105,6 +1105,50 @@
           "subject": "History"
         }
       ]
+    },
+    {
+      "id": "ssc_chsl_4",
+      "title": "SSC CHSL Mock Test 4",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "The Appointments Committee of the Cabinet approved new heads for which police organizations in July 2026?",
+          "q_hi": "जुलाई 2026 में मंत्रिमंडल की नियुक्ति समिति ने किन पुलिस संगठनों के लिए नए प्रमुखों को मंजूरी दी?",
+          "opts": [
+            "BPR&D, NCRB, SVPNPA",
+            "CBI, IB, RAW",
+            "BSF, CRPF, ITBP",
+            "NSG, NIA, CISF"
+          ],
+          "opts_hi": [
+            "बीपीआरएंडडी, एनसीआरबी, एसवीपीएनपीए",
+            "सीबीआई, आईबी, रॉ",
+            "बीएसएफ, सीआरपीएफ, आईटीबीपी",
+            "एनएसजी, एनआईए, सीआईएसएफ"
+          ],
+          "ans": 0,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Sanjeev Jain was appointed as India's Ambassador to which country in July 2026?",
+          "q_hi": "जुलाई 2026 में संजीव जैन को भारत का राजदूत किस देश में नियुक्त किया गया?",
+          "opts": [
+            "North Korea",
+            "South Korea",
+            "Japan",
+            "China"
+          ],
+          "opts_hi": [
+            "उत्तर कोरिया",
+            "दक्षिण कोरिया",
+            "जापान",
+            "चीन"
+          ],
+          "ans": 0,
+          "subject": "Current Affairs"
+        }
+      ]
     }
   ]
 }
