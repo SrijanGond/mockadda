@@ -1567,6 +1567,32 @@
           "subject": "Current Affairs"
         }
       ]
+    },
+    {
+      "id": "ctet_25",
+      "title": "CTET Mock Test 25",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What is the name of the proposed Bill that seeks to extend statutory protection to the national song Vande Mataram?",
+          "q_hi": "राष्ट्रीय गीत वंदे मातरम् को वैधानिक संरक्षण देने वाला प्रस्तावित विधेयक का क्या नाम है?",
+          "opts": [
+            "National Song Protection Bill",
+            "Prevention of Insults to National Honour (Amendment) Bill, 2026",
+            "National Heritage Protection Bill",
+            "Vande Mataram Act"
+          ],
+          "opts_hi": [
+            "राष्ट्रीय गीत संरक्षण विधेयक",
+            "राष्ट्रीय सम्मान के अपमान की रोकथाम (संशोधन) विधेयक, 2026",
+            "राष्ट्रीय विरासत संरक्षण विधेयक",
+            "वंदे मातरम् अधिनियम"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        }
+      ]
     }
   ]
 }
