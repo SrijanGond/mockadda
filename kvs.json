@@ -1257,6 +1257,32 @@
           "subject": "Economy"
         }
       ]
+    },
+    {
+      "id": "kvs_20",
+      "title": "KVS Mock Test 20",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What is the name of the protest movement that emerged in July 2026 demanding the resignation of the Education Minister over exam paper leaks?",
+          "q_hi": "जुलाई 2026 में परीक्षा पेपर लीक पर शिक्षा मंत्री के इस्तीफे की मांग को लेकर उभरा विरोध आंदोलन का क्या नाम है?",
+          "opts": [
+            "Youth for Justice",
+            "Cockroach Janta Party (CJP)",
+            "Students' Rights Movement",
+            "Exam Reform Alliance"
+          ],
+          "opts_hi": [
+            "यूथ फॉर जस्टिस",
+            "कॉकरोच जनता पार्टी (CJP)",
+            "स्टूडेंट्स राइट्स मूवमेंट",
+            "एग्जाम रिफॉर्म अलायंस"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        }
+      ]
     }
   ]
 }
