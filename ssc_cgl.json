@@ -5755,6 +5755,50 @@
           "subject": "Current Affairs"
         }
       ]
+    },
+    {
+      "id": "ssc_cgl_25",
+      "title": "SSC CGL Mock Test 25",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which film won the Best Feature Film award at the 72nd National Film Awards announced in July 2026?",
+          "q_hi": "जुलाई 2026 में घोषित 72वें राष्ट्रीय फिल्म पुरस्कारों में किस फिल्म ने सर्वश्रेष्ठ फीचर फिल्म का पुरस्कार जीता?",
+          "opts": [
+            "Kalki 2898 AD",
+            "Amaran",
+            "Article 370",
+            "Chandu Champion"
+          ],
+          "opts_hi": [
+            "कल्कि 2898 AD",
+            "अमरन",
+            "आर्टिकल 370",
+            "चंदू चैंपियन"
+          ],
+          "ans": 2,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "According to the RBI's July 2026 Bulletin, what was the headline CPI inflation for June 2026?",
+          "q_hi": "RBI के जुलाई 2026 बुलेटिन के अनुसार, जून 2026 के लिए मुख्य CPI मुद्रास्फीति क्या थी?",
+          "opts": [
+            "0.039",
+            "0.04",
+            "0.044",
+            "0.052"
+          ],
+          "opts_hi": [
+            "0.039",
+            "0.04",
+            "0.044",
+            "0.052"
+          ],
+          "ans": 2,
+          "subject": "Current Affairs"
+        }
+      ]
     }
   ]
 }
