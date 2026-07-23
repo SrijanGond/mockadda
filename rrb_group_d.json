@@ -1227,6 +1227,32 @@
           "subject": "Current Affairs"
         }
       ]
+    },
+    {
+      "id": "rrb_group_d_23",
+      "title": "RRB Group D Mock Test 23",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "What is the objective of NITI Aayog's Investment Friendliness Index (IFI) 2026?",
+          "q_hi": "NITI Aayog के Investment Friendliness Index (IFI) 2026 का उद्देश्य क्या है?",
+          "opts": [
+            "To rank states by GDP growth",
+            "To assess investment ecosystems and identify policy gaps",
+            "To measure agricultural productivity",
+            "To evaluate education outcomes"
+          ],
+          "opts_hi": [
+            "जीडीपी विकास दर के आधार पर राज्यों को रैंक करना",
+            "निवेश पारिस्थितिकी तंत्र का आकलन करना और नीतिगत अंतराल की पहचान करना",
+            "कृषि उत्पादकता मापना",
+            "शिक्षा परिणामों का मूल्यांकन करना"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        }
+      ]
     }
   ]
 }
