@@ -1477,6 +1477,32 @@
           "subject": "History"
         }
       ]
+    },
+    {
+      "id": "sbi_clerk_25",
+      "title": "SBI Clerk Mock Test 25",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "Which Indian conservationists received the Whitley Award (popularly called the 'Green Oscar') in July 2026?",
+          "q_hi": "जुलाई 2026 में किन भारतीय संरक्षणवादियों को व्हिटली पुरस्कार (जिसे लोकप्रिय रूप से 'ग्रीन ऑस्कर' कहा जाता है) मिला?",
+          "opts": [
+            "Not specified in available sources",
+            "Not specified",
+            "Not specified",
+            "Not specified"
+          ],
+          "opts_hi": [
+            "उपलब्ध स्रोतों में निर्दिष्ट नहीं",
+            "निर्दिष्ट नहीं",
+            "निर्दिष्ट नहीं",
+            "निर्दिष्ट नहीं"
+          ],
+          "ans": 0,
+          "subject": "Current Affairs"
+        }
+      ]
     }
   ]
 }
