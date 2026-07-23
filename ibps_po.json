@@ -1301,6 +1301,50 @@
           "subject": "Polity"
         }
       ]
+    },
+    {
+      "id": "ibps_po_21",
+      "title": "IBPS PO Mock Test 21",
+      "duration": 10,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "q": "ISRO successfully conducted the first static ground test of which solid motor for the Gaganyaan mission in July 2026?",
+          "q_hi": "जुलाई 2026 में ISRO ने गगनयान मिशन के लिए किस ठोस मोटर का पहला स्टैटिक ग्राउंड टेस्ट सफलतापूर्वक किया?",
+          "opts": [
+            "SOLVE",
+            "CE-20",
+            "Vikas",
+            "S200"
+          ],
+          "opts_hi": [
+            "SOLVE",
+            "CE-20",
+            "विकास",
+            "S200"
+          ],
+          "ans": 0,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "The 73rd Constitutional Amendment is related to which of the following?",
+          "q_hi": "73वां संवैधानिक संशोधन निम्नलिखित में से किससे संबंधित है?",
+          "opts": [
+            "Rural Local Bodies",
+            "Urban Local Bodies",
+            "Fundamental Duties",
+            "Emergency Provisions"
+          ],
+          "opts_hi": [
+            "ग्रामीण स्थानीय निकाय",
+            "नगरीय स्थानीय निकाय",
+            "मूल कर्तव्य",
+            "आपातकालीन प्रावधान"
+          ],
+          "ans": 0,
+          "subject": "Current Affairs"
+        }
+      ]
     }
   ]
 }
