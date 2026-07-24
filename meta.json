@@ -78,121 +78,37 @@
             "questionCount": 25
           }
         ]
-      },      "ssc_mts": {
+      },            "ssc_mts": {
         "name": "SSC MTS",
         "fullname": "Staff Selection Commission Multi Tasking Staff",
         "tests": [
           {
             "id": "ssc_mts_1",
-            "title": "SSC MTS Mock Test 1",
-            "duration": 10,
-            "difficulty": "Easy",
-            "questionCount": 10
+            "title": "SSC MTS Full Mock Test 1 (Session I + II)",
+            "duration": 90,
+            "difficulty": "Medium",
+            "questionCount": 40
           },
           {
             "id": "ssc_mts_2",
-            "title": "SSC MTS Mock Test 2",
-            "duration": 10,
+            "title": "SSC MTS Full Mock Test 2 (Session I + II)",
+            "duration": 90,
             "difficulty": "Medium",
-            "questionCount": 1
+            "questionCount": 40
           },
           {
             "id": "ssc_mts_3",
-            "title": "SSC MTS Mock Test 3",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
+            "title": "SSC MTS Full Mock Test 3 (Session I + II)",
+            "duration": 90,
+            "difficulty": "Hard",
+            "questionCount": 40
           },
           {
             "id": "ssc_mts_4",
-            "title": "SSC MTS Mock Test 4",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "ssc_mts_5",
-            "title": "SSC MTS Mock Test 5",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "ssc_mts_6",
-            "title": "SSC MTS Mock Test 6",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "ssc_mts_7",
-            "title": "SSC MTS Mock Test 7",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
-          },
-          {
-            "id": "ssc_mts_8",
-            "title": "SSC MTS Mock Test 8",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
-          },
-          {
-            "id": "ssc_mts_9",
-            "title": "SSC MTS Mock Test 9",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "ssc_mts_10",
-            "title": "SSC MTS Mock Test 10",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "ssc_mts_11",
-            "title": "SSC MTS Mock Test 11",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "ssc_mts_12",
-            "title": "SSC MTS Mock Test 12",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 3
-          },
-          {
-            "id": "ssc_mts_13",
-            "title": "SSC MTS Mock Test 13",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
-          },
-          {
-            "id": "ssc_mts_14",
-            "title": "SSC MTS Mock Test 14",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
-          },
-          {
-            "id": "ssc_mts_15",
-            "title": "SSC MTS Mock Test 15",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 4
-          },
-          {
-            "id": "ssc_mts_16",
-            "title": "SSC MTS Mock Test 16",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 4
+            "title": "SSC MTS Full Mock Test 4 (Session I + II)",
+            "duration": 90,
+            "difficulty": "Hard",
+            "questionCount": 40
           }
         ]
       },
