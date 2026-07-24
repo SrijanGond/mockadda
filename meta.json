@@ -42,7 +42,7 @@
             "duration": 29,
             "difficulty": "Medium",
             "questionCount": 24
-          },
+          }
         ]
       },
       "ssc_chsl": {
@@ -181,34 +181,6 @@
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 1
-          },
-          {
-            "id": "ssc_chsl_2",
-            "title": "SSC CHSL Mock Test 2",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "ssc_chsl_3",
-            "title": "SSC CHSL Mock Test 3",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "ssc_chsl_4",
-            "title": "SSC CHSL Mock Test 4",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
-          },
-          {
-            "id": "ssc_chsl_5",
-            "title": "SSC CHSL Mock Test 5",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
           }
         ]
       },
@@ -327,34 +299,6 @@
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 4
-          },
-          {
-            "id": "ssc_mts_2",
-            "title": "SSC MTS Mock Test 2",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "ssc_mts_3",
-            "title": "SSC MTS Mock Test 3",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "ssc_mts_4",
-            "title": "SSC MTS Mock Test 4",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
-          },
-          {
-            "id": "ssc_mts_5",
-            "title": "SSC MTS Mock Test 5",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
           }
         ]
       },
@@ -377,29 +321,29 @@
             "questionCount": 25
           },
           {
-            "id": "ssc_gd_1",
-            "title": "SSC GD Mock Test 1",
+            "id": "ssc_gd_3",
+            "title": "SSC GD Mock Test 3",
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 6
           },
           {
-            "id": "ssc_gd_2",
-            "title": "SSC GD Mock Test 2",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
-          },
-          {
-            "id": "ssc_gd_3",
-            "title": "SSC GD Mock Test 3",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
-          },
-          {
             "id": "ssc_gd_4",
             "title": "SSC GD Mock Test 4",
+            "duration": 10,
+            "difficulty": "Medium",
+            "questionCount": 2
+          },
+          {
+            "id": "ssc_gd_5",
+            "title": "SSC GD Mock Test 5",
+            "duration": 10,
+            "difficulty": "Medium",
+            "questionCount": 2
+          },
+          {
+            "id": "ssc_gd_6",
+            "title": "SSC GD Mock Test 6",
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 1
@@ -544,22 +488,22 @@
             "questionCount": 3
           },
           {
-            "id": "sbi_po_26",
-            "title": "SBI PO Mock Test 26",
+            "id": "sbi_po_19",
+            "title": "SBI PO Mock Test 19",
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 3
           },
           {
-            "id": "sbi_po_27",
-            "title": "SBI PO Mock Test 27",
+            "id": "sbi_po_20",
+            "title": "SBI PO Mock Test 20",
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 3
           },
           {
-            "id": "sbi_po_28",
-            "title": "SBI PO Mock Test 28",
+            "id": "sbi_po_21",
+            "title": "SBI PO Mock Test 21",
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 4
@@ -683,22 +627,22 @@
             "questionCount": 3
           },
           {
-            "id": "ibps_po_20",
-            "title": "IBPS PO Mock Test 20",
+            "id": "ibps_po_17",
+            "title": "IBPS PO Mock Test 17",
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 2
           },
           {
-            "id": "ibps_po_21",
-            "title": "IBPS PO Mock Test 21",
+            "id": "ibps_po_18",
+            "title": "IBPS PO Mock Test 18",
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 2
           },
           {
-            "id": "ibps_po_22",
-            "title": "IBPS PO Mock Test 22",
+            "id": "ibps_po_19",
+            "title": "IBPS PO Mock Test 19",
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 1
@@ -822,22 +766,22 @@
             "questionCount": 2
           },
           {
-            "id": "sbi_clerk_24",
-            "title": "SBI Clerk Mock Test 24",
+            "id": "sbi_clerk_17",
+            "title": "SBI Clerk Mock Test 17",
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 1
           },
           {
-            "id": "sbi_clerk_25",
-            "title": "SBI Clerk Mock Test 25",
+            "id": "sbi_clerk_18",
+            "title": "SBI Clerk Mock Test 18",
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 1
           },
           {
-            "id": "sbi_clerk_26",
-            "title": "SBI Clerk Mock Test 26",
+            "id": "sbi_clerk_19",
+            "title": "SBI Clerk Mock Test 19",
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 2
@@ -975,29 +919,29 @@
             "questionCount": 3
           },
           {
-            "id": "rrb_ntpc_31",
-            "title": "RRB NTPC Mock Test 31",
+            "id": "rrb_ntpc_18",
+            "title": "RRB NTPC Mock Test 18",
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 1
           },
           {
-            "id": "rrb_ntpc_32",
-            "title": "RRB NTPC Mock Test 32",
+            "id": "rrb_ntpc_19",
+            "title": "RRB NTPC Mock Test 19",
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 1
           },
           {
-            "id": "rrb_ntpc_33",
-            "title": "RRB NTPC Mock Test 33",
+            "id": "rrb_ntpc_20",
+            "title": "RRB NTPC Mock Test 20",
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 3
           },
           {
-            "id": "rrb_ntpc_34",
-            "title": "RRB NTPC Mock Test 34",
+            "id": "rrb_ntpc_21",
+            "title": "RRB NTPC Mock Test 21",
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 1
@@ -1107,22 +1051,22 @@
             "questionCount": 2
           },
           {
-            "id": "rrb_group_d_21",
-            "title": "RRB Group D Mock Test 21",
+            "id": "rrb_group_d_15",
+            "title": "RRB Group D Mock Test 15",
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 1
           },
           {
-            "id": "rrb_group_d_22",
-            "title": "RRB Group D Mock Test 22",
+            "id": "rrb_group_d_16",
+            "title": "RRB Group D Mock Test 16",
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 1
           },
           {
-            "id": "rrb_group_d_23",
-            "title": "RRB Group D Mock Test 23",
+            "id": "rrb_group_d_17",
+            "title": "RRB Group D Mock Test 17",
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 1
@@ -1253,15 +1197,15 @@
             "questionCount": 2
           },
           {
-            "id": "ctet_24",
-            "title": "CTET Mock Test 24",
+            "id": "ctet_17",
+            "title": "CTET Mock Test 17",
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 1
           },
           {
-            "id": "ctet_25",
-            "title": "CTET Mock Test 25",
+            "id": "ctet_18",
+            "title": "CTET Mock Test 18",
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 1
@@ -1371,22 +1315,22 @@
             "questionCount": 1
           },
           {
-            "id": "kvs_18",
-            "title": "KVS Mock Test 18",
+            "id": "kvs_15",
+            "title": "KVS Mock Test 15",
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 4
           },
           {
-            "id": "kvs_19",
-            "title": "KVS Mock Test 19",
+            "id": "kvs_16",
+            "title": "KVS Mock Test 16",
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 1
           },
           {
-            "id": "kvs_20",
-            "title": "KVS Mock Test 20",
+            "id": "kvs_17",
+            "title": "KVS Mock Test 17",
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 1
@@ -1545,29 +1489,29 @@
             "questionCount": 2
           },
           {
-            "id": "upsc_prelims_35",
-            "title": "UPSC Prelims Mock Test 35",
+            "id": "upsc_pre_21",
+            "title": "UPSC Prelims Mock Test 21",
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 1
           },
           {
-            "id": "upsc_prelims_36",
-            "title": "UPSC Prelims Mock Test 36",
+            "id": "upsc_pre_22",
+            "title": "UPSC Prelims Mock Test 22",
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 4
           },
           {
-            "id": "upsc_prelims_37",
-            "title": "UPSC Prelims Mock Test 37",
+            "id": "upsc_pre_23",
+            "title": "UPSC Prelims Mock Test 23",
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 1
           },
           {
-            "id": "upsc_prelims_38",
-            "title": "UPSC Prelims Mock Test 38",
+            "id": "upsc_pre_24",
+            "title": "UPSC Prelims Mock Test 24",
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 1
@@ -1712,22 +1656,22 @@
             "questionCount": 2
           },
           {
-            "id": "roaro_prelims_22",
-            "title": "RO/ARO Prelims Mock Test 22",
+            "id": "roaro_pre_19",
+            "title": "RO/ARO Prelims Mock Test 19",
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 1
           },
           {
-            "id": "roaro_prelims_23",
-            "title": "RO/ARO Prelims Mock Test 23",
+            "id": "roaro_pre_20",
+            "title": "RO/ARO Prelims Mock Test 20",
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 2
           },
           {
-            "id": "roaro_prelims_24",
-            "title": "RO/ARO Prelims Mock Test 24",
+            "id": "roaro_pre_21",
+            "title": "RO/ARO Prelims Mock Test 21",
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 1
@@ -1753,18 +1697,11 @@
             "questionCount": 100
           },
           {
-            "id": "up_police_constable_1",
-            "title": "UP Police Constable Mock Test 1",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 7
-          },
-          {
             "id": "up_police_constable_2",
             "title": "UP Police Constable Mock Test 2",
             "duration": 10,
             "difficulty": "Medium",
-            "questionCount": 1
+            "questionCount": 7
           },
           {
             "id": "up_police_constable_3",
@@ -1783,6 +1720,13 @@
           {
             "id": "up_police_constable_5",
             "title": "UP Police Constable Mock Test 5",
+            "duration": 10,
+            "difficulty": "Medium",
+            "questionCount": 1
+          },
+          {
+            "id": "up_police_constable_6",
+            "title": "UP Police Constable Mock Test 6",
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 1
@@ -1808,29 +1752,29 @@
             "questionCount": 100
           },
           {
-            "id": "upsssc_pet_1",
-            "title": "UPSSSC PET Mock Test 1",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 5
-          },
-          {
             "id": "upsssc_pet_2",
             "title": "UPSSSC PET Mock Test 2",
             "duration": 10,
             "difficulty": "Medium",
-            "questionCount": 1
+            "questionCount": 5
           },
           {
             "id": "upsssc_pet_3",
             "title": "UPSSSC PET Mock Test 3",
             "duration": 10,
             "difficulty": "Medium",
-            "questionCount": 2
+            "questionCount": 1
           },
           {
             "id": "upsssc_pet_4",
             "title": "UPSSSC PET Mock Test 4",
+            "duration": 10,
+            "difficulty": "Medium",
+            "questionCount": 2
+          },
+          {
+            "id": "upsssc_pet_5",
+            "title": "UPSSSC PET Mock Test 5",
             "duration": 10,
             "difficulty": "Medium",
             "questionCount": 1
