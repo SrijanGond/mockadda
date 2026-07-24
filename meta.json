@@ -45,146 +45,40 @@
           }
         ]
       },
-      "ssc_chsl": {
+            "ssc_chsl": {
         "name": "SSC CHSL",
         "fullname": "Staff Selection Commission Combined Higher Secondary Level",
         "tests": [
           {
             "id": "ssc_chsl_1",
-            "title": "SSC CHSL Mock Test 1",
-            "duration": 15,
-            "difficulty": "Easy",
-            "questionCount": 10
+            "title": "SSC CHSL Full Mock Test 1 (Tier 1 Pattern)",
+            "duration": 60,
+            "difficulty": "Medium",
+            "questionCount": 25
           },
           {
             "id": "ssc_chsl_2",
-            "title": "SSC CHSL Mock Test 2",
-            "duration": 10,
+            "title": "SSC CHSL Full Mock Test 2 (Tier 1 Pattern)",
+            "duration": 60,
             "difficulty": "Medium",
-            "questionCount": 2
+            "questionCount": 25
           },
           {
             "id": "ssc_chsl_3",
-            "title": "SSC CHSL Mock Test 3",
-            "duration": 10,
+            "title": "SSC CHSL Full Mock Test 3 (Tier 1 Pattern)",
+            "duration": 60,
             "difficulty": "Medium",
-            "questionCount": 1
+            "questionCount": 25
           },
           {
             "id": "ssc_chsl_4",
-            "title": "SSC CHSL Mock Test 4",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 3
-          },
-          {
-            "id": "ssc_chsl_5",
-            "title": "SSC CHSL Mock Test 5",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "ssc_chsl_6",
-            "title": "SSC CHSL Mock Test 6",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
-          },
-          {
-            "id": "ssc_chsl_7",
-            "title": "SSC CHSL Mock Test 7",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 4
-          },
-          {
-            "id": "ssc_chsl_8",
-            "title": "SSC CHSL Mock Test 8",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
-          },
-          {
-            "id": "ssc_chsl_9",
-            "title": "SSC CHSL Mock Test 9",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "ssc_chsl_10",
-            "title": "SSC CHSL Mock Test 10",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 5
-          },
-          {
-            "id": "ssc_chsl_11",
-            "title": "SSC CHSL Mock Test 11",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 4
-          },
-          {
-            "id": "ssc_chsl_12",
-            "title": "SSC CHSL Mock Test 12",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 3
-          },
-          {
-            "id": "ssc_chsl_13",
-            "title": "SSC CHSL Mock Test 13",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
-          },
-          {
-            "id": "ssc_chsl_14",
-            "title": "SSC CHSL Mock Test 14",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 3
-          },
-          {
-            "id": "ssc_chsl_15",
-            "title": "SSC CHSL Mock Test 15",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 3
-          },
-          {
-            "id": "ssc_chsl_16",
-            "title": "SSC CHSL Mock Test 16",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 4
-          },
-          {
-            "id": "ssc_chsl_17",
-            "title": "SSC CHSL Mock Test 17",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 3
-          },
-          {
-            "id": "ssc_chsl_18",
-            "title": "SSC CHSL Mock Test 18",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 4
-          },
-          {
-            "id": "ssc_chsl_19",
-            "title": "SSC CHSL Mock Test 19",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
+            "title": "SSC CHSL Full Mock Test 4 (Tier 1 Pattern)",
+            "duration": 60,
+            "difficulty": "Hard",
+            "questionCount": 25
           }
         ]
-      },
-      "ssc_mts": {
+      },      "ssc_mts": {
         "name": "SSC MTS",
         "fullname": "Staff Selection Commission Multi Tasking Staff",
         "tests": [
