@@ -2,9 +2,9 @@
   "tests": [
     {
       "id": "ssc_chsl_1",
-      "title": "SSC CHSL Mock Test 1",
-      "duration": 15,
-      "difficulty": "Easy",
+      "title": "SSC CHSL Full Mock Test 1 (Tier 1 Pattern)",
+      "duration": 60,
+      "difficulty": "Medium",
       "correctMarks": 2,
       "negativeMarks": 0.5,
       "questions": [
@@ -33,6 +33,62 @@
           "subject": "General Intelligence"
         },
         {
+          "q": "Complete the series: A, C, F, J, ?",
+          "q_hi": "श्रृंखला पूरी करें: A, C, F, J, ?",
+          "opts": ["O", "P", "Q", "R"],
+          "opts_hi": ["O", "P", "Q", "R"],
+          "ans": 0,
+          "subject": "General Intelligence"
+        },
+        {
+          "q": "Select the correct option: 8 : 512 :: 7 : ?",
+          "q_hi": "सही विकल्प चुनें: 8 : 512 :: 7 : ?",
+          "opts": ["343", "349", "280", "324"],
+          "opts_hi": ["343", "349", "280", "324"],
+          "ans": 0,
+          "subject": "General Intelligence"
+        },
+        {
+          "q": "Find the odd one out: Apple, Orange, Mango, Potato",
+          "q_hi": "विषम ज्ञात करें: Apple, Orange, Mango, Potato",
+          "opts": ["Apple", "Orange", "Mango", "Potato"],
+          "opts_hi": ["Apple", "Orange", "Mango", "Potato"],
+          "ans": 3,
+          "subject": "General Intelligence"
+        },
+        {
+          "q": "Select the odd one: 3, 6, 9, 12, 15, 18, 21, 24, 27, 30, 33, 36, 39, 42, 45, 48, 51, 54, 57, 60, 63, 66, 69, 72, 75, 78, 81, 84, 87, 90, 93, 96, 99, 102, 105",
+          "q_hi": "विषम चुनें: 3, 6, 9, 12, 15, 18, 21, 24, 27, 30, 33, 36, 39, 42, 45, 48, 51, 54, 57, 60, 63, 66, 69, 72, 75, 78, 81, 84, 87, 90, 93, 96, 99, 102, 105",
+          "opts": ["102", "99", "96", "None, all are multiples of 3"],
+          "opts_hi": ["102", "99", "96", "कोई नहीं, सभी 3 के गुणज हैं"],
+          "ans": 3,
+          "subject": "General Intelligence"
+        },
+        {
+          "q": "Find the odd one out: 11, 22, 33, 44, 55, 66, 77, 88, 99, 110, 121, 132, 143, 154, 165, 176, 187, 198, 209, 220, 231, 242, 253, 264, 275, 286, 297, 308, 319, 330",
+          "q_hi": "विषम ज्ञात करें: 11, 22, 33, 44, 55, 66, 77, 88, 99, 110, 121, 132, 143, 154, 165, 176, 187, 198, 209, 220, 231, 242, 253, 264, 275, 286, 297, 308, 319, 330",
+          "opts": ["330", "319", "308", "None, all are multiples of 11"],
+          "opts_hi": ["330", "319", "308", "कोई नहीं, सभी 11 के गुणज हैं"],
+          "ans": 3,
+          "subject": "General Intelligence"
+        },
+        {
+          "q": "Find the odd one out: Car, Bus, Train, Bicycle",
+          "q_hi": "विषम ज्ञात करें: Car, Bus, Train, Bicycle",
+          "opts": ["Car", "Bus", "Train", "Bicycle"],
+          "opts_hi": ["Car", "Bus", "Train", "Bicycle"],
+          "ans": 2,
+          "subject": "General Intelligence"
+        },
+        {
+          "q": "Select the correct option: 2, 3, 5, 7, 11, ?",
+          "q_hi": "सही विकल्प चुनें: 2, 3, 5, 7, 11, ?",
+          "opts": ["12", "13", "14", "15"],
+          "opts_hi": ["12", "13", "14", "15"],
+          "ans": 1,
+          "subject": "General Intelligence"
+        },
+        {
           "q": "Which of the following is the capital of France?",
           "q_hi": "निम्नलिखित में से फ्रांस की राजधानी कौन सी है?",
           "opts": ["London", "Paris", "Berlin", "Madrid"],
@@ -49,6 +105,70 @@
           "subject": "General Awareness"
         },
         {
+          "q": "Who wrote the national anthem of India?",
+          "q_hi": "भारत का राष्ट्रगान किसने लिखा?",
+          "opts": ["Rabindranath Tagore", "Bankim Chandra", "Subhash Chandra Bose", "Mahatma Gandhi"],
+          "opts_hi": ["रवीन्द्रनाथ टैगोर", "बंकिम चंद्र", "सुभाष चंद्र बोस", "महात्मा गांधी"],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which of the following is NOT a type of computer memory?",
+          "q_hi": "निम्नलिखित में से कौन सा कंप्यूटर मेमोरी का प्रकार नहीं है?",
+          "opts": ["RAM", "ROM", "CPU", "Cache"],
+          "opts_hi": ["RAM", "ROM", "CPU", "Cache"],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which planet is nearest to the Sun?",
+          "q_hi": "सूर्य के सबसे निकट ग्रह कौन सा है?",
+          "opts": ["Venus", "Earth", "Mercury", "Mars"],
+          "opts_hi": ["शुक्र", "पृथ्वी", "बुध", "मंगल"],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "What is the full form of CPU?",
+          "q_hi": "CPU का पूर्ण रूप क्या है?",
+          "opts": ["Central Processing Unit", "Computer Processing Unit", "Central Program Unit", "Computer Program Unit"],
+          "opts_hi": ["सेंट्रल प्रोसेसिंग यूनिट", "कंप्यूटर प्रोसेसिंग यूनिट", "सेंट्रल प्रोग्राम यूनिट", "कंप्यूटर प्रोग्राम यूनिट"],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "What is the capital of Australia?",
+          "q_hi": "ऑस्ट्रेलिया की राजधानी क्या है?",
+          "opts": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+          "opts_hi": ["सिडनी", "मेलबर्न", "कैनबरा", "ब्रिस्बेन"],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which gas is used in fire extinguishers?",
+          "q_hi": "अग्निशामक यंत्रों में कौन सी गैस का उपयोग किया जाता है?",
+          "opts": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+          "opts_hi": ["ऑक्सीजन", "कार्बन डाइऑक्साइड", "नाइट्रोजन", "हाइड्रोजन"],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The currency of Japan is:",
+          "q_hi": "जापान की मुद्रा है:",
+          "opts": ["Yuan", "Won", "Yen", "Ringgit"],
+          "opts_hi": ["युआन", "वोन", "येन", "रिंगित"],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which country has the largest population?",
+          "q_hi": "किस देश की जनसंख्या सबसे अधिक है?",
+          "opts": ["India", "China", "USA", "Indonesia"],
+          "opts_hi": ["भारत", "चीन", "यूएसए", "इंडोनेशिया"],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
           "q": "What is the square root of 144?",
           "q_hi": "144 का वर्गमूल क्या है?",
           "opts": ["10", "11", "12", "13"],
@@ -62,6 +182,200 @@
           "opts": ["10", "11", "12", "13"],
           "opts_hi": ["10", "11", "12", "13"],
           "ans": 3,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "What is 25% of 200?",
+          "q_hi": "200 का 25% कितना है?",
+          "opts": ["25", "50", "75", "100"],
+          "opts_hi": ["25", "50", "75", "100"],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Complete the series: 1, 4, 9, 16, ?",
+          "q_hi": "श्रृंखला पूरी करें: 1, 4, 9, 16, ?",
+          "opts": ["20", "21", "22", "25"],
+          "opts_hi": ["20", "21", "22", "25"],
+          "ans": 3,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "If 3x + 5 = 20, find x.",
+          "q_hi": "यदि 3x + 5 = 20 है, तो x ज्ञात करें।",
+          "opts": ["3", "4", "5", "6"],
+          "opts_hi": ["3", "4", "5", "6"],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        }
+      ]
+    },
+    {
+      "id": "ssc_chsl_2",
+      "title": "SSC CHSL Full Mock Test 2 (Tier 1 Pattern)",
+      "duration": 60,
+      "difficulty": "Medium",
+      "correctMarks": 2,
+      "negativeMarks": 0.5,
+      "questions": [
+        {
+          "q": "What comes next in the series: 2, 6, 12, 20, ?",
+          "q_hi": "श्रृंखला में आगे क्या आएगा: 2, 6, 12, 20, ?",
+          "opts": ["26", "28", "30", "32"],
+          "opts_hi": ["26", "28", "30", "32"],
+          "ans": 2,
+          "subject": "General Intelligence"
+        },
+        {
+          "q": "Find the value of 7 + 8 × 2 - 5.",
+          "q_hi": "7 + 8 × 2 - 5 का मान ज्ञात करें।",
+          "opts": ["17", "18", "19", "20"],
+          "opts_hi": ["17", "18", "19", "20"],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "What is the sum of angles in a triangle?",
+          "q_hi": "त्रिभुज के कोणों का योग कितना होता है?",
+          "opts": ["90°", "180°", "270°", "360°"],
+          "opts_hi": ["90°", "180°", "270°", "360°"],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Find the value of 2^3 + 3^2.",
+          "q_hi": "2^3 + 3^2 का मान ज्ञात करें।",
+          "opts": ["15", "17", "19", "21"],
+          "opts_hi": ["15", "17", "19", "21"],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "If 2a + 3b = 12 and a = 3, find b.",
+          "q_hi": "यदि 2a + 3b = 12 और a = 3 है, तो b ज्ञात करें।",
+          "opts": ["1", "2", "3", "4"],
+          "opts_hi": ["1", "2", "3", "4"],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "What is the square of 15?",
+          "q_hi": "15 का वर्ग क्या है?",
+          "opts": ["215", "225", "235", "245"],
+          "opts_hi": ["215", "225", "235", "245"],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "If x - 5 = 10, find x.",
+          "q_hi": "यदि x - 5 = 10 है, तो x ज्ञात करें।",
+          "opts": ["10", "12", "14", "15"],
+          "opts_hi": ["10", "12", "14", "15"],
+          "ans": 3,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "What is the value of 5 × (2 + 3)?",
+          "q_hi": "5 × (2 + 3) का मान क्या है?",
+          "opts": ["15", "20", "25", "30"],
+          "opts_hi": ["15", "20", "25", "30"],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Complete the series: 3, 6, 12, 24, ?",
+          "q_hi": "श्रृंखला पूरी करें: 3, 6, 12, 24, ?",
+          "opts": ["36", "40", "48", "50"],
+          "opts_hi": ["36", "40", "48", "50"],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "What is 10% of 500?",
+          "q_hi": "500 का 10% कितना है?",
+          "opts": ["25", "50", "75", "100"],
+          "opts_hi": ["25", "50", "75", "100"],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Which of the following is a primary color?",
+          "q_hi": "निम्नलिखित में से कौन सा प्राथमिक रंग है?",
+          "opts": ["Red", "Green", "Yellow", "All of the above"],
+          "opts_hi": ["लाल", "हरा", "पीला", "उपरोक्त सभी"],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which state is known as the 'Land of Five Rivers'?",
+          "q_hi": "'पाँच नदियों की भूमि' के रूप में कौन सा राज्य जाना जाता है?",
+          "opts": ["Punjab", "Haryana", "Rajasthan", "Uttar Pradesh"],
+          "opts_hi": ["पंजाब", "हरियाणा", "राजस्थान", "उत्तर प्रदेश"],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "What is the chemical symbol of Gold?",
+          "q_hi": "सोने का रासायनिक प्रतीक क्या है?",
+          "opts": ["Ag", "Au", "Fe", "Cu"],
+          "opts_hi": ["Ag", "Au", "Fe", "Cu"],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which is the largest desert in the world?",
+          "q_hi": "विश्व का सबसे बड़ा रेगिस्तान कौन सा है?",
+          "opts": ["Sahara", "Gobi", "Kalahari", "Atacama"],
+          "opts_hi": ["सहारा", "गोबी", "कालाहारी", "अटाकामा"],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The 'Nobel Prize' is awarded in how many categories?",
+          "q_hi": "'नोबेल पुरस्कार' कितनी श्रेणियों में प्रदान किया जाता है?",
+          "opts": ["4", "5", "6", "7"],
+          "opts_hi": ["4", "5", "6", "7"],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which gas is known as 'Laughing Gas'?",
+          "q_hi": "किस गैस को 'लाफिंग गैस' के नाम से जाना जाता है?",
+          "opts": ["Oxygen", "Nitrogen", "Nitrous Oxide", "Hydrogen"],
+          "opts_hi": ["ऑक्सीजन", "नाइट्रोजन", "नाइट्रस ऑक्साइड", "हाइड्रोजन"],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which is the longest river in India?",
+          "q_hi": "भारत की सबसे लंबी नदी कौन सी है?",
+          "opts": ["Ganga", "Brahmaputra", "Godavari", "Yamuna"],
+          "opts_hi": ["गंगा", "ब्रह्मपुत्र", "गोदावरी", "यमुना"],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which of the following is a metal?",
+          "q_hi": "निम्नलिखित में से कौन सा धातु है?",
+          "opts": ["Oxygen", "Gold", "Carbon", "Nitrogen"],
+          "opts_hi": ["ऑक्सीजन", "सोना", "कार्बन", "नाइट्रोजन"],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Find the odd one out: 1, 4, 9, 16, 25, 36, 49, 64, 81, 100, 121, 144, 169, 196, 225",
+          "q_hi": "विषम चुनें: 1, 4, 9, 16, 25, 36, 49, 64, 81, 100, 121, 144, 169, 196, 225",
+          "opts": ["225", "196", "169", "None, all are perfect squares"],
+          "opts_hi": ["225", "196", "169", "कोई नहीं, सभी पूर्ण वर्ग हैं"],
+          "ans": 3,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Complete the series: 2, 4, 8, 16, ?",
+          "q_hi": "श्रृंखला पूरी करें: 2, 4, 8, 16, ?",
+          "opts": ["24", "30", "32", "36"],
+          "opts_hi": ["24", "30", "32", "36"],
+          "ans": 2,
           "subject": "Quantitative Aptitude"
         },
         {
@@ -87,232 +401,6 @@
           "opts_hi": ["tall", "taller", "tallest", "more tall"],
           "ans": 1,
           "subject": "English Language"
-        }
-      ]
-    },
-    {
-      "id": "ssc_chsl_2",
-      "title": "SSC CHSL Mock Test 2",
-      "duration": 10,
-      "difficulty": "Medium",
-      "correctMarks": 2,
-      "negativeMarks": 0.5,
-      "questions": [
-        {
-          "q": "Select the correct option: 8 : 512 :: 7 : ?",
-          "q_hi": "सही विकल्प चुनें: 8 : 512 :: 7 : ?",
-          "opts": ["343", "349", "280", "324"],
-          "opts_hi": ["343", "349", "280", "324"],
-          "ans": 0,
-          "subject": "General Intelligence"
-        },
-        {
-          "q": "Who wrote the national anthem of India?",
-          "q_hi": "भारत का राष्ट्रगान किसने लिखा?",
-          "opts": ["Rabindranath Tagore", "Bankim Chandra", "Subhash Chandra Bose", "Mahatma Gandhi"],
-          "opts_hi": ["रवीन्द्रनाथ टैगोर", "बंकिम चंद्र", "सुभाष चंद्र बोस", "महात्मा गांधी"],
-          "ans": 0,
-          "subject": "General Awareness"
-        }
-      ]
-    },
-    {
-      "id": "ssc_chsl_3",
-      "title": "SSC CHSL Mock Test 3",
-      "duration": 10,
-      "difficulty": "Medium",
-      "correctMarks": 2,
-      "negativeMarks": 0.5,
-      "questions": [
-        {
-          "q": "Which of the following is NOT a type of computer memory?",
-          "q_hi": "निम्नलिखित में से कौन सा कंप्यूटर मेमोरी का प्रकार नहीं है?",
-          "opts": ["RAM", "ROM", "CPU", "Cache"],
-          "opts_hi": ["RAM", "ROM", "CPU", "Cache"],
-          "ans": 2,
-          "subject": "General Awareness"
-        }
-      ]
-    },
-    {
-      "id": "ssc_chsl_4",
-      "title": "SSC CHSL Mock Test 4",
-      "duration": 10,
-      "difficulty": "Medium",
-      "correctMarks": 2,
-      "negativeMarks": 0.5,
-      "questions": [
-        {
-          "q": "What is 25% of 200?",
-          "q_hi": "200 का 25% कितना है?",
-          "opts": ["25", "50", "75", "100"],
-          "opts_hi": ["25", "50", "75", "100"],
-          "ans": 1,
-          "subject": "Quantitative Aptitude"
-        },
-        {
-          "q": "Find the odd one out: Apple, Orange, Mango, Potato",
-          "q_hi": "विषम ज्ञात करें: Apple, Orange, Mango, Potato",
-          "opts": ["Apple", "Orange", "Mango", "Potato"],
-          "opts_hi": ["Apple", "Orange", "Mango", "Potato"],
-          "ans": 3,
-          "subject": "General Intelligence"
-        },
-        {
-          "q": "What is the plural of 'Child'?",
-          "q_hi": "'Child' का बहुवचन क्या है?",
-          "opts": ["Childs", "Children", "Childes", "Childen"],
-          "opts_hi": ["Childs", "Children", "Childes", "Childen"],
-          "ans": 1,
-          "subject": "English Language"
-        }
-      ]
-    },
-    {
-      "id": "ssc_chsl_5",
-      "title": "SSC CHSL Mock Test 5",
-      "duration": 10,
-      "difficulty": "Medium",
-      "correctMarks": 2,
-      "negativeMarks": 0.5,
-      "questions": [
-        {
-          "q": "Which planet is nearest to the Sun?",
-          "q_hi": "सूर्य के सबसे निकट ग्रह कौन सा है?",
-          "opts": ["Venus", "Earth", "Mercury", "Mars"],
-          "opts_hi": ["शुक्र", "पृथ्वी", "बुध", "मंगल"],
-          "ans": 2,
-          "subject": "General Awareness"
-        }
-      ]
-    },
-    {
-      "id": "ssc_chsl_6",
-      "title": "SSC CHSL Mock Test 6",
-      "duration": 10,
-      "difficulty": "Medium",
-      "correctMarks": 2,
-      "negativeMarks": 0.5,
-      "questions": [
-        {
-          "q": "Complete the series: 1, 4, 9, 16, ?",
-          "q_hi": "श्रृंखला पूरी करें: 1, 4, 9, 16, ?",
-          "opts": ["20", "21", "22", "25"],
-          "opts_hi": ["20", "21", "22", "25"],
-          "ans": 3,
-          "subject": "Quantitative Aptitude"
-        },
-        {
-          "q": "Select the correct meaning of 'Benevolent'.",
-          "q_hi": "'Benevolent' का सही अर्थ चुनें।",
-          "opts": ["Cruel", "Kind", "Angry", "Sad"],
-          "opts_hi": ["क्रूर", "दयालु", "क्रोधित", "उदास"],
-          "ans": 1,
-          "subject": "English Language"
-        }
-      ]
-    },
-    {
-      "id": "ssc_chsl_7",
-      "title": "SSC CHSL Mock Test 7",
-      "duration": 10,
-      "difficulty": "Medium",
-      "correctMarks": 2,
-      "negativeMarks": 0.5,
-      "questions": [
-        {
-          "q": "What is the full form of CPU?",
-          "q_hi": "CPU का पूर्ण रूप क्या है?",
-          "opts": ["Central Processing Unit", "Computer Processing Unit", "Central Program Unit", "Computer Program Unit"],
-          "opts_hi": ["सेंट्रल प्रोसेसिंग यूनिट", "कंप्यूटर प्रोसेसिंग यूनिट", "सेंट्रल प्रोग्राम यूनिट", "कंप्यूटर प्रोग्राम यूनिट"],
-          "ans": 0,
-          "subject": "General Awareness"
-        },
-        {
-          "q": "If 3x + 5 = 20, find x.",
-          "q_hi": "यदि 3x + 5 = 20 है, तो x ज्ञात करें।",
-          "opts": ["3", "4", "5", "6"],
-          "opts_hi": ["3", "4", "5", "6"],
-          "ans": 2,
-          "subject": "Quantitative Aptitude"
-        },
-        {
-          "q": "Which of the following is an example of a proper noun?",
-          "q_hi": "निम्नलिखित में से कौन सा एक व्यक्तिवाचक संज्ञा का उदाहरण है?",
-          "opts": ["City", "Country", "India", "River"],
-          "opts_hi": ["City", "Country", "India", "River"],
-          "ans": 2,
-          "subject": "English Language"
-        },
-        {
-          "q": "What comes next in the series: 2, 6, 12, 20, ?",
-          "q_hi": "श्रृंखला में आगे क्या आएगा: 2, 6, 12, 20, ?",
-          "opts": ["26", "28", "30", "32"],
-          "opts_hi": ["26", "28", "30", "32"],
-          "ans": 2,
-          "subject": "Quantitative Aptitude"
-        }
-      ]
-    },
-    {
-      "id": "ssc_chsl_8",
-      "title": "SSC CHSL Mock Test 8",
-      "duration": 10,
-      "difficulty": "Medium",
-      "correctMarks": 2,
-      "negativeMarks": 0.5,
-      "questions": [
-        {
-          "q": "What is the capital of Australia?",
-          "q_hi": "ऑस्ट्रेलिया की राजधानी क्या है?",
-          "opts": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
-          "opts_hi": ["सिडनी", "मेलबर्न", "कैनबरा", "ब्रिस्बेन"],
-          "ans": 2,
-          "subject": "General Awareness"
-        },
-        {
-          "q": "Find the value of 7 + 8 × 2 - 5.",
-          "q_hi": "7 + 8 × 2 - 5 का मान ज्ञात करें।",
-          "opts": ["17", "18", "19", "20"],
-          "opts_hi": ["17", "18", "19", "20"],
-          "ans": 1,
-          "subject": "Quantitative Aptitude"
-        }
-      ]
-    },
-    {
-      "id": "ssc_chsl_9",
-      "title": "SSC CHSL Mock Test 9",
-      "duration": 10,
-      "difficulty": "Medium",
-      "correctMarks": 2,
-      "negativeMarks": 0.5,
-      "questions": [
-        {
-          "q": "Which gas is used in fire extinguishers?",
-          "q_hi": "अग्निशामक यंत्रों में कौन सी गैस का उपयोग किया जाता है?",
-          "opts": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
-          "opts_hi": ["ऑक्सीजन", "कार्बन डाइऑक्साइड", "नाइट्रोजन", "हाइड्रोजन"],
-          "ans": 1,
-          "subject": "General Awareness"
-        }
-      ]
-    },
-    {
-      "id": "ssc_chsl_10",
-      "title": "SSC CHSL Mock Test 10",
-      "duration": 10,
-      "difficulty": "Medium",
-      "correctMarks": 2,
-      "negativeMarks": 0.5,
-      "questions": [
-        {
-          "q": "Select the odd one: 3, 6, 9, 12, 15, 18, 21, 24, 27, 30, 33, 36, 39, 42, 45, 48, 51, 54, 57, 60, 63, 66, 69, 72, 75, 78, 81, 84, 87, 90, 93, 96, 99, 102, 105",
-          "q_hi": "विषम चुनें: 3, 6, 9, 12, 15, 18, 21, 24, 27, 30, 33, 36, 39, 42, 45, 48, 51, 54, 57, 60, 63, 66, 69, 72, 75, 78, 81, 84, 87, 90, 93, 96, 99, 102, 105",
-          "opts": ["102", "99", "96", "None, all are multiples of 3"],
-          "opts_hi": ["102", "99", "96", "कोई नहीं, सभी 3 के गुणज हैं"],
-          "ans": 3,
-          "subject": "Quantitative Aptitude"
         },
         {
           "q": "What is the meaning of 'Diligent'?",
@@ -323,156 +411,12 @@
           "subject": "English Language"
         },
         {
-          "q": "Find the odd one out: 11, 22, 33, 44, 55, 66, 77, 88, 99, 110, 121, 132, 143, 154, 165, 176, 187, 198, 209, 220, 231, 242, 253, 264, 275, 286, 297, 308, 319, 330",
-          "q_hi": "विषम ज्ञात करें: 11, 22, 33, 44, 55, 66, 77, 88, 99, 110, 121, 132, 143, 154, 165, 176, 187, 198, 209, 220, 231, 242, 253, 264, 275, 286, 297, 308, 319, 330",
-          "opts": ["330", "319", "308", "None, all are multiples of 11"],
-          "opts_hi": ["330", "319", "308", "कोई नहीं, सभी 11 के गुणज हैं"],
-          "ans": 3,
-          "subject": "Quantitative Aptitude"
-        },
-        {
-          "q": "Which of the following is a primary color?",
-          "q_hi": "निम्नलिखित में से कौन सा प्राथमिक रंग है?",
-          "opts": ["Red", "Green", "Yellow", "All of the above"],
-          "opts_hi": ["लाल", "हरा", "पीला", "उपरोक्त सभी"],
-          "ans": 0,
-          "subject": "General Awareness"
-        },
-        {
-          "q": "What is 10% of 500?",
-          "q_hi": "500 का 10% कितना है?",
-          "opts": ["25", "50", "75", "100"],
-          "opts_hi": ["25", "50", "75", "100"],
-          "ans": 1,
-          "subject": "Quantitative Aptitude"
-        }
-      ]
-    },
-    {
-      "id": "ssc_chsl_11",
-      "title": "SSC CHSL Mock Test 11",
-      "duration": 10,
-      "difficulty": "Medium",
-      "correctMarks": 2,
-      "negativeMarks": 0.5,
-      "questions": [
-        {
-          "q": "Complete the series: A, C, F, J, ?",
-          "q_hi": "श्रृंखला पूरी करें: A, C, F, J, ?",
-          "opts": ["O", "P", "Q", "R"],
-          "opts_hi": ["O", "P", "Q", "R"],
-          "ans": 0,
-          "subject": "General Intelligence"
-        },
-        {
-          "q": "The currency of Japan is:",
-          "q_hi": "जापान की मुद्रा है:",
-          "opts": ["Yuan", "Won", "Yen", "Ringgit"],
-          "opts_hi": ["युआन", "वोन", "येन", "रिंगित"],
-          "ans": 2,
-          "subject": "General Awareness"
-        },
-        {
-          "q": "What is the sum of angles in a triangle?",
-          "q_hi": "त्रिभुज के कोणों का योग कितना होता है?",
-          "opts": ["90°", "180°", "270°", "360°"],
-          "opts_hi": ["90°", "180°", "270°", "360°"],
-          "ans": 1,
-          "subject": "Quantitative Aptitude"
-        },
-        {
-          "q": "Select the correct word: She is _______ beautiful girl.",
-          "q_hi": "सही शब्द चुनें: She is _______ beautiful girl.",
-          "opts": ["a", "an", "the", "no article"],
-          "opts_hi": ["a", "an", "the", "no article"],
-          "ans": 0,
-          "subject": "English Language"
-        }
-      ]
-    },
-    {
-      "id": "ssc_chsl_12",
-      "title": "SSC CHSL Mock Test 12",
-      "duration": 10,
-      "difficulty": "Medium",
-      "correctMarks": 2,
-      "negativeMarks": 0.5,
-      "questions": [
-        {
-          "q": "Which is the longest river in India?",
-          "q_hi": "भारत की सबसे लंबी नदी कौन सी है?",
-          "opts": ["Ganga", "Brahmaputra", "Godavari", "Yamuna"],
-          "opts_hi": ["गंगा", "ब्रह्मपुत्र", "गोदावरी", "यमुना"],
-          "ans": 0,
-          "subject": "General Awareness"
-        },
-        {
-          "q": "Find the value of 2^3 + 3^2.",
-          "q_hi": "2^3 + 3^2 का मान ज्ञात करें।",
-          "opts": ["15", "17", "19", "21"],
-          "opts_hi": ["15", "17", "19", "21"],
-          "ans": 1,
-          "subject": "Quantitative Aptitude"
-        },
-        {
           "q": "What is the synonym of 'Fast'?",
           "q_hi": "'Fast' का पर्यायवाची शब्द क्या है?",
           "opts": ["Slow", "Quick", "Lazy", "Calm"],
           "opts_hi": ["धीमा", "त्वरित", "आलसी", "शांत"],
           "ans": 1,
           "subject": "English Language"
-        }
-      ]
-    },
-    {
-      "id": "ssc_chsl_13",
-      "title": "SSC CHSL Mock Test 13",
-      "duration": 10,
-      "difficulty": "Medium",
-      "correctMarks": 2,
-      "negativeMarks": 0.5,
-      "questions": [
-        {
-          "q": "Which of the following is a metal?",
-          "q_hi": "निम्नलिखित में से कौन सा धातु है?",
-          "opts": ["Oxygen", "Gold", "Carbon", "Nitrogen"],
-          "opts_hi": ["ऑक्सीजन", "सोना", "कार्बन", "नाइट्रोजन"],
-          "ans": 1,
-          "subject": "General Awareness"
-        },
-        {
-          "q": "If 2a + 3b = 12 and a = 3, find b.",
-          "q_hi": "यदि 2a + 3b = 12 और a = 3 है, तो b ज्ञात करें।",
-          "opts": ["1", "2", "3", "4"],
-          "opts_hi": ["1", "2", "3", "4"],
-          "ans": 1,
-          "subject": "Quantitative Aptitude"
-        }
-      ]
-    },
-    {
-      "id": "ssc_chsl_14",
-      "title": "SSC CHSL Mock Test 14",
-      "duration": 10,
-      "difficulty": "Medium",
-      "correctMarks": 2,
-      "negativeMarks": 0.5,
-      "questions": [
-        {
-          "q": "Find the odd one: 1, 4, 9, 16, 25, 36, 49, 64, 81, 100, 121, 144, 169, 196, 225",
-          "q_hi": "विषम चुनें: 1, 4, 9, 16, 25, 36, 49, 64, 81, 100, 121, 144, 169, 196, 225",
-          "opts": ["225", "196", "169", "None, all are perfect squares"],
-          "opts_hi": ["225", "196", "169", "कोई नहीं, सभी पूर्ण वर्ग हैं"],
-          "ans": 3,
-          "subject": "Quantitative Aptitude"
-        },
-        {
-          "q": "Which state is known as the 'Land of Five Rivers'?",
-          "q_hi": "'पाँच नदियों की भूमि' के रूप में कौन सा राज्य जाना जाता है?",
-          "opts": ["Punjab", "Haryana", "Rajasthan", "Uttar Pradesh"],
-          "opts_hi": ["पंजाब", "हरियाणा", "राजस्थान", "उत्तर प्रदेश"],
-          "ans": 0,
-          "subject": "General Awareness"
         },
         {
           "q": "What is the correct meaning of 'Abundant'?",
@@ -485,28 +429,44 @@
       ]
     },
     {
-      "id": "ssc_chsl_15",
-      "title": "SSC CHSL Mock Test 15",
-      "duration": 10,
+      "id": "ssc_chsl_3",
+      "title": "SSC CHSL Full Mock Test 3 (Tier 1 Pattern)",
+      "duration": 60,
       "difficulty": "Medium",
       "correctMarks": 2,
       "negativeMarks": 0.5,
       "questions": [
         {
-          "q": "What is the chemical symbol of Gold?",
-          "q_hi": "सोने का रासायनिक प्रतीक क्या है?",
-          "opts": ["Ag", "Au", "Fe", "Cu"],
-          "opts_hi": ["Ag", "Au", "Fe", "Cu"],
-          "ans": 1,
-          "subject": "General Awareness"
+          "q": "Select the correct word: She is _______ beautiful girl.",
+          "q_hi": "सही शब्द चुनें: She is _______ beautiful girl.",
+          "opts": ["a", "an", "the", "no article"],
+          "opts_hi": ["a", "an", "the", "no article"],
+          "ans": 0,
+          "subject": "English Language"
         },
         {
-          "q": "Complete the series: 2, 4, 8, 16, ?",
-          "q_hi": "श्रृंखला पूरी करें: 2, 4, 8, 16, ?",
-          "opts": ["24", "30", "32", "36"],
-          "opts_hi": ["24", "30", "32", "36"],
+          "q": "What is the plural of 'Child'?",
+          "q_hi": "'Child' का बहुवचन क्या है?",
+          "opts": ["Childs", "Children", "Childes", "Childen"],
+          "opts_hi": ["Childs", "Children", "Childes", "Childen"],
+          "ans": 1,
+          "subject": "English Language"
+        },
+        {
+          "q": "Select the correct meaning of 'Benevolent'.",
+          "q_hi": "'Benevolent' का सही अर्थ चुनें।",
+          "opts": ["Cruel", "Kind", "Angry", "Sad"],
+          "opts_hi": ["क्रूर", "दयालु", "क्रोधित", "उदास"],
+          "ans": 1,
+          "subject": "English Language"
+        },
+        {
+          "q": "Which of the following is an example of a proper noun?",
+          "q_hi": "निम्नलिखित में से कौन सा एक व्यक्तिवाचक संज्ञा का उदाहरण है?",
+          "opts": ["City", "Country", "India", "River"],
+          "opts_hi": ["City", "Country", "India", "River"],
           "ans": 2,
-          "subject": "Quantitative Aptitude"
+          "subject": "English Language"
         },
         {
           "q": "Which word is correctly spelled?",
@@ -515,40 +475,6 @@
           "opts_hi": ["Neccessary", "Necessary", "Necesary", "Nessessary"],
           "ans": 1,
           "subject": "English Language"
-        }
-      ]
-    },
-    {
-      "id": "ssc_chsl_16",
-      "title": "SSC CHSL Mock Test 16",
-      "duration": 10,
-      "difficulty": "Medium",
-      "correctMarks": 2,
-      "negativeMarks": 0.5,
-      "questions": [
-        {
-          "q": "Which country has the largest population?",
-          "q_hi": "किस देश की जनसंख्या सबसे अधिक है?",
-          "opts": ["India", "China", "USA", "Indonesia"],
-          "opts_hi": ["भारत", "चीन", "यूएसए", "इंडोनेशिया"],
-          "ans": 0,
-          "subject": "General Awareness"
-        },
-        {
-          "q": "What is the square of 15?",
-          "q_hi": "15 का वर्ग क्या है?",
-          "opts": ["215", "225", "235", "245"],
-          "opts_hi": ["215", "225", "235", "245"],
-          "ans": 1,
-          "subject": "Quantitative Aptitude"
-        },
-        {
-          "q": "Find the odd one out: Car, Bus, Train, Bicycle",
-          "q_hi": "विषम ज्ञात करें: Car, Bus, Train, Bicycle",
-          "opts": ["Car", "Bus", "Train", "Bicycle"],
-          "opts_hi": ["Car", "Bus", "Train", "Bicycle"],
-          "ans": 2,
-          "subject": "General Intelligence"
         },
         {
           "q": "What is the antonym of 'Beautiful'?",
@@ -557,74 +483,6 @@
           "opts_hi": ["बदसूरत", "सुंदर", "प्यारा", "आकर्षक"],
           "ans": 0,
           "subject": "English Language"
-        }
-      ]
-    },
-    {
-      "id": "ssc_chsl_17",
-      "title": "SSC CHSL Mock Test 17",
-      "duration": 10,
-      "difficulty": "Medium",
-      "correctMarks": 2,
-      "negativeMarks": 0.5,
-      "questions": [
-        {
-          "q": "Which is the largest desert in the world?",
-          "q_hi": "विश्व का सबसे बड़ा रेगिस्तान कौन सा है?",
-          "opts": ["Sahara", "Gobi", "Kalahari", "Atacama"],
-          "opts_hi": ["सहारा", "गोबी", "कालाहारी", "अटाकामा"],
-          "ans": 0,
-          "subject": "General Awareness"
-        },
-        {
-          "q": "If x - 5 = 10, find x.",
-          "q_hi": "यदि x - 5 = 10 है, तो x ज्ञात करें।",
-          "opts": ["10", "12", "14", "15"],
-          "opts_hi": ["10", "12", "14", "15"],
-          "ans": 3,
-          "subject": "Quantitative Aptitude"
-        },
-        {
-          "q": "Select the correct option: 2, 3, 5, 7, 11, ?",
-          "q_hi": "सही विकल्प चुनें: 2, 3, 5, 7, 11, ?",
-          "opts": ["12", "13", "14", "15"],
-          "opts_hi": ["12", "13", "14", "15"],
-          "ans": 1,
-          "subject": "Quantitative Aptitude"
-        }
-      ]
-    },
-    {
-      "id": "ssc_chsl_18",
-      "title": "SSC CHSL Mock Test 18",
-      "duration": 10,
-      "difficulty": "Medium",
-      "correctMarks": 2,
-      "negativeMarks": 0.5,
-      "questions": [
-        {
-          "q": "The 'Nobel Prize' is awarded in how many categories?",
-          "q_hi": "'नोबेल पुरस्कार' कितनी श्रेणियों में प्रदान किया जाता है?",
-          "opts": ["4", "5", "6", "7"],
-          "opts_hi": ["4", "5", "6", "7"],
-          "ans": 1,
-          "subject": "General Awareness"
-        },
-        {
-          "q": "What is the value of 5 × (2 + 3)?",
-          "q_hi": "5 × (2 + 3) का मान क्या है?",
-          "opts": ["15", "20", "25", "30"],
-          "opts_hi": ["15", "20", "25", "30"],
-          "ans": 2,
-          "subject": "Quantitative Aptitude"
-        },
-        {
-          "q": "Complete the series: 3, 6, 12, 24, ?",
-          "q_hi": "श्रृंखला पूरी करें: 3, 6, 12, 24, ?",
-          "opts": ["36", "40", "48", "50"],
-          "opts_hi": ["36", "40", "48", "50"],
-          "ans": 2,
-          "subject": "Quantitative Aptitude"
         },
         {
           "q": "Which of the following is a conjunction?",
@@ -633,22 +491,358 @@
           "opts_hi": ["and", "run", "book", "fast"],
           "ans": 0,
           "subject": "English Language"
+        },
+        {
+          "q": "Select the correct option: 2, 6, 12, 20, 30, ?",
+          "q_hi": "सही विकल्प चुनें: 2, 6, 12, 20, 30, ?",
+          "opts": ["40", "42", "44", "46"],
+          "opts_hi": ["40", "42", "44", "46"],
+          "ans": 1,
+          "subject": "General Intelligence"
+        },
+        {
+          "q": "Which letter is 3rd to the right of the 10th letter from the left in the English alphabet?",
+          "q_hi": "अंग्रेजी वर्णमाला में बाएँ से 10वें अक्षर के दाएँ तीसरा अक्षर कौन सा है?",
+          "opts": ["L", "M", "N", "O"],
+          "opts_hi": ["L", "M", "N", "O"],
+          "ans": 1,
+          "subject": "General Intelligence"
+        },
+        {
+          "q": "Which number will replace the question mark (?) in the series? 2, 7, 17, 37, 77, ?",
+          "q_hi": "श्रृंखला में प्रश्न चिह्न (?) के स्थान पर कौन सी संख्या आएगी? 2, 7, 17, 37, 77, ?",
+          "opts": ["147", "157", "137", "127"],
+          "opts_hi": ["147", "157", "137", "127"],
+          "ans": 1,
+          "subject": "General Intelligence"
+        },
+        {
+          "q": "What comes next in the series? 2, 6, 18, 54, 162, ?",
+          "q_hi": "श्रृंखला में आगे क्या आएगा? 2, 6, 18, 54, 162, ?",
+          "opts": ["324", "432", "486", "540"],
+          "opts_hi": ["324", "432", "486", "540"],
+          "ans": 2,
+          "subject": "General Intelligence"
+        },
+        {
+          "q": "A person walks 10 km towards North, then turns right and walks 10 km, then turns right and walks 10 km, then turns left and walks 10 km. In which direction is he now from the starting point?",
+          "q_hi": "एक व्यक्ति उत्तर की ओर 10 किमी चलता है, फिर दाएँ मुड़ता है और 10 किमी चलता है, फिर दाएँ मुड़ता है और 10 किमी चलता है, फिर बाएँ मुड़ता है और 10 किमी चलता है। वह अब आरंभिक बिंदु से किस दिशा में है?",
+          "opts": ["North", "East", "South", "West"],
+          "opts_hi": ["उत्तर", "पूर्व", "दक्षिण", "पश्चिम"],
+          "ans": 1,
+          "subject": "General Intelligence"
+        },
+        {
+          "q": "Which letter is 3rd to the right of the 10th letter from the right in the English alphabet?",
+          "q_hi": "अंग्रेजी वर्णमाला में दाएँ से 10वें अक्षर के दाएँ तीसरा अक्षर कौन सा है?",
+          "opts": ["Q", "R", "S", "T"],
+          "opts_hi": ["Q", "R", "S", "T"],
+          "ans": 0,
+          "subject": "General Intelligence"
+        },
+        {
+          "q": "Select the option that is related to the third term in the same way as the second term is related to the first term. Earth : Planet :: Sun : ?",
+          "q_hi": "उस विकल्प का चयन करें जो तीसरे पद से उसी प्रकार संबंधित है जैसे दूसरा पद पहले पद से संबंधित है। Earth : Planet :: Sun : ?",
+          "opts": ["Star", "Galaxy", "Moon", "Satellite"],
+          "opts_hi": ["तारा", "आकाशगंगा", "चंद्रमा", "उपग्रह"],
+          "ans": 0,
+          "subject": "General Intelligence"
+        },
+        {
+          "q": "A person walks 15 km towards East, then turns left and walks 8 km, then turns left and walks 15 km. How far is he from the starting point?",
+          "q_hi": "एक व्यक्ति पूर्व की ओर 15 किमी चलता है, फिर बाएँ मुड़ता है और 8 किमी चलता है, फिर बाएँ मुड़ता है और 15 किमी चलता है। वह आरंभिक बिंदु से कितनी दूर है?",
+          "opts": ["8 km", "15 km", "17 km", "23 km"],
+          "opts_hi": ["8 किमी", "15 किमी", "17 किमी", "23 किमी"],
+          "ans": 0,
+          "subject": "General Intelligence"
+        },
+        {
+          "q": "What is the full form of CGL?",
+          "q_hi": "CGL का पूर्ण रूप क्या है?",
+          "opts": ["Combined Graduate Level", "Central Graduate Level", "Combined General Level", "Central General Level"],
+          "opts_hi": ["संयुक्त स्नातक स्तर", "केंद्रीय स्नातक स्तर", "संयुक्त सामान्य स्तर", "केंद्रीय सामान्य स्तर"],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Who appoints the Chief Justice of India?",
+          "q_hi": "भारत के मुख्य न्यायाधीश की नियुक्ति कौन करता है?",
+          "opts": ["Prime Minister", "President", "Parliament", "Supreme Court Judges"],
+          "opts_hi": ["प्रधानमंत्री", "राष्ट्रपति", "संसद", "सर्वोच्च न्यायालय के न्यायाधीश"],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "What is the SI unit of pressure?",
+          "q_hi": "दबाव की SI इकाई क्या है?",
+          "opts": ["Newton", "Pascal", "Joule", "Watt"],
+          "opts_hi": ["न्यूटन", "पास्कल", "जूल", "वाट"],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which article of Indian Constitution deals with Right to Equality?",
+          "q_hi": "भारतीय संविधान का कौन सा अनुच्छेद समानता के अधिकार से संबंधित है?",
+          "opts": ["Article 12", "Article 14", "Article 19", "Article 21"],
+          "opts_hi": ["अनुच्छेद 12", "अनुच्छेद 14", "अनुच्छेद 19", "अनुच्छेद 21"],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The Quit India Movement was launched in which year?",
+          "q_hi": "भारत छोड़ो आंदोलन किस वर्ष शुरू हुआ था?",
+          "opts": ["1940", "1941", "1942", "1943"],
+          "opts_hi": ["1940", "1941", "1942", "1943"],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which gas is used in electric bulbs?",
+          "q_hi": "विद्युत बल्बों में कौन सी गैस का उपयोग होता है?",
+          "opts": ["Oxygen", "Nitrogen", "Argon", "Hydrogen"],
+          "opts_hi": ["ऑक्सीजन", "नाइट्रोजन", "आर्गन", "हाइड्रोजन"],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "SEBI stands for?",
+          "q_hi": "SEBI का पूर्ण रूप क्या है?",
+          "opts": ["Securities Exchange Board of India", "Stock Exchange Bureau of India", "Securities and Exchange Board of India", "State Exchange Board of India"],
+          "opts_hi": ["भारतीय प्रतिभूति विनिमय बोर्ड", "स्टॉक एक्सचेंज ब्यूरो ऑफ इंडिया", "भारतीय प्रतिभूति एवं विनिमय बोर्ड", "राज्य विनिमय बोर्ड ऑफ इंडिया"],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Speed of sound in air is approximately?",
+          "q_hi": "वायु में ध्वनि की गति लगभग कितनी है?",
+          "opts": ["232 m/s", "332 m/s", "432 m/s", "532 m/s"],
+          "opts_hi": ["232 मी/से", "332 मी/से", "432 मी/से", "532 मी/से"],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "If a train travels 360 km in 4 hours, what is its speed?",
+          "q_hi": "यदि एक ट्रेन 4 घंटे में 360 किमी चलती है, तो उसकी गति क्या है?",
+          "opts": ["80 km/h", "90 km/h", "100 km/h", "85 km/h"],
+          "opts_hi": ["80 किमी/घंटा", "90 किमी/घंटा", "100 किमी/घंटा", "85 किमी/घंटा"],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "LCM of 15 and 20 is?",
+          "q_hi": "15 और 20 का लघुत्तम समापवर्त्य (LCM) है?",
+          "opts": ["40", "50", "60", "80"],
+          "opts_hi": ["40", "50", "60", "80"],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
         }
       ]
     },
     {
-      "id": "ssc_chsl_19",
-      "title": "SSC CHSL Mock Test 19",
-      "duration": 10,
-      "difficulty": "Medium",
+      "id": "ssc_chsl_4",
+      "title": "SSC CHSL Full Mock Test 4 (Tier 1 Pattern)",
+      "duration": 60,
+      "difficulty": "Hard",
       "correctMarks": 2,
       "negativeMarks": 0.5,
       "questions": [
         {
-          "q": "Which gas is known as 'Laughing Gas'?",
-          "q_hi": "किस गैस को 'लाफिंग गैस' के नाम से जाना जाता है?",
-          "opts": ["Oxygen", "Nitrogen", "Nitrous Oxide", "Hydrogen"],
-          "opts_hi": ["ऑक्सीजन", "नाइट्रोजन", "नाइट्रस ऑक्साइड", "हाइड्रोजन"],
+          "q": "If 30% of a number is 90, what is the number?",
+          "q_hi": "यदि किसी संख्या का 30% = 90 है, तो संख्या क्या है?",
+          "opts": ["270", "280", "300", "320"],
+          "opts_hi": ["270", "280", "300", "320"],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A shopkeeper sells a product for ₹840 at 20% profit. Cost price is?",
+          "q_hi": "एक दुकानदार ₹840 में 20% लाभ पर बेचता है। क्रय मूल्य क्या है?",
+          "opts": ["₹680", "₹700", "₹720", "₹750"],
+          "opts_hi": ["₹680", "₹700", "₹720", "₹750"],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "What is the HCF of 144, 180 and 192?",
+          "q_hi": "144, 180 और 192 का म.स.प. (HCF) क्या है?",
+          "opts": ["12", "24", "36", "48"],
+          "opts_hi": ["12", "24", "36", "48"],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "What is the LCM of 24, 36 and 40?",
+          "q_hi": "24, 36 और 40 का ल.स.प. (LCM) क्या है?",
+          "opts": ["360", "720", "180", "120"],
+          "opts_hi": ["360", "720", "180", "120"],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "If the angles of a triangle are in the ratio 2:3:4, what is the smallest angle?",
+          "q_hi": "यदि एक त्रिभुज के कोण 2:3:4 के अनुपात में हैं, तो सबसे छोटा कोण क्या है?",
+          "opts": ["40°", "60°", "80°", "20°"],
+          "opts_hi": ["40°", "60°", "80°", "20°"],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "What is the remainder when 2^100 is divided by 7?",
+          "q_hi": "2^100 को 7 से विभाजित करने पर शेषफल क्या है?",
+          "opts": ["1", "2", "3", "4"],
+          "opts_hi": ["1", "2", "3", "4"],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "If a:b = 2:3 and b:c = 4:5, find a:c.",
+          "q_hi": "यदि a:b = 2:3 और b:c = 4:5 है, तो a:c ज्ञात करें।",
+          "opts": ["8:12", "8:15", "2:5", "4:5"],
+          "opts_hi": ["8:12", "8:15", "2:5", "4:5"],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Synonym of 'Abundant'?",
+          "q_hi": "'Abundant' (प्रचुर) का समानार्थी शब्द?",
+          "opts": ["Scarce", "Plentiful", "Limited", "Rare"],
+          "opts_hi": ["दुर्लभ", "प्रचुर", "सीमित", "विरल"],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Antonym of 'Verbose'?",
+          "q_hi": "'Verbose' (वाचाल) का विलोम शब्द?",
+          "opts": ["Talkative", "Concise", "Elaborate", "Lengthy"],
+          "opts_hi": ["बातूनी", "संक्षिप्त", "विस्तृत", "लंबा"],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Synonym of 'Benevolent'?",
+          "q_hi": "'Benevolent' का पर्यायवाची शब्द?",
+          "opts": ["Malevolent", "Kind", "Cruel", "Angry"],
+          "opts_hi": ["Malevolent", "Kind", "Cruel", "Angry"],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Choose the correctly spelled word.",
+          "q_hi": "सही वर्तनी वाला शब्द चुनें।",
+          "opts": ["Seperate", "Separate", "Seperete", "Seprate"],
+          "opts_hi": ["Seperate", "Separate", "Seperete", "Seprate"],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Find the error in the sentence: \"The sceneries of Kashmir (A) / is very beautiful (B) / and attracts many tourists (C) / every year. (D)\"",
+          "q_hi": "वाक्य में त्रुटि ज्ञात करें: \"The sceneries of Kashmir (A) / is very beautiful (B) / and attracts many tourists (C) / every year. (D)\"",
+          "opts": ["A", "B", "C", "D"],
+          "opts_hi": ["A", "B", "C", "D"],
+          "ans": 0,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "The phrase \"To be at loggerheads\" means:",
+          "q_hi": "To be at loggerheads वाक्यांश का अर्थ है:",
+          "opts": ["To be in a romantic relationship", "To be in a state of agreement", "To be in a state of disagreement", "To be working together"],
+          "opts_hi": ["रोमांटिक रिश्ते में होना", "सहमति की स्थिति में होना", "असहमति की स्थिति में होना", "एक साथ काम करना"],
+          "ans": 2,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Fill in the blank: I am looking forward _______ you.",
+          "q_hi": "रिक्त स्थान भरें: I am looking forward _______ you.",
+          "opts": ["to meet", "to meeting", "meeting", "meet"],
+          "opts_hi": ["to meet", "to meeting", "meeting", "meet"],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Choose the correct passive voice form of: \"They are building a new mall.\"",
+          "q_hi": "का सही passive voice रूप चुनें: \"They are building a new mall.\"",
+          "opts": ["A new mall is being built by them.", "A new mall was being built by them.", "A new mall is built by them.", "A new mall was built by them."],
+          "opts_hi": ["A new mall is being built by them.", "A new mall was being built by them.", "A new mall is built by them.", "A new mall was built by them."],
+          "ans": 0,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "The word \"Diligent\" means:",
+          "q_hi": "शब्द \"Diligent\" का अर्थ है:",
+          "opts": ["Lazy", "Hardworking", "Careless", "Slow"],
+          "opts_hi": ["आलसी", "मेहनती", "लापरवाह", "धीमा"],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Choose the correct article: She is _______ best student in the class.",
+          "q_hi": "सही आर्टिकल चुनें: She is _______ best student in the class.",
+          "opts": ["a", "an", "the", "No article"],
+          "opts_hi": ["a", "an", "the", "No article"],
+          "ans": 2,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Choose the correct meaning of the idiom \"A piece of cake.\"",
+          "q_hi": "A piece of cake मुहावरे का सही अर्थ चुनें।",
+          "opts": ["Difficult task", "Very easy task", "Expensive item", "Delicious food"],
+          "opts_hi": ["कठिन कार्य", "बहुत आसान कार्य", "महंगी वस्तु", "स्वादिष्ट भोजन"],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Identify the error: \"He is one of the best student in the class.\"",
+          "q_hi": "त्रुटि पहचानें: \"He is one of the best student in the class.\"",
+          "opts": ["is", "of", "student", "in"],
+          "opts_hi": ["is", "of", "student", "in"],
+          "ans": 2,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "The phrase \"Turn a deaf ear\" means:",
+          "q_hi": "Turn a deaf ear वाक्यांश का अर्थ है:",
+          "opts": ["Listen carefully", "Pretend not to hear", "Lose hearing ability", "Speak loudly"],
+          "opts_hi": ["ध्यान से सुनना", "सुनने का नाटक करना", "सुनने की क्षमता खोना", "जोर से बोलना"],
+          "ans": 0,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Choose the synonym of \"Abundant.\"",
+          "q_hi": "Abundant का पर्यायवाची शब्द चुनें।",
+          "opts": ["Scarce", "Plentiful", "Limited", "Lacking"],
+          "opts_hi": ["दुर्लभ", "प्रचुर", "सीमित", "कमी"],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Fill in the blank: He has been waiting _______ 2 hours.",
+          "q_hi": "रिक्त स्थान भरें: He has been waiting _______ 2 hours.",
+          "opts": ["since", "for", "from", "until"],
+          "opts_hi": ["since", "for", "from", "until"],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Select the antonym of \"Genuine.\"",
+          "q_hi": "Genuine का विलोम शब्द चुनें।",
+          "opts": ["Real", "Authentic", "Fake", "Original"],
+          "opts_hi": ["Real", "Authentic", "Fake", "Original"],
+          "ans": 2,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Improve the bracketed part: She (has) a beautiful voice.",
+          "q_hi": "कोष्ठक भाग में सुधार करें: She (has) a beautiful voice.",
+          "opts": ["have", "is having", "had", "No improvement"],
+          "opts_hi": ["have", "is having", "had", "No improvement"],
+          "ans": 3,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Which of the following is the most abundant gas in the Earth's atmosphere?",
+          "q_hi": "पृथ्वी के वायुमंडल में सबसे प्रचुर मात्रा में पाई जाने वाली गैस निम्नलिखित में से कौन सी है?",
+          "opts": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Argon"],
+          "opts_hi": ["ऑक्सीजन", "कार्बन डाइऑक्साइड", "नाइट्रोजन", "आर्गन"],
           "ans": 2,
           "subject": "General Awareness"
         }
