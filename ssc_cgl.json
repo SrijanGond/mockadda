@@ -8,63 +8,1038 @@
       "correctMarks": 2,
       "negativeMarks": 0.5,
       "questions": [
-        // 25 Reasoning questions (taken from your scattered questions)
-        {"q": "What will come in place of question mark (?) in the following series? 2, 6, 12, 20, 30, ?", "q_hi": "निम्नलिखित श्रृंखला में प्रश्न चिह्न (?) के स्थान पर क्या आएगा? 2, 6, 12, 20, 30, ?", "opts": ["40","42","44","46"], "opts_hi": ["40","42","44","46"], "ans": 1, "subject": "General Intelligence & Reasoning"},
-        // ... 24 more Reasoning questions
-        
-        // 25 General Awareness questions
-        {"q": "What is the full form of CGL?", "q_hi": "CGL का पूर्ण रूप क्या है?", "opts": ["Combined Graduate Level","Central Graduate Level","Combined General Level","Central General Level"], "opts_hi": ["संयुक्त स्नातक स्तर","केंद्रीय स्नातक स्तर","संयुक्त सामान्य स्तर","केंद्रीय सामान्य स्तर"], "ans": 0, "subject": "General Awareness"},
-        // ... 24 more GA questions
-        
-        // 25 Quantitative Aptitude questions
-        {"q": "If a train travels 360 km in 4 hours, what is its speed?", "q_hi": "यदि एक ट्रेन 4 घंटे में 360 किमी चलती है, तो उसकी गति क्या है?", "opts": ["80 km/h","90 km/h","100 km/h","85 km/h"], "opts_hi": ["80 किमी/घंटा","90 किमी/घंटा","100 किमी/घंटा","85 किमी/घंटा"], "ans": 1, "subject": "Quantitative Aptitude"},
-        // ... 24 more Maths questions
-        
-        // 25 English Comprehension questions
-        {"q": "Synonym of 'Abundant'?", "q_hi": "'Abundant' (प्रचुर) का समानार्थी शब्द?", "opts": ["Scarce","Plentiful","Limited","Rare"], "opts_hi": ["दुर्लभ","प्रचुर","सीमित","विरल"], "ans": 1, "subject": "English Comprehension"},
-        // ... 24 more English questions
+        {
+          "q": "What will come in place of question mark (?) in the following series? 2, 6, 12, 20, 30, ?",
+          "q_hi": "निम्नलिखित श्रृंखला में प्रश्न चिह्न (?) के स्थान पर क्या आएगा? 2, 6, 12, 20, 30, ?",
+          "opts": ["40", "42", "44", "46"],
+          "opts_hi": ["40", "42", "44", "46"],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Which letter is 3rd to the right of the 10th letter from the left in the English alphabet?",
+          "q_hi": "अंग्रेजी वर्णमाला में बाएँ से 10वें अक्षर के दाएँ तीसरा अक्षर कौन सा है?",
+          "opts": ["L", "M", "N", "O"],
+          "opts_hi": ["L", "M", "N", "O"],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Which number will replace the question mark (?) in the series? 2, 7, 17, 37, 77, ?",
+          "q_hi": "श्रृंखला में प्रश्न चिह्न (?) के स्थान पर कौन सी संख्या आएगी? 2, 7, 17, 37, 77, ?",
+          "opts": ["147", "157", "137", "127"],
+          "opts_hi": ["147", "157", "137", "127"],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Find the odd one out: 121, 144, 169, 196, 225, 256, 289, 324, 361, 400, 441, 484, 529, 576, 625, 676, 729, 784, 841, 920",
+          "q_hi": "विषम ज्ञात करें: 121, 144, 169, 196, 225, 256, 289, 324, 361, 400, 441, 484, 529, 576, 625, 676, 729, 784, 841, 920",
+          "opts": ["920", "841", "729", "484"],
+          "opts_hi": ["920", "841", "729", "484"],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Find the odd one out: 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 51, 53",
+          "q_hi": "विषम ज्ञात करें: 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 51, 53",
+          "opts": ["51", "47", "43", "53"],
+          "opts_hi": ["51", "47", "43", "53"],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "What comes next in the series? 2, 6, 18, 54, 162, ?",
+          "q_hi": "श्रृंखला में आगे क्या आएगा? 2, 6, 18, 54, 162, ?",
+          "opts": ["324", "432", "486", "540"],
+          "opts_hi": ["324", "432", "486", "540"],
+          "ans": 2,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "A person walks 10 km towards North, then turns right and walks 10 km, then turns right and walks 10 km, then turns left and walks 10 km. In which direction is he now from the starting point?",
+          "q_hi": "एक व्यक्ति उत्तर की ओर 10 किमी चलता है, फिर दाएँ मुड़ता है और 10 किमी चलता है, फिर दाएँ मुड़ता है और 10 किमी चलता है, फिर बाएँ मुड़ता है और 10 किमी चलता है। वह अब आरंभिक बिंदु से किस दिशा में है?",
+          "opts": ["North", "East", "South", "West"],
+          "opts_hi": ["उत्तर", "पूर्व", "दक्षिण", "पश्चिम"],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Which letter is 3rd to the right of the 10th letter from the right in the English alphabet?",
+          "q_hi": "अंग्रेजी वर्णमाला में दाएँ से 10वें अक्षर के दाएँ तीसरा अक्षर कौन सा है?",
+          "opts": ["Q", "R", "S", "T"],
+          "opts_hi": ["Q", "R", "S", "T"],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Which of the following is the mirror image of the word \"MIRROR\"?",
+          "q_hi": "MIRROR शब्द का दर्पण प्रतिबिंब निम्नलिखित में से कौन सा है?",
+          "opts": ["RORRIM", "MIRROR", "RORIMM", "MIRRIOR"],
+          "opts_hi": ["RORRIM", "MIRROR", "RORIMM", "MIRRIOR"],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Find the odd one out: 11, 22, 33, 44, 55, 66, 77, 88, 99, 110, 121, 132, 143, 154, 165, 176, 187, 198, 209, 220",
+          "q_hi": "विषम ज्ञात करें: 11, 22, 33, 44, 55, 66, 77, 88, 99, 110, 121, 132, 143, 154, 165, 176, 187, 198, 209, 220",
+          "opts": ["11 (multiple of 11)", "1100 (multiple of 11)", "1089 (multiple of 11)", "None, all are multiples of 11"],
+          "opts_hi": ["11 (11 का गुणज)", "1100 (11 का गुणज)", "1089 (11 का गुणज)", "कोई नहीं, सभी 11 के गुणज हैं"],
+          "ans": 3,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Select the option that is related to the third term in the same way as the second term is related to the first term. Earth : Planet :: Sun : ?",
+          "q_hi": "उस विकल्प का चयन करें जो तीसरे पद से उसी प्रकार संबंधित है जैसे दूसरा पद पहले पद से संबंधित है। Earth : Planet :: Sun : ?",
+          "opts": ["Star", "Galaxy", "Moon", "Satellite"],
+          "opts_hi": ["तारा", "आकाशगंगा", "चंद्रमा", "उपग्रह"],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "What is the full form of CGL?",
+          "q_hi": "CGL का पूर्ण रूप क्या है?",
+          "opts": ["Combined Graduate Level", "Central Graduate Level", "Combined General Level", "Central General Level"],
+          "opts_hi": ["संयुक्त स्नातक स्तर", "केंद्रीय स्नातक स्तर", "संयुक्त सामान्य स्तर", "केंद्रीय सामान्य स्तर"],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Who appoints the Chief Justice of India?",
+          "q_hi": "भारत के मुख्य न्यायाधीश की नियुक्ति कौन करता है?",
+          "opts": ["Prime Minister", "President", "Parliament", "Supreme Court Judges"],
+          "opts_hi": ["प्रधानमंत्री", "राष्ट्रपति", "संसद", "सर्वोच्च न्यायालय के न्यायाधीश"],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "What is the SI unit of pressure?",
+          "q_hi": "दबाव की SI इकाई क्या है?",
+          "opts": ["Newton", "Pascal", "Joule", "Watt"],
+          "opts_hi": ["न्यूटन", "पास्कल", "जूल", "वाट"],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which article of Indian Constitution deals with Right to Equality?",
+          "q_hi": "भारतीय संविधान का कौन सा अनुच्छेद समानता के अधिकार से संबंधित है?",
+          "opts": ["Article 12", "Article 14", "Article 19", "Article 21"],
+          "opts_hi": ["अनुच्छेद 12", "अनुच्छेद 14", "अनुच्छेद 19", "अनुच्छेद 21"],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The Quit India Movement was launched in which year?",
+          "q_hi": "भारत छोड़ो आंदोलन किस वर्ष शुरू हुआ था?",
+          "opts": ["1940", "1941", "1942", "1943"],
+          "opts_hi": ["1940", "1941", "1942", "1943"],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which gas is used in electric bulbs?",
+          "q_hi": "विद्युत बल्बों में कौन सी गैस का उपयोग होता है?",
+          "opts": ["Oxygen", "Nitrogen", "Argon", "Hydrogen"],
+          "opts_hi": ["ऑक्सीजन", "नाइट्रोजन", "आर्गन", "हाइड्रोजन"],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The Preamble of the Indian Constitution was amended in which year?",
+          "q_hi": "भारतीय संविधान की प्रस्तावना किस वर्ष संशोधित की गई थी?",
+          "opts": ["1971", "1974", "1976", "1978"],
+          "opts_hi": ["1971", "1974", "1976", "1978"],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which planet has the most moons?",
+          "q_hi": "किस ग्रह के सबसे अधिक चंद्रमा हैं?",
+          "opts": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+          "opts_hi": ["बृहस्पति", "शनि", "अरुण", "वरुण"],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "SEBI stands for?",
+          "q_hi": "SEBI का पूर्ण रूप क्या है?",
+          "opts": ["Securities Exchange Board of India", "Stock Exchange Bureau of India", "Securities and Exchange Board of India", "State Exchange Board of India"],
+          "opts_hi": ["भारतीय प्रतिभूति विनिमय बोर्ड", "स्टॉक एक्सचेंज ब्यूरो ऑफ इंडिया", "भारतीय प्रतिभूति एवं विनिमय बोर्ड", "राज्य विनिमय बोर्ड ऑफ इंडिया"],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Speed of sound in air is approximately?",
+          "q_hi": "वायु में ध्वनि की गति लगभग कितनी है?",
+          "opts": ["232 m/s", "332 m/s", "432 m/s", "532 m/s"],
+          "opts_hi": ["232 मी/से", "332 मी/से", "432 मी/से", "532 मी/से"],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "If a train travels 360 km in 4 hours, what is its speed?",
+          "q_hi": "यदि एक ट्रेन 4 घंटे में 360 किमी चलती है, तो उसकी गति क्या है?",
+          "opts": ["80 km/h", "90 km/h", "100 km/h", "85 km/h"],
+          "opts_hi": ["80 किमी/घंटा", "90 किमी/घंटा", "100 किमी/घंटा", "85 किमी/घंटा"],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "LCM of 15 and 20 is?",
+          "q_hi": "15 और 20 का लघुत्तम समापवर्त्य (LCM) है?",
+          "opts": ["40", "50", "60", "80"],
+          "opts_hi": ["40", "50", "60", "80"],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "If 30% of a number is 90, what is the number?",
+          "q_hi": "यदि किसी संख्या का 30% = 90 है, तो संख्या क्या है?",
+          "opts": ["270", "280", "300", "320"],
+          "opts_hi": ["270", "280", "300", "320"],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A shopkeeper sells a product for ₹840 at 20% profit. Cost price is?",
+          "q_hi": "एक दुकानदार ₹840 में 20% लाभ पर बेचता है। क्रय मूल्य क्या है?",
+          "opts": ["₹680", "₹700", "₹720", "₹750"],
+          "opts_hi": ["₹680", "₹700", "₹720", "₹750"],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "What is the HCF of 144, 180 and 192?",
+          "q_hi": "144, 180 और 192 का म.स.प. (HCF) क्या है?",
+          "opts": ["12", "24", "36", "48"],
+          "opts_hi": ["12", "24", "36", "48"],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "What is the LCM of 24, 36 and 40?",
+          "q_hi": "24, 36 और 40 का ल.स.प. (LCM) क्या है?",
+          "opts": ["360", "720", "180", "120"],
+          "opts_hi": ["360", "720", "180", "120"],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "If the angles of a triangle are in the ratio 2:3:4, what is the smallest angle?",
+          "q_hi": "यदि एक त्रिभुज के कोण 2:3:4 के अनुपात में हैं, तो सबसे छोटा कोण क्या है?",
+          "opts": ["40°", "60°", "80°", "20°"],
+          "opts_hi": ["40°", "60°", "80°", "20°"],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "What is the remainder when 2^100 is divided by 7?",
+          "q_hi": "2^100 को 7 से विभाजित करने पर शेषफल क्या है?",
+          "opts": ["1", "2", "3", "4"],
+          "opts_hi": ["1", "2", "3", "4"],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "If a:b = 2:3 and b:c = 4:5, find a:c.",
+          "q_hi": "यदि a:b = 2:3 और b:c = 4:5 है, तो a:c ज्ञात करें।",
+          "opts": ["8:12", "8:15", "2:5", "4:5"],
+          "opts_hi": ["8:12", "8:15", "2:5", "4:5"],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Synonym of 'Abundant'?",
+          "q_hi": "'Abundant' (प्रचुर) का समानार्थी शब्द?",
+          "opts": ["Scarce", "Plentiful", "Limited", "Rare"],
+          "opts_hi": ["दुर्लभ", "प्रचुर", "सीमित", "विरल"],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Antonym of 'Verbose'?",
+          "q_hi": "'Verbose' (वाचाल) का विलोम शब्द?",
+          "opts": ["Talkative", "Concise", "Elaborate", "Lengthy"],
+          "opts_hi": ["बातूनी", "संक्षिप्त", "विस्तृत", "लंबा"],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Synonym of 'Benevolent'?",
+          "q_hi": "'Benevolent' का पर्यायवाची शब्द?",
+          "opts": ["Malevolent", "Kind", "Cruel", "Angry"],
+          "opts_hi": ["Malevolent", "Kind", "Cruel", "Angry"],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Choose the correctly spelled word.",
+          "q_hi": "सही वर्तनी वाला शब्द चुनें।",
+          "opts": ["Seperate", "Separate", "Seperete", "Seprate"],
+          "opts_hi": ["Seperate", "Separate", "Seperete", "Seprate"],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Find the error in the sentence: \"The sceneries of Kashmir (A) / is very beautiful (B) / and attracts many tourists (C) / every year. (D)\"",
+          "q_hi": "वाक्य में त्रुटि ज्ञात करें: \"The sceneries of Kashmir (A) / is very beautiful (B) / and attracts many tourists (C) / every year. (D)\"",
+          "opts": ["A", "B", "C", "D"],
+          "opts_hi": ["A", "B", "C", "D"],
+          "ans": 0,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "The phrase \"To be at loggerheads\" means:",
+          "q_hi": "To be at loggerheads वाक्यांश का अर्थ है:",
+          "opts": ["To be in a romantic relationship", "To be in a state of agreement", "To be in a state of disagreement", "To be working together"],
+          "opts_hi": ["रोमांटिक रिश्ते में होना", "सहमति की स्थिति में होना", "असहमति की स्थिति में होना", "एक साथ काम करना"],
+          "ans": 2,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Fill in the blank: I am looking forward _______ you.",
+          "q_hi": "रिक्त स्थान भरें: I am looking forward _______ you.",
+          "opts": ["to meet", "to meeting", "meeting", "meet"],
+          "opts_hi": ["to meet", "to meeting", "meeting", "meet"],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Choose the correct passive voice form of: \"They are building a new mall.\"",
+          "q_hi": "का सही passive voice रूप चुनें: \"They are building a new mall.\"",
+          "opts": ["A new mall is being built by them.", "A new mall was being built by them.", "A new mall is built by them.", "A new mall was built by them."],
+          "opts_hi": ["A new mall is being built by them.", "A new mall was being built by them.", "A new mall is built by them.", "A new mall was built by them."],
+          "ans": 0,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "The word \"Diligent\" means:",
+          "q_hi": "शब्द \"Diligent\" का अर्थ है:",
+          "opts": ["Lazy", "Hardworking", "Careless", "Slow"],
+          "opts_hi": ["आलसी", "मेहनती", "लापरवाह", "धीमा"],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Choose the correct article: She is _______ best student in the class.",
+          "q_hi": "सही आर्टिकल चुनें: She is _______ best student in the class.",
+          "opts": ["a", "an", "the", "No article"],
+          "opts_hi": ["a", "an", "the", "No article"],
+          "ans": 2,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Choose the correct meaning of the idiom \"A piece of cake.\"",
+          "q_hi": "A piece of cake मुहावरे का सही अर्थ चुनें।",
+          "opts": ["Difficult task", "Very easy task", "Expensive item", "Delicious food"],
+          "opts_hi": ["कठिन कार्य", "बहुत आसान कार्य", "महंगी वस्तु", "स्वादिष्ट भोजन"],
+          "ans": 1,
+          "subject": "English Comprehension"
+        }
       ]
     },
     {
-      "id": "ssc_cgl_full_2",
-      "title": "SSC CGL Full Mock Test 2 (Tier 1 Pattern)",
-      "duration": 60,
-      "difficulty": "Hard",
+      "id": "ssc_cgl_2",
+      "title": "SSC CGL Mock Test 2",
+      "duration": 30,
+      "difficulty": "Medium",
       "correctMarks": 2,
       "negativeMarks": 0.5,
       "questions": [
-        // 25 Reasoning - next batch
-        // 25 GA - next batch  
-        // 25 Maths - next batch
-        // 25 English - next batch
+        {
+          "q": "Select the set in which the numbers are related in the same way as are the numbers of the following set. 14 : 30 : 46",
+          "q_hi": "उस समुच्चय का चयन करें जिसमें संख्याएँ उसी प्रकार संबंधित हैं जैसे निम्नलिखित समुच्चय की संख्याएँ संबंधित हैं। 14 : 30 : 46",
+          "opts": ["22 : 46 : 72", "18 : 38 : 58", "26 : 54 : 84", "12 : 28 : 42"],
+          "opts_hi": ["22 : 46 : 72", "18 : 38 : 58", "26 : 54 : 84", "12 : 28 : 42"],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Select the option that is related to the third term in the same way as the second term is related to the first term. PRESIDENT : PESDITNR :: CURRENCY : ?",
+          "q_hi": "वह विकल्प चुनें जो तीसरे पद से उसी प्रकार संबंधित है जैसे दूसरा पद पहले पद से संबंधित है। PRESIDENT : PESDITNR :: CURRENCY : ?",
+          "opts": ["CYNRCERU", "CYURCNER", "CYRNCERU", "CYCRNREU"],
+          "opts_hi": ["CYNRCERU", "CYURCNER", "CYRNCERU", "CYCRNREU"],
+          "ans": 2,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "How many triangles are there in the given figure? (A star inscribed in a pentagon)",
+          "q_hi": "दी गई आकृति में कितने त्रिभुज हैं? (एक पंचभुज के अंदर बना तारा)",
+          "opts": ["20", "25", "30", "35"],
+          "opts_hi": ["20", "25", "30", "35"],
+          "ans": 3,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "A series is given with one term missing. Select the correct alternative. AZ, CX, FU, IQ, ?",
+          "q_hi": "एक श्रृंखला दी गई है जिसमें एक पद लुप्त है। सही विकल्प चुनें। AZ, CX, FU, IQ, ?",
+          "opts": ["OL", "NL", "NM", "OM"],
+          "opts_hi": ["OL", "NL", "NM", "OM"],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "In a certain code language, 'TAX' is written as '20-1-24'. How will 'FINE' be written?",
+          "q_hi": "एक निश्चित कूट भाषा में, 'TAX' को '20-1-24' लिखा जाता है। 'FINE' को कैसे लिखा जाएगा?",
+          "opts": ["6-9-14-5", "6-9-13-4", "5-8-14-5", "6-10-14-4"],
+          "opts_hi": ["6-9-14-5", "6-9-13-4", "5-8-14-5", "6-10-14-4"],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Pointing to a man, a woman said, \"His mother is the only daughter of my father.\" How is the man related to the woman?",
+          "q_hi": "एक व्यक्ति की ओर इशारा करते हुए, एक महिला ने कहा, \"उसकी माता मेरे पिता की इकलौती पुत्री है।\" वह व्यक्ति उस महिला से किस प्रकार संबंधित है?",
+          "opts": ["Brother", "Son", "Nephew", "Father"],
+          "opts_hi": ["भाई", "पुत्र", "भतीजा", "पिता"],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Who is known as the \"Father of the Indian Constitution\"?",
+          "q_hi": "भारतीय संविधान के जनक के रूप में किसे जाना जाता है?",
+          "opts": ["Mahatma Gandhi", "Jawaharlal Nehru", "B.R. Ambedkar", "Sardar Patel"],
+          "opts_hi": ["महात्मा गांधी", "जवाहरलाल नेहरू", "बी.आर. अम्बेडकर", "सरदार पटेल"],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which of the following is a non-metallic mineral?",
+          "q_hi": "निम्नलिखित में से कौन सा अधात्विक खनिज है?",
+          "opts": ["Iron Ore", "Bauxite", "Mica", "Copper"],
+          "opts_hi": ["लौह अयस्क", "बॉक्साइट", "अभ्रक", "तांबा"],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The \"Gandhi-Irwin Pact\" was signed in which year?",
+          "q_hi": "गांधी-इरविन समझौता किस वर्ष हस्ताक्षरित किया गया था?",
+          "opts": ["1929", "1930", "1931", "1932"],
+          "opts_hi": ["1929", "1930", "1931", "1932"],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The largest gland in the human body is the:",
+          "q_hi": "मानव शरीर की सबसे बड़ी ग्रंथि है:",
+          "opts": ["Liver", "Kidney", "Pancreas", "Thyroid"],
+          "opts_hi": ["यकृत", "वृक्क", "अग्न्याशय", "थायराइड"],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "What is the value of √(1764)?",
+          "q_hi": "√(1764) का मान क्या है?",
+          "opts": ["32", "38", "42", "46"],
+          "opts_hi": ["32", "38", "42", "46"],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A shopkeeper sells an article at a 10% loss. If he had sold it for ₹90 more, he would have gained 5%. What is the cost price?",
+          "q_hi": "एक दुकानदार एक वस्तु को 10% की हानि पर बेचता है। यदि उसने इसे ₹90 अधिक में बेचा होता, तो उसे 5% का लाभ होता। क्रय मूल्य क्या है?",
+          "opts": ["₹600", "₹800", "₹1000", "₹1200"],
+          "opts_hi": ["₹600", "₹800", "₹1000", "₹1200"],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "The ratio of the ages of A and B is 5:4. After 5 years, the ratio becomes 6:5. What is the present age of A?",
+          "q_hi": "A और B की आयु का अनुपात 5:4 है। 5 वर्ष बाद, अनुपात 6:5 हो जाता है। A की वर्तमान आयु क्या है?",
+          "opts": ["20", "25", "30", "35"],
+          "opts_hi": ["20", "25", "30", "35"],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "If the radius of a cylinder is doubled and height is halved, what happens to the volume?",
+          "q_hi": "यदि एक बेलन की त्रिज्या दोगुनी कर दी जाए और ऊँचाई आधी कर दी जाए, तो आयतन पर क्या प्रभाव पड़ता है?",
+          "opts": ["Doubles", "Triples", "Quadruples", "Halves"],
+          "opts_hi": ["दोगुना हो जाता है", "तीन गुना हो जाता है", "चार गुना हो जाता है", "आधा हो जाता है"],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "What is the profit percentage if the cost price is ₹200 and selling price is ₹250?",
+          "q_hi": "यदि क्रय मूल्य ₹200 है और विक्रय मूल्य ₹250 है, तो लाभ प्रतिशत क्या है?",
+          "opts": ["20%", "25%", "30%", "40%"],
+          "opts_hi": ["20%", "25%", "30%", "40%"],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Identify the sentence with the correct use of the tense.",
+          "q_hi": "सही काल प्रयोग वाले वाक्य की पहचान करें।",
+          "opts": ["She is working here since 2019.", "She has worked here since 2019.", "She was working here since 2019.", "She have worked here since 2019."],
+          "opts_hi": ["She is working here since 2019.", "She has worked here since 2019.", "She was working here since 2019.", "She have worked here since 2019."],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Choose the correct article: He is _______ honest man.",
+          "q_hi": "सही आर्टिकल चुनें: He is _______ honest man.",
+          "opts": ["a", "an", "the", "No article"],
+          "opts_hi": ["a", "an", "the", "No article"],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Select the antonym of \"Meticulous.\"",
+          "q_hi": "Meticulous का विलोम शब्द चुनें।",
+          "opts": ["Careful", "Precise", "Careless", "Thorough"],
+          "opts_hi": ["Careful", "Precise", "Careless", "Thorough"],
+          "ans": 2,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Find the word that is correctly spelled.",
+          "q_hi": "सही वर्तनी वाला शब्द ज्ञात करें।",
+          "opts": ["Accomodate", "Accommodate", "Acommodate", "Accomadate"],
+          "opts_hi": ["Accomodate", "Accommodate", "Acommodate", "Accomadate"],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "The phrase \"Turn a deaf ear\" means:",
+          "q_hi": "Turn a deaf ear वाक्यांश का अर्थ है:",
+          "opts": ["Listen carefully", "Pretend not to hear", "Lose hearing ability", "Speak loudly"],
+          "opts_hi": ["ध्यान से सुनना", "सुनने का नाटक करना", "सुनने की क्षमता खोना", "जोर से बोलना"],
+          "ans": 0,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Which of the following is a compound sentence?",
+          "q_hi": "निम्नलिखित में से कौन सा एक संयुक्त वाक्य है?",
+          "opts": ["I went to the market.", "I went to the market and bought vegetables.", "I went to the market because I needed vegetables.", "Going to the market, I bought vegetables."],
+          "opts_hi": ["I went to the market.", "I went to the market and bought vegetables.", "I went to the market because I needed vegetables.", "Going to the market, I bought vegetables."],
+          "ans": 1,
+          "subject": "English Comprehension"
+        }
       ]
     },
     {
-      "id": "ssc_cgl_full_3",
-      "title": "SSC CGL Full Mock Test 3 (Tier 1 Pattern)",
-      "duration": 60,
-      "difficulty": "Hard",
+      "id": "ssc_cgl_3",
+      "title": "SSC CGL Mock Test 3",
+      "duration": 30,
+      "difficulty": "Medium",
       "correctMarks": 2,
       "negativeMarks": 0.5,
       "questions": [
-        // 25 Reasoning - next batch
-        // 25 GA - next batch  
-        // 25 Maths - next batch
-        // 25 English - next batch
+        {
+          "q": "Which of the following is NOT a Kharif crop?",
+          "q_hi": "निम्नलिखित में से कौन सी खरीफ की फसल नहीं है?",
+          "opts": ["Rice", "Wheat", "Cotton", "Sugarcane"],
+          "opts_hi": ["धान", "गेहूँ", "कपास", "गन्ना"],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The Panchayati Raj system was first introduced in which Indian state?",
+          "q_hi": "पंचायती राज प्रणाली सबसे पहले किस भारतीय राज्य में शुरू की गई थी?",
+          "opts": ["Uttar Pradesh", "Rajasthan", "Gujarat", "Maharashtra"],
+          "opts_hi": ["उत्तर प्रदेश", "राजस्थान", "गुजरात", "महाराष्ट्र"],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The concept of \"Gross Domestic Product\" (GDP) was popularized by:",
+          "q_hi": "सकल घरेलू उत्पाद (GDP) की अवधारणा को किसने लोकप्रिय बनाया?",
+          "opts": ["Adam Smith", "Karl Marx", "Simon Kuznets", "John Maynard Keynes"],
+          "opts_hi": ["एडम स्मिथ", "कार्ल मार्क्स", "साइमन कुजनेट्स", "जॉन मेनार्ड कीन्स"],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Bauxite is an ore of which metal?",
+          "q_hi": "बॉक्साइट किस धातु का अयस्क है?",
+          "opts": ["Iron", "Copper", "Aluminum", "Gold"],
+          "opts_hi": ["लोहा", "तांबा", "एल्यूमीनियम", "सोना"],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which planet is known as the \"Morning Star\"?",
+          "q_hi": "किस ग्रह को \"सुबह का तारा\" कहा जाता है?",
+          "opts": ["Mars", "Jupiter", "Venus", "Mercury"],
+          "opts_hi": ["मंगल", "बृहस्पति", "शुक्र", "बुध"],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which Amendment Act is known as the \"Mini Constitution\" of India?",
+          "q_hi": "किस संशोधन अधिनियम को भारत का \"लघु संविधान\" कहा जाता है?",
+          "opts": ["42nd Amendment", "44th Amendment", "73rd Amendment", "86th Amendment"],
+          "opts_hi": ["42वाँ संशोधन", "44वाँ संशोधन", "73वाँ संशोधन", "86वाँ संशोधन"],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The first woman President of India was:",
+          "q_hi": "भारत की पहली महिला राष्ट्रपति थीं:",
+          "opts": ["Indira Gandhi", "Pratibha Patil", "Sarojini Naidu", "Sonia Gandhi"],
+          "opts_hi": ["इंदिरा गांधी", "प्रतिभा पाटिल", "सरोजिनी नायडू", "सोनिया गांधी"],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "A person covers a distance of 300 km at a speed of 60 km/hr and another 300 km at 100 km/hr. What is the average speed for the entire journey?",
+          "q_hi": "एक व्यक्ति 60 किमी/घंटा की गति से 300 किमी की दूरी तय करता है और 100 किमी/घंटा की गति से अन्य 300 किमी की दूरी तय करता है। पूरी यात्रा की औसत गति क्या है?",
+          "opts": ["75 km/hr", "80 km/hr", "85 km/hr", "70 km/hr"],
+          "opts_hi": ["75 किमी/घंटा", "80 किमी/घंटा", "85 किमी/घंटा", "70 किमी/घंटा"],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "The sum of the square of two numbers is 80 and their product is 24. What is the difference between the two numbers?",
+          "q_hi": "दो संख्याओं के वर्गों का योग 80 है और उनका गुणनफल 24 है। दोनों संख्याओं के बीच का अंतर क्या है?",
+          "opts": ["√32", "√40", "√48", "√56"],
+          "opts_hi": ["√32", "√40", "√48", "√56"],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "If a + b = 10 and a – b = 2, find the value of ab.",
+          "q_hi": "यदि a + b = 10 और a – b = 2 है, तो ab का मान ज्ञात करें।",
+          "opts": ["20", "22", "24", "26"],
+          "opts_hi": ["20", "22", "24", "26"],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "The compound interest on ₹10,000 for 2 years at 10% per annum compounded annually is:",
+          "q_hi": "₹10,000 पर 2 वर्षों के लिए 10% वार्षिक दर से चक्रवृद्धि ब्याज (वार्षिक रूप से संयोजित) कितना है?",
+          "opts": ["₹2000", "₹2100", "₹2200", "₹2400"],
+          "opts_hi": ["₹2000", "₹2100", "₹2200", "₹2400"],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "What is 20% of 500?",
+          "q_hi": "500 का 20% कितना है?",
+          "opts": ["50", "100", "150", "200"],
+          "opts_hi": ["50", "100", "150", "200"],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "If the side of a square is increased by 20%, by what percentage does its area increase?",
+          "q_hi": "यदि किसी वर्ग की भुजा में 20% की वृद्धि की जाए, तो उसके क्षेत्रफल में कितने प्रतिशत की वृद्धि होती है?",
+          "opts": ["20%", "40%", "44%", "48%"],
+          "opts_hi": ["20%", "40%", "44%", "48%"],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "The HCF of two numbers is 12 and their LCM is 144. If one number is 36, find the other.",
+          "q_hi": "दो संख्याओं का HCF 12 है और उनका LCM 144 है। यदि एक संख्या 36 है, तो दूसरी संख्या ज्ञात करें।",
+          "opts": ["48", "60", "72", "84"],
+          "opts_hi": ["48", "60", "72", "84"],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Select the synonym of \"Abundant.\"",
+          "q_hi": "Abundant का पर्यायवाची शब्द चुनें।",
+          "opts": ["Scarce", "Plentiful", "Limited", "Lacking"],
+          "opts_hi": ["दुर्लभ", "प्रचुर", "सीमित", "कमी"],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Fill in the blank: He has been waiting _______ 2 hours.",
+          "q_hi": "रिक्त स्थान भरें: He has been waiting _______ 2 hours.",
+          "opts": ["since", "for", "from", "until"],
+          "opts_hi": ["since", "for", "from", "until"],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Select the antonym of \"Genuine.\"",
+          "q_hi": "Genuine का विलोम शब्द चुनें।",
+          "opts": ["Real", "Authentic", "Fake", "Original"],
+          "opts_hi": ["Real", "Authentic", "Fake", "Original"],
+          "ans": 2,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Improve the bracketed part: She (has) a beautiful voice.",
+          "q_hi": "कोष्ठक भाग में सुधार करें: She (has) a beautiful voice.",
+          "opts": ["have", "is having", "had", "No improvement"],
+          "opts_hi": ["have", "is having", "had", "No improvement"],
+          "ans": 3,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Choose the correct indirect speech: He said, \"I am going to Delhi.\"",
+          "q_hi": "सही indirect speech चुनें: He said, \"I am going to Delhi.\"",
+          "opts": ["He said that he is going to Delhi.", "He said that he was going to Delhi.", "He said that I am going to Delhi.", "He said that he went to Delhi."],
+          "opts_hi": ["He said that he is going to Delhi.", "He said that he was going to Delhi.", "He said that I am going to Delhi.", "He said that he went to Delhi."],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Identify the type of sentence: \"Please close the door.\"",
+          "q_hi": "वाक्य का प्रकार पहचानें: \"Please close the door.\"",
+          "opts": ["Declarative", "Interrogative", "Imperative", "Exclamatory"],
+          "opts_hi": ["घोषणात्मक", "प्रश्नवाचक", "आज्ञावाचक", "विस्मयादिबोधक"],
+          "ans": 2,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Fill in the blank: Neither of the students _______ present.",
+          "q_hi": "रिक्त स्थान भरें: Neither of the students _______ present.",
+          "opts": ["is", "are", "were", "have"],
+          "opts_hi": ["is", "are", "were", "have"],
+          "ans": 0,
+          "subject": "English Comprehension"
+        }
       ]
     },
     {
-      "id": "ssc_cgl_full_4",
-      "title": "SSC CGL Full Mock Test 4 (Tier 1 Pattern)",
-      "duration": 60,
-      "difficulty": "Hard",
+      "id": "ssc_cgl_4",
+      "title": "SSC CGL Mock Test 4",
+      "duration": 30,
+      "difficulty": "Medium",
       "correctMarks": 2,
       "negativeMarks": 0.5,
       "questions": [
-        // 25 Reasoning - final batch
-        // 25 GA - final batch  
-        // 25 Maths - final batch
-        // 25 English - final batch
+        {
+          "q": "Who was the first Governor-General of India?",
+          "q_hi": "भारत के पहले गवर्नर-जनरल कौन थे?",
+          "opts": ["Warren Hastings", "Lord Cornwallis", "Lord Wellesley", "William Bentinck"],
+          "opts_hi": ["वारेन हेस्टिंग्स", "लॉर्ड कॉर्नवालिस", "लॉर्ड वेलेस्ली", "विलियम बेंटिक"],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Who is called the \"Iron Man of India\"?",
+          "q_hi": "भारत का लौह पुरुष किसे कहा जाता है?",
+          "opts": ["Jawaharlal Nehru", "Mahatma Gandhi", "Sardar Vallabhbhai Patel", "Subhas Chandra Bose"],
+          "opts_hi": ["जवाहरलाल नेहरू", "महात्मा गांधी", "सरदार वल्लभभाई पटेल", "सुभाष चंद्र बोस"],
+          "ans": 2,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Who is the current President of India?",
+          "q_hi": "भारत के वर्तमान राष्ट्रपति कौन हैं?",
+          "opts": ["Ram Nath Kovind", "Droupadi Murmu", "Pranab Mukherjee", "Narendra Modi"],
+          "opts_hi": ["राम नाथ कोविन्द", "द्रौपदी मुर्मू", "प्रणब मुखर्जी", "नरेंद्र मोदी"],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which aquatic animal has three hearts?",
+          "q_hi": "किस जलीय जंतु के तीन हृदय होते हैं?",
+          "opts": ["Octopus", "Blue Whale", "Shark", "Crocodile"],
+          "opts_hi": ["ऑक्टोपस", "ब्लू व्हेल", "शार्क", "मगरमच्छ"],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which is the longest river bridge in India?",
+          "q_hi": "भारत का सबसे लंबा नदी पुल कौन सा है?",
+          "opts": ["Dhola-Sadiya Bridge (Assam)", "Howrah Bridge", "Mahatma Gandhi Bridge", "Godavari Bridge"],
+          "opts_hi": ["ढोला-सादिया पुल (असम)", "हावड़ा पुल", "महात्मा गांधी पुल", "गोदावरी पुल"],
+          "ans": 0,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which Schedule of the Constitution deals with the division of powers between Union and States?",
+          "q_hi": "संविधान की कौन सी अनुसूची संघ और राज्यों के बीच शक्तियों के विभाजन से संबंधित है?",
+          "opts": ["6th Schedule", "7th Schedule", "8th Schedule", "10th Schedule"],
+          "opts_hi": ["6ठी अनुसूची", "7वीं अनुसूची", "8वीं अनुसूची", "10वीं अनुसूची"],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Simplify: 12 + 8 ÷ 2 × 3",
+          "q_hi": "सरल करें: 12 + 8 ÷ 2 × 3",
+          "opts": ["18", "24", "30", "36"],
+          "opts_hi": ["18", "24", "30", "36"],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A train travels 240 km in 4 hours. What is its speed in m/s?",
+          "q_hi": "एक ट्रेन 4 घंटे में 240 किमी की दूरी तय करती है। m/s में इसकी गति क्या है?",
+          "opts": ["16.67 m/s", "20 m/s", "60 m/s", "72 m/s"],
+          "opts_hi": ["16.67 m/s", "20 m/s", "60 m/s", "72 m/s"],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Find the value of x: 2x + 3 = 4x - 7",
+          "q_hi": "x का मान ज्ञात करें: 2x + 3 = 4x - 7",
+          "opts": ["4", "5", "6", "7"],
+          "opts_hi": ["4", "5", "6", "7"],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "What is the area of a circle with radius 7 cm? (Take π = 22/7)",
+          "q_hi": "7 सेमी त्रिज्या वाले वृत्त का क्षेत्रफल क्या है? (π = 22/7 लें)",
+          "opts": ["144 cm²", "154 cm²", "164 cm²", "174 cm²"],
+          "opts_hi": ["144 सेमी²", "154 सेमी²", "164 सेमी²", "174 सेमी²"],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A sum of money doubles in 5 years at simple interest. What is the rate of interest?",
+          "q_hi": "एक धनराशि साधारण ब्याज पर 5 वर्षों में दोगुनी हो जाती है। ब्याज की दर क्या है?",
+          "opts": ["10%", "15%", "20%", "25%"],
+          "opts_hi": ["10%", "15%", "20%", "25%"],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "The perimeter of a rectangle is 40 cm. If its length is 12 cm, find its breadth.",
+          "q_hi": "एक आयत का परिमाप 40 सेमी है। यदि इसकी लंबाई 12 सेमी है, तो इसकी चौड़ाई ज्ञात करें।",
+          "opts": ["6 cm", "8 cm", "10 cm", "12 cm"],
+          "opts_hi": ["6 सेमी", "8 सेमी", "10 सेमी", "12 सेमी"],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Find the value of 2³ × 3².",
+          "q_hi": "2³ × 3² का मान ज्ञात करें।",
+          "opts": ["36", "48", "72", "108"],
+          "opts_hi": ["36", "48", "72", "108"],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "What is the value of (1 + tan²θ)?",
+          "q_hi": "(1 + tan²θ) का मान क्या है?",
+          "opts": ["sec²θ", "cosec²θ", "cot²θ", "sin²θ"],
+          "opts_hi": ["sec²θ", "cosec²θ", "cot²θ", "sin²θ"],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "What is the mean of 2, 4, 6, 8, 10?",
+          "q_hi": "2, 4, 6, 8, 10 का माध्य क्या है?",
+          "opts": ["4", "5", "6", "7"],
+          "opts_hi": ["4", "5", "6", "7"],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A man buys a watch for ₹500 and sells it at a profit of 20%. What is the selling price?",
+          "q_hi": "एक व्यक्ति ₹500 में एक घड़ी खरीदता है और उसे 20% लाभ पर बेचता है। विक्रय मूल्य क्या है?",
+          "opts": ["₹550", "₹600", "₹650", "₹700"],
+          "opts_hi": ["₹550", "₹600", "₹650", "₹700"],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Find the value of log₂ 32.",
+          "q_hi": "log₂ 32 का मान ज्ञात करें।",
+          "opts": ["3", "4", "5", "6"],
+          "opts_hi": ["3", "4", "5", "6"],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Which article abolishes untouchability?",
+          "q_hi": "किस अनुच्छेद ने अस्पृश्यता को समाप्त किया?",
+          "opts": ["Article 14", "Article 15", "Article 16", "Article 17"],
+          "opts_hi": ["अनुच्छेद 14", "अनुच्छेद 15", "अनुच्छेद 16", "अनुच्छेद 17"],
+          "ans": 3,
+          "subject": "Polity"
+        },
+        {
+          "q": "Right to Freedom is guaranteed under which group of Articles?",
+          "q_hi": "स्वतंत्रता का अधिकार किस अनुच्छेद समूह के तहत सुनिश्चित किया गया है?",
+          "opts": ["Article 14-18", "Article 19-22", "Article 23-24", "Article 25-28"],
+          "opts_hi": ["अनुच्छेद 14-18", "अनुच्छेद 19-22", "अनुच्छेद 23-24", "अनुच्छेद 25-28"],
+          "ans": 1,
+          "subject": "Polity"
+        },
+        {
+          "q": "The Right to Life and Personal Liberty is guaranteed under which Article?",
+          "q_hi": "जीवन और व्यक्तिगत स्वतंत्रता का अधिकार किस अनुच्छेद के तहत सुनिश्चित किया गया है?",
+          "opts": ["Article 19", "Article 20", "Article 21", "Article 22"],
+          "opts_hi": ["अनुच्छेद 19", "अनुच्छेद 20", "अनुच्छेद 21", "अनुच्छेद 22"],
+          "ans": 2,
+          "subject": "Polity"
+        },
+        {
+          "q": "Which Fundamental Right was described by Dr. B.R. Ambedkar as the \"heart and soul\" of the Constitution?",
+          "q_hi": "डॉ. बी.आर. आंबेडकर द्वारा संविधान का \"हृदय और आत्मा\" किस मौलिक अधिकार को कहा गया था?",
+          "opts": ["Right to Equality", "Right against Exploitation", "Right to Constitutional Remedies", "Right to Freedom of Religion"],
+          "opts_hi": ["समानता का अधिकार", "शोषण के विरुद्ध अधिकार", "संवैधानिक उपचार का अधिकार", "धर्म की स्वतंत्रता का अधिकार"],
+          "ans": 2,
+          "subject": "Polity"
+        }
+      ]
+    },
+    {
+      "id": "ssc_cgl_5",
+      "title": "SSC CGL Mock Test 5",
+      "duration": 29,
+      "difficulty": "Medium",
+      "correctMarks": 2,
+      "negativeMarks": 0.5,
+      "questions": [
+        {
+          "q": "Which state is the largest producer of sugarcane in India?",
+          "q_hi": "भारत में सबसे बड़ा गन्ना उत्पादक राज्य कौन सा है?",
+          "opts": ["Maharashtra", "Uttar Pradesh", "Karnataka", "Tamil Nadu"],
+          "opts_hi": ["महाराष्ट्र", "उत्तर प्रदेश", "कर्नाटक", "तमिलनाडु"],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which state produces the maximum rice in India?",
+          "q_hi": "भारत में सबसे अधिक चावल उत्पादन करने वाला राज्य कौन सा है?",
+          "opts": ["Uttar Pradesh", "West Bengal", "Punjab", "Andhra Pradesh"],
+          "opts_hi": ["उत्तर प्रदेश", "पश्चिम बंगाल", "पंजाब", "आंध्र प्रदेश"],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which continent is referred to as a \"Continent Dedicated to Science\"?",
+          "q_hi": "किस महाद्वीप को \"विज्ञान के लिए समर्पित महाद्वीप\" कहा जाता है?",
+          "opts": ["Africa", "Antarctica", "North America", "Asia"],
+          "opts_hi": ["अफ्रीका", "अंटार्कटिका", "उत्तरी अमेरिका", "एशिया"],
+          "ans": 1,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which supersonic missile did India agree to sell to Indonesia?",
+          "q_hi": "भारत ने इंडोनेशिया को कौन सी सुपरसोनिक मिसाइल बेचने पर सहमति व्यक्त की?",
+          "opts": ["BrahMos", "Agni-V", "Prithvi", "Akash"],
+          "opts_hi": ["ब्रह्मोस", "अग्नि-V", "पृथ्वी", "आकाश"],
+          "ans": 0,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Which country did PM Modi visit in July 2026 to strengthen bilateral ties?",
+          "q_hi": "जुलाई 2026 में PM मोदी ने द्विपक्षीय संबंधों को मजबूत करने के लिए किस देश का दौरा किया?",
+          "opts": ["Indonesia, Australia, New Zealand", "Japan, South Korea, Singapore", "Russia, France, Germany", "UAE, Saudi Arabia, Israel"],
+          "opts_hi": ["इंडोनेशिया, ऑस्ट्रेलिया, न्यूज़ीलैंड", "जापान, दक्षिण कोरिया, सिंगापुर", "रूस, फ्रांस, जर्मनी", "यूएई, सऊदी अरब, इज़राइल"],
+          "ans": 0,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Who received the Padma Shri posthumously for bringing international recognition to 'Akhada'?",
+          "q_hi": "अखाड़ा' को अंतर्राष्ट्रीय पहचान दिलाने के लिए किसे मरणोपरांत पद्म श्री मिला?",
+          "opts": ["Vladimer Mestvirishvili", "Bhagwandas Raikwar", "Baldev Singh", "K Pajanivel"],
+          "opts_hi": ["व्लादिमीर मेस्टविरिश्विली", "भगवानदास रायकवार", "बलदेव सिंह", "के पजनिवेल"],
+          "ans": 1,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Which country is hosting the 2026 G7 Summit?",
+          "q_hi": "2026 G7 शिखर सम्मेलन की मेजबानी कौन सा देश कर रहा है?",
+          "opts": ["Germany", "France", "Canada", "Italy"],
+          "opts_hi": ["जर्मनी", "फ्रांस", "कनाडा", "इटली"],
+          "ans": 1,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "What is the full form of GDP?",
+          "q_hi": "GDP का पूर्ण रूप क्या है?",
+          "opts": ["Gross Domestic Product", "Gross Development Product", "General Domestic Product", "None"],
+          "opts_hi": ["ग्रॉस डोमेस्टिक प्रोडक्ट", "ग्रॉस डेवलपमेंट प्रोडक्ट", "जनरल डोमेस्टिक प्रोडक्ट", "कोई नहीं"],
+          "ans": 0,
+          "subject": "Economics"
+        },
+        {
+          "q": "What is the apex body for microfinance in India?",
+          "q_hi": "भारत में सूक्ष्म वित्त का शीर्ष निकाय कौन सा है?",
+          "opts": ["NABARD", "RBI", "SEBI", "NHB"],
+          "opts_hi": ["नाबार्ड", "आरबीआई", "सेबी", "एनएचबी"],
+          "ans": 0,
+          "subject": "Economics"
+        },
+        {
+          "q": "What is the current base year for calculating GDP in India?",
+          "q_hi": "भारत में GDP गणना के लिए वर्तमान आधार वर्ष क्या है?",
+          "opts": ["2011-12", "2004-05", "2015-16", "2020-21"],
+          "opts_hi": ["2011-12", "2004-05", "2015-16", "2020-21"],
+          "ans": 0,
+          "subject": "Economics"
+        },
+        {
+          "q": "What is the main objective of Fiscal Policy?",
+          "q_hi": "राजकोषीय नीति का मुख्य उद्देश्य क्या है?",
+          "opts": ["Price stability", "Economic growth", "Both", "None"],
+          "opts_hi": ["मूल्य स्थिरता", "आर्थिक विकास", "दोनों", "कोई नहीं"],
+          "ans": 1,
+          "subject": "Economics"
+        },
+        {
+          "q": "What is the main objective of Monetary Policy?",
+          "q_hi": "मौद्रिक नीति का मुख्य उद्देश्य क्या है?",
+          "opts": ["Control inflation", "Economic growth", "Both", "None"],
+          "opts_hi": ["मुद्रास्फीति नियंत्रण", "आर्थिक विकास", "दोनों", "कोई नहीं"],
+          "ans": 2,
+          "subject": "Economics"
+        },
+        {
+          "q": "Who is known as the 'Father of the Indian Constitution'?",
+          "q_hi": "भारतीय संविधान के 'जनक' के रूप में किसे जाना जाता है?",
+          "opts": ["Mahatma Gandhi", "Jawaharlal Nehru", "Dr. B.R. Ambedkar", "Sardar Patel"],
+          "opts_hi": ["महात्मा गांधी", "जवाहरलाल नेहरू", "डॉ. बी.आर. अम्बेडकर", "सरदार पटेल"],
+          "ans": 2,
+          "subject": "General Knowledge"
+        },
+        {
+          "q": "Which Article of the Indian Constitution deals with the Right to Equality?",
+          "q_hi": "भारतीय संविधान का कौन सा अनुच्छेद समानता के अधिकार से संबंधित है?",
+          "opts": ["Article 14", "Article 19", "Article 21", "Article 25"],
+          "opts_hi": ["अनुच्छेद 14", "अनुच्छेद 19", "अनुच्छेद 21", "अनुच्छेद 25"],
+          "ans": 0,
+          "subject": "Polity"
+        },
+        {
+          "q": "Which Constitutional Amendment Act is known as the 'Mini Constitution'?",
+          "q_hi": "किस संवैधानिक संशोधन अधिनियम को 'लघु संविधान' के नाम से जाना जाता है?",
+          "opts": ["42nd Amendment Act", "44th Amendment Act", "52nd Amendment Act", "73rd Amendment Act"],
+          "opts_hi": ["42वां संशोधन अधिनियम", "44वां संशोधन अधिनियम", "52वां संशोधन अधिनियम", "73वां संशोधन अधिनियम"],
+          "ans": 0,
+          "subject": "Polity"
+        },
+        {
+          "q": "Which of the following is the leading producer of tea in India?",
+          "q_hi": "भारत में चाय का अग्रणी उत्पादक निम्नलिखित में से कौन है?",
+          "opts": ["West Bengal", "Tamil Nadu", "Kerala", "Assam"],
+          "opts_hi": ["पश्चिम बंगाल", "तमिलनाडु", "केरल", "असम"],
+          "ans": 3,
+          "subject": "Geography"
+        },
+        {
+          "q": "What is the name of India's first indigenous distilled video story-generating AI model launched under the India AI Mission?",
+          "q_hi": "इंडिया AI मिशन के तहत लॉन्च किया गया भारत का पहला स्वदेशी डिस्टिल्ड वीडियो स्टोरी-जनरेटिंग AI मॉडल क्या है?",
+          "opts": ["BharatGPT", "VishwamAI", "IndusAI", "SaraswatiAI"],
+          "opts_hi": ["भारतGPT", "विश्वामAI", "इंडसAI", "सरस्वतीAI"],
+          "ans": 1,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Which film won the Best Feature Film award at the 72nd National Film Awards announced in July 2026?",
+          "q_hi": "जुलाई 2026 में घोषित 72वें राष्ट्रीय फिल्म पुरस्कारों में किस फिल्म ने सर्वश्रेष्ठ फीचर फिल्म का पुरस्कार जीता?",
+          "opts": ["Kalki 2898 AD", "Amaran", "Article 370", "Chandu Champion"],
+          "opts_hi": ["कल्कि 2898 AD", "अमरन", "आर्टिकल 370", "चंदू चैंपियन"],
+          "ans": 2,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "According to the RBI's July 2026 Bulletin, what was the headline CPI inflation for June 2026?",
+          "q_hi": "RBI के जुलाई 2026 बुलेटिन के अनुसार, जून 2026 के लिए मुख्य CPI मुद्रास्फीति क्या थी?",
+          "opts": ["3.9%", "4.0%", "4.4%", "5.2%"],
+          "opts_hi": ["3.9%", "4.0%", "4.4%", "5.2%"],
+          "ans": 2,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Which of the following is the most abundant gas in the Earth's atmosphere?",
+          "q_hi": "पृथ्वी के वायुमंडल में सबसे प्रचुर मात्रा में पाई जाने वाली गैस निम्नलिखित में से कौन सी है?",
+          "opts": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Argon"],
+          "opts_hi": ["ऑक्सीजन", "कार्बन डाइऑक्साइड", "नाइट्रोजन", "आर्गन"],
+          "ans": 2,
+          "subject": "General Awareness"
+        }
       ]
     }
   ]
