@@ -1,1055 +1,91 @@
 {
   "tests": [
     {
-      "id": "ssc_chsl_full_1",
-      "title": "SSC CHSL Full Mock Test 1 (Tier 1 Pattern)",
-      "duration": 60,
-      "difficulty": "Hard",
+      "id": "ssc_chsl_1",
+      "title": "SSC CHSL Mock Test 1",
+      "duration": 15,
+      "difficulty": "Easy",
       "correctMarks": 2,
       "negativeMarks": 0.5,
       "questions": [
         {
-          "q": "Select the option that is related to the third term in the same way as the second term is related to the first term. BOOK : READ :: MOVIE : ?",
-          "q_hi": "BOOK : READ :: MOVIE : ?",
-          "opts": [
-            "Watch",
-            "Listen",
-            "Play",
-            "Write"
-          ],
-          "opts_hi": [
-            "देखना",
-            "सुनना",
-            "खेलना",
-            "लिखना"
-          ],
+          "q": "Select the option that is related to the third term in the same way as the second term is related to the first term. BOOK : PAGES :: WATCH : ?",
+          "q_hi": "उस विकल्प का चयन करें जो तीसरे पद से उसी प्रकार संबंधित है जैसे दूसरा पद पहले पद से संबंधित है। BOOK : PAGES :: WATCH : ?",
+          "opts": ["Time", "Dial", "Straps", "Battery"],
+          "opts_hi": ["समय", "डायल", "पट्टियाँ", "बैटरी"],
+          "ans": 1,
+          "subject": "General Intelligence"
+        },
+        {
+          "q": "In a certain code language, 'MOUSE' is coded as 'NPVTF'. How will 'CLOCK' be coded?",
+          "q_hi": "एक निश्चित कूट भाषा में, 'MOUSE' को 'NPVTF' के रूप में कूटबद्ध किया जाता है। 'CLOCK' को किस रूप में कूटबद्ध किया जाएगा?",
+          "opts": ["DMPDL", "DMPDN", "DMQDN", "DNQDL"],
+          "opts_hi": ["DMPDL", "DMPDN", "DMQDN", "DNQDL"],
           "ans": 0,
           "subject": "General Intelligence"
         },
         {
-          "q": "Which of the following correctly represents the relationship: Girls, Women, Humans?",
-          "q_hi": "लड़कियाँ, महिलाएँ, मानव?",
-          "opts": [
-            "A circle inside a circle inside a third circle",
-            "Two separate circles intersecting",
-            "Three separate circles",
-            "Two circles inside a third"
-          ],
-          "opts_hi": [
-            "एक वृत्त दूसरे वृत्त के अंदर और तीसरे वृत्त के अंदर",
-            "दो अलग-अलग वृत्त प्रतिच्छेद करते हुए",
-            "तीन अलग-अलग वृत्त",
-            "दो वृत्त तीसरे के अंदर"
-          ],
-          "ans": 3,
-          "subject": "General Intelligence"
-        },
-        {
-          "q": "What is the angle between the hour and minute hands of a clock at 3:15?",
-          "q_hi": "3:15 पर घड़ी की घंटे और मिनट की सुइयों के बीच का कोण क्या है?",
-          "opts": [
-            "0°",
-            "7.5°",
-            "15°",
-            "22.5°"
-          ],
-          "opts_hi": [
-            "0°",
-            "7.5°",
-            "15°",
-            "22.5°"
-          ],
-          "ans": 1,
-          "subject": "General Intelligence"
-        },
-        {
-          "q": "What will come in place of question mark (?) in the following series? 5, 12, 21, 32, 45, ?",
-          "q_hi": "5, 12, 21, 32, 45, ?",
-          "opts": [
-            "58",
-            "60",
-            "62",
-            "64"
-          ],
-          "opts_hi": [
-            "58",
-            "60",
-            "62",
-            "64"
-          ],
-          "ans": 1,
-          "subject": "General Intelligence"
-        },
-        {
-          "q": "Which of the following correctly represents the relationship: Men, Fathers, Doctors?",
-          "q_hi": "पुरुष, पिता, डॉक्टर?",
-          "opts": [
-            "Two separate circles intersecting",
-            "Three separate circles",
-            "Two circles inside a third with overlap",
-            "Three circles overlapping"
-          ],
-          "opts_hi": [
-            "दो अलग-अलग वृत्त प्रतिच्छेद करते हुए",
-            "तीन अलग-अलग वृत्त",
-            "दो वृत्त तीसरे के अंदर जो प्रतिच्छेद करते हैं",
-            "तीन वृत्त प्रतिच्छेद करते हुए"
-          ],
-          "ans": 3,
-          "subject": "General Intelligence"
-        },
-        {
-          "q": "A person starts from point A, walks 20 m East, then 15 m North, then 10 m West, then 5 m South. How far is he from point A?",
-          "q_hi": "एक व्यक्ति बिंदु A से...",
-          "opts": [
-            "10 m",
-            "15 m",
-            "20 m",
-            "25 m"
-          ],
-          "opts_hi": [
-            "10 मीटर",
-            "15 मीटर",
-            "20 मीटर",
-            "25 मीटर"
-          ],
+          "q": "Find the odd one out: 2, 3, 5, 7, 11, 13, 17, 19, 21, 23",
+          "q_hi": "विषम ज्ञात करें: 2, 3, 5, 7, 11, 13, 17, 19, 21, 23",
+          "opts": ["21", "19", "17", "23"],
+          "opts_hi": ["21", "19", "17", "23"],
           "ans": 0,
           "subject": "General Intelligence"
         },
         {
-          "q": "What will come in place of question mark (?) in the following series? 7, 14, 28, 56, 112, ?",
-          "q_hi": "7, 14, 28, 56, 112, ?",
-          "opts": [
-            "168",
-            "196",
-            "224",
-            "252"
-          ],
-          "opts_hi": [
-            "168",
-            "196",
-            "224",
-            "252"
-          ],
-          "ans": 2,
-          "subject": "General Intelligence"
-        },
-        {
-          "q": "Find the odd one out: 4, 9, 16, 25, 36... (squares series)",
-          "q_hi": "विषम ज्ञात करें: वर्ग संख्याएँ",
-          "opts": [
-            "4 (2²)",
-            "10000 (100²)",
-            "9409 (97²)",
-            "None, all are squares"
-          ],
-          "opts_hi": [
-            "4 (2²)",
-            "10000 (100²)",
-            "9409 (97²)",
-            "कोई नहीं, सभी वर्ग हैं"
-          ],
-          "ans": 3,
-          "subject": "General Intelligence"
-        },
-        {
-          "q": "What is the angle between the hour and minute hands of a clock at 3:00?",
-          "q_hi": "3:00 पर घड़ी की सुइयों के बीच का कोण?",
-          "opts": [
-            "90°",
-            "45°",
-            "60°",
-            "30°"
-          ],
-          "opts_hi": [
-            "90°",
-            "45°",
-            "60°",
-            "30°"
-          ],
-          "ans": 0,
-          "subject": "General Intelligence"
-        },
-        {
-          "q": "What comes next in the series? 1, 11, 21, 31, 41, ?",
-          "q_hi": "1, 11, 21, 31, 41, ?",
-          "opts": [
-            "45",
-            "50",
-            "51",
-            "55"
-          ],
-          "opts_hi": [
-            "45",
-            "50",
-            "51",
-            "55"
-          ],
-          "ans": 2,
-          "subject": "General Intelligence"
-        },
-        {
-          "q": "What will come in place of question mark (?) in the following series? 3, 10, 21, 36, 55, ?",
-          "q_hi": "3, 10, 21, 36, 55, ?",
-          "opts": [
-            "78",
-            "80",
-            "82",
-            "84"
-          ],
-          "opts_hi": [
-            "78",
-            "80",
-            "82",
-            "84"
-          ],
-          "ans": 0,
-          "subject": "General Intelligence"
-        },
-        {
-          "q": "Six people A, B, C, D, E, F live on six different floors...Who lives on the 4th floor?",
-          "q_hi": "छह लोग A, B, C, D, E, F...",
-          "opts": [
-            "A",
-            "B",
-            "C",
-            "D"
-          ],
-          "opts_hi": [
-            "A",
-            "B",
-            "C",
-            "D"
-          ],
-          "ans": 1,
-          "subject": "General Intelligence"
-        },
-        {
-          "q": "What comes next in the series? 2, 5, 9, 14, 20, ?",
-          "q_hi": "2, 5, 9, 14, 20, ?",
-          "opts": [
-            "25",
-            "26",
-            "27",
-            "28"
-          ],
-          "opts_hi": [
-            "25",
-            "26",
-            "27",
-            "28"
-          ],
-          "ans": 2,
-          "subject": "General Intelligence"
-        },
-        {
-          "q": "Find the odd one out: 31, 37, 41, 43, 47, 49, 53, 59",
-          "q_hi": "विषम ज्ञात करें: 31, 37, 41, 43, 47, 49, 53, 59",
-          "opts": [
-            "31",
-            "49",
-            "53",
-            "59"
-          ],
-          "opts_hi": [
-            "31",
-            "49",
-            "53",
-            "59"
-          ],
-          "ans": 1,
-          "subject": "General Intelligence"
-        },
-        {
-          "q": "What will replace the question mark (?) in the following? 0, 6, 24, 60, 120, ?",
-          "q_hi": "0, 6, 24, 60, 120, ?",
-          "opts": [
-            "180",
-            "190",
-            "200",
-            "210"
-          ],
-          "opts_hi": [
-            "180",
-            "190",
-            "200",
-            "210"
-          ],
-          "ans": 3,
-          "subject": "General Intelligence"
-        },
-        {
-          "q": "What is the angle between the hour and minute hands of a clock at 10:10?",
-          "q_hi": "10:10 पर घड़ी की सुइयों के बीच का कोण?",
-          "opts": [
-            "115°",
-            "120°",
-            "110°",
-            "105°"
-          ],
-          "opts_hi": [
-            "115°",
-            "120°",
-            "110°",
-            "105°"
-          ],
-          "ans": 0,
-          "subject": "General Intelligence"
-        },
-        {
-          "q": "If A is the mother of B, B is the father of C, and C is the brother of D, how is A related to D?",
-          "q_hi": "यदि A, B की माता है...",
-          "opts": [
-            "Grandmother",
-            "Mother",
-            "Aunt",
-            "Sister"
-          ],
-          "opts_hi": [
-            "दादी/नानी",
-            "माता",
-            "चाची/मामी",
-            "बहन"
-          ],
-          "ans": 0,
-          "subject": "General Intelligence"
-        },
-        {
-          "q": "How many states are there in India?",
-          "q_hi": "भारत में कितने राज्य हैं?",
-          "opts": [
-            "26",
-            "27",
-            "28",
-            "29"
-          ],
-          "opts_hi": [
-            "26",
-            "27",
-            "28",
-            "29"
-          ],
-          "ans": 2,
-          "subject": "General Awareness"
-        },
-        {
-          "q": "Which is the smallest bone in human body?",
-          "q_hi": "मानव शरीर की सबसे छोटी हड्डी कौन सी है?",
-          "opts": [
-            "Femur",
-            "Stapes",
-            "Tibia",
-            "Radius"
-          ],
-          "opts_hi": [
-            "फीमर",
-            "स्टेपीस",
-            "टिबिया",
-            "रेडियस"
-          ],
+          "q": "Which of the following is the capital of France?",
+          "q_hi": "निम्नलिखित में से फ्रांस की राजधानी कौन सी है?",
+          "opts": ["London", "Paris", "Berlin", "Madrid"],
+          "opts_hi": ["लंदन", "पेरिस", "बर्लिन", "मैड्रिड"],
           "ans": 1,
           "subject": "General Awareness"
         },
         {
-          "q": "RBI was established in?",
-          "q_hi": "RBI की स्थापना कब हुई थी?",
-          "opts": [
-            "1930",
-            "1932",
-            "1935",
-            "1947"
-          ],
-          "opts_hi": [
-            "1930",
-            "1932",
-            "1935",
-            "1947"
-          ],
-          "ans": 2,
-          "subject": "General Awareness"
-        },
-        {
-          "q": "Hydrogen bomb is based on?",
-          "q_hi": "हाइड्रोजन बम किस सिद्धांत पर आधारित है?",
-          "opts": [
-            "Nuclear Fission",
-            "Nuclear Fusion",
-            "Chemical Reaction",
-            "Radioactive Decay"
-          ],
-          "opts_hi": [
-            "नाभिकीय विखंडन",
-            "नाभिकीय संलयन",
-            "रासायनिक अभिक्रिया",
-            "रेडियोधर्मी क्षय"
-          ],
-          "ans": 1,
-          "subject": "General Awareness"
-        },
-        {
-          "q": "First General Elections in India were held in?",
-          "q_hi": "भारत में पहले आम चुनाव कब हुए थे?",
-          "opts": [
-            "1947",
-            "1950",
-            "1952",
-            "1955"
-          ],
-          "opts_hi": [
-            "1947",
-            "1950",
-            "1952",
-            "1955"
-          ],
-          "ans": 2,
-          "subject": "General Awareness"
-        },
-        {
-          "q": "Which country is called the 'Land of Rising Sun'?",
-          "q_hi": "किस देश को 'उगते सूरज की भूमि' कहा जाता है?",
-          "opts": [
-            "China",
-            "South Korea",
-            "Japan",
-            "Thailand"
-          ],
-          "opts_hi": [
-            "चीन",
-            "दक्षिण कोरिया",
-            "जापान",
-            "थाईलैंड"
-          ],
-          "ans": 2,
-          "subject": "General Awareness"
-        },
-        {
-          "q": "Which committee recommended the establishment of the National Bank for Agriculture and Rural Development (NABARD)?",
-          "q_hi": "राष्ट्रीय कृषि और ग्रामीण विकास बैंक (NABARD) की स्थापना की सिफारिश किस समिति ने की थी?",
-          "opts": [
-            "Narasimham Committee",
-            "Rangarajan Committee",
-            "Shivraman Committee",
-            "Gadgil Committee"
-          ],
-          "opts_hi": [
-            "नरसिम्हम समिति",
-            "रंगराजन समिति",
-            "शिवरमन समिति",
-            "गाडगिल समिति"
-          ],
-          "ans": 2,
-          "subject": "General Awareness"
-        },
-        {
-          "q": "Who appoints the Chief Election Commissioner of India?",
-          "q_hi": "भारत के मुख्य चुनाव आयुक्त की नियुक्ति कौन करता है?",
-          "opts": [
-            "Prime Minister of India",
-            "President of India",
-            "Chief Justice of India",
-            "Lok Sabha Speaker"
-          ],
-          "opts_hi": [
-            "भारत के प्रधान मंत्री",
-            "भारत के राष्ट्रपति",
-            "भारत के मुख्य न्यायाधीश",
-            "लोक सभा अध्यक्ष"
-          ],
-          "ans": 1,
-          "subject": "General Awareness"
-        },
-        {
-          "q": "Which of the following is the apex bank for agricultural credit in India?",
-          "q_hi": "भारत में कृषि ऋण के लिए शीर्ष बैंक निम्नलिखित में से कौन सा है?",
-          "opts": [
-            "Reserve Bank of India (RBI)",
-            "State Bank of India (SBI)",
-            "NABARD",
-            "Punjab National Bank (PNB)"
-          ],
-          "opts_hi": [
-            "भारतीय रिजर्व बैंक (RBI)",
-            "भारतीय स्टेट बैंक (SBI)",
-            "NABARD",
-            "पंजाब नेशनल बैंक (PNB)"
-          ],
-          "ans": 2,
-          "subject": "General Awareness"
-        },
-        {
-          "q": "Which of the following is the apex body for regulating the insurance sector in India?",
-          "q_hi": "भारत में बीमा क्षेत्र को विनियमित करने के लिए शीर्ष निकाय निम्नलिखित में से कौन सा है?",
-          "opts": [
-            "SEBI",
-            "IRDAI",
-            "RBI",
-            "PFRDA"
-          ],
-          "opts_hi": [
-            "SEBI",
-            "IRDAI",
-            "RBI",
-            "PFRDA"
-          ],
-          "ans": 1,
-          "subject": "General Awareness"
-        },
-        {
-          "q": "Which of the following is the largest organ in the human body?",
-          "q_hi": "मानव शरीर का सबसे बड़ा अंग निम्नलिखित में से कौन सा है?",
-          "opts": [
-            "Liver",
-            "Heart",
-            "Skin",
-            "Brain"
-          ],
-          "opts_hi": [
-            "यकृत",
-            "हृदय",
-            "त्वचा",
-            "मस्तिष्क"
-          ],
-          "ans": 2,
-          "subject": "General Awareness"
-        },
-        {
-          "q": "Which of the following is the full form of GDP?",
-          "q_hi": "GDP का पूर्ण रूप निम्नलिखित में से कौन सा है?",
-          "opts": [
-            "Gross Domestic Product",
-            "Gross Development Product",
-            "Growth Domestic Product",
-            "General Domestic Product"
-          ],
-          "opts_hi": [
-            "ग्रॉस डोमेस्टिक प्रोडक्ट",
-            "ग्रॉस डेवलपमेंट प्रोडक्ट",
-            "ग्रोथ डोमेस्टिक प्रोडक्ट",
-            "जनरल डोमेस्टिक प्रोडक्ट"
-          ],
-          "ans": 0,
-          "subject": "General Awareness"
-        },
-        {
-          "q": "Which of the following is the highest waterfall in India?",
-          "q_hi": "भारत की सबसे ऊँची जलप्रपात निम्नलिखित में से कौन सी है?",
-          "opts": [
-            "Jog Falls",
-            "Kunchikal Falls",
-            "Dudhsagar Falls",
-            "Hogenakkal Falls"
-          ],
-          "opts_hi": [
-            "जोग जलप्रपात",
-            "कुंचीकल जलप्रपात",
-            "दूधसागर जलप्रपात",
-            "होगेनकल जलप्रपात"
-          ],
-          "ans": 1,
-          "subject": "General Awareness"
-        },
-        {
-          "q": "India and which country signed a Memorandum of Understanding to manufacture aircraft in India?",
-          "q_hi": "भारत में विमान निर्माण के लिए भारत ने किस देश के साथ समझौता ज्ञापन पर हस्ताक्षर किए?",
-          "opts": [
-            "USA",
-            "Brazil",
-            "France",
-            "Russia"
-          ],
-          "opts_hi": [
-            "यूएसए",
-            "ब्राजील",
-            "फ्रांस",
-            "रूस"
-          ],
-          "ans": 1,
-          "subject": "General Awareness"
-        },
-        {
-          "q": "Which state launched the 'Chief Minister Sehat Yojana' for free cashless healthcare?",
-          "q_hi": "मुफ्त कैशलेस स्वास्थ्य सेवा के लिए 'मुख्यमंत्री सेहत योजना' किस राज्य ने शुरू की?",
-          "opts": [
-            "Haryana",
-            "Rajasthan",
-            "Himachal Pradesh",
-            "Punjab"
-          ],
-          "opts_hi": [
-            "हरियाणा",
-            "राजस्थान",
-            "हिमाचल प्रदेश",
-            "पंजाब"
-          ],
+          "q": "The largest ocean in the world is:",
+          "q_hi": "विश्व का सबसे बड़ा महासागर कौन सा है?",
+          "opts": ["Atlantic", "Indian", "Arctic", "Pacific"],
+          "opts_hi": ["अटलांटिक", "हिंद", "आर्कटिक", "प्रशांत"],
           "ans": 3,
           "subject": "General Awareness"
         },
         {
-          "q": "Who won the Wiley Research Heroes Prize 2025?",
-          "q_hi": "विली रिसर्च हीरोज पुरस्कार 2025 किसने जीता?",
-          "opts": [
-            "Soumya Swaminathan",
-            "Randeep Guleria",
-            "Chandrakant Lahariya",
-            "Arvind Panagariya"
-          ],
-          "opts_hi": [
-            "सौम्या स्वामीनाथन",
-            "रणदीप गुलेरिया",
-            "चंद्रकांत लहरिया",
-            "अरविंद पनगढ़िया"
-          ],
-          "ans": 2,
-          "subject": "General Awareness"
-        },
-        {
-          "q": "Uttar Pradesh launched 'Nivesh Mitra 3.0' to improve what?",
-          "q_hi": "उत्तर प्रदेश ने 'निवेश मित्र 3.0' किसे बेहतर बनाने के लिए लॉन्च किया?",
-          "opts": [
-            "Agriculture productivity",
-            "Investor experience",
-            "Healthcare services",
-            "Education quality"
-          ],
-          "opts_hi": [
-            "कृषि उत्पादकता",
-            "निवेशक अनुभव",
-            "स्वास्थ्य सेवाएँ",
-            "शिक्षा की गुणवत्ता"
-          ],
-          "ans": 1,
-          "subject": "General Awareness"
-        },
-        {
-          "q": "Which organization launched its first structured Bug Bounty Programme to strengthen Aadhaar security?",
-          "q_hi": "आधार सुरक्षा को मजबूत करने के लिए किस संगठन ने अपना पहला संरचित बग बाउंटी कार्यक्रम लॉन्च किया?",
-          "opts": [
-            "RBI",
-            "SEBI",
-            "UIDAI",
-            "MeitY"
-          ],
-          "opts_hi": [
-            "RBI",
-            "SEBI",
-            "UIDAI",
-            "MeitY"
-          ],
-          "ans": 2,
-          "subject": "General Awareness"
-        },
-        {
-          "q": "Which of the following statements about Green Hydrogen is/are correct? 1. It is decarbonized hydrogen obtained from natural gas reforming combined with carbon capture and storage (CCS). 2. It is produced using electrolysis of water with electricity generated by renewable energy. 3. National Green Hydrogen Mission of India aims for abatement of nearly 50 MMT of annual greenhouse gas emissions by 2030.",
-          "q_hi": "ग्रीन हाइड्रोजन के बारे में निम्नलिखित में से कौन सा/से कथन सही है/हैं?",
-          "opts": [
-            "1 only",
-            "1 and 3 only",
-            "2 and 3 only",
-            "1, 2 and 3"
-          ],
-          "opts_hi": [
-            "केवल 1",
-            "केवल 1 और 3",
-            "केवल 2 और 3",
-            "1, 2 और 3"
-          ],
-          "ans": 2,
-          "subject": "General Awareness"
-        },
-        {
-          "q": "Which cells are responsible for the production of antibodies in the human body?",
-          "q_hi": "मानव शरीर में एंटीबॉडी के उत्पादन के लिए कौन सी कोशिकाएँ जिम्मेदार हैं?",
-          "opts": [
-            "Red Blood Cells (RBCs)",
-            "White Blood Cells (WBCs - B Lymphocytes)",
-            "Platelets",
-            "Plasma cells"
-          ],
-          "opts_hi": [
-            "लाल रक्त कोशिकाएँ (RBCs)",
-            "श्वेत रक्त कोशिकाएँ (WBCs - B लिम्फोसाइट्स)",
-            "प्लेटलेट्स",
-            "प्लाज्मा कोशिकाएँ"
-          ],
-          "ans": 1,
-          "subject": "General Awareness"
-        },
-        {
-          "q": "Consider the following statements with regard to involvement of private entities in India's space programme...",
-          "q_hi": "भारत के अंतरिक्ष कार्यक्रम में निजी संस्थाओं की भागीदारी के संबंध में...",
-          "opts": [
-            "1 only",
-            "1 and 2 only",
-            "2 and 3 only",
-            "1, 2 and 3"
-          ],
-          "opts_hi": [
-            "केवल 1",
-            "केवल 1 और 2",
-            "केवल 2 और 3",
-            "1, 2 और 3"
-          ],
-          "ans": 2,
-          "subject": "General Awareness"
-        },
-        {
-          "q": "Which of the following statements regarding the features of blockchain technology are correct?...",
-          "q_hi": "ब्लॉकचेन प्रौद्योगिकी की विशेषताओं के बारे में...",
-          "opts": [
-            "1 and 3 only",
-            "2 and 4 only",
-            "1, 2 and 4",
-            "1 and 4 only"
-          ],
-          "opts_hi": [
-            "केवल 1 और 3",
-            "केवल 2 और 4",
-            "1, 2 और 4",
-            "केवल 1 और 4"
-          ],
-          "ans": 2,
-          "subject": "General Awareness"
-        },
-        {
-          "q": "Why is the Earth an oblate spheroid and not a perfect sphere?",
-          "q_hi": "पृथ्वी एक चपटी गोलाभ है और पूर्ण गोलक नहीं है यह किस कारण से है?",
-          "opts": [
-            "Earth's rotational speed increases from poles to equator",
-            "Equator experiences more gravitational pull from the Sun",
-            "Sunlight intensity is higher at equator",
-            "Earth's core is not spherical"
-          ],
-          "opts_hi": [
-            "पृथ्वी की घूर्णी गति ध्रुवों से भूमध्य रेखा की ओर बढ़ती है",
-            "भूमध्य रेखा सूर्य से अधिक गुरुत्वीय कर्षण अनुभव करती है",
-            "भूमध्य रेखा पर सूर्य प्रकाश की तीव्रता अधिक है",
-            "पृथ्वी का कोर गोलाकार नहीं है"
-          ],
-          "ans": 0,
-          "subject": "General Awareness"
-        },
-        {
-          "q": "What is the pH value of pure water?",
-          "q_hi": "शुद्ध जल का pH मान क्या है?",
-          "opts": [
-            "5",
-            "6",
-            "7",
-            "8"
-          ],
-          "opts_hi": [
-            "5",
-            "6",
-            "7",
-            "8"
-          ],
-          "ans": 2,
-          "subject": "General Awareness"
-        },
-        {
-          "q": "Which gas is used in fire extinguishers?",
-          "q_hi": "अग्निशामक यंत्रों में किस गैस का उपयोग किया जाता है?",
-          "opts": [
-            "Oxygen",
-            "Nitrogen",
-            "Carbon dioxide",
-            "Hydrogen"
-          ],
-          "opts_hi": [
-            "ऑक्सीजन",
-            "नाइट्रोजन",
-            "कार्बन डाइऑक्साइड",
-            "हाइड्रोजन"
-          ],
-          "ans": 2,
-          "subject": "General Awareness"
-        },
-        {
-          "q": "Which of the following rivers is NOT a tributary of the Ganga River system?",
-          "q_hi": "निम्नलिखित में से कौन सी नदी गंगा नदी तंत्र की सहायक नदी नहीं है?",
-          "opts": [
-            "Yamuna",
-            "Ghaghara",
-            "Son",
-            "Mahanadi"
-          ],
-          "opts_hi": [
-            "यमुना",
-            "घाघरा",
-            "सोन",
-            "महानदी"
-          ],
-          "ans": 3,
-          "subject": "General Awareness"
-        },
-        {
-          "q": "What is 40% of 250?",
-          "q_hi": "250 का 40% क्या है?",
-          "opts": [
-            "80",
-            "90",
-            "100",
-            "110"
-          ],
-          "opts_hi": [
-            "80",
-            "90",
-            "100",
-            "110"
-          ],
+          "q": "What is the square root of 144?",
+          "q_hi": "144 का वर्गमूल क्या है?",
+          "opts": ["10", "11", "12", "13"],
+          "opts_hi": ["10", "11", "12", "13"],
           "ans": 2,
           "subject": "Quantitative Aptitude"
         },
         {
-          "q": "Average of 10, 20, 30, 40, 50 is?",
-          "q_hi": "10, 20, 30, 40, 50 का औसत क्या है?",
-          "opts": [
-            "25",
-            "30",
-            "35",
-            "40"
-          ],
-          "opts_hi": [
-            "25",
-            "30",
-            "35",
-            "40"
-          ],
-          "ans": 1,
-          "subject": "Quantitative Aptitude"
-        },
-        {
-          "q": "If the price of a commodity is increased by 20%, by what percentage should the consumption be reduced to keep the expenditure same?",
-          "q_hi": "यदि किसी वस्तु की कीमत 20% बढ़ा दी जाए, तो खर्च को समान रखने के लिए खपत कितने प्रतिशत कम की जानी चाहिए?",
-          "opts": [
-            "0.1667",
-            "0.2",
-            "0.25",
-            "0.15"
-          ],
-          "opts_hi": [
-            "0.1667",
-            "0.2",
-            "0.25",
-            "0.15"
-          ],
-          "ans": 0,
-          "subject": "Quantitative Aptitude"
-        },
-        {
-          "q": "A shopkeeper buys an article for Rs. 400 and sells it at a profit of 20%. What is the selling price?",
-          "q_hi": "एक दुकानदार एक वस्तु Rs. 400 में खरीदता है और 20% लाभ पर बेचता है। विक्रय मूल्य क्या है?",
-          "opts": [
-            "Rs. 480",
-            "Rs. 500",
-            "Rs. 450",
-            "Rs. 520"
-          ],
-          "opts_hi": [
-            "Rs. 480",
-            "Rs. 500",
-            "Rs. 450",
-            "Rs. 520"
-          ],
-          "ans": 0,
-          "subject": "Quantitative Aptitude"
-        },
-        {
-          "q": "The LCM of two numbers is 144 and their HCF is 6. If one number is 18, what is the other number?",
-          "q_hi": "दो संख्याओं का LCM 144 है और उनका HCF 6 है। यदि एक संख्या 18 है, तो दूसरी संख्या क्या है?",
-          "opts": [
-            "42",
-            "48",
-            "54",
-            "60"
-          ],
-          "opts_hi": [
-            "42",
-            "48",
-            "54",
-            "60"
-          ],
-          "ans": 1,
-          "subject": "Quantitative Aptitude"
-        },
-        {
-          "q": "If x² + 1/x² = 14, find the value of x + 1/x.",
-          "q_hi": "यदि x² + 1/x² = 14 है, तो x + 1/x का मान ज्ञात करें।",
-          "opts": [
-            "3",
-            "4",
-            "5",
-            "6"
-          ],
-          "opts_hi": [
-            "3",
-            "4",
-            "5",
-            "6"
-          ],
-          "ans": 1,
-          "subject": "Quantitative Aptitude"
-        },
-        {
-          "q": "Find the HCF of 24 and 36.",
-          "q_hi": "24 और 36 का HCF ज्ञात करें।",
-          "opts": [
-            "6",
-            "8",
-            "12",
-            "18"
-          ],
-          "opts_hi": [
-            "6",
-            "8",
-            "12",
-            "18"
-          ],
-          "ans": 2,
-          "subject": "Quantitative Aptitude"
-        },
-        {
-          "q": "A number is increased by 20%. Find the increase if the original number is 200.",
-          "q_hi": "एक संख्या 20% बढ़ा दी जाती है। यदि मूल संख्या 200 है, तो वृद्धि ज्ञात करें।",
-          "opts": [
-            "30",
-            "40",
-            "50",
-            "60"
-          ],
-          "opts_hi": [
-            "30",
-            "40",
-            "50",
-            "60"
-          ],
-          "ans": 1,
-          "subject": "Quantitative Aptitude"
-        },
-        {
-          "q": "Find the LCM of 12 and 18.",
-          "q_hi": "12 और 18 का LCM ज्ञात करें।",
-          "opts": [
-            "18",
-            "24",
-            "36",
-            "72"
-          ],
-          "opts_hi": [
-            "18",
-            "24",
-            "36",
-            "72"
-          ],
-          "ans": 2,
-          "subject": "Quantitative Aptitude"
-        },
-        {
-          "q": "How many prime numbers are there between 1 and 50?",
-          "q_hi": "1 और 50 के बीच कितनी अभाज्य संख्याएँ हैं?",
-          "opts": [
-            "12",
-            "15",
-            "17",
-            "20"
-          ],
-          "opts_hi": [
-            "12",
-            "15",
-            "17",
-            "20"
-          ],
-          "ans": 1,
-          "subject": "Quantitative Aptitude"
-        },
-        {
-          "q": "A and B together can complete a work in 12 days. If A alone can complete it in 18 days, in how many days can B alone complete the work?",
-          "q_hi": "A और B मिलकर किसी कार्य को 12 दिनों में पूरा कर सकते हैं।",
-          "opts": [
-            "24 days",
-            "30 days",
-            "36 days",
-            "42 days"
-          ],
-          "opts_hi": [
-            "24 दिन",
-            "30 दिन",
-            "36 दिन",
-            "42 दिन"
-          ],
-          "ans": 2,
-          "subject": "Quantitative Aptitude"
-        },
-        {
-          "q": "Find the LCM of 15, 25 and 30.",
-          "q_hi": "15, 25 और 30 का LCM ज्ञात करें।",
-          "opts": [
-            "75",
-            "100",
-            "125",
-            "150"
-          ],
-          "opts_hi": [
-            "75",
-            "100",
-            "125",
-            "150"
-          ],
+          "q": "If x = 5, find the value of 2x + 3.",
+          "q_hi": "यदि x = 5 है, तो 2x + 3 का मान ज्ञात करें।",
+          "opts": ["10", "11", "12", "13"],
+          "opts_hi": ["10", "11", "12", "13"],
           "ans": 3,
           "subject": "Quantitative Aptitude"
         },
         {
-          "q": "If a + b = 12 and a - b = 4, find the value of ab.",
-          "q_hi": "यदि a + b = 12 और a - b = 4 है, तो ab का मान ज्ञात करें।",
-          "opts": [
-            "28",
-            "30",
-            "32",
-            "34"
-          ],
-          "opts_hi": [
-            "28",
-            "30",
-            "32",
-            "34"
-          ],
-          "ans": 2,
-          "subject": "Quantitative Aptitude"
-        },
-        {
-          "q": "One word for 'A person who cannot be corrected'?",
-          "q_hi": "'जिसे सुधारा न जा सके' के लिए एक शब्द?",
-          "opts": [
-            "Insolvent",
-            "Incorrigible",
-            "Ineligible",
-            "Incompetent"
-          ],
-          "opts_hi": [
-            "दिवालिया",
-            "असुधार्य",
-            "अपात्र",
-            "अयोग्य"
-          ],
+          "q": "Synonym of 'Happy'?",
+          "q_hi": "'Happy' का पर्यायवाची शब्द?",
+          "opts": ["Sad", "Joyful", "Angry", "Tired"],
+          "opts_hi": ["उदास", "प्रसन्न", "क्रोधित", "थका"],
           "ans": 1,
           "subject": "English Language"
         },
         {
-          "q": "Passive voice: 'Ram writes a letter'?",
-          "q_hi": "'Ram writes a letter' का कर्मवाच्य (Passive Voice) क्या है?",
-          "opts": [
-            "A letter is written by Ram",
-            "A letter was written by Ram",
-            "A letter has been written by Ram",
-            "A letter will be written by Ram"
-          ],
-          "opts_hi": [
-            "राम द्वारा एक पत्र लिखा जाता है",
-            "राम द्वारा एक पत्र लिखा गया था",
-            "राम द्वारा एक पत्र लिखा जा चुका है",
-            "राम द्वारा एक पत्र लिखा जाएगा"
-          ],
+          "q": "Antonym of 'Dark'?",
+          "q_hi": "'Dark' का विलोम शब्द?",
+          "opts": ["Light", "Black", "Night", "Dim"],
+          "opts_hi": ["प्रकाश", "काला", "रात", "मंद"],
           "ans": 0,
+          "subject": "English Language"
+        },
+        {
+          "q": "Fill in the blank: She is _______ than her sister.",
+          "q_hi": "रिक्त स्थान भरें: She is _______ than her sister.",
+          "opts": ["tall", "taller", "tallest", "more tall"],
+          "opts_hi": ["tall", "taller", "tallest", "more tall"],
+          "ans": 1,
           "subject": "English Language"
         }
       ]
@@ -1059,24 +95,24 @@
       "title": "SSC CHSL Mock Test 2",
       "duration": 10,
       "difficulty": "Medium",
+      "correctMarks": 2,
+      "negativeMarks": 0.5,
       "questions": [
         {
-          "q": "The Directive Principles of State Policy are borrowed from which Constitution?",
-          "q_hi": "राज्य नीति के निदेशक सिद्धांत किस संविधान से लिए गए हैं?",
-          "opts": [
-            "Irish Constitution",
-            "British Constitution",
-            "US Constitution",
-            "Canadian Constitution"
-          ],
-          "opts_hi": [
-            "आयरिश संविधान",
-            "ब्रिटिश संविधान",
-            "अमेरिकी संविधान",
-            "कनाडाई संविधान"
-          ],
+          "q": "Select the correct option: 8 : 512 :: 7 : ?",
+          "q_hi": "सही विकल्प चुनें: 8 : 512 :: 7 : ?",
+          "opts": ["343", "349", "280", "324"],
+          "opts_hi": ["343", "349", "280", "324"],
           "ans": 0,
-          "subject": "Polity"
+          "subject": "General Intelligence"
+        },
+        {
+          "q": "Who wrote the national anthem of India?",
+          "q_hi": "भारत का राष्ट्रगान किसने लिखा?",
+          "opts": ["Rabindranath Tagore", "Bankim Chandra", "Subhash Chandra Bose", "Mahatma Gandhi"],
+          "opts_hi": ["रवीन्द्रनाथ टैगोर", "बंकिम चंद्र", "सुभाष चंद्र बोस", "महात्मा गांधी"],
+          "ans": 0,
+          "subject": "General Awareness"
         }
       ]
     },
@@ -1085,24 +121,16 @@
       "title": "SSC CHSL Mock Test 3",
       "duration": 10,
       "difficulty": "Medium",
+      "correctMarks": 2,
+      "negativeMarks": 0.5,
       "questions": [
         {
-          "q": "Who was the founder of the Indian National Army (Azad Hind Fauj)?",
-          "q_hi": "भारतीय राष्ट्रीय सेना (आज़ाद हिंद फौज) का संस्थापक कौन था?",
-          "opts": [
-            "Subhas Chandra Bose",
-            "Rash Behari Bose",
-            "Captain Mohan Singh",
-            "Jawaharlal Nehru"
-          ],
-          "opts_hi": [
-            "सुभाष चंद्र बोस",
-            "रास बिहारी बोस",
-            "कैप्टन मोहन सिंह",
-            "जवाहरलाल नेहरू"
-          ],
+          "q": "Which of the following is NOT a type of computer memory?",
+          "q_hi": "निम्नलिखित में से कौन सा कंप्यूटर मेमोरी का प्रकार नहीं है?",
+          "opts": ["RAM", "ROM", "CPU", "Cache"],
+          "opts_hi": ["RAM", "ROM", "CPU", "Cache"],
           "ans": 2,
-          "subject": "History"
+          "subject": "General Awareness"
         }
       ]
     },
@@ -1111,42 +139,32 @@
       "title": "SSC CHSL Mock Test 4",
       "duration": 10,
       "difficulty": "Medium",
+      "correctMarks": 2,
+      "negativeMarks": 0.5,
       "questions": [
         {
-          "q": "The Appointments Committee of the Cabinet approved new heads for which police organizations in July 2026?",
-          "q_hi": "जुलाई 2026 में मंत्रिमंडल की नियुक्ति समिति ने किन पुलिस संगठनों के लिए नए प्रमुखों को मंजूरी दी?",
-          "opts": [
-            "BPR&D, NCRB, SVPNPA",
-            "CBI, IB, RAW",
-            "BSF, CRPF, ITBP",
-            "NSG, NIA, CISF"
-          ],
-          "opts_hi": [
-            "बीपीआरएंडडी, एनसीआरबी, एसवीपीएनपीए",
-            "सीबीआई, आईबी, रॉ",
-            "बीएसएफ, सीआरपीएफ, आईटीबीपी",
-            "एनएसजी, एनआईए, सीआईएसएफ"
-          ],
-          "ans": 0,
-          "subject": "Current Affairs"
+          "q": "What is 25% of 200?",
+          "q_hi": "200 का 25% कितना है?",
+          "opts": ["25", "50", "75", "100"],
+          "opts_hi": ["25", "50", "75", "100"],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
         },
         {
-          "q": "Sanjeev Jain was appointed as India's Ambassador to which country in July 2026?",
-          "q_hi": "जुलाई 2026 में संजीव जैन को भारत का राजदूत किस देश में नियुक्त किया गया?",
-          "opts": [
-            "North Korea",
-            "South Korea",
-            "Japan",
-            "China"
-          ],
-          "opts_hi": [
-            "उत्तर कोरिया",
-            "दक्षिण कोरिया",
-            "जापान",
-            "चीन"
-          ],
-          "ans": 0,
-          "subject": "Current Affairs"
+          "q": "Find the odd one out: Apple, Orange, Mango, Potato",
+          "q_hi": "विषम ज्ञात करें: Apple, Orange, Mango, Potato",
+          "opts": ["Apple", "Orange", "Mango", "Potato"],
+          "opts_hi": ["Apple", "Orange", "Mango", "Potato"],
+          "ans": 3,
+          "subject": "General Intelligence"
+        },
+        {
+          "q": "What is the plural of 'Child'?",
+          "q_hi": "'Child' का बहुवचन क्या है?",
+          "opts": ["Childs", "Children", "Childes", "Childen"],
+          "opts_hi": ["Childs", "Children", "Childes", "Childen"],
+          "ans": 1,
+          "subject": "English Language"
         }
       ]
     },
@@ -1155,42 +173,484 @@
       "title": "SSC CHSL Mock Test 5",
       "duration": 10,
       "difficulty": "Medium",
+      "correctMarks": 2,
+      "negativeMarks": 0.5,
       "questions": [
         {
-          "q": "The Income-tax (Amendment) Bill, 2026, proposed to replace an ordinance exempting foreign investors from tax on investments in which financial instrument?",
-          "q_hi": "Income-tax (Amendment) Bill, 2026, विदेशी निवेशकों को किस वित्तीय साधन में निवेश पर कर से छूट देने वाले अध्यादेश को बदलने का प्रस्ताव है?",
-          "opts": [
-            "Corporate Bonds",
-            "Government Securities (G-secs)",
-            "Equity Shares",
-            "Mutual Funds"
-          ],
-          "opts_hi": [
-            "कॉर्पोरेट बॉन्ड",
-            "सरकारी प्रतिभूतियाँ (G-secs)",
-            "इक्विटी शेयर",
-            "म्यूचुअल फंड"
-          ],
-          "ans": 1,
-          "subject": "Current Affairs"
+          "q": "Which planet is nearest to the Sun?",
+          "q_hi": "सूर्य के सबसे निकट ग्रह कौन सा है?",
+          "opts": ["Venus", "Earth", "Mercury", "Mars"],
+          "opts_hi": ["शुक्र", "पृथ्वी", "बुध", "मंगल"],
+          "ans": 2,
+          "subject": "General Awareness"
+        }
+      ]
+    },
+    {
+      "id": "ssc_chsl_6",
+      "title": "SSC CHSL Mock Test 6",
+      "duration": 10,
+      "difficulty": "Medium",
+      "correctMarks": 2,
+      "negativeMarks": 0.5,
+      "questions": [
+        {
+          "q": "Complete the series: 1, 4, 9, 16, ?",
+          "q_hi": "श्रृंखला पूरी करें: 1, 4, 9, 16, ?",
+          "opts": ["20", "21", "22", "25"],
+          "opts_hi": ["20", "21", "22", "25"],
+          "ans": 3,
+          "subject": "Quantitative Aptitude"
         },
         {
-          "q": "How many doping cases were recorded in India as of July 15, 2026, according to the Sports Minister?",
-          "q_hi": "खेल मंत्री के अनुसार, 15 जुलाई 2026 तक भारत में कितने डोपिंग मामले दर्ज किए गए?",
-          "opts": [
-            "260",
-            "131",
-            "78",
-            "220"
-          ],
-          "opts_hi": [
-            "260",
-            "131",
-            "78",
-            "220"
-          ],
+          "q": "Select the correct meaning of 'Benevolent'.",
+          "q_hi": "'Benevolent' का सही अर्थ चुनें।",
+          "opts": ["Cruel", "Kind", "Angry", "Sad"],
+          "opts_hi": ["क्रूर", "दयालु", "क्रोधित", "उदास"],
+          "ans": 1,
+          "subject": "English Language"
+        }
+      ]
+    },
+    {
+      "id": "ssc_chsl_7",
+      "title": "SSC CHSL Mock Test 7",
+      "duration": 10,
+      "difficulty": "Medium",
+      "correctMarks": 2,
+      "negativeMarks": 0.5,
+      "questions": [
+        {
+          "q": "What is the full form of CPU?",
+          "q_hi": "CPU का पूर्ण रूप क्या है?",
+          "opts": ["Central Processing Unit", "Computer Processing Unit", "Central Program Unit", "Computer Program Unit"],
+          "opts_hi": ["सेंट्रल प्रोसेसिंग यूनिट", "कंप्यूटर प्रोसेसिंग यूनिट", "सेंट्रल प्रोग्राम यूनिट", "कंप्यूटर प्रोग्राम यूनिट"],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "If 3x + 5 = 20, find x.",
+          "q_hi": "यदि 3x + 5 = 20 है, तो x ज्ञात करें।",
+          "opts": ["3", "4", "5", "6"],
+          "opts_hi": ["3", "4", "5", "6"],
           "ans": 2,
-          "subject": "Current Affairs"
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Which of the following is an example of a proper noun?",
+          "q_hi": "निम्नलिखित में से कौन सा एक व्यक्तिवाचक संज्ञा का उदाहरण है?",
+          "opts": ["City", "Country", "India", "River"],
+          "opts_hi": ["City", "Country", "India", "River"],
+          "ans": 2,
+          "subject": "English Language"
+        },
+        {
+          "q": "What comes next in the series: 2, 6, 12, 20, ?",
+          "q_hi": "श्रृंखला में आगे क्या आएगा: 2, 6, 12, 20, ?",
+          "opts": ["26", "28", "30", "32"],
+          "opts_hi": ["26", "28", "30", "32"],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        }
+      ]
+    },
+    {
+      "id": "ssc_chsl_8",
+      "title": "SSC CHSL Mock Test 8",
+      "duration": 10,
+      "difficulty": "Medium",
+      "correctMarks": 2,
+      "negativeMarks": 0.5,
+      "questions": [
+        {
+          "q": "What is the capital of Australia?",
+          "q_hi": "ऑस्ट्रेलिया की राजधानी क्या है?",
+          "opts": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+          "opts_hi": ["सिडनी", "मेलबर्न", "कैनबरा", "ब्रिस्बेन"],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Find the value of 7 + 8 × 2 - 5.",
+          "q_hi": "7 + 8 × 2 - 5 का मान ज्ञात करें।",
+          "opts": ["17", "18", "19", "20"],
+          "opts_hi": ["17", "18", "19", "20"],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        }
+      ]
+    },
+    {
+      "id": "ssc_chsl_9",
+      "title": "SSC CHSL Mock Test 9",
+      "duration": 10,
+      "difficulty": "Medium",
+      "correctMarks": 2,
+      "negativeMarks": 0.5,
+      "questions": [
+        {
+          "q": "Which gas is used in fire extinguishers?",
+          "q_hi": "अग्निशामक यंत्रों में कौन सी गैस का उपयोग किया जाता है?",
+          "opts": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+          "opts_hi": ["ऑक्सीजन", "कार्बन डाइऑक्साइड", "नाइट्रोजन", "हाइड्रोजन"],
+          "ans": 1,
+          "subject": "General Awareness"
+        }
+      ]
+    },
+    {
+      "id": "ssc_chsl_10",
+      "title": "SSC CHSL Mock Test 10",
+      "duration": 10,
+      "difficulty": "Medium",
+      "correctMarks": 2,
+      "negativeMarks": 0.5,
+      "questions": [
+        {
+          "q": "Select the odd one: 3, 6, 9, 12, 15, 18, 21, 24, 27, 30, 33, 36, 39, 42, 45, 48, 51, 54, 57, 60, 63, 66, 69, 72, 75, 78, 81, 84, 87, 90, 93, 96, 99, 102, 105",
+          "q_hi": "विषम चुनें: 3, 6, 9, 12, 15, 18, 21, 24, 27, 30, 33, 36, 39, 42, 45, 48, 51, 54, 57, 60, 63, 66, 69, 72, 75, 78, 81, 84, 87, 90, 93, 96, 99, 102, 105",
+          "opts": ["102", "99", "96", "None, all are multiples of 3"],
+          "opts_hi": ["102", "99", "96", "कोई नहीं, सभी 3 के गुणज हैं"],
+          "ans": 3,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "What is the meaning of 'Diligent'?",
+          "q_hi": "'Diligent' का अर्थ क्या है?",
+          "opts": ["Lazy", "Hardworking", "Slow", "Careless"],
+          "opts_hi": ["आलसी", "मेहनती", "धीमा", "लापरवाह"],
+          "ans": 1,
+          "subject": "English Language"
+        },
+        {
+          "q": "Find the odd one out: 11, 22, 33, 44, 55, 66, 77, 88, 99, 110, 121, 132, 143, 154, 165, 176, 187, 198, 209, 220, 231, 242, 253, 264, 275, 286, 297, 308, 319, 330",
+          "q_hi": "विषम ज्ञात करें: 11, 22, 33, 44, 55, 66, 77, 88, 99, 110, 121, 132, 143, 154, 165, 176, 187, 198, 209, 220, 231, 242, 253, 264, 275, 286, 297, 308, 319, 330",
+          "opts": ["330", "319", "308", "None, all are multiples of 11"],
+          "opts_hi": ["330", "319", "308", "कोई नहीं, सभी 11 के गुणज हैं"],
+          "ans": 3,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Which of the following is a primary color?",
+          "q_hi": "निम्नलिखित में से कौन सा प्राथमिक रंग है?",
+          "opts": ["Red", "Green", "Yellow", "All of the above"],
+          "opts_hi": ["लाल", "हरा", "पीला", "उपरोक्त सभी"],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "What is 10% of 500?",
+          "q_hi": "500 का 10% कितना है?",
+          "opts": ["25", "50", "75", "100"],
+          "opts_hi": ["25", "50", "75", "100"],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        }
+      ]
+    },
+    {
+      "id": "ssc_chsl_11",
+      "title": "SSC CHSL Mock Test 11",
+      "duration": 10,
+      "difficulty": "Medium",
+      "correctMarks": 2,
+      "negativeMarks": 0.5,
+      "questions": [
+        {
+          "q": "Complete the series: A, C, F, J, ?",
+          "q_hi": "श्रृंखला पूरी करें: A, C, F, J, ?",
+          "opts": ["O", "P", "Q", "R"],
+          "opts_hi": ["O", "P", "Q", "R"],
+          "ans": 0,
+          "subject": "General Intelligence"
+        },
+        {
+          "q": "The currency of Japan is:",
+          "q_hi": "जापान की मुद्रा है:",
+          "opts": ["Yuan", "Won", "Yen", "Ringgit"],
+          "opts_hi": ["युआन", "वोन", "येन", "रिंगित"],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "What is the sum of angles in a triangle?",
+          "q_hi": "त्रिभुज के कोणों का योग कितना होता है?",
+          "opts": ["90°", "180°", "270°", "360°"],
+          "opts_hi": ["90°", "180°", "270°", "360°"],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Select the correct word: She is _______ beautiful girl.",
+          "q_hi": "सही शब्द चुनें: She is _______ beautiful girl.",
+          "opts": ["a", "an", "the", "no article"],
+          "opts_hi": ["a", "an", "the", "no article"],
+          "ans": 0,
+          "subject": "English Language"
+        }
+      ]
+    },
+    {
+      "id": "ssc_chsl_12",
+      "title": "SSC CHSL Mock Test 12",
+      "duration": 10,
+      "difficulty": "Medium",
+      "correctMarks": 2,
+      "negativeMarks": 0.5,
+      "questions": [
+        {
+          "q": "Which is the longest river in India?",
+          "q_hi": "भारत की सबसे लंबी नदी कौन सी है?",
+          "opts": ["Ganga", "Brahmaputra", "Godavari", "Yamuna"],
+          "opts_hi": ["गंगा", "ब्रह्मपुत्र", "गोदावरी", "यमुना"],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Find the value of 2^3 + 3^2.",
+          "q_hi": "2^3 + 3^2 का मान ज्ञात करें।",
+          "opts": ["15", "17", "19", "21"],
+          "opts_hi": ["15", "17", "19", "21"],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "What is the synonym of 'Fast'?",
+          "q_hi": "'Fast' का पर्यायवाची शब्द क्या है?",
+          "opts": ["Slow", "Quick", "Lazy", "Calm"],
+          "opts_hi": ["धीमा", "त्वरित", "आलसी", "शांत"],
+          "ans": 1,
+          "subject": "English Language"
+        }
+      ]
+    },
+    {
+      "id": "ssc_chsl_13",
+      "title": "SSC CHSL Mock Test 13",
+      "duration": 10,
+      "difficulty": "Medium",
+      "correctMarks": 2,
+      "negativeMarks": 0.5,
+      "questions": [
+        {
+          "q": "Which of the following is a metal?",
+          "q_hi": "निम्नलिखित में से कौन सा धातु है?",
+          "opts": ["Oxygen", "Gold", "Carbon", "Nitrogen"],
+          "opts_hi": ["ऑक्सीजन", "सोना", "कार्बन", "नाइट्रोजन"],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "If 2a + 3b = 12 and a = 3, find b.",
+          "q_hi": "यदि 2a + 3b = 12 और a = 3 है, तो b ज्ञात करें।",
+          "opts": ["1", "2", "3", "4"],
+          "opts_hi": ["1", "2", "3", "4"],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        }
+      ]
+    },
+    {
+      "id": "ssc_chsl_14",
+      "title": "SSC CHSL Mock Test 14",
+      "duration": 10,
+      "difficulty": "Medium",
+      "correctMarks": 2,
+      "negativeMarks": 0.5,
+      "questions": [
+        {
+          "q": "Find the odd one: 1, 4, 9, 16, 25, 36, 49, 64, 81, 100, 121, 144, 169, 196, 225",
+          "q_hi": "विषम चुनें: 1, 4, 9, 16, 25, 36, 49, 64, 81, 100, 121, 144, 169, 196, 225",
+          "opts": ["225", "196", "169", "None, all are perfect squares"],
+          "opts_hi": ["225", "196", "169", "कोई नहीं, सभी पूर्ण वर्ग हैं"],
+          "ans": 3,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Which state is known as the 'Land of Five Rivers'?",
+          "q_hi": "'पाँच नदियों की भूमि' के रूप में कौन सा राज्य जाना जाता है?",
+          "opts": ["Punjab", "Haryana", "Rajasthan", "Uttar Pradesh"],
+          "opts_hi": ["पंजाब", "हरियाणा", "राजस्थान", "उत्तर प्रदेश"],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "What is the correct meaning of 'Abundant'?",
+          "q_hi": "'Abundant' का सही अर्थ क्या है?",
+          "opts": ["Scarce", "Plentiful", "Limited", "Rare"],
+          "opts_hi": ["दुर्लभ", "प्रचुर", "सीमित", "विरल"],
+          "ans": 1,
+          "subject": "English Language"
+        }
+      ]
+    },
+    {
+      "id": "ssc_chsl_15",
+      "title": "SSC CHSL Mock Test 15",
+      "duration": 10,
+      "difficulty": "Medium",
+      "correctMarks": 2,
+      "negativeMarks": 0.5,
+      "questions": [
+        {
+          "q": "What is the chemical symbol of Gold?",
+          "q_hi": "सोने का रासायनिक प्रतीक क्या है?",
+          "opts": ["Ag", "Au", "Fe", "Cu"],
+          "opts_hi": ["Ag", "Au", "Fe", "Cu"],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Complete the series: 2, 4, 8, 16, ?",
+          "q_hi": "श्रृंखला पूरी करें: 2, 4, 8, 16, ?",
+          "opts": ["24", "30", "32", "36"],
+          "opts_hi": ["24", "30", "32", "36"],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Which word is correctly spelled?",
+          "q_hi": "कौन सा शब्द सही वर्तनी वाला है?",
+          "opts": ["Neccessary", "Necessary", "Necesary", "Nessessary"],
+          "opts_hi": ["Neccessary", "Necessary", "Necesary", "Nessessary"],
+          "ans": 1,
+          "subject": "English Language"
+        }
+      ]
+    },
+    {
+      "id": "ssc_chsl_16",
+      "title": "SSC CHSL Mock Test 16",
+      "duration": 10,
+      "difficulty": "Medium",
+      "correctMarks": 2,
+      "negativeMarks": 0.5,
+      "questions": [
+        {
+          "q": "Which country has the largest population?",
+          "q_hi": "किस देश की जनसंख्या सबसे अधिक है?",
+          "opts": ["India", "China", "USA", "Indonesia"],
+          "opts_hi": ["भारत", "चीन", "यूएसए", "इंडोनेशिया"],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "What is the square of 15?",
+          "q_hi": "15 का वर्ग क्या है?",
+          "opts": ["215", "225", "235", "245"],
+          "opts_hi": ["215", "225", "235", "245"],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Find the odd one out: Car, Bus, Train, Bicycle",
+          "q_hi": "विषम ज्ञात करें: Car, Bus, Train, Bicycle",
+          "opts": ["Car", "Bus", "Train", "Bicycle"],
+          "opts_hi": ["Car", "Bus", "Train", "Bicycle"],
+          "ans": 2,
+          "subject": "General Intelligence"
+        },
+        {
+          "q": "What is the antonym of 'Beautiful'?",
+          "q_hi": "'Beautiful' का विलोम शब्द क्या है?",
+          "opts": ["Ugly", "Pretty", "Lovely", "Attractive"],
+          "opts_hi": ["बदसूरत", "सुंदर", "प्यारा", "आकर्षक"],
+          "ans": 0,
+          "subject": "English Language"
+        }
+      ]
+    },
+    {
+      "id": "ssc_chsl_17",
+      "title": "SSC CHSL Mock Test 17",
+      "duration": 10,
+      "difficulty": "Medium",
+      "correctMarks": 2,
+      "negativeMarks": 0.5,
+      "questions": [
+        {
+          "q": "Which is the largest desert in the world?",
+          "q_hi": "विश्व का सबसे बड़ा रेगिस्तान कौन सा है?",
+          "opts": ["Sahara", "Gobi", "Kalahari", "Atacama"],
+          "opts_hi": ["सहारा", "गोबी", "कालाहारी", "अटाकामा"],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "If x - 5 = 10, find x.",
+          "q_hi": "यदि x - 5 = 10 है, तो x ज्ञात करें।",
+          "opts": ["10", "12", "14", "15"],
+          "opts_hi": ["10", "12", "14", "15"],
+          "ans": 3,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Select the correct option: 2, 3, 5, 7, 11, ?",
+          "q_hi": "सही विकल्प चुनें: 2, 3, 5, 7, 11, ?",
+          "opts": ["12", "13", "14", "15"],
+          "opts_hi": ["12", "13", "14", "15"],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        }
+      ]
+    },
+    {
+      "id": "ssc_chsl_18",
+      "title": "SSC CHSL Mock Test 18",
+      "duration": 10,
+      "difficulty": "Medium",
+      "correctMarks": 2,
+      "negativeMarks": 0.5,
+      "questions": [
+        {
+          "q": "The 'Nobel Prize' is awarded in how many categories?",
+          "q_hi": "'नोबेल पुरस्कार' कितनी श्रेणियों में प्रदान किया जाता है?",
+          "opts": ["4", "5", "6", "7"],
+          "opts_hi": ["4", "5", "6", "7"],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "What is the value of 5 × (2 + 3)?",
+          "q_hi": "5 × (2 + 3) का मान क्या है?",
+          "opts": ["15", "20", "25", "30"],
+          "opts_hi": ["15", "20", "25", "30"],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Complete the series: 3, 6, 12, 24, ?",
+          "q_hi": "श्रृंखला पूरी करें: 3, 6, 12, 24, ?",
+          "opts": ["36", "40", "48", "50"],
+          "opts_hi": ["36", "40", "48", "50"],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Which of the following is a conjunction?",
+          "q_hi": "निम्नलिखित में से कौन सा संयोजक (Conjunction) है?",
+          "opts": ["and", "run", "book", "fast"],
+          "opts_hi": ["and", "run", "book", "fast"],
+          "ans": 0,
+          "subject": "English Language"
+        }
+      ]
+    },
+    {
+      "id": "ssc_chsl_19",
+      "title": "SSC CHSL Mock Test 19",
+      "duration": 10,
+      "difficulty": "Medium",
+      "correctMarks": 2,
+      "negativeMarks": 0.5,
+      "questions": [
+        {
+          "q": "Which gas is known as 'Laughing Gas'?",
+          "q_hi": "किस गैस को 'लाफिंग गैस' के नाम से जाना जाता है?",
+          "opts": ["Oxygen", "Nitrogen", "Nitrous Oxide", "Hydrogen"],
+          "opts_hi": ["ऑक्सीजन", "नाइट्रोजन", "नाइट्रस ऑक्साइड", "हाइड्रोजन"],
+          "ans": 2,
+          "subject": "General Awareness"
         }
       ]
     }
