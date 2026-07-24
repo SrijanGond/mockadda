@@ -1,837 +1,1090 @@
 {
   "tests": [
     {
-      "id": "ssc_mts_full_1",
-      "title": "SSC MTS Full Mock Test 1 (Session Pattern)",
+      "id": "ssc_mts_1",
+      "title": "SSC MTS Full Mock Test 1 (Session I + II)",
       "duration": 90,
-      "difficulty": "Hard",
-      "correctMarks": 3,
-      "negativeMarks": 1,
-      "note": "Real MTS pattern has NO negative marking in Session 1 (Numerical + Reasoning) and -1 only in Session 2 (GA + English). This engine currently applies one marking scheme test-wide; per-session marking is a planned upgrade.",
+      "difficulty": "Medium",
+      "sectional": true,
+      "sectionDurationSec": 2700,
       "questions": [
         {
-          "q": "Pointing to a photograph, a man said, \"I have no brother or sister, but that man's father is my father's son.\" Whose photograph was it?",
-          "q_hi": "एक फोटोग्राफ की ओर इशारा करते हुए...",
-          "opts": [
-            "His own",
-            "His father",
-            "His son",
-            "His brother"
-          ],
-          "opts_hi": [
-            "उसकी अपनी",
-            "उसके पिता",
-            "उसके पुत्र",
-            "उसके भाई"
-          ],
-          "ans": 2,
-          "subject": "Reasoning Ability and Problem Solving"
+          "q": "What is the LCM of 12, 18 and 24?",
+          "q_hi": "12, 18 और 24 का लघुत्तम समापवर्त्य (LCM) क्या है?",
+          "opts": ["72", "48", "36", "24"],
+          "opts_hi": ["72", "48", "36", "24"],
+          "ans": 0,
+          "subject": "Numerical and Mathematical Ability"
         },
         {
-          "q": "A person walks 10 km towards north. He turns right and walks 15 km. Then turns right and walks 10 km. Then turns left and walks 5 km. In which direction is he now from the starting point?",
-          "q_hi": "एक व्यक्ति उत्तर की ओर 10 किमी चलता है...",
-          "opts": [
-            "North",
-            "South",
-            "East",
-            "West"
-          ],
-          "opts_hi": [
-            "उत्तर",
-            "दक्षिण",
-            "पूर्व",
-            "पश्चिम"
-          ],
+          "q": "What is the HCF of 36 and 48?",
+          "q_hi": "36 और 48 का महत्तम समापवर्तक (HCF) क्या है?",
+          "opts": ["6", "8", "12", "16"],
+          "opts_hi": ["6", "8", "12", "16"],
           "ans": 2,
-          "subject": "Reasoning Ability and Problem Solving"
+          "subject": "Numerical and Mathematical Ability"
         },
         {
-          "q": "Which of the following is similar to the given analogy? 8 : 512 :: 12 : ?",
-          "q_hi": "8 : 512 :: 12 : ?",
-          "opts": [
-            "144",
-            "1728",
-            "1228",
-            "1200"
-          ],
-          "opts_hi": [
-            "144",
-            "1728",
-            "1228",
-            "1200"
-          ],
+          "q": "If 25% of a number is 75, what is the number?",
+          "q_hi": "यदि किसी संख्या का 25% = 75 है, तो संख्या क्या है?",
+          "opts": ["200", "250", "300", "350"],
+          "opts_hi": ["200", "250", "300", "350"],
+          "ans": 2,
+          "subject": "Numerical and Mathematical Ability"
+        },
+        {
+          "q": "Find the value of (2/3) + (3/4).",
+          "q_hi": "(2/3) + (3/4) का मान ज्ञात करें।",
+          "opts": ["5/7", "17/12", "11/12", "5/12"],
+          "opts_hi": ["5/7", "17/12", "11/12", "5/12"],
           "ans": 1,
-          "subject": "Reasoning Ability and Problem Solving"
+          "subject": "Numerical and Mathematical Ability"
         },
         {
-          "q": "Find the odd one out: 3, 8, 15, 24, 35, 48, 63, 80, 99, 120, 143, 169",
-          "q_hi": "विषम ज्ञात करें: 3, 8, 15, 24, 35, 48, 63, 80, 99, 120, 143, 169",
-          "opts": [
-            "120",
-            "143",
-            "169",
-            "99"
-          ],
-          "opts_hi": [
-            "120",
-            "143",
-            "169",
-            "99"
-          ],
-          "ans": 2,
-          "subject": "Reasoning Ability and Problem Solving"
-        },
-        {
-          "q": "Which is similar to \"School : Student\"?",
-          "q_hi": "School : Student के समान कौन सा है?",
-          "opts": [
-            "Hospital : Patient",
-            "Bank : Money",
-            "College : Degree",
-            "Office : Boss"
-          ],
-          "opts_hi": [
-            "अस्पताल : रोगी",
-            "बैंक : पैसा",
-            "कॉलेज : डिग्री",
-            "कार्यालय : मालिक"
-          ],
-          "ans": 0,
-          "subject": "Reasoning Ability and Problem Solving"
-        },
-        {
-          "q": "What is the angle between the hour and minute hands of a clock at 9:00?",
-          "q_hi": "9:00 पर घड़ी की सुइयों के बीच का कोण?",
-          "opts": [
-            "90°",
-            "180°",
-            "270°",
-            "0°"
-          ],
-          "opts_hi": [
-            "90°",
-            "180°",
-            "270°",
-            "0°"
-          ],
-          "ans": 0,
-          "subject": "Reasoning Ability and Problem Solving"
-        },
-        {
-          "q": "A person walks 5 km towards East, then turns right and walks 12 km, then turns right and walks 5 km. How far is he from the starting point?",
-          "q_hi": "एक व्यक्ति पूर्व की ओर 5 किमी चलता है...",
-          "opts": [
-            "5 km",
-            "12 km",
-            "13 km",
-            "17 km"
-          ],
-          "opts_hi": [
-            "5 किमी",
-            "12 किमी",
-            "13 किमी",
-            "17 किमी"
-          ],
+          "q": "A shopkeeper buys an article for ₹400 and sells it for ₹500. What is the profit percentage?",
+          "q_hi": "एक दुकानदार एक वस्तु ₹400 में खरीदता है और ₹500 में बेचता है। लाभ प्रतिशत क्या है?",
+          "opts": ["20%", "25%", "30%", "35%"],
+          "opts_hi": ["20%", "25%", "30%", "35%"],
           "ans": 1,
-          "subject": "Reasoning Ability and Problem Solving"
+          "subject": "Numerical and Mathematical Ability"
         },
         {
-          "q": "Pointing to a boy, a girl said, \"He is the son of the only son of my grandfather.\" How is the boy related to the girl?",
-          "q_hi": "एक लड़के की ओर इशारा करते हुए...",
-          "opts": [
-            "Brother",
-            "Cousin",
-            "Nephew",
-            "Son"
-          ],
-          "opts_hi": [
-            "भाई",
-            "चचेरा भाई",
-            "भतीजा",
-            "पुत्र"
-          ],
+          "q": "If the ratio of two numbers is 3:4 and their sum is 28, find the numbers.",
+          "q_hi": "यदि दो संख्याओं का अनुपात 3:4 है और उनका योग 28 है, तो संख्याएँ ज्ञात करें।",
+          "opts": ["8, 20", "10, 18", "12, 16", "14, 14"],
+          "opts_hi": ["8, 20", "10, 18", "12, 16", "14, 14"],
+          "ans": 2,
+          "subject": "Numerical and Mathematical Ability"
+        },
+        {
+          "q": "What is the simple interest on ₹1000 for 2 years at 5% per annum?",
+          "q_hi": "₹1000 पर 2 वर्षों के लिए 5% वार्षिक दर से साधारण ब्याज क्या है?",
+          "opts": ["₹50", "₹100", "₹150", "₹200"],
+          "opts_hi": ["₹50", "₹100", "₹150", "₹200"],
+          "ans": 1,
+          "subject": "Numerical and Mathematical Ability"
+        },
+        {
+          "q": "If a = 5 and b = 3, find the value of a² + b².",
+          "q_hi": "यदि a = 5 और b = 3 है, तो a² + b² का मान ज्ञात करें।",
+          "opts": ["16", "25", "34", "40"],
+          "opts_hi": ["16", "25", "34", "40"],
+          "ans": 2,
+          "subject": "Numerical and Mathematical Ability"
+        },
+        {
+          "q": "What is the area of a rectangle with length 10 cm and breadth 5 cm?",
+          "q_hi": "10 सेमी लंबाई और 5 सेमी चौड़ाई वाले आयत का क्षेत्रफल क्या है?",
+          "opts": ["30 cm²", "40 cm²", "50 cm²", "60 cm²"],
+          "opts_hi": ["30 सेमी²", "40 सेमी²", "50 सेमी²", "60 सेमी²"],
+          "ans": 2,
+          "subject": "Numerical and Mathematical Ability"
+        },
+        {
+          "q": "Find the value of 25 + 5 × 3 - 10.",
+          "q_hi": "25 + 5 × 3 - 10 का मान ज्ञात करें।",
+          "opts": ["20", "25", "30", "35"],
+          "opts_hi": ["20", "25", "30", "35"],
+          "ans": 2,
+          "subject": "Numerical and Mathematical Ability"
+        },
+        {
+          "q": "In a code language, 'CAT' is written as 'DBU'. How is 'DOG' written?",
+          "q_hi": "एक कूट भाषा में, 'CAT' को 'DBU' लिखा जाता है। 'DOG' को कैसे लिखा जाएगा?",
+          "opts": ["EPH", "EPH", "FQI", "FQI"],
+          "opts_hi": ["EPH", "EPH", "FQI", "FQI"],
           "ans": 0,
-          "subject": "Reasoning Ability and Problem Solving"
+          "subject": "Reasoning Ability and Problem-Solving"
         },
         {
-          "q": "What is the angle between the hour and minute hands of a clock at 4:40?",
-          "q_hi": "4:40 पर घड़ी की सुइयों के बीच का कोण?",
-          "opts": [
-            "100°",
-            "110°",
-            "120°",
-            "130°"
-          ],
-          "opts_hi": [
-            "100°",
-            "110°",
-            "120°",
-            "130°"
-          ],
-          "ans": 0,
-          "subject": "Reasoning Ability and Problem Solving"
-        },
-        {
-          "q": "Which of the following is the mirror image of the word \"SUNSHINE\"?",
-          "q_hi": "SUNSHINE शब्द का दर्पण प्रतिबिंब निम्नलिखित में से कौन सा है?",
-          "opts": [
-            "ENIHSNUS",
-            "SUNSHINE",
-            "ENIHSUNS",
-            "SNIHSENU"
-          ],
-          "opts_hi": [
-            "ENIHSNUS",
-            "SUNSHINE",
-            "ENIHSUNS",
-            "SNIHSENU"
-          ],
-          "ans": 0,
-          "subject": "Reasoning Ability and Problem Solving"
-        },
-        {
-          "q": "Find the odd one out: 3, 7, 15, 31, 63, 127, 255, 511, 1023 (Mersenne-like series)",
-          "q_hi": "विषम ज्ञात करें: 2ⁿ-1 श्रृंखला",
-          "opts": [
-            "3 (2²-1)",
-            "2147483647 (2³¹-1)",
-            "1073741823 (2³⁰-1)",
-            "None, all are 2ⁿ-1"
-          ],
-          "opts_hi": [
-            "3 (2²-1)",
-            "2147483647 (2³¹-1)",
-            "1073741823 (2³⁰-1)",
-            "कोई नहीं, सभी 2ⁿ-1 हैं"
-          ],
+          "q": "Find the odd one out: 2, 4, 6, 9, 10, 12",
+          "q_hi": "विषम ज्ञात करें: 2, 4, 6, 9, 10, 12",
+          "opts": ["2", "4", "6", "9"],
+          "opts_hi": ["2", "4", "6", "9"],
           "ans": 3,
-          "subject": "Reasoning Ability and Problem Solving"
+          "subject": "Reasoning Ability and Problem-Solving"
         },
         {
-          "q": "What will come in place of question mark (?) in the following series? 4, 11, 23, 40, 62, ?",
-          "q_hi": "4, 11, 23, 40, 62, ?",
-          "opts": [
-            "89",
-            "90",
-            "91",
-            "92"
-          ],
-          "opts_hi": [
-            "89",
-            "90",
-            "91",
-            "92"
-          ],
+          "q": "If 'A' means 'plus', 'B' means 'minus', 'C' means 'multiply', 'D' means 'divide', then 10 C 5 D 2 B 4 = ?",
+          "q_hi": "यदि 'A' का अर्थ 'जोड़' है, 'B' का अर्थ 'घटाव' है, 'C' का अर्थ 'गुणा' है, 'D' का अर्थ 'भाग' है, तो 10 C 5 D 2 B 4 = ?",
+          "opts": ["21", "25", "29", "33"],
+          "opts_hi": ["21", "25", "29", "33"],
           "ans": 0,
-          "subject": "Reasoning Ability and Problem Solving"
+          "subject": "Reasoning Ability and Problem-Solving"
         },
         {
-          "q": "A person walks 12 km towards East, then turns right and walks 5 km, then turns right and walks 12 km, then turns left and walks 10 km. In which direction is he now from the starting point?",
-          "q_hi": "एक व्यक्ति पूर्व की ओर 12 किमी चलता है...",
-          "opts": [
-            "North",
-            "South",
-            "East",
-            "West"
-          ],
-          "opts_hi": [
-            "उत्तर",
-            "दक्षिण",
-            "पूर्व",
-            "पश्चिम"
-          ],
-          "ans": 0,
-          "subject": "Reasoning Ability and Problem Solving"
-        },
-        {
-          "q": "Which letter is 2nd to the left of the 14th letter from the right in the English alphabet?",
-          "q_hi": "अंग्रेजी वर्णमाला में दाएँ से 14वें अक्षर के बाएँ दूसरा अक्षर कौन सा है?",
-          "opts": [
-            "K",
-            "L",
-            "M",
-            "N"
-          ],
-          "opts_hi": [
-            "K",
-            "L",
-            "M",
-            "N"
-          ],
-          "ans": 0,
-          "subject": "Reasoning Ability and Problem Solving"
-        },
-        {
-          "q": "Find the odd one out: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 51, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97",
-          "q_hi": "विषम ज्ञात करें: अभाज्य संख्याएँ",
-          "opts": [
-            "2",
-            "51",
-            "97",
-            "89"
-          ],
-          "opts_hi": [
-            "2",
-            "51",
-            "97",
-            "89"
-          ],
-          "ans": 1,
-          "subject": "Reasoning Ability and Problem Solving"
-        },
-        {
-          "q": "National bird of India?",
-          "q_hi": "भारत का राष्ट्रीय पक्षी कौन सा है?",
-          "opts": [
-            "Sparrow",
-            "Peacock",
-            "Parrot",
-            "Pigeon"
-          ],
-          "opts_hi": [
-            "गौरेया",
-            "मोर",
-            "तोता",
-            "कबूतर"
-          ],
-          "ans": 1,
-          "subject": "General Awareness"
-        },
-        {
-          "q": "Which is the capital of Rajasthan?",
-          "q_hi": "राजस्थान की राजधानी कौन सी है?",
-          "opts": [
-            "Jodhpur",
-            "Udaipur",
-            "Jaipur",
-            "Ajmer"
-          ],
-          "opts_hi": [
-            "जोधपुर",
-            "उदयपुर",
-            "जयपुर",
-            "अजमेर"
-          ],
+          "q": "Which number will replace the question mark? 2, 5, 10, 17, ?",
+          "q_hi": "प्रश्न चिह्न के स्थान पर कौन सी संख्या आएगी? 2, 5, 10, 17, ?",
+          "opts": ["22", "24", "26", "28"],
+          "opts_hi": ["22", "24", "26", "28"],
           "ans": 2,
-          "subject": "General Awareness"
+          "subject": "Reasoning Ability and Problem-Solving"
         },
         {
-          "q": "Full form of ATM?",
-          "q_hi": "ATM का पूर्ण रूप क्या है?",
-          "opts": [
-            "Automatic Teller Machine",
-            "Automated Teller Machine",
-            "Auto Transaction Machine",
-            "Automated Transaction Machine"
-          ],
-          "opts_hi": [
-            "स्वचालित टेलर मशीन",
-            "स्वचालित टेलर मशीन",
-            "स्वतः लेनदेन मशीन",
-            "स्वचालित लेनदेन मशीन"
-          ],
+          "q": "A man walks 5 km east, then turns right and walks 10 km, then turns right and walks 5 km. How far is he from the starting point?",
+          "q_hi": "एक व्यक्ति 5 किमी पूर्व चलता है, फिर दाएँ मुड़ता है और 10 किमी चलता है, फिर दाएँ मुड़ता है और 5 किमी चलता है। वह आरंभिक बिंदु से कितनी दूर है?",
+          "opts": ["5 km", "10 km", "15 km", "20 km"],
+          "opts_hi": ["5 किमी", "10 किमी", "15 किमी", "20 किमी"],
+          "ans": 1,
+          "subject": "Reasoning Ability and Problem-Solving"
+        },
+        {
+          "q": "If A is the brother of B, and B is the father of C, how is A related to C?",
+          "q_hi": "यदि A, B का भाई है, और B, C का पिता है, तो A, C से किस प्रकार संबंधित है?",
+          "opts": ["Father", "Uncle", "Grandfather", "Brother"],
+          "opts_hi": ["पिता", "चाचा", "दादा", "भाई"],
+          "ans": 1,
+          "subject": "Reasoning Ability and Problem-Solving"
+        },
+        {
+          "q": "Complete the series: A, C, F, J, ?",
+          "q_hi": "श्रृंखला पूरी करें: A, C, F, J, ?",
+          "opts": ["M", "N", "O", "P"],
+          "opts_hi": ["M", "N", "O", "P"],
+          "ans": 2,
+          "subject": "Reasoning Ability and Problem-Solving"
+        },
+        {
+          "q": "Find the odd one out: 11, 13, 17, 19, 21, 23",
+          "q_hi": "विषम ज्ञात करें: 11, 13, 17, 19, 21, 23",
+          "opts": ["11", "19", "21", "23"],
+          "opts_hi": ["11", "19", "21", "23"],
+          "ans": 2,
+          "subject": "Reasoning Ability and Problem-Solving"
+        },
+        {
+          "q": "Which of the following is the capital of India?",
+          "q_hi": "निम्नलिखित में से भारत की राजधानी कौन सी है?",
+          "opts": ["Mumbai", "Delhi", "Kolkata", "Chennai"],
+          "opts_hi": ["मुंबई", "दिल्ली", "कोलकाता", "चेन्नई"],
           "ans": 1,
           "subject": "General Awareness"
         },
         {
-          "q": "Who invented the telephone?",
-          "q_hi": "टेलीफोन का आविष्कार किसने किया?",
-          "opts": [
-            "Thomas Edison",
-            "Alexander Graham Bell",
-            "Nikola Tesla",
-            "Isaac Newton"
-          ],
-          "opts_hi": [
-            "थॉमस एडिसन",
-            "अलेक्जेंडर ग्राहम बेल",
-            "निकोला टेस्ला",
-            "आइजैक न्यूटन"
-          ],
+          "q": "Who was the first Prime Minister of India?",
+          "q_hi": "भारत के पहले प्रधानमंत्री कौन थे?",
+          "opts": ["Mahatma Gandhi", "Jawaharlal Nehru", "Sardar Patel", "B.R. Ambedkar"],
+          "opts_hi": ["महात्मा गांधी", "जवाहरलाल नेहरू", "सरदार पटेल", "बी.आर. अम्बेडकर"],
           "ans": 1,
           "subject": "General Awareness"
         },
         {
-          "q": "Capital of France?",
-          "q_hi": "फ्रांस की राजधानी कौन सी है?",
-          "opts": [
-            "Berlin",
-            "Rome",
-            "Paris",
-            "Madrid"
-          ],
-          "opts_hi": [
-            "बर्लिन",
-            "रोम",
-            "पेरिस",
-            "मैड्रिड"
-          ],
-          "ans": 2,
-          "subject": "General Awareness"
-        },
-        {
-          "q": "National flower of India?",
-          "q_hi": "भारत का राष्ट्रीय फूल कौन सा है?",
-          "opts": [
-            "Rose",
-            "Lotus",
-            "Marigold",
-            "Jasmine"
-          ],
-          "opts_hi": [
-            "गुलाब",
-            "कमल",
-            "गेंदा",
-            "चमेली"
-          ],
+          "q": "Which planet is known as the 'Red Planet'?",
+          "q_hi": "किस ग्रह को 'लाल ग्रह' के नाम से जाना जाता है?",
+          "opts": ["Venus", "Mars", "Jupiter", "Saturn"],
+          "opts_hi": ["शुक्र", "मंगल", "बृहस्पति", "शनि"],
           "ans": 1,
           "subject": "General Awareness"
         },
         {
-          "q": "Largest continent in the world?",
-          "q_hi": "विश्व का सबसे बड़ा महाद्वीप कौन सा है?",
-          "opts": [
-            "Africa",
-            "Europe",
-            "Asia",
-            "Australia"
-          ],
-          "opts_hi": [
-            "अफ्रीका",
-            "यूरोप",
-            "एशिया",
-            "ऑस्ट्रेलिया"
-          ],
-          "ans": 2,
-          "subject": "General Awareness"
-        },
-        {
-          "q": "Which vitamin is also known as ascorbic acid?",
-          "q_hi": "किस विटामिन को एस्कॉर्बिक एसिड भी कहा जाता है?",
-          "opts": [
-            "Vitamin A",
-            "Vitamin B12",
-            "Vitamin C",
-            "Vitamin D"
-          ],
-          "opts_hi": [
-            "विटामिन A",
-            "विटामिन B12",
-            "विटामिन C",
-            "विटामिन D"
-          ],
-          "ans": 2,
-          "subject": "General Awareness"
-        },
-        {
-          "q": "Which of the following is the chemical formula of water?",
-          "q_hi": "पानी का रासायनिक सूत्र निम्नलिखित में से कौन सा है?",
-          "opts": [
-            "H2O",
-            "CO2",
-            "NaCl",
-            "HCl"
-          ],
-          "opts_hi": [
-            "H2O",
-            "CO2",
-            "NaCl",
-            "HCl"
-          ],
+          "q": "What is the chemical symbol of water?",
+          "q_hi": "पानी का रासायनिक प्रतीक क्या है?",
+          "opts": ["H2O", "CO2", "NaCl", "HCl"],
+          "opts_hi": ["H2O", "CO2", "NaCl", "HCl"],
           "ans": 0,
           "subject": "General Awareness"
         },
         {
-          "q": "Which of the following is known as the 'Iron Man of India'?",
-          "q_hi": "निम्नलिखित में से किसे 'भारत का लौह पुरुष' कहा जाता है?",
-          "opts": [
-            "Jawaharlal Nehru",
-            "Mahatma Gandhi",
-            "Sardar Vallabhbhai Patel",
-            "Subhas Chandra Bose"
-          ],
-          "opts_hi": [
-            "जवाहरलाल नेहरू",
-            "महात्मा गांधी",
-            "सरदार वल्लभभाई पटेल",
-            "सुभाष चंद्र बोस"
-          ],
+          "q": "Who wrote the Indian national anthem 'Jana Gana Mana'?",
+          "q_hi": "भारतीय राष्ट्रगान 'जन गण मन' किसने लिखा?",
+          "opts": ["Mahatma Gandhi", "Rabindranath Tagore", "Bankim Chandra", "Subhash Chandra Bose"],
+          "opts_hi": ["महात्मा गांधी", "रवीन्द्रनाथ टैगोर", "बंकिम चंद्र", "सुभाष चंद्र बोस"],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "What is the largest ocean in the world?",
+          "q_hi": "विश्व का सबसे बड़ा महासागर कौन सा है?",
+          "opts": ["Atlantic", "Indian", "Pacific", "Arctic"],
+          "opts_hi": ["अटलांटिक", "हिंद", "प्रशांत", "आर्कटिक"],
           "ans": 2,
           "subject": "General Awareness"
         },
         {
-          "q": "Which of the following is a direct tax?",
-          "q_hi": "निम्नलिखित में से कौन सा प्रत्यक्ष कर है?",
-          "opts": [
-            "Income Tax",
-            "GST (Goods and Services Tax)",
-            "Excise Duty",
-            "Customs Duty"
-          ],
-          "opts_hi": [
-            "आयकर",
-            "GST (वस्तु एवं सेवा कर)",
-            "उत्पाद शुल्क",
-            "सीमा शुल्क"
-          ],
+          "q": "Synonym of 'Happy'?",
+          "q_hi": "'Happy' का पर्यायवाची शब्द?",
+          "opts": ["Sad", "Joyful", "Angry", "Tired"],
+          "opts_hi": ["उदास", "प्रसन्न", "क्रोधित", "थका"],
+          "ans": 1,
+          "subject": "English Language and Comprehension"
+        },
+        {
+          "q": "Antonym of 'Dark'?",
+          "q_hi": "'Dark' का विलोम शब्द?",
+          "opts": ["Light", "Black", "Night", "Dim"],
+          "opts_hi": ["प्रकाश", "काला", "रात", "मंद"],
           "ans": 0,
-          "subject": "General Awareness"
+          "subject": "English Language and Comprehension"
         },
         {
-          "q": "The stay on the UGC Equity Regulations, 2026 was issued by which institution?",
-          "q_hi": "UGC इक्विटी विनियम, 2026 पर रोक किस संस्थान ने लगाई?",
-          "opts": [
-            "Ministry of Education",
-            "University Grants Commission",
-            "Parliamentary Standing Committee",
-            "Supreme Court of India"
-          ],
-          "opts_hi": [
-            "शिक्षा मंत्रालय",
-            "विश्वविद्यालय अनुदान आयोग",
-            "संसदीय स्थायी समिति",
-            "भारत का सर्वोच्च न्यायालय"
-          ],
-          "ans": 3,
-          "subject": "General Awareness"
-        },
-        {
-          "q": "Exercise 'INIOCHOS-25' is a bilateral exercise between India and which country?",
-          "q_hi": "INIOCHOS-25' अभ्यास भारत और किस देश के बीच है?",
-          "opts": [
-            "Italy",
-            "France",
-            "Greece",
-            "Israel"
-          ],
-          "opts_hi": [
-            "इटली",
-            "फ्रांस",
-            "ग्रीस",
-            "इज़राइल"
-          ],
-          "ans": 2,
-          "subject": "General Awareness"
-        },
-        {
-          "q": "Under IRDAI's revised corporate governance framework, which of the following is NOT a new performance parameter for Key Managerial Personnel (KMPs)?",
-          "q_hi": "IRDAI के संशोधित कॉर्पोरेट गवर्नेंस ढाँचे के तहत...",
-          "opts": [
-            "Customer satisfaction and claims responsiveness",
-            "Grievance redressal timelines and reduction in repeat complaints",
-            "Removal of dark patterns from insurer websites",
-            "Market capitalization growth targets"
-          ],
-          "opts_hi": [
-            "ग्राहक संतुष्टि और दावा प्रतिक्रियाशीलता",
-            "शिकायत निवारण समय-सीमा",
-            "डार्क पैटर्न हटाना",
-            "बाजार पूंजीकरण वृद्धि लक्ष्य"
-          ],
-          "ans": 3,
-          "subject": "General Awareness"
-        },
-        {
-          "q": "Which of the following vitamins is synthesized in the human body with the help of sunlight?",
-          "q_hi": "मानव शरीर में सूर्य के प्रकाश की सहायता से कौन सा विटामिन संश्लेषित होता है?",
-          "opts": [
-            "Vitamin A",
-            "Vitamin B12",
-            "Vitamin D",
-            "Vitamin K"
-          ],
-          "opts_hi": [
-            "विटामिन A",
-            "विटामिन B12",
-            "विटामिन D",
-            "विटामिन K"
-          ],
-          "ans": 2,
-          "subject": "General Awareness"
-        },
-        {
-          "q": "Which of the following is the unit of acceleration?",
-          "q_hi": "त्वरण की इकाई निम्नलिखित में से कौन सी है?",
-          "opts": [
-            "m/s",
-            "m/s²",
-            "kg m/s",
-            "Joule"
-          ],
-          "opts_hi": [
-            "मी/से",
-            "मी/से²",
-            "किग्रा मी/से",
-            "जूल"
-          ],
+          "q": "Fill in the blank: She is _______ than her sister.",
+          "q_hi": "रिक्त स्थान भरें: She is _______ than her sister.",
+          "opts": ["tall", "taller", "tallest", "more tall"],
+          "opts_hi": ["tall", "taller", "tallest", "more tall"],
           "ans": 1,
-          "subject": "General Awareness"
+          "subject": "English Language and Comprehension"
         },
         {
-          "q": "The part of the human eye responsible for controlling the amount of light entering is:",
-          "q_hi": "मानव नेत्र का वह भाग जो प्रकाश की मात्रा को नियंत्रित करता है:",
-          "opts": [
-            "Cornea",
-            "Iris",
-            "Lens",
-            "Retina"
-          ],
-          "opts_hi": [
-            "कॉर्निया",
-            "आइरिस",
-            "लेंस",
-            "रेटिना"
-          ],
-          "ans": 1,
-          "subject": "General Awareness"
-        },
-        {
-          "q": "2 + 2 × 2 = ?",
-          "q_hi": "2 + 2 × 2 = ?",
-          "opts": [
-            "8",
-            "6",
-            "4",
-            "10"
-          ],
-          "opts_hi": [
-            "8",
-            "6",
-            "4",
-            "10"
-          ],
-          "ans": 1,
-          "subject": "Numerical and Mathematical Ability"
-        },
-        {
-          "q": "How many days in a leap year?",
-          "q_hi": "लीप वर्ष में कितने दिन होते हैं?",
-          "opts": [
-            "364",
-            "365",
-            "366",
-            "367"
-          ],
-          "opts_hi": [
-            "364",
-            "365",
-            "366",
-            "367"
-          ],
+          "q": "Identify the error: He is one of the best student in the class.",
+          "q_hi": "त्रुटि पहचानें: He is one of the best student in the class.",
+          "opts": ["is", "of", "student", "class"],
+          "opts_hi": ["is", "of", "student", "class"],
           "ans": 2,
-          "subject": "Numerical and Mathematical Ability"
+          "subject": "English Language and Comprehension"
         },
         {
-          "q": "1 dozen = ?",
-          "q_hi": "1 दर्जन = ?",
-          "opts": [
-            "10",
-            "11",
-            "12",
-            "13"
-          ],
-          "opts_hi": [
-            "10",
-            "11",
-            "12",
-            "13"
-          ],
+          "q": "What is the meaning of 'Abundant'?",
+          "q_hi": "'Abundant' का अर्थ क्या है?",
+          "opts": ["Scarce", "Plentiful", "Limited", "Rare"],
+          "opts_hi": ["दुर्लभ", "प्रचुर", "सीमित", "विरल"],
+          "ans": 1,
+          "subject": "English Language and Comprehension"
+        },
+        {
+          "q": "Choose the correct article: _______ apple a day keeps the doctor away.",
+          "q_hi": "सही आर्टिकल चुनें: _______ apple a day keeps the doctor away.",
+          "opts": ["A", "An", "The", "No article"],
+          "opts_hi": ["A", "An", "The", "No article"],
+          "ans": 1,
+          "subject": "English Language and Comprehension"
+        },
+        {
+          "q": "What is the plural of 'Child'?",
+          "q_hi": "'Child' का बहुवचन क्या है?",
+          "opts": ["Childs", "Children", "Childes", "Childen"],
+          "opts_hi": ["Childs", "Children", "Childes", "Childen"],
+          "ans": 1,
+          "subject": "English Language and Comprehension"
+        },
+        {
+          "q": "What is the synonym of 'Benevolent'?",
+          "q_hi": "'Benevolent' का पर्यायवाची शब्द?",
+          "opts": ["Cruel", "Kind", "Angry", "Sad"],
+          "opts_hi": ["क्रूर", "दयालु", "क्रोधित", "उदास"],
+          "ans": 1,
+          "subject": "English Language and Comprehension"
+        },
+        {
+          "q": "Which of the following is a proper noun?",
+          "q_hi": "निम्नलिखित में से कौन सा व्यक्तिवाचक संज्ञा है?",
+          "opts": ["City", "Country", "India", "River"],
+          "opts_hi": ["City", "Country", "India", "River"],
           "ans": 2,
-          "subject": "Numerical and Mathematical Ability"
+          "subject": "English Language and Comprehension"
         },
         {
-          "q": "If sin θ = 3/5, what is the value of cos θ?",
-          "q_hi": "यदि sin θ = 3/5 है, तो cos θ का मान क्या है?",
-          "opts": [
-            "4/5",
-            "3/4",
-            "5/4",
-            "5/3"
-          ],
-          "opts_hi": [
-            "4/5",
-            "3/4",
-            "5/4",
-            "5/3"
-          ],
+          "q": "What is the correct spelling?",
+          "q_hi": "सही वर्तनी क्या है?",
+          "opts": ["Neccessary", "Necessary", "Necesary", "Nessessary"],
+          "opts_hi": ["Neccessary", "Necessary", "Necesary", "Nessessary"],
+          "ans": 1,
+          "subject": "English Language and Comprehension"
+        },
+        {
+          "q": "What is the antonym of 'Beautiful'?",
+          "q_hi": "'Beautiful' का विलोम शब्द?",
+          "opts": ["Ugly", "Pretty", "Lovely", "Attractive"],
+          "opts_hi": ["बदसूरत", "सुंदर", "प्यारा", "आकर्षक"],
           "ans": 0,
-          "subject": "Numerical and Mathematical Ability"
+          "subject": "English Language and Comprehension"
         },
         {
-          "q": "70% of 1680 + ?% of 1750 = 55% of 2820 - 886",
-          "q_hi": "70% of 1680 + ?% of 1750 = 55% of 2820 - 886",
-          "opts": [
-            "0.15",
-            "0.18",
-            "0.2",
-            "0.22"
-          ],
-          "opts_hi": [
-            "0.15",
-            "0.18",
-            "0.2",
-            "0.22"
-          ],
+          "q": "What is the meaning of 'Diligent'?",
+          "q_hi": "'Diligent' का अर्थ क्या है?",
+          "opts": ["Lazy", "Hardworking", "Slow", "Careless"],
+          "opts_hi": ["आलसी", "मेहनती", "धीमा", "लापरवाह"],
           "ans": 1,
-          "subject": "Numerical and Mathematical Ability"
+          "subject": "English Language and Comprehension"
         },
         {
-          "q": "If the angles of a triangle are 2x, 3x and 4x, find the value of x.",
-          "q_hi": "यदि एक त्रिभुज के कोण 2x, 3x और 4x हैं, तो x का मान ज्ञात करें।",
-          "opts": [
-            "10°",
-            "15°",
-            "20°",
-            "25°"
-          ],
-          "opts_hi": [
-            "10°",
-            "15°",
-            "20°",
-            "25°"
-          ],
-          "ans": 2,
-          "subject": "Numerical and Mathematical Ability"
+          "q": "Choose the correct word: She is _______ beautiful girl.",
+          "q_hi": "सही शब्द चुनें: She is _______ beautiful girl.",
+          "opts": ["a", "an", "the", "no article"],
+          "opts_hi": ["a", "an", "the", "no article"],
+          "ans": 0,
+          "subject": "English Language and Comprehension"
+        },
+        {
+          "q": "What is the synonym of 'Fast'?",
+          "q_hi": "'Fast' का पर्यायवाची शब्द?",
+          "opts": ["Slow", "Quick", "Lazy", "Calm"],
+          "opts_hi": ["धीमा", "त्वरित", "आलसी", "शांत"],
+          "ans": 1,
+          "subject": "English Language and Comprehension"
+        },
+        {
+          "q": "Which of the following is a conjunction?",
+          "q_hi": "निम्नलिखित में से कौन सा संयोजक (Conjunction) है?",
+          "opts": ["and", "run", "book", "fast"],
+          "opts_hi": ["and", "run", "book", "fast"],
+          "ans": 0,
+          "subject": "English Language and Comprehension"
+        },
+        {
+          "q": "What is the meaning of 'Abundant'?",
+          "q_hi": "'Abundant' का अर्थ क्या है?",
+          "opts": ["Scarce", "Plentiful", "Limited", "Rare"],
+          "opts_hi": ["दुर्लभ", "प्रचुर", "सीमित", "विरल"],
+          "ans": 1,
+          "subject": "English Language and Comprehension"
         }
       ]
     },
     {
       "id": "ssc_mts_2",
-      "title": "SSC MTS Mock Test 2",
-      "duration": 10,
+      "title": "SSC MTS Full Mock Test 2 (Session I + II)",
+      "duration": 90,
       "difficulty": "Medium",
+      "sectional": true,
+      "sectionDurationSec": 2700,
       "questions": [
         {
-          "q": "The minimum age to become the President of India is:",
-          "q_hi": "भारत का राष्ट्रपति बनने की न्यूनतम आयु है:",
-          "opts": [
-            "30 years",
-            "35 years",
-            "40 years",
-            "25 years"
-          ],
-          "opts_hi": [
-            "30 वर्ष",
-            "35 वर्ष",
-            "40 वर्ष",
-            "25 वर्ष"
-          ],
+          "q": "What is the value of 2/5 × 5/8?",
+          "q_hi": "2/5 × 5/8 का मान क्या है?",
+          "opts": ["1/4", "1/2", "3/4", "1"],
+          "opts_hi": ["1/4", "1/2", "3/4", "1"],
+          "ans": 0,
+          "subject": "Numerical and Mathematical Ability"
+        },
+        {
+          "q": "If 3x + 5 = 20, find x.",
+          "q_hi": "यदि 3x + 5 = 20 है, तो x ज्ञात करें।",
+          "opts": ["3", "4", "5", "6"],
+          "opts_hi": ["3", "4", "5", "6"],
+          "ans": 2,
+          "subject": "Numerical and Mathematical Ability"
+        },
+        {
+          "q": "Find the average of 2, 4, 6, 8, 10.",
+          "q_hi": "2, 4, 6, 8, 10 का औसत ज्ञात करें।",
+          "opts": ["4", "5", "6", "7"],
+          "opts_hi": ["4", "5", "6", "7"],
+          "ans": 2,
+          "subject": "Numerical and Mathematical Ability"
+        },
+        {
+          "q": "What is the perimeter of a square with side 6 cm?",
+          "q_hi": "6 सेमी भुजा वाले वर्ग का परिमाप क्या है?",
+          "opts": ["20 cm", "22 cm", "24 cm", "26 cm"],
+          "opts_hi": ["20 सेमी", "22 सेमी", "24 सेमी", "26 सेमी"],
+          "ans": 2,
+          "subject": "Numerical and Mathematical Ability"
+        },
+        {
+          "q": "What is 15% of 200?",
+          "q_hi": "200 का 15% कितना है?",
+          "opts": ["20", "25", "30", "35"],
+          "opts_hi": ["20", "25", "30", "35"],
+          "ans": 2,
+          "subject": "Numerical and Mathematical Ability"
+        },
+        {
+          "q": "If a = 2 and b = 3, find the value of a³ + b³.",
+          "q_hi": "यदि a = 2 और b = 3 है, तो a³ + b³ का मान ज्ञात करें।",
+          "opts": ["27", "29", "31", "35"],
+          "opts_hi": ["27", "29", "31", "35"],
+          "ans": 3,
+          "subject": "Numerical and Mathematical Ability"
+        },
+        {
+          "q": "Find the value of 8 + 4 × 2 - 6.",
+          "q_hi": "8 + 4 × 2 - 6 का मान ज्ञात करें।",
+          "opts": ["8", "9", "10", "11"],
+          "opts_hi": ["8", "9", "10", "11"],
+          "ans": 2,
+          "subject": "Numerical and Mathematical Ability"
+        },
+        {
+          "q": "What is the difference between 2/3 and 1/4?",
+          "q_hi": "2/3 और 1/4 के बीच का अंतर क्या है?",
+          "opts": ["1/3", "5/12", "7/12", "1/6"],
+          "opts_hi": ["1/3", "5/12", "7/12", "1/6"],
           "ans": 1,
-          "subject": "Polity"
+          "subject": "Numerical and Mathematical Ability"
+        },
+        {
+          "q": "Find the 10th term of the series: 2, 5, 8, 11, ...",
+          "q_hi": "श्रृंखला का 10वाँ पद ज्ञात करें: 2, 5, 8, 11, ...",
+          "opts": ["26", "27", "28", "29"],
+          "opts_hi": ["26", "27", "28", "29"],
+          "ans": 3,
+          "subject": "Numerical and Mathematical Ability"
+        },
+        {
+          "q": "What is the square root of 169?",
+          "q_hi": "169 का वर्गमूल क्या है?",
+          "opts": ["11", "12", "13", "14"],
+          "opts_hi": ["11", "12", "13", "14"],
+          "ans": 2,
+          "subject": "Numerical and Mathematical Ability"
+        },
+        {
+          "q": "Find the odd one out: 1, 4, 9, 16, 25, 36, 49, 64, 81, 100, 121, 144, 169, 196, 225, 256, 289, 324, 361, 400, 441, 484, 529, 576, 625",
+          "q_hi": "विषम चुनें: 1, 4, 9, 16, 25, 36, 49, 64, 81, 100, 121, 144, 169, 196, 225, 256, 289, 324, 361, 400, 441, 484, 529, 576, 625",
+          "opts": ["625", "576", "529", "None, all are perfect squares"],
+          "opts_hi": ["625", "576", "529", "कोई नहीं, सभी पूर्ण वर्ग हैं"],
+          "ans": 3,
+          "subject": "Numerical and Mathematical Ability"
+        },
+        {
+          "q": "Which number will replace the question mark? 3, 6, 11, 18, ?",
+          "q_hi": "प्रश्न चिह्न के स्थान पर कौन सी संख्या आएगी? 3, 6, 11, 18, ?",
+          "opts": ["25", "26", "27", "28"],
+          "opts_hi": ["25", "26", "27", "28"],
+          "ans": 2,
+          "subject": "Reasoning Ability and Problem-Solving"
+        },
+        {
+          "q": "If 'PENCIL' is coded as 'QFODJM', how is 'BOOK' coded?",
+          "q_hi": "यदि 'PENCIL' को 'QFODJM' के रूप में कूटबद्ध किया जाता है, तो 'BOOK' को कैसे कूटबद्ध किया जाएगा?",
+          "opts": ["CPPL", "CPPL", "CPPM", "CPPM"],
+          "opts_hi": ["CPPL", "CPPL", "CPPM", "CPPM"],
+          "ans": 0,
+          "subject": "Reasoning Ability and Problem-Solving"
+        },
+        {
+          "q": "In a row of 40 students, A is 15th from the left and B is 20th from the right. How many students are between A and B?",
+          "q_hi": "40 छात्रों की एक पंक्ति में, A बाईं ओर से 15वें स्थान पर है और B दाईं ओर से 20वें स्थान पर है। A और B के बीच कितने छात्र हैं?",
+          "opts": ["4", "5", "6", "7"],
+          "opts_hi": ["4", "5", "6", "7"],
+          "ans": 1,
+          "subject": "Reasoning Ability and Problem-Solving"
+        },
+        {
+          "q": "Which of the following is a mirror image of 'MIRROR'?",
+          "q_hi": "निम्नलिखित में से 'MIRROR' का दर्पण प्रतिबिंब कौन सा है?",
+          "opts": ["RORRIM", "MIRROR", "RORIMM", "MIRRIOR"],
+          "opts_hi": ["RORRIM", "MIRROR", "RORIMM", "MIRRIOR"],
+          "ans": 0,
+          "subject": "Reasoning Ability and Problem-Solving"
+        },
+        {
+          "q": "Find the odd one out: 11, 22, 33, 44, 55, 66, 77, 88, 99, 110, 121, 132, 143, 154, 165, 176, 187, 198, 209, 220, 231, 242, 253, 264, 275, 286, 297, 308, 319, 330, 341, 352, 363, 374, 385, 396, 407, 418, 429, 440",
+          "q_hi": "विषम चुनें: 11, 22, 33, 44, 55, 66, 77, 88, 99, 110, 121, 132, 143, 154, 165, 176, 187, 198, 209, 220, 231, 242, 253, 264, 275, 286, 297, 308, 319, 330, 341, 352, 363, 374, 385, 396, 407, 418, 429, 440",
+          "opts": ["440", "429", "418", "None, all are multiples of 11"],
+          "opts_hi": ["440", "429", "418", "कोई नहीं, सभी 11 के गुणज हैं"],
+          "ans": 3,
+          "subject": "Reasoning Ability and Problem-Solving"
+        },
+        {
+          "q": "Select the Venn diagram that best represents the relationship between: Mothers, Women, Doctors",
+          "q_hi": "उस वेन आरेख का चयन करें जो निम्न के बीच संबंध को सर्वोत्तम रूप से दर्शाता है: माताएँ, महिलाएँ, डॉक्टर",
+          "opts": ["Three overlapping circles", "Two concentric circles with one separate", "Three separate circles", "Two overlapping circles"],
+          "opts_hi": ["तीन परस्पर प्रतिच्छेदी वृत्त", "दो संकेन्द्री वृत्त और एक अलग", "तीन अलग-अलग वृत्त", "दो परस्पर प्रतिच्छेदी वृत्त"],
+          "ans": 0,
+          "subject": "Reasoning Ability and Problem-Solving"
+        },
+        {
+          "q": "If 'BIRD' is coded as 'CJSF', then 'FISH' is coded as:",
+          "q_hi": "यदि 'BIRD' को 'CJSF' के रूप में कूटबद्ध किया जाता है, तो 'FISH' को किस रूप में कूटबद्ध किया जाएगा:",
+          "opts": ["GJTI", "GJTH", "GKTI", "GJSI"],
+          "opts_hi": ["GJTI", "GJTH", "GKTI", "GJSI"],
+          "ans": 0,
+          "subject": "Reasoning Ability and Problem-Solving"
+        },
+        {
+          "q": "What comes next in the series: 2, 6, 12, 20, 30, ?",
+          "q_hi": "श्रृंखला में आगे क्या आएगा: 2, 6, 12, 20, 30, ?",
+          "opts": ["36", "38", "40", "42"],
+          "opts_hi": ["36", "38", "40", "42"],
+          "ans": 3,
+          "subject": "Reasoning Ability and Problem-Solving"
+        },
+        {
+          "q": "Who is known as the 'Father of the Indian Constitution'?",
+          "q_hi": "भारतीय संविधान के 'जनक' के रूप में किसे जाना जाता है?",
+          "opts": ["Mahatma Gandhi", "Jawaharlal Nehru", "B.R. Ambedkar", "Sardar Patel"],
+          "opts_hi": ["महात्मा गांधी", "जवाहरलाल नेहरू", "बी.आर. अम्बेडकर", "सरदार पटेल"],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "What is the full form of GDP?",
+          "q_hi": "GDP का पूर्ण रूप क्या है?",
+          "opts": ["Gross Domestic Product", "Gross Development Product", "General Domestic Product", "Global Domestic Product"],
+          "opts_hi": ["सकल घरेलू उत्पाद", "सकल विकास उत्पाद", "सामान्य घरेलू उत्पाद", "वैश्विक घरेलू उत्पाद"],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which country is known as the 'Land of the Rising Sun'?",
+          "q_hi": "किस देश को 'सूर्योदय की भूमि' के नाम से जाना जाता है?",
+          "opts": ["China", "Japan", "South Korea", "Thailand"],
+          "opts_hi": ["चीन", "जापान", "दक्षिण कोरिया", "थाईलैंड"],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "What is the largest river in India by length?",
+          "q_hi": "लंबाई के अनुसार भारत की सबसे बड़ी नदी कौन सी है?",
+          "opts": ["Brahmaputra", "Ganga", "Godavari", "Yamuna"],
+          "opts_hi": ["ब्रह्मपुत्र", "गंगा", "गोदावरी", "यमुना"],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which of the following is a fundamental right in India?",
+          "q_hi": "निम्नलिखित में से कौन सा भारत में एक मौलिक अधिकार है?",
+          "opts": ["Right to Property", "Right to Education", "Right to Work", "Right to Vote"],
+          "opts_hi": ["संपत्ति का अधिकार", "शिक्षा का अधिकार", "काम का अधिकार", "मतदान का अधिकार"],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "What is the chemical formula of common salt?",
+          "q_hi": "साधारण नमक का रासायनिक सूत्र क्या है?",
+          "opts": ["NaCl", "NaOH", "Na2CO3", "NaHCO3"],
+          "opts_hi": ["NaCl", "NaOH", "Na2CO3", "NaHCO3"],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Find the error in the sentence: \"The sceneries of Kashmir is very beautiful.\"",
+          "q_hi": "वाक्य में त्रुटि ज्ञात करें: \"The sceneries of Kashmir is very beautiful.\"",
+          "opts": ["sceneries", "is", "beautiful", "No error"],
+          "opts_hi": ["sceneries", "is", "beautiful", "No error"],
+          "ans": 1,
+          "subject": "English Language and Comprehension"
+        },
+        {
+          "q": "Fill in the blank: He has been waiting _______ 2 hours.",
+          "q_hi": "रिक्त स्थान भरें: He has been waiting _______ 2 hours.",
+          "opts": ["since", "for", "from", "until"],
+          "opts_hi": ["since", "for", "from", "until"],
+          "ans": 1,
+          "subject": "English Language and Comprehension"
+        },
+        {
+          "q": "What is the synonym of 'Generous'?",
+          "q_hi": "'Generous' का पर्यायवाची शब्द?",
+          "opts": ["Stingy", "Kind", "Mean", "Selfish"],
+          "opts_hi": ["कंजूस", "दयालु", "मतलबी", "स्वार्थी"],
+          "ans": 1,
+          "subject": "English Language and Comprehension"
+        },
+        {
+          "q": "Antonym of 'Ancient'?",
+          "q_hi": "'Ancient' का विलोम शब्द?",
+          "opts": ["Old", "Modern", "Traditional", "Historic"],
+          "opts_hi": ["पुराना", "आधुनिक", "पारंपरिक", "ऐतिहासिक"],
+          "ans": 1,
+          "subject": "English Language and Comprehension"
+        },
+        {
+          "q": "Identify the correct spelling:",
+          "q_hi": "सही वर्तनी पहचानें:",
+          "opts": ["Accomodate", "Accommodate", "Acommodate", "Accomadate"],
+          "opts_hi": ["Accomodate", "Accommodate", "Acommodate", "Accomadate"],
+          "ans": 1,
+          "subject": "English Language and Comprehension"
+        },
+        {
+          "q": "What is the meaning of the idiom 'A piece of cake'?",
+          "q_hi": "मुहावरे 'A piece of cake' का अर्थ क्या है?",
+          "opts": ["Difficult task", "Very easy task", "Expensive item", "Delicious food"],
+          "opts_hi": ["कठिन कार्य", "बहुत आसान कार्य", "महंगी वस्तु", "स्वादिष्ट भोजन"],
+          "ans": 1,
+          "subject": "English Language and Comprehension"
         }
       ]
     },
     {
       "id": "ssc_mts_3",
-      "title": "SSC MTS Mock Test 3",
-      "duration": 10,
-      "difficulty": "Medium",
+      "title": "SSC MTS Full Mock Test 3 (Session I + II)",
+      "duration": 90,
+      "difficulty": "Hard",
+      "sectional": true,
+      "sectionDurationSec": 2700,
       "questions": [
         {
-          "q": "The Andes Mountains were formed due to the collision of which tectonic plates?",
-          "q_hi": "एंडीज पर्वत किन टेक्टोनिक प्लेटों के टकराव से बना था?",
-          "opts": [
-            "Pacific Plate and South American Plate",
-            "Pacific Plate and Nazca Plate",
-            "South American Plate and African Plate",
-            "Nazca Plate and South American Plate"
-          ],
-          "opts_hi": [
-            "प्रशांत प्लेट और दक्षिण अमेरिकी प्लेट",
-            "प्रशांत प्लेट और नाज़्का प्लेट",
-            "दक्षिण अमेरिकी प्लेट और अफ्रीकी प्लेट",
-            "नाज़्का प्लेट और दक्षिण अमेरिकी प्लेट"
-          ],
+          "q": "What is 20% of 500?",
+          "q_hi": "500 का 20% कितना है?",
+          "opts": ["50", "75", "100", "125"],
+          "opts_hi": ["50", "75", "100", "125"],
+          "ans": 2,
+          "subject": "Numerical and Mathematical Ability"
+        },
+        {
+          "q": "Find the HCF of 24 and 36.",
+          "q_hi": "24 और 36 का महत्तम समापवर्तक (HCF) ज्ञात करें।",
+          "opts": ["6", "8", "10", "12"],
+          "opts_hi": ["6", "8", "10", "12"],
           "ans": 3,
-          "subject": "Geography"
+          "subject": "Numerical and Mathematical Ability"
+        },
+        {
+          "q": "If 2x + 3 = 11, find x.",
+          "q_hi": "यदि 2x + 3 = 11 है, तो x ज्ञात करें।",
+          "opts": ["2", "3", "4", "5"],
+          "opts_hi": ["2", "3", "4", "5"],
+          "ans": 2,
+          "subject": "Numerical and Mathematical Ability"
+        },
+        {
+          "q": "What is the volume of a cube with side 4 cm?",
+          "q_hi": "4 सेमी भुजा वाले घन का आयतन क्या है?",
+          "opts": ["16 cm³", "32 cm³", "64 cm³", "128 cm³"],
+          "opts_hi": ["16 सेमी³", "32 सेमी³", "64 सेमी³", "128 सेमी³"],
+          "ans": 2,
+          "subject": "Numerical and Mathematical Ability"
+        },
+        {
+          "q": "If a = 4 and b = 2, find the value of a² - b².",
+          "q_hi": "यदि a = 4 और b = 2 है, तो a² - b² का मान ज्ञात करें।",
+          "opts": ["8", "10", "12", "14"],
+          "opts_hi": ["8", "10", "12", "14"],
+          "ans": 2,
+          "subject": "Numerical and Mathematical Ability"
+        },
+        {
+          "q": "Find the value of 5 + 6 × 2 - 8.",
+          "q_hi": "5 + 6 × 2 - 8 का मान ज्ञात करें।",
+          "opts": ["6", "7", "8", "9"],
+          "opts_hi": ["6", "7", "8", "9"],
+          "ans": 3,
+          "subject": "Numerical and Mathematical Ability"
+        },
+        {
+          "q": "What is the average of 5, 10, 15, 20?",
+          "q_hi": "5, 10, 15, 20 का औसत क्या है?",
+          "opts": ["10", "11", "12.5", "15"],
+          "opts_hi": ["10", "11", "12.5", "15"],
+          "ans": 2,
+          "subject": "Numerical and Mathematical Ability"
+        },
+        {
+          "q": "If the ratio of two numbers is 2:3 and their sum is 30, find the larger number.",
+          "q_hi": "यदि दो संख्याओं का अनुपात 2:3 है और उनका योग 30 है, तो बड़ी संख्या ज्ञात करें।",
+          "opts": ["12", "15", "18", "20"],
+          "opts_hi": ["12", "15", "18", "20"],
+          "ans": 2,
+          "subject": "Numerical and Mathematical Ability"
+        },
+        {
+          "q": "What is the area of a circle with radius 7 cm? (Take π = 22/7)",
+          "q_hi": "7 सेमी त्रिज्या वाले वृत्त का क्षेत्रफल क्या है? (π = 22/7 लें)",
+          "opts": ["144 cm²", "154 cm²", "164 cm²", "174 cm²"],
+          "opts_hi": ["144 सेमी²", "154 सेमी²", "164 सेमी²", "174 सेमी²"],
+          "ans": 1,
+          "subject": "Numerical and Mathematical Ability"
+        },
+        {
+          "q": "Find the value of 3/4 + 5/8.",
+          "q_hi": "3/4 + 5/8 का मान ज्ञात करें।",
+          "opts": ["7/8", "11/8", "13/8", "15/8"],
+          "opts_hi": ["7/8", "11/8", "13/8", "15/8"],
+          "ans": 1,
+          "subject": "Numerical and Mathematical Ability"
+        },
+        {
+          "q": "Which number will replace the question mark? 2, 5, 10, 17, ?",
+          "q_hi": "प्रश्न चिह्न के स्थान पर कौन सी संख्या आएगी? 2, 5, 10, 17, ?",
+          "opts": ["24", "26", "28", "30"],
+          "opts_hi": ["24", "26", "28", "30"],
+          "ans": 1,
+          "subject": "Reasoning Ability and Problem-Solving"
+        },
+        {
+          "q": "Find the odd one out: 3, 6, 12, 24, 48, 96, 192, 384, 768",
+          "q_hi": "विषम ज्ञात करें: 3, 6, 12, 24, 48, 96, 192, 384, 768",
+          "opts": ["768", "384", "192", "None, all are multiples of 3"],
+          "opts_hi": ["768", "384", "192", "कोई नहीं, सभी 3 के गुणज हैं"],
+          "ans": 3,
+          "subject": "Reasoning Ability and Problem-Solving"
+        },
+        {
+          "q": "In a certain code, 'PEN' is written as 'QFO'. How is 'PENCIL' written?",
+          "q_hi": "एक निश्चित कूट में, 'PEN' को 'QFO' लिखा जाता है। 'PENCIL' को कैसे लिखा जाएगा?",
+          "opts": ["QFODJM", "QFODNK", "QFODJL", "QFODJM"],
+          "opts_hi": ["QFODJM", "QFODNK", "QFODJL", "QFODJM"],
+          "ans": 0,
+          "subject": "Reasoning Ability and Problem-Solving"
+        },
+        {
+          "q": "Statements: Some cats are dogs. All dogs are cows. Conclusions: I. Some cows are cats. II. All cats are cows.",
+          "q_hi": "कथन: कुछ बिल्लियाँ कुत्ते हैं। सभी कुत्ते गायें हैं। निष्कर्ष: I. कुछ गायें बिल्लियाँ हैं। II. सभी बिल्लियाँ गायें हैं।",
+          "opts": ["Only I follows", "Only II follows", "Both follow", "Neither follows"],
+          "opts_hi": ["केवल I अनुसरण करता है", "केवल II अनुसरण करता है", "दोनों अनुसरण करते हैं", "कोई भी अनुसरण नहीं करता"],
+          "ans": 0,
+          "subject": "Reasoning Ability and Problem-Solving"
+        },
+        {
+          "q": "What comes next in the series: 1, 4, 9, 16, 25, ?",
+          "q_hi": "श्रृंखला में आगे क्या आएगा: 1, 4, 9, 16, 25, ?",
+          "opts": ["30", "32", "34", "36"],
+          "opts_hi": ["30", "32", "34", "36"],
+          "ans": 3,
+          "subject": "Reasoning Ability and Problem-Solving"
+        },
+        {
+          "q": "Which of the following is the water image of 'SMILE'?",
+          "q_hi": "निम्नलिखित में से 'SMILE' का जल प्रतिबिंब कौन सा है?",
+          "opts": ["ELIMS", "SMIL E", "ELI MS", "SMILE"],
+          "opts_hi": ["ELIMS", "SMIL E", "ELI MS", "SMILE"],
+          "ans": 0,
+          "subject": "Reasoning Ability and Problem-Solving"
+        },
+        {
+          "q": "Find the odd one out: 2, 6, 12, 20, 30, 42, 56, 72, 90, 110, 132, 156, 182, 210, 240, 272, 306, 342, 380, 420",
+          "q_hi": "विषम चुनें: 2, 6, 12, 20, 30, 42, 56, 72, 90, 110, 132, 156, 182, 210, 240, 272, 306, 342, 380, 420",
+          "opts": ["420", "380", "342", "None, all are n×(n+1)"],
+          "opts_hi": ["420", "380", "342", "कोई नहीं, सभी n×(n+1) हैं"],
+          "ans": 3,
+          "subject": "Reasoning Ability and Problem-Solving"
+        },
+        {
+          "q": "In a certain code language, 'LOGIC' is coded as 'QNKFJ'. How will 'MATHS' be coded?",
+          "q_hi": "एक निश्चित कूट भाषा में, 'LOGIC' को 'QNKFJ' के रूप में कूटबद्ध किया जाता है। 'MATHS' को किस प्रकार कूटबद्ध किया जाएगा?",
+          "opts": ["PDWKV", "PDVKW", "PDUKW", "PDWJU"],
+          "opts_hi": ["PDWKV", "PDVKW", "PDUKW", "PDWJU"],
+          "ans": 0,
+          "subject": "Reasoning Ability and Problem-Solving"
+        },
+        {
+          "q": "What is the angle between hour and minute hands at 3:30?",
+          "q_hi": "3:30 पर घंटे और मिनट की सुइयों के बीच का कोण क्या है?",
+          "opts": ["75°", "85°", "95°", "105°"],
+          "opts_hi": ["75°", "85°", "95°", "105°"],
+          "ans": 0,
+          "subject": "Reasoning Ability and Problem-Solving"
+        },
+        {
+          "q": "What is the capital of Australia?",
+          "q_hi": "ऑस्ट्रेलिया की राजधानी क्या है?",
+          "opts": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+          "opts_hi": ["सिडनी", "मेलबर्न", "कैनबरा", "ब्रिस्बेन"],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Who is the current President of India?",
+          "q_hi": "भारत के वर्तमान राष्ट्रपति कौन हैं?",
+          "opts": ["Ram Nath Kovind", "Droupadi Murmu", "Pranab Mukherjee", "Narendra Modi"],
+          "opts_hi": ["राम नाथ कोविन्द", "द्रौपदी मुर्मू", "प्रणब मुखर्जी", "नरेंद्र मोदी"],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which is the longest river in the world?",
+          "q_hi": "विश्व की सबसे लंबी नदी कौन सी है?",
+          "opts": ["Amazon", "Yangtze", "Nile", "Mississippi"],
+          "opts_hi": ["अमेज़न", "यांग्त्ज़ी", "नील", "मिसिसिप्पी"],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which planet is known as the 'Morning Star'?",
+          "q_hi": "किस ग्रह को 'सुबह का तारा' कहा जाता है?",
+          "opts": ["Mars", "Jupiter", "Venus", "Mercury"],
+          "opts_hi": ["मंगल", "बृहस्पति", "शुक्र", "बुध"],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "What is the full form of RBI?",
+          "q_hi": "RBI का पूर्ण रूप क्या है?",
+          "opts": ["Reserve Bank of India", "Regional Bank of India", "Royal Bank of India", "Rural Bank of India"],
+          "opts_hi": ["भारतीय रिजर्व बैंक", "क्षेत्रीय बैंक ऑफ इंडिया", "रॉयल बैंक ऑफ इंडिया", "ग्रामीण बैंक ऑफ इंडिया"],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "What is the synonym of 'Brave'?",
+          "q_hi": "'Brave' का पर्यायवाची शब्द?",
+          "opts": ["Coward", "Courageous", "Scared", "Timid"],
+          "opts_hi": ["कायर", "साहसी", "डरा हुआ", "डरपोक"],
+          "ans": 1,
+          "subject": "English Language and Comprehension"
+        },
+        {
+          "q": "Antonym of 'Victory'?",
+          "q_hi": "'Victory' का विलोम शब्द?",
+          "opts": ["Win", "Defeat", "Success", "Triumph"],
+          "opts_hi": ["जीत", "हार", "सफलता", "विजय"],
+          "ans": 1,
+          "subject": "English Language and Comprehension"
+        },
+        {
+          "q": "Fill in the blank: I am looking forward _______ you.",
+          "q_hi": "रिक्त स्थान भरें: I am looking forward _______ you.",
+          "opts": ["to meet", "to meeting", "meeting", "meet"],
+          "opts_hi": ["to meet", "to meeting", "meeting", "meet"],
+          "ans": 1,
+          "subject": "English Language and Comprehension"
+        },
+        {
+          "q": "Identify the error: She has been working here since 2 years.",
+          "q_hi": "त्रुटि पहचानें: She has been working here since 2 years.",
+          "opts": ["has been", "working", "since", "2 years"],
+          "opts_hi": ["has been", "working", "since", "2 years"],
+          "ans": 2,
+          "subject": "English Language and Comprehension"
+        },
+        {
+          "q": "What is the meaning of 'Elusive'?",
+          "q_hi": "'Elusive' का अर्थ क्या है?",
+          "opts": ["Easy to find", "Difficult to find", "Beautiful", "Strong"],
+          "opts_hi": ["खोजने में आसान", "खोजने में कठिन", "सुंदर", "मजबूत"],
+          "ans": 1,
+          "subject": "English Language and Comprehension"
+        },
+        {
+          "q": "Choose the correct word: He is _______ M.A. in English.",
+          "q_hi": "सही शब्द चुनें: He is _______ M.A. in English.",
+          "opts": ["a", "an", "the", "no article"],
+          "opts_hi": ["a", "an", "the", "no article"],
+          "ans": 1,
+          "subject": "English Language and Comprehension"
         }
       ]
     },
     {
       "id": "ssc_mts_4",
-      "title": "SSC MTS Mock Test 4",
-      "duration": 10,
-      "difficulty": "Medium",
+      "title": "SSC MTS Full Mock Test 4 (Session I + II)",
+      "duration": 90,
+      "difficulty": "Hard",
+      "sectional": true,
+      "sectionDurationSec": 2700,
       "questions": [
         {
-          "q": "Which public sector bank inaugurated its IFSC Banking Unit at GIFT City, Gandhinagar in July 2026?",
-          "q_hi": "जुलाई 2026 में किस सार्वजनिक क्षेत्र के बैंक ने गिफ्ट सिटी, गांधीनगर में अपनी IFSC बैंकिंग इकाई का उद्घाटन किया?",
-          "opts": [
-            "Bank of Baroda",
-            "Punjab National Bank",
-            "Canara Bank",
-            "Indian Bank"
-          ],
-          "opts_hi": [
-            "बैंक ऑफ बड़ौदा",
-            "पंजाब नेशनल बैंक",
-            "केनरा बैंक",
-            "इंडियन बैंक"
-          ],
+          "q": "If 3/4 of a number is 45, find the number.",
+          "q_hi": "यदि किसी संख्या का 3/4 = 45 है, तो संख्या ज्ञात करें।",
+          "opts": ["40", "50", "60", "70"],
+          "opts_hi": ["40", "50", "60", "70"],
+          "ans": 2,
+          "subject": "Numerical and Mathematical Ability"
+        },
+        {
+          "q": "Find the LCM of 8, 12 and 16.",
+          "q_hi": "8, 12 और 16 का लघुत्तम समापवर्त्य (LCM) ज्ञात करें।",
+          "opts": ["32", "40", "48", "56"],
+          "opts_hi": ["32", "40", "48", "56"],
+          "ans": 2,
+          "subject": "Numerical and Mathematical Ability"
+        },
+        {
+          "q": "What is the area of a triangle with base 10 cm and height 6 cm?",
+          "q_hi": "10 सेमी आधार और 6 सेमी ऊँचाई वाले त्रिभुज का क्षेत्रफल क्या है?",
+          "opts": ["20 cm²", "25 cm²", "30 cm²", "35 cm²"],
+          "opts_hi": ["20 सेमी²", "25 सेमी²", "30 सेमी²", "35 सेमी²"],
+          "ans": 2,
+          "subject": "Numerical and Mathematical Ability"
+        },
+        {
+          "q": "If a = 6 and b = 2, find the value of (a + b)².",
+          "q_hi": "यदि a = 6 और b = 2 है, तो (a + b)² का मान ज्ञात करें।",
+          "opts": ["56", "60", "64", "68"],
+          "opts_hi": ["56", "60", "64", "68"],
+          "ans": 2,
+          "subject": "Numerical and Mathematical Ability"
+        },
+        {
+          "q": "Find the value of 15 - 3 × 4 + 8.",
+          "q_hi": "15 - 3 × 4 + 8 का मान ज्ञात करें।",
+          "opts": ["9", "10", "11", "12"],
+          "opts_hi": ["9", "10", "11", "12"],
+          "ans": 2,
+          "subject": "Numerical and Mathematical Ability"
+        },
+        {
+          "q": "What is 30% of 400?",
+          "q_hi": "400 का 30% कितना है?",
+          "opts": ["90", "100", "110", "120"],
+          "opts_hi": ["90", "100", "110", "120"],
+          "ans": 3,
+          "subject": "Numerical and Mathematical Ability"
+        },
+        {
+          "q": "If the perimeter of a square is 36 cm, find its side.",
+          "q_hi": "यदि एक वर्ग का परिमाप 36 सेमी है, तो उसकी भुजा ज्ञात करें।",
+          "opts": ["7 cm", "8 cm", "9 cm", "10 cm"],
+          "opts_hi": ["7 सेमी", "8 सेमी", "9 सेमी", "10 सेमी"],
+          "ans": 2,
+          "subject": "Numerical and Mathematical Ability"
+        },
+        {
+          "q": "Find the value of (2/5) × (5/7).",
+          "q_hi": "(2/5) × (5/7) का मान ज्ञात करें।",
+          "opts": ["1/7", "2/7", "3/7", "4/7"],
+          "opts_hi": ["1/7", "2/7", "3/7", "4/7"],
+          "ans": 1,
+          "subject": "Numerical and Mathematical Ability"
+        },
+        {
+          "q": "What is the simple interest on ₹5000 for 3 years at 10% per annum?",
+          "q_hi": "₹5000 पर 3 वर्षों के लिए 10% वार्षिक दर से साधारण ब्याज क्या है?",
+          "opts": ["₹1000", "₹1250", "₹1500", "₹1750"],
+          "opts_hi": ["₹1000", "₹1250", "₹1500", "₹1750"],
+          "ans": 2,
+          "subject": "Numerical and Mathematical Ability"
+        },
+        {
+          "q": "Find the 15th term of the series: 3, 7, 11, 15, ...",
+          "q_hi": "श्रृंखला का 15वाँ पद ज्ञात करें: 3, 7, 11, 15, ...",
+          "opts": ["55", "56", "57", "59"],
+          "opts_hi": ["55", "56", "57", "59"],
+          "ans": 3,
+          "subject": "Numerical and Mathematical Ability"
+        },
+        {
+          "q": "Complete the series: 5, 10, 20, 40, ?",
+          "q_hi": "श्रृंखला पूरी करें: 5, 10, 20, 40, ?",
+          "opts": ["60", "70", "80", "90"],
+          "opts_hi": ["60", "70", "80", "90"],
+          "ans": 2,
+          "subject": "Reasoning Ability and Problem-Solving"
+        },
+        {
+          "q": "Find the odd one out: 2, 3, 5, 7, 11, 13, 17, 19, 23, 25",
+          "q_hi": "विषम ज्ञात करें: 2, 3, 5, 7, 11, 13, 17, 19, 23, 25",
+          "opts": ["25", "23", "19", "17"],
+          "opts_hi": ["25", "23", "19", "17"],
           "ans": 0,
-          "subject": "Current Affairs"
+          "subject": "Reasoning Ability and Problem-Solving"
         },
         {
-          "q": "According to July 2026 current affairs, the Digital India Programme completed how many years on 1 July 2026?",
-          "q_hi": "जुलाई 2026 करंट अफेयर्स के अनुसार, डिजिटल इंडिया कार्यक्रम ने 1 जुलाई 2026 को कितने वर्ष पूरे किए?",
-          "opts": [
-            "8 years",
-            "9 years",
-            "10 years",
-            "11 years"
-          ],
-          "opts_hi": [
-            "8 वर्ष",
-            "9 वर्ष",
-            "10 वर्ष",
-            "11 वर्ष"
-          ],
-          "ans": 1,
-          "subject": "Current Affairs"
-        }
-      ]
-    },
-    {
-      "id": "ssc_mts_5",
-      "title": "SSC MTS Mock Test 5",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Which new economic index did the Ministry of Statistics announce it would launch within months in July 2026?",
-          "q_hi": "जुलाई 2026 में सांख्यिकी मंत्रालय ने किस नए आर्थिक सूचकांक को महीनों के भीतर लॉन्च करने की घोषणा की?",
-          "opts": [
-            "Index of Industrial Production",
-            "Index of Services Production",
-            "Consumer Price Index",
-            "Wholesale Price Index"
-          ],
-          "opts_hi": [
-            "औद्योगिक उत्पादन सूचकांक",
-            "सेवाएँ उत्पादन सूचकांक",
-            "उपभोक्ता मूल्य सूचकांक",
-            "थोक मूल्य सूचकांक"
-          ],
-          "ans": 1,
-          "subject": "Current Affairs"
+          "q": "If 'MOTHER' is coded as 'NPUIFS', how is 'FATHER' coded?",
+          "q_hi": "यदि 'MOTHER' को 'NPUIFS' के रूप में कूटबद्ध किया जाता है, तो 'FATHER' को कैसे कूटबद्ध किया जाएगा?",
+          "opts": ["GBUIFS", "GDUIFS", "GBUIFT", "GBUISF"],
+          "opts_hi": ["GBUIFS", "GDUIFS", "GBUIFT", "GBUISF"],
+          "ans": 0,
+          "subject": "Reasoning Ability and Problem-Solving"
         },
         {
-          "q": "Which state will host the Khelo India Youth Games (KIYG) 2026 edition?",
-          "q_hi": "Khelo India Youth Games (KIYG) 2026 संस्करण की मेजबानी कौन सा राज्य करेगा?",
-          "opts": [
-            "Tamil Nadu",
-            "Telangana",
-            "Bihar",
-            "West Bengal"
-          ],
-          "opts_hi": [
-            "तमिलनाडु",
-            "तेलंगाना",
-            "बिहार",
-            "पश्चिम बंगाल"
-          ],
+          "q": "A person walks 12 km south, turns right and walks 5 km, turns right and walks 12 km. How far is he from the starting point?",
+          "q_hi": "एक व्यक्ति 12 किमी दक्षिण चलता है, दाएँ मुड़ता है और 5 किमी चलता है, दाएँ मुड़ता है और 12 किमी चलता है। वह आरंभिक बिंदु से कितनी दूर है?",
+          "opts": ["5 km", "12 km", "17 km", "20 km"],
+          "opts_hi": ["5 किमी", "12 किमी", "17 किमी", "20 किमी"],
+          "ans": 0,
+          "subject": "Reasoning Ability and Problem-Solving"
+        },
+        {
+          "q": "Which number will replace the question mark? 7, 14, 28, 56, ?",
+          "q_hi": "प्रश्न चिह्न के स्थान पर कौन सी संख्या आएगी? 7, 14, 28, 56, ?",
+          "opts": ["84", "96", "108", "112"],
+          "opts_hi": ["84", "96", "108", "112"],
+          "ans": 3,
+          "subject": "Reasoning Ability and Problem-Solving"
+        },
+        {
+          "q": "Find the odd one out: 8, 27, 64, 125, 216, 343, 512, 729, 1000",
+          "q_hi": "विषम ज्ञात करें: 8, 27, 64, 125, 216, 343, 512, 729, 1000",
+          "opts": ["1000", "729", "512", "None, all are perfect cubes"],
+          "opts_hi": ["1000", "729", "512", "कोई नहीं, सभी पूर्ण घन हैं"],
+          "ans": 3,
+          "subject": "Reasoning Ability and Problem-Solving"
+        },
+        {
+          "q": "Statements: All men are mortal. Ram is a man. Conclusions: I. Ram is mortal. II. Some men are mortal.",
+          "q_hi": "कथन: सभी पुरुष नश्वर हैं। राम एक पुरुष है। निष्कर्ष: I. राम नश्वर है। II. कुछ पुरुष नश्वर हैं।",
+          "opts": ["Only I follows", "Only II follows", "Both follow", "Neither follows"],
+          "opts_hi": ["केवल I अनुसरण करता है", "केवल II अनुसरण करता है", "दोनों अनुसरण करते हैं", "कोई भी अनुसरण नहीं करता"],
+          "ans": 2,
+          "subject": "Reasoning Ability and Problem-Solving"
+        },
+        {
+          "q": "What comes next in the series: 2, 3, 5, 7, 11, 13, ?",
+          "q_hi": "श्रृंखला में आगे क्या आएगा: 2, 3, 5, 7, 11, 13, ?",
+          "opts": ["15", "16", "17", "18"],
+          "opts_hi": ["15", "16", "17", "18"],
+          "ans": 2,
+          "subject": "Reasoning Ability and Problem-Solving"
+        },
+        {
+          "q": "What is the currency of Japan?",
+          "q_hi": "जापान की मुद्रा क्या है?",
+          "opts": ["Yuan", "Won", "Yen", "Ringgit"],
+          "opts_hi": ["युआन", "वोन", "येन", "रिंगित"],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which of the following is a non-metallic mineral?",
+          "q_hi": "निम्नलिखित में से कौन सा अधात्विक खनिज है?",
+          "opts": ["Iron Ore", "Bauxite", "Mica", "Copper"],
+          "opts_hi": ["लौह अयस्क", "बॉक्साइट", "अभ्रक", "तांबा"],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The 'Gandhi-Irwin Pact' was signed in which year?",
+          "q_hi": "गांधी-इरविन समझौता किस वर्ष हस्ताक्षरित किया गया था?",
+          "opts": ["1929", "1930", "1931", "1932"],
+          "opts_hi": ["1929", "1930", "1931", "1932"],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which Amendment Act is known as the 'Mini Constitution' of India?",
+          "q_hi": "किस संशोधन अधिनियम को भारत का 'लघु संविधान' कहा जाता है?",
+          "opts": ["42nd Amendment", "44th Amendment", "73rd Amendment", "86th Amendment"],
+          "opts_hi": ["42वाँ संशोधन", "44वाँ संशोधन", "73वाँ संशोधन", "86वाँ संशोधन"],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "What is the largest gland in the human body?",
+          "q_hi": "मानव शरीर की सबसे बड़ी ग्रंथि क्या है?",
+          "opts": ["Liver", "Kidney", "Pancreas", "Thyroid"],
+          "opts_hi": ["यकृत", "वृक्क", "अग्न्याशय", "थायराइड"],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which of the following is a Rabi crop?",
+          "q_hi": "निम्नलिखित में से कौन सी रबी की फसल है?",
+          "opts": ["Rice", "Maize", "Wheat", "Cotton"],
+          "opts_hi": ["धान", "मक्का", "गेहूँ", "कपास"],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "What is the correct meaning of the idiom 'To be at loggerheads'?",
+          "q_hi": "मुहावरे 'To be at loggerheads' का सही अर्थ क्या है?",
+          "opts": ["To be in a romantic relationship", "To be in a state of agreement", "To be in a state of disagreement", "To be working together"],
+          "opts_hi": ["रोमांटिक रिश्ते में होना", "सहमति की स्थिति में होना", "असहमति की स्थिति में होना", "एक साथ काम करना"],
+          "ans": 2,
+          "subject": "English Language and Comprehension"
+        },
+        {
+          "q": "Choose the correct passive voice: \"They are building a new mall.\"",
+          "q_hi": "सही passive voice चुनें: \"They are building a new mall.\"",
+          "opts": ["A new mall is being built by them.", "A new mall was being built by them.", "A new mall is built by them.", "A new mall was built by them."],
+          "opts_hi": ["A new mall is being built by them.", "A new mall was being built by them.", "A new mall is built by them.", "A new mall was built by them."],
+          "ans": 0,
+          "subject": "English Language and Comprehension"
+        },
+        {
+          "q": "What is the synonym of 'Courageous'?",
+          "q_hi": "'Courageous' का पर्यायवाची शब्द?",
+          "opts": ["Cowardly", "Fearless", "Scared", "Timid"],
+          "opts_hi": ["कायर", "निडर", "डरा हुआ", "डरपोक"],
           "ans": 1,
-          "subject": "Current Affairs"
+          "subject": "English Language and Comprehension"
+        },
+        {
+          "q": "Antonym of 'Wealthy'?",
+          "q_hi": "'Wealthy' का विलोम शब्द?",
+          "opts": ["Rich", "Poor", "Affluent", "Prosperous"],
+          "opts_hi": ["अमीर", "गरीब", "धनी", "समृद्ध"],
+          "ans": 1,
+          "subject": "English Language and Comprehension"
+        },
+        {
+          "q": "Fill in the blank: Neither of the students _______ present.",
+          "q_hi": "रिक्त स्थान भरें: Neither of the students _______ present.",
+          "opts": ["is", "are", "were", "have"],
+          "opts_hi": ["is", "are", "were", "have"],
+          "ans": 0,
+          "subject": "English Language and Comprehension"
+        },
+        {
+          "q": "What is the meaning of 'Serene'?",
+          "q_hi": "'Serene' का अर्थ क्या है?",
+          "opts": ["Loud", "Calm", "Angry", "Excited"],
+          "opts_hi": ["तेज", "शांत", "क्रोधित", "उत्साहित"],
+          "ans": 1,
+          "subject": "English Language and Comprehension"
         }
       ]
     }
