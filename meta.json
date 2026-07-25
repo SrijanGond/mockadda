@@ -372,133 +372,40 @@
           }
         ]
       },
-      "kvs": {
+            "kvs": {
         "name": "KVS",
         "fullname": "Kendriya Vidyalaya Sangathan Teacher",
         "tests": [
           {
             "id": "kvs_1",
-            "title": "KVS PRT Mock Test 1",
-            "duration": 15,
+            "title": "KVS Full Mock Test 1 (Teacher Pattern)",
+            "duration": 180,
             "difficulty": "Medium",
-            "questionCount": 10
+            "questionCount": 25
           },
           {
             "id": "kvs_2",
-            "title": "KVS Mock Test 2",
-            "duration": 10,
+            "title": "KVS Full Mock Test 2 (Teacher Pattern)",
+            "duration": 180,
             "difficulty": "Medium",
-            "questionCount": 1
+            "questionCount": 25
           },
           {
             "id": "kvs_3",
-            "title": "KVS Mock Test 3",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
+            "title": "KVS Full Mock Test 3 (Teacher Pattern)",
+            "duration": 180,
+            "difficulty": "Hard",
+            "questionCount": 25
           },
           {
             "id": "kvs_4",
-            "title": "KVS Mock Test 4",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
-          },
-          {
-            "id": "kvs_5",
-            "title": "KVS Mock Test 5",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "kvs_6",
-            "title": "KVS Mock Test 6",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "kvs_7",
-            "title": "KVS Mock Test 7",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "kvs_8",
-            "title": "KVS Mock Test 8",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 4
-          },
-          {
-            "id": "kvs_9",
-            "title": "KVS Mock Test 9",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "kvs_10",
-            "title": "KVS Mock Test 10",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 3
-          },
-          {
-            "id": "kvs_11",
-            "title": "KVS Mock Test 11",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "kvs_12",
-            "title": "KVS Mock Test 12",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "kvs_13",
-            "title": "KVS Mock Test 13",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
-          },
-          {
-            "id": "kvs_14",
-            "title": "KVS Mock Test 14",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "kvs_15",
-            "title": "KVS Mock Test 15",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 4
-          },
-          {
-            "id": "kvs_16",
-            "title": "KVS Mock Test 16",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "kvs_17",
-            "title": "KVS Mock Test 17",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
+            "title": "KVS Full Mock Test 4 (Teacher Pattern)",
+            "duration": 180,
+            "difficulty": "Hard",
+            "questionCount": 25
           }
         ]
-      }
-    }
-  },
+      },
   "civil_services": {
     "name": "Civil Services",
     "icon": "⚖️",
