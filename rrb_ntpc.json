@@ -2,2855 +2,801 @@
   "tests": [
     {
       "id": "rrb_ntpc_1",
-      "title": "RRB NTPC Mock Test 1",
-      "duration": 15,
+      "title": "RRB NTPC Full Mock Test 1 (CBT 1 Pattern)",
+      "duration": 90,
       "difficulty": "Medium",
+      "correctMarks": 1,
+      "negativeMarks": 0.33,
       "questions": [
         {
-          "q": "Indian Railways was nationalised in?",
-          "q_hi": "भारतीय रेलवे का राष्ट्रीयकरण कब हुआ?",
-          "opts": [
-            "1947",
-            "1950",
-            "1951",
-            "1953"
-          ],
-          "opts_hi": [
-            "1947",
-            "1950",
-            "1951",
-            "1953"
-          ],
-          "ans": 3
+          "q": "What is the LCM of 12, 18 and 24?",
+          "q_hi": "12, 18 और 24 का लघुत्तम समापवर्त्य (LCM) क्या है?",
+          "opts": ["72", "48", "36", "24"],
+          "opts_hi": ["72", "48", "36", "24"],
+          "ans": 0,
+          "subject": "Mathematics"
         },
         {
-          "q": "Headquarters of Railway Board is in?",
-          "q_hi": "रेलवे बोर्ड का मुख्यालय कहाँ है?",
-          "opts": [
-            "Mumbai",
-            "Kolkata",
-            "New Delhi",
-            "Chennai"
-          ],
-          "opts_hi": [
-            "मुंबई",
-            "कोलकाता",
-            "नई दिल्ली",
-            "चेन्नई"
-          ],
-          "ans": 2
+          "q": "What is the HCF of 36 and 48?",
+          "q_hi": "36 और 48 का महत्तम समापवर्तक (HCF) क्या है?",
+          "opts": ["6", "8", "12", "16"],
+          "opts_hi": ["6", "8", "12", "16"],
+          "ans": 2,
+          "subject": "Mathematics"
         },
         {
-          "q": "The busiest railway station in India?",
-          "q_hi": "भारत का सबसे व्यस्त रेलवे स्टेशन कौन सा है?",
-          "opts": [
-            "Mumbai CST",
-            "Howrah",
-            "New Delhi",
-            "Chennai Central"
-          ],
-          "opts_hi": [
-            "मुंबई सीएसटी",
-            "हावड़ा",
-            "नई दिल्ली",
-            "चेन्नई सेंट्रल"
-          ],
-          "ans": 1
+          "q": "If 25% of a number is 75, what is the number?",
+          "q_hi": "यदि किसी संख्या का 25% = 75 है, तो संख्या क्या है?",
+          "opts": ["200", "250", "300", "350"],
+          "opts_hi": ["200", "250", "300", "350"],
+          "ans": 2,
+          "subject": "Mathematics"
         },
         {
-          "q": "Train A is 150m and Train B is 100m long. They cross each other in 10 sec. Combined speed?",
-          "q_hi": "ट्रेन A 150 मी और ट्रेन B 100 मी लंबी है। वे 10 सेकंड में एक-दूसरे को पार करती हैं। संयुक्त गति?",
-          "opts": [
-            "20 m/s",
-            "25 m/s",
-            "30 m/s",
-            "35 m/s"
-          ],
-          "opts_hi": [
-            "20 मी/से",
-            "25 मी/से",
-            "30 मी/से",
-            "35 मी/से"
-          ],
-          "ans": 1
+          "q": "Find the value of (2/3) + (3/4).",
+          "q_hi": "(2/3) + (3/4) का मान ज्ञात करें।",
+          "opts": ["5/7", "17/12", "11/12", "5/12"],
+          "opts_hi": ["5/7", "17/12", "11/12", "5/12"],
+          "ans": 1,
+          "subject": "Mathematics"
         },
         {
-          "q": "India's first Metro Rail was started in?",
-          "q_hi": "भारत की पहली मेट्रो रेल कहाँ शुरू हुई?",
-          "opts": [
-            "Delhi",
-            "Mumbai",
-            "Kolkata",
-            "Chennai"
-          ],
-          "opts_hi": [
-            "दिल्ली",
-            "मुंबई",
-            "कोलकाता",
-            "चेन्नई"
-          ],
-          "ans": 2
+          "q": "A shopkeeper buys an article for ₹400 and sells it for ₹500. What is the profit percentage?",
+          "q_hi": "एक दुकानदार एक वस्तु ₹400 में खरीदता है और ₹500 में बेचता है। लाभ प्रतिशत क्या है?",
+          "opts": ["20%", "25%", "30%", "35%"],
+          "opts_hi": ["20%", "25%", "30%", "35%"],
+          "ans": 1,
+          "subject": "Mathematics"
         },
         {
-          "q": "What does the yellow light on a railway signal indicate?",
-          "q_hi": "रेलवे सिग्नल पर पीली बत्ती क्या दर्शाती है?",
-          "opts": [
-            "Stop",
-            "Go slow / Caution",
-            "Proceed",
-            "Reverse"
-          ],
-          "opts_hi": [
-            "रुको",
-            "धीरे जाओ / सावधानी",
-            "आगे बढ़ो",
-            "पीछे जाओ"
-          ],
-          "ans": 1
+          "q": "If the ratio of two numbers is 3:4 and their sum is 28, find the numbers.",
+          "q_hi": "यदि दो संख्याओं का अनुपात 3:4 है और उनका योग 28 है, तो संख्याएँ ज्ञात करें।",
+          "opts": ["8, 20", "10, 18", "12, 16", "14, 14"],
+          "opts_hi": ["8, 20", "10, 18", "12, 16", "14, 14"],
+          "ans": 2,
+          "subject": "Mathematics"
         },
         {
-          "q": "Which is the longest railway platform in India?",
-          "q_hi": "भारत का सबसे लंबा रेलवे प्लेटफॉर्म कौन सा है?",
-          "opts": [
-            "Gorakhpur",
-            "Kollam",
-            "Kharagpur",
-            "Patna"
-          ],
-          "opts_hi": [
-            "गोरखपुर",
-            "कोल्लम",
-            "खड़गपुर",
-            "पटना"
-          ],
-          "ans": 0
+          "q": "What is the simple interest on ₹1000 for 2 years at 5% per annum?",
+          "q_hi": "₹1000 पर 2 वर्षों के लिए 5% वार्षिक दर से साधारण ब्याज क्या है?",
+          "opts": ["₹50", "₹100", "₹150", "₹200"],
+          "opts_hi": ["₹50", "₹100", "₹150", "₹200"],
+          "ans": 1,
+          "subject": "Mathematics"
         },
         {
-          "q": "UNESCO declared which Indian Railway a World Heritage Site?",
-          "q_hi": "यूनेस्को ने किस भारतीय रेलवे को विश्व धरोहर स्थल घोषित किया?",
-          "opts": [
-            "Konkan Railway",
-            "Darjeeling Himalayan Railway",
-            "Kalka-Shimla Railway",
-            "Nilgiri Mountain Railway"
-          ],
-          "opts_hi": [
-            "कोंकण रेलवे",
-            "दार्जिलिंग हिमालयन रेलवे",
-            "कालका-शिमला रेलवे",
-            "नीलगिरि माउंटेन रेलवे"
-          ],
-          "ans": 1
+          "q": "Find the value of 25 + 5 × 3 - 10.",
+          "q_hi": "25 + 5 × 3 - 10 का मान ज्ञात करें।",
+          "opts": ["20", "25", "30", "35"],
+          "opts_hi": ["20", "25", "30", "35"],
+          "ans": 2,
+          "subject": "Mathematics"
         },
         {
-          "q": "Spot the error: 'The news are shocking.'",
-          "q_hi": "त्रुटि पहचानें: 'The news are shocking.'",
-          "opts": [
-            "The",
-            "news",
-            "are",
-            "shocking"
-          ],
-          "opts_hi": [
-            "The",
-            "news",
-            "are",
-            "shocking"
-          ],
-          "ans": 2
+          "q": "In a code language, 'CAT' is written as 'DBU'. How is 'DOG' written?",
+          "q_hi": "एक कूट भाषा में, 'CAT' को 'DBU' लिखा जाता है। 'DOG' को कैसे लिखा जाएगा?",
+          "opts": ["EPH", "EPH", "FQI", "FQI"],
+          "opts_hi": ["EPH", "EPH", "FQI", "FQI"],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
         },
         {
-          "q": "What is 3/8 as a percentage?",
-          "q_hi": "3/8 को प्रतिशत में क्या होगा?",
-          "opts": [
-            "32.5%",
-            "37.5%",
-            "42.5%",
-            "47.5%"
-          ],
-          "opts_hi": [
-            "32.5%",
-            "37.5%",
-            "42.5%",
-            "47.5%"
-          ],
-          "ans": 1
+          "q": "Find the odd one out: 2, 4, 6, 9, 10, 12",
+          "q_hi": "विषम ज्ञात करें: 2, 4, 6, 9, 10, 12",
+          "opts": ["2", "4", "6", "9"],
+          "opts_hi": ["2", "4", "6", "9"],
+          "ans": 3,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Which number will replace the question mark? 2, 5, 10, 17, ?",
+          "q_hi": "प्रश्न चिह्न के स्थान पर कौन सी संख्या आएगी? 2, 5, 10, 17, ?",
+          "opts": ["22", "24", "26", "28"],
+          "opts_hi": ["22", "24", "26", "28"],
+          "ans": 2,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "A man walks 5 km east, then turns right and walks 10 km, then turns right and walks 5 km. How far is he from the starting point?",
+          "q_hi": "एक व्यक्ति 5 किमी पूर्व चलता है, फिर दाएँ मुड़ता है और 10 किमी चलता है, फिर दाएँ मुड़ता है और 5 किमी चलता है। वह आरंभिक बिंदु से कितनी दूर है?",
+          "opts": ["5 km", "10 km", "15 km", "20 km"],
+          "opts_hi": ["5 किमी", "10 किमी", "15 किमी", "20 किमी"],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "If A is the brother of B, and B is the father of C, how is A related to C?",
+          "q_hi": "यदि A, B का भाई है, और B, C का पिता है, तो A, C से किस प्रकार संबंधित है?",
+          "opts": ["Father", "Uncle", "Grandfather", "Brother"],
+          "opts_hi": ["पिता", "चाचा", "दादा", "भाई"],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Complete the series: A, C, F, J, ?",
+          "q_hi": "श्रृंखला पूरी करें: A, C, F, J, ?",
+          "opts": ["M", "N", "O", "P"],
+          "opts_hi": ["M", "N", "O", "P"],
+          "ans": 2,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Find the odd one out: 11, 13, 17, 19, 21, 23",
+          "q_hi": "विषम ज्ञात करें: 11, 13, 17, 19, 21, 23",
+          "opts": ["11", "19", "21", "23"],
+          "opts_hi": ["11", "19", "21", "23"],
+          "ans": 2,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Which of the following is the capital of India?",
+          "q_hi": "निम्नलिखित में से भारत की राजधानी कौन सी है?",
+          "opts": ["Mumbai", "Delhi", "Kolkata", "Chennai"],
+          "opts_hi": ["मुंबई", "दिल्ली", "कोलकाता", "चेन्नई"],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Who was the first Prime Minister of India?",
+          "q_hi": "भारत के पहले प्रधानमंत्री कौन थे?",
+          "opts": ["Mahatma Gandhi", "Jawaharlal Nehru", "Sardar Patel", "B.R. Ambedkar"],
+          "opts_hi": ["महात्मा गांधी", "जवाहरलाल नेहरू", "सरदार पटेल", "बी.आर. अम्बेडकर"],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which planet is known as the 'Red Planet'?",
+          "q_hi": "किस ग्रह को 'लाल ग्रह' के नाम से जाना जाता है?",
+          "opts": ["Venus", "Mars", "Jupiter", "Saturn"],
+          "opts_hi": ["शुक्र", "मंगल", "बृहस्पति", "शनि"],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "What is the chemical symbol of water?",
+          "q_hi": "पानी का रासायनिक प्रतीक क्या है?",
+          "opts": ["H2O", "CO2", "NaCl", "HCl"],
+          "opts_hi": ["H2O", "CO2", "NaCl", "HCl"],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Who wrote the Indian national anthem 'Jana Gana Mana'?",
+          "q_hi": "भारतीय राष्ट्रगान 'जन गण मन' किसने लिखा?",
+          "opts": ["Mahatma Gandhi", "Rabindranath Tagore", "Bankim Chandra", "Subhash Chandra Bose"],
+          "opts_hi": ["महात्मा गांधी", "रवीन्द्रनाथ टैगोर", "बंकिम चंद्र", "सुभाष चंद्र बोस"],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "What is the largest ocean in the world?",
+          "q_hi": "विश्व का सबसे बड़ा महासागर कौन सा है?",
+          "opts": ["Atlantic", "Indian", "Pacific", "Arctic"],
+          "opts_hi": ["अटलांटिक", "हिंद", "प्रशांत", "आर्कटिक"],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which of the following is the headquarters of the Northern Railway Zone?",
+          "q_hi": "भारतीय रेलवे के उत्तरी रेलवे क्षेत्र का मुख्यालय कहाँ है?",
+          "opts": ["Mumbai", "Kolkata", "New Delhi", "Chennai"],
+          "opts_hi": ["मुंबई", "कोलकाता", "नई दिल्ली", "चेन्नई"],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which is the fastest train in India?",
+          "q_hi": "भारत की सबसे तेज ट्रेन कौन सी है?",
+          "opts": ["Shatabdi Express", "Rajdhani Express", "Vande Bharat Express", "Duronto Express"],
+          "opts_hi": ["शताब्दी एक्सप्रेस", "राजधानी एक्सप्रेस", "वंदे भारत एक्सप्रेस", "दुरंतो एक्सप्रेस"],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "What is the full form of GDP?",
+          "q_hi": "GDP का पूर्ण रूप क्या है?",
+          "opts": ["Gross Domestic Product", "Gross Development Product", "General Domestic Product", "Global Domestic Product"],
+          "opts_hi": ["सकल घरेलू उत्पाद", "सकल विकास उत्पाद", "सामान्य घरेलू उत्पाद", "वैश्विक घरेलू उत्पाद"],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which state has the longest railway platform in India?",
+          "q_hi": "भारत का सबसे लंबा रेलवे प्लेटफॉर्म किस राज्य में है?",
+          "opts": ["Uttar Pradesh", "West Bengal", "Tamil Nadu", "Maharashtra"],
+          "opts_hi": ["उत्तर प्रदेश", "पश्चिम बंगाल", "तमिलनाडु", "महाराष्ट्र"],
+          "ans": 0,
+          "subject": "General Awareness"
         }
       ]
     },
     {
       "id": "rrb_ntpc_2",
-      "title": "RRB NTPC Mock Test 2",
-      "duration": 10,
+      "title": "RRB NTPC Full Mock Test 2 (CBT 1 Pattern)",
+      "duration": 90,
       "difficulty": "Medium",
+      "correctMarks": 1,
+      "negativeMarks": 0.33,
       "questions": [
         {
-          "q": "Which of the following is the headquarters of the Northern Railway Zone of Indian Railways?",
-          "q_hi": "भारतीय रेलवे के उत्तरी रेलवे क्षेत्र का मुख्यालय निम्नलिखित में से कौन सा है?",
-          "opts": [
-            "Mumbai",
-            "Kolkata",
-            "New Delhi",
-            "Chennai"
-          ],
-          "opts_hi": [
-            "मुंबई",
-            "कोलकाता",
-            "नई दिल्ली",
-            "चेन्नई"
-          ],
+          "q": "If the angles of a triangle are in the ratio 2:3:4, what is the smallest angle?",
+          "q_hi": "यदि एक त्रिभुज के कोण 2:3:4 के अनुपात में हैं, तो सबसे छोटा कोण क्या है?",
+          "opts": ["40°", "60°", "80°", "20°"],
+          "opts_hi": ["40°", "60°", "80°", "20°"],
+          "ans": 0,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the value of √(1764)?",
+          "q_hi": "√(1764) का मान क्या है?",
+          "opts": ["32", "38", "42", "46"],
+          "opts_hi": ["32", "38", "42", "46"],
           "ans": 2,
-          "subject": "General Knowledge"
+          "subject": "Mathematics"
+        },
+        {
+          "q": "A shopkeeper sells an article at a 10% loss. If he had sold it for ₹90 more, he would have gained 5%. What is the cost price?",
+          "q_hi": "एक दुकानदार एक वस्तु को 10% की हानि पर बेचता है। यदि उसने इसे ₹90 अधिक में बेचा होता, तो उसे 5% का लाभ होता। क्रय मूल्य क्या है?",
+          "opts": ["₹600", "₹800", "₹1000", "₹1200"],
+          "opts_hi": ["₹600", "₹800", "₹1000", "₹1200"],
+          "ans": 0,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the average of 2, 4, 6, 8, 10?",
+          "q_hi": "2, 4, 6, 8, 10 का औसत क्या है?",
+          "opts": ["4", "5", "6", "7"],
+          "opts_hi": ["4", "5", "6", "7"],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is 15% of 200?",
+          "q_hi": "200 का 15% कितना है?",
+          "opts": ["20", "25", "30", "35"],
+          "opts_hi": ["20", "25", "30", "35"],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "If a = 2 and b = 3, find the value of a³ + b³.",
+          "q_hi": "यदि a = 2 और b = 3 है, तो a³ + b³ का मान ज्ञात करें।",
+          "opts": ["27", "29", "31", "35"],
+          "opts_hi": ["27", "29", "31", "35"],
+          "ans": 3,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the difference between 2/3 and 1/4?",
+          "q_hi": "2/3 और 1/4 के बीच का अंतर क्या है?",
+          "opts": ["1/3", "5/12", "7/12", "1/6"],
+          "opts_hi": ["1/3", "5/12", "7/12", "1/6"],
+          "ans": 1,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the square root of 169?",
+          "q_hi": "169 का वर्गमूल क्या है?",
+          "opts": ["11", "12", "13", "14"],
+          "opts_hi": ["11", "12", "13", "14"],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "Which number will replace the question mark? 3, 6, 11, 18, ?",
+          "q_hi": "प्रश्न चिह्न के स्थान पर कौन सी संख्या आएगी? 3, 6, 11, 18, ?",
+          "opts": ["25", "26", "27", "28"],
+          "opts_hi": ["25", "26", "27", "28"],
+          "ans": 2,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "If 'PENCIL' is coded as 'QFODJM', how is 'BOOK' coded?",
+          "q_hi": "यदि 'PENCIL' को 'QFODJM' के रूप में कूटबद्ध किया जाता है, तो 'BOOK' को कैसे कूटबद्ध किया जाएगा?",
+          "opts": ["CPPL", "CPPL", "CPPM", "CPPM"],
+          "opts_hi": ["CPPL", "CPPL", "CPPM", "CPPM"],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "In a row of 40 students, A is 15th from the left and B is 20th from the right. How many students are between A and B?",
+          "q_hi": "40 छात्रों की एक पंक्ति में, A बाईं ओर से 15वें स्थान पर है और B दाईं ओर से 20वें स्थान पर है। A और B के बीच कितने छात्र हैं?",
+          "opts": ["4", "5", "6", "7"],
+          "opts_hi": ["4", "5", "6", "7"],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Which of the following is a mirror image of 'MIRROR'?",
+          "q_hi": "निम्नलिखित में से 'MIRROR' का दर्पण प्रतिबिंब कौन सा है?",
+          "opts": ["RORRIM", "MIRROR", "RORIMM", "MIRRIOR"],
+          "opts_hi": ["RORRIM", "MIRROR", "RORIMM", "MIRRIOR"],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Select the Venn diagram that best represents the relationship between: Mothers, Women, Doctors",
+          "q_hi": "उस वेन आरेख का चयन करें जो निम्न के बीच संबंध को सर्वोत्तम रूप से दर्शाता है: माताएँ, महिलाएँ, डॉक्टर",
+          "opts": ["Three overlapping circles", "Two concentric circles with one separate", "Three separate circles", "Two overlapping circles"],
+          "opts_hi": ["तीन परस्पर प्रतिच्छेदी वृत्त", "दो संकेन्द्री वृत्त और एक अलग", "तीन अलग-अलग वृत्त", "दो परस्पर प्रतिच्छेदी वृत्त"],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "If 'BIRD' is coded as 'CJSF', then 'FISH' is coded as:",
+          "q_hi": "यदि 'BIRD' को 'CJSF' के रूप में कूटबद्ध किया जाता है, तो 'FISH' को किस रूप में कूटबद्ध किया जाएगा:",
+          "opts": ["GJTI", "GJTH", "GKTI", "GJSI"],
+          "opts_hi": ["GJTI", "GJTH", "GKTI", "GJSI"],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "What comes next in the series: 2, 6, 12, 20, 30, ?",
+          "q_hi": "श्रृंखला में आगे क्या आएगा: 2, 6, 12, 20, 30, ?",
+          "opts": ["36", "38", "40", "42"],
+          "opts_hi": ["36", "38", "40", "42"],
+          "ans": 3,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Which state is the largest producer of sugarcane in India?",
+          "q_hi": "भारत में सबसे बड़ा गन्ना उत्पादक राज्य कौन सा है?",
+          "opts": ["Maharashtra", "Uttar Pradesh", "Karnataka", "Tamil Nadu"],
+          "opts_hi": ["महाराष्ट्र", "उत्तर प्रदेश", "कर्नाटक", "तमिलनाडु"],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which river is known as the 'Sorrow of Bihar'?",
+          "q_hi": "किस नदी को 'बिहार का शोक' कहा जाता है?",
+          "opts": ["Ganga", "Yamuna", "Kosi", "Godavari"],
+          "opts_hi": ["गंगा", "यमुना", "कोसी", "गोदावरी"],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "What is the full form of SEBI?",
+          "q_hi": "SEBI का पूर्ण रूप क्या है?",
+          "opts": ["Securities Exchange Board of India", "Stock Exchange Bureau of India", "Securities and Exchange Board of India", "State Exchange Board of India"],
+          "opts_hi": ["भारतीय प्रतिभूति विनिमय बोर्ड", "स्टॉक एक्सचेंज ब्यूरो ऑफ इंडिया", "भारतीय प्रतिभूति एवं विनिमय बोर्ड", "राज्य विनिमय बोर्ड ऑफ इंडिया"],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Speed of sound in air is approximately?",
+          "q_hi": "वायु में ध्वनि की गति लगभग कितनी है?",
+          "opts": ["232 m/s", "332 m/s", "432 m/s", "532 m/s"],
+          "opts_hi": ["232 मी/से", "332 मी/से", "432 मी/से", "532 मी/से"],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which Amendment Act is known as the 'Mini Constitution' of India?",
+          "q_hi": "किस संशोधन अधिनियम को भारत का 'लघु संविधान' कहा जाता है?",
+          "opts": ["42nd Amendment", "44th Amendment", "73rd Amendment", "86th Amendment"],
+          "opts_hi": ["42वाँ संशोधन", "44वाँ संशोधन", "73वाँ संशोधन", "86वाँ संशोधन"],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The first woman President of India was:",
+          "q_hi": "भारत की पहली महिला राष्ट्रपति थीं:",
+          "opts": ["Indira Gandhi", "Pratibha Patil", "Sarojini Naidu", "Sonia Gandhi"],
+          "opts_hi": ["इंदिरा गांधी", "प्रतिभा पाटिल", "सरोजिनी नायडू", "सोनिया गांधी"],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Who appoints the Chief Justice of India?",
+          "q_hi": "भारत के मुख्य न्यायाधीश की नियुक्ति कौन करता है?",
+          "opts": ["Prime Minister", "President", "Parliament", "Supreme Court Judges"],
+          "opts_hi": ["प्रधानमंत्री", "राष्ट्रपति", "संसद", "सर्वोच्च न्यायालय के न्यायाधीश"],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which is the headquarters of the Western Railway Zone?",
+          "q_hi": "पश्चिमी रेलवे क्षेत्र का मुख्यालय कहाँ है?",
+          "opts": ["Mumbai", "Ahmedabad", "Ratlam", "Vadodara"],
+          "opts_hi": ["मुंबई", "अहमदाबाद", "रतलाम", "वडोदरा"],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which is the longest railway platform in India?",
+          "q_hi": "भारत का सबसे लंबा रेलवे प्लेटफॉर्म कौन सा है?",
+          "opts": ["Howrah Junction", "Gorakhpur Junction", "New Delhi Station", "Mumbai Central"],
+          "opts_hi": ["हावड़ा जंक्शन", "गोरखपुर जंक्शन", "नई दिल्ली स्टेशन", "मुंबई सेंट्रल"],
+          "ans": 1,
+          "subject": "General Awareness"
         }
       ]
     },
     {
       "id": "rrb_ntpc_3",
-      "title": "RRB NTPC Mock Test 3",
-      "duration": 10,
-      "difficulty": "Medium",
+      "title": "RRB NTPC Full Mock Test 3 (CBT 1 Pattern)",
+      "duration": 90,
+      "difficulty": "Hard",
+      "correctMarks": 1,
+      "negativeMarks": 0.33,
       "questions": [
         {
-          "q": "What is the minimum age required to become the Prime Minister of India?",
-          "q_hi": "भारत का प्रधान मंत्री बनने के लिए न्यूनतम आयु क्या है?",
-          "opts": [
-            "25 years",
-            "30 years",
-            "35 years",
-            "40 years"
-          ],
-          "opts_hi": [
-            "25 वर्ष",
-            "30 वर्ष",
-            "35 वर्ष",
-            "40 वर्ष"
-          ],
-          "ans": 0,
-          "subject": "General Knowledge"
+          "q": "Find the 10th term of the series: 2, 5, 8, 11, ...",
+          "q_hi": "श्रृंखला का 10वाँ पद ज्ञात करें: 2, 5, 8, 11, ...",
+          "opts": ["26", "27", "28", "29"],
+          "opts_hi": ["26", "27", "28", "29"],
+          "ans": 3,
+          "subject": "Mathematics"
         },
         {
-          "q": "Which of the following is the fastest train in India?",
-          "q_hi": "भारत में सबसे तेज ट्रेन निम्नलिखित में से कौन सी है?",
-          "opts": [
-            "Shatabdi Express",
-            "Rajdhani Express",
-            "Vande Bharat Express",
-            "Duronto Express"
-          ],
-          "opts_hi": [
-            "शताब्दी एक्सप्रेस",
-            "राजधानी एक्सप्रेस",
-            "वंदे भारत एक्सप्रेस",
-            "दुरंतो एक्सप्रेस"
-          ],
+          "q": "What is the area of a rectangle with length 10 cm and breadth 5 cm?",
+          "q_hi": "10 सेमी लंबाई और 5 सेमी चौड़ाई वाले आयत का क्षेत्रफल क्या है?",
+          "opts": ["30 cm²", "40 cm²", "50 cm²", "60 cm²"],
+          "opts_hi": ["30 सेमी²", "40 सेमी²", "50 सेमी²", "60 सेमी²"],
           "ans": 2,
-          "subject": "General Knowledge"
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the perimeter of a square with side 6 cm?",
+          "q_hi": "6 सेमी भुजा वाले वर्ग का परिमाप क्या है?",
+          "opts": ["20 cm", "22 cm", "24 cm", "26 cm"],
+          "opts_hi": ["20 सेमी", "22 सेमी", "24 सेमी", "26 सेमी"],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "Find the value of 8 + 4 × 2 - 6.",
+          "q_hi": "8 + 4 × 2 - 6 का मान ज्ञात करें।",
+          "opts": ["8", "9", "10", "11"],
+          "opts_hi": ["8", "9", "10", "11"],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the volume of a cube with side 4 cm?",
+          "q_hi": "4 सेमी भुजा वाले घन का आयतन क्या है?",
+          "opts": ["16 cm³", "32 cm³", "64 cm³", "128 cm³"],
+          "opts_hi": ["16 सेमी³", "32 सेमी³", "64 सेमी³", "128 सेमी³"],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "Find the value of 5 + 6 × 2 - 8.",
+          "q_hi": "5 + 6 × 2 - 8 का मान ज्ञात करें।",
+          "opts": ["6", "7", "8", "9"],
+          "opts_hi": ["6", "7", "8", "9"],
+          "ans": 3,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the area of a circle with radius 7 cm? (Take π = 22/7)",
+          "q_hi": "7 सेमी त्रिज्या वाले वृत्त का क्षेत्रफल क्या है? (π = 22/7 लें)",
+          "opts": ["144 cm²", "154 cm²", "164 cm²", "174 cm²"],
+          "opts_hi": ["144 सेमी²", "154 सेमी²", "164 सेमी²", "174 सेमी²"],
+          "ans": 1,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is 20% of 500?",
+          "q_hi": "500 का 20% कितना है?",
+          "opts": ["50", "75", "100", "125"],
+          "opts_hi": ["50", "75", "100", "125"],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "If 2x + 3 = 11, find x.",
+          "q_hi": "यदि 2x + 3 = 11 है, तो x ज्ञात करें।",
+          "opts": ["2", "3", "4", "5"],
+          "opts_hi": ["2", "3", "4", "5"],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "Which number will replace the question mark? 2, 5, 10, 17, ?",
+          "q_hi": "प्रश्न चिह्न के स्थान पर कौन सी संख्या आएगी? 2, 5, 10, 17, ?",
+          "opts": ["24", "26", "28", "30"],
+          "opts_hi": ["24", "26", "28", "30"],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "In a certain code, 'PEN' is written as 'QFO'. How is 'PENCIL' written?",
+          "q_hi": "एक निश्चित कूट में, 'PEN' को 'QFO' लिखा जाता है। 'PENCIL' को कैसे लिखा जाएगा?",
+          "opts": ["QFODJM", "QFODNK", "QFODJL", "QFODJM"],
+          "opts_hi": ["QFODJM", "QFODNK", "QFODJL", "QFODJM"],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Statements: Some cats are dogs. All dogs are cows. Conclusions: I. Some cows are cats. II. All cats are cows.",
+          "q_hi": "कथन: कुछ बिल्लियाँ कुत्ते हैं। सभी कुत्ते गायें हैं। निष्कर्ष: I. कुछ गायें बिल्लियाँ हैं। II. सभी बिल्लियाँ गायें हैं।",
+          "opts": ["Only I follows", "Only II follows", "Both follow", "Neither follows"],
+          "opts_hi": ["केवल I अनुसरण करता है", "केवल II अनुसरण करता है", "दोनों अनुसरण करते हैं", "कोई भी अनुसरण नहीं करता"],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "What comes next in the series: 1, 4, 9, 16, 25, ?",
+          "q_hi": "श्रृंखला में आगे क्या आएगा: 1, 4, 9, 16, 25, ?",
+          "opts": ["30", "32", "34", "36"],
+          "opts_hi": ["30", "32", "34", "36"],
+          "ans": 3,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Find the odd one out: 2, 3, 5, 7, 11, 13, 17, 19, 23, 25",
+          "q_hi": "विषम ज्ञात करें: 2, 3, 5, 7, 11, 13, 17, 19, 23, 25",
+          "opts": ["25", "23", "19", "17"],
+          "opts_hi": ["25", "23", "19", "17"],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Which number will replace the question mark? 7, 14, 28, 56, ?",
+          "q_hi": "प्रश्न चिह्न के स्थान पर कौन सी संख्या आएगी? 7, 14, 28, 56, ?",
+          "opts": ["84", "96", "108", "112"],
+          "opts_hi": ["84", "96", "108", "112"],
+          "ans": 3,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Who is known as the 'Father of the Indian Constitution'?",
+          "q_hi": "भारतीय संविधान के 'जनक' के रूप में किसे जाना जाता है?",
+          "opts": ["Mahatma Gandhi", "Jawaharlal Nehru", "B.R. Ambedkar", "Sardar Patel"],
+          "opts_hi": ["महात्मा गांधी", "जवाहरलाल नेहरू", "बी.आर. अम्बेडकर", "सरदार पटेल"],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which country is known as the 'Land of the Rising Sun'?",
+          "q_hi": "किस देश को 'सूर्योदय की भूमि' के नाम से जाना जाता है?",
+          "opts": ["China", "Japan", "South Korea", "Thailand"],
+          "opts_hi": ["चीन", "जापान", "दक्षिण कोरिया", "थाईलैंड"],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "What is the largest river in India by length?",
+          "q_hi": "लंबाई के अनुसार भारत की सबसे बड़ी नदी कौन सी है?",
+          "opts": ["Brahmaputra", "Ganga", "Godavari", "Yamuna"],
+          "opts_hi": ["ब्रह्मपुत्र", "गंगा", "गोदावरी", "यमुना"],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which of the following is a fundamental right in India?",
+          "q_hi": "निम्नलिखित में से कौन सा भारत में एक मौलिक अधिकार है?",
+          "opts": ["Right to Property", "Right to Education", "Right to Work", "Right to Vote"],
+          "opts_hi": ["संपत्ति का अधिकार", "शिक्षा का अधिकार", "काम का अधिकार", "मतदान का अधिकार"],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "What is the chemical formula of common salt?",
+          "q_hi": "साधारण नमक का रासायनिक सूत्र क्या है?",
+          "opts": ["NaCl", "NaOH", "Na2CO3", "NaHCO3"],
+          "opts_hi": ["NaCl", "NaOH", "Na2CO3", "NaHCO3"],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which state is known as the 'Spice Garden of India'?",
+          "q_hi": "भारत का मसाला बाग' किस राज्य को कहा जाता है?",
+          "opts": ["Kerala", "Tamil Nadu", "Karnataka", "Andhra Pradesh"],
+          "opts_hi": ["केरल", "तमिलनाडु", "कर्नाटक", "आंध्र प्रदेश"],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "What is the main objective of RBI?",
+          "q_hi": "RBI का मुख्य उद्देश्य क्या है?",
+          "opts": ["Price stability", "Economic growth", "Both", "None"],
+          "opts_hi": ["मूल्य स्थिरता", "आर्थिक विकास", "दोनों", "कोई नहीं"],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which is the largest producer of jute in India?",
+          "q_hi": "भारत में जूट का सबसे बड़ा उत्पादक कौन सा है?",
+          "opts": ["West Bengal", "Bihar", "Assam", "Andhra Pradesh"],
+          "opts_hi": ["पश्चिम बंगाल", "बिहार", "असम", "आंध्र प्रदेश"],
+          "ans": 0,
+          "subject": "General Awareness"
         }
       ]
     },
     {
       "id": "rrb_ntpc_4",
-      "title": "RRB NTPC Mock Test 4",
-      "duration": 10,
-      "difficulty": "Medium",
+      "title": "RRB NTPC Full Mock Test 4 (CBT 1 Pattern)",
+      "duration": 90,
+      "difficulty": "Hard",
+      "correctMarks": 1,
+      "negativeMarks": 0.33,
       "questions": [
         {
-          "q": "Which of the following is the longest railway platform in India?",
-          "q_hi": "भारत का सबसे लंबा रेलवे प्लेटफॉर्म निम्नलिखित में से कौन सा है?",
-          "opts": [
-            "Howrah Junction",
-            "Gorakhpur Junction",
-            "New Delhi Station",
-            "Mumbai Central"
-          ],
-          "opts_hi": [
-            "हावड़ा जंक्शन",
-            "गोरखपुर जंक्शन",
-            "नई दिल्ली स्टेशन",
-            "मुंबई सेंट्रल"
-          ],
-          "ans": 1,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Which of the following is the highest court of appeal in India?",
-          "q_hi": "भारत में सर्वोच्च अपील न्यायालय निम्नलिखित में से कौन सा है?",
-          "opts": [
-            "High Court",
-            "Supreme Court",
-            "District Court",
-            "Session Court"
-          ],
-          "opts_hi": [
-            "उच्च न्यायालय",
-            "सर्वोच्च न्यायालय",
-            "जिला न्यायालय",
-            "सत्र न्यायालय"
-          ],
-          "ans": 1,
-          "subject": "General Knowledge"
-        }
-      ]
-    },
-    {
-      "id": "rrb_ntpc_5",
-      "title": "RRB NTPC Mock Test 5",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Which of the following is the headquarters of the Western Railway Zone?",
-          "q_hi": "पश्चिमी रेलवे क्षेत्र का मुख्यालय निम्नलिखित में से कौन सा है?",
-          "opts": [
-            "Mumbai",
-            "Ahmedabad",
-            "Ratlam",
-            "Vadodara"
-          ],
-          "opts_hi": [
-            "मुंबई",
-            "अहमदाबाद",
-            "रतलाम",
-            "वडोदरा"
-          ],
-          "ans": 0,
-          "subject": "General Knowledge"
-        }
-      ]
-    },
-    {
-      "id": "rrb_ntpc_6",
-      "title": "RRB NTPC Mock Test 6",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "If A:B = 2:3 and B:C = 4:5, find A:C.",
-          "q_hi": "यदि A:B = 2:3 और B:C = 4:5 है, तो A:C ज्ञात करें।",
-          "opts": [
-            "Sat Dec 30 1899 13:36:10 GMT+0521 (India Standard Time)",
-            "2:5",
-            "4:5",
-            "1:2"
-          ],
-          "opts_hi": [
-            "Sat Dec 30 1899 13:36:10 GMT+0521 (India Standard Time)",
-            "2:5",
-            "4:5",
-            "1:2"
-          ],
-          "ans": 0,
-          "subject": "Mathematics"
-        },
-        {
-          "q": "A can do a work in 12 days and B in 15 days. In how many days will they complete the work together?",
-          "q_hi": "A एक कार्य को 12 दिनों में और B 15 दिनों में कर सकता है। वे दोनों मिलकर कार्य को कितने दिनों में पूरा करेंगे?",
-          "opts": [
-            "20/3 days",
-            "27/2 days",
-            "30 days",
-            "27 days"
-          ],
-          "opts_hi": [
-            "20/3 दिन",
-            "27/2 दिन",
-            "30 दिन",
-            "27 दिन"
-          ],
-          "ans": 0,
-          "subject": "Mathematics"
-        },
-        {
-          "q": "A man covers a distance of 60 km in 2 hours. What is his speed in km/h?",
-          "q_hi": "एक व्यक्ति 60 किमी की दूरी 2 घंटे में तय करता है। उसकी गति किमी/घंटा में क्या है?",
-          "opts": [
-            "30 km/h",
-            "40 km/h",
-            "20 km/h",
-            "50 km/h"
-          ],
-          "opts_hi": [
-            "30 किमी/घंटा",
-            "40 किमी/घंटा",
-            "20 किमी/घंटा",
-            "50 किमी/घंटा"
-          ],
-          "ans": 0,
-          "subject": "Mathematics"
-        }
-      ]
-    },
-    {
-      "id": "rrb_ntpc_7",
-      "title": "RRB NTPC Mock Test 7",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "India Energy Week 2026 began in which state?",
-          "q_hi": "इंडिया एनर्जी वीक 2026 किस राज्य में शुरू हुआ?",
-          "opts": [
-            "Delhi",
-            "Maharashtra",
-            "Kerala",
-            "Goa"
-          ],
-          "opts_hi": [
-            "दिल्ली",
-            "महाराष्ट्र",
-            "केरल",
-            "गोवा"
-          ],
-          "ans": 3,
-          "subject": "Current Affairs"
-        },
-        {
-          "q": "Which state received over ₹57 crore for the development of Sepahijala Wildlife Sanctuary?",
-          "q_hi": "सेपहिजाला वन्यजीव अभयारण्य के विकास के लिए किस राज्य को ₹57 करोड़ से अधिक प्राप्त हुए?",
-          "opts": [
-            "Assam",
-            "Mizoram",
-            "Tripura",
-            "Meghalaya"
-          ],
-          "opts_hi": [
-            "असम",
-            "मिजोरम",
-            "त्रिपुरा",
-            "मेघालय"
-          ],
-          "ans": 2,
-          "subject": "Current Affairs"
-        },
-        {
-          "q": "One Nation, One Time' initiative aims to establish what?",
-          "q_hi": "एक राष्ट्र, एक समय' पहल का उद्देश्य क्या स्थापित करना है?",
-          "opts": [
-            "A uniform Indian Standard Time across the country",
-            "One time zone for all government offices only",
-            "Digital time synchronization for railways only",
-            "Global time standard for India"
-          ],
-          "opts_hi": [
-            "देश भर में एक समान भारतीय मानक समय",
-            "केवल सभी सरकारी कार्यालयों के लिए एक समय क्षेत्र",
-            "केवल रेलवे के लिए डिजिटल समय समन्वयन",
-            "भारत के लिए वैश्विक समय मानक"
-          ],
-          "ans": 0,
-          "subject": "Current Affairs"
-        }
-      ]
-    },
-    {
-      "id": "rrb_ntpc_8",
-      "title": "RRB NTPC Mock Test 8",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Bharat-VISTAAR, an AI-powered multilingual advisory platform for farmers, was announced in which budget?",
-          "q_hi": "भारत-विस्तार, किसानों के लिए एक AI-संचालित बहुभाषी सलाहकार प्लेटफॉर्म, किस बजट में घोषित किया गया था?",
-          "opts": [
-            "2024-25",
-            "2025-26",
-            "2026-27",
-            "None"
-          ],
-          "opts_hi": [
-            "2024-25",
-            "2025-26",
-            "2026-27",
-            "कोई नहीं"
-          ],
-          "ans": 1,
-          "subject": "Current Affairs"
-        }
-      ]
-    },
-    {
-      "id": "rrb_ntpc_9",
-      "title": "RRB NTPC Mock Test 9",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "If A can finish a work in 10 days and B can finish it in 15 days, how many days will they take to finish the work together?",
-          "q_hi": "यदि A किसी कार्य को 10 दिनों में और B 15 दिनों में कर सकता है, तो वे दोनों मिलकर कार्य को कितने दिनों में पूरा करेंगे?",
-          "opts": [
-            "5 days",
-            "6 days",
-            "7 days",
-            "8 days"
-          ],
-          "opts_hi": [
-            "5 दिन",
-            "6 दिन",
-            "7 दिन",
-            "8 दिन"
-          ],
-          "ans": 1,
-          "subject": "Mathematics"
-        },
-        {
-          "q": "A train 200 m long passes a pole in 10 seconds. What is the speed of the train in km/h?",
-          "q_hi": "200 मीटर लंबी एक ट्रेन एक खंभे को 10 सेकंड में पार करती है। ट्रेन की गति किमी/घंटा में क्या है?",
-          "opts": [
-            "60 km/h",
-            "72 km/h",
-            "80 km/h",
-            "90 km/h"
-          ],
-          "opts_hi": [
-            "60 किमी/घंटा",
-            "72 किमी/घंटा",
-            "80 किमी/घंटा",
-            "90 किमी/घंटा"
-          ],
-          "ans": 1,
-          "subject": "Mathematics"
-        },
-        {
-          "q": "The area of a circle is 154 cm². What is its radius? (Take π = 22/7)",
-          "q_hi": "एक वृत्त का क्षेत्रफल 154 सेमी² है। इसकी त्रिज्या क्या है? (π = 22/7 लें)",
-          "opts": [
-            "5 cm",
-            "6 cm",
-            "7 cm",
-            "8 cm"
-          ],
-          "opts_hi": [
-            "5 सेमी",
-            "6 सेमी",
-            "7 सेमी",
-            "8 सेमी"
-          ],
+          "q": "If 3/4 of a number is 45, find the number.",
+          "q_hi": "यदि किसी संख्या का 3/4 = 45 है, तो संख्या ज्ञात करें।",
+          "opts": ["40", "50", "60", "70"],
+          "opts_hi": ["40", "50", "60", "70"],
           "ans": 2,
           "subject": "Mathematics"
         },
         {
-          "q": "A sum of money doubles itself in 8 years at simple interest. What is the rate of interest?",
-          "q_hi": "कोई राशि साधारण ब्याज पर 8 वर्षों में दोगुनी हो जाती है। ब्याज की दर क्या है?",
-          "opts": [
-            "0.1",
-            "0.125",
-            "0.15",
-            "0.16"
-          ],
-          "opts_hi": [
-            "0.1",
-            "0.125",
-            "0.15",
-            "0.16"
-          ],
-          "ans": 1,
-          "subject": "Mathematics"
-        }
-      ]
-    },
-    {
-      "id": "rrb_ntpc_10",
-      "title": "RRB NTPC Mock Test 10",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "If 30% of a number is 75, what is the number?",
-          "q_hi": "यदि किसी संख्या का 30% 75 है, तो वह संख्या क्या है?",
-          "opts": [
-            "200",
-            "225",
-            "250",
-            "275"
-          ],
-          "opts_hi": [
-            "200",
-            "225",
-            "250",
-            "275"
-          ],
+          "q": "Find the LCM of 8, 12 and 16.",
+          "q_hi": "8, 12 और 16 का लघुत्तम समापवर्त्य (LCM) ज्ञात करें।",
+          "opts": ["32", "40", "48", "56"],
+          "opts_hi": ["32", "40", "48", "56"],
           "ans": 2,
           "subject": "Mathematics"
         },
         {
-          "q": "A student scored 80 marks out of 100 in one test and 60 marks out of 80 in another. What is the overall percentage?",
-          "q_hi": "एक छात्र ने एक परीक्षा में 100 में से 80 अंक और दूसरी में 80 में से 60 अंक प्राप्त किए। कुल प्रतिशत क्या है?",
-          "opts": [
-            "0.7",
-            "0.725",
-            "0.75",
-            "0.775"
-          ],
-          "opts_hi": [
-            "0.7",
-            "0.725",
-            "0.75",
-            "0.775"
-          ],
+          "q": "What is the area of a triangle with base 10 cm and height 6 cm?",
+          "q_hi": "10 सेमी आधार और 6 सेमी ऊँचाई वाले त्रिभुज का क्षेत्रफल क्या है?",
+          "opts": ["20 cm²", "25 cm²", "30 cm²", "35 cm²"],
+          "opts_hi": ["20 सेमी²", "25 सेमी²", "30 सेमी²", "35 सेमी²"],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "Find the value of 15 - 3 × 4 + 8.",
+          "q_hi": "15 - 3 × 4 + 8 का मान ज्ञात करें।",
+          "opts": ["9", "10", "11", "12"],
+          "opts_hi": ["9", "10", "11", "12"],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is 30% of 400?",
+          "q_hi": "400 का 30% कितना है?",
+          "opts": ["90", "100", "110", "120"],
+          "opts_hi": ["90", "100", "110", "120"],
           "ans": 3,
           "subject": "Mathematics"
         },
         {
-          "q": "A seller loses 10% on selling an article for Rs.450. What is the cost price?",
-          "q_hi": "एक विक्रेता किसी वस्तु को Rs.450 में बेचने पर 10% हानि उठाता है। क्रय मूल्य क्या है?",
-          "opts": [
-            "Rs. 450",
-            "Rs. 475",
-            "Rs. 500",
-            "Rs. 525"
-          ],
-          "opts_hi": [
-            "Rs. 450",
-            "Rs. 475",
-            "Rs. 500",
-            "Rs. 525"
-          ],
+          "q": "If the perimeter of a square is 36 cm, find its side.",
+          "q_hi": "यदि एक वर्ग का परिमाप 36 सेमी है, तो उसकी भुजा ज्ञात करें।",
+          "opts": ["7 cm", "8 cm", "9 cm", "10 cm"],
+          "opts_hi": ["7 सेमी", "8 सेमी", "9 सेमी", "10 सेमी"],
           "ans": 2,
           "subject": "Mathematics"
         },
         {
-          "q": "Find the compound interest on Rs.2000 for 2 years at 10% per annum compounded annually.",
-          "q_hi": "Rs.2000 पर 2 वर्षों के लिए 10% वार्षिक दर से चक्रवृद्धि ब्याज ज्ञात करें, जो वार्षिक रूप से संयोजित होता है।",
-          "opts": [
-            "Rs. 380",
-            "Rs. 400",
-            "Rs. 420",
-            "Rs. 440"
-          ],
-          "opts_hi": [
-            "Rs. 380",
-            "Rs. 400",
-            "Rs. 420",
-            "Rs. 440"
-          ],
+          "q": "Find the value of (2/5) × (5/7).",
+          "q_hi": "(2/5) × (5/7) का मान ज्ञात करें।",
+          "opts": ["1/7", "2/7", "3/7", "4/7"],
+          "opts_hi": ["1/7", "2/7", "3/7", "4/7"],
+          "ans": 1,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the simple interest on ₹5000 for 3 years at 10% per annum?",
+          "q_hi": "₹5000 पर 3 वर्षों के लिए 10% वार्षिक दर से साधारण ब्याज क्या है?",
+          "opts": ["₹1000", "₹1250", "₹1500", "₹1750"],
+          "opts_hi": ["₹1000", "₹1250", "₹1500", "₹1750"],
           "ans": 2,
           "subject": "Mathematics"
-        }
-      ]
-    },
-    {
-      "id": "rrb_ntpc_11",
-      "title": "RRB NTPC Mock Test 11",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Which of the following items of defence hardware is/are manufactured in India? 1. Su-30 MKI Fighter Jets 2. T-90 MK-III Tanks 3. Akula Class Submarine",
-          "q_hi": "निम्नलिखित में से कौन सी/से रक्षा हार्डवेयर वस्तुएँ भारत में निर्मित होती हैं? 1. Su-30 MKI लड़ाकू विमान 2. T-90 MK-III टैंक 3. अकुला श्रेणी की पनडुब्बी",
-          "opts": [
-            "1 and 2 only",
-            "1 and 3 only",
-            "1 only",
-            "2 only"
-          ],
-          "opts_hi": [
-            "केवल 1 और 2",
-            "केवल 1 और 3",
-            "केवल 1",
-            "केवल 2"
-          ],
-          "ans": 0,
-          "subject": "Science"
         },
         {
-          "q": "Which of the following statements about DHRUV64 is/are correct? 1. It is the third chip fabricated under the DIR-V Programme with an overall aim to enable the creation of microprocessors for India. 2. It is India's first homegrown 1.0 GHz, 64-bit dual-core microprocessor.",
-          "q_hi": "DHRUV64 के बारे में निम्नलिखित में से कौन सा/से कथन सही है/हैं? 1. यह DIR-V कार्यक्रम के तहत निर्मित तीसरी चिप है जिसका समग्र उद्देश्य भारत के लिए माइक्रोप्रोसेसरों का निर्माण सक्षम करना है। 2. यह भारत का पहला स्वदेशी 1.0 GHz, 64-bit दोहरी-कोर माइक्रोप्रोसेसर है।",
-          "opts": [
-            "1 only",
-            "2 only",
-            "Both 1 and 2",
-            "Neither 1 nor 2"
-          ],
-          "opts_hi": [
-            "केवल 1",
-            "केवल 2",
-            "1 और 2 दोनों",
-            "न तो 1 और न ही 2"
-          ],
+          "q": "Complete the series: 5, 10, 20, 40, ?",
+          "q_hi": "श्रृंखला पूरी करें: 5, 10, 20, 40, ?",
+          "opts": ["60", "70", "80", "90"],
+          "opts_hi": ["60", "70", "80", "90"],
           "ans": 2,
-          "subject": "Science"
+          "subject": "General Intelligence & Reasoning"
         },
         {
-          "q": "The Bureau of Indian Standards (BIS) recently introduced a national standard to test and assess bomb disposal system. Which of the following statements with regard to this system is/are correct? 1. The new standard is known as IS 19445 : 2025. 2. It will improve interoperability of equipment across agencies. 3. It was developed by TBRL, DRDO in collaboration with the 30th Central Scientific Research Institute, Russia.",
-          "q_hi": "भारतीय मानक ब्यूरो (BIS) ने हाल ही में बम निपटान प्रणाली के परीक्षण और आकलन के लिए एक राष्ट्रीय मानक पेश किया। इस प्रणाली के संबंध में निम्नलिखित में से कौन सा/से कथन सही है/हैं? 1. नया मानक IS 19445 : 2025 के नाम से जाना जाता है। 2. यह एजेंसियों के बीच उपकरणों की अंतरसंचालनीयता में सुधार करेगा। 3. इसे TBRL, DRDO द्वारा रूस के 30वें केंद्रीय वैज्ञानिक अनुसंधान संस्थान के सहयोग से विकसित किया गया था।",
-          "opts": [
-            "1, 2 and 3",
-            "2 and 3 only",
-            "1 and 2 only",
-            "1 only"
-          ],
-          "opts_hi": [
-            "1, 2 और 3",
-            "केवल 2 और 3",
-            "केवल 1 और 2",
-            "केवल 1"
-          ],
+          "q": "A person walks 12 km south, turns right and walks 5 km, turns right and walks 12 km. How far is he from the starting point?",
+          "q_hi": "एक व्यक्ति 12 किमी दक्षिण चलता है, दाएँ मुड़ता है और 5 किमी चलता है, दाएँ मुड़ता है और 12 किमी चलता है। वह आरंभिक बिंदु से कितनी दूर है?",
+          "opts": ["5 km", "12 km", "17 km", "20 km"],
+          "opts_hi": ["5 किमी", "12 किमी", "17 किमी", "20 किमी"],
           "ans": 0,
-          "subject": "Science"
+          "subject": "General Intelligence & Reasoning"
         },
         {
-          "q": "Which of the following correctly describes the path of blood flow through the human heart?",
-          "q_hi": "मानव हृदय में रक्त प्रवाह का सही मार्ग निम्नलिखित में से कौन सा है?",
-          "opts": [
-            "Right atrium → Right ventricle → Lungs → Left atrium → Left ventricle",
-            "Right ventricle → Right atrium → Lungs → Left ventricle → Left atrium",
-            "Left atrium → Left ventricle → Lungs → Right atrium → Right ventricle",
-            "Right atrium → Lungs → Right ventricle → Left atrium → Left ventricle"
-          ],
-          "opts_hi": [
-            "दायाँ अलिंद → दायाँ निलय → फेफड़े → बायाँ अलिंद → बायाँ निलय",
-            "दायाँ निलय → दायाँ अलिंद → फेफड़े → बायाँ निलय → बायाँ अलिंद",
-            "बायाँ अलिंद → बायाँ निलय → फेफड़े → दायाँ अलिंद → दायाँ निलय",
-            "दायाँ अलिंद → फेफड़े → दायाँ निलय → बायाँ अलिंद → बायाँ निलय"
-          ],
+          "q": "If 'MOTHER' is coded as 'NPUIFS', how is 'FATHER' coded?",
+          "q_hi": "यदि 'MOTHER' को 'NPUIFS' के रूप में कूटबद्ध किया जाता है, तो 'FATHER' को कैसे कूटबद्ध किया जाएगा?",
+          "opts": ["GBUIFS", "GDUIFS", "GBUIFT", "GBUISF"],
+          "opts_hi": ["GBUIFS", "GDUIFS", "GBUIFT", "GBUISF"],
           "ans": 0,
-          "subject": "Science"
-        }
-      ]
-    },
-    {
-      "id": "rrb_ntpc_12",
-      "title": "RRB NTPC Mock Test 12",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
+          "subject": "General Intelligence & Reasoning"
+        },
         {
-          "q": "Which of the following is NOT a state of matter?",
-          "q_hi": "निम्नलिखित में से कौन सी पदार्थ की अवस्था नहीं है?",
-          "opts": [
-            "Solid",
-            "Liquid",
-            "Gas",
-            "Energy"
-          ],
-          "opts_hi": [
-            "ठोस",
-            "द्रव",
-            "गैस",
-            "ऊर्जा"
-          ],
+          "q": "Statements: All men are mortal. Ram is a man. Conclusions: I. Ram is mortal. II. Some men are mortal.",
+          "q_hi": "कथन: सभी पुरुष नश्वर हैं। राम एक पुरुष है। निष्कर्ष: I. राम नश्वर है। II. कुछ पुरुष नश्वर हैं।",
+          "opts": ["Only I follows", "Only II follows", "Both follow", "Neither follows"],
+          "opts_hi": ["केवल I अनुसरण करता है", "केवल II अनुसरण करता है", "दोनों अनुसरण करते हैं", "कोई भी अनुसरण नहीं करता"],
+          "ans": 2,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "What comes next in the series: 2, 3, 5, 7, 11, 13, ?",
+          "q_hi": "श्रृंखला में आगे क्या आएगा: 2, 3, 5, 7, 11, 13, ?",
+          "opts": ["15", "16", "17", "18"],
+          "opts_hi": ["15", "16", "17", "18"],
+          "ans": 2,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Which number will replace the question mark? 3, 6, 12, 24, ?",
+          "q_hi": "प्रश्न चिह्न के स्थान पर कौन सी संख्या आएगी? 3, 6, 12, 24, ?",
+          "opts": ["36", "40", "48", "50"],
+          "opts_hi": ["36", "40", "48", "50"],
+          "ans": 2,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "What is the currency of Japan?",
+          "q_hi": "जापान की मुद्रा क्या है?",
+          "opts": ["Yuan", "Won", "Yen", "Ringgit"],
+          "opts_hi": ["युआन", "वोन", "येन", "रिंगित"],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which of the following is a non-metallic mineral?",
+          "q_hi": "निम्नलिखित में से कौन सा अधात्विक खनिज है?",
+          "opts": ["Iron Ore", "Bauxite", "Mica", "Copper"],
+          "opts_hi": ["लौह अयस्क", "बॉक्साइट", "अभ्रक", "तांबा"],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The 'Gandhi-Irwin Pact' was signed in which year?",
+          "q_hi": "गांधी-इरविन समझौता किस वर्ष हस्ताक्षरित किया गया था?",
+          "opts": ["1929", "1930", "1931", "1932"],
+          "opts_hi": ["1929", "1930", "1931", "1932"],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which Amendment Act is known as the 'Mini Constitution' of India?",
+          "q_hi": "किस संशोधन अधिनियम को भारत का 'लघु संविधान' कहा जाता है?",
+          "opts": ["42nd Amendment", "44th Amendment", "73rd Amendment", "86th Amendment"],
+          "opts_hi": ["42वाँ संशोधन", "44वाँ संशोधन", "73वाँ संशोधन", "86वाँ संशोधन"],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which gas is used in fire extinguishers?",
+          "q_hi": "अग्निशामक यंत्रों में कौन सी गैस का उपयोग किया जाता है?",
+          "opts": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+          "opts_hi": ["ऑक्सीजन", "कार्बन डाइऑक्साइड", "नाइट्रोजन", "हाइड्रोजन"],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which planet is known as the 'Morning Star'?",
+          "q_hi": "किस ग्रह को 'सुबह का तारा' कहा जाता है?",
+          "opts": ["Mars", "Jupiter", "Venus", "Mercury"],
+          "opts_hi": ["मंगल", "बृहस्पति", "शुक्र", "बुध"],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "What is the full form of RBI?",
+          "q_hi": "RBI का पूर्ण रूप क्या है?",
+          "opts": ["Reserve Bank of India", "Regional Bank of India", "Royal Bank of India", "Rural Bank of India"],
+          "opts_hi": ["भारतीय रिजर्व बैंक", "क्षेत्रीय बैंक ऑफ इंडिया", "रॉयल बैंक ऑफ इंडिया", "ग्रामीण बैंक ऑफ इंडिया"],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which is the headquarters of the Eastern Railway Zone?",
+          "q_hi": "पूर्वी रेलवे क्षेत्र का मुख्यालय कहाँ है?",
+          "opts": ["Mumbai", "Kolkata", "New Delhi", "Chennai"],
+          "opts_hi": ["मुंबई", "कोलकाता", "नई दिल्ली", "चेन्नई"],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "How many zones does Indian Railways have?",
+          "q_hi": "भारतीय रेलवे के कितने क्षेत्र हैं?",
+          "opts": ["16", "17", "18", "19"],
+          "opts_hi": ["16", "17", "18", "19"],
           "ans": 3,
-          "subject": "Science"
-        },
-        {
-          "q": "Which gland is known as the \"Master Gland\" of the human body?",
-          "q_hi": "मानव शरीर की \"मास्टर ग्रंथि\" के रूप में कौन सी ग्रंथि जानी जाती है?",
-          "opts": [
-            "Thyroid gland",
-            "Pituitary gland",
-            "Adrenal gland",
-            "Pancreas"
-          ],
-          "opts_hi": [
-            "थायरॉइड ग्रंथि",
-            "पिट्यूटरी ग्रंथि",
-            "अधिवृक्क ग्रंथि",
-            "अग्न्याशय"
-          ],
-          "ans": 1,
-          "subject": "Science"
-        }
-      ]
-    },
-    {
-      "id": "rrb_ntpc_13",
-      "title": "RRB NTPC Mock Test 13",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Which figure will complete the series if the pattern follows: Square, Triangle, Circle, Square, Triangle, ?",
-          "q_hi": "यदि पैटर्न इस प्रकार है: वर्ग, त्रिभुज, वृत्त, वर्ग, त्रिभुज, ? तो श्रृंखला को कौन सी आकृति पूरी करेगी?",
-          "opts": [
-            "Square",
-            "Triangle",
-            "Circle",
-            "Pentagon"
-          ],
-          "opts_hi": [
-            "वर्ग",
-            "त्रिभुज",
-            "वृत्त",
-            "पंचभुज"
-          ],
-          "ans": 2,
-          "subject": "Reasoning"
-        }
-      ]
-    },
-    {
-      "id": "rrb_ntpc_14",
-      "title": "RRB NTPC Mock Test 14",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "What comes next in the series? B, E, H, K, N, ?",
-          "q_hi": "श्रृंखला में आगे क्या आएगा? B, E, H, K, N, ?",
-          "opts": [
-            "P",
-            "Q",
-            "R",
-            "S"
-          ],
-          "opts_hi": [
-            "P",
-            "Q",
-            "R",
-            "S"
-          ],
-          "ans": 1,
-          "subject": "Reasoning"
-        },
-        {
-          "q": "Which of the following is similar to 6 : 216?",
-          "q_hi": "निम्नलिखित में से कौन सा 6 : 216 के समान है?",
-          "opts": [
-            "7 : 343",
-            "8 : 512",
-            "9 : 729",
-            "All of the above"
-          ],
-          "opts_hi": [
-            "7 : 343",
-            "8 : 512",
-            "9 : 729",
-            "उपरोक्त सभी"
-          ],
-          "ans": 3,
-          "subject": "Reasoning"
-        },
-        {
-          "q": "Which figure will come next in the series: Triangle, Square, Pentagon, Hexagon, ?",
-          "q_hi": "श्रृंखला में आगे कौन सी आकृति आएगी: त्रिभुज, वर्ग, पंचभुज, षट्भुज, ?",
-          "opts": [
-            "Heptagon",
-            "Octagon",
-            "Nonagon",
-            "Decagon"
-          ],
-          "opts_hi": [
-            "सप्तभुज",
-            "अष्टभुज",
-            "नवभुज",
-            "दशभुज"
-          ],
-          "ans": 0,
-          "subject": "Reasoning"
-        }
-      ]
-    },
-    {
-      "id": "rrb_ntpc_15",
-      "title": "RRB NTPC Mock Test 15",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "What comes next in the series? C, F, I, L, O, ?",
-          "q_hi": "श्रृंखला में आगे क्या आएगा? C, F, I, L, O, ?",
-          "opts": [
-            "P",
-            "Q",
-            "R",
-            "S"
-          ],
-          "opts_hi": [
-            "P",
-            "Q",
-            "R",
-            "S"
-          ],
-          "ans": 2,
-          "subject": "Reasoning"
-        },
-        {
-          "q": "What will come in place of question mark (?) in the following series? 10, 20, 40, 80, 160, ?",
-          "q_hi": "निम्नलिखित श्रृंखला में प्रश्न चिह्न (?) के स्थान पर क्या आएगा? 10, 20, 40, 80, 160, ?",
-          "opts": [
-            "240",
-            "280",
-            "320",
-            "360"
-          ],
-          "opts_hi": [
-            "240",
-            "280",
-            "320",
-            "360"
-          ],
-          "ans": 2,
-          "subject": "Reasoning"
-        }
-      ]
-    },
-    {
-      "id": "rrb_ntpc_16",
-      "title": "RRB NTPC Mock Test 16",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Find the odd one out: 1, 8, 27, 64, 125, 216, 343, 512, 729, 1000, 1331, 1728, 2197, 2744, 3375, 4096, 4913, 5832, 6859, 8000, 9261, 10648, 12167, 13824, 15625, 17576, 19683, 21952, 24389, 27000, 29791, 32768, 35937, 39304, 42875, 46656, 50653, 54872, 59319, 64000, 68921, 74088, 79507, 85184, 91125, 97336, 103823, 110592, 117649, 125000",
-          "q_hi": "विषम ज्ञात करें: 1, 8, 27, 64, 125, 216, 343, 512, 729, 1000, 1331, 1728, 2197, 2744, 3375, 4096, 4913, 5832, 6859, 8000, 9261, 10648, 12167, 13824, 15625, 17576, 19683, 21952, 24389, 27000, 29791, 32768, 35937, 39304, 42875, 46656, 50653, 54872, 59319, 64000, 68921, 74088, 79507, 85184, 91125, 97336, 103823, 110592, 117649, 125000",
-          "opts": [
-            "1 (1³)",
-            "125000 (50³)",
-            "32768 (32³)",
-            "None, all are cubes"
-          ],
-          "opts_hi": [
-            "1 (1³)",
-            "125000 (50³)",
-            "32768 (32³)",
-            "कोई नहीं, सभी घन हैं"
-          ],
-          "ans": 3,
-          "subject": "Reasoning"
-        },
-        {
-          "q": "What will replace the question mark (?) in the following? 1, 5, 13, 29, 61, ?",
-          "q_hi": "निम्नलिखित में प्रश्न चिह्न (?) के स्थान पर क्या आएगा? 1, 5, 13, 29, 61, ?",
-          "opts": [
-            "121",
-            "125",
-            "129",
-            "133"
-          ],
-          "opts_hi": [
-            "121",
-            "125",
-            "129",
-            "133"
-          ],
-          "ans": 1,
-          "subject": "Reasoning"
-        }
-      ]
-    },
-    {
-      "id": "rrb_ntpc_17",
-      "title": "RRB NTPC Mock Test 17",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Which of the following is similar to \"Chair : Furniture\"?",
-          "q_hi": "निम्नलिखित में से कौन सा \"Chair : Furniture\" के समान है?",
-          "opts": [
-            "Book : Page",
-            "Table : Wood",
-            "Rose : Flower",
-            "Car : Road"
-          ],
-          "opts_hi": [
-            "पुस्तक : पृष्ठ",
-            "मेज : लकड़ी",
-            "गुलाब : फूल",
-            "कार : सड़क"
-          ],
-          "ans": 2,
-          "subject": "Reasoning"
-        },
-        {
-          "q": "What comes next in the series? 8, 24, 72, 216, ?",
-          "q_hi": "श्रृंखला में आगे क्या आएगा? 8, 24, 72, 216, ?",
-          "opts": [
-            "432",
-            "576",
-            "648",
-            "720"
-          ],
-          "opts_hi": [
-            "432",
-            "576",
-            "648",
-            "720"
-          ],
-          "ans": 2,
-          "subject": "Reasoning"
-        },
-        {
-          "q": "Which figure will come next in the series: Square, Square, Circle, Square, Square, Circle, ?",
-          "q_hi": "श्रृंखला में आगे कौन सी आकृति आएगी: वर्ग, वर्ग, वृत्त, वर्ग, वर्ग, वृत्त, ?",
-          "opts": [
-            "Square",
-            "Circle",
-            "Triangle",
-            "Rectangle"
-          ],
-          "opts_hi": [
-            "वर्ग",
-            "वृत्त",
-            "त्रिभुज",
-            "आयत"
-          ],
-          "ans": 0,
-          "subject": "Reasoning"
-        }
-      ]
-    },
-    {
-      "id": "rrb_ntpc_18",
-      "title": "RRB NTPC Mock Test 18",
-      "duration": 14,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Who was known as the \"Napoleon of India\"?",
-          "q_hi": "भारत का नेपोलियन किसे कहा जाता था?",
-          "opts": [
-            "Chandragupta Maurya",
-            "Samudragupta",
-            "Ashoka",
-            "Harshavardhana"
-          ],
-          "opts_hi": [
-            "चंद्रगुप्त मौर्य",
-            "समुद्रगुप्त",
-            "अशोक",
-            "हर्षवर्धन"
-          ],
-          "ans": 1,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Which is the longest river in India?",
-          "q_hi": "भारत की सबसे लंबी नदी कौन सी है?",
-          "opts": [
-            "Ganga",
-            "Godavari",
-            "Brahmaputra",
-            "Yamuna"
-          ],
-          "opts_hi": [
-            "गंगा",
-            "गोदावरी",
-            "ब्रह्मपुत्र",
-            "यमुना"
-          ],
-          "ans": 0,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Which state is the largest producer of tea in India?",
-          "q_hi": "भारत में चाय का सबसे बड़ा उत्पादक राज्य कौन सा है?",
-          "opts": [
-            "West Bengal",
-            "Assam",
-            "Tamil Nadu",
-            "Kerala"
-          ],
-          "opts_hi": [
-            "पश्चिम बंगाल",
-            "असम",
-            "तमिलनाडु",
-            "केरल"
-          ],
-          "ans": 1,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Which Constitutional Amendment lowered the voting age from 21 to 18 years?",
-          "q_hi": "किस संवैधानिक संशोधन ने मतदान की आयु 21 से घटाकर 18 वर्ष कर दी?",
-          "opts": [
-            "42nd Amendment",
-            "44th Amendment",
-            "61st Amendment",
-            "73rd Amendment"
-          ],
-          "opts_hi": [
-            "42वाँ संशोधन",
-            "44वाँ संशोधन",
-            "61वाँ संशोधन",
-            "73वाँ संशोधन"
-          ],
-          "ans": 2,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "The longest cell of the human body is:",
-          "q_hi": "मानव शरीर की सबसे लंबी कोशिका है:",
-          "opts": [
-            "Skin cell",
-            "Nerve cell",
-            "Muscle cell",
-            "Blood cell"
-          ],
-          "opts_hi": [
-            "त्वचा कोशिका",
-            "तंत्रिका कोशिका",
-            "मांसपेशी कोशिका",
-            "रक्त कोशिका"
-          ],
-          "ans": 1,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Which is the highest mountain peak in the world?",
-          "q_hi": "दुनिया की सबसे ऊँची पर्वत चोटी कौन सी है?",
-          "opts": [
-            "K2",
-            "Mount Everest",
-            "Kangchenjunga",
-            "Lhotse"
-          ],
-          "opts_hi": [
-            "के2",
-            "माउंट एवरेस्ट",
-            "कंचनजंगा",
-            "ल्होत्से"
-          ],
-          "ans": 1,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Which is the latest state formed in India?",
-          "q_hi": "भारत में बनने वाला नवीनतम राज्य कौन सा है?",
-          "opts": [
-            "Jharkhand",
-            "Uttarakhand",
-            "Chhattisgarh",
-            "Telangana"
-          ],
-          "opts_hi": [
-            "झारखंड",
-            "उत्तराखंड",
-            "छत्तीसगढ़",
-            "तेलंगाना"
-          ],
-          "ans": 3,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Who is the first woman Finance Minister of India?",
-          "q_hi": "भारत की पहली महिला वित्त मंत्री कौन हैं?",
-          "opts": [
-            "Indira Gandhi",
-            "Pratibha Patil",
-            "Nirmala Sitharaman",
-            "Sushma Swaraj"
-          ],
-          "opts_hi": [
-            "इंदिरा गांधी",
-            "प्रतिभा पाटिल",
-            "निर्मला सीतारमण",
-            "सुषमा स्वराज"
-          ],
-          "ans": 2,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Who is the current Secretary-General of the United Nations?",
-          "q_hi": "संयुक्त राष्ट्र के वर्तमान महासचिव कौन हैं?",
-          "opts": [
-            "Ban Ki-moon",
-            "Kofi Annan",
-            "António Guterres",
-            "Javier Pérez de Cuéllar"
-          ],
-          "opts_hi": [
-            "बान की-मून",
-            "कोफी अन्नान",
-            "एंटोनियो गुटेरेस",
-            "जेवियर पेरेज़ डी क्यूएलर"
-          ],
-          "ans": 2,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Which Indian state has the highest literacy rate?",
-          "q_hi": "किस भारतीय राज्य में साक्षरता दर सबसे अधिक है?",
-          "opts": [
-            "Kerala",
-            "Tamil Nadu",
-            "Maharashtra",
-            "Himachal Pradesh"
-          ],
-          "opts_hi": [
-            "केरल",
-            "तमिलनाडु",
-            "महाराष्ट्र",
-            "हिमाचल प्रदेश"
-          ],
-          "ans": 0,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Who gave the slogan \"Jai Hind\"?",
-          "q_hi": "जय हिंद का नारा किसने दिया?",
-          "opts": [
-            "Mahatma Gandhi",
-            "Jawaharlal Nehru",
-            "Subhas Chandra Bose",
-            "Bhagat Singh"
-          ],
-          "opts_hi": [
-            "महात्मा गांधी",
-            "जवाहरलाल नेहरू",
-            "सुभाष चंद्र बोस",
-            "भगत सिंह"
-          ],
-          "ans": 2,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "The Tropic of Cancer passes through how many states in India?",
-          "q_hi": "कर्क रेखा भारत में कितने राज्यों से होकर गुजरती है?",
-          "opts": [
-            "6",
-            "7",
-            "8",
-            "9"
-          ],
-          "opts_hi": [
-            "6",
-            "7",
-            "8",
-            "9"
-          ],
-          "ans": 2,
-          "subject": "General Knowledge"
-        }
-      ]
-    },
-    {
-      "id": "rrb_ntpc_19",
-      "title": "RRB NTPC Mock Test 19",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "The Shevaroy Hills are located in which state of India?",
-          "q_hi": "शेवरॉय पहाड़ियाँ भारत के किस राज्य में स्थित हैं?",
-          "opts": [
-            "Kerala",
-            "Tamil Nadu",
-            "Karnataka",
-            "Andhra Pradesh"
-          ],
-          "opts_hi": [
-            "केरल",
-            "तमिलनाडु",
-            "कर्नाटक",
-            "आंध्र प्रदेश"
-          ],
-          "ans": 1,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Who was the first Indian to win a Nobel Prize?",
-          "q_hi": "नोबेल पुरस्कार जीतने वाले पहले भारतीय कौन थे?",
-          "opts": [
-            "Rabindranath Tagore",
-            "C.V. Raman",
-            "Amartya Sen",
-            "Hargobind Khorana"
-          ],
-          "opts_hi": [
-            "रवींद्रनाथ टैगोर",
-            "सी.वी. रमण",
-            "अमर्त्य सेन",
-            "हरगोबिंद खुराना"
-          ],
-          "ans": 0,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Who was the first Indian to win a Nobel Prize in Physics?",
-          "q_hi": "भौतिकी में नोबेल पुरस्कार जीतने वाले पहले भारतीय कौन थे?",
-          "opts": [
-            "Rabindranath Tagore",
-            "C.V. Raman",
-            "Amartya Sen",
-            "Hargobind Khorana"
-          ],
-          "opts_hi": [
-            "रवींद्रनाथ टैगोर",
-            "सी.वी. रमण",
-            "अमर्त्य सेन",
-            "हरगोबिंद खुराना"
-          ],
-          "ans": 1,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "What is the main objective of the Right to Information Act, 2005?",
-          "q_hi": "सूचना का अधिकार अधिनियम, 2005 का मुख्य उद्देश्य क्या है?",
-          "opts": [
-            "To protect government secrets",
-            "To empower citizens to access information from the government",
-            "To restrict media freedom",
-            "To increase government transparency"
-          ],
-          "opts_hi": [
-            "सरकारी रहस्यों की रक्षा करना",
-            "नागरिकों को सरकार से जानकारी प्राप्त करने के लिए सशक्त बनाना",
-            "मीडिया की स्वतंत्रता को प्रतिबंधित करना",
-            "सरकारी पारदर्शिता बढ़ाना"
-          ],
-          "ans": 1,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Which state produces the maximum sunflower oil in India?",
-          "q_hi": "भारत में सबसे अधिक सूरजमुखी तेल उत्पादन करने वाला राज्य कौन सा है?",
-          "opts": [
-            "Karnataka",
-            "Andhra Pradesh",
-            "Tamil Nadu",
-            "Kerala"
-          ],
-          "opts_hi": [
-            "कर्नाटक",
-            "आंध्र प्रदेश",
-            "तमिलनाडु",
-            "केरल"
-          ],
-          "ans": 1,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "How many days of employment are guaranteed under the new VB-G RAM G scheme?",
-          "q_hi": "नई VB-G RAM G योजना के तहत रोजगार की कितने दिनों की गारंटी है?",
-          "opts": [
-            "100 days",
-            "125 days",
-            "150 days",
-            "200 days"
-          ],
-          "opts_hi": [
-            "100 दिन",
-            "125 दिन",
-            "150 दिन",
-            "200 दिन"
-          ],
-          "ans": 1,
-          "subject": "Current Affairs"
-        },
-        {
-          "q": "Which country conducted an Intercontinental Ballistic Missile (ICBM) test on July 6, 2026?",
-          "q_hi": "6 जुलाई, 2026 को किस देश ने अंतरमहाद्वीपीय बैलिस्टिक मिसाइल (ICBM) का परीक्षण किया?",
-          "opts": [
-            "USA",
-            "Russia",
-            "China",
-            "North Korea"
-          ],
-          "opts_hi": [
-            "यूएसए",
-            "रूस",
-            "चीन",
-            "उत्तर कोरिया"
-          ],
-          "ans": 2,
-          "subject": "Current Affairs"
-        },
-        {
-          "q": "Which sportsperson was recommended for the Khel Ratna Award for 2025-26?",
-          "q_hi": "2025-26 के लिए खेल रत्न पुरस्कार के लिए किस खिलाड़ी की अनुशंसा की गई?",
-          "opts": [
-            "Hardik Singh",
-            "Rohit Sharma",
-            "PV Sindhu",
-            "Neeraj Chopra"
-          ],
-          "opts_hi": [
-            "हार्दिक सिंह",
-            "रोहित शर्मा",
-            "पी.वी. सिंधु",
-            "नीरज चोपड़ा"
-          ],
-          "ans": 0,
-          "subject": "Current Affairs"
-        }
-      ]
-    },
-    {
-      "id": "rrb_ntpc_20",
-      "title": "RRB NTPC Mock Test 20",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Where is the headquarters of Indian Railways?",
-          "q_hi": "भारतीय रेलवे का मुख्यालय कहाँ है?",
-          "opts": [
-            "New Delhi",
-            "Mumbai",
-            "Kolkata",
-            "Chennai"
-          ],
-          "opts_hi": [
-            "नई दिल्ली",
-            "मुंबई",
-            "कोलकाता",
-            "चेन्नई"
-          ],
-          "ans": 0,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Which sport is associated with the term “Deuce”?",
-          "q_hi": "“ड्यूस” शब्द किस खेल से संबंधित है?",
-          "opts": [
-            "Badminton",
-            "Tennis",
-            "Cricket",
-            "Hockey"
-          ],
-          "opts_hi": [
-            "बैडमिंटन",
-            "टेनिस",
-            "क्रिकेट",
-            "हॉकी"
-          ],
-          "ans": 1,
-          "subject": "General Knowledge"
-        }
-      ]
-    },
-    {
-      "id": "rrb_ntpc_21",
-      "title": "RRB NTPC Mock Test 21",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Who is the current head of the Election Commission of India (as of 2026)?",
-          "q_hi": "भारत के चुनाव आयोग के वर्तमान प्रमुख कौन हैं (2026 तक)?",
-          "opts": [
-            "Gyanesh Kumar",
-            "Sunil Arora",
-            "Rajiv Kumar",
-            "Achal Kumar Joti"
-          ],
-          "opts_hi": [
-            "ज्ञानेश कुमार",
-            "सुनील अरोड़ा",
-            "राजीव कुमार",
-            "अचल कुमार जोती"
-          ],
-          "ans": 0,
-          "subject": "General Knowledge"
-        }
-      ]
-    },
-    {
-      "id": "rrb_ntpc_22",
-      "title": "RRB NTPC Mock Test 22",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Who is the current President of India (as of 2026)?",
-          "q_hi": "भारत के वर्तमान राष्ट्रपति कौन हैं (2026 तक)?",
-          "opts": [
-            "Droupadi Murmu",
-            "Ram Nath Kovind",
-            "Pranab Mukherjee",
-            "Pratibha Patil"
-          ],
-          "opts_hi": [
-            "द्रौपदी मुर्मू",
-            "राम नाथ कोविंद",
-            "प्रणब मुखर्जी",
-            "प्रतिभा पाटिल"
-          ],
-          "ans": 0,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "What is the GST rate on most essential items?",
-          "q_hi": "अधिकांश आवश्यक वस्तुओं पर GST दर क्या है?",
-          "opts": [
-            "0.05",
-            "0.12",
-            "0.18",
-            "0"
-          ],
-          "opts_hi": [
-            "0.05",
-            "0.12",
-            "0.18",
-            ""
-          ],
-          "ans": 3,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Who presents the Union Budget in India?",
-          "q_hi": "भारत में केंद्रीय बजट कौन पेश करता है?",
-          "opts": [
-            "President",
-            "Finance Minister",
-            "Prime Minister",
-            "RBI Governor"
-          ],
-          "opts_hi": [
-            "राष्ट्रपति",
-            "वित्त मंत्री",
-            "प्रधानमंत्री",
-            "आरबीआई गवर्नर"
-          ],
-          "ans": 1,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "What is the full form of GDP?",
-          "q_hi": "GDP का पूर्ण रूप क्या है?",
-          "opts": [
-            "Gross Domestic Product",
-            "Gross Development Product",
-            "General Domestic Product",
-            "None"
-          ],
-          "opts_hi": [
-            "ग्रॉस डोमेस्टिक प्रोडक्ट",
-            "ग्रॉस डेवलपमेंट प्रोडक्ट",
-            "जनरल डोमेस्टिक प्रोडक्ट",
-            "कोई नहीं"
-          ],
-          "ans": 0,
-          "subject": "General Knowledge"
-        }
-      ]
-    },
-    {
-      "id": "rrb_ntpc_23",
-      "title": "RRB NTPC Mock Test 23",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Who is the current Chief Justice of India (as of 2026)?",
-          "q_hi": "भारत के वर्तमान मुख्य न्यायाधीश कौन हैं (2026 तक)?",
-          "opts": [
-            "Sanjiv Khanna",
-            "DY Chandrachud",
-            "NV Ramana",
-            "None"
-          ],
-          "opts_hi": [
-            "संजीव खन्ना",
-            "डीवाई चंद्रचूड़",
-            "एनवी रमना",
-            "कोई नहीं"
-          ],
-          "ans": 0,
-          "subject": "General Knowledge"
-        }
-      ]
-    },
-    {
-      "id": "rrb_ntpc_24",
-      "title": "RRB NTPC Mock Test 24",
-      "duration": 13,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Which is the highest plateau in India?",
-          "q_hi": "भारत का सबसे ऊंचा पठार कौन सा है?",
-          "opts": [
-            "Deccan Plateau",
-            "Ladakh Plateau",
-            "Chota Nagpur Plateau",
-            "Malwa Plateau"
-          ],
-          "opts_hi": [
-            "दक्कन पठार",
-            "लद्दाख पठार",
-            "छोटा नागपुर पठार",
-            "मालवा पठार"
-          ],
-          "ans": 1,
-          "subject": "Geography"
-        },
-        {
-          "q": "Which is the wettest place in India?",
-          "q_hi": "भारत का सबसे अधिक वर्षा वाला स्थान कौन सा है?",
-          "opts": [
-            "Mawsynram",
-            "Cherrapunji",
-            "Agumbe",
-            "Mahabaleshwar"
-          ],
-          "opts_hi": [
-            "मावसिनराम",
-            "चेरापूंजी",
-            "अगुम्बे",
-            "महाबलेश्वर"
-          ],
-          "ans": 0,
-          "subject": "Geography"
-        },
-        {
-          "q": "Which is the largest producer of jute in India?",
-          "q_hi": "भारत में जूट का सबसे बड़ा उत्पादक राज्य कौन सा है?",
-          "opts": [
-            "West Bengal",
-            "Bihar",
-            "Assam",
-            "Andhra Pradesh"
-          ],
-          "opts_hi": [
-            "पश्चिम बंगाल",
-            "बिहार",
-            "असम",
-            "आंध्र प्रदेश"
-          ],
-          "ans": 0,
-          "subject": "Geography"
-        },
-        {
-          "q": "Which is the largest oil producing state in India?",
-          "q_hi": "भारत में सबसे बड़ा तेल उत्पादक राज्य कौन सा है?",
-          "opts": [
-            "Assam",
-            "Gujarat",
-            "Rajasthan",
-            "Maharashtra"
-          ],
-          "opts_hi": [
-            "असम",
-            "गुजरात",
-            "राजस्थान",
-            "महाराष्ट्र"
-          ],
-          "ans": 1,
-          "subject": "Geography"
-        },
-        {
-          "q": "Which is the largest coal producing state in India?",
-          "q_hi": "भारत में सबसे बड़ा कोयला उत्पादक राज्य कौन सा है?",
-          "opts": [
-            "Jharkhand",
-            "Chhattisgarh",
-            "West Bengal",
-            "Odisha"
-          ],
-          "opts_hi": [
-            "झारखंड",
-            "छत्तीसगढ़",
-            "पश्चिम बंगाल",
-            "ओडिशा"
-          ],
-          "ans": 0,
-          "subject": "Geography"
-        },
-        {
-          "q": "Which is the largest bauxite producing state in India?",
-          "q_hi": "भारत में सबसे बड़ा बॉक्साइट उत्पादक राज्य कौन सा है?",
-          "opts": [
-            "Odisha",
-            "Jharkhand",
-            "Chhattisgarh",
-            "Maharashtra"
-          ],
-          "opts_hi": [
-            "ओडिशा",
-            "झारखंड",
-            "छत्तीसगढ़",
-            "महाराष्ट्र"
-          ],
-          "ans": 0,
-          "subject": "Geography"
-        },
-        {
-          "q": "Which is the largest producer of tea in India?",
-          "q_hi": "भारत में चाय का सबसे बड़ा उत्पादक राज्य कौन सा है?",
-          "opts": [
-            "Assam",
-            "West Bengal",
-            "Tamil Nadu",
-            "Kerala"
-          ],
-          "opts_hi": [
-            "असम",
-            "पश्चिम बंगाल",
-            "तमिलनाडु",
-            "केरल"
-          ],
-          "ans": 0,
-          "subject": "Geography"
-        },
-        {
-          "q": "Which is the largest solar park in India?",
-          "q_hi": "भारत का सबसे बड़ा सोलर पार्क कौन सा है?",
-          "opts": [
-            "Bhadla Solar Park",
-            "Pavagada Solar Park",
-            "Charanka Solar Park",
-            "None"
-          ],
-          "opts_hi": [
-            "भदला सोलर पार्क",
-            "पावगड़ा सोलर पार्क",
-            "चरणका सोलर पार्क",
-            "कोई नहीं"
-          ],
-          "ans": 0,
-          "subject": "Geography"
-        },
-        {
-          "q": "Which is the largest producer of spices in India?",
-          "q_hi": "भारत में मसालों का सबसे बड़ा उत्पादक राज्य कौन सा है?",
-          "opts": [
-            "Kerala",
-            "Andhra Pradesh",
-            "Karnataka",
-            "Tamil Nadu"
-          ],
-          "opts_hi": [
-            "केरल",
-            "आंध्र प्रदेश",
-            "कर्नाटक",
-            "तमिलनाडु"
-          ],
-          "ans": 0,
-          "subject": "Geography"
-        },
-        {
-          "q": "Which is the largest uranium producing state in India?",
-          "q_hi": "भारत में सबसे बड़ा यूरेनियम उत्पादक राज्य कौन सा है?",
-          "opts": [
-            "Jharkhand",
-            "Rajasthan",
-            "Andhra Pradesh",
-            "Maharashtra"
-          ],
-          "opts_hi": [
-            "झारखंड",
-            "राजस्थान",
-            "आंध्र प्रदेश",
-            "महाराष्ट्र"
-          ],
-          "ans": 0,
-          "subject": "Geography"
-        },
-        {
-          "q": "Which is the largest mica producing state in India?",
-          "q_hi": "भारत में सबसे बड़ा अभ्रक उत्पादक राज्य कौन सा है?",
-          "opts": [
-            "Bihar",
-            "Rajasthan",
-            "Jharkhand",
-            "Andhra Pradesh"
-          ],
-          "opts_hi": [
-            "बिहार",
-            "राजस्थान",
-            "झारखंड",
-            "आंध्र प्रदेश"
-          ],
-          "ans": 0,
-          "subject": "Geography"
-        }
-      ]
-    },
-    {
-      "id": "rrb_ntpc_25",
-      "title": "RRB NTPC Mock Test 25",
-      "duration": 13,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Which river system forms the largest delta in the world?",
-          "q_hi": "दुनिया का सबसे बड़ा डेल्टा किस नदी प्रणाली द्वारा बनाया गया है?",
-          "opts": [
-            "Ganga-Brahmaputra",
-            "Amazon",
-            "Mississippi",
-            "Nile"
-          ],
-          "opts_hi": [
-            "गंगा-ब्रह्मपुत्र",
-            "अमेज़न",
-            "मिसिसिप्पी",
-            "नाइल"
-          ],
-          "ans": 0,
-          "subject": "Geography"
-        },
-        {
-          "q": "Which state has the largest share of mangrove forests?",
-          "q_hi": "भारत में मैंग्रोव वनों का सबसे बड़ा हिस्सा किस राज्य का है?",
-          "opts": [
-            "West Bengal",
-            "Gujarat",
-            "Andhra Pradesh",
-            "Tamil Nadu"
-          ],
-          "opts_hi": [
-            "पश्चिम बंगाल",
-            "गुजरात",
-            "आंध्र प्रदेश",
-            "तमिलनाडु"
-          ],
-          "ans": 0,
-          "subject": "Geography"
-        },
-        {
-          "q": "Which state has the highest per capita forest cover?",
-          "q_hi": "सर्वाधिक प्रति व्यक्ति वन क्षेत्रफल वाला राज्य कौन सा है?",
-          "opts": [
-            "Arunachal Pradesh",
-            "Mizoram",
-            "Nagaland",
-            "Sikkim"
-          ],
-          "opts_hi": [
-            "अरुणाचल प्रदेश",
-            "मिजोरम",
-            "नागालैंड",
-            "सिक्किम"
-          ],
-          "ans": 1,
-          "subject": "Geography"
-        },
-        {
-          "q": "Which is the largest producer of lignite coal in India?",
-          "q_hi": "भारत में लिग्नाइट कोयला का सबसे बड़ा उत्पादक राज्य कौन सा है?",
-          "opts": [
-            "Tamil Nadu",
-            "Gujarat",
-            "Rajasthan",
-            "Jharkhand"
-          ],
-          "opts_hi": [
-            "तमिलनाडु",
-            "गुजरात",
-            "राजस्थान",
-            "झारखंड"
-          ],
-          "ans": 0,
-          "subject": "Geography"
-        },
-        {
-          "q": "Which is the largest mangrove forest in the world?",
-          "q_hi": "दुनिया का सबसे बड़ा मैंग्रोव वन कौन सा है?",
-          "opts": [
-            "Sunderbans",
-            "Borneo",
-            "Amazon",
-            "None"
-          ],
-          "opts_hi": [
-            "सुंदरबन",
-            "बोर्नियो",
-            "अमेज़न",
-            "कोई नहीं"
-          ],
-          "ans": 0,
-          "subject": "Geography"
-        },
-        {
-          "q": "Which is the largest saline lake in India?",
-          "q_hi": "भारत की सबसे बड़ी खारी झील कौन सी है?",
-          "opts": [
-            "Sambhar Lake",
-            "Chilika Lake",
-            "Pulicat Lake",
-            "Vembanad Lake"
-          ],
-          "opts_hi": [
-            "सांभर झील",
-            "चिल्का झील",
-            "पुलिकट झील",
-            "वेम्बनाड झील"
-          ],
-          "ans": 0,
-          "subject": "Geography"
-        },
-        {
-          "q": "Which is the largest producer of diamonds in India?",
-          "q_hi": "भारत में हीरे का सबसे बड़ा उत्पादक राज्य कौन सा है?",
-          "opts": [
-            "Madhya Pradesh",
-            "Chhattisgarh",
-            "Andhra Pradesh",
-            "Jharkhand"
-          ],
-          "opts_hi": [
-            "मध्य प्रदेश",
-            "छत्तीसगढ़",
-            "आंध्र प्रदेश",
-            "झारखंड"
-          ],
-          "ans": 0,
-          "subject": "Geography"
-        },
-        {
-          "q": "Which state has the largest reserves of iron ore?",
-          "q_hi": "भारत में लौह अयस्क के सबसे बड़े भंडार किस राज्य के पास हैं?",
-          "opts": [
-            "Odisha",
-            "Jharkhand",
-            "Chhattisgarh",
-            "Karnataka"
-          ],
-          "opts_hi": [
-            "ओडिशा",
-            "झारखंड",
-            "छत्तीसगढ़",
-            "कर्नाटक"
-          ],
-          "ans": 0,
-          "subject": "Geography"
-        },
-        {
-          "q": "Which is the largest copper producing state in India?",
-          "q_hi": "भारत में तांबा का सबसे बड़ा उत्पादक राज्य कौन सा है?",
-          "opts": [
-            "Rajasthan",
-            "Jharkhand",
-            "Madhya Pradesh",
-            "Andhra Pradesh"
-          ],
-          "opts_hi": [
-            "राजस्थान",
-            "झारखंड",
-            "मध्य प्रदेश",
-            "आंध्र प्रदेश"
-          ],
-          "ans": 0,
-          "subject": "Geography"
-        },
-        {
-          "q": "Which state has the largest reserves of manganese?",
-          "q_hi": "मैंगनीज के सबसे बड़े भंडार किस राज्य के पास हैं?",
-          "opts": [
-            "Odisha",
-            "Maharashtra",
-            "Karnataka",
-            "Jharkhand"
-          ],
-          "opts_hi": [
-            "ओडिशा",
-            "महाराष्ट्र",
-            "कर्नाटक",
-            "झारखंड"
-          ],
-          "ans": 0,
-          "subject": "Geography"
-        },
-        {
-          "q": "Which state is the largest producer of cotton in India?",
-          "q_hi": "भारत में कपास का सबसे बड़ा उत्पादक राज्य कौन सा है?",
-          "opts": [
-            "Gujarat",
-            "Maharashtra",
-            "Telangana",
-            "Punjab"
-          ],
-          "opts_hi": [
-            "गुजरात",
-            "महाराष्ट्र",
-            "तेलंगाना",
-            "पंजाब"
-          ],
-          "ans": 0,
-          "subject": "Geography"
-        }
-      ]
-    },
-    {
-      "id": "rrb_ntpc_26",
-      "title": "RRB NTPC Mock Test 26",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "When will the FIFA World Cup 2026 start?",
-          "q_hi": "2026 FIFA विश्व कप कब शुरू होगा?",
-          "opts": [
-            "Mon Jun 01 2026 05:30:00 GMT+0530 (India Standard Time)",
-            "Wed Jul 01 2026 05:30:00 GMT+0530 (India Standard Time)",
-            "Fri May 01 2026 05:30:00 GMT+0530 (India Standard Time)",
-            "Sat Aug 01 2026 05:30:00 GMT+0530 (India Standard Time)"
-          ],
-          "opts_hi": [
-            "जून 2026",
-            "जुलाई 2026",
-            "मई 2026",
-            "अगस्त 2026"
-          ],
-          "ans": 0,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Which city will host the third place match of FIFA World Cup 2026?",
-          "q_hi": "2026 FIFA विश्व कप का तीसरा स्थान मैच किस शहर में होगा?",
-          "opts": [
-            "Los Angeles",
-            "Miami",
-            "Atlanta",
-            "Philadelphia"
-          ],
-          "opts_hi": [
-            "लॉस एंजेलिस",
-            "मियामी",
-            "अटलांटा",
-            "फिलाडेल्फिया"
-          ],
-          "ans": 1,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "What is the official song of FIFA World Cup 2026?",
-          "q_hi": "2026 FIFA विश्व कप का आधिकारिक गाना क्या है?",
-          "opts": [
-            "Glory",
-            "We Are One",
-            "Live It Up",
-            "Not announced yet"
-          ],
-          "opts_hi": [
-            "ग्लोरी",
-            "वी आर वन",
-            "लाइव इट अप",
-            "अभी घोषित नहीं"
-          ],
-          "ans": 3,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Which venue will host the most matches in FIFA World Cup 2026?",
-          "q_hi": "2026 FIFA विश्व कप में सबसे अधिक मैच किस वेन्यू पर होंगे?",
-          "opts": [
-            "MetLife Stadium",
-            "AT&T Stadium",
-            "SoFi Stadium",
-            "Hard Rock Stadium"
-          ],
-          "opts_hi": [
-            "मेटलाइफ स्टेडियम",
-            "एटीएंडटी स्टेडियम",
-            "सोफी स्टेडियम",
-            "हार्ड रॉक स्टेडियम"
-          ],
-          "ans": 0,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Which US city will host the final?",
-          "q_hi": "2026 FIFA विश्व कप का फाइनल मैच किस अमेरिकी शहर में होगा?",
-          "opts": [
-            "New York/New Jersey",
-            "Los Angeles",
-            "Miami",
-            "Dallas"
-          ],
-          "opts_hi": [
-            "न्यूयॉर्क/न्यू जर्सी",
-            "लॉस एंजेलिस",
-            "मियामी",
-            "डलास"
-          ],
-          "ans": 0,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Which is the first World Cup with 48 teams format?",
-          "q_hi": "48 टीमों वाले प्रारूप का पहला विश्व कप कौन सा है?",
-          "opts": [
-            "2026",
-            "2030",
-            "2022",
-            "2014"
-          ],
-          "opts_hi": [
-            "2026",
-            "2030",
-            "2022",
-            "2014"
-          ],
-          "ans": 0,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Which stadium in Los Angeles will host matches?",
-          "q_hi": "2026 FIFA विश्व कप में लॉस एंजेलिस के किस स्टेडियम में मैच होंगे?",
-          "opts": [
-            "SoFi Stadium",
-            "Rose Bowl",
-            "Levi's Stadium",
-            "None"
-          ],
-          "opts_hi": [
-            "सोफी स्टेडियम",
-            "रोज बाउल",
-            "लेवी स्टेडियम",
-            "कोई नहीं"
-          ],
-          "ans": 0,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Which US state will host the most venues?",
-          "q_hi": "2026 FIFA विश्व कप में सबसे अधिक वेन्यू किस अमेरिकी राज्य में होंगे?",
-          "opts": [
-            "California",
-            "Texas",
-            "New York",
-            "Florida"
-          ],
-          "opts_hi": [
-            "कैलिफोर्निया",
-            "टेक्सास",
-            "न्यूयॉर्क",
-            "फ्लोरिडा"
-          ],
-          "ans": 1,
-          "subject": "General Knowledge"
-        }
-      ]
-    },
-    {
-      "id": "rrb_ntpc_27",
-      "title": "RRB NTPC Mock Test 27",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Who is called the Father of the Indian Constitution?",
-          "q_hi": "भारतीय संविधान के जनक के रूप में किसे जाना जाता है?",
-          "opts": [
-            "Mahatma Gandhi",
-            "Jawaharlal Nehru",
-            "Dr. B.R. Ambedkar",
-            "Sardar Patel"
-          ],
-          "opts_hi": [
-            "महात्मा गांधी",
-            "जवाहरलाल नेहरू",
-            "डॉ. बी.आर. अम्बेडकर",
-            "सरदार पटेल"
-          ],
-          "ans": 2,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Which lens is used to correct hypermetropia (long-sightedness)?",
-          "q_hi": "हाइपरमेट्रोपिया (दूरदर्शिता) को ठीक करने के लिए किस लेंस का उपयोग किया जाता है?",
-          "opts": [
-            "Concave lens",
-            "Convex lens",
-            "Bifocal lens",
-            "Cylindrical lens"
-          ],
-          "opts_hi": [
-            "अवतल लेंस",
-            "उत्तल लेंस",
-            "द्विफोकल लेंस",
-            "बेलनाकार लेंस"
-          ],
-          "ans": 1,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "The idea of the Directive Principles of State Policy was borrowed from which country?",
-          "q_hi": "राज्य नीति के निर्देशक सिद्धांतों का विचार किस देश से लिया गया था?",
-          "opts": [
-            "USA",
-            "Ireland",
-            "UK",
-            "Canada"
-          ],
-          "opts_hi": [
-            "यूएसए",
-            "आयरलैंड",
-            "यूके",
-            "कनाडा"
-          ],
-          "ans": 1,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Who was the first female Prime Minister of India?",
-          "q_hi": "भारत की पहली महिला प्रधान मंत्री कौन थी?",
-          "opts": [
-            "Indira Gandhi",
-            "Pratibha Patil",
-            "Sarojini Naidu",
-            "Vijaya Lakshmi Pandit"
-          ],
-          "opts_hi": [
-            "इंदिरा गांधी",
-            "प्रतिभा पाटिल",
-            "सरोजिनी नायडू",
-            "विजया लक्ष्मी पंडित"
-          ],
-          "ans": 0,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Who was the founder of the Mughal Empire?",
-          "q_hi": "मुगल साम्राज्य का संस्थापक कौन था?",
-          "opts": [
-            "Akbar",
-            "Humayun",
-            "Babur",
-            "Shah Jahan"
-          ],
-          "opts_hi": [
-            "अकबर",
-            "हुमायूँ",
-            "बाबर",
-            "शाहजहाँ"
-          ],
-          "ans": 2,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Which river flows through the Rift Valley in India?",
-          "q_hi": "भारत में कौन सी नदी दरार घाटी से होकर बहती है?",
-          "opts": [
-            "Narmada",
-            "Ganga",
-            "Godavari",
-            "Krishna"
-          ],
-          "opts_hi": [
-            "नर्मदा",
-            "गंगा",
-            "गोदावरी",
-            "कृष्णा"
-          ],
-          "ans": 0,
-          "subject": "General Knowledge"
-        }
-      ]
-    },
-    {
-      "id": "rrb_ntpc_28",
-      "title": "RRB NTPC Mock Test 28",
-      "duration": 13,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "The Battle of Plassey was fought in which year?",
-          "q_hi": "प्लासी का युद्ध किस वर्ष हुआ?",
-          "opts": [
-            "1757",
-            "1857",
-            "1764",
-            "1526"
-          ],
-          "opts_hi": [
-            "1757",
-            "1857",
-            "1764",
-            "1526"
-          ],
-          "ans": 0,
-          "subject": "History"
-        },
-        {
-          "q": "The Dandi March was a part of which movement?",
-          "q_hi": "दांडी मार्च किस आंदोलन का हिस्सा था?",
-          "opts": [
-            "Non-Cooperation",
-            "Civil Disobedience",
-            "Quit India",
-            "Swadeshi"
-          ],
-          "opts_hi": [
-            "असहयोग",
-            "सविनय अवज्ञा",
-            "भारत छोड़ो",
-            "स्वदेशी"
-          ],
-          "ans": 1,
-          "subject": "History"
-        },
-        {
-          "q": "The Partition of Bengal took place in which year?",
-          "q_hi": "बंगाल का विभाजन किस वर्ष हुआ?",
-          "opts": [
-            "1905",
-            "1911",
-            "1947",
-            "1857"
-          ],
-          "opts_hi": [
-            "1905",
-            "1911",
-            "1947",
-            "1857"
-          ],
-          "ans": 0,
-          "subject": "History"
-        },
-        {
-          "q": "The Rowlatt Act was passed in which year?",
-          "q_hi": "रोलट एक्ट किस वर्ष पारित हुआ?",
-          "opts": [
-            "1919",
-            "1920",
-            "1935",
-            "1942"
-          ],
-          "opts_hi": [
-            "1919",
-            "1920",
-            "1935",
-            "1942"
-          ],
-          "ans": 0,
-          "subject": "History"
-        },
-        {
-          "q": "The Swadeshi Movement was launched in response to which event?",
-          "q_hi": "स्वदेशी आंदोलन किस घटना के विरोध में शुरू हुआ?",
-          "opts": [
-            "Partition of Bengal",
-            "Rowlatt Act",
-            "Jallianwala Bagh",
-            "Non-Cooperation"
-          ],
-          "opts_hi": [
-            "बंगाल विभाजन",
-            "रोलट एक्ट",
-            "जलियांवाला बाग",
-            "असहयोग"
-          ],
-          "ans": 0,
-          "subject": "History"
-        },
-        {
-          "q": "The Quit India Resolution was passed in which year?",
-          "q_hi": "भारत छोड़ो प्रस्ताव किस वर्ष पारित हुआ?",
-          "opts": [
-            "1942",
-            "1940",
-            "1930",
-            "1920"
-          ],
-          "opts_hi": [
-            "1942",
-            "1940",
-            "1930",
-            "1920"
-          ],
-          "ans": 0,
-          "subject": "History"
-        },
-        {
-          "q": "The Simon Commission was boycotted because?",
-          "q_hi": "साइमन कमीशन का बहिष्कार क्यों किया गया?",
-          "opts": [
-            "No Indian member",
-            "All British members",
-            "Harsh policies",
-            "None"
-          ],
-          "opts_hi": [
-            "कोई भारतीय सदस्य नहीं",
-            "सभी ब्रिटिश सदस्य",
-            "कठोर नीतियां",
-            "कोई नहीं"
-          ],
-          "ans": 0,
-          "subject": "History"
-        },
-        {
-          "q": "The Chauri Chaura incident led to the suspension of which movement?",
-          "q_hi": "चौरी-चौरा घटना किस आंदोलन को निलंबित करने का कारण बनी?",
-          "opts": [
-            "Non-Cooperation",
-            "Civil Disobedience",
-            "Quit India",
-            "Swadeshi"
-          ],
-          "opts_hi": [
-            "असहयोग",
-            "सविनय अवज्ञा",
-            "भारत छोड़ो",
-            "स्वदेशी"
-          ],
-          "ans": 0,
-          "subject": "History"
-        },
-        {
-          "q": "The Poona Pact was signed between whom?",
-          "q_hi": "पूना समझौता किनके बीच हुआ?",
-          "opts": [
-            "Gandhi and Ambedkar",
-            "Nehru and Jinnah",
-            "Gandhi and Irwin",
-            "None"
-          ],
-          "opts_hi": [
-            "गांधी और आंबेडकर",
-            "नेहरू और जिन्ना",
-            "गांधी और इरविन",
-            "कोई नहीं"
-          ],
-          "ans": 0,
-          "subject": "History"
-        },
-        {
-          "q": "The Lucknow Pact was signed in which year?",
-          "q_hi": "लखनऊ समझौता किस वर्ष हुआ?",
-          "opts": [
-            "1916",
-            "1915",
-            "1920",
-            "1906"
-          ],
-          "opts_hi": [
-            "1916",
-            "1915",
-            "1920",
-            "1906"
-          ],
-          "ans": 0,
-          "subject": "History"
-        },
-        {
-          "q": "The Montagu-Chelmsford Reforms were introduced in which year?",
-          "q_hi": "मॉन्टेग्यू-चेम्सफोर्ड सुधार किस वर्ष लागू किए गए?",
-          "opts": [
-            "1919",
-            "1909",
-            "1935",
-            "1947"
-          ],
-          "opts_hi": [
-            "1919",
-            "1909",
-            "1935",
-            "1947"
-          ],
-          "ans": 0,
-          "subject": "History"
-        }
-      ]
-    },
-    {
-      "id": "rrb_ntpc_29",
-      "title": "RRB NTPC Mock Test 29",
-      "duration": 12,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "The Hunter Commission was appointed in which year?",
-          "q_hi": "हंटर आयोग किस वर्ष नियुक्त किया गया?",
-          "opts": [
-            "1882",
-            "1902",
-            "1854",
-            "1929"
-          ],
-          "opts_hi": [
-            "1882",
-            "1902",
-            "1854",
-            "1929"
-          ],
-          "ans": 0,
-          "subject": "History"
-        },
-        {
-          "q": "The Vernacular Press Act was passed during the tenure of which Viceroy?",
-          "q_hi": "वर्नाकुलर प्रेस एक्ट किस वायसराय के कार्यकाल में पारित हुआ?",
-          "opts": [
-            "Lord Lytton",
-            "Lord Ripon",
-            "Lord Curzon",
-            "Lord Dufferin"
-          ],
-          "opts_hi": [
-            "लॉर्ड लिटन",
-            "लॉर्ड रिपन",
-            "लॉर्ड कर्जन",
-            "लॉर्ड डफरिन"
-          ],
-          "ans": 0,
-          "subject": "History"
-        },
-        {
-          "q": "Which Mauryan ruler sent missionaries to Sri Lanka?",
-          "q_hi": "श्रीलंका में मिशनरी किस मौर्य शासक ने भेजे?",
-          "opts": [
-            "Ashoka",
-            "Chandragupta Maurya",
-            "Bindusara",
-            "None"
-          ],
-          "opts_hi": [
-            "अशोक",
-            "चंद्रगुप्त मौर्य",
-            "बिंदुसार",
-            "कोई नहीं"
-          ],
-          "ans": 0,
-          "subject": "History"
-        },
-        {
-          "q": "Who introduced the Iqta system?",
-          "q_hi": "इक्ता प्रणाली किसने शुरू की?",
-          "opts": [
-            "Iltutmish",
-            "Qutb-ud-din Aibak",
-            "Alauddin Khilji",
-            "Balban"
-          ],
-          "opts_hi": [
-            "इल्तुतमिश",
-            "कुतुबुद्दीन ऐबक",
-            "अलाउद्दीन खिलजी",
-            "बलबन"
-          ],
-          "ans": 0,
-          "subject": "History"
-        },
-        {
-          "q": "The August Offer was made in which year?",
-          "q_hi": "अगस्त प्रस्ताव किस वर्ष दिया गया?",
-          "opts": [
-            "1940",
-            "1942",
-            "1935",
-            "1946"
-          ],
-          "opts_hi": [
-            "1940",
-            "1942",
-            "1935",
-            "1946"
-          ],
-          "ans": 0,
-          "subject": "History"
-        },
-        {
-          "q": "Which ruler is known for the construction of the Pillar Edicts?",
-          "q_hi": "स्तंभ लेखों के निर्माण के लिए कौन से शासक प्रसिद्ध हैं?",
-          "opts": [
-            "Ashoka",
-            "Chandragupta Maurya",
-            "Samudragupta",
-            "Harsha"
-          ],
-          "opts_hi": [
-            "अशोक",
-            "चंद्रगुप्त मौर्य",
-            "समुद्रगुप्त",
-            "हर्षवर्धन"
-          ],
-          "ans": 0,
-          "subject": "History"
-        },
-        {
-          "q": "Who introduced the Token Currency system?",
-          "q_hi": "टोकन मुद्रा प्रणाली किसने शुरू की?",
-          "opts": [
-            "Muhammad bin Tughlaq",
-            "Alauddin Khilji",
-            "Firoz Shah Tughlaq",
-            "Balban"
-          ],
-          "opts_hi": [
-            "मुहम्मद बिन तुगलक",
-            "अलाउद्दीन खिलजी",
-            "फिरोज शाह तुगलक",
-            "बलबन"
-          ],
-          "ans": 0,
-          "subject": "History"
-        },
-        {
-          "q": "The Mountbatten Plan was announced in which year?",
-          "q_hi": "माउंटबेटन योजना किस वर्ष घोषित की गई?",
-          "opts": [
-            "1947",
-            "1946",
-            "1942",
-            "1935"
-          ],
-          "opts_hi": [
-            "1947",
-            "1946",
-            "1942",
-            "1935"
-          ],
-          "ans": 0,
-          "subject": "History"
-        },
-        {
-          "q": "Which ruler is known for the construction of the Great Stupa at Sanchi?",
-          "q_hi": "सांची के महान स्तूप के निर्माण के लिए कौन से शासक प्रसिद्ध हैं?",
-          "opts": [
-            "Ashoka",
-            "Chandragupta Maurya",
-            "Samudragupta",
-            "Harsha"
-          ],
-          "opts_hi": [
-            "अशोक",
-            "चंद्रगुप्त मौर्य",
-            "समुद्रगुप्त",
-            "हर्षवर्धन"
-          ],
-          "ans": 0,
-          "subject": "History"
-        },
-        {
-          "q": "The August Offer was made by which Viceroy?",
-          "q_hi": "अगस्त प्रस्ताव किस वायसराय द्वारा दिया गया?",
-          "opts": [
-            "Lord Linlithgow",
-            "Lord Wavell",
-            "Lord Mountbatten",
-            "Lord Irwin"
-          ],
-          "opts_hi": [
-            "लॉर्ड लिनलिथगो",
-            "लॉर्ड वेवेल",
-            "लॉर्ड माउंटबेटन",
-            "लॉर्ड इरविन"
-          ],
-          "ans": 0,
-          "subject": "History"
-        }
-      ]
-    },
-    {
-      "id": "rrb_ntpc_30",
-      "title": "RRB NTPC Mock Test 30",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "What is the full form of SEBI?",
-          "q_hi": "SEBI का पूर्ण रूप क्या है?",
-          "opts": [
-            "Securities and Exchange Board of India",
-            "Stock Exchange Board of India",
-            "None",
-            "Securities Exchange Board"
-          ],
-          "opts_hi": [
-            "सिक्योरिटीज एंड एक्सचेंज बोर्ड ऑफ इंडिया",
-            "स्टॉक एक्सचेंज बोर्ड ऑफ इंडिया",
-            "कोई नहीं",
-            "सिक्योरिटीज एक्सचेंज बोर्ड"
-          ],
-          "ans": 0,
-          "subject": "Economics"
-        },
-        {
-          "q": "What is the full form of FDI?",
-          "q_hi": "FDI का पूर्ण रूप क्या है?",
-          "opts": [
-            "Foreign Direct Investment",
-            "Foreign Development Investment",
-            "None",
-            "Foreign Domestic Investment"
-          ],
-          "opts_hi": [
-            "फॉरेन डायरेक्ट इन्वेस्टमेंट",
-            "फॉरेन डेवलपमेंट इन्वेस्टमेंट",
-            "कोई नहीं",
-            "फॉरेन डोमेस्टिक इन्वेस्टमेंट"
-          ],
-          "ans": 0,
-          "subject": "Economics"
-        },
-        {
-          "q": "What is the full form of CRR?",
-          "q_hi": "CRR का पूर्ण रूप क्या है?",
-          "opts": [
-            "Cash Reserve Ratio",
-            "Current Reserve Ratio",
-            "None",
-            "Cash Reserve Rate"
-          ],
-          "opts_hi": [
-            "कैश रिजर्व रेशियो",
-            "करंट रिजर्व रेशियो",
-            "कोई नहीं",
-            "कैश रिजर्व रेट"
-          ],
-          "ans": 0,
-          "subject": "Economics"
-        },
-        {
-          "q": "What is the full form of NPA?",
-          "q_hi": "NPA का पूर्ण रूप क्या है?",
-          "opts": [
-            "Non-Performing Asset",
-            "Non-Performing Account",
-            "None",
-            "Non-Performing Asset"
-          ],
-          "opts_hi": [
-            "नॉन-परफॉर्मिंग एसेट",
-            "नॉन-परफॉर्मिंग अकाउंट",
-            "कोई नहीं",
-            "नॉन-परफॉर्मिंग एसेट"
-          ],
-          "ans": 0,
-          "subject": "Economics"
-        },
-        {
-          "q": "What is the full form of SLR?",
-          "q_hi": "SLR का पूर्ण रूप क्या है?",
-          "opts": [
-            "Statutory Liquidity Ratio",
-            "Statutory Liquidity Reserve",
-            "None",
-            "Statutory Liquidity Rate"
-          ],
-          "opts_hi": [
-            "स्टैट्यूटरी लिक्विडिटी रेशियो",
-            "स्टैट्यूटरी लिक्विडिटी रिजर्व",
-            "कोई नहीं",
-            "स्टैट्यूटरी लिक्विडिटी रेट"
-          ],
-          "ans": 0,
-          "subject": "Economics"
-        }
-      ]
-    },
-    {
-      "id": "rrb_ntpc_31",
-      "title": "RRB NTPC Mock Test 31",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Which river is known as the 'Ganga of the South'?",
-          "q_hi": "दक्षिण की गंगा' के नाम से किस नदी को जाना जाता है?",
-          "opts": [
-            "Godavari",
-            "Kaveri",
-            "Krishna",
-            "Tungabhadra"
-          ],
-          "opts_hi": [
-            "गोदावरी",
-            "कावेरी",
-            "कृष्णा",
-            "तुंगभद्रा"
-          ],
-          "ans": 0,
-          "subject": "Geography"
-        }
-      ]
-    },
-    {
-      "id": "rrb_ntpc_32",
-      "title": "RRB NTPC Mock Test 32",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Which ocean current is responsible for warming the western coast of Europe?",
-          "q_hi": "यूरोप के पश्चिमी तट को गर्म करने के लिए कौन सी महासागरीय धारा जिम्मेदार है?",
-          "opts": [
-            "Labrador Current",
-            "Canary Current",
-            "North Atlantic Drift",
-            "California Current"
-          ],
-          "opts_hi": [
-            "लैब्राडोर धारा",
-            "केनरी धारा",
-            "उत्तरी अटलांटिक बहाव",
-            "कैलिफ़ोर्निया धारा"
-          ],
-          "ans": 2,
-          "subject": "Geography"
-        }
-      ]
-    },
-    {
-      "id": "rrb_ntpc_33",
-      "title": "RRB NTPC Mock Test 33",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Which missile system did India agree to export to Indonesia during the July 2026 bilateral meeting?",
-          "q_hi": "जुलाई 2026 की द्विपक्षीय बैठक के दौरान भारत ने इंडोनेशिया को कौन सी मिसाइल प्रणाली निर्यात करने पर सहमति व्यक्त की?",
-          "opts": [
-            "Prithvi",
-            "BrahMos and Astra",
-            "Agni",
-            "Akash"
-          ],
-          "opts_hi": [
-            "पृथ्वी",
-            "ब्रह्मोस और अस्त्र",
-            "अग्नि",
-            "आकाश"
-          ],
-          "ans": 1,
-          "subject": "Current Affairs"
-        },
-        {
-          "q": "Who is the current Chief of Naval Staff of India as of July 2026?",
-          "q_hi": "जुलाई 2026 तक भारत के वर्तमान नौसेना प्रमुख कौन हैं?",
-          "opts": [
-            "Admiral Dinesh Tripathi",
-            "Admiral R. Hari Kumar",
-            "Admiral Karambir Singh",
-            "Admiral Sunil Lanba"
-          ],
-          "opts_hi": [
-            "एडमिरल दिनेश त्रिपाठी",
-            "एडमिरल आर. हरि कुमार",
-            "एडमिरल करमबीर सिंह",
-            "एडमिरल सुनील लांबा"
-          ],
-          "ans": 1,
-          "subject": "Current Affairs"
-        },
-        {
-          "q": "Which bank paid the highest dividend to the Government of India for FY26 among the four PSBs?",
-          "q_hi": "चार PSB में से किस बैंक ने FY26 के लिए भारत सरकार को सबसे अधिक लाभांश का भुगतान किया?",
-          "opts": [
-            "Bank of Baroda",
-            "Punjab National Bank",
-            "Canara Bank",
-            "Indian Bank"
-          ],
-          "opts_hi": [
-            "बैंक ऑफ बड़ौदा",
-            "पंजाब नेशनल बैंक",
-            "केनरा बैंक",
-            "इंडियन बैंक"
-          ],
-          "ans": 1,
-          "subject": "Current Affairs"
-        }
-      ]
-    },
-    {
-      "id": "rrb_ntpc_34",
-      "title": "RRB NTPC Mock Test 34",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "What percentage of India's cotton is rain-fed according to the Ministry of Textiles?",
-          "q_hi": "वस्त्र मंत्रालय के अनुसार, भारत का कितना प्रतिशत कपास वर्षा आधारित है?",
-          "opts": [
-            "0.38",
-            "0.5",
-            "0.62",
-            "0.75"
-          ],
-          "opts_hi": [
-            "0.38",
-            "0.5",
-            "0.62",
-            "0.75"
-          ],
-          "ans": 2,
-          "subject": "Current Affairs"
+          "subject": "General Awareness"
         }
       ]
     }
