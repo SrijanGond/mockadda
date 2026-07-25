@@ -481,61 +481,40 @@
           }
         ]
       },
-  "police": {
-    "name": "Police Exams",
-    "icon": "🚓",
-    "color": "#dc2626",
-    "exams": {
-      "up_police_constable": {
+        "up_police_constable": {
         "name": "UP Police Constable",
         "fullname": "Uttar Pradesh Police Recruitment and Promotion Board — Constable Civil Police",
         "tests": [
           {
             "id": "up_police_constable_1",
-            "title": "UP Police Constable Mock Test 1",
-            "duration": 60,
-            "difficulty": "Hard",
-            "questionCount": 100
+            "title": "UP Police Constable Full Mock Test 1 (CBT Pattern)",
+            "duration": 120,
+            "difficulty": "Medium",
+            "questionCount": 25
           },
           {
             "id": "up_police_constable_2",
-            "title": "UP Police Constable Mock Test 2",
-            "duration": 10,
+            "title": "UP Police Constable Full Mock Test 2 (CBT Pattern)",
+            "duration": 120,
             "difficulty": "Medium",
-            "questionCount": 7
+            "questionCount": 25
           },
           {
             "id": "up_police_constable_3",
-            "title": "UP Police Constable Mock Test 3",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
+            "title": "UP Police Constable Full Mock Test 3 (CBT Pattern)",
+            "duration": 120,
+            "difficulty": "Hard",
+            "questionCount": 25
           },
           {
             "id": "up_police_constable_4",
-            "title": "UP Police Constable Mock Test 4",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "up_police_constable_5",
-            "title": "UP Police Constable Mock Test 5",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "up_police_constable_6",
-            "title": "UP Police Constable Mock Test 6",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
+            "title": "UP Police Constable Full Mock Test 4 (CBT Pattern)",
+            "duration": 120,
+            "difficulty": "Hard",
+            "questionCount": 25
           }
         ]
-      }
-    }
-  },
+      },
   "upsssc": {
     "name": "UPSSSC Exams",
     "icon": "📋",
