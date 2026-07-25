@@ -154,7 +154,7 @@
     "icon": "🏦",
     "color": "#8b5cf6",
     "exams": {
-            "sbi_po": {
+      "sbi_po": {
         "name": "SBI PO",
         "fullname": "State Bank of India Probationary Officer",
         "tests": [
@@ -188,7 +188,7 @@
           }
         ]
       },
-            "ibps_po": {
+      "ibps_po": {
         "name": "IBPS PO",
         "fullname": "Institute of Banking Personnel Selection Probationary Officer",
         "tests": [
@@ -222,7 +222,7 @@
           }
         ]
       },
-               "sbi_clerk": {
+      "sbi_clerk": {
         "name": "SBI Clerk",
         "fullname": "State Bank of India Junior Associates",
         "tests": [
@@ -255,7 +255,9 @@
             "questionCount": 25
           }
         ]
-      },
+      }
+    }
+  },
   "railways": {
     "name": "Railways Exams",
     "icon": "🚂",
