@@ -297,134 +297,40 @@
           }
         ]
       },
-      "rrb_group_d": {
+            "rrb_group_d": {
         "name": "RRB Group D",
         "fullname": "Railway Recruitment Board Group D",
         "tests": [
           {
             "id": "rrb_group_d_1",
-            "title": "RRB Group D Mock Test 1",
-            "duration": 10,
-            "difficulty": "Easy",
-            "questionCount": 10
+            "title": "RRB Group D Full Mock Test 1 (CBT Pattern)",
+            "duration": 90,
+            "difficulty": "Medium",
+            "questionCount": 25
           },
           {
             "id": "rrb_group_d_2",
-            "title": "RRB Group D Mock Test 2",
-            "duration": 10,
+            "title": "RRB Group D Full Mock Test 2 (CBT Pattern)",
+            "duration": 90,
             "difficulty": "Medium",
-            "questionCount": 1
+            "questionCount": 25
           },
           {
             "id": "rrb_group_d_3",
-            "title": "RRB Group D Mock Test 3",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
+            "title": "RRB Group D Full Mock Test 3 (CBT Pattern)",
+            "duration": 90,
+            "difficulty": "Hard",
+            "questionCount": 25
           },
           {
             "id": "rrb_group_d_4",
-            "title": "RRB Group D Mock Test 4",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "rrb_group_d_5",
-            "title": "RRB Group D Mock Test 5",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
-          },
-          {
-            "id": "rrb_group_d_6",
-            "title": "RRB Group D Mock Test 6",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
-          },
-          {
-            "id": "rrb_group_d_7",
-            "title": "RRB Group D Mock Test 7",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 3
-          },
-          {
-            "id": "rrb_group_d_8",
-            "title": "RRB Group D Mock Test 8",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 3
-          },
-          {
-            "id": "rrb_group_d_9",
-            "title": "RRB Group D Mock Test 9",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "rrb_group_d_10",
-            "title": "RRB Group D Mock Test 10",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 4
-          },
-          {
-            "id": "rrb_group_d_11",
-            "title": "RRB Group D Mock Test 11",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
-          },
-          {
-            "id": "rrb_group_d_12",
-            "title": "RRB Group D Mock Test 12",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
-          },
-          {
-            "id": "rrb_group_d_13",
-            "title": "RRB Group D Mock Test 13",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "rrb_group_d_14",
-            "title": "RRB Group D Mock Test 14",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
-          },
-          {
-            "id": "rrb_group_d_15",
-            "title": "RRB Group D Mock Test 15",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "rrb_group_d_16",
-            "title": "RRB Group D Mock Test 16",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "rrb_group_d_17",
-            "title": "RRB Group D Mock Test 17",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
+            "title": "RRB Group D Full Mock Test 4 (CBT Pattern)",
+            "duration": 90,
+            "difficulty": "Hard",
+            "questionCount": 25
           }
         ]
-      }
-    }
-  },
-  "teaching": {
+      },  "teaching": {
     "name": "Teaching Exams",
     "icon": "📚",
     "color": "#34d399",
