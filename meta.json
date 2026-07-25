@@ -154,156 +154,37 @@
     "icon": "🏦",
     "color": "#8b5cf6",
     "exams": {
-      "sbi_po": {
+            "sbi_po": {
         "name": "SBI PO",
         "fullname": "State Bank of India Probationary Officer",
         "tests": [
           {
             "id": "sbi_po_1",
-            "title": "SBI PO Mock Test 1",
-            "duration": 20,
+            "title": "SBI PO Full Mock Test 1 (Prelims Pattern)",
+            "duration": 60,
             "difficulty": "Hard",
-            "questionCount": 10
+            "questionCount": 25
           },
           {
             "id": "sbi_po_2",
-            "title": "SBI PO Mock Test 2",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
+            "title": "SBI PO Full Mock Test 2 (Prelims Pattern)",
+            "duration": 60,
+            "difficulty": "Hard",
+            "questionCount": 25
           },
           {
             "id": "sbi_po_3",
-            "title": "SBI PO Mock Test 3",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
+            "title": "SBI PO Full Mock Test 3 (Prelims Pattern)",
+            "duration": 60,
+            "difficulty": "Hard",
+            "questionCount": 25
           },
           {
             "id": "sbi_po_4",
-            "title": "SBI PO Mock Test 4",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "sbi_po_5",
-            "title": "SBI PO Mock Test 5",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
-          },
-          {
-            "id": "sbi_po_6",
-            "title": "SBI PO Mock Test 6",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "sbi_po_7",
-            "title": "SBI PO Mock Test 7",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 5
-          },
-          {
-            "id": "sbi_po_8",
-            "title": "SBI PO Mock Test 8",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
-          },
-          {
-            "id": "sbi_po_9",
-            "title": "SBI PO Mock Test 9",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "sbi_po_10",
-            "title": "SBI PO Mock Test 10",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
-          },
-          {
-            "id": "sbi_po_11",
-            "title": "SBI PO Mock Test 11",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
-          },
-          {
-            "id": "sbi_po_12",
-            "title": "SBI PO Mock Test 12",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
-          },
-          {
-            "id": "sbi_po_13",
-            "title": "SBI PO Mock Test 13",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
-          },
-          {
-            "id": "sbi_po_14",
-            "title": "SBI PO Mock Test 14",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 3
-          },
-          {
-            "id": "sbi_po_15",
-            "title": "SBI PO Mock Test 15",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 3
-          },
-          {
-            "id": "sbi_po_16",
-            "title": "SBI PO Mock Test 16",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 3
-          },
-          {
-            "id": "sbi_po_17",
-            "title": "SBI PO Mock Test 17",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "sbi_po_18",
-            "title": "SBI PO Mock Test 18",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 3
-          },
-          {
-            "id": "sbi_po_19",
-            "title": "SBI PO Mock Test 19",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 3
-          },
-          {
-            "id": "sbi_po_20",
-            "title": "SBI PO Mock Test 20",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 3
-          },
-          {
-            "id": "sbi_po_21",
-            "title": "SBI PO Mock Test 21",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 4
+            "title": "SBI PO Full Mock Test 4 (Prelims Pattern)",
+            "duration": 60,
+            "difficulty": "Hard",
+            "questionCount": 25
           }
         ]
       },
