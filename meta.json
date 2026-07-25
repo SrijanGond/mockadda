@@ -263,7 +263,7 @@
     "icon": "🚂",
     "color": "#f59e0b",
     "exams": {
-            "rrb_ntpc": {
+      "rrb_ntpc": {
         "name": "RRB NTPC",
         "fullname": "Railway Recruitment Board Non-Technical Popular Categories",
         "tests": [
@@ -297,7 +297,7 @@
           }
         ]
       },
-                  "rrb_group_d": {
+      "rrb_group_d": {
         "name": "RRB Group D",
         "fullname": "Railway Recruitment Board Group D",
         "tests": [
@@ -330,8 +330,10 @@
             "questionCount": 25
           }
         ]
-      },
-      "teaching": {
+      }
+    }
+  },
+  "teaching": {
     "name": "Teaching Exams",
     "icon": "📚",
     "color": "#34d399",
