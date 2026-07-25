@@ -2,1595 +2,833 @@
   "tests": [
     {
       "id": "ctet_1",
-      "title": "CTET Paper 1 Mock Test",
-      "duration": 15,
+      "title": "CTET Full Mock Test 1 (Paper 1 Pattern)",
+      "duration": 150,
       "difficulty": "Medium",
+      "correctMarks": 1,
+      "negativeMarks": 0,
       "questions": [
         {
-          "q": "CTET is conducted by?",
-          "q_hi": "CTET किसके द्वारा आयोजित किया जाता है?",
-          "opts": [
-            "NCERT",
-            "CBSE",
-            "UGC",
-            "MHRD"
-          ],
-          "opts_hi": [
-            "NCERT",
-            "CBSE",
-            "UGC",
-            "MHRD"
-          ],
-          "ans": 1
+          "q": "According to Piaget's theory of cognitive development, at which stage does a child begin to think logically about concrete events?",
+          "q_hi": "पियाजे के संज्ञानात्मक विकास के सिद्धांत के अनुसार, किस अवस्था में बच्चा ठोस घटनाओं के बारे में तार्किक रूप से सोचना शुरू करता है?",
+          "opts": ["Sensorimotor Stage", "Preoperational Stage", "Concrete Operational Stage", "Formal Operational Stage"],
+          "opts_hi": ["संवेदी-गामक अवस्था", "पूर्व-संक्रियात्मक अवस्था", "मूर्त संक्रियात्मक अवस्था", "औपचारिक संक्रियात्मक अवस्था"],
+          "ans": 2,
+          "subject": "Child Development & Pedagogy"
         },
         {
-          "q": "According to RTE Act 2009, free education is provided to children of age?",
-          "q_hi": "RTE अधिनियम 2009 के अनुसार, किस आयु के बच्चों को निशुल्क शिक्षा दी जाती है?",
-          "opts": [
-            "5-12",
-            "6-14",
-            "5-14",
-            "6-18"
-          ],
-          "opts_hi": [
-            "5-12",
-            "6-14",
-            "5-14",
-            "6-18"
-          ],
-          "ans": 1
+          "q": "Who is the founder of 'Operant Conditioning' theory of learning?",
+          "q_hi": "अधिगम के 'क्रिया-प्रसूत अनुबंधन' सिद्धांत के संस्थापक कौन हैं?",
+          "opts": ["Ivan Pavlov", "B.F. Skinner", "Jean Piaget", "Lev Vygotsky"],
+          "opts_hi": ["इवान पावलोव", "बी.एफ. स्किनर", "जीन पियाजे", "लेव वायगोत्स्की"],
+          "ans": 1,
+          "subject": "Child Development & Pedagogy"
         },
         {
-          "q": "Who propounded the theory of Cognitive Development?",
-          "q_hi": "संज्ञानात्मक विकास का सिद्धांत किसने प्रतिपादित किया?",
-          "opts": [
-            "Vygotsky",
-            "Piaget",
-            "Freud",
-            "Skinner"
-          ],
-          "opts_hi": [
-            "वायगोत्स्की",
-            "पियाजे",
-            "फ्रायड",
-            "स्किनर"
-          ],
-          "ans": 1
+          "q": "According to Vygotsky, what is the term for the difference between what a child can do independently and what they can achieve with guidance?",
+          "q_hi": "वायगोत्स्की के अनुसार, एक बच्चा स्वतंत्र रूप से क्या कर सकता है और मार्गदर्शन के साथ क्या प्राप्त कर सकता है, के बीच के अंतर के लिए क्या शब्द है?",
+          "opts": ["Zone of Proximal Development (ZPD)", "Scaffolding", "Piaget's Stage", "Sensorimotor Stage"],
+          "opts_hi": ["समीपस्थ विकास का क्षेत्र (ZPD)", "स्कैफोल्डिंग", "पियाजे की अवस्था", "संवेदी-गामक अवस्था"],
+          "ans": 0,
+          "subject": "Child Development & Pedagogy"
         },
         {
-          "q": "Which article of Indian Constitution provides free and compulsory education?",
-          "q_hi": "भारतीय संविधान का कौन सा अनुच्छेद निशुल्क और अनिवार्य शिक्षा प्रदान करता है?",
-          "opts": [
-            "Article 21",
-            "Article 21A",
-            "Article 45",
-            "Article 46"
-          ],
-          "opts_hi": [
-            "अनुच्छेद 21",
-            "अनुच्छेद 21A",
-            "अनुच्छेद 45",
-            "अनुच्छेद 46"
-          ],
-          "ans": 1
+          "q": "What is the primary purpose of the Continuous and Comprehensive Evaluation (CCE) system in schools?",
+          "q_hi": "स्कूलों में सतत और व्यापक मूल्यांकन (CCE) प्रणाली का प्राथमिक उद्देश्य क्या है?",
+          "opts": ["To rank students academically", "To assess students in both scholastic and co-scholastic areas", "To prepare students for competitive exams", "To reduce the workload of teachers"],
+          "opts_hi": ["छात्रों को शैक्षणिक रूप से रैंक करना", "विद्यालयी और सह-विद्यालयी दोनों क्षेत्रों में छात्रों का आकलन करना", "छात्रों को प्रतियोगी परीक्षाओं के लिए तैयार करना", "शिक्षकों के कार्यभार को कम करना"],
+          "ans": 1,
+          "subject": "Child Development & Pedagogy"
         },
         {
-          "q": "The concept of 'Zone of Proximal Development' was given by?",
-          "q_hi": "'समीपस्थ विकास का क्षेत्र' (ZPD) की अवधारणा किसने दी?",
-          "opts": [
-            "Piaget",
-            "Bruner",
-            "Vygotsky",
-            "Bloom"
-          ],
-          "opts_hi": [
-            "पियाजे",
-            "ब्रूनर",
-            "वायगोत्स्की",
-            "ब्लूम"
-          ],
-          "ans": 2
+          "q": "Which of the following is the best method for teaching a large class of students with diverse learning needs?",
+          "q_hi": "विविध शिक्षण आवश्यकताओं वाले बड़े वर्ग को पढ़ाने का सबसे अच्छा तरीका निम्नलिखित में से कौन सा है?",
+          "opts": ["Lecture Method", "Group Discussion", "Differentiated Instruction", "Role Play"],
+          "opts_hi": ["व्याख्यान विधि", "समूह चर्चा", "विभेदित अनुदेश", "भूमिका निर्वहन"],
+          "ans": 2,
+          "subject": "Child Development & Pedagogy"
         },
         {
-          "q": "CCE stands for?",
-          "q_hi": "CCE का पूर्ण रूप क्या है?",
-          "opts": [
-            "Continuous Comprehensive Evaluation",
-            "Central Comprehensive Examination",
-            "Continuous Comprehensive Examination",
-            "Central Comprehensive Evaluation"
-          ],
-          "opts_hi": [
-            "सतत एवं व्यापक मूल्यांकन",
-            "केंद्रीय व्यापक परीक्षा",
-            "सतत व्यापक परीक्षा",
-            "केंद्रीय व्यापक मूल्यांकन"
-          ],
-          "ans": 0
+          "q": "Which of the following is the most important factor for a child's cognitive development according to Jean Piaget?",
+          "q_hi": "जीन पियाजे के अनुसार, बच्चे के संज्ञानात्मक विकास के लिए निम्नलिखित में से कौन सा सबसे महत्वपूर्ण कारक है?",
+          "opts": ["Genetic factors", "Social interaction", "Maturation", "Education"],
+          "opts_hi": ["आनुवंशिक कारक", "सामाजिक संपर्क", "परिपक्वता", "शिक्षा"],
+          "ans": 2,
+          "subject": "Child Development & Pedagogy"
         },
         {
-          "q": "Which learning theory is associated with Pavlov?",
-          "q_hi": "कौन सा शिक्षण सिद्धांत पावलोव से संबंधित है?",
-          "opts": [
-            "Operant Conditioning",
-            "Classical Conditioning",
-            "Cognitive Learning",
-            "Social Learning"
-          ],
-          "opts_hi": [
-            "क्रियाप्रसूत अनुबंधन",
-            "शास्त्रीय अनुबंधन",
-            "संज्ञानात्मक अधिगम",
-            "सामाजिक अधिगम"
-          ],
-          "ans": 1
+          "q": "Which vitamin is also known as ascorbic acid?",
+          "q_hi": "किस विटामिन को एस्कॉर्बिक एसिड भी कहा जाता है?",
+          "opts": ["Vitamin A", "Vitamin B12", "Vitamin C", "Vitamin D"],
+          "opts_hi": ["विटामिन A", "विटामिन B12", "विटामिन C", "विटामिन D"],
+          "ans": 2,
+          "subject": "General Science"
         },
         {
-          "q": "What is 15% of 600?",
-          "q_hi": "600 का 15% क्या है?",
-          "opts": [
-            "75",
-            "80",
-            "90",
-            "100"
-          ],
-          "opts_hi": [
-            "75",
-            "80",
-            "90",
-            "100"
-          ],
-          "ans": 2
+          "q": "Which of the following is the chemical formula of water?",
+          "q_hi": "पानी का रासायनिक सूत्र निम्नलिखित में से कौन सा है?",
+          "opts": ["H2O", "CO2", "NaCl", "HCl"],
+          "opts_hi": ["H2O", "CO2", "NaCl", "HCl"],
+          "ans": 0,
+          "subject": "General Science"
         },
         {
-          "q": "NCF stands for?",
-          "q_hi": "NCF का पूर्ण रूप क्या है?",
-          "opts": [
-            "National Curriculum Framework",
-            "National Curriculum Format",
-            "National Core Framework",
-            "None"
-          ],
-          "opts_hi": [
-            "राष्ट्रीय पाठ्यचर्या की रूपरेखा",
-            "नेशनल करिकुलम फॉर्मेट",
-            "नेशनल कोर फ्रेमवर्क",
-            "कोई नहीं"
-          ],
-          "ans": 0
+          "q": "What is the largest organ in the human body?",
+          "q_hi": "मानव शरीर का सबसे बड़ा अंग कौन सा है?",
+          "opts": ["Brain", "Liver", "Skin", "Heart"],
+          "opts_hi": ["मस्तिष्क", "यकृत", "त्वचा", "हृदय"],
+          "ans": 2,
+          "subject": "General Science"
         },
         {
-          "q": "Bloom's Taxonomy highest level of cognitive domain?",
-          "q_hi": "ब्लूम के वर्गीकरण में संज्ञानात्मक क्षेत्र का उच्चतम स्तर कौन सा है?",
-          "opts": [
-            "Analysis",
-            "Synthesis",
-            "Evaluation",
-            "Application"
-          ],
-          "opts_hi": [
-            "विश्लेषण",
-            "संश्लेषण",
-            "मूल्यांकन",
-            "अनुप्रयोग"
-          ],
-          "ans": 2
+          "q": "Which gas is used in fire extinguishers?",
+          "q_hi": "अग्निशामक यंत्रों में किस गैस का उपयोग किया जाता है?",
+          "opts": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+          "opts_hi": ["ऑक्सीजन", "कार्बन डाइऑक्साइड", "नाइट्रोजन", "हाइड्रोजन"],
+          "ans": 1,
+          "subject": "General Science"
+        },
+        {
+          "q": "What is the chemical name of Baking Soda?",
+          "q_hi": "बेकिंग सोडा का रासायनिक नाम क्या है?",
+          "opts": ["Sodium Chloride", "Sodium Bicarbonate", "Sodium Carbonate", "Calcium Carbonate"],
+          "opts_hi": ["सोडियम क्लोराइड", "सोडियम बाइकार्बोनेट", "सोडियम कार्बोनेट", "कैल्शियम कार्बोनेट"],
+          "ans": 1,
+          "subject": "General Science"
+        },
+        {
+          "q": "Which of the following is a renewable source of energy?",
+          "q_hi": "निम्नलिखित में से कौन सा ऊर्जा का नवीकरणीय स्रोत है?",
+          "opts": ["Coal", "Petroleum", "Natural Gas", "Solar Energy"],
+          "opts_hi": ["कोयला", "पेट्रोलियम", "प्राकृतिक गैस", "सौर ऊर्जा"],
+          "ans": 3,
+          "subject": "General Science"
+        },
+        {
+          "q": "Which planet is known as the 'Red Planet'?",
+          "q_hi": "किस ग्रह को 'लाल ग्रह' के नाम से जाना जाता है?",
+          "opts": ["Venus", "Mars", "Jupiter", "Saturn"],
+          "opts_hi": ["शुक्र", "मंगल", "बृहस्पति", "शनि"],
+          "ans": 1,
+          "subject": "General Science"
+        },
+        {
+          "q": "What is the SI unit of force?",
+          "q_hi": "बल की SI इकाई क्या है?",
+          "opts": ["Joule", "Newton", "Watt", "Pascal"],
+          "opts_hi": ["जूल", "न्यूटन", "वाट", "पास्कल"],
+          "ans": 1,
+          "subject": "General Science"
+        },
+        {
+          "q": "What is the square root of 144?",
+          "q_hi": "144 का वर्गमूल क्या है?",
+          "opts": ["10", "11", "12", "13"],
+          "opts_hi": ["10", "11", "12", "13"],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is 25% of 200?",
+          "q_hi": "200 का 25% कितना है?",
+          "opts": ["25", "50", "75", "100"],
+          "opts_hi": ["25", "50", "75", "100"],
+          "ans": 1,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "If the angles of a triangle are in the ratio 2:3:4, what is the smallest angle?",
+          "q_hi": "यदि एक त्रिभुज के कोण 2:3:4 के अनुपात में हैं, तो सबसे छोटा कोण क्या है?",
+          "opts": ["40°", "60°", "80°", "20°"],
+          "opts_hi": ["40°", "60°", "80°", "20°"],
+          "ans": 0,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the area of a circle with radius 7 cm? (Take π = 22/7)",
+          "q_hi": "7 सेमी त्रिज्या वाले वृत्त का क्षेत्रफल क्या है? (π = 22/7 लें)",
+          "opts": ["144 cm²", "154 cm²", "164 cm²", "174 cm²"],
+          "opts_hi": ["144 सेमी²", "154 सेमी²", "164 सेमी²", "174 सेमी²"],
+          "ans": 1,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "The perimeter of a rectangle is 40 cm. If its length is 12 cm, find its breadth.",
+          "q_hi": "एक आयत का परिमाप 40 सेमी है। यदि इसकी लंबाई 12 सेमी है, तो इसकी चौड़ाई ज्ञात करें।",
+          "opts": ["6 cm", "8 cm", "10 cm", "12 cm"],
+          "opts_hi": ["6 सेमी", "8 सेमी", "10 सेमी", "12 सेमी"],
+          "ans": 1,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "Synonym of 'Happy'?",
+          "q_hi": "'Happy' का पर्यायवाची शब्द?",
+          "opts": ["Sad", "Joyful", "Angry", "Tired"],
+          "opts_hi": ["उदास", "प्रसन्न", "क्रोधित", "थका"],
+          "ans": 1,
+          "subject": "Language I"
+        },
+        {
+          "q": "Antonym of 'Dark'?",
+          "q_hi": "'Dark' का विलोम शब्द?",
+          "opts": ["Light", "Black", "Night", "Dim"],
+          "opts_hi": ["प्रकाश", "काला", "रात", "मंद"],
+          "ans": 0,
+          "subject": "Language I"
+        },
+        {
+          "q": "Fill in the blank: She is _______ than her sister.",
+          "q_hi": "रिक्त स्थान भरें: She is _______ than her sister.",
+          "opts": ["tall", "taller", "tallest", "more tall"],
+          "opts_hi": ["tall", "taller", "tallest", "more tall"],
+          "ans": 1,
+          "subject": "Language I"
+        },
+        {
+          "q": "What is the meaning of 'Diligent'?",
+          "q_hi": "'Diligent' का अर्थ क्या है?",
+          "opts": ["Lazy", "Hardworking", "Slow", "Careless"],
+          "opts_hi": ["आलसी", "मेहनती", "धीमा", "लापरवाह"],
+          "ans": 1,
+          "subject": "Language I"
+        },
+        {
+          "q": "Choose the correctly spelled word.",
+          "q_hi": "सही वर्तनी वाला शब्द चुनें।",
+          "opts": ["Seperate", "Separate", "Seperete", "Seprate"],
+          "opts_hi": ["Seperate", "Separate", "Seperete", "Seprate"],
+          "ans": 1,
+          "subject": "Language I"
+        },
+        {
+          "q": "Which of the following is a conjunction?",
+          "q_hi": "निम्नलिखित में से कौन सा संयोजक (Conjunction) है?",
+          "opts": ["and", "run", "book", "fast"],
+          "opts_hi": ["and", "run", "book", "fast"],
+          "ans": 0,
+          "subject": "Language I"
         }
       ]
     },
     {
       "id": "ctet_2",
-      "title": "CTET Mock Test 2",
-      "duration": 10,
+      "title": "CTET Full Mock Test 2 (Paper 1 Pattern)",
+      "duration": 150,
       "difficulty": "Medium",
+      "correctMarks": 1,
+      "negativeMarks": 0,
       "questions": [
         {
-          "q": "According to Piaget's theory of cognitive development, at which stage does a child begin to think logically about concrete events?",
-          "q_hi": "पियाजे के संज्ञानात्मक विकास के सिद्धांत के अनुसार, किस अवस्था में बच्चा ठोस घटनाओं के बारे में तार्किक रूप से सोचना शुरू करता है?",
-          "opts": [
-            "Sensorimotor Stage",
-            "Preoperational Stage",
-            "Concrete Operational Stage",
-            "Formal Operational Stage"
-          ],
-          "opts_hi": [
-            "संवेदी-गामक अवस्था",
-            "पूर्व-संक्रियात्मक अवस्था",
-            "मूर्त संक्रियात्मक अवस्था",
-            "औपचारिक संक्रियात्मक अवस्था"
-          ],
+          "q": "Which of the following is the largest gland in the human body?",
+          "q_hi": "मानव शरीर की सबसे बड़ी ग्रंथि निम्नलिखित में से कौन सी है?",
+          "opts": ["Pancreas", "Liver", "Thyroid", "Adrenal"],
+          "opts_hi": ["अग्न्याशय", "यकृत", "थायरॉइड", "अधिवृक्क"],
+          "ans": 1,
+          "subject": "General Science"
+        },
+        {
+          "q": "Which of the following is NOT a greenhouse gas?",
+          "q_hi": "निम्नलिखित में से कौन सी ग्रीनहाउस गैस नहीं है?",
+          "opts": ["Carbon Dioxide", "Methane", "Nitrous Oxide", "Oxygen"],
+          "opts_hi": ["कार्बन डाइऑक्साइड", "मीथेन", "नाइट्रस ऑक्साइड", "ऑक्सीजन"],
+          "ans": 3,
+          "subject": "General Science"
+        },
+        {
+          "q": "What is the speed of light in vacuum?",
+          "q_hi": "निर्वात में प्रकाश की गति कितनी है?",
+          "opts": ["3 × 10^5 km/s", "3 × 10^8 m/s", "3 × 10^6 km/s", "3 × 10^9 m/s"],
+          "opts_hi": ["3 × 10^5 किमी/से", "3 × 10^8 मी/से", "3 × 10^6 किमी/से", "3 × 10^9 मी/से"],
+          "ans": 1,
+          "subject": "General Science"
+        },
+        {
+          "q": "Which of the following is used as an antacid to neutralize excess stomach acid?",
+          "q_hi": "निम्नलिखित में से किसका उपयोग अतिरिक्त पेट के एसिड को बेअसर करने के लिए एंटासिड के रूप में किया जाता है?",
+          "opts": ["Sodium Hydroxide", "Magnesium Hydroxide", "Hydrochloric Acid", "Sulphuric Acid"],
+          "opts_hi": ["सोडियम हाइड्रॉक्साइड", "मैग्नीशियम हाइड्रॉक्साइड", "हाइड्रोक्लोरिक एसिड", "सल्फ्यूरिक एसिड"],
+          "ans": 1,
+          "subject": "General Science"
+        },
+        {
+          "q": "Which plant hormone is responsible for the ripening of fruits?",
+          "q_hi": "फलों के पकने के लिए कौन सा पौधा हार्मोन जिम्मेदार है?",
+          "opts": ["Auxin", "Gibberellin", "Cytokinin", "Ethylene"],
+          "opts_hi": ["ऑक्सिन", "जिबरेलिन", "साइटोकिनिन", "एथिलीन"],
+          "ans": 3,
+          "subject": "General Science"
+        },
+        {
+          "q": "Which of the following is a non-metallic mineral?",
+          "q_hi": "निम्नलिखित में से कौन सा अधात्विक खनिज है?",
+          "opts": ["Iron Ore", "Bauxite", "Mica", "Copper"],
+          "opts_hi": ["लौह अयस्क", "बॉक्साइट", "अभ्रक", "तांबा"],
           "ans": 2,
-          "subject": "Teaching"
+          "subject": "General Science"
+        },
+        {
+          "q": "What is the SI unit of temperature?",
+          "q_hi": "तापमान की SI इकाई क्या है?",
+          "opts": ["Celsius", "Fahrenheit", "Kelvin", "Rankine"],
+          "opts_hi": ["सेल्सियस", "फारेनहाइट", "केल्विन", "रैंकिन"],
+          "ans": 2,
+          "subject": "General Science"
+        },
+        {
+          "q": "Which acid is present in vinegar?",
+          "q_hi": "सिरके में कौन सा अम्ल उपस्थित होता है?",
+          "opts": ["Citric acid", "Lactic acid", "Acetic acid", "Oxalic acid"],
+          "opts_hi": ["साइट्रिक अम्ल", "लैक्टिक अम्ल", "एसिटिक अम्ल", "ऑक्सालिक अम्ल"],
+          "ans": 2,
+          "subject": "General Science"
+        },
+        {
+          "q": "LCM of 15 and 20 is?",
+          "q_hi": "15 और 20 का लघुत्तम समापवर्त्य (LCM) है?",
+          "opts": ["40", "50", "60", "80"],
+          "opts_hi": ["40", "50", "60", "80"],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "If 30% of a number is 90, what is the number?",
+          "q_hi": "यदि किसी संख्या का 30% = 90 है, तो संख्या क्या है?",
+          "opts": ["270", "280", "300", "320"],
+          "opts_hi": ["270", "280", "300", "320"],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "A shopkeeper sells a product for ₹840 at 20% profit. Cost price is?",
+          "q_hi": "एक दुकानदार ₹840 में 20% लाभ पर बेचता है। क्रय मूल्य क्या है?",
+          "opts": ["₹680", "₹700", "₹720", "₹750"],
+          "opts_hi": ["₹680", "₹700", "₹720", "₹750"],
+          "ans": 1,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the HCF of 144, 180 and 192?",
+          "q_hi": "144, 180 और 192 का म.स.प. (HCF) क्या है?",
+          "opts": ["12", "24", "36", "48"],
+          "opts_hi": ["12", "24", "36", "48"],
+          "ans": 0,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the LCM of 24, 36 and 40?",
+          "q_hi": "24, 36 और 40 का ल.स.प. (LCM) क्या है?",
+          "opts": ["360", "720", "180", "120"],
+          "opts_hi": ["360", "720", "180", "120"],
+          "ans": 0,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the correct meaning of 'Abundant'?",
+          "q_hi": "'Abundant' का सही अर्थ क्या है?",
+          "opts": ["Scarce", "Plentiful", "Limited", "Rare"],
+          "opts_hi": ["दुर्लभ", "प्रचुर", "सीमित", "विरल"],
+          "ans": 1,
+          "subject": "Language I"
+        },
+        {
+          "q": "Select the correct word: She is _______ beautiful girl.",
+          "q_hi": "सही शब्द चुनें: She is _______ beautiful girl.",
+          "opts": ["a", "an", "the", "no article"],
+          "opts_hi": ["a", "an", "the", "no article"],
+          "ans": 0,
+          "subject": "Language I"
+        },
+        {
+          "q": "What is the plural of 'Child'?",
+          "q_hi": "'Child' का बहुवचन क्या है?",
+          "opts": ["Childs", "Children", "Childes", "Childen"],
+          "opts_hi": ["Childs", "Children", "Childes", "Childen"],
+          "ans": 1,
+          "subject": "Language I"
+        },
+        {
+          "q": "Select the correct meaning of 'Benevolent'.",
+          "q_hi": "'Benevolent' का सही अर्थ चुनें।",
+          "opts": ["Cruel", "Kind", "Angry", "Sad"],
+          "opts_hi": ["क्रूर", "दयालु", "क्रोधित", "उदास"],
+          "ans": 1,
+          "subject": "Language I"
+        },
+        {
+          "q": "What is the antonym of 'Beautiful'?",
+          "q_hi": "'Beautiful' का विलोम शब्द क्या है?",
+          "opts": ["Ugly", "Pretty", "Lovely", "Attractive"],
+          "opts_hi": ["बदसूरत", "सुंदर", "प्यारा", "आकर्षक"],
+          "ans": 0,
+          "subject": "Language I"
+        },
+        {
+          "q": "Which of the following is the capital of India?",
+          "q_hi": "निम्नलिखित में से भारत की राजधानी कौन सी है?",
+          "opts": ["Mumbai", "Delhi", "Kolkata", "Chennai"],
+          "opts_hi": ["मुंबई", "दिल्ली", "कोलकाता", "चेन्नई"],
+          "ans": 1,
+          "subject": "Environmental Studies"
+        },
+        {
+          "q": "Who was the first Prime Minister of India?",
+          "q_hi": "भारत के पहले प्रधानमंत्री कौन थे?",
+          "opts": ["Mahatma Gandhi", "Jawaharlal Nehru", "Sardar Patel", "B.R. Ambedkar"],
+          "opts_hi": ["महात्मा गांधी", "जवाहरलाल नेहरू", "सरदार पटेल", "बी.आर. अम्बेडकर"],
+          "ans": 1,
+          "subject": "Environmental Studies"
+        },
+        {
+          "q": "Which planet is known as the 'Morning Star'?",
+          "q_hi": "किस ग्रह को 'सुबह का तारा' कहा जाता है?",
+          "opts": ["Mars", "Jupiter", "Venus", "Mercury"],
+          "opts_hi": ["मंगल", "बृहस्पति", "शुक्र", "बुध"],
+          "ans": 2,
+          "subject": "Environmental Studies"
+        },
+        {
+          "q": "What is the largest ocean in the world?",
+          "q_hi": "विश्व का सबसे बड़ा महासागर कौन सा है?",
+          "opts": ["Atlantic", "Indian", "Pacific", "Arctic"],
+          "opts_hi": ["अटलांटिक", "हिंद", "प्रशांत", "आर्कटिक"],
+          "ans": 2,
+          "subject": "Environmental Studies"
+        },
+        {
+          "q": "Which of the following is a fundamental right in India?",
+          "q_hi": "निम्नलिखित में से कौन सा भारत में एक मौलिक अधिकार है?",
+          "opts": ["Right to Property", "Right to Education", "Right to Work", "Right to Vote"],
+          "opts_hi": ["संपत्ति का अधिकार", "शिक्षा का अधिकार", "काम का अधिकार", "मतदान का अधिकार"],
+          "ans": 1,
+          "subject": "Environmental Studies"
+        },
+        {
+          "q": "Which river is known as the 'Sorrow of Bengal'?",
+          "q_hi": "किस नदी को 'बंगाल का शोक' कहा जाता है?",
+          "opts": ["Ganga", "Damodar", "Brahmaputra", "Mahanadi"],
+          "opts_hi": ["गंगा", "दामोदर", "ब्रह्मपुत्र", "महानदी"],
+          "ans": 1,
+          "subject": "Environmental Studies"
+        },
+        {
+          "q": "Which state is known as the 'Spice Garden of India'?",
+          "q_hi": "भारत का मसाला बाग' किस राज्य को कहा जाता है?",
+          "opts": ["Kerala", "Tamil Nadu", "Karnataka", "Andhra Pradesh"],
+          "opts_hi": ["केरल", "तमिलनाडु", "कर्नाटक", "आंध्र प्रदेश"],
+          "ans": 0,
+          "subject": "Environmental Studies"
         }
       ]
     },
     {
       "id": "ctet_3",
-      "title": "CTET Mock Test 3",
-      "duration": 10,
-      "difficulty": "Medium",
+      "title": "CTET Full Mock Test 3 (Paper 2 Pattern)",
+      "duration": 150,
+      "difficulty": "Hard",
+      "correctMarks": 1,
+      "negativeMarks": 0,
       "questions": [
         {
-          "q": "Who is the founder of 'Operant Conditioning' theory of learning?",
-          "q_hi": "अधिगम के 'क्रिया-प्रसूत अनुबंधन' सिद्धांत के संस्थापक कौन हैं?",
-          "opts": [
-            "Ivan Pavlov",
-            "B.F. Skinner",
-            "Jean Piaget",
-            "Lev Vygotsky"
-          ],
-          "opts_hi": [
-            "इवान पावलोव",
-            "बी.एफ. स्किनर",
-            "जीन पियाजे",
-            "लेव वायगोत्स्की"
-          ],
+          "q": "According to Piaget, which stage involves logical thinking about abstract concepts?",
+          "q_hi": "पियाजे के अनुसार, अमूर्त अवधारणाओं के बारे में तार्किक सोच किस अवस्था में होती है?",
+          "opts": ["Preoperational", "Concrete Operational", "Formal Operational", "Sensorimotor"],
+          "opts_hi": ["पूर्व-संक्रियात्मक", "मूर्त संक्रियात्मक", "औपचारिक संक्रियात्मक", "संवेदी-गामक"],
+          "ans": 2,
+          "subject": "Child Development & Pedagogy"
+        },
+        {
+          "q": "Which of the following is the best method for teaching a large class of students with diverse learning needs?",
+          "q_hi": "विविध शिक्षण आवश्यकताओं वाले बड़े वर्ग को पढ़ाने का सबसे अच्छा तरीका निम्नलिखित में से कौन सा है?",
+          "opts": ["Lecture Method", "Group Discussion", "Differentiated Instruction", "Role Play"],
+          "opts_hi": ["व्याख्यान विधि", "समूह चर्चा", "विभेदित अनुदेश", "भूमिका निर्वहन"],
+          "ans": 2,
+          "subject": "Child Development & Pedagogy"
+        },
+        {
+          "q": "What is the primary purpose of the Continuous and Comprehensive Evaluation (CCE) system?",
+          "q_hi": "सतत और व्यापक मूल्यांकन (CCE) प्रणाली का प्राथमिक उद्देश्य क्या है?",
+          "opts": ["To rank students", "To assess both scholastic and co-scholastic areas", "To prepare for exams", "To reduce teacher workload"],
+          "opts_hi": ["छात्रों को रैंक करना", "विद्यालयी और सह-विद्यालयी दोनों क्षेत्रों का आकलन करना", "परीक्षाओं के लिए तैयार करना", "शिक्षकों का कार्यभार कम करना"],
           "ans": 1,
-          "subject": "Teaching"
+          "subject": "Child Development & Pedagogy"
+        },
+        {
+          "q": "Who proposed the theory of Multiple Intelligences?",
+          "q_hi": "बहु बुद्धिमत्ता सिद्धांत किसने प्रस्तावित किया?",
+          "opts": ["Jean Piaget", "Howard Gardner", "Lev Vygotsky", "B.F. Skinner"],
+          "opts_hi": ["जीन पियाजे", "हॉवर्ड गार्डनर", "लेव वायगोत्स्की", "बी.एफ. स्किनर"],
+          "ans": 1,
+          "subject": "Child Development & Pedagogy"
+        },
+        {
+          "q": "What is the meaning of 'Scaffolding' in educational psychology?",
+          "q_hi": "शैक्षिक मनोविज्ञान में 'स्कैफोल्डिंग' का क्या अर्थ है?",
+          "opts": ["Building a physical structure", "Providing temporary support to learners", "Testing students", "Grading assignments"],
+          "opts_hi": ["भौतिक संरचना बनाना", "शिक्षार्थियों को अस्थायी सहायता प्रदान करना", "छात्रों का परीक्षण करना", "असाइनमेंट को ग्रेड करना"],
+          "ans": 1,
+          "subject": "Child Development & Pedagogy"
+        },
+        {
+          "q": "Which vitamin is primarily obtained from sunlight?",
+          "q_hi": "कौन सा विटामिन मुख्य रूप से सूर्य के प्रकाश से प्राप्त होता है?",
+          "opts": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+          "opts_hi": ["विटामिन A", "विटामिन B", "विटामिन C", "विटामिन D"],
+          "ans": 3,
+          "subject": "General Science"
+        },
+        {
+          "q": "Which metal is liquid at room temperature?",
+          "q_hi": "कमरे के तापमान पर कौन सी धातु द्रव होती है?",
+          "opts": ["Iron", "Gold", "Mercury", "Silver"],
+          "opts_hi": ["लोहा", "सोना", "पारा", "चाँदी"],
+          "ans": 2,
+          "subject": "General Science"
+        },
+        {
+          "q": "What is the pH value of pure water?",
+          "q_hi": "शुद्ध जल का pH मान क्या है?",
+          "opts": ["5", "6", "7", "8"],
+          "opts_hi": ["5", "6", "7", "8"],
+          "ans": 2,
+          "subject": "General Science"
+        },
+        {
+          "q": "Which of the following is a noble gas?",
+          "q_hi": "निम्नलिखित में से कौन सी उत्कृष्ट गैस है?",
+          "opts": ["Hydrogen", "Oxygen", "Nitrogen", "Neon"],
+          "opts_hi": ["हाइड्रोजन", "ऑक्सीजन", "नाइट्रोजन", "नियॉन"],
+          "ans": 3,
+          "subject": "General Science"
+        },
+        {
+          "q": "What is the chemical formula of common salt?",
+          "q_hi": "सामान्य नमक का रासायनिक सूत्र क्या है?",
+          "opts": ["NaCl", "NaOH", "Na2CO3", "NaHCO3"],
+          "opts_hi": ["NaCl", "NaOH", "Na2CO3", "NaHCO3"],
+          "ans": 0,
+          "subject": "General Science"
+        },
+        {
+          "q": "What is the full form of GDP?",
+          "q_hi": "GDP का पूर्ण रूप क्या है?",
+          "opts": ["Gross Domestic Product", "Gross Development Product", "General Domestic Product", "Global Domestic Product"],
+          "opts_hi": ["सकल घरेलू उत्पाद", "सकल विकास उत्पाद", "सामान्य घरेलू उत्पाद", "वैश्विक घरेलू उत्पाद"],
+          "ans": 0,
+          "subject": "Social Studies"
+        },
+        {
+          "q": "Who appoints the Chief Justice of India?",
+          "q_hi": "भारत के मुख्य न्यायाधीश की नियुक्ति कौन करता है?",
+          "opts": ["Prime Minister", "President", "Parliament", "Supreme Court Judges"],
+          "opts_hi": ["प्रधानमंत्री", "राष्ट्रपति", "संसद", "सर्वोच्च न्यायालय के न्यायाधीश"],
+          "ans": 1,
+          "subject": "Social Studies"
+        },
+        {
+          "q": "What is the SI unit of pressure?",
+          "q_hi": "दबाव की SI इकाई क्या है?",
+          "opts": ["Newton", "Pascal", "Joule", "Watt"],
+          "opts_hi": ["न्यूटन", "पास्कल", "जूल", "वाट"],
+          "ans": 1,
+          "subject": "General Science"
+        },
+        {
+          "q": "Which article of Indian Constitution deals with Right to Equality?",
+          "q_hi": "भारतीय संविधान का कौन सा अनुच्छेद समानता के अधिकार से संबंधित है?",
+          "opts": ["Article 12", "Article 14", "Article 19", "Article 21"],
+          "opts_hi": ["अनुच्छेद 12", "अनुच्छेद 14", "अनुच्छेद 19", "अनुच्छेद 21"],
+          "ans": 1,
+          "subject": "Social Studies"
+        },
+        {
+          "q": "The Quit India Movement was launched in which year?",
+          "q_hi": "भारत छोड़ो आंदोलन किस वर्ष शुरू हुआ था?",
+          "opts": ["1940", "1941", "1942", "1943"],
+          "opts_hi": ["1940", "1941", "1942", "1943"],
+          "ans": 2,
+          "subject": "Social Studies"
+        },
+        {
+          "q": "Synonym of 'Abundant'?",
+          "q_hi": "'Abundant' (प्रचुर) का समानार्थी शब्द?",
+          "opts": ["Scarce", "Plentiful", "Limited", "Rare"],
+          "opts_hi": ["दुर्लभ", "प्रचुर", "सीमित", "विरल"],
+          "ans": 1,
+          "subject": "Language I"
+        },
+        {
+          "q": "Antonym of 'Verbose'?",
+          "q_hi": "'Verbose' (वाचाल) का विलोम शब्द?",
+          "opts": ["Talkative", "Concise", "Elaborate", "Lengthy"],
+          "opts_hi": ["बातूनी", "संक्षिप्त", "विस्तृत", "लंबा"],
+          "ans": 1,
+          "subject": "Language I"
+        },
+        {
+          "q": "Fill in the blank: I am looking forward _______ you.",
+          "q_hi": "रिक्त स्थान भरें: I am looking forward _______ you.",
+          "opts": ["to meet", "to meeting", "meeting", "meet"],
+          "opts_hi": ["to meet", "to meeting", "meeting", "meet"],
+          "ans": 1,
+          "subject": "Language I"
+        },
+        {
+          "q": "Choose the correct passive voice form of: 'They are building a new mall.'",
+          "q_hi": "'They are building a new mall.' का सही passive voice रूप चुनें।",
+          "opts": ["A new mall is being built by them.", "A new mall was being built by them.", "A new mall is built by them.", "A new mall was built by them."],
+          "opts_hi": ["A new mall is being built by them.", "A new mall was being built by them.", "A new mall is built by them.", "A new mall was built by them."],
+          "ans": 0,
+          "subject": "Language I"
+        },
+        {
+          "q": "The phrase 'To be at loggerheads' means:",
+          "q_hi": "To be at loggerheads वाक्यांश का अर्थ है:",
+          "opts": ["To be in a romantic relationship", "To be in a state of agreement", "To be in a state of disagreement", "To be working together"],
+          "opts_hi": ["रोमांटिक रिश्ते में होना", "सहमति की स्थिति में होना", "असहमति की स्थिति में होना", "एक साथ काम करना"],
+          "ans": 2,
+          "subject": "Language I"
+        },
+        {
+          "q": "What is the meaning of 'Diligent'?",
+          "q_hi": "'Diligent' का अर्थ क्या है?",
+          "opts": ["Lazy", "Hardworking", "Slow", "Careless"],
+          "opts_hi": ["आलसी", "मेहनती", "धीमा", "लापरवाह"],
+          "ans": 1,
+          "subject": "Language I"
+        },
+        {
+          "q": "Choose the correct article: She is _______ best student in the class.",
+          "q_hi": "सही आर्टिकल चुनें: She is _______ best student in the class.",
+          "opts": ["a", "an", "the", "No article"],
+          "opts_hi": ["a", "an", "the", "No article"],
+          "ans": 2,
+          "subject": "Language I"
+        },
+        {
+          "q": "Which of the following is a conjunction?",
+          "q_hi": "निम्नलिखित में से कौन सा संयोजक (Conjunction) है?",
+          "opts": ["and", "run", "book", "fast"],
+          "opts_hi": ["and", "run", "book", "fast"],
+          "ans": 0,
+          "subject": "Language I"
+        },
+        {
+          "q": "What is the full form of CGL?",
+          "q_hi": "CGL का पूर्ण रूप क्या है?",
+          "opts": ["Combined Graduate Level", "Central Graduate Level", "Combined General Level", "Central General Level"],
+          "opts_hi": ["Combined Graduate Level", "Central Graduate Level", "Combined General Level", "Central General Level"],
+          "ans": 0,
+          "subject": "Social Studies"
+        },
+        {
+          "q": "Which gas is used in electric bulbs?",
+          "q_hi": "विद्युत बल्बों में कौन सी गैस का उपयोग होता है?",
+          "opts": ["Oxygen", "Nitrogen", "Argon", "Hydrogen"],
+          "opts_hi": ["ऑक्सीजन", "नाइट्रोजन", "आर्गन", "हाइड्रोजन"],
+          "ans": 2,
+          "subject": "General Science"
         }
       ]
     },
     {
       "id": "ctet_4",
-      "title": "CTET Mock Test 4",
-      "duration": 10,
-      "difficulty": "Medium",
+      "title": "CTET Full Mock Test 4 (Paper 2 Pattern)",
+      "duration": 150,
+      "difficulty": "Hard",
+      "correctMarks": 1,
+      "negativeMarks": 0,
       "questions": [
         {
-          "q": "Which of the following is the most important factor for a child's cognitive development according to Jean Piaget?",
-          "q_hi": "जीन पियाजे के अनुसार, बच्चे के संज्ञानात्मक विकास के लिए निम्नलिखित में से कौन सा सबसे महत्वपूर्ण कारक है?",
-          "opts": [
-            "Genetic factors",
-            "Social interaction",
-            "Maturation",
-            "Education"
-          ],
-          "opts_hi": [
-            "आनुवंशिक कारक",
-            "सामाजिक संपर्क",
-            "परिपक्वता",
-            "शिक्षा"
-          ],
+          "q": "The Preamble of the Indian Constitution was amended in which year?",
+          "q_hi": "भारतीय संविधान की प्रस्तावना किस वर्ष संशोधित की गई थी?",
+          "opts": ["1971", "1974", "1976", "1978"],
+          "opts_hi": ["1971", "1974", "1976", "1978"],
           "ans": 2,
-          "subject": "Teaching"
-        }
-      ]
-    },
-    {
-      "id": "ctet_5",
-      "title": "CTET Mock Test 5",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "What is the primary purpose of the Continuous and Comprehensive Evaluation (CCE) system in schools?",
-          "q_hi": "स्कूलों में सतत और व्यापक मूल्यांकन (CCE) प्रणाली का प्राथमिक उद्देश्य क्या है?",
-          "opts": [
-            "To rank students academically",
-            "To assess students in both scholastic and co-scholastic areas",
-            "To prepare students for competitive exams",
-            "To reduce the workload of teachers"
-          ],
-          "opts_hi": [
-            "छात्रों को शैक्षणिक रूप से रैंक करना",
-            "विद्यालयी और सह-विद्यालयी दोनों क्षेत्रों में छात्रों का आकलन करना",
-            "छात्रों को प्रतियोगी परीक्षाओं के लिए तैयार करना",
-            "शिक्षकों के कार्यभार को कम करना"
-          ],
-          "ans": 1,
-          "subject": "Teaching"
-        }
-      ]
-    },
-    {
-      "id": "ctet_6",
-      "title": "CTET Mock Test 6",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Which organization launched India's first Bee Corridors initiative?",
-          "q_hi": "भारत की पहली बी कॉरिडोर पहल किस संगठन ने शुरू की?",
-          "opts": [
-            "NITI Aayog",
-            "NHAI (National Highways Authority of India)",
-            "Ministry of Environment",
-            "ICAR"
-          ],
-          "opts_hi": [
-            "नीति आयोग",
-            "NHAI (राष्ट्रीय राजमार्ग प्राधिकरण)",
-            "पर्यावरण मंत्रालय",
-            "ICAR"
-          ],
-          "ans": 1,
-          "subject": "Current Affairs"
+          "subject": "Social Studies"
         },
         {
-          "q": "Tejaswin Shankar won gold in which event at the Asian Indoor Athletics Championships 2026?",
-          "q_hi": "तेजस्विन शंकर ने एशियाई इंडोर एथलेटिक्स चैंपियनशिप 2026 में किस स्पर्धा में स्वर्ण जीता?",
-          "opts": [
-            "High Jump",
-            "Long Jump",
-            "Heptathlon",
-            "Shot Put"
-          ],
-          "opts_hi": [
-            "हाई जंप",
-            "लॉन्ग जंप",
-            "हेप्टाथलॉन",
-            "शॉट पुट"
-          ],
-          "ans": 2,
-          "subject": "Current Affairs"
+          "q": "Which planet has the most moons?",
+          "q_hi": "किस ग्रह के सबसे अधिक चंद्रमा हैं?",
+          "opts": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+          "opts_hi": ["बृहस्पति", "शनि", "अरुण", "वरुण"],
+          "ans": 1,
+          "subject": "General Science"
         },
         {
-          "q": "The Reserve Bank of India's Q-SAFE expert panel was formed to explore security frameworks in which sector?",
-          "q_hi": "भारतीय रिजर्व बैंक के Q-SAFE विशेषज्ञ पैनल का गठन किस क्षेत्र में सुरक्षा ढाँचे का पता लगाने के लिए किया गया था?",
-          "opts": [
-            "Banking sector only",
-            "Financial sector",
-            "Defence sector",
-            "Space technology sector"
-          ],
-          "opts_hi": [
-            "केवल बैंकिंग क्षेत्र",
-            "वित्तीय क्षेत्र",
-            "रक्षा क्षेत्र",
-            "अंतरिक्ष प्रौद्योगिकी क्षेत्र"
-          ],
-          "ans": 1,
-          "subject": "Current Affairs"
-        }
-      ]
-    },
-    {
-      "id": "ctet_7",
-      "title": "CTET Mock Test 7",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
+          "q": "SEBI stands for?",
+          "q_hi": "SEBI का पूर्ण रूप क्या है?",
+          "opts": ["Securities Exchange Board of India", "Stock Exchange Bureau of India", "Securities and Exchange Board of India", "State Exchange Board of India"],
+          "opts_hi": ["Securities Exchange Board of India", "Stock Exchange Bureau of India", "Securities and Exchange Board of India", "State Exchange Board of India"],
+          "ans": 2,
+          "subject": "Social Studies"
+        },
         {
-          "q": "Which of the following is used as an antacid to neutralize excess stomach acid?",
-          "q_hi": "निम्नलिखित में से किसका उपयोग अतिरिक्त पेट के एसिड को बेअसर करने के लिए एंटासिड के रूप में किया जाता है?",
-          "opts": [
-            "Sodium Hydroxide",
-            "Magnesium Hydroxide",
-            "Hydrochloric Acid",
-            "Sulphuric Acid"
-          ],
-          "opts_hi": [
-            "सोडियम हाइड्रॉक्साइड",
-            "मैग्नीशियम हाइड्रॉक्साइड",
-            "हाइड्रोक्लोरिक एसिड",
-            "सल्फ्यूरिक एसिड"
-          ],
+          "q": "Speed of sound in air is approximately?",
+          "q_hi": "वायु में ध्वनि की गति लगभग कितनी है?",
+          "opts": ["232 m/s", "332 m/s", "432 m/s", "532 m/s"],
+          "opts_hi": ["232 मी/से", "332 मी/से", "432 मी/से", "532 मी/से"],
           "ans": 1,
-          "subject": "Science"
-        }
-      ]
-    },
-    {
-      "id": "ctet_8",
-      "title": "CTET Mock Test 8",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
+          "subject": "General Science"
+        },
         {
-          "q": "What is the value of 1/4 × (4856 × 0.5) × 12?",
-          "q_hi": "1/4 × (4856 × 0.5) × 12 का मान क्या है?",
-          "opts": [
-            "7284",
-            "7280",
-            "7288",
-            "7290"
-          ],
-          "opts_hi": [
-            "7284",
-            "7280",
-            "7288",
-            "7290"
-          ],
+          "q": "Who was the last Viceroy of India?",
+          "q_hi": "भारत के अंतिम वायसराय कौन थे?",
+          "opts": ["Lord Curzon", "Lord Mountbatten", "Lord Wavell", "Lord Linlithgow"],
+          "opts_hi": ["लॉर्ड कर्जन", "लॉर्ड माउंटबेटन", "लॉर्ड वेवेल", "लॉर्ड लिनलिथगो"],
+          "ans": 1,
+          "subject": "Social Studies"
+        },
+        {
+          "q": "Which of the following is a Fundamental Duty?",
+          "q_hi": "निम्नलिखित में से कौन सा एक मौलिक कर्तव्य है?",
+          "opts": ["Right to Vote", "Right to Education", "To protect the environment", "Right to work"],
+          "opts_hi": ["मतदान का अधिकार", "शिक्षा का अधिकार", "पर्यावरण की रक्षा करना", "काम का अधिकार"],
+          "ans": 2,
+          "subject": "Social Studies"
+        },
+        {
+          "q": "Which river is known as the 'Sorrow of Bengal'?",
+          "q_hi": "किस नदी को 'बंगाल का शोक' कहा जाता है?",
+          "opts": ["Ganga", "Damodar", "Brahmaputra", "Mahanadi"],
+          "opts_hi": ["गंगा", "दामोदर", "ब्रह्मपुत्र", "महानदी"],
+          "ans": 1,
+          "subject": "Environmental Studies"
+        },
+        {
+          "q": "Who was the Viceroy of India when the Jallianwala Bagh massacre took place?",
+          "q_hi": "जलियांवाला बाग हत्याकांड के समय भारत का वायसराय कौन था?",
+          "opts": ["Lord Chelmsford", "Lord Reading", "Lord Irwin", "Lord Linlithgow"],
+          "opts_hi": ["लॉर्ड चेम्सफोर्ड", "लॉर्ड रीडिंग", "लॉर्ड इरविन", "लॉर्ड लिनलिथगो"],
           "ans": 0,
-          "subject": "Mathematics"
+          "subject": "Social Studies"
         },
         {
-          "q": "The ratio of two numbers is 3:5 and their sum is 120. Find the larger number.",
-          "q_hi": "दो संख्याओं का अनुपात 3:5 है और उनका योग 120 है। बड़ी संख्या ज्ञात करें।",
-          "opts": [
-            "60",
-            "75",
-            "80",
-            "85"
-          ],
-          "opts_hi": [
-            "60",
-            "75",
-            "80",
-            "85"
-          ],
-          "ans": 1,
-          "subject": "Mathematics"
-        }
-      ]
-    },
-    {
-      "id": "ctet_9",
-      "title": "CTET Mock Test 9",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "What is the remainder when 3^50 is divided by 8?",
-          "q_hi": "3^50 को 8 से विभाजित करने पर शेषफल क्या है?",
-          "opts": [
-            "1",
-            "3",
-            "5",
-            "7"
-          ],
-          "opts_hi": [
-            "1",
-            "3",
-            "5",
-            "7"
-          ],
+          "q": "Which of the following battles marked the beginning of British rule in India?",
+          "q_hi": "भारत में ब्रिटिश शासन की शुरुआत निम्नलिखित में से किस युद्ध ने चिह्नित की?",
+          "opts": ["Battle of Plassey", "Battle of Buxar", "Battle of Panipat", "Battle of Wandiwash"],
+          "opts_hi": ["प्लासी का युद्ध", "बक्सर का युद्ध", "पानीपत का युद्ध", "वंडीवाश का युद्ध"],
           "ans": 0,
-          "subject": "Mathematics"
+          "subject": "Social Studies"
         },
         {
-          "q": "If x + y = 10 and xy = 21, find x² + y².",
-          "q_hi": "यदि x + y = 10 और xy = 21 है, तो x² + y² ज्ञात करें।",
-          "opts": [
-            "50",
-            "54",
-            "58",
-            "62"
-          ],
-          "opts_hi": [
-            "50",
-            "54",
-            "58",
-            "62"
-          ],
-          "ans": 2,
-          "subject": "Mathematics"
-        },
-        {
-          "q": "Find the HCF of 48 and 72.",
-          "q_hi": "48 और 72 का HCF ज्ञात करें।",
-          "opts": [
-            "12",
-            "16",
-            "20",
-            "24"
-          ],
-          "opts_hi": [
-            "12",
-            "16",
-            "20",
-            "24"
-          ],
-          "ans": 3,
-          "subject": "Mathematics"
-        }
-      ]
-    },
-    {
-      "id": "ctet_10",
-      "title": "CTET Mock Test 10",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Which of the following statements with regard to India's Deep Ocean Mission is/are correct? 1. It was launched by the Ministry of Ports, Shipping and Waterways, Government of India. 2. Matsya-6000 has been designed to carry 3 people for deep sea exploration. 3. Samudrayaan is a project under this mission.",
-          "q_hi": "भारत के डीप ओशन मिशन के संबंध में निम्नलिखित में से कौन सा/से कथन सही है/हैं? 1. इसे भारत सरकार के बंदरगाह, जहाजरानी और जलमार्ग मंत्रालय द्वारा लॉन्च किया गया था। 2. Matsya-6000 को गहरे समुद्र की खोज के लिए 3 लोगों को ले जाने के लिए डिज़ाइन किया गया है। 3. समुद्रयान इस मिशन के तहत एक परियोजना है।",
-          "opts": [
-            "1 only",
-            "2 and 3 only",
-            "1 and 2 only",
-            "1, 2 and 3"
-          ],
-          "opts_hi": [
-            "केवल 1",
-            "केवल 2 और 3",
-            "केवल 1 और 2",
-            "1, 2 और 3"
-          ],
+          "q": "Which was the capital of the Mauryan Empire?",
+          "q_hi": "मौर्य साम्राज्य की राजधानी कौन सी थी?",
+          "opts": ["Varanasi", "Pataliputra", "Ujjain", "Taxila"],
+          "opts_hi": ["वाराणसी", "पाटलिपुत्र", "उज्जैन", "तक्षशिला"],
           "ans": 1,
-          "subject": "Science"
+          "subject": "Social Studies"
         },
         {
-          "q": "An object X sinks in liquids P and Q but floats in liquid R. Which of the following statements are correct? 1. The density of X is greater than the density of P. 2. The density of X is less than the density of R. 3. The density of P is different from the density of R.",
-          "q_hi": "एक वस्तु X तरल P और Q में डूबती है लेकिन तरल R में तैरती है। निम्नलिखित में से कौन से कथन सही हैं? 1. X का घनत्व P के घनत्व से अधिक है। 2. X का घनत्व R के घनत्व से कम है। 3. P का घनत्व R के घनत्व से भिन्न है।",
-          "opts": [
-            "1 and 2 only",
-            "1, 2 and 3",
-            "2 and 3 only",
-            "1 and 3 only"
-          ],
-          "opts_hi": [
-            "केवल 1 और 2",
-            "1, 2 और 3",
-            "केवल 2 और 3",
-            "केवल 1 और 3"
-          ],
-          "ans": 1,
-          "subject": "Science"
+          "q": "Which pass connects India with China?",
+          "q_hi": "भारत को चीन से कौन सा दर्रा जोड़ता है?",
+          "opts": ["Khyber Pass", "Bolan Pass", "Nathu La Pass", "Pir Panjal Pass"],
+          "opts_hi": ["खैबर दर्रा", "बोलन दर्रा", "नाथू ला दर्रा", "पीर पंजाल दर्रा"],
+          "ans": 2,
+          "subject": "Environmental Studies"
         },
         {
-          "q": "Which fat-soluble vitamin is necessary for good skin?",
-          "q_hi": "अच्छी त्वचा के लिए कौन सा वसा-घुलनशील विटामिन आवश्यक है?",
-          "opts": [
-            "Vitamin B",
-            "Vitamin C",
-            "Vitamin A",
-            "Vitamin K"
-          ],
-          "opts_hi": [
-            "विटामिन B",
-            "विटामिन C",
-            "विटामिन A",
-            "विटामिन K"
-          ],
-          "ans": 2,
-          "subject": "Science"
-        },
-        {
-          "q": "X is the largest gland in our body. It secretes Y which is stored in Z. X, Y and Z are respectively:",
-          "q_hi": "X हमारे शरीर की सबसे बड़ी ग्रंथि है। यह Y स्रावित करता है जो Z में संग्रहीत होता है। X, Y और Z क्रमशः हैं:",
-          "opts": [
-            "Pancreas - Insulin - Liver",
-            "Liver - Enzyme - Stomach",
-            "Liver - Bile - Gall bladder",
-            "Stomach - Acid - Intestine"
-          ],
-          "opts_hi": [
-            "अग्न्याशय - इंसुलिन - यकृत",
-            "यकृत - एंजाइम - पेट",
-            "यकृत - पित्त - पित्ताशय",
-            "पेट - अम्ल - आंत"
-          ],
-          "ans": 2,
-          "subject": "Science"
-        }
-      ]
-    },
-    {
-      "id": "ctet_11",
-      "title": "CTET Mock Test 11",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Which cell organelle is known as the \"Powerhouse of the cell\"?",
-          "q_hi": "किस कोशिका अंगक को \"कोशिका का पावरहाउस\" के रूप में जाना जाता है?",
-          "opts": [
-            "Nucleus",
-            "Ribosome",
-            "Mitochondria",
-            "Endoplasmic Reticulum"
-          ],
-          "opts_hi": [
-            "नाभिक",
-            "राइबोसोम",
-            "माइटोकॉन्ड्रिया",
-            "अंतर्द्रव्यी जालिका"
-          ],
-          "ans": 2,
-          "subject": "Science"
-        },
-        {
-          "q": "Which of the following is an example of a double displacement reaction?",
-          "q_hi": "निम्नलिखित में से कौन सा द्विविस्थापन अभिक्रिया का उदाहरण है?",
-          "opts": [
-            "Combustion of methane",
-            "Reaction of sodium with water",
-            "Reaction of silver nitrate with sodium chloride",
-            "Decomposition of calcium carbonate"
-          ],
-          "opts_hi": [
-            "मीथेन का दहन",
-            "सोडियम की जल के साथ अभिक्रिया",
-            "सिल्वर नाइट्रेट की सोडियम क्लोराइड के साथ अभिक्रिया",
-            "कैल्शियम कार्बोनेट का विघटन"
-          ],
-          "ans": 2,
-          "subject": "Science"
-        }
-      ]
-    },
-    {
-      "id": "ctet_12",
-      "title": "CTET Mock Test 12",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Arrange the following words in a logical sequence: 1. Study, 2. Exam, 3. Result, 4. Admission, 5. Graduation",
-          "q_hi": "निम्नलिखित शब्दों को तार्किक क्रम में व्यवस्थित करें: 1. अध्ययन, 2. परीक्षा, 3. परिणाम, 4. प्रवेश, 5. स्नातक",
-          "opts": [
-            "1, 2, 3, 4, 5",
-            "4, 1, 2, 3, 5",
-            "1, 4, 2, 3, 5",
-            "4, 2, 1, 3, 5"
-          ],
-          "opts_hi": [
-            "1, 2, 3, 4, 5",
-            "4, 1, 2, 3, 5",
-            "1, 4, 2, 3, 5",
-            "4, 2, 1, 3, 5"
-          ],
-          "ans": 1,
-          "subject": "Reasoning"
-        }
-      ]
-    },
-    {
-      "id": "ctet_13",
-      "title": "CTET Mock Test 13",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Arrange the following in a logical order: 1. Flower, 2. Fruit, 3. Seed, 4. Plant, 5. Sapling",
-          "q_hi": "निम्नलिखित को तार्किक क्रम में व्यवस्थित करें: 1. फूल, 2. फल, 3. बीज, 4. पौधा, 5. अंकुर",
-          "opts": [
-            "3, 5, 4, 1, 2",
-            "3, 4, 5, 1, 2",
-            "5, 3, 4, 1, 2",
-            "4, 5, 3, 1, 2"
-          ],
-          "opts_hi": [
-            "3, 5, 4, 1, 2",
-            "3, 4, 5, 1, 2",
-            "5, 3, 4, 1, 2",
-            "4, 5, 3, 1, 2"
-          ],
+          "q": "The 'Minto-Morley Reforms' of 1909 introduced which feature?",
+          "q_hi": "1909 के 'मिंटो-मॉर्ले सुधारों' ने कौन सी विशेषता पेश की?",
+          "opts": ["Separate Electorates for Muslims", "Introduction of Dyarchy", "First time representation of Indians in Legislative Councils", "Introduction of Federal System"],
+          "opts_hi": ["मुसलमानों के लिए पृथक निर्वाचन", "द्विशासन की शुरूआत", "विधान परिषदों में भारतीयों का पहली बार प्रतिनिधित्व", "संघीय व्यवस्था की शुरूआत"],
           "ans": 0,
-          "subject": "Reasoning"
+          "subject": "Social Studies"
         },
         {
-          "q": "Statement: \"Government has banned single-use plastic.\" Inference: People will stop using plastic.",
-          "q_hi": "कथन: \"सरकार ने एकल-उपयोग प्लास्टिक पर प्रतिबंध लगा दिया है।\" निष्कर्ष: लोग प्लास्टिक का उपयोग बंद कर देंगे।",
-          "opts": [
-            "Inference is valid",
-            "Inference is not valid",
-            "Inference is true only sometimes",
-            "Cannot be determined"
-          ],
-          "opts_hi": [
-            "निष्कर्ष मान्य है",
-            "निष्कर्ष मान्य नहीं है",
-            "निष्कर्ष केवल कभी-कभी सत्य है",
-            "निर्धारित नहीं किया जा सकता"
-          ],
-          "ans": 1,
-          "subject": "Reasoning"
-        },
-        {
-          "q": "Arrange the following in ascending order of size: 1. Book, 2. Chapter, 3. Letter, 4. Word, 5. Page",
-          "q_hi": "निम्नलिखित को आकार के बढ़ते क्रम में व्यवस्थित करें: 1. पुस्तक, 2. अध्याय, 3. अक्षर, 4. शब्द, 5. पृष्ठ",
-          "opts": [
-            "3, 4, 5, 2, 1",
-            "4, 3, 5, 2, 1",
-            "3, 5, 4, 2, 1",
-            "4, 5, 3, 2, 1"
-          ],
-          "opts_hi": [
-            "3, 4, 5, 2, 1",
-            "4, 3, 5, 2, 1",
-            "3, 5, 4, 2, 1",
-            "4, 5, 3, 2, 1"
-          ],
-          "ans": 0,
-          "subject": "Reasoning"
-        }
-      ]
-    },
-    {
-      "id": "ctet_14",
-      "title": "CTET Mock Test 14",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Statement: \"Some fruits are apples. All apples are red.\" Conclusion: Some red things are fruits.",
-          "q_hi": "कथन: \"कुछ फल सेब हैं। सभी सेब लाल हैं।\" निष्कर्ष: कुछ लाल चीज़ें फल हैं।",
-          "opts": [
-            "Conclusion follows",
-            "Conclusion does not follow",
-            "Conclusion is true only sometimes",
-            "Cannot be determined"
-          ],
-          "opts_hi": [
-            "निष्कर्ष अनुसरण करता है",
-            "निष्कर्ष अनुसरण नहीं करता",
-            "निष्कर्ष केवल कभी-कभी सत्य है",
-            "निर्धारित नहीं किया जा सकता"
-          ],
-          "ans": 0,
-          "subject": "Reasoning"
-        },
-        {
-          "q": "Statement: \"All teachers should undergo training every year.\" Which of the following is the underlying assumption?",
-          "q_hi": "कथन: \"सभी शिक्षकों को प्रत्येक वर्ष प्रशिक्षण से गुजरना चाहिए।\" निम्नलिखित में से कौन सी अंतर्निहित धारणा है?",
-          "opts": [
-            "Teachers are not competent enough",
-            "Training improves teaching skills",
-            "Teachers enjoy training",
-            "Training is expensive"
-          ],
-          "opts_hi": [
-            "शिक्षक पर्याप्त सक्षम नहीं हैं",
-            "प्रशिक्षण शिक्षण कौशल में सुधार करता है",
-            "शिक्षक प्रशिक्षण का आनंद लेते हैं",
-            "प्रशिक्षण महंगा है"
-          ],
-          "ans": 1,
-          "subject": "Reasoning"
-        },
-        {
-          "q": "Statement: \"All roses are flowers. Some flowers are red.\" Conclusion: Some roses are red.",
-          "q_hi": "कथन: \"सभी गुलाब फूल हैं। कुछ फूल लाल हैं।\" निष्कर्ष: कुछ गुलाब लाल हैं।",
-          "opts": [
-            "Conclusion follows",
-            "Conclusion does not follow",
-            "Conclusion is true only sometimes",
-            "Cannot be determined"
-          ],
-          "opts_hi": [
-            "निष्कर्ष अनुसरण करता है",
-            "निष्कर्ष अनुसरण नहीं करता",
-            "निष्कर्ष केवल कभी-कभी सत्य है",
-            "निर्धारित नहीं किया जा सकता"
-          ],
-          "ans": 1,
-          "subject": "Reasoning"
-        }
-      ]
-    },
-    {
-      "id": "ctet_15",
-      "title": "CTET Mock Test 15",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Argument: \"All students should have access to computers.\" Which of the following weakens this argument?",
-          "q_hi": "तर्क: \"सभी छात्रों के पास कंप्यूटर तक पहुंच होनी चाहिए।\" निम्नलिखित में से कौन सा इस तर्क को कमजोर करता है?",
-          "opts": [
-            "Computers help in learning",
-            "Computers are expensive and many schools cannot afford them",
-            "Computers are used in offices",
-            "Computers are easy to use"
-          ],
-          "opts_hi": [
-            "कंप्यूटर सीखने में सहायक हैं",
-            "कंप्यूटर महंगे हैं और कई स्कूल उन्हें वहन नहीं कर सकते",
-            "कंप्यूटर का उपयोग कार्यालयों में किया जाता है",
-            "कंप्यूटर का उपयोग करना आसान है"
-          ],
-          "ans": 1,
-          "subject": "Reasoning"
-        },
-        {
-          "q": "Statement: \"Regular exercise is good for health.\" Conclusion: All healthy people exercise regularly.",
-          "q_hi": "कथन: \"नियमित व्यायाम स्वास्थ्य के लिए अच्छा है।\" निष्कर्ष: सभी स्वस्थ लोग नियमित व्यायाम करते हैं।",
-          "opts": [
-            "Conclusion follows",
-            "Conclusion does not follow",
-            "Conclusion is true only sometimes",
-            "Cannot be determined"
-          ],
-          "opts_hi": [
-            "निष्कर्ष अनुसरण करता है",
-            "निष्कर्ष अनुसरण नहीं करता",
-            "निष्कर्ष केवल कभी-कभी सत्य है",
-            "निर्धारित नहीं किया जा सकता"
-          ],
-          "ans": 1,
-          "subject": "Reasoning"
-        }
-      ]
-    },
-    {
-      "id": "ctet_16",
-      "title": "CTET Mock Test 16",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Statement: \"No cat is a dog. Some dogs are animals.\" Conclusion: Some animals are not cats.",
-          "q_hi": "कथन: \"कोई बिल्ली कुत्ता नहीं है। कुछ कुत्ते जानवर हैं।\" निष्कर्ष: कुछ जानवर बिल्लियाँ नहीं हैं।",
-          "opts": [
-            "Conclusion follows",
-            "Conclusion does not follow",
-            "Conclusion is true only sometimes",
-            "Cannot be determined"
-          ],
-          "opts_hi": [
-            "निष्कर्ष अनुसरण करता है",
-            "निष्कर्ष अनुसरण नहीं करता",
-            "निष्कर्ष केवल कभी-कभी सत्य है",
-            "निर्धारित नहीं किया जा सकता"
-          ],
-          "ans": 0,
-          "subject": "Reasoning"
-        },
-        {
-          "q": "Arrange the following in ascending order of area: 1. Room, 2. Building, 3. Floor, 4. Block, 5. City",
-          "q_hi": "निम्नलिखित को क्षेत्रफल के बढ़ते क्रम में व्यवस्थित करें: 1. कमरा, 2. भवन, 3. मंजिल, 4. ब्लॉक, 5. शहर",
-          "opts": [
-            "1, 3, 2, 4, 5",
-            "1, 2, 3, 4, 5",
-            "3, 1, 2, 4, 5",
-            "4, 2, 3, 1, 5"
-          ],
-          "opts_hi": [
-            "1, 3, 2, 4, 5",
-            "1, 2, 3, 4, 5",
-            "3, 1, 2, 4, 5",
-            "4, 2, 3, 1, 5"
-          ],
-          "ans": 0,
-          "subject": "Reasoning"
-        }
-      ]
-    },
-    {
-      "id": "ctet_17",
-      "title": "CTET Mock Test 17",
-      "duration": 11,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Who was the founder of the Mughal Empire?",
-          "q_hi": "मुगल साम्राज्य का संस्थापक कौन था?",
-          "opts": [
-            "Akbar",
-            "Humayun",
-            "Babur",
-            "Shah Jahan"
-          ],
-          "opts_hi": [
-            "अकबर",
-            "हुमायूँ",
-            "बाबर",
-            "शाहजहाँ"
-          ],
+          "q": "Which is NOT a Constitutional body in India?",
+          "q_hi": "भारत में कौन सा संवैधानिक निकाय नहीं है?",
+          "opts": ["Election Commission of India", "Union Public Service Commission (UPSC)", "National Human Rights Commission (NHRC)", "Comptroller and Auditor General (CAG)"],
+          "opts_hi": ["भारत का चुनाव आयोग", "संघ लोक सेवा आयोग (UPSC)", "राष्ट्रीय मानव अधिकार आयोग (NHRC)", "नियंत्रक और महालेखा परीक्षक (CAG)"],
           "ans": 2,
-          "subject": "General Knowledge"
+          "subject": "Social Studies"
         },
         {
-          "q": "Who is known as the Father of the Indian Constitution?",
-          "q_hi": "भारतीय संविधान के जनक के रूप में किसे जाना जाता है?",
-          "opts": [
-            "Mahatma Gandhi",
-            "Jawaharlal Nehru",
-            "Dr. B.R. Ambedkar",
-            "Sardar Patel"
-          ],
-          "opts_hi": [
-            "महात्मा गांधी",
-            "जवाहरलाल नेहरू",
-            "डॉ. बी.आर. अम्बेडकर",
-            "सरदार पटेल"
-          ],
+          "q": "Who is the author of the book 'The Discovery of India'?",
+          "q_hi": "'The Discovery of India' पुस्तक के लेखक कौन हैं?",
+          "opts": ["Mahatma Gandhi", "Jawaharlal Nehru", "B.R. Ambedkar", "Rabindranath Tagore"],
+          "opts_hi": ["महात्मा गांधी", "जवाहरलाल नेहरू", "बी.आर. अम्बेडकर", "रवींद्रनाथ टैगोर"],
+          "ans": 1,
+          "subject": "Social Studies"
+        },
+        {
+          "q": "Which is the oldest Veda?",
+          "q_hi": "सबसे पुराना वेद कौन सा है?",
+          "opts": ["Samaveda", "Yajurveda", "Rigveda", "Atharvaveda"],
+          "opts_hi": ["सामवेद", "यजुर्वेद", "ऋग्वेद", "अथर्ववेद"],
           "ans": 2,
-          "subject": "General Knowledge"
+          "subject": "Social Studies"
         },
         {
-          "q": "How many schedules are there in the Indian Constitution?",
-          "q_hi": "भारतीय संविधान में कितनी अनुसूचियाँ हैं?",
-          "opts": [
-            "10",
-            "11",
-            "12",
-            "13"
-          ],
-          "opts_hi": [
-            "10",
-            "11",
-            "12",
-            "13"
-          ],
+          "q": "Which is the authorized body for conducting elections in India?",
+          "q_hi": "भारत में चुनाव कराने के लिए अधिकृत निकाय कौन सा है?",
+          "opts": ["Election Commission of India", "President of India", "Prime Minister's Office", "Parliament"],
+          "opts_hi": ["भारत का चुनाव आयोग", "भारत के राष्ट्रपति", "प्रधान मंत्री कार्यालय", "संसद"],
+          "ans": 0,
+          "subject": "Social Studies"
+        },
+        {
+          "q": "What is the full form of GDP?",
+          "q_hi": "GDP का पूर्ण रूप क्या है?",
+          "opts": ["Gross Domestic Product", "Gross Development Product", "General Domestic Product", "None"],
+          "opts_hi": ["Gross Domestic Product", "Gross Development Product", "General Domestic Product", "None"],
+          "ans": 0,
+          "subject": "Social Studies"
+        },
+        {
+          "q": "What is the apex body for microfinance in India?",
+          "q_hi": "भारत में सूक्ष्म वित्त का शीर्ष निकाय कौन सा है?",
+          "opts": ["NABARD", "RBI", "SEBI", "NHB"],
+          "opts_hi": ["NABARD", "RBI", "SEBI", "NHB"],
+          "ans": 0,
+          "subject": "Social Studies"
+        },
+        {
+          "q": "What is the current base year for calculating GDP in India?",
+          "q_hi": "भारत में GDP गणना के लिए वर्तमान आधार वर्ष क्या है?",
+          "opts": ["2011-12", "2004-05", "2015-16", "2020-21"],
+          "opts_hi": ["2011-12", "2004-05", "2015-16", "2020-21"],
+          "ans": 0,
+          "subject": "Social Studies"
+        },
+        {
+          "q": "What is the main objective of Fiscal Policy?",
+          "q_hi": "राजकोषीय नीति का मुख्य उद्देश्य क्या है?",
+          "opts": ["Price stability", "Economic growth", "Both", "None"],
+          "opts_hi": ["मूल्य स्थिरता", "आर्थिक विकास", "दोनों", "कोई नहीं"],
+          "ans": 1,
+          "subject": "Social Studies"
+        },
+        {
+          "q": "What is the main objective of Monetary Policy?",
+          "q_hi": "मौद्रिक नीति का मुख्य उद्देश्य क्या है?",
+          "opts": ["Control inflation", "Economic growth", "Both", "None"],
+          "opts_hi": ["मुद्रास्फीति नियंत्रण", "आर्थिक विकास", "दोनों", "कोई नहीं"],
           "ans": 2,
-          "subject": "General Knowledge"
+          "subject": "Social Studies"
         },
         {
-          "q": "Who discovered the law of gravity?",
-          "q_hi": "गुरुत्वाकर्षण के नियम की खोज किसने की?",
-          "opts": [
-            "Albert Einstein",
-            "Isaac Newton",
-            "Galileo",
-            "Johannes Kepler"
-          ],
-          "opts_hi": [
-            "अल्बर्ट आइंस्टीन",
-            "आइजैक न्यूटन",
-            "गैलीलियो",
-            "जोहान्स केपलर"
-          ],
-          "ans": 1,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "What is the chemical symbol of Gold?",
-          "q_hi": "सोने का रासायनिक प्रतीक क्या है?",
-          "opts": [
-            "Ag",
-            "Au",
-            "Fe",
-            "Cu"
-          ],
-          "opts_hi": [
-            "Ag",
-            "Au",
-            "Fe",
-            "Cu"
-          ],
-          "ans": 1,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "In which unit is Sound measured?",
-          "q_hi": "ध्वनि किस इकाई में मापी जाती है?",
-          "opts": [
-            "Decibel",
-            "Coulomb",
-            "Cycle",
-            "Hum"
-          ],
-          "opts_hi": [
-            "डेसिबल",
-            "कूलम्ब",
-            "साइकिल",
-            "हम"
-          ],
-          "ans": 0,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Who won the FIFA World Cup 2022?",
-          "q_hi": "FIFA विश्व कप 2022 किसने जीता?",
-          "opts": [
-            "Brazil",
-            "France",
-            "Argentina",
-            "Germany"
-          ],
-          "opts_hi": [
-            "ब्राजील",
-            "फ्रांस",
-            "अर्जेंटीना",
-            "जर्मनी"
-          ],
+          "q": "Who is known as the 'Father of the Indian Constitution'?",
+          "q_hi": "भारतीय संविधान के 'जनक' के रूप में किसे जाना जाता है?",
+          "opts": ["Mahatma Gandhi", "Jawaharlal Nehru", "Dr. B.R. Ambedkar", "Sardar Patel"],
+          "opts_hi": ["महात्मा गांधी", "जवाहरलाल नेहरू", "डॉ. बी.आर. अम्बेडकर", "सरदार पटेल"],
           "ans": 2,
-          "subject": "General Knowledge"
+          "subject": "Social Studies"
         },
         {
-          "q": "Which of the following events is in correct chronological order? (1) Gandhi-Irwin Pact, (2) Poona Pact, (3) Declaration of Purna Swaraj, (4) Civil Disobedience Movement",
-          "q_hi": "निम्नलिखित घटनाओं का सही कालानुक्रम क्या है? (1) गांधी-इरविन समझौता, (2) पूना पैक्ट, (3) पूर्ण स्वराज की घोषणा, (4) सविनय अवज्ञा आंदोलन",
-          "opts": [
-            "1, 2, 3, 4",
-            "3, 4, 1, 2",
-            "4, 1, 3, 2",
-            "2, 3, 1, 4"
-          ],
-          "opts_hi": [
-            "1, 2, 3, 4",
-            "3, 4, 1, 2",
-            "4, 1, 3, 2",
-            "2, 3, 1, 4"
-          ],
-          "ans": 1,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Who was the last Governor-General of India?",
-          "q_hi": "भारत के अंतिम गवर्नर-जनरल कौन थे?",
-          "opts": [
-            "Lord Mountbatten",
-            "C. Rajagopalachari",
-            "Lord Canning",
-            "Lord Dalhousie"
-          ],
-          "opts_hi": [
-            "लॉर्ड माउंटबेटन",
-            "सी. राजगोपालाचारी",
-            "लॉर्ड कैनिंग",
-            "लॉर्ड डलहौज़ी"
-          ],
-          "ans": 1,
-          "subject": "General Knowledge"
-        }
-      ]
-    },
-    {
-      "id": "ctet_18",
-      "title": "CTET Mock Test 18",
-      "duration": 13,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Which inscription provides detailed information about the achievements of Samudragupta?",
-          "q_hi": "समुद्रगुप्त की उपलब्धियों के बारे में विस्तृत जानकारी किस अभिलेख से मिलती है?",
-          "opts": [
-            "Ashoka's Edicts",
-            "Prayag Prashasti (Allahabad Pillar Inscription)",
-            "Girnar Inscription",
-            "Junagadh Inscription"
-          ],
-          "opts_hi": [
-            "अशोक के अभिलेख",
-            "प्रयाग प्रशस्ति (इलाहाबाद स्तंभ अभिलेख)",
-            "गिरनार अभिलेख",
-            "जूनागढ़ अभिलेख"
-          ],
-          "ans": 1,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "In medieval India, the term 'Amir-i-Chahalgani' referred to:",
-          "q_hi": "मध्यकालीन भारत में, 'अमीर-ए-चहलगनी' शब्द किसे संदर्भित करता था?",
-          "opts": [
-            "Foreign Invaders",
-            "Trusted Nobles",
-            "Women Spies",
-            "Agricultural labourers"
-          ],
-          "opts_hi": [
-            "विदेशी आक्रमणकारी",
-            "विश्वसनीय अमीर",
-            "महिला जासूस",
-            "कृषि मजदूर"
-          ],
-          "ans": 1,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Which Amendment added \"Socialist,\" \"Secular,\" and \"Integrity\" to the Preamble?",
-          "q_hi": "किस संशोधन ने प्रस्तावना में \"समाजवादी,\" \"धर्मनिरपेक्ष\" और \"अखंडता\" शब्द जोड़े?",
-          "opts": [
-            "42nd Amendment Act, 1976",
-            "44th Amendment Act, 1978",
-            "61st Amendment Act, 1988",
-            "73rd Amendment Act, 1992"
-          ],
-          "opts_hi": [
-            "42वाँ संशोधन अधिनियम, 1976",
-            "44वाँ संशोधन अधिनियम, 1978",
-            "61वाँ संशोधन अधिनियम, 1988",
-            "73वाँ संशोधन अधिनियम, 1992"
-          ],
+          "q": "Which Article of the Indian Constitution deals with the Right to Equality?",
+          "q_hi": "भारतीय संविधान का कौन सा अनुच्छेद समानता के अधिकार से संबंधित है?",
+          "opts": ["Article 14", "Article 19", "Article 21", "Article 25"],
+          "opts_hi": ["अनुच्छेद 14", "अनुच्छेद 19", "अनुच्छेद 21", "अनुच्छेद 25"],
           "ans": 0,
-          "subject": "General Knowledge"
+          "subject": "Social Studies"
         },
         {
-          "q": "Where is the Nokrek Biosphere Reserve located?",
-          "q_hi": "नोकरेक बायोस्फीयर रिजर्व कहाँ स्थित है?",
-          "opts": [
-            "Kerala",
-            "Meghalaya",
-            "Assam",
-            "West Bengal"
-          ],
-          "opts_hi": [
-            "केरल",
-            "मेघालय",
-            "असम",
-            "पश्चिम बंगाल"
-          ],
-          "ans": 1,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Which layer of the atmosphere contains the ozone layer?",
-          "q_hi": "वायुमंडल की किस परत में ओजोन परत स्थित है?",
-          "opts": [
-            "Troposphere",
-            "Stratosphere",
-            "Mesosphere",
-            "Thermosphere"
-          ],
-          "opts_hi": [
-            "क्षोभमंडल",
-            "समतापमंडल",
-            "मध्यमंडल",
-            "तापमंडल"
-          ],
-          "ans": 1,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "What was the profit after tax of Scheduled Commercial Banks in FY26 as per RBI?",
-          "q_hi": "RBI के अनुसार, वित्तीय वर्ष 2025-26 में अनुसूचित वाणिज्यिक बैंकों का कर-पश्चात लाभ कितना था?",
-          "opts": [
-            "₹3.78 lakh crore",
-            "₹4.05 lakh crore",
-            "₹4.50 lakh crore",
-            "₹5.20 lakh crore"
-          ],
-          "opts_hi": [
-            "₹3.78 लाख करोड़",
-            "₹4.05 लाख करोड़",
-            "₹4.50 लाख करोड़",
-            "₹5.20 लाख करोड़"
-          ],
-          "ans": 1,
-          "subject": "Current Affairs"
-        },
-        {
-          "q": "Which observatory in Chile has launched the Legacy Survey of Space and Time (LSST) mission?",
-          "q_hi": "चिली में किस वेधशाला ने Legacy Survey of Space and Time (LSST) मिशन लॉन्च किया है?",
-          "opts": [
-            "Vera C. Rubin Observatory",
-            "Very Large Telescope",
-            "Atacama Observatory",
-            "Palomar Observatory"
-          ],
-          "opts_hi": [
-            "वेरा सी. रुबिन वेधशाला",
-            "बहुत बड़ा दूरबीन",
-            "अटाकामा वेधशाला",
-            "पालोमर वेधशाला"
-          ],
+          "q": "Which Constitutional Amendment Act is known as the 'Mini Constitution'?",
+          "q_hi": "किस संवैधानिक संशोधन अधिनियम को 'लघु संविधान' के नाम से जाना जाता है?",
+          "opts": ["42nd Amendment Act", "44th Amendment Act", "52nd Amendment Act", "73rd Amendment Act"],
+          "opts_hi": ["42वां संशोधन अधिनियम", "44वां संशोधन अधिनियम", "52वां संशोधन अधिनियम", "73वां संशोधन अधिनियम"],
           "ans": 0,
-          "subject": "Current Affairs"
-        },
-        {
-          "q": "What is the highest sporting honour of India that was recommended for Hardik Singh in 2025-26?",
-          "q_hi": "2025-26 में हार्दिक सिंह के लिए अनुशंसित भारत का सर्वोच्च खेल सम्मान क्या है?",
-          "opts": [
-            "Arjuna Award",
-            "Khel Ratna Award",
-            "Dronacharya Award",
-            "Rajiv Gandhi Khel Ratna"
-          ],
-          "opts_hi": [
-            "अर्जुन पुरस्कार",
-            "खेल रत्न पुरस्कार",
-            "द्रोणाचार्य पुरस्कार",
-            "राजीव गांधी खेल रत्न"
-          ],
-          "ans": 1,
-          "subject": "Current Affairs"
-        },
-        {
-          "q": "Which athlete publicly criticized the delay in National Sports Awards 2026?",
-          "q_hi": "किस खिलाड़ी ने 2026 के राष्ट्रीय खेल पुरस्कारों में देरी की सार्वजनिक रूप से आलोचना की?",
-          "opts": [
-            "Neeraj Chopra",
-            "Tejaswin Shankar",
-            "PV Sindhu",
-            "Mirabai Chanu"
-          ],
-          "opts_hi": [
-            "नीरज चोपड़ा",
-            "तेजस्विन शंकर",
-            "पी.वी. सिंधु",
-            "मीराबाई चानू"
-          ],
-          "ans": 1,
-          "subject": "Current Affairs"
-        },
-        {
-          "q": "What is India's GDP growth for FY26 as per RBI?",
-          "q_hi": "RBI के अनुसार FY26 में भारत की GDP वृद्धि क्या थी?",
-          "opts": [
-            "0.065",
-            "0.07",
-            "0.077",
-            "0.08"
-          ],
-          "opts_hi": [
-            "0.065",
-            "0.07",
-            "0.077",
-            "0.08"
-          ],
-          "ans": 2,
-          "subject": "Current Affairs"
-        },
-        {
-          "q": "What is the maximum loan amount provided under the PM Vishwakarma scheme?",
-          "q_hi": "PM विश्वकर्मा योजना के तहत अधिकतम ऋण राशि क्या है?",
-          "opts": [
-            "₹50,000",
-            "₹1,00,000",
-            "₹2,00,000",
-            "₹5,00,000"
-          ],
-          "opts_hi": [
-            "₹50,000",
-            "₹1,00,000",
-            "₹2,00,000",
-            "₹5,00,000"
-          ],
-          "ans": 1,
-          "subject": "Current Affairs"
-        }
-      ]
-    },
-    {
-      "id": "ctet_19",
-      "title": "CTET Mock Test 19",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "According to Piaget, which stage involves logical thinking about concrete events?",
-          "q_hi": "पियाजे के अनुसार, ठोस घटनाओं के बारे में तार्किक सोच किस अवस्था में होती है?",
-          "opts": [
-            "Preoperational",
-            "Concrete Operational",
-            "Formal Operational",
-            "Sensorimotor"
-          ],
-          "opts_hi": [
-            "पूर्व-संक्रियात्मक",
-            "मूर्त संक्रियात्मक",
-            "औपचारिक संक्रियात्मक",
-            "संवेदी-गामक"
-          ],
-          "ans": 1,
-          "subject": "Teaching"
-        }
-      ]
-    },
-    {
-      "id": "ctet_20",
-      "title": "CTET Mock Test 20",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Who is known as the father of Modern Education in India?",
-          "q_hi": "भारत में आधुनिक शिक्षा के जनक किसे कहा जाता है?",
-          "opts": [
-            "Swami Vivekananda",
-            "Mahatma Gandhi",
-            "Lord Macaulay",
-            "Dr. Radhakrishnan"
-          ],
-          "opts_hi": [
-            "स्वामी विवेकानंद",
-            "महात्मा गांधी",
-            "लॉर्ड मैकाले",
-            "डॉ. राधाकृष्णन"
-          ],
-          "ans": 2,
-          "subject": "Teaching"
-        },
-        {
-          "q": "According to Kohlberg, moral development has how many stages?",
-          "q_hi": "कोहलबर्ग के अनुसार, नैतिक विकास की कितनी अवस्थाएँ हैं?",
-          "opts": [
-            "3",
-            "4",
-            "6",
-            "8"
-          ],
-          "opts_hi": [
-            "3",
-            "4",
-            "6",
-            "8"
-          ],
-          "ans": 2,
-          "subject": "Teaching"
-        }
-      ]
-    },
-    {
-      "id": "ctet_21",
-      "title": "CTET Mock Test 21",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Who proposed the theory of Multiple Intelligences?",
-          "q_hi": "बहु बुद्धिमत्ता सिद्धांत किसने प्रस्तावित किया?",
-          "opts": [
-            "Jean Piaget",
-            "Howard Gardner",
-            "Lev Vygotsky",
-            "B.F. Skinner"
-          ],
-          "opts_hi": [
-            "जीन पियाजे",
-            "हॉवर्ड गार्डनर",
-            "लेव वायगोत्स्की",
-            "बी.एफ. स्किनर"
-          ],
-          "ans": 1,
-          "subject": "Teaching"
-        },
-        {
-          "q": "Which psychologist is associated with Operant Conditioning?",
-          "q_hi": "ऑपरेंट कंडीशनिंग से कौन से मनोवैज्ञानिक जुड़े हैं?",
-          "opts": [
-            "Pavlov",
-            "Skinner",
-            "Piaget",
-            "Freud"
-          ],
-          "opts_hi": [
-            "पावलोव",
-            "स्किनर",
-            "पियाजे",
-            "फ्रायड"
-          ],
-          "ans": 1,
-          "subject": "Teaching"
-        },
-        {
-          "q": "Who is the father of Classical Conditioning?",
-          "q_hi": "क्लासिकल कंडीशनिंग के जनक कौन हैं?",
-          "opts": [
-            "B.F. Skinner",
-            "Ivan Pavlov",
-            "Jean Piaget",
-            "Sigmund Freud"
-          ],
-          "opts_hi": [
-            "बी.एफ. स्किनर",
-            "इवान पावलोव",
-            "जीन पियाजे",
-            "सिगमंड फ्रायड"
-          ],
-          "ans": 1,
-          "subject": "Teaching"
-        },
-        {
-          "q": "Who gave the concept of Zone of Proximal Development?",
-          "q_hi": "प्रॉक्सिमल डेवलपमेंट जोन की अवधारणा किसने दी?",
-          "opts": [
-            "Piaget",
-            "Vygotsky",
-            "Skinner",
-            "Freud"
-          ],
-          "opts_hi": [
-            "पियाजे",
-            "वायगोत्स्की",
-            "स्किनर",
-            "फ्रायड"
-          ],
-          "ans": 1,
-          "subject": "Teaching"
-        },
-        {
-          "q": "Who developed the theory of cognitive development?",
-          "q_hi": "संज्ञानात्मक विकास सिद्धांत किसने विकसित किया?",
-          "opts": [
-            "B.F. Skinner",
-            "Jean Piaget",
-            "Lev Vygotsky",
-            "Erik Erikson"
-          ],
-          "opts_hi": [
-            "बी.एफ. स्किनर",
-            "जीन पियाजे",
-            "लेव वायगोत्स्की",
-            "एरिक एरिक्सन"
-          ],
-          "ans": 1,
-          "subject": "Teaching"
-        }
-      ]
-    },
-    {
-      "id": "ctet_22",
-      "title": "CTET Mock Test 22",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Who proposed the concept of 'Multiple Intelligences'?",
-          "q_hi": "बहु बुद्धिमत्ता' की अवधारणा किसने प्रस्तावित की?",
-          "opts": [
-            "Howard Gardner",
-            "Jean Piaget",
-            "Lev Vygotsky",
-            "Erik Erikson"
-          ],
-          "opts_hi": [
-            "हॉवर्ड गार्डनर",
-            "जीन पियाजे",
-            "लेव वायगोत्स्की",
-            "एरिक एरिक्सन"
-          ],
-          "ans": 0,
-          "subject": "Teaching"
-        },
-        {
-          "q": "Who is known as the father of progressive education?",
-          "q_hi": "प्रोग्रेसिव शिक्षा के जनक किसे कहा जाता है?",
-          "opts": [
-            "John Dewey",
-            "Jean Piaget",
-            "Maria Montessori",
-            "B.F. Skinner"
-          ],
-          "opts_hi": [
-            "जॉन ड्यूई",
-            "जीन पियाजे",
-            "मारिया मोंटेसरी",
-            "बी.एफ. स्किनर"
-          ],
-          "ans": 0,
-          "subject": "Teaching"
-        }
-      ]
-    },
-    {
-      "id": "ctet_23",
-      "title": "CTET Mock Test 23",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Which river is called the \"Dakshin Ganga\"?",
-          "q_hi": "दक्षिण गंगा किस नदी को कहा जाता है?",
-          "opts": [
-            "Krishna",
-            "Kaveri",
-            "Godavari",
-            "Mahanadi"
-          ],
-          "opts_hi": [
-            "कृष्णा",
-            "कावेरी",
-            "गोदावरी",
-            "महानदी"
-          ],
-          "ans": 2,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Which metal is liquid at room temperature?",
-          "q_hi": "कमरे के तापमान पर कौन सी धातु द्रव होती है?",
-          "opts": [
-            "Iron",
-            "Gold",
-            "Mercury",
-            "Silver"
-          ],
-          "opts_hi": [
-            "लोहा",
-            "सोना",
-            "पारा",
-            "चाँदी"
-          ],
-          "ans": 2,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Who wrote Arthashastra?",
-          "q_hi": "अर्थशास्त्र किसने लिखा?",
-          "opts": [
-            "Kalidasa",
-            "Kautilya (Chanakya)",
-            "Banabhatta",
-            "Tulsidas"
-          ],
-          "opts_hi": [
-            "कालिदास",
-            "कौटिल्य (चाणक्य)",
-            "बाणभट्ट",
-            "तुलसीदास"
-          ],
-          "ans": 1,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Which state is called the \"Spice Garden of India\"?",
-          "q_hi": "किस राज्य को \"भारत का मसाला उद्यान\" कहा जाता है?",
-          "opts": [
-            "Kerala",
-            "Tamil Nadu",
-            "Karnataka",
-            "Andhra Pradesh"
-          ],
-          "opts_hi": [
-            "केरल",
-            "तमिलनाडु",
-            "कर्नाटक",
-            "आंध्र प्रदेश"
-          ],
-          "ans": 0,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Which is the largest producer of milk in the world?",
-          "q_hi": "दुनिया में दूध का सबसे बड़ा उत्पादक कौन सा है?",
-          "opts": [
-            "India",
-            "USA",
-            "China",
-            "Germany"
-          ],
-          "opts_hi": [
-            "भारत",
-            "यूएसए",
-            "चीन",
-            "जर्मनी"
-          ],
-          "ans": 0,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Which is the southernmost point of India?",
-          "q_hi": "भारत का सबसे दक्षिणी बिंदु कौन सा है?",
-          "opts": [
-            "Kanyakumari",
-            "Indira Point",
-            "Kochi",
-            "Thiruvananthapuram"
-          ],
-          "opts_hi": [
-            "कन्याकुमारी",
-            "इंदिरा पॉइंट",
-            "कोच्चि",
-            "तिरुवनंतपुरम"
-          ],
-          "ans": 1,
-          "subject": "General Knowledge"
-        }
-      ]
-    },
-    {
-      "id": "ctet_24",
-      "title": "CTET Mock Test 24",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Prime Minister Modi announced the establishment of which mechanism to ensure speedy trial of paper leak cases?",
-          "q_hi": "प्रधानमंत्री मोदी ने पेपर लीक मामलों की शीघ्र सुनवाई सुनिश्चित करने के लिए किस तंत्र की स्थापना की घोषणा की?",
-          "opts": [
-            "Fast-Track Courts",
-            "Special Investigation Teams",
-            "Central Vigilance Commission",
-            "National Examination Authority"
-          ],
-          "opts_hi": [
-            "फास्ट-ट्रैक कोर्ट",
-            "विशेष जांच दल",
-            "केंद्रीय सतर्कता आयोग",
-            "राष्ट्रीय परीक्षा प्राधिकरण"
-          ],
-          "ans": 0,
-          "subject": "Current Affairs"
-        }
-      ]
-    },
-    {
-      "id": "ctet_25",
-      "title": "CTET Mock Test 25",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "What is the name of the proposed Bill that seeks to extend statutory protection to the national song Vande Mataram?",
-          "q_hi": "राष्ट्रीय गीत वंदे मातरम् को वैधानिक संरक्षण देने वाला प्रस्तावित विधेयक का क्या नाम है?",
-          "opts": [
-            "National Song Protection Bill",
-            "Prevention of Insults to National Honour (Amendment) Bill, 2026",
-            "National Heritage Protection Bill",
-            "Vande Mataram Act"
-          ],
-          "opts_hi": [
-            "राष्ट्रीय गीत संरक्षण विधेयक",
-            "राष्ट्रीय सम्मान के अपमान की रोकथाम (संशोधन) विधेयक, 2026",
-            "राष्ट्रीय विरासत संरक्षण विधेयक",
-            "वंदे मातरम् अधिनियम"
-          ],
-          "ans": 1,
-          "subject": "Current Affairs"
+          "subject": "Social Studies"
         }
       ]
     }
