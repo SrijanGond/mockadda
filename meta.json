@@ -338,135 +338,37 @@
     "icon": "📚",
     "color": "#34d399",
     "exams": {
-      "ctet": {
+            "ctet": {
         "name": "CTET",
         "fullname": "Central Teacher Eligibility Test",
         "tests": [
           {
             "id": "ctet_1",
-            "title": "CTET Paper 1 Mock Test",
-            "duration": 15,
+            "title": "CTET Full Mock Test 1 (Paper 1 Pattern)",
+            "duration": 150,
             "difficulty": "Medium",
-            "questionCount": 10
+            "questionCount": 25
           },
           {
             "id": "ctet_2",
-            "title": "CTET Mock Test 2",
-            "duration": 10,
+            "title": "CTET Full Mock Test 2 (Paper 1 Pattern)",
+            "duration": 150,
             "difficulty": "Medium",
-            "questionCount": 1
+            "questionCount": 25
           },
           {
             "id": "ctet_3",
-            "title": "CTET Mock Test 3",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
+            "title": "CTET Full Mock Test 3 (Paper 2 Pattern)",
+            "duration": 150,
+            "difficulty": "Hard",
+            "questionCount": 25
           },
           {
             "id": "ctet_4",
-            "title": "CTET Mock Test 4",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "ctet_5",
-            "title": "CTET Mock Test 5",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "ctet_6",
-            "title": "CTET Mock Test 6",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 3
-          },
-          {
-            "id": "ctet_7",
-            "title": "CTET Mock Test 7",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "ctet_8",
-            "title": "CTET Mock Test 8",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
-          },
-          {
-            "id": "ctet_9",
-            "title": "CTET Mock Test 9",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 3
-          },
-          {
-            "id": "ctet_10",
-            "title": "CTET Mock Test 10",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 4
-          },
-          {
-            "id": "ctet_11",
-            "title": "CTET Mock Test 11",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
-          },
-          {
-            "id": "ctet_12",
-            "title": "CTET Mock Test 12",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "ctet_13",
-            "title": "CTET Mock Test 13",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 3
-          },
-          {
-            "id": "ctet_14",
-            "title": "CTET Mock Test 14",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 3
-          },
-          {
-            "id": "ctet_15",
-            "title": "CTET Mock Test 15",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
-          },
-          {
-            "id": "ctet_16",
-            "title": "CTET Mock Test 16",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
-          },
-          {
-            "id": "ctet_17",
-            "title": "CTET Mock Test 17",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "ctet_18",
-            "title": "CTET Mock Test 18",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
+            "title": "CTET Full Mock Test 4 (Paper 2 Pattern)",
+            "duration": 150,
+            "difficulty": "Hard",
+            "questionCount": 25
           }
         ]
       },
