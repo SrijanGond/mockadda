@@ -447,166 +447,40 @@
           }
         ]
       },
-  "roaro": {
-    "name": "RO/ARO Allahabad HC",
-    "icon": "📜",
-    "color": "#0891b2",
-    "exams": {
-      "roaro_prelims": {
+        "roaro_prelims": {
         "name": "RO/ARO Prelims",
         "fullname": "Allahabad High Court Review Officer / Assistant Review Officer — Preliminary Exam (General Studies)",
         "tests": [
           {
             "id": "roaro_pre_1",
-            "title": "RO/ARO Prelims GS Mock Test 1",
-            "duration": 60,
+            "title": "RO/ARO Prelims Full Mock Test 1 (General Studies)",
+            "duration": 120,
             "difficulty": "Hard",
-            "questionCount": 100
+            "questionCount": 25
           },
           {
             "id": "roaro_pre_2",
-            "title": "RO/ARO Prelims GS Mock Test 2",
-            "duration": 60,
+            "title": "RO/ARO Prelims Full Mock Test 2 (General Studies)",
+            "duration": 120,
             "difficulty": "Hard",
-            "questionCount": 100
+            "questionCount": 25
           },
           {
             "id": "roaro_pre_3",
-            "title": "RO/ARO Prelims Mock Test 3",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
+            "title": "RO/ARO Prelims Full Mock Test 3 (General Studies)",
+            "duration": 120,
+            "difficulty": "Hard",
+            "questionCount": 25
           },
           {
             "id": "roaro_pre_4",
-            "title": "RO/ARO Prelims Mock Test 4",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 3
-          },
-          {
-            "id": "roaro_pre_5",
-            "title": "RO/ARO Prelims Mock Test 5",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "roaro_pre_6",
-            "title": "RO/ARO Prelims Mock Test 6",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 3
-          },
-          {
-            "id": "roaro_pre_7",
-            "title": "RO/ARO Prelims Mock Test 7",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 4
-          },
-          {
-            "id": "roaro_pre_8",
-            "title": "RO/ARO Prelims Mock Test 8",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 3
-          },
-          {
-            "id": "roaro_pre_9",
-            "title": "RO/ARO Prelims Mock Test 9",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 3
-          },
-          {
-            "id": "roaro_pre_10",
-            "title": "RO/ARO Prelims Mock Test 10",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
-          },
-          {
-            "id": "roaro_pre_11",
-            "title": "RO/ARO Prelims Mock Test 11",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
-          },
-          {
-            "id": "roaro_pre_12",
-            "title": "RO/ARO Prelims Mock Test 12",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 8
-          },
-          {
-            "id": "roaro_pre_13",
-            "title": "RO/ARO Prelims Mock Test 13",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 3
-          },
-          {
-            "id": "roaro_pre_14",
-            "title": "RO/ARO Prelims Mock Test 14",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "roaro_pre_15",
-            "title": "RO/ARO Prelims Mock Test 15",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 4
-          },
-          {
-            "id": "roaro_pre_16",
-            "title": "RO/ARO Prelims Mock Test 16",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "roaro_pre_17",
-            "title": "RO/ARO Prelims Mock Test 17",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 3
-          },
-          {
-            "id": "roaro_pre_18",
-            "title": "RO/ARO Prelims Mock Test 18",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
-          },
-          {
-            "id": "roaro_pre_19",
-            "title": "RO/ARO Prelims Mock Test 19",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "roaro_pre_20",
-            "title": "RO/ARO Prelims Mock Test 20",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
-          },
-          {
-            "id": "roaro_pre_21",
-            "title": "RO/ARO Prelims Mock Test 21",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
+            "title": "RO/ARO Prelims Full Mock Test 4 (General Studies)",
+            "duration": 120,
+            "difficulty": "Hard",
+            "questionCount": 25
           }
         ]
-      }
-    }
-  },
+      },
   "police": {
     "name": "Police Exams",
     "icon": "🚓",
