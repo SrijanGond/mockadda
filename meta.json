@@ -222,147 +222,40 @@
           }
         ]
       },
-      "sbi_clerk": {
+            "sbi_clerk": {
         "name": "SBI Clerk",
         "fullname": "State Bank of India Junior Associates",
         "tests": [
           {
             "id": "sbi_clerk_1",
-            "title": "SBI Clerk Mock Test 1",
-            "duration": 15,
+            "title": "SBI Clerk Full Mock Test 1 (Prelims Pattern)",
+            "duration": 60,
             "difficulty": "Medium",
-            "questionCount": 10
+            "questionCount": 25
           },
           {
             "id": "sbi_clerk_2",
-            "title": "SBI Clerk Mock Test 2",
-            "duration": 10,
+            "title": "SBI Clerk Full Mock Test 2 (Prelims Pattern)",
+            "duration": 60,
             "difficulty": "Medium",
-            "questionCount": 1
+            "questionCount": 25
           },
           {
             "id": "sbi_clerk_3",
-            "title": "SBI Clerk Mock Test 3",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
+            "title": "SBI Clerk Full Mock Test 3 (Prelims Pattern)",
+            "duration": 60,
+            "difficulty": "Hard",
+            "questionCount": 25
           },
           {
             "id": "sbi_clerk_4",
-            "title": "SBI Clerk Mock Test 4",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "sbi_clerk_5",
-            "title": "SBI Clerk Mock Test 5",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "sbi_clerk_6",
-            "title": "SBI Clerk Mock Test 6",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
-          },
-          {
-            "id": "sbi_clerk_7",
-            "title": "SBI Clerk Mock Test 7",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 3
-          },
-          {
-            "id": "sbi_clerk_8",
-            "title": "SBI Clerk Mock Test 8",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
-          },
-          {
-            "id": "sbi_clerk_9",
-            "title": "SBI Clerk Mock Test 9",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
-          },
-          {
-            "id": "sbi_clerk_10",
-            "title": "SBI Clerk Mock Test 10",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 5
-          },
-          {
-            "id": "sbi_clerk_11",
-            "title": "SBI Clerk Mock Test 11",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "sbi_clerk_12",
-            "title": "SBI Clerk Mock Test 12",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
-          },
-          {
-            "id": "sbi_clerk_13",
-            "title": "SBI Clerk Mock Test 13",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
-          },
-          {
-            "id": "sbi_clerk_14",
-            "title": "SBI Clerk Mock Test 14",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
-          },
-          {
-            "id": "sbi_clerk_15",
-            "title": "SBI Clerk Mock Test 15",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "sbi_clerk_16",
-            "title": "SBI Clerk Mock Test 16",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
-          },
-          {
-            "id": "sbi_clerk_17",
-            "title": "SBI Clerk Mock Test 17",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "sbi_clerk_18",
-            "title": "SBI Clerk Mock Test 18",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "sbi_clerk_19",
-            "title": "SBI Clerk Mock Test 19",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
+            "title": "SBI Clerk Full Mock Test 4 (Prelims Pattern)",
+            "duration": 60,
+            "difficulty": "Hard",
+            "questionCount": 25
           }
         ]
-      }
-    }
-  },
+      },
   "railways": {
     "name": "Railways Exams",
     "icon": "🚂",
