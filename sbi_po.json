@@ -2,1782 +2,841 @@
   "tests": [
     {
       "id": "sbi_po_1",
-      "title": "SBI PO Mock Test 1",
-      "duration": 20,
+      "title": "SBI PO Full Mock Test 1 (Prelims Pattern)",
+      "duration": 60,
       "difficulty": "Hard",
+      "correctMarks": 1,
+      "negativeMarks": 0.25,
       "questions": [
         {
-          "q": "SBI was established in?",
-          "q_hi": "SBI की स्थापना कब हुई?",
-          "opts": [
-            "1950",
-            "1953",
-            "1955",
-            "1960"
-          ],
-          "opts_hi": [
-            "1950",
-            "1953",
-            "1955",
-            "1960"
-          ],
-          "ans": 2
+          "q": "Select the option that is related to the third term in the same way as the second term is related to the first term. BOOK : PAGES :: WATCH : ?",
+          "q_hi": "उस विकल्प का चयन करें जो तीसरे पद से उसी प्रकार संबंधित है जैसे दूसरा पद पहले पद से संबंधित है। BOOK : PAGES :: WATCH : ?",
+          "opts": ["Time", "Dial", "Straps", "Battery"],
+          "opts_hi": ["समय", "डायल", "पट्टियाँ", "बैटरी"],
+          "ans": 1,
+          "subject": "Reasoning Ability"
         },
         {
-          "q": "Repo Rate is set by?",
-          "q_hi": "रेपो दर किसके द्वारा निर्धारित की जाती है?",
-          "opts": [
-            "SBI",
-            "SEBI",
-            "RBI",
-            "Finance Ministry"
-          ],
-          "opts_hi": [
-            "SBI",
-            "SEBI",
-            "RBI",
-            "वित्त मंत्रालय"
-          ],
-          "ans": 2
-        },
-        {
-          "q": "If x + y = 10 and xy = 21, find x² + y²?",
-          "q_hi": "यदि x + y = 10 और xy = 21 हो, तो x² + y² = ?",
-          "opts": [
-            "52",
-            "56",
-            "58",
-            "60"
-          ],
-          "opts_hi": [
-            "52",
-            "56",
-            "58",
-            "60"
-          ],
-          "ans": 2
-        },
-        {
-          "q": "SWIFT stands for?",
-          "q_hi": "SWIFT का पूर्ण रूप क्या है?",
-          "opts": [
-            "Society for Worldwide Interbank Financial Telecommunication",
-            "System for World Interbank Finance Transfer",
-            "Society for World Internet Finance Transfer",
-            "None of these"
-          ],
-          "opts_hi": [
-            "सोसाइटी फॉर वर्ल्डवाइड इंटरबैंक फाइनेंशियल टेलीकम्युनिकेशन",
-            "सिस्टम फॉर वर्ल्ड इंटरबैंक फाइनेंस ट्रांसफर",
-            "सोसाइटी फॉर वर्ल्ड इंटरनेट फाइनेंस ट्रांसफर",
-            "इनमें से कोई नहीं"
-          ],
-          "ans": 0
-        },
-        {
-          "q": "What is the full form of NEFT?",
-          "q_hi": "NEFT का पूर्ण रूप क्या है?",
-          "opts": [
-            "National Electronic Fund Transfer",
-            "National Efficient Fund Transfer",
-            "National Electronic Finance Transaction",
-            "None"
-          ],
-          "opts_hi": [
-            "राष्ट्रीय इलेक्ट्रॉनिक निधि अंतरण",
-            "नेशनल एफिशिएंट फंड ट्रांसफर",
-            "नेशनल इलेक्ट्रॉनिक फाइनेंस ट्रांजेक्शन",
-            "कोई नहीं"
-          ],
+          "q": "In a certain code language, 'MOUSE' is coded as 'NPVTF'. How will 'CLOCK' be coded?",
+          "q_hi": "एक निश्चित कूट भाषा में, 'MOUSE' को 'NPVTF' के रूप में कूटबद्ध किया जाता है। 'CLOCK' को किस रूप में कूटबद्ध किया जाएगा?",
+          "opts": ["DMPDL", "DMPDN", "DMQDN", "DNQDL"],
+          "opts_hi": ["DMPDL", "DMPDN", "DMQDN", "DNQDL"],
           "ans": 0,
-          "subject": "Banking"
+          "subject": "Reasoning Ability"
         },
         {
-          "q": "Basel III norms are related to?",
-          "q_hi": "बेसल III मानदंड किससे संबंधित हैं?",
-          "opts": [
-            "Insurance",
-            "Banking",
-            "Stock Market",
-            "Mutual Funds"
-          ],
-          "opts_hi": [
-            "बीमा",
-            "बैंकिंग",
-            "शेयर बाजार",
-            "म्युचुअल फंड"
-          ],
-          "ans": 1
+          "q": "Find the odd one out: 2, 3, 5, 7, 11, 13, 17, 19, 21, 23",
+          "q_hi": "विषम ज्ञात करें: 2, 3, 5, 7, 11, 13, 17, 19, 21, 23",
+          "opts": ["21", "19", "17", "23"],
+          "opts_hi": ["21", "19", "17", "23"],
+          "ans": 0,
+          "subject": "Reasoning Ability"
         },
         {
-          "q": "A sum doubles in 8 years at SI. Rate of interest is?",
-          "q_hi": "साधारण ब्याज पर एक राशि 8 वर्षों में दोगुनी हो जाती है। ब्याज दर क्या है?",
-          "opts": [
-            "10%",
-            "11%",
-            "12.5%",
-            "15%"
-          ],
-          "opts_hi": [
-            "10%",
-            "11%",
-            "12.5%",
-            "15%"
-          ],
-          "ans": 2
+          "q": "Complete the series: A, C, F, J, ?",
+          "q_hi": "श्रृंखला पूरी करें: A, C, F, J, ?",
+          "opts": ["O", "P", "Q", "R"],
+          "opts_hi": ["O", "P", "Q", "R"],
+          "ans": 0,
+          "subject": "Reasoning Ability"
         },
         {
-          "q": "The headquarters of World Bank is in?",
-          "q_hi": "विश्व बैंक का मुख्यालय कहाँ है?",
-          "opts": [
-            "New York",
-            "London",
-            "Washington D.C.",
-            "Geneva"
-          ],
-          "opts_hi": [
-            "न्यूयॉर्क",
-            "लंदन",
-            "वाशिंगटन डी.सी.",
-            "जिनेवा"
-          ],
-          "ans": 2
+          "q": "Select the correct option: 8 : 512 :: 7 : ?",
+          "q_hi": "सही विकल्प चुनें: 8 : 512 :: 7 : ?",
+          "opts": ["343", "349", "280", "324"],
+          "opts_hi": ["343", "349", "280", "324"],
+          "ans": 0,
+          "subject": "Reasoning Ability"
         },
         {
-          "q": "Choose the correct sentence:",
-          "q_hi": "सही वाक्य चुनें:",
-          "opts": [
-            "She has went to market",
-            "She has gone to market",
-            "She have gone to market",
-            "She gone to market"
-          ],
-          "opts_hi": [
-            "She has went to market",
-            "She has gone to market",
-            "She have gone to market",
-            "She gone to market"
-          ],
-          "ans": 1
+          "q": "What is 25% of 200?",
+          "q_hi": "200 का 25% कितना है?",
+          "opts": ["25", "50", "75", "100"],
+          "opts_hi": ["25", "50", "75", "100"],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
         },
         {
-          "q": "Current Account Deficit means?",
-          "q_hi": "चालू खाता घाटे का अर्थ है?",
-          "opts": [
-            "Exports > Imports",
-            "Imports > Exports",
-            "FDI > FII",
-            "Revenue > Expenditure"
-          ],
-          "opts_hi": [
-            "निर्यात > आयात",
-            "आयात > निर्यात",
-            "एफडीआई > एफआईआई",
-            "राजस्व > व्यय"
-          ],
-          "ans": 1
+          "q": "If x = 5, find the value of 2x + 3.",
+          "q_hi": "यदि x = 5 है, तो 2x + 3 का मान ज्ञात करें।",
+          "opts": ["10", "11", "12", "13"],
+          "opts_hi": ["10", "11", "12", "13"],
+          "ans": 3,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "LCM of 15 and 20 is?",
+          "q_hi": "15 और 20 का लघुत्तम समापवर्त्य (LCM) है?",
+          "opts": ["40", "50", "60", "80"],
+          "opts_hi": ["40", "50", "60", "80"],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "If 30% of a number is 90, what is the number?",
+          "q_hi": "यदि किसी संख्या का 30% = 90 है, तो संख्या क्या है?",
+          "opts": ["270", "280", "300", "320"],
+          "opts_hi": ["270", "280", "300", "320"],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A shopkeeper sells a product for ₹840 at 20% profit. Cost price is?",
+          "q_hi": "एक दुकानदार ₹840 में 20% लाभ पर बेचता है। क्रय मूल्य क्या है?",
+          "opts": ["₹680", "₹700", "₹720", "₹750"],
+          "opts_hi": ["₹680", "₹700", "₹720", "₹750"],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Synonym of 'Happy'?",
+          "q_hi": "'Happy' का पर्यायवाची शब्द?",
+          "opts": ["Sad", "Joyful", "Angry", "Tired"],
+          "opts_hi": ["उदास", "प्रसन्न", "क्रोधित", "थका"],
+          "ans": 1,
+          "subject": "English Language"
+        },
+        {
+          "q": "Antonym of 'Dark'?",
+          "q_hi": "'Dark' का विलोम शब्द?",
+          "opts": ["Light", "Black", "Night", "Dim"],
+          "opts_hi": ["प्रकाश", "काला", "रात", "मंद"],
+          "ans": 0,
+          "subject": "English Language"
+        },
+        {
+          "q": "Fill in the blank: She is _______ than her sister.",
+          "q_hi": "रिक्त स्थान भरें: She is _______ than her sister.",
+          "opts": ["tall", "taller", "tallest", "more tall"],
+          "opts_hi": ["tall", "taller", "tallest", "more tall"],
+          "ans": 1,
+          "subject": "English Language"
+        },
+        {
+          "q": "What is the meaning of 'Diligent'?",
+          "q_hi": "'Diligent' का अर्थ क्या है?",
+          "opts": ["Lazy", "Hardworking", "Slow", "Careless"],
+          "opts_hi": ["आलसी", "मेहनती", "धीमा", "लापरवाह"],
+          "ans": 1,
+          "subject": "English Language"
+        },
+        {
+          "q": "Choose the correctly spelled word.",
+          "q_hi": "सही वर्तनी वाला शब्द चुनें।",
+          "opts": ["Seperate", "Separate", "Seperete", "Seprate"],
+          "opts_hi": ["Seperate", "Separate", "Seperete", "Seprate"],
+          "ans": 1,
+          "subject": "English Language"
+        },
+        {
+          "q": "Select the synonym of 'Abundant'?",
+          "q_hi": "Abundant का पर्यायवाची शब्द चुनें।",
+          "opts": ["Scarce", "Plentiful", "Limited", "Lacking"],
+          "opts_hi": ["दुर्लभ", "प्रचुर", "सीमित", "कमी"],
+          "ans": 1,
+          "subject": "English Language"
+        },
+        {
+          "q": "Fill in the blank: He has been waiting _______ 2 hours.",
+          "q_hi": "रिक्त स्थान भरें: He has been waiting _______ 2 hours.",
+          "opts": ["since", "for", "from", "until"],
+          "opts_hi": ["since", "for", "from", "until"],
+          "ans": 1,
+          "subject": "English Language"
+        },
+        {
+          "q": "Select the antonym of 'Genuine'?",
+          "q_hi": "Genuine का विलोम शब्द चुनें।",
+          "opts": ["Real", "Authentic", "Fake", "Original"],
+          "opts_hi": ["Real", "Authentic", "Fake", "Original"],
+          "ans": 2,
+          "subject": "English Language"
+        },
+        {
+          "q": "Identify the error: 'He is one of the best student in the class.'",
+          "q_hi": "त्रुटि पहचानें: 'He is one of the best student in the class.'",
+          "opts": ["is", "of", "student", "class"],
+          "opts_hi": ["is", "of", "student", "class"],
+          "ans": 2,
+          "subject": "English Language"
+        },
+        {
+          "q": "The phrase 'To be at loggerheads' means:",
+          "q_hi": "To be at loggerheads वाक्यांश का अर्थ है:",
+          "opts": ["To be in a romantic relationship", "To be in a state of agreement", "To be in a state of disagreement", "To be working together"],
+          "opts_hi": ["रोमांटिक रिश्ते में होना", "सहमति की स्थिति में होना", "असहमति की स्थिति में होना", "एक साथ काम करना"],
+          "ans": 2,
+          "subject": "English Language"
+        },
+        {
+          "q": "What is the full form of KYC in banking terminology?",
+          "q_hi": "बैंकिंग शब्दावली में KYC का पूर्ण रूप क्या है?",
+          "opts": ["Know Your Customer", "Keep Your Cash", "Know Your Company", "Keep Your Credit"],
+          "opts_hi": ["Know Your Customer", "Keep Your Cash", "Know Your Company", "Keep Your Credit"],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which bank launched the 'YONO' digital banking platform?",
+          "q_hi": "किस बैंक ने 'YONO' डिजिटल बैंकिंग प्लेटफॉर्म लॉन्च किया है?",
+          "opts": ["HDFC Bank", "ICICI Bank", "State Bank of India", "Axis Bank"],
+          "opts_hi": ["HDFC बैंक", "ICICI बैंक", "State Bank of India", "Axis Bank"],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "What does 'CRR' stand for in banking?",
+          "q_hi": "बैंकिंग में 'CRR' का क्या अर्थ है?",
+          "opts": ["Cash Reserve Ratio", "Credit Reserve Ratio", "Current Reserve Rate", "Capital Reserve Ratio"],
+          "opts_hi": ["Cash Reserve Ratio", "Credit Reserve Ratio", "Current Reserve Rate", "Capital Reserve Ratio"],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which is the largest bank in India by assets?",
+          "q_hi": "भारत का संपत्ति के हिसाब से सबसे बड़ा बैंक कौन सा है?",
+          "opts": ["HDFC Bank", "ICICI Bank", "State Bank of India", "Axis Bank"],
+          "opts_hi": ["HDFC बैंक", "ICICI बैंक", "State Bank of India", "Axis Bank"],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "What does 'NEFT' stand for?",
+          "q_hi": "NEFT का पूर्ण रूप क्या है?",
+          "opts": ["National Electronic Funds Transfer", "National Electronic Finance Transfer", "Net Electronic Fund Transfer", "None"],
+          "opts_hi": ["National Electronic Funds Transfer", "National Electronic Finance Transfer", "Net Electronic Fund Transfer", "None"],
+          "ans": 0,
+          "subject": "General Awareness"
         }
       ]
     },
     {
       "id": "sbi_po_2",
-      "title": "SBI PO Mock Test 2",
-      "duration": 10,
-      "difficulty": "Medium",
+      "title": "SBI PO Full Mock Test 2 (Prelims Pattern)",
+      "duration": 60,
+      "difficulty": "Hard",
+      "correctMarks": 1,
+      "negativeMarks": 0.25,
       "questions": [
         {
-          "q": "What is the full form of KYC in banking terminology?",
-          "q_hi": "बैंकिंग शब्दावली में KYC का पूर्ण रूप क्या है?",
-          "opts": [
-            "Know Your Customer",
-            "Keep Your Cash",
-            "Know Your Company",
-            "Keep Your Credit"
-          ],
-          "opts_hi": [
-            "नो योर कस्टमर",
-            "कीप योर कैश",
-            "नो योर कंपनी",
-            "कीप योर क्रेडिट"
-          ],
-          "ans": 0,
-          "subject": "Banking"
+          "q": "Find the odd one out: 3, 6, 9, 12, 15, 18, 21, 24, 27, 30, 33, 36, 39, 42, 45, 48, 51, 54, 57, 60, 63, 66, 69, 72, 75, 78, 81, 84, 87, 90, 93, 96, 99, 102, 105",
+          "q_hi": "विषम चुनें: 3, 6, 9, 12, 15, 18, 21, 24, 27, 30, 33, 36, 39, 42, 45, 48, 51, 54, 57, 60, 63, 66, 69, 72, 75, 78, 81, 84, 87, 90, 93, 96, 99, 102, 105",
+          "opts": ["102", "99", "96", "None, all are multiples of 3"],
+          "opts_hi": ["102", "99", "96", "कोई नहीं, सभी 3 के गुणज हैं"],
+          "ans": 3,
+          "subject": "Reasoning Ability"
         },
         {
-          "q": "Which of the following terms refers to the practice of banks lending money to multiple borrowers against the same security?",
-          "q_hi": "बैंकों द्वारा एक ही प्रतिभूति के विरुद्ध कई उधारकर्ताओं को पैसा उधार देने की प्रथा को निम्नलिखित में से किस शब्द से संदर्भित किया जाता है?",
-          "opts": [
-            "Cross Collateralization",
-            "Hypothecation",
-            "Overdraft",
-            "Multiple Financing"
-          ],
-          "opts_hi": [
-            "क्रॉस कोलेटरलाइजेशन",
-            "हाइपोथिकेशन",
-            "ओवरड्राफ्ट",
-            "मल्टीपल फाइनेंसिंग"
-          ],
+          "q": "Find the odd one out: 11, 22, 33, 44, 55, 66, 77, 88, 99, 110, 121, 132, 143, 154, 165, 176, 187, 198, 209, 220, 231, 242, 253, 264, 275, 286, 297, 308, 319, 330",
+          "q_hi": "विषम ज्ञात करें: 11, 22, 33, 44, 55, 66, 77, 88, 99, 110, 121, 132, 143, 154, 165, 176, 187, 198, 209, 220, 231, 242, 253, 264, 275, 286, 297, 308, 319, 330",
+          "opts": ["330", "319", "308", "None, all are multiples of 11"],
+          "opts_hi": ["330", "319", "308", "कोई नहीं, सभी 11 के गुणज हैं"],
+          "ans": 3,
+          "subject": "Reasoning Ability"
+        },
+        {
+          "q": "Find the odd one out: Car, Bus, Train, Bicycle",
+          "q_hi": "विषम ज्ञात करें: Car, Bus, Train, Bicycle",
+          "opts": ["Car", "Bus", "Train", "Bicycle"],
+          "opts_hi": ["Car", "Bus", "Train", "Bicycle"],
+          "ans": 2,
+          "subject": "Reasoning Ability"
+        },
+        {
+          "q": "Select the correct option: 2, 3, 5, 7, 11, ?",
+          "q_hi": "सही विकल्प चुनें: 2, 3, 5, 7, 11, ?",
+          "opts": ["12", "13", "14", "15"],
+          "opts_hi": ["12", "13", "14", "15"],
+          "ans": 1,
+          "subject": "Reasoning Ability"
+        },
+        {
+          "q": "What comes next in the series? 2, 6, 12, 20, 30, ?",
+          "q_hi": "श्रृंखला में आगे क्या आएगा? 2, 6, 12, 20, 30, ?",
+          "opts": ["36", "38", "40", "42"],
+          "opts_hi": ["36", "38", "40", "42"],
+          "ans": 3,
+          "subject": "Reasoning Ability"
+        },
+        {
+          "q": "If the angles of a triangle are in the ratio 2:3:4, what is the smallest angle?",
+          "q_hi": "यदि एक त्रिभुज के कोण 2:3:4 के अनुपात में हैं, तो सबसे छोटा कोण क्या है?",
+          "opts": ["40°", "60°", "80°", "20°"],
+          "opts_hi": ["40°", "60°", "80°", "20°"],
           "ans": 0,
-          "subject": "Banking"
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "What is the remainder when 2^100 is divided by 7?",
+          "q_hi": "2^100 को 7 से विभाजित करने पर शेषफल क्या है?",
+          "opts": ["1", "2", "3", "4"],
+          "opts_hi": ["1", "2", "3", "4"],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "If a:b = 2:3 and b:c = 4:5, find a:c.",
+          "q_hi": "यदि a:b = 2:3 और b:c = 4:5 है, तो a:c ज्ञात करें।",
+          "opts": ["8:12", "8:15", "2:5", "4:5"],
+          "opts_hi": ["8:12", "8:15", "2:5", "4:5"],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A person covers a distance of 300 km at a speed of 60 km/hr and another 300 km at 100 km/hr. What is the average speed for the entire journey?",
+          "q_hi": "एक व्यक्ति 60 किमी/घंटा की गति से 300 किमी की दूरी तय करता है और 100 किमी/घंटा की गति से अन्य 300 किमी की दूरी तय करता है। पूरी यात्रा की औसत गति क्या है?",
+          "opts": ["75 km/hr", "80 km/hr", "85 km/hr", "70 km/hr"],
+          "opts_hi": ["75 किमी/घंटा", "80 किमी/घंटा", "85 किमी/घंटा", "70 किमी/घंटा"],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "The sum of the square of two numbers is 80 and their product is 24. What is the difference between the two numbers?",
+          "q_hi": "दो संख्याओं के वर्गों का योग 80 है और उनका गुणनफल 24 है। दोनों संख्याओं के बीच का अंतर क्या है?",
+          "opts": ["√32", "√40", "√48", "√56"],
+          "opts_hi": ["√32", "√40", "√48", "√56"],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "The phrase 'Turn a deaf ear' means:",
+          "q_hi": "Turn a deaf ear वाक्यांश का अर्थ है:",
+          "opts": ["Listen carefully", "Pretend not to hear", "Lose hearing ability", "Speak loudly"],
+          "opts_hi": ["ध्यान से सुनना", "सुनने का नाटक करना", "सुनने की क्षमता खोना", "जोर से बोलना"],
+          "ans": 0,
+          "subject": "English Language"
+        },
+        {
+          "q": "Choose the synonym of 'Abundant'?",
+          "q_hi": "Abundant का पर्यायवाची शब्द चुनें।",
+          "opts": ["Scarce", "Plentiful", "Limited", "Lacking"],
+          "opts_hi": ["दुर्लभ", "प्रचुर", "सीमित", "कमी"],
+          "ans": 1,
+          "subject": "English Language"
+        },
+        {
+          "q": "What is the correct meaning of the idiom 'A piece of cake'?",
+          "q_hi": "A piece of cake मुहावरे का सही अर्थ क्या है?",
+          "opts": ["Difficult task", "Very easy task", "Expensive item", "Delicious food"],
+          "opts_hi": ["कठिन कार्य", "बहुत आसान कार्य", "महंगी वस्तु", "स्वादिष्ट भोजन"],
+          "ans": 1,
+          "subject": "English Language"
+        },
+        {
+          "q": "Which word is correctly spelled?",
+          "q_hi": "कौन सा शब्द सही वर्तनी वाला है?",
+          "opts": ["Accomodate", "Accommodate", "Acommodate", "Accomadate"],
+          "opts_hi": ["Accomodate", "Accommodate", "Acommodate", "Accomadate"],
+          "ans": 1,
+          "subject": "English Language"
+        },
+        {
+          "q": "What is the antonym of 'Beautiful'?",
+          "q_hi": "'Beautiful' का विलोम शब्द क्या है?",
+          "opts": ["Ugly", "Pretty", "Lovely", "Attractive"],
+          "opts_hi": ["बदसूरत", "सुंदर", "प्यारा", "आकर्षक"],
+          "ans": 0,
+          "subject": "English Language"
+        },
+        {
+          "q": "Which of the following is a conjunction?",
+          "q_hi": "निम्नलिखित में से कौन सा संयोजक (Conjunction) है?",
+          "opts": ["and", "run", "book", "fast"],
+          "opts_hi": ["and", "run", "book", "fast"],
+          "ans": 0,
+          "subject": "English Language"
+        },
+        {
+          "q": "What is the full form of ATM?",
+          "q_hi": "ATM का पूर्ण रूप क्या है?",
+          "opts": ["Any Time Money", "Automated Teller Machine", "Automatic Transfer Machine", "None"],
+          "opts_hi": ["Any Time Money", "Automated Teller Machine", "Automatic Transfer Machine", "None"],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "What is the apex body for microfinance in India?",
+          "q_hi": "भारत में सूक्ष्म वित्त का शीर्ष निकाय कौन सा है?",
+          "opts": ["NABARD", "RBI", "SEBI", "NHB"],
+          "opts_hi": ["NABARD", "RBI", "SEBI", "NHB"],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which organization regulates insurance in India?",
+          "q_hi": "भारत में बीमा का नियमन कौन करता है?",
+          "opts": ["RBI", "IRDAI", "SEBI", "PFRDA"],
+          "opts_hi": ["RBI", "IRDAI", "SEBI", "PFRDA"],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "What does 'IFSC' stand for?",
+          "q_hi": "IFSC का पूर्ण रूप क्या है?",
+          "opts": ["Indian Financial System Code", "International Financial System Code", "Indian Fund Settlement Code", "None"],
+          "opts_hi": ["Indian Financial System Code", "International Financial System Code", "Indian Fund Settlement Code", "None"],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which bank paid the highest dividend to the Government of India for FY26?",
+          "q_hi": "किस बैंक ने FY26 के लिए भारत सरकार को सबसे अधिक लाभांश का भुगतान किया?",
+          "opts": ["Bank of Baroda", "Punjab National Bank", "Canara Bank", "Indian Bank"],
+          "opts_hi": ["बैंक ऑफ बड़ौदा", "पंजाब नेशनल बैंक", "केनरा बैंक", "इंडियन बैंक"],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "What is the full form of SEBI?",
+          "q_hi": "SEBI का पूर्ण रूप क्या है?",
+          "opts": ["Securities and Exchange Board of India", "Stock Exchange Board of India", "Securities Exchange Board", "None"],
+          "opts_hi": ["Securities and Exchange Board of India", "Stock Exchange Board of India", "Securities Exchange Board", "None"],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which is the first bank in India to issue 'Green Bonds'?",
+          "q_hi": "'ग्रीन बॉन्ड' जारी करने वाला भारत का पहला बैंक कौन सा है?",
+          "opts": ["State Bank of India", "YES Bank", "ICICI Bank", "Axis Bank"],
+          "opts_hi": ["State Bank of India", "YES Bank", "ICICI Bank", "Axis Bank"],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "What is the repo rate?",
+          "q_hi": "रेपो रेट क्या है?",
+          "opts": ["Rate at which RBI lends to banks", "Rate at which RBI borrows from banks", "Interest on savings", "None"],
+          "opts_hi": ["वह दर जिस पर RBI बैंकों को उधार देता है", "वह दर जिस पर RBI बैंकों से उधार लेता है", "बचत पर ब्याज", "कोई नहीं"],
+          "ans": 0,
+          "subject": "General Awareness"
         }
       ]
     },
     {
       "id": "sbi_po_3",
-      "title": "SBI PO Mock Test 3",
-      "duration": 10,
-      "difficulty": "Medium",
+      "title": "SBI PO Full Mock Test 3 (Prelims Pattern)",
+      "duration": 60,
+      "difficulty": "Hard",
+      "correctMarks": 1,
+      "negativeMarks": 0.25,
       "questions": [
         {
-          "q": "Which of the following schemes is related to financial inclusion in India?",
-          "q_hi": "भारत में वित्तीय समावेशन से संबंधित निम्नलिखित में से कौन सी योजना है?",
-          "opts": [
-            "Pradhan Mantri Awas Yojana",
-            "Pradhan Mantri Jan Dhan Yojana",
-            "Pradhan Mantri Fasal Bima Yojana",
-            "Pradhan Mantri Ujjwala Yojana"
-          ],
-          "opts_hi": [
-            "प्रधान मंत्री आवास योजना",
-            "प्रधान मंत्री जन धन योजना",
-            "प्रधान मंत्री फसल बीमा योजना",
-            "प्रधान मंत्री उज्ज्वला योजना"
-          ],
+          "q": "Who is the current Governor of RBI?",
+          "q_hi": "RBI के वर्तमान गवर्नर कौन हैं?",
+          "opts": ["Raghuram Rajan", "Urjit Patel", "Shaktikanta Das", "Nirmala Sitharaman"],
+          "opts_hi": ["रघुराम राजन", "उर्जित पटेल", "शक्तिकांत दास", "निर्मला सीतारमण"],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "What is the tagline of State Bank of India?",
+          "q_hi": "स्टेट बैंक ऑफ इंडिया का टैगलाइन क्या है?",
+          "opts": ["The Banker to Every Indian", "Pure Banking Nothing Else", "India's International Bank", "A Bank for All"],
+          "opts_hi": ["The Banker to Every Indian", "Pure Banking Nothing Else", "India's International Bank", "A Bank for All"],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which bank introduced the 'Rupay' payment system?",
+          "q_hi": "'रुपे' भुगतान प्रणाली किस बैंक ने शुरू की?",
+          "opts": ["State Bank of India", "ICICI Bank", "HDFC Bank", "Axis Bank"],
+          "opts_hi": ["स्टेट बैंक ऑफ इंडिया", "ICICI बैंक", "HDFC बैंक", "एक्सिस बैंक"],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "What does 'RTGS' stand for?",
+          "q_hi": "RTGS का पूर्ण रूप क्या है?",
+          "opts": ["Real Time Gross Settlement", "Rapid Transfer Gross System", "Real Time Gross System", "None"],
+          "opts_hi": ["रियल टाइम ग्रॉस सेटलमेंट", "रैपिड ट्रांसफर ग्रॉस सिस्टम", "रियल टाइम ग्रॉस सिस्टम", "कोई नहीं"],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which bank launched the 'Cash Recycler Machine' first in India?",
+          "q_hi": "'कैश रीसाइक्लर मशीन' शुरू करने वाला भारत का पहला बैंक कौन सा है?",
+          "opts": ["HDFC Bank", "ICICI Bank", "Axis Bank", "State Bank of India"],
+          "opts_hi": ["HDFC बैंक", "ICICI बैंक", "एक्सिस बैंक", "स्टेट बैंक ऑफ इंडिया"],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "What is the full form of FD?",
+          "q_hi": "FD का पूर्ण रूप क्या है?",
+          "opts": ["Fixed Deposit", "Flexible Deposit", "Financial Deposit", "None"],
+          "opts_hi": ["Fixed Deposit", "Flexible Deposit", "Financial Deposit", "None"],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which is the first fully digital bank in India?",
+          "q_hi": "भारत का पहला पूर्णतः डिजिटल बैंक कौन सा है?",
+          "opts": ["Paytm Payments Bank", "India Post Payments Bank", "NSDL Payments Bank", "Airtel Payments Bank"],
+          "opts_hi": ["पेटीएम पेमेंट्स बैंक", "इंडिया पोस्ट पेमेंट्स बैंक", "NSDL पेमेंट्स बैंक", "एयरटेल पेमेंट्स बैंक"],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Select the option that is related to the third term in the same way as the second term is related to the first term. Earth : Planet :: Sun : ?",
+          "q_hi": "उस विकल्प का चयन करें जो तीसरे पद से उसी प्रकार संबंधित है जैसे दूसरा पद पहले पद से संबंधित है। Earth : Planet :: Sun : ?",
+          "opts": ["Star", "Galaxy", "Moon", "Satellite"],
+          "opts_hi": ["तारा", "आकाशगंगा", "चंद्रमा", "उपग्रह"],
+          "ans": 0,
+          "subject": "Reasoning Ability"
+        },
+        {
+          "q": "What is the full form of CGL?",
+          "q_hi": "CGL का पूर्ण रूप क्या है?",
+          "opts": ["Combined Graduate Level", "Central Graduate Level", "Combined General Level", "Central General Level"],
+          "opts_hi": ["Combined Graduate Level", "Central Graduate Level", "Combined General Level", "Central General Level"],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Who appoints the Chief Justice of India?",
+          "q_hi": "भारत के मुख्य न्यायाधीश की नियुक्ति कौन करता है?",
+          "opts": ["Prime Minister", "President", "Parliament", "Supreme Court Judges"],
+          "opts_hi": ["प्रधानमंत्री", "राष्ट्रपति", "संसद", "सर्वोच्च न्यायालय के न्यायाधीश"],
           "ans": 1,
-          "subject": "Banking"
+          "subject": "General Awareness"
+        },
+        {
+          "q": "What is the SI unit of pressure?",
+          "q_hi": "दबाव की SI इकाई क्या है?",
+          "opts": ["Newton", "Pascal", "Joule", "Watt"],
+          "opts_hi": ["न्यूटन", "पास्कल", "जूल", "वाट"],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which article of Indian Constitution deals with Right to Equality?",
+          "q_hi": "भारतीय संविधान का कौन सा अनुच्छेद समानता के अधिकार से संबंधित है?",
+          "opts": ["Article 12", "Article 14", "Article 19", "Article 21"],
+          "opts_hi": ["अनुच्छेद 12", "अनुच्छेद 14", "अनुच्छेद 19", "अनुच्छेद 21"],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The Quit India Movement was launched in which year?",
+          "q_hi": "भारत छोड़ो आंदोलन किस वर्ष शुरू हुआ था?",
+          "opts": ["1940", "1941", "1942", "1943"],
+          "opts_hi": ["1940", "1941", "1942", "1943"],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Simplify: 12 + 8 ÷ 2 × 3",
+          "q_hi": "सरल करें: 12 + 8 ÷ 2 × 3",
+          "opts": ["18", "24", "30", "36"],
+          "opts_hi": ["18", "24", "30", "36"],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A train travels 240 km in 4 hours. What is its speed in m/s?",
+          "q_hi": "एक ट्रेन 4 घंटे में 240 किमी की दूरी तय करती है। m/s में इसकी गति क्या है?",
+          "opts": ["16.67 m/s", "20 m/s", "60 m/s", "72 m/s"],
+          "opts_hi": ["16.67 m/s", "20 m/s", "60 m/s", "72 m/s"],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Find the value of x: 2x + 3 = 4x - 7",
+          "q_hi": "x का मान ज्ञात करें: 2x + 3 = 4x - 7",
+          "opts": ["4", "5", "6", "7"],
+          "opts_hi": ["4", "5", "6", "7"],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "What is the area of a circle with radius 7 cm? (Take π = 22/7)",
+          "q_hi": "7 सेमी त्रिज्या वाले वृत्त का क्षेत्रफल क्या है? (π = 22/7 लें)",
+          "opts": ["144 cm²", "154 cm²", "164 cm²", "174 cm²"],
+          "opts_hi": ["144 सेमी²", "154 सेमी²", "164 सेमी²", "174 सेमी²"],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A sum of money doubles in 5 years at simple interest. What is the rate of interest?",
+          "q_hi": "एक धनराशि साधारण ब्याज पर 5 वर्षों में दोगुनी हो जाती है। ब्याज की दर क्या है?",
+          "opts": ["10%", "15%", "20%", "25%"],
+          "opts_hi": ["10%", "15%", "20%", "25%"],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "The perimeter of a rectangle is 40 cm. If its length is 12 cm, find its breadth.",
+          "q_hi": "एक आयत का परिमाप 40 सेमी है। यदि इसकी लंबाई 12 सेमी है, तो इसकी चौड़ाई ज्ञात करें।",
+          "opts": ["6 cm", "8 cm", "10 cm", "12 cm"],
+          "opts_hi": ["6 सेमी", "8 सेमी", "10 सेमी", "12 सेमी"],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Find the value of 2³ × 3².",
+          "q_hi": "2³ × 3² का मान ज्ञात करें।",
+          "opts": ["36", "48", "72", "108"],
+          "opts_hi": ["36", "48", "72", "108"],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "What is the value of (1 + tan²θ)?",
+          "q_hi": "(1 + tan²θ) का मान क्या है?",
+          "opts": ["sec²θ", "cosec²θ", "cot²θ", "sin²θ"],
+          "opts_hi": ["sec²θ", "cosec²θ", "cot²θ", "sin²θ"],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "What is the mean of 2, 4, 6, 8, 10?",
+          "q_hi": "2, 4, 6, 8, 10 का माध्य क्या है?",
+          "opts": ["4", "5", "6", "7"],
+          "opts_hi": ["4", "5", "6", "7"],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A man buys a watch for ₹500 and sells it at a profit of 20%. What is the selling price?",
+          "q_hi": "एक व्यक्ति ₹500 में एक घड़ी खरीदता है और उसे 20% लाभ पर बेचता है। विक्रय मूल्य क्या है?",
+          "opts": ["₹550", "₹600", "₹650", "₹700"],
+          "opts_hi": ["₹550", "₹600", "₹650", "₹700"],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Find the value of log₂ 32.",
+          "q_hi": "log₂ 32 का मान ज्ञात करें।",
+          "opts": ["3", "4", "5", "6"],
+          "opts_hi": ["3", "4", "5", "6"],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Which article abolishes untouchability?",
+          "q_hi": "किस अनुच्छेद ने अस्पृश्यता को समाप्त किया?",
+          "opts": ["Article 14", "Article 15", "Article 16", "Article 17"],
+          "opts_hi": ["अनुच्छेद 14", "अनुच्छेद 15", "अनुच्छेद 16", "अनुच्छेद 17"],
+          "ans": 3,
+          "subject": "General Awareness"
         }
       ]
     },
     {
       "id": "sbi_po_4",
-      "title": "SBI PO Mock Test 4",
-      "duration": 10,
-      "difficulty": "Medium",
+      "title": "SBI PO Full Mock Test 4 (Prelims Pattern)",
+      "duration": 60,
+      "difficulty": "Hard",
+      "correctMarks": 1,
+      "negativeMarks": 0.25,
       "questions": [
         {
-          "q": "In banking, what does the term 'BASE RATE' refer to?",
-          "q_hi": "बैंकिंग में, 'बेस रेट' शब्द किसे संदर्भित करता है?",
-          "opts": [
-            "The rate at which RBI lends to commercial banks",
-            "The minimum lending rate below which banks cannot lend",
-            "The rate of interest on savings accounts",
-            "The rate at which banks borrow from each other"
-          ],
-          "opts_hi": [
-            "वह दर जिस पर RBI वाणिज्यिक बैंकों को ऋण देता है",
-            "न्यूनतम ऋण दर जिससे नीचे बैंक ऋण नहीं दे सकते",
-            "बचत खातों पर ब्याज दर",
-            "वह दर जिस पर बैंक एक दूसरे से उधार लेते हैं"
-          ],
+          "q": "Right to Freedom is guaranteed under which group of Articles?",
+          "q_hi": "स्वतंत्रता का अधिकार किस अनुच्छेद समूह के तहत सुनिश्चित किया गया है?",
+          "opts": ["Article 14-18", "Article 19-22", "Article 23-24", "Article 25-28"],
+          "opts_hi": ["अनुच्छेद 14-18", "अनुच्छेद 19-22", "अनुच्छेद 23-24", "अनुच्छेद 25-28"],
           "ans": 1,
-          "subject": "Banking"
-        }
-      ]
-    },
-    {
-      "id": "sbi_po_5",
-      "title": "SBI PO Mock Test 5",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "In banking, the term 'CAMELS' is used for rating banks. What does the letter 'E' stand for in CAMELS?",
-          "q_hi": "बैंकिंग में, 'CAMELS' शब्द का उपयोग बैंकों की रेटिंग के लिए किया जाता है। CAMELS में 'E' अक्षर किसके लिए है?",
-          "opts": [
-            "Earnings",
-            "Efficiency",
-            "Equity",
-            "External Risk"
-          ],
-          "opts_hi": [
-            "अर्निंग्स",
-            "एफिशिएंसी",
-            "इक्विटी",
-            "एक्सटर्नल रिस्क"
-          ],
-          "ans": 0,
-          "subject": "Banking"
+          "subject": "General Awareness"
         },
         {
-          "q": "Which of the following is the first bank in India to issue 'Green Bonds'?",
-          "q_hi": "ग्रीन बॉन्ड' जारी करने वाला भारत का पहला बैंक निम्नलिखित में से कौन सा है?",
-          "opts": [
-            "State Bank of India",
-            "YES Bank",
-            "ICICI Bank",
-            "Axis Bank"
-          ],
-          "opts_hi": [
-            "भारतीय स्टेट बैंक",
-            "YES बैंक",
-            "ICICI बैंक",
-            "एक्सिस बैंक"
-          ],
-          "ans": 1,
-          "subject": "Banking"
-        }
-      ]
-    },
-    {
-      "id": "sbi_po_6",
-      "title": "SBI PO Mock Test 6",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "What is the compound interest on Rs. 10,000 for 2 years at 10% per annum compounded annually?",
-          "q_hi": "Rs. 10,000 पर 2 वर्षों के लिए 10% वार्षिक दर से चक्रवृद्धि ब्याज क्या है?",
-          "opts": [
-            "Rs. 2,100",
-            "Rs. 2,000",
-            "Rs. 2,200",
-            "Rs. 2,500"
-          ],
-          "opts_hi": [
-            "Rs. 2,100",
-            "Rs. 2,000",
-            "Rs. 2,200",
-            "Rs. 2,500"
-          ],
-          "ans": 0,
-          "subject": "Mathematics"
-        }
-      ]
-    },
-    {
-      "id": "sbi_po_7",
-      "title": "SBI PO Mock Test 7",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Under updated RBI norms, what is the asset threshold below which a Type I NBFC (with no public funds and no customer interface) is exempt from registration?",
-          "q_hi": "अद्यतन RBI मानदंडों के तहत, वह संपत्ति सीमा क्या है जिसके तहत एक टाइप I NBFC (बिना सार्वजनिक निधि और बिना ग्राहक इंटरफेस के) पंजीकरण से छूट प्राप्त है?",
-          "opts": [
-            "₹50 crore",
-            "₹100 crore",
-            "₹200 crore",
-            "₹500 crore"
-          ],
-          "opts_hi": [
-            "₹50 करोड़",
-            "₹100 करोड़",
-            "₹200 करोड़",
-            "₹500 करोड़"
-          ],
-          "ans": 1,
-          "subject": "Current Affairs"
-        },
-        {
-          "q": "As per RBI's Utkarsh 2029 strategy, which project is dedicated to modernizing currency management?",
-          "q_hi": "RBI की उत्कर्ष 2029 रणनीति के अनुसार, कौन सी परियोजना मुद्रा प्रबंधन के आधुनिकीकरण के लिए समर्पित है?",
-          "opts": [
-            "Project Digital Rupee",
-            "Project Sa-Mudra",
-            "Project Currency 2029",
-            "Project Cash 2.0"
-          ],
-          "opts_hi": [
-            "प्रोजेक्ट डिजिटल रुपया",
-            "प्रोजेक्ट सा-मुद्रा",
-            "प्रोजेक्ट करेंसी 2029",
-            "प्रोजेक्ट कैश 2.0"
-          ],
-          "ans": 1,
-          "subject": "Current Affairs"
-        },
-        {
-          "q": "Under revised RBI norms, what is the maximum individual unsecured loan limit for Tier-1 Urban Cooperative Banks (UCBs)?",
-          "q_hi": "संशोधित RBI मानदंडों के तहत, टियर-1 शहरी सहकारी बैंकों (UCBs) के लिए अधिकतम व्यक्तिगत असुरक्षित ऋण सीमा क्या है?",
-          "opts": [
-            "₹2 lakh",
-            "₹5 lakh",
-            "₹10 lakh",
-            "₹15 lakh"
-          ],
-          "opts_hi": [
-            "₹2 लाख",
-            "₹5 लाख",
-            "₹10 लाख",
-            "₹15 लाख"
-          ],
+          "q": "The Right to Life and Personal Liberty is guaranteed under which Article?",
+          "q_hi": "जीवन और व्यक्तिगत स्वतंत्रता का अधिकार किस अनुच्छेद के तहत सुनिश्चित किया गया है?",
+          "opts": ["Article 19", "Article 20", "Article 21", "Article 22"],
+          "opts_hi": ["अनुच्छेद 19", "अनुच्छेद 20", "अनुच्छेद 21", "अनुच्छेद 22"],
           "ans": 2,
-          "subject": "Current Affairs"
+          "subject": "General Awareness"
         },
         {
-          "q": "According to RBI's FY27 projections, what is the CPI inflation rate?",
-          "q_hi": "RBI के FY27 अनुमानों के अनुसार, CPI मुद्रास्फीति दर क्या है?",
-          "opts": [
-            "0.035",
-            "0.04",
-            "0.045",
-            "0.05"
-          ],
-          "opts_hi": [
-            "0.035",
-            "0.04",
-            "0.045",
-            "0.05"
-          ],
+          "q": "Which Fundamental Right was described by Dr. B.R. Ambedkar as the 'heart and soul' of the Constitution?",
+          "q_hi": "डॉ. बी.आर. आंबेडकर द्वारा संविधान का 'हृदय और आत्मा' किस मौलिक अधिकार को कहा गया था?",
+          "opts": ["Right to Equality", "Right against Exploitation", "Right to Constitutional Remedies", "Right to Freedom of Religion"],
+          "opts_hi": ["समानता का अधिकार", "शोषण के विरुद्ध अधिकार", "संवैधानिक उपचार का अधिकार", "धर्म की स्वतंत्रता का अधिकार"],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Who was the first Governor-General of India?",
+          "q_hi": "भारत के पहले गवर्नर-जनरल कौन थे?",
+          "opts": ["Warren Hastings", "Lord Cornwallis", "Lord Wellesley", "William Bentinck"],
+          "opts_hi": ["वारेन हेस्टिंग्स", "लॉर्ड कॉर्नवालिस", "लॉर्ड वेलेस्ली", "विलियम बेंटिक"],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Who is called the 'Iron Man of India'?",
+          "q_hi": "'भारत का लौह पुरुष' किसे कहा जाता है?",
+          "opts": ["Jawaharlal Nehru", "Mahatma Gandhi", "Sardar Vallabhbhai Patel", "Subhas Chandra Bose"],
+          "opts_hi": ["जवाहरलाल नेहरू", "महात्मा गांधी", "सरदार वल्लभभाई पटेल", "सुभाष चंद्र बोस"],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The concept of 'Judicial Review' in the Indian Constitution is borrowed from which country?",
+          "q_hi": "भारतीय संविधान में 'न्यायिक समीक्षा' की अवधारणा किस देश से ली गई है?",
+          "opts": ["United Kingdom", "United States of America", "Canada", "Australia"],
+          "opts_hi": ["यूनाइटेड किंगडम", "संयुक्त राज्य अमेरिका", "कनाडा", "ऑस्ट्रेलिया"],
           "ans": 1,
-          "subject": "Current Affairs"
+          "subject": "General Awareness"
         },
         {
-          "q": "What is India's rank in the global pollution rankings 2025 according to IQAir report?",
-          "q_hi": "IQAir रिपोर्ट के अनुसार वैश्विक प्रदूषण रैंकिंग 2025 में भारत का स्थान क्या है?",
-          "opts": [
-            "3rd",
-            "4th",
-            "5th",
-            "6th"
-          ],
-          "opts_hi": [
-            "तीसरा",
-            "चौथा",
-            "पाँचवाँ",
-            "छठा"
-          ],
+          "q": "Which river is known as the 'Sorrow of Bengal'?",
+          "q_hi": "किस नदी को 'बंगाल का शोक' कहा जाता है?",
+          "opts": ["Ganga", "Damodar", "Brahmaputra", "Mahanadi"],
+          "opts_hi": ["गंगा", "दामोदर", "ब्रह्मपुत्र", "महानदी"],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which committee recommended the establishment of NABARD?",
+          "q_hi": "NABARD की स्थापना की सिफारिश किस समिति ने की थी?",
+          "opts": ["Narasimham Committee", "Rangarajan Committee", "Shivraman Committee", "Gadgil Committee"],
+          "opts_hi": ["नरसिम्हम समिति", "रंगराजन समिति", "शिवरमन समिति", "गाडगिल समिति"],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "What is the capital of France?",
+          "q_hi": "फ्रांस की राजधानी क्या है?",
+          "opts": ["London", "Paris", "Berlin", "Madrid"],
+          "opts_hi": ["लंदन", "पेरिस", "बर्लिन", "मैड्रिड"],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The largest ocean in the world is:",
+          "q_hi": "विश्व का सबसे बड़ा महासागर कौन सा है?",
+          "opts": ["Atlantic", "Indian", "Arctic", "Pacific"],
+          "opts_hi": ["अटलांटिक", "हिंद", "आर्कटिक", "प्रशांत"],
           "ans": 3,
-          "subject": "Current Affairs"
-        }
-      ]
-    },
-    {
-      "id": "sbi_po_8",
-      "title": "SBI PO Mock Test 8",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Which agency was assigned the role of PARRV (Passive Risk and Return Verification) under the SEBI framework?",
-          "q_hi": "SEBI ढाँचे के तहत PARRV (पैसिव रिस्क एंड रिटर्न वेरिफिकेशन) की भूमिका किस एजेंसी को सौंपी गई?",
-          "opts": [
-            "CRISIL",
-            "ICRA",
-            "CARE Ratings",
-            "India Ratings"
-          ],
-          "opts_hi": [
-            "CRISIL",
-            "ICRA",
-            "CARE रेटिंग्स",
-            "इंडिया रेटिंग्स"
-          ],
-          "ans": 2,
-          "subject": "Current Affairs"
+          "subject": "General Awareness"
         },
         {
-          "q": "As per RBI's revised guidelines effective from 2026, what is the cooling-off period for directors upon completion of a continuous tenure of ten years on the board of UCBs and RCBs?",
-          "q_hi": "RBI के संशोधित दिशानिर्देशों के अनुसार 2026 से प्रभावी, UCBs और RCBs के बोर्ड पर दस वर्षों की निरंतर अवधि पूरी होने पर निदेशकों के लिए कूलिंग-ऑफ अवधि क्या है?",
-          "opts": [
-            "1 year",
-            "2 years",
-            "3 years",
-            "5 years"
-          ],
-          "opts_hi": [
-            "1 वर्ष",
-            "2 वर्ष",
-            "3 वर्ष",
-            "5 वर्ष"
-          ],
-          "ans": 2,
-          "subject": "Current Affairs"
-        }
-      ]
-    },
-    {
-      "id": "sbi_po_9",
-      "title": "SBI PO Mock Test 9",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Which of the following is the colour of light with the shortest wavelength?",
-          "q_hi": "सबसे छोटी तरंग दैर्ध्य वाले प्रकाश का रंग निम्नलिखित में से कौन सा है?",
-          "opts": [
-            "Red",
-            "Violet",
-            "Blue",
-            "Green"
-          ],
-          "opts_hi": [
-            "लाल",
-            "बैंगनी",
-            "नीला",
-            "हरा"
-          ],
-          "ans": 1,
-          "subject": "Science"
-        }
-      ]
-    },
-    {
-      "id": "sbi_po_10",
-      "title": "SBI PO Mock Test 10",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "A man allows a 20% discount on his goods and still makes a profit of 10%. Find the marked price if the cost price is Rs.800.",
-          "q_hi": "एक व्यक्ति अपने माल पर 20% छूट देता है और फिर भी 10% का लाभ कमाता है। यदि क्रय मूल्य Rs.800 है, तो अंकित मूल्य ज्ञात करें।",
-          "opts": [
-            "Rs. 1000",
-            "Rs. 1100",
-            "Rs. 1200",
-            "Rs. 1300"
-          ],
-          "opts_hi": [
-            "Rs. 1000",
-            "Rs. 1100",
-            "Rs. 1200",
-            "Rs. 1300"
-          ],
-          "ans": 1,
-          "subject": "Mathematics"
-        },
-        {
-          "q": "The average of 6 numbers is 20. If one number is replaced by 32, the average increases by 2. Find the number that was replaced.",
-          "q_hi": "6 संख्याओं का औसत 20 है। यदि एक संख्या को 32 से बदल दिया जाए, तो औसत 2 बढ़ जाता है। बदली गई संख्या ज्ञात करें।",
-          "opts": [
-            "12",
-            "14",
-            "16",
-            "18"
-          ],
-          "opts_hi": [
-            "12",
-            "14",
-            "16",
-            "18"
-          ],
-          "ans": 2,
-          "subject": "Mathematics"
-        }
-      ]
-    },
-    {
-      "id": "sbi_po_11",
-      "title": "SBI PO Mock Test 11",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "What is the value of (45 × 12) ÷ 9 + 18?",
-          "q_hi": "(45 × 12) ÷ 9 + 18 का मान क्या है?",
-          "opts": [
-            "70",
-            "78",
-            "82",
-            "88"
-          ],
-          "opts_hi": [
-            "70",
-            "78",
-            "82",
-            "88"
-          ],
-          "ans": 1,
-          "subject": "Mathematics"
-        },
-        {
-          "q": "A shopkeeper buys a pen for Rs.50 and sells it for Rs.65. What is his profit percentage?",
-          "q_hi": "एक दुकानदार एक पेन Rs.50 में खरीदता है और Rs.65 में बेचता है। उसका लाभ प्रतिशत क्या है?",
-          "opts": [
-            "0.2",
-            "0.25",
-            "0.3",
-            "0.35"
-          ],
-          "opts_hi": [
-            "0.2",
-            "0.25",
-            "0.3",
-            "0.35"
-          ],
-          "ans": 2,
-          "subject": "Mathematics"
-        }
-      ]
-    },
-    {
-      "id": "sbi_po_12",
-      "title": "SBI PO Mock Test 12",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Which of the following statements with regard to India's indigenous new high resolution weather model, the 'Bharat Forecast System,' is/are correct? 1. Its objective is to generate forecasts at the Panchayats cluster level. 2. It was developed by IIT Delhi.",
-          "q_hi": "भारत के स्वदेशी नए उच्च-रिज़ॉल्यूशन मौसम मॉडल, 'भारत पूर्वानुमान प्रणाली' के संबंध में निम्नलिखित में से कौन सा/से कथन सही है/हैं? 1. इसका उद्देश्य पंचायत क्लस्टर स्तर पर पूर्वानुमान उत्पन्न करना है। 2. इसे IIT दिल्ली द्वारा विकसित किया गया था।",
-          "opts": [
-            "1 only",
-            "2 only",
-            "Both 1 and 2",
-            "Neither 1 nor 2"
-          ],
-          "opts_hi": [
-            "केवल 1",
-            "केवल 2",
-            "1 और 2 दोनों",
-            "न तो 1 और न ही 2"
-          ],
+          "q": "Who wrote the national anthem of India?",
+          "q_hi": "भारत का राष्ट्रगान किसने लिखा?",
+          "opts": ["Rabindranath Tagore", "Bankim Chandra", "Subhash Chandra Bose", "Mahatma Gandhi"],
+          "opts_hi": ["रवीन्द्रनाथ टैगोर", "बंकिम चंद्र", "सुभाष चंद्र बोस", "महात्मा गांधी"],
           "ans": 0,
-          "subject": "Science"
+          "subject": "General Awareness"
         },
         {
-          "q": "Which of the following is used in optical fibers for transmitting information?",
-          "q_hi": "सूचना संचारित करने के लिए ऑप्टिकल फाइबर में निम्नलिखित में से किसका उपयोग किया जाता है?",
-          "opts": [
-            "Total internal reflection",
-            "Refraction",
-            "Diffraction",
-            "Scattering"
-          ],
-          "opts_hi": [
-            "पूर्ण आंतरिक परावर्तन",
-            "अपवर्तन",
-            "विवर्तन",
-            "प्रकीर्णन"
-          ],
-          "ans": 0,
-          "subject": "Science"
-        }
-      ]
-    },
-    {
-      "id": "sbi_po_13",
-      "title": "SBI PO Mock Test 13",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Which of the following is the process of conversion of solid directly into gas?",
-          "q_hi": "ठोस का सीधे गैस में रूपांतरण की प्रक्रिया निम्नलिखित में से कौन सी है?",
-          "opts": [
-            "Condensation",
-            "Sublimation",
-            "Evaporation",
-            "Fusion"
-          ],
-          "opts_hi": [
-            "संघनन",
-            "उर्ध्वपातन",
-            "वाष्पीकरण",
-            "संलयन"
-          ],
-          "ans": 1,
-          "subject": "Science"
-        },
-        {
-          "q": "Which of the following is the SI unit of temperature?",
-          "q_hi": "तापमान की SI इकाई निम्नलिखित में से कौन सी है?",
-          "opts": [
-            "Celsius",
-            "Fahrenheit",
-            "Kelvin",
-            "Rankine"
-          ],
-          "opts_hi": [
-            "सेल्सियस",
-            "फारेनहाइट",
-            "केल्विन",
-            "रैंकिन"
-          ],
+          "q": "Which of the following is NOT a type of computer memory?",
+          "q_hi": "निम्नलिखित में से कौन सा कंप्यूटर मेमोरी का प्रकार नहीं है?",
+          "opts": ["RAM", "ROM", "CPU", "Cache"],
+          "opts_hi": ["RAM", "ROM", "CPU", "Cache"],
           "ans": 2,
-          "subject": "Science"
-        }
-      ]
-    },
-    {
-      "id": "sbi_po_14",
-      "title": "SBI PO Mock Test 14",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Six people A, B, C, D, E, and F are sitting in a row facing north. A sits third to the right of B. C sits between A and D. E sits at the extreme left end. Who sits second to the left of C?",
-          "q_hi": "छह व्यक्ति A, B, C, D, E और F एक पंक्ति में उत्तर की ओर मुख करके बैठे हैं। A, B के दाएँ तीसरे स्थान पर बैठा है। C, A और D के बीच में बैठा है। E अत्यंत बाएँ छोर पर बैठा है। C के बाएँ दूसरे स्थान पर कौन बैठा है?",
-          "opts": [
-            "A",
-            "B",
-            "C",
-            "D"
-          ],
-          "opts_hi": [
-            "A",
-            "B",
-            "C",
-            "D"
-          ],
-          "ans": 1,
-          "subject": "Reasoning"
+          "subject": "General Awareness"
         },
         {
-          "q": "Statements: All pens are pencils. Some pencils are erasers. No eraser is a sharpener. Conclusions: I. Some pens are sharpeners. II. Some pencils are not sharpeners. Which conclusion follows?",
-          "q_hi": "कथन: सभी पेन पेंसिल हैं। कुछ पेंसिल इरेज़र हैं। कोई इरेज़र शार्पनर नहीं है। निष्कर्ष: I. कुछ पेन शार्पनर हैं। II. कुछ पेंसिल शार्पनर नहीं हैं। कौन सा निष्कर्ष अनुसरण करता है?",
-          "opts": [
-            "Only I",
-            "Only II",
-            "Both I and II",
-            "Neither I nor II"
-          ],
-          "opts_hi": [
-            "केवल I",
-            "केवल II",
-            "I और II दोनों",
-            "न तो I और न ही II"
-          ],
+          "q": "What is the chemical symbol of Gold?",
+          "q_hi": "सोने का रासायनिक प्रतीक क्या है?",
+          "opts": ["Ag", "Au", "Fe", "Cu"],
+          "opts_hi": ["Ag", "Au", "Fe", "Cu"],
           "ans": 1,
-          "subject": "Reasoning"
+          "subject": "General Awareness"
         },
         {
-          "q": "Six people live on six different floors of a building. A lives above B but below C. D lives above E but below F. Who lives on the top floor?",
-          "q_hi": "छह लोग एक इमारत की छह अलग-अलग मंजिलों पर रहते हैं। A, B के ऊपर लेकिन C के नीचे रहता है। D, E के ऊपर लेकिन F के नीचे रहता है। सबसे ऊपर की मंजिल पर कौन रहता है?",
-          "opts": [
-            "A",
-            "C",
-            "F",
-            "Cannot be determined"
-          ],
-          "opts_hi": [
-            "A",
-            "C",
-            "F",
-            "निर्धारित नहीं किया जा सकता"
-          ],
+          "q": "Which planet is nearest to the Sun?",
+          "q_hi": "सूर्य के सबसे निकट ग्रह कौन सा है?",
+          "opts": ["Venus", "Earth", "Mercury", "Mars"],
+          "opts_hi": ["शुक्र", "पृथ्वी", "बुध", "मंगल"],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "What is the full form of CPU?",
+          "q_hi": "CPU का पूर्ण रूप क्या है?",
+          "opts": ["Central Processing Unit", "Computer Processing Unit", "Central Program Unit", "Computer Program Unit"],
+          "opts_hi": ["सेंट्रल प्रोसेसिंग यूनिट", "कंप्यूटर प्रोसेसिंग यूनिट", "सेंट्रल प्रोग्राम यूनिट", "कंप्यूटर प्रोग्राम यूनिट"],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "What is the capital of Australia?",
+          "q_hi": "ऑस्ट्रेलिया की राजधानी क्या है?",
+          "opts": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+          "opts_hi": ["सिडनी", "मेलबर्न", "कैनबरा", "ब्रिस्बेन"],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which gas is used in fire extinguishers?",
+          "q_hi": "अग्निशामक यंत्रों में कौन सी गैस का उपयोग किया जाता है?",
+          "opts": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+          "opts_hi": ["ऑक्सीजन", "कार्बन डाइऑक्साइड", "नाइट्रोजन", "हाइड्रोजन"],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The currency of Japan is:",
+          "q_hi": "जापान की मुद्रा है:",
+          "opts": ["Yuan", "Won", "Yen", "Ringgit"],
+          "opts_hi": ["युआन", "वोन", "येन", "रिंगित"],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "What is the square root of 144?",
+          "q_hi": "144 का वर्गमूल क्या है?",
+          "opts": ["10", "11", "12", "13"],
+          "opts_hi": ["10", "11", "12", "13"],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "If x = 5, find the value of 2x + 3.",
+          "q_hi": "यदि x = 5 है, तो 2x + 3 का मान ज्ञात करें।",
+          "opts": ["10", "11", "12", "13"],
+          "opts_hi": ["10", "11", "12", "13"],
           "ans": 3,
-          "subject": "Reasoning"
-        }
-      ]
-    },
-    {
-      "id": "sbi_po_15",
-      "title": "SBI PO Mock Test 15",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
+          "subject": "Quantitative Aptitude"
+        },
         {
-          "q": "Which of the following is true if A > B > C > D = E < F?",
-          "q_hi": "यदि A > B > C > D = E < F है, तो निम्नलिखित में से कौन सा सत्य है?",
-          "opts": [
-            "B > F",
-            "C = F",
-            "A > E",
-            "B = E"
-          ],
-          "opts_hi": [
-            "B > F",
-            "C = F",
-            "A > E",
-            "B = E"
-          ],
+          "q": "What is 25% of 200?",
+          "q_hi": "200 का 25% कितना है?",
+          "opts": ["25", "50", "75", "100"],
+          "opts_hi": ["25", "50", "75", "100"],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "If 3x + 5 = 20, find x.",
+          "q_hi": "यदि 3x + 5 = 20 है, तो x ज्ञात करें।",
+          "opts": ["3", "4", "5", "6"],
+          "opts_hi": ["3", "4", "5", "6"],
           "ans": 2,
-          "subject": "Reasoning"
+          "subject": "Quantitative Aptitude"
         },
         {
-          "q": "If P > Q = R ≥ S < T, which of the following is true?",
-          "q_hi": "यदि P > Q = R ≥ S < T है, तो निम्नलिखित में से कौन सा सत्य है?",
-          "opts": [
-            "P > S",
-            "Q = T",
-            "R < S",
-            "P = R"
-          ],
-          "opts_hi": [
-            "P > S",
-            "Q = T",
-            "R < S",
-            "P = R"
-          ],
-          "ans": 0,
-          "subject": "Reasoning"
-        },
-        {
-          "q": "If A is the brother of B, B is the sister of C, and C is the father of D, how is A related to D?",
-          "q_hi": "यदि A, B का भाई है, B, C की बहन है, और C, D का पिता है, तो A, D से किस प्रकार संबंधित है?",
-          "opts": [
-            "Father",
-            "Uncle",
-            "Brother",
-            "Cousin"
-          ],
-          "opts_hi": [
-            "पिता",
-            "चाचा/मामा",
-            "भाई",
-            "चचेरा/ममेरा"
-          ],
+          "q": "Synonym of 'Happy'?",
+          "q_hi": "'Happy' का पर्यायवाची शब्द?",
+          "opts": ["Sad", "Joyful", "Angry", "Tired"],
+          "opts_hi": ["उदास", "प्रसन्न", "क्रोधित", "थका"],
           "ans": 1,
-          "subject": "Reasoning"
-        }
-      ]
-    },
-    {
-      "id": "sbi_po_16",
-      "title": "SBI PO Mock Test 16",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "If \"MONKEY\" is coded as \"NPOLEZ\" and \"TIGER\" is coded as \"UJHFS\", then \"LION\" is coded as:",
-          "q_hi": "यदि \"MONKEY\" को \"NPOLEZ\" के रूप में कोडित किया जाता है और \"TIGER\" को \"UJHFS\" के रूप में कोडित किया जाता है, तो \"LION\" को किस रूप में कोडित किया जाएगा?",
-          "opts": [
-            "MJPO",
-            "MJRO",
-            "MJPS",
-            "MKPO"
-          ],
-          "opts_hi": [
-            "MJPO",
-            "MJRO",
-            "MJPS",
-            "MKPO"
-          ],
-          "ans": 0,
-          "subject": "Reasoning"
+          "subject": "English Language"
         },
         {
-          "q": "If M > N ≥ O = P < Q, which of the following is true?",
-          "q_hi": "यदि M > N ≥ O = P < Q है, तो निम्नलिखित में से कौन सा सत्य है?",
-          "opts": [
-            "M > O",
-            "M = O",
-            "O > Q",
-            "M < Q"
-          ],
-          "opts_hi": [
-            "M > O",
-            "M = O",
-            "O > Q",
-            "M < Q"
-          ],
+          "q": "Antonym of 'Dark'?",
+          "q_hi": "'Dark' का विलोम शब्द?",
+          "opts": ["Light", "Black", "Night", "Dim"],
+          "opts_hi": ["प्रकाश", "काला", "रात", "मंद"],
           "ans": 0,
-          "subject": "Reasoning"
+          "subject": "English Language"
         },
         {
-          "q": "If X ≤ Y > Z < W, which of the following is true?",
-          "q_hi": "यदि X ≤ Y > Z < W है, तो निम्नलिखित में से कौन सा सत्य है?",
-          "opts": [
-            "X < Z",
-            "W > Z",
-            "X = Z",
-            "Y = W"
-          ],
-          "opts_hi": [
-            "X < Z",
-            "W > Z",
-            "X = Z",
-            "Y = W"
-          ],
+          "q": "Fill in the blank: She is _______ than her sister.",
+          "q_hi": "रिक्त स्थान भरें: She is _______ than her sister.",
+          "opts": ["tall", "taller", "tallest", "more tall"],
+          "opts_hi": ["tall", "taller", "tallest", "more tall"],
           "ans": 1,
-          "subject": "Reasoning"
-        }
-      ]
-    },
-    {
-      "id": "sbi_po_17",
-      "title": "SBI PO Mock Test 17",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
+          "subject": "English Language"
+        },
         {
-          "q": "Statements: All men are mortal. No mortal is immortal. Some immortals are gods. Conclusions: I. Some gods are men. II. No man is a god. Which follows?",
-          "q_hi": "कथन: सभी मनुष्य नश्वर हैं। कोई नश्वर अमर नहीं है। कुछ अमर देवता हैं। निष्कर्ष: I. कुछ देवता मनुष्य हैं। II. कोई मनुष्य देवता नहीं है। कौन सा अनुसरण करता है?",
-          "opts": [
-            "Only I",
-            "Only II",
-            "Both I and II",
-            "Neither I nor II"
-          ],
-          "opts_hi": [
-            "केवल I",
-            "केवल II",
-            "I और II दोनों",
-            "न तो I और न ही II"
-          ],
+          "q": "What is the meaning of 'Diligent'?",
+          "q_hi": "'Diligent' का अर्थ क्या है?",
+          "opts": ["Lazy", "Hardworking", "Slow", "Careless"],
+          "opts_hi": ["आलसी", "मेहनती", "धीमा", "लापरवाह"],
           "ans": 1,
-          "subject": "Reasoning"
-        }
-      ]
-    },
-    {
-      "id": "sbi_po_18",
-      "title": "SBI PO Mock Test 18",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Pointing to a lady, a man said, \"She is the daughter of the only son of my father's sister.\" How is the lady related to the man?",
-          "q_hi": "एक महिला की ओर इशारा करते हुए, एक व्यक्ति ने कहा, \"वह मेरे पिता की बहन के इकलौते पुत्र की पुत्री है।\" वह महिला उस व्यक्ति से किस प्रकार संबंधित है?",
-          "opts": [
-            "Cousin sister",
-            "Niece",
-            "Sister",
-            "Aunt"
-          ],
-          "opts_hi": [
-            "चचेरी/ममेरी बहन",
-            "भतीजी",
-            "बहन",
-            "चाची/मामी"
-          ],
-          "ans": 0,
-          "subject": "Reasoning"
-        },
-        {
-          "q": "Which of the following is true if A > B > C > D = E?",
-          "q_hi": "यदि A > B > C > D = E है, तो निम्नलिखित में से कौन सा सत्य है?",
-          "opts": [
-            "A > E",
-            "B = E",
-            "C = E",
-            "D > A"
-          ],
-          "opts_hi": [
-            "A > E",
-            "B = E",
-            "C = E",
-            "D > A"
-          ],
-          "ans": 0,
-          "subject": "Reasoning"
-        },
-        {
-          "q": "Statements: All roses are flowers. All flowers are plants. No plant is a tree. Conclusions: I. No rose is a tree. II. Some plants are flowers. Which follows?",
-          "q_hi": "कथन: सभी गुलाब फूल हैं। सभी फूल पौधे हैं। कोई पौधा पेड़ नहीं है। निष्कर्ष: I. कोई गुलाब पेड़ नहीं है। II. कुछ पौधे फूल हैं। कौन सा अनुसरण करता है?",
-          "opts": [
-            "Only I",
-            "Only II",
-            "Both I and II",
-            "Neither I nor II"
-          ],
-          "opts_hi": [
-            "केवल I",
-            "केवल II",
-            "I और II दोनों",
-            "न तो I और न ही II"
-          ],
-          "ans": 2,
-          "subject": "Reasoning"
-        }
-      ]
-    },
-    {
-      "id": "sbi_po_19",
-      "title": "SBI PO Mock Test 19",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Who was known as the \"Grand Old Man of India\"?",
-          "q_hi": "भारत के वृद्ध पुरुष के रूप में कौन जाना जाता था?",
-          "opts": [
-            "Mahatma Gandhi",
-            "Dadabhai Naoroji",
-            "Lala Lajpat Rai",
-            "Bal Gangadhar Tilak"
-          ],
-          "opts_hi": [
-            "महात्मा गांधी",
-            "दादाभाई नौरोजी",
-            "लाला लाजपत राय",
-            "बाल गंगाधर तिलक"
-          ],
-          "ans": 1,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Which river is known as the \"Sorrow of Bihar\"?",
-          "q_hi": "बिहार का शोक किस नदी को कहा जाता है?",
-          "opts": [
-            "Kosi",
-            "Damodar",
-            "Ganga",
-            "Brahmaputra"
-          ],
-          "opts_hi": [
-            "कोसी",
-            "दामोदर",
-            "गंगा",
-            "ब्रह्मपुत्र"
-          ],
-          "ans": 0,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Which river is called the \"Dakshin Ganga\"?",
-          "q_hi": "दक्षिण गंगा किस नदी को कहा जाता है?",
-          "opts": [
-            "Krishna",
-            "Kaveri",
-            "Godavari",
-            "Mahanadi"
-          ],
-          "opts_hi": [
-            "कृष्णा",
-            "कावेरी",
-            "गोदावरी",
-            "महानदी"
-          ],
-          "ans": 2,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Which is the smallest particle of an element?",
-          "q_hi": "किसी तत्व का सबसे छोटा कण कौन सा है?",
-          "opts": [
-            "Atom",
-            "Molecule",
-            "Electron",
-            "Proton"
-          ],
-          "opts_hi": [
-            "परमाणु",
-            "अणु",
-            "इलेक्ट्रॉन",
-            "प्रोटॉन"
-          ],
-          "ans": 0,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Who discovered Nucleus?",
-          "q_hi": "नाभिक की खोज किसने की?",
-          "opts": [
-            "Robert Hooke",
-            "Charles Darwin",
-            "Robert Brown",
-            "Joseph Banks"
-          ],
-          "opts_hi": [
-            "रॉबर्ट हुक",
-            "चार्ल्स डार्विन",
-            "रॉबर्ट ब्राउन",
-            "जोसेफ बैंक्स"
-          ],
-          "ans": 2,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Which is the largest stadium in India?",
-          "q_hi": "भारत का सबसे बड़ा स्टेडियम कौन सा है?",
-          "opts": [
-            "Eden Gardens",
-            "Wankhede Stadium",
-            "Narendra Modi Stadium",
-            "M. Chinnaswamy Stadium"
-          ],
-          "opts_hi": [
-            "ईडन गार्डन्स",
-            "वानखेड़े स्टेडियम",
-            "नरेंद्र मोदी स्टेडियम",
-            "एम. चिन्नास्वामी स्टेडियम"
-          ],
-          "ans": 2,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Which state produces the maximum coal in India?",
-          "q_hi": "भारत में सबसे अधिक कोयला उत्पादन करने वाला राज्य कौन सा है?",
-          "opts": [
-            "Jharkhand",
-            "Odisha",
-            "Chhattisgarh",
-            "West Bengal"
-          ],
-          "opts_hi": [
-            "झारखंड",
-            "ओडिशा",
-            "छत्तीसगढ़",
-            "पश्चिम बंगाल"
-          ],
-          "ans": 0,
-          "subject": "General Knowledge"
-        }
-      ]
-    },
-    {
-      "id": "sbi_po_20",
-      "title": "SBI PO Mock Test 20",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Which is the largest producer of jute in the world?",
-          "q_hi": "दुनिया में जूट का सबसे बड़ा उत्पादक कौन सा है?",
-          "opts": [
-            "India",
-            "Bangladesh",
-            "China",
-            "Pakistan"
-          ],
-          "opts_hi": [
-            "भारत",
-            "बांग्लादेश",
-            "चीन",
-            "पाकिस्तान"
-          ],
-          "ans": 0,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Which UTs have their own Legislative Assembly?",
-          "q_hi": "किन केंद्र शासित प्रदेशों की अपनी विधान सभा है?",
-          "opts": [
-            "Delhi and Puducherry only",
-            "Delhi, Puducherry, and Jammu & Kashmir",
-            "Delhi, Puducherry, and Ladakh",
-            "Only Delhi"
-          ],
-          "opts_hi": [
-            "केवल दिल्ली और पुडुचेरी",
-            "दिल्ली, पुडुचेरी और जम्मू-कश्मीर",
-            "दिल्ली, पुडुचेरी और लद्दाख",
-            "केवल दिल्ली"
-          ],
-          "ans": 1,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "How many seats of Rajya Sabha are present in the state of Maharashtra?",
-          "q_hi": "महाराष्ट्र राज्य से राज्य सभा की कितनी सीटें हैं?",
-          "opts": [
-            "16",
-            "17",
-            "18",
-            "19"
-          ],
-          "opts_hi": [
-            "16",
-            "17",
-            "18",
-            "19"
-          ],
-          "ans": 3,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "In which year was the Dowry Prohibition Act passed in India?",
-          "q_hi": "भारत में दहेज निषेध अधिनियम किस वर्ष पारित किया गया था?",
-          "opts": [
-            "1956",
-            "1961",
-            "1971",
-            "1984"
-          ],
-          "opts_hi": [
-            "1956",
-            "1961",
-            "1971",
-            "1984"
-          ],
-          "ans": 1,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "What is the financial outlay for the PM Vishwakarma scheme approved by the Cabinet?",
-          "q_hi": "कैबिनेट द्वारा अनुमोदित पीएम विश्वकर्मा योजना का वित्तीय परिव्यय क्या है?",
-          "opts": [
-            "₹10,000 crore",
-            "₹13,000 crore",
-            "₹15,000 crore",
-            "₹20,000 crore"
-          ],
-          "opts_hi": [
-            "₹10,000 करोड़",
-            "₹13,000 करोड़",
-            "₹15,000 करोड़",
-            "₹20,000 करोड़"
-          ],
-          "ans": 1,
-          "subject": "Current Affairs"
-        },
-        {
-          "q": "Which Indian hockey player received the Padma Shri in 2026?",
-          "q_hi": "2026 में किस भारतीय हॉकी खिलाड़ी को पद्म श्री से सम्मानित किया गया?",
-          "opts": [
-            "PR Sreejesh",
-            "Manpreet Singh",
-            "Savita Punia",
-            "Rani Rampal"
-          ],
-          "opts_hi": [
-            "पी.आर. श्रीजेश",
-            "मनप्रीत सिंह",
-            "सविता पुनिया",
-            "रानी रामपाल"
-          ],
-          "ans": 2,
-          "subject": "Current Affairs"
-        },
-        {
-          "q": "Which vision does India use for security and growth in the region?",
-          "q_hi": "भारत क्षेत्र में सुरक्षा और विकास के लिए किस दृष्टिकोण का उपयोग करता है?",
-          "opts": [
-            "MAHASAGAR",
-            "Act East Policy",
-            "Look West Policy",
-            "Indo-Pacific Strategy"
-          ],
-          "opts_hi": [
-            "महासागर",
-            "एक्ट ईस्ट पॉलिसी",
-            "लुक वेस्ट पॉलिसी",
-            "इंडो-पैसिफिक स्ट्रैटेजी"
-          ],
-          "ans": 0,
-          "subject": "Current Affairs"
-        },
-        {
-          "q": "What is the megapixel count of the world's largest digital camera?",
-          "q_hi": "दुनिया के सबसे बड़े डिजिटल कैमरे का मेगापिक्सल क्या है?",
-          "opts": [
-            "1,200 megapixel",
-            "3,200 megapixel",
-            "5,000 megapixel",
-            "10,000 megapixel"
-          ],
-          "opts_hi": [
-            "1,200 मेगापिक्सल",
-            "3,200 मेगापिक्सल",
-            "5,000 मेगापिक्सल",
-            "10,000 मेगापिक्सल"
-          ],
-          "ans": 1,
-          "subject": "Current Affairs"
-        }
-      ]
-    },
-    {
-      "id": "sbi_po_21",
-      "title": "SBI PO Mock Test 21",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "What is the full form of KYC?",
-          "q_hi": "KYC का पूर्ण रूप क्या है?",
-          "opts": [
-            "Know Your Customer",
-            "Keep Your Cash",
-            "Know Your Company",
-            "Keep Your Credit"
-          ],
-          "opts_hi": [
-            "नो योर कस्टमर",
-            "कीप योर कैश",
-            "नो योर कंपनी",
-            "कीप योर क्रेडिट"
-          ],
-          "ans": 0,
-          "subject": "Banking"
-        }
-      ]
-    },
-    {
-      "id": "sbi_po_22",
-      "title": "SBI PO Mock Test 22",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "What does IFSC stand for?",
-          "q_hi": "IFSC का पूर्ण रूप क्या है?",
-          "opts": [
-            "Indian Financial System Code",
-            "International Financial System Code",
-            "Indian Fund Settlement Code",
-            "None"
-          ],
-          "opts_hi": [
-            "इंडियन फाइनेंशियल सिस्टम कोड",
-            "इंटरनेशनल फाइनेंशियल सिस्टम कोड",
-            "इंडियन फंड सेटलमेंट कोड",
-            "कोई नहीं"
-          ],
-          "ans": 0,
-          "subject": "Banking"
-        }
-      ]
-    },
-    {
-      "id": "sbi_po_23",
-      "title": "SBI PO Mock Test 23",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "What is the full form of RTGS?",
-          "q_hi": "RTGS का पूर्ण रूप क्या है?",
-          "opts": [
-            "Real Time Gross Settlement",
-            "Rapid Transfer Gross System",
-            "None",
-            "Real Time Gross System"
-          ],
-          "opts_hi": [
-            "रियल टाइम ग्रॉस सेटलमेंट",
-            "रैपिड ट्रांसफर ग्रॉस सिस्टम",
-            "कोई नहीं",
-            "रियल टाइम ग्रॉस सिस्टम"
-          ],
-          "ans": 0,
-          "subject": "Banking"
-        }
-      ]
-    },
-    {
-      "id": "sbi_po_24",
-      "title": "SBI PO Mock Test 24",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Which city will host the opening match of FIFA World Cup 2026?",
-          "q_hi": "2026 FIFA विश्व कप का उद्घाटन मैच किस शहर में होगा?",
-          "opts": [
-            "Mexico City",
-            "Toronto",
-            "Los Angeles",
-            "New York"
-          ],
-          "opts_hi": [
-            "मेक्सिको सिटी",
-            "टोरंटो",
-            "लॉस एंजेलिस",
-            "न्यूयॉर्क"
-          ],
-          "ans": 0,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "What is the official mascot of FIFA World Cup 2026?",
-          "q_hi": "2026 FIFA विश्व कप का आधिकारिक मास्कॉट क्या है?",
-          "opts": [
-            "La'eeb",
-            "Gazoo",
-            "World Cup Willie",
-            "None announced yet"
-          ],
-          "opts_hi": [
-            "ला'ईब",
-            "गजू",
-            "वर्ल्ड कप विली",
-            "अभी घोषित नहीं"
-          ],
-          "ans": 0,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Which city in Canada will host matches in FIFA World Cup 2026?",
-          "q_hi": "2026 FIFA विश्व कप में कनाडा के किस शहर में मैच होंगे?",
-          "opts": [
-            "Toronto",
-            "Vancouver",
-            "Edmonton",
-            "All three"
-          ],
-          "opts_hi": [
-            "टोरंटो",
-            "वैंकूवर",
-            "एडमंटन",
-            "तीनों"
-          ],
-          "ans": 3,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Which is the first Arab country to co-host a World Cup?",
-          "q_hi": "2026 FIFA विश्व कप में पहला अरब देश कौन सा है?",
-          "opts": [
-            "Morocco",
-            "Qatar",
-            "Saudi Arabia",
-            "None"
-          ],
-          "opts_hi": [
-            "मोरक्को",
-            "कतर",
-            "सऊदी अरब",
-            "कोई नहीं"
-          ],
-          "ans": 0,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "How many matches will be played in the knockout stage?",
-          "q_hi": "नॉकआउट स्टेज में कितने मैच खेले जाएंगे?",
-          "opts": [
-            "32",
-            "48",
-            "16",
-            "64"
-          ],
-          "opts_hi": [
-            "32",
-            "48",
-            "16",
-            "64"
-          ],
-          "ans": 0,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Which Canadian province will host matches?",
-          "q_hi": "2026 FIFA विश्व कप में कनाडा के किस प्रांत में मैच होंगे?",
-          "opts": [
-            "Ontario",
-            "British Columbia",
-            "Alberta",
-            "Quebec"
-          ],
-          "opts_hi": [
-            "ओन्टारियो",
-            "ब्रिटिश कोलंबिया",
-            "अल्बर्टा",
-            "क्यूबेक"
-          ],
-          "ans": 1,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "What is the expected number of visitors for FIFA World Cup 2026?",
-          "q_hi": "2026 FIFA विश्व कप के दौरान अनुमानित पर्यटकों की संख्या कितनी है?",
-          "opts": [
-            "Over 5 million",
-            "Over 3 million",
-            "Over 10 million",
-            "Over 1 million"
-          ],
-          "opts_hi": [
-            "5 मिलियन से अधिक",
-            "3 मिलियन से अधिक",
-            "10 मिलियन से अधिक",
-            "1 मिलियन से अधिक"
-          ],
-          "ans": 0,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "What is the total prize money pool for FIFA World Cup 2026?",
-          "q_hi": "2026 FIFA विश्व कप के कुल पुरस्कार राशि पूल कितना है?",
-          "opts": [
-            "Over $150 million",
-            "Over $100 million",
-            "Over $200 million",
-            "Over $300 million"
-          ],
-          "opts_hi": [
-            "150 मिलियन डॉलर से अधिक",
-            "100 मिलियन डॉलर से अधिक",
-            "200 मिलियन डॉलर से अधिक",
-            "300 मिलियन डॉलर से अधिक"
-          ],
-          "ans": 0,
-          "subject": "General Knowledge"
-        }
-      ]
-    },
-    {
-      "id": "sbi_po_25",
-      "title": "SBI PO Mock Test 25",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "In the human body, which is the largest gland?",
-          "q_hi": "मानव शरीर में सबसे बड़ी ग्रंथि कौन सी है?",
-          "opts": [
-            "Pancreas",
-            "Liver",
-            "Thyroid",
-            "Adrenal"
-          ],
-          "opts_hi": [
-            "अग्न्याशय",
-            "यकृत",
-            "थायरॉइड",
-            "अधिवृक्क"
-          ],
-          "ans": 1,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Which is the most populated state in India?",
-          "q_hi": "भारत का सबसे अधिक जनसंख्या वाला राज्य कौन सा है?",
-          "opts": [
-            "Maharashtra",
-            "Bihar",
-            "Uttar Pradesh",
-            "Rajasthan"
-          ],
-          "opts_hi": [
-            "महाराष्ट्र",
-            "बिहार",
-            "उत्तर प्रदेश",
-            "राजस्थान"
-          ],
-          "ans": 2,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Which gland is known as the \"Master Gland\" of the human body?",
-          "q_hi": "मानव शरीर की \"मास्टर ग्रंथि\" के रूप में कौन सी ग्रंथि जानी जाती है?",
-          "opts": [
-            "Thyroid gland",
-            "Pituitary gland",
-            "Adrenal gland",
-            "Pancreas"
-          ],
-          "opts_hi": [
-            "थायरॉइड ग्रंथि",
-            "पिट्यूटरी ग्रंथि",
-            "अधिवृक्क ग्रंथि",
-            "अग्न्याशय"
-          ],
-          "ans": 1,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "How many fundamental rights are guaranteed by the Indian Constitution?",
-          "q_hi": "भारतीय संविधान द्वारा कितने मौलिक अधिकारों की गारंटी दी गई है?",
-          "opts": [
-            "5",
-            "6",
-            "7",
-            "8"
-          ],
-          "opts_hi": [
-            "5",
-            "6",
-            "7",
-            "8"
-          ],
-          "ans": 1,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "What is the SI unit of temperature?",
-          "q_hi": "तापमान की SI इकाई क्या है?",
-          "opts": [
-            "Celsius",
-            "Fahrenheit",
-            "Kelvin",
-            "Rankine"
-          ],
-          "opts_hi": [
-            "सेल्सियस",
-            "फारेनहाइट",
-            "केल्विन",
-            "रैंकिन"
-          ],
-          "ans": 2,
-          "subject": "General Knowledge"
-        }
-      ]
-    },
-    {
-      "id": "sbi_po_26",
-      "title": "SBI PO Mock Test 26",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Which amendment made the President's proclamation of Emergency subject to judicial review?",
-          "q_hi": "किस संशोधन ने राष्ट्रपति की आपातकाल उद्घोषणा को न्यायिक समीक्षा के अधीन किया?",
-          "opts": [
-            "38th Amendment",
-            "39th Amendment",
-            "42nd Amendment",
-            "44th Amendment"
-          ],
-          "opts_hi": [
-            "38वां संशोधन",
-            "39वां संशोधन",
-            "42वां संशोधन",
-            "44वां संशोधन"
-          ],
-          "ans": 3,
-          "subject": "Polity"
-        },
-        {
-          "q": "The term 'Twin Deficit' in Indian economy refers to which two deficits?",
-          "q_hi": "भारतीय अर्थव्यवस्था में 'जुड़वां घाटा' किन दो घाटों को संदर्भित करता है?",
-          "opts": [
-            "Fiscal Deficit and Revenue Deficit",
-            "Fiscal Deficit and Current Account Deficit",
-            "Revenue Deficit and Primary Deficit",
-            "Current Account Deficit and Trade Deficit"
-          ],
-          "opts_hi": [
-            "राजकोषीय घाटा और राजस्व घाटा",
-            "राजकोषीय घाटा और चालू खाता घाटा",
-            "राजस्व घाटा और प्राथमिक घाटा",
-            "चालू खाता घाटा और व्यापार घाटा"
-          ],
-          "ans": 1,
-          "subject": "Economy"
-        },
-        {
-          "q": "Under which provision can the Supreme Court of India hear appeals against the decisions of the High Courts in civil matters?",
-          "q_hi": "किस प्रावधान के तहत भारत का सर्वोच्च न्यायालय दीवानी मामलों में उच्च न्यायालयों के निर्णयों के खिलाफ अपील सुन सकता है?",
-          "opts": [
-            "Article 134",
-            "Article 133",
-            "Article 136",
-            "Article 132"
-          ],
-          "opts_hi": [
-            "अनुच्छेद 134",
-            "अनुच्छेद 133",
-            "अनुच्छेद 136",
-            "अनुच्छेद 132"
-          ],
-          "ans": 1,
-          "subject": "Polity"
-        }
-      ]
-    },
-    {
-      "id": "sbi_po_27",
-      "title": "SBI PO Mock Test 27",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Which Uttar Pradesh town was renamed as 'Parashurampuri' by the state cabinet in July 2026?",
-          "q_hi": "जुलाई 2026 में उत्तर प्रदेश कैबिनेट ने किस कस्बे का नाम बदलकर 'परशुरामपुरी' कर दिया?",
-          "opts": [
-            "Jalalabad",
-            "Faizabad",
-            "Allahabad",
-            "Mughalsarai"
-          ],
-          "opts_hi": [
-            "जलालाबाद",
-            "फैजाबाद",
-            "इलाहाबाद",
-            "मुगलसराय"
-          ],
-          "ans": 0,
-          "subject": "Current Affairs"
-        },
-        {
-          "q": "Which fruit from Haryana received the Geographical Indication (GI) Tag in July 2026?",
-          "q_hi": "जुलाई 2026 में हरियाणा के किस फल को भौगोलिक संकेत (GI) टैग मिला?",
-          "opts": [
-            "Kinnow",
-            "Mango",
-            "Guava",
-            "Litchi"
-          ],
-          "opts_hi": [
-            "किन्नू",
-            "आम",
-            "अमरूद",
-            "लीची"
-          ],
-          "ans": 0,
-          "subject": "Current Affairs"
-        },
-        {
-          "q": "The Samudra Shakti bilateral exercise is conducted between the navies of India and which country?",
-          "q_hi": "समुद्र शक्ति द्विपक्षीय अभ्यास भारत और किस देश की नौसेनाओं के बीच आयोजित किया जाता है?",
-          "opts": [
-            "Malaysia",
-            "Indonesia",
-            "Vietnam",
-            "Thailand"
-          ],
-          "opts_hi": [
-            "मलेशिया",
-            "इंडोनेशिया",
-            "वियतनाम",
-            "थाईलैंड"
-          ],
-          "ans": 1,
-          "subject": "Current Affairs"
-        }
-      ]
-    },
-    {
-      "id": "sbi_po_28",
-      "title": "SBI PO Mock Test 28",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Who was appointed as the new CEO of NITI Aayog in July 2026?",
-          "q_hi": "जुलाई 2026 में NITI Aayog के नए CEO के रूप में किसे नियुक्त किया गया?",
-          "opts": [
-            "B.V.R. Subrahmanyam",
-            "Anurag Jain",
-            "Rajiv Gauba",
-            "Suman K. Bery"
-          ],
-          "opts_hi": [
-            "बी.वी.आर. सुब्रह्मण्यम",
-            "अनुराग जैन",
-            "राजीव गौबा",
-            "सुमन के. बेरी"
-          ],
-          "ans": 1,
-          "subject": "Current Affairs"
-        },
-        {
-          "q": "Which state topped NITI Aayog's first-ever Investment Friendliness Index 2026?",
-          "q_hi": "NITI Aayog के पहले Investment Friendliness Index 2026 में किस राज्य ने शीर्ष स्थान प्राप्त किया?",
-          "opts": [
-            "Maharashtra",
-            "Tamil Nadu",
-            "Gujarat",
-            "Karnataka"
-          ],
-          "opts_hi": [
-            "महाराष्ट्र",
-            "तमिलनाडु",
-            "गुजरात",
-            "कर्नाटक"
-          ],
-          "ans": 2,
-          "subject": "Current Affairs"
-        },
-        {
-          "q": "Who shared the Best Actor award at the 72nd National Film Awards announced in July 2026?",
-          "q_hi": "जुलाई 2026 में घोषित 72वें राष्ट्रीय फिल्म पुरस्कारों में सर्वश्रेष्ठ अभिनेता का पुरस्कार किसने साझा किया?",
-          "opts": [
-            "Rajkumar Periasamy & Randeep Hooda",
-            "Mammootty & Kartik Aaryan",
-            "Yami Gautam & Mammootty",
-            "Kartik Aaryan & Rajkumar Periasamy"
-          ],
-          "opts_hi": [
-            "राजकुमार पेरियासामी और रणदीप हुड्डा",
-            "मम्मूट्टी और कार्तिक आर्यन",
-            "यामी गौतम और मम्मूट्टी",
-            "कार्तिक आर्यन और राजकुमार पेरियासामी"
-          ],
-          "ans": 1,
-          "subject": "Current Affairs"
-        },
-        {
-          "q": "How much foreign portfolio investment (FPI) flowed into Indian equity and debt markets in July 2026 (up to July 20)?",
-          "q_hi": "जुलाई 2026 (20 जुलाई तक) में भारतीय इक्विटी और ऋण बाजारों में कितना विदेशी पोर्टफोलियो निवेश (FPI) आया?",
-          "opts": [
-            "$1.5 billion",
-            "$2.1 billion",
-            "$3.1 billion",
-            "$4.5 billion"
-          ],
-          "opts_hi": [
-            "$1.5 बिलियन",
-            "$2.1 बिलियन",
-            "$3.1 बिलियन",
-            "$4.5 बिलियन"
-          ],
-          "ans": 2,
-          "subject": "Current Affairs"
+          "subject": "English Language"
         }
       ]
     }
