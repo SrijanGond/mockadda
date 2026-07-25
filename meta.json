@@ -413,7 +413,7 @@
     "icon": "⚖️",
     "color": "#f43f5e",
     "exams": {
-            "upsc_prelims": {
+      "upsc_prelims": {
         "name": "UPSC Prelims",
         "fullname": "Union Public Service Commission Preliminary Examination",
         "tests": [
@@ -446,8 +446,15 @@
             "questionCount": 25
           }
         ]
-      },
-        "roaro_prelims": {
+      }
+    }
+  },
+  "roaro": {
+    "name": "RO/ARO Allahabad HC",
+    "icon": "📜",
+    "color": "#0891b2",
+    "exams": {
+      "roaro_prelims": {
         "name": "RO/ARO Prelims",
         "fullname": "Allahabad High Court Review Officer / Assistant Review Officer — Preliminary Exam (General Studies)",
         "tests": [
@@ -480,8 +487,15 @@
             "questionCount": 25
           }
         ]
-      },
-        "up_police_constable": {
+      }
+    }
+  },
+  "police": {
+    "name": "Police Exams",
+    "icon": "🚓",
+    "color": "#dc2626",
+    "exams": {
+      "up_police_constable": {
         "name": "UP Police Constable",
         "fullname": "Uttar Pradesh Police Recruitment and Promotion Board — Constable Civil Police",
         "tests": [
@@ -514,8 +528,15 @@
             "questionCount": 25
           }
         ]
-      },
-        "upsssc_pet": {
+      }
+    }
+  },
+  "upsssc": {
+    "name": "UPSSSC Exams",
+    "icon": "📋",
+    "color": "#7c3aed",
+    "exams": {
+      "upsssc_pet": {
         "name": "UPSSSC PET",
         "fullname": "UP Subordinate Services Selection Commission — Preliminary Eligibility Test",
         "tests": [
@@ -549,3 +570,6 @@
           }
         ]
       }
+    }
+  }
+}
