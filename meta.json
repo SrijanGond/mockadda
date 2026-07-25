@@ -188,142 +188,37 @@
           }
         ]
       },
-      "ibps_po": {
+            "ibps_po": {
         "name": "IBPS PO",
         "fullname": "Institute of Banking Personnel Selection Probationary Officer",
         "tests": [
           {
             "id": "ibps_po_1",
-            "title": "IBPS PO Mock Test 1",
-            "duration": 20,
+            "title": "IBPS PO Full Mock Test 1 (Prelims Pattern)",
+            "duration": 60,
             "difficulty": "Hard",
-            "questionCount": 10
+            "questionCount": 25
           },
           {
             "id": "ibps_po_2",
-            "title": "IBPS PO Mock Test 2",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
+            "title": "IBPS PO Full Mock Test 2 (Prelims Pattern)",
+            "duration": 60,
+            "difficulty": "Hard",
+            "questionCount": 25
           },
           {
             "id": "ibps_po_3",
-            "title": "IBPS PO Mock Test 3",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
+            "title": "IBPS PO Full Mock Test 3 (Prelims Pattern)",
+            "duration": 60,
+            "difficulty": "Hard",
+            "questionCount": 25
           },
           {
             "id": "ibps_po_4",
-            "title": "IBPS PO Mock Test 4",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
-          },
-          {
-            "id": "ibps_po_5",
-            "title": "IBPS PO Mock Test 5",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "ibps_po_6",
-            "title": "IBPS PO Mock Test 6",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 3
-          },
-          {
-            "id": "ibps_po_7",
-            "title": "IBPS PO Mock Test 7",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 4
-          },
-          {
-            "id": "ibps_po_8",
-            "title": "IBPS PO Mock Test 8",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 3
-          },
-          {
-            "id": "ibps_po_9",
-            "title": "IBPS PO Mock Test 9",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 3
-          },
-          {
-            "id": "ibps_po_10",
-            "title": "IBPS PO Mock Test 10",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "ibps_po_11",
-            "title": "IBPS PO Mock Test 11",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
-          },
-          {
-            "id": "ibps_po_12",
-            "title": "IBPS PO Mock Test 12",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
-          },
-          {
-            "id": "ibps_po_13",
-            "title": "IBPS PO Mock Test 13",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 4
-          },
-          {
-            "id": "ibps_po_14",
-            "title": "IBPS PO Mock Test 14",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 3
-          },
-          {
-            "id": "ibps_po_15",
-            "title": "IBPS PO Mock Test 15",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
-          },
-          {
-            "id": "ibps_po_16",
-            "title": "IBPS PO Mock Test 16",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 3
-          },
-          {
-            "id": "ibps_po_17",
-            "title": "IBPS PO Mock Test 17",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
-          },
-          {
-            "id": "ibps_po_18",
-            "title": "IBPS PO Mock Test 18",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
-          },
-          {
-            "id": "ibps_po_19",
-            "title": "IBPS PO Mock Test 19",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
+            "title": "IBPS PO Full Mock Test 4 (Prelims Pattern)",
+            "duration": 60,
+            "difficulty": "Hard",
+            "questionCount": 25
           }
         ]
       },
