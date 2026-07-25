@@ -263,156 +263,37 @@
     "icon": "🚂",
     "color": "#f59e0b",
     "exams": {
-      "rrb_ntpc": {
+            "rrb_ntpc": {
         "name": "RRB NTPC",
         "fullname": "Railway Recruitment Board Non-Technical Popular Categories",
         "tests": [
           {
             "id": "rrb_ntpc_1",
-            "title": "RRB NTPC Mock Test 1",
-            "duration": 15,
+            "title": "RRB NTPC Full Mock Test 1 (CBT 1 Pattern)",
+            "duration": 90,
             "difficulty": "Medium",
-            "questionCount": 10
+            "questionCount": 25
           },
           {
             "id": "rrb_ntpc_2",
-            "title": "RRB NTPC Mock Test 2",
-            "duration": 10,
+            "title": "RRB NTPC Full Mock Test 2 (CBT 1 Pattern)",
+            "duration": 90,
             "difficulty": "Medium",
-            "questionCount": 1
+            "questionCount": 25
           },
           {
             "id": "rrb_ntpc_3",
-            "title": "RRB NTPC Mock Test 3",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
+            "title": "RRB NTPC Full Mock Test 3 (CBT 1 Pattern)",
+            "duration": 90,
+            "difficulty": "Hard",
+            "questionCount": 25
           },
           {
             "id": "rrb_ntpc_4",
-            "title": "RRB NTPC Mock Test 4",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
-          },
-          {
-            "id": "rrb_ntpc_5",
-            "title": "RRB NTPC Mock Test 5",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "rrb_ntpc_6",
-            "title": "RRB NTPC Mock Test 6",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 3
-          },
-          {
-            "id": "rrb_ntpc_7",
-            "title": "RRB NTPC Mock Test 7",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 3
-          },
-          {
-            "id": "rrb_ntpc_8",
-            "title": "RRB NTPC Mock Test 8",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "rrb_ntpc_9",
-            "title": "RRB NTPC Mock Test 9",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 4
-          },
-          {
-            "id": "rrb_ntpc_10",
-            "title": "RRB NTPC Mock Test 10",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 4
-          },
-          {
-            "id": "rrb_ntpc_11",
-            "title": "RRB NTPC Mock Test 11",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 4
-          },
-          {
-            "id": "rrb_ntpc_12",
-            "title": "RRB NTPC Mock Test 12",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
-          },
-          {
-            "id": "rrb_ntpc_13",
-            "title": "RRB NTPC Mock Test 13",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "rrb_ntpc_14",
-            "title": "RRB NTPC Mock Test 14",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 3
-          },
-          {
-            "id": "rrb_ntpc_15",
-            "title": "RRB NTPC Mock Test 15",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
-          },
-          {
-            "id": "rrb_ntpc_16",
-            "title": "RRB NTPC Mock Test 16",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
-          },
-          {
-            "id": "rrb_ntpc_17",
-            "title": "RRB NTPC Mock Test 17",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 3
-          },
-          {
-            "id": "rrb_ntpc_18",
-            "title": "RRB NTPC Mock Test 18",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "rrb_ntpc_19",
-            "title": "RRB NTPC Mock Test 19",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
-          },
-          {
-            "id": "rrb_ntpc_20",
-            "title": "RRB NTPC Mock Test 20",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 3
-          },
-          {
-            "id": "rrb_ntpc_21",
-            "title": "RRB NTPC Mock Test 21",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
+            "title": "RRB NTPC Full Mock Test 4 (CBT 1 Pattern)",
+            "duration": 90,
+            "difficulty": "Hard",
+            "questionCount": 25
           }
         ]
       },
