@@ -515,52 +515,37 @@
           }
         ]
       },
-  "upsssc": {
-    "name": "UPSSSC Exams",
-    "icon": "📋",
-    "color": "#7c3aed",
-    "exams": {
-      "upsssc_pet": {
+        "upsssc_pet": {
         "name": "UPSSSC PET",
         "fullname": "UP Subordinate Services Selection Commission — Preliminary Eligibility Test",
         "tests": [
           {
             "id": "upsssc_pet_1",
-            "title": "UPSSSC PET Mock Test 1",
-            "duration": 60,
+            "title": "UPSSSC PET Full Mock Test 1 (Preliminary Eligibility Test)",
+            "duration": 120,
             "difficulty": "Medium",
-            "questionCount": 100
+            "questionCount": 25
           },
           {
             "id": "upsssc_pet_2",
-            "title": "UPSSSC PET Mock Test 2",
-            "duration": 10,
+            "title": "UPSSSC PET Full Mock Test 2 (Preliminary Eligibility Test)",
+            "duration": 120,
             "difficulty": "Medium",
-            "questionCount": 5
+            "questionCount": 25
           },
           {
             "id": "upsssc_pet_3",
-            "title": "UPSSSC PET Mock Test 3",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
+            "title": "UPSSSC PET Full Mock Test 3 (Preliminary Eligibility Test)",
+            "duration": 120,
+            "difficulty": "Hard",
+            "questionCount": 25
           },
           {
             "id": "upsssc_pet_4",
-            "title": "UPSSSC PET Mock Test 4",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 2
-          },
-          {
-            "id": "upsssc_pet_5",
-            "title": "UPSSSC PET Mock Test 5",
-            "duration": 10,
-            "difficulty": "Medium",
-            "questionCount": 1
+            "title": "UPSSSC PET Full Mock Test 4 (Preliminary Eligibility Test)",
+            "duration": 120,
+            "difficulty": "Hard",
+            "questionCount": 25
           }
         ]
       }
-    }
-  }
-}
