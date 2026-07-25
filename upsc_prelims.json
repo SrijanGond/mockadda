@@ -2,366 +2,11 @@
   "tests": [
     {
       "id": "upsc_pre_1",
-      "title": "UPSC Prelims GS Mock Test 1",
-      "duration": 20,
+      "title": "UPSC Prelims Full Mock Test 1 (GS Paper I)",
+      "duration": 120,
       "difficulty": "Hard",
-      "questions": [
-        {
-          "q": "Which Schedule of Indian Constitution deals with Anti-Defection Law?",
-          "q_hi": "भारतीय संविधान की कौन सी अनुसूची दल-बदल विरोधी कानून से संबंधित है?",
-          "opts": [
-            "8th Schedule",
-            "9th Schedule",
-            "10th Schedule",
-            "11th Schedule"
-          ],
-          "opts_hi": [
-            "8वीं अनुसूची",
-            "9वीं अनुसूची",
-            "10वीं अनुसूची",
-            "11वीं अनुसूची"
-          ],
-          "ans": 2
-        },
-        {
-          "q": "The term 'Secular' was added to Preamble by which Amendment?",
-          "q_hi": "प्रस्तावना में 'पंथनिरपेक्ष' शब्द किस संशोधन द्वारा जोड़ा गया?",
-          "opts": [
-            "42nd",
-            "44th",
-            "46th",
-            "52nd"
-          ],
-          "opts_hi": [
-            "42वें",
-            "44वें",
-            "46वें",
-            "52वें"
-          ],
-          "ans": 0
-        },
-        {
-          "q": "Which river is known as 'Sorrow of Bihar'?",
-          "q_hi": "कौन सी नदी 'बिहार का शोक' कहलाती है?",
-          "opts": [
-            "Ganga",
-            "Son",
-            "Kosi",
-            "Gandak"
-          ],
-          "opts_hi": [
-            "गंगा",
-            "सोन",
-            "कोसी",
-            "गंडक"
-          ],
-          "ans": 2
-        },
-        {
-          "q": "The Chipko Movement was associated with?",
-          "q_hi": "चिपको आंदोलन किससे संबंधित था?",
-          "opts": [
-            "Water conservation",
-            "Forest conservation",
-            "Soil conservation",
-            "Wildlife conservation"
-          ],
-          "opts_hi": [
-            "जल संरक्षण",
-            "वन संरक्षण",
-            "मृदा संरक्षण",
-            "वन्यजीव संरक्षण"
-          ],
-          "ans": 1
-        },
-        {
-          "q": "Which Article empowers President to impose National Emergency?",
-          "q_hi": "कौन सा अनुच्छेद राष्ट्रपति को राष्ट्रीय आपातकाल लगाने का अधिकार देता है?",
-          "opts": [
-            "Article 352",
-            "Article 356",
-            "Article 360",
-            "Article 365"
-          ],
-          "opts_hi": [
-            "अनुच्छेद 352",
-            "अनुच्छेद 356",
-            "अनुच्छेद 360",
-            "अनुच्छेद 365"
-          ],
-          "ans": 0
-        },
-        {
-          "q": "Kyoto Protocol is related to?",
-          "q_hi": "क्योटो प्रोटोकॉल किससे संबंधित है?",
-          "opts": [
-            "Nuclear weapons",
-            "Climate change",
-            "Trade",
-            "Terrorism"
-          ],
-          "opts_hi": [
-            "परमाणु हथियार",
-            "जलवायु परिवर्तन",
-            "व्यापार",
-            "आतंकवाद"
-          ],
-          "ans": 1
-        },
-        {
-          "q": "MGNREGS guarantees employment for how many days?",
-          "q_hi": "मनरेगा कितने दिनों के रोजगार की गारंटी देता है?",
-          "opts": [
-            "75",
-            "90",
-            "100",
-            "120"
-          ],
-          "opts_hi": [
-            "75",
-            "90",
-            "100",
-            "120"
-          ],
-          "ans": 2
-        },
-        {
-          "q": "The concept of Directive Principles was borrowed from?",
-          "q_hi": "नीति निर्देशक तत्वों की अवधारणा कहाँ से ली गई है?",
-          "opts": [
-            "USA",
-            "UK",
-            "Ireland",
-            "Canada"
-          ],
-          "opts_hi": [
-            "अमेरिका",
-            "यूके",
-            "आयरलैंड",
-            "कनाडा"
-          ],
-          "ans": 2
-        },
-        {
-          "q": "Which is the largest saltwater lake in India?",
-          "q_hi": "भारत की सबसे बड़ी खारे पानी की झील कौन सी है?",
-          "opts": [
-            "Dal Lake",
-            "Chilika Lake",
-            "Sambhar Lake",
-            "Wular Lake"
-          ],
-          "opts_hi": [
-            "डल झील",
-            "चिल्का झील",
-            "सांभर झील",
-            "वुलर झील"
-          ],
-          "ans": 1,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "The Fundamental Duties were added by which Amendment?",
-          "q_hi": "मौलिक कर्तव्य किस संशोधन द्वारा जोड़े गए?",
-          "opts": [
-            "40th",
-            "42nd",
-            "44th",
-            "46th"
-          ],
-          "opts_hi": [
-            "40वें",
-            "42वें",
-            "44वें",
-            "46वें"
-          ],
-          "ans": 1
-        }
-      ]
-    },
-    {
-      "id": "upsc_pre_2",
-      "title": "UPSC Prelims GS Mock Test 2",
-      "duration": 20,
-      "difficulty": "Hard",
-      "questions": [
-        {
-          "q": "Which Five Year Plan focused on 'Garibi Hatao'?",
-          "q_hi": "किस पंचवर्षीय योजना में 'गरीबी हटाओ' पर ध्यान दिया गया?",
-          "opts": [
-            "4th",
-            "5th",
-            "6th",
-            "7th"
-          ],
-          "opts_hi": [
-            "4वीं",
-            "5वीं",
-            "6वीं",
-            "7वीं"
-          ],
-          "ans": 1
-        },
-        {
-          "q": "Photochemical smog is caused mainly by?",
-          "q_hi": "प्रकाश रासायनिक धुआँ (Photochemical smog) मुख्यतः किससे होता है?",
-          "opts": [
-            "SO₂",
-            "CO₂",
-            "NO₂ and hydrocarbons",
-            "Particulate matter"
-          ],
-          "opts_hi": [
-            "SO₂",
-            "CO₂",
-            "NO₂ और हाइड्रोकार्बन",
-            "कण पदार्थ"
-          ],
-          "ans": 2
-        },
-        {
-          "q": "The Indus Valley Civilisation is also called?",
-          "q_hi": "सिंधु घाटी सभ्यता को और किस नाम से जाना जाता है?",
-          "opts": [
-            "Vedic Civilisation",
-            "Harappan Civilisation",
-            "Dravidian Civilisation",
-            "Aryan Civilisation"
-          ],
-          "opts_hi": [
-            "वैदिक सभ्यता",
-            "हड़प्पा सभ्यता",
-            "द्रविड़ सभ्यता",
-            "आर्य सभ्यता"
-          ],
-          "ans": 1
-        },
-        {
-          "q": "Which Article deals with the Right to Constitutional Remedies?",
-          "q_hi": "संवैधानिक उपचारों के अधिकार से कौन सा अनुच्छेद संबंधित है?",
-          "opts": [
-            "Article 30",
-            "Article 32",
-            "Article 35",
-            "Article 38"
-          ],
-          "opts_hi": [
-            "अनुच्छेद 30",
-            "अनुच्छेद 32",
-            "अनुच्छेद 35",
-            "अनुच्छेद 38"
-          ],
-          "ans": 1
-        },
-        {
-          "q": "National Human Rights Commission was established in?",
-          "q_hi": "राष्ट्रीय मानवाधिकार आयोग की स्थापना कब हुई?",
-          "opts": [
-            "1991",
-            "1993",
-            "1995",
-            "1997"
-          ],
-          "opts_hi": [
-            "1991",
-            "1993",
-            "1995",
-            "1997"
-          ],
-          "ans": 1
-        },
-        {
-          "q": "Which of the following is NOT a Greenhouse Gas?",
-          "q_hi": "निम्नलिखित में से कौन सी ग्रीनहाउस गैस नहीं है?",
-          "opts": [
-            "CO₂",
-            "CH₄",
-            "N₂O",
-            "N₂"
-          ],
-          "opts_hi": [
-            "CO₂",
-            "CH₄",
-            "N₂O",
-            "N₂"
-          ],
-          "ans": 3
-        },
-        {
-          "q": "Pradhan Mantri Jan Dhan Yojana was launched in?",
-          "q_hi": "प्रधानमंत्री जन धन योजना कब शुरू की गई?",
-          "opts": [
-            "2013",
-            "2014",
-            "2015",
-            "2016"
-          ],
-          "opts_hi": [
-            "2013",
-            "2014",
-            "2015",
-            "2016"
-          ],
-          "ans": 1
-        },
-        {
-          "q": "The Tropic of Cancer passes through how many Indian states?",
-          "q_hi": "कर्क रेखा भारत के कितने राज्यों से होकर गुजरती है?",
-          "opts": [
-            "6",
-            "7",
-            "8",
-            "9"
-          ],
-          "opts_hi": [
-            "6",
-            "7",
-            "8",
-            "9"
-          ],
-          "ans": 2
-        },
-        {
-          "q": "Which body recommends MSP for crops?",
-          "q_hi": "फसलों के लिए MSP की सिफारिश कौन सी संस्था करती है?",
-          "opts": [
-            "NITI Aayog",
-            "CACP",
-            "FCI",
-            "NAFED"
-          ],
-          "opts_hi": [
-            "नीति आयोग",
-            "CACP",
-            "FCI",
-            "NAFED"
-          ],
-          "ans": 1
-        },
-        {
-          "q": "The term 'Oligopoly' refers to?",
-          "q_hi": "'अल्पाधिकार' (Oligopoly) शब्द किसे संदर्भित करता है?",
-          "opts": [
-            "Single seller market",
-            "Few sellers market",
-            "Many sellers market",
-            "No sellers market"
-          ],
-          "opts_hi": [
-            "एकल विक्रेता बाजार",
-            "कुछ विक्रेताओं का बाजार",
-            "अनेक विक्रेताओं का बाजार",
-            "कोई विक्रेता नहीं"
-          ],
-          "ans": 1
-        }
-      ]
-    },
-    {
-      "id": "upsc_prelims_3",
-      "title": "UPSC Prelims Mock Test 3",
-      "duration": 10,
-      "difficulty": "Medium",
+      "correctMarks": 2,
+      "negativeMarks": 0.66,
       "questions": [
         {
           "q": "Which of the following is the correct chronological order of the Mauryan, Gupta, and Kushan empires?",
@@ -379,96 +24,48 @@
             "मौर्य → गुप्त → कुषाण"
           ],
           "ans": 0,
-          "subject": "History"
-        }
-      ]
-    },
-    {
-      "id": "upsc_prelims_4",
-      "title": "UPSC Prelims Mock Test 4",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
+          "subject": "History - Ancient India"
+        },
         {
           "q": "The concept of 'Judicial Review' in the Indian Constitution is borrowed from which country?",
           "q_hi": "भारतीय संविधान में 'न्यायिक समीक्षा' की अवधारणा किस देश से ली गई है?",
-          "opts": [
-            "United Kingdom",
-            "United States of America",
-            "Canada",
-            "Australia"
-          ],
-          "opts_hi": [
-            "यूनाइटेड किंगडम",
-            "संयुक्त राज्य अमेरिका",
-            "कनाडा",
-            "ऑस्ट्रेलिया"
-          ],
+          "opts": ["United Kingdom", "United States of America", "Canada", "Australia"],
+          "opts_hi": ["यूनाइटेड किंगडम", "संयुक्त राज्य अमेरिका", "कनाडा", "ऑस्ट्रेलिया"],
           "ans": 1,
           "subject": "Polity"
         },
         {
           "q": "Which of the following is a 'Critically Endangered' species according to the IUCN Red List?",
           "q_hi": "IUCN रेड लिस्ट के अनुसार निम्नलिखित में से कौन सी 'गंभीर रूप से संकटग्रस्त' प्रजाति है?",
-          "opts": [
-            "Bengal Tiger",
-            "Indian Elephant",
-            "Great Indian Bustard",
-            "Snow Leopard"
-          ],
-          "opts_hi": [
-            "बंगाल टाइगर",
-            "भारतीय हाथी",
-            "ग्रेट इंडियन बस्टर्ड",
-            "हिम तेंदुआ"
-          ],
+          "opts": ["Bengal Tiger", "Indian Elephant", "Great Indian Bustard", "Snow Leopard"],
+          "opts_hi": ["बंगाल टाइगर", "भारतीय हाथी", "ग्रेट इंडियन बस्टर्ड", "हिम तेंदुआ"],
           "ans": 2,
-          "subject": "Environment"
+          "subject": "Environment - Biodiversity"
+        },
+        {
+          "q": "Which of the following is NOT a greenhouse gas?",
+          "q_hi": "निम्नलिखित में से कौन सी ग्रीनहाउस गैस नहीं है?",
+          "opts": ["Carbon Dioxide (CO2)", "Methane (CH4)", "Nitrous Oxide (N2O)", "Oxygen (O2)"],
+          "opts_hi": ["कार्बन डाइऑक्साइड (CO2)", "मीथेन (CH4)", "नाइट्रस ऑक्साइड (N2O)", "ऑक्सीजन (O2)"],
+          "ans": 3,
+          "subject": "Environment - Climate Change"
         },
         {
           "q": "Which Sultan of Delhi introduced the 'Token Currency' (copper coins with brass and copper mixture)?",
           "q_hi": "दिल्ली के किस सुल्तान ने 'टोकन मुद्रा' (पीतल और तांबे के मिश्रण के सिक्के) शुरू की थी?",
-          "opts": [
-            "Alauddin Khilji",
-            "Muhammad bin Tughlaq",
-            "Firuz Shah Tughlaq",
-            "Iltutmish"
-          ],
-          "opts_hi": [
-            "अलाउद्दीन खिलजी",
-            "मुहम्मद बिन तुगलक",
-            "फिरोज शाह तुगलक",
-            "इल्तुतमिश"
-          ],
+          "opts": ["Alauddin Khilji", "Muhammad bin Tughlaq", "Firuz Shah Tughlaq", "Iltutmish"],
+          "opts_hi": ["अलाउद्दीन खिलजी", "मुहम्मद बिन तुगलक", "फिरोज शाह तुगलक", "इल्तुतमिश"],
           "ans": 1,
-          "subject": "History"
+          "subject": "History - Medieval India"
         },
         {
-          "q": "Which part of the Constitution of India deals with the Municipalities?",
-          "q_hi": "भारतीय संविधान का कौन सा भाग नगर पालिकाओं से संबंधित है?",
-          "opts": [
-            "Part VIII",
-            "Part IXA",
-            "Part IX",
-            "Part X"
-          ],
-          "opts_hi": [
-            "भाग VIII",
-            "भाग IXA",
-            "भाग IX",
-            "भाग X"
-          ],
+          "q": "The concept of 'Directive Principles of State Policy' in the Indian Constitution is borrowed from which country?",
+          "q_hi": "भारतीय संविधान में 'राज्य नीति के निर्देशक सिद्धांत' की अवधारणा किस देश से ली गई है?",
+          "opts": ["USA", "Ireland", "UK", "Canada"],
+          "opts_hi": ["यूएसए", "आयरलैंड", "यूके", "कनाडा"],
           "ans": 1,
           "subject": "Polity"
-        }
-      ]
-    },
-    {
-      "id": "upsc_prelims_5",
-      "title": "UPSC Prelims Mock Test 5",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
+        },
         {
           "q": "Which of the following is the correct sequence of the Earth's atmospheric layers from the surface upwards?",
           "q_hi": "पृथ्वी के वायुमंडलीय परतों का सतह से ऊपर की ओर सही क्रम निम्नलिखित में से कौन सा है?",
@@ -485,43 +82,223 @@
             "क्षोभमंडल → समतापमंडल → तापमंडल → मध्यमंडल → बहिर्मंडल"
           ],
           "ans": 0,
-          "subject": "Geography"
+          "subject": "Geography - Physical Geography"
         },
         {
-          "q": "Which of the following is NOT a greenhouse gas?",
-          "q_hi": "निम्नलिखित में से कौन सी ग्रीनहाउस गैस नहीं है?",
+          "q": "The 'Minto-Morley Reforms' of 1909 introduced which of the following features?",
+          "q_hi": "1909 के 'मिंटो-मॉर्ले सुधारों' ने निम्नलिखित में से कौन सी विशेषता पेश की?",
           "opts": [
-            "Carbon Dioxide (CO2)",
-            "Methane (CH4)",
-            "Nitrous Oxide (N2O)",
-            "Oxygen (O2)"
+            "Separate Electorates for Muslims",
+            "Introduction of Dyarchy",
+            "First time representation of Indians in Legislative Councils",
+            "Introduction of Federal System"
           ],
           "opts_hi": [
-            "कार्बन डाइऑक्साइड (CO2)",
-            "मीथेन (CH4)",
-            "नाइट्रस ऑक्साइड (N2O)",
-            "ऑक्सीजन (O2)"
+            "मुसलमानों के लिए पृथक निर्वाचन",
+            "द्विशासन की शुरूआत",
+            "विधान परिषदों में भारतीयों का पहली बार प्रतिनिधित्व",
+            "संघीय व्यवस्था की शुरूआत"
           ],
-          "ans": 3,
-          "subject": "Science"
+          "ans": 0,
+          "subject": "History - Modern India"
         },
         {
-          "q": "Who among the following founded the 'Indian National Congress'?",
-          "q_hi": "निम्नलिखित में से किसने 'भारतीय राष्ट्रीय कांग्रेस' की स्थापना की थी?",
+          "q": "Which of the following is NOT a Constitutional body in India?",
+          "q_hi": "भारत में निम्नलिखित में से कौन सा संवैधानिक निकाय नहीं है?",
           "opts": [
-            "Dadabhai Naoroji",
-            "Allan Octavian Hume",
-            "Womesh Chunder Bonnerjee",
-            "Surendranath Banerjee"
+            "Election Commission of India",
+            "Union Public Service Commission (UPSC)",
+            "National Human Rights Commission (NHRC)",
+            "Comptroller and Auditor General (CAG)"
           ],
           "opts_hi": [
-            "दादाभाई नौरोजी",
-            "एलन ऑक्टेवियन ह्यूम",
-            "वोमेश चंद्र बनर्जी",
-            "सुरेंद्रनाथ बनर्जी"
+            "भारत का चुनाव आयोग",
+            "संघ लोक सेवा आयोग (UPSC)",
+            "राष्ट्रीय मानव अधिकार आयोग (NHRC)",
+            "नियंत्रक और महालेखा परीक्षक (CAG)"
           ],
+          "ans": 2,
+          "subject": "Polity"
+        },
+        {
+          "q": "The 'Quit India Movement' was launched in which year?",
+          "q_hi": "भारत छोड़ो आंदोलन किस वर्ष शुरू किया गया था?",
+          "opts": ["1940", "1941", "1942", "1943"],
+          "opts_hi": ["1940", "1941", "1942", "1943"],
+          "ans": 2,
+          "subject": "History - Modern India"
+        },
+        {
+          "q": "Which of the following is the first biosphere reserve of India?",
+          "q_hi": "भारत का पहला बायोस्फीयर रिजर्व निम्नलिखित में से कौन सा है?",
+          "opts": ["Sundarbans", "Nilgiri", "Nanda Devi", "Gulf of Mannar"],
+          "opts_hi": ["सुंदरवन", "नीलगिरी", "नंदा देवी", "मन्नार की खाड़ी"],
           "ans": 1,
-          "subject": "History"
+          "subject": "Environment - Biodiversity"
+        },
+        {
+          "q": "Which of the following is NOT a Fundamental Right under the Indian Constitution?",
+          "q_hi": "निम्नलिखित में से कौन भारतीय संविधान के तहत मौलिक अधिकार नहीं है?",
+          "opts": ["Right to Education", "Right to Property", "Right against Exploitation", "Right to Freedom of Religion"],
+          "opts_hi": ["शिक्षा का अधिकार", "संपत्ति का अधिकार", "शोषण के विरुद्ध अधिकार", "धर्म की स्वतंत्रता का अधिकार"],
+          "ans": 1,
+          "subject": "Polity - Fundamental Rights"
+        },
+        {
+          "q": "The 'Gandhi-Irwin Pact' was signed in which year?",
+          "q_hi": "गांधी-इरविन समझौता किस वर्ष हस्ताक्षरित किया गया था?",
+          "opts": ["1929", "1930", "1931", "1932"],
+          "opts_hi": ["1929", "1930", "1931", "1932"],
+          "ans": 2,
+          "subject": "History - Modern India"
+        },
+        {
+          "q": "Who founded the 'Indian National Congress'?",
+          "q_hi": "भारतीय राष्ट्रीय कांग्रेस की स्थापना किसने की?",
+          "opts": ["Dadabhai Naoroji", "Allan Octavian Hume", "Womesh Chunder Bonnerjee", "Surendranath Banerjee"],
+          "opts_hi": ["दादाभाई नौरोजी", "एलन ऑक्टेवियन ह्यूम", "वोमेश चंद्र बनर्जी", "सुरेंद्रनाथ बनर्जी"],
+          "ans": 1,
+          "subject": "History - Modern India"
+        },
+        {
+          "q": "Which of the following is the largest tiger reserve in India by area?",
+          "q_hi": "क्षेत्रफल की दृष्टि से भारत का सबसे बड़ा टाइगर रिजर्व निम्नलिखित में से कौन सा है?",
+          "opts": [
+            "Corbett Tiger Reserve",
+            "Bandhavgarh Tiger Reserve",
+            "Nagarjunsagar-Srisailam Tiger Reserve",
+            "Sundarbans Tiger Reserve"
+          ],
+          "opts_hi": [
+            "कॉर्बेट टाइगर रिजर्व",
+            "बांधवगढ़ टाइगर रिजर्व",
+            "नागार्जुनसागर-श्रीशैलम टाइगर रिजर्व",
+            "सुंदरवन टाइगर रिजर्व"
+          ],
+          "ans": 2,
+          "subject": "Environment - Conservation"
+        },
+        {
+          "q": "The idea of the 'Concurrent List' in the Indian Constitution was borrowed from which country?",
+          "q_hi": "भारतीय संविधान में 'समवर्ती सूची' का विचार किस देश से लिया गया था?",
+          "opts": ["Canada", "USA", "Australia", "Ireland"],
+          "opts_hi": ["कनाडा", "यूएसए", "ऑस्ट्रेलिया", "आयरलैंड"],
+          "ans": 2,
+          "subject": "Polity"
+        },
+        {
+          "q": "Which of the following battles marked the beginning of British rule in India?",
+          "q_hi": "भारत में ब्रिटिश शासन की शुरुआत निम्नलिखित में से किस युद्ध ने चिह्नित की?",
+          "opts": ["Battle of Plassey", "Battle of Buxar", "Battle of Panipat", "Battle of Wandiwash"],
+          "opts_hi": ["प्लासी का युद्ध", "बक्सर का युद्ध", "पानीपत का युद्ध", "वंडीवाश का युद्ध"],
+          "ans": 0,
+          "subject": "History - Modern India"
+        },
+        {
+          "q": "Which of the following was the capital of the Mauryan Empire?",
+          "q_hi": "मौर्य साम्राज्य की राजधानी निम्नलिखित में से कौन सी थी?",
+          "opts": ["Varanasi", "Pataliputra", "Ujjain", "Taxila"],
+          "opts_hi": ["वाराणसी", "पाटलिपुत्र", "उज्जैन", "तक्षशिला"],
+          "ans": 1,
+          "subject": "History - Ancient India"
+        },
+        {
+          "q": "Which of the following passes connects India with China?",
+          "q_hi": "भारत को चीन से कौन सा दर्रा जोड़ता है?",
+          "opts": ["Khyber Pass", "Bolan Pass", "Nathu La Pass", "Pir Panjal Pass"],
+          "opts_hi": ["खैबर दर्रा", "बोलन दर्रा", "नाथू ला दर्रा", "पीर पंजाल दर्रा"],
+          "ans": 2,
+          "subject": "Geography - Indian Geography"
+        },
+        {
+          "q": "Who is the author of the book 'The Discovery of India'?",
+          "q_hi": "'The Discovery of India' पुस्तक के लेखक कौन हैं?",
+          "opts": ["Mahatma Gandhi", "Jawaharlal Nehru", "B.R. Ambedkar", "Rabindranath Tagore"],
+          "opts_hi": ["महात्मा गांधी", "जवाहरलाल नेहरू", "बी.आर. अम्बेडकर", "रवींद्रनाथ टैगोर"],
+          "ans": 1,
+          "subject": "History - Modern India"
+        },
+        {
+          "q": "Which of the following is the oldest Veda?",
+          "q_hi": "निम्नलिखित में से कौन सा सबसे पुराना वेद है?",
+          "opts": ["Samaveda", "Yajurveda", "Rigveda", "Atharvaveda"],
+          "opts_hi": ["सामवेद", "यजुर्वेद", "ऋग्वेद", "अथर्ववेद"],
+          "ans": 2,
+          "subject": "History - Ancient India"
+        },
+        {
+          "q": "Which of the following is the authorized body for conducting elections in India?",
+          "q_hi": "भारत में चुनाव कराने के लिए अधिकृत निकाय निम्नलिखित में से कौन सा है?",
+          "opts": ["Election Commission of India", "President of India", "Prime Minister's Office", "Parliament"],
+          "opts_hi": ["भारत का चुनाव आयोग", "भारत के राष्ट्रपति", "प्रधान मंत्री कार्यालय", "संसद"],
+          "ans": 0,
+          "subject": "Polity"
+        },
+        {
+          "q": "Which article of the Indian Constitution abolishes untouchability?",
+          "q_hi": "भारतीय संविधान का कौन सा अनुच्छेद अस्पृश्यता को समाप्त करता है?",
+          "opts": ["Article 14", "Article 15", "Article 16", "Article 17"],
+          "opts_hi": ["अनुच्छेद 14", "अनुच्छेद 15", "अनुच्छेद 16", "अनुच्छेद 17"],
+          "ans": 3,
+          "subject": "Polity - Fundamental Rights"
+        },
+        {
+          "q": "Which of the following is the first national park of India?",
+          "q_hi": "भारत का पहला राष्ट्रीय उद्यान निम्नलिखित में से कौन सा है?",
+          "opts": ["Kanha National Park", "Jim Corbett National Park", "Bandhavgarh National Park", "Kaziranga National Park"],
+          "opts_hi": ["कान्हा राष्ट्रीय उद्यान", "जिम कॉर्बेट राष्ट्रीय उद्यान", "बांधवगढ़ राष्ट्रीय उद्यान", "काजीरंगा राष्ट्रीय उद्यान"],
+          "ans": 1,
+          "subject": "Environment - Conservation"
+        },
+        {
+          "q": "Which Amendment Act is known as the 'Mini Constitution' of India?",
+          "q_hi": "किस संशोधन अधिनियम को भारत का 'लघु संविधान' कहा जाता है?",
+          "opts": ["42nd Amendment", "44th Amendment", "73rd Amendment", "86th Amendment"],
+          "opts_hi": ["42वाँ संशोधन", "44वाँ संशोधन", "73वाँ संशोधन", "86वाँ संशोधन"],
+          "ans": 0,
+          "subject": "Polity - Amendments"
+        },
+        {
+          "q": "Which ruler is known as the 'Napoleon of India'?",
+          "q_hi": "भारत का नेपोलियन किस शासक को कहा जाता है?",
+          "opts": ["Chandragupta Maurya", "Samudragupta", "Ashoka", "Harshavardhana"],
+          "opts_hi": ["चंद्रगुप्त मौर्य", "समुद्रगुप्त", "अशोक", "हर्षवर्धन"],
+          "ans": 1,
+          "subject": "History - Ancient India"
+        }
+      ]
+    },
+    {
+      "id": "upsc_pre_2",
+      "title": "UPSC Prelims Full Mock Test 2 (GS Paper I)",
+      "duration": 120,
+      "difficulty": "Hard",
+      "correctMarks": 2,
+      "negativeMarks": 0.66,
+      "questions": [
+        {
+          "q": "Which of the following is the first Muslim invader to India?",
+          "q_hi": "भारत पर आक्रमण करने वाला पहला मुस्लिम आक्रमणकारी निम्नलिखित में से कौन था?",
+          "opts": ["Mahmud of Ghazni", "Muhammad of Ghori", "Qutb-ud-din Aibak", "Mohammad bin Qasim"],
+          "opts_hi": ["महमूद गजनवी", "मुहम्मद गोरी", "कुतुब-उद-दीन ऐबक", "मोहम्मद बिन कासिम"],
+          "ans": 3,
+          "subject": "History - Medieval India"
+        },
+        {
+          "q": "What is the term for the difference between what a child can do independently and what they can achieve with guidance according to Vygotsky?",
+          "q_hi": "वायगोत्स्की के अनुसार, एक बच्चा स्वतंत्र रूप से क्या कर सकता है और मार्गदर्शन के साथ क्या प्राप्त कर सकता है, के बीच के अंतर के लिए क्या शब्द है?",
+          "opts": ["Zone of Proximal Development", "Scaffolding", "Piaget's Stage", "Sensorimotor Stage"],
+          "opts_hi": ["समीपस्थ विकास का क्षेत्र", "स्कैफोल्डिंग", "पियाजे की अवस्था", "संवेदी-गामक अवस्था"],
+          "ans": 0,
+          "subject": "Polity - Education"
+        },
+        {
+          "q": "Which of the following is a 'Carbon Sink'?",
+          "q_hi": "निम्नलिखित में से कौन एक 'कार्बन सिंक' है?",
+          "opts": ["Forests", "Oceans", "Soil", "All of the above"],
+          "opts_hi": ["वन", "महासागर", "मिट्टी", "उपरोक्त सभी"],
+          "ans": 3,
+          "subject": "Environment - Climate Change"
         },
         {
           "q": "Which of the following is NOT a feature of the Indian Constitution?",
@@ -542,122 +319,6 @@
           "subject": "Polity"
         },
         {
-          "q": "Which of the following is a biodiversity hotspot in India?",
-          "q_hi": "भारत में निम्नलिखित में से कौन सा एक जैव विविधता हॉटस्पॉट है?",
-          "opts": [
-            "Thar Desert",
-            "Western Ghats",
-            "Deccan Plateau",
-            "Gangetic Plains"
-          ],
-          "opts_hi": [
-            "थार रेगिस्तान",
-            "पश्चिमी घाट",
-            "दक्कन का पठार",
-            "गंगा का मैदान"
-          ],
-          "ans": 1,
-          "subject": "Environment"
-        },
-        {
-          "q": "Which of the following was the capital of the Mauryan Empire?",
-          "q_hi": "मौर्य साम्राज्य की राजधानी निम्नलिखित में से कौन सी थी?",
-          "opts": [
-            "Varanasi",
-            "Pataliputra",
-            "Ujjain",
-            "Taxila"
-          ],
-          "opts_hi": [
-            "वाराणसी",
-            "पाटलिपुत्र",
-            "उज्जैन",
-            "तक्षशिला"
-          ],
-          "ans": 1,
-          "subject": "History"
-        }
-      ]
-    },
-    {
-      "id": "upsc_prelims_6",
-      "title": "UPSC Prelims Mock Test 6",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Which of the following was the first ruler to issue gold coins in India?",
-          "q_hi": "भारत में सोने के सिक्के जारी करने वाला पहला शासक निम्नलिखित में से कौन था?",
-          "opts": [
-            "Chandragupta Maurya",
-            "Kanishka",
-            "Samudragupta",
-            "Harshavardhana"
-          ],
-          "opts_hi": [
-            "चंद्रगुप्त मौर्य",
-            "कनिष्क",
-            "समुद्रगुप्त",
-            "हर्षवर्धन"
-          ],
-          "ans": 1,
-          "subject": "History"
-        },
-        {
-          "q": "Which of the following is a 'Carbon Sink'?",
-          "q_hi": "निम्नलिखित में से कौन एक 'कार्बन सिंक' है?",
-          "opts": [
-            "Forests",
-            "Oceans",
-            "Soil",
-            "All of the above"
-          ],
-          "opts_hi": [
-            "वन",
-            "महासागर",
-            "मिट्टी",
-            "उपरोक्त सभी"
-          ],
-          "ans": 3,
-          "subject": "Environment"
-        },
-        {
-          "q": "Which of the following states has the longest coastline in India?",
-          "q_hi": "भारत में सबसे लंबी तटरेखा वाला राज्य निम्नलिखित में से कौन सा है?",
-          "opts": [
-            "Tamil Nadu",
-            "Gujarat",
-            "Andhra Pradesh",
-            "Maharashtra"
-          ],
-          "opts_hi": [
-            "तमिलनाडु",
-            "गुजरात",
-            "आंध्र प्रदेश",
-            "महाराष्ट्र"
-          ],
-          "ans": 1,
-          "subject": "Geography"
-        },
-        {
-          "q": "Which of the following is the largest tiger reserve in India by area?",
-          "q_hi": "क्षेत्रफल की दृष्टि से भारत का सबसे बड़ा टाइगर रिजर्व निम्नलिखित में से कौन सा है?",
-          "opts": [
-            "Corbett Tiger Reserve",
-            "Bandhavgarh Tiger Reserve",
-            "Nagarjunsagar-Srisailam Tiger Reserve",
-            "Sundarbans Tiger Reserve"
-          ],
-          "opts_hi": [
-            "कॉर्बेट टाइगर रिजर्व",
-            "बांधवगढ़ टाइगर रिजर्व",
-            "नागार्जुनसागर-श्रीशैलम टाइगर रिजर्व",
-            "सुंदरवन टाइगर रिजर्व"
-          ],
-          "ans": 2,
-          "subject": "Environment"
-        },
-        {
           "q": "Which of the following is NOT a Fundamental Duty under Article 51A of the Indian Constitution?",
           "q_hi": "भारतीय संविधान के अनुच्छेद 51A के तहत निम्नलिखित में से कौन सा मौलिक कर्तव्य नहीं है?",
           "opts": [
@@ -673,457 +334,195 @@
             "वैज्ञानिक दृष्टिकोण विकसित करना"
           ],
           "ans": 2,
-          "subject": "Polity"
-        },
-        {
-          "q": "Which of the following was the first Muslim invader to India?",
-          "q_hi": "भारत पर आक्रमण करने वाला पहला मुस्लिम आक्रमणकारी निम्नलिखित में से कौन था?",
-          "opts": [
-            "Mahmud of Ghazni",
-            "Muhammad of Ghori",
-            "Qutb-ud-din Aibak",
-            "Mohammad bin Qasim"
-          ],
-          "opts_hi": [
-            "महमूद गजनवी",
-            "मुहम्मद गोरी",
-            "कुतुब-उद-दीन ऐबक",
-            "मोहम्मद बिन कासिम"
-          ],
-          "ans": 3,
-          "subject": "History"
-        }
-      ]
-    },
-    {
-      "id": "upsc_prelims_7",
-      "title": "UPSC Prelims Mock Test 7",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "With reference to ancient Indian history, what does the term 'Tripitaka' refer to?",
-          "q_hi": "प्राचीन भारतीय इतिहास के संदर्भ में, 'त्रिपिटक' शब्द किसे संदर्भित करता है?",
-          "opts": [
-            "Hindu scriptures",
-            "Buddhist canonical texts",
-            "Jain Agamas",
-            "Vedas"
-          ],
-          "opts_hi": [
-            "हिंदू धर्मग्रंथ",
-            "बौद्ध सिद्धांत ग्रंथ",
-            "जैन आगम",
-            "वेद"
-          ],
-          "ans": 1,
-          "subject": "History"
-        },
-        {
-          "q": "Which of the following is the first national park of India?",
-          "q_hi": "भारत का पहला राष्ट्रीय उद्यान निम्नलिखित में से कौन सा है?",
-          "opts": [
-            "Kanha National Park",
-            "Jim Corbett National Park",
-            "Bandhavgarh National Park",
-            "Kaziranga National Park"
-          ],
-          "opts_hi": [
-            "कान्हा राष्ट्रीय उद्यान",
-            "जिम कॉर्बेट राष्ट्रीय उद्यान",
-            "बांधवगढ़ राष्ट्रीय उद्यान",
-            "काजीरंगा राष्ट्रीय उद्यान"
-          ],
-          "ans": 1,
-          "subject": "Environment"
-        },
-        {
-          "q": "The first session of the Indian National Congress was held in which city?",
-          "q_hi": "भारतीय राष्ट्रीय कांग्रेस का पहला सत्र किस शहर में आयोजित किया गया था?",
-          "opts": [
-            "Calcutta (Kolkata)",
-            "Bombay (Mumbai)",
-            "Madras (Chennai)",
-            "Poona (Pune)"
-          ],
-          "opts_hi": [
-            "कलकत्ता (कोलकाता)",
-            "बॉम्बे (मुंबई)",
-            "मद्रास (चेन्नई)",
-            "पूना (पुणे)"
-          ],
-          "ans": 1,
-          "subject": "History"
+          "subject": "Polity - Fundamental Duties"
         },
         {
           "q": "Which of the following is the first biosphere reserve of India?",
           "q_hi": "भारत का पहला बायोस्फीयर रिजर्व निम्नलिखित में से कौन सा है?",
+          "opts": ["Sundarbans", "Nilgiri", "Nanda Devi", "Gulf of Mannar"],
+          "opts_hi": ["सुंदरवन", "नीलगिरी", "नंदा देवी", "मन्नार की खाड़ी"],
+          "ans": 1,
+          "subject": "Environment - Biodiversity"
+        },
+        {
+          "q": "Which of the following is the longest river in India?",
+          "q_hi": "भारत की सबसे लंबी नदी निम्नलिखित में से कौन सी है?",
+          "opts": ["Brahmaputra", "Ganga", "Godavari", "Yamuna"],
+          "opts_hi": ["ब्रह्मपुत्र", "गंगा", "गोदावरी", "यमुना"],
+          "ans": 1,
+          "subject": "Geography - Indian Geography"
+        },
+        {
+          "q": "The 'Government of India Act, 1935' provided for which of the following?",
+          "q_hi": "भारत सरकार अधिनियम, 1935 ने निम्नलिखित में से किसका प्रावधान किया?",
+          "opts": ["All India Federation", "Complete Independence", "Partition of India", "Dyarchy at Centre"],
+          "opts_hi": ["अखिल भारतीय संघ", "पूर्ण स्वतंत्रता", "भारत का विभाजन", "केंद्र में द्विशासन"],
+          "ans": 0,
+          "subject": "History - Modern India"
+        },
+        {
+          "q": "Which of the following is a biodiversity hotspot in India?",
+          "q_hi": "भारत में निम्नलिखित में से कौन सा एक जैव विविधता हॉटस्पॉट है?",
+          "opts": ["Thar Desert", "Western Ghats", "Deccan Plateau", "Gangetic Plains"],
+          "opts_hi": ["थार रेगिस्तान", "पश्चिमी घाट", "दक्कन का पठार", "गंगा का मैदान"],
+          "ans": 1,
+          "subject": "Environment - Biodiversity"
+        },
+        {
+          "q": "Which of the following is the highest court of appeal in India?",
+          "q_hi": "भारत में सर्वोच्च अपील न्यायालय निम्नलिखित में से कौन सा है?",
+          "opts": ["High Court", "Supreme Court", "District Court", "Session Court"],
+          "opts_hi": ["उच्च न्यायालय", "सर्वोच्च न्यायालय", "जिला न्यायालय", "सत्र न्यायालय"],
+          "ans": 1,
+          "subject": "Polity - Judiciary"
+        },
+        {
+          "q": "Which of the following was the first ruler to issue gold coins in India?",
+          "q_hi": "भारत में सोने के सिक्के जारी करने वाला पहला शासक निम्नलिखित में से कौन था?",
+          "opts": ["Chandragupta Maurya", "Kanishka", "Samudragupta", "Harshavardhana"],
+          "opts_hi": ["चंद्रगुप्त मौर्य", "कनिष्क", "समुद्रगुप्त", "हर्षवर्धन"],
+          "ans": 1,
+          "subject": "History - Ancient India"
+        },
+        {
+          "q": "Which of the following Schedules of the Indian Constitution deals with the administration of Scheduled Areas and Tribal Areas?",
+          "q_hi": "भारतीय संविधान की निम्नलिखित में से कौन सी अनुसूची अनुसूचित क्षेत्रों और जनजातीय क्षेत्रों के प्रशासन से संबंधित है?",
+          "opts": ["Fifth Schedule", "Sixth Schedule", "Eighth Schedule", "Tenth Schedule"],
+          "opts_hi": ["पाँचवीं अनुसूची", "छठी अनुसूची", "आठवीं अनुसूची", "दसवीं अनुसूची"],
+          "ans": 1,
+          "subject": "Polity - Scheduled Areas"
+        },
+        {
+          "q": "Which of the following statements about a 'Zero FIR' under the Bharatiya Nagarik Suraksha Sanhita (BNSS) 2023 is/are correct?",
+          "q_hi": "भारतीय नागरिक सुरक्षा संहिता (BNSS) 2023 के तहत 'जीरो FIR' के बारे में निम्नलिखित में से कौन सा/से कथन सही है/हैं?",
           "opts": [
-            "Sundarbans",
-            "Nilgiri",
-            "Nanda Devi",
-            "Gulf of Mannar"
+            "It can be lodged at a police station outside territorial jurisdiction",
+            "The Officer-in-Charge may initiate preliminary enquiry with permission of competent authority only",
+            "It can be lodged at any police station and the Officer-in-Charge may initiate preliminary enquiry with permission",
+            "Zero FIR is mandatory for all cognizable offences only"
           ],
           "opts_hi": [
-            "सुंदरवन",
-            "नीलगिरी",
-            "नंदा देवी",
-            "मन्नार की खाड़ी"
+            "इसे क्षेत्रीय अधिकार क्षेत्र के बाहर थाने में दर्ज कराया जा सकता है",
+            "प्रभारी अधिकारी सक्षम प्राधिकारी की अनुमति से ही प्रारंभिक जांच शुरू कर सकता है",
+            "इसे किसी भी थाने में दर्ज कराया जा सकता है और प्रभारी अधिकारी अनुमति से प्रारंभिक जांच शुरू कर सकता है",
+            "जीरो FIR केवल सभी संज्ञेय अपराधों के लिए अनिवार्य है"
           ],
+          "ans": 2,
+          "subject": "Polity - Criminal Law"
+        },
+        {
+          "q": "Which of the following is NOT a function of SEBI?",
+          "q_hi": "निम्नलिखित में से कौन सा SEBI का कार्य नहीं है?",
+          "opts": [
+            "To protect the interests of investors",
+            "To regulate the securities market",
+            "To promote the development of the securities market",
+            "To formulate monetary policy"
+          ],
+          "opts_hi": [
+            "निवेशकों के हितों की रक्षा करना",
+            "प्रतिभूति बाजार को विनियमित करना",
+            "प्रतिभूति बाजार के विकास को बढ़ावा देना",
+            "मौद्रिक नीति तैयार करना"
+          ],
+          "ans": 3,
+          "subject": "Economy"
+        },
+        {
+          "q": "Which of the following is the largest producer of tea in India?",
+          "q_hi": "भारत में चाय का सबसे बड़ा उत्पादक निम्नलिखित में से कौन है?",
+          "opts": ["West Bengal", "Assam", "Tamil Nadu", "Kerala"],
+          "opts_hi": ["पश्चिम बंगाल", "असम", "तमिलनाडु", "केरल"],
           "ans": 1,
-          "subject": "Environment"
+          "subject": "Geography - Indian Geography"
+        },
+        {
+          "q": "Which of the following is the correct chronological order of the Mauryan, Gupta, and Kushan empires?",
+          "q_hi": "निम्नलिखित में से मौर्य, गुप्त और कुषाण साम्राज्यों का सही कालानुक्रमिक क्रम कौन सा है?",
+          "opts": [
+            "Maurya → Kushan → Gupta",
+            "Kushan → Maurya → Gupta",
+            "Gupta → Maurya → Kushan",
+            "Maurya → Gupta → Kushan"
+          ],
+          "opts_hi": [
+            "मौर्य → कुषाण → गुप्त",
+            "कुषाण → मौर्य → गुप्त",
+            "गुप्त → मौर्य → कुषाण",
+            "मौर्य → गुप्त → कुषाण"
+          ],
+          "ans": 0,
+          "subject": "History - Ancient India"
+        },
+        {
+          "q": "Which of the following is the first bank to introduce the 'Rupay' payment system?",
+          "q_hi": "'रुपे' भुगतान प्रणाली शुरू करने वाला पहला बैंक निम्नलिखित में से कौन सा है?",
+          "opts": ["State Bank of India", "ICICI Bank", "HDFC Bank", "Axis Bank"],
+          "opts_hi": ["भारतीय स्टेट बैंक", "ICICI बैंक", "HDFC बैंक", "एक्सिस बैंक"],
+          "ans": 0,
+          "subject": "Economy - Banking"
+        },
+        {
+          "q": "Which of the following is the largest freshwater lake in India?",
+          "q_hi": "भारत की सबसे बड़ी मीठे पानी की झील निम्नलिखित में से कौन सी है?",
+          "opts": ["Chilika Lake", "Wular Lake", "Dal Lake", "Loktak Lake"],
+          "opts_hi": ["चिलिका झील", "वुलर झील", "डल झील", "लोकतक झील"],
+          "ans": 1,
+          "subject": "Geography - Indian Geography"
+        },
+        {
+          "q": "Which of the following is a direct tax?",
+          "q_hi": "निम्नलिखित में से कौन सा प्रत्यक्ष कर है?",
+          "opts": ["Income Tax", "GST", "Excise Duty", "Customs Duty"],
+          "opts_hi": ["आयकर", "GST", "उत्पाद शुल्क", "सीमा शुल्क"],
+          "ans": 0,
+          "subject": "Economy"
+        },
+        {
+          "q": "Which of the following is the first session of the Indian National Congress was held in which city?",
+          "q_hi": "भारतीय राष्ट्रीय कांग्रेस का पहला सत्र किस शहर में आयोजित किया गया था?",
+          "opts": ["Calcutta (Kolkata)", "Bombay (Mumbai)", "Madras (Chennai)", "Poona (Pune)"],
+          "opts_hi": ["कलकत्ता (कोलकाता)", "बॉम्बे (मुंबई)", "मद्रास (चेन्नई)", "पूना (पुणे)"],
+          "ans": 1,
+          "subject": "History - Modern India"
+        },
+        {
+          "q": "Which of the following is the largest producer of jute in India?",
+          "q_hi": "भारत में जूट का सबसे बड़ा उत्पादक निम्नलिखित में से कौन है?",
+          "opts": ["West Bengal", "Bihar", "Assam", "Andhra Pradesh"],
+          "opts_hi": ["पश्चिम बंगाल", "बिहार", "असम", "आंध्र प्रदेश"],
+          "ans": 0,
+          "subject": "Geography - Indian Geography"
+        },
+        {
+          "q": "Which of the following is the highest mountain peak in the world?",
+          "q_hi": "दुनिया की सबसे ऊँची पर्वत चोटी निम्नलिखित में से कौन सी है?",
+          "opts": ["K2", "Mount Everest", "Kangchenjunga", "Lhotse"],
+          "opts_hi": ["के2", "माउंट एवरेस्ट", "कंचनजंगा", "ल्होत्से"],
+          "ans": 1,
+          "subject": "Geography - World Geography"
+        },
+        {
+          "q": "Which of the following is the largest producer of bauxite in the world?",
+          "q_hi": "दुनिया का सबसे बड़ा बॉक्साइट उत्पादक देश निम्नलिखित में से कौन सा है?",
+          "opts": ["Australia", "China", "Brazil", "India"],
+          "opts_hi": ["ऑस्ट्रेलिया", "चीन", "ब्राजील", "भारत"],
+          "ans": 0,
+          "subject": "Geography - World Geography"
         }
       ]
     },
     {
-      "id": "upsc_prelims_8",
-      "title": "UPSC Prelims Mock Test 8",
-      "duration": 10,
-      "difficulty": "Medium",
+      "id": "upsc_pre_3",
+      "title": "UPSC Prelims Full Mock Test 3 (GS Paper I)",
+      "duration": 120,
+      "difficulty": "Hard",
+      "correctMarks": 2,
+      "negativeMarks": 0.66,
       "questions": [
-        {
-          "q": "If a+b+c=0, then what is the value of (a²+b²+c²)/(ab+bc+ca)?",
-          "q_hi": "यदि a+b+c=0 है, तो (a²+b²+c²)/(ab+bc+ca) का मान क्या है?",
-          "opts": [
-            "1",
-            "-2",
-            "2",
-            "-1"
-          ],
-          "opts_hi": [
-            "1",
-            "-2",
-            "2",
-            "-1"
-          ],
-          "ans": 1,
-          "subject": "Mathematics"
-        },
-        {
-          "q": "The radius of a sphere is increased by 10%. What is the percentage increase in its volume?",
-          "q_hi": "एक गोले की त्रिज्या 10% बढ़ा दी जाती है। इसके आयतन में कितने प्रतिशत की वृद्धि होती है?",
-          "opts": [
-            "0.331",
-            "0.3",
-            "0.21",
-            "0.1"
-          ],
-          "opts_hi": [
-            "0.331",
-            "0.3",
-            "0.21",
-            "0.1"
-          ],
-          "ans": 0,
-          "subject": "Mathematics"
-        },
-        {
-          "q": "The area of a circle is 154 cm². What is its radius? (Take π = 22/7)",
-          "q_hi": "एक वृत्त का क्षेत्रफल 154 सेमी² है। इसकी त्रिज्या क्या है? (π = 22/7 लें)",
-          "opts": [
-            "7 cm",
-            "14 cm",
-            "11 cm",
-            "22 cm"
-          ],
-          "opts_hi": [
-            "7 सेमी",
-            "14 सेमी",
-            "11 सेमी",
-            "22 सेमी"
-          ],
-          "ans": 0,
-          "subject": "Mathematics"
-        },
-        {
-          "q": "If x² + 1/x² = 14, find the value of x + 1/x.",
-          "q_hi": "यदि x² + 1/x² = 14 है, तो x + 1/x का मान ज्ञात करें।",
-          "opts": [
-            "4",
-            "3",
-            "5",
-            "6"
-          ],
-          "opts_hi": [
-            "4",
-            "3",
-            "5",
-            "6"
-          ],
-          "ans": 0,
-          "subject": "Mathematics"
-        }
-      ]
-    },
-    {
-      "id": "upsc_prelims_9",
-      "title": "UPSC Prelims Mock Test 9",
-      "duration": 14,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "With reference to the NDA's legislative agenda for the Monsoon Session 2026, which Bill is expected to be introduced to convert an ordinance into law?",
-          "q_hi": "मानसून सत्र 2026 के लिए एनडीए के विधायी एजेंडे के संदर्भ में, किस विधेयक को अध्यादेश को कानून में बदलने के लिए पेश किए जाने की उम्मीद है?",
-          "opts": [
-            "Women's Reservation Bill, 2026",
-            "Income-tax (Amendment) Bill, 2026",
-            "Prevention of Insults to National Honour Bill",
-            "Delimitation Bill"
-          ],
-          "opts_hi": [
-            "महिला आरक्षण विधेयक, 2026",
-            "आयकर (संशोधन) विधेयक, 2026",
-            "राष्ट्रीय सम्मान अपमान निवारण विधेयक",
-            "परिसीमन विधेयक"
-          ],
-          "ans": 1,
-          "subject": "Current Affairs"
-        },
-        {
-          "q": "With reference to Madhav National Park, which of the following statements is/are correct as per the UPSC Prelims 2026 exam?",
-          "q_hi": "माधव राष्ट्रीय उद्यान के संदर्भ में, UPSC प्रारंभिक परीक्षा 2026 के अनुसार निम्नलिखित में से कौन सा/से कथन सही है/हैं?",
-          "opts": [
-            "It was declared a Tiger Reserve in 2025 and Sakhya Sagar within it is a Ramsar Site",
-            "It was declared a Tiger Reserve in 2025 only",
-            "Its area is shared between MP and Rajasthan only",
-            "Sakhya Sagar is a Ramsar Site only"
-          ],
-          "opts_hi": [
-            "इसे 2025 में टाइगर रिजर्व घोषित किया गया था और इसके भीतर सख्या सागर एक रामसर स्थल है",
-            "इसे 2025 में टाइगर रिजर्व घोषित किया गया था",
-            "इसका क्षेत्र केवल MP और राजस्थान के बीच साझा है",
-            "सख्या सागर केवल एक रामसर स्थल है"
-          ],
-          "ans": 0,
-          "subject": "Current Affairs"
-        },
-        {
-          "q": "Tungurahua Volcano, declared a Global Geopark by UNESCO in 2025, is situated in which country?",
-          "q_hi": "टुंगुराहुआ ज्वालामुखी, जिसे 2025 में यूनेस्को द्वारा ग्लोबल जियोपार्क घोषित किया गया था, किस देश में स्थित है?",
-          "opts": [
-            "Peru",
-            "Ecuador",
-            "Bolivia",
-            "Colombia"
-          ],
-          "opts_hi": [
-            "पेरू",
-            "इक्वाडोर",
-            "बोलीविया",
-            "कोलंबिया"
-          ],
-          "ans": 1,
-          "subject": "Current Affairs"
-        },
-        {
-          "q": "At the United Nations Ocean Conference (UNOC) 2025, the FAO proposed the 'Four Betters' for 'Blue Transformation'. Which combination is correct?",
-          "q_hi": "संयुक्त राष्ट्र महासागर सम्मेलन (UNOC) 2025 में, FAO ने 'ब्लू ट्रांसफॉर्मेशन' के लिए 'फोर बेटर्स' प्रस्तावित किया। कौन सा संयोजन सही है?",
-          "opts": [
-            "Better production, better nutrition, better environment and better ocean",
-            "Better production, better nutrition, better environment and better life",
-            "Better coral reefs, better nutrition, better environment and better life",
-            "Better estuaries, better nutrition, better environment and better mangrove"
-          ],
-          "opts_hi": [
-            "बेहतर उत्पादन, बेहतर पोषण, बेहतर पर्यावरण और बेहतर महासागर",
-            "बेहतर उत्पादन, बेहतर पोषण, बेहतर पर्यावरण और बेहतर जीवन",
-            "बेहतर मूंगा चट्टानें, बेहतर पोषण, बेहतर पर्यावरण और बेहतर जीवन",
-            "बेहतर मुहाना, बेहतर पोषण, बेहतर पर्यावरण और बेहतर मैंग्रोव"
-          ],
-          "ans": 1,
-          "subject": "Current Affairs"
-        },
-        {
-          "q": "Who was conferred the Nobel Prize in 2025 and was a professor in an American university when the prize was announced?",
-          "q_hi": "2025 में नोबेल पुरस्कार किसे प्रदान किया गया था और पुरस्कार घोषित होने पर वह एक अमेरिकी विश्वविद्यालय में प्रोफेसर थे?",
-          "opts": [
-            "Michel H. Devoret",
-            "Richard Robson",
-            "John Clarke",
-            "Joel Mokyr"
-          ],
-          "opts_hi": [
-            "मिशेल एच. डेवोरेट",
-            "रिचर्ड रॉबसन",
-            "जॉन क्लार्क",
-            "जोएल मोकिर"
-          ],
-          "ans": 2,
-          "subject": "Current Affairs"
-        },
-        {
-          "q": "Which variant of the Akash Weapon System was tested by the Indian Army in July 2025?",
-          "q_hi": "जुलाई 2025 में भारतीय सेना द्वारा अकाश हथियार प्रणाली के किस संस्करण का परीक्षण किया गया?",
-          "opts": [
-            "Akash 1S",
-            "Akash NG",
-            "Akash Prime",
-            "Akash Mk-II"
-          ],
-          "opts_hi": [
-            "अकाश 1S",
-            "अकाश NG",
-            "अकाश प्राइम",
-            "अकाश Mk-II"
-          ],
-          "ans": 2,
-          "subject": "Current Affairs"
-        },
-        {
-          "q": "Which organization launched the Kampala Declaration, a 10-year strategy to transform agri-food systems?",
-          "q_hi": "कंपाला घोषणा, कृषि-खाद्य प्रणालियों को बदलने के लिए एक 10-वर्षीय रणनीति, किस संगठन ने लॉन्च की?",
-          "opts": [
-            "World Bank",
-            "Food and Agriculture Organization (FAO)",
-            "African Union",
-            "United Nations Development Programme (UNDP)"
-          ],
-          "opts_hi": [
-            "विश्व बैंक",
-            "खाद्य एवं कृषि संगठन (FAO)",
-            "अफ्रीकी संघ",
-            "संयुक्त राष्ट्र विकास कार्यक्रम (UNDP)"
-          ],
-          "ans": 2,
-          "subject": "Current Affairs"
-        },
-        {
-          "q": "India and which country signed a Free Trade Agreement (FTA) as per April 2026 developments?",
-          "q_hi": "अप्रैल 2026 के घटनाक्रम के अनुसार भारत ने किस देश के साथ मुक्त व्यापार समझौते (FTA) पर हस्ताक्षर किए?",
-          "opts": [
-            "USA",
-            "United Kingdom",
-            "European Union",
-            "Australia"
-          ],
-          "opts_hi": [
-            "यूएसए",
-            "यूनाइटेड किंगडम",
-            "यूरोपीय संघ",
-            "ऑस्ट्रेलिया"
-          ],
-          "ans": 2,
-          "subject": "Current Affairs"
-        },
-        {
-          "q": "Who became the first German to win the Abel Prize 2026?",
-          "q_hi": "एबेल पुरस्कार 2026 जीतने वाले पहले जर्मन कौन बने?",
-          "opts": [
-            "Terence Tao",
-            "Andrew Wiles",
-            "Gerd Faltings",
-            "Grigori Perelman"
-          ],
-          "opts_hi": [
-            "टेरेंस ताओ",
-            "एंड्रयू वाइल्स",
-            "गेर्ड फाल्टिंग्स",
-            "ग्रिगोरी पेरेलमैन"
-          ],
-          "ans": 2,
-          "subject": "Current Affairs"
-        },
-        {
-          "q": "The Kunming-Montreal Global Biodiversity Framework (GBF) aims to protect what percentage of the planet by 2030?",
-          "q_hi": "कुनमिंग-मॉन्ट्रियल वैश्विक जैव विविधता ढाँचा (GBF) का 2030 तक ग्रह के कितने प्रतिशत की रक्षा करने का लक्ष्य है?",
-          "opts": [
-            "0.2",
-            "0.3",
-            "0.4",
-            "0.5"
-          ],
-          "opts_hi": [
-            "0.2",
-            "0.3",
-            "0.4",
-            "0.5"
-          ],
-          "ans": 1,
-          "subject": "Current Affairs"
-        },
-        {
-          "q": "Which Indian wetlands were recently added to the Ramsar List as per UPSC Current Affairs?",
-          "q_hi": "UPSC करंट अफेयर्स के अनुसार हाल ही में किन भारतीय आर्द्रभूमियों को रामसर सूची में जोड़ा गया?",
-          "opts": [
-            "Gogabeel Lake and Longwood Shola Reserve Forest",
-            "Siliserh Lake and Karaivetti Bird Sanctuary",
-            "Gogabeel Lake and Karaivetti Bird Sanctuary only",
-            "Longwood Shola and Siliserh Lake"
-          ],
-          "opts_hi": [
-            "गोगाबील झील और लांगवुड शोला रिजर्व फॉरेस्ट",
-            "सिलीसर झील और कराईवेट्टी पक्षी अभयारण्य",
-            "केवल गोगाबील झील और कराईवेट्टी पक्षी अभयारण्य",
-            "लांगवुड शोला और सिलीसर झील"
-          ],
-          "ans": 0,
-          "subject": "Current Affairs"
-        },
-        {
-          "q": "The Power of Siberia 2 Pipeline (PoS-2) is a proposed project to transport natural gas from Russia to which country?",
-          "q_hi": "पावर ऑफ साइबेरिया 2 पाइपलाइन (PoS-2) रूस से किस देश तक प्राकृतिक गैस के परिवहन के लिए एक प्रस्तावित परियोजना है?",
-          "opts": [
-            "India",
-            "China",
-            "Europe",
-            "Japan"
-          ],
-          "opts_hi": [
-            "भारत",
-            "चीन",
-            "यूरोप",
-            "जापान"
-          ],
-          "ans": 1,
-          "subject": "Current Affairs"
-        }
-      ]
-    },
-    {
-      "id": "upsc_prelims_10",
-      "title": "UPSC Prelims Mock Test 10",
-      "duration": 16,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Regarding the Kunming-Montreal Global Biodiversity Framework (GBF), which of the following statements is/are correct? 1. The framework has 23 targets to address the loss of biodiversity and restore natural ecosystems by 2030. 2. The GBF aims to protect at least 30% of the planet by 2030 and reverse ecosystem degradation. 3. The Global Environment Facility has been requested to establish a Special Trust Fund to support its implementation.",
-          "q_hi": "कुनमिंग-मॉन्ट्रियल वैश्विक जैव विविधता ढाँचा (GBF) के संबंध में, निम्नलिखित में से कौन सा/से कथन सही है/हैं? 1. ढाँचे में 2030 तक जैव विविधता के नुकसान को दूर करने और प्राकृतिक पारिस्थितिकी तंत्र को बहाल करने के 23 लक्ष्य हैं। 2. GBF का 2030 तक ग्रह के कम से कम 30% की रक्षा करने और पारिस्थितिकी तंत्र के क्षरण को उलटने का लक्ष्य है। 3. ग्लोबल एनवायरनमेंट फैसिलिटी को इसके कार्यान्वयन का समर्थन करने के लिए एक विशेष ट्रस्ट फंड स्थापित करने का अनुरोध किया गया है।",
-          "opts": [
-            "1 and 2 only",
-            "1, 2 and 3",
-            "2 and 3 only",
-            "1 only"
-          ],
-          "opts_hi": [
-            "केवल 1 और 2",
-            "1, 2 और 3",
-            "केवल 2 और 3",
-            "केवल 1"
-          ],
-          "ans": 1,
-          "subject": "Current Affairs"
-        },
-        {
-          "q": "Exercise INDRA is a bilateral military exercise between India and which country?",
-          "q_hi": "इंद्र अभ्यास भारत और किस देश के बीच एक द्विपक्षीय सैन्य अभ्यास है?",
-          "opts": [
-            "USA",
-            "Russia",
-            "Japan",
-            "UK"
-          ],
-          "opts_hi": [
-            "यूएसए",
-            "रूस",
-            "जापान",
-            "यूके"
-          ],
-          "ans": 1,
-          "subject": "Current Affairs"
-        },
         {
           "q": "The term 'AI Washing' that has recently been in the headlines refers to which of the following?",
-          "q_hi": "AI वॉशिंग' शब्द, जो हाल ही में सुर्खियों में है, निम्नलिखित में से किसे संदर्भित करता है?",
+          "q_hi": "'AI वॉशिंग' शब्द, जो हाल ही में सुर्खियों में है, निम्नलिखित में से किसे संदर्भित करता है?",
           "opts": [
             "The practice of making exaggerated claims about AI capabilities",
             "The process of cleaning data for AI training",
@@ -1137,2877 +536,425 @@
             "AI हार्डवेयर घटकों को धोना"
           ],
           "ans": 0,
-          "subject": "Current Affairs"
+          "subject": "Science & Technology"
         },
         {
-          "q": "The Kampala Declaration, a 10-year strategy to transform agri-food systems and ensure food security, was launched by which organization?",
-          "q_hi": "कंपाला घोषणा, कृषि-खाद्य प्रणालियों को बदलने और खाद्य सुरक्षा सुनिश्चित करने के लिए एक 10-वर्षीय रणनीति, किस संगठन द्वारा लॉन्च की गई थी?",
-          "opts": [
-            "World Bank",
-            "Food and Agriculture Organization (FAO)",
-            "African Union",
-            "United Nations Development Programme (UNDP)"
-          ],
-          "opts_hi": [
-            "विश्व बैंक",
-            "खाद्य एवं कृषि संगठन (FAO)",
-            "अफ्रीकी संघ",
-            "संयुक्त राष्ट्र विकास कार्यक्रम (UNDP)"
-          ],
-          "ans": 2,
-          "subject": "Current Affairs"
+          "q": "Which of the following statements with regard to genetic medicine is/are correct? 1. Genetic medicines correct/compensate for the faulty genes responsible for disease. 2. Engineered viruses and lipid nanoparticles are used as carriers of the genetic medicine. 3. Genetic medicines alter the entire DNA sequence.",
+          "q_hi": "आनुवंशिक चिकित्सा के संबंध में निम्नलिखित में से कौन सा/से कथन सही है/हैं? 1. आनुवंशिक दवाएँ रोग के लिए जिम्मेदार दोषपूर्ण जीन को सही/क्षतिपूर्ति करती हैं। 2. आनुवंशिक दवा के वाहक के रूप में इंजीनियर वायरस और लिपिड नैनोकणों का उपयोग किया जाता है। 3. आनुवंशिक दवाएँ संपूर्ण DNA अनुक्रम को बदल देती हैं।",
+          "opts": ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+          "opts_hi": ["केवल 1", "केवल 1 और 2", "केवल 2 और 3", "1, 2 और 3"],
+          "ans": 1,
+          "subject": "Science & Technology"
         },
         {
-          "q": "The Experimental Advanced Superconducting Tokamak (EAST) reactor, frequently cited in news reports, is associated with which country?",
-          "q_hi": "प्रायोगिक उन्नत सुपरकंडक्टिंग टोकामक (EAST) रिएक्टर, जो अक्सर समाचार रिपोर्टों में उद्धृत होता है, किस देश से जुड़ा है?",
-          "opts": [
-            "USA",
-            "Russia",
-            "Japan",
-            "China"
-          ],
-          "opts_hi": [
-            "यूएसए",
-            "रूस",
-            "जापान",
-            "चीन"
-          ],
-          "ans": 3,
-          "subject": "Current Affairs"
-        },
-        {
-          "q": "Which digital platform replaced the OCMS system for monitoring major central sector infrastructure projects?",
-          "q_hi": "प्रमुख केंद्रीय क्षेत्र की बुनियादी ढाँचा परियोजनाओं की निगरानी के लिए OCMS प्रणाली को किस डिजिटल प्लेटफॉर्म ने प्रतिस्थापित किया?",
-          "opts": [
-            "PAIMANA",
-            "DISHA",
-            "PRAGATI",
-            "e-Samiksha"
-          ],
-          "opts_hi": [
-            "PAIMANA",
-            "DISHA",
-            "PRAGATI",
-            "ई-समीक्षा"
-          ],
+          "q": "Which of the following is the first bank in India to launch 'WhatsApp Banking'?",
+          "q_hi": "'व्हाट्सएप बैंकिंग' लॉन्च करने वाला भारत का पहला बैंक निम्नलिखित में से कौन सा है?",
+          "opts": ["ICICI Bank", "HDFC Bank", "Axis Bank", "State Bank of India"],
+          "opts_hi": ["ICICI बैंक", "HDFC बैंक", "एक्सिस बैंक", "भारतीय स्टेट बैंक"],
           "ans": 0,
-          "subject": "Current Affairs"
+          "subject": "Economy - Banking"
         },
         {
-          "q": "Exercise 'Samudra Shakti' is a bilateral naval exercise between India and which country?",
-          "q_hi": "समुद्र शक्ति' अभ्यास भारत और किस देश के बीच एक द्विपक्षीय नौसेना अभ्यास है?",
-          "opts": [
-            "Malaysia",
-            "Indonesia",
-            "Vietnam",
-            "Thailand"
-          ],
-          "opts_hi": [
-            "मलेशिया",
-            "इंडोनेशिया",
-            "वियतनाम",
-            "थाईलैंड"
-          ],
-          "ans": 1,
-          "subject": "Current Affairs"
-        },
-        {
-          "q": "Consider the following statements regarding India-Indonesia relations: 1. In 2018, India and Indonesia elevated their bilateral ties to a 'Comprehensive Strategic Partnership'. 2. Sabang Port, where India is collaborating with Indonesia for infrastructure development, is strategically located close to the Andaman and Nicobar Islands. Which of the statements given above is/are correct?",
-          "q_hi": "भारत-इंडोनेशिया संबंधों के संबंध में निम्नलिखित कथनों पर विचार करें: 1. 2018 में, भारत और इंडोनेशिया ने अपने द्विपक्षीय संबंधों को 'व्यापक रणनीतिक साझेदारी' तक बढ़ाया। 2. सबांग बंदरगाह, जहाँ भारत बुनियादी ढाँचे के विकास के लिए इंडोनेशिया के साथ सहयोग कर रहा है, रणनीतिक रूप से अंडमान और निकोबार द्वीप समूह के करीब स्थित है। ऊपर दिए गए कथनों में से कौन सा/से सही है/हैं?",
-          "opts": [
-            "1 only",
-            "2 only",
-            "Both 1 and 2",
-            "Neither 1 nor 2"
-          ],
-          "opts_hi": [
-            "केवल 1",
-            "केवल 2",
-            "1 और 2 दोनों",
-            "न तो 1 और न ही 2"
-          ],
+          "q": "Which of the following is the first Indian satellite?",
+          "q_hi": "भारत का पहला उपग्रह निम्नलिखित में से कौन सा है?",
+          "opts": ["INSAT-1B", "IRS-1A", "Aryabhata", "Bhaskara"],
+          "opts_hi": ["INSAT-1B", "IRS-1A", "आर्यभट्ट", "भास्कर"],
           "ans": 2,
-          "subject": "Current Affairs"
+          "subject": "Science & Technology - Space"
         },
         {
-          "q": "Which two countries are being connected by the Power of Siberia 2 Pipeline?",
-          "q_hi": "पावर ऑफ साइबेरिया 2 पाइपलाइन किन दो देशों को जोड़ रही है?",
-          "opts": [
-            "Russia and India",
-            "Russia and China",
-            "China and Kazakhstan",
-            "Russia and Europe"
-          ],
-          "opts_hi": [
-            "रूस और भारत",
-            "रूस और चीन",
-            "चीन और कजाकिस्तान",
-            "रूस और यूरोप"
-          ],
+          "q": "Which of the following is the largest producer of milk in the world?",
+          "q_hi": "दुनिया में दूध का सबसे बड़ा उत्पादक निम्नलिखित में से कौन सा है?",
+          "opts": ["India", "USA", "China", "Germany"],
+          "opts_hi": ["भारत", "यूएसए", "चीन", "जर्मनी"],
+          "ans": 0,
+          "subject": "Economy - Agriculture"
+        },
+        {
+          "q": "Which of the following is the largest desert in India?",
+          "q_hi": "भारत का सबसे बड़ा मरुस्थल निम्नलिखित में से कौन सा है?",
+          "opts": ["Thar Desert", "Rann of Kutch", "Sahara Desert", "Gobi Desert"],
+          "opts_hi": ["थार मरुस्थल", "कच्छ का रण", "सहारा मरुस्थल", "गोबी मरुस्थल"],
+          "ans": 0,
+          "subject": "Geography - Indian Geography"
+        },
+        {
+          "q": "The 'Simon Commission' was boycotted because?",
+          "q_hi": "'साइमन कमीशन' का बहिष्कार क्यों किया गया?",
+          "opts": ["No Indian member", "All British members", "Harsh policies", "None of these"],
+          "opts_hi": ["कोई भारतीय सदस्य नहीं", "सभी ब्रिटिश सदस्य", "कठोर नीतियां", "इनमें से कोई नहीं"],
+          "ans": 0,
+          "subject": "History - Modern India"
+        },
+        {
+          "q": "Which of the following is the longest railway platform in India?",
+          "q_hi": "भारत का सबसे लंबा रेलवे प्लेटफॉर्म निम्नलिखित में से कौन सा है?",
+          "opts": ["Howrah Junction", "Gorakhpur Junction", "New Delhi Station", "Mumbai Central"],
+          "opts_hi": ["हावड़ा जंक्शन", "गोरखपुर जंक्शन", "नई दिल्ली स्टेशन", "मुंबई सेंट्रल"],
           "ans": 1,
-          "subject": "Current Affairs"
+          "subject": "Geography - Indian Geography"
         },
         {
-          "q": "The arrival of Amur Falcons at Doyang Lake in Nagaland each year from Mongolia showcases which of the following?",
-          "q_hi": "अमूर फाल्कनों का हर साल मंगोलिया से नागालैंड की डोयांग झील पर आना निम्नलिखित में से किसे दर्शाता है?",
-          "opts": [
-            "Adaptation to permanent residency in India due to favourable habitat changes",
-            "Global success of advanced tracking technologies that guide migratory birds back to their stopover sites",
-            "Sustained local conservation efforts contributing to the arrival and protection of international migratory birds",
-            "Climate change impact on bird migration patterns"
-          ],
-          "opts_hi": [
-            "अनुकूल आवास परिवर्तनों के कारण भारत में स्थायी निवास के अनुकूलन",
-            "प्रवासी पक्षियों को उनके पड़ाव स्थलों पर वापस मार्गदर्शन करने वाली उन्नत ट्रैकिंग तकनीकों की वैश्विक सफलता",
-            "स्थायी स्थानीय संरक्षण प्रयास अंतर्राष्ट्रीय प्रवासी पक्षियों के आगमन और संरक्षण में योगदान करते हैं",
-            "पक्षी प्रवास पैटर्न पर जलवायु परिवर्तन का प्रभाव"
-          ],
+          "q": "Which of the following is the first Indian to win a Nobel Prize?",
+          "q_hi": "नोबेल पुरस्कार जीतने वाले पहले भारतीय निम्नलिखित में से कौन हैं?",
+          "opts": ["Rabindranath Tagore", "C.V. Raman", "Amartya Sen", "Hargobind Khorana"],
+          "opts_hi": ["रवींद्रनाथ टैगोर", "सी.वी. रमण", "अमर्त्य सेन", "हरगोबिंद खुराना"],
+          "ans": 0,
+          "subject": "History - Modern India"
+        },
+        {
+          "q": "Which of the following is the largest producer of coffee in India?",
+          "q_hi": "भारत में कॉफी का सबसे बड़ा उत्पादक राज्य निम्नलिखित में से कौन सा है?",
+          "opts": ["Karnataka", "Kerala", "Tamil Nadu", "Andhra Pradesh"],
+          "opts_hi": ["कर्नाटक", "केरल", "तमिलनाडु", "आंध्र प्रदेश"],
+          "ans": 0,
+          "subject": "Geography - Indian Geography"
+        },
+        {
+          "q": "Which of the following is the largest island in the world?",
+          "q_hi": "दुनिया का सबसे बड़ा द्वीप निम्नलिखित में से कौन सा है?",
+          "opts": ["Greenland", "Australia", "Borneo", "New Guinea"],
+          "opts_hi": ["ग्रीनलैंड", "ऑस्ट्रेलिया", "बोर्नियो", "न्यू गिनी"],
+          "ans": 0,
+          "subject": "Geography - World Geography"
+        },
+        {
+          "q": "Which of the following is the fastest train in India?",
+          "q_hi": "भारत की सबसे तेज ट्रेन निम्नलिखित में से कौन सी है?",
+          "opts": ["Shatabdi Express", "Rajdhani Express", "Vande Bharat Express", "Duronto Express"],
+          "opts_hi": ["शताब्दी एक्सप्रेस", "राजधानी एक्सप्रेस", "वंदे भारत एक्सप्रेस", "दुरंतो एक्सप्रेस"],
           "ans": 2,
-          "subject": "Current Affairs"
+          "subject": "Geography - Indian Geography"
         },
         {
-          "q": "Which country's nuclear arsenal was urged to be overseen by the International Atomic Energy Agency (IAEA)?",
-          "q_hi": "अंतर्राष्ट्रीय परमाणु ऊर्जा एजेंसी (IAEA) द्वारा किस देश के परमाणु शस्त्रागार की निगरानी करने का आग्रह किया गया था?",
-          "opts": [
-            "North Korea",
-            "Pakistan",
-            "Iran",
-            "Israel"
-          ],
-          "opts_hi": [
-            "उत्तर कोरिया",
-            "पाकिस्तान",
-            "ईरान",
-            "इज़राइल"
-          ],
+          "q": "Which of the following is the largest producer of sugarcane in India?",
+          "q_hi": "भारत में सबसे बड़ा गन्ना उत्पादक राज्य निम्नलिखित में से कौन सा है?",
+          "opts": ["Maharashtra", "Uttar Pradesh", "Karnataka", "Tamil Nadu"],
+          "opts_hi": ["महाराष्ट्र", "उत्तर प्रदेश", "कर्नाटक", "तमिलनाडु"],
           "ans": 1,
-          "subject": "Current Affairs"
+          "subject": "Geography - Indian Geography"
         },
         {
-          "q": "What is the name of India's first AI air-powered UCAV (Unmanned Combat Aerial Vehicle)?",
-          "q_hi": "भारत के पहले AI वायु-संचालित UCAV (मानवरहित लड़ाकू विमान) का नाम क्या है?",
-          "opts": [
-            "ARPIT",
-            "PRABAL",
-            "SWIFT",
-            "VEER"
-          ],
-          "opts_hi": [
-            "अर्पित",
-            "प्रबल",
-            "स्विफ्ट",
-            "वीर"
-          ],
+          "q": "Which of the following is the largest producer of wheat in India?",
+          "q_hi": "भारत में गेहूं का सबसे बड़ा उत्पादक राज्य निम्नलिखित में से कौन सा है?",
+          "opts": ["Punjab", "Haryana", "Uttar Pradesh", "Madhya Pradesh"],
+          "opts_hi": ["पंजाब", "हरियाणा", "उत्तर प्रदेश", "मध्य प्रदेश"],
           "ans": 2,
-          "subject": "Current Affairs"
+          "subject": "Geography - Indian Geography"
         },
         {
-          "q": "Which valley is the site of India's first geothermal power project?",
-          "q_hi": "भारत की पहली भूतापीय बिजली परियोजना किस घाटी में स्थित है?",
-          "opts": [
-            "Spiti Valley",
-            "Puga Valley",
-            "Kullu Valley",
-            "Dzukou Valley"
-          ],
-          "opts_hi": [
-            "स्पीति घाटी",
-            "पुगा घाटी",
-            "कुल्लू घाटी",
-            "डिज़ौकू घाटी"
-          ],
+          "q": "Which of the following is the largest producer of rice in India?",
+          "q_hi": "भारत में चावल का सबसे बड़ा उत्पादक राज्य निम्नलिखित में से कौन सा है?",
+          "opts": ["Uttar Pradesh", "West Bengal", "Punjab", "Andhra Pradesh"],
+          "opts_hi": ["उत्तर प्रदेश", "पश्चिम बंगाल", "पंजाब", "आंध्र प्रदेश"],
           "ans": 1,
-          "subject": "Current Affairs"
+          "subject": "Geography - Indian Geography"
+        },
+        {
+          "q": "Which of the following is the largest producer of coal in India?",
+          "q_hi": "भारत में कोयले का सबसे बड़ा उत्पादक राज्य निम्नलिखित में से कौन सा है?",
+          "opts": ["Jharkhand", "Odisha", "Chhattisgarh", "West Bengal"],
+          "opts_hi": ["झारखंड", "ओडिशा", "छत्तीसगढ़", "पश्चिम बंगाल"],
+          "ans": 0,
+          "subject": "Geography - Indian Geography"
+        },
+        {
+          "q": "Which of the following is the largest producer of oil in India?",
+          "q_hi": "भारत में तेल का सबसे बड़ा उत्पादक राज्य निम्नलिखित में से कौन सा है?",
+          "opts": ["Assam", "Gujarat", "Rajasthan", "Maharashtra"],
+          "opts_hi": ["असम", "गुजरात", "राजस्थान", "महाराष्ट्र"],
+          "ans": 1,
+          "subject": "Geography - Indian Geography"
+        },
+        {
+          "q": "Which of the following is the largest producer of natural gas in India?",
+          "q_hi": "भारत में प्राकृतिक गैस का सबसे बड़ा उत्पादक राज्य निम्नलिखित में से कौन सा है?",
+          "opts": ["Assam", "Gujarat", "Rajasthan", "Maharashtra"],
+          "opts_hi": ["असम", "गुजरात", "राजस्थान", "महाराष्ट्र"],
+          "ans": 1,
+          "subject": "Geography - Indian Geography"
+        },
+        {
+          "q": "Which of the following is the largest producer of manganese in India?",
+          "q_hi": "भारत में मैंगनीज का सबसे बड़ा उत्पादक राज्य निम्नलिखित में से कौन सा है?",
+          "opts": ["Odisha", "Maharashtra", "Karnataka", "Jharkhand"],
+          "opts_hi": ["ओडिशा", "महाराष्ट्र", "कर्नाटक", "झारखंड"],
+          "ans": 0,
+          "subject": "Geography - Indian Geography"
+        },
+        {
+          "q": "Which of the following is the largest producer of bauxite in India?",
+          "q_hi": "भारत में बॉक्साइट का सबसे बड़ा उत्पादक राज्य निम्नलिखित में से कौन सा है?",
+          "opts": ["Odisha", "Jharkhand", "Chhattisgarh", "Maharashtra"],
+          "opts_hi": ["ओडिशा", "झारखंड", "छत्तीसगढ़", "महाराष्ट्र"],
+          "ans": 0,
+          "subject": "Geography - Indian Geography"
+        },
+        {
+          "q": "Which of the following is the largest producer of copper in India?",
+          "q_hi": "भारत में तांबा का सबसे बड़ा उत्पादक राज्य निम्नलिखित में से कौन सा है?",
+          "opts": ["Rajasthan", "Jharkhand", "Madhya Pradesh", "Andhra Pradesh"],
+          "opts_hi": ["राजस्थान", "झारखंड", "मध्य प्रदेश", "आंध्र प्रदेश"],
+          "ans": 0,
+          "subject": "Geography - Indian Geography"
+        },
+        {
+          "q": "Which of the following is the largest producer of mica in India?",
+          "q_hi": "भारत में अभ्रक का सबसे बड़ा उत्पादक राज्य निम्नलिखित में से कौन सा है?",
+          "opts": ["Bihar", "Rajasthan", "Jharkhand", "Andhra Pradesh"],
+          "opts_hi": ["बिहार", "राजस्थान", "झारखंड", "आंध्र प्रदेश"],
+          "ans": 0,
+          "subject": "Geography - Indian Geography"
+        },
+        {
+          "q": "Which of the following is the largest producer of limestone in India?",
+          "q_hi": "भारत में चूना पत्थर का सबसे बड़ा उत्पादक राज्य निम्नलिखित में से कौन सा है?",
+          "opts": ["Rajasthan", "Madhya Pradesh", "Andhra Pradesh", "Tamil Nadu"],
+          "opts_hi": ["राजस्थान", "मध्य प्रदेश", "आंध्र प्रदेश", "तमिलनाडु"],
+          "ans": 0,
+          "subject": "Geography - Indian Geography"
+        },
+        {
+          "q": "Which of the following is the largest producer of salt in India?",
+          "q_hi": "भारत में नमक का सबसे बड़ा उत्पादक राज्य निम्नलिखित में से कौन सा है?",
+          "opts": ["Gujarat", "Rajasthan", "Tamil Nadu", "Andhra Pradesh"],
+          "opts_hi": ["गुजरात", "राजस्थान", "तमिलनाडु", "आंध्र प्रदेश"],
+          "ans": 0,
+          "subject": "Geography - Indian Geography"
+        },
+        {
+          "q": "Which of the following is the largest producer of silk in India?",
+          "q_hi": "भारत में रेशम का सबसे बड़ा उत्पादक राज्य निम्नलिखित में से कौन सा है?",
+          "opts": ["Karnataka", "Tamil Nadu", "Andhra Pradesh", "West Bengal"],
+          "opts_hi": ["कर्नाटक", "तमिलनाडु", "आंध्र प्रदेश", "पश्चिम बंगाल"],
+          "ans": 0,
+          "subject": "Geography - Indian Geography"
+        },
+        {
+          "q": "Which of the following is the largest producer of rubber in India?",
+          "q_hi": "भारत में रबर का सबसे बड़ा उत्पादक राज्य निम्नलिखित में से कौन सा है?",
+          "opts": ["Kerala", "Tamil Nadu", "Karnataka", "Tripura"],
+          "opts_hi": ["केरल", "तमिलनाडु", "कर्नाटक", "त्रिपुरा"],
+          "ans": 0,
+          "subject": "Geography - Indian Geography"
         }
       ]
     },
     {
-      "id": "upsc_prelims_11",
-      "title": "UPSC Prelims Mock Test 11",
-      "duration": 17,
-      "difficulty": "Medium",
+      "id": "upsc_pre_4",
+      "title": "UPSC Prelims Full Mock Test 4 (GS Paper I)",
+      "duration": 120,
+      "difficulty": "Hard",
+      "correctMarks": 2,
+      "negativeMarks": 0.66,
       "questions": [
         {
-          "q": "With reference to radioisotope thermoelectric generators (RTGs), consider the following statements: 1. RTGs are miniature fission reactors. 2. RTGs are used for powering the onboard systems of spacecraft. 3. RTGs can use Plutonium-238, which is a by-product of weapons developments. Which of the statements given above are correct?",
-          "q_hi": "रेडियोआइसोटोप थर्मोइलेक्ट्रिक जनरेटर (RTGs) के संदर्भ में, निम्नलिखित कथनों पर विचार करें: 1. RTGs लघु विखंडन रिएक्टर हैं। 2. RTGs का उपयोग अंतरिक्ष यान के ऑनबोर्ड सिस्टम को पावर देने के लिए किया जाता है। 3. RTGs प्लूटोनियम-238 का उपयोग कर सकते हैं, जो हथियार विकास का उप-उत्पाद है। ऊपर दिए गए कथनों में से कौन से सही हैं?",
-          "opts": [
-            "1 and 2 only",
-            "2 and 3 only",
-            "1 and 3 only",
-            "1, 2 and 3"
-          ],
-          "opts_hi": [
-            "केवल 1 और 2",
-            "केवल 2 और 3",
-            "केवल 1 और 3",
-            "1, 2 और 3"
-          ],
+          "q": "Which of the following is the largest producer of cotton in India?",
+          "q_hi": "भारत में कपास का सबसे बड़ा उत्पादक राज्य निम्नलिखित में से कौन सा है?",
+          "opts": ["Maharashtra", "Gujarat", "Tamil Nadu", "Andhra Pradesh"],
+          "opts_hi": ["महाराष्ट्र", "गुजरात", "तमिलनाडु", "आंध्र प्रदेश"],
           "ans": 1,
-          "subject": "Science"
+          "subject": "Geography - Indian Geography"
         },
         {
-          "q": "Consider the following statements: Statement I: Giant stars live much longer than dwarf stars. Statement II: Compared to dwarf stars, giant stars have a greater rate of nuclear reactions. Which one of the following is correct in respect of the above statements?",
-          "q_hi": "निम्नलिखित कथनों पर विचार करें: कथन I: विशाल तारे बौने तारों की तुलना में अधिक समय तक जीवित रहते हैं। कथन II: बौने तारों की तुलना में, विशाल तारों में नाभिकीय अभिक्रियाओं की दर अधिक होती है। उपरोक्त कथनों के संबंध में निम्नलिखित में से कौन सा सही है?",
-          "opts": [
-            "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
-            "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
-            "Statement I is correct, but Statement II is incorrect",
-            "Statement I is incorrect, but Statement II is correct"
-          ],
-          "opts_hi": [
-            "कथन-I और कथन-II दोनों सही हैं और कथन-II, कथन-I की व्याख्या करता है",
-            "कथन-I और कथन-II दोनों सही हैं, लेकिन कथन-II, कथन-I की व्याख्या नहीं करता है",
-            "कथन I सही है, लेकिन कथन II गलत है",
-            "कथन I गलत है, लेकिन कथन II सही है"
-          ],
-          "ans": 3,
-          "subject": "Science"
+          "q": "Which of the following is the largest producer of jute in India?",
+          "q_hi": "भारत में जूट का सबसे बड़ा उत्पादक राज्य निम्नलिखित में से कौन सा है?",
+          "opts": ["West Bengal", "Bihar", "Assam", "Andhra Pradesh"],
+          "opts_hi": ["पश्चिम बंगाल", "बिहार", "असम", "आंध्र प्रदेश"],
+          "ans": 0,
+          "subject": "Geography - Indian Geography"
         },
         {
-          "q": "Consider the following activities: 1. Identification of narcotics on passengers at airports or in aircraft 2. Monitoring of precipitation 3. Tracking the migration of animals In how many of the above activities can radars be used?",
-          "q_hi": "निम्नलिखित गतिविधियों पर विचार करें: 1. हवाई अड्डों पर या विमान में यात्रियों पर मादक पदार्थों की पहचान 2. वर्षा की निगरानी 3. जानवरों के प्रवासन का ट्रैकिंग उपरोक्त में से कितनी गतिविधियों में रडार का उपयोग किया जा सकता है?",
-          "opts": [
-            "Only one",
-            "Only two",
-            "All three",
-            "None"
-          ],
-          "opts_hi": [
-            "केवल एक",
-            "केवल दो",
-            "सभी तीन",
-            "कोई नहीं"
-          ],
+          "q": "Which of the following is the largest producer of sugar in India?",
+          "q_hi": "भारत में चीनी का सबसे बड़ा उत्पादक राज्य निम्नलिखित में से कौन सा है?",
+          "opts": ["Maharashtra", "Uttar Pradesh", "Karnataka", "Tamil Nadu"],
+          "opts_hi": ["महाराष्ट्र", "उत्तर प्रदेश", "कर्नाटक", "तमिलनाडु"],
+          "ans": 1,
+          "subject": "Geography - Indian Geography"
+        },
+        {
+          "q": "Which of the following is the largest producer of spices in India?",
+          "q_hi": "भारत में मसालों का सबसे बड़ा उत्पादक राज्य निम्नलिखित में से कौन सा है?",
+          "opts": ["Kerala", "Andhra Pradesh", "Karnataka", "Tamil Nadu"],
+          "opts_hi": ["केरल", "आंध्र प्रदेश", "कर्नाटक", "तमिलनाडु"],
+          "ans": 0,
+          "subject": "Geography - Indian Geography"
+        },
+        {
+          "q": "Which of the following is the largest producer of fruits in India?",
+          "q_hi": "भारत में फलों का सबसे बड़ा उत्पादक राज्य निम्नलिखित में से कौन सा है?",
+          "opts": ["Uttar Pradesh", "Maharashtra", "Andhra Pradesh", "Karnataka"],
+          "opts_hi": ["उत्तर प्रदेश", "महाराष्ट्र", "आंध्र प्रदेश", "कर्नाटक"],
+          "ans": 0,
+          "subject": "Geography - Indian Geography"
+        },
+        {
+          "q": "Which of the following is the largest producer of vegetables in India?",
+          "q_hi": "भारत में सब्जियों का सबसे बड़ा उत्पादक राज्य निम्नलिखित में से कौन सा है?",
+          "opts": ["Uttar Pradesh", "West Bengal", "Maharashtra", "Andhra Pradesh"],
+          "opts_hi": ["उत्तर प्रदेश", "पश्चिम बंगाल", "महाराष्ट्र", "आंध्र प्रदेश"],
+          "ans": 0,
+          "subject": "Geography - Indian Geography"
+        },
+        {
+          "q": "Which of the following is the largest producer of flowers in India?",
+          "q_hi": "भारत में फूलों का सबसे बड़ा उत्पादक राज्य निम्नलिखित में से कौन सा है?",
+          "opts": ["Tamil Nadu", "Karnataka", "Andhra Pradesh", "Maharashtra"],
+          "opts_hi": ["तमिलनाडु", "कर्नाटक", "आंध्र प्रदेश", "महाराष्ट्र"],
+          "ans": 0,
+          "subject": "Geography - Indian Geography"
+        },
+        {
+          "q": "Which of the following is the largest producer of poultry in India?",
+          "q_hi": "भारत में मुर्गी पालन का सबसे बड़ा उत्पादक राज्य निम्नलिखित में से कौन सा है?",
+          "opts": ["Andhra Pradesh", "Tamil Nadu", "Maharashtra", "Karnataka"],
+          "opts_hi": ["आंध्र प्रदेश", "तमिलनाडु", "महाराष्ट्र", "कर्नाटक"],
+          "ans": 0,
+          "subject": "Geography - Indian Geography"
+        },
+        {
+          "q": "Which of the following is the largest producer of eggs in India?",
+          "q_hi": "भारत में अंडों का सबसे बड़ा उत्पादक राज्य निम्नलिखित में से कौन सा है?",
+          "opts": ["Andhra Pradesh", "Tamil Nadu", "Maharashtra", "Karnataka"],
+          "opts_hi": ["आंध्र प्रदेश", "तमिलनाडु", "महाराष्ट्र", "कर्नाटक"],
+          "ans": 1,
+          "subject": "Geography - Indian Geography"
+        },
+        {
+          "q": "Which of the following is the largest producer of meat in India?",
+          "q_hi": "भारत में मांस का सबसे बड़ा उत्पादक राज्य निम्नलिखित में से कौन सा है?",
+          "opts": ["Andhra Pradesh", "Tamil Nadu", "Maharashtra", "Karnataka"],
+          "opts_hi": ["आंध्र प्रदेश", "तमिलनाडु", "महाराष्ट्र", "कर्नाटक"],
+          "ans": 0,
+          "subject": "Geography - Indian Geography"
+        },
+        {
+          "q": "Which of the following is the largest producer of marine fish in India?",
+          "q_hi": "भारत में समुद्री मछली का सबसे बड़ा उत्पादक राज्य निम्नलिखित में से कौन सा है?",
+          "opts": ["Kerala", "Andhra Pradesh", "Tamil Nadu", "Gujarat"],
+          "opts_hi": ["केरल", "आंध्र प्रदेश", "तमिलनाडु", "गुजरात"],
           "ans": 2,
-          "subject": "Science"
+          "subject": "Geography - Indian Geography"
         },
         {
-          "q": "Consider the following aircraft: 1. Rafael 2. MiG-29 3. Tejas MK-1 How many of the above are considered fifth-generation fighter aircraft?",
-          "q_hi": "निम्नलिखित विमानों पर विचार करें: 1. राफेल 2. MiG-29 3. तेजस MK-1 उपरोक्त में से कितने को पाँचवीं पीढ़ी के लड़ाकू विमान माना जाता है?",
-          "opts": [
-            "Only one",
-            "Only two",
-            "All three",
-            "None"
-          ],
-          "opts_hi": [
-            "केवल एक",
-            "केवल दो",
-            "सभी तीन",
-            "कोई नहीं"
-          ],
-          "ans": 3,
-          "subject": "Science"
-        },
-        {
-          "q": "In which of the following are hydrogels used? 1. Controlled drug delivery in patients 2. Mobile air-conditioning systems 3. Preparation of industrial lubricants Select the correct answer using the code given below:",
-          "q_hi": "हाइड्रोजेल का उपयोग निम्नलिखित में से किनमें किया जाता है? 1. रोगियों में नियंत्रित दवा वितरण 2. मोबाइल एयर-कंडीशनिंग सिस्टम 3. औद्योगिक स्नेहक की तैयारी नीचे दिए गए कूट का उपयोग करके सही उत्तर चुनें:",
-          "opts": [
-            "1 only",
-            "1 and 2 only",
-            "2 and 3 only",
-            "1, 2 and 3"
-          ],
-          "opts_hi": [
-            "केवल 1",
-            "केवल 1 और 2",
-            "केवल 2 और 3",
-            "1, 2 और 3"
-          ],
-          "ans": 3,
-          "subject": "Science"
-        },
-        {
-          "q": "Which one of the following is the exhaust pipe emission from Fuel Cell Electric Vehicles, powered by hydrogen?",
-          "q_hi": "हाइड्रोजन द्वारा संचालित ईंधन सेल इलेक्ट्रिक वाहनों से निकास पाइप उत्सर्जन निम्नलिखित में से कौन सा है?",
-          "opts": [
-            "Hydrogen peroxide",
-            "Hydronium",
-            "Oxygen",
-            "Water vapour"
-          ],
-          "opts_hi": [
-            "हाइड्रोजन पेरोक्साइड",
-            "हाइड्रोनियम",
-            "ऑक्सीजन",
-            "जल वाष्प"
-          ],
-          "ans": 3,
-          "subject": "Science"
-        },
-        {
-          "q": "Membrane Bioreactors' are often discussed in the context of:",
-          "q_hi": "मेम्ब्रेन बायोरिएक्टर्स' पर अक्सर किसके संदर्भ में चर्चा की जाती है?",
-          "opts": [
-            "Assisted reproductive technologies",
-            "Drug delivery nanotechnologies",
-            "Vaccine production technologies",
-            "Wastewater treatment technologies"
-          ],
-          "opts_hi": [
-            "सहायक प्रजनन तकनीकें",
-            "दवा वितरण नैनोटेक्नोलॉजी",
-            "वैक्सीन उत्पादन प्रौद्योगिकियाँ",
-            "अपशिष्ट जल उपचार प्रौद्योगिकियाँ"
-          ],
-          "ans": 3,
-          "subject": "Science"
-        },
-        {
-          "q": "Which of the following was India's first interplanetary mission?",
-          "q_hi": "भारत का पहला अंतर्ग्रहीय मिशन निम्नलिखित में से कौन सा था?",
-          "opts": [
-            "Chandrayaan-1",
-            "Mangalyaan (Mars Orbiter Mission)",
-            "Gaganyaan",
-            "Aditya-L1"
-          ],
-          "opts_hi": [
-            "चंद्रयान-1",
-            "मंगलयान (मार्स ऑर्बिटर मिशन)",
-            "गगनयान",
-            "आदित्य-L1"
-          ],
+          "q": "Which of the following is the largest producer of inland fish in India?",
+          "q_hi": "भारत में अंतर्देशीय मछली का सबसे बड़ा उत्पादक राज्य निम्नलिखित में से कौन सा है?",
+          "opts": ["West Bengal", "Andhra Pradesh", "Uttar Pradesh", "Bihar"],
+          "opts_hi": ["पश्चिम बंगाल", "आंध्र प्रदेश", "उत्तर प्रदेश", "बिहार"],
           "ans": 1,
-          "subject": "Science"
+          "subject": "Geography - Indian Geography"
         },
         {
-          "q": "Which of the following isotopes is commonly used in nuclear reactors as a fuel?",
-          "q_hi": "निम्नलिखित में से किस समस्थानिक का उपयोग आमतौर पर परमाणु रिएक्टरों में ईंधन के रूप में किया जाता है?",
-          "opts": [
-            "U-235",
-            "U-238",
-            "Pu-239",
-            "Both U-235 and Pu-239"
-          ],
-          "opts_hi": [
-            "U-235",
-            "U-238",
-            "Pu-239",
-            "U-235 और Pu-239 दोनों"
-          ],
-          "ans": 3,
-          "subject": "Science"
-        },
-        {
-          "q": "Aditya-L1, India's first solar mission, was placed in orbit around which point?",
-          "q_hi": "आदित्य-L1, भारत का पहला सौर मिशन, किस बिंदु के चारों ओर कक्षा में स्थापित किया गया था?",
-          "opts": [
-            "L1 Lagrange Point",
-            "L2 Lagrange Point",
-            "Geostationary Orbit",
-            "Polar Orbit"
-          ],
-          "opts_hi": [
-            "L1 लैग्रेंज बिंदु",
-            "L2 लैग्रेंज बिंदु",
-            "भू-स्थिर कक्षा",
-            "ध्रुवीय कक्षा"
-          ],
+          "q": "Which of the following is the largest producer of solar energy in India?",
+          "q_hi": "भारत में सौर ऊर्जा का सबसे बड़ा उत्पादक राज्य निम्नलिखित में से कौन सा है?",
+          "opts": ["Rajasthan", "Gujarat", "Karnataka", "Tamil Nadu"],
+          "opts_hi": ["राजस्थान", "गुजरात", "कर्नाटक", "तमिलनाडु"],
           "ans": 0,
-          "subject": "Science"
+          "subject": "Geography - Indian Geography"
         },
         {
-          "q": "Membrane Bioreactors are often discussed in the context of which of the following?",
-          "q_hi": "मेम्ब्रेन बायोरिएक्टर्स पर अक्सर निम्नलिखित में से किसके संदर्भ में चर्चा की जाती है?",
-          "opts": [
-            "Assisted reproductive technologies",
-            "Drug delivery nanotechnologies",
-            "Vaccine production technologies",
-            "Wastewater treatment technologies"
-          ],
-          "opts_hi": [
-            "सहायक प्रजनन तकनीकें",
-            "दवा वितरण नैनोटेक्नोलॉजी",
-            "वैक्सीन उत्पादन प्रौद्योगिकियाँ",
-            "अपशिष्ट जल उपचार प्रौद्योगिकियाँ"
-          ],
-          "ans": 3,
-          "subject": "Science"
+          "q": "Which of the following is the largest producer of wind energy in India?",
+          "q_hi": "भारत में पवन ऊर्जा का सबसे बड़ा उत्पादक राज्य निम्नलिखित में से कौन सा है?",
+          "opts": ["Tamil Nadu", "Gujarat", "Maharashtra", "Karnataka"],
+          "opts_hi": ["तमिलनाडु", "गुजरात", "महाराष्ट्र", "कर्नाटक"],
+          "ans": 0,
+          "subject": "Geography - Indian Geography"
         },
         {
-          "q": "Which of the following is India's first human spaceflight mission?",
-          "q_hi": "भारत का पहला मानव अंतरिक्ष उड़ान मिशन निम्नलिखित में से कौन सा है?",
-          "opts": [
-            "Chandrayaan-3",
-            "Mangalyaan",
-            "Gaganyaan",
-            "Aditya-L1"
-          ],
-          "opts_hi": [
-            "चंद्रयान-3",
-            "मंगलयान",
-            "गगनयान",
-            "आदित्य-L1"
-          ],
-          "ans": 2,
-          "subject": "Science"
-        },
-        {
-          "q": "Which of the following gases is responsible for the depletion of the ozone layer?",
-          "q_hi": "ओजोन परत के क्षय के लिए निम्नलिखित में से कौन सी गैस जिम्मेदार है?",
-          "opts": [
-            "Carbon Dioxide",
-            "Methane",
-            "Chlorofluorocarbons (CFCs)",
-            "Nitrogen"
-          ],
-          "opts_hi": [
-            "कार्बन डाइऑक्साइड",
-            "मीथेन",
-            "क्लोरोफ्लोरोकार्बन (CFCs)",
-            "नाइट्रोजन"
-          ],
-          "ans": 2,
-          "subject": "Science"
-        },
-        {
-          "q": "Vaccination works by which of the following mechanisms?",
-          "q_hi": "टीकाकरण निम्नलिखित में से किस तंत्र द्वारा कार्य करता है?",
-          "opts": [
-            "Introducing antibodies directly into the body",
-            "Stimulating the body's immune system to produce antibodies",
-            "Killing pathogens directly",
-            "Neutralizing toxins only"
-          ],
-          "opts_hi": [
-            "शरीर में सीधे एंटीबॉडी का परिचय",
-            "शरीर की प्रतिरक्षा प्रणाली को एंटीबॉडी उत्पन्न करने के लिए उत्तेजित करना",
-            "सीधे रोगजनकों को मारना",
-            "केवल विषाक्त पदार्थों को बेअसर करना"
-          ],
+          "q": "Which of the following is the largest producer of hydroelectric power in India?",
+          "q_hi": "भारत में जलविद्युत शक्ति का सबसे बड़ा उत्पादक राज्य निम्नलिखित में से कौन सा है?",
+          "opts": ["Uttarakhand", "Himachal Pradesh", "Karnataka", "Tamil Nadu"],
+          "opts_hi": ["उत्तराखंड", "हिमाचल प्रदेश", "कर्नाटक", "तमिलनाडु"],
           "ans": 1,
-          "subject": "Science"
-        }
-      ]
-    },
-    {
-      "id": "upsc_prelims_12",
-      "title": "UPSC Prelims Mock Test 12",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
+          "subject": "Geography - Indian Geography"
+        },
         {
-          "q": "The total number of candidates in the UPSC Prelims 2026 is 5,00,000. 20% clear the Prelims. 40% of those clearing Prelims clear the Mains. What percentage of original candidates clear the Mains?",
-          "q_hi": "UPSC प्रारंभिक 2026 में कुल उम्मीदवारों की संख्या 5,00,000 है। 20% प्रारंभिक परीक्षा पास करते हैं। इनमें से 40% मुख्य परीक्षा पास करते हैं। मूल उम्मीदवारों का कितना प्रतिशत मुख्य परीक्षा पास करता है?",
-          "opts": [
-            "0.06",
-            "0.08",
-            "0.1",
-            "0.12"
-          ],
-          "opts_hi": [
-            "0.06",
-            "0.08",
-            "0.1",
-            "0.12"
-          ],
+          "q": "Which of the following is the largest producer of nuclear energy in India?",
+          "q_hi": "भारत में परमाणु ऊर्जा का सबसे बड़ा उत्पादक राज्य निम्नलिखित में से कौन सा है?",
+          "opts": ["Tamil Nadu", "Maharashtra", "Rajasthan", "Uttar Pradesh"],
+          "opts_hi": ["तमिलनाडु", "महाराष्ट्र", "राजस्थान", "उत्तर प्रदेश"],
+          "ans": 0,
+          "subject": "Geography - Indian Geography"
+        },
+        {
+          "q": "Which of the following is the largest producer of automobiles in India?",
+          "q_hi": "भारत में ऑटोमोबाइल का सबसे बड़ा उत्पादक राज्य निम्नलिखित में से कौन सा है?",
+          "opts": ["Maharashtra", "Tamil Nadu", "Gujarat", "Karnataka"],
+          "opts_hi": ["महाराष्ट्र", "तमिलनाडु", "गुजरात", "कर्नाटक"],
+          "ans": 0,
+          "subject": "Geography - Indian Geography"
+        },
+        {
+          "q": "Which of the following is the largest producer of IT services in India?",
+          "q_hi": "भारत में IT सेवाओं का सबसे बड़ा उत्पादक राज्य निम्नलिखित में से कौन सा है?",
+          "opts": ["Karnataka", "Tamil Nadu", "Maharashtra", "Andhra Pradesh"],
+          "opts_hi": ["कर्नाटक", "तमिलनाडु", "महाराष्ट्र", "आंध्र प्रदेश"],
+          "ans": 0,
+          "subject": "Geography - Indian Geography"
+        },
+        {
+          "q": "Which of the following is the largest producer of textiles in India?",
+          "q_hi": "भारत में वस्त्रों का सबसे बड़ा उत्पादक राज्य निम्नलिखित में से कौन सा है?",
+          "opts": ["Tamil Nadu", "Maharashtra", "Gujarat", "Karnataka"],
+          "opts_hi": ["तमिलनाडु", "महाराष्ट्र", "गुजरात", "कर्नाटक"],
+          "ans": 0,
+          "subject": "Geography - Indian Geography"
+        },
+        {
+          "q": "Which of the following is the largest producer of pharmaceuticals in India?",
+          "q_hi": "भारत में फार्मास्यूटिकल्स का सबसे बड़ा उत्पादक राज्य निम्नलिखित में से कौन सा है?",
+          "opts": ["Gujarat", "Maharashtra", "Telangana", "Karnataka"],
+          "opts_hi": ["गुजरात", "महाराष्ट्र", "तेलंगाना", "कर्नाटक"],
+          "ans": 0,
+          "subject": "Geography - Indian Geography"
+        },
+        {
+          "q": "Which of the following is the largest producer of cement in India?",
+          "q_hi": "भारत में सीमेंट का सबसे बड़ा उत्पादक राज्य निम्नलिखित में से कौन सा है?",
+          "opts": ["Madhya Pradesh", "Rajasthan", "Tamil Nadu", "Andhra Pradesh"],
+          "opts_hi": ["मध्य प्रदेश", "राजस्थान", "तमिलनाडु", "आंध्र प्रदेश"],
           "ans": 1,
-          "subject": "Mathematics"
+          "subject": "Geography - Indian Geography"
         },
         {
-          "q": "Question: What is the average of 5 numbers? Statement I: Sum of 3 numbers is 30. Statement II: Sum of remaining 2 numbers is 20. Which of the following is correct?",
-          "q_hi": "प्रश्न: 5 संख्याओं का औसत क्या है? कथन I: 3 संख्याओं का योग 30 है। कथन II: शेष 2 संख्याओं का योग 20 है। निम्नलिखित में से कौन सा सही है?",
-          "opts": [
-            "Both statements together are sufficient to answer the question",
-            "Statement I alone is sufficient",
-            "Statement II alone is sufficient",
-            "Both statements are insufficient"
-          ],
-          "opts_hi": [
-            "प्रश्न का उत्तर देने के लिए दोनों कथन एक साथ पर्याप्त हैं",
-            "केवल कथन I पर्याप्त है",
-            "केवल कथन II पर्याप्त है",
-            "दोनों कथन अपर्याप्त हैं"
-          ],
-          "ans": 0,
-          "subject": "Mathematics"
-        },
-        {
-          "q": "In an election, a candidate who gets 40% of votes is defeated by 400 votes. What is the total number of votes polled?",
-          "q_hi": "एक चुनाव में, 40% वोट पाने वाला उम्मीदवार 400 वोटों से हार जाता है। कुल कितने वोट पड़े?",
-          "opts": [
-            "1000",
-            "1500",
-            "2000",
-            "2500"
-          ],
-          "opts_hi": [
-            "1000",
-            "1500",
-            "2000",
-            "2500"
-          ],
-          "ans": 2,
-          "subject": "Mathematics"
-        },
-        {
-          "q": "Gold and silver are mixed in the ratio 7:3. If the total mixture weighs 100g, what is the weight of gold?",
-          "q_hi": "सोने और चाँदी को 7:3 के अनुपात में मिलाया जाता है। यदि कुल मिश्रण का वजन 100g है, तो सोने का वजन क्या है?",
-          "opts": [
-            "30g",
-            "50g",
-            "70g",
-            "80g"
-          ],
-          "opts_hi": [
-            "30g",
-            "50g",
-            "70g",
-            "80g"
-          ],
-          "ans": 2,
-          "subject": "Mathematics"
-        },
-        {
-          "q": "Question: What is the ratio of girls to boys in a school? Statement I: There are 100 more boys than girls. Statement II: Number of boys is 250. Which of the following is correct?",
-          "q_hi": "प्रश्न: एक स्कूल में लड़कियों और लड़कों का अनुपात क्या है? कथन I: लड़कों की संख्या लड़कियों से 100 अधिक है। कथन II: लड़कों की संख्या 250 है। निम्नलिखित में से कौन सा सही है?",
-          "opts": [
-            "Both statements together are sufficient to answer the question",
-            "Statement I alone is sufficient",
-            "Statement II alone is sufficient",
-            "Both statements are insufficient"
-          ],
-          "opts_hi": [
-            "प्रश्न का उत्तर देने के लिए दोनों कथन एक साथ पर्याप्त हैं",
-            "केवल कथन I पर्याप्त है",
-            "केवल कथन II पर्याप्त है",
-            "दोनों कथन अपर्याप्त हैं"
-          ],
-          "ans": 0,
-          "subject": "Mathematics"
-        },
-        {
-          "q": "A shopkeeper gains 25% on selling an article. The cost price is Rs.800. Find the selling price.",
-          "q_hi": "एक दुकानदार एक वस्तु को 25% लाभ पर बेचता है। क्रय मूल्य Rs.800 है। विक्रय मूल्य ज्ञात करें।",
-          "opts": [
-            "Rs. 900",
-            "Rs. 950",
-            "Rs. 1000",
-            "Rs. 1050"
-          ],
-          "opts_hi": [
-            "Rs. 900",
-            "Rs. 950",
-            "Rs. 1000",
-            "Rs. 1050"
-          ],
-          "ans": 2,
-          "subject": "Mathematics"
-        }
-      ]
-    },
-    {
-      "id": "upsc_prelims_13",
-      "title": "UPSC Prelims Mock Test 13",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Question: What is the area of a rectangle? Statement I: Its length is 10 cm. Statement II: Its breadth is 5 cm. Which of the following is correct?",
-          "q_hi": "प्रश्न: एक आयत का क्षेत्रफल क्या है? कथन I: इसकी लंबाई 10 सेमी है। कथन II: इसकी चौड़ाई 5 सेमी है। निम्नलिखित में से कौन सा सही है?",
-          "opts": [
-            "Both statements together are sufficient to answer the question",
-            "Statement I alone is sufficient",
-            "Statement II alone is sufficient",
-            "Both statements are insufficient"
-          ],
-          "opts_hi": [
-            "प्रश्न का उत्तर देने के लिए दोनों कथन एक साथ पर्याप्त हैं",
-            "केवल कथन I पर्याप्त है",
-            "केवल कथन II पर्याप्त है",
-            "दोनों कथन अपर्याप्त हैं"
-          ],
-          "ans": 0,
-          "subject": "Mathematics"
-        },
-        {
-          "q": "A man walks 5 km in 1 hour and then runs 10 km in 1 hour. What is his average speed for the entire journey?",
-          "q_hi": "एक व्यक्ति 1 घंटे में 5 किमी चलता है और फिर 1 घंटे में 10 किमी दौड़ता है। पूरी यात्रा के लिए उसकी औसत गति क्या है?",
-          "opts": [
-            "5 km/h",
-            "6 km/h",
-            "7.5 km/h",
-            "10 km/h"
-          ],
-          "opts_hi": [
-            "5 किमी/घंटा",
-            "6 किमी/घंटा",
-            "7.5 किमी/घंटा",
-            "10 किमी/घंटा"
-          ],
-          "ans": 2,
-          "subject": "Mathematics"
-        }
-      ]
-    },
-    {
-      "id": "upsc_prelims_14",
-      "title": "UPSC Prelims Mock Test 14",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Which of the following statements with regard to Large Language Models (LLMs) used in machine learning is/are correct? 1. LLMs assign probabilities to the next possible words and then pick the one with the highest probability. 2. LLMs process data through mathematical optimization to minimise prediction errors. 3. LLMs produce unbiased outputs.",
-          "q_hi": "मशीन लर्निंग में उपयोग किए जाने वाले लार्ज लैंग्वेज मॉडल (LLMs) के संबंध में निम्नलिखित में से कौन सा/से कथन सही है/हैं? 1. LLMs अगले संभावित शब्दों को संभावनाएँ प्रदान करते हैं और फिर उच्चतम संभावना वाले शब्द को चुनते हैं। 2. LLMs पूर्वानुमान त्रुटियों को कम करने के लिए गणितीय अनुकूलन के माध्यम से डेटा संसाधित करते हैं। 3. LLMs निष्पक्ष आउटपुट उत्पन्न करते हैं।",
-          "opts": [
-            "1 only",
-            "1 and 2 only",
-            "2 and 3 only",
-            "1, 2 and 3"
-          ],
-          "opts_hi": [
-            "केवल 1",
-            "केवल 1 और 2",
-            "केवल 2 और 3",
-            "1, 2 और 3"
-          ],
+          "q": "Which of the following is the largest producer of steel in India?",
+          "q_hi": "भारत में इस्पात का सबसे बड़ा उत्पादक राज्य निम्नलिखित में से कौन सा है?",
+          "opts": ["Odisha", "Jharkhand", "Chhattisgarh", "West Bengal"],
+          "opts_hi": ["ओडिशा", "झारखंड", "छत्तीसगढ़", "पश्चिम बंगाल"],
           "ans": 1,
-          "subject": "Science"
+          "subject": "Geography - Indian Geography"
         },
         {
-          "q": "Which of the following statements with regard to stealth technology is/are correct? 1. Stealth objects have a very small radar cross-section and are coated with Radar Absorbing Material. 2. Stealth objects can be detected using specific frequencies. 3. Stealth objects are coated with metamaterials to increase the scattering of electromagnetic radiation.",
-          "q_hi": "स्टील्थ प्रौद्योगिकी के संबंध में निम्नलिखित में से कौन सा/से कथन सही है/हैं? 1. स्टील्थ वस्तुओं में बहुत छोटा रडार क्रॉस-सेक्शन होता है और वे रडार अवशोषक सामग्री से लेपित होती हैं। 2. स्टील्थ वस्तुओं का विशिष्ट आवृत्तियों का उपयोग करके पता लगाया जा सकता है। 3. स्टील्थ वस्तुओं को विद्युत चुम्बकीय विकिरण के प्रकीर्णन को बढ़ाने के लिए मेटामटेरियल से लेपित किया जाता है।",
-          "opts": [
-            "1 only",
-            "1 and 2 only",
-            "2 and 3 only",
-            "1, 2 and 3"
-          ],
-          "opts_hi": [
-            "केवल 1",
-            "केवल 1 और 2",
-            "केवल 2 और 3",
-            "1, 2 और 3"
-          ],
-          "ans": 2,
-          "subject": "Science"
-        },
-        {
-          "q": "Which of the following statements with regard to Black Boxes used in modern aircrafts is/are correct? 1. They carry a beacon emitting red light pulses to facilitate underwater detection. 2. They record both the cockpit voice and flight data. 3. Their memory units are made using either stainless steel or titanium.",
-          "q_hi": "आधुनिक विमानों में उपयोग किए जाने वाले ब्लैक बॉक्स के संबंध में निम्नलिखित में से कौन सा/से कथन सही है/हैं? 1. वे पानी के नीचे का पता लगाने की सुविधा के लिए लाल प्रकाश दालें उत्सर्जित करने वाला एक बीकन रखते हैं। 2. वे कॉकपिट वॉयस और उड़ान डेटा दोनों रिकॉर्ड करते हैं। 3. उनकी मेमोरी यूनिट या तो स्टेनलेस स्टील या टाइटेनियम का उपयोग करके बनाई जाती है।",
-          "opts": [
-            "1 only",
-            "2 and 3 only",
-            "1 and 2 only",
-            "1, 2 and 3"
-          ],
-          "opts_hi": [
-            "केवल 1",
-            "केवल 2 और 3",
-            "केवल 1 और 2",
-            "1, 2 और 3"
-          ],
-          "ans": 1,
-          "subject": "Science"
-        },
-        {
-          "q": "Which of the following statements with regard to GenomeIndia Project is/are correct? 1. It is a part of the Human Genome Project. 2. The project is funded by the Department of Biotechnology (DBT), Government of India. 3. Its primary aim is to build a catalogue of genetic diversity of the Indian population.",
-          "q_hi": "जीनोमइंडिया परियोजना के संबंध में निम्नलिखित में से कौन सा/से कथन सही है/हैं? 1. यह मानव जीनोम परियोजना का एक हिस्सा है। 2. इस परियोजना को भारत सरकार के जैव प्रौद्योगिकी विभाग (DBT) द्वारा वित्त पोषित किया जाता है। 3. इसका प्राथमिक उद्देश्य भारतीय आबादी की आनुवंशिक विविधता की एक सूची तैयार करना है।",
-          "opts": [
-            "1 only",
-            "2 and 3 only",
-            "1 and 2 only",
-            "1, 2 and 3"
-          ],
-          "opts_hi": [
-            "केवल 1",
-            "केवल 2 और 3",
-            "केवल 1 और 2",
-            "1, 2 और 3"
-          ],
-          "ans": 1,
-          "subject": "Science"
-        },
-        {
-          "q": "Which of the following statements with regard to drone swarms is/are correct? 1. They use Terahertz band of frequency to communicate with the command centre. 2. Individual drones in the swarm can communicate with other drones in the swarm. 3. GPS Spoofing is a commonly used technique to counter drone swarm attack.",
-          "q_hi": "ड्रोन झुंडों के संबंध में निम्नलिखित में से कौन सा/से कथन सही है/हैं? 1. वे कमांड सेंटर के साथ संचार करने के लिए टेराहर्ट्ज आवृत्ति बैंड का उपयोग करते हैं। 2. झुंड में व्यक्तिगत ड्रोन झुंड में अन्य ड्रोनों के साथ संचार कर सकते हैं। 3. ड्रोन झुंड हमले का मुकाबला करने के लिए GPS स्पूफिंग एक सामान्य रूप से उपयोग की जाने वाली तकनीक है।",
-          "opts": [
-            "1 only",
-            "2 and 3 only",
-            "1 and 2 only",
-            "1, 2 and 3"
-          ],
-          "opts_hi": [
-            "केवल 1",
-            "केवल 2 और 3",
-            "केवल 1 और 2",
-            "1, 2 और 3"
-          ],
-          "ans": 1,
-          "subject": "Science"
-        }
-      ]
-    },
-    {
-      "id": "upsc_prelims_15",
-      "title": "UPSC Prelims Mock Test 15",
-      "duration": 18,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Which of the following correctly describes the structure of DNA?",
-          "q_hi": "DNA की संरचना का सही वर्णन निम्नलिखित में से कौन सा करता है?",
-          "opts": [
-            "Single-stranded helix",
-            "Double-stranded helix with complementary base pairing",
-            "Triple-stranded helix",
-            "Linear structure without coiling"
-          ],
-          "opts_hi": [
-            "एकल-रज्जुक कुंडलित",
-            "दोहरी-रज्जुक कुंडलित जिसमें पूरक क्षार युग्मन होता है",
-            "त्रिक-रज्जुक कुंडलित",
-            "बिना कुंडलन के रैखिक संरचना"
-          ],
-          "ans": 1,
-          "subject": "Science"
-        },
-        {
-          "q": "Which of the following is NOT a characteristic of sound waves?",
-          "q_hi": "ध्वनि तरंगों की निम्नलिखित में से कौन सी विशेषता नहीं है?",
-          "opts": [
-            "They are mechanical waves",
-            "They can travel in vacuum",
-            "They require a medium to travel",
-            "They are longitudinal waves"
-          ],
-          "opts_hi": [
-            "वे यांत्रिक तरंगें हैं",
-            "वे निर्वात में यात्रा कर सकती हैं",
-            "उन्हें यात्रा करने के लिए माध्यम की आवश्यकता होती है",
-            "वे अनुदैर्ध्य तरंगें हैं"
-          ],
-          "ans": 1,
-          "subject": "Science"
-        },
-        {
-          "q": "Which of the following statements about Chandrayaan-3 is/are correct? 1. It successfully landed near the lunar south pole. 2. It carried a rover named Pragyan. 3. The lander was named Vikram.",
-          "q_hi": "चंद्रयान-3 के बारे में निम्नलिखित में से कौन सा/से कथन सही है/हैं? 1. इसने चंद्र के दक्षिणी ध्रुव के पास सफलतापूर्वक लैंडिंग की। 2. इसने प्रज्ञान नामक एक रोवर ले जाया। 3. लैंडर का नाम विक्रम था।",
-          "opts": [
-            "1 only",
-            "1 and 2 only",
-            "2 and 3 only",
-            "1, 2 and 3"
-          ],
-          "opts_hi": [
-            "केवल 1",
-            "केवल 1 और 2",
-            "केवल 2 और 3",
-            "1, 2 और 3"
-          ],
-          "ans": 3,
-          "subject": "Science"
-        },
-        {
-          "q": "Which of the following is a type of Artificial Intelligence that can perform any intellectual task that a human can?",
-          "q_hi": "कृत्रिम बुद्धिमत्ता का कौन सा प्रकार कोई भी बौद्धिक कार्य कर सकता है जो एक मानव कर सकता है?",
-          "opts": [
-            "ANI (Artificial Narrow Intelligence)",
-            "AGI (Artificial General Intelligence)",
-            "ASI (Artificial Superintelligence)",
-            "ML (Machine Learning)"
-          ],
-          "opts_hi": [
-            "ANI (कृत्रिम संकीर्ण बुद्धिमत्ता)",
-            "AGI (कृत्रिम सामान्य बुद्धिमत्ता)",
-            "ASI (कृत्रिम अति बुद्धिमत्ता)",
-            "ML (मशीन लर्निंग)"
-          ],
-          "ans": 1,
-          "subject": "Science"
-        },
-        {
-          "q": "The angle of incidence is equal to the angle of reflection in:",
-          "q_hi": "आपतन कोण, परावर्तन कोण के बराबर होता है:",
-          "opts": [
-            "Refraction",
-            "Reflection",
-            "Dispersion",
-            "Total Internal Reflection"
-          ],
-          "opts_hi": [
-            "अपवर्तन",
-            "परावर्तन",
-            "विक्षेपण",
-            "पूर्ण आंतरिक परावर्तन"
-          ],
-          "ans": 1,
-          "subject": "Science"
-        },
-        {
-          "q": "Aditya-L1 is India's first mission to study which of the following?",
-          "q_hi": "आदित्य-L1 भारत का निम्नलिखित में से किसका अध्ययन करने वाला पहला मिशन है?",
-          "opts": [
-            "The Moon",
-            "The Sun",
-            "Mars",
-            "Venus"
-          ],
-          "opts_hi": [
-            "चंद्रमा",
-            "सूर्य",
-            "मंगल",
-            "शुक्र"
-          ],
-          "ans": 1,
-          "subject": "Science"
-        },
-        {
-          "q": "Which of the following is a vector quantity?",
-          "q_hi": "निम्नलिखित में से कौन सी सदिश राशि है?",
-          "opts": [
-            "Speed",
-            "Distance",
-            "Velocity",
-            "Time"
-          ],
-          "opts_hi": [
-            "चाल",
-            "दूरी",
-            "वेग",
-            "समय"
-          ],
-          "ans": 2,
-          "subject": "Science"
-        },
-        {
-          "q": "Which blood cells are responsible for producing antibodies?",
-          "q_hi": "एंटीबॉडी का उत्पादन करने के लिए कौन सी रक्त कोशिकाएँ जिम्मेदार हैं?",
-          "opts": [
-            "Red Blood Cells",
-            "Platelets",
-            "White Blood Cells (B-Lymphocytes)",
-            "Plasma"
-          ],
-          "opts_hi": [
-            "लाल रक्त कोशिकाएँ",
-            "प्लेटलेट्स",
-            "श्वेत रक्त कोशिकाएँ (B-लिम्फोसाइट्स)",
-            "प्लाज्मा"
-          ],
-          "ans": 2,
-          "subject": "Science"
-        },
-        {
-          "q": "Which of the following is a noble gas?",
-          "q_hi": "निम्नलिखित में से कौन सी उत्कृष्ट गैस है?",
-          "opts": [
-            "Hydrogen",
-            "Oxygen",
-            "Nitrogen",
-            "Neon"
-          ],
-          "opts_hi": [
-            "हाइड्रोजन",
-            "ऑक्सीजन",
-            "नाइट्रोजन",
-            "नियॉन"
-          ],
-          "ans": 3,
-          "subject": "Science"
-        },
-        {
-          "q": "Which type of lens is used to correct hypermetropia (long-sightedness)?",
-          "q_hi": "हाइपरमेट्रोपिया (दूरदर्शिता) को ठीक करने के लिए किस प्रकार के लेंस का उपयोग किया जाता है?",
-          "opts": [
-            "Concave lens",
-            "Convex lens",
-            "Bifocal lens",
-            "Cylindrical lens"
-          ],
-          "opts_hi": [
-            "अवतल लेंस",
-            "उत्तल लेंस",
-            "द्विफोकल लेंस",
-            "बेलनाकार लेंस"
-          ],
-          "ans": 1,
-          "subject": "Science"
-        },
-        {
-          "q": "The genetic material in humans is:",
-          "q_hi": "मनुष्यों में आनुवंशिक पदार्थ है:",
-          "opts": [
-            "RNA",
-            "DNA",
-            "Protein",
-            "Carbohydrate"
-          ],
-          "opts_hi": [
-            "RNA",
-            "DNA",
-            "प्रोटीन",
-            "कार्बोहाइड्रेट"
-          ],
-          "ans": 1,
-          "subject": "Science"
-        },
-        {
-          "q": "Agni-5 is which type of missile?",
-          "q_hi": "अग्नि-5 किस प्रकार की मिसाइल है?",
-          "opts": [
-            "Short-range ballistic missile",
-            "Medium-range ballistic missile",
-            "Intercontinental ballistic missile (ICBM)",
-            "Cruise missile"
-          ],
-          "opts_hi": [
-            "कम दूरी की बैलिस्टिक मिसाइल",
-            "मध्यम दूरी की बैलिस्टिक मिसाइल",
-            "अंतरमहाद्वीपीय बैलिस्टिक मिसाइल (ICBM)",
-            "क्रूज मिसाइल"
-          ],
-          "ans": 2,
-          "subject": "Science"
-        },
-        {
-          "q": "The speed of light in a vacuum is approximately:",
-          "q_hi": "निर्वात में प्रकाश की गति लगभग है:",
-          "opts": [
-            "3 × 10⁵ km/s",
-            "3 × 10⁸ m/s",
-            "3 × 10⁶ km/s",
-            "3 × 10⁹ m/s"
-          ],
-          "opts_hi": [
-            "3 × 10⁵ किमी/सेकंड",
-            "3 × 10⁸ मी/सेकंड",
-            "3 × 10⁶ किमी/सेकंड",
-            "3 × 10⁹ मी/सेकंड"
-          ],
-          "ans": 1,
-          "subject": "Science"
-        },
-        {
-          "q": "The structural and functional unit of the nervous system is:",
-          "q_hi": "तंत्रिका तंत्र की संरचनात्मक और कार्यात्मक इकाई है:",
-          "opts": [
-            "Neuron",
-            "Nephron",
-            "Axon",
-            "Myelin sheath"
-          ],
-          "opts_hi": [
-            "न्यूरॉन",
-            "नेफ्रॉन",
-            "एक्सॉन",
-            "माइलिन आवरण"
-          ],
+          "q": "Which of the following is the largest producer of aluminum in India?",
+          "q_hi": "भारत में एल्यूमीनियम का सबसे बड़ा उत्पादक राज्य निम्नलिखित में से कौन सा है?",
+          "opts": ["Odisha", "Jharkhand", "Chhattisgarh", "West Bengal"],
+          "opts_hi": ["ओडिशा", "झारखंड", "छत्तीसगढ़", "पश्चिम बंगाल"],
           "ans": 0,
-          "subject": "Science"
+          "subject": "Geography - Indian Geography"
         },
         {
-          "q": "Which of the following is India's second lunar mission?",
-          "q_hi": "निम्नलिखित में से कौन सा भारत का दूसरा चंद्र मिशन है?",
-          "opts": [
-            "Chandrayaan-1",
-            "Chandrayaan-2",
-            "Chandrayaan-3",
-            "Mangalyaan"
-          ],
-          "opts_hi": [
-            "चंद्रयान-1",
-            "चंद्रयान-2",
-            "चंद्रयान-3",
-            "मंगलयान"
-          ],
-          "ans": 1,
-          "subject": "Science"
-        }
-      ]
-    },
-    {
-      "id": "upsc_prelims_16",
-      "title": "UPSC Prelims Mock Test 16",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "In a certain code, \"MOBILE\" is written as \"QSMFPI\" and \"LAPTOP\" is written as \"PETSSD\". How is \"TABLET\" written in that code?",
-          "q_hi": "एक निश्चित कूट में, \"MOBILE\" को \"QSMFPI\" लिखा जाता है और \"LAPTOP\" को \"PETSSD\" लिखा जाता है। उस कूट में \"TABLET\" कैसे लिखा जाएगा?",
-          "opts": [
-            "XEFPIX",
-            "XFFPIX",
-            "XEFPJX",
-            "XFFPJX"
-          ],
-          "opts_hi": [
-            "XEFPIX",
-            "XFFPIX",
-            "XEFPJX",
-            "XFFPJX"
-          ],
+          "q": "Which of the following is the largest producer of copper in India?",
+          "q_hi": "भारत में तांबा का सबसे बड़ा उत्पादक राज्य निम्नलिखित में से कौन सा है?",
+          "opts": ["Rajasthan", "Jharkhand", "Madhya Pradesh", "Andhra Pradesh"],
+          "opts_hi": ["राजस्थान", "झारखंड", "मध्य प्रदेश", "आंध्र प्रदेश"],
           "ans": 0,
-          "subject": "Reasoning"
-        }
-      ]
-    },
-    {
-      "id": "upsc_prelims_17",
-      "title": "UPSC Prelims Mock Test 17",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
+          "subject": "Geography - Indian Geography"
+        },
         {
-          "q": "What will come in place of question mark (?) in the following series? 1, 8, 27, 64, 125, ?",
-          "q_hi": "निम्नलिखित श्रृंखला में प्रश्न चिह्न (?) के स्थान पर क्या आएगा? 1, 8, 27, 64, 125, ?",
-          "opts": [
-            "216",
-            "225",
-            "200",
-            "180"
-          ],
-          "opts_hi": [
-            "216",
-            "225",
-            "200",
-            "180"
-          ],
+          "q": "Which of the following is the largest producer of gold in India?",
+          "q_hi": "भारत में सोने का सबसे बड़ा उत्पादक राज्य निम्नलिखित में से कौन सा है?",
+          "opts": ["Karnataka", "Andhra Pradesh", "Rajasthan", "West Bengal"],
+          "opts_hi": ["कर्नाटक", "आंध्र प्रदेश", "राजस्थान", "पश्चिम बंगाल"],
           "ans": 0,
-          "subject": "Reasoning"
-        }
-      ]
-    },
-    {
-      "id": "upsc_prelims_18",
-      "title": "UPSC Prelims Mock Test 18",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
+          "subject": "Geography - Indian Geography"
+        },
         {
-          "q": "Select the option that is related to the third term in the same way as the second term is related to the first term. Doctor : Hospital :: Teacher : ?",
-          "q_hi": "उस विकल्प का चयन करें जो तीसरे पद से उसी प्रकार संबंधित है जैसे दूसरा पद पहले पद से संबंधित है। Doctor : Hospital :: Teacher : ?",
-          "opts": [
-            "School",
-            "College",
-            "University",
-            "Library"
-          ],
-          "opts_hi": [
-            "स्कूल",
-            "कॉलेज",
-            "विश्वविद्यालय",
-            "पुस्तकालय"
-          ],
+          "q": "Which of the following is the largest producer of silver in India?",
+          "q_hi": "भारत में चांदी का सबसे बड़ा उत्पादक राज्य निम्नलिखित में से कौन सा है?",
+          "opts": ["Rajasthan", "Andhra Pradesh", "Karnataka", "West Bengal"],
+          "opts_hi": ["राजस्थान", "आंध्र प्रदेश", "कर्नाटक", "पश्चिम बंगाल"],
           "ans": 0,
-          "subject": "Reasoning"
-        },
-        {
-          "q": "Which of the following correctly represents the relationship: Birds, Penguins, Animals?",
-          "q_hi": "निम्नलिखित में से कौन सा संबंध को सही दर्शाता है: पक्षी, पेंगुइन, जानवर?",
-          "opts": [
-            "A circle inside another circle inside a third circle",
-            "Two circles inside a third",
-            "Three separate circles",
-            "Two separate circles"
-          ],
-          "opts_hi": [
-            "एक वृत्त दूसरे वृत्त के अंदर और तीसरे वृत्त के अंदर",
-            "दो वृत्त तीसरे के अंदर",
-            "तीन अलग-अलग वृत्त",
-            "दो अलग-अलग वृत्त"
-          ],
-          "ans": 0,
-          "subject": "Reasoning"
-        },
-        {
-          "q": "Which letter is 5th to the left of the 10th letter from the left in the English alphabet?",
-          "q_hi": "अंग्रेजी वर्णमाला में बाएँ से 10वें अक्षर के बाएँ पाँचवाँ अक्षर कौन सा है?",
-          "opts": [
-            "E",
-            "F",
-            "D",
-            "C"
-          ],
-          "opts_hi": [
-            "E",
-            "F",
-            "D",
-            "C"
-          ],
-          "ans": 0,
-          "subject": "Reasoning"
-        }
-      ]
-    },
-    {
-      "id": "upsc_prelims_19",
-      "title": "UPSC Prelims Mock Test 19",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Which of the following correctly represents the relationship: Men, Doctors, Engineers?",
-          "q_hi": "निम्नलिखित में से कौन सा संबंध को सही दर्शाता है: पुरुष, डॉक्टर, इंजीनियर?",
-          "opts": [
-            "Three overlapping circles",
-            "Three separate circles",
-            "Two circles inside a third",
-            "One circle inside another"
-          ],
-          "opts_hi": [
-            "तीन प्रतिच्छेद करते वृत्त",
-            "तीन अलग-अलग वृत्त",
-            "दो वृत्त तीसरे के अंदर",
-            "एक वृत्त दूसरे के अंदर"
-          ],
-          "ans": 0,
-          "subject": "Reasoning"
-        },
-        {
-          "q": "Which is similar to \"Pen : Writer\"?",
-          "q_hi": "Pen : Writer के समान कौन सा है?",
-          "opts": [
-            "Book : Reader",
-            "Brush : Painter",
-            "Chisel : Sculptor",
-            "All of the above"
-          ],
-          "opts_hi": [
-            "पुस्तक : पाठक",
-            "ब्रश : चित्रकार",
-            "छेनी : मूर्तिकार",
-            "उपरोक्त सभी"
-          ],
-          "ans": 3,
-          "subject": "Reasoning"
-        }
-      ]
-    },
-    {
-      "id": "upsc_prelims_20",
-      "title": "UPSC Prelims Mock Test 20",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "What is the angle between the hour and minute hands of a clock at 2:15?",
-          "q_hi": "2:15 पर घड़ी की घंटे और मिनट की सुइयों के बीच का कोण क्या है?",
-          "opts": [
-            "22.5°",
-            "30°",
-            "37.5°",
-            "45°"
-          ],
-          "opts_hi": [
-            "22.5°",
-            "30°",
-            "37.5°",
-            "45°"
-          ],
-          "ans": 0,
-          "subject": "Reasoning"
-        },
-        {
-          "q": "Which of the following is the mirror image of the word \"EVOLUTION\"?",
-          "q_hi": "EVOLUTION शब्द का दर्पण प्रतिबिंब निम्नलिखित में से कौन सा है?",
-          "opts": [
-            "NOITULOVE",
-            "NOITULOVE",
-            "NOITULOVE",
-            "NOITULOVE"
-          ],
-          "opts_hi": [
-            "NOITULOVE",
-            "NOITULOVE",
-            "NOITULOVE",
-            "NOITULOVE"
-          ],
-          "ans": 0,
-          "subject": "Reasoning"
-        }
-      ]
-    },
-    {
-      "id": "upsc_prelims_21",
-      "title": "UPSC Prelims Mock Test 21",
-      "duration": 11,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Which Article of the Constitution abolishes Untouchability?",
-          "q_hi": "संविधान का कौन सा अनुच्छेद अस्पृश्यता को समाप्त करता है?",
-          "opts": [
-            "Article 14",
-            "Article 15",
-            "Article 17",
-            "Article 21"
-          ],
-          "opts_hi": [
-            "अनुच्छेद 14",
-            "अनुच्छेद 15",
-            "अनुच्छेद 17",
-            "अनुच्छेद 21"
-          ],
-          "ans": 2,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Who was the first President of India?",
-          "q_hi": "भारत के पहले राष्ट्रपति कौन थे?",
-          "opts": [
-            "Dr. Rajendra Prasad",
-            "Dr. S. Radhakrishnan",
-            "Nehru",
-            "Patel"
-          ],
-          "opts_hi": [
-            "डॉ. राजेंद्र प्रसाद",
-            "डॉ. एस. राधाकृष्णन",
-            "नेहरू",
-            "पटेल"
-          ],
-          "ans": 0,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Which is the hardest natural substance on Earth?",
-          "q_hi": "पृथ्वी पर सबसे कठोर प्राकृतिक पदार्थ कौन सा है?",
-          "opts": [
-            "Graphite",
-            "Gold",
-            "Diamond",
-            "Iron"
-          ],
-          "opts_hi": [
-            "ग्रेफाइट",
-            "सोना",
-            "हीरा",
-            "लोहा"
-          ],
-          "ans": 2,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "What is the SI unit of Force?",
-          "q_hi": "बल की SI इकाई क्या है?",
-          "opts": [
-            "Joule",
-            "Newton",
-            "Watt",
-            "Pascal"
-          ],
-          "opts_hi": [
-            "जूल",
-            "न्यूटन",
-            "वाट",
-            "पास्कल"
-          ],
-          "ans": 1,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "What is the chemical name of common salt?",
-          "q_hi": "सामान्य नमक का रासायनिक नाम क्या है?",
-          "opts": [
-            "Sodium Carbonate",
-            "Sodium Chloride",
-            "Sodium Bicarbonate",
-            "Sodium Hydroxide"
-          ],
-          "opts_hi": [
-            "सोडियम कार्बोनेट",
-            "सोडियम क्लोराइड",
-            "सोडियम बाइकार्बोनेट",
-            "सोडियम हाइड्रॉक्साइड"
-          ],
-          "ans": 1,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Which is the southernmost point of India?",
-          "q_hi": "भारत का सबसे दक्षिणी बिंदु कौन सा है?",
-          "opts": [
-            "Kanyakumari",
-            "Indira Point",
-            "Kochi",
-            "Thiruvananthapuram"
-          ],
-          "opts_hi": [
-            "कन्याकुमारी",
-            "इंदिरा पॉइंट",
-            "कोच्चि",
-            "तिरुवनंतपुरम"
-          ],
-          "ans": 1,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Which is the largest desert in India?",
-          "q_hi": "भारत का सबसे बड़ा मरुस्थल कौन सा है?",
-          "opts": [
-            "Thar Desert",
-            "Rann of Kutch",
-            "Sahara Desert",
-            "Gobi Desert"
-          ],
-          "opts_hi": [
-            "थार मरुस्थल",
-            "कच्छ का रण",
-            "सहारा मरुस्थल",
-            "गोबी मरुस्थल"
-          ],
-          "ans": 0,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Who is the current Education Minister of India?",
-          "q_hi": "भारत के वर्तमान शिक्षा मंत्री कौन हैं?",
-          "opts": [
-            "Dharmendra Pradhan",
-            "Ramesh Pokhriyal",
-            "Smriti Irani",
-            "Prakash Javadekar"
-          ],
-          "opts_hi": [
-            "धर्मेंद्र प्रधान",
-            "रमेश पोखरियाल",
-            "स्मृति ईरानी",
-            "प्रकाश जावड़ेकर"
-          ],
-          "ans": 0,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Which is India's first bullet train project route?",
-          "q_hi": "भारत का पहला बुलेट ट्रेन परियोजना मार्ग कौन सा है?",
-          "opts": [
-            "Delhi - Agra",
-            "Mumbai - Ahmedabad",
-            "Chennai - Bangalore",
-            "Kolkata - Patna"
-          ],
-          "opts_hi": [
-            "दिल्ली - आगरा",
-            "मुंबई - अहमदाबाद",
-            "चेन्नई - बैंगलोर",
-            "कोलकाता - पटना"
-          ],
-          "ans": 1,
-          "subject": "General Knowledge"
-        }
-      ]
-    },
-    {
-      "id": "upsc_prelims_22",
-      "title": "UPSC Prelims Mock Test 22",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Who drafted the \"Gandhian Plan\" for the economy in 1944?",
-          "q_hi": "1944 में अर्थव्यवस्था के लिए \"गांधीवादी योजना\" का मसौदा किसने तैयार किया?",
-          "opts": [
-            "Jayaprakash Narayan",
-            "Shriman Narayan Agarwal",
-            "M. Visvesvaraya",
-            "Subhash Chandra Bose"
-          ],
-          "opts_hi": [
-            "जयप्रकाश नारायण",
-            "श्रीमान नारायण अग्रवाल",
-            "एम. विश्वेश्वरैया",
-            "सुभाष चंद्र बोस"
-          ],
-          "ans": 1,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "What is the maximum number of members in the Rajya Sabha?",
-          "q_hi": "राज्य सभा में अधिकतम सदस्यों की संख्या क्या है?",
-          "opts": [
-            "238",
-            "245",
-            "250",
-            "252"
-          ],
-          "opts_hi": [
-            "238",
-            "245",
-            "250",
-            "252"
-          ],
-          "ans": 2,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "What is the full form of SONAR?",
-          "q_hi": "SONAR का पूर्ण रूप क्या है?",
-          "opts": [
-            "Sound Navigation and Ranging",
-            "Sound Nautical and Radar",
-            "Signal Navigation and Radar",
-            "Sound Observation and Ranging"
-          ],
-          "opts_hi": [
-            "साउंड नेविगेशन एंड रेंजिंग",
-            "साउंड नॉटिकल एंड रडार",
-            "सिग्नल नेविगेशन एंड रडार",
-            "साउंड ऑब्जर्वेशन एंड रेंजिंग"
-          ],
-          "ans": 0,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "In which year was the Asian Development Bank (ADB) established?",
-          "q_hi": "एशियाई विकास बैंक (ADB) की स्थापना किस वर्ष हुई थी?",
-          "opts": [
-            "1956",
-            "1966",
-            "1976",
-            "1986"
-          ],
-          "opts_hi": [
-            "1956",
-            "1966",
-            "1976",
-            "1986"
-          ],
-          "ans": 1,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "What is the new target for Lakhpati Didis set by PM Modi in July 2026?",
-          "q_hi": "जुलाई 2026 में पीएम मोदी द्वारा लखपति दीदियों का नया लक्ष्य क्या रखा गया है?",
-          "opts": [
-            "3 crore",
-            "4 crore",
-            "6 crore",
-            "10 crore"
-          ],
-          "opts_hi": [
-            "3 करोड़",
-            "4 करोड़",
-            "6 करोड़",
-            "10 करोड़"
-          ],
-          "ans": 2,
-          "subject": "Current Affairs"
-        },
-        {
-          "q": "Which submarine cable project connecting India to Southeast Asia was announced by Microsoft and Lightstorm?",
-          "q_hi": "Microsoft और Lightstorm द्वारा भारत को दक्षिण-पूर्व एशिया से जोड़ने वाली किस पनडुब्बी केबल परियोजना की घोषणा की गई?",
-          "opts": [
-            "I-2SEA",
-            "MERA",
-            "SEA-ME-WE 6",
-            "Unity"
-          ],
-          "opts_hi": [
-            "I-2SEA",
-            "MERA",
-            "SEA-ME-WE 6",
-            "Unity"
-          ],
-          "ans": 0,
-          "subject": "Current Affairs"
-        },
-        {
-          "q": "Which Indian business leaders were appointed as founding members of the ITU's AI for Good Global Commission?",
-          "q_hi": "ITU के AI for Good Global Commission के संस्थापक सदस्यों के रूप में किन भारतीय व्यापार नेताओं को नियुक्त किया गया?",
-          "opts": [
-            "Mukesh Ambani, Sunil Bharti Mittal, Lakshmi N. Mittal",
-            "Ratan Tata, Azim Premji, Narayana Murthy",
-            "Anand Mahindra, Kumar Mangalam Birla, Adi Godrej",
-            "Gautam Adani, Rajan Anandan, Nandan Nilekani"
-          ],
-          "opts_hi": [
-            "मुकेश अंबानी, सुनील भारती मित्तल, लक्ष्मी एन. मित्तल",
-            "रतन टाटा, अजीम प्रेमजी, नारायण मूर्ति",
-            "आनंद महिंद्रा, कुमार मंगलम बिड़ला, अदि गोदरेज",
-            "गौतम अडानी, राजन अनंदन, नंदन नीलेकणी"
-          ],
-          "ans": 0,
-          "subject": "Current Affairs"
-        },
-        {
-          "q": "Which Indian digital payment system is being introduced in Israel?",
-          "q_hi": "कौन सी भारतीय डिजिटल भुगतान प्रणाली इज़राइल में शुरू की जा रही है?",
-          "opts": [
-            "RuPay",
-            "UPI (Unified Payments Interface)",
-            "BHIM",
-            "IMPS"
-          ],
-          "opts_hi": [
-            "रुपे",
-            "UPI (यूनिफाइड पेमेंट्स इंटरफेस)",
-            "भीम",
-            "IMPS"
-          ],
-          "ans": 1,
-          "subject": "Current Affairs"
-        }
-      ]
-    },
-    {
-      "id": "upsc_prelims_23",
-      "title": "UPSC Prelims Mock Test 23",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "How many Fundamental Rights are there in the Indian Constitution at present?",
-          "q_hi": "भारतीय संविधान में वर्तमान में कितने मौलिक अधिकार हैं?",
-          "opts": [
-            "7",
-            "8",
-            "6",
-            "5"
-          ],
-          "opts_hi": [
-            "7",
-            "8",
-            "6",
-            "5"
-          ],
-          "ans": 2,
-          "subject": "Polity"
-        },
-        {
-          "q": "Article 370 was related to which state?",
-          "q_hi": "अनुच्छेद 370 किस राज्य से संबंधित था?",
-          "opts": [
-            "Jammu & Kashmir",
-            "Himachal Pradesh",
-            "Uttarakhand",
-            "Sikkim"
-          ],
-          "opts_hi": [
-            "जम्मू-कश्मीर",
-            "हिमाचल प्रदेश",
-            "उत्तराखंड",
-            "सिक्किम"
-          ],
-          "ans": 0,
-          "subject": "Polity"
-        },
-        {
-          "q": "Who gave the slogan “Inquilab Zindabad”?",
-          "q_hi": "“इंकलाब जिंदाबाद” का नारा किसने दिया?",
-          "opts": [
-            "Bhagat Singh",
-            "Chandrashekhar Azad",
-            "Subhas Chandra Bose",
-            "Lala Lajpat Rai"
-          ],
-          "opts_hi": [
-            "भगत सिंह",
-            "चंद्रशेखर आजाद",
-            "सुभाष चंद्र बोस",
-            "लाला लाजपत राय"
-          ],
-          "ans": 0,
-          "subject": "History"
-        },
-        {
-          "q": "Which protocol deals with ozone layer protection?",
-          "q_hi": "ओजोन परत संरक्षण से संबंधित कौन सा प्रोटोकॉल है?",
-          "opts": [
-            "Kyoto Protocol",
-            "Montreal Protocol",
-            "Paris Agreement",
-            "Ramsar Convention"
-          ],
-          "opts_hi": [
-            "क्योटो प्रोटोकॉल",
-            "मॉन्ट्रियल प्रोटोकॉल",
-            "पेरिस समझौता",
-            "रामसर कन्वेंशन"
-          ],
-          "ans": 1,
-          "subject": "Environment"
-        }
-      ]
-    },
-    {
-      "id": "upsc_prelims_24",
-      "title": "UPSC Prelims Mock Test 24",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Who was the first Governor-General of Independent India?",
-          "q_hi": "स्वतंत्र भारत के पहले गवर्नर-जनरल कौन थे?",
-          "opts": [
-            "Lord Mountbatten",
-            "C. Rajagopalachari",
-            "Lord Wavell",
-            "Jawaharlal Nehru"
-          ],
-          "opts_hi": [
-            "लॉर्ड माउंटबेटन",
-            "सी. राजगोपालाचारी",
-            "लॉर्ड वेवेल",
-            "जवाहरलाल नेहरू"
-          ],
-          "ans": 0,
-          "subject": "History"
-        },
-        {
-          "q": "Which country hosted COP26?",
-          "q_hi": "COP26 की मेजबानी किस देश ने की?",
-          "opts": [
-            "France",
-            "UK",
-            "India",
-            "Germany"
-          ],
-          "opts_hi": [
-            "फ्रांस",
-            "यूके",
-            "भारत",
-            "जर्मनी"
-          ],
-          "ans": 1,
-          "subject": "Environment"
-        },
-        {
-          "q": "Article 1 of the Indian Constitution describes India as?",
-          "q_hi": "भारतीय संविधान का अनुच्छेद 1 भारत को क्या कहता है?",
-          "opts": [
-            "Union of States",
-            "Federation of States",
-            "Union of Territories",
-            "Republic"
-          ],
-          "opts_hi": [
-            "स्टेट्स का यूनियन",
-            "फेडरेशन ऑफ स्टेट्स",
-            "यूनियन ऑफ टेरिटरीज",
-            "रिपब्लिक"
-          ],
-          "ans": 0,
-          "subject": "Polity"
-        }
-      ]
-    },
-    {
-      "id": "upsc_prelims_25",
-      "title": "UPSC Prelims Mock Test 25",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Who was known as the 'Iron Man of India'?",
-          "q_hi": "भारत के लौह पुरुष' किसे कहा जाता है?",
-          "opts": [
-            "Mahatma Gandhi",
-            "Sardar Vallabhbhai Patel",
-            "Subhas Chandra Bose",
-            "B.R. Ambedkar"
-          ],
-          "opts_hi": [
-            "महात्मा गांधी",
-            "सरदार वल्लभभाई पटेल",
-            "सुभाष चंद्र बोस",
-            "बी.आर. आंबेडकर"
-          ],
-          "ans": 1,
-          "subject": "History"
-        },
-        {
-          "q": "Which national park is famous for one-horned rhinoceros?",
-          "q_hi": "एक सींग वाले गैंडे के लिए कौन सा राष्ट्रीय उद्यान प्रसिद्ध है?",
-          "opts": [
-            "Kaziranga",
-            "Sundarbans",
-            "Gir",
-            "Bandipur"
-          ],
-          "opts_hi": [
-            "काजीरंगा",
-            "सुंदरबन",
-            "गिर",
-            "बांदीपुर"
-          ],
-          "ans": 0,
-          "subject": "Environment"
-        },
-        {
-          "q": "Which Article provides for the Right to Constitutional Remedies?",
-          "q_hi": "संवैधानिक उपचार का अधिकार किस अनुच्छेद में है?",
-          "opts": [
-            "Article 19",
-            "Article 21",
-            "Article 32",
-            "Article 226"
-          ],
-          "opts_hi": [
-            "अनुच्छेद 19",
-            "अनुच्छेद 21",
-            "अनुच्छेद 32",
-            "अनुच्छेद 226"
-          ],
-          "ans": 2,
-          "subject": "Polity"
-        },
-        {
-          "q": "Which is the highest mountain peak in India?",
-          "q_hi": "भारत की सबसे ऊंची पर्वत चोटी कौन सी है?",
-          "opts": [
-            "K2",
-            "Kanchenjunga",
-            "Mount Everest",
-            "Nanda Devi"
-          ],
-          "opts_hi": [
-            "के2",
-            "कंचनजंगा",
-            "माउंट एवरेस्ट",
-            "नंदा देवी"
-          ],
-          "ans": 1,
-          "subject": "Geography"
-        },
-        {
-          "q": "Which amendment is known as the Mini Constitution?",
-          "q_hi": "मिनी संविधान' किस संशोधन को कहा जाता है?",
-          "opts": [
-            "42nd",
-            "44th",
-            "73rd",
-            "86th"
-          ],
-          "opts_hi": [
-            "42वाँ",
-            "44वाँ",
-            "73वाँ",
-            "86वाँ"
-          ],
-          "ans": 0,
-          "subject": "Polity"
-        },
-        {
-          "q": "Which Article prohibits forced labour?",
-          "q_hi": "बलात् श्रम को किस अनुच्छेद में प्रतिबंधित किया गया है?",
-          "opts": [
-            "Article 23",
-            "Article 24",
-            "Article 21",
-            "Article 19"
-          ],
-          "opts_hi": [
-            "अनुच्छेद 23",
-            "अनुच्छेद 24",
-            "अनुच्छेद 21",
-            "अनुच्छेद 19"
-          ],
-          "ans": 0,
-          "subject": "Polity"
-        },
-        {
-          "q": "Which river is called the 'Ganga of the South'?",
-          "q_hi": "दक्षिण की गंगा' किस नदी को कहा जाता है?",
-          "opts": [
-            "Godavari",
-            "Kaveri",
-            "Krishna",
-            "Tungabhadra"
-          ],
-          "opts_hi": [
-            "गोदावरी",
-            "कावेरी",
-            "कृष्णा",
-            "तुंगभद्रा"
-          ],
-          "ans": 0,
-          "subject": "Geography"
-        },
-        {
-          "q": "Which Article prohibits child labour?",
-          "q_hi": "बाल श्रम को किस अनुच्छेद में प्रतिबंधित किया गया है?",
-          "opts": [
-            "Article 23",
-            "Article 24",
-            "Article 21",
-            "Article 17"
-          ],
-          "opts_hi": [
-            "अनुच्छेद 23",
-            "अनुच्छेद 24",
-            "अनुच्छेद 21",
-            "अनुच्छेद 17"
-          ],
-          "ans": 1,
-          "subject": "Polity"
-        }
-      ]
-    },
-    {
-      "id": "upsc_prelims_26",
-      "title": "UPSC Prelims Mock Test 26",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Who established the Servants of India Society?",
-          "q_hi": "भारत सेवक समाज की स्थापना किसने की?",
-          "opts": [
-            "Gopal Krishna Gokhale",
-            "Bal Gangadhar Tilak",
-            "Lala Lajpat Rai",
-            "Dadabhai Naoroji"
-          ],
-          "opts_hi": [
-            "गोपाल कृष्ण गोखले",
-            "बाल गंगाधर तिलक",
-            "लाला लाजपत राय",
-            "दादाभाई नौरोजी"
-          ],
-          "ans": 0,
-          "subject": "History"
-        },
-        {
-          "q": "Project Tiger was launched in which year?",
-          "q_hi": "प्रोजेक्ट टाइगर किस वर्ष शुरू किया गया?",
-          "opts": [
-            "1972",
-            "1973",
-            "1980",
-            "1992"
-          ],
-          "opts_hi": [
-            "1972",
-            "1973",
-            "1980",
-            "1992"
-          ],
-          "ans": 1,
-          "subject": "Environment"
-        },
-        {
-          "q": "Which Article guarantees freedom of speech and expression?",
-          "q_hi": "वाक् स्वतंत्रता और अभिव्यक्ति की स्वतंत्रता किस अनुच्छेद में है?",
-          "opts": [
-            "Article 19",
-            "Article 21",
-            "Article 14",
-            "Article 25"
-          ],
-          "opts_hi": [
-            "अनुच्छेद 19",
-            "अनुच्छेद 21",
-            "अनुच्छेद 14",
-            "अनुच्छेद 25"
-          ],
-          "ans": 0,
-          "subject": "Polity"
-        }
-      ]
-    },
-    {
-      "id": "upsc_prelims_27",
-      "title": "UPSC Prelims Mock Test 27",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Which state is the largest producer of coffee in India?",
-          "q_hi": "भारत में कॉफी का सबसे बड़ा उत्पादक राज्य कौन सा है?",
-          "opts": [
-            "Karnataka",
-            "Kerala",
-            "Tamil Nadu",
-            "Andhra Pradesh"
-          ],
-          "opts_hi": [
-            "कर्नाटक",
-            "केरल",
-            "तमिलनाडु",
-            "आंध्र प्रदेश"
-          ],
-          "ans": 0,
-          "subject": "Geography"
-        }
-      ]
-    },
-    {
-      "id": "upsc_prelims_28",
-      "title": "UPSC Prelims Mock Test 28",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Which theory explains the formation of continents and oceans through plate movements?",
-          "q_hi": "महाद्वीपों और महासागरों के निर्माण की व्याख्या कौन सा सिद्धांत करता है?",
-          "opts": [
-            "Continental Drift Theory",
-            "Plate Tectonics Theory",
-            "Seafloor Spreading Theory",
-            "None"
-          ],
-          "opts_hi": [
-            "महाद्वीपीय बहाव सिद्धांत",
-            "प्लेट टेक्टॉनिक्स सिद्धांत",
-            "समुद्री तल फैलाव सिद्धांत",
-            "कोई नहीं"
-          ],
-          "ans": 1,
-          "subject": "Geography"
-        },
-        {
-          "q": "Which current is responsible for the mild climate of Western Europe?",
-          "q_hi": "पश्चिमी यूरोप के सौम्य जलवायु के लिए कौन सा धारा जिम्मेदार है?",
-          "opts": [
-            "Gulf Stream",
-            "California Current",
-            "Kuroshio Current",
-            "Canary Current"
-          ],
-          "opts_hi": [
-            "गल्फ स्ट्रीम",
-            "कैलिफोर्निया धारा",
-            "कुरोशियो धारा",
-            "कैनरी धारा"
-          ],
-          "ans": 0,
-          "subject": "Geography"
-        },
-        {
-          "q": "Which state has the highest biodiversity in India?",
-          "q_hi": "भारत में सबसे अधिक जैव विविधता वाला राज्य कौन सा है?",
-          "opts": [
-            "Meghalaya",
-            "Arunachal Pradesh",
-            "West Bengal",
-            "Kerala"
-          ],
-          "opts_hi": [
-            "मेघालय",
-            "अरुणाचल प्रदेश",
-            "पश्चिम बंगाल",
-            "केरल"
-          ],
-          "ans": 1,
-          "subject": "Geography"
-        }
-      ]
-    },
-    {
-      "id": "upsc_prelims_29",
-      "title": "UPSC Prelims Mock Test 29",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "What is the official slogan of FIFA World Cup 2026?",
-          "q_hi": "2026 FIFA विश्व कप का आधिकारिक नारा क्या है?",
-          "opts": [
-            "We Are One",
-            "One Love",
-            "Unite the World",
-            "Live the Dream"
-          ],
-          "opts_hi": [
-            "वी आर वन",
-            "वन लव",
-            "यूनाइट द वर्ल्ड",
-            "लाइव द ड्रीम"
-          ],
-          "ans": 0,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Which is the first expansion of the World Cup to 48 teams?",
-          "q_hi": "विश्व कप को 48 टीमों तक बढ़ाने का यह पहला अवसर है?",
-          "opts": [
-            "2022",
-            "2026",
-            "2030",
-            "2018"
-          ],
-          "opts_hi": [
-            "2022",
-            "2026",
-            "2030",
-            "2018"
-          ],
-          "ans": 1,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "What is the expected number of spectators for FIFA World Cup 2026?",
-          "q_hi": "2026 FIFA विश्व कप में कुल दर्शकों की अनुमानित संख्या कितनी है?",
-          "opts": [
-            "Over 5 million",
-            "Over 3 million",
-            "Over 4 million",
-            "Over 6 million"
-          ],
-          "opts_hi": [
-            "5 मिलियन से अधिक",
-            "3 मिलियन से अधिक",
-            "4 मिलियन से अधिक",
-            "6 मिलियन से अधिक"
-          ],
-          "ans": 0,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Which is the first World Cup to be hosted in three countries?",
-          "q_hi": "तीन देशों में आयोजित होने वाला पहला विश्व कप कौन सा है?",
-          "opts": [
-            "2026",
-            "2030",
-            "2022",
-            "2018"
-          ],
-          "opts_hi": [
-            "2026",
-            "2030",
-            "2022",
-            "2018"
-          ],
-          "ans": 0,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "What is the total number of venues in the USA for FIFA World Cup 2026?",
-          "q_hi": "2026 FIFA विश्व कप के लिए यूएसए में कितने वेन्यू हैं?",
-          "opts": [
-            "11",
-            "8",
-            "6",
-            "10"
-          ],
-          "opts_hi": [
-            "11",
-            "8",
-            "6",
-            "10"
-          ],
-          "ans": 0,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Which is the first World Cup to be played across three countries?",
-          "q_hi": "तीन देशों में खेला जाने वाला पहला विश्व कप कौन सा है?",
-          "opts": [
-            "2026",
-            "2030",
-            "2022",
-            "2014"
-          ],
-          "opts_hi": [
-            "2026",
-            "2030",
-            "2022",
-            "2014"
-          ],
-          "ans": 0,
-          "subject": "General Knowledge"
-        }
-      ]
-    },
-    {
-      "id": "upsc_prelims_30",
-      "title": "UPSC Prelims Mock Test 30",
-      "duration": 30,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "How many delimitation Commissions have been constituted by the Government of India till December 2023?",
-          "q_hi": "दिसंबर 2023 तक भारत सरकार द्वारा कितने परिसीमन आयोगों का गठन किया गया है?",
-          "opts": [
-            "One",
-            "Two",
-            "Three",
-            "Four"
-          ],
-          "opts_hi": [
-            "एक",
-            "दो",
-            "तीन",
-            "चार"
-          ],
-          "ans": 3,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "The Constitution (71st Amendment) Act, 1992 amends the Eighth Schedule to include which of the following languages?",
-          "q_hi": "संविधान (71वां संशोधन) अधिनियम, 1992, आठवीं अनुसूची में निम्नलिखित में से किन भाषाओं को शामिल करता है?",
-          "opts": [
-            "Konkani, Manipuri and Nepali",
-            "Konkani, Manipuri and Maithili",
-            "Konkani, Nepali and Maithili",
-            "Manipuri, Nepali and Maithili"
-          ],
-          "opts_hi": [
-            "कोंकणी, मणिपुरी और नेपाली",
-            "कोंकणी, मणिपुरी और मैथिली",
-            "कोंकणी, नेपाली और मैथिली",
-            "मणिपुरी, नेपाली और मैथिली"
-          ],
-          "ans": 0,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Which of the following statements are correct about the Constitution of India? 1. Powers of the Municipalities are given in Part IX A of the Constitution. 2. Emergency provisions are given in Part XVIII of the Constitution. 3. Provisions related to the amendment of the constitution are given in Part XX of the Constitution.",
-          "q_hi": "भारतीय संविधान के बारे में निम्नलिखित में से कौन से कथन सही हैं? 1. नगर पालिकाओं की शक्तियाँ संविधान के भाग IX A में दी गई हैं। 2. आपात प्रावधान संविधान के भाग XVIII में दिए गए हैं। 3. संविधान में संशोधन से संबंधित प्रावधान संविधान के भाग XX में दिए गए हैं।",
-          "opts": [
-            "1 and 2 only",
-            "2 and 3 only",
-            "1 and 3 only",
-            "1, 2 and 3"
-          ],
-          "opts_hi": [
-            "केवल 1 और 2",
-            "केवल 2 और 3",
-            "केवल 1 और 3",
-            "1, 2 और 3"
-          ],
-          "ans": 3,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Under which Article of the Constitution of India, has the Supreme Court of India placed the Right to Privacy?",
-          "q_hi": "भारतीय संविधान के किस अनुच्छेद के तहत, भारत के सर्वोच्च न्यायालय ने गोपनीयता के अधिकार को रखा है?",
-          "opts": [
-            "Article 15",
-            "Article 16",
-            "Article 19",
-            "Article 21"
-          ],
-          "opts_hi": [
-            "अनुच्छेद 15",
-            "अनुच्छेद 16",
-            "अनुच्छेद 19",
-            "अनुच्छेद 21"
-          ],
-          "ans": 3,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Who was the Provisional President of the Constituent Assembly before Dr. Rajendra Prasad took over?",
-          "q_hi": "डॉ. राजेंद्र प्रसाद के कार्यभार संभालने से पहले संविधान सभा के अस्थायी अध्यक्ष कौन थे?",
-          "opts": [
-            "C. Rajagopalachari",
-            "Dr. B.R. Ambedkar",
-            "T.T. Krishnamachari",
-            "Dr. Sachchidananda Sinha"
-          ],
-          "opts_hi": [
-            "सी. राजगोपालाचारी",
-            "डॉ. बी.आर. अम्बेडकर",
-            "टी.टी. कृष्णमाचारी",
-            "डॉ. सच्चिदानंद सिन्हा"
-          ],
-          "ans": 3,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Which one of the following is a work attributed to playwright Bhasa?",
-          "q_hi": "निम्नलिखित में से कौन सा नाटककार भास की कृति है?",
-          "opts": [
-            "Kavyalankara",
-            "Natyashastra",
-            "Madhyama vyayoga",
-            "Mahabhashya"
-          ],
-          "opts_hi": [
-            "काव्यालंकार",
-            "नाट्यशास्त्र",
-            "मध्यम व्यायोग",
-            "महाभाष्य"
-          ],
-          "ans": 2,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "How many of the following properties were included in the UNESCO World Heritage List in 2023? 1. Shantiniketan 2. Rani-ki-Vav 3. Sacred Ensembles of the Hoysalas 4. Mahabodhi Temple Complex",
-          "q_hi": "2023 में UNESCO की विश्व धरोहर सूची में निम्नलिखित में से कितनी संपत्तियाँ शामिल की गईं? 1. शांतिनिकेतन 2. रानी-की-वाव 3. होयसलों के पवित्र समूह 4. महाबोधि मंदिर परिसर",
-          "opts": [
-            "Only one",
-            "Only two",
-            "Only three",
-            "All four"
-          ],
-          "opts_hi": [
-            "केवल एक",
-            "केवल दो",
-            "केवल तीन",
-            "सभी चार"
-          ],
-          "ans": 1,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "As per Article 368 of the Constitution of India, the Parliament may amend any provision of the Constitution by way of: 1. Addition 2. Variation 3. Repeal",
-          "q_hi": "भारतीय संविधान के अनुच्छेद 368 के अनुसार, संसद किसी भी प्रावधान में संशोधन कर सकती है: 1. जोड़ 2. परिवर्तन 3. निरसन",
-          "opts": [
-            "1 and 2 only",
-            "2 and 3 only",
-            "1 and 3 only",
-            "1, 2 and 3"
-          ],
-          "opts_hi": [
-            "केवल 1 और 2",
-            "केवल 2 और 3",
-            "केवल 1 और 3",
-            "1, 2 और 3"
-          ],
-          "ans": 3,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Which of the following statements are correct in respect of a Money Bill in the Parliament? 1. Article 109 mentions special procedure in respect of Money Bills. 2. A Money Bill shall not be introduced in the Council of States. 3. The Rajya Sabha can either approve the Bill or suggest changes but cannot reject it. 4. Amendments to a Money Bill suggested by the Rajya Sabha have to be accepted by the Lok Sabha.",
-          "q_hi": "संसद में धन विधेयक के संबंध में निम्नलिखित में से कौन से कथन सही हैं? 1. अनुच्छेद 109 धन विधेयकों के संबंध में विशेष प्रक्रिया का उल्लेख करता है। 2. धन विधेयक राज्य सभा में पेश नहीं किया जाएगा। 3. राज्य सभा या तो विधेयक को अनुमोदित कर सकती है या परिवर्तन सुझा सकती है लेकिन इसे अस्वीकार नहीं कर सकती। 4. राज्य सभा द्वारा सुझाए गए धन विधेयक में संशोधन लोक सभा द्वारा स्वीकार किए जाने चाहिए।",
-          "opts": [
-            "1, 2 and 3 only",
-            "2, 3 and 4 only",
-            "1, 2 and 4 only",
-            "1, 2, 3 and 4"
-          ],
-          "opts_hi": [
-            "केवल 1, 2 और 3",
-            "केवल 2, 3 और 4",
-            "केवल 1, 2 और 4",
-            "1, 2, 3 और 4"
-          ],
-          "ans": 0,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Which of the following statements is correct as per the Constitution of India?",
-          "q_hi": "भारतीय संविधान के अनुसार निम्नलिखित में से कौन सा कथन सही है?",
-          "opts": [
-            "Inter-State trade and commerce is a State subject under the State List",
-            "Inter-State migration is a State subject under the State List",
-            "Inter-State quarantine is a Union subject under the Union List",
-            "Corporation tax is a State subject under the State List"
-          ],
-          "opts_hi": [
-            "अंतर-राज्यीय व्यापार और वाणिज्य राज्य सूची के तहत एक राज्य विषय है",
-            "अंतर-राज्यीय प्रवासन राज्य सूची के तहत एक राज्य विषय है",
-            "अंतर-राज्यीय संगरोध संघ सूची के तहत एक संघ विषय है",
-            "निगम कर राज्य सूची के तहत एक राज्य विषय है"
-          ],
-          "ans": 2,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "What are the duties of the Chief of Defence Staff (CDS) as Head of the Department of Military Affairs? 1. Permanent Chairman of Chiefs of Staff Committee 2. Exercise military command over the three Service Chiefs 3. Principal Military Advisor to Defence Minister on all tri-service matters",
-          "q_hi": "रक्षा विभाग के प्रमुख के रूप में चीफ ऑफ डिफेंस स्टाफ (CDS) के कर्तव्य क्या हैं? 1. चीफ्स ऑफ स्टाफ कमेटी के स्थायी अध्यक्ष 2. तीनों सेना प्रमुखों पर सैन्य कमान का प्रयोग 3. सभी त्रि-सेवा मामलों पर रक्षा मंत्री के प्रमुख सैन्य सलाहकार",
-          "opts": [
-            "1 and 2 only",
-            "1 and 3 only",
-            "2 and 3 only",
-            "1, 2 and 3"
-          ],
-          "opts_hi": [
-            "केवल 1 और 2",
-            "केवल 1 और 3",
-            "केवल 2 और 3",
-            "1, 2 और 3"
-          ],
-          "ans": 1,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Which of the following statements about the Ethics Committee in the Lok Sabha are correct? 1. Initially it was an ad-hoc Committee. 2. Only a Member of the Lok Sabha can make a complaint relating to unethical conduct of a member of the Lok Sabha. 3. This Committee cannot take up any matter which is sub-judice.",
-          "q_hi": "लोक सभा में नैतिकता समिति के बारे में निम्नलिखित में से कौन से कथन सही हैं? 1. प्रारंभ में यह एक तदर्थ समिति थी। 2. लोक सभा के किसी सदस्य के अनैतिक आचरण से संबंधित शिकायत केवल लोक सभा का कोई सदस्य ही कर सकता है। 3. यह समिति कोई भी मामला नहीं उठा सकती जो न्यायालय में विचाराधीन है।",
-          "opts": [
-            "1 and 2 only",
-            "2 and 3 only",
-            "1 and 3 only",
-            "1, 2 and 3"
-          ],
-          "opts_hi": [
-            "केवल 1 और 2",
-            "केवल 2 और 3",
-            "केवल 1 और 3",
-            "1, 2 और 3"
-          ],
-          "ans": 3,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "With reference to the Government of India Act, 1935, consider the following statements: 1. It provided for the establishment of an All India Federation based on the union of the British Indian Provinces and Princely States. 2. Defence and Foreign Affairs were kept under the control of the federal legislature.",
-          "q_hi": "भारत सरकार अधिनियम, 1935 के संदर्भ में, निम्नलिखित कथनों पर विचार करें: 1. इसने ब्रिटिश भारतीय प्रांतों और रियासतों के संघ के आधार पर अखिल भारतीय संघ की स्थापना का प्रावधान किया। 2. रक्षा और विदेशी मामलों को संघीय विधायिका के नियंत्रण में रखा गया था।",
-          "opts": [
-            "1 only",
-            "2 only",
-            "Both 1 and 2",
-            "Neither 1 nor 2"
-          ],
-          "opts_hi": [
-            "केवल 1",
-            "केवल 2",
-            "1 और 2 दोनों",
-            "न तो 1 और न ही 2"
-          ],
-          "ans": 0,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Sanghabhuti, an Indian Buddhist monk, who travelled to China at the end of the fourth century AD, was the author of a commentary on:",
-          "q_hi": "संघभूति, एक भारतीय बौद्ध भिक्षु, जो चौथी शताब्दी ईस्वी के अंत में चीन गए, किस पर एक टिप्पणी के लेखक थे?",
-          "opts": [
-            "Prajnaparamita Sutra",
-            "Visuddhimagga",
-            "Sarvastivada Vinaya",
-            "Lalitavistara"
-          ],
-          "opts_hi": [
-            "प्रज्ञापारमिता सूत्र",
-            "विसुद्धिमग्ग",
-            "सर्वास्तिवाद विनय",
-            "ललितविस्तार"
-          ],
-          "ans": 2,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Which of the following countries are frequently mentioned in the media for their low birth rates, ageing population or declining population? 1. Italy 2. Japan 3. Nigeria 4. South Korea 5. South Africa",
-          "q_hi": "निम्नलिखित में से किन देशों का मीडिया में उनकी कम जन्म दर, उम्र बढ़ने वाली जनसंख्या या घटती जनसंख्या के लिए अक्सर उल्लेख किया जाता है? 1. इटली 2. जापान 3. नाइजीरिया 4. दक्षिण कोरिया 5. दक्षिण अफ्रीका",
-          "opts": [
-            "1, 2 and 4 only",
-            "1, 3 and 5 only",
-            "2 and 4 only",
-            "3 and 5 only"
-          ],
-          "opts_hi": [
-            "केवल 1, 2 और 4",
-            "केवल 1, 3 और 5",
-            "केवल 2 और 4",
-            "केवल 3 और 5"
-          ],
-          "ans": 0,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "The North Eastern Council (NEC) was established by the North Eastern Council Act, 1971. Subsequent to the amendment of NEC Act in 2002, the Council comprises which of the following members? 1. Governor of the Constituent State 2. Chief Minister of the Constituent State 3. Three Members to be nominated by the President of India 4. The Home Minister of India",
-          "q_hi": "उत्तर पूर्वी परिषद (NEC) की स्थापना उत्तर पूर्वी परिषद अधिनियम, 1971 द्वारा की गई थी। 2002 में NEC अधिनियम में संशोधन के बाद, परिषद में निम्नलिखित में से कौन से सदस्य शामिल होते हैं? 1. घटक राज्य के राज्यपाल 2. घटक राज्य के मुख्यमंत्री 3. भारत के राष्ट्रपति द्वारा मनोनीत तीन सदस्य 4. भारत के गृह मंत्री",
-          "opts": [
-            "1, 2 and 3 only",
-            "1, 3 and 4 only",
-            "2 and 4 only",
-            "1, 2, 3 and 4"
-          ],
-          "opts_hi": [
-            "केवल 1, 2 और 3",
-            "केवल 1, 3 और 4",
-            "केवल 2 और 4",
-            "1, 2, 3 और 4"
-          ],
-          "ans": 0,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "A Writ of Prohibition is an order issued by the Supreme Court or High Courts to:",
-          "q_hi": "निषेध का रिट (Writ of Prohibition) सर्वोच्च न्यायालय या उच्च न्यायालयों द्वारा किसको जारी किया जाने वाला एक आदेश है:",
-          "opts": [
-            "a government officer prohibiting him from taking a particular action",
-            "the parliament/Legislative Assembly to pass a law on Prohibition",
-            "the lower court prohibiting continuation of proceedings in a case",
-            "the Government prohibiting it from following an unconstitutional policy"
-          ],
-          "opts_hi": [
-            "एक सरकारी अधिकारी को उसे एक विशेष कार्रवाई करने से रोकना",
-            "संसद/विधान सभा को निषेध पर एक कानून पारित करने के लिए",
-            "निचली अदालत को एक मामले में कार्यवाही जारी रखने से रोकना",
-            "सरकार को उसे एक असंवैधानिक नीति का पालन करने से रोकना"
-          ],
-          "ans": 2,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Consider the following statements: 1. It is the Governor of the State who recognizes and declares any community of that State as a Scheduled Tribe. 2. A community declared as a Scheduled Tribe in a State need not be so in another State.",
-          "q_hi": "निम्नलिखित कथनों पर विचार करें: 1. यह राज्य का राज्यपाल है जो उस राज्य के किसी भी समुदाय को अनुसूचित जनजाति के रूप में मान्यता देता है और घोषित करता है। 2. एक राज्य में अनुसूचित जनजाति घोषित किए गए समुदाय को दूसरे राज्य में ऐसा होने की आवश्यकता नहीं है।",
-          "opts": [
-            "1 only",
-            "2 only",
-            "Both 1 and 2",
-            "Neither 1 nor 2"
-          ],
-          "opts_hi": [
-            "केवल 1",
-            "केवल 2",
-            "1 और 2 दोनों",
-            "न तो 1 और न ही 2"
-          ],
-          "ans": 1,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "With reference to Union Budget, consider the following statements: 1. The Union Finance Minister on behalf of the Prime Minister lays the Annual Financial Statement before both the Houses of Parliament. 2. At the Union level, no demand for a grant can be made except on the recommendation of the President of India.",
-          "q_hi": "केंद्रीय बजट के संदर्भ में, निम्नलिखित कथनों पर विचार करें: 1. केंद्रीय वित्त मंत्री प्रधान मंत्री की ओर से वार्षिक वित्तीय विवरण संसद के दोनों सदनों के समक्ष रखते हैं। 2. केंद्रीय स्तर पर, भारत के राष्ट्रपति की सिफारिश के अलावा कोई अनुदान मांग नहीं की जा सकती है।",
-          "opts": [
-            "1 only",
-            "2 only",
-            "Both 1 and 2",
-            "Neither 1 nor 2"
-          ],
-          "opts_hi": [
-            "केवल 1",
-            "केवल 2",
-            "1 और 2 दोनों",
-            "न तो 1 और न ही 2"
-          ],
-          "ans": 1,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Who of the following is the author of the books \"The India Way\" and \"Why Bharat Matters\"?",
-          "q_hi": "The India Way और \"Why Bharat Matters\" पुस्तकों के लेखक निम्नलिखित में से कौन हैं?",
-          "opts": [
-            "Bhupender Yadav",
-            "Nalin Mehta",
-            "Shashi Tharoor",
-            "Subrahmanyam Jaishankar"
-          ],
-          "opts_hi": [
-            "भूपेंद्र यादव",
-            "नलिन मेहता",
-            "शशि थरूर",
-            "सुब्रह्मण्यम जयशंकर"
-          ],
-          "ans": 3,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Which state is the largest producer of coal in India?",
-          "q_hi": "भारत में कोयले का सबसे बड़ा उत्पादक राज्य कौन सा है?",
-          "opts": [
-            "Jharkhand",
-            "Odisha",
-            "Chhattisgarh",
-            "West Bengal"
-          ],
-          "opts_hi": [
-            "झारखंड",
-            "ओडिशा",
-            "छत्तीसगढ़",
-            "पश्चिम बंगाल"
-          ],
-          "ans": 0,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Who was the first Governor-General of India?",
-          "q_hi": "भारत के पहले गवर्नर-जनरल कौन थे?",
-          "opts": [
-            "Warren Hastings",
-            "Lord Cornwallis",
-            "Lord Wellesley",
-            "William Bentinck"
-          ],
-          "opts_hi": [
-            "वारेन हेस्टिंग्स",
-            "लॉर्ड कॉर्नवालिस",
-            "लॉर्ड वेलेस्ली",
-            "विलियम बेंटिक"
-          ],
-          "ans": 0,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "What is the pH value of pure water?",
-          "q_hi": "शुद्ध जल का pH मान क्या है?",
-          "opts": [
-            "5",
-            "6",
-            "7",
-            "8"
-          ],
-          "opts_hi": [
-            "5",
-            "6",
-            "7",
-            "8"
-          ],
-          "ans": 2,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Which is the largest producer of tea in India?",
-          "q_hi": "भारत में चाय का सबसे बड़ा उत्पादक कौन सा है?",
-          "opts": [
-            "West Bengal",
-            "Assam",
-            "Tamil Nadu",
-            "Kerala"
-          ],
-          "opts_hi": [
-            "पश्चिम बंगाल",
-            "असम",
-            "तमिलनाडु",
-            "केरल"
-          ],
-          "ans": 1,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Who was known as the \"Napoleon of India\"?",
-          "q_hi": "भारत का नेपोलियन किसे कहा जाता था?",
-          "opts": [
-            "Chandragupta Maurya",
-            "Samudragupta",
-            "Ashoka",
-            "Harshavardhana"
-          ],
-          "opts_hi": [
-            "चंद्रगुप्त मौर्य",
-            "समुद्रगुप्त",
-            "अशोक",
-            "हर्षवर्धन"
-          ],
-          "ans": 1,
-          "subject": "General Knowledge"
-        }
-      ]
-    },
-    {
-      "id": "upsc_prelims_31",
-      "title": "UPSC Prelims Mock Test 31",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Which technology is used to track underwater objects like submarines?",
-          "q_hi": "पानी के नीचे पनडुब्बियों जैसी वस्तुओं को ट्रैक करने के लिए किस तकनीक का उपयोग किया जाता है?",
-          "opts": [
-            "RADAR",
-            "SONAR",
-            "LIDAR",
-            "GPS"
-          ],
-          "opts_hi": [
-            "रडार",
-            "सोनार",
-            "लिडार",
-            "जीपीएस"
-          ],
-          "ans": 1,
-          "subject": "General Knowledge"
-        }
-      ]
-    },
-    {
-      "id": "upsc_prelims_32",
-      "title": "UPSC Prelims Mock Test 32",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Who was the leader of the 1857 Revolt in Kanpur?",
-          "q_hi": "1857 के विद्रोह में कानपुर के नेता कौन थे?",
-          "opts": [
-            "Tantia Tope",
-            "Nana Saheb",
-            "Rani Lakshmibai",
-            "Bahadur Shah Zafar"
-          ],
-          "opts_hi": [
-            "तात्या टोपे",
-            "नाना साहेब",
-            "रानी लक्ष्मीबाई",
-            "बहादुर शाह ज़फर"
-          ],
-          "ans": 1,
-          "subject": "History"
-        }
-      ]
-    },
-    {
-      "id": "upsc_prelims_33",
-      "title": "UPSC Prelims Mock Test 33",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Which Gupta ruler is known for his patronage of the Nalanda University?",
-          "q_hi": "नालंदा विश्वविद्यालय के संरक्षण के लिए कौन से गुप्त शासक प्रसिद्ध हैं?",
-          "opts": [
-            "Chandragupta II",
-            "Samudragupta",
-            "Skandagupta",
-            "Kumaragupta I"
-          ],
-          "opts_hi": [
-            "चंद्रगुप्त II",
-            "समुद्रगुप्त",
-            "स्कंदगुप्त",
-            "कुमारगुप्त I"
-          ],
-          "ans": 3,
-          "subject": "History"
-        },
-        {
-          "q": "The Ilbert Bill controversy took place during the tenure of which Viceroy?",
-          "q_hi": "इल्बर्ट बिल विवाद किस वायसराय के कार्यकाल में हुआ?",
-          "opts": [
-            "Lord Ripon",
-            "Lord Lytton",
-            "Lord Curzon",
-            "Lord Dufferin"
-          ],
-          "opts_hi": [
-            "लॉर्ड रिपन",
-            "लॉर्ड लिटन",
-            "लॉर्ड कर्जन",
-            "लॉर्ड डफरिन"
-          ],
-          "ans": 0,
-          "subject": "History"
-        }
-      ]
-    },
-    {
-      "id": "upsc_prelims_34",
-      "title": "UPSC Prelims Mock Test 34",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Who presents the Union Budget in India?",
-          "q_hi": "भारत में केंद्रीय बजट कौन पेश करता है?",
-          "opts": [
-            "President",
-            "Finance Minister",
-            "Prime Minister",
-            "RBI Governor"
-          ],
-          "opts_hi": [
-            "राष्ट्रपति",
-            "वित्त मंत्री",
-            "प्रधानमंत्री",
-            "आरबीआई गवर्नर"
-          ],
-          "ans": 1,
-          "subject": "Economics"
-        },
-        {
-          "q": "What is the full form of NITI Aayog?",
-          "q_hi": "NITI आयोग का पूर्ण रूप क्या है?",
-          "opts": [
-            "National Institution for Transforming India",
-            "National Institute for Technology and Innovation",
-            "None",
-            "National Institute for Transforming India"
-          ],
-          "opts_hi": [
-            "नेशनल इंस्टीट्यूशन फॉर ट्रांसफॉर्मिंग इंडिया",
-            "नेशनल इंस्टीट्यूट फॉर टेक्नोलॉजी एंड इनोवेशन",
-            "कोई नहीं",
-            "नेशनल इंस्टीट्यूट फॉर ट्रांसफॉर्मिंग इंडिया"
-          ],
-          "ans": 0,
-          "subject": "Economics"
-        },
-        {
-          "q": "What is the full form of WTO?",
-          "q_hi": "WTO का पूर्ण रूप क्या है?",
-          "opts": [
-            "World Trade Organization",
-            "World Tourism Organization",
-            "None",
-            "World Trade Office"
-          ],
-          "opts_hi": [
-            "वर्ल्ड ट्रेड ऑर्गनाइजेशन",
-            "वर्ल्ड टूरिज्म ऑर्गनाइजेशन",
-            "कोई नहीं",
-            "वर्ल्ड ट्रेड ऑफिस"
-          ],
-          "ans": 0,
-          "subject": "Economics"
-        },
-        {
-          "q": "What is the full form of PSL?",
-          "q_hi": "PSL का पूर्ण रूप क्या है?",
-          "opts": [
-            "Priority Sector Lending",
-            "Public Sector Lending",
-            "None",
-            "Private Sector Lending"
-          ],
-          "opts_hi": [
-            "प्रायोरिटी सेक्टर लेंडिंग",
-            "पब्लिक सेक्टर लेंडिंग",
-            "कोई नहीं",
-            "प्राइवेट सेक्टर लेंडिंग"
-          ],
-          "ans": 0,
-          "subject": "Economics"
-        },
-        {
-          "q": "What is the full form of FII?",
-          "q_hi": "FII का पूर्ण रूप क्या है?",
-          "opts": [
-            "Foreign Institutional Investment",
-            "Foreign Investment Institution",
-            "None",
-            "Foreign Institutional Investor"
-          ],
-          "opts_hi": [
-            "फॉरेन इंस्टीट्यूशनल इन्वेस्टमेंट",
-            "फॉरेन इन्वेस्टमेंट इंस्टीट्यूशन",
-            "कोई नहीं",
-            "फॉरेन इंस्टीट्यूशनल इन्वेस्टर"
-          ],
-          "ans": 0,
-          "subject": "Economics"
-        }
-      ]
-    },
-    {
-      "id": "upsc_prelims_35",
-      "title": "UPSC Prelims Mock Test 35",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Which state receives the highest average annual rainfall in India?",
-          "q_hi": "भारत में सबसे अधिक औसत वार्षिक वर्षा कौन सा राज्य प्राप्त करता है?",
-          "opts": [
-            "Assam",
-            "Meghalaya",
-            "Kerala",
-            "West Bengal"
-          ],
-          "opts_hi": [
-            "असम",
-            "मेघालय",
-            "केरल",
-            "पश्चिम बंगाल"
-          ],
-          "ans": 1,
-          "subject": "Geography"
-        }
-      ]
-    },
-    {
-      "id": "upsc_prelims_36",
-      "title": "UPSC Prelims Mock Test 36",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Under which Article of the Constitution can the President declare a state of Financial Emergency?",
-          "q_hi": "संविधान के किस अनुच्छेद के तहत राष्ट्रपति वित्तीय आपातकाल घोषित कर सकते हैं?",
-          "opts": [
-            "Article 356",
-            "Article 360",
-            "Article 352",
-            "Article 365"
-          ],
-          "opts_hi": [
-            "अनुच्छेद 356",
-            "अनुच्छेद 360",
-            "अनुच्छेद 352",
-            "अनुच्छेद 365"
-          ],
-          "ans": 1,
-          "subject": "Polity"
-        },
-        {
-          "q": "Which ruler is credited with the first empire in India and the establishment of the Mauryan dynasty?",
-          "q_hi": "भारत में पहले साम्राज्य और मौर्य वंश की स्थापना का श्रेय किस शासक को दिया जाता है?",
-          "opts": [
-            "Ashoka",
-            "Bindusara",
-            "Chandragupta Maurya",
-            "Brihadratha"
-          ],
-          "opts_hi": [
-            "अशोक",
-            "बिन्दुसार",
-            "चन्द्रगुप्त मौर्य",
-            "बृहद्रथ"
-          ],
-          "ans": 2,
-          "subject": "History"
-        },
-        {
-          "q": "The famous 'Dancing Girl' statue was found at which Indus Valley Civilization site?",
-          "q_hi": "प्रसिद्ध 'नृत्य करती लड़की' की मूर्ति सिंधु घाटी सभ्यता के किस स्थल से मिली थी?",
-          "opts": [
-            "Harappa",
-            "Mohenjo-Daro",
-            "Lothal",
-            "Dholavira"
-          ],
-          "opts_hi": [
-            "हड़प्पा",
-            "मोहनजोदड़ो",
-            "लोथल",
-            "धोलावीरा"
-          ],
-          "ans": 1,
-          "subject": "History"
-        },
-        {
-          "q": "Which of the following is a fully double-stranded RNA virus?",
-          "q_hi": "निम्नलिखित में से कौन पूर्णतः द्वि-स्ट्रैंडेड RNA वायरस है?",
-          "opts": [
-            "Tobacco Mosaic Virus",
-            "Polio Virus",
-            "Rotavirus",
-            "Influenza Virus"
-          ],
-          "opts_hi": [
-            "तम्बाकू मोज़ेक वायरस",
-            "पोलियो वायरस",
-            "रोटावायरस",
-            "इन्फ्लुएंजा वायरस"
-          ],
-          "ans": 2,
-          "subject": "Science"
-        }
-      ]
-    },
-    {
-      "id": "upsc_prelims_37",
-      "title": "UPSC Prelims Mock Test 37",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "Bangladesh and China signed an agreement for which river project in July 2026?",
-          "q_hi": "जुलाई 2026 में बांग्लादेश और चीन ने किस नदी परियोजना के लिए समझौते पर हस्ताक्षर किए?",
-          "opts": [
-            "Ganga",
-            "Brahmaputra",
-            "Teesta",
-            "Padma"
-          ],
-          "opts_hi": [
-            "गंगा",
-            "ब्रह्मपुत्र",
-            "तीस्ता",
-            "पद्मा"
-          ],
-          "ans": 2,
-          "subject": "Current Affairs"
-        }
-      ]
-    },
-    {
-      "id": "upsc_prelims_38",
-      "title": "UPSC Prelims Mock Test 38",
-      "duration": 10,
-      "difficulty": "Medium",
-      "questions": [
-        {
-          "q": "What is the monthly assistance provided to Gurus under the Guru-Shishya Parampara sub-scheme of KSVY?",
-          "q_hi": "KSVY की गुरु-शिष्य परंपरा उप-योजना के तहत गुरुओं को प्रदान की जाने वाली मासिक सहायता क्या है?",
-          "opts": [
-            "₹5,000 per Guru",
-            "₹10,000 per Guru",
-            "₹15,000 per Guru",
-            "₹20,000 per Guru"
-          ],
-          "opts_hi": [
-            "₹5,000 प्रति गुरु",
-            "₹10,000 प्रति गुरु",
-            "₹15,000 प्रति गुरु",
-            "₹20,000 प्रति गुरु"
-          ],
-          "ans": 2,
-          "subject": "Current Affairs"
+          "subject": "Geography - Indian Geography"
         }
       ]
     }
