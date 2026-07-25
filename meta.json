@@ -338,7 +338,7 @@
     "icon": "📚",
     "color": "#34d399",
     "exams": {
-            "ctet": {
+      "ctet": {
         "name": "CTET",
         "fullname": "Central Teacher Eligibility Test",
         "tests": [
@@ -372,7 +372,7 @@
           }
         ]
       },
-            "kvs": {
+      "kvs": {
         "name": "KVS",
         "fullname": "Kendriya Vidyalaya Sangathan Teacher",
         "tests": [
@@ -405,7 +405,9 @@
             "questionCount": 25
           }
         ]
-      },
+      }
+    }
+  },
   "civil_services": {
     "name": "Civil Services",
     "icon": "⚖️",
