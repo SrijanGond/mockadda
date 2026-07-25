@@ -45,7 +45,7 @@
           }
         ]
       },
-            "ssc_chsl": {
+      "ssc_chsl": {
         "name": "SSC CHSL",
         "fullname": "Staff Selection Commission Combined Higher Secondary Level",
         "tests": [
@@ -78,7 +78,8 @@
             "questionCount": 25
           }
         ]
-      },            "ssc_mts": {
+      },
+      "ssc_mts": {
         "name": "SSC MTS",
         "fullname": "Staff Selection Commission Multi Tasking Staff",
         "tests": [
@@ -112,7 +113,7 @@
           }
         ]
       },
-            "ssc_gd": {
+      "ssc_gd": {
         "name": "SSC GD",
         "fullname": "Staff Selection Commission General Duty Constable",
         "tests": [
@@ -145,7 +146,9 @@
             "questionCount": 30
           }
         ]
-      },
+      }
+    }
+  },
   "banking": {
     "name": "Banking Exams",
     "icon": "🏦",
