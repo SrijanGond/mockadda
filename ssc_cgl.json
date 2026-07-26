@@ -961,6 +961,96 @@
           ],
           "ans": 2,
           "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Which schedule of the Indian Constitution contains provisions related to the disqualification of members of Parliament on grounds of defection?",
+          "q_hi": "भारतीय संविधान की किस अनुसूची में दल-बदल के आधार पर संसद सदस्यों की अयोग्यता से संबंधित प्रावधान हैं?",
+          "opts": [
+            "Eighth Schedule",
+            "Ninth Schedule",
+            "Tenth Schedule",
+            "Eleventh Schedule"
+          ],
+          "opts_hi": [
+            "आठवीं अनुसूची",
+            "नौवीं अनुसूची",
+            "दसवीं अनुसूची",
+            "ग्यारहवीं अनुसूची"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The 'Doctrine of Lapse', which led to the annexation of several Indian princely states, was associated with which Governor-General of British India?",
+          "q_hi": "व्यपगत का सिद्धांत' (Doctrine of Lapse), जिसके कारण कई भारतीय रियासतों का विलय हुआ, ब्रिटिश भारत के किस गवर्नर-जनरल से संबंधित था?",
+          "opts": [
+            "Lord Cornwallis",
+            "Lord Wellesley",
+            "Lord Dalhousie",
+            "Lord Canning"
+          ],
+          "opts_hi": [
+            "लॉर्ड कॉर्नवालिस",
+            "लॉर्ड वेलेजली",
+            "लॉर्ड डलहौजी",
+            "लॉर्ड कैनिंग"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "In India, the Monetary Policy Committee (MPC) is responsible for fixing which of the following rates?",
+          "q_hi": "भारत में मौद्रिक नीति समिति (MPC) निम्नलिखित में से किस दर को निर्धारित करने के लिए जिम्मेदार है?",
+          "opts": [
+            "Cash Reserve Ratio",
+            "Repo Rate",
+            "Statutory Liquidity Ratio",
+            "Bank Rate"
+          ],
+          "opts_hi": [
+            "नकद आरक्षित अनुपात",
+            "रेपो दर",
+            "वैधानिक तरलता अनुपात",
+            "बैंक दर"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "A person standing in a lift feels heavier than his actual weight. This situation occurs when the lift is —",
+          "q_hi": "एक व्यक्ति लिफ्ट में खड़े होने पर अपने वास्तविक वजन से अधिक भारी महसूस करता है। यह स्थिति तब होती है जब लिफ्ट —",
+          "opts": [
+            "Moving down with uniform speed",
+            "Moving up with uniform speed",
+            "Accelerating downward",
+            "Accelerating upward"
+          ],
+          "opts_hi": [
+            "एकसमान गति से नीचे जा रही हो",
+            "एकसमान गति से ऊपर जा रही हो",
+            "नीचे की ओर त्वरित हो रही हो",
+            "ऊपर की ओर त्वरित हो रही हो"
+          ],
+          "ans": 3,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The Karakoram Pass, one of the highest passes in the world, connects India to which country?",
+          "q_hi": "काराकोरम दर्रा, जो विश्व के सर्वोच्च दर्रों में से एक है, भारत को किस देश से जोड़ता है?",
+          "opts": [
+            "Nepal",
+            "China",
+            "Afghanistan",
+            "Myanmar"
+          ],
+          "opts_hi": [
+            "नेपाल",
+            "चीन",
+            "अफगानिस्तान",
+            "म्यांमार"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
         }
       ]
     },
