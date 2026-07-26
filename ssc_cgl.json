@@ -781,6 +781,78 @@
           ],
           "ans": 2,
           "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Four of the following five are alike in a certain way and form a group. Which one does NOT belong to the group? Mars, Venus, Jupiter, Moon, Saturn",
+          "q_hi": "निम्नलिखित पाँच में से चार किसी न किसी तरह से एक समान हैं और एक समूह बनाते हैं। कौन-सा उस समूह में नहीं आता? मंगल, शुक्र, बृहस्पति, चंद्रमा, शनि",
+          "opts": [
+            "Mars",
+            "Venus",
+            "Moon",
+            "Saturn"
+          ],
+          "opts_hi": [
+            "मंगल",
+            "शुक्र",
+            "चंद्रमा",
+            "शनि"
+          ],
+          "ans": 2,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Find the missing term in the series: 4, 9, 25, 49, 121, ?",
+          "q_hi": "श्रृंखला में लुप्त पद ज्ञात कीजिए: 4, 9, 25, 49, 121, ?",
+          "opts": [
+            144,
+            169,
+            196,
+            225
+          ],
+          "opts_hi": [
+            144,
+            169,
+            196,
+            225
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "In a certain code language, 'REMOTE' is written as 'SFNPUF'. How will 'BRIDGE' be written in that code?",
+          "q_hi": "एक निश्चित कूट भाषा में 'REMOTE' को 'SFNPUF' लिखा जाता है। उसी कूट भाषा में 'BRIDGE' को कैसे लिखा जाएगा?",
+          "opts": [
+            "CSJEHF",
+            "CSJEIF",
+            "BSIEGF",
+            "CRIDGF"
+          ],
+          "opts_hi": [
+            "CSJEHF",
+            "CSJEIF",
+            "BSIEGF",
+            "CRIDGF"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Pointing to a photograph, Ramesh says, \"She is the daughter of the only son of my grandfather.\" How is the girl in the photograph related to Ramesh?",
+          "q_hi": "एक फोटो की ओर इशारा करते हुए रमेश कहता है, \"वह मेरे दादा के इकलौते बेटे की बेटी है।\" फोटो में लड़की रमेश से किस प्रकार संबंधित है?",
+          "opts": [
+            "Aunt",
+            "Sister",
+            "Cousin",
+            "Niece"
+          ],
+          "opts_hi": [
+            "बुआ",
+            "बहन",
+            "चचेरी बहन",
+            "भतीजी"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
         }
       ]
     },
