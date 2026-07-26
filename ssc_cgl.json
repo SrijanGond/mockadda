@@ -763,6 +763,24 @@
           ],
           "ans": 2,
           "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A shopkeeper marks his goods at 40% above the cost price and gives a discount of 10% on the marked price. He also uses a faulty weight that reads 1000 grams but actually weighs 800 grams. What is his overall profit percentage?",
+          "q_hi": "एक दुकानदार अपनी वस्तुओं को क्रय मूल्य से 40% अधिक पर अंकित करता है और अंकित मूल्य पर 10% की छूट देता है। वह एक दोषपूर्ण बाट का भी उपयोग करता है जो 1000 ग्राम पढ़ता है लेकिन वास्तव में 800 ग्राम तौलता है। उसका कुल लाभ प्रतिशत क्या है?",
+          "opts": [
+            0.475,
+            0.5,
+            0.575,
+            0.6
+          ],
+          "opts_hi": [
+            0.475,
+            0.5,
+            0.575,
+            0.6
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
         }
       ]
     },
