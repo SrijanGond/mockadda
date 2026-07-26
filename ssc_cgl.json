@@ -1051,6 +1051,96 @@
           ],
           "ans": 1,
           "subject": "General Awareness"
+        },
+        {
+          "q": "Which Schedule of the Indian Constitution contains provisions related to the disqualification of Members of Parliament on grounds of defection?",
+          "q_hi": "भारतीय संविधान की किस अनुसूची में दल-बदल के आधार पर संसद सदस्यों की अयोग्यता से संबंधित प्रावधान हैं?",
+          "opts": [
+            "Eighth Schedule",
+            "Ninth Schedule",
+            "Tenth Schedule",
+            "Eleventh Schedule"
+          ],
+          "opts_hi": [
+            "आठवीं अनुसूची",
+            "नौवीं अनुसूची",
+            "दसवीं अनुसूची",
+            "ग्यारहवीं अनुसूची"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The 'Doctrine of Lapse', used to annex princely states in India, was primarily associated with which Governor-General?",
+          "q_hi": "हड़प नीति' (डॉक्ट्रिन ऑफ लैप्स), जिसका उपयोग भारत में रियासतों को हड़पने के लिए किया गया, मुख्य रूप से किस गवर्नर-जनरल से संबंधित है?",
+          "opts": [
+            "Lord Wellesley",
+            "Lord Dalhousie",
+            "Lord Cornwallis",
+            "Lord Hastings"
+          ],
+          "opts_hi": [
+            "लॉर्ड वेलेजली",
+            "लॉर्ड डलहौजी",
+            "लॉर्ड कार्नवालिस",
+            "लॉर्ड हेस्टिंग्स"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "In India, the Monetary Policy Committee (MPC) is responsible for setting which key interest rate?",
+          "q_hi": "भारत में, मौद्रिक नीति समिति (MPC) किस प्रमुख ब्याज दर को निर्धारित करने के लिए उत्तरदायी है?",
+          "opts": [
+            "Bank Rate",
+            "Repo Rate",
+            "Cash Reserve Ratio",
+            "Statutory Liquidity Ratio"
+          ],
+          "opts_hi": [
+            "बैंक दर",
+            "रेपो दर",
+            "नकद आरक्षित अनुपात",
+            "वैधानिक तरलता अनुपात"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which phenomenon explains why the sky appears blue during the day?",
+          "q_hi": "कौन-सी घटना यह बताती है कि दिन के दौरान आकाश नीला क्यों दिखाई देता है?",
+          "opts": [
+            "Total Internal Reflection",
+            "Diffraction",
+            "Rayleigh Scattering",
+            "Refraction"
+          ],
+          "opts_hi": [
+            "पूर्ण आंतरिक परावर्तन",
+            "विवर्तन",
+            "रेले प्रकीर्णन",
+            "अपवर्तन"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The 'Loktak Lake', the largest freshwater lake in northeastern India, is located in which state?",
+          "q_hi": "उत्तर-पूर्वी भारत की सबसे बड़ी मीठे पानी की झील 'लोकतक झील' किस राज्य में स्थित है?",
+          "opts": [
+            "Assam",
+            "Meghalaya",
+            "Tripura",
+            "Manipur"
+          ],
+          "opts_hi": [
+            "असम",
+            "मेघालय",
+            "त्रिपुरा",
+            "मणिपुर"
+          ],
+          "ans": 3,
+          "subject": "General Awareness"
         }
       ]
     },
