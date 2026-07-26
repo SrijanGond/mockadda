@@ -853,6 +853,24 @@
           ],
           "ans": 1,
           "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Painter : Canvas :: Sculptor : ?",
+          "q_hi": "चित्रकार : कैनवास :: मूर्तिकार : ?",
+          "opts": [
+            "Brush",
+            "Chisel",
+            "Clay",
+            "Stone"
+          ],
+          "opts_hi": [
+            "ब्रश",
+            "छेनी",
+            "मिट्टी",
+            "पत्थर"
+          ],
+          "ans": 2,
+          "subject": "General Intelligence & Reasoning"
         }
       ]
     },
