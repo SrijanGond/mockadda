@@ -871,6 +871,96 @@
           ],
           "ans": 2,
           "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Find the missing number in the series: 7, 12, 21, 34, 51, ?",
+          "q_hi": "श्रृंखला में लुप्त संख्या ज्ञात कीजिए: 7, 12, 21, 34, 51, ?",
+          "opts": [
+            72,
+            68,
+            74,
+            70
+          ],
+          "opts_hi": [
+            72,
+            68,
+            74,
+            70
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "In a certain code language, FOREST is written as GQTFTU. How will CANDLE be written in that code?",
+          "q_hi": "एक निश्चित कूट भाषा में FOREST को GQTFTU लिखा जाता है। उसी कूट भाषा में CANDLE को कैसे लिखा जाएगा?",
+          "opts": [
+            "DBOEMF",
+            "DBOELG",
+            "DBODMF",
+            "DCOEMF"
+          ],
+          "opts_hi": [
+            "DBOEMF",
+            "DBOELG",
+            "DBODMF",
+            "DCOEMF"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Scalpel : Surgeon :: Gavel : ?",
+          "q_hi": "Scalpel (शल्य-चिकित्सक का चाकू) : Surgeon (शल्य-चिकित्सक) :: Gavel (हथौड़ी) : ?",
+          "opts": [
+            "Carpenter",
+            "Auctioneer",
+            "Blacksmith",
+            "Architect"
+          ],
+          "opts_hi": [
+            "बढ़ई",
+            "नीलामकर्ता",
+            "लोहार",
+            "वास्तुकार"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Pointing to a photograph, Meena says, 'He is the only son of my grandfather's only son.' How is the person in the photograph related to Meena?",
+          "q_hi": "एक फोटो की ओर इशारा करते हुए मीना कहती है, 'यह मेरे नाना/दादा के इकलौते बेटे का इकलौता बेटा है।' फोटो में दिख रहा व्यक्ति मीना का क्या लगता है?",
+          "opts": [
+            "Brother",
+            "Nephew",
+            "Uncle",
+            "Cousin"
+          ],
+          "opts_hi": [
+            "भाई",
+            "भतीजा",
+            "चाचा",
+            "चचेरा भाई"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "In a 3×3 matrix, the numbers in each row follow the rule: (first number × third number) − second number = constant for that row. Row 1: 6, 4, 3 → constant = 14. Row 2: 8, 6, 4 → constant = 26. Row 3: 5, ?, 6 → constant = 25. Find the missing number.",
+          "q_hi": "एक 3×3 आव्यूह में प्रत्येक पंक्ति का नियम है: (पहली संख्या × तीसरी संख्या) − दूसरी संख्या = उस पंक्ति का नियतांक। पंक्ति 1: 6, 4, 3 → नियतांक = 14। पंक्ति 2: 8, 6, 4 → नियतांक = 26। पंक्ति 3: 5, ?, 6 → नियतांक = 25। लुप्त संख्या ज्ञात कीजिए।",
+          "opts": [
+            4,
+            6,
+            5,
+            7
+          ],
+          "opts_hi": [
+            4,
+            6,
+            5,
+            7
+          ],
+          "ans": 2,
+          "subject": "General Intelligence & Reasoning"
         }
       ]
     },
