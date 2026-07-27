@@ -1709,6 +1709,96 @@
           ],
           "ans": 1,
           "subject": "English Comprehension"
+        },
+        {
+          "q": "Find the missing term in the series: 7, 12, 21, 34, 51, ?",
+          "q_hi": "श्रृंखला में लुप्त पद ज्ञात कीजिए: 7, 12, 21, 34, 51, ?",
+          "opts": [
+            72,
+            70,
+            68,
+            74
+          ],
+          "opts_hi": [
+            72,
+            70,
+            68,
+            74
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "In a certain code language, FOREST is written as GNUFTU. How will JUNGLE be written in that code?",
+          "q_hi": "किसी कूट भाषा में FOREST को GNUFTU लिखा जाता है। उसी कूट भाषा में JUNGLE को कैसे लिखा जाएगा?",
+          "opts": [
+            "KVOHMD",
+            "KVOHME",
+            "KVOHMF",
+            "KUOGMF"
+          ],
+          "opts_hi": [
+            "KVOHMD",
+            "KVOHME",
+            "KVOHMF",
+            "KUOGMF"
+          ],
+          "ans": 2,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Pointing to a photograph, Ramesh said, \"She is the daughter of my grandfather's only son.\" How is the woman in the photograph related to Ramesh?",
+          "q_hi": "एक फोटो की ओर इशारा करते हुए रमेश ने कहा, \"वह मेरे दादा के इकलौते बेटे की बेटी है।\" फोटो में मौजूद महिला रमेश से किस प्रकार संबंधित है?",
+          "opts": [
+            "Mother",
+            "Sister",
+            "Cousin",
+            "Aunt"
+          ],
+          "opts_hi": [
+            "माँ",
+            "बहन",
+            "चचेरी बहन",
+            "चाची/बुआ"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Painter : Brush :: Carpenter : ?",
+          "q_hi": "चित्रकार : ब्रश :: बढ़ई : ?",
+          "opts": [
+            "Wood",
+            "Chisel",
+            "Nail",
+            "Hammer"
+          ],
+          "opts_hi": [
+            "लकड़ी",
+            "छेनी",
+            "कील",
+            "हथौड़ा"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "A clock shows the time 08:20. What time will its mirror image show?",
+          "q_hi": "एक घड़ी में समय 08:20 दिखाई दे रहा है। दर्पण में उसका प्रतिबिंब क्या समय दर्शाएगा?",
+          "opts": [
+            "1899-12-30T03:40:00.000Z",
+            "1899-12-30T04:40:00.000Z",
+            "1899-12-30T03:20:00.000Z",
+            "1899-12-30T04:20:00.000Z"
+          ],
+          "opts_hi": [
+            "1899-12-30T03:40:00.000Z",
+            "1899-12-30T04:40:00.000Z",
+            "1899-12-30T03:20:00.000Z",
+            "1899-12-30T04:20:00.000Z"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
         }
       ]
     },
