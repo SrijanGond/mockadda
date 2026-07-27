@@ -1,74 +1,34 @@
 {
-  "history": {
-    "name": "History",
-    "count": 114
-  },
-  "general_knowledge": {
-    "name": "General Knowledge",
-    "count": 303
-  },
-  "polity": {
-    "name": "Polity",
-    "count": 45
-  },
-  "banking": {
-    "name": "Banking",
-    "count": 15
-  },
-  "environment": {
-    "name": "Environment",
-    "count": 7
-  },
-  "teaching": {
-    "name": "Teaching",
-    "count": 11
-  },
-  "mathematics": {
-    "name": "Mathematics",
-    "count": 75
-  },
-  "current_affairs": {
-    "name": "Current Affairs",
-    "count": 170
-  },
-  "science": {
-    "name": "Science",
-    "count": 107
-  },
-  "reasoning": {
-    "name": "Reasoning",
-    "count": 145
-  },
   "general_intelligence_reasoning": {
     "name": "General Intelligence & Reasoning",
-    "count": 25
+    "count": 17
   },
   "general_awareness": {
     "name": "General Awareness",
-    "count": 25
+    "count": 32
   },
   "quantitative_aptitude": {
     "name": "Quantitative Aptitude",
-    "count": 25
+    "count": 33
   },
   "english_comprehension": {
     "name": "English Comprehension",
-    "count": 25
+    "count": 24
   },
-  "geography": {
-    "name": "Geography",
-    "count": 118
+  "polity": {
+    "name": "Polity",
+    "count": 6
+  },
+  "current_affairs": {
+    "name": "Current Affairs",
+    "count": 7
   },
   "economics": {
     "name": "Economics",
-    "count": 26
-  },
-  "economy": {
-    "name": "Economy",
-    "count": 4
-  },
-  "maths": {
-    "name": "Maths",
     "count": 5
+  },
+  "geography": {
+    "name": "Geography",
+    "count": 1
   }
 }
