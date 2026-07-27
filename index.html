@@ -363,18 +363,26 @@ function el(tag,props={},children=[]){
   return e;
 }
 const render=()=>{
+  // CRITICAL ORDERING: the language toggle may currently be living INSIDE
+  // #app (moved into the quiz top bar's #langFloatSlot by a previous
+  // render). If we ran app.innerHTML='' while it's still in there, that
+  // wipes the toggle out of the DOM permanently — it would never come back
+  // without a full page reload. So we always pull it back out to <body>
+  // first, THEN clear and rebuild #app, THEN re-attach it into the new
+  // screen's slot if one exists.
+  const lf=document.getElementById('langFloat');
+  if(lf && lf.parentElement!==document.body){
+    document.body.appendChild(lf);
+    lf.classList.remove('inline');
+  }
   app.innerHTML='';
   app.appendChild(buildScreen());
   document.body.setAttribute('data-screen',S.screen);
   // Move the language toggle into the quiz top bar's slot when one exists
-  // (quiz screen), otherwise restore it as the floating bottom-right pill.
+  // (quiz screen), otherwise it stays as the floating top-right pill.
   // This is what keeps it from ever covering Save & Next / the palette sheet.
-  const lf=document.getElementById('langFloat');
   const slot=document.getElementById('langFloatSlot');
-  if(lf){
-    if(slot){ slot.appendChild(lf); lf.classList.add('inline'); }
-    else if(lf.parentElement!==document.body){ document.body.appendChild(lf); lf.classList.remove('inline'); }
-  }
+  if(lf && slot){ slot.appendChild(lf); lf.classList.add('inline'); }
   window.scrollTo(0,0);
 };
 const go=screen=>{S.screen=screen;render();};
