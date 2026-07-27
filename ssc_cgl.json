@@ -848,6 +848,276 @@
           ],
           "ans": 0,
           "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A shopkeeper marks his goods 35% above the cost price and then offers a discount of 12% on the marked price. If the cost price of an article is ₹2,400, what is his profit percentage?",
+          "q_hi": "एक दुकानदार अपने माल को क्रय मूल्य से 35% अधिक पर अंकित करता है और फिर अंकित मूल्य पर 12% की छूट देता है। यदि किसी वस्तु का क्रय मूल्य ₹2,400 है, तो उसका लाभ प्रतिशत क्या है?",
+          "opts": [
+            0.188,
+            0.196,
+            0.182,
+            0.215
+          ],
+          "opts_hi": [
+            0.188,
+            0.196,
+            0.182,
+            0.215
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Two trains of lengths 180 m and 240 m are running on parallel tracks in opposite directions at speeds of 54 km/h and 72 km/h respectively. How long (in seconds) will they take to completely cross each other?",
+          "q_hi": "180 m और 240 m लंबाई की दो ट्रेनें समानांतर पटरियों पर विपरीत दिशाओं में क्रमशः 54 km/h और 72 km/h की गति से दौड़ रही हैं। वे एक-दूसरे को पूरी तरह से पार करने में कितना समय (सेकंड में) लेंगी?",
+          "opts": [
+            "8 sec",
+            "10 sec",
+            "12 sec",
+            "9 sec"
+          ],
+          "opts_hi": [
+            "8 सेकंड",
+            "10 सेकंड",
+            "12 सेकंड",
+            "9 सेकंड"
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A sum of money invested at compound interest (compounded annually) amounts to ₹6,760 in 2 years and ₹7,436 in 3 years. What is the rate of interest per annum?",
+          "q_hi": "चक्रवृद्धि ब्याज (वार्षिक चक्रवृद्धि) पर निवेश की गई एक धनराशि 2 वर्षों में ₹6,760 और 3 वर्षों में ₹7,436 हो जाती है। प्रति वर्ष ब्याज दर क्या है?",
+          "opts": [
+            0.08,
+            0.1,
+            0.12,
+            0.09
+          ],
+          "opts_hi": [
+            0.08,
+            0.1,
+            0.12,
+            0.09
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "In a circle with centre O, a chord AB of length 16 cm is at a perpendicular distance of 6 cm from the centre. What is the radius of the circle?",
+          "q_hi": "केंद्र O वाले एक वृत्त में, 16 cm लंबाई की जीवा AB केंद्र से 6 cm की लंबवत् दूरी पर है। वृत्त की त्रिज्या क्या है?",
+          "opts": [
+            "8 cm",
+            "12 cm",
+            "10 cm",
+            "14 cm"
+          ],
+          "opts_hi": [
+            "8 cm",
+            "12 cm",
+            "10 cm",
+            "14 cm"
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Two alloys A and B contain copper and zinc in the ratios 3:2 and 5:3 respectively. In what ratio should alloy A and alloy B be mixed so that the resulting mixture contains copper and zinc in the ratio 11:7?",
+          "q_hi": "दो मिश्र धातुओं A और B में तांबा और जस्ता क्रमशः 3:2 और 5:3 के अनुपात में हैं। मिश्र धातु A और B को किस अनुपात में मिलाया जाए ताकि परिणामी मिश्रण में तांबा और जस्ता 11:7 के अनुपात में हो?",
+          "opts": [
+            "3:4",
+            "2:3",
+            "4:3",
+            "1:2"
+          ],
+          "opts_hi": [
+            "3:4",
+            "2:3",
+            "4:3",
+            "1:2"
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A shopkeeper marks his goods 40% above the cost price and then offers a discount of 15% on the marked price. If the cost price of the article is ₹800, what is his profit percentage?",
+          "q_hi": "एक दुकानदार अपने माल को क्रय मूल्य से 40% अधिक पर अंकित करता है और फिर अंकित मूल्य पर 15% की छूट देता है। यदि वस्तु का क्रय मूल्य ₹800 है, तो उसका लाभ प्रतिशत क्या है?",
+          "opts": [
+            0.19,
+            0.21,
+            0.25,
+            0.18
+          ],
+          "opts_hi": [
+            0.19,
+            0.21,
+            0.25,
+            0.18
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Two trains start simultaneously from stations P and Q towards each other. The speed of the first train is 54 km/h and that of the second is 36 km/h. When they meet, the first train has covered 27 km more than the second. What is the distance between stations P and Q?",
+          "q_hi": "दो ट्रेनें एक साथ स्टेशन P और Q से एक-दूसरे की ओर चलती हैं। पहली ट्रेन की गति 54 km/h और दूसरी की 36 km/h है। जब वे मिलती हैं, तो पहली ट्रेन ने दूसरी से 27 km अधिक दूरी तय की होती है। स्टेशन P और Q के बीच की दूरी क्या है?",
+          "opts": [
+            "135 km",
+            "108 km",
+            "162 km",
+            "120 km"
+          ],
+          "opts_hi": [
+            "135 km",
+            "108 km",
+            "162 km",
+            "120 km"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A sum of money amounts to ₹6,050 in 2 years and ₹6,655 in 3 years at compound interest compounded annually. What is the rate of interest per annum?",
+          "q_hi": "एक धनराशि चक्रवृद्धि ब्याज (वार्षिक) पर 2 वर्षों में ₹6,050 और 3 वर्षों में ₹6,655 हो जाती है। वार्षिक ब्याज दर क्या है?",
+          "opts": [
+            0.08,
+            0.12,
+            0.1,
+            0.11
+          ],
+          "opts_hi": [
+            0.08,
+            0.12,
+            0.1,
+            0.11
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "In triangle ABC, D is a point on BC such that BD : DC = 2 : 3. If the area of triangle ABD is 24 cm², what is the area of triangle ABC?",
+          "q_hi": "त्रिभुज ABC में, D, BC पर एक बिंदु है जिस पर BD : DC = 2 : 3 है। यदि त्रिभुज ABD का क्षेत्रफल 24 cm² है, तो त्रिभुज ABC का क्षेत्रफल क्या है?",
+          "opts": [
+            "48 cm²",
+            "60 cm²",
+            "72 cm²",
+            "56 cm²"
+          ],
+          "opts_hi": [
+            "48 cm²",
+            "60 cm²",
+            "72 cm²",
+            "56 cm²"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "If 3x + 5y = 38 and 5x + 3y = 34, what is the value of x − y?",
+          "q_hi": "यदि 3x + 5y = 38 और 5x + 3y = 34 हो, तो x − y का मान क्या है?",
+          "opts": [
+            "−2",
+            2,
+            4,
+            "−4"
+          ],
+          "opts_hi": [
+            "−2",
+            2,
+            4,
+            "−4"
+          ],
+          "ans": 3,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A shopkeeper marks his goods 40% above the cost price and then offers a discount of 15% on the marked price. If his cost price is ₹800, what is his profit percentage?",
+          "q_hi": "एक दुकानदार अपने माल को क्रय मूल्य से 40% अधिक अंकित करता है और फिर अंकित मूल्य पर 15% की छूट देता है। यदि उसका क्रय मूल्य ₹800 है, तो उसका लाभ प्रतिशत क्या है?",
+          "opts": [
+            0.19,
+            0.2,
+            0.22,
+            0.25
+          ],
+          "opts_hi": [
+            0.19,
+            0.2,
+            0.22,
+            0.25
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A train 180 m long passes a platform 270 m long in 45 seconds. How long will the same train take to pass a man standing on the platform?",
+          "q_hi": "180 मीटर लंबी एक ट्रेन, 270 मीटर लंबे एक प्लेटफॉर्म को 45 सेकंड में पार करती है। उसी ट्रेन को प्लेटफॉर्म पर खड़े एक व्यक्ति को पार करने में कितना समय लगेगा?",
+          "opts": [
+            "18 sec",
+            "20 sec",
+            "24 sec",
+            "27 sec"
+          ],
+          "opts_hi": [
+            "18 सेकंड",
+            "20 सेकंड",
+            "24 सेकंड",
+            "27 सेकंड"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "What is the difference between compound interest and simple interest on a principal of ₹12,000 at 10% per annum for 2 years?",
+          "q_hi": "₹12,000 की मूलधन पर 10% वार्षिक दर से 2 वर्षों के लिए चक्रवृद्धि ब्याज और साधारण ब्याज का अंतर कितना है?",
+          "opts": [
+            "₹100",
+            "₹110",
+            "₹120",
+            "₹144"
+          ],
+          "opts_hi": [
+            "₹100",
+            "₹110",
+            "₹120",
+            "₹144"
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "In a triangle ABC, the angle bisector from vertex A meets BC at D. If AB = 9 cm, AC = 6 cm, and BC = 10 cm, what is the length of BD?",
+          "q_hi": "त्रिभुज ABC में, शीर्ष A से कोण द्विभाजक BC को D पर मिलता है। यदि AB = 9 सेमी, AC = 6 सेमी और BC = 10 सेमी है, तो BD की लंबाई क्या है?",
+          "opts": [
+            "4 cm",
+            "5 cm",
+            "6 cm",
+            "7 cm"
+          ],
+          "opts_hi": [
+            "4 सेमी",
+            "5 सेमी",
+            "6 सेमी",
+            "7 सेमी"
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Pipe A can fill a tank in 12 hours and Pipe B can fill it in 18 hours. Pipe C can empty the full tank in 36 hours. If all three pipes are opened simultaneously, in how many hours will the empty tank be completely filled?",
+          "q_hi": "पाइप A एक टंकी को 12 घंटे में और पाइप B उसे 18 घंटे में भर सकता है। पाइप C पूरी टंकी को 36 घंटे में खाली कर सकता है। यदि तीनों पाइप एक साथ खोले जाएँ, तो खाली टंकी कितने घंटों में पूरी तरह भर जाएगी?",
+          "opts": [
+            "8 hours",
+            "9 hours",
+            "10 hours",
+            "12 hours"
+          ],
+          "opts_hi": [
+            "8 घंटे",
+            "9 घंटे",
+            "10 घंटे",
+            "12 घंटे"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
         }
       ]
     },
