@@ -39,10 +39,14 @@ SUBJECT_ALIASES = {
     "current affairs": "Current Affairs",
 }
 
-# Subjects that directly test English/Hindi language skill should never carry
-# a translated q_hi/opts_hi into the shared subject pool either — keep the
-# pool consistent with the per-exam files.
-ENGLISH_SKILL_SUBJECTS = {"English Comprehension"}
+# Subjects that directly test English or Hindi language skill should never
+# carry a translated q_hi/opts_hi into the shared subject pool either — this
+# mirrors the same rule now enforced live in index.html (isLanguageSkillSubject):
+# any subject whose name contains "english" or "hindi" is treated as a
+# language-skill subject, across every exam.
+def is_language_skill_subject(subject):
+    s = (subject or "").lower()
+    return "english" in s or "hindi" in s
 
 def slugify(s):
     s = (s or "").lower().strip()
@@ -87,7 +91,7 @@ def main():
                 total_seen += 1
                 subj = canonical_subject(q.get("subject"))
                 qq = dict(q)  # shallow copy
-                if subj in ENGLISH_SKILL_SUBJECTS:
+                if is_language_skill_subject(subj):
                     qq.pop("q_hi", None)
                     qq.pop("opts_hi", None)
                 pools.setdefault(subj, []).append(qq)
