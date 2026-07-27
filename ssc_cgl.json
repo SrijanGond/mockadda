@@ -1141,6 +1141,186 @@
           ],
           "ans": 3,
           "subject": "General Awareness"
+        },
+        {
+          "q": "Select the part of the sentence that contains an error. / The committee have reached (A) / their decision after (B) / a long and heated (C) / discussion yesterday. (D)",
+          "q_hi": "",
+          "opts": [
+            "The committee have reached",
+            "their decision after",
+            "a long and heated",
+            "discussion yesterday."
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 0,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Choose the most appropriate word to fill in the blank. / Despite the manager's repeated warnings, the employee remained _______ to the company's code of conduct.",
+          "q_hi": "",
+          "opts": [
+            "oblivious",
+            "adherent",
+            "conducive",
+            "indifferent"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 3,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Select the correct meaning of the underlined idiom. / After years of rivalry, the two business partners finally decided to bury the hatchet and work together.",
+          "q_hi": "",
+          "opts": [
+            "hide their profits",
+            "end their hostility",
+            "sign a legal contract",
+            "divide their assets"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Choose the word that is closest in meaning to the given word. / TACITURN",
+          "q_hi": "",
+          "opts": [
+            "Garrulous",
+            "Reserved",
+            "Arrogant",
+            "Impulsive"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Select the one word that best substitutes the given phrase. / A person who is unable to pay their debts",
+          "q_hi": "",
+          "opts": [
+            "Indigent",
+            "Insolvent",
+            "Destitute",
+            "Frugal"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Select the most appropriate word to fill in the blank.  The scientist's groundbreaking research _______ the conventional understanding of how memory is stored in the brain.",
+          "q_hi": "",
+          "opts": [
+            "confirmed",
+            "challenged",
+            "ignored",
+            "repeated"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Select the word most similar in meaning to the word given below.  AMBIGUOUS",
+          "q_hi": "",
+          "opts": [
+            "Precise",
+            "Hostile",
+            "Equivocal",
+            "Vivid"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 2,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Select the word most opposite in meaning to the word given below.  FRUGAL",
+          "q_hi": "",
+          "opts": [
+            "Thrifty",
+            "Lavish",
+            "Modest",
+            "Cautious"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Select the most appropriate meaning of the given idiom.  To beat around the bush",
+          "q_hi": "",
+          "opts": [
+            "To work very hard",
+            "To avoid the main topic",
+            "To speak very loudly",
+            "To finish a task quickly"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "The given sentence is divided into four parts (A), (B), (C), and (D). Identify the part that contains a grammatical error.  (A) Neither of the two candidates / (B) were able to answer / (C) the question posed / (D) by the panel.",
+          "q_hi": "",
+          "opts": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
         }
       ]
     },
