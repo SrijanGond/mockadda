@@ -1,0 +1,112 @@
+{
+  "questions": [
+    {
+      "q": "Which article abolishes untouchability?",
+      "q_hi": "किस अनुच्छेद ने अस्पृश्यता को समाप्त किया?",
+      "opts": [
+        "Article 14",
+        "Article 15",
+        "Article 16",
+        "Article 17"
+      ],
+      "opts_hi": [
+        "अनुच्छेद 14",
+        "अनुच्छेद 15",
+        "अनुच्छेद 16",
+        "अनुच्छेद 17"
+      ],
+      "ans": 3,
+      "subject": "Polity"
+    },
+    {
+      "q": "Right to Freedom is guaranteed under which group of Articles?",
+      "q_hi": "स्वतंत्रता का अधिकार किस अनुच्छेद समूह के तहत सुनिश्चित किया गया है?",
+      "opts": [
+        "Article 14-18",
+        "Article 19-22",
+        "Article 23-24",
+        "Article 25-28"
+      ],
+      "opts_hi": [
+        "अनुच्छेद 14-18",
+        "अनुच्छेद 19-22",
+        "अनुच्छेद 23-24",
+        "अनुच्छेद 25-28"
+      ],
+      "ans": 1,
+      "subject": "Polity"
+    },
+    {
+      "q": "The Right to Life and Personal Liberty is guaranteed under which Article?",
+      "q_hi": "जीवन और व्यक्तिगत स्वतंत्रता का अधिकार किस अनुच्छेद के तहत सुनिश्चित किया गया है?",
+      "opts": [
+        "Article 19",
+        "Article 20",
+        "Article 21",
+        "Article 22"
+      ],
+      "opts_hi": [
+        "अनुच्छेद 19",
+        "अनुच्छेद 20",
+        "अनुच्छेद 21",
+        "अनुच्छेद 22"
+      ],
+      "ans": 2,
+      "subject": "Polity"
+    },
+    {
+      "q": "Which Fundamental Right was described by Dr. B.R. Ambedkar as the \"heart and soul\" of the Constitution?",
+      "q_hi": "डॉ. बी.आर. आंबेडकर द्वारा संविधान का \"हृदय और आत्मा\" किस मौलिक अधिकार को कहा गया था?",
+      "opts": [
+        "Right to Equality",
+        "Right against Exploitation",
+        "Right to Constitutional Remedies",
+        "Right to Freedom of Religion"
+      ],
+      "opts_hi": [
+        "समानता का अधिकार",
+        "शोषण के विरुद्ध अधिकार",
+        "संवैधानिक उपचार का अधिकार",
+        "धर्म की स्वतंत्रता का अधिकार"
+      ],
+      "ans": 2,
+      "subject": "Polity"
+    },
+    {
+      "q": "Which Article of the Indian Constitution deals with the Right to Equality?",
+      "q_hi": "भारतीय संविधान का कौन सा अनुच्छेद समानता के अधिकार से संबंधित है?",
+      "opts": [
+        "Article 14",
+        "Article 19",
+        "Article 21",
+        "Article 25"
+      ],
+      "opts_hi": [
+        "अनुच्छेद 14",
+        "अनुच्छेद 19",
+        "अनुच्छेद 21",
+        "अनुच्छेद 25"
+      ],
+      "ans": 0,
+      "subject": "Polity"
+    },
+    {
+      "q": "Which Constitutional Amendment Act is known as the 'Mini Constitution'?",
+      "q_hi": "किस संवैधानिक संशोधन अधिनियम को 'लघु संविधान' के नाम से जाना जाता है?",
+      "opts": [
+        "42nd Amendment Act",
+        "44th Amendment Act",
+        "52nd Amendment Act",
+        "73rd Amendment Act"
+      ],
+      "opts_hi": [
+        "42वां संशोधन अधिनियम",
+        "44वां संशोधन अधिनियम",
+        "52वां संशोधन अधिनियम",
+        "73वां संशोधन अधिनियम"
+      ],
+      "ans": 0,
+      "subject": "Polity"
+    }
+  ]
+}

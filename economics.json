@@ -1,0 +1,94 @@
+{
+  "questions": [
+    {
+      "q": "What is the full form of GDP?",
+      "q_hi": "GDP का पूर्ण रूप क्या है?",
+      "opts": [
+        "Gross Domestic Product",
+        "Gross Development Product",
+        "General Domestic Product",
+        "None"
+      ],
+      "opts_hi": [
+        "ग्रॉस डोमेस्टिक प्रोडक्ट",
+        "ग्रॉस डेवलपमेंट प्रोडक्ट",
+        "जनरल डोमेस्टिक प्रोडक्ट",
+        "कोई नहीं"
+      ],
+      "ans": 0,
+      "subject": "Economics"
+    },
+    {
+      "q": "What is the apex body for microfinance in India?",
+      "q_hi": "भारत में सूक्ष्म वित्त का शीर्ष निकाय कौन सा है?",
+      "opts": [
+        "NABARD",
+        "RBI",
+        "SEBI",
+        "NHB"
+      ],
+      "opts_hi": [
+        "नाबार्ड",
+        "आरबीआई",
+        "सेबी",
+        "एनएचबी"
+      ],
+      "ans": 0,
+      "subject": "Economics"
+    },
+    {
+      "q": "What is the current base year for calculating GDP in India?",
+      "q_hi": "भारत में GDP गणना के लिए वर्तमान आधार वर्ष क्या है?",
+      "opts": [
+        "2011-12",
+        "2004-05",
+        "2015-16",
+        "2020-21"
+      ],
+      "opts_hi": [
+        "2011-12",
+        "2004-05",
+        "2015-16",
+        "2020-21"
+      ],
+      "ans": 0,
+      "subject": "Economics"
+    },
+    {
+      "q": "What is the main objective of Fiscal Policy?",
+      "q_hi": "राजकोषीय नीति का मुख्य उद्देश्य क्या है?",
+      "opts": [
+        "Price stability",
+        "Economic growth",
+        "Both",
+        "None"
+      ],
+      "opts_hi": [
+        "मूल्य स्थिरता",
+        "आर्थिक विकास",
+        "दोनों",
+        "कोई नहीं"
+      ],
+      "ans": 1,
+      "subject": "Economics"
+    },
+    {
+      "q": "What is the main objective of Monetary Policy?",
+      "q_hi": "मौद्रिक नीति का मुख्य उद्देश्य क्या है?",
+      "opts": [
+        "Control inflation",
+        "Economic growth",
+        "Both",
+        "None"
+      ],
+      "opts_hi": [
+        "मुद्रास्फीति नियंत्रण",
+        "आर्थिक विकास",
+        "दोनों",
+        "कोई नहीं"
+      ],
+      "ans": 2,
+      "subject": "Economics"
+    }
+  ]
+}

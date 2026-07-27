@@ -1,0 +1,580 @@
+{
+  "questions": [
+    {
+      "q": "What is the full form of CGL?",
+      "q_hi": "CGL का पूर्ण रूप क्या है?",
+      "opts": [
+        "Combined Graduate Level",
+        "Central Graduate Level",
+        "Combined General Level",
+        "Central General Level"
+      ],
+      "opts_hi": [
+        "संयुक्त स्नातक स्तर",
+        "केंद्रीय स्नातक स्तर",
+        "संयुक्त सामान्य स्तर",
+        "केंद्रीय सामान्य स्तर"
+      ],
+      "ans": 0,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "Who appoints the Chief Justice of India?",
+      "q_hi": "भारत के मुख्य न्यायाधीश की नियुक्ति कौन करता है?",
+      "opts": [
+        "Prime Minister",
+        "President",
+        "Parliament",
+        "Supreme Court Judges"
+      ],
+      "opts_hi": [
+        "प्रधानमंत्री",
+        "राष्ट्रपति",
+        "संसद",
+        "सर्वोच्च न्यायालय के न्यायाधीश"
+      ],
+      "ans": 1,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "What is the SI unit of pressure?",
+      "q_hi": "दबाव की SI इकाई क्या है?",
+      "opts": [
+        "Newton",
+        "Pascal",
+        "Joule",
+        "Watt"
+      ],
+      "opts_hi": [
+        "न्यूटन",
+        "पास्कल",
+        "जूल",
+        "वाट"
+      ],
+      "ans": 1,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "Which article of Indian Constitution deals with Right to Equality?",
+      "q_hi": "भारतीय संविधान का कौन सा अनुच्छेद समानता के अधिकार से संबंधित है?",
+      "opts": [
+        "Article 12",
+        "Article 14",
+        "Article 19",
+        "Article 21"
+      ],
+      "opts_hi": [
+        "अनुच्छेद 12",
+        "अनुच्छेद 14",
+        "अनुच्छेद 19",
+        "अनुच्छेद 21"
+      ],
+      "ans": 1,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "The Quit India Movement was launched in which year?",
+      "q_hi": "भारत छोड़ो आंदोलन किस वर्ष शुरू हुआ था?",
+      "opts": [
+        "1940",
+        "1941",
+        "1942",
+        "1943"
+      ],
+      "opts_hi": [
+        "1940",
+        "1941",
+        "1942",
+        "1943"
+      ],
+      "ans": 2,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "Which gas is used in electric bulbs?",
+      "q_hi": "विद्युत बल्बों में कौन सी गैस का उपयोग होता है?",
+      "opts": [
+        "Oxygen",
+        "Nitrogen",
+        "Argon",
+        "Hydrogen"
+      ],
+      "opts_hi": [
+        "ऑक्सीजन",
+        "नाइट्रोजन",
+        "आर्गन",
+        "हाइड्रोजन"
+      ],
+      "ans": 2,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "The Preamble of the Indian Constitution was amended in which year?",
+      "q_hi": "भारतीय संविधान की प्रस्तावना किस वर्ष संशोधित की गई थी?",
+      "opts": [
+        "1971",
+        "1974",
+        "1976",
+        "1978"
+      ],
+      "opts_hi": [
+        "1971",
+        "1974",
+        "1976",
+        "1978"
+      ],
+      "ans": 2,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "Which planet has the most moons?",
+      "q_hi": "किस ग्रह के सबसे अधिक चंद्रमा हैं?",
+      "opts": [
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune"
+      ],
+      "opts_hi": [
+        "बृहस्पति",
+        "शनि",
+        "अरुण",
+        "वरुण"
+      ],
+      "ans": 1,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "SEBI stands for?",
+      "q_hi": "SEBI का पूर्ण रूप क्या है?",
+      "opts": [
+        "Securities Exchange Board of India",
+        "Stock Exchange Bureau of India",
+        "Securities and Exchange Board of India",
+        "State Exchange Board of India"
+      ],
+      "opts_hi": [
+        "भारतीय प्रतिभूति विनिमय बोर्ड",
+        "स्टॉक एक्सचेंज ब्यूरो ऑफ इंडिया",
+        "भारतीय प्रतिभूति एवं विनिमय बोर्ड",
+        "राज्य विनिमय बोर्ड ऑफ इंडिया"
+      ],
+      "ans": 2,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "Speed of sound in air is approximately?",
+      "q_hi": "वायु में ध्वनि की गति लगभग कितनी है?",
+      "opts": [
+        "232 m/s",
+        "332 m/s",
+        "432 m/s",
+        "532 m/s"
+      ],
+      "opts_hi": [
+        "232 मी/से",
+        "332 मी/से",
+        "432 मी/से",
+        "532 मी/से"
+      ],
+      "ans": 1,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "Who is known as the \"Father of the Indian Constitution\"?",
+      "q_hi": "भारतीय संविधान के जनक के रूप में किसे जाना जाता है?",
+      "opts": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "B.R. Ambedkar",
+        "Sardar Patel"
+      ],
+      "opts_hi": [
+        "महात्मा गांधी",
+        "जवाहरलाल नेहरू",
+        "बी.आर. अम्बेडकर",
+        "सरदार पटेल"
+      ],
+      "ans": 2,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "Which of the following is a non-metallic mineral?",
+      "q_hi": "निम्नलिखित में से कौन सा अधात्विक खनिज है?",
+      "opts": [
+        "Iron Ore",
+        "Bauxite",
+        "Mica",
+        "Copper"
+      ],
+      "opts_hi": [
+        "लौह अयस्क",
+        "बॉक्साइट",
+        "अभ्रक",
+        "तांबा"
+      ],
+      "ans": 2,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "The \"Gandhi-Irwin Pact\" was signed in which year?",
+      "q_hi": "गांधी-इरविन समझौता किस वर्ष हस्ताक्षरित किया गया था?",
+      "opts": [
+        "1929",
+        "1930",
+        "1931",
+        "1932"
+      ],
+      "opts_hi": [
+        "1929",
+        "1930",
+        "1931",
+        "1932"
+      ],
+      "ans": 2,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "The largest gland in the human body is the:",
+      "q_hi": "मानव शरीर की सबसे बड़ी ग्रंथि है:",
+      "opts": [
+        "Liver",
+        "Kidney",
+        "Pancreas",
+        "Thyroid"
+      ],
+      "opts_hi": [
+        "यकृत",
+        "वृक्क",
+        "अग्न्याशय",
+        "थायराइड"
+      ],
+      "ans": 0,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "Which of the following is NOT a Kharif crop?",
+      "q_hi": "निम्नलिखित में से कौन सी खरीफ की फसल नहीं है?",
+      "opts": [
+        "Rice",
+        "Wheat",
+        "Cotton",
+        "Sugarcane"
+      ],
+      "opts_hi": [
+        "धान",
+        "गेहूँ",
+        "कपास",
+        "गन्ना"
+      ],
+      "ans": 1,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "The Panchayati Raj system was first introduced in which Indian state?",
+      "q_hi": "पंचायती राज प्रणाली सबसे पहले किस भारतीय राज्य में शुरू की गई थी?",
+      "opts": [
+        "Uttar Pradesh",
+        "Rajasthan",
+        "Gujarat",
+        "Maharashtra"
+      ],
+      "opts_hi": [
+        "उत्तर प्रदेश",
+        "राजस्थान",
+        "गुजरात",
+        "महाराष्ट्र"
+      ],
+      "ans": 1,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "The concept of \"Gross Domestic Product\" (GDP) was popularized by:",
+      "q_hi": "सकल घरेलू उत्पाद (GDP) की अवधारणा को किसने लोकप्रिय बनाया?",
+      "opts": [
+        "Adam Smith",
+        "Karl Marx",
+        "Simon Kuznets",
+        "John Maynard Keynes"
+      ],
+      "opts_hi": [
+        "एडम स्मिथ",
+        "कार्ल मार्क्स",
+        "साइमन कुजनेट्स",
+        "जॉन मेनार्ड कीन्स"
+      ],
+      "ans": 2,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "Bauxite is an ore of which metal?",
+      "q_hi": "बॉक्साइट किस धातु का अयस्क है?",
+      "opts": [
+        "Iron",
+        "Copper",
+        "Aluminum",
+        "Gold"
+      ],
+      "opts_hi": [
+        "लोहा",
+        "तांबा",
+        "एल्यूमीनियम",
+        "सोना"
+      ],
+      "ans": 2,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "Which planet is known as the \"Morning Star\"?",
+      "q_hi": "किस ग्रह को \"सुबह का तारा\" कहा जाता है?",
+      "opts": [
+        "Mars",
+        "Jupiter",
+        "Venus",
+        "Mercury"
+      ],
+      "opts_hi": [
+        "मंगल",
+        "बृहस्पति",
+        "शुक्र",
+        "बुध"
+      ],
+      "ans": 2,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "Which Amendment Act is known as the \"Mini Constitution\" of India?",
+      "q_hi": "किस संशोधन अधिनियम को भारत का \"लघु संविधान\" कहा जाता है?",
+      "opts": [
+        "42nd Amendment",
+        "44th Amendment",
+        "73rd Amendment",
+        "86th Amendment"
+      ],
+      "opts_hi": [
+        "42वाँ संशोधन",
+        "44वाँ संशोधन",
+        "73वाँ संशोधन",
+        "86वाँ संशोधन"
+      ],
+      "ans": 0,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "The first woman President of India was:",
+      "q_hi": "भारत की पहली महिला राष्ट्रपति थीं:",
+      "opts": [
+        "Indira Gandhi",
+        "Pratibha Patil",
+        "Sarojini Naidu",
+        "Sonia Gandhi"
+      ],
+      "opts_hi": [
+        "इंदिरा गांधी",
+        "प्रतिभा पाटिल",
+        "सरोजिनी नायडू",
+        "सोनिया गांधी"
+      ],
+      "ans": 1,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "Who was the first Governor-General of India?",
+      "q_hi": "भारत के पहले गवर्नर-जनरल कौन थे?",
+      "opts": [
+        "Warren Hastings",
+        "Lord Cornwallis",
+        "Lord Wellesley",
+        "William Bentinck"
+      ],
+      "opts_hi": [
+        "वारेन हेस्टिंग्स",
+        "लॉर्ड कॉर्नवालिस",
+        "लॉर्ड वेलेस्ली",
+        "विलियम बेंटिक"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who is called the \"Iron Man of India\"?",
+      "q_hi": "भारत का लौह पुरुष किसे कहा जाता है?",
+      "opts": [
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Sardar Vallabhbhai Patel",
+        "Subhas Chandra Bose"
+      ],
+      "opts_hi": [
+        "जवाहरलाल नेहरू",
+        "महात्मा गांधी",
+        "सरदार वल्लभभाई पटेल",
+        "सुभाष चंद्र बोस"
+      ],
+      "ans": 2,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who is the current President of India?",
+      "q_hi": "भारत के वर्तमान राष्ट्रपति कौन हैं?",
+      "opts": [
+        "Ram Nath Kovind",
+        "Droupadi Murmu",
+        "Pranab Mukherjee",
+        "Narendra Modi"
+      ],
+      "opts_hi": [
+        "राम नाथ कोविन्द",
+        "द्रौपदी मुर्मू",
+        "प्रणब मुखर्जी",
+        "नरेंद्र मोदी"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which aquatic animal has three hearts?",
+      "q_hi": "किस जलीय जंतु के तीन हृदय होते हैं?",
+      "opts": [
+        "Octopus",
+        "Blue Whale",
+        "Shark",
+        "Crocodile"
+      ],
+      "opts_hi": [
+        "ऑक्टोपस",
+        "ब्लू व्हेल",
+        "शार्क",
+        "मगरमच्छ"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which is the longest river bridge in India?",
+      "q_hi": "भारत का सबसे लंबा नदी पुल कौन सा है?",
+      "opts": [
+        "Dhola-Sadiya Bridge (Assam)",
+        "Howrah Bridge",
+        "Mahatma Gandhi Bridge",
+        "Godavari Bridge"
+      ],
+      "opts_hi": [
+        "ढोला-सादिया पुल (असम)",
+        "हावड़ा पुल",
+        "महात्मा गांधी पुल",
+        "गोदावरी पुल"
+      ],
+      "ans": 0,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which Schedule of the Constitution deals with the division of powers between Union and States?",
+      "q_hi": "संविधान की कौन सी अनुसूची संघ और राज्यों के बीच शक्तियों के विभाजन से संबंधित है?",
+      "opts": [
+        "6th Schedule",
+        "7th Schedule",
+        "8th Schedule",
+        "10th Schedule"
+      ],
+      "opts_hi": [
+        "6ठी अनुसूची",
+        "7वीं अनुसूची",
+        "8वीं अनुसूची",
+        "10वीं अनुसूची"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which state is the largest producer of sugarcane in India?",
+      "q_hi": "भारत में सबसे बड़ा गन्ना उत्पादक राज्य कौन सा है?",
+      "opts": [
+        "Maharashtra",
+        "Uttar Pradesh",
+        "Karnataka",
+        "Tamil Nadu"
+      ],
+      "opts_hi": [
+        "महाराष्ट्र",
+        "उत्तर प्रदेश",
+        "कर्नाटक",
+        "तमिलनाडु"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which state produces the maximum rice in India?",
+      "q_hi": "भारत में सबसे अधिक चावल उत्पादन करने वाला राज्य कौन सा है?",
+      "opts": [
+        "Uttar Pradesh",
+        "West Bengal",
+        "Punjab",
+        "Andhra Pradesh"
+      ],
+      "opts_hi": [
+        "उत्तर प्रदेश",
+        "पश्चिम बंगाल",
+        "पंजाब",
+        "आंध्र प्रदेश"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which continent is referred to as a \"Continent Dedicated to Science\"?",
+      "q_hi": "किस महाद्वीप को \"विज्ञान के लिए समर्पित महाद्वीप\" कहा जाता है?",
+      "opts": [
+        "Africa",
+        "Antarctica",
+        "North America",
+        "Asia"
+      ],
+      "opts_hi": [
+        "अफ्रीका",
+        "अंटार्कटिका",
+        "उत्तरी अमेरिका",
+        "एशिया"
+      ],
+      "ans": 1,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Who is known as the 'Father of the Indian Constitution'?",
+      "q_hi": "भारतीय संविधान के 'जनक' के रूप में किसे जाना जाता है?",
+      "opts": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Dr. B.R. Ambedkar",
+        "Sardar Patel"
+      ],
+      "opts_hi": [
+        "महात्मा गांधी",
+        "जवाहरलाल नेहरू",
+        "डॉ. बी.आर. अम्बेडकर",
+        "सरदार पटेल"
+      ],
+      "ans": 2,
+      "subject": "General Knowledge"
+    },
+    {
+      "q": "Which of the following is the most abundant gas in the Earth's atmosphere?",
+      "q_hi": "पृथ्वी के वायुमंडल में सबसे प्रचुर मात्रा में पाई जाने वाली गैस निम्नलिखित में से कौन सी है?",
+      "opts": [
+        "Oxygen",
+        "Carbon Dioxide",
+        "Nitrogen",
+        "Argon"
+      ],
+      "opts_hi": [
+        "ऑक्सीजन",
+        "कार्बन डाइऑक्साइड",
+        "नाइट्रोजन",
+        "आर्गन"
+      ],
+      "ans": 2,
+      "subject": "General Awareness"
+    }
+  ]
+}
