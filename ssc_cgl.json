@@ -686,6 +686,168 @@
           ],
           "ans": 2,
           "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A and B together can complete a work in 12 days. B and C together can complete the same work in 18 days. A and C together can complete it in 24 days. In how many days can A, B, and C together complete the work?",
+          "q_hi": "A और B मिलकर किसी काम को 12 दिनों में पूरा कर सकते हैं। B और C मिलकर उसी काम को 18 दिनों में पूरा कर सकते हैं। A और C मिलकर उसे 24 दिनों में पूरा कर सकते हैं। A, B और C मिलकर उस काम को कितने दिनों में पूरा करेंगे?",
+          "opts": [
+            "10 2/3 days",
+            "11 days",
+            "12 days",
+            "9 days"
+          ],
+          "opts_hi": [
+            "10 2/3 दिन",
+            "11 दिन",
+            "12 दिन",
+            "9 दिन"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A sphere of radius 6 cm is melted and recast into a cylinder of height 8 cm. What is the curved surface area of the cylinder? (Use π = 22/7)",
+          "q_hi": "6 सेमी त्रिज्या वाले एक गोले को पिघलाकर 8 सेमी ऊँचाई के एक बेलन में ढाला जाता है। बेलन का वक्र पृष्ठीय क्षेत्रफल क्या है? (π = 22/7 का उपयोग करें)",
+          "opts": [
+            "1584/7 cm²",
+            "792/7 cm²",
+            "1056/7 cm²",
+            "4224/7 cm²"
+          ],
+          "opts_hi": [
+            "1584/7 सेमी²",
+            "792/7 सेमी²",
+            "1056/7 सेमी²",
+            "4224/7 सेमी²"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "If x⁴ + 1/x⁴ = 527, then find the value of x³ - 1/x³, where x > 1.",
+          "q_hi": "यदि x⁴ + 1/x⁴ = 527 है, तो x³ - 1/x³ का मान ज्ञात करें, जहाँ x > 1 है।",
+          "opts": [
+            110,
+            140,
+            120,
+            100
+          ],
+          "opts_hi": [
+            110,
+            140,
+            120,
+            100
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "In triangle ABC, D is a point on BC such that AD is the angle bisector of angle A. If AB = 6 cm, AC = 8 cm, and BC = 10 cm, find the length of BD.",
+          "q_hi": "त्रिभुज ABC में, D, BC पर एक बिंदु है जिससे AD, कोण A का कोण समद्विभाजक है। यदि AB = 6 सेमी, AC = 8 सेमी, और BC = 10 सेमी है, तो BD की लंबाई ज्ञात करें।",
+          "opts": [
+            "30/7 cm",
+            "20/7 cm",
+            "40/7 cm",
+            "25/7 cm"
+          ],
+          "opts_hi": [
+            "30/7 सेमी",
+            "20/7 सेमी",
+            "40/7 सेमी",
+            "25/7 सेमी"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "If tan A + cot A = 5, find the value of tan² A + cot² A.",
+          "q_hi": "यदि tan A + cot A = 5 है, तो tan² A + cot² A का मान ज्ञात करें।",
+          "opts": [
+            23,
+            25,
+            27,
+            21
+          ],
+          "opts_hi": [
+            23,
+            25,
+            27,
+            21
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "The average age of a family of 6 members is 25 years. If the age of the youngest member is 5 years, what was the average age of the family at the time of the birth of the youngest member? (Assume no other changes in the family)",
+          "q_hi": "एक 6 सदस्यीय परिवार की औसत आयु 25 वर्ष है। यदि सबसे छोटे सदस्य की आयु 5 वर्ष है, तो सबसे छोटे सदस्य के जन्म के समय परिवार की औसत आयु क्या थी? (मान लें कि परिवार में कोई अन्य परिवर्तन नहीं हुआ है)",
+          "opts": [
+            "20 years",
+            "24 years",
+            "25 years",
+            "22 years"
+          ],
+          "opts_hi": [
+            "20 वर्ष",
+            "24 वर्ष",
+            "25 वर्ष",
+            "22 वर्ष"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "What is the remainder when 2³¹ is divided by 7?",
+          "q_hi": "2³¹ को 7 से विभाजित करने पर शेषफल क्या है?",
+          "opts": [
+            2,
+            4,
+            6,
+            1
+          ],
+          "opts_hi": [
+            2,
+            4,
+            6,
+            1
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A mixture contains milk and water in the ratio 5:3. If 20 liters of the mixture is replaced by 20 liters of water, the ratio becomes 5:7. Find the initial quantity of milk in the mixture.",
+          "q_hi": "एक मिश्रण में दूध और पानी का अनुपात 5:3 है। यदि मिश्रण के 20 लीटर को 20 लीटर पानी से बदल दिया जाए, तो अनुपात 5:7 हो जाता है। मिश्रण में दूध की प्रारंभिक मात्रा ज्ञात करें।",
+          "opts": [
+            "20 liters",
+            "25 liters",
+            "30 liters",
+            "35 liters"
+          ],
+          "opts_hi": [
+            "20 लीटर",
+            "25 लीटर",
+            "30 लीटर",
+            "35 लीटर"
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "The difference between the compound interest and simple interest on a certain sum at 10% per annum for 2 years is ₹500. Find the sum.",
+          "q_hi": "किसी निश्चित राशि पर 10% वार्षिक ब्याज की दर से 2 वर्षों के चक्रवृद्धि ब्याज और साधारण ब्याज का अंतर ₹500 है। राशि ज्ञात करें।",
+          "opts": [
+            50000,
+            45000,
+            40000,
+            55000
+          ],
+          "opts_hi": [
+            50000,
+            45000,
+            40000,
+            55000
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
         }
       ]
     },
