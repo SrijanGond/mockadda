@@ -567,6 +567,96 @@
           "subject": "Quantitative Aptitude"
         },
         {
+          "q": "If 25% of a number is 75, what is 40% of that number?",
+          "q_hi": "यदि किसी संख्या का 25% 75 है, तो उस संख्या का 40% क्या है?",
+          "opts": [
+            100,
+            110,
+            120,
+            130
+          ],
+          "opts_hi": [
+            100,
+            110,
+            120,
+            130
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A student scored 72 marks out of 120. What is his percentage?",
+          "q_hi": "एक छात्र ने 120 में से 72 अंक प्राप्त किए। उसका प्रतिशत क्या है?",
+          "opts": [
+            0.5,
+            0.55,
+            0.6,
+            0.65
+          ],
+          "opts_hi": [
+            0.5,
+            0.55,
+            0.6,
+            0.65
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "If the price of a product increases by 20% and becomes ₹600, what was the original price?",
+          "q_hi": "यदि किसी वस्तु की कीमत में 20% की वृद्धि होती है और वह ₹600 हो जाती है, तो मूल कीमत क्या थी?",
+          "opts": [
+            "₹480",
+            "₹500",
+            "₹520",
+            "₹540"
+          ],
+          "opts_hi": [
+            "₹480",
+            "₹500",
+            "₹520",
+            "₹540"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "In a class of 50 students, 30% are girls. How many boys are there?",
+          "q_hi": "50 छात्रों की एक कक्षा में, 30% लड़कियाँ हैं। कितने लड़के हैं?",
+          "opts": [
+            30,
+            35,
+            40,
+            45
+          ],
+          "opts_hi": [
+            30,
+            35,
+            40,
+            45
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A man spends 60% of his salary and saves ₹8000. What is his salary?",
+          "q_hi": "एक व्यक्ति अपने वेतन का 60% खर्च करता है और ₹8000 बचाता है। उसका वेतन क्या है?",
+          "opts": [
+            "₹18000",
+            "₹20000",
+            "₹22000",
+            "₹24000"
+          ],
+          "opts_hi": [
+            "₹18000",
+            "₹20000",
+            "₹22000",
+            "₹24000"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
           "q": "Synonym of 'Abundant'?",
           "opts": [
             "Scarce",
