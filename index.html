@@ -22,25 +22,17 @@ html,body{background:linear-gradient(180deg,#eef2ff 0%,#f8fafc 420px,#f8fafc 100
 ::-webkit-scrollbar-thumb{background:#cbd5e1;border-radius:4px;}
 button{font-family:'DM Sans',sans-serif;cursor:pointer;}
 #app{min-height:100vh;padding-bottom:60px;}
-/* Floating language toggle - visible on non-quiz screens. Anchored to the
-   TOP-right (not bottom) everywhere, so it never sits over bottom nav bars,
-   sticky action buttons, or mobile bottom sheets on any screen. */
+/* Floating language toggle - always visible */
 #langFloat{
-  position:fixed;top:14px;right:16px;bottom:auto;z-index:9999;
+  position:fixed;bottom:20px;right:20px;z-index:9999;
   display:flex;align-items:center;background:#0f172a;
   border-radius:30px;padding:6px 8px;gap:4px;
   box-shadow:0 4px 20px rgba(0,0,0,0.3);
   border:2px solid rgba(255,255,255,0.15);
-  transition:top 0.2s;
+  transition:bottom 0.2s;
 }
-/* On the quiz screen the toggle is moved INLINE into the sticky top bar
-   (see #langFloatSlot in the quiz screen builder + the reparenting logic
-   in render()) so it can never float on top of the Save & Next button or
-   the mobile question-palette bottom sheet. .inline overrides the fixed
-   floating pill styling with a small static pill that sits in normal flow. */
-#langFloat.inline{
-  position:static;top:auto;right:auto;bottom:auto;z-index:1;
-  background:#f1f5f9;border:1px solid #e2e8f0;box-shadow:none;
+body[data-screen="quiz"] #langFloat{
+  bottom:86px;
 }
 #langFloat button{
   padding:8px 16px;border-radius:24px;border:none;
@@ -50,10 +42,6 @@ button{font-family:'DM Sans',sans-serif;cursor:pointer;}
 #langFloat button.active{background:#0ea5e9;color:#fff;}
 #langFloat button.inactive{background:transparent;color:#94a3b8;}
 #langFloat button.inactive:hover{color:#fff;}
-#langFloat.inline span{color:#64748b;}
-#langFloat.inline button.inactive{color:#64748b;}
-#langFloat.inline button.inactive:hover{color:#0f172a;}
-#langFloat button:disabled{opacity:.35;cursor:not-allowed;pointer-events:none;}
 @keyframes spin{to{transform:rotate(360deg);}}
 @keyframes fadeIn{from{opacity:0;transform:translateY(8px);}to{opacity:1;transform:translateY(0);}}
 
@@ -79,30 +67,18 @@ button{font-family:'DM Sans',sans-serif;cursor:pointer;}
 <body>
 <div id="app"></div>
 
-<!-- FLOATING LANGUAGE TOGGLE - floats on non-quiz screens; moved inline into the
-     quiz top bar during a test (see #langFloatSlot + render()) -->
+<!-- FLOATING LANGUAGE TOGGLE - Always visible on every screen -->
 <div id="langFloat">
   <span style="font-size:11px;color:#64748b;padding:0 4px;">Lang:</span>
   <button id="btnEN" class="active" onclick="setLang('en')">EN</button>
   <button id="btnHI" class="inactive" onclick="setLang('hi')">हिंदी</button>
 </div>
+<style>
+  #langFloat button:disabled{opacity:.35;cursor:not-allowed;pointer-events:none;}
+</style>
 
 <script>
 // ── LANGUAGE TOGGLE ──────────────────────────────────────────────────────────
-// ── LANGUAGE TOGGLE — UNIVERSAL RULE FOR EVERY EXAM ─────────────────────────
-// Rule (applies to SSC, Banking, Teaching, Railways, Police — every exam on
-// the site, driven by subject name, not by which exam/file it came from):
-//   - Subjects that test English or Hindi language ability directly (subject
-//     name contains "english" or "hindi") -> toggle is DISABLED. A real exam
-//     paper never lets you translate a language-skill question.
-//   - Every other subject (Maths, GK, Reasoning, Polity, Current Affairs,
-//     etc.) -> toggle works normally when a Hindi version exists.
-// This check runs off q.subject itself, so it self-enforces even if a given
-// exam's JSON still has a stray q_hi value left on a language question.
-function isLanguageSkillSubject(subject){
-  const s = (subject || '').toLowerCase();
-  return s.includes('english') || s.includes('hindi');
-}
 function setLang(lang) {
   S.lang = lang;
   document.getElementById('btnEN').className = lang==='en' ? 'active' : 'inactive';
@@ -110,17 +86,20 @@ function setLang(lang) {
   render();
 }
 
+// ── LANGUAGE TOGGLE — PER-QUESTION AVAILABILITY ─────────────────────────────
+// Some questions genuinely only exist in one language (e.g. an "English
+// Language" subject question, or a "General Hindi" question). Those have no
+// q_hi value on purpose. In that case the toggle must not look clickable —
+// a real exam paper doesn't let you translate a language-skill question.
 function syncLangToggleForQuestion(q){
   const hiBtn = document.getElementById('btnHI');
   if(!hiBtn) return;
-  const languageSkillSubject = isLanguageSkillSubject(q && q.subject);
-  const hasHindiVersion = !!(q && q.q_hi) && !languageSkillSubject;
+  const hasHindiVersion = !!(q && q.q_hi);
   hiBtn.disabled = !hasHindiVersion;
-  hiBtn.title = hasHindiVersion ? '' : 'This question tests English/Hindi language ability directly, so it isn\'t translated — matching the real exam pattern.';
+  hiBtn.title = hasHindiVersion ? '' : 'This question does not have a separate Hindi version by design (it tests English or Hindi language ability directly), matching the real exam pattern.';
   // If the student had switched to Hindi on a bilingual question and then
-  // navigates to a language-skill or one-language-only question, silently
-  // fall back to EN for this view without losing their toggle preference
-  // for other questions.
+  // navigates to a one-language-only question, silently fall back to EN for
+  // this view without losing their toggle preference for other questions.
   if(!hasHindiVersion && S.lang==='hi'){
     document.getElementById('btnEN').className='active';
     document.getElementById('btnHI').className='inactive';
@@ -362,29 +341,7 @@ function el(tag,props={},children=[]){
   children.filter(Boolean).forEach(c=>e.appendChild(typeof c==='string'?document.createTextNode(c):c));
   return e;
 }
-const render=()=>{
-  // CRITICAL ORDERING: the language toggle may currently be living INSIDE
-  // #app (moved into the quiz top bar's #langFloatSlot by a previous
-  // render). If we ran app.innerHTML='' while it's still in there, that
-  // wipes the toggle out of the DOM permanently — it would never come back
-  // without a full page reload. So we always pull it back out to <body>
-  // first, THEN clear and rebuild #app, THEN re-attach it into the new
-  // screen's slot if one exists.
-  const lf=document.getElementById('langFloat');
-  if(lf && lf.parentElement!==document.body){
-    document.body.appendChild(lf);
-    lf.classList.remove('inline');
-  }
-  app.innerHTML='';
-  app.appendChild(buildScreen());
-  document.body.setAttribute('data-screen',S.screen);
-  // Move the language toggle into the quiz top bar's slot when one exists
-  // (quiz screen), otherwise it stays as the floating top-right pill.
-  // This is what keeps it from ever covering Save & Next / the palette sheet.
-  const slot=document.getElementById('langFloatSlot');
-  if(lf && slot){ slot.appendChild(lf); lf.classList.add('inline'); }
-  window.scrollTo(0,0);
-};
+const render=()=>{app.innerHTML='';app.appendChild(buildScreen());document.body.setAttribute('data-screen',S.screen);window.scrollTo(0,0);};
 const go=screen=>{S.screen=screen;render();};
 
 // Darkens (negative percent) or lightens (positive percent) a hex color, e.g. shadeColor('#3b82f6', -20)
@@ -1120,13 +1077,10 @@ function quizScreen(){
 
   const root=el('div',{css:`min-height:100vh;background:${CBT.bg};font-family:'DM Sans',sans-serif;color:${CBT.text};`});
 
-  // Minimal top utility bar — exit + language toggle slot + mobile palette toggle.
-  // The language toggle lives here (not floating) so it never sits on top of
-  // Save & Next or the mobile question-palette bottom sheet.
-  const topBar=el('div',{css:`position:sticky;top:0;z-index:20;background:#fff;border-bottom:1px solid ${CBT.border};padding:8px 14px;display:flex;align-items:center;gap:10px;`});
+  // Minimal top utility bar — exit + mobile palette toggle only
+  const topBar=el('div',{css:`position:sticky;top:0;z-index:20;background:#fff;border-bottom:1px solid ${CBT.border};padding:8px 14px;display:flex;align-items:center;justify-content:space-between;gap:10px;`});
   topBar.appendChild(el('button',{css:`background:${CBT.gridBg};border:1px solid ${CBT.border};color:${CBT.muted};width:30px;height:30px;border-radius:8px;font-size:15px;cursor:pointer;flex-shrink:0;display:flex;align-items:center;justify-content:center;`,text:'✕',onClick:()=>{S.stopConfirm=true;render();}}));
-  topBar.appendChild(el('div',{id:'langFloatSlot',css:'flex:1;display:flex;justify-content:center;align-items:center;min-width:0;'}));
-  topBar.appendChild(el('button',{class:'qb-mobile-nav-btn',css:`background:${accent};color:#fff;border:none;padding:7px 14px;border-radius:8px;font-size:12px;font-weight:700;cursor:pointer;flex-shrink:0;`,text:`📋 ${answered}/${qs.length}`,onClick:()=>{S.navOpen=true;render();}}));
+  topBar.appendChild(el('button',{class:'qb-mobile-nav-btn',css:`background:${accent};color:#fff;border:none;padding:7px 14px;border-radius:8px;font-size:12px;font-weight:700;cursor:pointer;`,text:`📋 ${answered}/${qs.length}`,onClick:()=>{S.navOpen=true;render();}}));
   root.appendChild(topBar);
 
   const container=el('div',{class:'qb-container',css:'max-width:1100px;margin:0 auto;padding:16px;'});
@@ -1170,7 +1124,7 @@ function quizScreen(){
   qTextWrap.appendChild(el('div',{css:`font-weight:700;color:${accent};flex-shrink:0;`,text:(S.qi+1)+'.'}));
   const qTextInner=el('div',{css:'flex:1;'});
   qTextInner.appendChild(el('div',{css:`font-size:15px;line-height:1.7;color:${CBT.text};`,text:q.q}));
-  if(S.lang==='hi'&&q.q_hi&&!isLanguageSkillSubject(q.subject)){
+  if(S.lang==='hi'&&q.q_hi){
     qTextInner.appendChild(el('div',{css:`font-size:14px;color:#4338ca;margin-top:6px;line-height:1.7;`,text:q.q_hi}));
   }
   qTextWrap.appendChild(qTextInner);
@@ -1180,7 +1134,7 @@ function quizScreen(){
   const optsGrid=el('div',{css:'display:grid;grid-template-columns:1fr 1fr;gap:14px 20px;margin-bottom:18px;'});
   q.opts.forEach((opt,i)=>{
     const isSel=sel===i;
-    const hindiOpt=(S.lang==='hi'&&q.opts_hi&&q.opts_hi[i]&&!isLanguageSkillSubject(q.subject))?q.opts_hi[i]:null;
+    const hindiOpt=(S.lang==='hi'&&q.opts_hi&&q.opts_hi[i])?q.opts_hi[i]:null;
     const row=el('label',{css:`display:flex;align-items:flex-start;gap:9px;cursor:pointer;font-size:14px;color:${CBT.text};padding:6px;border-radius:8px;`});
     const radio=el('input',{type:'radio',name:'qopt',css:`margin-top:3px;accent-color:${accent};cursor:pointer;flex-shrink:0;width:16px;height:16px;`});
     if(isSel) radio.checked=true;
@@ -1438,16 +1392,15 @@ function resultsScreen(){
       const qt=el('div',{css:`font-size:12px;line-height:1.5;flex:1;color:${Q.text};`});
       qt.appendChild(el('span',{css:`color:${Q.muted};margin-right:6px;font-weight:600;`,text:`Q${i+1}.`}));
       qt.appendChild(document.createTextNode(q.q));
-      if(S.lang==='hi'&&q.q_hi&&!isLanguageSkillSubject(q.subject)) qt.appendChild(el('div',{css:`font-size:11px;color:#818cf8;margin-top:2px;`,text:q.q_hi}));
+      if(S.lang==='hi'&&q.q_hi) qt.appendChild(el('div',{css:`font-size:11px;color:#818cf8;margin-top:2px;`,text:q.q_hi}));
       row.appendChild(qt);
       row.appendChild(el('span',{css:`flex-shrink:0;color:${sk?Q.dim:ok?Q.green:Q.red};font-size:16px;`,text:sk?'–':ok?'✓':'✗'}));
       card.appendChild(row);
       // Always show the correct answer, regardless of whether the student got it right, wrong, or skipped it
-      const showHi = S.lang==='hi'&&q.opts_hi&&!isLanguageSkillSubject(q.subject);
-      const ct=showHi?`सही उत्तर: ${q.opts_hi[q.ans]} (${q.opts[q.ans]})`:`Correct Answer: ${q.opts[q.ans]}`;
+      const ct=S.lang==='hi'&&q.opts_hi?`सही उत्तर: ${q.opts_hi[q.ans]} (${q.opts[q.ans]})`:`Correct Answer: ${q.opts[q.ans]}`;
       card.appendChild(el('div',{css:`margin-top:6px;font-size:11px;color:${Q.green};`,text:ct}));
       if(!sk&&!ok){
-        const yt=showHi?`आपका उत्तर: ${q.opts_hi[ua]} (${q.opts[ua]})`:`Your Answer: ${q.opts[ua]}`;
+        const yt=S.lang==='hi'&&q.opts_hi?`आपका उत्तर: ${q.opts_hi[ua]} (${q.opts[ua]})`:`Your Answer: ${q.opts[ua]}`;
         card.appendChild(el('div',{css:`margin-top:3px;font-size:11px;color:${Q.red};`,text:yt}));
         const saved = isMistakeSaved(q.q);
         const bmBtn = el('button',{css:`margin-top:8px;background:${saved?Q.purple+'22':'transparent'};border:1px solid ${saved?Q.purple:Q.border};color:${saved?Q.purple:Q.muted};padding:4px 10px;border-radius:8px;font-size:10px;font-weight:600;cursor:pointer;`,text:saved?'🔖 Saved to Mistake Notebook':'🔖 Save to Mistake Notebook'});
