@@ -22,17 +22,25 @@ html,body{background:linear-gradient(180deg,#eef2ff 0%,#f8fafc 420px,#f8fafc 100
 ::-webkit-scrollbar-thumb{background:#cbd5e1;border-radius:4px;}
 button{font-family:'DM Sans',sans-serif;cursor:pointer;}
 #app{min-height:100vh;padding-bottom:60px;}
-/* Floating language toggle - always visible */
+/* Floating language toggle - visible on non-quiz screens. Anchored to the
+   TOP-right (not bottom) everywhere, so it never sits over bottom nav bars,
+   sticky action buttons, or mobile bottom sheets on any screen. */
 #langFloat{
-  position:fixed;bottom:20px;right:20px;z-index:9999;
+  position:fixed;top:14px;right:16px;bottom:auto;z-index:9999;
   display:flex;align-items:center;background:#0f172a;
   border-radius:30px;padding:6px 8px;gap:4px;
   box-shadow:0 4px 20px rgba(0,0,0,0.3);
   border:2px solid rgba(255,255,255,0.15);
-  transition:bottom 0.2s;
+  transition:top 0.2s;
 }
-body[data-screen="quiz"] #langFloat{
-  bottom:86px;
+/* On the quiz screen the toggle is moved INLINE into the sticky top bar
+   (see #langFloatSlot in the quiz screen builder + the reparenting logic
+   in render()) so it can never float on top of the Save & Next button or
+   the mobile question-palette bottom sheet. .inline overrides the fixed
+   floating pill styling with a small static pill that sits in normal flow. */
+#langFloat.inline{
+  position:static;top:auto;right:auto;bottom:auto;z-index:1;
+  background:#f1f5f9;border:1px solid #e2e8f0;box-shadow:none;
 }
 #langFloat button{
   padding:8px 16px;border-radius:24px;border:none;
@@ -42,6 +50,10 @@ body[data-screen="quiz"] #langFloat{
 #langFloat button.active{background:#0ea5e9;color:#fff;}
 #langFloat button.inactive{background:transparent;color:#94a3b8;}
 #langFloat button.inactive:hover{color:#fff;}
+#langFloat.inline span{color:#64748b;}
+#langFloat.inline button.inactive{color:#64748b;}
+#langFloat.inline button.inactive:hover{color:#0f172a;}
+#langFloat button:disabled{opacity:.35;cursor:not-allowed;pointer-events:none;}
 @keyframes spin{to{transform:rotate(360deg);}}
 @keyframes fadeIn{from{opacity:0;transform:translateY(8px);}to{opacity:1;transform:translateY(0);}}
 
@@ -67,18 +79,30 @@ body[data-screen="quiz"] #langFloat{
 <body>
 <div id="app"></div>
 
-<!-- FLOATING LANGUAGE TOGGLE - Always visible on every screen -->
+<!-- FLOATING LANGUAGE TOGGLE - floats on non-quiz screens; moved inline into the
+     quiz top bar during a test (see #langFloatSlot + render()) -->
 <div id="langFloat">
   <span style="font-size:11px;color:#64748b;padding:0 4px;">Lang:</span>
   <button id="btnEN" class="active" onclick="setLang('en')">EN</button>
   <button id="btnHI" class="inactive" onclick="setLang('hi')">हिंदी</button>
 </div>
-<style>
-  #langFloat button:disabled{opacity:.35;cursor:not-allowed;pointer-events:none;}
-</style>
 
 <script>
 // ── LANGUAGE TOGGLE ──────────────────────────────────────────────────────────
+// ── LANGUAGE TOGGLE — UNIVERSAL RULE FOR EVERY EXAM ─────────────────────────
+// Rule (applies to SSC, Banking, Teaching, Railways, Police — every exam on
+// the site, driven by subject name, not by which exam/file it came from):
+//   - Subjects that test English or Hindi language ability directly (subject
+//     name contains "english" or "hindi") -> toggle is DISABLED. A real exam
+//     paper never lets you translate a language-skill question.
+//   - Every other subject (Maths, GK, Reasoning, Polity, Current Affairs,
+//     etc.) -> toggle works normally when a Hindi version exists.
+// This check runs off q.subject itself, so it self-enforces even if a given
+// exam's JSON still has a stray q_hi value left on a language question.
+function isLanguageSkillSubject(subject){
+  const s = (subject || '').toLowerCase();
+  return s.includes('english') || s.includes('hindi');
+}
 function setLang(lang) {
   S.lang = lang;
   document.getElementById('btnEN').className = lang==='en' ? 'active' : 'inactive';
@@ -86,20 +110,17 @@ function setLang(lang) {
   render();
 }
 
-// ── LANGUAGE TOGGLE — PER-QUESTION AVAILABILITY ─────────────────────────────
-// Some questions genuinely only exist in one language (e.g. an "English
-// Language" subject question, or a "General Hindi" question). Those have no
-// q_hi value on purpose. In that case the toggle must not look clickable —
-// a real exam paper doesn't let you translate a language-skill question.
 function syncLangToggleForQuestion(q){
   const hiBtn = document.getElementById('btnHI');
   if(!hiBtn) return;
-  const hasHindiVersion = !!(q && q.q_hi);
+  const languageSkillSubject = isLanguageSkillSubject(q && q.subject);
+  const hasHindiVersion = !!(q && q.q_hi) && !languageSkillSubject;
   hiBtn.disabled = !hasHindiVersion;
-  hiBtn.title = hasHindiVersion ? '' : 'This question does not have a separate Hindi version by design (it tests English or Hindi language ability directly), matching the real exam pattern.';
+  hiBtn.title = hasHindiVersion ? '' : 'This question tests English/Hindi language ability directly, so it isn\'t translated — matching the real exam pattern.';
   // If the student had switched to Hindi on a bilingual question and then
-  // navigates to a one-language-only question, silently fall back to EN for
-  // this view without losing their toggle preference for other questions.
+  // navigates to a language-skill or one-language-only question, silently
+  // fall back to EN for this view without losing their toggle preference
+  // for other questions.
   if(!hasHindiVersion && S.lang==='hi'){
     document.getElementById('btnEN').className='active';
     document.getElementById('btnHI').className='inactive';
@@ -264,67 +285,67 @@ const INSCRIPT_MAP = {
 const TYPING_PASSAGES = {
   en: [
     { id:'en1', level:'Beginner', title:'Daily Practice',
-      text:"Success comes to those who work hard every single day. A student who practices typing for even ten minutes daily will see steady improvement within a few weeks. Speed matters, but accuracy matters more. Focus on typing every word correctly before trying to type faster." },
+      text:"Success comes to those who work hard every single day. A student who practices typing for even ten minutes daily will see steady improvement within a few weeks. Speed matters, but accuracy matters more. Focus on typing every word correctly before trying to type faster. Many beginners make the mistake of watching their fingers instead of the screen, which slows them down and breaks their rhythm. Instead, try to memorize the position of each key so that your fingers move automatically while your eyes stay fixed on the passage. Over time, this habit becomes second nature, and what once felt slow and difficult will start to feel effortless. Remember that every expert typist was once a beginner who simply refused to give up after a few days of slow progress. Consistency, patience and daily repetition are the real secrets behind a fast and accurate typing speed." },
     { id:'en2', level:'Beginner', title:'Simple Habits',
-      text:"Good habits build a good future. Waking up early, reading for a few minutes, and reviewing notes at the end of the day are small steps. None of these steps feel big on their own, but together they create real progress over months and years of steady effort." },
+      text:"Good habits build a good future. Waking up early, reading for a few minutes, and reviewing notes at the end of the day are small steps. None of these steps feel big on their own, but together they create real progress over months and years of steady effort. A person who plans their day the night before usually wastes less time deciding what to do next and can focus entirely on completing each task. Drinking enough water, taking short breaks between long study sessions, and sleeping for at least seven hours each night also play an important role in keeping the mind sharp and alert. Small, boring habits repeated every single day almost always outperform occasional bursts of motivation. If you want to see a real change in your preparation, results, or health, start by changing one small habit this week and stay consistent with it, no matter how unimportant it may seem at first." },
     { id:'en3', level:'Beginner', title:'Nature & Environment',
-      text:"Trees give us clean air to breathe and shade to rest under. Rivers carry water to fields, cities and villages alike. When forests are cut down carelessly, animals lose their homes and rainfall patterns change. Every small step, like planting a tree or saving water, helps protect the environment for future generations." },
+      text:"Trees give us clean air to breathe and shade to rest under. Rivers carry water to fields, cities and villages alike. When forests are cut down carelessly, animals lose their homes and rainfall patterns change. Every small step, like planting a tree or saving water, helps protect the environment for future generations. Plastic waste thrown into rivers and oceans harms fish, birds and other marine creatures that mistake it for food. Factories that release smoke and chemicals into the air without proper filters contribute heavily to pollution in nearby towns and villages. Governments across the world are now encouraging the use of solar energy, electric vehicles and recycling programs to slow down the damage already done to the planet. Ordinary citizens can also contribute by using cloth bags instead of plastic, switching off unused lights and fans, and planting at least one tree every year near their home or school." },
     { id:'en4', level:'Beginner', title:'Games and Sports',
-      text:"Playing outdoor games every day keeps the body healthy and the mind fresh. Cricket, kabaddi, football and badminton are popular sports played across India. Regular practice builds not only physical strength but also teamwork, discipline and patience. Many young athletes train for years before representing their state or country at a national level." },
+      text:"Playing outdoor games every day keeps the body healthy and the mind fresh. Cricket, kabaddi, football and badminton are popular sports played across India. Regular practice builds not only physical strength but also teamwork, discipline and patience. Many young athletes train for years before representing their state or country at a national level. Coaches often say that natural talent alone is never enough to succeed at the highest level of any sport; it must be combined with regular practice, a disciplined diet, and the mental strength to recover quickly after a loss. Schools and colleges that encourage sports alongside academics usually produce more confident and well-rounded students. Watching a match teaches patience and strategy, but actually playing a sport teaches something deeper — how to handle both victory and defeat gracefully, and how to keep trying even when the odds are against you." },
     { id:'en5', level:'Beginner', title:'Festivals of India',
-      text:"India celebrates festivals throughout the year, each carrying its own story and tradition. Diwali brings lights and sweets, Holi fills the air with colour, and Eid brings families together for feasts. These celebrations reflect the diversity of Indian culture and remind everyone of the importance of togetherness, gratitude and joy." },
+      text:"India celebrates festivals throughout the year, each carrying its own story and tradition. Diwali brings lights and sweets, Holi fills the air with colour, and Eid brings families together for feasts. These celebrations reflect the diversity of Indian culture and remind everyone of the importance of togetherness, gratitude and joy. Durga Puja in the east, Onam in the south, and Baisakhi in the north each carry regional customs that have been passed down through generations. Markets are decorated with lights, sweets shops stay open late into the night, and families travel long distances just to celebrate together once a year. Beyond the celebrations themselves, these festivals also boost local economies, as artisans, farmers and small shopkeepers see a rise in sales during the festive season. For many people, festivals are less about religion and more about pausing daily routines to reconnect with family, friends and community." },
     { id:'en6', level:'Intermediate', title:'Exam Preparation',
-      text:"Government job exams in India test a wide range of skills, from general knowledge to reasoning and quantitative aptitude. Many posts, especially Data Entry Operator roles, also require a typing speed test as part of the selection process. Building typing speed alongside subject knowledge gives candidates a real advantage during the final stages of recruitment." },
+      text:"Government job exams in India test a wide range of skills, from general knowledge to reasoning and quantitative aptitude. Many posts, especially Data Entry Operator roles, also require a typing speed test as part of the selection process. Building typing speed alongside subject knowledge gives candidates a real advantage during the final stages of recruitment. Most exam bodies set a minimum qualifying speed, often between twenty five and thirty five words per minute, along with a maximum permissible error rate, so accuracy is just as important as raw speed. Candidates who only focus on subject preparation and ignore the typing test often lose out at the final stage despite scoring well in the written exam. A structured practice routine — starting with slow, error-free typing and gradually increasing speed over several weeks — tends to produce far better results than last-minute cramming a few days before the actual test." },
     { id:'en7', level:'Intermediate', title:'Time Management',
-      text:"Time management is often the difference between candidates who clear an exam and those who do not. Dividing the syllabus into weekly targets, revising older topics regularly, and taking timed mock tests helps students understand exactly where they stand before the real exam day arrives." },
+      text:"Time management is often the difference between candidates who clear an exam and those who do not. Dividing the syllabus into weekly targets, revising older topics regularly, and taking timed mock tests helps students understand exactly where they stand before the real exam day arrives. Many aspirants spend excessive time on subjects they already find comfortable while completely avoiding weaker areas, which creates a false sense of confidence that collapses on exam day. A better approach is to allocate slightly more time to weaker subjects while still maintaining a light touch on stronger ones through periodic revision. Keeping a simple daily log of hours studied, topics covered and mock test scores can reveal patterns that are otherwise easy to miss, allowing a candidate to adjust their strategy well before it is too late." },
     { id:'en8', level:'Intermediate', title:'Computers and Technology',
-      text:"A computer processes information using hardware components like the processor, memory and storage, along with software that instructs it what to do. The internet connects millions of computers worldwide, allowing instant communication and access to information. Basic computer literacy, including typing skills, file management and internet safety, is now essential for almost every government and private sector job." },
+      text:"A computer processes information using hardware components like the processor, memory and storage, along with software that instructs it what to do. The internet connects millions of computers worldwide, allowing instant communication and access to information. Basic computer literacy, including typing skills, file management and internet safety, is now essential for almost every government and private sector job. Understanding how to organize files into folders, use spreadsheets for simple calculations, and recognize phishing emails or suspicious links has become as important as knowing how to read and write. Government offices across India are steadily moving towards paperless systems, where records, applications and payments are all processed digitally rather than on paper. This shift means that a Data Entry Operator or clerical staff member today needs not just fast and accurate typing but also a working understanding of spreadsheets, basic troubleshooting and safe internet practices." },
     { id:'en9', level:'Intermediate', title:'Indian Geography',
-      text:"India is bordered by the Himalayas in the north, the Arabian Sea in the west, the Bay of Bengal in the east, and the Indian Ocean in the south. The country is divided into twenty eight states and eight union territories, each with its own language, climate and geography. Major rivers like the Ganga, Yamuna, Godavari and Brahmaputra support agriculture and provide drinking water to millions of people." },
+      text:"India is bordered by the Himalayas in the north, the Arabian Sea in the west, the Bay of Bengal in the east, and the Indian Ocean in the south. The country is divided into twenty eight states and eight union territories, each with its own language, climate and geography. Major rivers like the Ganga, Yamuna, Godavari and Brahmaputra support agriculture and provide drinking water to millions of people. The Thar Desert in the west receives scanty rainfall, while the Western Ghats and the northeastern states receive some of the heaviest rainfall in the entire country. This variation in climate and terrain has shaped everything from local crops and diets to architecture and clothing across different regions. Competitive exams frequently test candidates on state capitals, major rivers, mountain ranges and important dams, making a strong grasp of physical and political geography essential for scoring well in the general awareness section." },
     { id:'en10', level:'Intermediate', title:'Banking and Economy',
-      text:"Banks accept deposits from the public and lend money to individuals and businesses, earning interest on loans while paying a smaller interest to depositors. The Reserve Bank of India regulates all banks and controls the money supply through tools like the repo rate. A strong banking system is essential for economic growth, as it channels savings into productive investments across agriculture, industry and services." },
+      text:"Banks accept deposits from the public and lend money to individuals and businesses, earning interest on loans while paying a smaller interest to depositors. The Reserve Bank of India regulates all banks and controls the money supply through tools like the repo rate. A strong banking system is essential for economic growth, as it channels savings into productive investments across agriculture, industry and services. When the RBI raises the repo rate, borrowing becomes more expensive, which typically slows down spending and helps control inflation; lowering the rate has the opposite effect, encouraging businesses and individuals to borrow and spend more freely. Public sector banks, private banks, cooperative banks and regional rural banks together form a vast network that reaches even the most remote villages through initiatives like the Pradhan Mantri Jan Dhan Yojana, which has brought millions of previously unbanked citizens into the formal financial system for the first time." },
     { id:'en11', level:'Advanced', title:'Discipline and Consistency',
-      text:"Consistency beats intensity when it comes to long term preparation. A candidate who studies for two focused hours every day for six months will almost always outperform someone who studies for twelve hours occasionally and then takes long breaks. The same principle applies to typing practice. Short, regular sessions build muscle memory far more effectively than infrequent, lengthy ones. Set a realistic daily target, track your words per minute and accuracy over time, and celebrate small improvements along the way." },
+      text:"Consistency beats intensity when it comes to long term preparation. A candidate who studies for two focused hours every day for six months will almost always outperform someone who studies for twelve hours occasionally and then takes long breaks. The same principle applies to typing practice. Short, regular sessions build muscle memory far more effectively than infrequent, lengthy ones. Set a realistic daily target, track your words per minute and accuracy over time, and celebrate small improvements along the way. It is also worth remembering that plateaus are a normal part of skill-building; a typist who has been stuck at the same speed for two weeks has not necessarily stopped improving — the underlying muscle memory is often still strengthening beneath the surface, and a breakthrough frequently follows shortly after a period that felt stagnant. Avoiding frustration during these plateaus, and simply continuing the daily routine without giving up, is often what separates those who eventually reach high speeds from those who quit just before the improvement would have shown up." },
     { id:'en12', level:'Advanced', title:'General Awareness Matters',
-      text:"Current affairs and general awareness sections often decide the final rank in competitive exams, precisely because they are the sections most candidates neglect. Reading a newspaper daily, noting down important schemes, appointments, and dates, and revising them weekly is far more effective than trying to memorize months of news the night before an exam. Numbers like 42.5%, budgets worth Rs. 12,000 crore, or dates such as 15/08/1947 also test how comfortable a candidate is typing digits and punctuation accurately under time pressure." },
+      text:"Current affairs and general awareness sections often decide the final rank in competitive exams, precisely because they are the sections most candidates neglect. Reading a newspaper daily, noting down important schemes, appointments, and dates, and revising them weekly is far more effective than trying to memorize months of news the night before an exam. Numbers like 42.5%, budgets worth Rs. 12,000 crore, or dates such as 15/08/1947 also test how comfortable a candidate is typing digits and punctuation accurately under time pressure. Building a habit of maintaining a monthly current affairs notebook, summarizing each important event in two or three lines rather than copying entire articles, helps enormously during quick revision before the exam. Government scheme names, their launch dates, the ministries responsible for them, and their stated objectives are among the most frequently repeated question types across almost every competitive exam conducted in India, from SSC and Banking to Railways and state-level recruitment boards." },
     { id:'en13', level:'Advanced', title:'Legal & Constitutional Terminology',
-      text:"The Constitution of India, adopted on 26th November 1949 and enforced from 26th January 1950, is the supreme law of the land. It guarantees Fundamental Rights under Articles 12 to 35, including the Right to Equality, Right to Freedom and Right to Constitutional Remedies. Any law found inconsistent with these provisions can be declared void by the judiciary under Article 13(2), ensuring that the rule of law prevails over arbitrary action." },
+      text:"The Constitution of India, adopted on 26th November 1949 and enforced from 26th January 1950, is the supreme law of the land. It guarantees Fundamental Rights under Articles 12 to 35, including the Right to Equality, Right to Freedom and Right to Constitutional Remedies. Any law found inconsistent with these provisions can be declared void by the judiciary under Article 13(2), ensuring that the rule of law prevails over arbitrary action. The Directive Principles of State Policy, contained in Part IV of the Constitution, guide the government in framing laws and policies for the welfare of its citizens, even though these principles are not enforceable in a court of law the way Fundamental Rights are. Amendments to the Constitution, governed by Article 368, require varying degrees of approval depending on the provision being changed — some need a simple majority, others a special majority, and certain federal provisions additionally require ratification by at least half of the state legislatures before they can take effect." },
     { id:'en14', level:'Advanced', title:'Medical & Healthcare Terminology',
-      text:"The human circulatory system consists of the heart, blood vessels and blood, working together to transport oxygen, nutrients and hormones throughout the body. The heart, a muscular organ roughly the size of a fist, pumps approximately 5 litres of blood per minute through arteries, veins and capillaries. Regular check-ups, a balanced diet low in saturated fat, and at least 30 minutes of daily exercise significantly reduce the risk of cardiovascular disease." },
+      text:"The human circulatory system consists of the heart, blood vessels and blood, working together to transport oxygen, nutrients and hormones throughout the body. The heart, a muscular organ roughly the size of a fist, pumps approximately 5 litres of blood per minute through arteries, veins and capillaries. Regular check-ups, a balanced diet low in saturated fat, and at least 30 minutes of daily exercise significantly reduce the risk of cardiovascular disease. Hypertension, often called the silent killer because it typically shows no symptoms until serious damage has already occurred, remains one of the leading risk factors for heart attacks and strokes worldwide. Public health campaigns increasingly emphasize preventive care — regular blood pressure monitoring, reduced salt intake, and early screening for diabetes — over expensive treatment after a medical crisis has already developed. Understanding basic medical terminology such as systolic and diastolic pressure, cholesterol levels, and body mass index has become genuinely useful general knowledge for citizens navigating an increasingly health-conscious society." },
     { id:'en15', level:'Advanced', title:'Government Office Circular',
-      text:"All employees are hereby informed that, with effect from 1st April 2026, office attendance will be recorded exclusively through the biometric system installed at the main entrance. Employees arriving after 9:45 a.m. without prior written approval from their Reporting Officer shall be marked as late, and three such instances in a calendar month may attract disciplinary action under Rule 12(3) of the Service Conduct Regulations. Compliance is mandatory for all staff, irrespective of designation." }
+      text:"All employees are hereby informed that, with effect from 1st April 2026, office attendance will be recorded exclusively through the biometric system installed at the main entrance. Employees arriving after 9:45 a.m. without prior written approval from their Reporting Officer shall be marked as late, and three such instances in a calendar month may attract disciplinary action under Rule 12(3) of the Service Conduct Regulations. Compliance is mandatory for all staff, irrespective of designation. Any employee facing genuine hardship, such as a medical emergency or an unavoidable family obligation, must submit a written explanation along with supporting documents to the Administrative Officer within 48 hours of the occurrence, failing which the absence will be treated as unauthorized leave. Departments are also required to submit a consolidated monthly attendance report to the Head Office by the 5th of the following month, and any discrepancy between the biometric record and the manual register must be reconciled and explained in writing before the report is finalized and forwarded for approval." }
   ],
   hi: [
     { id:'hi1', level:'Beginner', title:'रोज़ अभ्यास',
-      text:"मेहनत करने वालों की कभी हार नहीं होती। जो विद्यार्थी हर दिन दस मिनट भी टाइपिंग का अभ्यास करता है, वह कुछ ही सप्ताह में सुधार देखता है। गति महत्वपूर्ण है, लेकिन सटीकता उससे भी अधिक महत्वपूर्ण है। तेज़ टाइप करने से पहले हर शब्द को सही ढंग से टाइप करने पर ध्यान दें।" },
+      text:"मेहनत करने वालों की कभी हार नहीं होती। जो विद्यार्थी हर दिन दस मिनट भी टाइपिंग का अभ्यास करता है, वह कुछ ही सप्ताह में सुधार देखता है। गति महत्वपूर्ण है, लेकिन सटीकता उससे भी अधिक महत्वपूर्ण है। तेज़ टाइप करने से पहले हर शब्द को सही ढंग से टाइप करने पर ध्यान दें। अधिकतर शुरुआती लोग अपनी उंगलियों को देखने की गलती करते हैं, न कि स्क्रीन को, जिससे उनकी गति धीमी हो जाती है और लय टूट जाती है। इसके बजाय, हर बटन की स्थिति को याद रखने की कोशिश करें ताकि आपकी उंगलियाँ अपने आप चलें और आपकी आंखें पैसेज पर टिकी रहें। समय के साथ यह आदत स्वाभाविक हो जाती है, और जो पहले धीमा और कठिन लगता था, वह सहज महसूस होने लगता है। याद रखें कि हर विशेषज्ञ टाइपिस्ट कभी शुरुआती था, जिसने बस शुरुआती धीमी प्रगति के बाद हार नहीं मानी।" },
     { id:'hi2', level:'Beginner', title:'अच्छी आदतें',
-      text:"अच्छी आदतें एक अच्छे भविष्य का निर्माण करती हैं। जल्दी उठना, कुछ मिनट पढ़ना, और दिन के अंत में नोट्स की समीक्षा करना छोटे कदम हैं। ये सभी कदम अकेले बड़े नहीं लगते, लेकिन महीनों और वर्षों के निरंतर प्रयास से मिलकर ये वास्तविक प्रगति बनाते हैं।" },
+      text:"अच्छी आदतें एक अच्छे भविष्य का निर्माण करती हैं। जल्दी उठना, कुछ मिनट पढ़ना, और दिन के अंत में नोट्स की समीक्षा करना छोटे कदम हैं। ये सभी कदम अकेले बड़े नहीं लगते, लेकिन महीनों और वर्षों के निरंतर प्रयास से मिलकर ये वास्तविक प्रगति बनाते हैं। जो व्यक्ति अपने दिन की योजना पिछली रात बना लेता है, वह आमतौर पर अगले कदम को तय करने में कम समय बर्बाद करता है और हर काम को पूरा करने पर पूरी तरह ध्यान दे पाता है। पर्याप्त पानी पीना, लंबे अध्ययन सत्रों के बीच छोटे विराम लेना, और हर रात कम से कम सात घंटे सोना भी दिमाग को तेज़ और सतर्क बनाए रखने में महत्वपूर्ण भूमिका निभाते हैं। छोटी, उबाऊ आदतें जो हर दिन दोहराई जाती हैं, वे लगभग हमेशा कभी-कभार की प्रेरणा से बेहतर परिणाम देती हैं।" },
     { id:'hi3', level:'Beginner', title:'प्रकृति और पर्यावरण',
-      text:"पेड़ हमें सांस लेने के लिए स्वच्छ हवा और आराम करने के लिए छाया देते हैं। नदियाँ खेतों, शहरों और गांवों तक पानी पहुंचाती हैं। जब जंगलों को लापरवाही से काटा जाता है, तो जानवर अपना घर खो देते हैं और वर्षा का पैटर्न बदल जाता है। एक पेड़ लगाने या पानी बचाने जैसा हर छोटा कदम आने वाली पीढ़ियों के लिए पर्यावरण की रक्षा करने में मदद करता है।" },
+      text:"पेड़ हमें सांस लेने के लिए स्वच्छ हवा और आराम करने के लिए छाया देते हैं। नदियाँ खेतों, शहरों और गांवों तक पानी पहुंचाती हैं। जब जंगलों को लापरवाही से काटा जाता है, तो जानवर अपना घर खो देते हैं और वर्षा का पैटर्न बदल जाता है। एक पेड़ लगाने या पानी बचाने जैसा हर छोटा कदम आने वाली पीढ़ियों के लिए पर्यावरण की रक्षा करने में मदद करता है। नदियों और समुद्रों में फेंका गया प्लास्टिक कचरा मछलियों, पक्षियों और अन्य समुद्री जीवों को नुकसान पहुंचाता है, जो इसे भोजन समझकर निगल लेते हैं। बिना उचित फिल्टर के धुआं और रसायन हवा में छोड़ने वाले कारखाने पास के शहरों और गांवों में प्रदूषण में भारी योगदान देते हैं। दुनिया भर की सरकारें अब सौर ऊर्जा, इलेक्ट्रिक वाहनों और पुनर्चक्रण कार्यक्रमों को बढ़ावा दे रही हैं ताकि ग्रह को पहले से हो चुके नुकसान की गति धीमी की जा सके।" },
     { id:'hi4', level:'Beginner', title:'खेल-कूद',
-      text:"हर दिन बाहरी खेल खेलने से शरीर स्वस्थ और मन तरोताज़ा रहता है। क्रिकेट, कबड्डी, फुटबॉल और बैडमिंटन पूरे भारत में लोकप्रिय खेल हैं। नियमित अभ्यास न केवल शारीरिक शक्ति बल्कि टीम भावना, अनुशासन और धैर्य भी विकसित करता है। कई युवा खिलाड़ी राष्ट्रीय स्तर पर अपने राज्य या देश का प्रतिनिधित्व करने से पहले वर्षों तक अभ्यास करते हैं।" },
+      text:"हर दिन बाहरी खेल खेलने से शरीर स्वस्थ और मन तरोताज़ा रहता है। क्रिकेट, कबड्डी, फुटबॉल और बैडमिंटन पूरे भारत में लोकप्रिय खेल हैं। नियमित अभ्यास न केवल शारीरिक शक्ति बल्कि टीम भावना, अनुशासन और धैर्य भी विकसित करता है। कई युवा खिलाड़ी राष्ट्रीय स्तर पर अपने राज्य या देश का प्रतिनिधित्व करने से पहले वर्षों तक अभ्यास करते हैं। कोच अक्सर कहते हैं कि अकेली प्राकृतिक प्रतिभा किसी भी खेल में उच्चतम स्तर पर सफल होने के लिए कभी पर्याप्त नहीं होती; इसे नियमित अभ्यास, अनुशासित आहार, और हार के बाद जल्दी उबरने की मानसिक शक्ति के साथ जोड़ा जाना चाहिए। खेल को प्रोत्साहित करने वाले स्कूल और कॉलेज आमतौर पर अधिक आत्मविश्वासी और संतुलित विद्यार्थी तैयार करते हैं।" },
     { id:'hi5', level:'Beginner', title:'भारत के त्योहार',
-      text:"भारत पूरे वर्ष त्योहार मनाता है, जिनमें से प्रत्येक की अपनी कहानी और परंपरा है। दिवाली रोशनी और मिठाइयाँ लाती है, होली हवा को रंगों से भर देती है, और ईद परिवारों को दावत के लिए एक साथ लाती है। ये उत्सव भारतीय संस्कृति की विविधता को दर्शाते हैं और सभी को एकजुटता, कृतज्ञता और खुशी के महत्व की याद दिलाते हैं।" },
+      text:"भारत पूरे वर्ष त्योहार मनाता है, जिनमें से प्रत्येक की अपनी कहानी और परंपरा है। दिवाली रोशनी और मिठाइयाँ लाती है, होली हवा को रंगों से भर देती है, और ईद परिवारों को दावत के लिए एक साथ लाती है। ये उत्सव भारतीय संस्कृति की विविधता को दर्शाते हैं और सभी को एकजुटता, कृतज्ञता और खुशी के महत्व की याद दिलाते हैं। पूर्व में दुर्गा पूजा, दक्षिण में ओणम, और उत्तर में बैसाखी, प्रत्येक में क्षेत्रीय रीति-रिवाज हैं जो पीढ़ियों से चले आ रहे हैं। बाज़ार रोशनी से सजते हैं, मिठाई की दुकानें देर रात तक खुली रहती हैं, और परिवार साल में एक बार साथ मिलकर उत्सव मनाने के लिए लंबी दूरी तय करते हैं। उत्सवों के अलावा, ये त्योहार स्थानीय अर्थव्यवस्था को भी बढ़ावा देते हैं, क्योंकि त्योहारी सीज़न में कारीगरों, किसानों और छोटे दुकानदारों की बिक्री बढ़ जाती है।" },
     { id:'hi6', level:'Intermediate', title:'परीक्षा की तैयारी',
-      text:"भारत में सरकारी नौकरी की परीक्षाएं सामान्य ज्ञान से लेकर तर्कशक्ति और गणितीय योग्यता तक कई कौशलों की परीक्षा लेती हैं। कई पदों के लिए, विशेष रूप से डेटा एंट्री ऑपरेटर की भूमिकाओं के लिए, चयन प्रक्रिया के भाग के रूप में टाइपिंग गति परीक्षण भी आवश्यक होता है। विषय ज्ञान के साथ टाइपिंग गति बढ़ाना उम्मीदवारों को भर्ती के अंतिम चरणों में वास्तविक बढ़त देता है।" },
+      text:"भारत में सरकारी नौकरी की परीक्षाएं सामान्य ज्ञान से लेकर तर्कशक्ति और गणितीय योग्यता तक कई कौशलों की परीक्षा लेती हैं। कई पदों के लिए, विशेष रूप से डेटा एंट्री ऑपरेटर की भूमिकाओं के लिए, चयन प्रक्रिया के भाग के रूप में टाइपिंग गति परीक्षण भी आवश्यक होता है। विषय ज्ञान के साथ टाइपिंग गति बढ़ाना उम्मीदवारों को भर्ती के अंतिम चरणों में वास्तविक बढ़त देता है। अधिकतर परीक्षा संस्थाएं न्यूनतम उत्तीर्ण गति तय करती हैं, अक्सर पच्चीस से पैंतीस शब्द प्रति मिनट के बीच, साथ ही अधिकतम अनुमेय त्रुटि दर भी, इसलिए सटीकता उतनी ही महत्वपूर्ण है जितनी कच्ची गति। जो उम्मीदवार केवल विषय की तैयारी पर ध्यान देते हैं और टाइपिंग परीक्षण को नज़रअंदाज़ करते हैं, वे अक्सर लिखित परीक्षा में अच्छे अंक लाने के बावजूद अंतिम चरण में पिछड़ जाते हैं।" },
     { id:'hi7', level:'Intermediate', title:'समय प्रबंधन',
-      text:"समय प्रबंधन अक्सर उन उम्मीदवारों के बीच अंतर पैदा करता है जो परीक्षा पास करते हैं और जो नहीं करते। पाठ्यक्रम को साप्ताहिक लक्ष्यों में विभाजित करना, पुराने विषयों को नियमित रूप से दोहराना, और समयबद्ध मॉक टेस्ट देना विद्यार्थियों को यह समझने में मदद करता है कि वास्तविक परीक्षा के दिन से पहले वे कहाँ खड़े हैं।" },
+      text:"समय प्रबंधन अक्सर उन उम्मीदवारों के बीच अंतर पैदा करता है जो परीक्षा पास करते हैं और जो नहीं करते। पाठ्यक्रम को साप्ताहिक लक्ष्यों में विभाजित करना, पुराने विषयों को नियमित रूप से दोहराना, और समयबद्ध मॉक टेस्ट देना विद्यार्थियों को यह समझने में मदद करता है कि वास्तविक परीक्षा के दिन से पहले वे कहाँ खड़े हैं। कई उम्मीदवार उन विषयों पर अत्यधिक समय बिताते हैं जिनमें वे पहले से सहज हैं, जबकि कमज़ोर क्षेत्रों को पूरी तरह टाल देते हैं, जिससे एक झूठा आत्मविश्वास पैदा होता है जो परीक्षा के दिन ढह जाता है। एक बेहतर तरीका यह है कि कमज़ोर विषयों को थोड़ा अधिक समय दिया जाए जबकि मज़बूत विषयों पर आवधिक पुनरावृत्ति के माध्यम से हल्का ध्यान बनाए रखा जाए। पढ़े गए घंटों, कवर किए गए विषयों और मॉक टेस्ट स्कोर का एक सरल दैनिक रिकॉर्ड रखना उन पैटर्न को उजागर कर सकता है जो अन्यथा नज़रअंदाज़ हो जाते हैं।" },
     { id:'hi8', level:'Intermediate', title:'कंप्यूटर और तकनीक',
-      text:"एक कंप्यूटर प्रोसेसर, मेमोरी और स्टोरेज जैसे हार्डवेयर घटकों का उपयोग करके जानकारी को संसाधित करता है, साथ ही सॉफ्टवेयर के साथ जो उसे बताता है कि क्या करना है। इंटरनेट दुनिया भर में लाखों कंप्यूटरों को जोड़ता है, जिससे त्वरित संचार और जानकारी तक पहुंच संभव होती है। टाइपिंग कौशल, फाइल प्रबंधन और इंटरनेट सुरक्षा सहित बुनियादी कंप्यूटर साक्षरता अब लगभग हर सरकारी और निजी क्षेत्र की नौकरी के लिए आवश्यक है।" },
+      text:"एक कंप्यूटर प्रोसेसर, मेमोरी और स्टोरेज जैसे हार्डवेयर घटकों का उपयोग करके जानकारी को संसाधित करता है, साथ ही सॉफ्टवेयर के साथ जो उसे बताता है कि क्या करना है। इंटरनेट दुनिया भर में लाखों कंप्यूटरों को जोड़ता है, जिससे त्वरित संचार और जानकारी तक पहुंच संभव होती है। टाइपिंग कौशल, फाइल प्रबंधन और इंटरनेट सुरक्षा सहित बुनियादी कंप्यूटर साक्षरता अब लगभग हर सरकारी और निजी क्षेत्र की नौकरी के लिए आवश्यक है। फाइलों को फोल्डरों में व्यवस्थित करना, सरल गणनाओं के लिए स्प्रेडशीट का उपयोग करना, और फ़िशिंग ईमेल या संदिग्ध लिंक को पहचानना अब पढ़ना-लिखना जानने जितना ही महत्वपूर्ण हो गया है। भारत भर के सरकारी कार्यालय धीरे-धीरे कागज़ रहित प्रणालियों की ओर बढ़ रहे हैं, जहाँ रिकॉर्ड, आवेदन और भुगतान सभी कागज़ के बजाय डिजिटल रूप से संसाधित किए जाते हैं।" },
     { id:'hi9', level:'Intermediate', title:'भारतीय भूगोल',
-      text:"भारत उत्तर में हिमालय, पश्चिम में अरब सागर, पूर्व में बंगाल की खाड़ी और दक्षिण में हिंद महासागर से घिरा है। देश को अट्ठाईस राज्यों और आठ केंद्र शासित प्रदेशों में विभाजित किया गया है, जिनमें से प्रत्येक की अपनी भाषा, जलवायु और भूगोल है। गंगा, यमुना, गोदावरी और ब्रह्मपुत्र जैसी प्रमुख नदियाँ कृषि का समर्थन करती हैं और लाखों लोगों को पीने का पानी प्रदान करती हैं।" },
+      text:"भारत उत्तर में हिमालय, पश्चिम में अरब सागर, पूर्व में बंगाल की खाड़ी और दक्षिण में हिंद महासागर से घिरा है। देश को अट्ठाईस राज्यों और आठ केंद्र शासित प्रदेशों में विभाजित किया गया है, जिनमें से प्रत्येक की अपनी भाषा, जलवायु और भूगोल है। गंगा, यमुना, गोदावरी और ब्रह्मपुत्र जैसी प्रमुख नदियाँ कृषि का समर्थन करती हैं और लाखों लोगों को पीने का पानी प्रदान करती हैं। पश्चिम में थार रेगिस्तान में बहुत कम वर्षा होती है, जबकि पश्चिमी घाट और पूर्वोत्तर राज्यों में पूरे देश में सबसे भारी वर्षा होती है। जलवायु और भूभाग की इस विविधता ने स्थानीय फसलों और आहार से लेकर वास्तुकला और वस्त्रों तक, विभिन्न क्षेत्रों में हर चीज़ को आकार दिया है। प्रतियोगी परीक्षाएं अक्सर उम्मीदवारों से राज्यों की राजधानियों, प्रमुख नदियों, पर्वत श्रृंखलाओं और महत्वपूर्ण बांधों के बारे में पूछती हैं।" },
     { id:'hi10', level:'Intermediate', title:'बैंकिंग और अर्थव्यवस्था',
-      text:"बैंक जनता से जमा स्वीकार करते हैं और व्यक्तियों तथा व्यवसायों को धन उधार देते हैं, ऋणों पर ब्याज कमाते हैं जबकि जमाकर्ताओं को कम ब्याज देते हैं। भारतीय रिज़र्व बैंक सभी बैंकों को नियंत्रित करता है और रेपो दर जैसे उपकरणों के माध्यम से मुद्रा आपूर्ति को नियंत्रित करता है। आर्थिक विकास के लिए एक मजबूत बैंकिंग प्रणाली आवश्यक है, क्योंकि यह बचत को कृषि, उद्योग और सेवाओं में उत्पादक निवेश में बदल देती है।" },
+      text:"बैंक जनता से जमा स्वीकार करते हैं और व्यक्तियों तथा व्यवसायों को धन उधार देते हैं, ऋणों पर ब्याज कमाते हैं जबकि जमाकर्ताओं को कम ब्याज देते हैं। भारतीय रिज़र्व बैंक सभी बैंकों को नियंत्रित करता है और रेपो दर जैसे उपकरणों के माध्यम से मुद्रा आपूर्ति को नियंत्रित करता है। आर्थिक विकास के लिए एक मजबूत बैंकिंग प्रणाली आवश्यक है, क्योंकि यह बचत को कृषि, उद्योग और सेवाओं में उत्पादक निवेश में बदल देती है। जब आरबीआई रेपो दर बढ़ाता है, तो उधार लेना महंगा हो जाता है, जो आमतौर पर खर्च को धीमा करता है और मुद्रास्फीति को नियंत्रित करने में मदद करता है; दर घटाने का प्रभाव इसके विपरीत होता है। सार्वजनिक क्षेत्र के बैंक, निजी बैंक, सहकारी बैंक और क्षेत्रीय ग्रामीण बैंक मिलकर एक विशाल नेटवर्क बनाते हैं जो प्रधानमंत्री जन धन योजना जैसी पहलों के माध्यम से सबसे दूरदराज़ के गांवों तक भी पहुंचता है।" },
     { id:'hi11', level:'Advanced', title:'अनुशासन और निरंतरता',
-      text:"लंबी अवधि की तैयारी में निरंतरता तीव्रता से अधिक महत्वपूर्ण होती है। जो उम्मीदवार छह महीने तक हर दिन दो घंटे केंद्रित होकर पढ़ता है, वह उस व्यक्ति से हमेशा बेहतर प्रदर्शन करेगा जो कभी-कभी बारह घंटे पढ़ता है और फिर लंबा अवकाश लेता है। यही सिद्धांत टाइपिंग अभ्यास पर भी लागू होता है। छोटे, नियमित सत्र अनियमित और लंबे सत्रों की तुलना में मांसपेशियों की स्मृति को कहीं अधिक प्रभावी ढंग से बनाते हैं।" },
+      text:"लंबी अवधि की तैयारी में निरंतरता तीव्रता से अधिक महत्वपूर्ण होती है। जो उम्मीदवार छह महीने तक हर दिन दो घंटे केंद्रित होकर पढ़ता है, वह उस व्यक्ति से हमेशा बेहतर प्रदर्शन करेगा जो कभी-कभी बारह घंटे पढ़ता है और फिर लंबा अवकाश लेता है। यही सिद्धांत टाइपिंग अभ्यास पर भी लागू होता है। छोटे, नियमित सत्र अनियमित और लंबे सत्रों की तुलना में मांसपेशियों की स्मृति को कहीं अधिक प्रभावी ढंग से बनाते हैं। यह याद रखने योग्य भी है कि पठार कौशल-निर्माण का एक सामान्य हिस्सा हैं; जो टाइपिस्ट दो सप्ताह से एक ही गति पर अटका हुआ है, उसने ज़रूरी नहीं कि सुधार करना बंद कर दिया हो — अंतर्निहित मांसपेशी स्मृति अक्सर सतह के नीचे मज़बूत होती रहती है, और एक सफलता अक्सर उस अवधि के तुरंत बाद आती है जो स्थिर महसूस हुई थी।" },
     { id:'hi12', level:'Advanced', title:'सामान्य ज्ञान का महत्व',
-      text:"प्रतियोगी परीक्षाओं में करेंट अफेयर्स और सामान्य ज्ञान खंड अक्सर अंतिम रैंक तय करते हैं, ठीक इसलिए क्योंकि यही वे खंड हैं जिन्हें अधिकतर उम्मीदवार नज़रअंदाज़ करते हैं। रोज़ अखबार पढ़ना, महत्वपूर्ण योजनाओं, नियुक्तियों और तारीखों को नोट करना, और साप्ताहिक रूप से उन्हें दोहराना परीक्षा से एक रात पहले महीनों की खबरें याद करने की कोशिश से कहीं अधिक प्रभावी है। 42.5% जैसी संख्याएँ, 12,000 करोड़ रुपये का बजट, या 15/08/1947 जैसी तारीखें यह भी परखती हैं कि उम्मीदवार समय के दबाव में अंकों और विराम चिह्नों को कितनी सटीकता से टाइप कर पाता है।" },
+      text:"प्रतियोगी परीक्षाओं में करेंट अफेयर्स और सामान्य ज्ञान खंड अक्सर अंतिम रैंक तय करते हैं, ठीक इसलिए क्योंकि यही वे खंड हैं जिन्हें अधिकतर उम्मीदवार नज़रअंदाज़ करते हैं। रोज़ अखबार पढ़ना, महत्वपूर्ण योजनाओं, नियुक्तियों और तारीखों को नोट करना, और साप्ताहिक रूप से उन्हें दोहराना परीक्षा से एक रात पहले महीनों की खबरें याद करने की कोशिश से कहीं अधिक प्रभावी है। 42.5% जैसी संख्याएँ, 12,000 करोड़ रुपये का बजट, या 15/08/1947 जैसी तारीखें यह भी परखती हैं कि उम्मीदवार समय के दबाव में अंकों और विराम चिह्नों को कितनी सटीकता से टाइप कर पाता है। हर महीने एक करेंट अफेयर्स नोटबुक बनाए रखने की आदत डालना, हर महत्वपूर्ण घटना को दो या तीन पंक्तियों में सारांशित करना न कि पूरे लेख की नकल करना, परीक्षा से पहले त्वरित पुनरावृत्ति के दौरान बेहद मददगार साबित होता है।" },
     { id:'hi13', level:'Advanced', title:'विधिक एवं संवैधानिक शब्दावली',
-      text:"26 नवंबर 1949 को अपनाया गया और 26 जनवरी 1950 से लागू भारत का संविधान, देश का सर्वोच्च कानून है। यह अनुच्छेद 12 से 35 के तहत मौलिक अधिकारों की गारंटी देता है, जिसमें समानता का अधिकार, स्वतंत्रता का अधिकार और संवैधानिक उपचारों का अधिकार शामिल है। इन प्रावधानों के साथ असंगत पाया गया कोई भी कानून अनुच्छेद 13(2) के तहत न्यायपालिका द्वारा शून्य घोषित किया जा सकता है, जिससे यह सुनिश्चित होता है कि मनमानी कार्रवाई पर कानून का शासन प्रबल हो।" },
+      text:"26 नवंबर 1949 को अपनाया गया और 26 जनवरी 1950 से लागू भारत का संविधान, देश का सर्वोच्च कानून है। यह अनुच्छेद 12 से 35 के तहत मौलिक अधिकारों की गारंटी देता है, जिसमें समानता का अधिकार, स्वतंत्रता का अधिकार और संवैधानिक उपचारों का अधिकार शामिल है। इन प्रावधानों के साथ असंगत पाया गया कोई भी कानून अनुच्छेद 13(2) के तहत न्यायपालिका द्वारा शून्य घोषित किया जा सकता है, जिससे यह सुनिश्चित होता है कि मनमानी कार्रवाई पर कानून का शासन प्रबल हो। संविधान के भाग IV में निहित राज्य के नीति निदेशक तत्व, नागरिकों के कल्याण के लिए कानून और नीतियां बनाने में सरकार का मार्गदर्शन करते हैं, भले ही ये सिद्धांत मौलिक अधिकारों की तरह न्यायालय में लागू करने योग्य न हों। अनुच्छेद 368 द्वारा शासित संविधान में संशोधन, बदले जा रहे प्रावधान के आधार पर अलग-अलग स्तर की स्वीकृति की आवश्यकता होती है।" },
     { id:'hi14', level:'Advanced', title:'चिकित्सा एवं स्वास्थ्य शब्दावली',
-      text:"मानव परिसंचरण तंत्र में हृदय, रक्त वाहिकाएँ और रक्त शामिल हैं, जो मिलकर पूरे शरीर में ऑक्सीजन, पोषक तत्वों और हार्मोन को पहुंचाने का कार्य करते हैं। हृदय, जो लगभग मुट्ठी के आकार का एक मांसपेशीय अंग है, धमनियों, शिराओं और केशिकाओं के माध्यम से प्रति मिनट लगभग 5 लीटर रक्त पंप करता है। नियमित जांच, संतृप्त वसा में कम संतुलित आहार, और प्रतिदिन कम से कम 30 मिनट का व्यायाम हृदय रोग के जोखिम को काफी हद तक कम करता है।" },
+      text:"मानव परिसंचरण तंत्र में हृदय, रक्त वाहिकाएँ और रक्त शामिल हैं, जो मिलकर पूरे शरीर में ऑक्सीजन, पोषक तत्वों और हार्मोन को पहुंचाने का कार्य करते हैं। हृदय, जो लगभग मुट्ठी के आकार का एक मांसपेशीय अंग है, धमनियों, शिराओं और केशिकाओं के माध्यम से प्रति मिनट लगभग 5 लीटर रक्त पंप करता है। नियमित जांच, संतृप्त वसा में कम संतुलित आहार, और प्रतिदिन कम से कम 30 मिनट का व्यायाम हृदय रोग के जोखिम को काफी हद तक कम करता है। उच्च रक्तचाप, जिसे अक्सर मूक हत्यारा कहा जाता है क्योंकि यह आमतौर पर गंभीर क्षति होने तक कोई लक्षण नहीं दिखाता, दुनिया भर में दिल के दौरे और स्ट्रोक के प्रमुख जोखिम कारकों में से एक बना हुआ है। सार्वजनिक स्वास्थ्य अभियान अब निवारक देखभाल पर अधिक ज़ोर देते हैं — नियमित रक्तचाप निगरानी, कम नमक का सेवन, और मधुमेह की प्रारंभिक जांच — बजाय इसके कि चिकित्सा संकट विकसित होने के बाद महंगे इलाज पर निर्भर रहा जाए।" },
     { id:'hi15', level:'Advanced', title:'सरकारी कार्यालय परिपत्र',
-      text:"सभी कर्मचारियों को सूचित किया जाता है कि दिनांक 1 अप्रैल 2026 से, कार्यालय उपस्थिति केवल मुख्य प्रवेश द्वार पर स्थापित बायोमेट्रिक प्रणाली के माध्यम से दर्ज की जाएगी। अपने रिपोर्टिंग अधिकारी से पूर्व लिखित अनुमोदन के बिना सुबह 9:45 बजे के बाद आने वाले कर्मचारियों को विलंबित माना जाएगा, और एक कैलेंडर माह में ऐसे तीन उदाहरण सेवा आचरण विनियम के नियम 12(3) के तहत अनुशासनात्मक कार्रवाई को आमंत्रित कर सकते हैं। यह अनुपालन पदनाम की परवाह किए बिना सभी कर्मचारियों के लिए अनिवार्य है।" }
+      text:"सभी कर्मचारियों को सूचित किया जाता है कि दिनांक 1 अप्रैल 2026 से, कार्यालय उपस्थिति केवल मुख्य प्रवेश द्वार पर स्थापित बायोमेट्रिक प्रणाली के माध्यम से दर्ज की जाएगी। अपने रिपोर्टिंग अधिकारी से पूर्व लिखित अनुमोदन के बिना सुबह 9:45 बजे के बाद आने वाले कर्मचारियों को विलंबित माना जाएगा, और एक कैलेंडर माह में ऐसे तीन उदाहरण सेवा आचरण विनियम के नियम 12(3) के तहत अनुशासनात्मक कार्रवाई को आमंत्रित कर सकते हैं। यह अनुपालन पदनाम की परवाह किए बिना सभी कर्मचारियों के लिए अनिवार्य है। कोई भी कर्मचारी जो वास्तविक कठिनाई का सामना कर रहा है, जैसे कि चिकित्सा आपातकाल या अपरिहार्य पारिवारिक दायित्व, उसे घटना के 48 घंटों के भीतर सहायक दस्तावेज़ों के साथ एक लिखित स्पष्टीकरण प्रशासनिक अधिकारी को प्रस्तुत करना होगा, ऐसा न करने पर अनुपस्थिति को अनधिकृत अवकाश माना जाएगा।" }
   ]
 };
 
@@ -341,7 +362,29 @@ function el(tag,props={},children=[]){
   children.filter(Boolean).forEach(c=>e.appendChild(typeof c==='string'?document.createTextNode(c):c));
   return e;
 }
-const render=()=>{app.innerHTML='';app.appendChild(buildScreen());document.body.setAttribute('data-screen',S.screen);window.scrollTo(0,0);};
+const render=()=>{
+  // CRITICAL ORDERING: the language toggle may currently be living INSIDE
+  // #app (moved into the quiz top bar's #langFloatSlot by a previous
+  // render). If we ran app.innerHTML='' while it's still in there, that
+  // wipes the toggle out of the DOM permanently — it would never come back
+  // without a full page reload. So we always pull it back out to <body>
+  // first, THEN clear and rebuild #app, THEN re-attach it into the new
+  // screen's slot if one exists.
+  const lf=document.getElementById('langFloat');
+  if(lf && lf.parentElement!==document.body){
+    document.body.appendChild(lf);
+    lf.classList.remove('inline');
+  }
+  app.innerHTML='';
+  app.appendChild(buildScreen());
+  document.body.setAttribute('data-screen',S.screen);
+  // Move the language toggle into the quiz top bar's slot when one exists
+  // (quiz screen), otherwise it stays as the floating top-right pill.
+  // This is what keeps it from ever covering Save & Next / the palette sheet.
+  const slot=document.getElementById('langFloatSlot');
+  if(lf && slot){ slot.appendChild(lf); lf.classList.add('inline'); }
+  window.scrollTo(0,0);
+};
 const go=screen=>{S.screen=screen;render();};
 
 // Darkens (negative percent) or lightens (positive percent) a hex color, e.g. shadeColor('#3b82f6', -20)
@@ -1077,10 +1120,13 @@ function quizScreen(){
 
   const root=el('div',{css:`min-height:100vh;background:${CBT.bg};font-family:'DM Sans',sans-serif;color:${CBT.text};`});
 
-  // Minimal top utility bar — exit + mobile palette toggle only
-  const topBar=el('div',{css:`position:sticky;top:0;z-index:20;background:#fff;border-bottom:1px solid ${CBT.border};padding:8px 14px;display:flex;align-items:center;justify-content:space-between;gap:10px;`});
+  // Minimal top utility bar — exit + language toggle slot + mobile palette toggle.
+  // The language toggle lives here (not floating) so it never sits on top of
+  // Save & Next or the mobile question-palette bottom sheet.
+  const topBar=el('div',{css:`position:sticky;top:0;z-index:20;background:#fff;border-bottom:1px solid ${CBT.border};padding:8px 14px;display:flex;align-items:center;gap:10px;`});
   topBar.appendChild(el('button',{css:`background:${CBT.gridBg};border:1px solid ${CBT.border};color:${CBT.muted};width:30px;height:30px;border-radius:8px;font-size:15px;cursor:pointer;flex-shrink:0;display:flex;align-items:center;justify-content:center;`,text:'✕',onClick:()=>{S.stopConfirm=true;render();}}));
-  topBar.appendChild(el('button',{class:'qb-mobile-nav-btn',css:`background:${accent};color:#fff;border:none;padding:7px 14px;border-radius:8px;font-size:12px;font-weight:700;cursor:pointer;`,text:`📋 ${answered}/${qs.length}`,onClick:()=>{S.navOpen=true;render();}}));
+  topBar.appendChild(el('div',{id:'langFloatSlot',css:'flex:1;display:flex;justify-content:center;align-items:center;min-width:0;'}));
+  topBar.appendChild(el('button',{class:'qb-mobile-nav-btn',css:`background:${accent};color:#fff;border:none;padding:7px 14px;border-radius:8px;font-size:12px;font-weight:700;cursor:pointer;flex-shrink:0;`,text:`📋 ${answered}/${qs.length}`,onClick:()=>{S.navOpen=true;render();}}));
   root.appendChild(topBar);
 
   const container=el('div',{class:'qb-container',css:'max-width:1100px;margin:0 auto;padding:16px;'});
@@ -1124,7 +1170,7 @@ function quizScreen(){
   qTextWrap.appendChild(el('div',{css:`font-weight:700;color:${accent};flex-shrink:0;`,text:(S.qi+1)+'.'}));
   const qTextInner=el('div',{css:'flex:1;'});
   qTextInner.appendChild(el('div',{css:`font-size:15px;line-height:1.7;color:${CBT.text};`,text:q.q}));
-  if(S.lang==='hi'&&q.q_hi){
+  if(S.lang==='hi'&&q.q_hi&&!isLanguageSkillSubject(q.subject)){
     qTextInner.appendChild(el('div',{css:`font-size:14px;color:#4338ca;margin-top:6px;line-height:1.7;`,text:q.q_hi}));
   }
   qTextWrap.appendChild(qTextInner);
@@ -1134,7 +1180,7 @@ function quizScreen(){
   const optsGrid=el('div',{css:'display:grid;grid-template-columns:1fr 1fr;gap:14px 20px;margin-bottom:18px;'});
   q.opts.forEach((opt,i)=>{
     const isSel=sel===i;
-    const hindiOpt=(S.lang==='hi'&&q.opts_hi&&q.opts_hi[i])?q.opts_hi[i]:null;
+    const hindiOpt=(S.lang==='hi'&&q.opts_hi&&q.opts_hi[i]&&!isLanguageSkillSubject(q.subject))?q.opts_hi[i]:null;
     const row=el('label',{css:`display:flex;align-items:flex-start;gap:9px;cursor:pointer;font-size:14px;color:${CBT.text};padding:6px;border-radius:8px;`});
     const radio=el('input',{type:'radio',name:'qopt',css:`margin-top:3px;accent-color:${accent};cursor:pointer;flex-shrink:0;width:16px;height:16px;`});
     if(isSel) radio.checked=true;
@@ -1392,20 +1438,31 @@ function resultsScreen(){
       const qt=el('div',{css:`font-size:12px;line-height:1.5;flex:1;color:${Q.text};`});
       qt.appendChild(el('span',{css:`color:${Q.muted};margin-right:6px;font-weight:600;`,text:`Q${i+1}.`}));
       qt.appendChild(document.createTextNode(q.q));
-      if(S.lang==='hi'&&q.q_hi) qt.appendChild(el('div',{css:`font-size:11px;color:#818cf8;margin-top:2px;`,text:q.q_hi}));
+      if(S.lang==='hi'&&q.q_hi&&!isLanguageSkillSubject(q.subject)) qt.appendChild(el('div',{css:`font-size:11px;color:#818cf8;margin-top:2px;`,text:q.q_hi}));
       row.appendChild(qt);
       row.appendChild(el('span',{css:`flex-shrink:0;color:${sk?Q.dim:ok?Q.green:Q.red};font-size:16px;`,text:sk?'–':ok?'✓':'✗'}));
       card.appendChild(row);
       // Always show the correct answer, regardless of whether the student got it right, wrong, or skipped it
-      const ct=S.lang==='hi'&&q.opts_hi?`सही उत्तर: ${q.opts_hi[q.ans]} (${q.opts[q.ans]})`:`Correct Answer: ${q.opts[q.ans]}`;
+      const showHi = S.lang==='hi'&&q.opts_hi&&!isLanguageSkillSubject(q.subject);
+      const ct=showHi?`सही उत्तर: ${q.opts_hi[q.ans]} (${q.opts[q.ans]})`:`Correct Answer: ${q.opts[q.ans]}`;
       card.appendChild(el('div',{css:`margin-top:6px;font-size:11px;color:${Q.green};`,text:ct}));
       if(!sk&&!ok){
-        const yt=S.lang==='hi'&&q.opts_hi?`आपका उत्तर: ${q.opts_hi[ua]} (${q.opts[ua]})`:`Your Answer: ${q.opts[ua]}`;
+        const yt=showHi?`आपका उत्तर: ${q.opts_hi[ua]} (${q.opts[ua]})`:`Your Answer: ${q.opts[ua]}`;
         card.appendChild(el('div',{css:`margin-top:3px;font-size:11px;color:${Q.red};`,text:yt}));
         const saved = isMistakeSaved(q.q);
         const bmBtn = el('button',{css:`margin-top:8px;background:${saved?Q.purple+'22':'transparent'};border:1px solid ${saved?Q.purple:Q.border};color:${saved?Q.purple:Q.muted};padding:4px 10px;border-radius:8px;font-size:10px;font-weight:600;cursor:pointer;`,text:saved?'🔖 Saved to Mistake Notebook':'🔖 Save to Mistake Notebook'});
         bmBtn.addEventListener('click',()=>{ toggleMistake(q); render(); });
         card.appendChild(bmBtn);
+      }
+      // Explanation — shown for every question (right, wrong, or skipped) when
+      // the data has one. Falls back to Hindi (exp_hi) only when the toggle
+      // is on Hindi and it's not a language-skill subject; otherwise English.
+      const expText = (showHi && q.exp_hi) ? q.exp_hi : q.exp_en;
+      if(expText){
+        const expBox=el('div',{css:`margin-top:8px;background:${accent}0d;border-left:3px solid ${accent};border-radius:6px;padding:8px 10px;`});
+        expBox.appendChild(el('div',{css:`font-size:10px;font-weight:700;color:${accent};margin-bottom:3px;text-transform:uppercase;letter-spacing:.03em;`,text:'Explanation'}));
+        expBox.appendChild(el('div',{css:`font-size:11px;line-height:1.6;color:${Q.text};`,text:expText}));
+        card.appendChild(expBox);
       }
       rv.appendChild(card);
     });
@@ -1681,16 +1738,33 @@ function typingHomeScreen(){
   return root;
 }
 
-function buildRepeatedText(base, durationSec){
+function buildRepeatedText(passage, durationSec){
   // Generous upper bound so even a very fast typist (100+ WPM) never runs out of text before time is up
   const estCharsNeeded = Math.ceil((durationSec/60) * 110 * 5) + 500;
-  let out = base;
-  while(out.length < estCharsNeeded){ out += ' ' + base; }
+  let out = passage.text;
+  if(out.length >= estCharsNeeded) return out;
+  // Instead of repeating the SAME passage over and over (which is what made
+  // long tests feel like the text kept "resetting"), cycle through the other
+  // passages in the same language pool first, so a 20-30 minute test shows
+  // genuinely different paragraphs before anything repeats. Only after every
+  // other passage has been used once do we start over from the beginning.
+  const pool = TYPING_PASSAGES[T.lang] || [];
+  const others = pool.filter(p=>p.id!==passage.id);
+  let i = 0;
+  while(out.length < estCharsNeeded && others.length){
+    out += ' ' + others[i % others.length].text;
+    i++;
+  }
+  // Fallback (e.g. only one passage exists in this language) — repeat the
+  // same passage rather than looping forever.
+  while(out.length < estCharsNeeded){
+    out += ' ' + passage.text;
+  }
   return out;
 }
 
 function startTypingTest(passage){
-  T.passage=passage;T.fullText=buildRepeatedText(passage.text,T.duration);T.typed='';T.startTime=null;T.timeLeft=T.duration;T.finished=false;T.results=null;T.corrections=0;
+  T.passage=passage;T.fullText=buildRepeatedText(passage,T.duration);T.typed='';T.startTime=null;T.timeLeft=T.duration;T.finished=false;T.results=null;T.corrections=0;
   S.screen='typingTest';render();
 }
 
