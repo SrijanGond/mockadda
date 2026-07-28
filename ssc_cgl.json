@@ -657,6 +657,96 @@
           "subject": "Quantitative Aptitude"
         },
         {
+          "q": "If A's income is 25% more than B's income, then B's income is what percent less than A's income?",
+          "q_hi": "यदि A की आय B की आय से 25% अधिक है, तो B की आय A की आय से कितने प्रतिशत कम है?",
+          "opts": [
+            0.15,
+            0.2,
+            0.25,
+            0.3
+          ],
+          "opts_hi": [
+            0.15,
+            0.2,
+            0.25,
+            0.3
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "In an examination, a candidate must secure 40% marks to pass. He gets 160 marks and fails by 40 marks. What are the maximum marks?",
+          "q_hi": "एक परीक्षा में, उत्तीर्ण होने के लिए एक उम्मीदवार को 40% अंक प्राप्त करने होते हैं। उसे 160 अंक मिलते हैं और वह 40 अंकों से अनुत्तीर्ण हो जाता है। अधिकतम अंक क्या हैं?",
+          "opts": [
+            400,
+            450,
+            500,
+            550
+          ],
+          "opts_hi": [
+            400,
+            450,
+            500,
+            550
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "The price of sugar is increased by 25%. By what percentage should consumption be reduced so that expenditure remains the same?",
+          "q_hi": "चीनी की कीमत में 25% की वृद्धि होती है। खपत को कितने प्रतिशत कम किया जाना चाहिए ताकि व्यय समान रहे?",
+          "opts": [
+            0.15,
+            0.2,
+            0.25,
+            0.3
+          ],
+          "opts_hi": [
+            0.15,
+            0.2,
+            0.25,
+            0.3
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "In a city, 60% of adults are employed. Among employed, 40% are women. If total adults are 5000, how many employed men are there?",
+          "q_hi": "एक शहर में, 60% वयस्क कार्यरत हैं। कार्यरतों में, 40% महिलाएँ हैं। यदि कुल वयस्क 5000 हैं, तो कितने कार्यरत पुरुष हैं?",
+          "opts": [
+            1600,
+            1800,
+            2000,
+            2200
+          ],
+          "opts_hi": [
+            1600,
+            1800,
+            2000,
+            2200
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "The population of a town increases by 10% annually. If the current population is 121000, what was it 2 years ago?",
+          "q_hi": "एक शहर की जनसंख्या वार्षिक 10% बढ़ती है। यदि वर्तमान जनसंख्या 121000 है, तो 2 वर्ष पूर्व यह क्या थी?",
+          "opts": [
+            100000,
+            110000,
+            105000,
+            95000
+          ],
+          "opts_hi": [
+            100000,
+            110000,
+            105000,
+            95000
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
           "q": "Synonym of 'Abundant'?",
           "opts": [
             "Scarce",
