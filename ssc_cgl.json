@@ -1068,6 +1068,42 @@
           ],
           "ans": 1,
           "subject": "English Comprehension"
+        },
+        {
+          "q": "Select the related number pair: 12 : 144 :: 15 : ?",
+          "q_hi": "संबंधित संख्या युग्म का चयन करें: 12 : 144 :: 15 : ?",
+          "opts": [
+            195,
+            240,
+            225,
+            210
+          ],
+          "opts_hi": [
+            195,
+            240,
+            225,
+            210
+          ],
+          "ans": 2,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "In a certain code language, 'SMART' is written as 'UKCPV'. How is 'GREAT' written in that language?",
+          "q_hi": "एक निश्चित कूट भाषा में, 'SMART' को 'UKCPV' लिखा जाता है। उसी भाषा में 'GREAT' को कैसे लिखा जाएगा?",
+          "opts": [
+            "ITGCV",
+            "ISFCV",
+            "JTHCW",
+            "HSFDV"
+          ],
+          "opts_hi": [
+            "ITGCV",
+            "ISFCV",
+            "JTHCW",
+            "HSFDV"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
         }
       ]
     },
