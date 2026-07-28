@@ -1154,6 +1154,258 @@
           ],
           "ans": 0,
           "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Select the option that is related to the third term in the same way as the second term is related to the first term: Book : Chapter :: Tree : ?",
+          "q_hi": "उस विकल्प का चयन करें जो तीसरे पद से उसी प्रकार संबंधित है जिस प्रकार दूसरा पद पहले पद से संबंधित है: पुस्तक : अध्याय :: वृक्ष : ?",
+          "opts": [
+            "Root",
+            "Branch",
+            "Leaf",
+            "Fruit"
+          ],
+          "opts_hi": [
+            "जड़",
+            "शाखा",
+            "पत्ती",
+            "फल"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Find the odd one out:",
+          "q_hi": "विषम का चयन करें:",
+          "opts": [
+            "Cube",
+            "Cone",
+            "Cylinder",
+            "Sphere"
+          ],
+          "opts_hi": [
+            "घन",
+            "शंकु",
+            "बेलन",
+            "गोला"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "If CAT is coded as 3120, how is DOG coded?",
+          "q_hi": "यदि CAT को 3120 के रूप में कोडित किया जाता है, तो DOG को कैसे कोडित किया जाएगा?",
+          "opts": [
+            4157,
+            4156,
+            4155,
+            5146
+          ],
+          "opts_hi": [
+            4157,
+            4156,
+            4155,
+            5146
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "In a certain code language, 'MOBILE' is written as 'NQCJNG'. How will 'PHONE' be written in that code?",
+          "q_hi": "एक निश्चित कूट भाषा में, 'MOBILE' को 'NQCJNG' लिखा जाता है। उस कूट में 'PHONE' को कैसे लिखा जाएगा?",
+          "opts": [
+            "QKQPF",
+            "QKQPG",
+            "RIQPF",
+            "QKRPG"
+          ],
+          "opts_hi": [
+            "QKQPF",
+            "QKQPG",
+            "RIQPF",
+            "QKRPG"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Pointing to a man, a woman said, \"He is the only son of my mother's father.\" How is that man related to the woman?",
+          "q_hi": "एक महिला ने एक पुरुष की ओर इशारा करते हुए कहा, \"वह मेरी माँ के पिता का इकलौता पुत्र है।\" वह पुरुष उस महिला से किस प्रकार संबंधित है?",
+          "opts": [
+            "Brother",
+            "Father",
+            "Uncle",
+            "Cousin"
+          ],
+          "opts_hi": [
+            "भाई",
+            "पिता",
+            "चाचा/मामा",
+            "चचेरा/ममेरा भाई"
+          ],
+          "ans": 2,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Rahul walks 10 km towards North, then turns right and walks 5 km. He then turns right and walks 10 km. In which direction is he from his starting point?",
+          "q_hi": "राहुल उत्तर दिशा में 10 किमी चलता है, फिर दाईं ओर मुड़ता है और 5 किमी चलता है। फिर वह दाईं ओर मुड़ता है और 10 किमी चलता है। वह अपने प्रारंभिक बिंदु से किस दिशा में है?",
+          "opts": [
+            "North",
+            "South",
+            "East",
+            "West"
+          ],
+          "opts_hi": [
+            "उत्तर",
+            "दक्षिण",
+            "पूर्व",
+            "पश्चिम"
+          ],
+          "ans": 3,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Five friends A, B, C, D and E are sitting in a row. B is sitting between C and D. A is sitting to the immediate left of B. E is at the extreme right end. Who is sitting at the extreme left end?",
+          "q_hi": "पाँच मित्र A, B, C, D और E एक पंक्ति में बैठे हैं। B, C और D के बीच बैठा है। A, B के ठीक बाईं ओर बैठा है। E अत्यंत दाहिने छोर पर है। अत्यंत बाएँ छोर पर कौन बैठा है?",
+          "opts": [
+            "A",
+            "C",
+            "B",
+            "D"
+          ],
+          "opts_hi": [
+            "A",
+            "C",
+            "B",
+            "D"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Statements: All pens are pencils. Some pencils are erasers. Conclusions: I. All pens are erasers. II. Some erasers are pens. Which of the following is correct?",
+          "q_hi": "कथन: सभी पेन पेंसिल हैं। कुछ पेंसिल इरेज़र हैं। निष्कर्ष: I. सभी पेन इरेज़र हैं। II. कुछ इरेज़र पेन हैं। निम्नलिखित में से कौन सा सही है?",
+          "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both I and II follow",
+            "Neither I nor II follows"
+          ],
+          "opts_hi": [
+            "केवल I सही है",
+            "केवल II सही है",
+            "I और II दोनों सही हैं",
+            "ना तो I और ना ही II सही है"
+          ],
+          "ans": 3,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "How many squares are there in a 4x4 grid?",
+          "q_hi": "4x4 ग्रिड में कितने वर्ग हैं?",
+          "opts": [
+            30,
+            32,
+            36,
+            40
+          ],
+          "opts_hi": [
+            30,
+            32,
+            36,
+            40
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Find the next term: 2, 6, 12, 20, 30, ?",
+          "q_hi": "अगला पद ज्ञात करें: 2, 6, 12, 20, 30, ?",
+          "opts": [
+            40,
+            42,
+            44,
+            46
+          ],
+          "opts_hi": [
+            40,
+            42,
+            44,
+            46
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "If '+' means '×', '−' means '+', '×' means '÷', and '÷' means '−', then what is the value of 12 + 3 − 4 × 2 ÷ 5?",
+          "q_hi": "यदि '+' का अर्थ '×' है, '−' का अर्थ '+' है, '×' का अर्थ '÷' है, और '÷' का अर्थ '−' है, तो 12 + 3 − 4 × 2 ÷ 5 का मान क्या है?",
+          "opts": [
+            10,
+            12,
+            14,
+            16
+          ],
+          "opts_hi": [
+            10,
+            12,
+            14,
+            16
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "In a class of 100 students, 60 like Maths, 50 like Science, and 20 like both. How many like neither?",
+          "q_hi": "100 छात्रों की एक कक्षा में, 60 को गणित पसंद है, 50 को विज्ञान पसंद है, और 20 को दोनों पसंद हैं। कितने को कोई भी पसंद नहीं है?",
+          "opts": [
+            10,
+            15,
+            20,
+            25
+          ],
+          "opts_hi": [
+            10,
+            15,
+            20,
+            25
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "If the mirror is placed to the right of a word, what will be the mirror image of 'SSC'?",
+          "q_hi": "यदि दर्पण किसी शब्द के दाईं ओर रखा जाता है, तो 'SSC' की दर्पण छवि क्या होगी?",
+          "opts": [
+            "CSS",
+            "SSԀ",
+            "ƆSS",
+            "SSԀ (reversed)"
+          ],
+          "opts_hi": [
+            "CSS",
+            "SSԀ",
+            "ƆSS",
+            "SSԀ (उल्टा)"
+          ],
+          "ans": 2,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Statement: \"Use XYZ brand soap for glowing skin.\" Assumptions: I. XYZ soap is effective for skin glow. II. People want glowing skin. Which of the following is true?",
+          "q_hi": "कथन: \"चमकदार त्वचा के लिए XYZ ब्रांड साबुन का उपयोग करें।\" पूर्वधारणाएँ: I. XYZ साबुन त्वचा की चमक के लिए प्रभावी है। II. लोग चमकदार त्वचा चाहते हैं। निम्नलिखित में से कौन सा सत्य है?",
+          "opts": [
+            "Only I is implicit",
+            "Only II is implicit",
+            "Both I and II are implicit",
+            "Neither is implicit"
+          ],
+          "opts_hi": [
+            "केवल I अंतर्निहित है",
+            "केवल II अंतर्निहित है",
+            "I और II दोनों अंतर्निहित हैं",
+            "कोई भी अंतर्निहित नहीं है"
+          ],
+          "ans": 2,
+          "subject": "General Intelligence & Reasoning"
         }
       ]
     },
