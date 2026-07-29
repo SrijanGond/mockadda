@@ -639,6 +639,186 @@
           "subject": "General Awareness"
         },
         {
+          "q": "Which Schedule of the Indian Constitution contains the provisions related to the disqualification of members of Parliament on grounds of defection?",
+          "q_hi": "भारतीय संविधान की किस अनुसूची में दल-बदल के आधार पर संसद सदस्यों की अयोग्यता से संबंधित प्रावधान हैं?",
+          "opts": [
+            "Eighth Schedule",
+            "Ninth Schedule",
+            "Tenth Schedule",
+            "Eleventh Schedule"
+          ],
+          "opts_hi": [
+            "आठवीं अनुसूची",
+            "नौवीं अनुसूची",
+            "दसवीं अनुसूची",
+            "ग्यारहवीं अनुसूची"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The 'Doctrine of Lapse' introduced by Lord Dalhousie was used to annex which of the following states first?",
+          "q_hi": "लॉर्ड डलहौजी द्वारा प्रस्तुत 'व्यपगत का सिद्धांत' का उपयोग सर्वप्रथम निम्नलिखित में से किस राज्य को हड़पने के लिए किया गया था?",
+          "opts": [
+            "Jhansi",
+            "Satara",
+            "Nagpur",
+            "Awadh"
+          ],
+          "opts_hi": [
+            "झाँसी",
+            "सतारा",
+            "नागपुर",
+            "अवध"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The Palk Strait separates India from which neighbouring country?",
+          "q_hi": "पाक जलडमरूमध्य भारत को किस पड़ोसी देश से अलग करता है?",
+          "opts": [
+            "Maldives",
+            "Myanmar",
+            "Sri Lanka",
+            "Bangladesh"
+          ],
+          "opts_hi": [
+            "मालदीव",
+            "म्यांमार",
+            "श्रीलंका",
+            "बांग्लादेश"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which of the following is NOT a function of the Reserve Bank of India?",
+          "q_hi": "निम्नलिखित में से कौन-सा भारतीय रिज़र्व बैंक का कार्य नहीं है?",
+          "opts": [
+            "Issuing currency notes",
+            "Banker to the government",
+            "Accepting deposits from the public",
+            "Regulating commercial banks"
+          ],
+          "opts_hi": [
+            "मुद्रा नोट जारी करना",
+            "सरकार का बैंकर",
+            "जनता से जमा राशि स्वीकार करना",
+            "वाणिज्यिक बैंकों को विनियमित करना"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "A person standing in front of a plane mirror sees their image. If the person moves 2 metres towards the mirror, by how much does the distance between the person and their image decrease?",
+          "q_hi": "एक व्यक्ति समतल दर्पण के सामने खड़ा होकर अपना प्रतिबिंब देखता है। यदि व्यक्ति दर्पण की ओर 2 मीटर चलता है, तो व्यक्ति और उसके प्रतिबिंब के बीच की दूरी कितनी कम हो जाती है?",
+          "opts": [
+            "1 metre",
+            "2 metres",
+            "3 metres",
+            "4 metres"
+          ],
+          "opts_hi": [
+            "1 मीटर",
+            "2 मीटर",
+            "3 मीटर",
+            "4 मीटर"
+          ],
+          "ans": 3,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which of the following gases is responsible for the 'Greenhouse Effect' in the largest proportion?",
+          "q_hi": "निम्नलिखित में से कौन-सी गैस सर्वाधिक अनुपात में 'ग्रीनहाउस प्रभाव' के लिए उत्तरदायी है?",
+          "opts": [
+            "Methane",
+            "Nitrous Oxide",
+            "Carbon Dioxide",
+            "Ozone"
+          ],
+          "opts_hi": [
+            "मीथेन",
+            "नाइट्रस ऑक्साइड",
+            "कार्बन डाइऑक्साइड",
+            "ओज़ोन"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which organ of the human body produces the hormone 'Insulin'?",
+          "q_hi": "मानव शरीर का कौन-सा अंग 'इंसुलिन' हार्मोन उत्पन्न करता है?",
+          "opts": [
+            "Liver",
+            "Kidney",
+            "Thyroid gland",
+            "Pancreas"
+          ],
+          "opts_hi": [
+            "यकृत",
+            "वृक्क",
+            "थायरॉइड ग्रंथि",
+            "अग्न्याशय"
+          ],
+          "ans": 3,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The classical dance form 'Mohiniyattam' is traditionally associated with which Indian state?",
+          "q_hi": "शास्त्रीय नृत्य शैली 'मोहिनीअट्टम' परंपरागत रूप से किस भारतीय राज्य से संबंधित है?",
+          "opts": [
+            "Tamil Nadu",
+            "Andhra Pradesh",
+            "Karnataka",
+            "Kerala"
+          ],
+          "opts_hi": [
+            "तमिलनाडु",
+            "आंध्र प्रदेश",
+            "कर्नाटक",
+            "केरल"
+          ],
+          "ans": 3,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The 'Dada Saheb Phalke Award' is given for outstanding contribution to which field?",
+          "q_hi": "दादासाहेब फाल्के पुरस्कार' किस क्षेत्र में उत्कृष्ट योगदान के लिए दिया जाता है?",
+          "opts": [
+            "Indian Literature",
+            "Indian Cinema",
+            "Indian Classical Music",
+            "Indian Sports"
+          ],
+          "opts_hi": [
+            "भारतीय साहित्य",
+            "भारतीय सिनेमा",
+            "भारतीय शास्त्रीय संगीत",
+            "भारतीय खेल"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Under which Article of the Indian Constitution is the Election Commission of India established?",
+          "q_hi": "भारतीय संविधान के किस अनुच्छेद के अंतर्गत भारत निर्वाचन आयोग की स्थापना की गई है?",
+          "opts": [
+            "Article 315",
+            "Article 324",
+            "Article 280",
+            "Article 148"
+          ],
+          "opts_hi": [
+            "अनुच्छेद 315",
+            "अनुच्छेद 324",
+            "अनुच्छेद 280",
+            "अनुच्छेद 148"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
           "q": "What is the square root of 144?",
           "q_hi": "144 का वर्गमूल क्या है?",
           "opts": [
