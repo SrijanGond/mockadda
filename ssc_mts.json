@@ -673,7 +673,8 @@
             "0.22"
           ],
           "ans": 1,
-          "subject": "Numerical and Mathematical Ability"
+          "subject": "Numerical and Mathematical Ability",
+          "warning": "This equation yields a negative value (-29.2%). The equation or options are likely incorrect."
         },
         {
           "q": "If the angles of a triangle are 2x, 3x and 4x, find the value of x.",
