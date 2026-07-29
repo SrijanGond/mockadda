@@ -1869,6 +1869,24 @@
           ],
           "ans": 0,
           "subject": "English Comprehension"
+        },
+        {
+          "q": "Select the most appropriate option to fill in the blank.  The minister's speech was so ________ that even his staunchest critics were left with little to refute.",
+          "q_hi": "",
+          "opts": [
+            "ambiguous",
+            "cogent",
+            "verbose",
+            "frivolous"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
         }
       ]
     },
