@@ -5,64 +5,65 @@ respecting a fixed per-subject QUOTA and a fixed SECTION ORDER — instead
 of just dumping every Published row tagged for that test into the JSON
 in whatever order they happened to be added in.
 
-Why this is needed: "grouped by subject" (what the earlier converter did)
-is not the same as "each section has exactly the right number of
-questions." A test can be perfectly grouped by subject and still be
-wrong — e.g. 30 Reasoning / 26 Quant / 10 GA / 10 English instead of the
-real SSC CGL Tier 1 pattern of 25 / 25 / 25 / 25. This script fixes that:
-it pulls exactly `quota` questions per subject (in the order they were
-added in the Sheet), in the exact section order you specify, and leaves
-any surplus questions untouched in the Sheet rather than discarding them.
+v2 changes from the first version:
+  - SEEDS FROM EXISTING QUESTIONS. If the test already has questions in
+    the exam JSON (e.g. ssc_chsl_1 already has 25 live questions that
+    were never in the Sheet), those are kept and counted toward the
+    quota first. Only the remaining shortfall per subject is pulled
+    from the CSV. Nothing existing is ever dropped.
+  - SUBJECT ALIASES per quota entry. Different exams (or even different
+    sets of the same exam) sometimes use slightly different subject
+    labels for the same section — e.g. CHSL has both "English Language"
+    and "English Comprehension" across its existing tests. Each quota
+    bucket lists every raw subject name that should count toward it,
+    and everything gets relabeled to one canonical name for consistency
+    within that test.
 
-DEFAULT QUOTA (SSC CGL Tier 1, 100 questions) — edit QUOTAS below to add
-patterns for other exams (Banking, Teaching, Railways, etc.) once you
-tell me theirs:
-    General Intelligence & Reasoning : 25
-    General Awareness                : 25
-    Quantitative Aptitude            : 25
-    English Comprehension            : 25
+Behaviour, per subject bucket, in the fixed order you define:
+  1. Existing questions in the test whose subject matches one of the
+     bucket's aliases are kept and canonicalized to the bucket's label.
+  2. If still under quota, CSV rows for that test_id whose subject
+     matches one of the aliases are added (skipping any whose question
+     text is already present, and de-duplicating the CSV itself) until
+     the quota is reached or the CSV is exhausted.
+  3. SURPLUS existing questions beyond quota are still kept (never
+     deleted) — reported, not dropped. SURPLUS CSV rows beyond quota are
+     left unused in the Sheet (not deleted from the Sheet).
+  4. SHORTFALL (still under quota after using everything available) is
+     reported clearly, e.g. "English Language: 10/25 — need 15 more."
 
-Behaviour:
-  - Reads every Published row from the CSV whose set_assigned matches the
-    test_id you pass in.
-  - Groups them by subject, preserving the order they appear in the
-    Sheet (i.e. the order you added them).
-  - Takes up to `quota` questions from each subject's group, in that
-    fixed subject order, to build the test.
-  - SURPLUS: if a subject has more Published rows than its quota, the
-    extra ones are left out of this test entirely (not deleted from the
-    Sheet — they simply aren't used here) and listed in the summary, so
-    you can either leave them for a future set or change their
-    set_assigned in the Sheet.
-  - SHORTFALL: if a subject has fewer rows than its quota, the test is
-    filled with whatever is available and the shortfall is printed
-    clearly, e.g. "General Awareness: 10/25 — need 15 more."
-  - NEVER deletes existing questions in the exam JSON for a test that
-    ISN'T being assembled — only the one test_id you pass in is touched.
-  - Same Hindi/English-skill-subject rule as everywhere else on the
-    site: subjects whose name contains "english" or "hindi" never get a
-    q_hi/opts_hi/exp_hi field.
+Same Hindi/English-skill-subject rule as everywhere else on the site:
+subjects whose canonical name contains "english" or "hindi" never get a
+q_hi/opts_hi/exp_hi field on newly-added questions.
 
 Usage:
     python3 assemble_test.py <questions.csv> <exam-file.json> <test_id>
 
-Example:
-    python3 assemble_test.py questions.csv ssc_cgl.json ssc_cgl_full_1
+If <questions.csv> doesn't have any rows for <test_id>, that's fine —
+the script just reports the existing-only status per section.
 """
 import csv, json, sys
 from collections import OrderedDict
 
 LETTER_TO_IDX = {'A': 0, 'B': 1, 'C': 2, 'D': 3}
 
-# Section order + quota per subject, per test pattern. Add more test_ids /
-# exam patterns here as you confirm them for other exam categories.
+# Section order + quota per test pattern. Each bucket is
+# (canonical_label, [raw subject names in the Sheet/JSON that count
+# toward it, lowercase], target_count). Add more test_ids / exam
+# patterns here as you confirm them for other exam categories.
 QUOTAS = {
-    'ssc_cgl_full_1': OrderedDict([
-        ('General Intelligence & Reasoning', 25),
-        ('General Awareness', 25),
-        ('Quantitative Aptitude', 25),
-        ('English Comprehension', 25),
-    ]),
+    'ssc_cgl_full_1': [
+        ('General Intelligence & Reasoning', ['general intelligence & reasoning'], 25),
+        ('General Awareness', ['general awareness'], 25),
+        ('Quantitative Aptitude', ['quantitative aptitude'], 25),
+        ('English Comprehension', ['english comprehension'], 25),
+    ],
+    'ssc_chsl_1': [
+        ('General Intelligence', ['general intelligence', 'general intelligence & reasoning'], 25),
+        ('General Awareness', ['general awareness'], 25),
+        ('Quantitative Aptitude', ['quantitative aptitude'], 25),
+        ('English Language', ['english language', 'english comprehension'], 25),
+    ],
 }
 
 def is_language_skill_subject(subject):
@@ -111,55 +112,81 @@ def main():
 
     if test_id not in QUOTAS:
         print(f"No quota defined yet for '{test_id}'. Add it to QUOTAS in this script "
-              f"(subject name -> question count, in the order sections should appear).")
+              f"(canonical label, [raw subject aliases], count).")
         sys.exit(1)
-    quota = QUOTAS[test_id]
+    buckets = QUOTAS[test_id]  # list of (label, aliases, target)
 
+    # ---- existing questions already in the exam JSON for this test ----
+    data = json.load(open(json_path, encoding='utf-8'))
+    tests_by_id = {t['id']: t for t in data.get('tests', [])}
+    existing = tests_by_id[test_id]['questions'] if test_id in tests_by_id else []
+    existing_texts = {q.get('q', '').strip().lower() for q in existing}
+
+    # ---- CSV rows for this test, Published, de-duplicated by text ----
     rows = list(csv.DictReader(open(csv_path, encoding='utf-8')))
     rows = [r for r in rows if (r.get('status') or '').strip() == 'Published'
             and (r.get('set_assigned') or '').strip() == test_id]
-
-    # De-duplicate by question text (protects against the same row being
-    # Published more than once in the Sheet).
     seen, deduped = set(), []
-    dupes_skipped = 0
+    csv_dupes_skipped = 0
     for r in rows:
         key = (r.get('en') or '').strip().lower()
         if key in seen:
-            dupes_skipped += 1
+            csv_dupes_skipped += 1
             continue
         seen.add(key)
         deduped.append(r)
 
-    by_subject = OrderedDict()
+    by_subject_csv = {}
     for r in deduped:
-        by_subject.setdefault((r.get('subject') or '').strip(), []).append(r)
+        by_subject_csv.setdefault((r.get('subject') or '').strip().lower(), []).append(r)
 
+    matched_aliases = set()
     assembled = []
-    print(f"Assembling {test_id}  (deduplicated {dupes_skipped} repeat rows from the Sheet)\n")
-    for subject, target in quota.items():
-        available = by_subject.get(subject, [])
-        used = available[:target]
-        surplus = available[target:]
-        assembled.extend(csv_row_to_question(r) for r in used)
+    print(f"Assembling {test_id}  (deduplicated {csv_dupes_skipped} repeat rows from the Sheet)\n")
+
+    for label, aliases, target in buckets:
+        alias_set = {a.lower() for a in aliases}
+        matched_aliases |= alias_set
+
+        # 1. keep existing questions matching this bucket, canonicalize label
+        existing_match = [q for q in existing if (q.get('subject') or '').strip().lower() in alias_set]
+        for q in existing_match:
+            q['subject'] = label
+        used = list(existing_match)
+
+        # 2. top up from CSV if still under quota, skipping anything already present
         if len(used) < target:
-            print(f"  {subject:35s} {len(used)}/{target}  -- SHORT by {target-len(used)}, "
-                  f"write {target-len(used)} more and re-run")
-        elif surplus:
-            print(f"  {subject:35s} {len(used)}/{target}  -- OK, {len(surplus)} extra left "
-                  f"unused in the Sheet for this test (not deleted)")
+            candidates = []
+            for alias in alias_set:
+                candidates.extend(by_subject_csv.get(alias, []))
+            for r in candidates:
+                if len(used) >= target:
+                    break
+                text_key = (r.get('en') or '').strip().lower()
+                if text_key in existing_texts:
+                    continue
+                q = csv_row_to_question(r)
+                q['subject'] = label
+                used.append(q)
+                existing_texts.add(text_key)
+
+        assembled.extend(used)
+
+        if len(used) < target:
+            print(f"  {label:35s} {len(used)}/{target}  -- SHORT by {target-len(used)}, "
+                  f"write {target-len(used)} more in the Sheet and re-run")
         else:
-            print(f"  {subject:35s} {len(used)}/{target}  -- exact fit")
+            surplus_existing = max(0, len(existing_match) - target) if len(existing_match) > target else 0
+            print(f"  {label:35s} {len(used)}/{target}  -- OK"
+                  + (f"  ({len(used)-target} extra kept)" if len(used) > target else ""))
 
-    extra_subjects = set(by_subject) - set(quota)
-    if extra_subjects:
-        print(f"\n  Note: found rows tagged for subjects not in this test's quota "
-              f"({', '.join(extra_subjects)}) — ignored for this test.")
+    unmatched_subjects = {s for s in by_subject_csv if s not in matched_aliases}
+    if unmatched_subjects:
+        print(f"\n  Note: CSV has rows tagged for subjects not in this test's quota "
+              f"({', '.join(unmatched_subjects)}) — ignored for this test.")
 
-    print(f"\nTotal assembled: {len(assembled)} / {sum(quota.values())}")
+    print(f"\nTotal assembled: {len(assembled)} / {sum(t for _, _, t in buckets)}")
 
-    data = json.load(open(json_path, encoding='utf-8'))
-    tests_by_id = {t['id']: t for t in data.get('tests', [])}
     if test_id in tests_by_id:
         tests_by_id[test_id]['questions'] = assembled
     else:
