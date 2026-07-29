@@ -84,32 +84,11 @@
         "fullname": "Staff Selection Commission Multi Tasking Staff",
         "tests": [
           {
-            "id": "ssc_mts_1",
+            "id": "ssc_mts_full_1",
             "title": "SSC MTS Full Mock Test 1 (Session I + II)",
             "duration": 90,
-            "difficulty": "Medium",
-            "questionCount": 40
-          },
-          {
-            "id": "ssc_mts_2",
-            "title": "SSC MTS Full Mock Test 2 (Session I + II)",
-            "duration": 90,
-            "difficulty": "Medium",
-            "questionCount": 40
-          },
-          {
-            "id": "ssc_mts_3",
-            "title": "SSC MTS Full Mock Test 3 (Session I + II)",
-            "duration": 90,
             "difficulty": "Hard",
-            "questionCount": 40
-          },
-          {
-            "id": "ssc_mts_4",
-            "title": "SSC MTS Full Mock Test 4 (Session I + II)",
-            "duration": 90,
-            "difficulty": "Hard",
-            "questionCount": 40
+            "questionCount": 36
           }
         ]
       },
