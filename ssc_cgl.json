@@ -1617,6 +1617,258 @@
           "ans": 1,
           "subject": "English Comprehension",
           "exp_en": "The subject 'Neither of the two candidates' is singular, so the verb should be 'was' not 'were.' The rule is that 'neither' as a pronoun or with 'of' takes a singular verb. Parts A, C, and D are grammatically correct."
+        },
+        {
+          "q": "Select the word most similar in meaning to the word 'EBULLIENT'.",
+          "q_hi": "",
+          "opts": [
+            "Melancholic",
+            "Exuberant",
+            "Lethargic",
+            "Reticent"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Select the word most opposite in meaning to the word 'FRUGAL'.",
+          "q_hi": "",
+          "opts": [
+            "Thrifty",
+            "Prudent",
+            "Lavish",
+            "Modest"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 2,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "What does the idiom 'burn the midnight oil' mean?",
+          "q_hi": "",
+          "opts": [
+            "To waste resources carelessly",
+            "To work or study late into the night",
+            "To cause trouble deliberately",
+            "To destroy evidence"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Choose the one word that best substitutes the given phrase: 'A person who is unable to pay his debts'.",
+          "q_hi": "",
+          "opts": [
+            "Introvert",
+            "Philanthropist",
+            "Insolvent",
+            "Recluse"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 2,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Identify the segment in the sentence that contains a grammatical error: 'She is one of those students who (A) / works very hard (B) / and always scores (C) / good marks. (D)'",
+          "q_hi": "",
+          "opts": [
+            "She is one of those students who",
+            "works very hard",
+            "and always scores",
+            "good marks"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Select the most appropriate word to fill in the blank: 'Despite the heavy criticism, the author remained ________ about the quality of her novel.'",
+          "q_hi": "",
+          "opts": [
+            "Despondent",
+            "Sanguine",
+            "Diffident",
+            "Remorseful"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Identify the correctly spelt word from the options below.",
+          "q_hi": "",
+          "opts": [
+            "Burocracy",
+            "Beaurocracy",
+            "Bureaucracy",
+            "Burrocracy"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 2,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Read the passage and answer the question that follows.  'The rapid expansion of urban areas has placed immense pressure on natural water bodies. Lakes and rivers that once served as recreational and ecological lifelines are now choked with industrial effluents and domestic waste. While environmental regulations exist on paper, enforcement remains weak. Citizens, too, bear responsibility — improper disposal of waste and overuse of groundwater accelerate the damage. A collective effort from government, industry, and individuals is the only viable path forward.'  Which of the following best describes the central idea of the passage?",
+          "q_hi": "",
+          "opts": [
+            "Industrial pollution is the sole cause of water body degradation.",
+            "Strict laws alone can solve the water crisis in urban areas.",
+            "Addressing the degradation of urban water bodies requires shared responsibility.",
+            "Citizens are more responsible for water pollution than industries."
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 2,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "In the following passage, one word has been omitted. Choose the most appropriate word for the blank.  'Honesty is the ________ policy, and this principle holds true in both personal and professional spheres of life.'",
+          "q_hi": "",
+          "opts": [
+            "better",
+            "ideal",
+            "best",
+            "only"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 2,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "In the sentence below, identify the underlined segment that needs improvement, and select the best replacement from the options. 'The committee has took a unanimous decision on the matter.'",
+          "q_hi": "",
+          "opts": [
+            "has take",
+            "have took",
+            "has taken",
+            "had took"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 2,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Select the word most similar in meaning to the word 'OBSTINATE'.",
+          "q_hi": "",
+          "opts": [
+            "Flexible",
+            "Stubborn",
+            "Timid",
+            "Generous"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Identify the segment in the sentence that contains a grammatical error: \"She insisted that he (A) goes to the doctor (B) without any (C) further delay. (D)\"",
+          "q_hi": "",
+          "opts": [
+            "She insisted that he",
+            "goes to the doctor",
+            "without any",
+            "further delay"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "What is the meaning of the idiom 'To beat around the bush'?",
+          "q_hi": "",
+          "opts": [
+            "To work very hard",
+            "To avoid the main topic",
+            "To defeat an opponent easily",
+            "To search carefully"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Choose the most appropriate word to fill in the blank: \"Despite working for twelve hours straight, the team showed no signs of ______ and continued with full enthusiasm.\"",
+          "q_hi": "",
+          "opts": [
+            "fatigue",
+            "courage",
+            "arrogance",
+            "patience"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 0,
+          "subject": "English Comprehension"
         }
       ]
     },
