@@ -441,6 +441,24 @@
           "subject": "General Intelligence"
         },
         {
+          "q": "What will come in place of the question mark (?) in the following number series? 8, 15, 29, 57, 113, ?",
+          "q_hi": "निम्नलिखित संख्या श्रृंखला में प्रश्न चिह्न (?) के स्थान पर क्या आएगा? 8, 15, 29, 57, 113, ?",
+          "opts": [
+            225,
+            226,
+            227,
+            229
+          ],
+          "opts_hi": [
+            225,
+            226,
+            227,
+            229
+          ],
+          "ans": 0,
+          "subject": "General Intelligence"
+        },
+        {
           "q": "Which of the following is the capital of France?",
           "q_hi": "निम्नलिखित में से फ्रांस की राजधानी कौन सी है?",
           "opts": [
