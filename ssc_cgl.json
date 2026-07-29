@@ -963,6 +963,42 @@
           "exp_hi": "26 नवंबर को 1949 में भारतीय संविधान को अपनाने की स्मृति में संविधान दिवस के रूप में मनाया जाता है। यह 26 जनवरी 1950 को लागू हुआ था ।"
         },
         {
+          "q": "Which Schedule of the Indian Constitution contains provisions related to the allocation of seats in the Rajya Sabha to states and union territories?",
+          "q_hi": "भारतीय संविधान की कौन सी अनुसूची राज्यों और केंद्र शासित प्रदेशों को राज्य सभा में सीटों के आवंटन से संबंधित प्रावधान रखती है?",
+          "opts": [
+            "Second Schedule",
+            "Third Schedule",
+            "Fourth Schedule",
+            "Fifth Schedule"
+          ],
+          "opts_hi": [
+            "दूसरी अनुसूची",
+            "तीसरी अनुसूची",
+            "चौथी अनुसूची",
+            "पाँचवीं अनुसूची"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which gas is produced when dilute hydrochloric acid reacts with zinc metal?",
+          "q_hi": "जब तनु हाइड्रोक्लोरिक अम्ल जिंक धातु के साथ अभिक्रिया करता है, तो कौन सी गैस उत्पन्न होती है?",
+          "opts": [
+            "Oxygen",
+            "Chlorine",
+            "Hydrogen",
+            "Carbon dioxide"
+          ],
+          "opts_hi": [
+            "ऑक्सीजन",
+            "क्लोरीन",
+            "हाइड्रोजन",
+            "कार्बन डाइऑक्साइड"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
           "q": "If 40% of a number is 200, what is the number?",
           "opts": [
             "400",
