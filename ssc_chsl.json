@@ -369,6 +369,78 @@
           "subject": "General Intelligence"
         },
         {
+          "q": "Find the missing term in the series: 7, 12, 21, 34, 51, ?",
+          "q_hi": "श्रृंखला में लुप्त पद ज्ञात कीजिए: 7, 12, 21, 34, 51, ?",
+          "opts": [
+            72,
+            68,
+            74,
+            76
+          ],
+          "opts_hi": [
+            72,
+            68,
+            74,
+            76
+          ],
+          "ans": 0,
+          "subject": "General Intelligence"
+        },
+        {
+          "q": "Select the odd one out: 17, 23, 31, 37, 51",
+          "q_hi": "विषम पद चुनिए: 17, 23, 31, 37, 51",
+          "opts": [
+            17,
+            23,
+            37,
+            51
+          ],
+          "opts_hi": [
+            17,
+            23,
+            37,
+            51
+          ],
+          "ans": 3,
+          "subject": "General Intelligence"
+        },
+        {
+          "q": "In a certain code language, FRIEND is written as HTKGPF. How will HUNTER be written in the same code?",
+          "q_hi": "किसी कूट भाषा में FRIEND को HTKGPF लिखा जाता है। उसी कूट भाषा में HUNTER को कैसे लिखा जाएगा?",
+          "opts": [
+            "JWPVGT",
+            "IVPUGT",
+            "JWPVHU",
+            "JXPVGT"
+          ],
+          "opts_hi": [
+            "JWPVGT",
+            "IVPUGT",
+            "JWPVHU",
+            "JXPVGT"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence"
+        },
+        {
+          "q": "Pointing to a photograph, Meena says, \"His mother is the only daughter of my father.\" How is Meena related to the person in the photograph?",
+          "q_hi": "एक तस्वीर की ओर इशारा करते हुए मीना कहती है, \"इसकी माँ मेरे पिता की एकमात्र पुत्री है।\" मीना उस तस्वीर में दिख रहे व्यक्ति से किस प्रकार संबंधित है?",
+          "opts": [
+            "Sister",
+            "Aunt",
+            "Mother",
+            "Grandmother"
+          ],
+          "opts_hi": [
+            "बहन",
+            "मौसी/चाची",
+            "माँ",
+            "दादी/नानी"
+          ],
+          "ans": 2,
+          "subject": "General Intelligence"
+        },
+        {
           "q": "Which of the following is the capital of France?",
           "q_hi": "निम्नलिखित में से फ्रांस की राजधानी कौन सी है?",
           "opts": [
