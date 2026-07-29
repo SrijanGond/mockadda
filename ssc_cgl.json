@@ -449,6 +449,60 @@
           "exp_hi": "दोनों पूर्वधारणाएँ अंतर्निहित हैं। कथन चमकदार त्वचा के लिए साबुन की सिफारिश करता है, जिसका अर्थ है कि यह प्रभावी है (I) और लोग चमकदार त्वचा चाहते हैं (II)।"
         },
         {
+          "q": "What is the missing term in the following series? 7, 12, 21, 34, 51, __",
+          "q_hi": "निम्नलिखित श्रृंखला में लुप्त पद क्या है? 7, 12, 21, 34, 51, __",
+          "opts": [
+            72,
+            68,
+            76,
+            70
+          ],
+          "opts_hi": [
+            72,
+            68,
+            76,
+            70
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Painter : Brush :: Carpenter : ?",
+          "q_hi": "चित्रकार : ब्रश :: बढ़ई : ?",
+          "opts": [
+            "Wood",
+            "Chisel",
+            "Nail",
+            "Hammer"
+          ],
+          "opts_hi": [
+            "लकड़ी",
+            "छेनी",
+            "कील",
+            "हथौड़ा"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "In a certain code language, FOREST is written as GQTGUV. How will DESERT be written in the same code?",
+          "q_hi": "एक निश्चित कूट भाषा में FOREST को GQTGUV लिखा जाता है। उसी कूट भाषा में DESERT को कैसे लिखा जाएगा?",
+          "opts": [
+            "EFUGTU",
+            "EFTGUS",
+            "EFUGSV",
+            "EFUGSU"
+          ],
+          "opts_hi": [
+            "EFUGTU",
+            "EFTGUS",
+            "EFUGSV",
+            "EFUGSU"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
           "q": "Which schedule of the Indian Constitution contains provisions related to the disqualification of members of Parliament on grounds of defection?",
           "opts": [
             "Eighth Schedule",
