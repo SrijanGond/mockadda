@@ -3401,6 +3401,312 @@
           ],
           "ans": 0,
           "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "Who appoints the Chief Election Commissioner of India?",
+          "q_hi": "भारत के मुख्य चुनाव आयुक्त की नियुक्ति कौन करता है?",
+          "opts": [
+            "Prime Minister",
+            "President",
+            "Chief Justice of India",
+            "Vice President"
+          ],
+          "opts_hi": [
+            "प्रधान मंत्री",
+            "राष्ट्रपति",
+            "भारत के मुख्य न्यायाधीश",
+            "उपराष्ट्रपति"
+          ],
+          "ans": 1,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "Which part of the Indian Constitution deals with Fundamental Duties?",
+          "q_hi": "भारतीय संविधान का कौन सा भाग मौलिक कर्तव्यों से संबंधित है?",
+          "opts": [
+            "Part III",
+            "Part IV",
+            "Part IV-A",
+            "Part V"
+          ],
+          "opts_hi": [
+            "भाग III",
+            "भाग IV",
+            "भाग IV-A",
+            "भाग V"
+          ],
+          "ans": 2,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "The Speaker of the Lok Sabha is elected by?",
+          "q_hi": "लोकसभा का अध्यक्ष किसके द्वारा चुना जाता है?",
+          "opts": [
+            "The President",
+            "The Prime Minister",
+            "Members of Lok Sabha",
+            "Members of Parliament"
+          ],
+          "opts_hi": [
+            "राष्ट्रपति",
+            "प्रधान मंत्री",
+            "लोकसभा के सदस्य",
+            "संसद के सदस्य"
+          ],
+          "ans": 2,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "Which state is the largest producer of wheat in India?",
+          "q_hi": "भारत में गेहूं का सबसे बड़ा उत्पादक राज्य कौन सा है?",
+          "opts": [
+            "Punjab",
+            "Haryana",
+            "Uttar Pradesh",
+            "Madhya Pradesh"
+          ],
+          "opts_hi": [
+            "पंजाब",
+            "हरियाणा",
+            "उत्तर प्रदेश",
+            "मध्य प्रदेश"
+          ],
+          "ans": 2,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "The 'Golden Triangle' of India includes which three cities?",
+          "q_hi": "भारत का 'स्वर्ण त्रिभुज' किन तीन शहरों को शामिल करता है?",
+          "opts": [
+            "Delhi, Agra, Jaipur",
+            "Delhi, Mumbai, Kolkata",
+            "Agra, Jaipur, Udaipur",
+            "Delhi, Agra, Varanasi"
+          ],
+          "opts_hi": [
+            "दिल्ली, आगरा, जयपुर",
+            "दिल्ली, मुंबई, कोलकाता",
+            "आगरा, जयपुर, उदयपुर",
+            "दिल्ली, आगरा, वाराणसी"
+          ],
+          "ans": 0,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "The longest river in India is?",
+          "q_hi": "भारत की सबसे लंबी नदी कौन सी है?",
+          "opts": [
+            "Brahmaputra",
+            "Ganga",
+            "Godavari",
+            "Yamuna"
+          ],
+          "opts_hi": [
+            "ब्रह्मपुत्र",
+            "गंगा",
+            "गोदावरी",
+            "यमुना"
+          ],
+          "ans": 1,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "The 'GST' was implemented in India on which date?",
+          "q_hi": "भारत में 'GST' किस तारीख को लागू किया गया था?",
+          "opts": [
+            "2017-07-01T00:00:00.000Z",
+            "2017-08-01T00:00:00.000Z",
+            "2017-06-01T00:00:00.000Z",
+            "2017-04-01T00:00:00.000Z"
+          ],
+          "opts_hi": [
+            "1 जुलाई 2017",
+            "1 अगस्त 2017",
+            "1 जून 2017",
+            "1 अप्रैल 2017"
+          ],
+          "ans": 0,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "Which organization releases the 'World Economic Outlook' report?",
+          "q_hi": "विश्व आर्थिक परिदृश्य' रिपोर्ट कौन सा संगठन जारी करता है?",
+          "opts": [
+            "World Bank",
+            "IMF",
+            "WTO",
+            "UNCTAD"
+          ],
+          "opts_hi": [
+            "विश्व बैंक",
+            "IMF",
+            "WTO",
+            "UNCTAD"
+          ],
+          "ans": 1,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "Which vitamin is known as 'Niacin'?",
+          "q_hi": "किस विटामिन को 'नियासिन' के नाम से जाना जाता है?",
+          "opts": [
+            "Vitamin B1",
+            "Vitamin B2",
+            "Vitamin B3",
+            "Vitamin B6"
+          ],
+          "opts_hi": [
+            "विटामिन B1",
+            "विटामिन B2",
+            "विटामिन B3",
+            "विटामिन B6"
+          ],
+          "ans": 2,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "Which organ filters blood and produces urine in the human body?",
+          "q_hi": "मानव शरीर में कौन सा अंग रक्त को फिल्टर करता है और मूत्र का निर्माण करता है?",
+          "opts": [
+            "Liver",
+            "Kidney",
+            "Heart",
+            "Lungs"
+          ],
+          "opts_hi": [
+            "यकृत",
+            "गुर्दा",
+            "हृदय",
+            "फेफड़े"
+          ],
+          "ans": 1,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "Which of the following is the hardest naturally occurring substance?",
+          "q_hi": "निम्नलिखित में से सबसे कठोर प्राकृतिक रूप से पाया जाने वाला पदार्थ कौन सा है?",
+          "opts": [
+            "Iron",
+            "Graphite",
+            "Diamond",
+            "Quartz"
+          ],
+          "opts_hi": [
+            "लोहा",
+            "ग्रेफाइट",
+            "हीरा",
+            "क्वार्ट्ज"
+          ],
+          "ans": 2,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "Who wrote the famous book 'Godaan'?",
+          "q_hi": "प्रसिद्ध पुस्तक 'गोदान' किसने लिखी?",
+          "opts": [
+            "Premchand",
+            "Rabindranath Tagore",
+            "Mahatma Gandhi",
+            "Bankim Chandra Chatterjee"
+          ],
+          "opts_hi": [
+            "प्रेमचंद",
+            "रवींद्रनाथ टैगोर",
+            "महात्मा गांधी",
+            "बंकिम चंद्र चट्टोपाध्याय"
+          ],
+          "ans": 0,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "The autobiography 'My Experiments with Truth' is written by?",
+          "q_hi": "आत्मकथा 'माई एक्सपेरिमेंट्स विद ट्रुथ' किसके द्वारा लिखी गई है?",
+          "opts": [
+            "Jawaharlal Nehru",
+            "Mahatma Gandhi",
+            "B.R. Ambedkar",
+            "Sarojini Naidu"
+          ],
+          "opts_hi": [
+            "जवाहरलाल नेहरू",
+            "महात्मा गांधी",
+            "बी.आर. अम्बेडकर",
+            "सरोजिनी नायडू"
+          ],
+          "ans": 1,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "Who is known as the 'Flying Sikh' of India?",
+          "q_hi": "भारत के 'फ्लाइंग सिख' के नाम से किसे जाना जाता है?",
+          "opts": [
+            "Milkha Singh",
+            "Kapil Dev",
+            "P.T. Usha",
+            "Neeraj Chopra"
+          ],
+          "opts_hi": [
+            "मिल्खा सिंह",
+            "कपिल देव",
+            "पी.टी. उषा",
+            "नीरज चोपड़ा"
+          ],
+          "ans": 0,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "Which Indian boxer won a bronze medal at the 2020 Tokyo Olympics?",
+          "q_hi": "2020 टोक्यो ओलंपिक में किस भारतीय मुक्केबाज ने कांस्य पदक जीता?",
+          "opts": [
+            "Vijender Singh",
+            "Amit Panghal",
+            "Lovlina Borgohain",
+            "Mary Kom"
+          ],
+          "opts_hi": [
+            "विजेंदर सिंह",
+            "अमित पंघाल",
+            "लवलीना बोरगोहैन",
+            "मैरी कॉम"
+          ],
+          "ans": 2,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "Which Indian classical dance form originates from the state of Kerala?",
+          "q_hi": "भारत की कौन सी शास्त्रीय नृत्य शैली केरल राज्य से उत्पन्न हुई है?",
+          "opts": [
+            "Kathak",
+            "Bharatanatyam",
+            "Kathakali",
+            "Kuchipudi"
+          ],
+          "opts_hi": [
+            "कथक",
+            "भरतनाट्यम",
+            "कथकली",
+            "कुचिपुड़ी"
+          ],
+          "ans": 2,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "Which day is celebrated as 'World Environment Day'?",
+          "q_hi": "विश्व पर्यावरण दिवस' किस दिन मनाया जाता है?",
+          "opts": [
+            "2026-06-05T00:00:00.000Z",
+            "2026-07-05T00:00:00.000Z",
+            "2026-08-05T00:00:00.000Z",
+            "2026-09-05T00:00:00.000Z"
+          ],
+          "opts_hi": [
+            "5 जून",
+            "5 जुलाई",
+            "5 अगस्त",
+            "5 सितंबर"
+          ],
+          "ans": 0,
+          "subject": "General Awareness & Current Affairs"
         }
       ]
     },
