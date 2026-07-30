@@ -1483,6 +1483,330 @@
           ],
           "ans": 2,
           "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "Which state is the largest producer of coffee in India?",
+          "q_hi": "भारत में कॉफी का सबसे बड़ा उत्पादक राज्य कौन सा है?",
+          "opts": [
+            "Kerala",
+            "Tamil Nadu",
+            "Karnataka",
+            "Andhra Pradesh"
+          ],
+          "opts_hi": [
+            "केरल",
+            "तमिलनाडु",
+            "कर्नाटक",
+            "आंध्र प्रदेश"
+          ],
+          "ans": 2,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "The 'Silk City' of India is?",
+          "q_hi": "भारत का 'रेशम नगरी' किसे कहा जाता है?",
+          "opts": [
+            "Varanasi",
+            "Mysore",
+            "Kanchipuram",
+            "Dhaka"
+          ],
+          "opts_hi": [
+            "वाराणसी",
+            "मैसूर",
+            "कांचीपुरम",
+            "ढाका"
+          ],
+          "ans": 2,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "The highest mountain peak in India is?",
+          "q_hi": "भारत की सबसे ऊँची पर्वत चोटी कौन सी है?",
+          "opts": [
+            "Mount Everest",
+            "Kanchenjunga",
+            "Nanda Devi",
+            "K2"
+          ],
+          "opts_hi": [
+            "माउंट एवरेस्ट",
+            "कंचनजंगा",
+            "नंदा देवी",
+            "के2"
+          ],
+          "ans": 1,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "In India, the concept of 'Budget' is mentioned in which Article of the Constitution?",
+          "q_hi": "भारत में, 'बजट' की अवधारणा संविधान के किस अनुच्छेद में उल्लिखित है?",
+          "opts": [
+            "Article 110",
+            "Article 112",
+            "Article 265",
+            "Article 360"
+          ],
+          "opts_hi": [
+            "अनुच्छेद 110",
+            "अनुच्छेद 112",
+            "अनुच्छेद 265",
+            "अनुच्छेद 360"
+          ],
+          "ans": 1,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "The full form of GDP is?",
+          "q_hi": "GDP का पूर्ण रूप क्या है?",
+          "opts": [
+            "Gross Domestic Product",
+            "Gross Development Product",
+            "Global Domestic Product",
+            "Gross Direct Product"
+          ],
+          "opts_hi": [
+            "ग्रॉस डोमेस्टिक प्रोडक्ट",
+            "ग्रॉस डेवलपमेंट प्रोडक्ट",
+            "ग्लोबल डोमेस्टिक प्रोडक्ट",
+            "ग्रॉस डायरेक्ट प्रोडक्ट"
+          ],
+          "ans": 0,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "Who is known as the 'Father of Indian Economics'?",
+          "q_hi": "भारतीय अर्थशास्त्र के जनक' के रूप में किसे जाना जाता है?",
+          "opts": [
+            "Amartya Sen",
+            "Dadabhai Naoroji",
+            "M. Visvesvaraya",
+            "R. C. Dutt"
+          ],
+          "opts_hi": [
+            "अमर्त्य सेन",
+            "दादाभाई नौरोजी",
+            "एम. विश्वेश्वरैया",
+            "आर. सी. दत्त"
+          ],
+          "ans": 1,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "The SI unit of electric current is?",
+          "q_hi": "विद्युत धारा का SI मात्रक क्या है?",
+          "opts": [
+            "Volt",
+            "Ampere",
+            "Ohm",
+            "Watt"
+          ],
+          "opts_hi": [
+            "वोल्ट",
+            "एम्पीयर",
+            "ओम",
+            "वाट"
+          ],
+          "ans": 1,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "The chemical formula of common salt is?",
+          "q_hi": "सामान्य नमक का रासायनिक सूत्र क्या है?",
+          "opts": [
+            "NaCl",
+            "KCl",
+            "CaCO₃",
+            "Na₂CO₃"
+          ],
+          "opts_hi": [
+            "NaCl",
+            "KCl",
+            "CaCO₃",
+            "Na₂CO₃"
+          ],
+          "ans": 0,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "Which type of lens is used in a magnifying glass?",
+          "q_hi": "आवर्धक लेंस में किस प्रकार का लेंस उपयोग किया जाता है?",
+          "opts": [
+            "Concave",
+            "Convex",
+            "Plano-concave",
+            "Cylindrical"
+          ],
+          "opts_hi": [
+            "अवतल",
+            "उत्तल",
+            "समतल-अवतल",
+            "बेलनाकार"
+          ],
+          "ans": 1,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "Which blood group is known as the universal recipient?",
+          "q_hi": "किस रक्त समूह को सार्वभौमिक ग्राही कहा जाता है?",
+          "opts": [
+            "A+",
+            "O-",
+            "AB+",
+            "B-"
+          ],
+          "opts_hi": [
+            "A+",
+            "O-",
+            "AB+",
+            "B-"
+          ],
+          "ans": 2,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "Who is the author of the book 'The Discovery of India'?",
+          "q_hi": "द डिस्कवरी ऑफ इंडिया' पुस्तक के लेखक कौन हैं?",
+          "opts": [
+            "Mahatma Gandhi",
+            "Jawaharlal Nehru",
+            "Rabindranath Tagore",
+            "B.R. Ambedkar"
+          ],
+          "opts_hi": [
+            "महात्मा गांधी",
+            "जवाहरलाल नेहरू",
+            "रवींद्रनाथ टैगोर",
+            "बी.आर. अम्बेडकर"
+          ],
+          "ans": 1,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "Who wrote the Indian national anthem 'Jana Gana Mana'?",
+          "q_hi": "भारतीय राष्ट्रगान 'जन गण मन' किसने लिखा?",
+          "opts": [
+            "Bankim Chandra Chatterjee",
+            "Rabindranath Tagore",
+            "Subramania Bharati",
+            "Muhammad Iqbal"
+          ],
+          "opts_hi": [
+            "बंकिम चंद्र चट्टोपाध्याय",
+            "रवींद्रनाथ टैगोर",
+            "सुब्रह्मण्य भारती",
+            "मुहम्मद इकबाल"
+          ],
+          "ans": 1,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "Which Indian athlete won the first individual gold medal for India in the Olympics?",
+          "q_hi": "किस भारतीय खिलाड़ी ने ओलंपिक में भारत के लिए पहला व्यक्तिगत स्वर्ण पदक जीता?",
+          "opts": [
+            "Milkha Singh",
+            "P.T. Usha",
+            "Abhinav Bindra",
+            "Neeraj Chopra"
+          ],
+          "opts_hi": [
+            "मिल्खा सिंह",
+            "पी.टी. उषा",
+            "अभिनव बिंद्रा",
+            "नीरज चोपड़ा"
+          ],
+          "ans": 2,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "Which Indian cricketer has the nickname 'Captain Cool'?",
+          "q_hi": "किस भारतीय क्रिकेटर को 'कैप्टन कूल' के उपनाम से जाना जाता है?",
+          "opts": [
+            "Sachin Tendulkar",
+            "Virat Kohli",
+            "M.S. Dhoni",
+            "Rahul Dravid"
+          ],
+          "opts_hi": [
+            "सचिन तेंदुलकर",
+            "विराट कोहली",
+            "एम.एस. धोनी",
+            "राहुल द्रविड़"
+          ],
+          "ans": 2,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "The term 'Grand Slam' is associated with which sport?",
+          "q_hi": "ग्रैंड स्लैम' शब्द किस खेल से संबंधित है?",
+          "opts": [
+            "Cricket",
+            "Tennis",
+            "Football",
+            "Badminton"
+          ],
+          "opts_hi": [
+            "क्रिकेट",
+            "टेनिस",
+            "फुटबॉल",
+            "बैडमिंटन"
+          ],
+          "ans": 1,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "The famous 'Konark Sun Temple' is located in which state?",
+          "q_hi": "प्रसिद्ध 'कोणार्क सूर्य मंदिर' किस राज्य में स्थित है?",
+          "opts": [
+            "Odisha",
+            "West Bengal",
+            "Tamil Nadu",
+            "Uttar Pradesh"
+          ],
+          "opts_hi": [
+            "ओडिशा",
+            "पश्चिम बंगाल",
+            "तमिलनाडु",
+            "उत्तर प्रदेश"
+          ],
+          "ans": 0,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "Which day is celebrated as 'Constitution Day' in India?",
+          "q_hi": "भारत में 'संविधान दिवस' किस दिन मनाया जाता है?",
+          "opts": [
+            "2026-08-15T00:00:00.000Z",
+            "2026-01-26T00:00:00.000Z",
+            "2026-11-26T00:00:00.000Z",
+            "2026-10-02T00:00:00.000Z"
+          ],
+          "opts_hi": [
+            "15 अगस्त",
+            "26 जनवरी",
+            "26 नवंबर",
+            "2 अक्टूबर"
+          ],
+          "ans": 2,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "When is International Yoga Day celebrated?",
+          "q_hi": "अंतर्राष्ट्रीय योग दिवस कब मनाया जाता है?",
+          "opts": [
+            "2026-06-21T00:00:00.000Z",
+            "2026-07-21T00:00:00.000Z",
+            "2026-08-21T00:00:00.000Z",
+            "2026-09-21T00:00:00.000Z"
+          ],
+          "opts_hi": [
+            "21 जून",
+            "21 जुलाई",
+            "21 अगस्त",
+            "21 सितंबर"
+          ],
+          "ans": 0,
+          "subject": "General Awareness & Current Affairs"
         }
       ]
     },
