@@ -2803,6 +2803,114 @@
           "subject": "Mathematics"
         },
         {
+          "q": "If 15% of a number is 45, what is the number?",
+          "q_hi": "यदि किसी संख्या का 15% 45 है, तो वह संख्या क्या है?",
+          "opts": [
+            200,
+            250,
+            300,
+            350
+          ],
+          "opts_hi": [
+            200,
+            250,
+            300,
+            350
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "A shopkeeper buys a pen for ₹50 and sells it at a profit of 18%. What is the selling price?",
+          "q_hi": "एक दुकानदार एक पेन ₹50 में खरीदता है और 18% लाभ पर बेचता है। विक्रय मूल्य क्या है?",
+          "opts": [
+            "₹55",
+            "₹57",
+            "₹59",
+            "₹61"
+          ],
+          "opts_hi": [
+            "₹55",
+            "₹57",
+            "₹59",
+            "₹61"
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the LCM of 8, 12 and 16?",
+          "q_hi": "8, 12 और 16 का LCM क्या है?",
+          "opts": [
+            32,
+            40,
+            48,
+            56
+          ],
+          "opts_hi": [
+            32,
+            40,
+            48,
+            56
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "A bus travels 180 km in 3 hours. What is its speed in m/s?",
+          "q_hi": "एक बस 180 किमी की दूरी 3 घंटे में तय करती है। इसकी चाल मी/से में क्या है?",
+          "opts": [
+            "15 m/s",
+            "16.67 m/s",
+            "20 m/s",
+            "25 m/s"
+          ],
+          "opts_hi": [
+            "15 मी/से",
+            "16.67 मी/से",
+            "20 मी/से",
+            "25 मी/से"
+          ],
+          "ans": 1,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "If x - 1/x = 3, find x² + 1/x².",
+          "q_hi": "यदि x - 1/x = 3 है, तो x² + 1/x² ज्ञात करें।",
+          "opts": [
+            7,
+            9,
+            11,
+            13
+          ],
+          "opts_hi": [
+            7,
+            9,
+            11,
+            13
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the area of a square of side 15 cm?",
+          "q_hi": "15 सेमी भुजा वाले वर्ग का क्षेत्रफल क्या है?",
+          "opts": [
+            "200 cm²",
+            "215 cm²",
+            "220 cm²",
+            "225 cm²"
+          ],
+          "opts_hi": [
+            "200 सेमी²",
+            "215 सेमी²",
+            "220 सेमी²",
+            "225 सेमी²"
+          ],
+          "ans": 3,
+          "subject": "Mathematics"
+        },
+        {
           "q": "Select the option that is related to the third term in the same way as the second term is related to the first term: Pen : Write :: Scissors : ?",
           "opts": [
             "Cut",
