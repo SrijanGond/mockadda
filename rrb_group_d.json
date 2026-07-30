@@ -567,6 +567,348 @@
           "subject": "Mathematics"
         },
         {
+          "q": "Two trains of lengths 200 m and 300 m are running on parallel tracks in opposite directions at speeds of 36 km/h and 54 km/h. How long will they take to cross each other?",
+          "q_hi": "200 मी और 300 मी लंबाई की दो ट्रेनें समानांतर पटरियों पर विपरीत दिशाओं में 36 किमी/घंटा और 54 किमी/घंटा की चाल से चल रही हैं। वे एक-दूसरे को पार करने में कितना समय लेंगी?",
+          "opts": [
+            "20 sec",
+            "25 sec",
+            "30 sec",
+            "35 sec"
+          ],
+          "opts_hi": [
+            "20 सेकंड",
+            "25 सेकंड",
+            "30 सेकंड",
+            "35 सेकंड"
+          ],
+          "ans": 0,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the simple interest on ₹5000 at 10% per annum for 3 years?",
+          "q_hi": "₹5000 पर 10% वार्षिक दर से 3 वर्षों का साधारण ब्याज क्या है?",
+          "opts": [
+            "₹1000",
+            "₹1200",
+            "₹1500",
+            "₹1800"
+          ],
+          "opts_hi": [
+            "₹1000",
+            "₹1200",
+            "₹1500",
+            "₹1800"
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the compound interest on ₹5000 at 10% per annum compounded annually for 2 years?",
+          "q_hi": "₹5000 पर 10% वार्षिक दर से 2 वर्षों का चक्रवृद्धि ब्याज क्या है (वार्षिक रूप से संयोजित)?",
+          "opts": [
+            "₹1000",
+            "₹1050",
+            "₹1100",
+            "₹1150"
+          ],
+          "opts_hi": [
+            "₹1000",
+            "₹1050",
+            "₹1100",
+            "₹1150"
+          ],
+          "ans": 1,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "If A : B = 2 : 3 and B : C = 4 : 5, find A : C.",
+          "q_hi": "यदि A : B = 2 : 3 और B : C = 4 : 5 है, तो A : C ज्ञात करें।",
+          "opts": [
+            "2 : 5",
+            "4 : 5",
+            "8 : 15",
+            "5 : 8"
+          ],
+          "opts_hi": [
+            "2 : 5",
+            "4 : 5",
+            "8 : 15",
+            "5 : 8"
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "If x : y = 5 : 7, find (5x + 3y) : (3x + 2y).",
+          "q_hi": "यदि x : y = 5 : 7 है, तो (5x + 3y) : (3x + 2y) ज्ञात करें।",
+          "opts": [
+            "5 : 6",
+            "6 : 7",
+            "46 : 29",
+            "47 : 30"
+          ],
+          "opts_hi": [
+            "5 : 6",
+            "6 : 7",
+            "46 : 29",
+            "47 : 30"
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the LCM of 12, 18 and 24?",
+          "q_hi": "12, 18 और 24 का LCM क्या है?",
+          "opts": [
+            48,
+            60,
+            72,
+            84
+          ],
+          "opts_hi": [
+            48,
+            60,
+            72,
+            84
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the HCF of 144 and 180?",
+          "q_hi": "144 और 180 का HCF क्या है?",
+          "opts": [
+            24,
+            30,
+            36,
+            42
+          ],
+          "opts_hi": [
+            24,
+            30,
+            36,
+            42
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the smallest prime number?",
+          "q_hi": "सबसे छोटी अभाज्य संख्या क्या है?",
+          "opts": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "opts_hi": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "If x + 1/x = 3, find x² + 1/x².",
+          "q_hi": "यदि x + 1/x = 3 है, तो x² + 1/x² ज्ञात करें।",
+          "opts": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "opts_hi": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "If x + y = 12 and xy = 35, find x² + y².",
+          "q_hi": "यदि x + y = 12 और xy = 35 है, तो x² + y² ज्ञात करें।",
+          "opts": [
+            72,
+            74,
+            76,
+            78
+          ],
+          "opts_hi": [
+            72,
+            74,
+            76,
+            78
+          ],
+          "ans": 1,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "Solve: 3x + 5 = 20. Find x.",
+          "q_hi": "हल करें: 3x + 5 = 20. x ज्ञात करें।",
+          "opts": [
+            3,
+            4,
+            5,
+            6
+          ],
+          "opts_hi": [
+            3,
+            4,
+            5,
+            6
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the area of a circle of radius 7 cm?",
+          "q_hi": "7 सेमी त्रिज्या वाले वृत्त का क्षेत्रफल क्या है?",
+          "opts": [
+            "154 cm²",
+            "144 cm²",
+            "164 cm²",
+            "174 cm²"
+          ],
+          "opts_hi": [
+            "154 सेमी²",
+            "144 सेमी²",
+            "164 सेमी²",
+            "174 सेमी²"
+          ],
+          "ans": 0,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the volume of a cylinder with radius 7 cm and height 10 cm?",
+          "q_hi": "7 सेमी त्रिज्या और 10 सेमी ऊँचाई वाले बेलन का आयतन क्या है?",
+          "opts": [
+            "1540 cm³",
+            "15400 cm³",
+            "1480 cm³",
+            "1450 cm³"
+          ],
+          "opts_hi": [
+            "1540 सेमी³",
+            "15400 सेमी³",
+            "1480 सेमी³",
+            "1450 सेमी³"
+          ],
+          "ans": 0,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the perimeter of a square of side 12 cm?",
+          "q_hi": "12 सेमी भुजा वाले वर्ग का परिमाप क्या है?",
+          "opts": [
+            "24 cm",
+            "36 cm",
+            "48 cm",
+            "60 cm"
+          ],
+          "opts_hi": [
+            "24 सेमी",
+            "36 सेमी",
+            "48 सेमी",
+            "60 सेमी"
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the value of sin 30° + cos 60°?",
+          "q_hi": "sin 30° + cos 60° का मान क्या है?",
+          "opts": [
+            0.5,
+            1,
+            1.5,
+            2
+          ],
+          "opts_hi": [
+            0.5,
+            1,
+            1.5,
+            2
+          ],
+          "ans": 1,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the value of tan 45°?",
+          "q_hi": "tan 45° का मान क्या है?",
+          "opts": [
+            0,
+            0.5,
+            1,
+            1.5
+          ],
+          "opts_hi": [
+            0,
+            0.5,
+            1,
+            1.5
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "The average of 5 numbers is 20. If one number is removed, the average becomes 18. What is the removed number?",
+          "q_hi": "5 संख्याओं का औसत 20 है। यदि एक संख्या हटा दी जाती है, तो औसत 18 हो जाता है। हटाई गई संख्या क्या है?",
+          "opts": [
+            20,
+            22,
+            24,
+            28
+          ],
+          "opts_hi": [
+            20,
+            22,
+            24,
+            28
+          ],
+          "ans": 3,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "If the average of 3 numbers is 25 and two of them are 20 and 30, what is the third number?",
+          "q_hi": "यदि 3 संख्याओं का औसत 25 है और उनमें से दो 20 और 30 हैं, तो तीसरी संख्या क्या है?",
+          "opts": [
+            20,
+            25,
+            30,
+            35
+          ],
+          "opts_hi": [
+            20,
+            25,
+            30,
+            35
+          ],
+          "ans": 1,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "The sum of the angles of a triangle is:",
+          "q_hi": "एक त्रिभुज के कोणों का योग होता है:",
+          "opts": [
+            "180°",
+            "270°",
+            "360°",
+            "90°"
+          ],
+          "opts_hi": [
+            "180°",
+            "270°",
+            "360°",
+            "90°"
+          ],
+          "ans": 0,
+          "subject": "Mathematics"
+        },
+        {
           "q": "Select the correct option: 8 : 512 :: 7 : ?",
           "q_hi": "सही विकल्प चुनें: 8 : 512 :: 7 : ?",
           "opts": [
