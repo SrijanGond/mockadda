@@ -84,6 +84,20 @@ QUOTAS = {
     ],
 }
 
+# Duration is in MINUTES (the site does test.duration * 60 to get the
+# countdown in seconds) — NOT seconds. Getting this wrong doesn't error,
+# it just makes the timer look broken (e.g. a "duration": 3600 default
+# meant as a safe fallback actually reads as 3600 *minutes*, 60 hours).
+# Fill this in for every test_id in QUOTAS so a brand-new test never falls
+# back to a guessed value silently.
+TEST_META = {
+    'ssc_cgl_full_1': {'duration': 60, 'correctMarks': 2, 'negativeMarks': 0.5},
+    'ssc_chsl_1': {'duration': 60, 'correctMarks': 2, 'negativeMarks': 0.5},
+    'rrb_group_d_1': {'duration': 90, 'correctMarks': 1, 'negativeMarks': 0.33},
+    'rrb_group_d_2': {'duration': 90, 'correctMarks': 1, 'negativeMarks': 0.33},
+    'rrb_group_d_3': {'duration': 90, 'correctMarks': 1, 'negativeMarks': 0.33},
+}
+
 def is_language_skill_subject(subject):
     s = (subject or '').lower()
     return 'english' in s or 'hindi' in s
@@ -208,9 +222,17 @@ def main():
     if test_id in tests_by_id:
         tests_by_id[test_id]['questions'] = assembled
     else:
+        meta = TEST_META.get(test_id)
+        if not meta:
+            print(f"\n  *** WARNING: no TEST_META entry for '{test_id}' — using a 60-minute "
+                  f"placeholder duration and a 0.5 negative-marking default. VERIFY these are "
+                  f"correct for this exam before uploading, and add a TEST_META entry so this "
+                  f"warning doesn't show up again. ***")
+            meta = {'duration': 60, 'correctMarks': 1, 'negativeMarks': 0.5}
         data['tests'].append({
-            'id': test_id, 'title': test_id, 'duration': 3600,
-            'correctMarks': 1, 'negativeMarks': 0, 'questions': assembled
+            'id': test_id, 'title': test_id,
+            'duration': meta['duration'], 'correctMarks': meta['correctMarks'],
+            'negativeMarks': meta['negativeMarks'], 'questions': assembled
         })
     json.dump(data, open(json_path, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
     print(f"\nWrote {json_path} — {test_id} now has exactly this assembled question set.")
