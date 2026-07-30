@@ -1416,6 +1416,60 @@
           "subject": "General Intelligence & Reasoning"
         },
         {
+          "q": "If 'APPLE' is coded as 'BQQMF', how is 'MANGO' coded?",
+          "q_hi": "यदि 'APPLE' को 'BQQMF' के रूप में कोडित किया जाता है, तो 'MANGO' को कैसे कोडित किया जाएगा?",
+          "opts": [
+            "NBOHP",
+            "NBOJP",
+            "NBOHQ",
+            "NCOHP"
+          ],
+          "opts_hi": [
+            "NBOHP",
+            "NBOJP",
+            "NBOHQ",
+            "NCOHP"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Karan starts from point A and walks 10 km towards North. He turns right and walks 5 km. He then turns right and walks 10 km. In which direction is he from his starting point?",
+          "q_hi": "करण बिंदु A से चलना शुरू करता है और 10 किमी उत्तर चलता है। वह दाईं ओर मुड़ता है और 5 किमी चलता है। फिर वह दाईं ओर मुड़ता है और 10 किमी चलता है। वह अपने प्रारंभिक बिंदु से किस दिशा में है?",
+          "opts": [
+            "North",
+            "South",
+            "East",
+            "West"
+          ],
+          "opts_hi": [
+            "उत्तर",
+            "दक्षिण",
+            "पूर्व",
+            "पश्चिम"
+          ],
+          "ans": 3,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Find the next term: 0, 7, 26, 63, 124, ?",
+          "q_hi": "अगला पद ज्ञात करें: 0, 7, 26, 63, 124, ?",
+          "opts": [
+            180,
+            190,
+            200,
+            215
+          ],
+          "opts_hi": [
+            180,
+            190,
+            200,
+            215
+          ],
+          "ans": 3,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
           "q": "Which state is the largest producer of coffee in India?",
           "opts": [
             "Kerala",
