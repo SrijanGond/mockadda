@@ -5794,6 +5794,24 @@
           ],
           "ans": 0,
           "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Select the option that is related to the third term in the same way as the second term is related to the first term: 8 : 512 :: 9 : ?",
+          "q_hi": "उस विकल्प का चयन करें जो तीसरे पद से उसी प्रकार संबंधित है जिस प्रकार दूसरा पद पहले पद से संबंधित है: 8 : 512 :: 9 : ?",
+          "opts": [
+            656,
+            729,
+            738,
+            748
+          ],
+          "opts_hi": [
+            656,
+            729,
+            738,
+            748
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
         }
       ]
     }
