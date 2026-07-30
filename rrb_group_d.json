@@ -3845,6 +3845,312 @@
           "subject": "General Science"
         },
         {
+          "q": "What is the oxidation state of iron in Fe₂O₃?",
+          "q_hi": "Fe₂O₃ में आयरन की ऑक्सीकरण अवस्था क्या है?",
+          "opts": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "opts_hi": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "ans": 2,
+          "subject": "General Science"
+        },
+        {
+          "q": "Which of the following is a strong electrolyte?",
+          "q_hi": "निम्नलिखित में से कौन एक प्रबल विद्युत अपघट्य है?",
+          "opts": [
+            "Sugar solution",
+            "Ethanol solution",
+            "NaCl solution",
+            "Distilled water"
+          ],
+          "opts_hi": [
+            "शर्करा विलयन",
+            "इथेनॉल विलयन",
+            "NaCl विलयन",
+            "आसुत जल"
+          ],
+          "ans": 2,
+          "subject": "General Science"
+        },
+        {
+          "q": "What is the shape of methane (CH₄) molecule?",
+          "q_hi": "मीथेन (CH₄) अणु का आकार क्या है?",
+          "opts": [
+            "Linear",
+            "Trigonal planar",
+            "Tetrahedral",
+            "Octahedral"
+          ],
+          "opts_hi": [
+            "रैखिक",
+            "त्रिकोणीय समतलीय",
+            "चतुष्फलकीय",
+            "अष्टफलकीय"
+          ],
+          "ans": 2,
+          "subject": "General Science"
+        },
+        {
+          "q": "Which acid is present in vinegar?",
+          "q_hi": "सिरके में कौन सा अम्ल पाया जाता है?",
+          "opts": [
+            "Citric acid",
+            "Tartaric acid",
+            "Acetic acid",
+            "Lactic acid"
+          ],
+          "opts_hi": [
+            "साइट्रिक अम्ल",
+            "टार्टरिक अम्ल",
+            "एसिटिक अम्ल",
+            "लैक्टिक अम्ल"
+          ],
+          "ans": 2,
+          "subject": "General Science"
+        },
+        {
+          "q": "Which enzyme is responsible for the digestion of proteins in the stomach?",
+          "q_hi": "आमाशय में प्रोटीन के पाचन के लिए कौन सा एंजाइम जिम्मेदार है?",
+          "opts": [
+            "Amylase",
+            "Lipase",
+            "Pepsin",
+            "Trypsin"
+          ],
+          "opts_hi": [
+            "एमाइलेज",
+            "लाइपेज",
+            "पेप्सिन",
+            "ट्रिप्सिन"
+          ],
+          "ans": 2,
+          "subject": "General Science"
+        },
+        {
+          "q": "Which part of the brain is responsible for maintaining posture and equilibrium?",
+          "q_hi": "मस्तिष्क का कौन सा भाग मुद्रा और संतुलन बनाए रखने के लिए जिम्मेदार है?",
+          "opts": [
+            "Cerebrum",
+            "Cerebellum",
+            "Medulla oblongata",
+            "Hypothalamus"
+          ],
+          "opts_hi": [
+            "सेरीब्रम",
+            "सेरीबेलम",
+            "मेडुला ऑब्लांगेटा",
+            "हाइपोथैलेमस"
+          ],
+          "ans": 1,
+          "subject": "General Science"
+        },
+        {
+          "q": "Which of the following is a genetic disorder?",
+          "q_hi": "निम्नलिखित में से कौन एक आनुवंशिक विकार है?",
+          "opts": [
+            "Malaria",
+            "Tuberculosis",
+            "Down syndrome",
+            "Typhoid"
+          ],
+          "opts_hi": [
+            "मलेरिया",
+            "क्षय रोग",
+            "डाउन सिंड्रोम",
+            "टाइफाइड"
+          ],
+          "ans": 2,
+          "subject": "General Science"
+        },
+        {
+          "q": "The 'Powerhouse of the cell' is?",
+          "q_hi": "कोशिका का 'पावरहाउस' किसे कहा जाता है?",
+          "opts": [
+            "Nucleus",
+            "Ribosome",
+            "Mitochondria",
+            "Endoplasmic reticulum"
+          ],
+          "opts_hi": [
+            "केन्द्रक",
+            "राइबोसोम",
+            "माइटोकॉन्ड्रिया",
+            "एंडोप्लाज्मिक रेटिकुलम"
+          ],
+          "ans": 2,
+          "subject": "General Science"
+        },
+        {
+          "q": "Which hormone regulates blood sugar levels?",
+          "q_hi": "रक्त शर्करा स्तर को कौन सा हार्मोन नियंत्रित करता है?",
+          "opts": [
+            "Thyroxine",
+            "Adrenaline",
+            "Insulin",
+            "Estrogen"
+          ],
+          "opts_hi": [
+            "थायरोक्सिन",
+            "एड्रेनालाईन",
+            "इंसुलिन",
+            "एस्ट्रोजन"
+          ],
+          "ans": 2,
+          "subject": "General Science"
+        },
+        {
+          "q": "Which blood vessels carry oxygenated blood from the heart to the body?",
+          "q_hi": "कौन सी रक्त वाहिकाएँ हृदय से शरीर में ऑक्सीजन युक्त रक्त ले जाती हैं?",
+          "opts": [
+            "Veins",
+            "Arteries",
+            "Capillaries",
+            "Venules"
+          ],
+          "opts_hi": [
+            "शिराएँ",
+            "धमनियाँ",
+            "केशिकाएँ",
+            "शिरिकाएँ"
+          ],
+          "ans": 1,
+          "subject": "General Science"
+        },
+        {
+          "q": "What is the function of the placenta?",
+          "q_hi": "प्लेसेंटा का कार्य क्या है?",
+          "opts": [
+            "Digestion of food",
+            "Exchange of nutrients and waste between mother and fetus",
+            "Production of hormones only",
+            "Protection of fetus only"
+          ],
+          "opts_hi": [
+            "भोजन का पाचन",
+            "माता और भ्रूण के बीच पोषक तत्वों और अपशिष्ट का आदान-प्रदान",
+            "केवल हार्मोन का उत्पादन",
+            "केवल भ्रूण की सुरक्षा"
+          ],
+          "ans": 1,
+          "subject": "General Science"
+        },
+        {
+          "q": "Which bacterium causes tuberculosis?",
+          "q_hi": "क्षय रोग किस जीवाणु के कारण होता है?",
+          "opts": [
+            "Salmonella",
+            "Vibrio cholerae",
+            "Mycobacterium tuberculosis",
+            "Streptococcus"
+          ],
+          "opts_hi": [
+            "साल्मोनेला",
+            "विब्रियो कॉलेरी",
+            "माइकोबैक्टीरियम ट्यूबरकुलोसिस",
+            "स्ट्रेप्टोकोकस"
+          ],
+          "ans": 2,
+          "subject": "General Science"
+        },
+        {
+          "q": "What is the focal length of a concave mirror if the radius of curvature is 40 cm?",
+          "q_hi": "यदि वक्रता त्रिज्या 40 सेमी है, तो अवतल दर्पण की फोकस दूरी क्या है?",
+          "opts": [
+            "10 cm",
+            "20 cm",
+            "30 cm",
+            "40 cm"
+          ],
+          "opts_hi": [
+            "10 सेमी",
+            "20 सेमी",
+            "30 सेमी",
+            "40 सेमी"
+          ],
+          "ans": 1,
+          "subject": "General Science"
+        },
+        {
+          "q": "Which colour has the maximum frequency in the visible spectrum?",
+          "q_hi": "दृश्य स्पेक्ट्रम में किस रंग की आवृत्ति अधिकतम होती है?",
+          "opts": [
+            "Red",
+            "Green",
+            "Violet",
+            "Blue"
+          ],
+          "opts_hi": [
+            "लाल",
+            "हरा",
+            "बैंगनी",
+            "नीला"
+          ],
+          "ans": 2,
+          "subject": "General Science"
+        },
+        {
+          "q": "Which element is used in the manufacture of solar cells?",
+          "q_hi": "सौर कोशिकाओं के निर्माण में किस तत्व का उपयोग किया जाता है?",
+          "opts": [
+            "Germanium",
+            "Silicon",
+            "Gallium",
+            "Boron"
+          ],
+          "opts_hi": [
+            "जर्मेनियम",
+            "सिलिकॉन",
+            "गैलियम",
+            "बोरॉन"
+          ],
+          "ans": 1,
+          "subject": "General Science"
+        },
+        {
+          "q": "What is the number of neutrons in a carbon-14 atom?",
+          "q_hi": "कार्बन-14 परमाणु में न्यूट्रॉनों की संख्या क्या है?",
+          "opts": [
+            6,
+            7,
+            8,
+            9
+          ],
+          "opts_hi": [
+            6,
+            7,
+            8,
+            9
+          ],
+          "ans": 2,
+          "subject": "General Science"
+        },
+        {
+          "q": "Which of the following is a viral disease?",
+          "q_hi": "निम्नलिखित में से कौन एक विषाणु जनित रोग है?",
+          "opts": [
+            "Cholera",
+            "Tuberculosis",
+            "Polio",
+            "Typhoid"
+          ],
+          "opts_hi": [
+            "हैजा",
+            "क्षय रोग",
+            "पोलियो",
+            "टाइफाइड"
+          ],
+          "ans": 2,
+          "subject": "General Science"
+        },
+        {
           "q": "Which of the following is NOT a Kharif crop?",
           "q_hi": "निम्नलिखित में से कौन सी खरीफ की फसल नहीं है?",
           "opts": [
