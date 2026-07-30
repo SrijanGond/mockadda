@@ -3203,6 +3203,78 @@
           "exp_hi": "दोनों पूर्वधारणाएँ अंतर्निहित हैं। अनुरोध का अर्थ है कि लोग भूल सकते हैं (I) और वक्ता लाइट बंद चाहता है, जिसका अर्थ बिजली बचत है (II)।"
         },
         {
+          "q": "Select the option that is related to the third term in the same way as the second term is related to the first term: Clock : Time :: Thermometer : ?",
+          "q_hi": "उस विकल्प का चयन करें जो तीसरे पद से उसी प्रकार संबंधित है जिस प्रकार दूसरा पद पहले पद से संबंधित है: घड़ी : समय :: थर्मामीटर : ?",
+          "opts": [
+            "Temperature",
+            "Pressure",
+            "Humidity",
+            "Speed"
+          ],
+          "opts_hi": [
+            "तापमान",
+            "दाब",
+            "आर्द्रता",
+            "गति"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "If 'MOON' is coded as 'NPPO', how is 'STAR' coded?",
+          "q_hi": "यदि 'MOON' को 'NPPO' के रूप में कोडित किया जाता है, तो 'STAR' को कैसे कोडित किया जाएगा?",
+          "opts": [
+            "TUBT",
+            "TUBS",
+            "TUBR",
+            "TUCU"
+          ],
+          "opts_hi": [
+            "TUBT",
+            "TUBS",
+            "TUBR",
+            "TUCU"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Find the next term: 1, 8, 27, 64, 125, ?",
+          "q_hi": "अगला पद ज्ञात करें: 1, 8, 27, 64, 125, ?",
+          "opts": [
+            150,
+            180,
+            200,
+            216
+          ],
+          "opts_hi": [
+            150,
+            180,
+            200,
+            216
+          ],
+          "ans": 3,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "In a survey of 60 people, 40 like coffee, 30 like tea, and 20 like both. How many like neither?",
+          "q_hi": "60 लोगों के सर्वेक्षण में, 40 कॉफी पसंद करते हैं, 30 चाय पसंद करते हैं, और 20 दोनों पसंद करते हैं। कितने कोई भी पसंद नहीं करते हैं?",
+          "opts": [
+            5,
+            10,
+            15,
+            20
+          ],
+          "opts_hi": [
+            5,
+            10,
+            15,
+            20
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
           "q": "Who appoints the Chief Election Commissioner of India?",
           "opts": [
             "Prime Minister",
