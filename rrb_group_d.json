@@ -368,6 +368,132 @@
           "exp_hi": "O- रक्त समूह सार्वभौमिक दाता है क्योंकि इसमें A, B और Rh प्रतिजन नहीं होते, इसलिए इसे किसी भी रक्त समूह को दिया जा सकता है।"
         },
         {
+          "q": "Which of the following is a scalar quantity?",
+          "q_hi": "निम्नलिखित में से कौन सी अदिश राशि है?",
+          "opts": [
+            "Velocity",
+            "Force",
+            "Speed",
+            "Displacement"
+          ],
+          "opts_hi": [
+            "वेग",
+            "बल",
+            "चाल",
+            "विस्थापन"
+          ],
+          "ans": 2,
+          "subject": "General Science"
+        },
+        {
+          "q": "What is the SI unit of frequency?",
+          "q_hi": "आवृत्ति का SI मात्रक क्या है?",
+          "opts": [
+            "Hertz",
+            "Newton",
+            "Joule",
+            "Watt"
+          ],
+          "opts_hi": [
+            "हर्ट्ज",
+            "न्यूटन",
+            "जूल",
+            "वाट"
+          ],
+          "ans": 0,
+          "subject": "General Science"
+        },
+        {
+          "q": "If the mass of an object is 10 kg and it is moving with a velocity of 5 m/s, what is its kinetic energy?",
+          "q_hi": "यदि किसी वस्तु का द्रव्यमान 10 किग्रा है और वह 5 मी/से के वेग से गतिमान है, तो उसकी गतिज ऊर्जा क्या है?",
+          "opts": [
+            "125 J",
+            "250 J",
+            "100 J",
+            "150 J"
+          ],
+          "opts_hi": [
+            "125 J",
+            "250 J",
+            "100 J",
+            "150 J"
+          ],
+          "ans": 0,
+          "subject": "General Science"
+        },
+        {
+          "q": "Which law states that pressure applied to a confined fluid is transmitted equally in all directions?",
+          "q_hi": "कौन सा नियम कहता है कि एक सीमित द्रव पर लगाया गया दाब सभी दिशाओं में समान रूप से संचरित होता है?",
+          "opts": [
+            "Archimedes' Principle",
+            "Pascal's Law",
+            "Bernoulli's Theorem",
+            "Boyle's Law"
+          ],
+          "opts_hi": [
+            "आर्किमिडीज़ का सिद्धांत",
+            "पास्कल का नियम",
+            "बर्नौली का प्रमेय",
+            "बॉयल का नियम"
+          ],
+          "ans": 1,
+          "subject": "General Science"
+        },
+        {
+          "q": "What is the mirror formula?",
+          "q_hi": "दर्पण सूत्र क्या है?",
+          "opts": [
+            "1/f = 1/v + 1/u",
+            "1/f = 1/v - 1/u",
+            "1/v = 1/f + 1/u",
+            "f = v + u"
+          ],
+          "opts_hi": [
+            "1/f = 1/v + 1/u",
+            "1/f = 1/v - 1/u",
+            "1/v = 1/f + 1/u",
+            "f = v + u"
+          ],
+          "ans": 1,
+          "subject": "General Science"
+        },
+        {
+          "q": "What is the escape velocity of the Earth?",
+          "q_hi": "पृथ्वी का पलायन वेग क्या है?",
+          "opts": [
+            "7.9 km/s",
+            "11.2 km/s",
+            "14.2 km/s",
+            "8.9 km/s"
+          ],
+          "opts_hi": [
+            "7.9 किमी/से",
+            "11.2 किमी/से",
+            "14.2 किमी/से",
+            "8.9 किमी/से"
+          ],
+          "ans": 1,
+          "subject": "General Science"
+        },
+        {
+          "q": "Which instrument is used to measure electric current?",
+          "q_hi": "विद्युत धारा मापने के लिए कौन सा उपकरण उपयोग किया जाता है?",
+          "opts": [
+            "Voltmeter",
+            "Ammeter",
+            "Galvanometer",
+            "Ohmmeter"
+          ],
+          "opts_hi": [
+            "वोल्टमीटर",
+            "एमीटर",
+            "गैल्वेनोमीटर",
+            "ओममीटर"
+          ],
+          "ans": 1,
+          "subject": "General Science"
+        },
+        {
           "q": "Two trains of lengths 200 m and 300 m are running on parallel tracks in opposite directions at speeds of 36 km/h and 54 km/h. How long will they take to cross each other?",
           "opts": [
             "20 sec",
@@ -746,6 +872,114 @@
           ],
           "exp_en": "The sum of all three interior angles of a triangle is always 180°.",
           "exp_hi": "एक त्रिभुज के तीनों अंतः कोणों का योग सदैव 180° होता है।"
+        },
+        {
+          "q": "If 40% of a number is 200, what is the number?",
+          "q_hi": "यदि किसी संख्या का 40% 200 है, तो वह संख्या क्या है?",
+          "opts": [
+            400,
+            450,
+            500,
+            550
+          ],
+          "opts_hi": [
+            400,
+            450,
+            500,
+            550
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "If 25% of a number is 75, what is 40% of that number?",
+          "q_hi": "यदि किसी संख्या का 25% 75 है, तो उस संख्या का 40% क्या है?",
+          "opts": [
+            100,
+            110,
+            120,
+            130
+          ],
+          "opts_hi": [
+            100,
+            110,
+            120,
+            130
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "In an examination, a candidate must secure 40% marks to pass. He gets 160 marks and fails by 40 marks. What are the maximum marks?",
+          "q_hi": "एक परीक्षा में, उत्तीर्ण होने के लिए एक उम्मीदवार को 40% अंक प्राप्त करने होते हैं। उसे 160 अंक मिलते हैं और वह 40 अंकों से अनुत्तीर्ण हो जाता है। अधिकतम अंक क्या हैं?",
+          "opts": [
+            400,
+            450,
+            500,
+            550
+          ],
+          "opts_hi": [
+            400,
+            450,
+            500,
+            550
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "A man buys a cycle for ₹800 and sells it at a profit of 20%. What is the selling price?",
+          "q_hi": "एक व्यक्ति एक साइकिल ₹800 में खरीदता है और 20% लाभ पर बेचता है। विक्रय मूल्य क्या है?",
+          "opts": [
+            "₹840",
+            "₹900",
+            "₹960",
+            "₹980"
+          ],
+          "opts_hi": [
+            "₹840",
+            "₹900",
+            "₹960",
+            "₹980"
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "A shopkeeper sells an item at a loss of 10%. If he had sold it for ₹50 more, he would have gained 10%. What is the cost price?",
+          "q_hi": "एक दुकानदार एक वस्तु को 10% हानि पर बेचता है। यदि उसने इसे ₹50 अधिक में बेचा होता, तो उसे 10% लाभ होता। क्रय मूल्य क्या है?",
+          "opts": [
+            "₹200",
+            "₹225",
+            "₹250",
+            "₹275"
+          ],
+          "opts_hi": [
+            "₹200",
+            "₹225",
+            "₹250",
+            "₹275"
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "A train covers a distance of 360 km in 6 hours. What is its speed in m/s?",
+          "q_hi": "एक ट्रेन 360 किमी की दूरी 6 घंटे में तय करती है। इसकी चाल मी/से में क्या है?",
+          "opts": [
+            "15 m/s",
+            "16.67 m/s",
+            "20 m/s",
+            "18 m/s"
+          ],
+          "opts_hi": [
+            "15 मी/से",
+            "16.67 मी/से",
+            "20 मी/से",
+            "18 मी/से"
+          ],
+          "ans": 1,
+          "subject": "Mathematics"
         },
         {
           "q": "If CAT is coded as 3120, how is DOG coded?",
@@ -1128,6 +1362,60 @@
           "exp_hi": "दोनों पूर्वधारणाएँ अंतर्निहित हैं। अनुरोध का अर्थ है कि लोग इसे खुला छोड़ सकते हैं (I) और वक्ता चाहता है कि दरवाजा बंद हो (II)।"
         },
         {
+          "q": "Select the option that is related to the third term in the same way as the second term is related to the first term: Book : Chapter :: Tree : ?",
+          "q_hi": "उस विकल्प का चयन करें जो तीसरे पद से उसी प्रकार संबंधित है जिस प्रकार दूसरा पद पहले पद से संबंधित है: पुस्तक : अध्याय :: वृक्ष : ?",
+          "opts": [
+            "Root",
+            "Branch",
+            "Leaf",
+            "Fruit"
+          ],
+          "opts_hi": [
+            "जड़",
+            "शाखा",
+            "पत्ती",
+            "फल"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Select the related letters: ACE : BDF :: GIK : ?",
+          "q_hi": "संबंधित अक्षरों का चयन करें: ACE : BDF :: GIK : ?",
+          "opts": [
+            "HJL",
+            "HJM",
+            "HIL",
+            "IJL"
+          ],
+          "opts_hi": [
+            "HJL",
+            "HJM",
+            "HIL",
+            "IJL"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Find the odd one out:",
+          "q_hi": "विषम का चयन करें:",
+          "opts": [
+            "Cube",
+            "Cone",
+            "Cylinder",
+            "Sphere"
+          ],
+          "opts_hi": [
+            "घन",
+            "शंकु",
+            "बेलन",
+            "गोला"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
           "q": "Which state is the largest producer of coffee in India?",
           "opts": [
             "Kerala",
@@ -1486,6 +1774,132 @@
           ],
           "exp_en": "International Yoga Day is celebrated on 21 June every year. The first International Yoga Day was celebrated in 2015.",
           "exp_hi": "अंतर्राष्ट्रीय योग दिवस प्रत्येक वर्ष 21 जून को मनाया जाता है। पहला अंतर्राष्ट्रीय योग दिवस 2015 में मनाया गया था।"
+        },
+        {
+          "q": "Who founded the Indian National Congress in 1885?",
+          "q_hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना किसने की?",
+          "opts": [
+            "Lord Dufferin",
+            "A.O. Hume",
+            "Dadabhai Naoroji",
+            "W.C. Bonnerjee"
+          ],
+          "opts_hi": [
+            "लॉर्ड डफरिन",
+            "ए.ओ. ह्यूम",
+            "दादाभाई नौरोजी",
+            "डब्ल्यू.सी. बोनर्जी"
+          ],
+          "ans": 1,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "The Doctrine of Lapse was introduced by which Governor-General?",
+          "q_hi": "व्यपगत का सिद्धांत (Doctrine of Lapse) किस गवर्नर-जनरल द्वारा लागू किया गया था?",
+          "opts": [
+            "Lord Wellesley",
+            "Lord Hastings",
+            "Lord Dalhousie",
+            "Lord Canning"
+          ],
+          "opts_hi": [
+            "लॉर्ड वेलेस्ली",
+            "लॉर्ड हेस्टिंग्स",
+            "लॉर्ड डलहौजी",
+            "लॉर्ड कैनिंग"
+          ],
+          "ans": 2,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "Who was the first Governor-General of independent India?",
+          "q_hi": "स्वतंत्र भारत के पहले गवर्नर-जनरल कौन थे?",
+          "opts": [
+            "Lord Mountbatten",
+            "C. Rajagopalachari",
+            "Jawaharlal Nehru",
+            "Dr. Rajendra Prasad"
+          ],
+          "opts_hi": [
+            "लॉर्ड माउंटबैटन",
+            "सी. राजगोपालाचारी",
+            "जवाहरलाल नेहरू",
+            "डॉ. राजेन्द्र प्रसाद"
+          ],
+          "ans": 0,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "Who is the ex-officio Chairman of the Rajya Sabha?",
+          "q_hi": "राज्यसभा का पदेन सभापति कौन होता है?",
+          "opts": [
+            "Prime Minister",
+            "Speaker of Lok Sabha",
+            "Vice President",
+            "President"
+          ],
+          "opts_hi": [
+            "प्रधान मंत्री",
+            "लोकसभा अध्यक्ष",
+            "उपराष्ट्रपति",
+            "राष्ट्रपति"
+          ],
+          "ans": 2,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "Which Article of the Indian Constitution deals with the Right to Constitutional Remedies?",
+          "q_hi": "भारतीय संविधान का कौन सा अनुच्छेद संवैधानिक उपचारों के अधिकार से संबंधित है?",
+          "opts": [
+            "Article 14",
+            "Article 19",
+            "Article 21",
+            "Article 32"
+          ],
+          "opts_hi": [
+            "अनुच्छेद 14",
+            "अनुच्छेद 19",
+            "अनुच्छेद 21",
+            "अनुच्छेद 32"
+          ],
+          "ans": 3,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "Who was the Chairman of the Drafting Committee of the Indian Constitution?",
+          "q_hi": "भारतीय संविधान के प्रारूप समिति के अध्यक्ष कौन थे?",
+          "opts": [
+            "Jawaharlal Nehru",
+            "B.R. Ambedkar",
+            "Rajendra Prasad",
+            "Sardar Patel"
+          ],
+          "opts_hi": [
+            "जवाहरलाल नेहरू",
+            "बी.आर. अम्बेडकर",
+            "राजेन्द्र प्रसाद",
+            "सरदार पटेल"
+          ],
+          "ans": 1,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "The river known as the 'Sorrow of Bengal' is?",
+          "q_hi": "बंगाल का शोक' नाम से प्रसिद्ध नदी कौन सी है?",
+          "opts": [
+            "Ganga",
+            "Brahmaputra",
+            "Damodar",
+            "Mahanadi"
+          ],
+          "opts_hi": [
+            "गंगा",
+            "ब्रह्मपुत्र",
+            "दामोदर",
+            "महानदी"
+          ],
+          "ans": 2,
+          "subject": "General Awareness & Current Affairs"
         }
       ]
     },
@@ -1835,6 +2249,60 @@
           ],
           "exp_en": "Camel is known as the 'Ship of the Desert' because it can travel long distances in deserts without water for many days.",
           "exp_hi": "ऊँट को 'मरुस्थल का जहाज' कहा जाता है क्योंकि यह रेगिस्तान में बिना पानी के कई दिनों तक लंबी दूरी तय कर सकता है।"
+        },
+        {
+          "q": "What is the SI unit of force?",
+          "q_hi": "बल का SI मात्रक क्या है?",
+          "opts": [
+            "Joule",
+            "Newton",
+            "Watt",
+            "Pascal"
+          ],
+          "opts_hi": [
+            "जूल",
+            "न्यूटन",
+            "वाट",
+            "पास्कल"
+          ],
+          "ans": 1,
+          "subject": "General Science"
+        },
+        {
+          "q": "Which of the following is a good conductor of heat?",
+          "q_hi": "निम्नलिखित में से कौन ऊष्मा का सुचालक है?",
+          "opts": [
+            "Wood",
+            "Plastic",
+            "Copper",
+            "Rubber"
+          ],
+          "opts_hi": [
+            "लकड़ी",
+            "प्लास्टिक",
+            "तांबा",
+            "रबर"
+          ],
+          "ans": 2,
+          "subject": "General Science"
+        },
+        {
+          "q": "What is the acceleration due to gravity on the surface of the Earth approximately?",
+          "q_hi": "पृथ्वी की सतह पर गुरुत्वाकर्षण के कारण त्वरण लगभग कितना है?",
+          "opts": [
+            "8.9 m/s²",
+            "9.8 m/s²",
+            "10.8 m/s²",
+            "11.8 m/s²"
+          ],
+          "opts_hi": [
+            "8.9 मी/से²",
+            "9.8 मी/से²",
+            "10.8 मी/से²",
+            "11.8 मी/से²"
+          ],
+          "ans": 1,
+          "subject": "General Science"
         },
         {
           "q": "If the price of a product increases by 20% and becomes ₹600, what was the original price?",
@@ -2315,6 +2783,24 @@
           ],
           "exp_en": "Sum = Average × Number of items = 18 × 4 = 72.",
           "exp_hi": "योग = औसत × पदों की संख्या = 18 × 4 = 72।"
+        },
+        {
+          "q": "A student scored 72 marks out of 120. What is his percentage?",
+          "q_hi": "एक छात्र ने 120 में से 72 अंक प्राप्त किए। उसका प्रतिशत क्या है?",
+          "opts": [
+            0.5,
+            0.55,
+            0.6,
+            0.65
+          ],
+          "opts_hi": [
+            0.5,
+            0.55,
+            0.6,
+            0.65
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
         },
         {
           "q": "Select the option that is related to the third term in the same way as the second term is related to the first term: Pen : Write :: Scissors : ?",
@@ -3055,6 +3541,60 @@
           ],
           "exp_en": "World Environment Day is celebrated on 5 June every year. It was established by the United Nations in 1972.",
           "exp_hi": "विश्व पर्यावरण दिवस प्रत्येक वर्ष 5 जून को मनाया जाता है। इसे 1972 में संयुक्त राष्ट्र द्वारा स्थापित किया गया था।"
+        },
+        {
+          "q": "Who was the first President of the Indian National Congress?",
+          "q_hi": "भारतीय राष्ट्रीय कांग्रेस के पहले अध्यक्ष कौन थे?",
+          "opts": [
+            "Dadabhai Naoroji",
+            "W.C. Bonnerjee",
+            "A.O. Hume",
+            "Surendranath Banerjee"
+          ],
+          "opts_hi": [
+            "दादाभाई नौरोजी",
+            "डब्ल्यू.सी. बोनर्जी",
+            "ए.ओ. ह्यूम",
+            "सुरेन्द्रनाथ बनर्जी"
+          ],
+          "ans": 1,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "The famous 'Salt March' was started from which place?",
+          "q_hi": "प्रसिद्ध 'नमक मार्च' किस स्थान से शुरू किया गया था?",
+          "opts": [
+            "Dandi",
+            "Sabarmati",
+            "Ahmedabad",
+            "Porbandar"
+          ],
+          "opts_hi": [
+            "डांडी",
+            "साबरमती",
+            "अहमदाबाद",
+            "पोरबंदर"
+          ],
+          "ans": 1,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "Who was the first woman Governor of independent India?",
+          "q_hi": "स्वतंत्र भारत की पहली महिला राज्यपाल कौन थीं?",
+          "opts": [
+            "Indira Gandhi",
+            "Sarojini Naidu",
+            "Vijaya Lakshmi Pandit",
+            "Sucheta Kriplani"
+          ],
+          "opts_hi": [
+            "इंदिरा गांधी",
+            "सरोजिनी नायडू",
+            "विजया लक्ष्मी पंडित",
+            "सुचेता कृपलानी"
+          ],
+          "ans": 1,
+          "subject": "General Awareness & Current Affairs"
         }
       ]
     },
@@ -3424,6 +3964,132 @@
           ],
           "exp_en": "Polio is caused by the poliovirus. Cholera is caused by Vibrio cholerae (bacteria), TB by Mycobacterium tuberculosis (bacteria), Typhoid by Salmonella typhi (bacteria).",
           "exp_hi": "पोलियो पोलियोवायरस के कारण होता है। हैजा Vibrio cholerae (जीवाणु) के कारण होता है, टीबी Mycobacterium tuberculosis (जीवाणु) के कारण, टाइफाइड Salmonella typhi (जीवाणु) के कारण।"
+        },
+        {
+          "q": "What is the dimensional formula of force?",
+          "q_hi": "बल का विमीय सूत्र क्या है?",
+          "opts": [
+            "[MLT⁻²]",
+            "[ML²T⁻²]",
+            "[MLT⁻¹]",
+            "[ML²T⁻¹]"
+          ],
+          "opts_hi": [
+            "[MLT⁻²]",
+            "[ML²T⁻²]",
+            "[MLT⁻¹]",
+            "[ML²T⁻¹]"
+          ],
+          "ans": 0,
+          "subject": "General Science"
+        },
+        {
+          "q": "The velocity of sound is maximum in which medium?",
+          "q_hi": "ध्वनि का वेग किस माध्यम में अधिकतम होता है?",
+          "opts": [
+            "Air",
+            "Water",
+            "Solid",
+            "Vacuum"
+          ],
+          "opts_hi": [
+            "वायु",
+            "जल",
+            "ठोस",
+            "निर्वात"
+          ],
+          "ans": 2,
+          "subject": "General Science"
+        },
+        {
+          "q": "Which phenomenon is responsible for the blue color of the sky?",
+          "q_hi": "आकाश के नीले रंग के लिए कौन सी परिघटना जिम्मेदार है?",
+          "opts": [
+            "Reflection",
+            "Refraction",
+            "Scattering",
+            "Dispersion"
+          ],
+          "opts_hi": [
+            "परावर्तन",
+            "अपवर्तन",
+            "प्रकीर्णन",
+            "वर्ण विक्षेपण"
+          ],
+          "ans": 2,
+          "subject": "General Science"
+        },
+        {
+          "q": "What is the energy of a photon with frequency 'ν'?",
+          "q_hi": "आवृत्ति 'ν' वाले फोटॉन की ऊर्जा क्या है?",
+          "opts": [
+            "hν",
+            "h/ν",
+            "ν/h",
+            "hν²"
+          ],
+          "opts_hi": [
+            "hν",
+            "h/ν",
+            "ν/h",
+            "hν²"
+          ],
+          "ans": 0,
+          "subject": "General Science"
+        },
+        {
+          "q": "The principle of working of a transformer is based on?",
+          "q_hi": "ट्रांसफॉर्मर के कार्य करने का सिद्धांत किस पर आधारित है?",
+          "opts": [
+            "Electromagnetic induction only",
+            "Mutual induction",
+            "Self induction",
+            "Both electromagnetic and mutual induction"
+          ],
+          "opts_hi": [
+            "केवल विद्युत चुम्बकीय प्रेरण",
+            "पारस्परिक प्रेरण",
+            "स्वप्रेरण",
+            "विद्युत चुम्बकीय और पारस्परिक प्रेरण दोनों"
+          ],
+          "ans": 1,
+          "subject": "General Science"
+        },
+        {
+          "q": "Which of the following has the highest specific heat capacity?",
+          "q_hi": "निम्नलिखित में से किसकी विशिष्ट ऊष्मा धारिता सबसे अधिक है?",
+          "opts": [
+            "Iron",
+            "Water",
+            "Copper",
+            "Aluminum"
+          ],
+          "opts_hi": [
+            "लोहा",
+            "जल",
+            "तांबा",
+            "एल्यूमीनियम"
+          ],
+          "ans": 1,
+          "subject": "General Science"
+        },
+        {
+          "q": "What is the IUPAC name of CH₃COOH?",
+          "q_hi": "CH₃COOH का IUPAC नाम क्या है?",
+          "opts": [
+            "Acetic acid",
+            "Ethanoic acid",
+            "Methanoic acid",
+            "Propanoic acid"
+          ],
+          "opts_hi": [
+            "एसिटिक अम्ल",
+            "एथेनोइक अम्ल",
+            "मेथेनोइक अम्ल",
+            "प्रोपेनोइक अम्ल"
+          ],
+          "ans": 1,
+          "subject": "General Science"
         },
         {
           "q": "The famous 'Battle of Plassey' was fought in which year?",
@@ -3904,6 +4570,24 @@
           ],
           "exp_en": "Chandrayaan-3 was launched from the Satish Dhawan Space Centre (SDSC) in Sriharikota, Andhra Pradesh on 14 July 2023.",
           "exp_hi": "चंद्रयान-3 को 14 जुलाई 2023 को आंध्र प्रदेश के श्रीहरिकोटा में सतीश धवन अंतरिक्ष केंद्र (SDSC) से लॉन्च किया गया था।"
+        },
+        {
+          "q": "Who was the first Viceroy of India?",
+          "q_hi": "भारत के पहले वायसराय कौन थे?",
+          "opts": [
+            "Lord Canning",
+            "Lord Dalhousie",
+            "Lord Wellesley",
+            "Lord William Bentinck"
+          ],
+          "opts_hi": [
+            "लॉर्ड कैनिंग",
+            "लॉर्ड डलहौजी",
+            "लॉर्ड वेलेस्ली",
+            "लॉर्ड विलियम बेंटिक"
+          ],
+          "ans": 0,
+          "subject": "General Awareness & Current Affairs"
         }
       ]
     }
