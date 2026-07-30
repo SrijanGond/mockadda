@@ -450,57 +450,43 @@
         },
         {
           "q": "What is the missing term in the following series? 7, 12, 21, 34, 51, __",
-          "q_hi": "निम्नलिखित श्रृंखला में लुप्त पद क्या है? 7, 12, 21, 34, 51, __",
           "opts": [
-            72,
-            68,
-            76,
-            70
-          ],
-          "opts_hi": [
-            72,
-            68,
-            76,
-            70
+            "72",
+            "68",
+            "76",
+            "70"
           ],
           "ans": 0,
-          "subject": "General Intelligence & Reasoning"
+          "subject": "General Intelligence & Reasoning",
+          "q_hi": "निम्नलिखित श्रृंखला में लुप्त पद क्या है? 7, 12, 21, 34, 51, __",
+          "opts_hi": [
+            "72",
+            "68",
+            "76",
+            "70"
+          ],
+          "exp_en": "The differences between consecutive terms are 5, 9, 13, 17 — an AP with common difference 4. The next difference is 21, so 51 + 21 = 72.",
+          "exp_hi": "क्रमागत पदों के बीच अंतर 5, 9, 13, 17 हैं — जो 4 के सार्व अंतर वाली AP है। अगला अंतर 21 होगा, अतः 51 + 21 = 72।"
         },
         {
           "q": "Painter : Brush :: Carpenter : ?",
-          "q_hi": "चित्रकार : ब्रश :: बढ़ई : ?",
           "opts": [
             "Wood",
             "Chisel",
             "Nail",
             "Hammer"
           ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning",
+          "q_hi": "चित्रकार : ब्रश :: बढ़ई : ?",
           "opts_hi": [
             "लकड़ी",
             "छेनी",
             "कील",
             "हथौड़ा"
           ],
-          "ans": 1,
-          "subject": "General Intelligence & Reasoning"
-        },
-        {
-          "q": "In a certain code language, FOREST is written as GQTGUV. How will DESERT be written in the same code?",
-          "q_hi": "एक निश्चित कूट भाषा में FOREST को GQTGUV लिखा जाता है। उसी कूट भाषा में DESERT को कैसे लिखा जाएगा?",
-          "opts": [
-            "EFUGTU",
-            "EFTGUS",
-            "EFUGSV",
-            "EFUGSU"
-          ],
-          "opts_hi": [
-            "EFUGTU",
-            "EFTGUS",
-            "EFUGSV",
-            "EFUGSU"
-          ],
-          "ans": 0,
-          "subject": "General Intelligence & Reasoning"
+          "exp_en": "A Painter's primary shaping/crafting tool is a Brush; similarly, a Carpenter's primary shaping/crafting tool is a Chisel.",
+          "exp_hi": "जैसे चित्रकार का मुख्य औज़ार ब्रश होता है, उसी प्रकार बढ़ई का मुख्य शिल्प औज़ार छेनी (Chisel) होता है।"
         },
         {
           "q": "Which schedule of the Indian Constitution contains provisions related to the disqualification of members of Parliament on grounds of defection?",
@@ -964,39 +950,43 @@
         },
         {
           "q": "Which Schedule of the Indian Constitution contains provisions related to the allocation of seats in the Rajya Sabha to states and union territories?",
-          "q_hi": "भारतीय संविधान की कौन सी अनुसूची राज्यों और केंद्र शासित प्रदेशों को राज्य सभा में सीटों के आवंटन से संबंधित प्रावधान रखती है?",
           "opts": [
             "Second Schedule",
             "Third Schedule",
             "Fourth Schedule",
             "Fifth Schedule"
           ],
+          "ans": 2,
+          "subject": "General Awareness",
+          "q_hi": "भारतीय संविधान की कौन सी अनुसूची राज्यों और केंद्र शासित प्रदेशों को राज्य सभा में सीटों के आवंटन से संबंधित प्रावधान रखती है?",
           "opts_hi": [
             "दूसरी अनुसूची",
             "तीसरी अनुसूची",
             "चौथी अनुसूची",
             "पाँचवीं अनुसूची"
           ],
-          "ans": 2,
-          "subject": "General Awareness"
+          "exp_en": "The Fourth Schedule of the Indian Constitution deals with the allocation of seats in the Rajya Sabha (Council of States) to the various states and union territories.",
+          "exp_hi": "भारतीय संविधान की चौथी अनुसूची विभिन्न राज्यों और केंद्र शासित प्रदेशों को राज्य सभा (राज्यों की परिषद) में सीटों के आवंटन से संबंधित है।"
         },
         {
           "q": "Which gas is produced when dilute hydrochloric acid reacts with zinc metal?",
-          "q_hi": "जब तनु हाइड्रोक्लोरिक अम्ल जिंक धातु के साथ अभिक्रिया करता है, तो कौन सी गैस उत्पन्न होती है?",
           "opts": [
             "Oxygen",
             "Chlorine",
             "Hydrogen",
             "Carbon dioxide"
           ],
+          "ans": 2,
+          "subject": "General Awareness",
+          "q_hi": "जब तनु हाइड्रोक्लोरिक अम्ल जिंक धातु के साथ अभिक्रिया करता है, तो कौन सी गैस उत्पन्न होती है?",
           "opts_hi": [
             "ऑक्सीजन",
             "क्लोरीन",
             "हाइड्रोजन",
             "कार्बन डाइऑक्साइड"
           ],
-          "ans": 2,
-          "subject": "General Awareness"
+          "exp_en": "When dilute hydrochloric acid (HCl) reacts with zinc (Zn), zinc chloride (ZnCl₂) and hydrogen gas (H₂) are produced. The reaction is: Zn + 2HCl → ZnCl₂ + H₂↑.",
+          "exp_hi": "जब तनु हाइड्रोक्लोरिक अम्ल (HCl) जिंक (Zn) के साथ अभिक्रिया करता है, तो जिंक क्लोराइड (ZnCl₂) और हाइड्रोजन गैस (H₂) उत्पन्न होती है। अभिक्रिया इस प्रकार है: Zn + 2HCl → ZnCl₂ + H₂↑।"
         },
         {
           "q": "If 40% of a number is 200, what is the number?",
@@ -1620,273 +1610,183 @@
         },
         {
           "q": "Select the word most similar in meaning to the word 'EBULLIENT'.",
-          "q_hi": "",
           "opts": [
             "Melancholic",
             "Exuberant",
             "Lethargic",
             "Reticent"
           ],
-          "opts_hi": [
-            "",
-            "",
-            "",
-            ""
-          ],
           "ans": 1,
-          "subject": "English Comprehension"
+          "subject": "English Comprehension",
+          "exp_en": "Ebullient' means cheerful and full of energy, which is closest in meaning to 'exuberant'. The other options — melancholic (sad), lethargic (sluggish), and reticent (reserved) — are either antonyms or unrelated."
         },
         {
           "q": "Select the word most opposite in meaning to the word 'FRUGAL'.",
-          "q_hi": "",
           "opts": [
             "Thrifty",
             "Prudent",
             "Lavish",
             "Modest"
           ],
-          "opts_hi": [
-            "",
-            "",
-            "",
-            ""
-          ],
           "ans": 2,
-          "subject": "English Comprehension"
+          "subject": "English Comprehension",
+          "exp_en": "Frugal' means careful and economical with money or resources. Its antonym is 'lavish', meaning spending extravagantly. 'Thrifty' and 'prudent' are near-synonyms of frugal, while 'modest' is unrelated."
         },
         {
           "q": "What does the idiom 'burn the midnight oil' mean?",
-          "q_hi": "",
           "opts": [
             "To waste resources carelessly",
             "To work or study late into the night",
             "To cause trouble deliberately",
             "To destroy evidence"
           ],
-          "opts_hi": [
-            "",
-            "",
-            "",
-            ""
-          ],
           "ans": 1,
-          "subject": "English Comprehension"
+          "subject": "English Comprehension",
+          "exp_en": "The idiom 'burn the midnight oil' originates from the practice of using oil lamps late at night and means to stay up late working or studying hard. None of the other options reflect this meaning."
         },
         {
           "q": "Choose the one word that best substitutes the given phrase: 'A person who is unable to pay his debts'.",
-          "q_hi": "",
           "opts": [
             "Introvert",
             "Philanthropist",
             "Insolvent",
             "Recluse"
           ],
-          "opts_hi": [
-            "",
-            "",
-            "",
-            ""
-          ],
           "ans": 2,
-          "subject": "English Comprehension"
+          "subject": "English Comprehension",
+          "exp_en": "Insolvent' precisely means a person who cannot pay their debts. A philanthropist is one who donates to charity, an introvert is a shy person, and a recluse is someone who avoids society."
         },
         {
           "q": "Identify the segment in the sentence that contains a grammatical error: 'She is one of those students who (A) / works very hard (B) / and always scores (C) / good marks. (D)'",
-          "q_hi": "",
           "opts": [
             "She is one of those students who",
             "works very hard",
             "and always scores",
             "good marks"
           ],
-          "opts_hi": [
-            "",
-            "",
-            "",
-            ""
-          ],
           "ans": 1,
-          "subject": "English Comprehension"
+          "subject": "English Comprehension",
+          "exp_en": "After 'one of those students who', the verb must agree with the plural noun 'students', so it should be 'work' (not 'works'). The relative clause 'who' refers to 'students', requiring a plural verb."
         },
         {
           "q": "Select the most appropriate word to fill in the blank: 'Despite the heavy criticism, the author remained ________ about the quality of her novel.'",
-          "q_hi": "",
           "opts": [
             "Despondent",
             "Sanguine",
             "Diffident",
             "Remorseful"
           ],
-          "opts_hi": [
-            "",
-            "",
-            "",
-            ""
-          ],
           "ans": 1,
-          "subject": "English Comprehension"
+          "subject": "English Comprehension",
+          "exp_en": "Sanguine' means optimistic or positive, which fits the context of remaining confident despite criticism. 'Despondent' (hopeless), 'diffident' (lacking confidence), and 'remorseful' (feeling regret) all convey negative or contradictory meanings."
         },
         {
           "q": "Identify the correctly spelt word from the options below.",
-          "q_hi": "",
           "opts": [
             "Burocracy",
             "Beaurocracy",
             "Bureaucracy",
             "Burrocracy"
           ],
-          "opts_hi": [
-            "",
-            "",
-            "",
-            ""
-          ],
           "ans": 2,
-          "subject": "English Comprehension"
+          "subject": "English Comprehension",
+          "exp_en": "The correct spelling is 'Bureaucracy', referring to a system of government or management with complex rules and procedures. All other options contain common misspellings of this word."
         },
         {
           "q": "Read the passage and answer the question that follows.  'The rapid expansion of urban areas has placed immense pressure on natural water bodies. Lakes and rivers that once served as recreational and ecological lifelines are now choked with industrial effluents and domestic waste. While environmental regulations exist on paper, enforcement remains weak. Citizens, too, bear responsibility — improper disposal of waste and overuse of groundwater accelerate the damage. A collective effort from government, industry, and individuals is the only viable path forward.'  Which of the following best describes the central idea of the passage?",
-          "q_hi": "",
           "opts": [
             "Industrial pollution is the sole cause of water body degradation.",
             "Strict laws alone can solve the water crisis in urban areas.",
             "Addressing the degradation of urban water bodies requires shared responsibility.",
             "Citizens are more responsible for water pollution than industries."
           ],
-          "opts_hi": [
-            "",
-            "",
-            "",
-            ""
-          ],
           "ans": 2,
-          "subject": "English Comprehension"
+          "subject": "English Comprehension",
+          "exp_en": "The passage concludes that a collective effort from government, industry, and individuals is necessary, making option C the central idea. Options A and D make one-sided claims that the passage contradicts, and option B overstates the role of laws."
         },
         {
           "q": "In the following passage, one word has been omitted. Choose the most appropriate word for the blank.  'Honesty is the ________ policy, and this principle holds true in both personal and professional spheres of life.'",
-          "q_hi": "",
           "opts": [
             "better",
             "ideal",
             "best",
             "only"
           ],
-          "opts_hi": [
-            "",
-            "",
-            "",
-            ""
-          ],
           "ans": 2,
-          "subject": "English Comprehension"
+          "subject": "English Comprehension",
+          "exp_en": "The well-established proverb is 'Honesty is the best policy.' The superlative 'best' is the standard and idiomatic word used in this phrase, making it the only grammatically and contextually correct choice."
         },
         {
           "q": "In the sentence below, identify the underlined segment that needs improvement, and select the best replacement from the options. 'The committee has took a unanimous decision on the matter.'",
-          "q_hi": "",
           "opts": [
             "has take",
             "have took",
             "has taken",
             "had took"
           ],
-          "opts_hi": [
-            "",
-            "",
-            "",
-            ""
-          ],
           "ans": 2,
-          "subject": "English Comprehension"
+          "subject": "English Comprehension",
+          "exp_en": "The correct form for the present perfect tense with a singular subject ('the committee') is 'has taken'. 'Took' is the simple past form and cannot follow 'has'; the past participle 'taken' must be used instead."
         },
         {
           "q": "Select the word most similar in meaning to the word 'OBSTINATE'.",
-          "q_hi": "",
           "opts": [
             "Flexible",
             "Stubborn",
             "Timid",
             "Generous"
           ],
-          "opts_hi": [
-            "",
-            "",
-            "",
-            ""
-          ],
           "ans": 1,
-          "subject": "English Comprehension"
+          "subject": "English Comprehension",
+          "exp_en": "Obstinate' means stubbornly refusing to change one's opinion or chosen course of action. 'Stubborn' is the closest synonym among the options."
         },
         {
           "q": "Identify the segment in the sentence that contains a grammatical error: \"She insisted that he (A) goes to the doctor (B) without any (C) further delay. (D)\"",
-          "q_hi": "",
           "opts": [
             "She insisted that he",
             "goes to the doctor",
             "without any",
             "further delay"
           ],
-          "opts_hi": [
-            "",
-            "",
-            "",
-            ""
-          ],
           "ans": 1,
-          "subject": "English Comprehension"
+          "subject": "English Comprehension",
+          "exp_en": "After verbs like 'insist', 'suggest', and 'demand', the subjunctive mood requires the base form of the verb. So 'goes' should be replaced with 'go'."
         },
         {
           "q": "What is the meaning of the idiom 'To beat around the bush'?",
-          "q_hi": "",
           "opts": [
             "To work very hard",
             "To avoid the main topic",
             "To defeat an opponent easily",
             "To search carefully"
           ],
-          "opts_hi": [
-            "",
-            "",
-            "",
-            ""
-          ],
           "ans": 1,
-          "subject": "English Comprehension"
+          "subject": "English Comprehension",
+          "exp_en": "To beat around the bush' is an idiomatic expression meaning to avoid coming to the main point or to talk about something indirectly."
         },
         {
           "q": "Choose the most appropriate word to fill in the blank: \"Despite working for twelve hours straight, the team showed no signs of ______ and continued with full enthusiasm.\"",
-          "q_hi": "",
           "opts": [
             "fatigue",
             "courage",
             "arrogance",
             "patience"
           ],
-          "opts_hi": [
-            "",
-            "",
-            "",
-            ""
-          ],
           "ans": 0,
-          "subject": "English Comprehension"
+          "subject": "English Comprehension",
+          "exp_en": "The sentence contrasts long hours of work with the team's sustained enthusiasm, making 'fatigue' (extreme tiredness) the only contextually and logically appropriate choice."
         },
         {
           "q": "Select the most appropriate option to fill in the blank.  The minister's speech was so ________ that even his staunchest critics were left with little to refute.",
-          "q_hi": "",
           "opts": [
             "ambiguous",
             "cogent",
             "verbose",
             "frivolous"
           ],
-          "opts_hi": [
-            "",
-            "",
-            "",
-            ""
-          ],
           "ans": 1,
-          "subject": "English Comprehension"
+          "subject": "English Comprehension",
+          "exp_en": "Cogent' means clear, logical, and convincing, which fits the context of a speech that left critics unable to refute it. 'Ambiguous' means unclear, 'verbose' means using too many words, and 'frivolous' means lacking seriousness — none of these create the intended meaning."
         }
       ]
     },
