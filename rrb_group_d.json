@@ -3,9 +3,9 @@
     {
       "id": "rrb_group_d_1",
       "title": "rrb_group_d_1",
-      "duration": 3600,
+      "duration": 90,
       "correctMarks": 1,
-      "negativeMarks": 0,
+      "negativeMarks": 0.33,
       "questions": [
         {
           "q": "The refractive index of diamond is approximately:",
@@ -1492,9 +1492,9 @@
     {
       "id": "rrb_group_d_2",
       "title": "rrb_group_d_2",
-      "duration": 3600,
+      "duration": 90,
       "correctMarks": 1,
-      "negativeMarks": 0,
+      "negativeMarks": 0.33,
       "questions": [
         {
           "q": "Which law explains the conservation of energy in a closed system?",
@@ -3061,9 +3061,9 @@
     {
       "id": "rrb_group_d_3",
       "title": "rrb_group_d_3",
-      "duration": 3600,
+      "duration": 90,
       "correctMarks": 1,
-      "negativeMarks": 0,
+      "negativeMarks": 0.33,
       "questions": [
         {
           "q": "Which gas is released when sodium reacts with water?",
