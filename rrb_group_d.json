@@ -1963,6 +1963,312 @@
           "subject": "General Science"
         },
         {
+          "q": "Which law explains the conservation of energy in a closed system?",
+          "q_hi": "कौन सा नियम एक बंद तंत्र में ऊर्जा संरक्षण की व्याख्या करता है?",
+          "opts": [
+            "Newton's First Law",
+            "Newton's Second Law",
+            "First Law of Thermodynamics",
+            "Second Law of Thermodynamics"
+          ],
+          "opts_hi": [
+            "न्यूटन का प्रथम नियम",
+            "न्यूटन का द्वितीय नियम",
+            "ऊष्मागतिकी का प्रथम नियम",
+            "ऊष्मागतिकी का द्वितीय नियम"
+          ],
+          "ans": 2,
+          "subject": "General Science"
+        },
+        {
+          "q": "What is the unit of power?",
+          "q_hi": "शक्ति का मात्रक क्या है?",
+          "opts": [
+            "Joule",
+            "Newton",
+            "Watt",
+            "Ampere"
+          ],
+          "opts_hi": [
+            "जूल",
+            "न्यूटन",
+            "वाट",
+            "एम्पीयर"
+          ],
+          "ans": 2,
+          "subject": "General Science"
+        },
+        {
+          "q": "What is the speed of light in vacuum approximately?",
+          "q_hi": "निर्वात में प्रकाश की चाल लगभग कितनी है?",
+          "opts": [
+            "3 × 10⁶ m/s",
+            "3 × 10⁸ m/s",
+            "3 × 10¹⁰ m/s",
+            "3 × 10⁴ m/s"
+          ],
+          "opts_hi": [
+            "3 × 10⁶ मी/से",
+            "3 × 10⁸ मी/से",
+            "3 × 10¹⁰ मी/से",
+            "3 × 10⁴ मी/से"
+          ],
+          "ans": 1,
+          "subject": "General Science"
+        },
+        {
+          "q": "What is the chemical formula of washing soda?",
+          "q_hi": "धोने के सोडा (Washing Soda) का रासायनिक सूत्र क्या है?",
+          "opts": [
+            "NaHCO₃",
+            "Na₂CO₃",
+            "Na₂CO₃·10H₂O",
+            "NaOH"
+          ],
+          "opts_hi": [
+            "NaHCO₃",
+            "Na₂CO₃",
+            "Na₂CO₃·10H₂O",
+            "NaOH"
+          ],
+          "ans": 2,
+          "subject": "General Science"
+        },
+        {
+          "q": "What is the chemical name of quicklime?",
+          "q_hi": "चूने (Quicklime) का रासायनिक नाम क्या है?",
+          "opts": [
+            "Calcium carbonate",
+            "Calcium oxide",
+            "Calcium hydroxide",
+            "Calcium chloride"
+          ],
+          "opts_hi": [
+            "कैल्शियम कार्बोनेट",
+            "कैल्शियम ऑक्साइड",
+            "कैल्शियम हाइड्रॉक्साइड",
+            "कैल्शियम क्लोराइड"
+          ],
+          "ans": 1,
+          "subject": "General Science"
+        },
+        {
+          "q": "What is the pH of pure water at 25°C?",
+          "q_hi": "25°C पर शुद्ध जल का pH क्या है?",
+          "opts": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "opts_hi": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "ans": 2,
+          "subject": "General Science"
+        },
+        {
+          "q": "Which of the following is the lightest gas?",
+          "q_hi": "निम्नलिखित में से सबसे हल्की गैस कौन सी है?",
+          "opts": [
+            "Oxygen",
+            "Nitrogen",
+            "Hydrogen",
+            "Helium"
+          ],
+          "opts_hi": [
+            "ऑक्सीजन",
+            "नाइट्रोजन",
+            "हाइड्रोजन",
+            "हीलियम"
+          ],
+          "ans": 2,
+          "subject": "General Science"
+        },
+        {
+          "q": "What is the number of protons in a carbon atom?",
+          "q_hi": "कार्बन परमाणु में प्रोटॉनों की संख्या कितनी है?",
+          "opts": [
+            4,
+            6,
+            8,
+            12
+          ],
+          "opts_hi": [
+            4,
+            6,
+            8,
+            12
+          ],
+          "ans": 1,
+          "subject": "General Science"
+        },
+        {
+          "q": "Which element is used in pencil leads?",
+          "q_hi": "पेंसिल की लेड में कौन सा तत्व उपयोग किया जाता है?",
+          "opts": [
+            "Lead",
+            "Graphite",
+            "Carbon",
+            "Silicon"
+          ],
+          "opts_hi": [
+            "सीसा",
+            "ग्रेफाइट",
+            "कार्बन",
+            "सिलिकॉन"
+          ],
+          "ans": 1,
+          "subject": "General Science"
+        },
+        {
+          "q": "What is the largest organ of the human body?",
+          "q_hi": "मानव शरीर का सबसे बड़ा अंग क्या है?",
+          "opts": [
+            "Liver",
+            "Brain",
+            "Skin",
+            "Heart"
+          ],
+          "opts_hi": [
+            "यकृत",
+            "मस्तिष्क",
+            "त्वचा",
+            "हृदय"
+          ],
+          "ans": 2,
+          "subject": "General Science"
+        },
+        {
+          "q": "Which gland controls the metabolic rate of the body?",
+          "q_hi": "कौन सी ग्रंथि शरीर की चयापचय दर को नियंत्रित करती है?",
+          "opts": [
+            "Pituitary",
+            "Thyroid",
+            "Adrenal",
+            "Pancreas"
+          ],
+          "opts_hi": [
+            "पिट्यूटरी",
+            "थायरॉइड",
+            "एड्रेनल",
+            "पैनक्रियाज"
+          ],
+          "ans": 1,
+          "subject": "General Science"
+        },
+        {
+          "q": "Which blood group is called the universal donor?",
+          "q_hi": "किस रक्त समूह को सार्वभौमिक दाता कहा जाता है?",
+          "opts": [
+            "A negative",
+            "B negative",
+            "AB negative",
+            "O negative"
+          ],
+          "opts_hi": [
+            "A नेगेटिव",
+            "B नेगेटिव",
+            "AB नेगेटिव",
+            "O नेगेटिव"
+          ],
+          "ans": 3,
+          "subject": "General Science"
+        },
+        {
+          "q": "Which vitamin is also known as ascorbic acid?",
+          "q_hi": "किस विटामिन को एस्कॉर्बिक अम्ल भी कहा जाता है?",
+          "opts": [
+            "Vitamin A",
+            "Vitamin B",
+            "Vitamin C",
+            "Vitamin D"
+          ],
+          "opts_hi": [
+            "विटामिन ए",
+            "विटामिन बी",
+            "विटामिन सी",
+            "विटामिन डी"
+          ],
+          "ans": 2,
+          "subject": "General Science"
+        },
+        {
+          "q": "What is the function of hemoglobin in the blood?",
+          "q_hi": "रक्त में हीमोग्लोबिन का कार्य क्या है?",
+          "opts": [
+            "Fights infection",
+            "Transports oxygen",
+            "Transports glucose",
+            "Helps in digestion"
+          ],
+          "opts_hi": [
+            "संक्रमण से लड़ना",
+            "ऑक्सीजन का परिवहन करना",
+            "ग्लूकोज का परिवहन करना",
+            "पाचन में सहायता करना"
+          ],
+          "ans": 1,
+          "subject": "General Science"
+        },
+        {
+          "q": "Which of the following is a disease caused by bacteria?",
+          "q_hi": "निम्नलिखित में से कौन सा रोग जीवाणु द्वारा होता है?",
+          "opts": [
+            "Malaria",
+            "Tuberculosis",
+            "Polio",
+            "Influenza"
+          ],
+          "opts_hi": [
+            "मलेरिया",
+            "क्षय रोग",
+            "पोलियो",
+            "इन्फ्लुएंजा"
+          ],
+          "ans": 1,
+          "subject": "General Science"
+        },
+        {
+          "q": "Which part of the plant carries water from the roots to the leaves?",
+          "q_hi": "पौधे का कौन सा भाग जड़ों से पत्तियों तक पानी पहुँचाता है?",
+          "opts": [
+            "Phloem",
+            "Xylem",
+            "Cortex",
+            "Epidermis"
+          ],
+          "opts_hi": [
+            "फ्लोएम",
+            "जाइलम",
+            "कॉर्टेक्स",
+            "एपिडर्मिस"
+          ],
+          "ans": 1,
+          "subject": "General Science"
+        },
+        {
+          "q": "Which animal is known as the ship of the desert?",
+          "q_hi": "किस जानवर को मरुस्थल का जहाज कहा जाता है?",
+          "opts": [
+            "Horse",
+            "Goat",
+            "Camel",
+            "Elephant"
+          ],
+          "opts_hi": [
+            "घोड़ा",
+            "बकरी",
+            "ऊँट",
+            "हाथी"
+          ],
+          "ans": 2,
+          "subject": "General Science"
+        },
+        {
           "q": "If a train travels 360 km in 4 hours, what is its speed?",
           "q_hi": "यदि एक ट्रेन 4 घंटे में 360 किमी चलती है, तो उसकी गति क्या है?",
           "opts": [
