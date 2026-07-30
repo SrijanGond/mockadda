@@ -5362,6 +5362,438 @@
           ],
           "ans": 2,
           "subject": "Mathematics"
+        },
+        {
+          "q": "Select the option that is related to the third term in the same way as the second term is related to the first term: Fish : Water :: Bird : ?",
+          "q_hi": "उस विकल्प का चयन करें जो तीसरे पद से उसी प्रकार संबंधित है जिस प्रकार दूसरा पद पहले पद से संबंधित है: मछली : पानी :: पक्षी : ?",
+          "opts": [
+            "Land",
+            "Air",
+            "Tree",
+            "Sky"
+          ],
+          "opts_hi": [
+            "भूमि",
+            "हवा",
+            "पेड़",
+            "आकाश"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Select the related letters: ABC : DEF :: GHI : ?",
+          "q_hi": "संबंधित अक्षरों का चयन करें: ABC : DEF :: GHI : ?",
+          "opts": [
+            "JKL",
+            "JKM",
+            "IJK",
+            "HIL"
+          ],
+          "opts_hi": [
+            "JKL",
+            "JKM",
+            "IJK",
+            "HIL"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Select the related number: 16 : 64 :: 25 : ?",
+          "q_hi": "संबंधित संख्या का चयन करें: 16 : 64 :: 25 : ?",
+          "opts": [
+            100,
+            125,
+            150,
+            175
+          ],
+          "opts_hi": [
+            100,
+            125,
+            150,
+            175
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Find the odd one out:",
+          "q_hi": "विषम का चयन करें:",
+          "opts": [
+            "Rose",
+            "Lily",
+            "Marigold",
+            "Banyan"
+          ],
+          "opts_hi": [
+            "गुलाब",
+            "लिली",
+            "गेंदा",
+            "बरगद"
+          ],
+          "ans": 3,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "If 'HOUSE' is coded as 'IPVTF', how is 'ROAD' coded?",
+          "q_hi": "यदि 'HOUSE' को 'IPVTF' के रूप में कोडित किया जाता है, तो 'ROAD' को कैसे कोडित किया जाएगा?",
+          "opts": [
+            "SPBE",
+            "SPCE",
+            "SPBF",
+            "SQBE"
+          ],
+          "opts_hi": [
+            "SPBE",
+            "SPCE",
+            "SPBF",
+            "SQBE"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "If 'RIVER' is coded as 'SJWFS', how is 'ROAD' coded?",
+          "q_hi": "यदि 'RIVER' को 'SJWFS' के रूप में कोडित किया जाता है, तो 'ROAD' को कैसे कोडित किया जाएगा?",
+          "opts": [
+            "SPBE",
+            "SPBF",
+            "SQBE",
+            "SPCF"
+          ],
+          "opts_hi": [
+            "SPBE",
+            "SPBF",
+            "SQBE",
+            "SPCF"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Pointing to a girl, a man said, \"She is the sister of my father's only son.\" How is that girl related to the man?",
+          "q_hi": "एक पुरुष ने एक लड़की की ओर इशारा करते हुए कहा, \"वह मेरे पिता के इकलौते पुत्र की बहन है।\" वह लड़की उस पुरुष से किस प्रकार संबंधित है?",
+          "opts": [
+            "Sister",
+            "Daughter",
+            "Cousin",
+            "Niece"
+          ],
+          "opts_hi": [
+            "बहन",
+            "पुत्री",
+            "चचेरी/ममेरी बहन",
+            "भतीजी/भांजी"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Introducing a boy, a girl said, \"He is the son of my mother's sister.\" How is that boy related to the girl?",
+          "q_hi": "एक लड़की ने एक लड़के का परिचय देते हुए कहा, \"वह मेरी माँ की बहन का पुत्र है।\" वह लड़का उस लड़की से किस प्रकार संबंधित है?",
+          "opts": [
+            "Brother",
+            "Cousin",
+            "Uncle",
+            "Nephew"
+          ],
+          "opts_hi": [
+            "भाई",
+            "चचेरा/ममेरा भाई",
+            "चाचा/मामा",
+            "भतीजा/भांजा"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "A man walks 15 km towards East. He turns right and walks 20 km. He then turns right and walks 15 km. How far is he from his starting point?",
+          "q_hi": "एक व्यक्ति 15 किमी पूर्व की ओर चलता है। वह दाईं ओर मुड़ता है और 20 किमी चलता है। फिर वह दाईं ओर मुड़ता है और 15 किमी चलता है। वह अपने प्रारंभिक बिंदु से कितनी दूर है?",
+          "opts": [
+            "10 km",
+            "15 km",
+            "20 km",
+            "25 km"
+          ],
+          "opts_hi": [
+            "10 किमी",
+            "15 किमी",
+            "20 किमी",
+            "25 किमी"
+          ],
+          "ans": 2,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Shyam walks 10 km towards North. He turns left and walks 5 km. He then turns left and walks 10 km. In which direction is he from his starting point?",
+          "q_hi": "श्याम 10 किमी उत्तर की ओर चलता है। वह बाईं ओर मुड़ता है और 5 किमी चलता है। फिर वह बाईं ओर मुड़ता है और 10 किमी चलता है। वह अपने प्रारंभिक बिंदु से किस दिशा में है?",
+          "opts": [
+            "North",
+            "South",
+            "East",
+            "West"
+          ],
+          "opts_hi": [
+            "उत्तर",
+            "दक्षिण",
+            "पूर्व",
+            "पश्चिम"
+          ],
+          "ans": 3,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Statements: All dogs are animals. Some cats are animals. Conclusions: I. Some dogs are cats. II. Some animals are dogs. Which is correct?",
+          "q_hi": "कथन: सभी कुत्ते जानवर हैं। कुछ बिल्लियाँ जानवर हैं। निष्कर्ष: I. कुछ कुत्ते बिल्लियाँ हैं। II. कुछ जानवर कुत्ते हैं। कौन सा सही है?",
+          "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both I and II follow",
+            "Neither I nor II follows"
+          ],
+          "opts_hi": [
+            "केवल I सही है",
+            "केवल II सही है",
+            "I और II दोनों सही हैं",
+            "ना तो I और ना ही II सही है"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Statements: All fruits are nutritious. Some apples are fruits. Conclusions: I. Some apples are nutritious. II. All nutritious things are fruits. Which is correct?",
+          "q_hi": "कथन: सभी फल पौष्टिक हैं। कुछ सेब फल हैं। निष्कर्ष: I. कुछ सेब पौष्टिक हैं। II. सभी पौष्टिक चीज़ें फल हैं। कौन सा सही है?",
+          "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both I and II follow",
+            "Neither I nor II follows"
+          ],
+          "opts_hi": [
+            "केवल I सही है",
+            "केवल II सही है",
+            "I और II दोनों सही हैं",
+            "ना तो I और ना ही II सही है"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Find the next term: 1, 4, 9, 16, 25, ?",
+          "q_hi": "अगला पद ज्ञात करें: 1, 4, 9, 16, 25, ?",
+          "opts": [
+            30,
+            36,
+            42,
+            49
+          ],
+          "opts_hi": [
+            30,
+            36,
+            42,
+            49
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Find the next term: 3, 6, 11, 18, 27, ?",
+          "q_hi": "अगला पद ज्ञात करें: 3, 6, 11, 18, 27, ?",
+          "opts": [
+            36,
+            38,
+            40,
+            42
+          ],
+          "opts_hi": [
+            36,
+            38,
+            40,
+            42
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "If '+' means '−', '−' means '×', '×' means '÷', and '÷' means '+', then what is the value of 12 + 4 − 2 × 6 ÷ 3?",
+          "q_hi": "यदि '+' का अर्थ '−' है, '−' का अर्थ '×' है, '×' का अर्थ '÷' है, और '÷' का अर्थ '+' है, तो 12 + 4 − 2 × 6 ÷ 3 का मान क्या है?",
+          "opts": [
+            5,
+            7,
+            9,
+            11
+          ],
+          "opts_hi": [
+            5,
+            7,
+            9,
+            11
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "If '+' means '×', '−' means '÷', '×' means '+', and '÷' means '−', then find the value of 16 + 4 − 2 × 8 ÷ 4?",
+          "q_hi": "यदि '+' का अर्थ '×' है, '−' का अर्थ '÷' है, '×' का अर्थ '+' है, और '÷' का अर्थ '−' है, तो 16 + 4 − 2 × 8 ÷ 4 का मान ज्ञात करें?",
+          "opts": [
+            32,
+            34,
+            36,
+            38
+          ],
+          "opts_hi": [
+            32,
+            34,
+            36,
+            38
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "In a group of 120 people, 80 like tea, 60 like coffee, and 30 like both. How many like only coffee?",
+          "q_hi": "120 लोगों के समूह में, 80 चाय पसंद करते हैं, 60 कॉफी पसंद करते हैं, और 30 दोनों पसंद करते हैं। कितने केवल कॉफी पसंद करते हैं?",
+          "opts": [
+            20,
+            30,
+            40,
+            50
+          ],
+          "opts_hi": [
+            20,
+            30,
+            40,
+            50
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "In a class of 100 students, 60 like Maths, 50 like Science, and 20 like neither. How many like both?",
+          "q_hi": "100 छात्रों की एक कक्षा में, 60 को गणित पसंद है, 50 को विज्ञान पसंद है, और 20 को कोई भी पसंद नहीं है। कितने को दोनों पसंद हैं?",
+          "opts": [
+            10,
+            20,
+            30,
+            40
+          ],
+          "opts_hi": [
+            10,
+            20,
+            30,
+            40
+          ],
+          "ans": 2,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "If the mirror is placed to the right of a word, what will be the mirror image of 'WATER'?",
+          "q_hi": "यदि दर्पण किसी शब्द के दाईं ओर रखा जाता है, तो 'WATER' की दर्पण छवि क्या होगी?",
+          "opts": [
+            "ЯƎTΛM",
+            "ЯƎTΛW",
+            "ЯƎTAM",
+            "ЯƎTAW"
+          ],
+          "opts_hi": [
+            "ЯƎTΛM",
+            "ЯƎTΛW",
+            "ЯƎTAM",
+            "ЯƎTAW"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Statement: \"Please keep your surroundings clean.\" Assumptions: I. People might not keep their surroundings clean. II. The speaker wants a clean environment. Which is correct?",
+          "q_hi": "कथन: \"कृपया अपने आस-पास को साफ रखें।\" पूर्वधारणाएँ: I. लोग अपने आस-पास को साफ नहीं रख सकते हैं। II. वक्ता स्वच्छ वातावरण चाहता है। कौन सा सही है?",
+          "opts": [
+            "Only I is implicit",
+            "Only II is implicit",
+            "Both I and II are implicit",
+            "Neither is implicit"
+          ],
+          "opts_hi": [
+            "केवल I अंतर्निहित है",
+            "केवल II अंतर्निहित है",
+            "I और II दोनों अंतर्निहित हैं",
+            "कोई भी अंतर्निहित नहीं है"
+          ],
+          "ans": 2,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Six friends A, B, C, D, E and F are sitting in a circle facing the center. A is between D and F. B is between E and C. C is second to the right of A. Who is sitting opposite to A?",
+          "q_hi": "छह मित्र A, B, C, D, E और F केंद्र की ओर मुख करके एक वृत्त में बैठे हैं। A, D और F के बीच में है। B, E और C के बीच में है। C, A के दाईं ओर दूसरे स्थान पर है। A के विपरीत कौन बैठा है?",
+          "opts": [
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "opts_hi": [
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "How many squares are there in a 5x5 grid?",
+          "q_hi": "5x5 ग्रिड में कितने वर्ग हैं?",
+          "opts": [
+            55,
+            60,
+            65,
+            70
+          ],
+          "opts_hi": [
+            55,
+            60,
+            65,
+            70
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "How many triangles are there in a standard 3-tier triangular figure?",
+          "q_hi": "एक मानक 3-स्तरीय त्रिभुजाकार आकृति में कितने त्रिभुज हैं?",
+          "opts": [
+            10,
+            13,
+            15,
+            18
+          ],
+          "opts_hi": [
+            10,
+            13,
+            15,
+            18
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "In a certain code language, 'TRAIN' is written as 'USZHO'. How will 'BRAIN' be written in that code?",
+          "q_hi": "एक निश्चित कूट भाषा में, 'TRAIN' को 'USZHO' लिखा जाता है। उस कूट में 'BRAIN' को कैसे लिखा जाएगा?",
+          "opts": [
+            "CSZHO",
+            "CSZHO",
+            "CQZHO",
+            "CQZJO"
+          ],
+          "opts_hi": [
+            "CSZHO",
+            "CSZHO",
+            "CQZHO",
+            "CQZJO"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
         }
       ]
     }
