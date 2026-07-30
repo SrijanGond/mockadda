@@ -5812,6 +5812,24 @@
           ],
           "ans": 1,
           "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "A police station is located 5 km North of a bank. A hospital is located 5 km East of the police station. A school is located 5 km South of the hospital. In which direction is the school from the bank?",
+          "q_hi": "एक पुलिस स्टेशन एक बैंक के 5 किमी उत्तर में स्थित है। एक अस्पताल पुलिस स्टेशन के 5 किमी पूर्व में स्थित है। एक स्कूल अस्पताल के 5 किमी दक्षिण में स्थित है। स्कूल बैंक से किस दिशा में है?",
+          "opts": [
+            "North",
+            "South",
+            "East",
+            "West"
+          ],
+          "opts_hi": [
+            "उत्तर",
+            "दक्षिण",
+            "पूर्व",
+            "पश्चिम"
+          ],
+          "ans": 2,
+          "subject": "General Intelligence & Reasoning"
         }
       ]
     }
