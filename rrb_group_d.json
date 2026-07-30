@@ -4455,6 +4455,438 @@
           ],
           "ans": 2,
           "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "The famous 'Battle of Plassey' was fought in which year?",
+          "q_hi": "प्रसिद्ध 'प्लासी का युद्ध' किस वर्ष लड़ा गया था?",
+          "opts": [
+            1756,
+            1757,
+            1758,
+            1760
+          ],
+          "opts_hi": [
+            1756,
+            1757,
+            1758,
+            1760
+          ],
+          "ans": 1,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "Who was the first Indian to win the Nobel Prize?",
+          "q_hi": "नोबेल पुरस्कार जीतने वाले पहले भारतीय कौन थे?",
+          "opts": [
+            "Rabindranath Tagore",
+            "Sir C.V. Raman",
+            "Mother Teresa",
+            "Amartya Sen"
+          ],
+          "opts_hi": [
+            "रवींद्रनाथ टैगोर",
+            "सर सी.वी. रामन",
+            "मदर टेरेसा",
+            "अमर्त्य सेन"
+          ],
+          "ans": 0,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "Which schedule of the Indian Constitution deals with the languages?",
+          "q_hi": "भारतीय संविधान की कौन सी अनुसूची भाषाओं से संबंधित है?",
+          "opts": [
+            "Eighth Schedule",
+            "Seventh Schedule",
+            "Ninth Schedule",
+            "Tenth Schedule"
+          ],
+          "opts_hi": [
+            "आठवीं अनुसूची",
+            "सातवीं अनुसूची",
+            "नौवीं अनुसूची",
+            "दसवीं अनुसूची"
+          ],
+          "ans": 0,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "The concept of 'Judicial Review' is borrowed from which country's constitution?",
+          "q_hi": "न्यायिक पुनर्विलोकन' की अवधारणा किस देश के संविधान से ली गई है?",
+          "opts": [
+            "USA",
+            "UK",
+            "Canada",
+            "Australia"
+          ],
+          "opts_hi": [
+            "USA",
+            "UK",
+            "कनाडा",
+            "ऑस्ट्रेलिया"
+          ],
+          "ans": 0,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "Which amendment is known as the 'Mini Constitution' of India?",
+          "q_hi": "किस संशोधन को भारत का 'लघु संविधान' कहा जाता है?",
+          "opts": [
+            "42nd Amendment",
+            "44th Amendment",
+            "52nd Amendment",
+            "73rd Amendment"
+          ],
+          "opts_hi": [
+            "42वां संशोधन",
+            "44वां संशोधन",
+            "52वां संशोधन",
+            "73वां संशोधन"
+          ],
+          "ans": 0,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "The 'Palk Strait' separates India from which country?",
+          "q_hi": "पाक जलडमरूमध्य' भारत को किस देश से अलग करता है?",
+          "opts": [
+            "Sri Lanka",
+            "Pakistan",
+            "Bangladesh",
+            "Myanmar"
+          ],
+          "opts_hi": [
+            "श्रीलंका",
+            "पाकिस्तान",
+            "बांग्लादेश",
+            "म्यांमार"
+          ],
+          "ans": 0,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "The highest waterfall in India is?",
+          "q_hi": "भारत की सबसे ऊँची जलप्रपात कौन सी है?",
+          "opts": [
+            "Jog Falls",
+            "Kunchikal Falls",
+            "Nohkalikai Falls",
+            "Hogenakkal Falls"
+          ],
+          "opts_hi": [
+            "जोग फॉल्स",
+            "कुंचिकल फॉल्स",
+            "नोहकालिकाई फॉल्स",
+            "होजेनक्कल फॉल्स"
+          ],
+          "ans": 1,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "Which Indian state has the longest coastline?",
+          "q_hi": "किस भारतीय राज्य की सबसे लंबी तटरेखा है?",
+          "opts": [
+            "Tamil Nadu",
+            "Gujarat",
+            "Andhra Pradesh",
+            "West Bengal"
+          ],
+          "opts_hi": [
+            "तमिलनाडु",
+            "गुजरात",
+            "आंध्र प्रदेश",
+            "पश्चिम बंगाल"
+          ],
+          "ans": 1,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "Which Indian state has the highest GDP?",
+          "q_hi": "किस भारतीय राज्य की GDP सबसे अधिक है?",
+          "opts": [
+            "Maharashtra",
+            "Tamil Nadu",
+            "Uttar Pradesh",
+            "Karnataka"
+          ],
+          "opts_hi": [
+            "महाराष्ट्र",
+            "तमिलनाडु",
+            "उत्तर प्रदेश",
+            "कर्नाटक"
+          ],
+          "ans": 0,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "The term 'Quantitative Easing' is associated with which field?",
+          "q_hi": "क्वांटिटेटिव ईजिंग' शब्द किस क्षेत्र से संबंधित है?",
+          "opts": [
+            "Agriculture",
+            "Monetary Policy",
+            "Trade Policy",
+            "Education Policy"
+          ],
+          "opts_hi": [
+            "कृषि",
+            "मौद्रिक नीति",
+            "व्यापार नीति",
+            "शिक्षा नीति"
+          ],
+          "ans": 1,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "Which vitamin is essential for blood clotting?",
+          "q_hi": "रक्त का थक्का जमाने के लिए कौन सा विटामिन आवश्यक है?",
+          "opts": [
+            "Vitamin A",
+            "Vitamin E",
+            "Vitamin K",
+            "Vitamin B12"
+          ],
+          "opts_hi": [
+            "विटामिन ए",
+            "विटामिन ई",
+            "विटामिन के",
+            "विटामिन B12"
+          ],
+          "ans": 2,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "What is the chemical name of baking powder?",
+          "q_hi": "बेकिंग पाउडर का रासायनिक नाम क्या है?",
+          "opts": [
+            "Sodium bicarbonate",
+            "Sodium carbonate",
+            "Calcium bicarbonate",
+            "Potassium bicarbonate"
+          ],
+          "opts_hi": [
+            "सोडियम बाइकार्बोनेट",
+            "सोडियम कार्बोनेट",
+            "कैल्शियम बाइकार्बोनेट",
+            "पोटैशियम बाइकार्बोनेट"
+          ],
+          "ans": 0,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "Which part of the human eye controls the amount of light entering the eye?",
+          "q_hi": "मानव नेत्र का कौन सा भाग नेत्र में प्रवेश करने वाले प्रकाश की मात्रा को नियंत्रित करता है?",
+          "opts": [
+            "Cornea",
+            "Iris",
+            "Pupil",
+            "Lens"
+          ],
+          "opts_hi": [
+            "कॉर्निया",
+            "आइरिस",
+            "प्यूपिल",
+            "लेंस"
+          ],
+          "ans": 1,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "Who wrote the famous book 'Gitanjali'?",
+          "q_hi": "प्रसिद्ध पुस्तक 'गीतांजलि' किसने लिखी?",
+          "opts": [
+            "Bankim Chandra Chatterjee",
+            "Rabindranath Tagore",
+            "Sarojini Naidu",
+            "Subramania Bharati"
+          ],
+          "opts_hi": [
+            "बंकिम चंद्र चट्टोपाध्याय",
+            "रवींद्रनाथ टैगोर",
+            "सरोजिनी नायडू",
+            "सुब्रह्मण्य भारती"
+          ],
+          "ans": 1,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "The book 'The White Tiger' is written by?",
+          "q_hi": "द व्हाइट टाइगर' पुस्तक किसके द्वारा लिखी गई है?",
+          "opts": [
+            "Arundhati Roy",
+            "Kiran Desai",
+            "Arvind Adiga",
+            "Chetan Bhagat"
+          ],
+          "opts_hi": [
+            "अरुंधती रॉय",
+            "किरण देसाई",
+            "अरविंद अडिगा",
+            "चेतन भगत"
+          ],
+          "ans": 2,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "Which Indian sportsperson has won the most Olympic medals?",
+          "q_hi": "किस भारतीय खिलाड़ी ने सबसे अधिक ओलंपिक पदक जीते हैं?",
+          "opts": [
+            "Abhinav Bindra",
+            "P.V. Sindhu",
+            "Sushil Kumar",
+            "Neeraj Chopra"
+          ],
+          "opts_hi": [
+            "अभिनव बिंद्रा",
+            "पी.वी. सिंधु",
+            "सुशील कुमार",
+            "नीरज चोपड़ा"
+          ],
+          "ans": 1,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "The FIFA World Cup 2026 will be hosted by which countries?",
+          "q_hi": "FIFA विश्व कप 2026 की मेजबानी किन देशों द्वारा की जाएगी?",
+          "opts": [
+            "USA and Mexico only",
+            "USA, Canada and Mexico",
+            "USA, Mexico and Brazil",
+            "USA, Canada and UK"
+          ],
+          "opts_hi": [
+            "केवल USA और Mexico",
+            "USA, Canada और Mexico",
+            "USA, Mexico और Brazil",
+            "USA, Canada और UK"
+          ],
+          "ans": 1,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "The famous 'Mahabalipuram' temples were built by which dynasty?",
+          "q_hi": "प्रसिद्ध 'महाबलिपुरम' मंदिर किस राजवंश द्वारा बनाए गए थे?",
+          "opts": [
+            "Pallava dynasty",
+            "Chola dynasty",
+            "Pandya dynasty",
+            "Chera dynasty"
+          ],
+          "opts_hi": [
+            "पल्लव राजवंश",
+            "चोल राजवंश",
+            "पांड्य राजवंश",
+            "चेर राजवंश"
+          ],
+          "ans": 0,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "In which year did Maldives hold the world's first underwater cabinet meeting to highlight climate change?",
+          "q_hi": "जलवायु परिवर्तन को उजागर करने के लिए मालदीव ने दुनिया की पहली पानी के नीचे मंत्रिमंडल बैठक किस वर्ष आयोजित की थी?",
+          "opts": [
+            2007,
+            2008,
+            2009,
+            2010
+          ],
+          "opts_hi": [
+            2007,
+            2008,
+            2009,
+            2010
+          ],
+          "ans": 2,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "The 'Quit India Movement' was launched in which year?",
+          "q_hi": "भारत छोड़ो आंदोलन' किस वर्ष शुरू किया गया था?",
+          "opts": [
+            1940,
+            1941,
+            1942,
+            1943
+          ],
+          "opts_hi": [
+            1940,
+            1941,
+            1942,
+            1943
+          ],
+          "ans": 2,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "Which article of the Indian Constitution deals with the appointment of the Prime Minister?",
+          "q_hi": "भारतीय संविधान का कौन सा अनुच्छेद प्रधान मंत्री की नियुक्ति से संबंधित है?",
+          "opts": [
+            "Article 74",
+            "Article 75",
+            "Article 76",
+            "Article 78"
+          ],
+          "opts_hi": [
+            "अनुच्छेद 74",
+            "अनुच्छेद 75",
+            "अनुच्छेद 76",
+            "अनुच्छेद 78"
+          ],
+          "ans": 1,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "The 'Sunderbans' delta is formed by which two rivers?",
+          "q_hi": "सुंदरबन' डेल्टा किन दो नदियों द्वारा निर्मित है?",
+          "opts": [
+            "Ganga and Brahmaputra",
+            "Ganga and Yamuna",
+            "Brahmaputra and Meghna",
+            "Godavari and Krishna"
+          ],
+          "opts_hi": [
+            "गंगा और ब्रह्मपुत्र",
+            "गंगा और यमुना",
+            "ब्रह्मपुत्र और मेघना",
+            "गोदावरी और कृष्णा"
+          ],
+          "ans": 0,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "Which element is used in the filament of a bulb?",
+          "q_hi": "बल्ब के फिलामेंट में किस तत्व का उपयोग किया जाता है?",
+          "opts": [
+            "Copper",
+            "Aluminum",
+            "Tungsten",
+            "Silver"
+          ],
+          "opts_hi": [
+            "तांबा",
+            "एल्यूमीनियम",
+            "टंगस्टन",
+            "सिल्वर"
+          ],
+          "ans": 2,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "India's 'Chandrayaan-3' was launched from which space center?",
+          "q_hi": "भारत का 'चंद्रयान-3' किस अंतरिक्ष केंद्र से लॉन्च किया गया था?",
+          "opts": [
+            "Vikram Sarabhai Space Centre",
+            "Satish Dhawan Space Centre",
+            "ISRO Headquarters",
+            "Thumba Equatorial Rocket Launching Station"
+          ],
+          "opts_hi": [
+            "विक्रम साराभाई अंतरिक्ष केंद्र",
+            "सतीश धवन अंतरिक्ष केंद्र",
+            "इसरो मुख्यालय",
+            "थुम्बा भूमध्य रॉकेट प्रक्षेपण केंद्र"
+          ],
+          "ans": 1,
+          "subject": "General Awareness & Current Affairs"
         }
       ]
     },
