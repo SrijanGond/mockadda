@@ -4151,6 +4151,24 @@
           "subject": "General Science"
         },
         {
+          "q": "Which gas is released when sodium reacts with water?",
+          "q_hi": "सोडियम जल के साथ अभिक्रिया करने पर कौन सी गैस निकलती है?",
+          "opts": [
+            "Oxygen",
+            "Hydrogen",
+            "Carbon dioxide",
+            "Nitrogen"
+          ],
+          "opts_hi": [
+            "ऑक्सीजन",
+            "हाइड्रोजन",
+            "कार्बन डाइऑक्साइड",
+            "नाइट्रोजन"
+          ],
+          "ans": 1,
+          "subject": "General Science"
+        },
+        {
           "q": "Which of the following is NOT a Kharif crop?",
           "q_hi": "निम्नलिखित में से कौन सी खरीफ की फसल नहीं है?",
           "opts": [
