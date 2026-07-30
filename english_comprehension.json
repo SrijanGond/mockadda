@@ -1,125 +1,124 @@
 {
   "questions": [
     {
-      "q": "Synonym of 'Abundant'?",
+      "q": "Select the part of the sentence that contains an error. / The committee have reached (A) / their decision after (B) / a long and heated (C) / discussion yesterday. (D)",
       "opts": [
-        "Scarce",
-        "Plentiful",
-        "Limited",
-        "Rare"
+        "The committee have reached",
+        "their decision after",
+        "a long and heated",
+        "discussion yesterday."
       ],
-      "ans": 1,
-      "subject": "English Comprehension"
+      "ans": 0,
+      "subject": "English Comprehension",
+      "exp_en": "Committee' is a collective noun that takes a singular verb when acting as a unified body; it should be 'The committee has reached', not 'have reached'."
     },
     {
-      "q": "Antonym of 'Verbose'?",
+      "q": "Choose the most appropriate word to fill in the blank. / Despite the manager's repeated warnings, the employee remained _______ to the company's code of conduct.",
       "opts": [
-        "Talkative",
-        "Concise",
-        "Elaborate",
-        "Lengthy"
+        "oblivious",
+        "adherent",
+        "conducive",
+        "indifferent"
       ],
-      "ans": 1,
-      "subject": "English Comprehension"
+      "ans": 3,
+      "subject": "English Comprehension",
+      "exp_en": "Indifferent' means showing no concern or care, which fits the context of ignoring the code of conduct despite warnings. 'Oblivious' would require 'of/to' but implies unawareness rather than wilful disregard; 'adherent' is positive and contradicts the sentence's negative tone; 'conducive' means helpful and does not fit."
     },
     {
-      "q": "Synonym of 'Benevolent'?",
+      "q": "Select the correct meaning of the underlined idiom. / After years of rivalry, the two business partners finally decided to bury the hatchet and work together.",
       "opts": [
-        "Malevolent",
-        "Kind",
-        "Cruel",
-        "Angry"
+        "hide their profits",
+        "end their hostility",
+        "sign a legal contract",
+        "divide their assets"
       ],
       "ans": 1,
-      "subject": "English Comprehension"
+      "subject": "English Comprehension",
+      "exp_en": "Bury the hatchet' is an idiom meaning to end a quarrel or conflict and make peace with someone, so 'end their hostility' is the correct meaning."
     },
     {
-      "q": "Choose the correctly spelled word.",
+      "q": "Choose the word that is closest in meaning to the given word. / TACITURN",
       "opts": [
-        "Seperate",
-        "Separate",
-        "Seperete",
-        "Seprate"
+        "Garrulous",
+        "Reserved",
+        "Arrogant",
+        "Impulsive"
       ],
       "ans": 1,
-      "subject": "English Comprehension"
+      "subject": "English Comprehension",
+      "exp_en": "Taciturn' means habitually silent or not inclined to talk; 'Reserved' is its closest synonym. 'Garrulous' is actually its antonym, meaning excessively talkative."
     },
     {
-      "q": "Find the error in the sentence: \"The sceneries of Kashmir (A) / is very beautiful (B) / and attracts many tourists (C) / every year. (D)\"",
+      "q": "Select the one word that best substitutes the given phrase. / A person who is unable to pay their debts",
+      "opts": [
+        "Indigent",
+        "Insolvent",
+        "Destitute",
+        "Frugal"
+      ],
+      "ans": 1,
+      "subject": "English Comprehension",
+      "exp_en": "Insolvent' specifically refers to a person or organisation that is legally unable to pay their debts, making it the precise one-word substitution. 'Indigent' and 'Destitute' refer to extreme poverty in general, while 'Frugal' means economical and is not related."
+    },
+    {
+      "q": "Select the most appropriate word to fill in the blank.  The scientist's groundbreaking research _______ the conventional understanding of how memory is stored in the brain.",
+      "opts": [
+        "confirmed",
+        "challenged",
+        "ignored",
+        "repeated"
+      ],
+      "ans": 1,
+      "subject": "English Comprehension",
+      "exp_en": "Challenged' fits best because the research is described as 'groundbreaking,' implying it questioned or overturned established ideas. 'Confirmed' would mean it supported existing views, which contradicts the sense of novelty."
+    },
+    {
+      "q": "Select the word most similar in meaning to the word given below.  AMBIGUOUS",
+      "opts": [
+        "Precise",
+        "Hostile",
+        "Equivocal",
+        "Vivid"
+      ],
+      "ans": 2,
+      "subject": "English Comprehension",
+      "exp_en": "Ambiguous' means open to more than one interpretation or unclear, and 'equivocal' carries the same meaning of being uncertain or having a double meaning. The other options — precise, hostile, and vivid — are unrelated or opposite in meaning."
+    },
+    {
+      "q": "Select the word most opposite in meaning to the word given below.  FRUGAL",
+      "opts": [
+        "Thrifty",
+        "Lavish",
+        "Modest",
+        "Cautious"
+      ],
+      "ans": 1,
+      "subject": "English Comprehension",
+      "exp_en": "Frugal' means careful and sparing with money or resources, so its antonym is 'lavish,' which means spending extravagantly. 'Thrifty' is a synonym, while 'modest' and 'cautious' are unrelated to the word's core meaning."
+    },
+    {
+      "q": "Select the most appropriate meaning of the given idiom.  To beat around the bush",
+      "opts": [
+        "To work very hard",
+        "To avoid the main topic",
+        "To speak very loudly",
+        "To finish a task quickly"
+      ],
+      "ans": 1,
+      "subject": "English Comprehension",
+      "exp_en": "The idiom 'to beat around the bush' means to avoid talking about the main point and instead speak in an indirect, evasive manner. It does not relate to effort, volume of speech, or speed."
+    },
+    {
+      "q": "The given sentence is divided into four parts (A), (B), (C), and (D). Identify the part that contains a grammatical error.  (A) Neither of the two candidates / (B) were able to answer / (C) the question posed / (D) by the panel.",
       "opts": [
         "A",
         "B",
         "C",
         "D"
       ],
-      "ans": 0,
-      "subject": "English Comprehension"
-    },
-    {
-      "q": "The phrase \"To be at loggerheads\" means:",
-      "opts": [
-        "To be in a romantic relationship",
-        "To be in a state of agreement",
-        "To be in a state of disagreement",
-        "To be working together"
-      ],
-      "ans": 2,
-      "subject": "English Comprehension"
-    },
-    {
-      "q": "Fill in the blank: I am looking forward _______ you.",
-      "opts": [
-        "to meet",
-        "to meeting",
-        "meeting",
-        "meet"
-      ],
       "ans": 1,
-      "subject": "English Comprehension"
-    },
-    {
-      "q": "Choose the correct passive voice form of: \"They are building a new mall.\"",
-      "opts": [
-        "A new mall is being built by them.",
-        "A new mall was being built by them.",
-        "A new mall is built by them.",
-        "A new mall was built by them."
-      ],
-      "ans": 0,
-      "subject": "English Comprehension"
-    },
-    {
-      "q": "The word \"Diligent\" means:",
-      "opts": [
-        "Lazy",
-        "Hardworking",
-        "Careless",
-        "Slow"
-      ],
-      "ans": 1,
-      "subject": "English Comprehension"
-    },
-    {
-      "q": "Choose the correct article: She is _______ best student in the class.",
-      "opts": [
-        "a",
-        "an",
-        "the",
-        "No article"
-      ],
-      "ans": 2,
-      "subject": "English Comprehension"
-    },
-    {
-      "q": "Choose the correct meaning of the idiom \"A piece of cake.\"",
-      "opts": [
-        "Difficult task",
-        "Very easy task",
-        "Expensive item",
-        "Delicious food"
-      ],
-      "ans": 1,
-      "subject": "English Comprehension"
+      "subject": "English Comprehension",
+      "exp_en": "The subject 'Neither of the two candidates' is singular, so the verb should be 'was' not 'were.' The rule is that 'neither' as a pronoun or with 'of' takes a singular verb. Parts A, C, and D are grammatically correct."
     },
     {
       "q": "Identify the sentence with the correct use of the tense.",
@@ -262,6 +261,336 @@
         "have"
       ],
       "ans": 0,
+      "subject": "English Comprehension"
+    },
+    {
+      "q": "Synonym of 'Happy'?",
+      "opts": [
+        "Sad",
+        "Joyful",
+        "Angry",
+        "Tired"
+      ],
+      "ans": 1,
+      "subject": "English Language"
+    },
+    {
+      "q": "Antonym of 'Dark'?",
+      "opts": [
+        "Light",
+        "Black",
+        "Night",
+        "Dim"
+      ],
+      "ans": 0,
+      "subject": "English Language"
+    },
+    {
+      "q": "Fill in the blank: She is _______ than her sister.",
+      "opts": [
+        "tall",
+        "taller",
+        "tallest",
+        "more tall"
+      ],
+      "ans": 1,
+      "subject": "English Language"
+    },
+    {
+      "q": "What is the meaning of 'Diligent'?",
+      "opts": [
+        "Lazy",
+        "Hardworking",
+        "Slow",
+        "Careless"
+      ],
+      "ans": 1,
+      "subject": "English Language"
+    },
+    {
+      "q": "What is the synonym of 'Fast'?",
+      "opts": [
+        "Slow",
+        "Quick",
+        "Lazy",
+        "Calm"
+      ],
+      "ans": 1,
+      "subject": "English Language"
+    },
+    {
+      "q": "What is the correct meaning of 'Abundant'?",
+      "opts": [
+        "Scarce",
+        "Plentiful",
+        "Limited",
+        "Rare"
+      ],
+      "ans": 1,
+      "subject": "English Language"
+    },
+    {
+      "q": "Select the correct word: She is _______ beautiful girl.",
+      "opts": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "ans": 0,
+      "subject": "English Language"
+    },
+    {
+      "q": "What is the plural of 'Child'?",
+      "opts": [
+        "Childs",
+        "Children",
+        "Childes",
+        "Childen"
+      ],
+      "ans": 1,
+      "subject": "English Language"
+    },
+    {
+      "q": "Select the correct meaning of 'Benevolent'.",
+      "opts": [
+        "Cruel",
+        "Kind",
+        "Angry",
+        "Sad"
+      ],
+      "ans": 1,
+      "subject": "English Language"
+    },
+    {
+      "q": "Which of the following is an example of a proper noun?",
+      "opts": [
+        "City",
+        "Country",
+        "India",
+        "River"
+      ],
+      "ans": 2,
+      "subject": "English Language"
+    },
+    {
+      "q": "Which word is correctly spelled?",
+      "opts": [
+        "Neccessary",
+        "Necessary",
+        "Necesary",
+        "Nessessary"
+      ],
+      "ans": 1,
+      "subject": "English Language"
+    },
+    {
+      "q": "What is the antonym of 'Beautiful'?",
+      "opts": [
+        "Ugly",
+        "Pretty",
+        "Lovely",
+        "Attractive"
+      ],
+      "ans": 0,
+      "subject": "English Language"
+    },
+    {
+      "q": "Which of the following is a conjunction?",
+      "opts": [
+        "and",
+        "run",
+        "book",
+        "fast"
+      ],
+      "ans": 0,
+      "subject": "English Language"
+    },
+    {
+      "q": "Synonym of 'Abundant'?",
+      "opts": [
+        "Scarce",
+        "Plentiful",
+        "Limited",
+        "Rare"
+      ],
+      "ans": 1,
+      "subject": "English Comprehension"
+    },
+    {
+      "q": "Antonym of 'Verbose'?",
+      "opts": [
+        "Talkative",
+        "Concise",
+        "Elaborate",
+        "Lengthy"
+      ],
+      "ans": 1,
+      "subject": "English Comprehension"
+    },
+    {
+      "q": "Synonym of 'Benevolent'?",
+      "opts": [
+        "Malevolent",
+        "Kind",
+        "Cruel",
+        "Angry"
+      ],
+      "ans": 1,
+      "subject": "English Comprehension"
+    },
+    {
+      "q": "Choose the correctly spelled word.",
+      "opts": [
+        "Seperate",
+        "Separate",
+        "Seperete",
+        "Seprate"
+      ],
+      "ans": 1,
+      "subject": "English Comprehension"
+    },
+    {
+      "q": "Find the error in the sentence: \"The sceneries of Kashmir (A) / is very beautiful (B) / and attracts many tourists (C) / every year. (D)\"",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "ans": 0,
+      "subject": "English Comprehension"
+    },
+    {
+      "q": "The phrase \"To be at loggerheads\" means:",
+      "opts": [
+        "To be in a romantic relationship",
+        "To be in a state of agreement",
+        "To be in a state of disagreement",
+        "To be working together"
+      ],
+      "ans": 2,
+      "subject": "English Comprehension"
+    },
+    {
+      "q": "Fill in the blank: I am looking forward _______ you.",
+      "opts": [
+        "to meet",
+        "to meeting",
+        "meeting",
+        "meet"
+      ],
+      "ans": 1,
+      "subject": "English Comprehension"
+    },
+    {
+      "q": "Choose the correct passive voice form of: \"They are building a new mall.\"",
+      "opts": [
+        "A new mall is being built by them.",
+        "A new mall was being built by them.",
+        "A new mall is built by them.",
+        "A new mall was built by them."
+      ],
+      "ans": 0,
+      "subject": "English Comprehension"
+    },
+    {
+      "q": "The word \"Diligent\" means:",
+      "opts": [
+        "Lazy",
+        "Hardworking",
+        "Careless",
+        "Slow"
+      ],
+      "ans": 1,
+      "subject": "English Comprehension"
+    },
+    {
+      "q": "Choose the correct article: She is _______ best student in the class.",
+      "opts": [
+        "a",
+        "an",
+        "the",
+        "No article"
+      ],
+      "ans": 2,
+      "subject": "English Comprehension"
+    },
+    {
+      "q": "Choose the correct meaning of the idiom \"A piece of cake.\"",
+      "opts": [
+        "Difficult task",
+        "Very easy task",
+        "Expensive item",
+        "Delicious food"
+      ],
+      "ans": 1,
+      "subject": "English Comprehension"
+    },
+    {
+      "q": "Identify the error: \"He is one of the best student in the class.\"",
+      "opts": [
+        "is",
+        "of",
+        "student",
+        "in"
+      ],
+      "ans": 2,
+      "subject": "English Comprehension"
+    },
+    {
+      "q": "The phrase \"Turn a deaf ear\" means:",
+      "opts": [
+        "Listen carefully",
+        "Pretend not to hear",
+        "Lose hearing ability",
+        "Speak loudly"
+      ],
+      "ans": 0,
+      "subject": "English Comprehension"
+    },
+    {
+      "q": "Choose the synonym of \"Abundant.\"",
+      "opts": [
+        "Scarce",
+        "Plentiful",
+        "Limited",
+        "Lacking"
+      ],
+      "ans": 1,
+      "subject": "English Comprehension"
+    },
+    {
+      "q": "Fill in the blank: He has been waiting _______ 2 hours.",
+      "opts": [
+        "since",
+        "for",
+        "from",
+        "until"
+      ],
+      "ans": 1,
+      "subject": "English Comprehension"
+    },
+    {
+      "q": "Select the antonym of \"Genuine.\"",
+      "opts": [
+        "Real",
+        "Authentic",
+        "Fake",
+        "Original"
+      ],
+      "ans": 2,
+      "subject": "English Comprehension"
+    },
+    {
+      "q": "Improve the bracketed part: She (has) a beautiful voice.",
+      "opts": [
+        "have",
+        "is having",
+        "had",
+        "No improvement"
+      ],
+      "ans": 3,
       "subject": "English Comprehension"
     }
   ]

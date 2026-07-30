@@ -1,184 +1,464 @@
 {
   "questions": [
     {
-      "q": "What is the full form of CGL?",
-      "q_hi": "CGL का पूर्ण रूप क्या है?",
+      "q": "Which schedule of the Indian Constitution contains provisions related to the disqualification of members of Parliament on grounds of defection?",
       "opts": [
-        "Combined Graduate Level",
-        "Central Graduate Level",
-        "Combined General Level",
-        "Central General Level"
+        "Eighth Schedule",
+        "Ninth Schedule",
+        "Tenth Schedule",
+        "Eleventh Schedule"
       ],
+      "ans": 2,
+      "subject": "General Awareness",
+      "q_hi": "भारतीय संविधान की किस अनुसूची में दल-बदल के आधार पर संसद सदस्यों की अयोग्यता से संबंधित प्रावधान हैं?",
       "opts_hi": [
-        "संयुक्त स्नातक स्तर",
-        "केंद्रीय स्नातक स्तर",
-        "संयुक्त सामान्य स्तर",
-        "केंद्रीय सामान्य स्तर"
+        "आठवीं अनुसूची",
+        "नौवीं अनुसूची",
+        "दसवीं अनुसूची",
+        "ग्यारहवीं अनुसूची"
       ],
-      "ans": 0,
-      "subject": "General Awareness"
+      "exp_en": "The Tenth Schedule, added by the 52nd Constitutional Amendment Act of 1985, contains the anti-defection provisions for members of Parliament and state legislatures.",
+      "exp_hi": "दसवीं अनुसूची, जिसे 1985 के 52वें संविधान संशोधन अधिनियम द्वारा जोड़ा गया था, में संसद और राज्य विधानमंडलों के सदस्यों के लिए दल-बदल विरोधी प्रावधान हैं।"
     },
     {
-      "q": "Who appoints the Chief Justice of India?",
-      "q_hi": "भारत के मुख्य न्यायाधीश की नियुक्ति कौन करता है?",
+      "q": "The 'Doctrine of Lapse', which led to the annexation of several Indian princely states, was associated with which Governor-General of British India?",
       "opts": [
-        "Prime Minister",
-        "President",
-        "Parliament",
-        "Supreme Court Judges"
+        "Lord Cornwallis",
+        "Lord Wellesley",
+        "Lord Dalhousie",
+        "Lord Canning"
       ],
+      "ans": 2,
+      "subject": "General Awareness",
+      "q_hi": "व्यपगत का सिद्धांत' (Doctrine of Lapse), जिसके कारण कई भारतीय रियासतों का विलय हुआ, ब्रिटिश भारत के किस गवर्नर-जनरल से संबंधित था?",
       "opts_hi": [
-        "प्रधानमंत्री",
-        "राष्ट्रपति",
-        "संसद",
-        "सर्वोच्च न्यायालय के न्यायाधीश"
+        "लॉर्ड कॉर्नवालिस",
+        "लॉर्ड वेलेजली",
+        "लॉर्ड डलहौजी",
+        "लॉर्ड कैनिंग"
+      ],
+      "exp_en": "Lord Dalhousie introduced the Doctrine of Lapse, under which a princely state without a natural male heir would be annexed by the British. States like Jhansi, Satara, and Nagpur were annexed using this doctrine.",
+      "exp_hi": "लॉर्ड डलहौजी ने व्यपगत के सिद्धांत को लागू किया, जिसके अनुसार प्राकृतिक पुरुष उत्तराधिकारी न होने पर रियासत को ब्रिटिश साम्राज्य में मिला लिया जाता था। झाँसी, सतारा और नागपुर जैसी रियासतों को इसी सिद्धांत के तहत हड़पा गया।"
+    },
+    {
+      "q": "In India, the Monetary Policy Committee (MPC) is responsible for fixing which of the following rates?",
+      "opts": [
+        "Cash Reserve Ratio",
+        "Repo Rate",
+        "Statutory Liquidity Ratio",
+        "Bank Rate"
       ],
       "ans": 1,
-      "subject": "General Awareness"
+      "subject": "General Awareness",
+      "q_hi": "भारत में मौद्रिक नीति समिति (MPC) निम्नलिखित में से किस दर को निर्धारित करने के लिए जिम्मेदार है?",
+      "opts_hi": [
+        "नकद आरक्षित अनुपात",
+        "रेपो दर",
+        "वैधानिक तरलता अनुपात",
+        "बैंक दर"
+      ],
+      "exp_en": "The Monetary Policy Committee (MPC), constituted under the RBI Act, is mandated to set the policy repo rate to achieve the inflation target. CRR, SLR, and Bank Rate are decided by the RBI directly.",
+      "exp_hi": "RBI अधिनियम के तहत गठित मौद्रिक नीति समिति (MPC) को मुद्रास्फीति लक्ष्य प्राप्त करने के लिए नीतिगत रेपो दर निर्धारित करने का अधिदेश प्राप्त है। CRR, SLR और बैंक दर सीधे RBI द्वारा तय की जाती हैं।"
     },
     {
-      "q": "What is the SI unit of pressure?",
-      "q_hi": "दबाव की SI इकाई क्या है?",
+      "q": "A person standing in a lift feels heavier than his actual weight. This situation occurs when the lift is —",
       "opts": [
-        "Newton",
-        "Pascal",
-        "Joule",
-        "Watt"
+        "Moving down with uniform speed",
+        "Moving up with uniform speed",
+        "Accelerating downward",
+        "Accelerating upward"
       ],
+      "ans": 3,
+      "subject": "General Awareness",
+      "q_hi": "एक व्यक्ति लिफ्ट में खड़े होने पर अपने वास्तविक वजन से अधिक भारी महसूस करता है। यह स्थिति तब होती है जब लिफ्ट —",
       "opts_hi": [
-        "न्यूटन",
-        "पास्कल",
-        "जूल",
-        "वाट"
+        "एकसमान गति से नीचे जा रही हो",
+        "एकसमान गति से ऊपर जा रही हो",
+        "नीचे की ओर त्वरित हो रही हो",
+        "ऊपर की ओर त्वरित हो रही हो"
+      ],
+      "exp_en": "When a lift accelerates upward, the normal reaction force on the person increases (N = m(g + a)), making the person feel heavier than their actual weight. At uniform speed, apparent weight equals actual weight.",
+      "exp_hi": "जब लिफ्ट ऊपर की ओर त्वरित होती है, तो व्यक्ति पर अभिलम्ब प्रतिक्रिया बल बढ़ जाता है (N = m(g + a)), जिससे व्यक्ति अपने वास्तविक वजन से अधिक भारी महसूस करता है। एकसमान गति पर आभासी वजन, वास्तविक वजन के बराबर होता है।"
+    },
+    {
+      "q": "The Karakoram Pass, one of the highest passes in the world, connects India to which country?",
+      "opts": [
+        "Nepal",
+        "China",
+        "Afghanistan",
+        "Myanmar"
       ],
       "ans": 1,
-      "subject": "General Awareness"
+      "subject": "General Awareness",
+      "q_hi": "काराकोरम दर्रा, जो विश्व के सर्वोच्च दर्रों में से एक है, भारत को किस देश से जोड़ता है?",
+      "opts_hi": [
+        "नेपाल",
+        "चीन",
+        "अफगानिस्तान",
+        "म्यांमार"
+      ],
+      "exp_en": "The Karakoram Pass, situated at an altitude of about 5,540 metres in the Ladakh region, connects India (Ladakh) with China's Xinjiang region. It lies on the ancient Silk Route.",
+      "exp_hi": "काराकोरम दर्रा, लद्दाख क्षेत्र में लगभग 5,540 मीटर की ऊँचाई पर स्थित है और यह भारत (लद्दाख) को चीन के शिनजियांग क्षेत्र से जोड़ता है। यह प्राचीन सिल्क रूट पर स्थित है।"
     },
     {
-      "q": "Which article of Indian Constitution deals with Right to Equality?",
-      "q_hi": "भारतीय संविधान का कौन सा अनुच्छेद समानता के अधिकार से संबंधित है?",
+      "q": "The 'Doctrine of Lapse', used to annex princely states in India, was primarily associated with which Governor-General?",
       "opts": [
-        "Article 12",
+        "Lord Wellesley",
+        "Lord Dalhousie",
+        "Lord Cornwallis",
+        "Lord Hastings"
+      ],
+      "ans": 1,
+      "subject": "General Awareness",
+      "q_hi": "हड़प नीति' (डॉक्ट्रिन ऑफ लैप्स), जिसका उपयोग भारत में रियासतों को हड़पने के लिए किया गया, मुख्य रूप से किस गवर्नर-जनरल से संबंधित है?",
+      "opts_hi": [
+        "लॉर्ड वेलेजली",
+        "लॉर्ड डलहौजी",
+        "लॉर्ड कार्नवालिस",
+        "लॉर्ड हेस्टिंग्स"
+      ],
+      "exp_en": "The Doctrine of Lapse was a policy introduced by Lord Dalhousie (1848–1856), under which any princely state with no natural male heir would be annexed by the British East India Company.",
+      "exp_hi": "हड़प नीति लॉर्ड डलहौजी (1848–1856) द्वारा लागू की गई नीति थी, जिसके तहत किसी भी रियासत में प्राकृतिक पुरुष उत्तराधिकारी न होने पर उसे ब्रिटिश ईस्ट इंडिया कंपनी में मिला लिया जाता था।"
+    },
+    {
+      "q": "In India, the Monetary Policy Committee (MPC) is responsible for setting which key interest rate?",
+      "opts": [
+        "Bank Rate",
+        "Repo Rate",
+        "Cash Reserve Ratio",
+        "Statutory Liquidity Ratio"
+      ],
+      "ans": 1,
+      "subject": "General Awareness",
+      "q_hi": "भारत में, मौद्रिक नीति समिति (MPC) किस प्रमुख ब्याज दर को निर्धारित करने के लिए उत्तरदायी है?",
+      "opts_hi": [
+        "बैंक दर",
+        "रेपो दर",
+        "नकद आरक्षित अनुपात",
+        "वैधानिक तरलता अनुपात"
+      ],
+      "exp_en": "The Monetary Policy Committee (MPC), constituted under the RBI Act, 1934, is mandated to set the policy repo rate to achieve the inflation target set by the Government of India.",
+      "exp_hi": "RBI अधिनियम, 1934 के तहत गठित मौद्रिक नीति समिति (MPC) को भारत सरकार द्वारा निर्धारित मुद्रास्फीति लक्ष्य को प्राप्त करने के लिए नीतिगत रेपो दर तय करने का अधिदेश दिया गया है।"
+    },
+    {
+      "q": "Which phenomenon explains why the sky appears blue during the day?",
+      "opts": [
+        "Total Internal Reflection",
+        "Diffraction",
+        "Rayleigh Scattering",
+        "Refraction"
+      ],
+      "ans": 2,
+      "subject": "General Awareness",
+      "q_hi": "कौन-सी घटना यह बताती है कि दिन के दौरान आकाश नीला क्यों दिखाई देता है?",
+      "opts_hi": [
+        "पूर्ण आंतरिक परावर्तन",
+        "विवर्तन",
+        "रेले प्रकीर्णन",
+        "अपवर्तन"
+      ],
+      "exp_en": "Rayleigh Scattering explains the blue colour of the sky — shorter wavelengths of light (blue) are scattered much more than longer wavelengths (red) by atmospheric gas molecules, making the sky appear blue.",
+      "exp_hi": "रेले प्रकीर्णन आकाश के नीले रंग की व्याख्या करता है — वायुमंडलीय गैस के अणुओं द्वारा प्रकाश की छोटी तरंगदैर्घ्य (नीली) को लंबी तरंगदैर्घ्य (लाल) की तुलना में बहुत अधिक प्रकीर्णित किया जाता है, जिससे आकाश नीला दिखता है।"
+    },
+    {
+      "q": "The 'Loktak Lake', the largest freshwater lake in northeastern India, is located in which state?",
+      "opts": [
+        "Assam",
+        "Meghalaya",
+        "Tripura",
+        "Manipur"
+      ],
+      "ans": 3,
+      "subject": "General Awareness",
+      "q_hi": "उत्तर-पूर्वी भारत की सबसे बड़ी मीठे पानी की झील 'लोकतक झील' किस राज्य में स्थित है?",
+      "opts_hi": [
+        "असम",
+        "मेघालय",
+        "त्रिपुरा",
+        "मणिपुर"
+      ],
+      "exp_en": "Loktak Lake, located in Manipur, is the largest natural freshwater lake in northeastern India and is known for its unique floating islands called 'phumdis'.",
+      "exp_hi": "मणिपुर में स्थित लोकतक झील उत्तर-पूर्वी भारत की सबसे बड़ी प्राकृतिक मीठे पानी की झील है और यह 'फुमदी' कहलाने वाले अपने अनोखे तैरते द्वीपों के लिए प्रसिद्ध है।"
+    },
+    {
+      "q": "Who founded the Indian National Congress in 1885?",
+      "opts": [
+        "Lord Dufferin",
+        "A.O. Hume",
+        "Dadabhai Naoroji",
+        "W.C. Bonnerjee"
+      ],
+      "ans": 1,
+      "subject": "General Awareness",
+      "q_hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना किसने की?",
+      "opts_hi": [
+        "लॉर्ड डफरिन",
+        "ए.ओ. ह्यूम",
+        "दादाभाई नौरोजी",
+        "डब्ल्यू.सी. बोनर्जी"
+      ],
+      "exp_en": "The Indian National Congress was founded by Allan Octavian Hume, a retired British civil servant, in 1885. The first session was held in Bombay with W.C. Bonnerjee as the first President.",
+      "exp_hi": "भारतीय राष्ट्रीय कांग्रेस की स्थापना 1885 में एक सेवानिवृत्त ब्रिटिश सिविल सेवक एलन ऑक्टेवियन ह्यूम ने की थी। पहला अधिवेशन बॉम्बे में हुआ था जिसके पहले अध्यक्ष डब्ल्यू.सी. बोनर्जी थे।"
+    },
+    {
+      "q": "The Doctrine of Lapse was introduced by which Governor-General?",
+      "opts": [
+        "Lord Wellesley",
+        "Lord Hastings",
+        "Lord Dalhousie",
+        "Lord Canning"
+      ],
+      "ans": 2,
+      "subject": "General Awareness",
+      "q_hi": "व्यपगत का सिद्धांत (Doctrine of Lapse) किस गवर्नर-जनरल द्वारा लागू किया गया था?",
+      "opts_hi": [
+        "लॉर्ड वेलेस्ली",
+        "लॉर्ड हेस्टिंग्स",
+        "लॉर्ड डलहौजी",
+        "लॉर्ड कैनिंग"
+      ],
+      "exp_en": "Lord Dalhousie introduced the Doctrine of Lapse (1848-1856). Under this policy, if an Indian ruler died without a male heir, his kingdom would \"lapse\" and be annexed by the British.",
+      "exp_hi": "लॉर्ड डलहौजी ने व्यपगत के सिद्धांत (1848-1856) को लागू किया। इस नीति के तहत, यदि किसी भारतीय शासक की मृत्यु पुरुष उत्तराधिकारी के बिना हो जाती थी, तो उसका राज्य ब्रिटिश साम्राज्य में मिला लिया जाता था।"
+    },
+    {
+      "q": "Who was the Chairman of the Drafting Committee of the Indian Constitution?",
+      "opts": [
+        "Jawaharlal Nehru",
+        "B.R. Ambedkar",
+        "Rajendra Prasad",
+        "Sardar Patel"
+      ],
+      "ans": 1,
+      "subject": "General Awareness",
+      "q_hi": "भारतीय संविधान के प्रारूप समिति के अध्यक्ष कौन थे?",
+      "opts_hi": [
+        "जवाहरलाल नेहरू",
+        "बी.आर. अम्बेडकर",
+        "राजेन्द्र प्रसाद",
+        "सरदार पटेल"
+      ],
+      "exp_en": "Dr. B.R. Ambedkar was the Chairman of the Drafting Committee. He is regarded as the chief architect of the Indian Constitution. Article 32 was called the 'heart and soul' of the Constitution by him .",
+      "exp_hi": "डॉ. बी.आर. अम्बेडकर प्रारूप समिति के अध्यक्ष थे। उन्हें भारतीय संविधान का मुख्य वास्तुकार माना जाता है। अनुच्छेद 32 को उन्होंने संविधान की 'आत्मा' कहा था ।"
+    },
+    {
+      "q": "Which Article of the Indian Constitution deals with the Right to Constitutional Remedies?",
+      "opts": [
         "Article 14",
         "Article 19",
-        "Article 21"
+        "Article 21",
+        "Article 32"
       ],
+      "ans": 3,
+      "subject": "General Awareness",
+      "q_hi": "भारतीय संविधान का कौन सा अनुच्छेद संवैधानिक उपचारों के अधिकार से संबंधित है?",
       "opts_hi": [
-        "अनुच्छेद 12",
         "अनुच्छेद 14",
         "अनुच्छेद 19",
-        "अनुच्छेद 21"
+        "अनुच्छेद 21",
+        "अनुच्छेद 32"
+      ],
+      "exp_en": "Article 32 grants the right to move the Supreme Court for the enforcement of Fundamental Rights. Dr. Ambedkar called it the 'heart and soul' of the Constitution .",
+      "exp_hi": "अनुच्छेद 32 मौलिक अधिकारों के प्रवर्तन के लिए सर्वोच्च न्यायालय में जाने का अधिकार देता है। डॉ. अम्बेडकर ने इसे संविधान की 'आत्मा' कहा था ।"
+    },
+    {
+      "q": "The river known as the 'Sorrow of Bengal' is?",
+      "opts": [
+        "Ganga",
+        "Brahmaputra",
+        "Damodar",
+        "Mahanadi"
+      ],
+      "ans": 2,
+      "subject": "General Awareness",
+      "q_hi": "बंगाल का शोक' नाम से प्रसिद्ध नदी कौन सी है?",
+      "opts_hi": [
+        "गंगा",
+        "ब्रह्मपुत्र",
+        "दामोदर",
+        "महानदी"
+      ],
+      "exp_en": "The Damodar River is known as the 'Sorrow of Bengal' because of the frequent and severe floods it used to cause in West Bengal.",
+      "exp_hi": "दामोदर नदी को 'बंगाल का शोक' कहा जाता है क्योंकि यह पश्चिम बंगाल में बार-बार और गंभीर बाढ़ लाती थी।"
+    },
+    {
+      "q": "Which state is the largest producer of coffee in India?",
+      "opts": [
+        "Kerala",
+        "Tamil Nadu",
+        "Karnataka",
+        "Andhra Pradesh"
+      ],
+      "ans": 2,
+      "subject": "General Awareness",
+      "q_hi": "भारत में कॉफी का सबसे बड़ा उत्पादक राज्य कौन सा है?",
+      "opts_hi": [
+        "केरल",
+        "तमिलनाडु",
+        "कर्नाटक",
+        "आंध्र प्रदेश"
+      ],
+      "exp_en": "Karnataka is the largest producer of coffee in India, accounting for more than 70% of the total production, followed by Kerala and Tamil Nadu.",
+      "exp_hi": "कर्नाटक भारत में कॉफी का सबसे बड़ा उत्पादक राज्य है, जो कुल उत्पादन का 70% से अधिक है। इसके बाद केरल और तमिलनाडु का स्थान है।"
+    },
+    {
+      "q": "Which vitamin is known as the 'Sunshine Vitamin'?",
+      "opts": [
+        "Vitamin A",
+        "Vitamin B",
+        "Vitamin C",
+        "Vitamin D"
+      ],
+      "ans": 3,
+      "subject": "General Awareness",
+      "q_hi": "किस विटामिन को 'सनशाइन विटामिन' कहा जाता है?",
+      "opts_hi": [
+        "विटामिन ए",
+        "विटामिन बी",
+        "विटामिन सी",
+        "विटामिन डी"
+      ],
+      "exp_en": "Vitamin D is known as the 'Sunshine Vitamin' because it can be synthesized by the human body when exposed to sunlight (UV rays).",
+      "exp_hi": "विटामिन डी को 'सनशाइन विटामिन' कहा जाता है क्योंकि यह सूर्य के प्रकाश (यूवी किरणों) के संपर्क में आने पर मानव शरीर द्वारा संश्लेषित किया जा सकता है।"
+    },
+    {
+      "q": "The SI unit of electric current is?",
+      "opts": [
+        "Volt",
+        "Ampere",
+        "Ohm",
+        "Watt"
       ],
       "ans": 1,
-      "subject": "General Awareness"
+      "subject": "General Awareness",
+      "q_hi": "विद्युत धारा का SI मात्रक क्या है?",
+      "opts_hi": [
+        "वोल्ट",
+        "एम्पीयर",
+        "ओम",
+        "वाट"
+      ],
+      "exp_en": "The SI unit of electric current is Ampere (A). Volt is for voltage, Ohm for resistance, and Watt for power.",
+      "exp_hi": "विद्युत धारा का SI मात्रक एम्पीयर (A) है। वोल्ट वोल्टेज के लिए, ओम प्रतिरोध के लिए और वाट शक्ति के लिए है।"
     },
     {
-      "q": "The Quit India Movement was launched in which year?",
-      "q_hi": "भारत छोड़ो आंदोलन किस वर्ष शुरू हुआ था?",
+      "q": "In India, the concept of 'Budget' is mentioned in which Article of the Constitution?",
       "opts": [
-        "1940",
-        "1941",
-        "1942",
-        "1943"
-      ],
-      "opts_hi": [
-        "1940",
-        "1941",
-        "1942",
-        "1943"
-      ],
-      "ans": 2,
-      "subject": "General Awareness"
-    },
-    {
-      "q": "Which gas is used in electric bulbs?",
-      "q_hi": "विद्युत बल्बों में कौन सी गैस का उपयोग होता है?",
-      "opts": [
-        "Oxygen",
-        "Nitrogen",
-        "Argon",
-        "Hydrogen"
-      ],
-      "opts_hi": [
-        "ऑक्सीजन",
-        "नाइट्रोजन",
-        "आर्गन",
-        "हाइड्रोजन"
-      ],
-      "ans": 2,
-      "subject": "General Awareness"
-    },
-    {
-      "q": "The Preamble of the Indian Constitution was amended in which year?",
-      "q_hi": "भारतीय संविधान की प्रस्तावना किस वर्ष संशोधित की गई थी?",
-      "opts": [
-        "1971",
-        "1974",
-        "1976",
-        "1978"
-      ],
-      "opts_hi": [
-        "1971",
-        "1974",
-        "1976",
-        "1978"
-      ],
-      "ans": 2,
-      "subject": "General Awareness"
-    },
-    {
-      "q": "Which planet has the most moons?",
-      "q_hi": "किस ग्रह के सबसे अधिक चंद्रमा हैं?",
-      "opts": [
-        "Jupiter",
-        "Saturn",
-        "Uranus",
-        "Neptune"
-      ],
-      "opts_hi": [
-        "बृहस्पति",
-        "शनि",
-        "अरुण",
-        "वरुण"
+        "Article 110",
+        "Article 112",
+        "Article 265",
+        "Article 360"
       ],
       "ans": 1,
-      "subject": "General Awareness"
+      "subject": "General Awareness",
+      "q_hi": "भारत में, 'बजट' की अवधारणा संविधान के किस अनुच्छेद में उल्लिखित है?",
+      "opts_hi": [
+        "अनुच्छेद 110",
+        "अनुच्छेद 112",
+        "अनुच्छेद 265",
+        "अनुच्छेद 360"
+      ],
+      "exp_en": "Article 112 of the Indian Constitution deals with the Annual Financial Statement (Budget). It is a statement of the estimated receipts and expenditure of the government for a financial year .",
+      "exp_hi": "भारतीय संविधान का अनुच्छेद 112 वार्षिक वित्तीय विवरण (बजट) से संबंधित है। यह सरकार की अनुमानित प्राप्तियों और व्यय का कथन है ।"
     },
     {
-      "q": "SEBI stands for?",
-      "q_hi": "SEBI का पूर्ण रूप क्या है?",
+      "q": "Who is the ex-officio Chairman of the Rajya Sabha?",
       "opts": [
-        "Securities Exchange Board of India",
-        "Stock Exchange Bureau of India",
-        "Securities and Exchange Board of India",
-        "State Exchange Board of India"
-      ],
-      "opts_hi": [
-        "भारतीय प्रतिभूति विनिमय बोर्ड",
-        "स्टॉक एक्सचेंज ब्यूरो ऑफ इंडिया",
-        "भारतीय प्रतिभूति एवं विनिमय बोर्ड",
-        "राज्य विनिमय बोर्ड ऑफ इंडिया"
+        "Prime Minister",
+        "Speaker of Lok Sabha",
+        "Vice President",
+        "President"
       ],
       "ans": 2,
-      "subject": "General Awareness"
+      "subject": "General Awareness",
+      "q_hi": "राज्यसभा का पदेन सभापति कौन होता है?",
+      "opts_hi": [
+        "प्रधान मंत्री",
+        "लोकसभा अध्यक्ष",
+        "उपराष्ट्रपति",
+        "राष्ट्रपति"
+      ],
+      "exp_en": "The Vice President of India is the ex-officio Chairman of the Rajya Sabha. He presides over the proceedings of the Rajya Sabha.",
+      "exp_hi": "भारत के उपराष्ट्रपति राज्यसभा के पदेन सभापति होते हैं। वे राज्यसभा की कार्यवाही की अध्यक्षता करते हैं।"
     },
     {
-      "q": "Speed of sound in air is approximately?",
-      "q_hi": "वायु में ध्वनि की गति लगभग कितनी है?",
+      "q": "The famous 'Konark Sun Temple' is located in which state?",
       "opts": [
-        "232 m/s",
-        "332 m/s",
-        "432 m/s",
-        "532 m/s"
+        "Odisha",
+        "West Bengal",
+        "Tamil Nadu",
+        "Uttar Pradesh"
       ],
+      "ans": 0,
+      "subject": "General Awareness",
+      "q_hi": "प्रसिद्ध 'कोणार्क सूर्य मंदिर' किस राज्य में स्थित है?",
       "opts_hi": [
-        "232 मी/से",
-        "332 मी/से",
-        "432 मी/से",
-        "532 मी/से"
+        "ओडिशा",
+        "पश्चिम बंगाल",
+        "तमिलनाडु",
+        "उत्तर प्रदेश"
+      ],
+      "exp_en": "The Konark Sun Temple is located in Odisha. It was built by King Narasimhadeva I of the Eastern Ganga dynasty in the 13th century and is shaped like a colossal chariot.",
+      "exp_hi": "कोणार्क सूर्य मंदिर ओडिशा में स्थित है। इसे 13वीं शताब्दी में पूर्वी गंगा वंश के राजा नरसिंहदेव प्रथम ने बनवाया था और यह एक विशाल रथ के आकार का है।"
+    },
+    {
+      "q": "Who is the author of the book 'The Discovery of India'?",
+      "opts": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Rabindranath Tagore",
+        "B.R. Ambedkar"
       ],
       "ans": 1,
-      "subject": "General Awareness"
+      "subject": "General Awareness",
+      "q_hi": "द डिस्कवरी ऑफ इंडिया' पुस्तक के लेखक कौन हैं?",
+      "opts_hi": [
+        "महात्मा गांधी",
+        "जवाहरलाल नेहरू",
+        "रवींद्रनाथ टैगोर",
+        "बी.आर. अम्बेडकर"
+      ],
+      "exp_en": "The Discovery of India' was written by Jawaharlal Nehru during his imprisonment in the 1940s. It provides a comprehensive view of India's history, philosophy, and culture.",
+      "exp_hi": "द डिस्कवरी ऑफ इंडिया' जवाहरलाल नेहरू द्वारा 1940 के दशक में उनकी कारावास अवधि के दौरान लिखी गई थी। यह भारत के इतिहास, दर्शन और संस्कृति का व्यापक दृष्टिकोण प्रस्तुत करती है।"
+    },
+    {
+      "q": "Which Indian athlete won the first individual gold medal for India in the Olympics?",
+      "opts": [
+        "Milkha Singh",
+        "P.T. Usha",
+        "Abhinav Bindra",
+        "Neeraj Chopra"
+      ],
+      "ans": 2,
+      "subject": "General Awareness",
+      "q_hi": "किस भारतीय खिलाड़ी ने ओलंपिक में भारत के लिए पहला व्यक्तिगत स्वर्ण पदक जीता?",
+      "opts_hi": [
+        "मिल्खा सिंह",
+        "पी.टी. उषा",
+        "अभिनव बिंद्रा",
+        "नीरज चोपड़ा"
+      ],
+      "exp_en": "Abhinav Bindra won the first individual gold medal for India in the 2008 Beijing Olympics in the 10m Air Rifle shooting event.",
+      "exp_hi": "अभिनव बिंद्रा ने 2008 बीजिंग ओलंपिक में 10 मीटर एयर राइफल निशानेबाजी स्पर्धा में भारत के लिए पहला व्यक्तिगत स्वर्ण पदक जीता था।"
+    },
+    {
+      "q": "Which day is celebrated as 'Constitution Day' in India?",
+      "opts": [
+        "15 August",
+        "26 January",
+        "26 November",
+        "2 October"
+      ],
+      "ans": 2,
+      "subject": "General Awareness",
+      "q_hi": "भारत में 'संविधान दिवस' किस दिन मनाया जाता है?",
+      "opts_hi": [
+        "15 अगस्त",
+        "26 जनवरी",
+        "26 नवंबर",
+        "2 अक्टूबर"
+      ],
+      "exp_en": "26 November is celebrated as Constitution Day to commemorate the adoption of the Constitution of India in 1949. It came into effect on 26 January 1950 .",
+      "exp_hi": "26 नवंबर को 1949 में भारतीय संविधान को अपनाने की स्मृति में संविधान दिवस के रूप में मनाया जाता है। यह 26 जनवरी 1950 को लागू हुआ था ।"
     },
     {
       "q": "Who is known as the \"Father of the Indian Constitution\"?",
@@ -487,6 +767,24 @@
       "subject": "General Knowledge"
     },
     {
+      "q": "Which of the following is the most abundant gas in the Earth's atmosphere?",
+      "q_hi": "पृथ्वी के वायुमंडल में सबसे प्रचुर मात्रा में पाई जाने वाली गैस निम्नलिखित में से कौन सी है?",
+      "opts": [
+        "Oxygen",
+        "Carbon Dioxide",
+        "Nitrogen",
+        "Argon"
+      ],
+      "opts_hi": [
+        "ऑक्सीजन",
+        "कार्बन डाइऑक्साइड",
+        "नाइट्रोजन",
+        "आर्गन"
+      ],
+      "ans": 2,
+      "subject": "General Awareness"
+    },
+    {
       "q": "Which state is the largest producer of sugarcane in India?",
       "q_hi": "भारत में सबसे बड़ा गन्ना उत्पादक राज्य कौन सा है?",
       "opts": [
@@ -557,6 +855,474 @@
       ],
       "ans": 2,
       "subject": "General Knowledge"
+    },
+    {
+      "q": "Which of the following is the capital of France?",
+      "q_hi": "निम्नलिखित में से फ्रांस की राजधानी कौन सी है?",
+      "opts": [
+        "London",
+        "Paris",
+        "Berlin",
+        "Madrid"
+      ],
+      "opts_hi": [
+        "लंदन",
+        "पेरिस",
+        "बर्लिन",
+        "मैड्रिड"
+      ],
+      "ans": 1,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "The largest ocean in the world is:",
+      "q_hi": "विश्व का सबसे बड़ा महासागर कौन सा है?",
+      "opts": [
+        "Atlantic",
+        "Indian",
+        "Arctic",
+        "Pacific"
+      ],
+      "opts_hi": [
+        "अटलांटिक",
+        "हिंद",
+        "आर्कटिक",
+        "प्रशांत"
+      ],
+      "ans": 3,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "Who wrote the national anthem of India?",
+      "q_hi": "भारत का राष्ट्रगान किसने लिखा?",
+      "opts": [
+        "Rabindranath Tagore",
+        "Bankim Chandra",
+        "Subhash Chandra Bose",
+        "Mahatma Gandhi"
+      ],
+      "opts_hi": [
+        "रवीन्द्रनाथ टैगोर",
+        "बंकिम चंद्र",
+        "सुभाष चंद्र बोस",
+        "महात्मा गांधी"
+      ],
+      "ans": 0,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "Which of the following is NOT a type of computer memory?",
+      "q_hi": "निम्नलिखित में से कौन सा कंप्यूटर मेमोरी का प्रकार नहीं है?",
+      "opts": [
+        "RAM",
+        "ROM",
+        "CPU",
+        "Cache"
+      ],
+      "opts_hi": [
+        "RAM",
+        "ROM",
+        "CPU",
+        "Cache"
+      ],
+      "ans": 2,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "Which planet is nearest to the Sun?",
+      "q_hi": "सूर्य के सबसे निकट ग्रह कौन सा है?",
+      "opts": [
+        "Venus",
+        "Earth",
+        "Mercury",
+        "Mars"
+      ],
+      "opts_hi": [
+        "शुक्र",
+        "पृथ्वी",
+        "बुध",
+        "मंगल"
+      ],
+      "ans": 2,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "What is the full form of CPU?",
+      "q_hi": "CPU का पूर्ण रूप क्या है?",
+      "opts": [
+        "Central Processing Unit",
+        "Computer Processing Unit",
+        "Central Program Unit",
+        "Computer Program Unit"
+      ],
+      "opts_hi": [
+        "सेंट्रल प्रोसेसिंग यूनिट",
+        "कंप्यूटर प्रोसेसिंग यूनिट",
+        "सेंट्रल प्रोग्राम यूनिट",
+        "कंप्यूटर प्रोग्राम यूनिट"
+      ],
+      "ans": 0,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "What is the capital of Australia?",
+      "q_hi": "ऑस्ट्रेलिया की राजधानी क्या है?",
+      "opts": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Brisbane"
+      ],
+      "opts_hi": [
+        "सिडनी",
+        "मेलबर्न",
+        "कैनबरा",
+        "ब्रिस्बेन"
+      ],
+      "ans": 2,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "Which gas is used in fire extinguishers?",
+      "q_hi": "अग्निशामक यंत्रों में कौन सी गैस का उपयोग किया जाता है?",
+      "opts": [
+        "Oxygen",
+        "Carbon Dioxide",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "opts_hi": [
+        "ऑक्सीजन",
+        "कार्बन डाइऑक्साइड",
+        "नाइट्रोजन",
+        "हाइड्रोजन"
+      ],
+      "ans": 1,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "The currency of Japan is:",
+      "q_hi": "जापान की मुद्रा है:",
+      "opts": [
+        "Yuan",
+        "Won",
+        "Yen",
+        "Ringgit"
+      ],
+      "opts_hi": [
+        "युआन",
+        "वोन",
+        "येन",
+        "रिंगित"
+      ],
+      "ans": 2,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "Which country has the largest population?",
+      "q_hi": "किस देश की जनसंख्या सबसे अधिक है?",
+      "opts": [
+        "India",
+        "China",
+        "USA",
+        "Indonesia"
+      ],
+      "opts_hi": [
+        "भारत",
+        "चीन",
+        "यूएसए",
+        "इंडोनेशिया"
+      ],
+      "ans": 0,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "Which of the following is a primary color?",
+      "q_hi": "निम्नलिखित में से कौन सा प्राथमिक रंग है?",
+      "opts": [
+        "Red",
+        "Green",
+        "Yellow",
+        "All of the above"
+      ],
+      "opts_hi": [
+        "लाल",
+        "हरा",
+        "पीला",
+        "उपरोक्त सभी"
+      ],
+      "ans": 0,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "Which state is known as the 'Land of Five Rivers'?",
+      "q_hi": "'पाँच नदियों की भूमि' के रूप में कौन सा राज्य जाना जाता है?",
+      "opts": [
+        "Punjab",
+        "Haryana",
+        "Rajasthan",
+        "Uttar Pradesh"
+      ],
+      "opts_hi": [
+        "पंजाब",
+        "हरियाणा",
+        "राजस्थान",
+        "उत्तर प्रदेश"
+      ],
+      "ans": 0,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "What is the chemical symbol of Gold?",
+      "q_hi": "सोने का रासायनिक प्रतीक क्या है?",
+      "opts": [
+        "Ag",
+        "Au",
+        "Fe",
+        "Cu"
+      ],
+      "opts_hi": [
+        "Ag",
+        "Au",
+        "Fe",
+        "Cu"
+      ],
+      "ans": 1,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "Which is the largest desert in the world?",
+      "q_hi": "विश्व का सबसे बड़ा रेगिस्तान कौन सा है?",
+      "opts": [
+        "Sahara",
+        "Gobi",
+        "Kalahari",
+        "Atacama"
+      ],
+      "opts_hi": [
+        "सहारा",
+        "गोबी",
+        "कालाहारी",
+        "अटाकामा"
+      ],
+      "ans": 0,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "The 'Nobel Prize' is awarded in how many categories?",
+      "q_hi": "'नोबेल पुरस्कार' कितनी श्रेणियों में प्रदान किया जाता है?",
+      "opts": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "opts_hi": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "ans": 1,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "Which gas is known as 'Laughing Gas'?",
+      "q_hi": "किस गैस को 'लाफिंग गैस' के नाम से जाना जाता है?",
+      "opts": [
+        "Oxygen",
+        "Nitrogen",
+        "Nitrous Oxide",
+        "Hydrogen"
+      ],
+      "opts_hi": [
+        "ऑक्सीजन",
+        "नाइट्रोजन",
+        "नाइट्रस ऑक्साइड",
+        "हाइड्रोजन"
+      ],
+      "ans": 2,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "Which is the longest river in India?",
+      "q_hi": "भारत की सबसे लंबी नदी कौन सी है?",
+      "opts": [
+        "Ganga",
+        "Brahmaputra",
+        "Godavari",
+        "Yamuna"
+      ],
+      "opts_hi": [
+        "गंगा",
+        "ब्रह्मपुत्र",
+        "गोदावरी",
+        "यमुना"
+      ],
+      "ans": 0,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "Which of the following is a metal?",
+      "q_hi": "निम्नलिखित में से कौन सा धातु है?",
+      "opts": [
+        "Oxygen",
+        "Gold",
+        "Carbon",
+        "Nitrogen"
+      ],
+      "opts_hi": [
+        "ऑक्सीजन",
+        "सोना",
+        "कार्बन",
+        "नाइट्रोजन"
+      ],
+      "ans": 1,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "What is the full form of CGL?",
+      "q_hi": "CGL का पूर्ण रूप क्या है?",
+      "opts": [
+        "Combined Graduate Level",
+        "Central Graduate Level",
+        "Combined General Level",
+        "Central General Level"
+      ],
+      "opts_hi": [
+        "संयुक्त स्नातक स्तर",
+        "केंद्रीय स्नातक स्तर",
+        "संयुक्त सामान्य स्तर",
+        "केंद्रीय सामान्य स्तर"
+      ],
+      "ans": 0,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "Who appoints the Chief Justice of India?",
+      "q_hi": "भारत के मुख्य न्यायाधीश की नियुक्ति कौन करता है?",
+      "opts": [
+        "Prime Minister",
+        "President",
+        "Parliament",
+        "Supreme Court Judges"
+      ],
+      "opts_hi": [
+        "प्रधानमंत्री",
+        "राष्ट्रपति",
+        "संसद",
+        "सर्वोच्च न्यायालय के न्यायाधीश"
+      ],
+      "ans": 1,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "What is the SI unit of pressure?",
+      "q_hi": "दबाव की SI इकाई क्या है?",
+      "opts": [
+        "Newton",
+        "Pascal",
+        "Joule",
+        "Watt"
+      ],
+      "opts_hi": [
+        "न्यूटन",
+        "पास्कल",
+        "जूल",
+        "वाट"
+      ],
+      "ans": 1,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "Which article of Indian Constitution deals with Right to Equality?",
+      "q_hi": "भारतीय संविधान का कौन सा अनुच्छेद समानता के अधिकार से संबंधित है?",
+      "opts": [
+        "Article 12",
+        "Article 14",
+        "Article 19",
+        "Article 21"
+      ],
+      "opts_hi": [
+        "अनुच्छेद 12",
+        "अनुच्छेद 14",
+        "अनुच्छेद 19",
+        "अनुच्छेद 21"
+      ],
+      "ans": 1,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "The Quit India Movement was launched in which year?",
+      "q_hi": "भारत छोड़ो आंदोलन किस वर्ष शुरू हुआ था?",
+      "opts": [
+        "1940",
+        "1941",
+        "1942",
+        "1943"
+      ],
+      "opts_hi": [
+        "1940",
+        "1941",
+        "1942",
+        "1943"
+      ],
+      "ans": 2,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "Which gas is used in electric bulbs?",
+      "q_hi": "विद्युत बल्बों में कौन सी गैस का उपयोग होता है?",
+      "opts": [
+        "Oxygen",
+        "Nitrogen",
+        "Argon",
+        "Hydrogen"
+      ],
+      "opts_hi": [
+        "ऑक्सीजन",
+        "नाइट्रोजन",
+        "आर्गन",
+        "हाइड्रोजन"
+      ],
+      "ans": 2,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "SEBI stands for?",
+      "q_hi": "SEBI का पूर्ण रूप क्या है?",
+      "opts": [
+        "Securities Exchange Board of India",
+        "Stock Exchange Bureau of India",
+        "Securities and Exchange Board of India",
+        "State Exchange Board of India"
+      ],
+      "opts_hi": [
+        "भारतीय प्रतिभूति विनिमय बोर्ड",
+        "स्टॉक एक्सचेंज ब्यूरो ऑफ इंडिया",
+        "भारतीय प्रतिभूति एवं विनिमय बोर्ड",
+        "राज्य विनिमय बोर्ड ऑफ इंडिया"
+      ],
+      "ans": 2,
+      "subject": "General Awareness"
+    },
+    {
+      "q": "Speed of sound in air is approximately?",
+      "q_hi": "वायु में ध्वनि की गति लगभग कितनी है?",
+      "opts": [
+        "232 m/s",
+        "332 m/s",
+        "432 m/s",
+        "532 m/s"
+      ],
+      "opts_hi": [
+        "232 मी/से",
+        "332 मी/से",
+        "432 मी/से",
+        "532 मी/से"
+      ],
+      "ans": 1,
+      "subject": "General Awareness"
     },
     {
       "q": "Which of the following is the most abundant gas in the Earth's atmosphere?",
