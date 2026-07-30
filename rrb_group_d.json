@@ -441,6 +441,24 @@
           "subject": "General Science"
         },
         {
+          "q": "The refractive index of diamond is approximately:",
+          "q_hi": "हीरे का अपवर्तनांक लगभग कितना है?",
+          "opts": [
+            1.33,
+            2.42,
+            1.52,
+            2
+          ],
+          "opts_hi": [
+            1.33,
+            2.42,
+            1.52,
+            2
+          ],
+          "ans": 1,
+          "subject": "General Science"
+        },
+        {
           "q": "LCM of 15 and 20 is?",
           "q_hi": "15 और 20 का लघुत्तम समापवर्त्य (LCM) है?",
           "opts": [
