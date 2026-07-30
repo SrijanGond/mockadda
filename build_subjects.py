@@ -32,6 +32,7 @@ SUBJECT_ALIASES = {
     "english language": "English Comprehension",
     "general english": "English Comprehension",
     "general intelligence & reasoning": "General Intelligence & Reasoning",
+    "general intelligence": "General Intelligence & Reasoning",
     "reasoning": "General Intelligence & Reasoning",
     "polity": "Polity",
     "economics": "Economics",
