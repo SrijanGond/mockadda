@@ -3241,6 +3241,24 @@
           "subject": "General Intelligence & Reasoning"
         },
         {
+          "q": "Six friends A, B, C, D, E and F are sitting in a circle facing the center. A is between D and F. B is between E and C. C is second to the right of A. Who is sitting opposite to A?",
+          "q_hi": "छह मित्र A, B, C, D, E और F केंद्र की ओर मुख करके एक वृत्त में बैठे हैं। A, D और F के बीच में है। B, E और C के बीच में है। C, A के दाईं ओर दूसरे स्थान पर है। A के विपरीत कौन बैठा है?",
+          "opts": [
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "opts_hi": [
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
           "q": "Which river is known as the 'Sorrow of Bihar'?",
           "q_hi": "किस नदी को 'बिहार का शोक' कहा जाता है?",
           "opts": [
