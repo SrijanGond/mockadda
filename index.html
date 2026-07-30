@@ -1305,6 +1305,20 @@ function buildQuestionPalette(qs,sections,accent){
       if(clickable) tabBtn.addEventListener('click',()=>goQ(sec.indices[0]));
       tabWrap.appendChild(tabBtn);
     });
+    // A section belongs to this exam's official pattern (EXAM_CONTENT) but has
+    // zero live questions yet — show it as a disabled "coming soon" tab rather
+    // than silently omitting it, so it's clear the section is planned, not
+    // missing by mistake.
+    const officialSections = EXAM_CONTENT[S.activeExamKey] ? EXAM_CONTENT[S.activeExamKey].sections : [];
+    const liveSubjects = new Set(sections.map(sec=>sec.subject));
+    officialSections.forEach(off=>{
+      if(liveSubjects.has(off.name)) return;
+      tabWrap.appendChild(el('button',{
+        css:`padding:8px 14px;border-radius:8px;border:1.5px dashed ${CBT.border};background:transparent;color:${CBT.muted};font-size:12px;font-weight:700;cursor:not-allowed;`,
+        text:off.name+' — coming soon',
+        title:'No questions added for this section yet'
+      }));
+    });
     wrap.appendChild(tabWrap);
   }
 
