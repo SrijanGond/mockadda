@@ -70,6 +70,18 @@ QUOTAS = {
         ('General Intelligence & Reasoning', ['general intelligence & reasoning', 'general intelligence', 'reasoning'], 25),
         ('General Awareness & Current Affairs', ['general awareness & current affairs', 'general awareness', 'current affairs'], 25),
     ],
+    'rrb_group_d_2': [
+        ('General Science', ['general science', 'science'], 25),
+        ('Mathematics', ['mathematics', 'quantitative aptitude', 'maths', 'math'], 25),
+        ('General Intelligence & Reasoning', ['general intelligence & reasoning', 'general intelligence', 'reasoning'], 25),
+        ('General Awareness & Current Affairs', ['general awareness & current affairs', 'general awareness', 'current affairs'], 25),
+    ],
+    'rrb_group_d_3': [
+        ('General Science', ['general science', 'science'], 25),
+        ('Mathematics', ['mathematics', 'quantitative aptitude', 'maths', 'math'], 25),
+        ('General Intelligence & Reasoning', ['general intelligence & reasoning', 'general intelligence', 'reasoning'], 25),
+        ('General Awareness & Current Affairs', ['general awareness & current affairs', 'general awareness', 'current affairs'], 25),
+    ],
 }
 
 def is_language_skill_subject(subject):
