@@ -4912,6 +4912,456 @@
           ],
           "ans": 0,
           "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "If the price of a commodity is decreased by 20% and its consumption is increased by 30%, what is the net effect on expenditure?",
+          "q_hi": "यदि किसी वस्तु की कीमत में 20% की कमी की जाती है और उसकी खपत में 30% की वृद्धि की जाती है, तो व्यय पर शुद्ध प्रभाव क्या होगा?",
+          "opts": [
+            "4% increase",
+            "4% decrease",
+            "6% increase",
+            "6% decrease"
+          ],
+          "opts_hi": [
+            "4% वृद्धि",
+            "4% कमी",
+            "6% वृद्धि",
+            "6% कमी"
+          ],
+          "ans": 0,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "The population of a town increases by 10% annually. If the current population is 121000, what was it 2 years ago?",
+          "q_hi": "एक शहर की जनसंख्या वार्षिक 10% बढ़ती है। यदि वर्तमान जनसंख्या 121000 है, तो 2 वर्ष पूर्व यह क्या थी?",
+          "opts": [
+            100000,
+            110000,
+            105000,
+            95000
+          ],
+          "opts_hi": [
+            100000,
+            110000,
+            105000,
+            95000
+          ],
+          "ans": 0,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "An article is sold at a profit of 20%. If the cost price is ₹500, what is the selling price?",
+          "q_hi": "एक वस्तु को 20% लाभ पर बेचा जाता है। यदि क्रय मूल्य ₹500 है, तो विक्रय मूल्य क्या है?",
+          "opts": [
+            "₹550",
+            "₹580",
+            "₹600",
+            "₹650"
+          ],
+          "opts_hi": [
+            "₹550",
+            "₹580",
+            "₹600",
+            "₹650"
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "A shopkeeper sells an item at a loss of 10%. If he had sold it for ₹50 more, he would have gained 10%. What is the cost price?",
+          "q_hi": "एक दुकानदार एक वस्तु को 10% हानि पर बेचता है। यदि उसने इसे ₹50 अधिक में बेचा होता, तो उसे 10% लाभ होता। क्रय मूल्य क्या है?",
+          "opts": [
+            "₹200",
+            "₹225",
+            "₹250",
+            "₹275"
+          ],
+          "opts_hi": [
+            "₹200",
+            "₹225",
+            "₹250",
+            "₹275"
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "Two trains of lengths 300 m and 400 m are running on parallel tracks in the same direction at speeds of 40 km/h and 60 km/h. How long will the faster train take to cross the slower train?",
+          "q_hi": "300 मी और 400 मी लंबाई की दो ट्रेनें समानांतर पटरियों पर एक ही दिशा में 40 किमी/घंटा और 60 किमी/घंटा की चाल से चल रही हैं। तेज ट्रेन धीमी ट्रेन को पार करने में कितना समय लेगी?",
+          "opts": [
+            "120 sec",
+            "126 sec",
+            "130 sec",
+            "140 sec"
+          ],
+          "opts_hi": [
+            "120 सेकंड",
+            "126 सेकंड",
+            "130 सेकंड",
+            "140 सेकंड"
+          ],
+          "ans": 1,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "A man covers a distance of 60 km at a speed of 30 km/h and returns at a speed of 20 km/h. What is the average speed for the whole journey?",
+          "q_hi": "एक व्यक्ति 60 किमी की दूरी 30 किमी/घंटा की चाल से तय करता है और 20 किमी/घंटा की चाल से वापस आता है। पूरी यात्रा की औसत चाल क्या है?",
+          "opts": [
+            "20 km/h",
+            "24 km/h",
+            "25 km/h",
+            "28 km/h"
+          ],
+          "opts_hi": [
+            "20 किमी/घंटा",
+            "24 किमी/घंटा",
+            "25 किमी/घंटा",
+            "28 किमी/घंटा"
+          ],
+          "ans": 1,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the compound interest on ₹5000 at 10% per annum compounded half-yearly for 1.5 years?",
+          "q_hi": "₹5000 पर 10% वार्षिक दर से अर्धवार्षिक रूप से संयोजित 1.5 वर्षों का चक्रवृद्धि ब्याज क्या है?",
+          "opts": [
+            "₹768",
+            "₹788",
+            "₹798",
+            "₹818"
+          ],
+          "opts_hi": [
+            "₹768",
+            "₹788",
+            "₹798",
+            "₹818"
+          ],
+          "ans": 1,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "The difference between compound interest and simple interest on ₹10000 at 10% per annum for 2 years is?",
+          "q_hi": "₹10000 पर 10% वार्षिक दर से 2 वर्षों के चक्रवृद्धि ब्याज और साधारण ब्याज के बीच अंतर क्या है?",
+          "opts": [
+            "₹50",
+            "₹100",
+            "₹150",
+            "₹200"
+          ],
+          "opts_hi": [
+            "₹50",
+            "₹100",
+            "₹150",
+            "₹200"
+          ],
+          "ans": 1,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "If x : y = 5 : 7, find (5x + 3y) : (3x + 2y).",
+          "q_hi": "यदि x : y = 5 : 7 है, तो (5x + 3y) : (3x + 2y) ज्ञात करें।",
+          "opts": [
+            "5 : 6",
+            "6 : 7",
+            "46 : 29",
+            "47 : 30"
+          ],
+          "opts_hi": [
+            "5 : 6",
+            "6 : 7",
+            "46 : 29",
+            "47 : 30"
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "If x : y = 9 : 11, find (4x + 5y) : (6x + 7y).",
+          "q_hi": "यदि x : y = 9 : 11 है, तो (4x + 5y) : (6x + 7y) ज्ञात करें।",
+          "opts": [
+            "89 : 131",
+            "91 : 133",
+            "90 : 132",
+            "88 : 130"
+          ],
+          "opts_hi": [
+            "89 : 131",
+            "91 : 133",
+            "90 : 132",
+            "88 : 130"
+          ],
+          "ans": 1,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the HCF of 144 and 180?",
+          "q_hi": "144 और 180 का HCF क्या है?",
+          "opts": [
+            24,
+            30,
+            36,
+            42
+          ],
+          "opts_hi": [
+            24,
+            30,
+            36,
+            42
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the smallest number divisible by 12, 15 and 18?",
+          "q_hi": "12, 15 और 18 से विभाज्य सबसे छोटी संख्या क्या है?",
+          "opts": [
+            120,
+            150,
+            180,
+            210
+          ],
+          "opts_hi": [
+            120,
+            150,
+            180,
+            210
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "Which of the following is a prime number?",
+          "q_hi": "निम्नलिखित में से कौन सी अभाज्य संख्या है?",
+          "opts": [
+            51,
+            57,
+            61,
+            63
+          ],
+          "opts_hi": [
+            51,
+            57,
+            61,
+            63
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "If x + 1/x = 5, find x³ + 1/x³.",
+          "q_hi": "यदि x + 1/x = 5 है, तो x³ + 1/x³ ज्ञात करें।",
+          "opts": [
+            100,
+            105,
+            110,
+            115
+          ],
+          "opts_hi": [
+            100,
+            105,
+            110,
+            115
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "If x + y = 15 and xy = 56, find x - y (where x > y).",
+          "q_hi": "यदि x + y = 15 और xy = 56 है, तो x - y ज्ञात करें (जहाँ x > y).",
+          "opts": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "opts_hi": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "ans": 0,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "Solve: 4x + 3 = 23. Find x.",
+          "q_hi": "हल करें: 4x + 3 = 23. x ज्ञात करें।",
+          "opts": [
+            3,
+            4,
+            5,
+            6
+          ],
+          "opts_hi": [
+            3,
+            4,
+            5,
+            6
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the volume of a cylinder with radius 7 cm and height 10 cm?",
+          "q_hi": "7 सेमी त्रिज्या और 10 सेमी ऊँचाई वाले बेलन का आयतन क्या है?",
+          "opts": [
+            "1540 cm³",
+            "15400 cm³",
+            "1480 cm³",
+            "1450 cm³"
+          ],
+          "opts_hi": [
+            "1540 सेमी³",
+            "15400 सेमी³",
+            "1480 सेमी³",
+            "1450 सेमी³"
+          ],
+          "ans": 0,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the total surface area of a cylinder of radius 7 cm and height 10 cm?",
+          "q_hi": "7 सेमी त्रिज्या और 10 सेमी ऊँचाई वाले बेलन का कुल पृष्ठीय क्षेत्रफल क्या है?",
+          "opts": [
+            "748 cm²",
+            "728 cm²",
+            "738 cm²",
+            "758 cm²"
+          ],
+          "opts_hi": [
+            "748 सेमी²",
+            "728 सेमी²",
+            "738 सेमी²",
+            "758 सेमी²"
+          ],
+          "ans": 0,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the perimeter of a square of side 12 cm?",
+          "q_hi": "12 सेमी भुजा वाले वर्ग का परिमाप क्या है?",
+          "opts": [
+            "24 cm",
+            "36 cm",
+            "48 cm",
+            "60 cm"
+          ],
+          "opts_hi": [
+            "24 सेमी",
+            "36 सेमी",
+            "48 सेमी",
+            "60 सेमी"
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the value of sin 30° × cos 60°?",
+          "q_hi": "sin 30° × cos 60° का मान क्या है?",
+          "opts": [
+            0.25,
+            0.5,
+            0.75,
+            1
+          ],
+          "opts_hi": [
+            0.25,
+            0.5,
+            0.75,
+            1
+          ],
+          "ans": 0,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the value of tan 45° × cot 45°?",
+          "q_hi": "tan 45° × cot 45° का मान क्या है?",
+          "opts": [
+            0,
+            0.5,
+            1,
+            2
+          ],
+          "opts_hi": [
+            0,
+            0.5,
+            1,
+            2
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "The average of 5 numbers is 20. If one number is removed, the average becomes 18. What is the removed number?",
+          "q_hi": "5 संख्याओं का औसत 20 है। यदि एक संख्या हटा दी जाती है, तो औसत 18 हो जाता है। हटाई गई संख्या क्या है?",
+          "opts": [
+            20,
+            22,
+            24,
+            28
+          ],
+          "opts_hi": [
+            20,
+            22,
+            24,
+            28
+          ],
+          "ans": 3,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "The average of 4 numbers is 18. What is the sum of the numbers?",
+          "q_hi": "4 संख्याओं का औसत 18 है। संख्याओं का योग क्या है?",
+          "opts": [
+            72,
+            74,
+            76,
+            78
+          ],
+          "opts_hi": [
+            72,
+            74,
+            76,
+            78
+          ],
+          "ans": 0,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "The sum of the angles of a triangle is:",
+          "q_hi": "एक त्रिभुज के कोणों का योग होता है:",
+          "opts": [
+            "180°",
+            "270°",
+            "360°",
+            "90°"
+          ],
+          "opts_hi": [
+            "180°",
+            "270°",
+            "360°",
+            "90°"
+          ],
+          "ans": 0,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "The sum of the angles of a quadrilateral is:",
+          "q_hi": "एक चतुर्भुज के कोणों का योग होता है:",
+          "opts": [
+            "180°",
+            "270°",
+            "360°",
+            "450°"
+          ],
+          "opts_hi": [
+            "180°",
+            "270°",
+            "360°",
+            "450°"
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
         }
       ]
     }
