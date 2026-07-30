@@ -829,6 +829,276 @@
       "subject": "General Intelligence"
     },
     {
+      "q": "What is the missing term in the series? 4, 9, 20, 43, 90, ?",
+      "q_hi": "",
+      "opts": [
+        183,
+        185,
+        181,
+        187
+      ],
+      "opts_hi": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ans": 0,
+      "subject": "General Intelligence"
+    },
+    {
+      "q": "Painter : Canvas :: Sculptor : ?",
+      "q_hi": "",
+      "opts": [
+        "Chisel",
+        "Museum",
+        "Marble",
+        "Gallery"
+      ],
+      "opts_hi": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ans": 2,
+      "subject": "General Intelligence"
+    },
+    {
+      "q": "In a certain code language, FOREST is written as GQTGUV. How will JUNGLE be written in that code?",
+      "q_hi": "",
+      "opts": [
+        "KVOMFM",
+        "KVOHMF",
+        "KWOMNG",
+        "KVOMNG"
+      ],
+      "opts_hi": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ans": 3,
+      "subject": "General Intelligence"
+    },
+    {
+      "q": "Choose the odd one out from the following: Triangle, Pentagon, Circle, Hexagon",
+      "q_hi": "",
+      "opts": [
+        "Triangle",
+        "Pentagon",
+        "Circle",
+        "Hexagon"
+      ],
+      "opts_hi": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ans": 2,
+      "subject": "General Intelligence"
+    },
+    {
+      "q": "Pointing to a photograph, Meena says, \"His mother's only daughter is my mother.\" How is the person in the photograph related to Meena?",
+      "q_hi": "",
+      "opts": [
+        "Uncle",
+        "Father",
+        "Maternal Uncle",
+        "Brother"
+      ],
+      "opts_hi": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ans": 2,
+      "subject": "General Intelligence"
+    },
+    {
+      "q": "Statements: All pens are books. Some books are copies. Conclusions: I. Some pens are copies. II. Some copies are books. Which conclusion(s) follow(s)?",
+      "q_hi": "",
+      "opts": [
+        "Only I follows",
+        "Only II follows",
+        "Both I and II follow",
+        "Neither I nor II follows"
+      ],
+      "opts_hi": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ans": 1,
+      "subject": "General Intelligence"
+    },
+    {
+      "q": "A word is given below. Select the option that represents the correct mirror image of the word when the mirror is placed vertically on the right side. Word: DREAM",
+      "q_hi": "",
+      "opts": [
+        "MⱯERD",
+        "MAERD",
+        "MⱯERQ",
+        "MAEЯD"
+      ],
+      "opts_hi": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ans": 1,
+      "subject": "General Intelligence"
+    },
+    {
+      "q": "In a row of 40 students, Priya is 14th from the left end. Ravi is 10 places to the right of Priya. What is Ravi's position from the right end of the row?",
+      "q_hi": "",
+      "opts": [
+        "17th",
+        "16th",
+        "18th",
+        "15th"
+      ],
+      "opts_hi": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ans": 0,
+      "subject": "General Intelligence"
+    },
+    {
+      "q": "In a group of 80 people, 45 like tea, 35 like coffee, and 20 like both. How many people like neither tea nor coffee?",
+      "q_hi": "",
+      "opts": [
+        25,
+        20,
+        15,
+        30
+      ],
+      "opts_hi": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ans": 1,
+      "subject": "General Intelligence"
+    },
+    {
+      "q": "A square sheet of paper is folded in half along its horizontal midline (bottom half folded up), and then a semicircular cut is made at the centre of the folded (top) edge. When the paper is unfolded, what shape will appear in the middle of the sheet?",
+      "q_hi": "",
+      "opts": [
+        "A semicircle",
+        "A full circle",
+        "A triangle",
+        "Two semicircles"
+      ],
+      "opts_hi": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ans": 1,
+      "subject": "General Intelligence"
+    },
+    {
+      "q": "Find the missing term in the series: 7, 12, 21, 34, 51, ?",
+      "q_hi": "श्रृंखला में लुप्त पद ज्ञात कीजिए: 7, 12, 21, 34, 51, ?",
+      "opts": [
+        72,
+        68,
+        74,
+        76
+      ],
+      "opts_hi": [
+        72,
+        68,
+        74,
+        76
+      ],
+      "ans": 0,
+      "subject": "General Intelligence"
+    },
+    {
+      "q": "Select the odd one out: 17, 23, 31, 37, 51",
+      "q_hi": "विषम पद चुनिए: 17, 23, 31, 37, 51",
+      "opts": [
+        17,
+        23,
+        37,
+        51
+      ],
+      "opts_hi": [
+        17,
+        23,
+        37,
+        51
+      ],
+      "ans": 3,
+      "subject": "General Intelligence"
+    },
+    {
+      "q": "In a certain code language, FRIEND is written as HTKGPF. How will HUNTER be written in the same code?",
+      "q_hi": "किसी कूट भाषा में FRIEND को HTKGPF लिखा जाता है। उसी कूट भाषा में HUNTER को कैसे लिखा जाएगा?",
+      "opts": [
+        "JWPVGT",
+        "IVPUGT",
+        "JWPVHU",
+        "JXPVGT"
+      ],
+      "opts_hi": [
+        "JWPVGT",
+        "IVPUGT",
+        "JWPVHU",
+        "JXPVGT"
+      ],
+      "ans": 0,
+      "subject": "General Intelligence"
+    },
+    {
+      "q": "Pointing to a photograph, Meena says, \"His mother is the only daughter of my father.\" How is Meena related to the person in the photograph?",
+      "q_hi": "एक तस्वीर की ओर इशारा करते हुए मीना कहती है, \"इसकी माँ मेरे पिता की एकमात्र पुत्री है।\" मीना उस तस्वीर में दिख रहे व्यक्ति से किस प्रकार संबंधित है?",
+      "opts": [
+        "Sister",
+        "Aunt",
+        "Mother",
+        "Grandmother"
+      ],
+      "opts_hi": [
+        "बहन",
+        "मौसी/चाची",
+        "माँ",
+        "दादी/नानी"
+      ],
+      "ans": 2,
+      "subject": "General Intelligence"
+    },
+    {
+      "q": "What will come in place of the question mark (?) in the following number series? 8, 15, 29, 57, 113, ?",
+      "q_hi": "निम्नलिखित संख्या श्रृंखला में प्रश्न चिह्न (?) के स्थान पर क्या आएगा? 8, 15, 29, 57, 113, ?",
+      "opts": [
+        225,
+        226,
+        227,
+        229
+      ],
+      "opts_hi": [
+        225,
+        226,
+        227,
+        229
+      ],
+      "ans": 0,
+      "subject": "General Intelligence"
+    },
+    {
       "q": "What comes next in the series: 2, 6, 12, 20, ?",
       "q_hi": "श्रृंखला में आगे क्या आएगा: 2, 6, 12, 20, ?",
       "opts": [
