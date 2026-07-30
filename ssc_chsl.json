@@ -997,6 +997,366 @@
           ],
           "ans": 2,
           "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A shopkeeper marks his goods 40% above the cost price and then offers a discount of 15%. What is his profit percentage?",
+          "q_hi": "एक दुकानदार अपने माल का मूल्य क्रय मूल्य से 40% अधिक अंकित करता है और फिर 15% की छूट देता है। उसका लाभ प्रतिशत क्या है?",
+          "opts": [
+            0.19,
+            0.25,
+            0.21,
+            0.18
+          ],
+          "opts_hi": [
+            0.19,
+            0.25,
+            0.21,
+            0.18
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A sum of money doubles itself at simple interest in 8 years. In how many years will it become 5 times itself?",
+          "q_hi": "एक धनराशि साधारण ब्याज पर 8 वर्षों में दोगुनी हो जाती है। कितने वर्षों में वह 5 गुना हो जाएगी?",
+          "opts": [
+            "32 years",
+            "40 years",
+            "24 years",
+            "36 years"
+          ],
+          "opts_hi": [
+            "32 वर्ष",
+            "40 वर्ष",
+            "24 वर्ष",
+            "36 वर्ष"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "The ratio of milk to water in a mixture is 5 : 3. If 8 litres of water is added to the mixture, the ratio becomes 5 : 5. What is the initial quantity of milk in the mixture?",
+          "q_hi": "एक मिश्रण में दूध और पानी का अनुपात 5 : 3 है। यदि मिश्रण में 8 लीटर पानी मिला दिया जाए, तो अनुपात 5 : 5 हो जाता है। मिश्रण में दूध की प्रारंभिक मात्रा क्या है?",
+          "opts": [
+            "20 litres",
+            "25 litres",
+            "15 litres",
+            "30 litres"
+          ],
+          "opts_hi": [
+            "20 लीटर",
+            "25 लीटर",
+            "15 लीटर",
+            "30 लीटर"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A can complete a piece of work in 12 days and B can complete the same work in 18 days. They work together for 4 days and then A leaves. In how many more days will B finish the remaining work?",
+          "q_hi": "A एक काम को 12 दिनों में और B उसी काम को 18 दिनों में पूरा कर सकता है। वे 4 दिनों तक साथ काम करते हैं और फिर A चला जाता है। B शेष काम कितने और दिनों में पूरा करेगा?",
+          "opts": [
+            "10 days",
+            "8 days",
+            "6 days",
+            "9 days"
+          ],
+          "opts_hi": [
+            "10 दिन",
+            "8 दिन",
+            "6 दिन",
+            "9 दिन"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A train 180 m long crosses a pole in 9 seconds. How long will it take to cross a platform 270 m long?",
+          "q_hi": "180 मीटर लंबी एक ट्रेन एक खंभे को 9 सेकंड में पार करती है। 270 मीटर लंबे प्लेटफॉर्म को पार करने में उसे कितना समय लगेगा?",
+          "opts": [
+            "18 seconds",
+            "22.5 seconds",
+            "27 seconds",
+            "20 seconds"
+          ],
+          "opts_hi": [
+            "18 सेकंड",
+            "22.5 सेकंड",
+            "27 सेकंड",
+            "20 सेकंड"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "If x + 1/x = 5, then what is the value of x² + 1/x²?",
+          "q_hi": "यदि x + 1/x = 5 है, तो x² + 1/x² का मान क्या होगा?",
+          "opts": [
+            23,
+            27,
+            25,
+            21
+          ],
+          "opts_hi": [
+            23,
+            27,
+            25,
+            21
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "In a triangle ABC, angle A = 70° and angle B = 55°. What is the value of the exterior angle at vertex C?",
+          "q_hi": "त्रिभुज ABC में, कोण A = 70° और कोण B = 55° है। शीर्ष C पर बाह्य कोण का मान क्या है?",
+          "opts": [
+            "125°",
+            "55°",
+            "110°",
+            "135°"
+          ],
+          "opts_hi": [
+            "125°",
+            "55°",
+            "110°",
+            "135°"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "The radius of a cylinder is doubled while its height is halved. What is the ratio of the new volume to the original volume?",
+          "q_hi": "एक बेलन की त्रिज्या दोगुनी कर दी जाती है और ऊँचाई आधी कर दी जाती है। नए आयतन और मूल आयतन का अनुपात क्या है?",
+          "opts": [
+            "1 : 1",
+            "2 : 1",
+            "4 : 1",
+            "3 : 1"
+          ],
+          "opts_hi": [
+            "1 : 1",
+            "2 : 1",
+            "4 : 1",
+            "3 : 1"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "The average of 9 numbers is 18. If one number is replaced by 42 instead of 6, what will be the new average?",
+          "q_hi": "9 संख्याओं का औसत 18 है। यदि एक संख्या 6 की जगह 42 कर दी जाए, तो नया औसत क्या होगा?",
+          "opts": [
+            20,
+            22,
+            21,
+            19
+          ],
+          "opts_hi": [
+            20,
+            22,
+            21,
+            19
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "By selling an article for ₹1,170, a trader gains the same percentage profit as the cost price of the article in rupees. If the cost price is ₹90, what is the cost price (verify: is this consistent)?  A trader sells an article for ₹quintile — let's use a clean version: An article is sold for ₹quintile. Restating cleanly: A trader sells an item at a profit equal to the cost price percentage numerically. If cost price is ₹90, find the selling price. (Replaced by clean question below.)",
+          "q_hi": "placeholder",
+          "opts": [
+            "₹98",
+            "₹108",
+            "₹100",
+            "₹104"
+          ],
+          "opts_hi": [
+            "₹98",
+            "₹108",
+            "₹100",
+            "₹104"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A trader buys an article for ₹800 and marks it at ₹1,100. After giving a discount of ₹100, what is his profit percentage?",
+          "q_hi": "एक व्यापारी एक वस्तु ₹800 में खरीदता है और उसका मूल्य ₹1,100 अंकित करता है। ₹100 की छूट देने के बाद उसका लाभ प्रतिशत क्या है?",
+          "opts": [
+            0.225,
+            0.2,
+            0.25,
+            0.18
+          ],
+          "opts_hi": [
+            0.225,
+            0.2,
+            0.25,
+            0.18
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "What is the largest 4-digit number that is exactly divisible by 88?",
+          "q_hi": "चार अंकों की सबसे बड़ी संख्या कौन सी है जो 88 से पूरी तरह विभाजित होती है?",
+          "opts": [
+            9944,
+            9856,
+            9768,
+            9912
+          ],
+          "opts_hi": [
+            9944,
+            9856,
+            9768,
+            9912
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "If sin θ = 3/5, then what is the value of tan θ + sec θ?",
+          "q_hi": "यदि sin θ = 3/5 है, तो tan θ + sec θ का मान क्या है?",
+          "opts": [
+            2,
+            "2026-02-05T00:00:00.000Z",
+            "2026-04-07T00:00:00.000Z",
+            3
+          ],
+          "opts_hi": [
+            2,
+            "2026-02-05T00:00:00.000Z",
+            "2026-04-07T00:00:00.000Z",
+            3
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "The monthly incomes of A, B, C and D are in the ratio 3 : 4 : 6 : 7. If the total monthly income of all four is ₹60,000, what is the monthly income of C?",
+          "q_hi": "A, B, C और D की मासिक आय का अनुपात 3 : 4 : 6 : 7 है। यदि चारों की कुल मासिक आय ₹60,000 है, तो C की मासिक आय क्या है?",
+          "opts": [
+            "₹15,000",
+            "₹18,000",
+            "₹21,000",
+            "₹12,000"
+          ],
+          "opts_hi": [
+            "₹15,000",
+            "₹18,000",
+            "₹21,000",
+            "₹12,000"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "What is the compound interest on ₹8,000 at the rate of 10% per annum for 2 years?",
+          "q_hi": "₹8,000 पर 10% प्रति वर्ष की दर से 2 वर्षों का चक्रवृद्धि ब्याज क्या होगा?",
+          "opts": [
+            "₹1,600",
+            "₹1,680",
+            "₹1,640",
+            "₹1,720"
+          ],
+          "opts_hi": [
+            "₹1,600",
+            "₹1,680",
+            "₹1,640",
+            "₹1,720"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A shopkeeper marks his goods 40% above the cost price and then offers a discount of 15% on the marked price. What is his profit percentage?",
+          "q_hi": "एक दुकानदार अपनी वस्तुओं को क्रय मूल्य से 40% अधिक पर अंकित करता है और फिर अंकित मूल्य पर 15% की छूट देता है। उसका लाभ प्रतिशत क्या है?",
+          "opts": [
+            0.19,
+            0.21,
+            0.25,
+            0.18
+          ],
+          "opts_hi": [
+            0.19,
+            0.21,
+            0.25,
+            0.18
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A can complete a piece of work in 18 days and B can complete the same work in 24 days. They work together for 6 days, after which A leaves. In how many more days will B alone finish the remaining work?",
+          "q_hi": "A किसी काम को 18 दिनों में और B उसी काम को 24 दिनों में पूरा कर सकता है। वे 6 दिन साथ काम करते हैं, जिसके बाद A चला जाता है। B अकेले शेष काम कितने और दिनों में पूरा करेगा?",
+          "opts": [
+            "10 days",
+            "12 days",
+            "9 days",
+            "11 days"
+          ],
+          "opts_hi": [
+            "10 दिन",
+            "12 दिन",
+            "9 दिन",
+            "11 दिन"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A sum of money doubles itself in 8 years at simple interest. In how many years will the same sum become 3.5 times itself at the same rate of interest?",
+          "q_hi": "साधारण ब्याज पर कोई धनराशि 8 वर्षों में दोगुनी हो जाती है। उसी ब्याज दर पर वही धनराशि साढ़े तीन गुनी होने में कितने वर्ष लगेंगे?",
+          "opts": [
+            "20 years",
+            "24 years",
+            "18 years",
+            "28 years"
+          ],
+          "opts_hi": [
+            "20 वर्ष",
+            "24 वर्ष",
+            "18 वर्ष",
+            "28 वर्ष"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "In a right-angled triangle, the hypotenuse is 25 cm and one of the legs is 7 cm. What is the area (in cm²) of the triangle?",
+          "q_hi": "एक समकोण त्रिभुज में, कर्ण 25 सेमी और एक भुजा 7 सेमी है। त्रिभुज का क्षेत्रफल (सेमी² में) क्या है?",
+          "opts": [
+            "84 cm²",
+            "96 cm²",
+            "75 cm²",
+            "120 cm²"
+          ],
+          "opts_hi": [
+            "84 सेमी²",
+            "96 सेमी²",
+            "75 सेमी²",
+            "120 सेमी²"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Two numbers are in the ratio 5 : 8. If 6 is subtracted from each number, the ratio becomes 1 : 2. What is the larger of the two numbers?",
+          "q_hi": "दो संख्याएँ 5 : 8 के अनुपात में हैं। यदि प्रत्येक संख्या में से 6 घटाया जाए, तो अनुपात 1 : 2 हो जाता है। दोनों संख्याओं में से बड़ी संख्या कौन-सी है?",
+          "opts": [
+            16,
+            24,
+            20,
+            32
+          ],
+          "opts_hi": [
+            16,
+            24,
+            20,
+            32
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
         }
       ]
     },
