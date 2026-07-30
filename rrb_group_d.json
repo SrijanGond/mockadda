@@ -3829,6 +3829,96 @@
           ],
           "ans": 1,
           "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "Who is known as the 'Iron Man of India'?",
+          "q_hi": "भारत का 'लौह पुरुष' किसे कहा जाता है?",
+          "opts": [
+            "Mahatma Gandhi",
+            "Jawaharlal Nehru",
+            "Sardar Vallabhbhai Patel",
+            "Subhas Chandra Bose"
+          ],
+          "opts_hi": [
+            "महात्मा गांधी",
+            "जवाहरलाल नेहरू",
+            "सरदार वल्लभभाई पटेल",
+            "सुभाष चंद्र बोस"
+          ],
+          "ans": 2,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "Which constitutional body conducts elections in India?",
+          "q_hi": "भारत में चुनाव संचालित करने वाली संवैधानिक संस्था कौन सी है?",
+          "opts": [
+            "Election Commission of India",
+            "Union Public Service Commission",
+            "State Election Commission",
+            "National Commission for Scheduled Castes"
+          ],
+          "opts_hi": [
+            "भारत का चुनाव आयोग",
+            "संघ लोक सेवा आयोग",
+            "राज्य चुनाव आयोग",
+            "राष्ट्रीय अनुसूचित जाति आयोग"
+          ],
+          "ans": 0,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "Which river is known as the 'Life Line of Kerala'?",
+          "q_hi": "किस नदी को 'केरल की जीवन रेखा' कहा जाता है?",
+          "opts": [
+            "Godavari",
+            "Krishna",
+            "Periyar",
+            "Mahanadi"
+          ],
+          "opts_hi": [
+            "गोदावरी",
+            "कृष्णा",
+            "पेरियार",
+            "महानदी"
+          ],
+          "ans": 2,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "The apex bank of India is?",
+          "q_hi": "भारत का शीर्ष बैंक कौन सा है?",
+          "opts": [
+            "State Bank of India",
+            "Reserve Bank of India",
+            "Punjab National Bank",
+            "Bank of India"
+          ],
+          "opts_hi": [
+            "भारतीय स्टेट बैंक",
+            "भारतीय रिजर्व बैंक",
+            "पंजाब नेशनल बैंक",
+            "बैंक ऑफ इंडिया"
+          ],
+          "ans": 1,
+          "subject": "General Awareness & Current Affairs"
+        },
+        {
+          "q": "Which day is celebrated as 'World Ozone Day'?",
+          "q_hi": "विश्व ओजोन दिवस' किस दिन मनाया जाता है?",
+          "opts": [
+            "2026-09-16T00:00:00.000Z",
+            "2026-10-16T00:00:00.000Z",
+            "2026-08-16T00:00:00.000Z",
+            "2026-07-16T00:00:00.000Z"
+          ],
+          "opts_hi": [
+            "16 सितंबर",
+            "16 अक्टूबर",
+            "16 अगस्त",
+            "16 जुलाई"
+          ],
+          "ans": 0,
+          "subject": "General Awareness & Current Affairs"
         }
       ]
     },
