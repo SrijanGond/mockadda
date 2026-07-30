@@ -2377,6 +2377,438 @@
           "subject": "Mathematics"
         },
         {
+          "q": "If the price of a product increases by 20% and becomes ₹600, what was the original price?",
+          "q_hi": "यदि किसी वस्तु की कीमत में 20% की वृद्धि होती है और वह ₹600 हो जाती है, तो मूल कीमत क्या थी?",
+          "opts": [
+            "₹480",
+            "₹500",
+            "₹520",
+            "₹540"
+          ],
+          "opts_hi": [
+            "₹480",
+            "₹500",
+            "₹520",
+            "₹540"
+          ],
+          "ans": 1,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "In a class of 50 students, 30% are girls. How many boys are there?",
+          "q_hi": "50 छात्रों की एक कक्षा में, 30% लड़कियाँ हैं। कितने लड़के हैं?",
+          "opts": [
+            30,
+            35,
+            40,
+            45
+          ],
+          "opts_hi": [
+            30,
+            35,
+            40,
+            45
+          ],
+          "ans": 1,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "A man buys a watch for ₹1200 and sells it at a loss of 15%. What is the selling price?",
+          "q_hi": "एक व्यक्ति ₹1200 में एक घड़ी खरीदता है और 15% हानि पर बेचता है। विक्रय मूल्य क्या है?",
+          "opts": [
+            "₹980",
+            "₹1000",
+            "₹1020",
+            "₹1050"
+          ],
+          "opts_hi": [
+            "₹980",
+            "₹1000",
+            "₹1020",
+            "₹1050"
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "A shopkeeper sold an article for ₹840 at a profit of 20%. What was the cost price of the article?",
+          "q_hi": "एक दुकानदार ने एक वस्तु को 20% लाभ पर ₹840 में बेचा। वस्तु का क्रय मूल्य क्या था?",
+          "opts": [
+            "₹600",
+            "₹650",
+            "₹700",
+            "₹750"
+          ],
+          "opts_hi": [
+            "₹600",
+            "₹650",
+            "₹700",
+            "₹750"
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "A car travels 240 km in 4 hours. What is its speed?",
+          "q_hi": "एक कार 240 किमी की दूरी 4 घंटे में तय करती है। इसकी चाल क्या है?",
+          "opts": [
+            "50 km/h",
+            "55 km/h",
+            "60 km/h",
+            "65 km/h"
+          ],
+          "opts_hi": [
+            "50 किमी/घंटा",
+            "55 किमी/घंटा",
+            "60 किमी/घंटा",
+            "65 किमी/घंटा"
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "A train 150 m long crosses a pole in 10 seconds. What is the speed of the train?",
+          "q_hi": "150 मी लंबी एक ट्रेन एक खंभे को 10 सेकंड में पार करती है। ट्रेन की चाल क्या है?",
+          "opts": [
+            "54 km/h",
+            "60 km/h",
+            "72 km/h",
+            "80 km/h"
+          ],
+          "opts_hi": [
+            "54 किमी/घंटा",
+            "60 किमी/घंटा",
+            "72 किमी/घंटा",
+            "80 किमी/घंटा"
+          ],
+          "ans": 0,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "A man walks at 5 km/h for 3 hours and then at 4 km/h for 2 hours. What is his average speed?",
+          "q_hi": "एक व्यक्ति 3 घंटे तक 5 किमी/घंटा की चाल से चलता है और फिर 2 घंटे तक 4 किमी/घंटा की चाल से चलता है। उसकी औसत चाल क्या है?",
+          "opts": [
+            "4.2 km/h",
+            "4.4 km/h",
+            "4.6 km/h",
+            "4.8 km/h"
+          ],
+          "opts_hi": [
+            "4.2 किमी/घंटा",
+            "4.4 किमी/घंटा",
+            "4.6 किमी/घंटा",
+            "4.8 किमी/घंटा"
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the simple interest on ₹8000 at 12% per annum for 2 years?",
+          "q_hi": "₹8000 पर 12% वार्षिक दर से 2 वर्षों का साधारण ब्याज क्या है?",
+          "opts": [
+            "₹1600",
+            "₹1800",
+            "₹1920",
+            "₹2000"
+          ],
+          "opts_hi": [
+            "₹1600",
+            "₹1800",
+            "₹1920",
+            "₹2000"
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the compound interest on ₹10000 at 10% per annum compounded half-yearly for 1 year?",
+          "q_hi": "₹10000 पर 10% वार्षिक दर से अर्धवार्षिक रूप से संयोजित 1 वर्ष का चक्रवृद्धि ब्याज क्या है?",
+          "opts": [
+            "₹1000",
+            "₹1025",
+            "₹1050",
+            "₹1100"
+          ],
+          "opts_hi": [
+            "₹1000",
+            "₹1025",
+            "₹1050",
+            "₹1100"
+          ],
+          "ans": 1,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "If A : B = 3 : 4 and B : C = 6 : 7, find A : C.",
+          "q_hi": "यदि A : B = 3 : 4 और B : C = 6 : 7 है, तो A : C ज्ञात करें।",
+          "opts": [
+            "3 : 7",
+            "9 : 14",
+            "9 : 7",
+            "6 : 7"
+          ],
+          "opts_hi": [
+            "3 : 7",
+            "9 : 14",
+            "9 : 7",
+            "6 : 7"
+          ],
+          "ans": 1,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "If x : y = 4 : 5, find (3x + 2y) : (4x + 3y).",
+          "q_hi": "यदि x : y = 4 : 5 है, तो (3x + 2y) : (4x + 3y) ज्ञात करें।",
+          "opts": [
+            "22 : 31",
+            "23 : 30",
+            "24 : 29",
+            "25 : 28"
+          ],
+          "opts_hi": [
+            "22 : 31",
+            "23 : 30",
+            "24 : 29",
+            "25 : 28"
+          ],
+          "ans": 0,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the LCM of 15, 20 and 30?",
+          "q_hi": "15, 20 और 30 का LCM क्या है?",
+          "opts": [
+            40,
+            50,
+            60,
+            70
+          ],
+          "opts_hi": [
+            40,
+            50,
+            60,
+            70
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the HCF of 210 and 315?",
+          "q_hi": "210 और 315 का HCF क्या है?",
+          "opts": [
+            95,
+            105,
+            115,
+            125
+          ],
+          "opts_hi": [
+            95,
+            105,
+            115,
+            125
+          ],
+          "ans": 1,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "Which of the following is a composite number?",
+          "q_hi": "निम्नलिखित में से कौन सी भाज्य संख्या है?",
+          "opts": [
+            11,
+            13,
+            15,
+            17
+          ],
+          "opts_hi": [
+            11,
+            13,
+            15,
+            17
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "If x + 1/x = 4, find x² + 1/x².",
+          "q_hi": "यदि x + 1/x = 4 है, तो x² + 1/x² ज्ञात करें।",
+          "opts": [
+            12,
+            13,
+            14,
+            15
+          ],
+          "opts_hi": [
+            12,
+            13,
+            14,
+            15
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "If x + y = 15 and xy = 56, find x² + y².",
+          "q_hi": "यदि x + y = 15 और xy = 56 है, तो x² + y² ज्ञात करें।",
+          "opts": [
+            109,
+            111,
+            113,
+            115
+          ],
+          "opts_hi": [
+            109,
+            111,
+            113,
+            115
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "Solve: 2x + 7 = 19. Find x.",
+          "q_hi": "हल करें: 2x + 7 = 19. x ज्ञात करें।",
+          "opts": [
+            4,
+            5,
+            6,
+            7
+          ],
+          "opts_hi": [
+            4,
+            5,
+            6,
+            7
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the area of a rectangle of length 12 cm and breadth 8 cm?",
+          "q_hi": "12 सेमी लंबाई और 8 सेमी चौड़ाई वाले आयत का क्षेत्रफल क्या है?",
+          "opts": [
+            "80 cm²",
+            "88 cm²",
+            "96 cm²",
+            "104 cm²"
+          ],
+          "opts_hi": [
+            "80 सेमी²",
+            "88 सेमी²",
+            "96 सेमी²",
+            "104 सेमी²"
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the total surface area of a cube of side 5 cm?",
+          "q_hi": "5 सेमी भुजा वाले घन का कुल पृष्ठीय क्षेत्रफल क्या है?",
+          "opts": [
+            "125 cm²",
+            "150 cm²",
+            "175 cm²",
+            "200 cm²"
+          ],
+          "opts_hi": [
+            "125 सेमी²",
+            "150 सेमी²",
+            "175 सेमी²",
+            "200 सेमी²"
+          ],
+          "ans": 1,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the circumference of a circle of radius 14 cm?",
+          "q_hi": "14 सेमी त्रिज्या वाले वृत्त की परिधि क्या है?",
+          "opts": [
+            "88 cm",
+            "84 cm",
+            "92 cm",
+            "96 cm"
+          ],
+          "opts_hi": [
+            "88 सेमी",
+            "84 सेमी",
+            "92 सेमी",
+            "96 सेमी"
+          ],
+          "ans": 0,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the value of sin²θ + cos²θ?",
+          "q_hi": "sin²θ + cos²θ का मान क्या है?",
+          "opts": [
+            0,
+            0.5,
+            1,
+            1.5
+          ],
+          "opts_hi": [
+            0,
+            0.5,
+            1,
+            1.5
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the value of sin 45°?",
+          "q_hi": "sin 45° का मान क्या है?",
+          "opts": [
+            0,
+            "2026-02-01T00:00:00.000Z",
+            "1/√2",
+            "√3/2"
+          ],
+          "opts_hi": [
+            0,
+            "2026-02-01T00:00:00.000Z",
+            "1/√2",
+            "√3/2"
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "The average of 7 numbers is 30. If two numbers 20 and 30 are removed, what is the new average?",
+          "q_hi": "7 संख्याओं का औसत 30 है। यदि दो संख्याएँ 20 और 30 हटा दी जाती हैं, तो नया औसत क्या है?",
+          "opts": [
+            30,
+            31,
+            32,
+            33
+          ],
+          "opts_hi": [
+            30,
+            31,
+            32,
+            33
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "The average of 4 numbers is 18. What is the sum of the numbers?",
+          "q_hi": "4 संख्याओं का औसत 18 है। संख्याओं का योग क्या है?",
+          "opts": [
+            72,
+            74,
+            76,
+            78
+          ],
+          "opts_hi": [
+            72,
+            74,
+            76,
+            78
+          ],
+          "ans": 0,
+          "subject": "Mathematics"
+        },
+        {
           "q": "Find the odd one out: 11, 22, 33, 44, 55, 66, 77, 88, 99, 110, 121, 132, 143, 154, 165, 176, 187, 198, 209, 220, 231, 242, 253, 264, 275, 286, 297, 308, 319, 330",
           "q_hi": "विषम ज्ञात करें: 11, 22, 33, 44, 55, 66, 77, 88, 99, 110, 121, 132, 143, 154, 165, 176, 187, 198, 209, 220, 231, 242, 253, 264, 275, 286, 297, 308, 319, 330",
           "opts": [
