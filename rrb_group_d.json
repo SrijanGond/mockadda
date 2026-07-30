@@ -981,6 +981,42 @@
           "subject": "General Intelligence & Reasoning"
         },
         {
+          "q": "If CAT is coded as 3120, how is DOG coded?",
+          "q_hi": "यदि CAT को 3120 के रूप में कोडित किया जाता है, तो DOG को कैसे कोडित किया जाएगा?",
+          "opts": [
+            4157,
+            4156,
+            4155,
+            5146
+          ],
+          "opts_hi": [
+            4157,
+            4156,
+            4155,
+            5146
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "If 'PENCIL' is coded as 'QFO DJM', how is 'BOOK' coded?",
+          "q_hi": "यदि 'PENCIL' को 'QFO DJM' के रूप में कोडित किया जाता है, तो 'BOOK' को कैसे कोडित किया जाएगा?",
+          "opts": [
+            "CPPL",
+            "CPPM",
+            "CPPL (space)",
+            "CQQL"
+          ],
+          "opts_hi": [
+            "CPPL",
+            "CPPM",
+            "CPPL (स्पेस)",
+            "CQQL"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
           "q": "Which of the following is the capital of France?",
           "q_hi": "निम्नलिखित में से फ्रांस की राजधानी कौन सी है?",
           "opts": [
