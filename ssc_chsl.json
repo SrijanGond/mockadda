@@ -1359,292 +1359,184 @@
           "subject": "Quantitative Aptitude"
         },
         {
-          "q": "A train 180 m long passes a platform 270 m long in 45 seconds. What is the speed of the train in km/h?",
-          "q_hi": "180 मीटर लंबी एक ट्रेन 270 मीटर लंबे एक प्लेटफॉर्म को 45 सेकंड में पार करती है। ट्रेन की गति किमी/घंटा में कितनी है?",
-          "opts": [
-            "36 km/h",
-            "40 km/h",
-            "45 km/h",
-            "54 km/h"
-          ],
-          "opts_hi": [
-            "36 किमी/घंटा",
-            "40 किमी/घंटा",
-            "45 किमी/घंटा",
-            "54 किमी/घंटा"
-          ],
-          "ans": 0,
-          "subject": "Quantitative Aptitude"
-        },
-        {
           "q": "Select the part of the sentence that contains an error. She insisted that he goes to the doctor immediately after feeling unwell.",
-          "q_hi": "",
           "opts": [
             "She insisted that",
             "he goes to the doctor",
             "immediately after",
             "feeling unwell"
           ],
-          "opts_hi": [
-            "",
-            "",
-            "",
-            ""
-          ],
           "ans": 1,
-          "subject": "English Language"
+          "subject": "English Language",
+          "exp_en": "After 'insist that', the subjunctive mood is required; the correct form is 'he go' (not 'goes'). The subjunctive uses the base form of the verb regardless of the subject."
         },
         {
           "q": "The scientist's explanation was so ________ that even the students with no prior knowledge of the subject could understand it.",
-          "q_hi": "",
           "opts": [
             "lucid",
             "verbose",
             "ambiguous",
             "convoluted"
           ],
-          "opts_hi": [
-            "",
-            "",
-            "",
-            ""
-          ],
           "ans": 0,
-          "subject": "English Language"
+          "subject": "English Language",
+          "exp_en": "Lucid' means clear and easy to understand, which fits the context of an explanation comprehensible even to beginners. The other options imply complexity or confusion."
         },
         {
           "q": "Choose the word that is closest in meaning to the word 'RETICENT'.",
-          "q_hi": "",
           "opts": [
             "Talkative",
             "Reserved",
             "Aggressive",
             "Boisterous"
           ],
-          "opts_hi": [
-            "",
-            "",
-            "",
-            ""
-          ],
           "ans": 1,
-          "subject": "English Language"
+          "subject": "English Language",
+          "exp_en": "Reticent' means not readily revealing one's thoughts or feelings; 'Reserved' is its closest synonym. The remaining options convey opposite or unrelated traits."
         },
         {
           "q": "Choose the word that is most nearly OPPOSITE in meaning to the word 'FRUGAL'.",
-          "q_hi": "",
           "opts": [
             "Thrifty",
             "Prudent",
             "Extravagant",
             "Economical"
           ],
-          "opts_hi": [
-            "",
-            "",
-            "",
-            ""
-          ],
           "ans": 2,
-          "subject": "English Language"
+          "subject": "English Language",
+          "exp_en": "Frugal' means careful about spending money or resources. Its antonym is 'Extravagant', meaning spending money freely or excessively. Options A, B, and D are synonyms or near-synonyms of 'frugal'."
         },
         {
           "q": "What is the correct meaning of the idiom 'to burn the midnight oil'?",
-          "q_hi": "",
           "opts": [
             "To waste resources carelessly",
             "To work late into the night",
             "To start a project with great enthusiasm",
             "To destroy evidence"
           ],
-          "opts_hi": [
-            "",
-            "",
-            "",
-            ""
-          ],
           "ans": 1,
-          "subject": "English Language"
+          "subject": "English Language",
+          "exp_en": "To burn the midnight oil' is an idiom meaning to work or study late into the night. It originates from the era when people used oil lamps for light during late-night work."
         },
         {
           "q": "Choose the one word that best expresses the meaning of the given phrase: 'A person who travels to a sacred place as an act of religious devotion'.",
-          "q_hi": "",
           "opts": [
             "Nomad",
             "Pilgrim",
             "Hermit",
             "Ascetic"
           ],
-          "opts_hi": [
-            "",
-            "",
-            "",
-            ""
-          ],
           "ans": 1,
-          "subject": "English Language"
+          "subject": "English Language",
+          "exp_en": "A 'Pilgrim' is a person who journeys to a sacred place for religious reasons. A 'Nomad' wanders without a fixed home, a 'Hermit' lives in seclusion, and an 'Ascetic' practises severe self-discipline."
         },
         {
           "q": "Select the option that best improves the underlined part of the sentence. 'Neither the manager nor the employees was present at the annual meeting.'",
-          "q_hi": "",
           "opts": [
             "were present",
             "has been present",
             "is being present",
             "No improvement needed"
           ],
-          "opts_hi": [
-            "",
-            "",
-            "",
-            ""
-          ],
           "ans": 0,
-          "subject": "English Language"
+          "subject": "English Language",
+          "exp_en": "With 'neither…nor', the verb agrees with the subject closest to it ('employees', which is plural), so 'were present' is correct. The original 'was present' is therefore incorrect."
         },
         {
           "q": "Identify the correctly spelled word from the options below.",
-          "q_hi": "",
           "opts": [
             "Conscientous",
             "Conscientious",
             "Consientious",
             "Consciencious"
           ],
-          "opts_hi": [
-            "",
-            "",
-            "",
-            ""
-          ],
           "ans": 1,
-          "subject": "English Language"
+          "subject": "English Language",
+          "exp_en": "The correct spelling is 'Conscientious' (meaning wishing to do what is right). The other options have misspellings involving dropped or substituted letters."
         },
         {
           "q": "Fill in the blank with the most appropriate word: 'The government has taken several measures to ________ the spread of misinformation on social media platforms.'",
-          "q_hi": "",
           "opts": [
             "accelerate",
             "facilitate",
             "curb",
             "propagate"
           ],
-          "opts_hi": [
-            "",
-            "",
-            "",
-            ""
-          ],
           "ans": 2,
-          "subject": "English Language"
+          "subject": "English Language",
+          "exp_en": "Curb' means to keep something under control or within limits, which logically fits the context of reducing the spread of misinformation. The other options imply encouraging or speeding up the spread."
         },
         {
           "q": "Choose the correct passive form of the sentence: 'The principal awarded the best students a prize.'",
-          "q_hi": "",
           "opts": [
             "A prize was awarded to the best students by the principal.",
             "The best students were awarded a prize by the principal.",
             "Both A and B are correct",
             "A prize is awarded to the best students by the principal."
           ],
-          "opts_hi": [
-            "",
-            "",
-            "",
-            ""
-          ],
           "ans": 2,
-          "subject": "English Language"
+          "subject": "English Language",
+          "exp_en": "When the active voice has both a direct and an indirect object, the passive can be formed using either object as the subject; both 'A prize was awarded to the best students by the principal' and 'The best students were awarded a prize by the principal' are grammatically valid passive constructions."
         },
         {
           "q": "Select the correct indirect speech form of the sentence: He said, 'I am writing a letter now.'",
-          "q_hi": "",
           "opts": [
             "He said that he was writing a letter then.",
             "He said that he is writing a letter now.",
             "He told that he was writing a letter now.",
             "He said that he has been writing a letter then."
           ],
-          "opts_hi": [
-            "",
-            "",
-            "",
-            ""
-          ],
           "ans": 0,
-          "subject": "English Language"
+          "subject": "English Language",
+          "exp_en": "In reported speech, 'am writing' changes to 'was writing' (tense backshift), and 'now' changes to 'then'. 'Said' is used without an object, which is correct here. Option C incorrectly uses 'told' without an indirect object."
         },
         {
           "q": "Choose the correct option to fill in the blank: 'The committee ________ its decision before the deadline.'",
-          "q_hi": "",
           "opts": [
             "have announced",
             "has announced",
             "were announcing",
             "announce"
           ],
-          "opts_hi": [
-            "",
-            "",
-            "",
-            ""
-          ],
           "ans": 1,
-          "subject": "English Language"
+          "subject": "English Language",
+          "exp_en": "Committee' is a collective noun treated as singular in formal British and Indian English usage; therefore, 'has announced' (singular verb) is correct. 'Have announced' and 'were announcing' use plural verb forms that do not agree with a singular collective noun."
         },
         {
           "q": "Read the passage and answer the question: 'Deforestation not only destroys habitats but also contributes to climate change by releasing stored carbon dioxide. Forests act as carbon sinks, absorbing CO₂ from the atmosphere. When trees are felled or burned, this stored carbon is released back, accelerating global warming.' — What is the primary reason deforestation contributes to climate change according to the passage?",
-          "q_hi": "",
           "opts": [
             "It reduces rainfall in tropical regions",
             "It releases stored carbon dioxide into the atmosphere",
             "It destroys the natural habitat of animals",
             "It depletes underground water reserves"
           ],
-          "opts_hi": [
-            "",
-            "",
-            "",
-            ""
-          ],
           "ans": 1,
-          "subject": "English Language"
+          "subject": "English Language",
+          "exp_en": "The passage explicitly states that when trees are felled or burned, the stored carbon is released back into the atmosphere, accelerating global warming. This is directly identified as the reason deforestation contributes to climate change."
         },
         {
           "q": "Arrange the following sentences in the correct logical order to form a coherent paragraph. (P) He then practised regularly for several months. (Q) Rajan decided to learn to play the guitar. (R) Today, he performs at local events with great confidence. (S) He enrolled in a music class and bought a second-hand guitar.",
-          "q_hi": "",
           "opts": [
             "QSPR",
             "QPSR",
             "SQPR",
             "QSRP"
           ],
-          "opts_hi": [
-            "",
-            "",
-            "",
-            ""
-          ],
           "ans": 0,
-          "subject": "English Language"
+          "subject": "English Language",
+          "exp_en": "The logical sequence is: Rajan decided to learn (Q) → enrolled and bought guitar (S) → practised for months (P) → performs confidently today (R), giving the order QSPR."
         },
         {
           "q": "Select the correct meaning of the phrase 'to sit on the fence'.",
-          "q_hi": "",
           "opts": [
             "To take a firm stand on an issue",
             "To avoid making a decision or taking sides",
             "To observe a situation from a distance",
             "To make an unpopular choice"
           ],
-          "opts_hi": [
-            "",
-            "",
-            "",
-            ""
-          ],
           "ans": 1,
-          "subject": "English Language"
+          "subject": "English Language",
+          "exp_en": "To sit on the fence' means to remain neutral or avoid committing to any side in a debate or conflict. It does not mean observing from a distance or making an unpopular decision."
         }
       ]
     },
