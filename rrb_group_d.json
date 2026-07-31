@@ -6965,6 +6965,438 @@
           ],
           "ans": 2,
           "subject": "Mathematics"
+        },
+        {
+          "q": "Select the option that is related to the third term in the same way as the second term is related to the first term: Teacher : School :: Doctor : ?",
+          "q_hi": "उस विकल्प का चयन करें जो तीसरे पद से उसी प्रकार संबंधित है जिस प्रकार दूसरा पद पहले पद से संबंधित है: शिक्षक : स्कूल :: डॉक्टर : ?",
+          "opts": [
+            "Home",
+            "Hospital",
+            "Bank",
+            "Office"
+          ],
+          "opts_hi": [
+            "घर",
+            "अस्पताल",
+            "बैंक",
+            "कार्यालय"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Select the related letters: KLM : NOP :: PQR : ?",
+          "q_hi": "संबंधित अक्षरों का चयन करें: KLM : NOP :: PQR : ?",
+          "opts": [
+            "STU",
+            "SUV",
+            "STV",
+            "RTU"
+          ],
+          "opts_hi": [
+            "STU",
+            "SUV",
+            "STV",
+            "RTU"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Select the related number: 6 : 216 :: 7 : ?",
+          "q_hi": "संबंधित संख्या का चयन करें: 6 : 216 :: 7 : ?",
+          "opts": [
+            240,
+            300,
+            343,
+            350
+          ],
+          "opts_hi": [
+            240,
+            300,
+            343,
+            350
+          ],
+          "ans": 2,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Find the odd one out:",
+          "q_hi": "विषम का चयन करें:",
+          "opts": [
+            "Chair",
+            "Table",
+            "Bed",
+            "Book"
+          ],
+          "opts_hi": [
+            "कुर्सी",
+            "मेज",
+            "बिस्तर",
+            "किताब"
+          ],
+          "ans": 3,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "If 'LAMP' is coded as 'MBNQ', how is 'DESK' coded?",
+          "q_hi": "यदि 'LAMP' को 'MBNQ' के रूप में कोडित किया जाता है, तो 'DESK' को कैसे कोडित किया जाएगा?",
+          "opts": [
+            "EFTL",
+            "EFTL (space)",
+            "EFTM",
+            "EFSL"
+          ],
+          "opts_hi": [
+            "EFTL",
+            "EFTL (स्पेस)",
+            "EFTM",
+            "EFSL"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "If 'TOUCH' is coded as 'UPVDI', how is 'SMILE' coded?",
+          "q_hi": "यदि 'TOUCH' को 'UPVDI' के रूप में कोडित किया जाता है, तो 'SMILE' को कैसे कोडित किया जाएगा?",
+          "opts": [
+            "TNJMF",
+            "T NJMF",
+            "TNJME",
+            "TNMJF"
+          ],
+          "opts_hi": [
+            "TNJMF",
+            "T NJMF",
+            "TNJME",
+            "TNMJF"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Pointing to a boy, a woman said, \"He is the son of my father's only daughter.\" How is that boy related to the woman?",
+          "q_hi": "एक महिला ने एक लड़के की ओर इशारा करते हुए कहा, \"वह मेरे पिता की इकलौती पुत्री का पुत्र है।\" वह लड़का उस महिला से किस प्रकार संबंधित है?",
+          "opts": [
+            "Brother",
+            "Son",
+            "Nephew",
+            "Cousin"
+          ],
+          "opts_hi": [
+            "भाई",
+            "पुत्र",
+            "भतीजा/भांजा",
+            "चचेरा/ममेरा भाई"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Introducing a girl, a man said, \"She is the daughter of my mother's only brother.\" How is that girl related to the man?",
+          "q_hi": "एक पुरुष ने एक लड़की का परिचय देते हुए कहा, \"वह मेरी माँ के इकलौते भाई की पुत्री है।\" वह लड़की उस पुरुष से किस प्रकार संबंधित है?",
+          "opts": [
+            "Sister",
+            "Daughter",
+            "Cousin",
+            "Niece"
+          ],
+          "opts_hi": [
+            "बहन",
+            "पुत्री",
+            "चचेरी/ममेरी बहन",
+            "भतीजी/भांजी"
+          ],
+          "ans": 2,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "A woman walks 10 km towards East. She turns right and walks 5 km. She then turns right and walks 10 km. How far is she from her starting point?",
+          "q_hi": "एक महिला 10 किमी पूर्व की ओर चलती है। वह दाईं ओर मुड़ती है और 5 किमी चलती है। फिर वह दाईं ओर मुड़ती है और 10 किमी चलती है। वह अपने प्रारंभिक बिंदु से कितनी दूर है?",
+          "opts": [
+            "5 km",
+            "10 km",
+            "15 km",
+            "20 km"
+          ],
+          "opts_hi": [
+            "5 किमी",
+            "10 किमी",
+            "15 किमी",
+            "20 किमी"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "A man starts from point P and walks 6 km towards North. He turns left and walks 8 km. He then turns left and walks 6 km. In which direction is he from point P?",
+          "q_hi": "एक पुरुष बिंदु P से चलना शुरू करता है और 6 किमी उत्तर की ओर चलता है। वह बाईं ओर मुड़ता है और 8 किमी चलता है। फिर वह बाईं ओर मुड़ता है और 6 किमी चलता है। वह बिंदु P से किस दिशा में है?",
+          "opts": [
+            "North",
+            "South",
+            "East",
+            "West"
+          ],
+          "opts_hi": [
+            "उत्तर",
+            "दक्षिण",
+            "पूर्व",
+            "पश्चिम"
+          ],
+          "ans": 3,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Five friends A, B, C, D and E are sitting in a row facing north. A is sitting between D and E. B is at the extreme left end. C is second to the right of B. Who is sitting at the extreme right end?",
+          "q_hi": "पाँच मित्र A, B, C, D और E उत्तर की ओर मुख करके एक पंक्ति में बैठे हैं। A, D और E के बीच में है। B अत्यंत बाएँ छोर पर है। C, B के दाईं ओर दूसरे स्थान पर है। अत्यंत दाएँ छोर पर कौन बैठा है?",
+          "opts": [
+            "A",
+            "C",
+            "D",
+            "E"
+          ],
+          "opts_hi": [
+            "A",
+            "C",
+            "D",
+            "E"
+          ],
+          "ans": 3,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Statements: All books are novels. Some novels are comics. Conclusions: I. Some books are comics. II. Some novels are books. Which is correct?",
+          "q_hi": "कथन: सभी किताबें उपन्यास हैं। कुछ उपन्यास कॉमिक्स हैं। निष्कर्ष: I. कुछ किताबें कॉमिक्स हैं। II. कुछ उपन्यास किताबें हैं। कौन सा सही है?",
+          "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both I and II follow",
+            "Neither I nor II follows"
+          ],
+          "opts_hi": [
+            "केवल I सही है",
+            "केवल II सही है",
+            "I और II दोनों सही हैं",
+            "ना तो I और ना ही II सही है"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Statements: All pens are pencils. All pencils are erasers. Conclusions: I. All pens are erasers. II. Some erasers are pencils. Which is correct?",
+          "q_hi": "कथन: सभी पेन पेंसिल हैं। सभी पेंसिल इरेज़र हैं। निष्कर्ष: I. सभी पेन इरेज़र हैं। II. कुछ इरेज़र पेंसिल हैं। कौन सा सही है?",
+          "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both I and II follow",
+            "Neither I nor II follows"
+          ],
+          "opts_hi": [
+            "केवल I सही है",
+            "केवल II सही है",
+            "I और II दोनों सही हैं",
+            "ना तो I और ना ही II सही है"
+          ],
+          "ans": 2,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Find the next term: 2, 8, 18, 32, 50, ?",
+          "q_hi": "अगला पद ज्ञात करें: 2, 8, 18, 32, 50, ?",
+          "opts": [
+            60,
+            64,
+            72,
+            80
+          ],
+          "opts_hi": [
+            60,
+            64,
+            72,
+            80
+          ],
+          "ans": 2,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Find the next term: 100, 81, 64, 49, 36, ?",
+          "q_hi": "अगला पद ज्ञात करें: 100, 81, 64, 49, 36, ?",
+          "opts": [
+            25,
+            27,
+            29,
+            31
+          ],
+          "opts_hi": [
+            25,
+            27,
+            29,
+            31
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "If '+' means '×', '−' means '÷', '×' means '+', and '÷' means '−', then find the value of 14 + 7 − 2 × 8 ÷ 4?",
+          "q_hi": "यदि '+' का अर्थ '×' है, '−' का अर्थ '÷' है, '×' का अर्थ '+' है, और '÷' का अर्थ '−' है, तो 14 + 7 − 2 × 8 ÷ 4 का मान ज्ञात करें?",
+          "opts": [
+            45,
+            47,
+            49,
+            51
+          ],
+          "opts_hi": [
+            45,
+            47,
+            49,
+            51
+          ],
+          "ans": 2,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "If '+' means '−', '−' means '×', '×' means '÷', and '÷' means '+', then find the value of 12 + 6 − 3 × 4 ÷ 5?",
+          "q_hi": "यदि '+' का अर्थ '−' है, '−' का अर्थ '×' है, '×' का अर्थ '÷' है, और '÷' का अर्थ '+' है, तो 12 + 6 − 3 × 4 ÷ 5 का मान ज्ञात करें?",
+          "opts": [
+            12,
+            13,
+            14,
+            15
+          ],
+          "opts_hi": [
+            12,
+            13,
+            14,
+            15
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "In a group of 180 people, 120 like pizza, 90 like burger, and 50 like both. How many like only pizza?",
+          "q_hi": "180 लोगों के समूह में, 120 पिज्जा पसंद करते हैं, 90 बर्गर पसंद करते हैं, और 50 दोनों पसंद करते हैं। कितने केवल पिज्जा पसंद करते हैं?",
+          "opts": [
+            50,
+            60,
+            70,
+            80
+          ],
+          "opts_hi": [
+            50,
+            60,
+            70,
+            80
+          ],
+          "ans": 2,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "In a class of 90 students, 50 like cricket, 40 like hockey, and 10 like neither. How many like both?",
+          "q_hi": "90 छात्रों की एक कक्षा में, 50 क्रिकेट पसंद करते हैं, 40 हॉकी पसंद करते हैं, और 10 कोई भी पसंद नहीं करते हैं। कितने दोनों पसंद करते हैं?",
+          "opts": [
+            5,
+            10,
+            15,
+            20
+          ],
+          "opts_hi": [
+            5,
+            10,
+            15,
+            20
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "If the mirror is placed to the right of a word, what will be the mirror image of 'APPLE'?",
+          "q_hi": "यदि दर्पण किसी शब्द के दाईं ओर रखा जाता है, तो 'APPLE' की दर्पण छवि क्या होगी?",
+          "opts": [
+            "Ǝ⅂⅂ԀA",
+            "Ǝ⅂⅂PA",
+            "ELPPA",
+            "Ǝ⅂⅂AԀ"
+          ],
+          "opts_hi": [
+            "Ǝ⅂⅂ԀA",
+            "Ǝ⅂⅂PA",
+            "ELPPA",
+            "Ǝ⅂⅂AԀ"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Statement: \"Please wear a seat belt while driving.\" Assumptions: I. People might not wear seat belts while driving. II. The speaker wants to ensure safety of the driver. Which is correct?",
+          "q_hi": "कथन: \"कृपया ड्राइविंग के दौरान सीट बेल्ट पहनें।\" पूर्वधारणाएँ: I. लोग ड्राइविंग के दौरान सीट बेल्ट नहीं पहन सकते हैं। II. वक्ता ड्राइवर की सुरक्षा सुनिश्चित करना चाहता है। कौन सा सही है?",
+          "opts": [
+            "Only I is implicit",
+            "Only II is implicit",
+            "Both I and II are implicit",
+            "Neither is implicit"
+          ],
+          "opts_hi": [
+            "केवल I अंतर्निहित है",
+            "केवल II अंतर्निहित है",
+            "I और II दोनों अंतर्निहित हैं",
+            "कोई भी अंतर्निहित नहीं है"
+          ],
+          "ans": 2,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "How many squares are there in a 3x3 grid?",
+          "q_hi": "3x3 ग्रिड में कितने वर्ग हैं?",
+          "opts": [
+            10,
+            12,
+            14,
+            16
+          ],
+          "opts_hi": [
+            10,
+            12,
+            14,
+            16
+          ],
+          "ans": 2,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "How many triangles are there in a 2-tier triangular figure?",
+          "q_hi": "2-स्तरीय त्रिभुजाकार आकृति में कितने त्रिभुज हैं?",
+          "opts": [
+            4,
+            5,
+            6,
+            7
+          ],
+          "opts_hi": [
+            4,
+            5,
+            6,
+            7
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "In a certain code language, 'CLOCK' is written as 'DQPDL'. How will 'WATCH' be written in that code?",
+          "q_hi": "एक निश्चित कूट भाषा में, 'CLOCK' को 'DQPDL' लिखा जाता है। उस कूट में 'WATCH' को कैसे लिखा जाएगा?",
+          "opts": [
+            "XBUDI",
+            "XBUCI",
+            "XBVCI",
+            "XBUHI"
+          ],
+          "opts_hi": [
+            "XBUDI",
+            "XBUCI",
+            "XBVCI",
+            "XBUHI"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
         }
       ]
     }
