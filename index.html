@@ -1409,10 +1409,39 @@ function resultsScreen(){
   body.appendChild(sg);
 
   if(r.marks.wrong>0){
-    body.appendChild(el('div',{css:`background:${Q.card};border:1px solid ${Q.border};border-radius:12px;padding:12px 16px;margin-bottom:16px;text-align:center;`},[
-      el('span',{css:`color:${Q.muted};font-size:12px;`,text:'Marks Scored (based on this test\'s marking scheme): '}),
-      el('span',{css:`font-family:Syne,sans-serif;font-weight:800;font-size:14px;color:${accent};`,text:r.marksScored+' / '+r.maxMarks})
-    ]));
+    const gained = correct*r.marks.correct;
+    const lost = wrong*r.marks.wrong;
+    const netPct = r.maxMarks>0 ? Math.max(0, Math.min(100, (r.marksScored/r.maxMarks)*100)) : 0;
+    const mb = el('div',{css:`background:${Q.card};border:1px solid ${Q.border};border-radius:14px;padding:18px 18px 16px;margin-bottom:16px;`});
+    mb.appendChild(el('div',{css:`font-family:Syne,sans-serif;font-weight:700;font-size:13px;color:${Q.text};margin-bottom:12px;letter-spacing:.02em;`,text:'⚖️ Marks Breakdown'}));
+
+    const row=(icon,label,detail,value,color)=>el('div',{css:'display:flex;align-items:center;gap:10px;padding:6px 0;'},[
+      el('span',{css:'font-size:15px;width:20px;',text:icon}),
+      el('div',{css:'flex:1;min-width:0;'},[
+        el('div',{css:`font-size:12.5px;color:${Q.text};font-weight:600;`,text:label}),
+        el('div',{css:`font-size:10.5px;color:${Q.muted};margin-top:1px;`,text:detail})
+      ]),
+      el('span',{css:`font-family:Syne,sans-serif;font-weight:800;font-size:14px;color:${color};white-space:nowrap;`,text:value})
+    ]);
+    mb.appendChild(row('✅','Correct Answers',`${correct} × +${r.marks.correct}`,`+${gained}`,Q.green));
+    mb.appendChild(row('❌','Wrong Answers (negative marking)',`${wrong} × −${r.marks.wrong}`,`−${lost}`,Q.red));
+    mb.appendChild(el('div',{css:`height:1px;background:${Q.border};margin:8px 0 10px;`}));
+
+    const netRow=el('div',{css:'display:flex;align-items:center;justify-content:space-between;gap:10px;'},[
+      el('div',{css:`font-family:Syne,sans-serif;font-weight:700;font-size:13px;color:${Q.text};`,text:'Net Score'}),
+      el('div',{css:`font-family:Syne,sans-serif;font-weight:800;font-size:20px;color:${accent};`,text:`${r.marksScored} / ${r.maxMarks}`})
+    ]);
+    mb.appendChild(netRow);
+    const barTrack=el('div',{css:`height:8px;border-radius:5px;background:${Q.bg};overflow:hidden;margin-top:8px;border:1px solid ${Q.border};`});
+    barTrack.appendChild(el('div',{css:`height:100%;width:${netPct}%;background:linear-gradient(90deg,${Q.red},${accent});border-radius:5px;transition:width .6s ease;`}));
+    mb.appendChild(barTrack);
+
+    if(lost>0){
+      const potential = gained; // score if wrong answers had simply been left blank instead
+      mb.appendChild(el('div',{css:`margin-top:12px;background:${accent}0d;border-left:3px solid ${accent};border-radius:6px;padding:8px 10px;font-size:11px;line-height:1.6;color:${Q.text};`,
+        text:`💡 Negative marking cost you ${lost} mark${lost!==1?'s':''} this attempt. Leaving an unsure answer blank instead of guessing would have kept your score at ${potential}/${r.maxMarks} — worth weighing next time you're not confident.`}));
+    }
+    body.appendChild(mb);
   }
 
   const breakdown = getSubjectBreakdown();
