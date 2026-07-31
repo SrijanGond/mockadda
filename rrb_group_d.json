@@ -5454,6 +5454,60 @@
           "exp_hi": "8³ = 512. इसी प्रकार, 9³ = 729."
         },
         {
+          "q": "Select the option that is related to the third term in the same way as the second term is related to the first term: 27 : 729 :: 8 : ?",
+          "q_hi": "उस विकल्प का चयन करें जो तीसरे पद से उसी प्रकार संबंधित है जिस प्रकार दूसरा पद पहले पद से संबंधित है: 27 : 729 :: 8 : ?",
+          "opts": [
+            64,
+            128,
+            256,
+            512
+          ],
+          "opts_hi": [
+            64,
+            128,
+            256,
+            512
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "If 'MUSIC' is coded as 'OVUKG', how is 'DANCE' coded?",
+          "q_hi": "यदि 'MUSIC' को 'OVUKG' के रूप में कोडित किया जाता है, तो 'DANCE' को कैसे कोडित किया जाएगा?",
+          "opts": [
+            "FCPEG",
+            "FCPGF",
+            "FDPEG",
+            "FCPEH"
+          ],
+          "opts_hi": [
+            "FCPEG",
+            "FCPGF",
+            "FDPEG",
+            "FCPEH"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "In a group of 200 people, 120 like cricket, 100 like football, and 40 like both. How many like neither?",
+          "q_hi": "200 लोगों के समूह में, 120 क्रिकेट पसंद करते हैं, 100 फुटबॉल पसंद करते हैं, और 40 दोनों पसंद करते हैं। कितने कोई भी पसंद नहीं करते हैं?",
+          "opts": [
+            10,
+            20,
+            30,
+            40
+          ],
+          "opts_hi": [
+            10,
+            20,
+            30,
+            40
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
           "q": "The famous 'Battle of Plassey' was fought in which year?",
           "opts": [
             "1756",
