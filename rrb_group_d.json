@@ -369,129 +369,143 @@
         },
         {
           "q": "Which of the following is a scalar quantity?",
-          "q_hi": "निम्नलिखित में से कौन सी अदिश राशि है?",
           "opts": [
             "Velocity",
             "Force",
             "Speed",
             "Displacement"
           ],
+          "ans": 2,
+          "subject": "General Science",
+          "q_hi": "निम्नलिखित में से कौन सी अदिश राशि है?",
           "opts_hi": [
             "वेग",
             "बल",
             "चाल",
             "विस्थापन"
           ],
-          "ans": 2,
-          "subject": "General Science"
+          "exp_en": "Speed is a scalar quantity as it has only magnitude, no direction. Velocity, force and displacement are vector quantities.",
+          "exp_hi": "चाल एक अदिश राशि है क्योंकि इसमें केवल परिमाण होता है, दिशा नहीं। वेग, बल और विस्थापन सदिश राशियाँ हैं।"
         },
         {
           "q": "What is the SI unit of frequency?",
-          "q_hi": "आवृत्ति का SI मात्रक क्या है?",
           "opts": [
             "Hertz",
             "Newton",
             "Joule",
             "Watt"
           ],
+          "ans": 0,
+          "subject": "General Science",
+          "q_hi": "आवृत्ति का SI मात्रक क्या है?",
           "opts_hi": [
             "हर्ट्ज",
             "न्यूटन",
             "जूल",
             "वाट"
           ],
-          "ans": 0,
-          "subject": "General Science"
+          "exp_en": "The SI unit of frequency is Hertz (Hz), named after Heinrich Hertz. 1 Hz = 1 cycle per second.",
+          "exp_hi": "आवृत्ति का SI मात्रक हर्ट्ज (Hz) है, जिसका नाम हेनरिक हर्ट्ज के नाम पर रखा गया है। 1 Hz = 1 चक्र प्रति सेकंड।"
         },
         {
           "q": "If the mass of an object is 10 kg and it is moving with a velocity of 5 m/s, what is its kinetic energy?",
-          "q_hi": "यदि किसी वस्तु का द्रव्यमान 10 किग्रा है और वह 5 मी/से के वेग से गतिमान है, तो उसकी गतिज ऊर्जा क्या है?",
           "opts": [
             "125 J",
             "250 J",
             "100 J",
             "150 J"
           ],
+          "ans": 0,
+          "subject": "General Science",
+          "q_hi": "यदि किसी वस्तु का द्रव्यमान 10 किग्रा है और वह 5 मी/से के वेग से गतिमान है, तो उसकी गतिज ऊर्जा क्या है?",
           "opts_hi": [
             "125 J",
             "250 J",
             "100 J",
             "150 J"
           ],
-          "ans": 0,
-          "subject": "General Science"
+          "exp_en": "Kinetic Energy = ½mv² = ½ × 10 × (5)² = 5 × 25 = 125 J.",
+          "exp_hi": "गतिज ऊर्जा = ½mv² = ½ × 10 × (5)² = 5 × 25 = 125 जूल।"
         },
         {
           "q": "Which law states that pressure applied to a confined fluid is transmitted equally in all directions?",
-          "q_hi": "कौन सा नियम कहता है कि एक सीमित द्रव पर लगाया गया दाब सभी दिशाओं में समान रूप से संचरित होता है?",
           "opts": [
             "Archimedes' Principle",
             "Pascal's Law",
             "Bernoulli's Theorem",
             "Boyle's Law"
           ],
+          "ans": 1,
+          "subject": "General Science",
+          "q_hi": "कौन सा नियम कहता है कि एक सीमित द्रव पर लगाया गया दाब सभी दिशाओं में समान रूप से संचरित होता है?",
           "opts_hi": [
             "आर्किमिडीज़ का सिद्धांत",
             "पास्कल का नियम",
             "बर्नौली का प्रमेय",
             "बॉयल का नियम"
           ],
-          "ans": 1,
-          "subject": "General Science"
+          "exp_en": "Pascal's Law states that pressure applied to a confined fluid is transmitted undiminished in all directions.",
+          "exp_hi": "पास्कल का नियम कहता है कि सीमित द्रव पर लगाया गया दाब सभी दिशाओं में अक्षुण्ण रूप से संचरित होता है।"
         },
         {
           "q": "What is the mirror formula?",
-          "q_hi": "दर्पण सूत्र क्या है?",
           "opts": [
             "1/f = 1/v + 1/u",
             "1/f = 1/v - 1/u",
             "1/v = 1/f + 1/u",
             "f = v + u"
           ],
+          "ans": 1,
+          "subject": "General Science",
+          "q_hi": "दर्पण सूत्र क्या है?",
           "opts_hi": [
             "1/f = 1/v + 1/u",
             "1/f = 1/v - 1/u",
             "1/v = 1/f + 1/u",
             "f = v + u"
           ],
-          "ans": 1,
-          "subject": "General Science"
+          "exp_en": "The mirror formula is 1/f = 1/v - 1/u, where f = focal length, v = image distance, u = object distance (with sign convention).",
+          "exp_hi": "दर्पण सूत्र है 1/f = 1/v - 1/u, जहाँ f = फोकस दूरी, v = प्रतिबिम्ब दूरी, u = वस्तु दूरी (चिह्न परिपाटी के साथ)।"
         },
         {
           "q": "What is the escape velocity of the Earth?",
-          "q_hi": "पृथ्वी का पलायन वेग क्या है?",
           "opts": [
             "7.9 km/s",
             "11.2 km/s",
             "14.2 km/s",
             "8.9 km/s"
           ],
+          "ans": 1,
+          "subject": "General Science",
+          "q_hi": "पृथ्वी का पलायन वेग क्या है?",
           "opts_hi": [
             "7.9 किमी/से",
             "11.2 किमी/से",
             "14.2 किमी/से",
             "8.9 किमी/से"
           ],
-          "ans": 1,
-          "subject": "General Science"
+          "exp_en": "The escape velocity of Earth is approximately 11.2 km/s. It is the minimum speed needed to break free from Earth's gravitational pull.",
+          "exp_hi": "पृथ्वी का पलायन वेग लगभग 11.2 किमी/से है। यह पृथ्वी के गुरुत्वाकर्षण बंधन से मुक्त होने के लिए आवश्यक न्यूनतम चाल है।"
         },
         {
           "q": "Which instrument is used to measure electric current?",
-          "q_hi": "विद्युत धारा मापने के लिए कौन सा उपकरण उपयोग किया जाता है?",
           "opts": [
             "Voltmeter",
             "Ammeter",
             "Galvanometer",
             "Ohmmeter"
           ],
+          "ans": 1,
+          "subject": "General Science",
+          "q_hi": "विद्युत धारा मापने के लिए कौन सा उपकरण उपयोग किया जाता है?",
           "opts_hi": [
             "वोल्टमीटर",
             "एमीटर",
             "गैल्वेनोमीटर",
             "ओममीटर"
           ],
-          "ans": 1,
-          "subject": "General Science"
+          "exp_en": "An ammeter is used to measure electric current in amperes. It is always connected in series.",
+          "exp_hi": "एमीटर का उपयोग विद्युत धारा को एम्पीयर में मापने के लिए किया जाता है। इसे सदैव श्रेणीक्रम में जोड़ा जाता है।"
         },
         {
           "q": "Two trains of lengths 200 m and 300 m are running on parallel tracks in opposite directions at speeds of 36 km/h and 54 km/h. How long will they take to cross each other?",
@@ -875,111 +889,123 @@
         },
         {
           "q": "If 40% of a number is 200, what is the number?",
-          "q_hi": "यदि किसी संख्या का 40% 200 है, तो वह संख्या क्या है?",
           "opts": [
-            400,
-            450,
-            500,
-            550
-          ],
-          "opts_hi": [
-            400,
-            450,
-            500,
-            550
+            "400",
+            "450",
+            "500",
+            "550"
           ],
           "ans": 2,
-          "subject": "Mathematics"
+          "subject": "Mathematics",
+          "q_hi": "यदि किसी संख्या का 40% 200 है, तो वह संख्या क्या है?",
+          "opts_hi": [
+            "400",
+            "450",
+            "500",
+            "550"
+          ],
+          "exp_en": "40% of 500 = 200, hence the number is 500.",
+          "exp_hi": "500 का 40% = 200, अतः संख्या 500 है।"
         },
         {
           "q": "If 25% of a number is 75, what is 40% of that number?",
-          "q_hi": "यदि किसी संख्या का 25% 75 है, तो उस संख्या का 40% क्या है?",
           "opts": [
-            100,
-            110,
-            120,
-            130
-          ],
-          "opts_hi": [
-            100,
-            110,
-            120,
-            130
+            "100",
+            "110",
+            "120",
+            "130"
           ],
           "ans": 2,
-          "subject": "Mathematics"
+          "subject": "Mathematics",
+          "q_hi": "यदि किसी संख्या का 25% 75 है, तो उस संख्या का 40% क्या है?",
+          "opts_hi": [
+            "100",
+            "110",
+            "120",
+            "130"
+          ],
+          "exp_en": "25% of number = 75 → number = 300. 40% of 300 = 120.",
+          "exp_hi": "संख्या का 25% = 75 → संख्या = 300। 300 का 40% = 120।"
         },
         {
           "q": "In an examination, a candidate must secure 40% marks to pass. He gets 160 marks and fails by 40 marks. What are the maximum marks?",
-          "q_hi": "एक परीक्षा में, उत्तीर्ण होने के लिए एक उम्मीदवार को 40% अंक प्राप्त करने होते हैं। उसे 160 अंक मिलते हैं और वह 40 अंकों से अनुत्तीर्ण हो जाता है। अधिकतम अंक क्या हैं?",
           "opts": [
-            400,
-            450,
-            500,
-            550
-          ],
-          "opts_hi": [
-            400,
-            450,
-            500,
-            550
+            "400",
+            "450",
+            "500",
+            "550"
           ],
           "ans": 2,
-          "subject": "Mathematics"
+          "subject": "Mathematics",
+          "q_hi": "एक परीक्षा में, उत्तीर्ण होने के लिए एक उम्मीदवार को 40% अंक प्राप्त करने होते हैं। उसे 160 अंक मिलते हैं और वह 40 अंकों से अनुत्तीर्ण हो जाता है। अधिकतम अंक क्या हैं?",
+          "opts_hi": [
+            "400",
+            "450",
+            "500",
+            "550"
+          ],
+          "exp_en": "Passing marks = 160 + 40 = 200. 40% of max = 200 → max = 200/0.40 = 500.",
+          "exp_hi": "उत्तीर्णांक = 160 + 40 = 200। अधिकतम का 40% = 200 → अधिकतम = 200/0.40 = 500।"
         },
         {
           "q": "A man buys a cycle for ₹800 and sells it at a profit of 20%. What is the selling price?",
-          "q_hi": "एक व्यक्ति एक साइकिल ₹800 में खरीदता है और 20% लाभ पर बेचता है। विक्रय मूल्य क्या है?",
           "opts": [
             "₹840",
             "₹900",
             "₹960",
             "₹980"
           ],
+          "ans": 2,
+          "subject": "Mathematics",
+          "q_hi": "एक व्यक्ति एक साइकिल ₹800 में खरीदता है और 20% लाभ पर बेचता है। विक्रय मूल्य क्या है?",
           "opts_hi": [
             "₹840",
             "₹900",
             "₹960",
             "₹980"
           ],
-          "ans": 2,
-          "subject": "Mathematics"
+          "exp_en": "SP = CP × (100 + Profit%)/100 = 800 × 120/100 = ₹960.",
+          "exp_hi": "विक्रय मूल्य = क्रय मूल्य × (100 + लाभ%)/100 = 800 × 120/100 = ₹960।"
         },
         {
           "q": "A shopkeeper sells an item at a loss of 10%. If he had sold it for ₹50 more, he would have gained 10%. What is the cost price?",
-          "q_hi": "एक दुकानदार एक वस्तु को 10% हानि पर बेचता है। यदि उसने इसे ₹50 अधिक में बेचा होता, तो उसे 10% लाभ होता। क्रय मूल्य क्या है?",
           "opts": [
             "₹200",
             "₹225",
             "₹250",
             "₹275"
           ],
+          "ans": 2,
+          "subject": "Mathematics",
+          "q_hi": "एक दुकानदार एक वस्तु को 10% हानि पर बेचता है। यदि उसने इसे ₹50 अधिक में बेचा होता, तो उसे 10% लाभ होता। क्रय मूल्य क्या है?",
           "opts_hi": [
             "₹200",
             "₹225",
             "₹250",
             "₹275"
           ],
-          "ans": 2,
-          "subject": "Mathematics"
+          "exp_en": "Let CP = x. SP1 = 0.9x, SP2 = 1.1x. Difference = 1.1x - 0.9x = 0.2x = 50 → x = 250.",
+          "exp_hi": "माना क्रय मूल्य = x. विक्रय1 = 0.9x, विक्रय2 = 1.1x। अंतर = 1.1x - 0.9x = 0.2x = 50 → x = 250।"
         },
         {
           "q": "A train covers a distance of 360 km in 6 hours. What is its speed in m/s?",
-          "q_hi": "एक ट्रेन 360 किमी की दूरी 6 घंटे में तय करती है। इसकी चाल मी/से में क्या है?",
           "opts": [
             "15 m/s",
             "16.67 m/s",
             "20 m/s",
             "18 m/s"
           ],
+          "ans": 1,
+          "subject": "Mathematics",
+          "q_hi": "एक ट्रेन 360 किमी की दूरी 6 घंटे में तय करती है। इसकी चाल मी/से में क्या है?",
           "opts_hi": [
             "15 मी/से",
             "16.67 मी/से",
             "20 मी/से",
             "18 मी/से"
           ],
-          "ans": 1,
-          "subject": "Mathematics"
+          "exp_en": "Speed = 360/6 = 60 km/h. Convert to m/s: 60 × 5/18 = 300/18 = 16.67 m/s.",
+          "exp_hi": "चाल = 360/6 = 60 किमी/घंटा। मी/से में बदलें: 60 × 5/18 = 300/18 = 16.67 मी/से।"
         },
         {
           "q": "If CAT is coded as 3120, how is DOG coded?",
@@ -1363,111 +1389,123 @@
         },
         {
           "q": "Select the option that is related to the third term in the same way as the second term is related to the first term: Book : Chapter :: Tree : ?",
-          "q_hi": "उस विकल्प का चयन करें जो तीसरे पद से उसी प्रकार संबंधित है जिस प्रकार दूसरा पद पहले पद से संबंधित है: पुस्तक : अध्याय :: वृक्ष : ?",
           "opts": [
             "Root",
             "Branch",
             "Leaf",
             "Fruit"
           ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning",
+          "q_hi": "उस विकल्प का चयन करें जो तीसरे पद से उसी प्रकार संबंधित है जिस प्रकार दूसरा पद पहले पद से संबंधित है: पुस्तक : अध्याय :: वृक्ष : ?",
           "opts_hi": [
             "जड़",
             "शाखा",
             "पत्ती",
             "फल"
           ],
-          "ans": 1,
-          "subject": "General Intelligence & Reasoning"
+          "exp_en": "A book is made up of chapters. Similarly, a tree is made up of branches.",
+          "exp_hi": "एक पुस्तक अध्यायों से बनी होती है। इसी प्रकार, एक वृक्ष शाखाओं से बना होता है।"
         },
         {
           "q": "Select the related letters: ACE : BDF :: GIK : ?",
-          "q_hi": "संबंधित अक्षरों का चयन करें: ACE : BDF :: GIK : ?",
           "opts": [
             "HJL",
             "HJM",
             "HIL",
             "IJL"
           ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning",
+          "q_hi": "संबंधित अक्षरों का चयन करें: ACE : BDF :: GIK : ?",
           "opts_hi": [
             "HJL",
             "HJM",
             "HIL",
             "IJL"
           ],
-          "ans": 0,
-          "subject": "General Intelligence & Reasoning"
+          "exp_en": "Each letter is shifted by +1: A→B, C→D, E→F. Similarly, G→H, I→J, K→L = HJL.",
+          "exp_hi": "प्रत्येक अक्षर में +1 की वृद्धि: A→B, C→D, E→F. इसी प्रकार, G→H, I→J, K→L = HJL."
         },
         {
           "q": "Find the odd one out:",
-          "q_hi": "विषम का चयन करें:",
           "opts": [
             "Cube",
             "Cone",
             "Cylinder",
             "Sphere"
           ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning",
+          "q_hi": "विषम का चयन करें:",
           "opts_hi": [
             "घन",
             "शंकु",
             "बेलन",
             "गोला"
           ],
-          "ans": 0,
-          "subject": "General Intelligence & Reasoning"
+          "exp_en": "Cube is a 3D shape with flat faces and edges; Cone, Cylinder, and Sphere are round/curved shapes.",
+          "exp_hi": "घन समतल फलकों और किनारों वाली 3D आकृति है; शंकु, बेलन और गोला गोल/वक्र आकृतियाँ हैं।"
         },
         {
           "q": "If 'APPLE' is coded as 'BQQMF', how is 'MANGO' coded?",
-          "q_hi": "यदि 'APPLE' को 'BQQMF' के रूप में कोडित किया जाता है, तो 'MANGO' को कैसे कोडित किया जाएगा?",
           "opts": [
             "NBOHP",
             "NBOJP",
             "NBOHQ",
             "NCOHP"
           ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning",
+          "q_hi": "यदि 'APPLE' को 'BQQMF' के रूप में कोडित किया जाता है, तो 'MANGO' को कैसे कोडित किया जाएगा?",
           "opts_hi": [
             "NBOHP",
             "NBOJP",
             "NBOHQ",
             "NCOHP"
           ],
-          "ans": 0,
-          "subject": "General Intelligence & Reasoning"
+          "exp_en": "Each letter is shifted by +1: A→B, P→Q, P→Q, L→M, E→F. Similarly, M→N, A→B, N→O, G→H, O→P = NBOHP.",
+          "exp_hi": "प्रत्येक अक्षर में +1 की वृद्धि: A→B, P→Q, P→Q, L→M, E→F. इसी प्रकार, M→N, A→B, N→O, G→H, O→P = NBOHP।"
         },
         {
           "q": "Karan starts from point A and walks 10 km towards North. He turns right and walks 5 km. He then turns right and walks 10 km. In which direction is he from his starting point?",
-          "q_hi": "करण बिंदु A से चलना शुरू करता है और 10 किमी उत्तर चलता है। वह दाईं ओर मुड़ता है और 5 किमी चलता है। फिर वह दाईं ओर मुड़ता है और 10 किमी चलता है। वह अपने प्रारंभिक बिंदु से किस दिशा में है?",
           "opts": [
             "North",
             "South",
             "East",
             "West"
           ],
+          "ans": 3,
+          "subject": "General Intelligence & Reasoning",
+          "q_hi": "करण बिंदु A से चलना शुरू करता है और 10 किमी उत्तर चलता है। वह दाईं ओर मुड़ता है और 5 किमी चलता है। फिर वह दाईं ओर मुड़ता है और 10 किमी चलता है। वह अपने प्रारंभिक बिंदु से किस दिशा में है?",
           "opts_hi": [
             "उत्तर",
             "दक्षिण",
             "पूर्व",
             "पश्चिम"
           ],
-          "ans": 3,
-          "subject": "General Intelligence & Reasoning"
+          "exp_en": "Starts → 10 km North → turns right (East) 5 km → turns right (South) 10 km. Net displacement = 5 km West. So he is in West direction.",
+          "exp_hi": "प्रारंभ → 10 किमी उत्तर → दाएँ मुड़ा (पूर्व) 5 किमी → दाएँ मुड़ा (दक्षिण) 10 किमी। शुद्ध विस्थापन = 5 किमी पश्चिम। अतः वह पश्चिम दिशा में है।"
         },
         {
           "q": "Find the next term: 0, 7, 26, 63, 124, ?",
-          "q_hi": "अगला पद ज्ञात करें: 0, 7, 26, 63, 124, ?",
           "opts": [
-            180,
-            190,
-            200,
-            215
-          ],
-          "opts_hi": [
-            180,
-            190,
-            200,
-            215
+            "180",
+            "190",
+            "200",
+            "215"
           ],
           "ans": 3,
-          "subject": "General Intelligence & Reasoning"
+          "subject": "General Intelligence & Reasoning",
+          "q_hi": "अगला पद ज्ञात करें: 0, 7, 26, 63, 124, ?",
+          "opts_hi": [
+            "180",
+            "190",
+            "200",
+            "215"
+          ],
+          "exp_en": "Pattern: 1³-1=0, 2³-1=7, 3³-1=26, 4³-1=63, 5³-1=124, 6³-1=215.",
+          "exp_hi": "पैटर्न: 1³-1=0, 2³-1=7, 3³-1=26, 4³-1=63, 5³-1=124, 6³-1=215।"
         },
         {
           "q": "Which state is the largest producer of coffee in India?",
@@ -1831,129 +1869,143 @@
         },
         {
           "q": "Who founded the Indian National Congress in 1885?",
-          "q_hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना किसने की?",
           "opts": [
             "Lord Dufferin",
             "A.O. Hume",
             "Dadabhai Naoroji",
             "W.C. Bonnerjee"
           ],
+          "ans": 1,
+          "subject": "General Awareness & Current Affairs",
+          "q_hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना किसने की?",
           "opts_hi": [
             "लॉर्ड डफरिन",
             "ए.ओ. ह्यूम",
             "दादाभाई नौरोजी",
             "डब्ल्यू.सी. बोनर्जी"
           ],
-          "ans": 1,
-          "subject": "General Awareness & Current Affairs"
+          "exp_en": "The Indian National Congress was founded by Allan Octavian Hume, a retired British civil servant, in 1885.",
+          "exp_hi": "भारतीय राष्ट्रीय कांग्रेस की स्थापना 1885 में एक सेवानिवृत्त ब्रिटिश सिविल सेवक एलन ऑक्टेवियन ह्यूम ने की थी।"
         },
         {
           "q": "The Doctrine of Lapse was introduced by which Governor-General?",
-          "q_hi": "व्यपगत का सिद्धांत (Doctrine of Lapse) किस गवर्नर-जनरल द्वारा लागू किया गया था?",
           "opts": [
             "Lord Wellesley",
             "Lord Hastings",
             "Lord Dalhousie",
             "Lord Canning"
           ],
+          "ans": 2,
+          "subject": "General Awareness & Current Affairs",
+          "q_hi": "व्यपगत का सिद्धांत (Doctrine of Lapse) किस गवर्नर-जनरल द्वारा लागू किया गया था?",
           "opts_hi": [
             "लॉर्ड वेलेस्ली",
             "लॉर्ड हेस्टिंग्स",
             "लॉर्ड डलहौजी",
             "लॉर्ड कैनिंग"
           ],
-          "ans": 2,
-          "subject": "General Awareness & Current Affairs"
+          "exp_en": "Lord Dalhousie introduced the Doctrine of Lapse (1848-1856) to annex Indian states without a male heir.",
+          "exp_hi": "लॉर्ड डलहौजी ने व्यपगत के सिद्धांत (1848-1856) को लागू किया था, जिसके तहत बिना पुरुष उत्तराधिकारी वाले राज्यों का विलय किया गया।"
         },
         {
           "q": "Who was the first Governor-General of independent India?",
-          "q_hi": "स्वतंत्र भारत के पहले गवर्नर-जनरल कौन थे?",
           "opts": [
             "Lord Mountbatten",
             "C. Rajagopalachari",
             "Jawaharlal Nehru",
             "Dr. Rajendra Prasad"
           ],
+          "ans": 0,
+          "subject": "General Awareness & Current Affairs",
+          "q_hi": "स्वतंत्र भारत के पहले गवर्नर-जनरल कौन थे?",
           "opts_hi": [
             "लॉर्ड माउंटबैटन",
             "सी. राजगोपालाचारी",
             "जवाहरलाल नेहरू",
             "डॉ. राजेन्द्र प्रसाद"
           ],
-          "ans": 0,
-          "subject": "General Awareness & Current Affairs"
+          "exp_en": "Lord Mountbatten was the first Governor-General of independent India (1947-1948). C. Rajagopalachari was the last.",
+          "exp_hi": "लॉर्ड माउंटबैटन स्वतंत्र भारत के पहले गवर्नर-जनरल थे (1947-1948)। सी. राजगोपालाचारी अंतिम थे।"
         },
         {
           "q": "Who is the ex-officio Chairman of the Rajya Sabha?",
-          "q_hi": "राज्यसभा का पदेन सभापति कौन होता है?",
           "opts": [
             "Prime Minister",
             "Speaker of Lok Sabha",
             "Vice President",
             "President"
           ],
+          "ans": 2,
+          "subject": "General Awareness & Current Affairs",
+          "q_hi": "राज्यसभा का पदेन सभापति कौन होता है?",
           "opts_hi": [
             "प्रधान मंत्री",
             "लोकसभा अध्यक्ष",
             "उपराष्ट्रपति",
             "राष्ट्रपति"
           ],
-          "ans": 2,
-          "subject": "General Awareness & Current Affairs"
+          "exp_en": "The Vice President of India is the ex-officio Chairman of the Rajya Sabha and presides over its proceedings.",
+          "exp_hi": "भारत के उपराष्ट्रपति राज्यसभा के पदेन सभापति होते हैं और वे इसकी कार्यवाही की अध्यक्षता करते हैं।"
         },
         {
           "q": "Which Article of the Indian Constitution deals with the Right to Constitutional Remedies?",
-          "q_hi": "भारतीय संविधान का कौन सा अनुच्छेद संवैधानिक उपचारों के अधिकार से संबंधित है?",
           "opts": [
             "Article 14",
             "Article 19",
             "Article 21",
             "Article 32"
           ],
+          "ans": 3,
+          "subject": "General Awareness & Current Affairs",
+          "q_hi": "भारतीय संविधान का कौन सा अनुच्छेद संवैधानिक उपचारों के अधिकार से संबंधित है?",
           "opts_hi": [
             "अनुच्छेद 14",
             "अनुच्छेद 19",
             "अनुच्छेद 21",
             "अनुच्छेद 32"
           ],
-          "ans": 3,
-          "subject": "General Awareness & Current Affairs"
+          "exp_en": "Article 32 grants the right to move the Supreme Court for enforcement of Fundamental Rights. Dr. Ambedkar called it the 'heart and soul' of the Constitution.",
+          "exp_hi": "अनुच्छेद 32 मौलिक अधिकारों के प्रवर्तन के लिए सर्वोच्च न्यायालय में जाने का अधिकार देता है। डॉ. अम्बेडकर ने इसे संविधान की 'आत्मा' कहा था।"
         },
         {
           "q": "Who was the Chairman of the Drafting Committee of the Indian Constitution?",
-          "q_hi": "भारतीय संविधान के प्रारूप समिति के अध्यक्ष कौन थे?",
           "opts": [
             "Jawaharlal Nehru",
             "B.R. Ambedkar",
             "Rajendra Prasad",
             "Sardar Patel"
           ],
+          "ans": 1,
+          "subject": "General Awareness & Current Affairs",
+          "q_hi": "भारतीय संविधान के प्रारूप समिति के अध्यक्ष कौन थे?",
           "opts_hi": [
             "जवाहरलाल नेहरू",
             "बी.आर. अम्बेडकर",
             "राजेन्द्र प्रसाद",
             "सरदार पटेल"
           ],
-          "ans": 1,
-          "subject": "General Awareness & Current Affairs"
+          "exp_en": "Dr. B.R. Ambedkar was the Chairman of the Drafting Committee and is regarded as the chief architect of the Indian Constitution.",
+          "exp_hi": "डॉ. बी.आर. अम्बेडकर प्रारूप समिति के अध्यक्ष थे और उन्हें भारतीय संविधान का मुख्य वास्तुकार माना जाता है।"
         },
         {
           "q": "The river known as the 'Sorrow of Bengal' is?",
-          "q_hi": "बंगाल का शोक' नाम से प्रसिद्ध नदी कौन सी है?",
           "opts": [
             "Ganga",
             "Brahmaputra",
             "Damodar",
             "Mahanadi"
           ],
+          "ans": 2,
+          "subject": "General Awareness & Current Affairs",
+          "q_hi": "बंगाल का शोक' नाम से प्रसिद्ध नदी कौन सी है?",
           "opts_hi": [
             "गंगा",
             "ब्रह्मपुत्र",
             "दामोदर",
             "महानदी"
           ],
-          "ans": 2,
-          "subject": "General Awareness & Current Affairs"
+          "exp_en": "The Damodar River is known as the 'Sorrow of Bengal' because of the frequent and severe floods it used to cause in West Bengal.",
+          "exp_hi": "दामोदर नदी को 'बंगाल का शोक' कहा जाता है क्योंकि यह पश्चिम बंगाल में बार-बार और गंभीर बाढ़ लाती थी।"
         }
       ]
     },
@@ -2306,57 +2358,63 @@
         },
         {
           "q": "What is the SI unit of force?",
-          "q_hi": "बल का SI मात्रक क्या है?",
           "opts": [
             "Joule",
             "Newton",
             "Watt",
             "Pascal"
           ],
+          "ans": 1,
+          "subject": "General Science",
+          "q_hi": "बल का SI मात्रक क्या है?",
           "opts_hi": [
             "जूल",
             "न्यूटन",
             "वाट",
             "पास्कल"
           ],
-          "ans": 1,
-          "subject": "General Science"
+          "exp_en": "The SI unit of force is Newton (N), named after Sir Isaac Newton. 1 Newton = 1 kg·m/s².",
+          "exp_hi": "बल का SI मात्रक न्यूटन (N) है, जिसका नाम सर आइजैक न्यूटन के नाम पर रखा गया है। 1 न्यूटन = 1 किग्रा·मी/से²।"
         },
         {
           "q": "Which of the following is a good conductor of heat?",
-          "q_hi": "निम्नलिखित में से कौन ऊष्मा का सुचालक है?",
           "opts": [
             "Wood",
             "Plastic",
             "Copper",
             "Rubber"
           ],
+          "ans": 2,
+          "subject": "General Science",
+          "q_hi": "निम्नलिखित में से कौन ऊष्मा का सुचालक है?",
           "opts_hi": [
             "लकड़ी",
             "प्लास्टिक",
             "तांबा",
             "रबर"
           ],
-          "ans": 2,
-          "subject": "General Science"
+          "exp_en": "Copper is a good conductor of heat. Wood, plastic and rubber are insulators.",
+          "exp_hi": "तांबा ऊष्मा का सुचालक है। लकड़ी, प्लास्टिक और रबर कुचालक हैं।"
         },
         {
           "q": "What is the acceleration due to gravity on the surface of the Earth approximately?",
-          "q_hi": "पृथ्वी की सतह पर गुरुत्वाकर्षण के कारण त्वरण लगभग कितना है?",
           "opts": [
             "8.9 m/s²",
             "9.8 m/s²",
             "10.8 m/s²",
             "11.8 m/s²"
           ],
+          "ans": 1,
+          "subject": "General Science",
+          "q_hi": "पृथ्वी की सतह पर गुरुत्वाकर्षण के कारण त्वरण लगभग कितना है?",
           "opts_hi": [
             "8.9 मी/से²",
             "9.8 मी/से²",
             "10.8 मी/से²",
             "11.8 मी/से²"
           ],
-          "ans": 1,
-          "subject": "General Science"
+          "exp_en": "The acceleration due to gravity on Earth's surface is approximately 9.8 m/s², denoted by 'g'.",
+          "exp_hi": "पृथ्वी की सतह पर गुरुत्वाकर्षण के कारण त्वरण लगभग 9.8 मी/से² होता है, जिसे 'g' से दर्शाया जाता है।"
         },
         {
           "q": "If the price of a product increases by 20% and becomes ₹600, what was the original price?",
@@ -2839,130 +2897,24 @@
           "exp_hi": "योग = औसत × पदों की संख्या = 18 × 4 = 72।"
         },
         {
-          "q": "A student scored 72 marks out of 120. What is his percentage?",
-          "q_hi": "एक छात्र ने 120 में से 72 अंक प्राप्त किए। उसका प्रतिशत क्या है?",
-          "opts": [
-            0.5,
-            0.55,
-            0.6,
-            0.65
-          ],
-          "opts_hi": [
-            0.5,
-            0.55,
-            0.6,
-            0.65
-          ],
-          "ans": 2,
-          "subject": "Mathematics"
-        },
-        {
           "q": "If 15% of a number is 45, what is the number?",
+          "opts": [
+            "200",
+            "250",
+            "300",
+            "350"
+          ],
+          "ans": 2,
+          "subject": "Mathematics",
           "q_hi": "यदि किसी संख्या का 15% 45 है, तो वह संख्या क्या है?",
-          "opts": [
-            200,
-            250,
-            300,
-            350
-          ],
           "opts_hi": [
-            200,
-            250,
-            300,
-            350
+            "200",
+            "250",
+            "300",
+            "350"
           ],
-          "ans": 2,
-          "subject": "Mathematics"
-        },
-        {
-          "q": "A shopkeeper buys a pen for ₹50 and sells it at a profit of 18%. What is the selling price?",
-          "q_hi": "एक दुकानदार एक पेन ₹50 में खरीदता है और 18% लाभ पर बेचता है। विक्रय मूल्य क्या है?",
-          "opts": [
-            "₹55",
-            "₹57",
-            "₹59",
-            "₹61"
-          ],
-          "opts_hi": [
-            "₹55",
-            "₹57",
-            "₹59",
-            "₹61"
-          ],
-          "ans": 2,
-          "subject": "Mathematics"
-        },
-        {
-          "q": "What is the LCM of 8, 12 and 16?",
-          "q_hi": "8, 12 और 16 का LCM क्या है?",
-          "opts": [
-            32,
-            40,
-            48,
-            56
-          ],
-          "opts_hi": [
-            32,
-            40,
-            48,
-            56
-          ],
-          "ans": 2,
-          "subject": "Mathematics"
-        },
-        {
-          "q": "A bus travels 180 km in 3 hours. What is its speed in m/s?",
-          "q_hi": "एक बस 180 किमी की दूरी 3 घंटे में तय करती है। इसकी चाल मी/से में क्या है?",
-          "opts": [
-            "15 m/s",
-            "16.67 m/s",
-            "20 m/s",
-            "25 m/s"
-          ],
-          "opts_hi": [
-            "15 मी/से",
-            "16.67 मी/से",
-            "20 मी/से",
-            "25 मी/से"
-          ],
-          "ans": 1,
-          "subject": "Mathematics"
-        },
-        {
-          "q": "If x - 1/x = 3, find x² + 1/x².",
-          "q_hi": "यदि x - 1/x = 3 है, तो x² + 1/x² ज्ञात करें।",
-          "opts": [
-            7,
-            9,
-            11,
-            13
-          ],
-          "opts_hi": [
-            7,
-            9,
-            11,
-            13
-          ],
-          "ans": 2,
-          "subject": "Mathematics"
-        },
-        {
-          "q": "What is the area of a square of side 15 cm?",
-          "q_hi": "15 सेमी भुजा वाले वर्ग का क्षेत्रफल क्या है?",
-          "opts": [
-            "200 cm²",
-            "215 cm²",
-            "220 cm²",
-            "225 cm²"
-          ],
-          "opts_hi": [
-            "200 सेमी²",
-            "215 सेमी²",
-            "220 सेमी²",
-            "225 सेमी²"
-          ],
-          "ans": 3,
-          "subject": "Mathematics"
+          "exp_en": "15% of x = 45 → x = 45 × 100/15 = 300.",
+          "exp_hi": "संख्या का 15% = 45 → x = 45 × 100/15 = 300।"
         },
         {
           "q": "Select the option that is related to the third term in the same way as the second term is related to the first term: Pen : Write :: Scissors : ?",
@@ -3366,75 +3318,83 @@
         },
         {
           "q": "Select the option that is related to the third term in the same way as the second term is related to the first term: Clock : Time :: Thermometer : ?",
-          "q_hi": "उस विकल्प का चयन करें जो तीसरे पद से उसी प्रकार संबंधित है जिस प्रकार दूसरा पद पहले पद से संबंधित है: घड़ी : समय :: थर्मामीटर : ?",
           "opts": [
             "Temperature",
             "Pressure",
             "Humidity",
             "Speed"
           ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning",
+          "q_hi": "उस विकल्प का चयन करें जो तीसरे पद से उसी प्रकार संबंधित है जिस प्रकार दूसरा पद पहले पद से संबंधित है: घड़ी : समय :: थर्मामीटर : ?",
           "opts_hi": [
             "तापमान",
             "दाब",
             "आर्द्रता",
             "गति"
           ],
-          "ans": 0,
-          "subject": "General Intelligence & Reasoning"
+          "exp_en": "A clock measures time. Similarly, a thermometer measures temperature.",
+          "exp_hi": "घड़ी समय मापती है। इसी प्रकार, थर्मामीटर तापमान मापता है।"
         },
         {
           "q": "If 'MOON' is coded as 'NPPO', how is 'STAR' coded?",
-          "q_hi": "यदि 'MOON' को 'NPPO' के रूप में कोडित किया जाता है, तो 'STAR' को कैसे कोडित किया जाएगा?",
           "opts": [
             "TUBT",
             "TUBS",
             "TUBR",
             "TUCU"
           ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning",
+          "q_hi": "यदि 'MOON' को 'NPPO' के रूप में कोडित किया जाता है, तो 'STAR' को कैसे कोडित किया जाएगा?",
           "opts_hi": [
             "TUBT",
             "TUBS",
             "TUBR",
             "TUCU"
           ],
-          "ans": 1,
-          "subject": "General Intelligence & Reasoning"
+          "exp_en": "Each letter is shifted by +1: M→N, O→P, O→P, N→O. Similarly, S→T, T→U, A→B, R→S = TUBS.",
+          "exp_hi": "प्रत्येक अक्षर में +1 की वृद्धि: M→N, O→P, O→P, N→O. इसी प्रकार, S→T, T→U, A→B, R→S = TUBS."
         },
         {
           "q": "Find the next term: 1, 8, 27, 64, 125, ?",
-          "q_hi": "अगला पद ज्ञात करें: 1, 8, 27, 64, 125, ?",
           "opts": [
-            150,
-            180,
-            200,
-            216
-          ],
-          "opts_hi": [
-            150,
-            180,
-            200,
-            216
+            "150",
+            "180",
+            "200",
+            "216"
           ],
           "ans": 3,
-          "subject": "General Intelligence & Reasoning"
+          "subject": "General Intelligence & Reasoning",
+          "q_hi": "अगला पद ज्ञात करें: 1, 8, 27, 64, 125, ?",
+          "opts_hi": [
+            "150",
+            "180",
+            "200",
+            "216"
+          ],
+          "exp_en": "Pattern: 1³=1, 2³=8, 3³=27, 4³=64, 5³=125, 6³=216.",
+          "exp_hi": "पैटर्न: 1³=1, 2³=8, 3³=27, 4³=64, 5³=125, 6³=216।"
         },
         {
           "q": "In a survey of 60 people, 40 like coffee, 30 like tea, and 20 like both. How many like neither?",
-          "q_hi": "60 लोगों के सर्वेक्षण में, 40 कॉफी पसंद करते हैं, 30 चाय पसंद करते हैं, और 20 दोनों पसंद करते हैं। कितने कोई भी पसंद नहीं करते हैं?",
           "opts": [
-            5,
-            10,
-            15,
-            20
-          ],
-          "opts_hi": [
-            5,
-            10,
-            15,
-            20
+            "5",
+            "10",
+            "15",
+            "20"
           ],
           "ans": 1,
-          "subject": "General Intelligence & Reasoning"
+          "subject": "General Intelligence & Reasoning",
+          "q_hi": "60 लोगों के सर्वेक्षण में, 40 कॉफी पसंद करते हैं, 30 चाय पसंद करते हैं, और 20 दोनों पसंद करते हैं। कितने कोई भी पसंद नहीं करते हैं?",
+          "opts_hi": [
+            "5",
+            "10",
+            "15",
+            "20"
+          ],
+          "exp_en": "People liking at least one = 40 + 30 - 20 = 50. Neither = 60 - 50 = 10.",
+          "exp_hi": "कम से कम एक पसंद करने वाले = 40 + 30 - 20 = 50। कोई भी नहीं = 60 - 50 = 10।"
         },
         {
           "q": "Who appoints the Chief Election Commissioner of India?",
@@ -3778,147 +3738,163 @@
         },
         {
           "q": "Who was the first President of the Indian National Congress?",
-          "q_hi": "भारतीय राष्ट्रीय कांग्रेस के पहले अध्यक्ष कौन थे?",
           "opts": [
             "Dadabhai Naoroji",
             "W.C. Bonnerjee",
             "A.O. Hume",
             "Surendranath Banerjee"
           ],
+          "ans": 1,
+          "subject": "General Awareness & Current Affairs",
+          "q_hi": "भारतीय राष्ट्रीय कांग्रेस के पहले अध्यक्ष कौन थे?",
           "opts_hi": [
             "दादाभाई नौरोजी",
             "डब्ल्यू.सी. बोनर्जी",
             "ए.ओ. ह्यूम",
             "सुरेन्द्रनाथ बनर्जी"
           ],
-          "ans": 1,
-          "subject": "General Awareness & Current Affairs"
+          "exp_en": "W.C. Bonnerjee was the first President of the Indian National Congress at its first session in Bombay in 1885.",
+          "exp_hi": "डब्ल्यू.सी. बोनर्जी 1885 में बॉम्बे में हुए पहले अधिवेशन में भारतीय राष्ट्रीय कांग्रेस के पहले अध्यक्ष थे।"
         },
         {
           "q": "The famous 'Salt March' was started from which place?",
-          "q_hi": "प्रसिद्ध 'नमक मार्च' किस स्थान से शुरू किया गया था?",
           "opts": [
             "Dandi",
             "Sabarmati",
             "Ahmedabad",
             "Porbandar"
           ],
+          "ans": 1,
+          "subject": "General Awareness & Current Affairs",
+          "q_hi": "प्रसिद्ध 'नमक मार्च' किस स्थान से शुरू किया गया था?",
           "opts_hi": [
             "डांडी",
             "साबरमती",
             "अहमदाबाद",
             "पोरबंदर"
           ],
-          "ans": 1,
-          "subject": "General Awareness & Current Affairs"
+          "exp_en": "The Salt March (Dandi March) was started by Mahatma Gandhi from Sabarmati Ashram on 12 March 1930 to Dandi.",
+          "exp_hi": "नमक मार्च (डांडी मार्च) महात्मा गांधी द्वारा 12 मार्च 1930 को साबरमती आश्रम से डांडी तक शुरू किया गया था।"
         },
         {
           "q": "Who was the first woman Governor of independent India?",
-          "q_hi": "स्वतंत्र भारत की पहली महिला राज्यपाल कौन थीं?",
           "opts": [
             "Indira Gandhi",
             "Sarojini Naidu",
             "Vijaya Lakshmi Pandit",
             "Sucheta Kriplani"
           ],
+          "ans": 1,
+          "subject": "General Awareness & Current Affairs",
+          "q_hi": "स्वतंत्र भारत की पहली महिला राज्यपाल कौन थीं?",
           "opts_hi": [
             "इंदिरा गांधी",
             "सरोजिनी नायडू",
             "विजया लक्ष्मी पंडित",
             "सुचेता कृपलानी"
           ],
-          "ans": 1,
-          "subject": "General Awareness & Current Affairs"
+          "exp_en": "Sarojini Naidu was the first woman Governor of independent India, serving as Governor of Uttar Pradesh from 1947 to 1949.",
+          "exp_hi": "सरोजिनी नायडू स्वतंत्र भारत की पहली महिला राज्यपाल थीं, उन्होंने 1947 से 1949 तक उत्तर प्रदेश की राज्यपाल के रूप में सेवा की।"
         },
         {
           "q": "Who is known as the 'Iron Man of India'?",
-          "q_hi": "भारत का 'लौह पुरुष' किसे कहा जाता है?",
           "opts": [
             "Mahatma Gandhi",
             "Jawaharlal Nehru",
             "Sardar Vallabhbhai Patel",
             "Subhas Chandra Bose"
           ],
+          "ans": 2,
+          "subject": "General Awareness & Current Affairs",
+          "q_hi": "भारत का 'लौह पुरुष' किसे कहा जाता है?",
           "opts_hi": [
             "महात्मा गांधी",
             "जवाहरलाल नेहरू",
             "सरदार वल्लभभाई पटेल",
             "सुभाष चंद्र बोस"
           ],
-          "ans": 2,
-          "subject": "General Awareness & Current Affairs"
+          "exp_en": "Sardar Vallabhbhai Patel is known as the 'Iron Man of India' for his role in integrating the princely states into the Indian Union.",
+          "exp_hi": "सरदार वल्लभभाई पटेल को देशी रियासतों को भारतीय संघ में एकीकृत करने में उनकी भूमिका के लिए 'लौह पुरुष' कहा जाता है।"
         },
         {
           "q": "Which constitutional body conducts elections in India?",
-          "q_hi": "भारत में चुनाव संचालित करने वाली संवैधानिक संस्था कौन सी है?",
           "opts": [
             "Election Commission of India",
             "Union Public Service Commission",
             "State Election Commission",
             "National Commission for Scheduled Castes"
           ],
+          "ans": 0,
+          "subject": "General Awareness & Current Affairs",
+          "q_hi": "भारत में चुनाव संचालित करने वाली संवैधानिक संस्था कौन सी है?",
           "opts_hi": [
             "भारत का चुनाव आयोग",
             "संघ लोक सेवा आयोग",
             "राज्य चुनाव आयोग",
             "राष्ट्रीय अनुसूचित जाति आयोग"
           ],
-          "ans": 0,
-          "subject": "General Awareness & Current Affairs"
+          "exp_en": "The Election Commission of India is a constitutional body established under Article 324. It conducts all elections to Parliament, State Legislatures, and the offices of President and Vice-President.",
+          "exp_hi": "भारत का चुनाव आयोग अनुच्छेद 324 के तहत स्थापित एक संवैधानिक निकाय है। यह संसद, राज्य विधानसभाओं और राष्ट्रपति एवं उपराष्ट्रपति के पदों के लिए सभी चुनाव संचालित करता है।"
         },
         {
           "q": "Which river is known as the 'Life Line of Kerala'?",
-          "q_hi": "किस नदी को 'केरल की जीवन रेखा' कहा जाता है?",
           "opts": [
             "Godavari",
             "Krishna",
             "Periyar",
             "Mahanadi"
           ],
+          "ans": 2,
+          "subject": "General Awareness & Current Affairs",
+          "q_hi": "किस नदी को 'केरल की जीवन रेखा' कहा जाता है?",
           "opts_hi": [
             "गोदावरी",
             "कृष्णा",
             "पेरियार",
             "महानदी"
           ],
-          "ans": 2,
-          "subject": "General Awareness & Current Affairs"
+          "exp_en": "Periyar is known as the 'Life Line of Kerala'. It is the longest river in Kerala and provides water for irrigation, drinking, and hydroelectric power.",
+          "exp_hi": "पेरियार को 'केरल की जीवन रेखा' कहा जाता है। यह केरल की सबसे लंबी नदी है और सिंचाई, पेयजल और जलविद्युत ऊर्जा के लिए जल प्रदान करती है।"
         },
         {
           "q": "The apex bank of India is?",
-          "q_hi": "भारत का शीर्ष बैंक कौन सा है?",
           "opts": [
             "State Bank of India",
             "Reserve Bank of India",
             "Punjab National Bank",
             "Bank of India"
           ],
+          "ans": 1,
+          "subject": "General Awareness & Current Affairs",
+          "q_hi": "भारत का शीर्ष बैंक कौन सा है?",
           "opts_hi": [
             "भारतीय स्टेट बैंक",
             "भारतीय रिजर्व बैंक",
             "पंजाब नेशनल बैंक",
             "बैंक ऑफ इंडिया"
           ],
-          "ans": 1,
-          "subject": "General Awareness & Current Affairs"
+          "exp_en": "The Reserve Bank of India (RBI) is the central bank and apex banking institution of India. It regulates the monetary policy and the banking system.",
+          "exp_hi": "भारतीय रिजर्व बैंक (RBI) भारत का केंद्रीय बैंक और शीर्ष बैंकिंग संस्थान है। यह मौद्रिक नीति और बैंकिंग प्रणाली को नियंत्रित करता है।"
         },
         {
           "q": "Which day is celebrated as 'World Ozone Day'?",
-          "q_hi": "विश्व ओजोन दिवस' किस दिन मनाया जाता है?",
           "opts": [
-            "2026-09-16T00:00:00.000Z",
-            "2026-10-16T00:00:00.000Z",
-            "2026-08-16T00:00:00.000Z",
-            "2026-07-16T00:00:00.000Z"
+            "16 September",
+            "16 October",
+            "16 August",
+            "16 July"
           ],
+          "ans": 0,
+          "subject": "General Awareness & Current Affairs",
+          "q_hi": "विश्व ओजोन दिवस' किस दिन मनाया जाता है?",
           "opts_hi": [
             "16 सितंबर",
             "16 अक्टूबर",
             "16 अगस्त",
             "16 जुलाई"
           ],
-          "ans": 0,
-          "subject": "General Awareness & Current Affairs"
+          "exp_en": "World Ozone Day is celebrated on 16 September every year to commemorate the signing of the Montreal Protocol on Substances that Deplete the Ozone Layer in 1987.",
+          "exp_hi": "विश्व ओजोन दिवस प्रत्येक वर्ष 16 सितंबर को मनाया जाता है, जो 1987 में ओजोन परत को क्षय करने वाले पदार्थों पर मॉन्ट्रियल प्रोटोकॉल पर हस्ताक्षर करने की स्मृति में है।"
         }
       ]
     },
@@ -4291,129 +4267,1083 @@
         },
         {
           "q": "What is the dimensional formula of force?",
-          "q_hi": "बल का विमीय सूत्र क्या है?",
           "opts": [
             "[MLT⁻²]",
             "[ML²T⁻²]",
             "[MLT⁻¹]",
             "[ML²T⁻¹]"
           ],
+          "ans": 0,
+          "subject": "General Science",
+          "q_hi": "बल का विमीय सूत्र क्या है?",
           "opts_hi": [
             "[MLT⁻²]",
             "[ML²T⁻²]",
             "[MLT⁻¹]",
             "[ML²T⁻¹]"
           ],
-          "ans": 0,
-          "subject": "General Science"
+          "exp_en": "Force = Mass × Acceleration. Dimensional formula = [M] × [LT⁻²] = [MLT⁻²].",
+          "exp_hi": "बल = द्रव्यमान × त्वरण। विमीय सूत्र = [M] × [LT⁻²] = [MLT⁻²]।"
         },
         {
           "q": "The velocity of sound is maximum in which medium?",
-          "q_hi": "ध्वनि का वेग किस माध्यम में अधिकतम होता है?",
           "opts": [
             "Air",
             "Water",
             "Solid",
             "Vacuum"
           ],
+          "ans": 2,
+          "subject": "General Science",
+          "q_hi": "ध्वनि का वेग किस माध्यम में अधिकतम होता है?",
           "opts_hi": [
             "वायु",
             "जल",
             "ठोस",
             "निर्वात"
           ],
-          "ans": 2,
-          "subject": "General Science"
+          "exp_en": "Sound travels fastest in solids because particles are closely packed, allowing vibrations to transfer quickly. In solids, particles are tightly packed, so sound velocity is highest.",
+          "exp_hi": "ठोसों में ध्वनि सबसे तेज चलती है क्योंकि कण निकट रूप से बंधे होते हैं, जिससे कंपन तेजी से स्थानांतरित होते हैं। ठोसों में कणों के बीच की दूरी कम होती है, इसलिए ध्वनि का वेग अधिकतम होता है।"
         },
         {
           "q": "Which phenomenon is responsible for the blue color of the sky?",
-          "q_hi": "आकाश के नीले रंग के लिए कौन सी परिघटना जिम्मेदार है?",
           "opts": [
             "Reflection",
             "Refraction",
             "Scattering",
             "Dispersion"
           ],
+          "ans": 2,
+          "subject": "General Science",
+          "q_hi": "आकाश के नीले रंग के लिए कौन सी परिघटना जिम्मेदार है?",
           "opts_hi": [
             "परावर्तन",
             "अपवर्तन",
             "प्रकीर्णन",
             "वर्ण विक्षेपण"
           ],
-          "ans": 2,
-          "subject": "General Science"
+          "exp_en": "Rayleigh scattering is responsible for the blue color of the sky. Blue light is scattered more than other colors by atmospheric particles.",
+          "exp_hi": "रेले प्रकीर्णन आकाश के नीले रंग के लिए जिम्मेदार है। नीला प्रकाश वायुमंडलीय कणों द्वारा अन्य रंगों की तुलना में अधिक प्रकीर्णित होता है।"
         },
         {
           "q": "What is the energy of a photon with frequency 'ν'?",
-          "q_hi": "आवृत्ति 'ν' वाले फोटॉन की ऊर्जा क्या है?",
           "opts": [
-            "hν",
-            "h/ν",
-            "ν/h",
-            "hν²"
-          ],
-          "opts_hi": [
             "hν",
             "h/ν",
             "ν/h",
             "hν²"
           ],
           "ans": 0,
-          "subject": "General Science"
+          "subject": "General Science",
+          "q_hi": "आवृत्ति 'ν' वाले फोटॉन की ऊर्जा क्या है?",
+          "opts_hi": [
+            "hν",
+            "h/ν",
+            "ν/h",
+            "hν²"
+          ],
+          "exp_en": "The energy of a photon is given by E = hν, where h is Planck's constant (6.626 × 10⁻³⁴ Js) and ν is the frequency.",
+          "exp_hi": "फोटॉन की ऊर्जा E = hν द्वारा दी जाती है, जहाँ h प्लांक स्थिरांक (6.626 × 10⁻³⁴ Js) है और ν आवृत्ति है।"
         },
         {
           "q": "The principle of working of a transformer is based on?",
-          "q_hi": "ट्रांसफॉर्मर के कार्य करने का सिद्धांत किस पर आधारित है?",
           "opts": [
             "Electromagnetic induction only",
             "Mutual induction",
             "Self induction",
             "Both electromagnetic and mutual induction"
           ],
+          "ans": 1,
+          "subject": "General Science",
+          "q_hi": "ट्रांसफॉर्मर के कार्य करने का सिद्धांत किस पर आधारित है?",
           "opts_hi": [
             "केवल विद्युत चुम्बकीय प्रेरण",
             "पारस्परिक प्रेरण",
             "स्वप्रेरण",
             "विद्युत चुम्बकीय और पारस्परिक प्रेरण दोनों"
           ],
-          "ans": 1,
-          "subject": "General Science"
+          "exp_en": "A transformer works on the principle of mutual induction between two coils. While electromagnetic induction is the broader phenomenon, mutual induction is the specific principle.",
+          "exp_hi": "ट्रांसफॉर्मर दो कुंडलियों के बीच पारस्परिक प्रेरण के सिद्धांत पर कार्य करता है। विद्युत चुम्बकीय प्रेरण व्यापक परिघटना है, लेकिन पारस्परिक प्रेरण विशिष्ट सिद्धांत है।"
         },
         {
           "q": "Which of the following has the highest specific heat capacity?",
-          "q_hi": "निम्नलिखित में से किसकी विशिष्ट ऊष्मा धारिता सबसे अधिक है?",
           "opts": [
             "Iron",
             "Water",
             "Copper",
             "Aluminum"
           ],
+          "ans": 1,
+          "subject": "General Science",
+          "q_hi": "निम्नलिखित में से किसकी विशिष्ट ऊष्मा धारिता सबसे अधिक है?",
           "opts_hi": [
             "लोहा",
             "जल",
             "तांबा",
             "एल्यूमीनियम"
           ],
-          "ans": 1,
-          "subject": "General Science"
+          "exp_en": "Water has the highest specific heat capacity (4.18 J/g°C) among common substances, making it an excellent coolant.",
+          "exp_hi": "सामान्य पदार्थों में जल की विशिष्ट ऊष्मा धारिता (4.18 J/g°C) सबसे अधिक है, जो इसे एक उत्कृष्ट शीतलक बनाती है।"
         },
         {
           "q": "What is the IUPAC name of CH₃COOH?",
-          "q_hi": "CH₃COOH का IUPAC नाम क्या है?",
           "opts": [
             "Acetic acid",
             "Ethanoic acid",
             "Methanoic acid",
             "Propanoic acid"
           ],
+          "ans": 1,
+          "subject": "General Science",
+          "q_hi": "CH₃COOH का IUPAC नाम क्या है?",
           "opts_hi": [
             "एसिटिक अम्ल",
             "एथेनोइक अम्ल",
             "मेथेनोइक अम्ल",
             "प्रोपेनोइक अम्ल"
           ],
+          "exp_en": "The IUPAC name of CH₃COOH is ethanoic acid. Acetic acid is its common name used in vinegar.",
+          "exp_hi": "CH₃COOH का IUPAC नाम एथेनोइक अम्ल है। एसिटिक अम्ल इसका सामान्य नाम है जो सिरके में उपयोग होता है।"
+        },
+        {
+          "q": "If the price of a commodity is decreased by 20% and its consumption is increased by 30%, what is the net effect on expenditure?",
+          "opts": [
+            "4% increase",
+            "4% decrease",
+            "6% increase",
+            "6% decrease"
+          ],
+          "ans": 0,
+          "subject": "Mathematics",
+          "q_hi": "यदि किसी वस्तु की कीमत में 20% की कमी की जाती है और उसकी खपत में 30% की वृद्धि की जाती है, तो व्यय पर शुद्ध प्रभाव क्या होगा?",
+          "opts_hi": [
+            "4% वृद्धि",
+            "4% कमी",
+            "6% वृद्धि",
+            "6% कमी"
+          ],
+          "exp_en": "Net change = a + b + (ab/100) = -20 + 30 + (-20×30/100) = 10 - 6 = 4% increase.",
+          "exp_hi": "शुद्ध परिवर्तन = a + b + (ab/100) = -20 + 30 + (-20×30/100) = 10 - 6 = 4% वृद्धि।"
+        },
+        {
+          "q": "The population of a town increases by 10% annually. If the current population is 121000, what was it 2 years ago?",
+          "opts": [
+            "100000",
+            "110000",
+            "105000",
+            "95000"
+          ],
+          "ans": 0,
+          "subject": "Mathematics",
+          "q_hi": "एक शहर की जनसंख्या वार्षिक 10% बढ़ती है। यदि वर्तमान जनसंख्या 121000 है, तो 2 वर्ष पूर्व यह क्या थी?",
+          "opts_hi": [
+            "100000",
+            "110000",
+            "105000",
+            "95000"
+          ],
+          "exp_en": "Population after 2 years = P × (1.10)² = 121000 → P = 121000 / 1.21 = 100000.",
+          "exp_hi": "2 वर्ष बाद जनसंख्या = P × (1.10)² = 121000 → P = 121000 / 1.21 = 100000।"
+        },
+        {
+          "q": "An article is sold at a profit of 20%. If the cost price is ₹500, what is the selling price?",
+          "opts": [
+            "₹550",
+            "₹580",
+            "₹600",
+            "₹650"
+          ],
+          "ans": 2,
+          "subject": "Mathematics",
+          "q_hi": "एक वस्तु को 20% लाभ पर बेचा जाता है। यदि क्रय मूल्य ₹500 है, तो विक्रय मूल्य क्या है?",
+          "opts_hi": [
+            "₹550",
+            "₹580",
+            "₹600",
+            "₹650"
+          ],
+          "exp_en": "SP = CP × (100 + Profit%)/100 = 500 × 120/100 = ₹600.",
+          "exp_hi": "विक्रय मूल्य = क्रय मूल्य × (100 + लाभ%)/100 = 500 × 120/100 = ₹600।"
+        },
+        {
+          "q": "A shopkeeper sells an item at a loss of 10%. If he had sold it for ₹50 more, he would have gained 10%. What is the cost price?",
+          "opts": [
+            "₹200",
+            "₹225",
+            "₹250",
+            "₹275"
+          ],
+          "ans": 2,
+          "subject": "Mathematics",
+          "q_hi": "एक दुकानदार एक वस्तु को 10% हानि पर बेचता है। यदि उसने इसे ₹50 अधिक में बेचा होता, तो उसे 10% लाभ होता। क्रय मूल्य क्या है?",
+          "opts_hi": [
+            "₹200",
+            "₹225",
+            "₹250",
+            "₹275"
+          ],
+          "exp_en": "Let CP = x. SP1 = 0.9x, SP2 = 1.1x. Difference = 1.1x - 0.9x = 0.2x = 50 → x = 250.",
+          "exp_hi": "माना CP = x. SP1 = 0.9x, SP2 = 1.1x. अंतर = 1.1x - 0.9x = 0.2x = 50 → x = 250।"
+        },
+        {
+          "q": "Two trains of lengths 300 m and 400 m are running on parallel tracks in the same direction at speeds of 40 km/h and 60 km/h. How long will the faster train take to cross the slower train?",
+          "opts": [
+            "120 sec",
+            "126 sec",
+            "130 sec",
+            "140 sec"
+          ],
           "ans": 1,
-          "subject": "General Science"
+          "subject": "Mathematics",
+          "q_hi": "300 मी और 400 मी लंबाई की दो ट्रेनें समानांतर पटरियों पर एक ही दिशा में 40 किमी/घंटा और 60 किमी/घंटा की चाल से चल रही हैं। तेज ट्रेन धीमी ट्रेन को पार करने में कितना समय लेगी?",
+          "opts_hi": [
+            "120 सेकंड",
+            "126 सेकंड",
+            "130 सेकंड",
+            "140 सेकंड"
+          ],
+          "exp_en": "Relative speed = 60 - 40 = 20 km/h = 20 × 5/18 = 50/9 m/s. Total distance = 300 + 400 = 700 m. Time = 700 / (50/9) = 700 × 9/50 = 6300/50 = 126 sec.",
+          "exp_hi": "सापेक्ष चाल = 60 - 40 = 20 किमी/घंटा = 20 × 5/18 = 50/9 मी/से। कुल दूरी = 300 + 400 = 700 मी। समय = 700 / (50/9) = 700 × 9/50 = 6300/50 = 126 सेकंड।"
+        },
+        {
+          "q": "A man covers a distance of 60 km at a speed of 30 km/h and returns at a speed of 20 km/h. What is the average speed for the whole journey?",
+          "opts": [
+            "20 km/h",
+            "24 km/h",
+            "25 km/h",
+            "28 km/h"
+          ],
+          "ans": 1,
+          "subject": "Mathematics",
+          "q_hi": "एक व्यक्ति 60 किमी की दूरी 30 किमी/घंटा की चाल से तय करता है और 20 किमी/घंटा की चाल से वापस आता है। पूरी यात्रा की औसत चाल क्या है?",
+          "opts_hi": [
+            "20 किमी/घंटा",
+            "24 किमी/घंटा",
+            "25 किमी/घंटा",
+            "28 किमी/घंटा"
+          ],
+          "exp_en": "Average speed = 2xy/(x+y) = 2×30×20/(30+20) = 1200/50 = 24 km/h.",
+          "exp_hi": "औसत चाल = 2xy/(x+y) = 2×30×20/(30+20) = 1200/50 = 24 किमी/घंटा।"
+        },
+        {
+          "q": "What is the compound interest on ₹5000 at 10% per annum compounded half-yearly for 1.5 years?",
+          "opts": [
+            "₹768",
+            "₹788",
+            "₹798",
+            "₹818"
+          ],
+          "ans": 1,
+          "subject": "Mathematics",
+          "q_hi": "₹5000 पर 10% वार्षिक दर से अर्धवार्षिक रूप से संयोजित 1.5 वर्षों का चक्रवृद्धि ब्याज क्या है?",
+          "opts_hi": [
+            "₹768",
+            "₹788",
+            "₹798",
+            "₹818"
+          ],
+          "exp_en": "Rate per half-year = 10/2 = 5%, Time = 1.5 × 2 = 3 half-years. Amount = 5000(1 + 5/100)³ = 5000 × (1.05)³ = 5000 × 1.157625 = 5788.125. CI = 5788.125 - 5000 = ₹788.125 ≈ ₹788.",
+          "exp_hi": "अर्धवार्षिक दर = 10/2 = 5%, समय = 1.5 × 2 = 3 अर्धवर्ष। मिश्रधन = 5000(1 + 5/100)³ = 5000 × (1.05)³ = 5000 × 1.157625 = 5788.125। CI = 5788.125 - 5000 = ₹788.125 ≈ ₹788।"
+        },
+        {
+          "q": "The difference between compound interest and simple interest on ₹10000 at 10% per annum for 2 years is?",
+          "opts": [
+            "₹50",
+            "₹100",
+            "₹150",
+            "₹200"
+          ],
+          "ans": 1,
+          "subject": "Mathematics",
+          "q_hi": "₹10000 पर 10% वार्षिक दर से 2 वर्षों के चक्रवृद्धि ब्याज और साधारण ब्याज के बीच अंतर क्या है?",
+          "opts_hi": [
+            "₹50",
+            "₹100",
+            "₹150",
+            "₹200"
+          ],
+          "exp_en": "SI = (10000×10×2)/100 = 2000. CI = 10000(1+0.1)² - 10000 = 10000×1.21 - 10000 = 12100 - 10000 = 2100. Difference = 2100 - 2000 = ₹100.",
+          "exp_hi": "साधारण ब्याज = (10000×10×2)/100 = 2000. चक्रवृद्धि ब्याज = 10000(1+0.1)² - 10000 = 10000×1.21 - 10000 = 12100 - 10000 = 2100. अंतर = 2100 - 2000 = ₹100।"
+        },
+        {
+          "q": "If x : y = 5 : 7, find (5x + 3y) : (3x + 2y).",
+          "opts": [
+            "5 : 6",
+            "6 : 7",
+            "46 : 29",
+            "47 : 30"
+          ],
+          "ans": 2,
+          "subject": "Mathematics",
+          "q_hi": "यदि x : y = 5 : 7 है, तो (5x + 3y) : (3x + 2y) ज्ञात करें।",
+          "opts_hi": [
+            "5 : 6",
+            "6 : 7",
+            "46 : 29",
+            "47 : 30"
+          ],
+          "exp_en": "Let x = 5k, y = 7k. (5×5k + 3×7k) : (3×5k + 2×7k) = (25k+21k) : (15k+14k) = 46k : 29k = 46 : 29.",
+          "exp_hi": "माना x = 5k, y = 7k. (5×5k + 3×7k) : (3×5k + 2×7k) = (25k+21k) : (15k+14k) = 46k : 29k = 46 : 29।"
+        },
+        {
+          "q": "If x : y = 9 : 11, find (4x + 5y) : (6x + 7y).",
+          "opts": [
+            "89 : 131",
+            "91 : 133",
+            "90 : 132",
+            "88 : 130"
+          ],
+          "ans": 1,
+          "subject": "Mathematics",
+          "q_hi": "यदि x : y = 9 : 11 है, तो (4x + 5y) : (6x + 7y) ज्ञात करें।",
+          "opts_hi": [
+            "89 : 131",
+            "91 : 133",
+            "90 : 132",
+            "88 : 130"
+          ],
+          "exp_en": "Let x = 9k, y = 11k. (4×9k + 5×11k) : (6×9k + 7×11k) = (36k+55k) : (54k+77k) = 91k : 131k = 91 : 131.",
+          "exp_hi": "माना x = 9k, y = 11k. (4×9k + 5×11k) : (6×9k + 7×11k) = (36k+55k) : (54k+77k) = 91k : 131k = 91 : 131।"
+        },
+        {
+          "q": "What is the HCF of 144 and 180?",
+          "opts": [
+            "24",
+            "30",
+            "36",
+            "42"
+          ],
+          "ans": 2,
+          "subject": "Mathematics",
+          "q_hi": "144 और 180 का HCF क्या है?",
+          "opts_hi": [
+            "24",
+            "30",
+            "36",
+            "42"
+          ],
+          "exp_en": "144 = 2⁴×3², 180 = 2²×3²×5. HCF = 2²×3² = 4×9 = 36.",
+          "exp_hi": "144 = 2⁴×3², 180 = 2²×3²×5. HCF = 2²×3² = 4×9 = 36।"
+        },
+        {
+          "q": "What is the smallest number divisible by 12, 15 and 18?",
+          "opts": [
+            "120",
+            "150",
+            "180",
+            "210"
+          ],
+          "ans": 2,
+          "subject": "Mathematics",
+          "q_hi": "12, 15 और 18 से विभाज्य सबसे छोटी संख्या क्या है?",
+          "opts_hi": [
+            "120",
+            "150",
+            "180",
+            "210"
+          ],
+          "exp_en": "The smallest number divisible by given numbers is the LCM. 12=2²×3, 15=3×5, 18=2×3². LCM = 2²×3²×5 = 4×9×5 = 180.",
+          "exp_hi": "दी गई संख्याओं से विभाज्य सबसे छोटी संख्या LCM है। 12=2²×3, 15=3×5, 18=2×3². LCM = 2²×3²×5 = 4×9×5 = 180।"
+        },
+        {
+          "q": "Which of the following is a prime number?",
+          "opts": [
+            "51",
+            "57",
+            "61",
+            "63"
+          ],
+          "ans": 2,
+          "subject": "Mathematics",
+          "q_hi": "निम्नलिखित में से कौन सी अभाज्य संख्या है?",
+          "opts_hi": [
+            "51",
+            "57",
+            "61",
+            "63"
+          ],
+          "exp_en": "61 is a prime number as it has only two factors: 1 and 61. 51=3×17, 57=3×19, 63=7×9.",
+          "exp_hi": "61 एक अभाज्य संख्या है क्योंकि इसके केवल दो गुणनखंड हैं: 1 और 61. 51=3×17, 57=3×19, 63=7×9."
+        },
+        {
+          "q": "If x + 1/x = 5, find x³ + 1/x³.",
+          "opts": [
+            "100",
+            "105",
+            "110",
+            "115"
+          ],
+          "ans": 2,
+          "subject": "Mathematics",
+          "q_hi": "यदि x + 1/x = 5 है, तो x³ + 1/x³ ज्ञात करें।",
+          "opts_hi": [
+            "100",
+            "105",
+            "110",
+            "115"
+          ],
+          "exp_en": "x³ + 1/x³ = (x + 1/x)³ - 3(x + 1/x) = 5³ - 3×5 = 125 - 15 = 110.",
+          "exp_hi": "x³ + 1/x³ = (x + 1/x)³ - 3(x + 1/x) = 5³ - 3×5 = 125 - 15 = 110।"
+        },
+        {
+          "q": "If x + y = 15 and xy = 56, find x - y (where x > y).",
+          "opts": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "ans": 0,
+          "subject": "Mathematics",
+          "q_hi": "यदि x + y = 15 और xy = 56 है, तो x - y ज्ञात करें (जहाँ x > y).",
+          "opts_hi": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "exp_en": "(x - y)² = (x + y)² - 4xy = 15² - 4×56 = 225 - 224 = 1 → x - y = 1.",
+          "exp_hi": "(x - y)² = (x + y)² - 4xy = 15² - 4×56 = 225 - 224 = 1 → x - y = 1।"
+        },
+        {
+          "q": "Solve: 4x + 3 = 23. Find x.",
+          "opts": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "ans": 2,
+          "subject": "Mathematics",
+          "q_hi": "हल करें: 4x + 3 = 23. x ज्ञात करें।",
+          "opts_hi": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "exp_en": "4x = 23 - 3 = 20 → x = 20/4 = 5.",
+          "exp_hi": "4x = 23 - 3 = 20 → x = 20/4 = 5।"
+        },
+        {
+          "q": "What is the volume of a cylinder with radius 7 cm and height 10 cm?",
+          "opts": [
+            "1540 cm³",
+            "15400 cm³",
+            "1480 cm³",
+            "1450 cm³"
+          ],
+          "ans": 0,
+          "subject": "Mathematics",
+          "q_hi": "7 सेमी त्रिज्या और 10 सेमी ऊँचाई वाले बेलन का आयतन क्या है?",
+          "opts_hi": [
+            "1540 सेमी³",
+            "15400 सेमी³",
+            "1480 सेमी³",
+            "1450 सेमी³"
+          ],
+          "exp_en": "Volume = πr²h = 22/7 × 7 × 7 × 10 = 1540 cm³.",
+          "exp_hi": "आयतन = πr²h = 22/7 × 7 × 7 × 10 = 1540 सेमी³।"
+        },
+        {
+          "q": "What is the total surface area of a cylinder of radius 7 cm and height 10 cm?",
+          "opts": [
+            "748 cm²",
+            "728 cm²",
+            "738 cm²",
+            "758 cm²"
+          ],
+          "ans": 0,
+          "subject": "Mathematics",
+          "q_hi": "7 सेमी त्रिज्या और 10 सेमी ऊँचाई वाले बेलन का कुल पृष्ठीय क्षेत्रफल क्या है?",
+          "opts_hi": [
+            "748 सेमी²",
+            "728 सेमी²",
+            "738 सेमी²",
+            "758 सेमी²"
+          ],
+          "exp_en": "Total surface area = 2πr(r + h) = 2 × 22/7 × 7 × (7 + 10) = 44 × 17 = 748 cm².",
+          "exp_hi": "कुल पृष्ठीय क्षेत्रफल = 2πr(r + h) = 2 × 22/7 × 7 × (7 + 10) = 44 × 17 = 748 सेमी²।"
+        },
+        {
+          "q": "What is the perimeter of a square of side 12 cm?",
+          "opts": [
+            "24 cm",
+            "36 cm",
+            "48 cm",
+            "60 cm"
+          ],
+          "ans": 2,
+          "subject": "Mathematics",
+          "q_hi": "12 सेमी भुजा वाले वर्ग का परिमाप क्या है?",
+          "opts_hi": [
+            "24 सेमी",
+            "36 सेमी",
+            "48 सेमी",
+            "60 सेमी"
+          ],
+          "exp_en": "Perimeter = 4 × side = 4 × 12 = 48 cm.",
+          "exp_hi": "परिमाप = 4 × भुजा = 4 × 12 = 48 सेमी।"
+        },
+        {
+          "q": "What is the value of sin 30° × cos 60°?",
+          "opts": [
+            "0.25",
+            "0.5",
+            "0.75",
+            "1"
+          ],
+          "ans": 0,
+          "subject": "Mathematics",
+          "q_hi": "sin 30° × cos 60° का मान क्या है?",
+          "opts_hi": [
+            "0.25",
+            "0.5",
+            "0.75",
+            "1"
+          ],
+          "exp_en": "sin 30° = 1/2, cos 60° = 1/2. Product = 1/2 × 1/2 = 1/4 = 0.25.",
+          "exp_hi": "sin 30° = 1/2, cos 60° = 1/2. गुणनफल = 1/2 × 1/2 = 1/4 = 0.25।"
+        },
+        {
+          "q": "What is the value of tan 45° × cot 45°?",
+          "opts": [
+            "0",
+            "0.5",
+            "1",
+            "2"
+          ],
+          "ans": 2,
+          "subject": "Mathematics",
+          "q_hi": "tan 45° × cot 45° का मान क्या है?",
+          "opts_hi": [
+            "0",
+            "0.5",
+            "1",
+            "2"
+          ],
+          "exp_en": "tan 45° = 1, cot 45° = 1. Product = 1 × 1 = 1.",
+          "exp_hi": "tan 45° = 1, cot 45° = 1. गुणनफल = 1 × 1 = 1।"
+        },
+        {
+          "q": "The average of 5 numbers is 20. If one number is removed, the average becomes 18. What is the removed number?",
+          "opts": [
+            "20",
+            "22",
+            "24",
+            "28"
+          ],
+          "ans": 3,
+          "subject": "Mathematics",
+          "q_hi": "5 संख्याओं का औसत 20 है। यदि एक संख्या हटा दी जाती है, तो औसत 18 हो जाता है। हटाई गई संख्या क्या है?",
+          "opts_hi": [
+            "20",
+            "22",
+            "24",
+            "28"
+          ],
+          "exp_en": "Sum of 5 numbers = 5 × 20 = 100. Sum of remaining 4 = 4 × 18 = 72. Removed number = 100 - 72 = 28.",
+          "exp_hi": "5 संख्याओं का योग = 5 × 20 = 100। शेष 4 का योग = 4 × 18 = 72। हटाई गई संख्या = 100 - 72 = 28।"
+        },
+        {
+          "q": "The average of 4 numbers is 18. What is the sum of the numbers?",
+          "opts": [
+            "72",
+            "74",
+            "76",
+            "78"
+          ],
+          "ans": 0,
+          "subject": "Mathematics",
+          "q_hi": "4 संख्याओं का औसत 18 है। संख्याओं का योग क्या है?",
+          "opts_hi": [
+            "72",
+            "74",
+            "76",
+            "78"
+          ],
+          "exp_en": "Sum = Average × Number of items = 18 × 4 = 72.",
+          "exp_hi": "योग = औसत × पदों की संख्या = 18 × 4 = 72।"
+        },
+        {
+          "q": "The sum of the angles of a triangle is:",
+          "opts": [
+            "180°",
+            "270°",
+            "360°",
+            "90°"
+          ],
+          "ans": 0,
+          "subject": "Mathematics",
+          "q_hi": "एक त्रिभुज के कोणों का योग होता है:",
+          "opts_hi": [
+            "180°",
+            "270°",
+            "360°",
+            "90°"
+          ],
+          "exp_en": "The sum of all three interior angles of a triangle is always 180°.",
+          "exp_hi": "एक त्रिभुज के तीनों अंतः कोणों का योग सदैव 180° होता है।"
+        },
+        {
+          "q": "The sum of the angles of a quadrilateral is:",
+          "opts": [
+            "180°",
+            "270°",
+            "360°",
+            "450°"
+          ],
+          "ans": 2,
+          "subject": "Mathematics",
+          "q_hi": "एक चतुर्भुज के कोणों का योग होता है:",
+          "opts_hi": [
+            "180°",
+            "270°",
+            "360°",
+            "450°"
+          ],
+          "exp_en": "The sum of all four interior angles of a quadrilateral is always 360°.",
+          "exp_hi": "एक चतुर्भुज के चारों अंतः कोणों का योग सदैव 360° होता है।"
+        },
+        {
+          "q": "Select the option that is related to the third term in the same way as the second term is related to the first term: Fish : Water :: Bird : ?",
+          "opts": [
+            "Land",
+            "Air",
+            "Tree",
+            "Sky"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning",
+          "q_hi": "उस विकल्प का चयन करें जो तीसरे पद से उसी प्रकार संबंधित है जिस प्रकार दूसरा पद पहले पद से संबंधित है: मछली : पानी :: पक्षी : ?",
+          "opts_hi": [
+            "भूमि",
+            "हवा",
+            "पेड़",
+            "आकाश"
+          ],
+          "exp_en": "A fish lives in water. Similarly, a bird lives in air.",
+          "exp_hi": "मछली पानी में रहती है। इसी प्रकार, पक्षी हवा में रहता है।"
+        },
+        {
+          "q": "Select the related letters: ABC : DEF :: GHI : ?",
+          "opts": [
+            "JKL",
+            "JKM",
+            "IJK",
+            "HIL"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning",
+          "q_hi": "संबंधित अक्षरों का चयन करें: ABC : DEF :: GHI : ?",
+          "opts_hi": [
+            "JKL",
+            "JKM",
+            "IJK",
+            "HIL"
+          ],
+          "exp_en": "Each letter is shifted by +3: A→D, B→E, C→F. Similarly, G→J, H→K, I→L = JKL.",
+          "exp_hi": "प्रत्येक अक्षर में +3 की वृद्धि: A→D, B→E, C→F. इसी प्रकार, G→J, H→K, I→L = JKL."
+        },
+        {
+          "q": "Select the related number: 16 : 64 :: 25 : ?",
+          "opts": [
+            "100",
+            "125",
+            "150",
+            "175"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning",
+          "q_hi": "संबंधित संख्या का चयन करें: 16 : 64 :: 25 : ?",
+          "opts_hi": [
+            "100",
+            "125",
+            "150",
+            "175"
+          ],
+          "exp_en": "4² = 16, 4³ = 64. Similarly, 5² = 25, 5³ = 125.",
+          "exp_hi": "4² = 16, 4³ = 64. इसी प्रकार, 5² = 25, 5³ = 125."
+        },
+        {
+          "q": "Find the odd one out:",
+          "opts": [
+            "Rose",
+            "Lily",
+            "Marigold",
+            "Banyan"
+          ],
+          "ans": 3,
+          "subject": "General Intelligence & Reasoning",
+          "q_hi": "विषम का चयन करें:",
+          "opts_hi": [
+            "गुलाब",
+            "लिली",
+            "गेंदा",
+            "बरगद"
+          ],
+          "exp_en": "Rose, Lily and Marigold are flowers. Banyan is a tree.",
+          "exp_hi": "गुलाब, लिली और गेंदा फूल हैं। बरगद एक पेड़ है।"
+        },
+        {
+          "q": "If 'HOUSE' is coded as 'IPVTF', how is 'ROAD' coded?",
+          "opts": [
+            "SPBE",
+            "SPCE",
+            "SPBF",
+            "SQBE"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning",
+          "q_hi": "यदि 'HOUSE' को 'IPVTF' के रूप में कोडित किया जाता है, तो 'ROAD' को कैसे कोडित किया जाएगा?",
+          "opts_hi": [
+            "SPBE",
+            "SPCE",
+            "SPBF",
+            "SQBE"
+          ],
+          "exp_en": "Each letter is shifted by +1: H→I, O→P, U→V, S→T, E→F. Similarly, R→S, O→P, A→B, D→E = SPBE.",
+          "exp_hi": "प्रत्येक अक्षर में +1 की वृद्धि: H→I, O→P, U→V, S→T, E→F. इसी प्रकार, R→S, O→P, A→B, D→E = SPBE."
+        },
+        {
+          "q": "If 'RIVER' is coded as 'SJWFS', how is 'ROAD' coded?",
+          "opts": [
+            "SPBE",
+            "SPBF",
+            "SQBE",
+            "SPCF"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning",
+          "q_hi": "यदि 'RIVER' को 'SJWFS' के रूप में कोडित किया जाता है, तो 'ROAD' को कैसे कोडित किया जाएगा?",
+          "opts_hi": [
+            "SPBE",
+            "SPBF",
+            "SQBE",
+            "SPCF"
+          ],
+          "exp_en": "Each letter is shifted by +1: R→S, I→J, V→W, E→F, R→S. Similarly, R→S, O→P, A→B, D→E = SPBE.",
+          "exp_hi": "प्रत्येक अक्षर में +1 की वृद्धि: R→S, I→J, V→W, E→F, R→S. इसी प्रकार, R→S, O→P, A→B, D→E = SPBE."
+        },
+        {
+          "q": "Pointing to a girl, a man said, \"She is the sister of my father's only son.\" How is that girl related to the man?",
+          "opts": [
+            "Sister",
+            "Daughter",
+            "Cousin",
+            "Niece"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning",
+          "q_hi": "एक पुरुष ने एक लड़की की ओर इशारा करते हुए कहा, \"वह मेरे पिता के इकलौते पुत्र की बहन है।\" वह लड़की उस पुरुष से किस प्रकार संबंधित है?",
+          "opts_hi": [
+            "बहन",
+            "पुत्री",
+            "चचेरी/ममेरी बहन",
+            "भतीजी/भांजी"
+          ],
+          "exp_en": "Father's only son = the man himself (if he is the only son). His sister = the man's sister. So the girl is his sister.",
+          "exp_hi": "पिता का इकलौता पुत्र = वह पुरुष स्वयं (यदि वह इकलौता पुत्र है)। उसकी बहन = पुरुष की बहन। अतः वह लड़की उसकी बहन है।"
+        },
+        {
+          "q": "Introducing a boy, a girl said, \"He is the son of my mother's sister.\" How is that boy related to the girl?",
+          "opts": [
+            "Brother",
+            "Cousin",
+            "Uncle",
+            "Nephew"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning",
+          "q_hi": "एक लड़की ने एक लड़के का परिचय देते हुए कहा, \"वह मेरी माँ की बहन का पुत्र है।\" वह लड़का उस लड़की से किस प्रकार संबंधित है?",
+          "opts_hi": [
+            "भाई",
+            "चचेरा/ममेरा भाई",
+            "चाचा/मामा",
+            "भतीजा/भांजा"
+          ],
+          "exp_en": "Mother's sister = Maternal aunt. Her son = the girl's cousin (maternal cousin).",
+          "exp_hi": "माँ की बहन = मामी/मौसी। उसका पुत्र = लड़की का चचेरा/ममेरा भाई (मामा/मौसी का बेटा)।"
+        },
+        {
+          "q": "A man walks 15 km towards East. He turns right and walks 20 km. He then turns right and walks 15 km. How far is he from his starting point?",
+          "opts": [
+            "10 km",
+            "15 km",
+            "20 km",
+            "25 km"
+          ],
+          "ans": 2,
+          "subject": "General Intelligence & Reasoning",
+          "q_hi": "एक व्यक्ति 15 किमी पूर्व की ओर चलता है। वह दाईं ओर मुड़ता है और 20 किमी चलता है। फिर वह दाईं ओर मुड़ता है और 15 किमी चलता है। वह अपने प्रारंभिक बिंदु से कितनी दूर है?",
+          "opts_hi": [
+            "10 किमी",
+            "15 किमी",
+            "20 किमी",
+            "25 किमी"
+          ],
+          "exp_en": "Starts → 15 km East → turns right (South) 20 km → turns right (West) 15 km. Net displacement = 20 km South. So distance = 20 km.",
+          "exp_hi": "प्रारंभ → 15 किमी पूर्व → दाएँ मुड़ा (दक्षिण) 20 किमी → दाएँ मुड़ा (पश्चिम) 15 किमी। शुद्ध विस्थापन = 20 किमी दक्षिण। अतः दूरी = 20 किमी।"
+        },
+        {
+          "q": "Shyam walks 10 km towards North. He turns left and walks 5 km. He then turns left and walks 10 km. In which direction is he from his starting point?",
+          "opts": [
+            "North",
+            "South",
+            "East",
+            "West"
+          ],
+          "ans": 3,
+          "subject": "General Intelligence & Reasoning",
+          "q_hi": "श्याम 10 किमी उत्तर की ओर चलता है। वह बाईं ओर मुड़ता है और 5 किमी चलता है। फिर वह बाईं ओर मुड़ता है और 10 किमी चलता है। वह अपने प्रारंभिक बिंदु से किस दिशा में है?",
+          "opts_hi": [
+            "उत्तर",
+            "दक्षिण",
+            "पूर्व",
+            "पश्चिम"
+          ],
+          "exp_en": "Starts → 10 km North → turns left (West) 5 km → turns left (South) 10 km. Net displacement = 5 km West. So he is in West direction.",
+          "exp_hi": "प्रारंभ → 10 किमी उत्तर → बाएँ मुड़ा (पश्चिम) 5 किमी → बाएँ मुड़ा (दक्षिण) 10 किमी। शुद्ध विस्थापन = 5 किमी पश्चिम। अतः वह पश्चिम दिशा में है।"
+        },
+        {
+          "q": "Statements: All dogs are animals. Some cats are animals. Conclusions: I. Some dogs are cats. II. Some animals are dogs. Which is correct?",
+          "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both I and II follow",
+            "Neither I nor II follows"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning",
+          "q_hi": "कथन: सभी कुत्ते जानवर हैं। कुछ बिल्लियाँ जानवर हैं। निष्कर्ष: I. कुछ कुत्ते बिल्लियाँ हैं। II. कुछ जानवर कुत्ते हैं। कौन सा सही है?",
+          "opts_hi": [
+            "केवल I सही है",
+            "केवल II सही है",
+            "I और II दोनों सही हैं",
+            "ना तो I और ना ही II सही है"
+          ],
+          "exp_en": "All dogs are animals implies some animals are dogs (II follows). But some cats are animals does not mean some dogs are cats (I does not follow).",
+          "exp_hi": "सभी कुत्ते जानवर हैं, इसका अर्थ है कि कुछ जानवर कुत्ते हैं (II सही है)। लेकिन कुछ बिल्लियाँ जानवर हैं, इसका अर्थ यह नहीं कि कुछ कुत्ते बिल्लियाँ हैं (I सही नहीं है)।"
+        },
+        {
+          "q": "Statements: All fruits are nutritious. Some apples are fruits. Conclusions: I. Some apples are nutritious. II. All nutritious things are fruits. Which is correct?",
+          "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both I and II follow",
+            "Neither I nor II follows"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning",
+          "q_hi": "कथन: सभी फल पौष्टिक हैं। कुछ सेब फल हैं। निष्कर्ष: I. कुछ सेब पौष्टिक हैं। II. सभी पौष्टिक चीज़ें फल हैं। कौन सा सही है?",
+          "opts_hi": [
+            "केवल I सही है",
+            "केवल II सही है",
+            "I और II दोनों सही हैं",
+            "ना तो I और ना ही II सही है"
+          ],
+          "exp_en": "Some apples are fruits and all fruits are nutritious → Some apples are nutritious (I follows). But all nutritious things are fruits does not follow.",
+          "exp_hi": "कुछ सेब फल हैं और सभी फल पौष्टिक हैं → कुछ सेब पौष्टिक हैं (I सही है)। लेकिन सभी पौष्टिक चीज़ें फल हैं सही नहीं है।"
+        },
+        {
+          "q": "Find the next term: 1, 4, 9, 16, 25, ?",
+          "opts": [
+            "30",
+            "36",
+            "42",
+            "49"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning",
+          "q_hi": "अगला पद ज्ञात करें: 1, 4, 9, 16, 25, ?",
+          "opts_hi": [
+            "30",
+            "36",
+            "42",
+            "49"
+          ],
+          "exp_en": "Pattern: 1²=1, 2²=4, 3²=9, 4²=16, 5²=25, 6²=36.",
+          "exp_hi": "पैटर्न: 1²=1, 2²=4, 3²=9, 4²=16, 5²=25, 6²=36।"
+        },
+        {
+          "q": "Find the next term: 3, 6, 11, 18, 27, ?",
+          "opts": [
+            "36",
+            "38",
+            "40",
+            "42"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning",
+          "q_hi": "अगला पद ज्ञात करें: 3, 6, 11, 18, 27, ?",
+          "opts_hi": [
+            "36",
+            "38",
+            "40",
+            "42"
+          ],
+          "exp_en": "Pattern: +3, +5, +7, +9, next +11 = 27 + 11 = 38.",
+          "exp_hi": "पैटर्न: +3, +5, +7, +9, अगला +11 = 27 + 11 = 38।"
+        },
+        {
+          "q": "In a group of 120 people, 80 like tea, 60 like coffee, and 30 like both. How many like only coffee?",
+          "opts": [
+            "20",
+            "30",
+            "40",
+            "50"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning",
+          "q_hi": "120 लोगों के समूह में, 80 चाय पसंद करते हैं, 60 कॉफी पसंद करते हैं, और 30 दोनों पसंद करते हैं। कितने केवल कॉफी पसंद करते हैं?",
+          "opts_hi": [
+            "20",
+            "30",
+            "40",
+            "50"
+          ],
+          "exp_en": "Only coffee = Total coffee - Both = 60 - 30 = 30.",
+          "exp_hi": "केवल कॉफी = कुल कॉफी - दोनों = 60 - 30 = 30।"
+        },
+        {
+          "q": "In a class of 100 students, 60 like Maths, 50 like Science, and 20 like neither. How many like both?",
+          "opts": [
+            "10",
+            "20",
+            "30",
+            "40"
+          ],
+          "ans": 2,
+          "subject": "General Intelligence & Reasoning",
+          "q_hi": "100 छात्रों की एक कक्षा में, 60 को गणित पसंद है, 50 को विज्ञान पसंद है, और 20 को कोई भी पसंद नहीं है। कितने को दोनों पसंद हैं?",
+          "opts_hi": [
+            "10",
+            "20",
+            "30",
+            "40"
+          ],
+          "exp_en": "Students liking at least one = 100 - 20 = 80. Both = 60 + 50 - 80 = 30.",
+          "exp_hi": "कम से कम एक पसंद करने वाले = 100 - 20 = 80। दोनों = 60 + 50 - 80 = 30।"
+        },
+        {
+          "q": "If the mirror is placed to the right of a word, what will be the mirror image of 'WATER'?",
+          "opts": [
+            "ЯƎTΛM",
+            "ЯƎTΛW",
+            "ЯƎTAM",
+            "ЯƎTAW"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning",
+          "q_hi": "यदि दर्पण किसी शब्द के दाईं ओर रखा जाता है, तो 'WATER' की दर्पण छवि क्या होगी?",
+          "opts_hi": [
+            "ЯƎTΛM",
+            "ЯƎTΛW",
+            "ЯƎTAM",
+            "ЯƎTAW"
+          ],
+          "exp_en": "When mirror is on the right, the word appears reversed laterally. WATER → reverse: RETAW → flip each: R→Я, E→Ǝ, T→T, A→Λ, W→M. So ЯƎTΛM.",
+          "exp_hi": "जब दर्पण दाईं ओर होता है, तो शब्द पार्श्व रूप से उलटा दिखाई देता है। WATER → उल्टा: RETAW → प्रत्येक अक्षर पलटें: R→Я, E→Ǝ, T→T, A→Λ, W→M. अतः ЯƎTΛM।"
+        },
+        {
+          "q": "Statement: \"Please keep your surroundings clean.\" Assumptions: I. People might not keep their surroundings clean. II. The speaker wants a clean environment. Which is correct?",
+          "opts": [
+            "Only I is implicit",
+            "Only II is implicit",
+            "Both I and II are implicit",
+            "Neither is implicit"
+          ],
+          "ans": 2,
+          "subject": "General Intelligence & Reasoning",
+          "q_hi": "कथन: \"कृपया अपने आस-पास को साफ रखें।\" पूर्वधारणाएँ: I. लोग अपने आस-पास को साफ नहीं रख सकते हैं। II. वक्ता स्वच्छ वातावरण चाहता है। कौन सा सही है?",
+          "opts_hi": [
+            "केवल I अंतर्निहित है",
+            "केवल II अंतर्निहित है",
+            "I और II दोनों अंतर्निहित हैं",
+            "कोई भी अंतर्निहित नहीं है"
+          ],
+          "exp_en": "Both assumptions are implicit. The request implies people might not keep it clean (I) and that the speaker wants a clean environment (II).",
+          "exp_hi": "दोनों पूर्वधारणाएँ अंतर्निहित हैं। अनुरोध का अर्थ है कि लोग साफ नहीं रख सकते (I) और वक्ता स्वच्छ वातावरण चाहता है (II)।"
+        },
+        {
+          "q": "How many squares are there in a 5x5 grid?",
+          "opts": [
+            "55",
+            "60",
+            "65",
+            "70"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning",
+          "q_hi": "5x5 ग्रिड में कितने वर्ग हैं?",
+          "opts_hi": [
+            "55",
+            "60",
+            "65",
+            "70"
+          ],
+          "exp_en": "Total squares = 1² + 2² + 3² + 4² + 5² = 1 + 4 + 9 + 16 + 25 = 55.",
+          "exp_hi": "कुल वर्ग = 1² + 2² + 3² + 4² + 5² = 1 + 4 + 9 + 16 + 25 = 55।"
+        },
+        {
+          "q": "How many triangles are there in a standard 3-tier triangular figure?",
+          "opts": [
+            "10",
+            "13",
+            "15",
+            "18"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning",
+          "q_hi": "एक मानक 3-स्तरीय त्रिभुजाकार आकृति में कितने त्रिभुज हैं?",
+          "opts_hi": [
+            "10",
+            "13",
+            "15",
+            "18"
+          ],
+          "exp_en": "Total triangles in a 3-tier triangular figure = n(n+1)(n+2)/6 for n=3 = 3×4×5/6 = 10 (small triangles only). Including inverted triangles, total = 13.",
+          "exp_hi": "3-स्तरीय त्रिभुजाकार आकृति में कुल त्रिभुज = 13 (10 सीधे + 3 उल्टे)."
+        },
+        {
+          "q": "In a certain code language, 'TRAIN' is written as 'USZHO'. How will 'BRAIN' be written in that code?",
+          "opts": [
+            "CSZHO",
+            "CSZHO",
+            "CQZHO",
+            "CQZJO"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning",
+          "q_hi": "एक निश्चित कूट भाषा में, 'TRAIN' को 'USZHO' लिखा जाता है। उस कूट में 'BRAIN' को कैसे लिखा जाएगा?",
+          "opts_hi": [
+            "CSZHO",
+            "CSZHO",
+            "CQZHO",
+            "CQZJO"
+          ],
+          "exp_en": "Pattern: T→U (+1), R→S (+1), A→Z (-1), I→H (-1), N→O (+1). For BRAIN: B→C (+1), R→S (+1), A→Z (-1), I→H (-1), N→O (+1) = CSZHO.",
+          "exp_hi": "पैटर्न: T→U (+1), R→S (+1), A→Z (-1), I→H (-1), N→O (+1). BRAIN के लिए: B→C (+1), R→S (+1), A→Z (-1), I→H (-1), N→O (+1) = CSZHO."
+        },
+        {
+          "q": "Select the option that is related to the third term in the same way as the second term is related to the first term: 8 : 512 :: 9 : ?",
+          "opts": [
+            "656",
+            "729",
+            "738",
+            "748"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning",
+          "q_hi": "उस विकल्प का चयन करें जो तीसरे पद से उसी प्रकार संबंधित है जिस प्रकार दूसरा पद पहले पद से संबंधित है: 8 : 512 :: 9 : ?",
+          "opts_hi": [
+            "656",
+            "729",
+            "738",
+            "748"
+          ],
+          "exp_en": "8³ = 512. Similarly, 9³ = 729.",
+          "exp_hi": "8³ = 512. इसी प्रकार, 9³ = 729."
         },
         {
           "q": "The famous 'Battle of Plassey' was fought in which year?",
@@ -4897,939 +5827,532 @@
         },
         {
           "q": "Who was the first Viceroy of India?",
-          "q_hi": "भारत के पहले वायसराय कौन थे?",
           "opts": [
             "Lord Canning",
             "Lord Dalhousie",
             "Lord Wellesley",
             "Lord William Bentinck"
           ],
+          "ans": 0,
+          "subject": "General Awareness & Current Affairs",
+          "q_hi": "भारत के पहले वायसराय कौन थे?",
           "opts_hi": [
             "लॉर्ड कैनिंग",
             "लॉर्ड डलहौजी",
             "लॉर्ड वेलेस्ली",
             "लॉर्ड विलियम बेंटिक"
           ],
-          "ans": 0,
-          "subject": "General Awareness & Current Affairs"
-        },
+          "exp_en": "Lord Canning was the first Viceroy of India (1858-1862). He also served as the last Governor-General of India before the British Crown took over.",
+          "exp_hi": "लॉर्ड कैनिंग भारत के पहले वायसराय थे (1858-1862)। उन्होंने ब्रिटिश क्राउन के अधिग्रहण से पहले भारत के अंतिम गवर्नर-जनरल के रूप में भी सेवा की।"
+        }
+      ]
+    },
+    {
+      "id": "rrb_group_d_4",
+      "title": "rrb_group_d_4",
+      "duration": 90,
+      "correctMarks": 1,
+      "negativeMarks": 0.33,
+      "questions": [
         {
-          "q": "If the price of a commodity is decreased by 20% and its consumption is increased by 30%, what is the net effect on expenditure?",
-          "q_hi": "यदि किसी वस्तु की कीमत में 20% की कमी की जाती है और उसकी खपत में 30% की वृद्धि की जाती है, तो व्यय पर शुद्ध प्रभाव क्या होगा?",
+          "q": "What is the SI unit of pressure?",
           "opts": [
-            "4% increase",
-            "4% decrease",
-            "6% increase",
-            "6% decrease"
-          ],
-          "opts_hi": [
-            "4% वृद्धि",
-            "4% कमी",
-            "6% वृद्धि",
-            "6% कमी"
-          ],
-          "ans": 0,
-          "subject": "Mathematics"
-        },
-        {
-          "q": "The population of a town increases by 10% annually. If the current population is 121000, what was it 2 years ago?",
-          "q_hi": "एक शहर की जनसंख्या वार्षिक 10% बढ़ती है। यदि वर्तमान जनसंख्या 121000 है, तो 2 वर्ष पूर्व यह क्या थी?",
-          "opts": [
-            100000,
-            110000,
-            105000,
-            95000
-          ],
-          "opts_hi": [
-            100000,
-            110000,
-            105000,
-            95000
-          ],
-          "ans": 0,
-          "subject": "Mathematics"
-        },
-        {
-          "q": "An article is sold at a profit of 20%. If the cost price is ₹500, what is the selling price?",
-          "q_hi": "एक वस्तु को 20% लाभ पर बेचा जाता है। यदि क्रय मूल्य ₹500 है, तो विक्रय मूल्य क्या है?",
-          "opts": [
-            "₹550",
-            "₹580",
-            "₹600",
-            "₹650"
-          ],
-          "opts_hi": [
-            "₹550",
-            "₹580",
-            "₹600",
-            "₹650"
-          ],
-          "ans": 2,
-          "subject": "Mathematics"
-        },
-        {
-          "q": "A shopkeeper sells an item at a loss of 10%. If he had sold it for ₹50 more, he would have gained 10%. What is the cost price?",
-          "q_hi": "एक दुकानदार एक वस्तु को 10% हानि पर बेचता है। यदि उसने इसे ₹50 अधिक में बेचा होता, तो उसे 10% लाभ होता। क्रय मूल्य क्या है?",
-          "opts": [
-            "₹200",
-            "₹225",
-            "₹250",
-            "₹275"
-          ],
-          "opts_hi": [
-            "₹200",
-            "₹225",
-            "₹250",
-            "₹275"
-          ],
-          "ans": 2,
-          "subject": "Mathematics"
-        },
-        {
-          "q": "Two trains of lengths 300 m and 400 m are running on parallel tracks in the same direction at speeds of 40 km/h and 60 km/h. How long will the faster train take to cross the slower train?",
-          "q_hi": "300 मी और 400 मी लंबाई की दो ट्रेनें समानांतर पटरियों पर एक ही दिशा में 40 किमी/घंटा और 60 किमी/घंटा की चाल से चल रही हैं। तेज ट्रेन धीमी ट्रेन को पार करने में कितना समय लेगी?",
-          "opts": [
-            "120 sec",
-            "126 sec",
-            "130 sec",
-            "140 sec"
-          ],
-          "opts_hi": [
-            "120 सेकंड",
-            "126 सेकंड",
-            "130 सेकंड",
-            "140 सेकंड"
+            "Newton",
+            "Pascal",
+            "Joule",
+            "Watt"
           ],
           "ans": 1,
-          "subject": "Mathematics"
+          "subject": "General Science",
+          "q_hi": "दाब का SI मात्रक क्या है?",
+          "opts_hi": [
+            "न्यूटन",
+            "पास्कल",
+            "जूल",
+            "वाट"
+          ],
+          "exp_en": "The SI unit of pressure is Pascal (Pa), named after Blaise Pascal. 1 Pa = 1 N/m².",
+          "exp_hi": "दाब का SI मात्रक पास्कल (Pa) है, जिसका नाम ब्लेज़ पास्कल के नाम पर रखा गया है। 1 Pa = 1 N/m²।"
         },
         {
-          "q": "A man covers a distance of 60 km at a speed of 30 km/h and returns at a speed of 20 km/h. What is the average speed for the whole journey?",
-          "q_hi": "एक व्यक्ति 60 किमी की दूरी 30 किमी/घंटा की चाल से तय करता है और 20 किमी/घंटा की चाल से वापस आता है। पूरी यात्रा की औसत चाल क्या है?",
+          "q": "What is the principle behind the working of a hydraulic lift?",
           "opts": [
-            "20 km/h",
-            "24 km/h",
-            "25 km/h",
-            "28 km/h"
+            "Archimedes' Principle",
+            "Bernoulli's Principle",
+            "Pascal's Law",
+            "Boyle's Law"
           ],
+          "ans": 2,
+          "subject": "General Science",
+          "q_hi": "हाइड्रोलिक लिफ्ट के कार्य करने का सिद्धांत क्या है?",
           "opts_hi": [
-            "20 किमी/घंटा",
-            "24 किमी/घंटा",
-            "25 किमी/घंटा",
-            "28 किमी/घंटा"
+            "आर्किमिडीज़ का सिद्धांत",
+            "बर्नौली का सिद्धांत",
+            "पास्कल का नियम",
+            "बॉयल का नियम"
+          ],
+          "exp_en": "A hydraulic lift works on Pascal's Law, which states that pressure applied to a confined fluid is transmitted equally in all directions.",
+          "exp_hi": "हाइड्रोलिक लिफ्ट पास्कल के नियम पर कार्य करती है, जो कहता है कि एक सीमित द्रव पर लगाया गया दाब सभी दिशाओं में समान रूप से संचरित होता है।"
+        },
+        {
+          "q": "Which type of lens is used to correct myopia (near-sightedness)?",
+          "opts": [
+            "Convex lens",
+            "Concave lens",
+            "Bifocal lens",
+            "Cylindrical lens"
           ],
           "ans": 1,
-          "subject": "Mathematics"
+          "subject": "General Science",
+          "q_hi": "मायोपिया (निकट दृष्टि दोष) को ठीक करने के लिए किस प्रकार के लेंस का उपयोग किया जाता है?",
+          "opts_hi": [
+            "उत्तल लेंस",
+            "अवतल लेंस",
+            "द्विफोकल लेंस",
+            "बेलनाकार लेंस"
+          ],
+          "exp_en": "Myopia (near-sightedness) is corrected using a concave lens (diverging lens), which spreads out light rays before they enter the eye.",
+          "exp_hi": "मायोपिया (निकट दृष्टि दोष) को अवतल लेंस (अपसारी लेंस) का उपयोग करके ठीक किया जाता है, जो आंख में प्रवेश करने से पहले प्रकाश किरणों को फैलाता है।"
         },
         {
-          "q": "What is the compound interest on ₹5000 at 10% per annum compounded half-yearly for 1.5 years?",
-          "q_hi": "₹5000 पर 10% वार्षिक दर से अर्धवार्षिक रूप से संयोजित 1.5 वर्षों का चक्रवृद्धि ब्याज क्या है?",
+          "q": "What is the work done when a force of 10 N moves an object by 5 m in the direction of force?",
           "opts": [
-            "₹768",
-            "₹788",
-            "₹798",
-            "₹818"
-          ],
-          "opts_hi": [
-            "₹768",
-            "₹788",
-            "₹798",
-            "₹818"
+            "25 J",
+            "50 J",
+            "75 J",
+            "100 J"
           ],
           "ans": 1,
-          "subject": "Mathematics"
+          "subject": "General Science",
+          "q_hi": "जब 10 N का बल किसी वस्तु को बल की दिशा में 5 मीटर विस्थापित करता है, तो किया गया कार्य क्या है?",
+          "opts_hi": [
+            "25 J",
+            "50 J",
+            "75 J",
+            "100 J"
+          ],
+          "exp_en": "Work = Force × Displacement = 10 × 5 = 50 J.",
+          "exp_hi": "कार्य = बल × विस्थापन = 10 × 5 = 50 जूल।"
         },
         {
-          "q": "The difference between compound interest and simple interest on ₹10000 at 10% per annum for 2 years is?",
-          "q_hi": "₹10000 पर 10% वार्षिक दर से 2 वर्षों के चक्रवृद्धि ब्याज और साधारण ब्याज के बीच अंतर क्या है?",
+          "q": "Which of the following is a non-contact force?",
           "opts": [
-            "₹50",
-            "₹100",
-            "₹150",
-            "₹200"
+            "Friction",
+            "Tension",
+            "Gravitational force",
+            "Normal force"
           ],
+          "ans": 2,
+          "subject": "General Science",
+          "q_hi": "निम्नलिखित में से कौन एक असंपर्क बल है?",
           "opts_hi": [
-            "₹50",
-            "₹100",
-            "₹150",
-            "₹200"
+            "घर्षण",
+            "तनाव",
+            "गुरुत्वाकर्षण बल",
+            "अभिलंब बल"
+          ],
+          "exp_en": "Gravitational force is a non-contact force as it acts without physical contact between objects. Friction, tension and normal force are contact forces.",
+          "exp_hi": "गुरुत्वाकर्षण बल एक असंपर्क बल है क्योंकि यह वस्तुओं के बीच भौतिक संपर्क के बिना कार्य करता है। घर्षण, तनाव और अभिलंब बल संपर्क बल हैं।"
+        },
+        {
+          "q": "What is the wavelength of a wave with frequency 50 Hz and speed 340 m/s?",
+          "opts": [
+            "5.8 m",
+            "6.8 m",
+            "7.8 m",
+            "8.8 m"
           ],
           "ans": 1,
-          "subject": "Mathematics"
+          "subject": "General Science",
+          "q_hi": "50 Hz आवृत्ति और 340 मी/से चाल वाली तरंग की तरंगदैर्घ्य क्या है?",
+          "opts_hi": [
+            "5.8 मी",
+            "6.8 मी",
+            "7.8 मी",
+            "8.8 मी"
+          ],
+          "exp_en": "Wavelength (λ) = Speed (v) / Frequency (f) = 340 / 50 = 6.8 m.",
+          "exp_hi": "तरंगदैर्घ्य (λ) = चाल (v) / आवृत्ति (f) = 340 / 50 = 6.8 मी।"
         },
         {
-          "q": "If x : y = 5 : 7, find (5x + 3y) : (3x + 2y).",
-          "q_hi": "यदि x : y = 5 : 7 है, तो (5x + 3y) : (3x + 2y) ज्ञात करें।",
+          "q": "What is the chemical formula of sulphuric acid?",
           "opts": [
-            "5 : 6",
-            "6 : 7",
-            "46 : 29",
-            "47 : 30"
-          ],
-          "opts_hi": [
-            "5 : 6",
-            "6 : 7",
-            "46 : 29",
-            "47 : 30"
-          ],
-          "ans": 2,
-          "subject": "Mathematics"
-        },
-        {
-          "q": "If x : y = 9 : 11, find (4x + 5y) : (6x + 7y).",
-          "q_hi": "यदि x : y = 9 : 11 है, तो (4x + 5y) : (6x + 7y) ज्ञात करें।",
-          "opts": [
-            "89 : 131",
-            "91 : 133",
-            "90 : 132",
-            "88 : 130"
-          ],
-          "opts_hi": [
-            "89 : 131",
-            "91 : 133",
-            "90 : 132",
-            "88 : 130"
+            "H₂SO₃",
+            "H₂SO₄",
+            "HCl",
+            "HNO₃"
           ],
           "ans": 1,
-          "subject": "Mathematics"
+          "subject": "General Science",
+          "q_hi": "सल्फ्यूरिक अम्ल का रासायनिक सूत्र क्या है?",
+          "opts_hi": [
+            "H₂SO₃",
+            "H₂SO₄",
+            "HCl",
+            "HNO₃"
+          ],
+          "exp_en": "Sulphuric acid has the chemical formula H₂SO₄. It is a strong mineral acid widely used in industry.",
+          "exp_hi": "सल्फ्यूरिक अम्ल का रासायनिक सूत्र H₂SO₄ है। यह एक प्रबल खनिज अम्ल है जो उद्योग में व्यापक रूप से उपयोग किया जाता है।"
         },
         {
-          "q": "What is the HCF of 144 and 180?",
-          "q_hi": "144 और 180 का HCF क्या है?",
+          "q": "Which of the following is the most abundant gas in the Earth's atmosphere?",
           "opts": [
-            24,
-            30,
-            36,
-            42
-          ],
-          "opts_hi": [
-            24,
-            30,
-            36,
-            42
+            "Oxygen",
+            "Carbon dioxide",
+            "Nitrogen",
+            "Argon"
           ],
           "ans": 2,
-          "subject": "Mathematics"
+          "subject": "General Science",
+          "q_hi": "पृथ्वी के वायुमंडल में सबसे प्रचुर मात्रा में पाई जाने वाली गैस कौन सी है?",
+          "opts_hi": [
+            "ऑक्सीजन",
+            "कार्बन डाइऑक्साइड",
+            "नाइट्रोजन",
+            "आर्गन"
+          ],
+          "exp_en": "Nitrogen (N₂) is the most abundant gas in Earth's atmosphere, comprising about 78% of the air.",
+          "exp_hi": "पृथ्वी के वायुमंडल में नाइट्रोजन (N₂) सबसे प्रचुर गैस है, जो वायु का लगभग 78% है।"
         },
         {
-          "q": "What is the smallest number divisible by 12, 15 and 18?",
-          "q_hi": "12, 15 और 18 से विभाज्य सबसे छोटी संख्या क्या है?",
+          "q": "What is the process of converting a solid directly into a gas called?",
           "opts": [
-            120,
-            150,
-            180,
-            210
-          ],
-          "opts_hi": [
-            120,
-            150,
-            180,
-            210
+            "Condensation",
+            "Evaporation",
+            "Sublimation",
+            "Fusion"
           ],
           "ans": 2,
-          "subject": "Mathematics"
+          "subject": "General Science",
+          "q_hi": "ठोस का सीधे गैस में परिवर्तित होने की प्रक्रिया को क्या कहते हैं?",
+          "opts_hi": [
+            "संघनन",
+            "वाष्पीकरण",
+            "उर्ध्वपातन",
+            "संगलन"
+          ],
+          "exp_en": "Sublimation is the process in which a solid directly changes into a gas without passing through the liquid state. Dry ice (solid CO₂) undergoes sublimation.",
+          "exp_hi": "उर्ध्वपातन वह प्रक्रिया है जिसमें ठोस द्रव अवस्था से गुज़रे बिना सीधे गैस में बदल जाता है। सूखी बर्फ (ठोस CO₂) उर्ध्वपातन से गुज़रती है।"
         },
         {
-          "q": "Which of the following is a prime number?",
-          "q_hi": "निम्नलिखित में से कौन सी अभाज्य संख्या है?",
+          "q": "Which metal is the best conductor of electricity?",
           "opts": [
-            51,
-            57,
-            61,
-            63
-          ],
-          "opts_hi": [
-            51,
-            57,
-            61,
-            63
+            "Copper",
+            "Gold",
+            "Silver",
+            "Aluminum"
           ],
           "ans": 2,
-          "subject": "Mathematics"
+          "subject": "General Science",
+          "q_hi": "कौन सी धातु विद्युत की सबसे अच्छी सुचालक है?",
+          "opts_hi": [
+            "तांबा",
+            "सोना",
+            "चांदी",
+            "एल्यूमीनियम"
+          ],
+          "exp_en": "Silver is the best conductor of electricity among all metals. Copper is the second best and most commonly used.",
+          "exp_hi": "सभी धातुओं में चांदी विद्युत की सबसे अच्छी सुचालक है। तांबा दूसरा सबसे अच्छा है और सबसे अधिक उपयोग किया जाता है।"
         },
         {
-          "q": "If x + 1/x = 5, find x³ + 1/x³.",
-          "q_hi": "यदि x + 1/x = 5 है, तो x³ + 1/x³ ज्ञात करें।",
+          "q": "What is the atomic number of oxygen?",
           "opts": [
-            100,
-            105,
-            110,
-            115
-          ],
-          "opts_hi": [
-            100,
-            105,
-            110,
-            115
+            "6",
+            "7",
+            "8",
+            "9"
           ],
           "ans": 2,
-          "subject": "Mathematics"
+          "subject": "General Science",
+          "q_hi": "ऑक्सीजन की परमाणु संख्या क्या है?",
+          "opts_hi": [
+            "6",
+            "7",
+            "8",
+            "9"
+          ],
+          "exp_en": "Oxygen has atomic number 8, which means it has 8 protons in its nucleus.",
+          "exp_hi": "ऑक्सीजन की परमाणु संख्या 8 है, जिसका अर्थ है कि इसके नाभिक में 8 प्रोटॉन होते हैं।"
         },
         {
-          "q": "If x + y = 15 and xy = 56, find x - y (where x > y).",
-          "q_hi": "यदि x + y = 15 और xy = 56 है, तो x - y ज्ञात करें (जहाँ x > y).",
+          "q": "Which part of the human brain is responsible for thinking and memory?",
           "opts": [
-            1,
-            2,
-            3,
-            4
-          ],
-          "opts_hi": [
-            1,
-            2,
-            3,
-            4
-          ],
-          "ans": 0,
-          "subject": "Mathematics"
-        },
-        {
-          "q": "Solve: 4x + 3 = 23. Find x.",
-          "q_hi": "हल करें: 4x + 3 = 23. x ज्ञात करें।",
-          "opts": [
-            3,
-            4,
-            5,
-            6
-          ],
-          "opts_hi": [
-            3,
-            4,
-            5,
-            6
+            "Cerebellum",
+            "Medulla oblongata",
+            "Cerebrum",
+            "Hypothalamus"
           ],
           "ans": 2,
-          "subject": "Mathematics"
+          "subject": "General Science",
+          "q_hi": "मानव मस्तिष्क का कौन सा भाग सोचने और स्मृति के लिए जिम्मेदार है?",
+          "opts_hi": [
+            "सेरीबेलम",
+            "मेडुला ऑब्लांगेटा",
+            "सेरीब्रम",
+            "हाइपोथैलेमस"
+          ],
+          "exp_en": "The cerebrum is the largest part of the brain and is responsible for higher functions like thinking, memory, speech, and voluntary movement.",
+          "exp_hi": "सेरीब्रम मस्तिष्क का सबसे बड़ा भाग है और सोचने, स्मृति, वाणी और स्वैच्छिक गति जैसे उच्च कार्यों के लिए जिम्मेदार है।"
         },
         {
-          "q": "What is the volume of a cylinder with radius 7 cm and height 10 cm?",
-          "q_hi": "7 सेमी त्रिज्या और 10 सेमी ऊँचाई वाले बेलन का आयतन क्या है?",
+          "q": "Which organ in the human body produces bile?",
           "opts": [
-            "1540 cm³",
-            "15400 cm³",
-            "1480 cm³",
-            "1450 cm³"
+            "Stomach",
+            "Liver",
+            "Gall bladder",
+            "Pancreas"
           ],
+          "ans": 1,
+          "subject": "General Science",
+          "q_hi": "मानव शरीर में कौन सा अंग पित्त का उत्पादन करता है?",
           "opts_hi": [
-            "1540 सेमी³",
-            "15400 सेमी³",
-            "1480 सेमी³",
-            "1450 सेमी³"
+            "आमाशय",
+            "यकृत",
+            "पित्ताशय",
+            "अग्न्याशय"
           ],
-          "ans": 0,
-          "subject": "Mathematics"
+          "exp_en": "The liver produces bile, which is stored in the gall bladder and released into the small intestine to help digest fats.",
+          "exp_hi": "यकृत पित्त का उत्पादन करता है, जो पित्ताशय में संग्रहित होता है और वसा के पाचन में सहायता के लिए छोटी आंत में छोड़ा जाता है।"
         },
         {
-          "q": "What is the total surface area of a cylinder of radius 7 cm and height 10 cm?",
-          "q_hi": "7 सेमी त्रिज्या और 10 सेमी ऊँचाई वाले बेलन का कुल पृष्ठीय क्षेत्रफल क्या है?",
+          "q": "What is the normal blood pressure of a healthy adult human?",
           "opts": [
-            "748 cm²",
-            "728 cm²",
-            "738 cm²",
-            "758 cm²"
+            "100/60 mm Hg",
+            "120/80 mm Hg",
+            "140/90 mm Hg",
+            "160/100 mm Hg"
           ],
+          "ans": 1,
+          "subject": "General Science",
+          "q_hi": "एक स्वस्थ वयस्क मानव का सामान्य रक्तचाप क्या है?",
           "opts_hi": [
-            "748 सेमी²",
-            "728 सेमी²",
-            "738 सेमी²",
-            "758 सेमी²"
+            "100/60 mm Hg",
+            "120/80 mm Hg",
+            "140/90 mm Hg",
+            "160/100 mm Hg"
           ],
-          "ans": 0,
-          "subject": "Mathematics"
+          "exp_en": "The normal blood pressure of a healthy adult is approximately 120/80 mm Hg. 120 is systolic pressure and 80 is diastolic pressure.",
+          "exp_hi": "एक स्वस्थ वयस्क का सामान्य रक्तचाप लगभग 120/80 mm Hg होता है। 120 सिस्टोलिक दाब है और 80 डायस्टोलिक दाब है।"
         },
         {
-          "q": "What is the perimeter of a square of side 12 cm?",
-          "q_hi": "12 सेमी भुजा वाले वर्ग का परिमाप क्या है?",
+          "q": "Which of the following is a deficiency disease?",
           "opts": [
-            "24 cm",
-            "36 cm",
-            "48 cm",
-            "60 cm"
-          ],
-          "opts_hi": [
-            "24 सेमी",
-            "36 सेमी",
-            "48 सेमी",
-            "60 सेमी"
+            "Malaria",
+            "Tuberculosis",
+            "Goitre",
+            "Cholera"
           ],
           "ans": 2,
-          "subject": "Mathematics"
+          "subject": "General Science",
+          "q_hi": "निम्नलिखित में से कौन एक कमी रोग है?",
+          "opts_hi": [
+            "मलेरिया",
+            "क्षय रोग",
+            "घेंघा",
+            "हैजा"
+          ],
+          "exp_en": "Goitre is caused by iodine deficiency. Malaria, tuberculosis and cholera are infectious diseases caused by pathogens.",
+          "exp_hi": "घेंघा आयोडीन की कमी के कारण होता है। मलेरिया, क्षय रोग और हैजा रोगाणुओं के कारण होने वाले संक्रामक रोग हैं।"
         },
         {
-          "q": "What is the value of sin 30° × cos 60°?",
-          "q_hi": "sin 30° × cos 60° का मान क्या है?",
+          "q": "Which organelle is known as the 'suicidal bag' of the cell?",
           "opts": [
-            0.25,
-            0.5,
-            0.75,
-            1
-          ],
-          "opts_hi": [
-            0.25,
-            0.5,
-            0.75,
-            1
-          ],
-          "ans": 0,
-          "subject": "Mathematics"
-        },
-        {
-          "q": "What is the value of tan 45° × cot 45°?",
-          "q_hi": "tan 45° × cot 45° का मान क्या है?",
-          "opts": [
-            0,
-            0.5,
-            1,
-            2
-          ],
-          "opts_hi": [
-            0,
-            0.5,
-            1,
-            2
-          ],
-          "ans": 2,
-          "subject": "Mathematics"
-        },
-        {
-          "q": "The average of 5 numbers is 20. If one number is removed, the average becomes 18. What is the removed number?",
-          "q_hi": "5 संख्याओं का औसत 20 है। यदि एक संख्या हटा दी जाती है, तो औसत 18 हो जाता है। हटाई गई संख्या क्या है?",
-          "opts": [
-            20,
-            22,
-            24,
-            28
-          ],
-          "opts_hi": [
-            20,
-            22,
-            24,
-            28
+            "Ribosome",
+            "Mitochondria",
+            "Golgi apparatus",
+            "Lysosome"
           ],
           "ans": 3,
-          "subject": "Mathematics"
+          "subject": "General Science",
+          "q_hi": "किस कोशिकांग को कोशिका का 'आत्मघाती थैली' कहा जाता है?",
+          "opts_hi": [
+            "राइबोसोम",
+            "माइटोकॉन्ड्रिया",
+            "गॉल्जी उपकरण",
+            "लाइसोसोम"
+          ],
+          "exp_en": "Lysosomes are known as the 'suicidal bags' of the cell because they contain digestive enzymes that can break down the cell's own components when damaged.",
+          "exp_hi": "लाइसोसोम को कोशिका की 'आत्मघाती थैली' कहा जाता है क्योंकि इनमें पाचक एंजाइम होते हैं जो क्षतिग्रस्त होने पर कोशिका के अपने घटकों को तोड़ सकते हैं।"
         },
         {
-          "q": "The average of 4 numbers is 18. What is the sum of the numbers?",
-          "q_hi": "4 संख्याओं का औसत 18 है। संख्याओं का योग क्या है?",
+          "q": "Which disease is caused by the bite of an Anopheles mosquito?",
           "opts": [
-            72,
-            74,
-            76,
-            78
+            "Dengue",
+            "Malaria",
+            "Chikungunya",
+            "Yellow fever"
           ],
+          "ans": 1,
+          "subject": "General Science",
+          "q_hi": "एनोफिलीज मच्छर के काटने से कौन सा रोग होता है?",
           "opts_hi": [
-            72,
-            74,
-            76,
-            78
+            "डेंगू",
+            "मलेरिया",
+            "चिकनगुनिया",
+            "पीत ज्वर"
           ],
-          "ans": 0,
-          "subject": "Mathematics"
+          "exp_en": "Malaria is caused by the Plasmodium parasite, which is transmitted to humans through the bite of an infected female Anopheles mosquito.",
+          "exp_hi": "मलेरिया प्लास्मोडियम परजीवी के कारण होता है, जो संक्रमित मादा एनोफिलीज मच्छर के काटने से मनुष्यों में फैलता है।"
         },
         {
-          "q": "The sum of the angles of a triangle is:",
-          "q_hi": "एक त्रिभुज के कोणों का योग होता है:",
+          "q": "Which part of the plant conducts water from roots to leaves?",
           "opts": [
-            "180°",
-            "270°",
-            "360°",
-            "90°"
+            "Phloem",
+            "Xylem",
+            "Cortex",
+            "Epidermis"
           ],
+          "ans": 1,
+          "subject": "General Science",
+          "q_hi": "पौधे का कौन सा भाग जड़ों से पत्तियों तक पानी पहुँचाता है?",
           "opts_hi": [
-            "180°",
-            "270°",
-            "360°",
-            "90°"
+            "फ्लोएम",
+            "जाइलम",
+            "कॉर्टेक्स",
+            "एपिडर्मिस"
           ],
-          "ans": 0,
-          "subject": "Mathematics"
+          "exp_en": "Xylem tissue transports water and dissolved minerals from the roots to the leaves in plants. It is composed of tracheids and vessels.",
+          "exp_hi": "जाइलम ऊतक पौधों में जड़ों से पत्तियों तक पानी और घुले हुए खनिजों का परिवहन करता है। यह ट्रैकिड्स और वेसल्स से बना होता है।"
         },
         {
-          "q": "The sum of the angles of a quadrilateral is:",
-          "q_hi": "एक चतुर्भुज के कोणों का योग होता है:",
+          "q": "What is the bending of light when it passes from one medium to another called?",
           "opts": [
-            "180°",
-            "270°",
-            "360°",
-            "450°"
+            "Reflection",
+            "Refraction",
+            "Diffraction",
+            "Dispersion"
           ],
+          "ans": 1,
+          "subject": "General Science",
+          "q_hi": "प्रकाश का एक माध्यम से दूसरे माध्यम में जाने पर मुड़ना क्या कहलाता है?",
           "opts_hi": [
-            "180°",
-            "270°",
-            "360°",
-            "450°"
+            "परावर्तन",
+            "अपवर्तन",
+            "विवर्तन",
+            "वर्ण विक्षेपण"
+          ],
+          "exp_en": "Refraction is the bending of light when it passes from one transparent medium to another due to a change in its speed.",
+          "exp_hi": "अपवर्तन प्रकाश का एक पारदर्शी माध्यम से दूसरे में जाने पर मुड़ना है, जो उसकी चाल में परिवर्तन के कारण होता है।"
+        },
+        {
+          "q": "Which of the following is an example of a noble gas?",
+          "opts": [
+            "Hydrogen",
+            "Nitrogen",
+            "Helium",
+            "Chlorine"
           ],
           "ans": 2,
-          "subject": "Mathematics"
+          "subject": "General Science",
+          "q_hi": "निम्नलिखित में से कौन एक अक्रिय गैस का उदाहरण है?",
+          "opts_hi": [
+            "हाइड्रोजन",
+            "नाइट्रोजन",
+            "हीलियम",
+            "क्लोरीन"
+          ],
+          "exp_en": "Helium (He) is a noble gas in Group 18 of the periodic table. Noble gases are generally unreactive due to their full valence shells.",
+          "exp_hi": "हीलियम (He) आवर्त सारणी के समूह 18 की एक अक्रिय गैस है। अक्रिय गैसें अपने पूर्ण संयोजकता कोश के कारण आमतौर पर अप्रतिक्रियाशील होती हैं।"
         },
         {
-          "q": "Select the option that is related to the third term in the same way as the second term is related to the first term: Fish : Water :: Bird : ?",
-          "q_hi": "उस विकल्प का चयन करें जो तीसरे पद से उसी प्रकार संबंधित है जिस प्रकार दूसरा पद पहले पद से संबंधित है: मछली : पानी :: पक्षी : ?",
+          "q": "Which vitamin is essential for the absorption of calcium in the body?",
           "opts": [
-            "Land",
-            "Air",
-            "Tree",
-            "Sky"
-          ],
-          "opts_hi": [
-            "भूमि",
-            "हवा",
-            "पेड़",
-            "आकाश"
-          ],
-          "ans": 1,
-          "subject": "General Intelligence & Reasoning"
-        },
-        {
-          "q": "Select the related letters: ABC : DEF :: GHI : ?",
-          "q_hi": "संबंधित अक्षरों का चयन करें: ABC : DEF :: GHI : ?",
-          "opts": [
-            "JKL",
-            "JKM",
-            "IJK",
-            "HIL"
-          ],
-          "opts_hi": [
-            "JKL",
-            "JKM",
-            "IJK",
-            "HIL"
-          ],
-          "ans": 0,
-          "subject": "General Intelligence & Reasoning"
-        },
-        {
-          "q": "Select the related number: 16 : 64 :: 25 : ?",
-          "q_hi": "संबंधित संख्या का चयन करें: 16 : 64 :: 25 : ?",
-          "opts": [
-            100,
-            125,
-            150,
-            175
-          ],
-          "opts_hi": [
-            100,
-            125,
-            150,
-            175
-          ],
-          "ans": 1,
-          "subject": "General Intelligence & Reasoning"
-        },
-        {
-          "q": "Find the odd one out:",
-          "q_hi": "विषम का चयन करें:",
-          "opts": [
-            "Rose",
-            "Lily",
-            "Marigold",
-            "Banyan"
-          ],
-          "opts_hi": [
-            "गुलाब",
-            "लिली",
-            "गेंदा",
-            "बरगद"
-          ],
-          "ans": 3,
-          "subject": "General Intelligence & Reasoning"
-        },
-        {
-          "q": "If 'HOUSE' is coded as 'IPVTF', how is 'ROAD' coded?",
-          "q_hi": "यदि 'HOUSE' को 'IPVTF' के रूप में कोडित किया जाता है, तो 'ROAD' को कैसे कोडित किया जाएगा?",
-          "opts": [
-            "SPBE",
-            "SPCE",
-            "SPBF",
-            "SQBE"
-          ],
-          "opts_hi": [
-            "SPBE",
-            "SPCE",
-            "SPBF",
-            "SQBE"
-          ],
-          "ans": 0,
-          "subject": "General Intelligence & Reasoning"
-        },
-        {
-          "q": "If 'RIVER' is coded as 'SJWFS', how is 'ROAD' coded?",
-          "q_hi": "यदि 'RIVER' को 'SJWFS' के रूप में कोडित किया जाता है, तो 'ROAD' को कैसे कोडित किया जाएगा?",
-          "opts": [
-            "SPBE",
-            "SPBF",
-            "SQBE",
-            "SPCF"
-          ],
-          "opts_hi": [
-            "SPBE",
-            "SPBF",
-            "SQBE",
-            "SPCF"
-          ],
-          "ans": 0,
-          "subject": "General Intelligence & Reasoning"
-        },
-        {
-          "q": "Pointing to a girl, a man said, \"She is the sister of my father's only son.\" How is that girl related to the man?",
-          "q_hi": "एक पुरुष ने एक लड़की की ओर इशारा करते हुए कहा, \"वह मेरे पिता के इकलौते पुत्र की बहन है।\" वह लड़की उस पुरुष से किस प्रकार संबंधित है?",
-          "opts": [
-            "Sister",
-            "Daughter",
-            "Cousin",
-            "Niece"
-          ],
-          "opts_hi": [
-            "बहन",
-            "पुत्री",
-            "चचेरी/ममेरी बहन",
-            "भतीजी/भांजी"
-          ],
-          "ans": 0,
-          "subject": "General Intelligence & Reasoning"
-        },
-        {
-          "q": "Introducing a boy, a girl said, \"He is the son of my mother's sister.\" How is that boy related to the girl?",
-          "q_hi": "एक लड़की ने एक लड़के का परिचय देते हुए कहा, \"वह मेरी माँ की बहन का पुत्र है।\" वह लड़का उस लड़की से किस प्रकार संबंधित है?",
-          "opts": [
-            "Brother",
-            "Cousin",
-            "Uncle",
-            "Nephew"
-          ],
-          "opts_hi": [
-            "भाई",
-            "चचेरा/ममेरा भाई",
-            "चाचा/मामा",
-            "भतीजा/भांजा"
-          ],
-          "ans": 1,
-          "subject": "General Intelligence & Reasoning"
-        },
-        {
-          "q": "A man walks 15 km towards East. He turns right and walks 20 km. He then turns right and walks 15 km. How far is he from his starting point?",
-          "q_hi": "एक व्यक्ति 15 किमी पूर्व की ओर चलता है। वह दाईं ओर मुड़ता है और 20 किमी चलता है। फिर वह दाईं ओर मुड़ता है और 15 किमी चलता है। वह अपने प्रारंभिक बिंदु से कितनी दूर है?",
-          "opts": [
-            "10 km",
-            "15 km",
-            "20 km",
-            "25 km"
-          ],
-          "opts_hi": [
-            "10 किमी",
-            "15 किमी",
-            "20 किमी",
-            "25 किमी"
+            "Vitamin A",
+            "Vitamin B",
+            "Vitamin D",
+            "Vitamin K"
           ],
           "ans": 2,
-          "subject": "General Intelligence & Reasoning"
+          "subject": "General Science",
+          "q_hi": "शरीर में कैल्शियम के अवशोषण के लिए कौन सा विटामिन आवश्यक है?",
+          "opts_hi": [
+            "विटामिन ए",
+            "विटामिन बी",
+            "विटामिन डी",
+            "विटामिन के"
+          ],
+          "exp_en": "Vitamin D is essential for the absorption of calcium from the intestines. Deficiency of Vitamin D can lead to weak bones and rickets.",
+          "exp_hi": "विटामिन डी आंतों से कैल्शियम के अवशोषण के लिए आवश्यक है। विटामिन डी की कमी से हड्डियाँ कमजोर हो सकती हैं और रिकेट्स हो सकता है।"
         },
         {
-          "q": "Shyam walks 10 km towards North. He turns left and walks 5 km. He then turns left and walks 10 km. In which direction is he from his starting point?",
-          "q_hi": "श्याम 10 किमी उत्तर की ओर चलता है। वह बाईं ओर मुड़ता है और 5 किमी चलता है। फिर वह बाईं ओर मुड़ता है और 10 किमी चलता है। वह अपने प्रारंभिक बिंदु से किस दिशा में है?",
+          "q": "What is the formula for kinetic energy?",
           "opts": [
-            "North",
-            "South",
-            "East",
-            "West"
-          ],
-          "opts_hi": [
-            "उत्तर",
-            "दक्षिण",
-            "पूर्व",
-            "पश्चिम"
-          ],
-          "ans": 3,
-          "subject": "General Intelligence & Reasoning"
-        },
-        {
-          "q": "Statements: All dogs are animals. Some cats are animals. Conclusions: I. Some dogs are cats. II. Some animals are dogs. Which is correct?",
-          "q_hi": "कथन: सभी कुत्ते जानवर हैं। कुछ बिल्लियाँ जानवर हैं। निष्कर्ष: I. कुछ कुत्ते बिल्लियाँ हैं। II. कुछ जानवर कुत्ते हैं। कौन सा सही है?",
-          "opts": [
-            "Only I follows",
-            "Only II follows",
-            "Both I and II follow",
-            "Neither I nor II follows"
-          ],
-          "opts_hi": [
-            "केवल I सही है",
-            "केवल II सही है",
-            "I और II दोनों सही हैं",
-            "ना तो I और ना ही II सही है"
+            "mgh",
+            "½mv²",
+            "mv²",
+            "½mv"
           ],
           "ans": 1,
-          "subject": "General Intelligence & Reasoning"
+          "subject": "General Science",
+          "q_hi": "गतिज ऊर्जा का सूत्र क्या है?",
+          "opts_hi": [
+            "mgh",
+            "½mv²",
+            "mv²",
+            "½mv"
+          ],
+          "exp_en": "Kinetic energy (KE) = ½mv², where m is mass and v is velocity of the object.",
+          "exp_hi": "गतिज ऊर्जा (KE) = ½mv², जहाँ m द्रव्यमान है और v वस्तु का वेग है।"
         },
         {
-          "q": "Statements: All fruits are nutritious. Some apples are fruits. Conclusions: I. Some apples are nutritious. II. All nutritious things are fruits. Which is correct?",
-          "q_hi": "कथन: सभी फल पौष्टिक हैं। कुछ सेब फल हैं। निष्कर्ष: I. कुछ सेब पौष्टिक हैं। II. सभी पौष्टिक चीज़ें फल हैं। कौन सा सही है?",
+          "q": "Which acid is found in lemon and orange?",
           "opts": [
-            "Only I follows",
-            "Only II follows",
-            "Both I and II follow",
-            "Neither I nor II follows"
-          ],
-          "opts_hi": [
-            "केवल I सही है",
-            "केवल II सही है",
-            "I और II दोनों सही हैं",
-            "ना तो I और ना ही II सही है"
-          ],
-          "ans": 0,
-          "subject": "General Intelligence & Reasoning"
-        },
-        {
-          "q": "Find the next term: 1, 4, 9, 16, 25, ?",
-          "q_hi": "अगला पद ज्ञात करें: 1, 4, 9, 16, 25, ?",
-          "opts": [
-            30,
-            36,
-            42,
-            49
-          ],
-          "opts_hi": [
-            30,
-            36,
-            42,
-            49
+            "Tartaric acid",
+            "Citric acid",
+            "Lactic acid",
+            "Acetic acid"
           ],
           "ans": 1,
-          "subject": "General Intelligence & Reasoning"
+          "subject": "General Science",
+          "q_hi": "नींबू और संतरे में कौन सा अम्ल पाया जाता है?",
+          "opts_hi": [
+            "टार्टरिक अम्ल",
+            "साइट्रिक अम्ल",
+            "लैक्टिक अम्ल",
+            "एसिटिक अम्ल"
+          ],
+          "exp_en": "Citric acid is found in citrus fruits like lemon, orange, and grapefruit. It gives these fruits their sour taste.",
+          "exp_hi": "साइट्रिक अम्ल नींबू, संतरा और अंगूर जैसे खट्टे फलों में पाया जाता है। यह इन फलों को खट्टा स्वाद देता है।"
         },
         {
-          "q": "Find the next term: 3, 6, 11, 18, 27, ?",
-          "q_hi": "अगला पद ज्ञात करें: 3, 6, 11, 18, 27, ?",
+          "q": "Which is the largest artery in the human body?",
           "opts": [
-            36,
-            38,
-            40,
-            42
-          ],
-          "opts_hi": [
-            36,
-            38,
-            40,
-            42
-          ],
-          "ans": 1,
-          "subject": "General Intelligence & Reasoning"
-        },
-        {
-          "q": "If '+' means '−', '−' means '×', '×' means '÷', and '÷' means '+', then what is the value of 12 + 4 − 2 × 6 ÷ 3?",
-          "q_hi": "यदि '+' का अर्थ '−' है, '−' का अर्थ '×' है, '×' का अर्थ '÷' है, और '÷' का अर्थ '+' है, तो 12 + 4 − 2 × 6 ÷ 3 का मान क्या है?",
-          "opts": [
-            5,
-            7,
-            9,
-            11
-          ],
-          "opts_hi": [
-            5,
-            7,
-            9,
-            11
-          ],
-          "ans": 1,
-          "subject": "General Intelligence & Reasoning"
-        },
-        {
-          "q": "If '+' means '×', '−' means '÷', '×' means '+', and '÷' means '−', then find the value of 16 + 4 − 2 × 8 ÷ 4?",
-          "q_hi": "यदि '+' का अर्थ '×' है, '−' का अर्थ '÷' है, '×' का अर्थ '+' है, और '÷' का अर्थ '−' है, तो 16 + 4 − 2 × 8 ÷ 4 का मान ज्ञात करें?",
-          "opts": [
-            32,
-            34,
-            36,
-            38
-          ],
-          "opts_hi": [
-            32,
-            34,
-            36,
-            38
-          ],
-          "ans": 0,
-          "subject": "General Intelligence & Reasoning"
-        },
-        {
-          "q": "In a group of 120 people, 80 like tea, 60 like coffee, and 30 like both. How many like only coffee?",
-          "q_hi": "120 लोगों के समूह में, 80 चाय पसंद करते हैं, 60 कॉफी पसंद करते हैं, और 30 दोनों पसंद करते हैं। कितने केवल कॉफी पसंद करते हैं?",
-          "opts": [
-            20,
-            30,
-            40,
-            50
-          ],
-          "opts_hi": [
-            20,
-            30,
-            40,
-            50
-          ],
-          "ans": 1,
-          "subject": "General Intelligence & Reasoning"
-        },
-        {
-          "q": "In a class of 100 students, 60 like Maths, 50 like Science, and 20 like neither. How many like both?",
-          "q_hi": "100 छात्रों की एक कक्षा में, 60 को गणित पसंद है, 50 को विज्ञान पसंद है, और 20 को कोई भी पसंद नहीं है। कितने को दोनों पसंद हैं?",
-          "opts": [
-            10,
-            20,
-            30,
-            40
-          ],
-          "opts_hi": [
-            10,
-            20,
-            30,
-            40
+            "Pulmonary artery",
+            "Carotid artery",
+            "Aorta",
+            "Femoral artery"
           ],
           "ans": 2,
-          "subject": "General Intelligence & Reasoning"
+          "subject": "General Science",
+          "q_hi": "मानव शरीर की सबसे बड़ी धमनी कौन सी है?",
+          "opts_hi": [
+            "फुफ्फुसीय धमनी",
+            "कैरोटिड धमनी",
+            "महाधमनी",
+            "ऊरु धमनी"
+          ],
+          "exp_en": "The aorta is the largest artery in the human body. It carries oxygenated blood from the left ventricle of the heart to the rest of the body.",
+          "exp_hi": "महाधमनी (Aorta) मानव शरीर की सबसे बड़ी धमनी है। यह हृदय के बाएं निलय से ऑक्सीजन युक्त रक्त को पूरे शरीर में ले जाती है।"
         },
         {
-          "q": "If the mirror is placed to the right of a word, what will be the mirror image of 'WATER'?",
-          "q_hi": "यदि दर्पण किसी शब्द के दाईं ओर रखा जाता है, तो 'WATER' की दर्पण छवि क्या होगी?",
+          "q": "What is the reason for the formation of a rainbow?",
           "opts": [
-            "ЯƎTΛM",
-            "ЯƎTΛW",
-            "ЯƎTAM",
-            "ЯƎTAW"
-          ],
-          "opts_hi": [
-            "ЯƎTΛM",
-            "ЯƎTΛW",
-            "ЯƎTAM",
-            "ЯƎTAW"
-          ],
-          "ans": 0,
-          "subject": "General Intelligence & Reasoning"
-        },
-        {
-          "q": "Statement: \"Please keep your surroundings clean.\" Assumptions: I. People might not keep their surroundings clean. II. The speaker wants a clean environment. Which is correct?",
-          "q_hi": "कथन: \"कृपया अपने आस-पास को साफ रखें।\" पूर्वधारणाएँ: I. लोग अपने आस-पास को साफ नहीं रख सकते हैं। II. वक्ता स्वच्छ वातावरण चाहता है। कौन सा सही है?",
-          "opts": [
-            "Only I is implicit",
-            "Only II is implicit",
-            "Both I and II are implicit",
-            "Neither is implicit"
-          ],
-          "opts_hi": [
-            "केवल I अंतर्निहित है",
-            "केवल II अंतर्निहित है",
-            "I और II दोनों अंतर्निहित हैं",
-            "कोई भी अंतर्निहित नहीं है"
-          ],
-          "ans": 2,
-          "subject": "General Intelligence & Reasoning"
-        },
-        {
-          "q": "Six friends A, B, C, D, E and F are sitting in a circle facing the center. A is between D and F. B is between E and C. C is second to the right of A. Who is sitting opposite to A?",
-          "q_hi": "छह मित्र A, B, C, D, E और F केंद्र की ओर मुख करके एक वृत्त में बैठे हैं। A, D और F के बीच में है। B, E और C के बीच में है। C, A के दाईं ओर दूसरे स्थान पर है। A के विपरीत कौन बैठा है?",
-          "opts": [
-            "B",
-            "C",
-            "D",
-            "E"
-          ],
-          "opts_hi": [
-            "B",
-            "C",
-            "D",
-            "E"
-          ],
-          "ans": 0,
-          "subject": "General Intelligence & Reasoning"
-        },
-        {
-          "q": "How many squares are there in a 5x5 grid?",
-          "q_hi": "5x5 ग्रिड में कितने वर्ग हैं?",
-          "opts": [
-            55,
-            60,
-            65,
-            70
-          ],
-          "opts_hi": [
-            55,
-            60,
-            65,
-            70
-          ],
-          "ans": 0,
-          "subject": "General Intelligence & Reasoning"
-        },
-        {
-          "q": "How many triangles are there in a standard 3-tier triangular figure?",
-          "q_hi": "एक मानक 3-स्तरीय त्रिभुजाकार आकृति में कितने त्रिभुज हैं?",
-          "opts": [
-            10,
-            13,
-            15,
-            18
-          ],
-          "opts_hi": [
-            10,
-            13,
-            15,
-            18
+            "Reflection of light",
+            "Refraction and dispersion of light",
+            "Diffraction of light",
+            "Scattering of light"
           ],
           "ans": 1,
-          "subject": "General Intelligence & Reasoning"
-        },
-        {
-          "q": "In a certain code language, 'TRAIN' is written as 'USZHO'. How will 'BRAIN' be written in that code?",
-          "q_hi": "एक निश्चित कूट भाषा में, 'TRAIN' को 'USZHO' लिखा जाता है। उस कूट में 'BRAIN' को कैसे लिखा जाएगा?",
-          "opts": [
-            "CSZHO",
-            "CSZHO",
-            "CQZHO",
-            "CQZJO"
-          ],
+          "subject": "General Science",
+          "q_hi": "इंद्रधनुष के बनने का कारण क्या है?",
           "opts_hi": [
-            "CSZHO",
-            "CSZHO",
-            "CQZHO",
-            "CQZJO"
+            "प्रकाश का परावर्तन",
+            "प्रकाश का अपवर्तन और वर्ण विक्षेपण",
+            "प्रकाश का विवर्तन",
+            "प्रकाश का प्रकीर्णन"
           ],
-          "ans": 0,
-          "subject": "General Intelligence & Reasoning"
-        },
-        {
-          "q": "Select the option that is related to the third term in the same way as the second term is related to the first term: 8 : 512 :: 9 : ?",
-          "q_hi": "उस विकल्प का चयन करें जो तीसरे पद से उसी प्रकार संबंधित है जिस प्रकार दूसरा पद पहले पद से संबंधित है: 8 : 512 :: 9 : ?",
-          "opts": [
-            656,
-            729,
-            738,
-            748
-          ],
-          "opts_hi": [
-            656,
-            729,
-            738,
-            748
-          ],
-          "ans": 1,
-          "subject": "General Intelligence & Reasoning"
-        },
-        {
-          "q": "A police station is located 5 km North of a bank. A hospital is located 5 km East of the police station. A school is located 5 km South of the hospital. In which direction is the school from the bank?",
-          "q_hi": "एक पुलिस स्टेशन एक बैंक के 5 किमी उत्तर में स्थित है। एक अस्पताल पुलिस स्टेशन के 5 किमी पूर्व में स्थित है। एक स्कूल अस्पताल के 5 किमी दक्षिण में स्थित है। स्कूल बैंक से किस दिशा में है?",
-          "opts": [
-            "North",
-            "South",
-            "East",
-            "West"
-          ],
-          "opts_hi": [
-            "उत्तर",
-            "दक्षिण",
-            "पूर्व",
-            "पश्चिम"
-          ],
-          "ans": 2,
-          "subject": "General Intelligence & Reasoning"
+          "exp_en": "A rainbow is formed due to the refraction, dispersion, and internal reflection of sunlight by water droplets in the atmosphere.",
+          "exp_hi": "इंद्रधनुष वायुमंडल में जल की बूंदों द्वारा सूर्य के प्रकाश के अपवर्तन, वर्ण विक्षेपण और आंतरिक परावर्तन के कारण बनता है।"
         }
       ]
     }
