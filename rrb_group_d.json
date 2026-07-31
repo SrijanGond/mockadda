@@ -3487,6 +3487,24 @@
           "exp_hi": "कम से कम एक पसंद करने वाले = 40 + 30 - 20 = 50। कोई भी नहीं = 60 - 50 = 10।"
         },
         {
+          "q": "Pointing to a man in a photograph, a woman said, \"He is the only son of my father's father.\" How is that man related to the woman?",
+          "q_hi": "एक तस्वीर में एक पुरुष की ओर इशारा करते हुए, एक महिला ने कहा, \"वह मेरे पिता के पिता का इकलौता पुत्र है।\" वह पुरुष उस महिला से किस प्रकार संबंधित है?",
+          "opts": [
+            "Brother",
+            "Father",
+            "Uncle",
+            "Cousin"
+          ],
+          "opts_hi": [
+            "भाई",
+            "पिता",
+            "चाचा/मामा",
+            "चचेरा/ममेरा भाई"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
           "q": "Who appoints the Chief Election Commissioner of India?",
           "opts": [
             "Prime Minister",
