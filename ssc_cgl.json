@@ -489,24 +489,6 @@
           "exp_hi": "जैसे चित्रकार का मुख्य औज़ार ब्रश होता है, उसी प्रकार बढ़ई का मुख्य शिल्प औज़ार छेनी (Chisel) होता है।"
         },
         {
-          "q": "A person starts from point X and walks 8 km towards the East. He then turns left and walks 6 km. He then turns left and walks 8 km. He then turns right and walks 4 km. In which direction is he now from point X?",
-          "q_hi": "एक व्यक्ति बिंदु X से चलना शुरू करता है और 8 किमी पूर्व की ओर चलता है। फिर वह बाईं ओर मुड़ता है और 6 किमी चलता है। फिर वह बाईं ओर मुड़ता है और 8 किमी चलता है। फिर वह दाईं ओर मुड़ता है और 4 किमी चलता है। वह अब बिंदु X से किस दिशा में है?",
-          "opts": [
-            "North",
-            "South",
-            "East",
-            "West"
-          ],
-          "opts_hi": [
-            "उत्तर",
-            "दक्षिण",
-            "पूर्व",
-            "पश्चिम"
-          ],
-          "ans": 0,
-          "subject": "General Intelligence & Reasoning"
-        },
-        {
           "q": "Which schedule of the Indian Constitution contains provisions related to the disqualification of members of Parliament on grounds of defection?",
           "opts": [
             "Eighth Schedule",
