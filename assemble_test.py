@@ -82,6 +82,12 @@ QUOTAS = {
         ('General Intelligence & Reasoning', ['general intelligence & reasoning', 'general intelligence', 'reasoning'], 25),
         ('General Awareness & Current Affairs', ['general awareness & current affairs', 'general awareness', 'current affairs'], 25),
     ],
+    'rrb_group_d_4': [
+        ('General Science', ['general science', 'science'], 25),
+        ('Mathematics', ['mathematics', 'quantitative aptitude', 'maths', 'math'], 25),
+        ('General Intelligence & Reasoning', ['general intelligence & reasoning', 'general intelligence', 'reasoning'], 25),
+        ('General Awareness & Current Affairs', ['general awareness & current affairs', 'general awareness', 'current affairs'], 25),
+    ],
 }
 
 # Duration is in MINUTES (the site does test.duration * 60 to get the
@@ -96,6 +102,7 @@ TEST_META = {
     'rrb_group_d_1': {'duration': 90, 'correctMarks': 1, 'negativeMarks': 0.33},
     'rrb_group_d_2': {'duration': 90, 'correctMarks': 1, 'negativeMarks': 0.33},
     'rrb_group_d_3': {'duration': 90, 'correctMarks': 1, 'negativeMarks': 0.33},
+    'rrb_group_d_4': {'duration': 90, 'correctMarks': 1, 'negativeMarks': 0.33},
 }
 
 def is_language_skill_subject(subject):
