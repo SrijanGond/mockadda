@@ -1537,6 +1537,186 @@
           "ans": 1,
           "subject": "English Language",
           "exp_en": "To sit on the fence' means to remain neutral or avoid committing to any side in a debate or conflict. It does not mean observing from a distance or making an unpopular decision."
+        },
+        {
+          "q": "Find the part of the given sentence that has an error in it. If there is no error, choose 'No error'. The team of players are celebrating their victory with great enthusiasm.",
+          "q_hi": "दिए गए वाक्य का वह भाग खोजें जिसमें त्रुटि है। यदि कोई त्रुटि नहीं है, तो 'No error' चुनें। The team of players are celebrating their victory with great enthusiasm.",
+          "opts": [
+            "No error",
+            "The team of players",
+            "are celebrating their victory",
+            "with great enthusiasm"
+          ],
+          "opts_hi": [
+            "कोई त्रुटि नहीं",
+            "The team of players",
+            "are celebrating their victory",
+            "with great enthusiasm"
+          ],
+          "ans": 2,
+          "subject": "English Language"
+        },
+        {
+          "q": "Select the synonym of the word 'Clandestine'.",
+          "q_hi": "Clandestine' शब्द का पर्यायवाची चुनें।",
+          "opts": [
+            "Open",
+            "Secret",
+            "Public",
+            "Visible"
+          ],
+          "opts_hi": [
+            "Open",
+            "Secret",
+            "Public",
+            "Visible"
+          ],
+          "ans": 1,
+          "subject": "English Language"
+        },
+        {
+          "q": "Select the antonym of the word 'Blunt'.",
+          "q_hi": "Blunt' शब्द का विलोम चुनें।",
+          "opts": [
+            "Sharp",
+            "Dull",
+            "Honest",
+            "Rude"
+          ],
+          "opts_hi": [
+            "Sharp",
+            "Dull",
+            "Honest",
+            "Rude"
+          ],
+          "ans": 0,
+          "subject": "English Language"
+        },
+        {
+          "q": "Fill in the blank with the most suitable word. The new policy will _____ the company's growth significantly.",
+          "q_hi": "रिक्त स्थान को सबसे उपयुक्त शब्द से भरें। The new policy will _____ the company's growth significantly.",
+          "opts": [
+            "accelerate",
+            "decline",
+            "postpone",
+            "curtail"
+          ],
+          "opts_hi": [
+            "accelerate",
+            "decline",
+            "postpone",
+            "curtail"
+          ],
+          "ans": 0,
+          "subject": "English Language"
+        },
+        {
+          "q": "Select the word with the correct spelling.",
+          "q_hi": "सही वर्तनी वाला शब्द चुनें।",
+          "opts": [
+            "accomodate",
+            "accommodate",
+            "acommodate",
+            "acommodatee"
+          ],
+          "opts_hi": [
+            "accomodate",
+            "accommodate",
+            "acommodate",
+            "acommodatee"
+          ],
+          "ans": 1,
+          "subject": "English Language"
+        },
+        {
+          "q": "Select the correct meaning of the idiom 'Spill the beans'.",
+          "q_hi": "मुहावरे 'Spill the beans' का सही अर्थ चुनें।",
+          "opts": [
+            "Hide a secret",
+            "Reveal a secret",
+            "Cook something",
+            "Plant seeds"
+          ],
+          "opts_hi": [
+            "कोई रहस्य छिपाना",
+            "कोई रहस्य उजागर करना",
+            "कुछ पकाना",
+            "बीज बोना"
+          ],
+          "ans": 1,
+          "subject": "English Language"
+        },
+        {
+          "q": "Select the correct passive form of the given sentence. The chef prepared a delicious meal for the guests.",
+          "q_hi": "दिए गए वाक्य का सही passive रूप चुनें। The chef prepared a delicious meal for the guests.",
+          "opts": [
+            "A delicious meal is prepared by the chef for the guests.",
+            "A delicious meal was prepared by the chef for the guests.",
+            "The guests were prepared a delicious meal.",
+            "A delicious meal had been prepared by the chef."
+          ],
+          "opts_hi": [
+            "A delicious meal is prepared by the chef for the guests.",
+            "A delicious meal was prepared by the chef for the guests.",
+            "The guests were prepared a delicious meal.",
+            "A delicious meal had been prepared by the chef."
+          ],
+          "ans": 1,
+          "subject": "English Language"
+        },
+        {
+          "q": "Rearrange the parts of the sentence in correct order. P. known as the 'Father of the Nation' Q. Mahatma Gandhi is R. across the world for his philosophy S. of non-violence and peaceful resistance",
+          "q_hi": "वाक्य के भागों को सही क्रम में व्यवस्थित करें। P. known as the 'Father of the Nation' Q. Mahatma Gandhi is R. across the world for his philosophy S. of non-violence and peaceful resistance",
+          "opts": [
+            "PQRS",
+            "QPRS",
+            "QPSR",
+            "PRSQ"
+          ],
+          "opts_hi": [
+            "PQRS",
+            "QPRS",
+            "QPSR",
+            "PRSQ"
+          ],
+          "ans": 1,
+          "subject": "English Language"
+        },
+        {
+          "q": "Select the word that can substitute the given group of words. A place where bees are kept.",
+          "q_hi": "दिए गए शब्द-समूह के लिए एक शब्द चुनें। वह स्थान जहाँ मधुमक्खियाँ रखी जाती हैं।",
+          "opts": [
+            "Apiary",
+            "Aviary",
+            "Sanctuary",
+            "Orchard"
+          ],
+          "opts_hi": [
+            "Apiary",
+            "Aviary",
+            "Sanctuary",
+            "Orchard"
+          ],
+          "ans": 0,
+          "subject": "English Language"
+        },
+        {
+          "q": "Improve the underlined part of the sentence. She is the more taller of the two sisters.",
+          "q_hi": "वाक्य के रेखांकित भाग में सुधार करें। She is the more taller of the two sisters.",
+          "opts": [
+            "No improvement",
+            "the more tall",
+            "the tallest",
+            "the taller"
+          ],
+          "opts_hi": [
+            "कोई सुधार नहीं",
+            "the more tall",
+            "the tallest",
+            "the taller"
+          ],
+          "ans": 3,
+          "subject": "English Language"
         }
       ]
     },
