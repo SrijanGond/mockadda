@@ -6515,6 +6515,456 @@
           ],
           "exp_en": "A rainbow is formed due to the refraction, dispersion, and internal reflection of sunlight by water droplets in the atmosphere.",
           "exp_hi": "इंद्रधनुष वायुमंडल में जल की बूंदों द्वारा सूर्य के प्रकाश के अपवर्तन, वर्ण विक्षेपण और आंतरिक परावर्तन के कारण बनता है।"
+        },
+        {
+          "q": "If 30% of a number is 120, what is 45% of that number?",
+          "q_hi": "यदि किसी संख्या का 30% 120 है, तो उस संख्या का 45% क्या है?",
+          "opts": [
+            150,
+            160,
+            170,
+            180
+          ],
+          "opts_hi": [
+            150,
+            160,
+            170,
+            180
+          ],
+          "ans": 3,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "In an election, the winning candidate got 60% of the valid votes and won by a majority of 4000 votes. How many valid votes were cast?",
+          "q_hi": "एक चुनाव में, विजयी उम्मीदवार को वैध मतों का 60% प्राप्त हुआ और वह 4000 मतों के बहुमत से जीता। कितने वैध मत डाले गए?",
+          "opts": [
+            15000,
+            18000,
+            20000,
+            25000
+          ],
+          "opts_hi": [
+            15000,
+            18000,
+            20000,
+            25000
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "A shopkeeper buys 100 items at ₹50 each. He sells 60 items at a profit of 20% and the remaining at a loss of 10%. What is his overall profit/loss percentage?",
+          "q_hi": "एक दुकानदार 100 वस्तुएँ ₹50 प्रत्येक में खरीदता है। वह 60 वस्तुओं को 20% लाभ पर और शेष को 10% हानि पर बेचता है। उसका कुल लाभ/हानि प्रतिशत क्या है?",
+          "opts": [
+            "5% profit",
+            "6% profit",
+            "8% profit",
+            "10% profit"
+          ],
+          "opts_hi": [
+            "5% लाभ",
+            "6% लाभ",
+            "8% लाभ",
+            "10% लाभ"
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "A person sells an article at a loss of 15%. If he had sold it for ₹75 more, he would have gained 10%. What is the cost price?",
+          "q_hi": "एक व्यक्ति एक वस्तु को 15% हानि पर बेचता है। यदि उसने इसे ₹75 अधिक में बेचा होता, तो उसे 10% लाभ होता। क्रय मूल्य क्या है?",
+          "opts": [
+            "₹200",
+            "₹250",
+            "₹300",
+            "₹350"
+          ],
+          "opts_hi": [
+            "₹200",
+            "₹250",
+            "₹300",
+            "₹350"
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "A train 200 m long crosses a platform 300 m long in 20 seconds. What is the speed of the train?",
+          "q_hi": "200 मी लंबी एक ट्रेन 300 मी लंबे प्लेटफॉर्म को 20 सेकंड में पार करती है। ट्रेन की चाल क्या है?",
+          "opts": [
+            "72 km/h",
+            "80 km/h",
+            "90 km/h",
+            "100 km/h"
+          ],
+          "opts_hi": [
+            "72 किमी/घंटा",
+            "80 किमी/घंटा",
+            "90 किमी/घंटा",
+            "100 किमी/घंटा"
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "A man walks at 6 km/h for 4 hours and then at 8 km/h for 3 hours. What is his average speed?",
+          "q_hi": "एक व्यक्ति 6 किमी/घंटा की चाल से 4 घंटे चलता है और फिर 8 किमी/घंटा की चाल से 3 घंटे चलता है। उसकी औसत चाल क्या है?",
+          "opts": [
+            "6.5 km/h",
+            "6.86 km/h",
+            "7.2 km/h",
+            "7.5 km/h"
+          ],
+          "opts_hi": [
+            "6.5 किमी/घंटा",
+            "6.86 किमी/घंटा",
+            "7.2 किमी/घंटा",
+            "7.5 किमी/घंटा"
+          ],
+          "ans": 1,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the simple interest on ₹6000 at 8% per annum for 3 years?",
+          "q_hi": "₹6000 पर 8% वार्षिक दर से 3 वर्षों का साधारण ब्याज क्या है?",
+          "opts": [
+            "₹1200",
+            "₹1320",
+            "₹1440",
+            "₹1560"
+          ],
+          "opts_hi": [
+            "₹1200",
+            "₹1320",
+            "₹1440",
+            "₹1560"
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the compound interest on ₹8000 at 10% per annum compounded annually for 2 years?",
+          "q_hi": "₹8000 पर 10% वार्षिक दर से 2 वर्षों का चक्रवृद्धि ब्याज क्या है (वार्षिक रूप से संयोजित)?",
+          "opts": [
+            "₹1580",
+            "₹1680",
+            "₹1780",
+            "₹1880"
+          ],
+          "opts_hi": [
+            "₹1580",
+            "₹1680",
+            "₹1780",
+            "₹1880"
+          ],
+          "ans": 1,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "If A : B = 5 : 6 and B : C = 8 : 9, find A : C.",
+          "q_hi": "यदि A : B = 5 : 6 और B : C = 8 : 9 है, तो A : C ज्ञात करें।",
+          "opts": [
+            "5 : 9",
+            "20 : 27",
+            "10 : 18",
+            "15 : 24"
+          ],
+          "opts_hi": [
+            "5 : 9",
+            "20 : 27",
+            "10 : 18",
+            "15 : 24"
+          ],
+          "ans": 1,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "If x : y = 7 : 8, find (6x + 4y) : (5x + 3y).",
+          "q_hi": "यदि x : y = 7 : 8 है, तो (6x + 4y) : (5x + 3y) ज्ञात करें।",
+          "opts": [
+            "37 : 29",
+            "74 : 59",
+            "37 : 59",
+            "74 : 29"
+          ],
+          "opts_hi": [
+            "37 : 29",
+            "74 : 59",
+            "37 : 59",
+            "74 : 29"
+          ],
+          "ans": 1,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the LCM of 24, 36 and 48?",
+          "q_hi": "24, 36 और 48 का LCM क्या है?",
+          "opts": [
+            96,
+            120,
+            144,
+            168
+          ],
+          "opts_hi": [
+            96,
+            120,
+            144,
+            168
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the HCF of 180, 240 and 300?",
+          "q_hi": "180, 240 और 300 का HCF क्या है?",
+          "opts": [
+            30,
+            45,
+            60,
+            75
+          ],
+          "opts_hi": [
+            30,
+            45,
+            60,
+            75
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "Which of the following is a composite number?",
+          "q_hi": "निम्नलिखित में से कौन सी भाज्य संख्या है?",
+          "opts": [
+            19,
+            23,
+            29,
+            33
+          ],
+          "opts_hi": [
+            19,
+            23,
+            29,
+            33
+          ],
+          "ans": 3,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "If x² + 1/x² = 34, find x + 1/x (where x > 0).",
+          "q_hi": "यदि x² + 1/x² = 34 है, तो x + 1/x ज्ञात करें (जहाँ x > 0).",
+          "opts": [
+            4,
+            5,
+            6,
+            7
+          ],
+          "opts_hi": [
+            4,
+            5,
+            6,
+            7
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "If x + y = 12 and x² + y² = 74, find xy.",
+          "q_hi": "यदि x + y = 12 और x² + y² = 74 है, तो xy ज्ञात करें।",
+          "opts": [
+            25,
+            30,
+            35,
+            40
+          ],
+          "opts_hi": [
+            25,
+            30,
+            35,
+            40
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "Solve: 5x + 2 = 27. Find x.",
+          "q_hi": "हल करें: 5x + 2 = 27. x ज्ञात करें।",
+          "opts": [
+            3,
+            4,
+            5,
+            6
+          ],
+          "opts_hi": [
+            3,
+            4,
+            5,
+            6
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the area of a triangle with base 12 cm and height 8 cm?",
+          "q_hi": "12 सेमी आधार और 8 सेमी ऊँचाई वाले त्रिभुज का क्षेत्रफल क्या है?",
+          "opts": [
+            "32 cm²",
+            "40 cm²",
+            "48 cm²",
+            "56 cm²"
+          ],
+          "opts_hi": [
+            "32 सेमी²",
+            "40 सेमी²",
+            "48 सेमी²",
+            "56 सेमी²"
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the volume of a sphere of radius 7 cm?",
+          "q_hi": "7 सेमी त्रिज्या वाले गोले का आयतन क्या है?",
+          "opts": [
+            "1437.33 cm³",
+            "1537.33 cm³",
+            "1637.33 cm³",
+            "1737.33 cm³"
+          ],
+          "opts_hi": [
+            "1437.33 सेमी³",
+            "1537.33 सेमी³",
+            "1637.33 सेमी³",
+            "1737.33 सेमी³"
+          ],
+          "ans": 0,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the perimeter of a rectangle of length 15 cm and breadth 10 cm?",
+          "q_hi": "15 सेमी लंबाई और 10 सेमी चौड़ाई वाले आयत का परिमाप क्या है?",
+          "opts": [
+            "40 cm",
+            "45 cm",
+            "50 cm",
+            "55 cm"
+          ],
+          "opts_hi": [
+            "40 सेमी",
+            "45 सेमी",
+            "50 सेमी",
+            "55 सेमी"
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the value of sin² 30° + cos² 30°?",
+          "q_hi": "sin² 30° + cos² 30° का मान क्या है?",
+          "opts": [
+            0.5,
+            0.75,
+            1,
+            1.25
+          ],
+          "opts_hi": [
+            0.5,
+            0.75,
+            1,
+            1.25
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "What is the value of sec 45°?",
+          "q_hi": "sec 45° का मान क्या है?",
+          "opts": [
+            "√2",
+            "1/√2",
+            1,
+            2
+          ],
+          "opts_hi": [
+            "√2",
+            "1/√2",
+            1,
+            2
+          ],
+          "ans": 0,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "The average of 8 numbers is 25. If three numbers 20, 25 and 30 are removed, what is the new average?",
+          "q_hi": "8 संख्याओं का औसत 25 है। यदि तीन संख्याएँ 20, 25 और 30 हटा दी जाती हैं, तो नया औसत क्या है?",
+          "opts": [
+            22,
+            23,
+            24,
+            25
+          ],
+          "opts_hi": [
+            22,
+            23,
+            24,
+            25
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "The average of 5 numbers is 32. What is the sum of the numbers?",
+          "q_hi": "5 संख्याओं का औसत 32 है। संख्याओं का योग क्या है?",
+          "opts": [
+            140,
+            145,
+            150,
+            160
+          ],
+          "opts_hi": [
+            140,
+            145,
+            150,
+            160
+          ],
+          "ans": 3,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "The sum of the angles of a pentagon is:",
+          "q_hi": "एक पंचभुज के कोणों का योग होता है:",
+          "opts": [
+            "360°",
+            "450°",
+            "540°",
+            "720°"
+          ],
+          "opts_hi": [
+            "360°",
+            "450°",
+            "540°",
+            "720°"
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "q": "The sum of the angles of a hexagon is:",
+          "q_hi": "एक षट्भुज के कोणों का योग होता है:",
+          "opts": [
+            "360°",
+            "540°",
+            "720°",
+            "900°"
+          ],
+          "opts_hi": [
+            "360°",
+            "540°",
+            "720°",
+            "900°"
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
         }
       ]
     }
