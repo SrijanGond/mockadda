@@ -1,19 +1,19 @@
 {
   "general_intelligence_reasoning": {
     "name": "General Intelligence & Reasoning",
-    "count": 52
+    "count": 140
   },
   "general_awareness": {
     "name": "General Awareness",
-    "count": 72
+    "count": 89
   },
   "quantitative_aptitude": {
     "name": "Quantitative Aptitude",
-    "count": 73
+    "count": 168
   },
   "english_comprehension": {
     "name": "English Comprehension",
-    "count": 53
+    "count": 83
   },
   "polity": {
     "name": "Polity",
@@ -30,5 +30,13 @@
   "geography": {
     "name": "Geography",
     "count": 1
+  },
+  "general_science": {
+    "name": "General Science",
+    "count": 95
+  },
+  "general_awareness_current_affairs": {
+    "name": "General Awareness & Current Affairs",
+    "count": 75
   }
 }
