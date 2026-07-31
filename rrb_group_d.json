@@ -2417,6 +2417,96 @@
           "exp_hi": "पृथ्वी की सतह पर गुरुत्वाकर्षण के कारण त्वरण लगभग 9.8 मी/से² होता है, जिसे 'g' से दर्शाया जाता है।"
         },
         {
+          "q": "What is the unit of electrical resistance?",
+          "q_hi": "विद्युत प्रतिरोध का मात्रक क्या है?",
+          "opts": [
+            "Volt",
+            "Ohm",
+            "Ampere",
+            "Watt"
+          ],
+          "opts_hi": [
+            "वोल्ट",
+            "ओम",
+            "एम्पीयर",
+            "वाट"
+          ],
+          "ans": 1,
+          "subject": "General Science"
+        },
+        {
+          "q": "Which element is used in the treatment of water as a disinfectant?",
+          "q_hi": "जल के उपचार में किस तत्व का उपयोग कीटाणुनाशक के रूप में किया जाता है?",
+          "opts": [
+            "Fluorine",
+            "Chlorine",
+            "Bromine",
+            "Iodine"
+          ],
+          "opts_hi": [
+            "फ्लोरीन",
+            "क्लोरीन",
+            "ब्रोमीन",
+            "आयोडीन"
+          ],
+          "ans": 1,
+          "subject": "General Science"
+        },
+        {
+          "q": "Which organ in the human body stores bile?",
+          "q_hi": "मानव शरीर में कौन सा अंग पित्त को संग्रहित करता है?",
+          "opts": [
+            "Liver",
+            "Gall bladder",
+            "Pancreas",
+            "Spleen"
+          ],
+          "opts_hi": [
+            "यकृत",
+            "पित्ताशय",
+            "अग्न्याशय",
+            "तिल्ली"
+          ],
+          "ans": 1,
+          "subject": "General Science"
+        },
+        {
+          "q": "What is the formula for power in terms of work and time?",
+          "q_hi": "कार्य और समय के संदर्भ में शक्ति का सूत्र क्या है?",
+          "opts": [
+            "P = W × t",
+            "P = W / t",
+            "P = t / W",
+            "P = W + t"
+          ],
+          "opts_hi": [
+            "P = W × t",
+            "P = W / t",
+            "P = t / W",
+            "P = W + t"
+          ],
+          "ans": 1,
+          "subject": "General Science"
+        },
+        {
+          "q": "What is the genetic material in the nucleus of a cell called?",
+          "q_hi": "कोशिका के केंद्रक में आनुवंशिक पदार्थ को क्या कहते हैं?",
+          "opts": [
+            "RNA",
+            "DNA",
+            "Ribosome",
+            "Protein"
+          ],
+          "opts_hi": [
+            "RNA",
+            "DNA",
+            "राइबोसोम",
+            "प्रोटीन"
+          ],
+          "ans": 1,
+          "subject": "General Science"
+        },
+        {
           "q": "If the price of a product increases by 20% and becomes ₹600, what was the original price?",
           "opts": [
             "₹480",
