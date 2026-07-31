@@ -441,6 +441,46 @@
       "exp_hi": "दोनों पूर्वधारणाएँ अंतर्निहित हैं। कथन चमकदार त्वचा के लिए साबुन की सिफारिश करता है, जिसका अर्थ है कि यह प्रभावी है (I) और लोग चमकदार त्वचा चाहते हैं (II)।"
     },
     {
+      "q": "What is the missing term in the following series? 7, 12, 21, 34, 51, __",
+      "opts": [
+        "72",
+        "68",
+        "76",
+        "70"
+      ],
+      "ans": 0,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "निम्नलिखित श्रृंखला में लुप्त पद क्या है? 7, 12, 21, 34, 51, __",
+      "opts_hi": [
+        "72",
+        "68",
+        "76",
+        "70"
+      ],
+      "exp_en": "The differences between consecutive terms are 5, 9, 13, 17 — an AP with common difference 4. The next difference is 21, so 51 + 21 = 72.",
+      "exp_hi": "क्रमागत पदों के बीच अंतर 5, 9, 13, 17 हैं — जो 4 के सार्व अंतर वाली AP है। अगला अंतर 21 होगा, अतः 51 + 21 = 72।"
+    },
+    {
+      "q": "Painter : Brush :: Carpenter : ?",
+      "opts": [
+        "Wood",
+        "Chisel",
+        "Nail",
+        "Hammer"
+      ],
+      "ans": 1,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "चित्रकार : ब्रश :: बढ़ई : ?",
+      "opts_hi": [
+        "लकड़ी",
+        "छेनी",
+        "कील",
+        "हथौड़ा"
+      ],
+      "exp_en": "A Painter's primary shaping/crafting tool is a Brush; similarly, a Carpenter's primary shaping/crafting tool is a Chisel.",
+      "exp_hi": "जैसे चित्रकार का मुख्य औज़ार ब्रश होता है, उसी प्रकार बढ़ई का मुख्य शिल्प औज़ार छेनी (Chisel) होता है।"
+    },
+    {
       "q": "Select the set in which the numbers are related in the same way as are the numbers of the following set. 14 : 30 : 46",
       "q_hi": "उस समुच्चय का चयन करें जिसमें संख्याएँ उसी प्रकार संबंधित हैं जैसे निम्नलिखित समुच्चय की संख्याएँ संबंधित हैं। 14 : 30 : 46",
       "opts": [
@@ -647,6 +687,1426 @@
       ],
       "exp_en": "To find the mirror image of a clock time, subtract the given time from 11:60. 11:60 − 08:20 = 03:40.",
       "exp_hi": "घड़ी के दर्पण प्रतिबिंब का समय ज्ञात करने के लिए दिए गए समय को 11:60 में से घटाते हैं। 11:60 − 08:20 = 03:40।"
+    },
+    {
+      "q": "If CAT is coded as 3120, how is DOG coded?",
+      "opts": [
+        "4157",
+        "4156",
+        "4155",
+        "5146"
+      ],
+      "ans": 0,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "यदि CAT को 3120 के रूप में कोडित किया जाता है, तो DOG को कैसे कोडित किया जाएगा?",
+      "opts_hi": [
+        "4157",
+        "4156",
+        "4155",
+        "5146"
+      ],
+      "exp_en": "C=3, A=1, T=20 → CAT = 3-1-20 = 3120. Similarly, D=4, O=15, G=7 → DOG = 4-15-7 = 4157.",
+      "exp_hi": "C=3, A=1, T=20 → CAT = 3-1-20 = 3120. इसी प्रकार, D=4, O=15, G=7 → DOG = 4-15-7 = 4157."
+    },
+    {
+      "q": "If 'PENCIL' is coded as 'QFO DJM', how is 'BOOK' coded?",
+      "opts": [
+        "CPPL",
+        "CPPM",
+        "CPPL (space)",
+        "CQQL"
+      ],
+      "ans": 0,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "यदि 'PENCIL' को 'QFO DJM' के रूप में कोडित किया जाता है, तो 'BOOK' को कैसे कोडित किया जाएगा?",
+      "opts_hi": [
+        "CPPL",
+        "CPPM",
+        "CPPL (स्पेस)",
+        "CQQL"
+      ],
+      "exp_en": "Each letter is shifted by +1: P→Q, E→F, N→O, C→D, I→J, L→M. Similarly, B→C, O→P, O→P, K→L = CPPL.",
+      "exp_hi": "प्रत्येक अक्षर में +1 की वृद्धि: P→Q, E→F, N→O, C→D, I→J, L→M. इसी प्रकार, B→C, O→P, O→P, K→L = CPPL."
+    },
+    {
+      "q": "In a certain code language, 'MOBILE' is written as 'NQCKMG'. How will 'PHONE' be written in that code?",
+      "opts": [
+        "QJPPF",
+        "QJPOG",
+        "QKQPF",
+        "QJQOG"
+      ],
+      "ans": 0,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "एक निश्चित कूट भाषा में, 'MOBILE' को 'NQCKMG' लिखा जाता है। उस कूट में 'PHONE' को कैसे लिखा जाएगा?",
+      "opts_hi": [
+        "QJPPF",
+        "QJPOG",
+        "QKQPF",
+        "QJQOG"
+      ],
+      "exp_en": "Pattern: +1,+2,+1,+2,+1,+2. M→N(+1), O→Q(+2), B→C(+1), I→K(+2), L→M(+1), E→G(+2). P→Q(+1), H→J(+2), O→P(+1), N→P(+2), E→F(+1) = QJPPF.",
+      "exp_hi": "पैटर्न: +1,+2,+1,+2,+1,+2. M→N(+1), O→Q(+2), B→C(+1), I→K(+2), L→M(+1), E→G(+2). P→Q(+1), H→J(+2), O→P(+1), N→P(+2), E→F(+1) = QJPPF."
+    },
+    {
+      "q": "Pointing to a man, a woman said, \"He is the only son of my mother's father.\" How is that man related to the woman?",
+      "opts": [
+        "Brother",
+        "Father",
+        "Uncle",
+        "Cousin"
+      ],
+      "ans": 2,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "एक महिला ने एक पुरुष की ओर इशारा करते हुए कहा, \"वह मेरी माँ के पिता का इकलौता पुत्र है।\" वह पुरुष उस महिला से किस प्रकार संबंधित है?",
+      "opts_hi": [
+        "भाई",
+        "पिता",
+        "चाचा/मामा",
+        "चचेरा/ममेरा भाई"
+      ],
+      "exp_en": "Mother's father = Maternal grandfather. His only son = Maternal uncle. So the man is the woman's maternal uncle (Mama).",
+      "exp_hi": "माँ के पिता = नाना। उनका इकलौता पुत्र = मामा। अतः वह पुरुष उस महिला का मामा है।"
+    },
+    {
+      "q": "A is the mother of B. C is the father of A. D is the brother of A. How is D related to B?",
+      "opts": [
+        "Uncle",
+        "Father",
+        "Brother",
+        "Grandfather"
+      ],
+      "ans": 0,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "A, B की माता है। C, A का पिता है। D, A का भाई है। D, B से किस प्रकार संबंधित है?",
+      "opts_hi": [
+        "चाचा/मामा",
+        "पिता",
+        "भाई",
+        "दादा/नाना"
+      ],
+      "exp_en": "D is the brother of A, and A is the mother of B. So D is the maternal uncle of B.",
+      "exp_hi": "D, A का भाई है और A, B की माता है। अतः D, B का मामा है।"
+    },
+    {
+      "q": "Rahul walks 10 km towards North, then turns right and walks 5 km. He then turns right and walks 10 km. In which direction is he from his starting point?",
+      "opts": [
+        "North",
+        "South",
+        "East",
+        "West"
+      ],
+      "ans": 3,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "राहुल उत्तर दिशा में 10 किमी चलता है, फिर दाईं ओर मुड़ता है और 5 किमी चलता है। फिर वह दाईं ओर मुड़ता है और 10 किमी चलता है। वह अपने प्रारंभिक बिंदु से किस दिशा में है?",
+      "opts_hi": [
+        "उत्तर",
+        "दक्षिण",
+        "पूर्व",
+        "पश्चिम"
+      ],
+      "exp_en": "Starts → 10 km North → turns right (East) 5 km → turns right (South) 10 km. Net displacement = 5 km West. So he is in West direction.",
+      "exp_hi": "प्रारंभ → 10 किमी उत्तर → दाएँ मुड़ा (पूर्व) 5 किमी → दाएँ मुड़ा (दक्षिण) 10 किमी। शुद्ध विस्थापन = 5 किमी पश्चिम। अतः वह पश्चिम दिशा में है।"
+    },
+    {
+      "q": "Ram starts from point A and walks 5 km East. He turns right and walks 12 km. He then turns right and walks 5 km. How far is he from point A?",
+      "opts": [
+        "5 km",
+        "12 km",
+        "13 km",
+        "17 km"
+      ],
+      "ans": 1,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "राम बिंदु A से चलना शुरू करता है और 5 किमी पूर्व चलता है। वह दाईं ओर मुड़ता है और 12 किमी चलता है। फिर वह दाईं ओर मुड़ता है और 5 किमी चलता है। वह बिंदु A से कितनी दूर है?",
+      "opts_hi": [
+        "5 किमी",
+        "12 किमी",
+        "13 किमी",
+        "17 किमी"
+      ],
+      "exp_en": "Starts 5 km East → turns right (South) 12 km → turns right (West) 5 km. Net displacement = 12 km South. So distance from A = 12 km.",
+      "exp_hi": "शुरू 5 किमी पूर्व → दाएँ मुड़ा (दक्षिण) 12 किमी → दाएँ मुड़ा (पश्चिम) 5 किमी। शुद्ध विस्थापन = 12 किमी दक्षिण। अतः A से दूरी = 12 किमी।"
+    },
+    {
+      "q": "Five friends A, B, C, D and E are sitting in a row. B is sitting between C and D. A is sitting to the immediate left of B. E is at the extreme right end. Who is sitting at the extreme left end?",
+      "opts": [
+        "A",
+        "C",
+        "B",
+        "D"
+      ],
+      "ans": 1,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "पाँच मित्र A, B, C, D और E एक पंक्ति में बैठे हैं। B, C और D के बीच बैठा है। A, B के ठीक बाईं ओर बैठा है। E अत्यंत दाहिने छोर पर है। अत्यंत बाएँ छोर पर कौन बैठा है?",
+      "opts_hi": [
+        "A",
+        "C",
+        "B",
+        "D"
+      ],
+      "exp_en": "Arrangement: C - A - B - D - E. So C is at the extreme left end.",
+      "exp_hi": "व्यवस्था: C - A - B - D - E. अतः C अत्यंत बाएँ छोर पर है।"
+    },
+    {
+      "q": "Statements: All pens are pencils. Some pencils are erasers. Conclusions: I. All pens are erasers. II. Some erasers are pens. Which of the following is correct?",
+      "opts": [
+        "Only I follows",
+        "Only II follows",
+        "Both I and II follow",
+        "Neither I nor II follows"
+      ],
+      "ans": 3,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "कथन: सभी पेन पेंसिल हैं। कुछ पेंसिल इरेज़र हैं। निष्कर्ष: I. सभी पेन इरेज़र हैं। II. कुछ इरेज़र पेन हैं। निम्नलिखित में से कौन सा सही है?",
+      "opts_hi": [
+        "केवल I सही है",
+        "केवल II सही है",
+        "I और II दोनों सही हैं",
+        "ना तो I और ना ही II सही है"
+      ],
+      "exp_en": "All pens are pencils, and some pencils are erasers. The erasers may or may not include pens. Hence neither conclusion definitely follows.",
+      "exp_hi": "सभी पेन पेंसिल हैं, और कुछ पेंसिल इरेज़र हैं। इरेज़र में पेन शामिल हो भी सकते हैं और नहीं भी। अतः कोई भी निष्कर्ष निश्चित रूप से सही नहीं है।"
+    },
+    {
+      "q": "Statements: All cats are animals. All dogs are animals. Conclusions: I. Some cats are dogs. II. Some animals are cats. Which is correct?",
+      "opts": [
+        "Only I follows",
+        "Only II follows",
+        "Both I and II follow",
+        "Neither I nor II follows"
+      ],
+      "ans": 1,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "कथन: सभी बिल्लियाँ जानवर हैं। सभी कुत्ते जानवर हैं। निष्कर्ष: I. कुछ बिल्लियाँ कुत्ते हैं। II. कुछ जानवर बिल्लियाँ हैं। कौन सा सही है?",
+      "opts_hi": [
+        "केवल I सही है",
+        "केवल II सही है",
+        "I और II दोनों सही हैं",
+        "ना तो I और ना ही II सही है"
+      ],
+      "exp_en": "All cats are animals implies some animals are cats (II follows). But cats and dogs are separate groups, so some cats are dogs does not follow.",
+      "exp_hi": "सभी बिल्लियाँ जानवर हैं, इसका अर्थ है कि कुछ जानवर बिल्लियाँ हैं (II सही है)। लेकिन बिल्लियाँ और कुत्ते अलग-अलग समूह हैं, अतः कुछ बिल्लियाँ कुत्ते हैं सही नहीं है।"
+    },
+    {
+      "q": "How many squares are there in a 4x4 grid?",
+      "opts": [
+        "30",
+        "32",
+        "36",
+        "40"
+      ],
+      "ans": 0,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "4x4 ग्रिड में कितने वर्ग हैं?",
+      "opts_hi": [
+        "30",
+        "32",
+        "36",
+        "40"
+      ],
+      "exp_en": "Total squares = 1² + 2² + 3² + 4² = 1 + 4 + 9 + 16 = 30.",
+      "exp_hi": "कुल वर्ग = 1² + 2² + 3² + 4² = 1 + 4 + 9 + 16 = 30."
+    },
+    {
+      "q": "Find the next term: 2, 6, 12, 20, 30, ?",
+      "opts": [
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "ans": 1,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "अगला पद ज्ञात करें: 2, 6, 12, 20, 30, ?",
+      "opts_hi": [
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "exp_en": "Difference: +4, +6, +8, +10, next +12 = 30 + 12 = 42.",
+      "exp_hi": "अंतर: +4, +6, +8, +10, अगला +12 = 30 + 12 = 42."
+    },
+    {
+      "q": "Find the next term: 3, 10, 29, 66, 127, ?",
+      "opts": [
+        "218",
+        "220",
+        "222",
+        "224"
+      ],
+      "ans": 0,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "अगला पद ज्ञात करें: 3, 10, 29, 66, 127, ?",
+      "opts_hi": [
+        "218",
+        "220",
+        "222",
+        "224"
+      ],
+      "exp_en": "Pattern: 1³+2=3, 2³+2=10, 3³+2=29, 4³+2=66, 5³+2=127, 6³+2=218.",
+      "exp_hi": "पैटर्न: 1³+2=3, 2³+2=10, 3³+2=29, 4³+2=66, 5³+2=127, 6³+2=218."
+    },
+    {
+      "q": "If '+' means '×', '−' means '+', '×' means '÷', and '÷' means '−', then what is the value of 12 + 3 − 4 × 2 ÷ 5?",
+      "opts": [
+        "33",
+        "35",
+        "37",
+        "39"
+      ],
+      "ans": 0,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "यदि '+' का अर्थ '×' है, '−' का अर्थ '+' है, '×' का अर्थ '÷' है, और '÷' का अर्थ '−' है, तो 12 + 3 − 4 × 2 ÷ 5 का मान क्या है?",
+      "opts_hi": [
+        "33",
+        "35",
+        "37",
+        "39"
+      ],
+      "exp_en": "Replace symbols: 12 × 3 + 4 ÷ 2 − 5. Using BODMAS: 12×3=36, 4÷2=2, 36+2−5=33.",
+      "exp_hi": "प्रतीकों को बदलें: 12 × 3 + 4 ÷ 2 − 5. BODMAS के अनुसार: 12×3=36, 4÷2=2, 36+2−5=33."
+    },
+    {
+      "q": "In a class of 100 students, 60 like Maths, 50 like Science, and 20 like both. How many like neither?",
+      "opts": [
+        "10",
+        "15",
+        "20",
+        "25"
+      ],
+      "ans": 0,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "100 छात्रों की एक कक्षा में, 60 को गणित पसंद है, 50 को विज्ञान पसंद है, और 20 को दोनों पसंद हैं। कितने को कोई भी पसंद नहीं है?",
+      "opts_hi": [
+        "10",
+        "15",
+        "20",
+        "25"
+      ],
+      "exp_en": "Students liking at least one = 60 + 50 − 20 = 90. Neither = 100 − 90 = 10.",
+      "exp_hi": "कम से कम एक विषय पसंद करने वाले = 60 + 50 − 20 = 90। कोई भी नहीं = 100 − 90 = 10।"
+    },
+    {
+      "q": "In a group of 200 people, 120 speak Hindi, 100 speak English, and 80 speak both. How many speak only Hindi?",
+      "opts": [
+        "40",
+        "50",
+        "60",
+        "70"
+      ],
+      "ans": 0,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "200 लोगों के समूह में, 120 हिंदी बोलते हैं, 100 अंग्रेजी बोलते हैं, और 80 दोनों बोलते हैं। कितने केवल हिंदी बोलते हैं?",
+      "opts_hi": [
+        "40",
+        "50",
+        "60",
+        "70"
+      ],
+      "exp_en": "Only Hindi = Total Hindi − Both = 120 − 80 = 40.",
+      "exp_hi": "केवल हिंदी = कुल हिंदी − दोनों = 120 − 80 = 40."
+    },
+    {
+      "q": "If the mirror is placed to the right of a word, what will be the mirror image of 'SSC'?",
+      "opts": [
+        "CSS",
+        "SSƆ",
+        "ƆSS",
+        "ƧƧƆ"
+      ],
+      "ans": 2,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "यदि दर्पण किसी शब्द के दाईं ओर रखा जाता है, तो 'SSC' की दर्पण छवि क्या होगी?",
+      "opts_hi": [
+        "CSS",
+        "SSƆ",
+        "ƆSS",
+        "ƧƧƆ"
+      ],
+      "exp_en": "When mirror is on the right, the word appears reversed laterally. S remains S (symmetrical), C flips to Ɔ. Order reverses: 'SSC' → 'ƆSS'.",
+      "exp_hi": "जब दर्पण दाईं ओर होता है, तो शब्द पार्श्व रूप से उलटा दिखाई देता है। S सममित है, C उलटकर Ɔ हो जाता है। क्रम उलटने पर 'SSC' → 'ƆSS'।"
+    },
+    {
+      "q": "Statement: \"Use XYZ brand soap for glowing skin.\" Assumptions: I. XYZ soap is effective for skin glow. II. People want glowing skin. Which of the following is true?",
+      "opts": [
+        "Only I is implicit",
+        "Only II is implicit",
+        "Both I and II are implicit",
+        "Neither is implicit"
+      ],
+      "ans": 2,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "कथन: \"चमकदार त्वचा के लिए XYZ ब्रांड साबुन का उपयोग करें।\" पूर्वधारणाएँ: I. XYZ साबुन त्वचा की चमक के लिए प्रभावी है। II. लोग चमकदार त्वचा चाहते हैं। निम्नलिखित में से कौन सा सत्य है?",
+      "opts_hi": [
+        "केवल I अंतर्निहित है",
+        "केवल II अंतर्निहित है",
+        "I और II दोनों अंतर्निहित हैं",
+        "कोई भी अंतर्निहित नहीं है"
+      ],
+      "exp_en": "Both assumptions are implicit. The statement recommends the soap for glowing skin, implying it is effective (I) and that people desire glowing skin (II).",
+      "exp_hi": "दोनों पूर्वधारणाएँ अंतर्निहित हैं। कथन चमकदार त्वचा के लिए साबुन की सिफारिश करता है, जिसका अर्थ है कि यह प्रभावी है (I) और लोग चमकदार त्वचा चाहते हैं (II)।"
+    },
+    {
+      "q": "Statement: \"Please close the door before leaving.\" Assumptions: I. People might leave the door open. II. The speaker wants the door closed. Which is correct?",
+      "opts": [
+        "Only I is implicit",
+        "Only II is implicit",
+        "Both I and II are implicit",
+        "Neither is implicit"
+      ],
+      "ans": 2,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "कथन: \"कृपया जाने से पहले दरवाजा बंद कर दें।\" पूर्वधारणाएँ: I. लोग दरवाजा खुला छोड़ सकते हैं। II. वक्ता चाहता है कि दरवाजा बंद हो। कौन सा सही है?",
+      "opts_hi": [
+        "केवल I अंतर्निहित है",
+        "केवल II अंतर्निहित है",
+        "I और II दोनों अंतर्निहित हैं",
+        "कोई भी अंतर्निहित नहीं है"
+      ],
+      "exp_en": "Both assumptions are implicit. The request implies people might leave it open (I) and that the speaker wants it closed (II).",
+      "exp_hi": "दोनों पूर्वधारणाएँ अंतर्निहित हैं। अनुरोध का अर्थ है कि लोग इसे खुला छोड़ सकते हैं (I) और वक्ता चाहता है कि दरवाजा बंद हो (II)।"
+    },
+    {
+      "q": "Select the option that is related to the third term in the same way as the second term is related to the first term: Book : Chapter :: Tree : ?",
+      "opts": [
+        "Root",
+        "Branch",
+        "Leaf",
+        "Fruit"
+      ],
+      "ans": 1,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "उस विकल्प का चयन करें जो तीसरे पद से उसी प्रकार संबंधित है जिस प्रकार दूसरा पद पहले पद से संबंधित है: पुस्तक : अध्याय :: वृक्ष : ?",
+      "opts_hi": [
+        "जड़",
+        "शाखा",
+        "पत्ती",
+        "फल"
+      ],
+      "exp_en": "A book is made up of chapters. Similarly, a tree is made up of branches.",
+      "exp_hi": "एक पुस्तक अध्यायों से बनी होती है। इसी प्रकार, एक वृक्ष शाखाओं से बना होता है।"
+    },
+    {
+      "q": "Select the related letters: ACE : BDF :: GIK : ?",
+      "opts": [
+        "HJL",
+        "HJM",
+        "HIL",
+        "IJL"
+      ],
+      "ans": 0,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "संबंधित अक्षरों का चयन करें: ACE : BDF :: GIK : ?",
+      "opts_hi": [
+        "HJL",
+        "HJM",
+        "HIL",
+        "IJL"
+      ],
+      "exp_en": "Each letter is shifted by +1: A→B, C→D, E→F. Similarly, G→H, I→J, K→L = HJL.",
+      "exp_hi": "प्रत्येक अक्षर में +1 की वृद्धि: A→B, C→D, E→F. इसी प्रकार, G→H, I→J, K→L = HJL."
+    },
+    {
+      "q": "Find the odd one out:",
+      "opts": [
+        "Cube",
+        "Cone",
+        "Cylinder",
+        "Sphere"
+      ],
+      "ans": 0,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "विषम का चयन करें:",
+      "opts_hi": [
+        "घन",
+        "शंकु",
+        "बेलन",
+        "गोला"
+      ],
+      "exp_en": "Cube is a 3D shape with flat faces and edges; Cone, Cylinder, and Sphere are round/curved shapes.",
+      "exp_hi": "घन समतल फलकों और किनारों वाली 3D आकृति है; शंकु, बेलन और गोला गोल/वक्र आकृतियाँ हैं।"
+    },
+    {
+      "q": "If 'APPLE' is coded as 'BQQMF', how is 'MANGO' coded?",
+      "opts": [
+        "NBOHP",
+        "NBOJP",
+        "NBOHQ",
+        "NCOHP"
+      ],
+      "ans": 0,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "यदि 'APPLE' को 'BQQMF' के रूप में कोडित किया जाता है, तो 'MANGO' को कैसे कोडित किया जाएगा?",
+      "opts_hi": [
+        "NBOHP",
+        "NBOJP",
+        "NBOHQ",
+        "NCOHP"
+      ],
+      "exp_en": "Each letter is shifted by +1: A→B, P→Q, P→Q, L→M, E→F. Similarly, M→N, A→B, N→O, G→H, O→P = NBOHP.",
+      "exp_hi": "प्रत्येक अक्षर में +1 की वृद्धि: A→B, P→Q, P→Q, L→M, E→F. इसी प्रकार, M→N, A→B, N→O, G→H, O→P = NBOHP।"
+    },
+    {
+      "q": "Karan starts from point A and walks 10 km towards North. He turns right and walks 5 km. He then turns right and walks 10 km. In which direction is he from his starting point?",
+      "opts": [
+        "North",
+        "South",
+        "East",
+        "West"
+      ],
+      "ans": 3,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "करण बिंदु A से चलना शुरू करता है और 10 किमी उत्तर चलता है। वह दाईं ओर मुड़ता है और 5 किमी चलता है। फिर वह दाईं ओर मुड़ता है और 10 किमी चलता है। वह अपने प्रारंभिक बिंदु से किस दिशा में है?",
+      "opts_hi": [
+        "उत्तर",
+        "दक्षिण",
+        "पूर्व",
+        "पश्चिम"
+      ],
+      "exp_en": "Starts → 10 km North → turns right (East) 5 km → turns right (South) 10 km. Net displacement = 5 km West. So he is in West direction.",
+      "exp_hi": "प्रारंभ → 10 किमी उत्तर → दाएँ मुड़ा (पूर्व) 5 किमी → दाएँ मुड़ा (दक्षिण) 10 किमी। शुद्ध विस्थापन = 5 किमी पश्चिम। अतः वह पश्चिम दिशा में है।"
+    },
+    {
+      "q": "Find the next term: 0, 7, 26, 63, 124, ?",
+      "opts": [
+        "180",
+        "190",
+        "200",
+        "215"
+      ],
+      "ans": 3,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "अगला पद ज्ञात करें: 0, 7, 26, 63, 124, ?",
+      "opts_hi": [
+        "180",
+        "190",
+        "200",
+        "215"
+      ],
+      "exp_en": "Pattern: 1³-1=0, 2³-1=7, 3³-1=26, 4³-1=63, 5³-1=124, 6³-1=215.",
+      "exp_hi": "पैटर्न: 1³-1=0, 2³-1=7, 3³-1=26, 4³-1=63, 5³-1=124, 6³-1=215।"
+    },
+    {
+      "q": "Select the option that is related to the third term in the same way as the second term is related to the first term: Pen : Write :: Scissors : ?",
+      "opts": [
+        "Cut",
+        "Sew",
+        "Stitch",
+        "Draw"
+      ],
+      "ans": 0,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "उस विकल्प का चयन करें जो तीसरे पद से उसी प्रकार संबंधित है जिस प्रकार दूसरा पद पहले पद से संबंधित है: पेन : लिखना :: कैंची : ?",
+      "opts_hi": [
+        "काटना",
+        "सिलना",
+        "टाँका लगाना",
+        "खींचना"
+      ],
+      "exp_en": "A pen is used to write. Similarly, scissors are used to cut.",
+      "exp_hi": "पेन का उपयोग लिखने के लिए होता है। इसी प्रकार, कैंची का उपयोग काटने के लिए होता है।"
+    },
+    {
+      "q": "Select the related letters: BDF : CEG :: HJL : ?",
+      "opts": [
+        "IKM",
+        "IKL",
+        "IJM",
+        "HKM"
+      ],
+      "ans": 0,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "संबंधित अक्षरों का चयन करें: BDF : CEG :: HJL : ?",
+      "opts_hi": [
+        "IKM",
+        "IKL",
+        "IJM",
+        "HKM"
+      ],
+      "exp_en": "Each letter is shifted by +1: B→C, D→E, F→G. Similarly, H→I, J→K, L→M = IKM.",
+      "exp_hi": "प्रत्येक अक्षर में +1 की वृद्धि: B→C, D→E, F→G. इसी प्रकार, H→I, J→K, L→M = IKM."
+    },
+    {
+      "q": "Select the related number: 12 : 144 :: 15 : ?",
+      "opts": [
+        "180",
+        "200",
+        "225",
+        "250"
+      ],
+      "ans": 2,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "संबंधित संख्या का चयन करें: 12 : 144 :: 15 : ?",
+      "opts_hi": [
+        "180",
+        "200",
+        "225",
+        "250"
+      ],
+      "exp_en": "12² = 144. Similarly, 15² = 225.",
+      "exp_hi": "12² = 144. इसी प्रकार, 15² = 225."
+    },
+    {
+      "q": "Find the odd one out:",
+      "opts": [
+        "Car",
+        "Bus",
+        "Train",
+        "Bicycle"
+      ],
+      "ans": 3,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "विषम का चयन करें:",
+      "opts_hi": [
+        "कार",
+        "बस",
+        "ट्रेन",
+        "साइकिल"
+      ],
+      "exp_en": "Car, Bus and Train are motorized vehicles. Bicycle is a non-motorized vehicle.",
+      "exp_hi": "कार, बस और ट्रेन मोटर चालित वाहन हैं। साइकिल गैर-मोटर चालित वाहन है।"
+    },
+    {
+      "q": "If LION is coded as 1291514, how is TIGER coded?",
+      "opts": [
+        "2097518",
+        "2095718",
+        "2095715",
+        "2097515"
+      ],
+      "ans": 0,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "यदि LION को 1291514 के रूप में कोडित किया जाता है, तो TIGER को कैसे कोडित किया जाएगा?",
+      "opts_hi": [
+        "2097518",
+        "2095718",
+        "2095715",
+        "2097515"
+      ],
+      "exp_en": "L=12, I=9, O=15, N=14 → LION = 12-9-15-14 = 1291514. Similarly, T=20, I=9, G=7, E=5, R=18 → TIGER = 20-9-7-5-18 = 2097518.",
+      "exp_hi": "L=12, I=9, O=15, N=14 → LION = 12-9-15-14 = 1291514. इसी प्रकार, T=20, I=9, G=7, E=5, R=18 → TIGER = 20-9-7-5-18 = 2097518."
+    },
+    {
+      "q": "If 'ROSE' is coded as 'SPTF', how is 'LILY' coded?",
+      "opts": [
+        "MJMZ",
+        "MJMZ (space)",
+        "MIMZ",
+        "MJNZ"
+      ],
+      "ans": 0,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "यदि 'ROSE' को 'SPTF' के रूप में कोडित किया जाता है, तो 'LILY' को कैसे कोडित किया जाएगा?",
+      "opts_hi": [
+        "MJMZ",
+        "MJMZ (स्पेस)",
+        "MIMZ",
+        "MJNZ"
+      ],
+      "exp_en": "Each letter is shifted by +1: R→S, O→P, S→T, E→F. Similarly, L→M, I→J, L→M, Y→Z = MJMZ.",
+      "exp_hi": "प्रत्येक अक्षर में +1 की वृद्धि: R→S, O→P, S→T, E→F. इसी प्रकार, L→M, I→J, L→M, Y→Z = MJMZ."
+    },
+    {
+      "q": "Pointing to a woman, a man said, \"She is the daughter of my father's only son.\" How is that woman related to the man?",
+      "opts": [
+        "Sister",
+        "Daughter",
+        "Niece",
+        "Mother"
+      ],
+      "ans": 1,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "एक पुरुष ने एक महिला की ओर इशारा करते हुए कहा, \"वह मेरे पिता के इकलौते पुत्र की पुत्री है।\" वह महिला उस पुरुष से किस प्रकार संबंधित है?",
+      "opts_hi": [
+        "बहन",
+        "पुत्री",
+        "भतीजी/भांजी",
+        "माता"
+      ],
+      "exp_en": "Father's only son = the man himself (if he is the only son). His daughter = the man's daughter.",
+      "exp_hi": "पिता का इकलौता पुत्र = वह पुरुष स्वयं (यदि वह इकलौता पुत्र है)। उसकी पुत्री = पुरुष की पुत्री। अतः वह महिला उस पुरुष की पुत्री है।"
+    },
+    {
+      "q": "A is the father of B. B is the sister of C. C is the son of D. How is D related to A?",
+      "opts": [
+        "Wife",
+        "Mother",
+        "Sister",
+        "Daughter"
+      ],
+      "ans": 0,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "A, B का पिता है। B, C की बहन है। C, D का पुत्र है। D, A से किस प्रकार संबंधित है?",
+      "opts_hi": [
+        "पत्नी",
+        "माता",
+        "बहन",
+        "पुत्री"
+      ],
+      "exp_en": "A is father of B and C (since B and C are siblings). C is son of D. So D is the mother of C, and hence wife of A.",
+      "exp_hi": "A, B और C का पिता है (क्योंकि B और C सिबलिंग हैं)। C, D का पुत्र है। अतः D, C की माता है और इसलिए A की पत्नी है।"
+    },
+    {
+      "q": "Mohan starts from point A and walks 8 km towards East. He turns left and walks 6 km. He then turns left and walks 8 km. In which direction is he from his starting point?",
+      "opts": [
+        "North",
+        "South",
+        "East",
+        "West"
+      ],
+      "ans": 0,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "मोहन बिंदु A से चलना शुरू करता है और 8 किमी पूर्व चलता है। वह बाईं ओर मुड़ता है और 6 किमी चलता है। फिर वह बाईं ओर मुड़ता है और 8 किमी चलता है। वह अपने प्रारंभिक बिंदु से किस दिशा में है?",
+      "opts_hi": [
+        "उत्तर",
+        "दक्षिण",
+        "पूर्व",
+        "पश्चिम"
+      ],
+      "exp_en": "Starts → 8 km East → turns left (North) 6 km → turns left (West) 8 km. Net displacement = 6 km North. So he is in North direction.",
+      "exp_hi": "प्रारंभ → 8 किमी पूर्व → बाएँ मुड़ा (उत्तर) 6 किमी → बाएँ मुड़ा (पश्चिम) 8 किमी। शुद्ध विस्थापन = 6 किमी उत्तर। अतः वह उत्तर दिशा में है।"
+    },
+    {
+      "q": "Ravi walks 6 km towards South. He turns right and walks 8 km. He then turns right and walks 6 km. How far is he from his starting point?",
+      "opts": [
+        "6 km",
+        "8 km",
+        "10 km",
+        "14 km"
+      ],
+      "ans": 1,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "रवि दक्षिण दिशा में 6 किमी चलता है। वह दाईं ओर मुड़ता है और 8 किमी चलता है। फिर वह दाईं ओर मुड़ता है और 6 किमी चलता है। वह अपने प्रारंभिक बिंदु से कितनी दूर है?",
+      "opts_hi": [
+        "6 किमी",
+        "8 किमी",
+        "10 किमी",
+        "14 किमी"
+      ],
+      "exp_en": "Starts 6 km South → turns right (West) 8 km → turns right (North) 6 km. Net displacement = 8 km West. So distance = 8 km.",
+      "exp_hi": "प्रारंभ 6 किमी दक्षिण → दाएँ मुड़ा (पश्चिम) 8 किमी → दाएँ मुड़ा (उत्तर) 6 किमी। शुद्ध विस्थापन = 8 किमी पश्चिम। अतः दूरी = 8 किमी।"
+    },
+    {
+      "q": "Statements: All flowers are beautiful. Some flowers are red. Conclusions: I. Some red things are beautiful. II. All red things are flowers. Which is correct?",
+      "opts": [
+        "Only I follows",
+        "Only II follows",
+        "Both I and II follow",
+        "Neither I nor II follows"
+      ],
+      "ans": 0,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "कथन: सभी फूल सुंदर हैं। कुछ फूल लाल हैं। निष्कर्ष: I. कुछ लाल चीज़ें सुंदर हैं। II. सभी लाल चीज़ें फूल हैं। कौन सा सही है?",
+      "opts_hi": [
+        "केवल I सही है",
+        "केवल II सही है",
+        "I और II दोनों सही हैं",
+        "ना तो I और ना ही II सही है"
+      ],
+      "exp_en": "Some flowers are red and all flowers are beautiful → Some red things are beautiful (I follows). But all red things may not be flowers (II does not follow).",
+      "exp_hi": "कुछ फूल लाल हैं और सभी फूल सुंदर हैं → कुछ लाल चीज़ें सुंदर हैं (I सही है)। लेकिन सभी लाल चीज़ें फूल नहीं हो सकतीं (II सही नहीं है)।"
+    },
+    {
+      "q": "Statements: No pen is a book. All erasers are books. Conclusions: I. No eraser is a pen. II. Some pens are erasers. Which is correct?",
+      "opts": [
+        "Only I follows",
+        "Only II follows",
+        "Both I and II follow",
+        "Neither I nor II follows"
+      ],
+      "ans": 0,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "कथन: कोई पेन किताब नहीं है। सभी इरेज़र किताबें हैं। निष्कर्ष: I. कोई इरेज़र पेन नहीं है। II. कुछ पेन इरेज़र हैं। कौन सा सही है?",
+      "opts_hi": [
+        "केवल I सही है",
+        "केवल II सही है",
+        "I और II दोनों सही हैं",
+        "ना तो I और ना ही II सही है"
+      ],
+      "exp_en": "No pen is a book and all erasers are books → No eraser is a pen (I follows). II contradicts I.",
+      "exp_hi": "कोई पेन किताब नहीं है और सभी इरेज़र किताबें हैं → कोई इरेज़र पेन नहीं है (I सही है)। II, I का विरोधाभास है।"
+    },
+    {
+      "q": "Find the next term: 5, 10, 17, 26, 37, ?",
+      "opts": [
+        "48",
+        "49",
+        "50",
+        "52"
+      ],
+      "ans": 2,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "अगला पद ज्ञात करें: 5, 10, 17, 26, 37, ?",
+      "opts_hi": [
+        "48",
+        "49",
+        "50",
+        "52"
+      ],
+      "exp_en": "Difference: +5, +7, +9, +11, next +13 = 37 + 13 = 50.",
+      "exp_hi": "अंतर: +5, +7, +9, +11, अगला +13 = 37 + 13 = 50।"
+    },
+    {
+      "q": "Find the next term: 2, 5, 10, 17, 26, ?",
+      "opts": [
+        "35",
+        "36",
+        "37",
+        "38"
+      ],
+      "ans": 2,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "अगला पद ज्ञात करें: 2, 5, 10, 17, 26, ?",
+      "opts_hi": [
+        "35",
+        "36",
+        "37",
+        "38"
+      ],
+      "exp_en": "Pattern: 1²+1=2, 2²+1=5, 3²+1=10, 4²+1=17, 5²+1=26, 6²+1=37.",
+      "exp_hi": "पैटर्न: 1²+1=2, 2²+1=5, 3²+1=10, 4²+1=17, 5²+1=26, 6²+1=37।"
+    },
+    {
+      "q": "If '+' means '−', '−' means '×', '×' means '÷', and '÷' means '+', then what is the value of 15 + 3 − 2 × 4 ÷ 2?",
+      "opts": [
+        "15.5",
+        "16.5",
+        "17.5",
+        "18.5"
+      ],
+      "ans": 0,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "यदि '+' का अर्थ '−' है, '−' का अर्थ '×' है, '×' का अर्थ '÷' है, और '÷' का अर्थ '+' है, तो 15 + 3 − 2 × 4 ÷ 2 का मान क्या है?",
+      "opts_hi": [
+        "15.5",
+        "16.5",
+        "17.5",
+        "18.5"
+      ],
+      "exp_en": "Replace: 15 − 3 × 2 ÷ 4 + 2. BODMAS: 15 − (3×2÷4) + 2 = 15 − (6÷4) + 2 = 15 − 1.5 + 2 = 15.5.",
+      "exp_hi": "प्रतीक बदलें: 15 − 3 × 2 ÷ 4 + 2। BODMAS के अनुसार: 15 − (3×2÷4) + 2 = 15 − (6÷4) + 2 = 15 − 1.5 + 2 = 15.5।"
+    },
+    {
+      "q": "If '+' means '×', '−' means '÷', '×' means '+', and '÷' means '−', then find the value of 8 + 4 − 2 × 6 ÷ 2?",
+      "opts": [
+        "20",
+        "21",
+        "22",
+        "23"
+      ],
+      "ans": 0,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "यदि '+' का अर्थ '×' है, '−' का अर्थ '÷' है, '×' का अर्थ '+' है, और '÷' का अर्थ '−' है, तो 8 + 4 − 2 × 6 ÷ 2 का मान ज्ञात करें?",
+      "opts_hi": [
+        "20",
+        "21",
+        "22",
+        "23"
+      ],
+      "exp_en": "Replace: 8 × 4 ÷ 2 + 6 − 2. BODMAS: 8×4=32, 32÷2=16, 16+6=22, 22−2=20.",
+      "exp_hi": "प्रतीक बदलें: 8 × 4 ÷ 2 + 6 − 2। BODMAS: 8×4=32, 32÷2=16, 16+6=22, 22−2=20।"
+    },
+    {
+      "q": "In a group of 150 people, 90 like tea, 70 like coffee, and 40 like both. How many like only tea?",
+      "opts": [
+        "40",
+        "50",
+        "60",
+        "70"
+      ],
+      "ans": 1,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "150 लोगों के समूह में, 90 चाय पसंद करते हैं, 70 कॉफी पसंद करते हैं, और 40 दोनों पसंद करते हैं। कितने केवल चाय पसंद करते हैं?",
+      "opts_hi": [
+        "40",
+        "50",
+        "60",
+        "70"
+      ],
+      "exp_en": "Only tea = Total tea - Both = 90 - 40 = 50.",
+      "exp_hi": "केवल चाय = कुल चाय - दोनों = 90 - 40 = 50।"
+    },
+    {
+      "q": "In a class of 80 students, 50 play cricket, 40 play football, and 20 play both. How many play neither?",
+      "opts": [
+        "10",
+        "15",
+        "20",
+        "25"
+      ],
+      "ans": 0,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "80 छात्रों की एक कक्षा में, 50 क्रिकेट खेलते हैं, 40 फुटबॉल खेलते हैं, और 20 दोनों खेलते हैं। कितने कोई भी नहीं खेलते हैं?",
+      "opts_hi": [
+        "10",
+        "15",
+        "20",
+        "25"
+      ],
+      "exp_en": "Students playing at least one = 50 + 40 − 20 = 70. Neither = 80 − 70 = 10.",
+      "exp_hi": "कम से कम एक खेल खेलने वाले = 50 + 40 − 20 = 70। कोई भी नहीं = 80 − 70 = 10।"
+    },
+    {
+      "q": "If the mirror is placed to the right of a word, what will be the mirror image of 'RAIL'?",
+      "opts": [
+        "LIAR",
+        "LIAЯ",
+        "ЯAIL",
+        "ЯLIA"
+      ],
+      "ans": 1,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "यदि दर्पण किसी शब्द के दाईं ओर रखा जाता है, तो 'RAIL' की दर्पण छवि क्या होगी?",
+      "opts_hi": [
+        "LIAR",
+        "LIAЯ",
+        "ЯAIL",
+        "ЯLIA"
+      ],
+      "exp_en": "When mirror is on the right, the word appears reversed laterally. R→Я, A→A, I→I, L→L. Order reverses: 'RAIL' → 'LIAЯ'.",
+      "exp_hi": "जब दर्पण दाईं ओर होता है, तो शब्द पार्श्व रूप से उलटा दिखाई देता है। R→Я, A→A, I→I, L→L. क्रम उलटने पर 'RAIL' → 'LIAЯ'।"
+    },
+    {
+      "q": "Statement: \"Please switch off the lights when you leave the room.\" Assumptions: I. People might forget to switch off lights. II. The speaker wants to save electricity. Which is correct?",
+      "opts": [
+        "Only I is implicit",
+        "Only II is implicit",
+        "Both I and II are implicit",
+        "Neither is implicit"
+      ],
+      "ans": 2,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "कथन: \"कृपया कमरे से निकलते समय लाइट बंद कर दें।\" पूर्वधारणाएँ: I. लोग लाइट बंद करना भूल सकते हैं। II. वक्ता बिजली बचाना चाहता है। कौन सा सही है?",
+      "opts_hi": [
+        "केवल I अंतर्निहित है",
+        "केवल II अंतर्निहित है",
+        "I और II दोनों अंतर्निहित हैं",
+        "कोई भी अंतर्निहित नहीं है"
+      ],
+      "exp_en": "Both assumptions are implicit. The request implies people might forget (I) and that the speaker wants lights off, implying electricity saving (II).",
+      "exp_hi": "दोनों पूर्वधारणाएँ अंतर्निहित हैं। अनुरोध का अर्थ है कि लोग भूल सकते हैं (I) और वक्ता लाइट बंद चाहता है, जिसका अर्थ बिजली बचत है (II)।"
+    },
+    {
+      "q": "Select the option that is related to the third term in the same way as the second term is related to the first term: Clock : Time :: Thermometer : ?",
+      "opts": [
+        "Temperature",
+        "Pressure",
+        "Humidity",
+        "Speed"
+      ],
+      "ans": 0,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "उस विकल्प का चयन करें जो तीसरे पद से उसी प्रकार संबंधित है जिस प्रकार दूसरा पद पहले पद से संबंधित है: घड़ी : समय :: थर्मामीटर : ?",
+      "opts_hi": [
+        "तापमान",
+        "दाब",
+        "आर्द्रता",
+        "गति"
+      ],
+      "exp_en": "A clock measures time. Similarly, a thermometer measures temperature.",
+      "exp_hi": "घड़ी समय मापती है। इसी प्रकार, थर्मामीटर तापमान मापता है।"
+    },
+    {
+      "q": "If 'MOON' is coded as 'NPPO', how is 'STAR' coded?",
+      "opts": [
+        "TUBT",
+        "TUBS",
+        "TUBR",
+        "TUCU"
+      ],
+      "ans": 1,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "यदि 'MOON' को 'NPPO' के रूप में कोडित किया जाता है, तो 'STAR' को कैसे कोडित किया जाएगा?",
+      "opts_hi": [
+        "TUBT",
+        "TUBS",
+        "TUBR",
+        "TUCU"
+      ],
+      "exp_en": "Each letter is shifted by +1: M→N, O→P, O→P, N→O. Similarly, S→T, T→U, A→B, R→S = TUBS.",
+      "exp_hi": "प्रत्येक अक्षर में +1 की वृद्धि: M→N, O→P, O→P, N→O. इसी प्रकार, S→T, T→U, A→B, R→S = TUBS."
+    },
+    {
+      "q": "Find the next term: 1, 8, 27, 64, 125, ?",
+      "opts": [
+        "150",
+        "180",
+        "200",
+        "216"
+      ],
+      "ans": 3,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "अगला पद ज्ञात करें: 1, 8, 27, 64, 125, ?",
+      "opts_hi": [
+        "150",
+        "180",
+        "200",
+        "216"
+      ],
+      "exp_en": "Pattern: 1³=1, 2³=8, 3³=27, 4³=64, 5³=125, 6³=216.",
+      "exp_hi": "पैटर्न: 1³=1, 2³=8, 3³=27, 4³=64, 5³=125, 6³=216।"
+    },
+    {
+      "q": "In a survey of 60 people, 40 like coffee, 30 like tea, and 20 like both. How many like neither?",
+      "opts": [
+        "5",
+        "10",
+        "15",
+        "20"
+      ],
+      "ans": 1,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "60 लोगों के सर्वेक्षण में, 40 कॉफी पसंद करते हैं, 30 चाय पसंद करते हैं, और 20 दोनों पसंद करते हैं। कितने कोई भी पसंद नहीं करते हैं?",
+      "opts_hi": [
+        "5",
+        "10",
+        "15",
+        "20"
+      ],
+      "exp_en": "People liking at least one = 40 + 30 - 20 = 50. Neither = 60 - 50 = 10.",
+      "exp_hi": "कम से कम एक पसंद करने वाले = 40 + 30 - 20 = 50। कोई भी नहीं = 60 - 50 = 10।"
+    },
+    {
+      "q": "Select the option that is related to the third term in the same way as the second term is related to the first term: Fish : Water :: Bird : ?",
+      "opts": [
+        "Land",
+        "Air",
+        "Tree",
+        "Sky"
+      ],
+      "ans": 1,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "उस विकल्प का चयन करें जो तीसरे पद से उसी प्रकार संबंधित है जिस प्रकार दूसरा पद पहले पद से संबंधित है: मछली : पानी :: पक्षी : ?",
+      "opts_hi": [
+        "भूमि",
+        "हवा",
+        "पेड़",
+        "आकाश"
+      ],
+      "exp_en": "A fish lives in water. Similarly, a bird lives in air.",
+      "exp_hi": "मछली पानी में रहती है। इसी प्रकार, पक्षी हवा में रहता है।"
+    },
+    {
+      "q": "Select the related letters: ABC : DEF :: GHI : ?",
+      "opts": [
+        "JKL",
+        "JKM",
+        "IJK",
+        "HIL"
+      ],
+      "ans": 0,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "संबंधित अक्षरों का चयन करें: ABC : DEF :: GHI : ?",
+      "opts_hi": [
+        "JKL",
+        "JKM",
+        "IJK",
+        "HIL"
+      ],
+      "exp_en": "Each letter is shifted by +3: A→D, B→E, C→F. Similarly, G→J, H→K, I→L = JKL.",
+      "exp_hi": "प्रत्येक अक्षर में +3 की वृद्धि: A→D, B→E, C→F. इसी प्रकार, G→J, H→K, I→L = JKL."
+    },
+    {
+      "q": "Select the related number: 16 : 64 :: 25 : ?",
+      "opts": [
+        "100",
+        "125",
+        "150",
+        "175"
+      ],
+      "ans": 1,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "संबंधित संख्या का चयन करें: 16 : 64 :: 25 : ?",
+      "opts_hi": [
+        "100",
+        "125",
+        "150",
+        "175"
+      ],
+      "exp_en": "4² = 16, 4³ = 64. Similarly, 5² = 25, 5³ = 125.",
+      "exp_hi": "4² = 16, 4³ = 64. इसी प्रकार, 5² = 25, 5³ = 125."
+    },
+    {
+      "q": "Find the odd one out:",
+      "opts": [
+        "Rose",
+        "Lily",
+        "Marigold",
+        "Banyan"
+      ],
+      "ans": 3,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "विषम का चयन करें:",
+      "opts_hi": [
+        "गुलाब",
+        "लिली",
+        "गेंदा",
+        "बरगद"
+      ],
+      "exp_en": "Rose, Lily and Marigold are flowers. Banyan is a tree.",
+      "exp_hi": "गुलाब, लिली और गेंदा फूल हैं। बरगद एक पेड़ है।"
+    },
+    {
+      "q": "If 'HOUSE' is coded as 'IPVTF', how is 'ROAD' coded?",
+      "opts": [
+        "SPBE",
+        "SPCE",
+        "SPBF",
+        "SQBE"
+      ],
+      "ans": 0,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "यदि 'HOUSE' को 'IPVTF' के रूप में कोडित किया जाता है, तो 'ROAD' को कैसे कोडित किया जाएगा?",
+      "opts_hi": [
+        "SPBE",
+        "SPCE",
+        "SPBF",
+        "SQBE"
+      ],
+      "exp_en": "Each letter is shifted by +1: H→I, O→P, U→V, S→T, E→F. Similarly, R→S, O→P, A→B, D→E = SPBE.",
+      "exp_hi": "प्रत्येक अक्षर में +1 की वृद्धि: H→I, O→P, U→V, S→T, E→F. इसी प्रकार, R→S, O→P, A→B, D→E = SPBE."
+    },
+    {
+      "q": "If 'RIVER' is coded as 'SJWFS', how is 'ROAD' coded?",
+      "opts": [
+        "SPBE",
+        "SPBF",
+        "SQBE",
+        "SPCF"
+      ],
+      "ans": 0,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "यदि 'RIVER' को 'SJWFS' के रूप में कोडित किया जाता है, तो 'ROAD' को कैसे कोडित किया जाएगा?",
+      "opts_hi": [
+        "SPBE",
+        "SPBF",
+        "SQBE",
+        "SPCF"
+      ],
+      "exp_en": "Each letter is shifted by +1: R→S, I→J, V→W, E→F, R→S. Similarly, R→S, O→P, A→B, D→E = SPBE.",
+      "exp_hi": "प्रत्येक अक्षर में +1 की वृद्धि: R→S, I→J, V→W, E→F, R→S. इसी प्रकार, R→S, O→P, A→B, D→E = SPBE."
+    },
+    {
+      "q": "Pointing to a girl, a man said, \"She is the sister of my father's only son.\" How is that girl related to the man?",
+      "opts": [
+        "Sister",
+        "Daughter",
+        "Cousin",
+        "Niece"
+      ],
+      "ans": 0,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "एक पुरुष ने एक लड़की की ओर इशारा करते हुए कहा, \"वह मेरे पिता के इकलौते पुत्र की बहन है।\" वह लड़की उस पुरुष से किस प्रकार संबंधित है?",
+      "opts_hi": [
+        "बहन",
+        "पुत्री",
+        "चचेरी/ममेरी बहन",
+        "भतीजी/भांजी"
+      ],
+      "exp_en": "Father's only son = the man himself (if he is the only son). His sister = the man's sister. So the girl is his sister.",
+      "exp_hi": "पिता का इकलौता पुत्र = वह पुरुष स्वयं (यदि वह इकलौता पुत्र है)। उसकी बहन = पुरुष की बहन। अतः वह लड़की उसकी बहन है।"
+    },
+    {
+      "q": "Introducing a boy, a girl said, \"He is the son of my mother's sister.\" How is that boy related to the girl?",
+      "opts": [
+        "Brother",
+        "Cousin",
+        "Uncle",
+        "Nephew"
+      ],
+      "ans": 1,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "एक लड़की ने एक लड़के का परिचय देते हुए कहा, \"वह मेरी माँ की बहन का पुत्र है।\" वह लड़का उस लड़की से किस प्रकार संबंधित है?",
+      "opts_hi": [
+        "भाई",
+        "चचेरा/ममेरा भाई",
+        "चाचा/मामा",
+        "भतीजा/भांजा"
+      ],
+      "exp_en": "Mother's sister = Maternal aunt. Her son = the girl's cousin (maternal cousin).",
+      "exp_hi": "माँ की बहन = मामी/मौसी। उसका पुत्र = लड़की का चचेरा/ममेरा भाई (मामा/मौसी का बेटा)।"
+    },
+    {
+      "q": "A man walks 15 km towards East. He turns right and walks 20 km. He then turns right and walks 15 km. How far is he from his starting point?",
+      "opts": [
+        "10 km",
+        "15 km",
+        "20 km",
+        "25 km"
+      ],
+      "ans": 2,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "एक व्यक्ति 15 किमी पूर्व की ओर चलता है। वह दाईं ओर मुड़ता है और 20 किमी चलता है। फिर वह दाईं ओर मुड़ता है और 15 किमी चलता है। वह अपने प्रारंभिक बिंदु से कितनी दूर है?",
+      "opts_hi": [
+        "10 किमी",
+        "15 किमी",
+        "20 किमी",
+        "25 किमी"
+      ],
+      "exp_en": "Starts → 15 km East → turns right (South) 20 km → turns right (West) 15 km. Net displacement = 20 km South. So distance = 20 km.",
+      "exp_hi": "प्रारंभ → 15 किमी पूर्व → दाएँ मुड़ा (दक्षिण) 20 किमी → दाएँ मुड़ा (पश्चिम) 15 किमी। शुद्ध विस्थापन = 20 किमी दक्षिण। अतः दूरी = 20 किमी।"
+    },
+    {
+      "q": "Shyam walks 10 km towards North. He turns left and walks 5 km. He then turns left and walks 10 km. In which direction is he from his starting point?",
+      "opts": [
+        "North",
+        "South",
+        "East",
+        "West"
+      ],
+      "ans": 3,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "श्याम 10 किमी उत्तर की ओर चलता है। वह बाईं ओर मुड़ता है और 5 किमी चलता है। फिर वह बाईं ओर मुड़ता है और 10 किमी चलता है। वह अपने प्रारंभिक बिंदु से किस दिशा में है?",
+      "opts_hi": [
+        "उत्तर",
+        "दक्षिण",
+        "पूर्व",
+        "पश्चिम"
+      ],
+      "exp_en": "Starts → 10 km North → turns left (West) 5 km → turns left (South) 10 km. Net displacement = 5 km West. So he is in West direction.",
+      "exp_hi": "प्रारंभ → 10 किमी उत्तर → बाएँ मुड़ा (पश्चिम) 5 किमी → बाएँ मुड़ा (दक्षिण) 10 किमी। शुद्ध विस्थापन = 5 किमी पश्चिम। अतः वह पश्चिम दिशा में है।"
+    },
+    {
+      "q": "Statements: All dogs are animals. Some cats are animals. Conclusions: I. Some dogs are cats. II. Some animals are dogs. Which is correct?",
+      "opts": [
+        "Only I follows",
+        "Only II follows",
+        "Both I and II follow",
+        "Neither I nor II follows"
+      ],
+      "ans": 1,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "कथन: सभी कुत्ते जानवर हैं। कुछ बिल्लियाँ जानवर हैं। निष्कर्ष: I. कुछ कुत्ते बिल्लियाँ हैं। II. कुछ जानवर कुत्ते हैं। कौन सा सही है?",
+      "opts_hi": [
+        "केवल I सही है",
+        "केवल II सही है",
+        "I और II दोनों सही हैं",
+        "ना तो I और ना ही II सही है"
+      ],
+      "exp_en": "All dogs are animals implies some animals are dogs (II follows). But some cats are animals does not mean some dogs are cats (I does not follow).",
+      "exp_hi": "सभी कुत्ते जानवर हैं, इसका अर्थ है कि कुछ जानवर कुत्ते हैं (II सही है)। लेकिन कुछ बिल्लियाँ जानवर हैं, इसका अर्थ यह नहीं कि कुछ कुत्ते बिल्लियाँ हैं (I सही नहीं है)।"
+    },
+    {
+      "q": "Statements: All fruits are nutritious. Some apples are fruits. Conclusions: I. Some apples are nutritious. II. All nutritious things are fruits. Which is correct?",
+      "opts": [
+        "Only I follows",
+        "Only II follows",
+        "Both I and II follow",
+        "Neither I nor II follows"
+      ],
+      "ans": 0,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "कथन: सभी फल पौष्टिक हैं। कुछ सेब फल हैं। निष्कर्ष: I. कुछ सेब पौष्टिक हैं। II. सभी पौष्टिक चीज़ें फल हैं। कौन सा सही है?",
+      "opts_hi": [
+        "केवल I सही है",
+        "केवल II सही है",
+        "I और II दोनों सही हैं",
+        "ना तो I और ना ही II सही है"
+      ],
+      "exp_en": "Some apples are fruits and all fruits are nutritious → Some apples are nutritious (I follows). But all nutritious things are fruits does not follow.",
+      "exp_hi": "कुछ सेब फल हैं और सभी फल पौष्टिक हैं → कुछ सेब पौष्टिक हैं (I सही है)। लेकिन सभी पौष्टिक चीज़ें फल हैं सही नहीं है।"
+    },
+    {
+      "q": "Find the next term: 1, 4, 9, 16, 25, ?",
+      "opts": [
+        "30",
+        "36",
+        "42",
+        "49"
+      ],
+      "ans": 1,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "अगला पद ज्ञात करें: 1, 4, 9, 16, 25, ?",
+      "opts_hi": [
+        "30",
+        "36",
+        "42",
+        "49"
+      ],
+      "exp_en": "Pattern: 1²=1, 2²=4, 3²=9, 4²=16, 5²=25, 6²=36.",
+      "exp_hi": "पैटर्न: 1²=1, 2²=4, 3²=9, 4²=16, 5²=25, 6²=36।"
+    },
+    {
+      "q": "Find the next term: 3, 6, 11, 18, 27, ?",
+      "opts": [
+        "36",
+        "38",
+        "40",
+        "42"
+      ],
+      "ans": 1,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "अगला पद ज्ञात करें: 3, 6, 11, 18, 27, ?",
+      "opts_hi": [
+        "36",
+        "38",
+        "40",
+        "42"
+      ],
+      "exp_en": "Pattern: +3, +5, +7, +9, next +11 = 27 + 11 = 38.",
+      "exp_hi": "पैटर्न: +3, +5, +7, +9, अगला +11 = 27 + 11 = 38।"
+    },
+    {
+      "q": "In a group of 120 people, 80 like tea, 60 like coffee, and 30 like both. How many like only coffee?",
+      "opts": [
+        "20",
+        "30",
+        "40",
+        "50"
+      ],
+      "ans": 1,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "120 लोगों के समूह में, 80 चाय पसंद करते हैं, 60 कॉफी पसंद करते हैं, और 30 दोनों पसंद करते हैं। कितने केवल कॉफी पसंद करते हैं?",
+      "opts_hi": [
+        "20",
+        "30",
+        "40",
+        "50"
+      ],
+      "exp_en": "Only coffee = Total coffee - Both = 60 - 30 = 30.",
+      "exp_hi": "केवल कॉफी = कुल कॉफी - दोनों = 60 - 30 = 30।"
+    },
+    {
+      "q": "In a class of 100 students, 60 like Maths, 50 like Science, and 20 like neither. How many like both?",
+      "opts": [
+        "10",
+        "20",
+        "30",
+        "40"
+      ],
+      "ans": 2,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "100 छात्रों की एक कक्षा में, 60 को गणित पसंद है, 50 को विज्ञान पसंद है, और 20 को कोई भी पसंद नहीं है। कितने को दोनों पसंद हैं?",
+      "opts_hi": [
+        "10",
+        "20",
+        "30",
+        "40"
+      ],
+      "exp_en": "Students liking at least one = 100 - 20 = 80. Both = 60 + 50 - 80 = 30.",
+      "exp_hi": "कम से कम एक पसंद करने वाले = 100 - 20 = 80। दोनों = 60 + 50 - 80 = 30।"
+    },
+    {
+      "q": "If the mirror is placed to the right of a word, what will be the mirror image of 'WATER'?",
+      "opts": [
+        "ЯƎTΛM",
+        "ЯƎTΛW",
+        "ЯƎTAM",
+        "ЯƎTAW"
+      ],
+      "ans": 0,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "यदि दर्पण किसी शब्द के दाईं ओर रखा जाता है, तो 'WATER' की दर्पण छवि क्या होगी?",
+      "opts_hi": [
+        "ЯƎTΛM",
+        "ЯƎTΛW",
+        "ЯƎTAM",
+        "ЯƎTAW"
+      ],
+      "exp_en": "When mirror is on the right, the word appears reversed laterally. WATER → reverse: RETAW → flip each: R→Я, E→Ǝ, T→T, A→Λ, W→M. So ЯƎTΛM.",
+      "exp_hi": "जब दर्पण दाईं ओर होता है, तो शब्द पार्श्व रूप से उलटा दिखाई देता है। WATER → उल्टा: RETAW → प्रत्येक अक्षर पलटें: R→Я, E→Ǝ, T→T, A→Λ, W→M. अतः ЯƎTΛM।"
+    },
+    {
+      "q": "Statement: \"Please keep your surroundings clean.\" Assumptions: I. People might not keep their surroundings clean. II. The speaker wants a clean environment. Which is correct?",
+      "opts": [
+        "Only I is implicit",
+        "Only II is implicit",
+        "Both I and II are implicit",
+        "Neither is implicit"
+      ],
+      "ans": 2,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "कथन: \"कृपया अपने आस-पास को साफ रखें।\" पूर्वधारणाएँ: I. लोग अपने आस-पास को साफ नहीं रख सकते हैं। II. वक्ता स्वच्छ वातावरण चाहता है। कौन सा सही है?",
+      "opts_hi": [
+        "केवल I अंतर्निहित है",
+        "केवल II अंतर्निहित है",
+        "I और II दोनों अंतर्निहित हैं",
+        "कोई भी अंतर्निहित नहीं है"
+      ],
+      "exp_en": "Both assumptions are implicit. The request implies people might not keep it clean (I) and that the speaker wants a clean environment (II).",
+      "exp_hi": "दोनों पूर्वधारणाएँ अंतर्निहित हैं। अनुरोध का अर्थ है कि लोग साफ नहीं रख सकते (I) और वक्ता स्वच्छ वातावरण चाहता है (II)।"
+    },
+    {
+      "q": "How many squares are there in a 5x5 grid?",
+      "opts": [
+        "55",
+        "60",
+        "65",
+        "70"
+      ],
+      "ans": 0,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "5x5 ग्रिड में कितने वर्ग हैं?",
+      "opts_hi": [
+        "55",
+        "60",
+        "65",
+        "70"
+      ],
+      "exp_en": "Total squares = 1² + 2² + 3² + 4² + 5² = 1 + 4 + 9 + 16 + 25 = 55.",
+      "exp_hi": "कुल वर्ग = 1² + 2² + 3² + 4² + 5² = 1 + 4 + 9 + 16 + 25 = 55।"
+    },
+    {
+      "q": "How many triangles are there in a standard 3-tier triangular figure?",
+      "opts": [
+        "10",
+        "13",
+        "15",
+        "18"
+      ],
+      "ans": 1,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "एक मानक 3-स्तरीय त्रिभुजाकार आकृति में कितने त्रिभुज हैं?",
+      "opts_hi": [
+        "10",
+        "13",
+        "15",
+        "18"
+      ],
+      "exp_en": "Total triangles in a 3-tier triangular figure = n(n+1)(n+2)/6 for n=3 = 3×4×5/6 = 10 (small triangles only). Including inverted triangles, total = 13.",
+      "exp_hi": "3-स्तरीय त्रिभुजाकार आकृति में कुल त्रिभुज = 13 (10 सीधे + 3 उल्टे)."
+    },
+    {
+      "q": "In a certain code language, 'TRAIN' is written as 'USZHO'. How will 'BRAIN' be written in that code?",
+      "opts": [
+        "CSZHO",
+        "CSZHO",
+        "CQZHO",
+        "CQZJO"
+      ],
+      "ans": 0,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "एक निश्चित कूट भाषा में, 'TRAIN' को 'USZHO' लिखा जाता है। उस कूट में 'BRAIN' को कैसे लिखा जाएगा?",
+      "opts_hi": [
+        "CSZHO",
+        "CSZHO",
+        "CQZHO",
+        "CQZJO"
+      ],
+      "exp_en": "Pattern: T→U (+1), R→S (+1), A→Z (-1), I→H (-1), N→O (+1). For BRAIN: B→C (+1), R→S (+1), A→Z (-1), I→H (-1), N→O (+1) = CSZHO.",
+      "exp_hi": "पैटर्न: T→U (+1), R→S (+1), A→Z (-1), I→H (-1), N→O (+1). BRAIN के लिए: B→C (+1), R→S (+1), A→Z (-1), I→H (-1), N→O (+1) = CSZHO."
+    },
+    {
+      "q": "Select the option that is related to the third term in the same way as the second term is related to the first term: 8 : 512 :: 9 : ?",
+      "opts": [
+        "656",
+        "729",
+        "738",
+        "748"
+      ],
+      "ans": 1,
+      "subject": "General Intelligence & Reasoning",
+      "q_hi": "उस विकल्प का चयन करें जो तीसरे पद से उसी प्रकार संबंधित है जिस प्रकार दूसरा पद पहले पद से संबंधित है: 8 : 512 :: 9 : ?",
+      "opts_hi": [
+        "656",
+        "729",
+        "738",
+        "748"
+      ],
+      "exp_en": "8³ = 512. Similarly, 9³ = 729.",
+      "exp_hi": "8³ = 512. इसी प्रकार, 9³ = 729."
     },
     {
       "q": "Select the option that is related to the third term in the same way as the second term is related to the first term. BOOK : PAGES :: WATCH : ?",

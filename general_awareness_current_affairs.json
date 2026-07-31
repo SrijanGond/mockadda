@@ -1,0 +1,1504 @@
+{
+  "questions": [
+    {
+      "q": "Which state is the largest producer of coffee in India?",
+      "opts": [
+        "Kerala",
+        "Tamil Nadu",
+        "Karnataka",
+        "Andhra Pradesh"
+      ],
+      "ans": 2,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "भारत में कॉफी का सबसे बड़ा उत्पादक राज्य कौन सा है?",
+      "opts_hi": [
+        "केरल",
+        "तमिलनाडु",
+        "कर्नाटक",
+        "आंध्र प्रदेश"
+      ],
+      "exp_en": "Karnataka is the largest producer of coffee in India, accounting for more than 70% of total production.",
+      "exp_hi": "कर्नाटक भारत में कॉफी का सबसे बड़ा उत्पादक राज्य है, जो कुल उत्पादन का 70% से अधिक है।"
+    },
+    {
+      "q": "The 'Silk City' of India is?",
+      "opts": [
+        "Varanasi",
+        "Mysore",
+        "Kanchipuram",
+        "Dhaka"
+      ],
+      "ans": 2,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "भारत का 'रेशम नगरी' किसे कहा जाता है?",
+      "opts_hi": [
+        "वाराणसी",
+        "मैसूर",
+        "कांचीपुरम",
+        "ढाका"
+      ],
+      "exp_en": "Kanchipuram in Tamil Nadu is known as the 'Silk City' of India for its famous silk sarees.",
+      "exp_hi": "तमिलनाडु का कांचीपुरम अपनी प्रसिद्ध रेशम साड़ियों के लिए भारत की 'रेशम नगरी' के रूप में जाना जाता है।"
+    },
+    {
+      "q": "The highest mountain peak in India is?",
+      "opts": [
+        "Mount Everest",
+        "Kanchenjunga",
+        "Nanda Devi",
+        "K2"
+      ],
+      "ans": 1,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "भारत की सबसे ऊँची पर्वत चोटी कौन सी है?",
+      "opts_hi": [
+        "माउंट एवरेस्ट",
+        "कंचनजंगा",
+        "नंदा देवी",
+        "के2"
+      ],
+      "exp_en": "Kanchenjunga (8586 m) is the highest peak in India. Mount Everest is in Nepal, K2 is in Pakistan-occupied Kashmir.",
+      "exp_hi": "कंचनजंगा (8586 मी) भारत की सबसे ऊँची चोटी है। माउंट एवरेस्ट नेपाल में है, K2 पाकिस्तान-अधिकृत कश्मीर में है।"
+    },
+    {
+      "q": "In India, the concept of 'Budget' is mentioned in which Article of the Constitution?",
+      "opts": [
+        "Article 110",
+        "Article 112",
+        "Article 265",
+        "Article 360"
+      ],
+      "ans": 1,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "भारत में, 'बजट' की अवधारणा संविधान के किस अनुच्छेद में उल्लिखित है?",
+      "opts_hi": [
+        "अनुच्छेद 110",
+        "अनुच्छेद 112",
+        "अनुच्छेद 265",
+        "अनुच्छेद 360"
+      ],
+      "exp_en": "Article 112 of the Indian Constitution deals with the Annual Financial Statement (Budget) of the government.",
+      "exp_hi": "भारतीय संविधान का अनुच्छेद 112 वार्षिक वित्तीय विवरण (बजट) से संबंधित है।"
+    },
+    {
+      "q": "The full form of GDP is?",
+      "opts": [
+        "Gross Domestic Product",
+        "Gross Development Product",
+        "Global Domestic Product",
+        "Gross Direct Product"
+      ],
+      "ans": 0,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "GDP का पूर्ण रूप क्या है?",
+      "opts_hi": [
+        "ग्रॉस डोमेस्टिक प्रोडक्ट",
+        "ग्रॉस डेवलपमेंट प्रोडक्ट",
+        "ग्लोबल डोमेस्टिक प्रोडक्ट",
+        "ग्रॉस डायरेक्ट प्रोडक्ट"
+      ],
+      "exp_en": "GDP stands for Gross Domestic Product. It is the total monetary value of all goods and services produced within a country's borders in a specific time period.",
+      "exp_hi": "GDP का पूर्ण रूप ग्रॉस डोमेस्टिक प्रोडक्ट है। यह किसी देश की सीमाओं के भीतर एक निर्धारित समयावधि में उत्पादित सभी वस्तुओं और सेवाओं का कुल मौद्रिक मूल्य है।"
+    },
+    {
+      "q": "Who is known as the 'Father of Indian Economics'?",
+      "opts": [
+        "Amartya Sen",
+        "Dadabhai Naoroji",
+        "M. Visvesvaraya",
+        "R. C. Dutt"
+      ],
+      "ans": 1,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "भारतीय अर्थशास्त्र के जनक' के रूप में किसे जाना जाता है?",
+      "opts_hi": [
+        "अमर्त्य सेन",
+        "दादाभाई नौरोजी",
+        "एम. विश्वेश्वरैया",
+        "आर. सी. दत्त"
+      ],
+      "exp_en": "Dadabhai Naoroji is known as the 'Father of Indian Economics' for his work on Indian poverty and economic drain theory.",
+      "exp_hi": "दादाभाई नौरोजी को भारतीय अर्थशास्त्र का जनक कहा जाता है, उन्होंने भारतीय गरीबी और आर्थिक निष्कासन सिद्धांत पर महत्वपूर्ण कार्य किया।"
+    },
+    {
+      "q": "The SI unit of electric current is?",
+      "opts": [
+        "Volt",
+        "Ampere",
+        "Ohm",
+        "Watt"
+      ],
+      "ans": 1,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "विद्युत धारा का SI मात्रक क्या है?",
+      "opts_hi": [
+        "वोल्ट",
+        "एम्पीयर",
+        "ओम",
+        "वाट"
+      ],
+      "exp_en": "The SI unit of electric current is Ampere (A). Volt is for voltage, Ohm for resistance, and Watt for power.",
+      "exp_hi": "विद्युत धारा का SI मात्रक एम्पीयर (A) है। वोल्ट वोल्टेज के लिए, ओम प्रतिरोध के लिए और वाट शक्ति के लिए है।"
+    },
+    {
+      "q": "The chemical formula of common salt is?",
+      "opts": [
+        "NaCl",
+        "KCl",
+        "CaCO₃",
+        "Na₂CO₃"
+      ],
+      "ans": 0,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "सामान्य नमक का रासायनिक सूत्र क्या है?",
+      "opts_hi": [
+        "NaCl",
+        "KCl",
+        "CaCO₃",
+        "Na₂CO₃"
+      ],
+      "exp_en": "Common salt is sodium chloride with chemical formula NaCl.",
+      "exp_hi": "सामान्य नमक सोडियम क्लोराइड है जिसका रासायनिक सूत्र NaCl है।"
+    },
+    {
+      "q": "Which type of lens is used in a magnifying glass?",
+      "opts": [
+        "Concave",
+        "Convex",
+        "Plano-concave",
+        "Cylindrical"
+      ],
+      "ans": 1,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "आवर्धक लेंस में किस प्रकार का लेंस उपयोग किया जाता है?",
+      "opts_hi": [
+        "अवतल",
+        "उत्तल",
+        "समतल-अवतल",
+        "बेलनाकार"
+      ],
+      "exp_en": "A convex lens (converging lens) is used in a magnifying glass to produce a magnified image.",
+      "exp_hi": "आवर्धक लेंस में उत्तल लेंस (अभिसारी लेंस) का उपयोग किया जाता है जो आवर्धित प्रतिबिम्ब बनाता है।"
+    },
+    {
+      "q": "Which blood group is known as the universal recipient?",
+      "opts": [
+        "A+",
+        "O-",
+        "AB+",
+        "B-"
+      ],
+      "ans": 2,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "किस रक्त समूह को सार्वभौमिक ग्राही कहा जाता है?",
+      "opts_hi": [
+        "A+",
+        "O-",
+        "AB+",
+        "B-"
+      ],
+      "exp_en": "AB+ blood group is the universal recipient as it has no antibodies against A, B or Rh antigens, so it can receive blood from any group.",
+      "exp_hi": "AB+ रक्त समूह सार्वभौमिक ग्राही है क्योंकि इसमें A, B या Rh प्रतिजनों के विरुद्ध कोई एंटीबॉडी नहीं होती, इसलिए यह किसी भी समूह से रक्त ग्रहण कर सकता है।"
+    },
+    {
+      "q": "Who is the author of the book 'The Discovery of India'?",
+      "opts": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Rabindranath Tagore",
+        "B.R. Ambedkar"
+      ],
+      "ans": 1,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "द डिस्कवरी ऑफ इंडिया' पुस्तक के लेखक कौन हैं?",
+      "opts_hi": [
+        "महात्मा गांधी",
+        "जवाहरलाल नेहरू",
+        "रवींद्रनाथ टैगोर",
+        "बी.आर. अम्बेडकर"
+      ],
+      "exp_en": "The Discovery of India' was written by Jawaharlal Nehru during his imprisonment in the 1940s.",
+      "exp_hi": "द डिस्कवरी ऑफ इंडिया' जवाहरलाल नेहरू द्वारा 1940 के दशक में उनकी कारावास अवधि के दौरान लिखी गई थी।"
+    },
+    {
+      "q": "Who wrote the Indian national anthem 'Jana Gana Mana'?",
+      "opts": [
+        "Bankim Chandra Chatterjee",
+        "Rabindranath Tagore",
+        "Subramania Bharati",
+        "Muhammad Iqbal"
+      ],
+      "ans": 1,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "भारतीय राष्ट्रगान 'जन गण मन' किसने लिखा?",
+      "opts_hi": [
+        "बंकिम चंद्र चट्टोपाध्याय",
+        "रवींद्रनाथ टैगोर",
+        "सुब्रह्मण्य भारती",
+        "मुहम्मद इकबाल"
+      ],
+      "exp_en": "Jana Gana Mana' was written by Rabindranath Tagore in Bengali and adopted as the national anthem of India in 1950.",
+      "exp_hi": "जन गण मन' रवींद्रनाथ टैगोर द्वारा बांग्ला में लिखा गया था और 1950 में भारत के राष्ट्रगान के रूप में अपनाया गया।"
+    },
+    {
+      "q": "Which Indian athlete won the first individual gold medal for India in the Olympics?",
+      "opts": [
+        "Milkha Singh",
+        "P.T. Usha",
+        "Abhinav Bindra",
+        "Neeraj Chopra"
+      ],
+      "ans": 2,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "किस भारतीय खिलाड़ी ने ओलंपिक में भारत के लिए पहला व्यक्तिगत स्वर्ण पदक जीता?",
+      "opts_hi": [
+        "मिल्खा सिंह",
+        "पी.टी. उषा",
+        "अभिनव बिंद्रा",
+        "नीरज चोपड़ा"
+      ],
+      "exp_en": "Abhinav Bindra won the first individual gold medal for India in the 2008 Beijing Olympics in 10m Air Rifle shooting.",
+      "exp_hi": "अभिनव बिंद्रा ने 2008 बीजिंग ओलंपिक में 10 मीटर एयर राइफल निशानेबाजी में भारत के लिए पहला व्यक्तिगत स्वर्ण पदक जीता था।"
+    },
+    {
+      "q": "Which Indian cricketer has the nickname 'Captain Cool'?",
+      "opts": [
+        "Sachin Tendulkar",
+        "Virat Kohli",
+        "M.S. Dhoni",
+        "Rahul Dravid"
+      ],
+      "ans": 2,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "किस भारतीय क्रिकेटर को 'कैप्टन कूल' के उपनाम से जाना जाता है?",
+      "opts_hi": [
+        "सचिन तेंदुलकर",
+        "विराट कोहली",
+        "एम.एस. धोनी",
+        "राहुल द्रविड़"
+      ],
+      "exp_en": "M.S. Dhoni is known as 'Captain Cool' for his calm and composed demeanor on the cricket field.",
+      "exp_hi": "एम.एस. धोनी को क्रिकेट मैदान पर शांत और संयमित व्यवहार के लिए 'कैप्टन कूल' के नाम से जाना जाता है।"
+    },
+    {
+      "q": "The term 'Grand Slam' is associated with which sport?",
+      "opts": [
+        "Cricket",
+        "Tennis",
+        "Football",
+        "Badminton"
+      ],
+      "ans": 1,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "ग्रैंड स्लैम' शब्द किस खेल से संबंधित है?",
+      "opts_hi": [
+        "क्रिकेट",
+        "टेनिस",
+        "फुटबॉल",
+        "बैडमिंटन"
+      ],
+      "exp_en": "Grand Slam in tennis refers to winning all four major tournaments: Australian Open, French Open, Wimbledon, and US Open.",
+      "exp_hi": "टेनिस में ग्रैंड स्लैम का अर्थ चारों प्रमुख टूर्नामेंट: ऑस्ट्रेलियन ओपन, फ्रेंच ओपन, विंबलडन और यूएस ओपन जीतना होता है।"
+    },
+    {
+      "q": "The famous 'Konark Sun Temple' is located in which state?",
+      "opts": [
+        "Odisha",
+        "West Bengal",
+        "Tamil Nadu",
+        "Uttar Pradesh"
+      ],
+      "ans": 0,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "प्रसिद्ध 'कोणार्क सूर्य मंदिर' किस राज्य में स्थित है?",
+      "opts_hi": [
+        "ओडिशा",
+        "पश्चिम बंगाल",
+        "तमिलनाडु",
+        "उत्तर प्रदेश"
+      ],
+      "exp_en": "The Konark Sun Temple is located in Odisha. It was built by King Narasimhadeva I of the Eastern Ganga dynasty in the 13th century.",
+      "exp_hi": "कोणार्क सूर्य मंदिर ओडिशा में स्थित है। इसे 13वीं शताब्दी में पूर्वी गंगा वंश के राजा नरसिंहदेव प्रथम ने बनवाया था।"
+    },
+    {
+      "q": "Which day is celebrated as 'Constitution Day' in India?",
+      "opts": [
+        "15 August",
+        "26 January",
+        "26 November",
+        "2 October"
+      ],
+      "ans": 2,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "भारत में 'संविधान दिवस' किस दिन मनाया जाता है?",
+      "opts_hi": [
+        "15 अगस्त",
+        "26 जनवरी",
+        "26 नवंबर",
+        "2 अक्टूबर"
+      ],
+      "exp_en": "26 November is celebrated as Constitution Day to commemorate the adoption of the Constitution in 1949.",
+      "exp_hi": "26 नवंबर को 1949 में संविधान अपनाने की स्मृति में संविधान दिवस के रूप में मनाया जाता है।"
+    },
+    {
+      "q": "When is International Yoga Day celebrated?",
+      "opts": [
+        "21 June",
+        "21 July",
+        "21 August",
+        "21 September"
+      ],
+      "ans": 0,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "अंतर्राष्ट्रीय योग दिवस कब मनाया जाता है?",
+      "opts_hi": [
+        "21 जून",
+        "21 जुलाई",
+        "21 अगस्त",
+        "21 सितंबर"
+      ],
+      "exp_en": "International Yoga Day is celebrated on 21 June every year. The first International Yoga Day was celebrated in 2015.",
+      "exp_hi": "अंतर्राष्ट्रीय योग दिवस प्रत्येक वर्ष 21 जून को मनाया जाता है। पहला अंतर्राष्ट्रीय योग दिवस 2015 में मनाया गया था।"
+    },
+    {
+      "q": "Who founded the Indian National Congress in 1885?",
+      "opts": [
+        "Lord Dufferin",
+        "A.O. Hume",
+        "Dadabhai Naoroji",
+        "W.C. Bonnerjee"
+      ],
+      "ans": 1,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना किसने की?",
+      "opts_hi": [
+        "लॉर्ड डफरिन",
+        "ए.ओ. ह्यूम",
+        "दादाभाई नौरोजी",
+        "डब्ल्यू.सी. बोनर्जी"
+      ],
+      "exp_en": "The Indian National Congress was founded by Allan Octavian Hume, a retired British civil servant, in 1885.",
+      "exp_hi": "भारतीय राष्ट्रीय कांग्रेस की स्थापना 1885 में एक सेवानिवृत्त ब्रिटिश सिविल सेवक एलन ऑक्टेवियन ह्यूम ने की थी।"
+    },
+    {
+      "q": "The Doctrine of Lapse was introduced by which Governor-General?",
+      "opts": [
+        "Lord Wellesley",
+        "Lord Hastings",
+        "Lord Dalhousie",
+        "Lord Canning"
+      ],
+      "ans": 2,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "व्यपगत का सिद्धांत (Doctrine of Lapse) किस गवर्नर-जनरल द्वारा लागू किया गया था?",
+      "opts_hi": [
+        "लॉर्ड वेलेस्ली",
+        "लॉर्ड हेस्टिंग्स",
+        "लॉर्ड डलहौजी",
+        "लॉर्ड कैनिंग"
+      ],
+      "exp_en": "Lord Dalhousie introduced the Doctrine of Lapse (1848-1856) to annex Indian states without a male heir.",
+      "exp_hi": "लॉर्ड डलहौजी ने व्यपगत के सिद्धांत (1848-1856) को लागू किया था, जिसके तहत बिना पुरुष उत्तराधिकारी वाले राज्यों का विलय किया गया।"
+    },
+    {
+      "q": "Who was the first Governor-General of independent India?",
+      "opts": [
+        "Lord Mountbatten",
+        "C. Rajagopalachari",
+        "Jawaharlal Nehru",
+        "Dr. Rajendra Prasad"
+      ],
+      "ans": 0,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "स्वतंत्र भारत के पहले गवर्नर-जनरल कौन थे?",
+      "opts_hi": [
+        "लॉर्ड माउंटबैटन",
+        "सी. राजगोपालाचारी",
+        "जवाहरलाल नेहरू",
+        "डॉ. राजेन्द्र प्रसाद"
+      ],
+      "exp_en": "Lord Mountbatten was the first Governor-General of independent India (1947-1948). C. Rajagopalachari was the last.",
+      "exp_hi": "लॉर्ड माउंटबैटन स्वतंत्र भारत के पहले गवर्नर-जनरल थे (1947-1948)। सी. राजगोपालाचारी अंतिम थे।"
+    },
+    {
+      "q": "Who is the ex-officio Chairman of the Rajya Sabha?",
+      "opts": [
+        "Prime Minister",
+        "Speaker of Lok Sabha",
+        "Vice President",
+        "President"
+      ],
+      "ans": 2,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "राज्यसभा का पदेन सभापति कौन होता है?",
+      "opts_hi": [
+        "प्रधान मंत्री",
+        "लोकसभा अध्यक्ष",
+        "उपराष्ट्रपति",
+        "राष्ट्रपति"
+      ],
+      "exp_en": "The Vice President of India is the ex-officio Chairman of the Rajya Sabha and presides over its proceedings.",
+      "exp_hi": "भारत के उपराष्ट्रपति राज्यसभा के पदेन सभापति होते हैं और वे इसकी कार्यवाही की अध्यक्षता करते हैं।"
+    },
+    {
+      "q": "Which Article of the Indian Constitution deals with the Right to Constitutional Remedies?",
+      "opts": [
+        "Article 14",
+        "Article 19",
+        "Article 21",
+        "Article 32"
+      ],
+      "ans": 3,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "भारतीय संविधान का कौन सा अनुच्छेद संवैधानिक उपचारों के अधिकार से संबंधित है?",
+      "opts_hi": [
+        "अनुच्छेद 14",
+        "अनुच्छेद 19",
+        "अनुच्छेद 21",
+        "अनुच्छेद 32"
+      ],
+      "exp_en": "Article 32 grants the right to move the Supreme Court for enforcement of Fundamental Rights. Dr. Ambedkar called it the 'heart and soul' of the Constitution.",
+      "exp_hi": "अनुच्छेद 32 मौलिक अधिकारों के प्रवर्तन के लिए सर्वोच्च न्यायालय में जाने का अधिकार देता है। डॉ. अम्बेडकर ने इसे संविधान की 'आत्मा' कहा था।"
+    },
+    {
+      "q": "Who was the Chairman of the Drafting Committee of the Indian Constitution?",
+      "opts": [
+        "Jawaharlal Nehru",
+        "B.R. Ambedkar",
+        "Rajendra Prasad",
+        "Sardar Patel"
+      ],
+      "ans": 1,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "भारतीय संविधान के प्रारूप समिति के अध्यक्ष कौन थे?",
+      "opts_hi": [
+        "जवाहरलाल नेहरू",
+        "बी.आर. अम्बेडकर",
+        "राजेन्द्र प्रसाद",
+        "सरदार पटेल"
+      ],
+      "exp_en": "Dr. B.R. Ambedkar was the Chairman of the Drafting Committee and is regarded as the chief architect of the Indian Constitution.",
+      "exp_hi": "डॉ. बी.आर. अम्बेडकर प्रारूप समिति के अध्यक्ष थे और उन्हें भारतीय संविधान का मुख्य वास्तुकार माना जाता है।"
+    },
+    {
+      "q": "The river known as the 'Sorrow of Bengal' is?",
+      "opts": [
+        "Ganga",
+        "Brahmaputra",
+        "Damodar",
+        "Mahanadi"
+      ],
+      "ans": 2,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "बंगाल का शोक' नाम से प्रसिद्ध नदी कौन सी है?",
+      "opts_hi": [
+        "गंगा",
+        "ब्रह्मपुत्र",
+        "दामोदर",
+        "महानदी"
+      ],
+      "exp_en": "The Damodar River is known as the 'Sorrow of Bengal' because of the frequent and severe floods it used to cause in West Bengal.",
+      "exp_hi": "दामोदर नदी को 'बंगाल का शोक' कहा जाता है क्योंकि यह पश्चिम बंगाल में बार-बार और गंभीर बाढ़ लाती थी।"
+    },
+    {
+      "q": "Who appoints the Chief Election Commissioner of India?",
+      "opts": [
+        "Prime Minister",
+        "President",
+        "Chief Justice of India",
+        "Vice President"
+      ],
+      "ans": 1,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "भारत के मुख्य चुनाव आयुक्त की नियुक्ति कौन करता है?",
+      "opts_hi": [
+        "प्रधान मंत्री",
+        "राष्ट्रपति",
+        "भारत के मुख्य न्यायाधीश",
+        "उपराष्ट्रपति"
+      ],
+      "exp_en": "The President of India appoints the Chief Election Commissioner and other Election Commissioners.",
+      "exp_hi": "भारत के राष्ट्रपति मुख्य चुनाव आयुक्त और अन्य चुनाव आयुक्तों की नियुक्ति करते हैं।"
+    },
+    {
+      "q": "Which part of the Indian Constitution deals with Fundamental Duties?",
+      "opts": [
+        "Part III",
+        "Part IV",
+        "Part IV-A",
+        "Part V"
+      ],
+      "ans": 2,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "भारतीय संविधान का कौन सा भाग मौलिक कर्तव्यों से संबंधित है?",
+      "opts_hi": [
+        "भाग III",
+        "भाग IV",
+        "भाग IV-A",
+        "भाग V"
+      ],
+      "exp_en": "Fundamental Duties were added by the 42nd Amendment Act, 1976 and are described in Part IV-A (Article 51A) of the Constitution.",
+      "exp_hi": "मौलिक कर्तव्यों को 42वें संशोधन अधिनियम, 1976 द्वारा जोड़ा गया था और ये संविधान के भाग IV-A (अनुच्छेद 51A) में वर्णित हैं।"
+    },
+    {
+      "q": "The Speaker of the Lok Sabha is elected by?",
+      "opts": [
+        "The President",
+        "The Prime Minister",
+        "Members of Lok Sabha",
+        "Members of Parliament"
+      ],
+      "ans": 2,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "लोकसभा का अध्यक्ष किसके द्वारा चुना जाता है?",
+      "opts_hi": [
+        "राष्ट्रपति",
+        "प्रधान मंत्री",
+        "लोकसभा के सदस्य",
+        "संसद के सदस्य"
+      ],
+      "exp_en": "The Speaker of the Lok Sabha is elected by the members of the Lok Sabha from among themselves.",
+      "exp_hi": "लोकसभा का अध्यक्ष लोकसभा के सदस्यों द्वारा उन्हीं में से चुना जाता है।"
+    },
+    {
+      "q": "Which state is the largest producer of wheat in India?",
+      "opts": [
+        "Punjab",
+        "Haryana",
+        "Uttar Pradesh",
+        "Madhya Pradesh"
+      ],
+      "ans": 2,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "भारत में गेहूं का सबसे बड़ा उत्पादक राज्य कौन सा है?",
+      "opts_hi": [
+        "पंजाब",
+        "हरियाणा",
+        "उत्तर प्रदेश",
+        "मध्य प्रदेश"
+      ],
+      "exp_en": "Uttar Pradesh is the largest producer of wheat in India, followed by Punjab and Haryana.",
+      "exp_hi": "उत्तर प्रदेश भारत में गेहूं का सबसे बड़ा उत्पादक राज्य है, इसके बाद पंजाब और हरियाणा का स्थान है।"
+    },
+    {
+      "q": "The 'Golden Triangle' of India includes which three cities?",
+      "opts": [
+        "Delhi, Agra, Jaipur",
+        "Delhi, Mumbai, Kolkata",
+        "Agra, Jaipur, Udaipur",
+        "Delhi, Agra, Varanasi"
+      ],
+      "ans": 0,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "भारत का 'स्वर्ण त्रिभुज' किन तीन शहरों को शामिल करता है?",
+      "opts_hi": [
+        "दिल्ली, आगरा, जयपुर",
+        "दिल्ली, मुंबई, कोलकाता",
+        "आगरा, जयपुर, उदयपुर",
+        "दिल्ली, आगरा, वाराणसी"
+      ],
+      "exp_en": "The Golden Triangle of India is a tourist circuit connecting Delhi, Agra (Taj Mahal) and Jaipur (Pink City).",
+      "exp_hi": "भारत का स्वर्ण त्रिभुज दिल्ली, आगरा (ताज महल) और जयपुर (गुलाबी नगर) को जोड़ने वाला एक पर्यटन सर्किट है।"
+    },
+    {
+      "q": "The longest river in India is?",
+      "opts": [
+        "Brahmaputra",
+        "Ganga",
+        "Godavari",
+        "Yamuna"
+      ],
+      "ans": 1,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "भारत की सबसे लंबी नदी कौन सी है?",
+      "opts_hi": [
+        "ब्रह्मपुत्र",
+        "गंगा",
+        "गोदावरी",
+        "यमुना"
+      ],
+      "exp_en": "The Ganga is the longest river in India with a length of about 2525 km. Brahmaputra is longer overall but mostly flows outside India.",
+      "exp_hi": "गंगा भारत की सबसे लंबी नदी है जिसकी लंबाई लगभग 2525 किमी है। ब्रह्मपुत्र कुल मिलाकर लंबी है लेकिन अधिकांश भारत के बाहर बहती है।"
+    },
+    {
+      "q": "The 'GST' was implemented in India on which date?",
+      "opts": [
+        "1 July 2017",
+        "1 August 2017",
+        "1 June 2017",
+        "1 April 2017"
+      ],
+      "ans": 0,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "भारत में 'GST' किस तारीख को लागू किया गया था?",
+      "opts_hi": [
+        "1 जुलाई 2017",
+        "1 अगस्त 2017",
+        "1 जून 2017",
+        "1 अप्रैल 2017"
+      ],
+      "exp_en": "Goods and Services Tax (GST) was implemented in India on 1 July 2017, replacing multiple indirect taxes.",
+      "exp_hi": "वस्तु एवं सेवा कर (GST) भारत में 1 जुलाई 2017 को लागू किया गया था, जिसने कई अप्रत्यक्ष करों की जगह ली।"
+    },
+    {
+      "q": "Which organization releases the 'World Economic Outlook' report?",
+      "opts": [
+        "World Bank",
+        "IMF",
+        "WTO",
+        "UNCTAD"
+      ],
+      "ans": 1,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "विश्व आर्थिक परिदृश्य' रिपोर्ट कौन सा संगठन जारी करता है?",
+      "opts_hi": [
+        "विश्व बैंक",
+        "IMF",
+        "WTO",
+        "UNCTAD"
+      ],
+      "exp_en": "The International Monetary Fund (IMF) releases the 'World Economic Outlook' report twice a year.",
+      "exp_hi": "अंतर्राष्ट्रीय मुद्रा कोष (IMF) 'विश्व आर्थिक परिदृश्य' रिपोर्ट वर्ष में दो बार जारी करता है।"
+    },
+    {
+      "q": "Which vitamin is known as 'Niacin'?",
+      "opts": [
+        "Vitamin B1",
+        "Vitamin B2",
+        "Vitamin B3",
+        "Vitamin B6"
+      ],
+      "ans": 2,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "किस विटामिन को 'नियासिन' के नाम से जाना जाता है?",
+      "opts_hi": [
+        "विटामिन B1",
+        "विटामिन B2",
+        "विटामिन B3",
+        "विटामिन B6"
+      ],
+      "exp_en": "Vitamin B3 is also known as Niacin. It is essential for the proper functioning of the nervous system and digestion.",
+      "exp_hi": "विटामिन B3 को नियासिन भी कहा जाता है। यह तंत्रिका तंत्र और पाचन के उचित कार्य के लिए आवश्यक है।"
+    },
+    {
+      "q": "Which organ filters blood and produces urine in the human body?",
+      "opts": [
+        "Liver",
+        "Kidney",
+        "Heart",
+        "Lungs"
+      ],
+      "ans": 1,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "मानव शरीर में कौन सा अंग रक्त को फिल्टर करता है और मूत्र का निर्माण करता है?",
+      "opts_hi": [
+        "यकृत",
+        "गुर्दा",
+        "हृदय",
+        "फेफड़े"
+      ],
+      "exp_en": "The kidneys filter blood to remove waste products and produce urine. Each human has two kidneys.",
+      "exp_hi": "गुर्दे रक्त को फिल्टर करके अपशिष्ट पदार्थों को हटाते हैं और मूत्र का निर्माण करते हैं। प्रत्येक मानव के दो गुर्दे होते हैं।"
+    },
+    {
+      "q": "Which of the following is the hardest naturally occurring substance?",
+      "opts": [
+        "Iron",
+        "Graphite",
+        "Diamond",
+        "Quartz"
+      ],
+      "ans": 2,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "निम्नलिखित में से सबसे कठोर प्राकृतिक रूप से पाया जाने वाला पदार्थ कौन सा है?",
+      "opts_hi": [
+        "लोहा",
+        "ग्रेफाइट",
+        "हीरा",
+        "क्वार्ट्ज"
+      ],
+      "exp_en": "Diamond is the hardest naturally occurring substance known, with a rating of 10 on the Mohs scale.",
+      "exp_hi": "हीरा सबसे कठोर प्राकृतिक रूप से पाया जाने वाला पदार्थ है, जिसकी मोहस पैमाने पर 10 की रेटिंग है।"
+    },
+    {
+      "q": "Who wrote the famous book 'Godaan'?",
+      "opts": [
+        "Premchand",
+        "Rabindranath Tagore",
+        "Mahatma Gandhi",
+        "Bankim Chandra Chatterjee"
+      ],
+      "ans": 0,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "प्रसिद्ध पुस्तक 'गोदान' किसने लिखी?",
+      "opts_hi": [
+        "प्रेमचंद",
+        "रवींद्रनाथ टैगोर",
+        "महात्मा गांधी",
+        "बंकिम चंद्र चट्टोपाध्याय"
+      ],
+      "exp_en": "Godaan' is a famous Hindi novel written by Munshi Premchand, published in 1936. It is considered one of the finest works of Hindi literature.",
+      "exp_hi": "गोदान' मुंशी प्रेमचंद द्वारा लिखा गया एक प्रसिद्ध हिंदी उपन्यास है, जो 1936 में प्रकाशित हुआ था। इसे हिंदी साहित्य की बेहतरीन कृतियों में से एक माना जाता है।"
+    },
+    {
+      "q": "The autobiography 'My Experiments with Truth' is written by?",
+      "opts": [
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "B.R. Ambedkar",
+        "Sarojini Naidu"
+      ],
+      "ans": 1,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "आत्मकथा 'माई एक्सपेरिमेंट्स विद ट्रुथ' किसके द्वारा लिखी गई है?",
+      "opts_hi": [
+        "जवाहरलाल नेहरू",
+        "महात्मा गांधी",
+        "बी.आर. अम्बेडकर",
+        "सरोजिनी नायडू"
+      ],
+      "exp_en": "My Experiments with Truth' (original title: Satyana Prayogo athava Atmakatha) is the autobiography of Mahatma Gandhi.",
+      "exp_hi": "माई एक्सपेरिमेंट्स विद ट्रुथ' (मूल शीर्षक: सत्यना प्रयोगों अथवा आत्मकथा) महात्मा गांधी की आत्मकथा है।"
+    },
+    {
+      "q": "Who is known as the 'Flying Sikh' of India?",
+      "opts": [
+        "Milkha Singh",
+        "Kapil Dev",
+        "P.T. Usha",
+        "Neeraj Chopra"
+      ],
+      "ans": 0,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "भारत के 'फ्लाइंग सिख' के नाम से किसे जाना जाता है?",
+      "opts_hi": [
+        "मिल्खा सिंह",
+        "कपिल देव",
+        "पी.टी. उषा",
+        "नीरज चोपड़ा"
+      ],
+      "exp_en": "Milkha Singh is known as the 'Flying Sikh' for his exceptional sprinting achievements, including his gold medal at the 1958 Commonwealth Games.",
+      "exp_hi": "मिल्खा सिंह को उनकी असाधारण स्प्रिंटिंग उपलब्धियों के लिए 'फ्लाइंग सिख' के नाम से जाना जाता है, जिसमें 1958 राष्ट्रमंडल खेलों में उनका स्वर्ण पदक भी शामिल है।"
+    },
+    {
+      "q": "Which Indian boxer won a bronze medal at the 2020 Tokyo Olympics?",
+      "opts": [
+        "Vijender Singh",
+        "Amit Panghal",
+        "Lovlina Borgohain",
+        "Mary Kom"
+      ],
+      "ans": 2,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "2020 टोक्यो ओलंपिक में किस भारतीय मुक्केबाज ने कांस्य पदक जीता?",
+      "opts_hi": [
+        "विजेंदर सिंह",
+        "अमित पंघाल",
+        "लवलीना बोरगोहैन",
+        "मैरी कॉम"
+      ],
+      "exp_en": "Lovlina Borgohain won a bronze medal in women's welterweight boxing at the Tokyo 2020 Olympics.",
+      "exp_hi": "लवलीना बोरगोहैन ने टोक्यो 2020 ओलंपिक में महिला वेल्टरवेट मुक्केबाजी में कांस्य पदक जीता।"
+    },
+    {
+      "q": "Which Indian classical dance form originates from the state of Kerala?",
+      "opts": [
+        "Kathak",
+        "Bharatanatyam",
+        "Kathakali",
+        "Kuchipudi"
+      ],
+      "ans": 2,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "भारत की कौन सी शास्त्रीय नृत्य शैली केरल राज्य से उत्पन्न हुई है?",
+      "opts_hi": [
+        "कथक",
+        "भरतनाट्यम",
+        "कथकली",
+        "कुचिपुड़ी"
+      ],
+      "exp_en": "Kathakali is a major form of classical Indian dance that originated in Kerala. It is known for its elaborate makeup and costumes.",
+      "exp_hi": "कथकली भारतीय शास्त्रीय नृत्य का एक प्रमुख रूप है जो केरल में उत्पन्न हुआ। यह अपनी विस्तृत वेशभूषा और मेकअप के लिए जाना जाता है।"
+    },
+    {
+      "q": "Which day is celebrated as 'World Environment Day'?",
+      "opts": [
+        "5 June",
+        "5 July",
+        "5 August",
+        "5 September"
+      ],
+      "ans": 0,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "विश्व पर्यावरण दिवस' किस दिन मनाया जाता है?",
+      "opts_hi": [
+        "5 जून",
+        "5 जुलाई",
+        "5 अगस्त",
+        "5 सितंबर"
+      ],
+      "exp_en": "World Environment Day is celebrated on 5 June every year. It was established by the United Nations in 1972.",
+      "exp_hi": "विश्व पर्यावरण दिवस प्रत्येक वर्ष 5 जून को मनाया जाता है। इसे 1972 में संयुक्त राष्ट्र द्वारा स्थापित किया गया था।"
+    },
+    {
+      "q": "Who was the first President of the Indian National Congress?",
+      "opts": [
+        "Dadabhai Naoroji",
+        "W.C. Bonnerjee",
+        "A.O. Hume",
+        "Surendranath Banerjee"
+      ],
+      "ans": 1,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "भारतीय राष्ट्रीय कांग्रेस के पहले अध्यक्ष कौन थे?",
+      "opts_hi": [
+        "दादाभाई नौरोजी",
+        "डब्ल्यू.सी. बोनर्जी",
+        "ए.ओ. ह्यूम",
+        "सुरेन्द्रनाथ बनर्जी"
+      ],
+      "exp_en": "W.C. Bonnerjee was the first President of the Indian National Congress at its first session in Bombay in 1885.",
+      "exp_hi": "डब्ल्यू.सी. बोनर्जी 1885 में बॉम्बे में हुए पहले अधिवेशन में भारतीय राष्ट्रीय कांग्रेस के पहले अध्यक्ष थे।"
+    },
+    {
+      "q": "The famous 'Salt March' was started from which place?",
+      "opts": [
+        "Dandi",
+        "Sabarmati",
+        "Ahmedabad",
+        "Porbandar"
+      ],
+      "ans": 1,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "प्रसिद्ध 'नमक मार्च' किस स्थान से शुरू किया गया था?",
+      "opts_hi": [
+        "डांडी",
+        "साबरमती",
+        "अहमदाबाद",
+        "पोरबंदर"
+      ],
+      "exp_en": "The Salt March (Dandi March) was started by Mahatma Gandhi from Sabarmati Ashram on 12 March 1930 to Dandi.",
+      "exp_hi": "नमक मार्च (डांडी मार्च) महात्मा गांधी द्वारा 12 मार्च 1930 को साबरमती आश्रम से डांडी तक शुरू किया गया था।"
+    },
+    {
+      "q": "Who was the first woman Governor of independent India?",
+      "opts": [
+        "Indira Gandhi",
+        "Sarojini Naidu",
+        "Vijaya Lakshmi Pandit",
+        "Sucheta Kriplani"
+      ],
+      "ans": 1,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "स्वतंत्र भारत की पहली महिला राज्यपाल कौन थीं?",
+      "opts_hi": [
+        "इंदिरा गांधी",
+        "सरोजिनी नायडू",
+        "विजया लक्ष्मी पंडित",
+        "सुचेता कृपलानी"
+      ],
+      "exp_en": "Sarojini Naidu was the first woman Governor of independent India, serving as Governor of Uttar Pradesh from 1947 to 1949.",
+      "exp_hi": "सरोजिनी नायडू स्वतंत्र भारत की पहली महिला राज्यपाल थीं, उन्होंने 1947 से 1949 तक उत्तर प्रदेश की राज्यपाल के रूप में सेवा की।"
+    },
+    {
+      "q": "Who is known as the 'Iron Man of India'?",
+      "opts": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel",
+        "Subhas Chandra Bose"
+      ],
+      "ans": 2,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "भारत का 'लौह पुरुष' किसे कहा जाता है?",
+      "opts_hi": [
+        "महात्मा गांधी",
+        "जवाहरलाल नेहरू",
+        "सरदार वल्लभभाई पटेल",
+        "सुभाष चंद्र बोस"
+      ],
+      "exp_en": "Sardar Vallabhbhai Patel is known as the 'Iron Man of India' for his role in integrating the princely states into the Indian Union.",
+      "exp_hi": "सरदार वल्लभभाई पटेल को देशी रियासतों को भारतीय संघ में एकीकृत करने में उनकी भूमिका के लिए 'लौह पुरुष' कहा जाता है।"
+    },
+    {
+      "q": "Which constitutional body conducts elections in India?",
+      "opts": [
+        "Election Commission of India",
+        "Union Public Service Commission",
+        "State Election Commission",
+        "National Commission for Scheduled Castes"
+      ],
+      "ans": 0,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "भारत में चुनाव संचालित करने वाली संवैधानिक संस्था कौन सी है?",
+      "opts_hi": [
+        "भारत का चुनाव आयोग",
+        "संघ लोक सेवा आयोग",
+        "राज्य चुनाव आयोग",
+        "राष्ट्रीय अनुसूचित जाति आयोग"
+      ],
+      "exp_en": "The Election Commission of India is a constitutional body established under Article 324. It conducts all elections to Parliament, State Legislatures, and the offices of President and Vice-President.",
+      "exp_hi": "भारत का चुनाव आयोग अनुच्छेद 324 के तहत स्थापित एक संवैधानिक निकाय है। यह संसद, राज्य विधानसभाओं और राष्ट्रपति एवं उपराष्ट्रपति के पदों के लिए सभी चुनाव संचालित करता है।"
+    },
+    {
+      "q": "Which river is known as the 'Life Line of Kerala'?",
+      "opts": [
+        "Godavari",
+        "Krishna",
+        "Periyar",
+        "Mahanadi"
+      ],
+      "ans": 2,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "किस नदी को 'केरल की जीवन रेखा' कहा जाता है?",
+      "opts_hi": [
+        "गोदावरी",
+        "कृष्णा",
+        "पेरियार",
+        "महानदी"
+      ],
+      "exp_en": "Periyar is known as the 'Life Line of Kerala'. It is the longest river in Kerala and provides water for irrigation, drinking, and hydroelectric power.",
+      "exp_hi": "पेरियार को 'केरल की जीवन रेखा' कहा जाता है। यह केरल की सबसे लंबी नदी है और सिंचाई, पेयजल और जलविद्युत ऊर्जा के लिए जल प्रदान करती है।"
+    },
+    {
+      "q": "The apex bank of India is?",
+      "opts": [
+        "State Bank of India",
+        "Reserve Bank of India",
+        "Punjab National Bank",
+        "Bank of India"
+      ],
+      "ans": 1,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "भारत का शीर्ष बैंक कौन सा है?",
+      "opts_hi": [
+        "भारतीय स्टेट बैंक",
+        "भारतीय रिजर्व बैंक",
+        "पंजाब नेशनल बैंक",
+        "बैंक ऑफ इंडिया"
+      ],
+      "exp_en": "The Reserve Bank of India (RBI) is the central bank and apex banking institution of India. It regulates the monetary policy and the banking system.",
+      "exp_hi": "भारतीय रिजर्व बैंक (RBI) भारत का केंद्रीय बैंक और शीर्ष बैंकिंग संस्थान है। यह मौद्रिक नीति और बैंकिंग प्रणाली को नियंत्रित करता है।"
+    },
+    {
+      "q": "Which day is celebrated as 'World Ozone Day'?",
+      "opts": [
+        "16 September",
+        "16 October",
+        "16 August",
+        "16 July"
+      ],
+      "ans": 0,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "विश्व ओजोन दिवस' किस दिन मनाया जाता है?",
+      "opts_hi": [
+        "16 सितंबर",
+        "16 अक्टूबर",
+        "16 अगस्त",
+        "16 जुलाई"
+      ],
+      "exp_en": "World Ozone Day is celebrated on 16 September every year to commemorate the signing of the Montreal Protocol on Substances that Deplete the Ozone Layer in 1987.",
+      "exp_hi": "विश्व ओजोन दिवस प्रत्येक वर्ष 16 सितंबर को मनाया जाता है, जो 1987 में ओजोन परत को क्षय करने वाले पदार्थों पर मॉन्ट्रियल प्रोटोकॉल पर हस्ताक्षर करने की स्मृति में है।"
+    },
+    {
+      "q": "The famous 'Battle of Plassey' was fought in which year?",
+      "opts": [
+        "1756",
+        "1757",
+        "1758",
+        "1760"
+      ],
+      "ans": 1,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "प्रसिद्ध 'प्लासी का युद्ध' किस वर्ष लड़ा गया था?",
+      "opts_hi": [
+        "1756",
+        "1757",
+        "1758",
+        "1760"
+      ],
+      "exp_en": "The Battle of Plassey was fought on 23 June 1757 between the British East India Company and Siraj-ud-Daulah, the Nawab of Bengal.",
+      "exp_hi": "प्लासी का युद्ध 23 जून 1757 को ब्रिटिश ईस्ट इंडिया कंपनी और बंगाल के नवाब सिराज-उद-दौला के बीच लड़ा गया था।"
+    },
+    {
+      "q": "Who was the first Indian to win the Nobel Prize?",
+      "opts": [
+        "Rabindranath Tagore",
+        "Sir C.V. Raman",
+        "Mother Teresa",
+        "Amartya Sen"
+      ],
+      "ans": 0,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "नोबेल पुरस्कार जीतने वाले पहले भारतीय कौन थे?",
+      "opts_hi": [
+        "रवींद्रनाथ टैगोर",
+        "सर सी.वी. रामन",
+        "मदर टेरेसा",
+        "अमर्त्य सेन"
+      ],
+      "exp_en": "Rabindranath Tagore won the Nobel Prize in Literature in 1913 for his collection of poems 'Gitanjali'. He was the first Indian to win a Nobel Prize.",
+      "exp_hi": "रवींद्रनाथ टैगोर ने 1913 में अपने कविता संग्रह 'गीतांजलि' के लिए साहित्य का नोबेल पुरस्कार जीता। वे नोबेल पुरस्कार जीतने वाले पहले भारतीय थे।"
+    },
+    {
+      "q": "Which schedule of the Indian Constitution deals with the languages?",
+      "opts": [
+        "Eighth Schedule",
+        "Seventh Schedule",
+        "Ninth Schedule",
+        "Tenth Schedule"
+      ],
+      "ans": 0,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "भारतीय संविधान की कौन सी अनुसूची भाषाओं से संबंधित है?",
+      "opts_hi": [
+        "आठवीं अनुसूची",
+        "सातवीं अनुसूची",
+        "नौवीं अनुसूची",
+        "दसवीं अनुसूची"
+      ],
+      "exp_en": "The Eighth Schedule of the Indian Constitution contains the list of 22 official languages recognized by the Constitution.",
+      "exp_hi": "भारतीय संविधान की आठवीं अनुसूची में संविधान द्वारा मान्यता प्राप्त 22 आधिकारिक भाषाओं की सूची है।"
+    },
+    {
+      "q": "The concept of 'Judicial Review' is borrowed from which country's constitution?",
+      "opts": [
+        "USA",
+        "UK",
+        "Canada",
+        "Australia"
+      ],
+      "ans": 0,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "न्यायिक पुनर्विलोकन' की अवधारणा किस देश के संविधान से ली गई है?",
+      "opts_hi": [
+        "USA",
+        "UK",
+        "कनाडा",
+        "ऑस्ट्रेलिया"
+      ],
+      "exp_en": "The concept of Judicial Review in the Indian Constitution is borrowed from the USA. It allows the Supreme Court to review the constitutionality of laws.",
+      "exp_hi": "भारतीय संविधान में न्यायिक पुनर्विलोकन की अवधारणा USA से ली गई है। यह सर्वोच्च न्यायालय को कानूनों की संवैधानिकता की समीक्षा करने की अनुमति देता है।"
+    },
+    {
+      "q": "Which amendment is known as the 'Mini Constitution' of India?",
+      "opts": [
+        "42nd Amendment",
+        "44th Amendment",
+        "52nd Amendment",
+        "73rd Amendment"
+      ],
+      "ans": 0,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "किस संशोधन को भारत का 'लघु संविधान' कहा जाता है?",
+      "opts_hi": [
+        "42वां संशोधन",
+        "44वां संशोधन",
+        "52वां संशोधन",
+        "73वां संशोधन"
+      ],
+      "exp_en": "The 42nd Amendment Act, 1976 is known as the 'Mini Constitution' because it brought extensive changes to the Constitution. It added Fundamental Duties and changed the Preamble.",
+      "exp_hi": "42वां संशोधन अधिनियम, 1976 को 'लघु संविधान' कहा जाता है क्योंकि इसने संविधान में व्यापक परिवर्तन किए। इसने मौलिक कर्तव्यों को जोड़ा और प्रस्तावना में परिवर्तन किया।"
+    },
+    {
+      "q": "The 'Palk Strait' separates India from which country?",
+      "opts": [
+        "Sri Lanka",
+        "Pakistan",
+        "Bangladesh",
+        "Myanmar"
+      ],
+      "ans": 0,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "पाक जलडमरूमध्य' भारत को किस देश से अलग करता है?",
+      "opts_hi": [
+        "श्रीलंका",
+        "पाकिस्तान",
+        "बांग्लादेश",
+        "म्यांमार"
+      ],
+      "exp_en": "The Palk Strait separates India (Tamil Nadu) from Sri Lanka. It connects the Bay of Bengal with the Gulf of Mannar.",
+      "exp_hi": "पाक जलडमरूमध्य भारत (तमिलनाडु) को श्रीलंका से अलग करता है। यह बंगाल की खाड़ी को मन्नार की खाड़ी से जोड़ता है।"
+    },
+    {
+      "q": "The highest waterfall in India is?",
+      "opts": [
+        "Jog Falls",
+        "Kunchikal Falls",
+        "Nohkalikai Falls",
+        "Hogenakkal Falls"
+      ],
+      "ans": 1,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "भारत की सबसे ऊँची जलप्रपात कौन सी है?",
+      "opts_hi": [
+        "जोग फॉल्स",
+        "कुंचिकल फॉल्स",
+        "नोहकालिकाई फॉल्स",
+        "होजेनक्कल फॉल्स"
+      ],
+      "exp_en": "Kunchikal Falls in Karnataka is the highest waterfall in India with a height of 455 meters (1493 feet).",
+      "exp_hi": "कर्नाटक में कुंचिकल फॉल्स 455 मीटर (1493 फीट) की ऊँचाई के साथ भारत की सबसे ऊँची जलप्रपात है।"
+    },
+    {
+      "q": "Which Indian state has the longest coastline?",
+      "opts": [
+        "Tamil Nadu",
+        "Gujarat",
+        "Andhra Pradesh",
+        "West Bengal"
+      ],
+      "ans": 1,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "किस भारतीय राज्य की सबसे लंबी तटरेखा है?",
+      "opts_hi": [
+        "तमिलनाडु",
+        "गुजरात",
+        "आंध्र प्रदेश",
+        "पश्चिम बंगाल"
+      ],
+      "exp_en": "Gujarat has the longest coastline in India with a length of about 1600 km along the Arabian Sea.",
+      "exp_hi": "गुजरात की अरब सागर के साथ लगभग 1600 किमी की लंबाई के साथ भारत में सबसे लंबी तटरेखा है।"
+    },
+    {
+      "q": "Which Indian state has the highest GDP?",
+      "opts": [
+        "Maharashtra",
+        "Tamil Nadu",
+        "Uttar Pradesh",
+        "Karnataka"
+      ],
+      "ans": 0,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "किस भारतीय राज्य की GDP सबसे अधिक है?",
+      "opts_hi": [
+        "महाराष्ट्र",
+        "तमिलनाडु",
+        "उत्तर प्रदेश",
+        "कर्नाटक"
+      ],
+      "exp_en": "Maharashtra has the highest GDP among Indian states, contributing around 15% to India's total GDP. Its capital Mumbai is the financial hub.",
+      "exp_hi": "महाराष्ट्र की भारतीय राज्यों में सबसे अधिक GDP है, जो भारत की कुल GDP में लगभग 15% का योगदान देता है। इसकी राजधानी मुंबई वित्तीय केंद्र है।"
+    },
+    {
+      "q": "The term 'Quantitative Easing' is associated with which field?",
+      "opts": [
+        "Agriculture",
+        "Monetary Policy",
+        "Trade Policy",
+        "Education Policy"
+      ],
+      "ans": 1,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "क्वांटिटेटिव ईजिंग' शब्द किस क्षेत्र से संबंधित है?",
+      "opts_hi": [
+        "कृषि",
+        "मौद्रिक नीति",
+        "व्यापार नीति",
+        "शिक्षा नीति"
+      ],
+      "exp_en": "Quantitative Easing is a monetary policy tool used by central banks to stimulate the economy by buying government bonds and other securities.",
+      "exp_hi": "क्वांटिटेटिव ईजिंग एक मौद्रिक नीति उपकरण है जिसका उपयोग केंद्रीय बैंक सरकारी बांड और अन्य प्रतिभूतियों को खरीदकर अर्थव्यवस्था को प्रोत्साहित करने के लिए करते हैं।"
+    },
+    {
+      "q": "Which vitamin is essential for blood clotting?",
+      "opts": [
+        "Vitamin A",
+        "Vitamin E",
+        "Vitamin K",
+        "Vitamin B12"
+      ],
+      "ans": 2,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "रक्त का थक्का जमाने के लिए कौन सा विटामिन आवश्यक है?",
+      "opts_hi": [
+        "विटामिन ए",
+        "विटामिन ई",
+        "विटामिन के",
+        "विटामिन B12"
+      ],
+      "exp_en": "Vitamin K is essential for blood clotting (coagulation). It helps in the synthesis of prothrombin in the liver.",
+      "exp_hi": "विटामिन K रक्त के थक्के (कोएगुलेशन) के लिए आवश्यक है। यह यकृत में प्रोथ्रोम्बिन के संश्लेषण में सहायता करता है।"
+    },
+    {
+      "q": "What is the chemical name of baking powder?",
+      "opts": [
+        "Sodium bicarbonate",
+        "Sodium carbonate",
+        "Calcium bicarbonate",
+        "Potassium bicarbonate"
+      ],
+      "ans": 0,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "बेकिंग पाउडर का रासायनिक नाम क्या है?",
+      "opts_hi": [
+        "सोडियम बाइकार्बोनेट",
+        "सोडियम कार्बोनेट",
+        "कैल्शियम बाइकार्बोनेट",
+        "पोटैशियम बाइकार्बोनेट"
+      ],
+      "exp_en": "Baking powder is a mixture of sodium bicarbonate (NaHCO₃) and a mild acid. It releases carbon dioxide when moistened.",
+      "exp_hi": "बेकिंग पाउडर सोडियम बाइकार्बोनेट (NaHCO₃) और एक मृदु अम्ल का मिश्रण है। यह नम होने पर कार्बन डाइऑक्साइड छोड़ता है।"
+    },
+    {
+      "q": "Which part of the human eye controls the amount of light entering the eye?",
+      "opts": [
+        "Cornea",
+        "Iris",
+        "Pupil",
+        "Lens"
+      ],
+      "ans": 1,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "मानव नेत्र का कौन सा भाग नेत्र में प्रवेश करने वाले प्रकाश की मात्रा को नियंत्रित करता है?",
+      "opts_hi": [
+        "कॉर्निया",
+        "आइरिस",
+        "प्यूपिल",
+        "लेंस"
+      ],
+      "exp_en": "The iris controls the amount of light entering the eye by adjusting the size of the pupil. It gives color to the eye.",
+      "exp_hi": "आइरिस प्यूपिल के आकार को समायोजित करके नेत्र में प्रवेश करने वाले प्रकाश की मात्रा को नियंत्रित करता है। यह नेत्र को रंग देता है।"
+    },
+    {
+      "q": "Who wrote the famous book 'Gitanjali'?",
+      "opts": [
+        "Bankim Chandra Chatterjee",
+        "Rabindranath Tagore",
+        "Sarojini Naidu",
+        "Subramania Bharati"
+      ],
+      "ans": 1,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "प्रसिद्ध पुस्तक 'गीतांजलि' किसने लिखी?",
+      "opts_hi": [
+        "बंकिम चंद्र चट्टोपाध्याय",
+        "रवींद्रनाथ टैगोर",
+        "सरोजिनी नायडू",
+        "सुब्रह्मण्य भारती"
+      ],
+      "exp_en": "Gitanjali' is a collection of poems written by Rabindranath Tagore. He won the Nobel Prize for Literature in 1913 for this work.",
+      "exp_hi": "गीतांजलि' रवींद्रनाथ टैगोर द्वारा लिखित कविताओं का एक संग्रह है। उन्होंने 1913 में इस कृति के लिए साहित्य का नोबेल पुरस्कार जीता।"
+    },
+    {
+      "q": "The book 'The White Tiger' is written by?",
+      "opts": [
+        "Arundhati Roy",
+        "Kiran Desai",
+        "Arvind Adiga",
+        "Chetan Bhagat"
+      ],
+      "ans": 2,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "द व्हाइट टाइगर' पुस्तक किसके द्वारा लिखी गई है?",
+      "opts_hi": [
+        "अरुंधती रॉय",
+        "किरण देसाई",
+        "अरविंद अडिगा",
+        "चेतन भगत"
+      ],
+      "exp_en": "The White Tiger' is a novel by Aravind Adiga published in 2008. It won the Man Booker Prize in the same year.",
+      "exp_hi": "द व्हाइट टाइगर' अरविंद अडिगा का 2008 में प्रकाशित एक उपन्यास है। इसने उसी वर्ष मैन बुकर पुरस्कार जीता।"
+    },
+    {
+      "q": "Which Indian sportsperson has won the most Olympic medals?",
+      "opts": [
+        "Abhinav Bindra",
+        "P.V. Sindhu",
+        "Sushil Kumar",
+        "Neeraj Chopra"
+      ],
+      "ans": 1,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "किस भारतीय खिलाड़ी ने सबसे अधिक ओलंपिक पदक जीते हैं?",
+      "opts_hi": [
+        "अभिनव बिंद्रा",
+        "पी.वी. सिंधु",
+        "सुशील कुमार",
+        "नीरज चोपड़ा"
+      ],
+      "exp_en": "P.V. Sindhu has won the most Olympic medals for India with 2 medals - Silver in 2016 and Bronze in 2020 Olympics.",
+      "exp_hi": "पी.वी. सिंधु ने भारत के लिए सबसे अधिक 2 ओलंपिक पदक जीते हैं - 2016 में रजत और 2020 में कांस्य पदक।"
+    },
+    {
+      "q": "The FIFA World Cup 2026 will be hosted by which countries?",
+      "opts": [
+        "USA and Mexico only",
+        "USA, Canada and Mexico",
+        "USA, Mexico and Brazil",
+        "USA, Canada and UK"
+      ],
+      "ans": 1,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "FIFA विश्व कप 2026 की मेजबानी किन देशों द्वारा की जाएगी?",
+      "opts_hi": [
+        "केवल USA और Mexico",
+        "USA, Canada और Mexico",
+        "USA, Mexico और Brazil",
+        "USA, Canada और UK"
+      ],
+      "exp_en": "The 2026 FIFA World Cup will be jointly hosted by the United States, Canada, and Mexico. It will be the first hosted by three countries.",
+      "exp_hi": "2026 FIFA विश्व कप की मेजबानी संयुक्त रूप से USA, Canada और Mexico द्वारा की जाएगी। यह तीन देशों द्वारा मेजबानी किया जाने वाला पहला विश्व कप होगा।"
+    },
+    {
+      "q": "The famous 'Mahabalipuram' temples were built by which dynasty?",
+      "opts": [
+        "Pallava dynasty",
+        "Chola dynasty",
+        "Pandya dynasty",
+        "Chera dynasty"
+      ],
+      "ans": 0,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "प्रसिद्ध 'महाबलिपुरम' मंदिर किस राजवंश द्वारा बनाए गए थे?",
+      "opts_hi": [
+        "पल्लव राजवंश",
+        "चोल राजवंश",
+        "पांड्य राजवंश",
+        "चेर राजवंश"
+      ],
+      "exp_en": "The Shore Temple and other monuments at Mahabalipuram were built by the Pallava dynasty in the 7th-8th centuries. They are a UNESCO World Heritage site.",
+      "exp_hi": "महाबलिपुरम में शोर मंदिर और अन्य स्मारक 7वीं-8वीं शताब्दी में पल्लव राजवंश द्वारा बनाए गए थे। ये यूनेस्को विश्व धरोहर स्थल हैं।"
+    },
+    {
+      "q": "In which year did Maldives hold the world's first underwater cabinet meeting to highlight climate change?",
+      "opts": [
+        "2007",
+        "2008",
+        "2009",
+        "2010"
+      ],
+      "ans": 2,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "जलवायु परिवर्तन को उजागर करने के लिए मालदीव ने दुनिया की पहली पानी के नीचे मंत्रिमंडल बैठक किस वर्ष आयोजित की थी?",
+      "opts_hi": [
+        "2007",
+        "2008",
+        "2009",
+        "2010"
+      ],
+      "exp_en": "The Maldives held an underwater cabinet meeting on 17 October 2009 to highlight the threat of climate change and rising sea levels to the island nation.",
+      "exp_hi": "मालदीव ने 17 अक्टूबर 2009 को जलवायु परिवर्तन और बढ़ते समुद्री स्तर के खतरे को उजागर करने के लिए एक पानी के नीचे मंत्रिमंडल की बैठक आयोजित की थी।"
+    },
+    {
+      "q": "The 'Quit India Movement' was launched in which year?",
+      "opts": [
+        "1940",
+        "1941",
+        "1942",
+        "1943"
+      ],
+      "ans": 2,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "भारत छोड़ो आंदोलन' किस वर्ष शुरू किया गया था?",
+      "opts_hi": [
+        "1940",
+        "1941",
+        "1942",
+        "1943"
+      ],
+      "exp_en": "The Quit India Movement was launched by Mahatma Gandhi on 8 August 1942 at the Gowalia Tank Maidan in Bombay.",
+      "exp_hi": "भारत छोड़ो आंदोलन महात्मा गांधी द्वारा 8 अगस्त 1942 को बॉम्बे के गोवालिया टैंक मैदान में शुरू किया गया था।"
+    },
+    {
+      "q": "Which article of the Indian Constitution deals with the appointment of the Prime Minister?",
+      "opts": [
+        "Article 74",
+        "Article 75",
+        "Article 76",
+        "Article 78"
+      ],
+      "ans": 1,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "भारतीय संविधान का कौन सा अनुच्छेद प्रधान मंत्री की नियुक्ति से संबंधित है?",
+      "opts_hi": [
+        "अनुच्छेद 74",
+        "अनुच्छेद 75",
+        "अनुच्छेद 76",
+        "अनुच्छेद 78"
+      ],
+      "exp_en": "Article 75 deals with the appointment of the Prime Minister by the President. The Prime Minister is the head of the Council of Ministers.",
+      "exp_hi": "अनुच्छेद 75 राष्ट्रपति द्वारा प्रधान मंत्री की नियुक्ति से संबंधित है। प्रधान मंत्री मंत्रिपरिषद का प्रमुख होता है।"
+    },
+    {
+      "q": "The 'Sunderbans' delta is formed by which two rivers?",
+      "opts": [
+        "Ganga and Brahmaputra",
+        "Ganga and Yamuna",
+        "Brahmaputra and Meghna",
+        "Godavari and Krishna"
+      ],
+      "ans": 0,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "सुंदरबन' डेल्टा किन दो नदियों द्वारा निर्मित है?",
+      "opts_hi": [
+        "गंगा और ब्रह्मपुत्र",
+        "गंगा और यमुना",
+        "ब्रह्मपुत्र और मेघना",
+        "गोदावरी और कृष्णा"
+      ],
+      "exp_en": "The Sunderbans delta is formed by the confluence of the Ganga and Brahmaputra rivers. It is the largest delta in the world.",
+      "exp_hi": "सुंदरबन डेल्टा गंगा और ब्रह्मपुत्र नदियों के संगम से बना है। यह दुनिया का सबसे बड़ा डेल्टा है।"
+    },
+    {
+      "q": "Which element is used in the filament of a bulb?",
+      "opts": [
+        "Copper",
+        "Aluminum",
+        "Tungsten",
+        "Silver"
+      ],
+      "ans": 2,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "बल्ब के फिलामेंट में किस तत्व का उपयोग किया जाता है?",
+      "opts_hi": [
+        "तांबा",
+        "एल्यूमीनियम",
+        "टंगस्टन",
+        "सिल्वर"
+      ],
+      "exp_en": "Tungsten is used in the filament of a bulb because it has a high melting point (3422°C) and does not evaporate easily.",
+      "exp_hi": "टंगस्टन का उपयोग बल्ब के फिलामेंट में किया जाता है क्योंकि इसका गलनांक उच्च (3422°C) होता है और यह आसानी से वाष्पित नहीं होता है।"
+    },
+    {
+      "q": "India's 'Chandrayaan-3' was launched from which space center?",
+      "opts": [
+        "Vikram Sarabhai Space Centre",
+        "Satish Dhawan Space Centre",
+        "ISRO Headquarters",
+        "Thumba Equatorial Rocket Launching Station"
+      ],
+      "ans": 1,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "भारत का 'चंद्रयान-3' किस अंतरिक्ष केंद्र से लॉन्च किया गया था?",
+      "opts_hi": [
+        "विक्रम साराभाई अंतरिक्ष केंद्र",
+        "सतीश धवन अंतरिक्ष केंद्र",
+        "इसरो मुख्यालय",
+        "थुम्बा भूमध्य रॉकेट प्रक्षेपण केंद्र"
+      ],
+      "exp_en": "Chandrayaan-3 was launched from the Satish Dhawan Space Centre (SDSC) in Sriharikota, Andhra Pradesh on 14 July 2023.",
+      "exp_hi": "चंद्रयान-3 को 14 जुलाई 2023 को आंध्र प्रदेश के श्रीहरिकोटा में सतीश धवन अंतरिक्ष केंद्र (SDSC) से लॉन्च किया गया था।"
+    },
+    {
+      "q": "Who was the first Viceroy of India?",
+      "opts": [
+        "Lord Canning",
+        "Lord Dalhousie",
+        "Lord Wellesley",
+        "Lord William Bentinck"
+      ],
+      "ans": 0,
+      "subject": "General Awareness & Current Affairs",
+      "q_hi": "भारत के पहले वायसराय कौन थे?",
+      "opts_hi": [
+        "लॉर्ड कैनिंग",
+        "लॉर्ड डलहौजी",
+        "लॉर्ड वेलेस्ली",
+        "लॉर्ड विलियम बेंटिक"
+      ],
+      "exp_en": "Lord Canning was the first Viceroy of India (1858-1862). He also served as the last Governor-General of India before the British Crown took over.",
+      "exp_hi": "लॉर्ड कैनिंग भारत के पहले वायसराय थे (1858-1862)। उन्होंने ब्रिटिश क्राउन के अधिग्रहण से पहले भारत के अंतिम गवर्नर-जनरल के रूप में भी सेवा की।"
+    }
+  ]
+}

@@ -915,6 +915,1506 @@
       "subject": "Quantitative Aptitude"
     },
     {
+      "q": "Two trains of lengths 200 m and 300 m are running on parallel tracks in opposite directions at speeds of 36 km/h and 54 km/h. How long will they take to cross each other?",
+      "opts": [
+        "20 sec",
+        "25 sec",
+        "30 sec",
+        "35 sec"
+      ],
+      "ans": 0,
+      "subject": "Mathematics",
+      "q_hi": "200 मी और 300 मी लंबाई की दो ट्रेनें समानांतर पटरियों पर विपरीत दिशाओं में 36 किमी/घंटा और 54 किमी/घंटा की चाल से चल रही हैं। वे एक-दूसरे को पार करने में कितना समय लेंगी?",
+      "opts_hi": [
+        "20 सेकंड",
+        "25 सेकंड",
+        "30 सेकंड",
+        "35 सेकंड"
+      ],
+      "exp_en": "Relative speed = 36 + 54 = 90 km/h = 90 × 5/18 = 25 m/s. Total distance = 200 + 300 = 500 m. Time = 500/25 = 20 sec.",
+      "exp_hi": "सापेक्ष चाल = 36 + 54 = 90 किमी/घंटा = 90 × 5/18 = 25 मी/से। कुल दूरी = 200 + 300 = 500 मी। समय = 500/25 = 20 सेकंड।"
+    },
+    {
+      "q": "What is the simple interest on ₹5000 at 10% per annum for 3 years?",
+      "opts": [
+        "₹1000",
+        "₹1200",
+        "₹1500",
+        "₹1800"
+      ],
+      "ans": 2,
+      "subject": "Mathematics",
+      "q_hi": "₹5000 पर 10% वार्षिक दर से 3 वर्षों का साधारण ब्याज क्या है?",
+      "opts_hi": [
+        "₹1000",
+        "₹1200",
+        "₹1500",
+        "₹1800"
+      ],
+      "exp_en": "SI = (P × R × T)/100 = (5000 × 10 × 3)/100 = ₹1500.",
+      "exp_hi": "साधारण ब्याज = (P × R × T)/100 = (5000 × 10 × 3)/100 = ₹1500।"
+    },
+    {
+      "q": "What is the compound interest on ₹5000 at 10% per annum compounded annually for 2 years?",
+      "opts": [
+        "₹1000",
+        "₹1050",
+        "₹1100",
+        "₹1150"
+      ],
+      "ans": 1,
+      "subject": "Mathematics",
+      "q_hi": "₹5000 पर 10% वार्षिक दर से 2 वर्षों का चक्रवृद्धि ब्याज क्या है (वार्षिक रूप से संयोजित)?",
+      "opts_hi": [
+        "₹1000",
+        "₹1050",
+        "₹1100",
+        "₹1150"
+      ],
+      "exp_en": "Amount = P(1 + R/100)² = 5000(1.1)² = 5000 × 1.21 = 6050. CI = 6050 - 5000 = ₹1050.",
+      "exp_hi": "मिश्रधन = P(1 + R/100)² = 5000(1.1)² = 5000 × 1.21 = 6050। चक्रवृद्धि ब्याज = 6050 - 5000 = ₹1050।"
+    },
+    {
+      "q": "If A : B = 2 : 3 and B : C = 4 : 5, find A : C.",
+      "opts": [
+        "2 : 5",
+        "4 : 5",
+        "8 : 15",
+        "5 : 8"
+      ],
+      "ans": 2,
+      "subject": "Mathematics",
+      "q_hi": "यदि A : B = 2 : 3 और B : C = 4 : 5 है, तो A : C ज्ञात करें।",
+      "opts_hi": [
+        "2 : 5",
+        "4 : 5",
+        "8 : 15",
+        "5 : 8"
+      ],
+      "exp_en": "A/B = 2/3, B/C = 4/5. Multiply: A/C = (2/3) × (4/5) = 8/15 → A : C = 8 : 15.",
+      "exp_hi": "A/B = 2/3, B/C = 4/5. गुणा करें: A/C = (2/3) × (4/5) = 8/15 → A : C = 8 : 15।"
+    },
+    {
+      "q": "If x : y = 5 : 7, find (5x + 3y) : (3x + 2y).",
+      "opts": [
+        "5 : 6",
+        "6 : 7",
+        "46 : 29",
+        "47 : 30"
+      ],
+      "ans": 2,
+      "subject": "Mathematics",
+      "q_hi": "यदि x : y = 5 : 7 है, तो (5x + 3y) : (3x + 2y) ज्ञात करें।",
+      "opts_hi": [
+        "5 : 6",
+        "6 : 7",
+        "46 : 29",
+        "47 : 30"
+      ],
+      "exp_en": "Let x = 5k, y = 7k. (5×5k + 3×7k) : (3×5k + 2×7k) = (25k+21k) : (15k+14k) = 46k : 29k = 46 : 29.",
+      "exp_hi": "माना x = 5k, y = 7k. (5×5k + 3×7k) : (3×5k + 2×7k) = (25k+21k) : (15k+14k) = 46k : 29k = 46 : 29।"
+    },
+    {
+      "q": "What is the LCM of 12, 18 and 24?",
+      "opts": [
+        "48",
+        "60",
+        "72",
+        "84"
+      ],
+      "ans": 2,
+      "subject": "Mathematics",
+      "q_hi": "12, 18 और 24 का LCM क्या है?",
+      "opts_hi": [
+        "48",
+        "60",
+        "72",
+        "84"
+      ],
+      "exp_en": "Prime factors: 12=2²×3, 18=2×3², 24=2³×3. LCM = 2³×3² = 8×9 = 72.",
+      "exp_hi": "अभाज्य गुणनखंड: 12=2²×3, 18=2×3², 24=2³×3. LCM = 2³×3² = 8×9 = 72।"
+    },
+    {
+      "q": "What is the HCF of 144 and 180?",
+      "opts": [
+        "24",
+        "30",
+        "36",
+        "42"
+      ],
+      "ans": 2,
+      "subject": "Mathematics",
+      "q_hi": "144 और 180 का HCF क्या है?",
+      "opts_hi": [
+        "24",
+        "30",
+        "36",
+        "42"
+      ],
+      "exp_en": "144 = 2⁴×3², 180 = 2²×3²×5. HCF = 2²×3² = 4×9 = 36.",
+      "exp_hi": "144 = 2⁴×3², 180 = 2²×3²×5. HCF = 2²×3² = 4×9 = 36।"
+    },
+    {
+      "q": "What is the smallest prime number?",
+      "opts": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "ans": 2,
+      "subject": "Mathematics",
+      "q_hi": "सबसे छोटी अभाज्य संख्या क्या है?",
+      "opts_hi": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "exp_en": "2 is the smallest prime number. 0 and 1 are not prime numbers.",
+      "exp_hi": "2 सबसे छोटी अभाज्य संख्या है। 0 और 1 अभाज्य संख्याएँ नहीं हैं।"
+    },
+    {
+      "q": "If x + 1/x = 3, find x² + 1/x².",
+      "opts": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "ans": 2,
+      "subject": "Mathematics",
+      "q_hi": "यदि x + 1/x = 3 है, तो x² + 1/x² ज्ञात करें।",
+      "opts_hi": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "exp_en": "x² + 1/x² = (x + 1/x)² - 2 = 3² - 2 = 9 - 2 = 7.",
+      "exp_hi": "x² + 1/x² = (x + 1/x)² - 2 = 3² - 2 = 9 - 2 = 7।"
+    },
+    {
+      "q": "If x + y = 12 and xy = 35, find x² + y².",
+      "opts": [
+        "72",
+        "74",
+        "76",
+        "78"
+      ],
+      "ans": 1,
+      "subject": "Mathematics",
+      "q_hi": "यदि x + y = 12 और xy = 35 है, तो x² + y² ज्ञात करें।",
+      "opts_hi": [
+        "72",
+        "74",
+        "76",
+        "78"
+      ],
+      "exp_en": "x² + y² = (x + y)² - 2xy = 12² - 2×35 = 144 - 70 = 74.",
+      "exp_hi": "x² + y² = (x + y)² - 2xy = 12² - 2×35 = 144 - 70 = 74।"
+    },
+    {
+      "q": "Solve: 3x + 5 = 20. Find x.",
+      "opts": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "ans": 2,
+      "subject": "Mathematics",
+      "q_hi": "हल करें: 3x + 5 = 20. x ज्ञात करें।",
+      "opts_hi": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "exp_en": "3x = 20 - 5 = 15 → x = 15/3 = 5.",
+      "exp_hi": "3x = 20 - 5 = 15 → x = 15/3 = 5।"
+    },
+    {
+      "q": "What is the area of a circle of radius 7 cm?",
+      "opts": [
+        "154 cm²",
+        "144 cm²",
+        "164 cm²",
+        "174 cm²"
+      ],
+      "ans": 0,
+      "subject": "Mathematics",
+      "q_hi": "7 सेमी त्रिज्या वाले वृत्त का क्षेत्रफल क्या है?",
+      "opts_hi": [
+        "154 सेमी²",
+        "144 सेमी²",
+        "164 सेमी²",
+        "174 सेमी²"
+      ],
+      "exp_en": "Area = πr² = 22/7 × 7 × 7 = 154 cm².",
+      "exp_hi": "क्षेत्रफल = πr² = 22/7 × 7 × 7 = 154 सेमी²।"
+    },
+    {
+      "q": "What is the volume of a cylinder with radius 7 cm and height 10 cm?",
+      "opts": [
+        "1540 cm³",
+        "15400 cm³",
+        "1480 cm³",
+        "1450 cm³"
+      ],
+      "ans": 0,
+      "subject": "Mathematics",
+      "q_hi": "7 सेमी त्रिज्या और 10 सेमी ऊँचाई वाले बेलन का आयतन क्या है?",
+      "opts_hi": [
+        "1540 सेमी³",
+        "15400 सेमी³",
+        "1480 सेमी³",
+        "1450 सेमी³"
+      ],
+      "exp_en": "Volume = πr²h = 22/7 × 7 × 7 × 10 = 1540 cm³.",
+      "exp_hi": "आयतन = πr²h = 22/7 × 7 × 7 × 10 = 1540 सेमी³।"
+    },
+    {
+      "q": "What is the perimeter of a square of side 12 cm?",
+      "opts": [
+        "24 cm",
+        "36 cm",
+        "48 cm",
+        "60 cm"
+      ],
+      "ans": 2,
+      "subject": "Mathematics",
+      "q_hi": "12 सेमी भुजा वाले वर्ग का परिमाप क्या है?",
+      "opts_hi": [
+        "24 सेमी",
+        "36 सेमी",
+        "48 सेमी",
+        "60 सेमी"
+      ],
+      "exp_en": "Perimeter = 4 × side = 4 × 12 = 48 cm.",
+      "exp_hi": "परिमाप = 4 × भुजा = 4 × 12 = 48 सेमी।"
+    },
+    {
+      "q": "What is the value of sin 30° + cos 60°?",
+      "opts": [
+        "0.5",
+        "1",
+        "1.5",
+        "2"
+      ],
+      "ans": 1,
+      "subject": "Mathematics",
+      "q_hi": "sin 30° + cos 60° का मान क्या है?",
+      "opts_hi": [
+        "0.5",
+        "1",
+        "1.5",
+        "2"
+      ],
+      "exp_en": "sin 30° = 1/2, cos 60° = 1/2. Sum = 1/2 + 1/2 = 1.",
+      "exp_hi": "sin 30° = 1/2, cos 60° = 1/2। योग = 1/2 + 1/2 = 1।"
+    },
+    {
+      "q": "What is the value of tan 45°?",
+      "opts": [
+        "0",
+        "0.5",
+        "1",
+        "1.5"
+      ],
+      "ans": 2,
+      "subject": "Mathematics",
+      "q_hi": "tan 45° का मान क्या है?",
+      "opts_hi": [
+        "0",
+        "0.5",
+        "1",
+        "1.5"
+      ],
+      "exp_en": "tan 45° = sin 45°/cos 45° = (1/√2)/(1/√2) = 1.",
+      "exp_hi": "tan 45° = sin 45°/cos 45° = (1/√2)/(1/√2) = 1।"
+    },
+    {
+      "q": "The average of 5 numbers is 20. If one number is removed, the average becomes 18. What is the removed number?",
+      "opts": [
+        "20",
+        "22",
+        "24",
+        "28"
+      ],
+      "ans": 3,
+      "subject": "Mathematics",
+      "q_hi": "5 संख्याओं का औसत 20 है। यदि एक संख्या हटा दी जाती है, तो औसत 18 हो जाता है। हटाई गई संख्या क्या है?",
+      "opts_hi": [
+        "20",
+        "22",
+        "24",
+        "28"
+      ],
+      "exp_en": "Sum of 5 numbers = 5 × 20 = 100. Sum of remaining 4 = 4 × 18 = 72. Removed number = 100 - 72 = 28.",
+      "exp_hi": "5 संख्याओं का योग = 5 × 20 = 100। शेष 4 का योग = 4 × 18 = 72। हटाई गई संख्या = 100 - 72 = 28।"
+    },
+    {
+      "q": "If the average of 3 numbers is 25 and two of them are 20 and 30, what is the third number?",
+      "opts": [
+        "20",
+        "25",
+        "30",
+        "35"
+      ],
+      "ans": 1,
+      "subject": "Mathematics",
+      "q_hi": "यदि 3 संख्याओं का औसत 25 है और उनमें से दो 20 और 30 हैं, तो तीसरी संख्या क्या है?",
+      "opts_hi": [
+        "20",
+        "25",
+        "30",
+        "35"
+      ],
+      "exp_en": "Sum of 3 numbers = 3 × 25 = 75. Third number = 75 - 20 - 30 = 25.",
+      "exp_hi": "3 संख्याओं का योग = 3 × 25 = 75। तीसरी संख्या = 75 - 20 - 30 = 25।"
+    },
+    {
+      "q": "The sum of the angles of a triangle is:",
+      "opts": [
+        "180°",
+        "270°",
+        "360°",
+        "90°"
+      ],
+      "ans": 0,
+      "subject": "Mathematics",
+      "q_hi": "एक त्रिभुज के कोणों का योग होता है:",
+      "opts_hi": [
+        "180°",
+        "270°",
+        "360°",
+        "90°"
+      ],
+      "exp_en": "The sum of all three interior angles of a triangle is always 180°.",
+      "exp_hi": "एक त्रिभुज के तीनों अंतः कोणों का योग सदैव 180° होता है।"
+    },
+    {
+      "q": "If 40% of a number is 200, what is the number?",
+      "opts": [
+        "400",
+        "450",
+        "500",
+        "550"
+      ],
+      "ans": 2,
+      "subject": "Mathematics",
+      "q_hi": "यदि किसी संख्या का 40% 200 है, तो वह संख्या क्या है?",
+      "opts_hi": [
+        "400",
+        "450",
+        "500",
+        "550"
+      ],
+      "exp_en": "40% of 500 = 200, hence the number is 500.",
+      "exp_hi": "500 का 40% = 200, अतः संख्या 500 है।"
+    },
+    {
+      "q": "If 25% of a number is 75, what is 40% of that number?",
+      "opts": [
+        "100",
+        "110",
+        "120",
+        "130"
+      ],
+      "ans": 2,
+      "subject": "Mathematics",
+      "q_hi": "यदि किसी संख्या का 25% 75 है, तो उस संख्या का 40% क्या है?",
+      "opts_hi": [
+        "100",
+        "110",
+        "120",
+        "130"
+      ],
+      "exp_en": "25% of number = 75 → number = 300. 40% of 300 = 120.",
+      "exp_hi": "संख्या का 25% = 75 → संख्या = 300। 300 का 40% = 120।"
+    },
+    {
+      "q": "In an examination, a candidate must secure 40% marks to pass. He gets 160 marks and fails by 40 marks. What are the maximum marks?",
+      "opts": [
+        "400",
+        "450",
+        "500",
+        "550"
+      ],
+      "ans": 2,
+      "subject": "Mathematics",
+      "q_hi": "एक परीक्षा में, उत्तीर्ण होने के लिए एक उम्मीदवार को 40% अंक प्राप्त करने होते हैं। उसे 160 अंक मिलते हैं और वह 40 अंकों से अनुत्तीर्ण हो जाता है। अधिकतम अंक क्या हैं?",
+      "opts_hi": [
+        "400",
+        "450",
+        "500",
+        "550"
+      ],
+      "exp_en": "Passing marks = 160 + 40 = 200. 40% of max = 200 → max = 200/0.40 = 500.",
+      "exp_hi": "उत्तीर्णांक = 160 + 40 = 200। अधिकतम का 40% = 200 → अधिकतम = 200/0.40 = 500।"
+    },
+    {
+      "q": "A man buys a cycle for ₹800 and sells it at a profit of 20%. What is the selling price?",
+      "opts": [
+        "₹840",
+        "₹900",
+        "₹960",
+        "₹980"
+      ],
+      "ans": 2,
+      "subject": "Mathematics",
+      "q_hi": "एक व्यक्ति एक साइकिल ₹800 में खरीदता है और 20% लाभ पर बेचता है। विक्रय मूल्य क्या है?",
+      "opts_hi": [
+        "₹840",
+        "₹900",
+        "₹960",
+        "₹980"
+      ],
+      "exp_en": "SP = CP × (100 + Profit%)/100 = 800 × 120/100 = ₹960.",
+      "exp_hi": "विक्रय मूल्य = क्रय मूल्य × (100 + लाभ%)/100 = 800 × 120/100 = ₹960।"
+    },
+    {
+      "q": "A shopkeeper sells an item at a loss of 10%. If he had sold it for ₹50 more, he would have gained 10%. What is the cost price?",
+      "opts": [
+        "₹200",
+        "₹225",
+        "₹250",
+        "₹275"
+      ],
+      "ans": 2,
+      "subject": "Mathematics",
+      "q_hi": "एक दुकानदार एक वस्तु को 10% हानि पर बेचता है। यदि उसने इसे ₹50 अधिक में बेचा होता, तो उसे 10% लाभ होता। क्रय मूल्य क्या है?",
+      "opts_hi": [
+        "₹200",
+        "₹225",
+        "₹250",
+        "₹275"
+      ],
+      "exp_en": "Let CP = x. SP1 = 0.9x, SP2 = 1.1x. Difference = 1.1x - 0.9x = 0.2x = 50 → x = 250.",
+      "exp_hi": "माना क्रय मूल्य = x. विक्रय1 = 0.9x, विक्रय2 = 1.1x। अंतर = 1.1x - 0.9x = 0.2x = 50 → x = 250।"
+    },
+    {
+      "q": "A train covers a distance of 360 km in 6 hours. What is its speed in m/s?",
+      "opts": [
+        "15 m/s",
+        "16.67 m/s",
+        "20 m/s",
+        "18 m/s"
+      ],
+      "ans": 1,
+      "subject": "Mathematics",
+      "q_hi": "एक ट्रेन 360 किमी की दूरी 6 घंटे में तय करती है। इसकी चाल मी/से में क्या है?",
+      "opts_hi": [
+        "15 मी/से",
+        "16.67 मी/से",
+        "20 मी/से",
+        "18 मी/से"
+      ],
+      "exp_en": "Speed = 360/6 = 60 km/h. Convert to m/s: 60 × 5/18 = 300/18 = 16.67 m/s.",
+      "exp_hi": "चाल = 360/6 = 60 किमी/घंटा। मी/से में बदलें: 60 × 5/18 = 300/18 = 16.67 मी/से।"
+    },
+    {
+      "q": "If the price of a product increases by 20% and becomes ₹600, what was the original price?",
+      "opts": [
+        "₹480",
+        "₹500",
+        "₹520",
+        "₹540"
+      ],
+      "ans": 1,
+      "subject": "Mathematics",
+      "q_hi": "यदि किसी वस्तु की कीमत में 20% की वृद्धि होती है और वह ₹600 हो जाती है, तो मूल कीमत क्या थी?",
+      "opts_hi": [
+        "₹480",
+        "₹500",
+        "₹520",
+        "₹540"
+      ],
+      "exp_en": "Original price × 1.20 = 600 → Original = 600/1.20 = ₹500.",
+      "exp_hi": "मूल कीमत × 1.20 = 600 → मूल = 600/1.20 = ₹500।"
+    },
+    {
+      "q": "In a class of 50 students, 30% are girls. How many boys are there?",
+      "opts": [
+        "30",
+        "35",
+        "40",
+        "45"
+      ],
+      "ans": 1,
+      "subject": "Mathematics",
+      "q_hi": "50 छात्रों की एक कक्षा में, 30% लड़कियाँ हैं। कितने लड़के हैं?",
+      "opts_hi": [
+        "30",
+        "35",
+        "40",
+        "45"
+      ],
+      "exp_en": "Girls = 30% of 50 = 15. Boys = 50 - 15 = 35.",
+      "exp_hi": "लड़कियाँ = 50 का 30% = 15। लड़के = 50 - 15 = 35।"
+    },
+    {
+      "q": "A man buys a watch for ₹1200 and sells it at a loss of 15%. What is the selling price?",
+      "opts": [
+        "₹980",
+        "₹1000",
+        "₹1020",
+        "₹1050"
+      ],
+      "ans": 2,
+      "subject": "Mathematics",
+      "q_hi": "एक व्यक्ति ₹1200 में एक घड़ी खरीदता है और 15% हानि पर बेचता है। विक्रय मूल्य क्या है?",
+      "opts_hi": [
+        "₹980",
+        "₹1000",
+        "₹1020",
+        "₹1050"
+      ],
+      "exp_en": "SP = CP × (100 - Loss%)/100 = 1200 × 85/100 = ₹1020.",
+      "exp_hi": "विक्रय मूल्य = क्रय मूल्य × (100 - हानि%)/100 = 1200 × 85/100 = ₹1020।"
+    },
+    {
+      "q": "A shopkeeper sold an article for ₹840 at a profit of 20%. What was the cost price of the article?",
+      "opts": [
+        "₹600",
+        "₹650",
+        "₹700",
+        "₹750"
+      ],
+      "ans": 2,
+      "subject": "Mathematics",
+      "q_hi": "एक दुकानदार ने एक वस्तु को 20% लाभ पर ₹840 में बेचा। वस्तु का क्रय मूल्य क्या था?",
+      "opts_hi": [
+        "₹600",
+        "₹650",
+        "₹700",
+        "₹750"
+      ],
+      "exp_en": "SP = CP × (100 + Profit%)/100 → 840 = CP × 1.20 → CP = 840/1.20 = ₹700.",
+      "exp_hi": "विक्रय मूल्य = क्रय मूल्य × (100 + लाभ%)/100 → 840 = क्रय मूल्य × 1.20 → क्रय मूल्य = 840/1.20 = ₹700।"
+    },
+    {
+      "q": "A car travels 240 km in 4 hours. What is its speed?",
+      "opts": [
+        "50 km/h",
+        "55 km/h",
+        "60 km/h",
+        "65 km/h"
+      ],
+      "ans": 2,
+      "subject": "Mathematics",
+      "q_hi": "एक कार 240 किमी की दूरी 4 घंटे में तय करती है। इसकी चाल क्या है?",
+      "opts_hi": [
+        "50 किमी/घंटा",
+        "55 किमी/घंटा",
+        "60 किमी/घंटा",
+        "65 किमी/घंटा"
+      ],
+      "exp_en": "Speed = Distance/Time = 240/4 = 60 km/h.",
+      "exp_hi": "चाल = दूरी/समय = 240/4 = 60 किमी/घंटा।"
+    },
+    {
+      "q": "A train 150 m long crosses a pole in 10 seconds. What is the speed of the train?",
+      "opts": [
+        "54 km/h",
+        "60 km/h",
+        "72 km/h",
+        "80 km/h"
+      ],
+      "ans": 0,
+      "subject": "Mathematics",
+      "q_hi": "150 मी लंबी एक ट्रेन एक खंभे को 10 सेकंड में पार करती है। ट्रेन की चाल क्या है?",
+      "opts_hi": [
+        "54 किमी/घंटा",
+        "60 किमी/घंटा",
+        "72 किमी/घंटा",
+        "80 किमी/घंटा"
+      ],
+      "exp_en": "Speed = Distance/Time = 150/10 = 15 m/s = 15 × 18/5 = 54 km/h.",
+      "exp_hi": "चाल = दूरी/समय = 150/10 = 15 मी/से = 15 × 18/5 = 54 किमी/घंटा।"
+    },
+    {
+      "q": "A man walks at 5 km/h for 3 hours and then at 4 km/h for 2 hours. What is his average speed?",
+      "opts": [
+        "4.2 km/h",
+        "4.4 km/h",
+        "4.6 km/h",
+        "4.8 km/h"
+      ],
+      "ans": 2,
+      "subject": "Mathematics",
+      "q_hi": "एक व्यक्ति 3 घंटे तक 5 किमी/घंटा की चाल से चलता है और फिर 2 घंटे तक 4 किमी/घंटा की चाल से चलता है। उसकी औसत चाल क्या है?",
+      "opts_hi": [
+        "4.2 किमी/घंटा",
+        "4.4 किमी/घंटा",
+        "4.6 किमी/घंटा",
+        "4.8 किमी/घंटा"
+      ],
+      "exp_en": "Total distance = (5×3) + (4×2) = 15 + 8 = 23 km. Total time = 5 h. Average speed = 23/5 = 4.6 km/h.",
+      "exp_hi": "कुल दूरी = (5×3) + (4×2) = 15 + 8 = 23 किमी। कुल समय = 5 घंटे। औसत चाल = 23/5 = 4.6 किमी/घंटा।"
+    },
+    {
+      "q": "What is the simple interest on ₹8000 at 12% per annum for 2 years?",
+      "opts": [
+        "₹1600",
+        "₹1800",
+        "₹1920",
+        "₹2000"
+      ],
+      "ans": 2,
+      "subject": "Mathematics",
+      "q_hi": "₹8000 पर 12% वार्षिक दर से 2 वर्षों का साधारण ब्याज क्या है?",
+      "opts_hi": [
+        "₹1600",
+        "₹1800",
+        "₹1920",
+        "₹2000"
+      ],
+      "exp_en": "SI = (P × R × T)/100 = (8000 × 12 × 2)/100 = ₹1920.",
+      "exp_hi": "साधारण ब्याज = (P × R × T)/100 = (8000 × 12 × 2)/100 = ₹1920।"
+    },
+    {
+      "q": "What is the compound interest on ₹10000 at 10% per annum compounded half-yearly for 1 year?",
+      "opts": [
+        "₹1000",
+        "₹1025",
+        "₹1050",
+        "₹1100"
+      ],
+      "ans": 1,
+      "subject": "Mathematics",
+      "q_hi": "₹10000 पर 10% वार्षिक दर से अर्धवार्षिक रूप से संयोजित 1 वर्ष का चक्रवृद्धि ब्याज क्या है?",
+      "opts_hi": [
+        "₹1000",
+        "₹1025",
+        "₹1050",
+        "₹1100"
+      ],
+      "exp_en": "Rate per half-year = 10/2 = 5%, Time = 2 half-years. Amount = 10000(1 + 5/100)² = 10000 × 1.05² = 10000 × 1.1025 = 11025. CI = 11025 - 10000 = ₹1025.",
+      "exp_hi": "अर्धवार्षिक दर = 10/2 = 5%, समय = 2 अर्धवर्ष। मिश्रधन = 10000(1 + 5/100)² = 10000 × 1.05² = 10000 × 1.1025 = 11025। चक्रवृद्धि ब्याज = 11025 - 10000 = ₹1025।"
+    },
+    {
+      "q": "If A : B = 3 : 4 and B : C = 6 : 7, find A : C.",
+      "opts": [
+        "3 : 7",
+        "9 : 14",
+        "9 : 7",
+        "6 : 7"
+      ],
+      "ans": 1,
+      "subject": "Mathematics",
+      "q_hi": "यदि A : B = 3 : 4 और B : C = 6 : 7 है, तो A : C ज्ञात करें।",
+      "opts_hi": [
+        "3 : 7",
+        "9 : 14",
+        "9 : 7",
+        "6 : 7"
+      ],
+      "exp_en": "A/B = 3/4, B/C = 6/7. Multiply: A/C = (3/4) × (6/7) = 18/28 = 9/14 → A : C = 9 : 14.",
+      "exp_hi": "A/B = 3/4, B/C = 6/7. गुणा करें: A/C = (3/4) × (6/7) = 18/28 = 9/14 → A : C = 9 : 14।"
+    },
+    {
+      "q": "If x : y = 4 : 5, find (3x + 2y) : (4x + 3y).",
+      "opts": [
+        "22 : 31",
+        "23 : 30",
+        "24 : 29",
+        "25 : 28"
+      ],
+      "ans": 0,
+      "subject": "Mathematics",
+      "q_hi": "यदि x : y = 4 : 5 है, तो (3x + 2y) : (4x + 3y) ज्ञात करें।",
+      "opts_hi": [
+        "22 : 31",
+        "23 : 30",
+        "24 : 29",
+        "25 : 28"
+      ],
+      "exp_en": "Let x = 4k, y = 5k. (3×4k + 2×5k) : (4×4k + 3×5k) = (12k+10k) : (16k+15k) = 22k : 31k = 22 : 31.",
+      "exp_hi": "माना x = 4k, y = 5k. (3×4k + 2×5k) : (4×4k + 3×5k) = (12k+10k) : (16k+15k) = 22k : 31k = 22 : 31।"
+    },
+    {
+      "q": "What is the LCM of 15, 20 and 30?",
+      "opts": [
+        "40",
+        "50",
+        "60",
+        "70"
+      ],
+      "ans": 2,
+      "subject": "Mathematics",
+      "q_hi": "15, 20 और 30 का LCM क्या है?",
+      "opts_hi": [
+        "40",
+        "50",
+        "60",
+        "70"
+      ],
+      "exp_en": "Prime factors: 15=3×5, 20=2²×5, 30=2×3×5. LCM = 2²×3×5 = 60.",
+      "exp_hi": "अभाज्य गुणनखंड: 15=3×5, 20=2²×5, 30=2×3×5. LCM = 2²×3×5 = 60।"
+    },
+    {
+      "q": "What is the HCF of 210 and 315?",
+      "opts": [
+        "95",
+        "105",
+        "115",
+        "125"
+      ],
+      "ans": 1,
+      "subject": "Mathematics",
+      "q_hi": "210 और 315 का HCF क्या है?",
+      "opts_hi": [
+        "95",
+        "105",
+        "115",
+        "125"
+      ],
+      "exp_en": "210 = 2×3×5×7, 315 = 3×3×5×7 = 3²×5×7. HCF = 3×5×7 = 105.",
+      "exp_hi": "210 = 2×3×5×7, 315 = 3×3×5×7 = 3²×5×7. HCF = 3×5×7 = 105।"
+    },
+    {
+      "q": "Which of the following is a composite number?",
+      "opts": [
+        "11",
+        "13",
+        "15",
+        "17"
+      ],
+      "ans": 2,
+      "subject": "Mathematics",
+      "q_hi": "निम्नलिखित में से कौन सी भाज्य संख्या है?",
+      "opts_hi": [
+        "11",
+        "13",
+        "15",
+        "17"
+      ],
+      "exp_en": "15 is a composite number as it has factors other than 1 and itself (3 and 5). 11, 13 and 17 are prime numbers.",
+      "exp_hi": "15 एक भाज्य संख्या है क्योंकि इसके 1 और स्वयं के अलावा अन्य गुणनखंड (3 और 5) हैं। 11, 13 और 17 अभाज्य संख्याएँ हैं।"
+    },
+    {
+      "q": "If x + 1/x = 4, find x² + 1/x².",
+      "opts": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "ans": 2,
+      "subject": "Mathematics",
+      "q_hi": "यदि x + 1/x = 4 है, तो x² + 1/x² ज्ञात करें।",
+      "opts_hi": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "exp_en": "x² + 1/x² = (x + 1/x)² - 2 = 4² - 2 = 16 - 2 = 14.",
+      "exp_hi": "x² + 1/x² = (x + 1/x)² - 2 = 4² - 2 = 16 - 2 = 14।"
+    },
+    {
+      "q": "If x + y = 15 and xy = 56, find x² + y².",
+      "opts": [
+        "109",
+        "111",
+        "113",
+        "115"
+      ],
+      "ans": 2,
+      "subject": "Mathematics",
+      "q_hi": "यदि x + y = 15 और xy = 56 है, तो x² + y² ज्ञात करें।",
+      "opts_hi": [
+        "109",
+        "111",
+        "113",
+        "115"
+      ],
+      "exp_en": "x² + y² = (x + y)² - 2xy = 15² - 2×56 = 225 - 112 = 113.",
+      "exp_hi": "x² + y² = (x + y)² - 2xy = 15² - 2×56 = 225 - 112 = 113।"
+    },
+    {
+      "q": "Solve: 2x + 7 = 19. Find x.",
+      "opts": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "ans": 2,
+      "subject": "Mathematics",
+      "q_hi": "हल करें: 2x + 7 = 19. x ज्ञात करें।",
+      "opts_hi": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "exp_en": "2x = 19 - 7 = 12 → x = 12/2 = 6.",
+      "exp_hi": "2x = 19 - 7 = 12 → x = 12/2 = 6।"
+    },
+    {
+      "q": "What is the area of a rectangle of length 12 cm and breadth 8 cm?",
+      "opts": [
+        "80 cm²",
+        "88 cm²",
+        "96 cm²",
+        "104 cm²"
+      ],
+      "ans": 2,
+      "subject": "Mathematics",
+      "q_hi": "12 सेमी लंबाई और 8 सेमी चौड़ाई वाले आयत का क्षेत्रफल क्या है?",
+      "opts_hi": [
+        "80 सेमी²",
+        "88 सेमी²",
+        "96 सेमी²",
+        "104 सेमी²"
+      ],
+      "exp_en": "Area = length × breadth = 12 × 8 = 96 cm².",
+      "exp_hi": "क्षेत्रफल = लंबाई × चौड़ाई = 12 × 8 = 96 सेमी²।"
+    },
+    {
+      "q": "What is the total surface area of a cube of side 5 cm?",
+      "opts": [
+        "125 cm²",
+        "150 cm²",
+        "175 cm²",
+        "200 cm²"
+      ],
+      "ans": 1,
+      "subject": "Mathematics",
+      "q_hi": "5 सेमी भुजा वाले घन का कुल पृष्ठीय क्षेत्रफल क्या है?",
+      "opts_hi": [
+        "125 सेमी²",
+        "150 सेमी²",
+        "175 सेमी²",
+        "200 सेमी²"
+      ],
+      "exp_en": "Total surface area of cube = 6 × side² = 6 × 5² = 6 × 25 = 150 cm².",
+      "exp_hi": "घन का कुल पृष्ठीय क्षेत्रफल = 6 × भुजा² = 6 × 5² = 6 × 25 = 150 सेमी²।"
+    },
+    {
+      "q": "What is the circumference of a circle of radius 14 cm?",
+      "opts": [
+        "88 cm",
+        "84 cm",
+        "92 cm",
+        "96 cm"
+      ],
+      "ans": 0,
+      "subject": "Mathematics",
+      "q_hi": "14 सेमी त्रिज्या वाले वृत्त की परिधि क्या है?",
+      "opts_hi": [
+        "88 सेमी",
+        "84 सेमी",
+        "92 सेमी",
+        "96 सेमी"
+      ],
+      "exp_en": "Circumference = 2πr = 2 × 22/7 × 14 = 88 cm.",
+      "exp_hi": "परिधि = 2πr = 2 × 22/7 × 14 = 88 सेमी।"
+    },
+    {
+      "q": "What is the value of sin²θ + cos²θ?",
+      "opts": [
+        "0",
+        "0.5",
+        "1",
+        "1.5"
+      ],
+      "ans": 2,
+      "subject": "Mathematics",
+      "q_hi": "sin²θ + cos²θ का मान क्या है?",
+      "opts_hi": [
+        "0",
+        "0.5",
+        "1",
+        "1.5"
+      ],
+      "exp_en": "sin²θ + cos²θ = 1. This is a fundamental trigonometric identity.",
+      "exp_hi": "sin²θ + cos²θ = 1। यह एक मौलिक त्रिकोणमितीय सर्वसमिका है।"
+    },
+    {
+      "q": "What is the value of sin 45°?",
+      "opts": [
+        "0",
+        "1/2",
+        "1/√2",
+        "√3/2"
+      ],
+      "ans": 2,
+      "subject": "Mathematics",
+      "q_hi": "sin 45° का मान क्या है?",
+      "opts_hi": [
+        "0",
+        "1/2",
+        "1/√2",
+        "√3/2"
+      ],
+      "exp_en": "sin 45° = 1/√2. This is a standard trigonometric value.",
+      "exp_hi": "sin 45° = 1/√2। यह एक मानक त्रिकोणमितीय मान है।"
+    },
+    {
+      "q": "The average of 7 numbers is 30. If two numbers 20 and 30 are removed, what is the new average?",
+      "opts": [
+        "30",
+        "31",
+        "32",
+        "33"
+      ],
+      "ans": 2,
+      "subject": "Mathematics",
+      "q_hi": "7 संख्याओं का औसत 30 है। यदि दो संख्याएँ 20 और 30 हटा दी जाती हैं, तो नया औसत क्या है?",
+      "opts_hi": [
+        "30",
+        "31",
+        "32",
+        "33"
+      ],
+      "exp_en": "Sum of 7 numbers = 7 × 30 = 210. Remaining sum = 210 - 20 - 30 = 160. New average = 160/5 = 32.",
+      "exp_hi": "7 संख्याओं का योग = 7 × 30 = 210। शेष योग = 210 - 20 - 30 = 160। नया औसत = 160/5 = 32।"
+    },
+    {
+      "q": "The average of 4 numbers is 18. What is the sum of the numbers?",
+      "opts": [
+        "72",
+        "74",
+        "76",
+        "78"
+      ],
+      "ans": 0,
+      "subject": "Mathematics",
+      "q_hi": "4 संख्याओं का औसत 18 है। संख्याओं का योग क्या है?",
+      "opts_hi": [
+        "72",
+        "74",
+        "76",
+        "78"
+      ],
+      "exp_en": "Sum = Average × Number of items = 18 × 4 = 72.",
+      "exp_hi": "योग = औसत × पदों की संख्या = 18 × 4 = 72।"
+    },
+    {
+      "q": "If 15% of a number is 45, what is the number?",
+      "opts": [
+        "200",
+        "250",
+        "300",
+        "350"
+      ],
+      "ans": 2,
+      "subject": "Mathematics",
+      "q_hi": "यदि किसी संख्या का 15% 45 है, तो वह संख्या क्या है?",
+      "opts_hi": [
+        "200",
+        "250",
+        "300",
+        "350"
+      ],
+      "exp_en": "15% of x = 45 → x = 45 × 100/15 = 300.",
+      "exp_hi": "संख्या का 15% = 45 → x = 45 × 100/15 = 300।"
+    },
+    {
+      "q": "If the price of a commodity is decreased by 20% and its consumption is increased by 30%, what is the net effect on expenditure?",
+      "opts": [
+        "4% increase",
+        "4% decrease",
+        "6% increase",
+        "6% decrease"
+      ],
+      "ans": 0,
+      "subject": "Mathematics",
+      "q_hi": "यदि किसी वस्तु की कीमत में 20% की कमी की जाती है और उसकी खपत में 30% की वृद्धि की जाती है, तो व्यय पर शुद्ध प्रभाव क्या होगा?",
+      "opts_hi": [
+        "4% वृद्धि",
+        "4% कमी",
+        "6% वृद्धि",
+        "6% कमी"
+      ],
+      "exp_en": "Net change = a + b + (ab/100) = -20 + 30 + (-20×30/100) = 10 - 6 = 4% increase.",
+      "exp_hi": "शुद्ध परिवर्तन = a + b + (ab/100) = -20 + 30 + (-20×30/100) = 10 - 6 = 4% वृद्धि।"
+    },
+    {
+      "q": "The population of a town increases by 10% annually. If the current population is 121000, what was it 2 years ago?",
+      "opts": [
+        "100000",
+        "110000",
+        "105000",
+        "95000"
+      ],
+      "ans": 0,
+      "subject": "Mathematics",
+      "q_hi": "एक शहर की जनसंख्या वार्षिक 10% बढ़ती है। यदि वर्तमान जनसंख्या 121000 है, तो 2 वर्ष पूर्व यह क्या थी?",
+      "opts_hi": [
+        "100000",
+        "110000",
+        "105000",
+        "95000"
+      ],
+      "exp_en": "Population after 2 years = P × (1.10)² = 121000 → P = 121000 / 1.21 = 100000.",
+      "exp_hi": "2 वर्ष बाद जनसंख्या = P × (1.10)² = 121000 → P = 121000 / 1.21 = 100000।"
+    },
+    {
+      "q": "An article is sold at a profit of 20%. If the cost price is ₹500, what is the selling price?",
+      "opts": [
+        "₹550",
+        "₹580",
+        "₹600",
+        "₹650"
+      ],
+      "ans": 2,
+      "subject": "Mathematics",
+      "q_hi": "एक वस्तु को 20% लाभ पर बेचा जाता है। यदि क्रय मूल्य ₹500 है, तो विक्रय मूल्य क्या है?",
+      "opts_hi": [
+        "₹550",
+        "₹580",
+        "₹600",
+        "₹650"
+      ],
+      "exp_en": "SP = CP × (100 + Profit%)/100 = 500 × 120/100 = ₹600.",
+      "exp_hi": "विक्रय मूल्य = क्रय मूल्य × (100 + लाभ%)/100 = 500 × 120/100 = ₹600।"
+    },
+    {
+      "q": "A shopkeeper sells an item at a loss of 10%. If he had sold it for ₹50 more, he would have gained 10%. What is the cost price?",
+      "opts": [
+        "₹200",
+        "₹225",
+        "₹250",
+        "₹275"
+      ],
+      "ans": 2,
+      "subject": "Mathematics",
+      "q_hi": "एक दुकानदार एक वस्तु को 10% हानि पर बेचता है। यदि उसने इसे ₹50 अधिक में बेचा होता, तो उसे 10% लाभ होता। क्रय मूल्य क्या है?",
+      "opts_hi": [
+        "₹200",
+        "₹225",
+        "₹250",
+        "₹275"
+      ],
+      "exp_en": "Let CP = x. SP1 = 0.9x, SP2 = 1.1x. Difference = 1.1x - 0.9x = 0.2x = 50 → x = 250.",
+      "exp_hi": "माना CP = x. SP1 = 0.9x, SP2 = 1.1x. अंतर = 1.1x - 0.9x = 0.2x = 50 → x = 250।"
+    },
+    {
+      "q": "Two trains of lengths 300 m and 400 m are running on parallel tracks in the same direction at speeds of 40 km/h and 60 km/h. How long will the faster train take to cross the slower train?",
+      "opts": [
+        "120 sec",
+        "126 sec",
+        "130 sec",
+        "140 sec"
+      ],
+      "ans": 1,
+      "subject": "Mathematics",
+      "q_hi": "300 मी और 400 मी लंबाई की दो ट्रेनें समानांतर पटरियों पर एक ही दिशा में 40 किमी/घंटा और 60 किमी/घंटा की चाल से चल रही हैं। तेज ट्रेन धीमी ट्रेन को पार करने में कितना समय लेगी?",
+      "opts_hi": [
+        "120 सेकंड",
+        "126 सेकंड",
+        "130 सेकंड",
+        "140 सेकंड"
+      ],
+      "exp_en": "Relative speed = 60 - 40 = 20 km/h = 20 × 5/18 = 50/9 m/s. Total distance = 300 + 400 = 700 m. Time = 700 / (50/9) = 700 × 9/50 = 6300/50 = 126 sec.",
+      "exp_hi": "सापेक्ष चाल = 60 - 40 = 20 किमी/घंटा = 20 × 5/18 = 50/9 मी/से। कुल दूरी = 300 + 400 = 700 मी। समय = 700 / (50/9) = 700 × 9/50 = 6300/50 = 126 सेकंड।"
+    },
+    {
+      "q": "A man covers a distance of 60 km at a speed of 30 km/h and returns at a speed of 20 km/h. What is the average speed for the whole journey?",
+      "opts": [
+        "20 km/h",
+        "24 km/h",
+        "25 km/h",
+        "28 km/h"
+      ],
+      "ans": 1,
+      "subject": "Mathematics",
+      "q_hi": "एक व्यक्ति 60 किमी की दूरी 30 किमी/घंटा की चाल से तय करता है और 20 किमी/घंटा की चाल से वापस आता है। पूरी यात्रा की औसत चाल क्या है?",
+      "opts_hi": [
+        "20 किमी/घंटा",
+        "24 किमी/घंटा",
+        "25 किमी/घंटा",
+        "28 किमी/घंटा"
+      ],
+      "exp_en": "Average speed = 2xy/(x+y) = 2×30×20/(30+20) = 1200/50 = 24 km/h.",
+      "exp_hi": "औसत चाल = 2xy/(x+y) = 2×30×20/(30+20) = 1200/50 = 24 किमी/घंटा।"
+    },
+    {
+      "q": "What is the compound interest on ₹5000 at 10% per annum compounded half-yearly for 1.5 years?",
+      "opts": [
+        "₹768",
+        "₹788",
+        "₹798",
+        "₹818"
+      ],
+      "ans": 1,
+      "subject": "Mathematics",
+      "q_hi": "₹5000 पर 10% वार्षिक दर से अर्धवार्षिक रूप से संयोजित 1.5 वर्षों का चक्रवृद्धि ब्याज क्या है?",
+      "opts_hi": [
+        "₹768",
+        "₹788",
+        "₹798",
+        "₹818"
+      ],
+      "exp_en": "Rate per half-year = 10/2 = 5%, Time = 1.5 × 2 = 3 half-years. Amount = 5000(1 + 5/100)³ = 5000 × (1.05)³ = 5000 × 1.157625 = 5788.125. CI = 5788.125 - 5000 = ₹788.125 ≈ ₹788.",
+      "exp_hi": "अर्धवार्षिक दर = 10/2 = 5%, समय = 1.5 × 2 = 3 अर्धवर्ष। मिश्रधन = 5000(1 + 5/100)³ = 5000 × (1.05)³ = 5000 × 1.157625 = 5788.125। CI = 5788.125 - 5000 = ₹788.125 ≈ ₹788।"
+    },
+    {
+      "q": "The difference between compound interest and simple interest on ₹10000 at 10% per annum for 2 years is?",
+      "opts": [
+        "₹50",
+        "₹100",
+        "₹150",
+        "₹200"
+      ],
+      "ans": 1,
+      "subject": "Mathematics",
+      "q_hi": "₹10000 पर 10% वार्षिक दर से 2 वर्षों के चक्रवृद्धि ब्याज और साधारण ब्याज के बीच अंतर क्या है?",
+      "opts_hi": [
+        "₹50",
+        "₹100",
+        "₹150",
+        "₹200"
+      ],
+      "exp_en": "SI = (10000×10×2)/100 = 2000. CI = 10000(1+0.1)² - 10000 = 10000×1.21 - 10000 = 12100 - 10000 = 2100. Difference = 2100 - 2000 = ₹100.",
+      "exp_hi": "साधारण ब्याज = (10000×10×2)/100 = 2000. चक्रवृद्धि ब्याज = 10000(1+0.1)² - 10000 = 10000×1.21 - 10000 = 12100 - 10000 = 2100. अंतर = 2100 - 2000 = ₹100।"
+    },
+    {
+      "q": "If x : y = 5 : 7, find (5x + 3y) : (3x + 2y).",
+      "opts": [
+        "5 : 6",
+        "6 : 7",
+        "46 : 29",
+        "47 : 30"
+      ],
+      "ans": 2,
+      "subject": "Mathematics",
+      "q_hi": "यदि x : y = 5 : 7 है, तो (5x + 3y) : (3x + 2y) ज्ञात करें।",
+      "opts_hi": [
+        "5 : 6",
+        "6 : 7",
+        "46 : 29",
+        "47 : 30"
+      ],
+      "exp_en": "Let x = 5k, y = 7k. (5×5k + 3×7k) : (3×5k + 2×7k) = (25k+21k) : (15k+14k) = 46k : 29k = 46 : 29.",
+      "exp_hi": "माना x = 5k, y = 7k. (5×5k + 3×7k) : (3×5k + 2×7k) = (25k+21k) : (15k+14k) = 46k : 29k = 46 : 29।"
+    },
+    {
+      "q": "If x : y = 9 : 11, find (4x + 5y) : (6x + 7y).",
+      "opts": [
+        "89 : 131",
+        "91 : 133",
+        "90 : 132",
+        "88 : 130"
+      ],
+      "ans": 1,
+      "subject": "Mathematics",
+      "q_hi": "यदि x : y = 9 : 11 है, तो (4x + 5y) : (6x + 7y) ज्ञात करें।",
+      "opts_hi": [
+        "89 : 131",
+        "91 : 133",
+        "90 : 132",
+        "88 : 130"
+      ],
+      "exp_en": "Let x = 9k, y = 11k. (4×9k + 5×11k) : (6×9k + 7×11k) = (36k+55k) : (54k+77k) = 91k : 131k = 91 : 131.",
+      "exp_hi": "माना x = 9k, y = 11k. (4×9k + 5×11k) : (6×9k + 7×11k) = (36k+55k) : (54k+77k) = 91k : 131k = 91 : 131।"
+    },
+    {
+      "q": "What is the HCF of 144 and 180?",
+      "opts": [
+        "24",
+        "30",
+        "36",
+        "42"
+      ],
+      "ans": 2,
+      "subject": "Mathematics",
+      "q_hi": "144 और 180 का HCF क्या है?",
+      "opts_hi": [
+        "24",
+        "30",
+        "36",
+        "42"
+      ],
+      "exp_en": "144 = 2⁴×3², 180 = 2²×3²×5. HCF = 2²×3² = 4×9 = 36.",
+      "exp_hi": "144 = 2⁴×3², 180 = 2²×3²×5. HCF = 2²×3² = 4×9 = 36।"
+    },
+    {
+      "q": "What is the smallest number divisible by 12, 15 and 18?",
+      "opts": [
+        "120",
+        "150",
+        "180",
+        "210"
+      ],
+      "ans": 2,
+      "subject": "Mathematics",
+      "q_hi": "12, 15 और 18 से विभाज्य सबसे छोटी संख्या क्या है?",
+      "opts_hi": [
+        "120",
+        "150",
+        "180",
+        "210"
+      ],
+      "exp_en": "The smallest number divisible by given numbers is the LCM. 12=2²×3, 15=3×5, 18=2×3². LCM = 2²×3²×5 = 4×9×5 = 180.",
+      "exp_hi": "दी गई संख्याओं से विभाज्य सबसे छोटी संख्या LCM है। 12=2²×3, 15=3×5, 18=2×3². LCM = 2²×3²×5 = 4×9×5 = 180।"
+    },
+    {
+      "q": "Which of the following is a prime number?",
+      "opts": [
+        "51",
+        "57",
+        "61",
+        "63"
+      ],
+      "ans": 2,
+      "subject": "Mathematics",
+      "q_hi": "निम्नलिखित में से कौन सी अभाज्य संख्या है?",
+      "opts_hi": [
+        "51",
+        "57",
+        "61",
+        "63"
+      ],
+      "exp_en": "61 is a prime number as it has only two factors: 1 and 61. 51=3×17, 57=3×19, 63=7×9.",
+      "exp_hi": "61 एक अभाज्य संख्या है क्योंकि इसके केवल दो गुणनखंड हैं: 1 और 61. 51=3×17, 57=3×19, 63=7×9."
+    },
+    {
+      "q": "If x + 1/x = 5, find x³ + 1/x³.",
+      "opts": [
+        "100",
+        "105",
+        "110",
+        "115"
+      ],
+      "ans": 2,
+      "subject": "Mathematics",
+      "q_hi": "यदि x + 1/x = 5 है, तो x³ + 1/x³ ज्ञात करें।",
+      "opts_hi": [
+        "100",
+        "105",
+        "110",
+        "115"
+      ],
+      "exp_en": "x³ + 1/x³ = (x + 1/x)³ - 3(x + 1/x) = 5³ - 3×5 = 125 - 15 = 110.",
+      "exp_hi": "x³ + 1/x³ = (x + 1/x)³ - 3(x + 1/x) = 5³ - 3×5 = 125 - 15 = 110।"
+    },
+    {
+      "q": "If x + y = 15 and xy = 56, find x - y (where x > y).",
+      "opts": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "ans": 0,
+      "subject": "Mathematics",
+      "q_hi": "यदि x + y = 15 और xy = 56 है, तो x - y ज्ञात करें (जहाँ x > y).",
+      "opts_hi": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "exp_en": "(x - y)² = (x + y)² - 4xy = 15² - 4×56 = 225 - 224 = 1 → x - y = 1.",
+      "exp_hi": "(x - y)² = (x + y)² - 4xy = 15² - 4×56 = 225 - 224 = 1 → x - y = 1।"
+    },
+    {
+      "q": "Solve: 4x + 3 = 23. Find x.",
+      "opts": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "ans": 2,
+      "subject": "Mathematics",
+      "q_hi": "हल करें: 4x + 3 = 23. x ज्ञात करें।",
+      "opts_hi": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "exp_en": "4x = 23 - 3 = 20 → x = 20/4 = 5.",
+      "exp_hi": "4x = 23 - 3 = 20 → x = 20/4 = 5।"
+    },
+    {
+      "q": "What is the volume of a cylinder with radius 7 cm and height 10 cm?",
+      "opts": [
+        "1540 cm³",
+        "15400 cm³",
+        "1480 cm³",
+        "1450 cm³"
+      ],
+      "ans": 0,
+      "subject": "Mathematics",
+      "q_hi": "7 सेमी त्रिज्या और 10 सेमी ऊँचाई वाले बेलन का आयतन क्या है?",
+      "opts_hi": [
+        "1540 सेमी³",
+        "15400 सेमी³",
+        "1480 सेमी³",
+        "1450 सेमी³"
+      ],
+      "exp_en": "Volume = πr²h = 22/7 × 7 × 7 × 10 = 1540 cm³.",
+      "exp_hi": "आयतन = πr²h = 22/7 × 7 × 7 × 10 = 1540 सेमी³।"
+    },
+    {
+      "q": "What is the total surface area of a cylinder of radius 7 cm and height 10 cm?",
+      "opts": [
+        "748 cm²",
+        "728 cm²",
+        "738 cm²",
+        "758 cm²"
+      ],
+      "ans": 0,
+      "subject": "Mathematics",
+      "q_hi": "7 सेमी त्रिज्या और 10 सेमी ऊँचाई वाले बेलन का कुल पृष्ठीय क्षेत्रफल क्या है?",
+      "opts_hi": [
+        "748 सेमी²",
+        "728 सेमी²",
+        "738 सेमी²",
+        "758 सेमी²"
+      ],
+      "exp_en": "Total surface area = 2πr(r + h) = 2 × 22/7 × 7 × (7 + 10) = 44 × 17 = 748 cm².",
+      "exp_hi": "कुल पृष्ठीय क्षेत्रफल = 2πr(r + h) = 2 × 22/7 × 7 × (7 + 10) = 44 × 17 = 748 सेमी²।"
+    },
+    {
+      "q": "What is the perimeter of a square of side 12 cm?",
+      "opts": [
+        "24 cm",
+        "36 cm",
+        "48 cm",
+        "60 cm"
+      ],
+      "ans": 2,
+      "subject": "Mathematics",
+      "q_hi": "12 सेमी भुजा वाले वर्ग का परिमाप क्या है?",
+      "opts_hi": [
+        "24 सेमी",
+        "36 सेमी",
+        "48 सेमी",
+        "60 सेमी"
+      ],
+      "exp_en": "Perimeter = 4 × side = 4 × 12 = 48 cm.",
+      "exp_hi": "परिमाप = 4 × भुजा = 4 × 12 = 48 सेमी।"
+    },
+    {
+      "q": "What is the value of sin 30° × cos 60°?",
+      "opts": [
+        "0.25",
+        "0.5",
+        "0.75",
+        "1"
+      ],
+      "ans": 0,
+      "subject": "Mathematics",
+      "q_hi": "sin 30° × cos 60° का मान क्या है?",
+      "opts_hi": [
+        "0.25",
+        "0.5",
+        "0.75",
+        "1"
+      ],
+      "exp_en": "sin 30° = 1/2, cos 60° = 1/2. Product = 1/2 × 1/2 = 1/4 = 0.25.",
+      "exp_hi": "sin 30° = 1/2, cos 60° = 1/2. गुणनफल = 1/2 × 1/2 = 1/4 = 0.25।"
+    },
+    {
+      "q": "What is the value of tan 45° × cot 45°?",
+      "opts": [
+        "0",
+        "0.5",
+        "1",
+        "2"
+      ],
+      "ans": 2,
+      "subject": "Mathematics",
+      "q_hi": "tan 45° × cot 45° का मान क्या है?",
+      "opts_hi": [
+        "0",
+        "0.5",
+        "1",
+        "2"
+      ],
+      "exp_en": "tan 45° = 1, cot 45° = 1. Product = 1 × 1 = 1.",
+      "exp_hi": "tan 45° = 1, cot 45° = 1. गुणनफल = 1 × 1 = 1।"
+    },
+    {
+      "q": "The average of 5 numbers is 20. If one number is removed, the average becomes 18. What is the removed number?",
+      "opts": [
+        "20",
+        "22",
+        "24",
+        "28"
+      ],
+      "ans": 3,
+      "subject": "Mathematics",
+      "q_hi": "5 संख्याओं का औसत 20 है। यदि एक संख्या हटा दी जाती है, तो औसत 18 हो जाता है। हटाई गई संख्या क्या है?",
+      "opts_hi": [
+        "20",
+        "22",
+        "24",
+        "28"
+      ],
+      "exp_en": "Sum of 5 numbers = 5 × 20 = 100. Sum of remaining 4 = 4 × 18 = 72. Removed number = 100 - 72 = 28.",
+      "exp_hi": "5 संख्याओं का योग = 5 × 20 = 100। शेष 4 का योग = 4 × 18 = 72। हटाई गई संख्या = 100 - 72 = 28।"
+    },
+    {
+      "q": "The average of 4 numbers is 18. What is the sum of the numbers?",
+      "opts": [
+        "72",
+        "74",
+        "76",
+        "78"
+      ],
+      "ans": 0,
+      "subject": "Mathematics",
+      "q_hi": "4 संख्याओं का औसत 18 है। संख्याओं का योग क्या है?",
+      "opts_hi": [
+        "72",
+        "74",
+        "76",
+        "78"
+      ],
+      "exp_en": "Sum = Average × Number of items = 18 × 4 = 72.",
+      "exp_hi": "योग = औसत × पदों की संख्या = 18 × 4 = 72।"
+    },
+    {
+      "q": "The sum of the angles of a triangle is:",
+      "opts": [
+        "180°",
+        "270°",
+        "360°",
+        "90°"
+      ],
+      "ans": 0,
+      "subject": "Mathematics",
+      "q_hi": "एक त्रिभुज के कोणों का योग होता है:",
+      "opts_hi": [
+        "180°",
+        "270°",
+        "360°",
+        "90°"
+      ],
+      "exp_en": "The sum of all three interior angles of a triangle is always 180°.",
+      "exp_hi": "एक त्रिभुज के तीनों अंतः कोणों का योग सदैव 180° होता है।"
+    },
+    {
+      "q": "The sum of the angles of a quadrilateral is:",
+      "opts": [
+        "180°",
+        "270°",
+        "360°",
+        "450°"
+      ],
+      "ans": 2,
+      "subject": "Mathematics",
+      "q_hi": "एक चतुर्भुज के कोणों का योग होता है:",
+      "opts_hi": [
+        "180°",
+        "270°",
+        "360°",
+        "450°"
+      ],
+      "exp_en": "The sum of all four interior angles of a quadrilateral is always 360°.",
+      "exp_hi": "एक चतुर्भुज के चारों अंतः कोणों का योग सदैव 360° होता है।"
+    },
+    {
       "q": "What is the square root of 144?",
       "q_hi": "144 का वर्गमूल क्या है?",
       "opts": [

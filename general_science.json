@@ -1,0 +1,1904 @@
+{
+  "questions": [
+    {
+      "q": "The refractive index of diamond is approximately:",
+      "opts": [
+        "1.33",
+        "2.42",
+        "1.52",
+        "2"
+      ],
+      "ans": 1,
+      "subject": "General Science",
+      "q_hi": "हीरे का अपवर्तनांक लगभग कितना है?",
+      "opts_hi": [
+        "1.33",
+        "2.42",
+        "1.52",
+        "2"
+      ],
+      "exp_en": "The refractive index of diamond is about 2.42, which gives it its characteristic brilliance and sparkle.",
+      "exp_hi": "हीरे का अपवर्तनांक लगभग 2.42 होता है, जो इसे इसकी विशिष्ट चमक और झलक देता है।"
+    },
+    {
+      "q": "What is the chemical formula of baking soda?",
+      "opts": [
+        "Na₂CO₃",
+        "NaHCO₃",
+        "NaCl",
+        "NaOH"
+      ],
+      "ans": 1,
+      "subject": "General Science",
+      "q_hi": "बेकिंग सोडा का रासायनिक सूत्र क्या है?",
+      "opts_hi": [
+        "Na₂CO₃",
+        "NaHCO₃",
+        "NaCl",
+        "NaOH"
+      ],
+      "exp_en": "Baking soda is sodium bicarbonate with chemical formula NaHCO₃.",
+      "exp_hi": "बेकिंग सोडा सोडियम बाइकार्बोनेट है जिसका रासायनिक सूत्र NaHCO₃ है।"
+    },
+    {
+      "q": "Which gas is known as laughing gas?",
+      "opts": [
+        "Nitrous oxide",
+        "Nitrogen dioxide",
+        "Carbon dioxide",
+        "Sulphur dioxide"
+      ],
+      "ans": 0,
+      "subject": "General Science",
+      "q_hi": "किस गैस को हंसाने वाली गैस कहा जाता है?",
+      "opts_hi": [
+        "नाइट्रस ऑक्साइड",
+        "नाइट्रोजन डाइऑक्साइड",
+        "कार्बन डाइऑक्साइड",
+        "सल्फर डाइऑक्साइड"
+      ],
+      "exp_en": "Nitrous oxide (N₂O) is commonly known as laughing gas due to its euphoric effects when inhaled.",
+      "exp_hi": "नाइट्रस ऑक्साइड (N₂O) को सामान्यतः हंसाने वाली गैस कहा जाता है क्योंकि इसके साँस लेने पर उत्साहजनक प्रभाव होता है।"
+    },
+    {
+      "q": "What is the pH of a 0.001 M HCl solution?",
+      "opts": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "ans": 2,
+      "subject": "General Science",
+      "q_hi": "0.001 M HCl विलयन का pH क्या है?",
+      "opts_hi": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "exp_en": "pH = -log[H⁺] = -log(10⁻³) = 3. HCl is a strong acid so [H⁺] = 0.001 M.",
+      "exp_hi": "pH = -log[H⁺] = -log(10⁻³) = 3। HCl प्रबल अम्ल है, अतः [H⁺] = 0.001 M।"
+    },
+    {
+      "q": "Which element is essential for the formation of haemoglobin?",
+      "opts": [
+        "Iron",
+        "Calcium",
+        "Potassium",
+        "Magnesium"
+      ],
+      "ans": 0,
+      "subject": "General Science",
+      "q_hi": "हीमोग्लोबिन के निर्माण के लिए कौन सा तत्व आवश्यक है?",
+      "opts_hi": [
+        "आयरन",
+        "कैल्शियम",
+        "पोटैशियम",
+        "मैग्नीशियम"
+      ],
+      "exp_en": "Iron is a key component of haemoglobin, which carries oxygen in the blood.",
+      "exp_hi": "आयरन हीमोग्लोबिन का मुख्य घटक है, जो रक्त में ऑक्सीजन का वहन करता है।"
+    },
+    {
+      "q": "Which of the following is an example of a chemical change?",
+      "opts": [
+        "Melting of ice",
+        "Rusting of iron",
+        "Boiling of water",
+        "Cutting of wood"
+      ],
+      "ans": 1,
+      "subject": "General Science",
+      "q_hi": "निम्नलिखित में से कौन सा रासायनिक परिवर्तन का उदाहरण है?",
+      "opts_hi": [
+        "बर्फ का पिघलना",
+        "लोहे का जंग लगना",
+        "पानी का उबलना",
+        "लकड़ी का कटना"
+      ],
+      "exp_en": "Rusting of iron is a chemical change as it forms a new substance (iron oxide). The others are physical changes.",
+      "exp_hi": "लोहे का जंग लगना रासायनिक परिवर्तन है क्योंकि इसमें नया पदार्थ (आयरन ऑक्साइड) बनता है। अन्य भौतिक परिवर्तन हैं।"
+    },
+    {
+      "q": "What is the mass of 1 mole of carbon dioxide (CO₂)?",
+      "opts": [
+        "44 g",
+        "28 g",
+        "32 g",
+        "40 g"
+      ],
+      "ans": 0,
+      "subject": "General Science",
+      "q_hi": "कार्बन डाइऑक्साइड (CO₂) के 1 मोल का द्रव्यमान क्या है?",
+      "opts_hi": [
+        "44 ग्राम",
+        "28 ग्राम",
+        "32 ग्राम",
+        "40 ग्राम"
+      ],
+      "exp_en": "Molar mass of CO₂ = 12 + (2×16) = 12 + 32 = 44 g/mol.",
+      "exp_hi": "CO₂ का मोलर द्रव्यमान = 12 + (2×16) = 12 + 32 = 44 ग्राम/मोल।"
+    },
+    {
+      "q": "Which gas is used in fire extinguishers?",
+      "opts": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "ans": 1,
+      "subject": "General Science",
+      "q_hi": "अग्निशामक में कौन सी गैस उपयोग की जाती है?",
+      "opts_hi": [
+        "ऑक्सीजन",
+        "कार्बन डाइऑक्साइड",
+        "नाइट्रोजन",
+        "हाइड्रोजन"
+      ],
+      "exp_en": "Carbon dioxide is used in fire extinguishers as it cuts off the oxygen supply and cools the fire.",
+      "exp_hi": "कार्बन डाइऑक्साइड का उपयोग अग्निशामक में किया जाता है क्योंकि यह ऑक्सीजन की आपूर्ति को काट देती है और आग को ठंडा करती है।"
+    },
+    {
+      "q": "Which vitamin is produced in the human body by sunlight?",
+      "opts": [
+        "Vitamin A",
+        "Vitamin B",
+        "Vitamin C",
+        "Vitamin D"
+      ],
+      "ans": 3,
+      "subject": "General Science",
+      "q_hi": "मानव शरीर में सूर्य के प्रकाश द्वारा कौन सा विटामिन निर्मित होता है?",
+      "opts_hi": [
+        "विटामिन ए",
+        "विटामिन बी",
+        "विटामिन सी",
+        "विटामिन डी"
+      ],
+      "exp_en": "Vitamin D is synthesized in the skin upon exposure to UV rays from sunlight.",
+      "exp_hi": "विटामिन डी सूर्य के प्रकाश से पराबैंगनी किरणों के संपर्क में आने पर त्वचा में संश्लेषित होता है।"
+    },
+    {
+      "q": "Which organ is known as the \"master gland\" of the body?",
+      "opts": [
+        "Thyroid",
+        "Pituitary",
+        "Adrenal",
+        "Pancreas"
+      ],
+      "ans": 1,
+      "subject": "General Science",
+      "q_hi": "शरीर की \"मास्टर ग्रंथि\" के रूप में कौन सा अंग जाना जाता है?",
+      "opts_hi": [
+        "थायरॉइड",
+        "पिट्यूटरी",
+        "एड्रेनल",
+        "पैनक्रियाज"
+      ],
+      "exp_en": "The pituitary gland is known as the master gland as it controls the function of most other endocrine glands.",
+      "exp_hi": "पिट्यूटरी ग्रंथि को मास्टर ग्रंथि कहा जाता है क्योंकि यह अधिकांश अन्य अंतःस्रावी ग्रंथियों के कार्य को नियंत्रित करती है।"
+    },
+    {
+      "q": "What is the normal resting heart rate (beats per minute) for a healthy adult human?",
+      "opts": [
+        "60-72",
+        "72-82",
+        "82-92",
+        "50-60"
+      ],
+      "ans": 0,
+      "subject": "General Science",
+      "q_hi": "एक स्वस्थ वयस्क मानव के लिए सामान्य विश्राम हृदय गति (धड़कन प्रति मिनट) क्या है?",
+      "opts_hi": [
+        "60-72",
+        "72-82",
+        "82-92",
+        "50-60"
+      ],
+      "exp_en": "The normal resting heart rate for adults is typically between 60 to 72 beats per minute.",
+      "exp_hi": "वयस्कों के लिए सामान्य विश्राम हृदय गति आमतौर पर 60 से 72 धड़कन प्रति मिनट के बीच होती है।"
+    },
+    {
+      "q": "What is the scientific name of the Indian national animal?",
+      "opts": [
+        "Panthera leo",
+        "Panthera tigris",
+        "Elephas maximus",
+        "Bos taurus"
+      ],
+      "ans": 1,
+      "subject": "General Science",
+      "q_hi": "भारतीय राष्ट्रीय पशु का वैज्ञानिक नाम क्या है?",
+      "opts_hi": [
+        "पैंथेरा लियो",
+        "पैंथेरा टाइग्रिस",
+        "एलिफास मैक्सिमस",
+        "बोस टौरस"
+      ],
+      "exp_en": "The Indian national animal is the Royal Bengal Tiger, scientifically known as Panthera tigris.",
+      "exp_hi": "भारतीय राष्ट्रीय पशु रॉयल बंगाल टाइगर है, जिसका वैज्ञानिक नाम पैंथेरा टाइग्रिस है।"
+    },
+    {
+      "q": "Which disease is caused by the deficiency of Vitamin C?",
+      "opts": [
+        "Rickets",
+        "Scurvy",
+        "Beriberi",
+        "Night blindness"
+      ],
+      "ans": 1,
+      "subject": "General Science",
+      "q_hi": "विटामिन C की कमी से कौन सी बीमारी होती है?",
+      "opts_hi": [
+        "रिकेट्स",
+        "स्कर्वी",
+        "बेरीबेरी",
+        "रतौंधी"
+      ],
+      "exp_en": "Scurvy is caused by deficiency of Vitamin C. Rickets is caused by Vitamin D deficiency.",
+      "exp_hi": "स्कर्वी विटामिन C की कमी से होता है। रिकेट्स विटामिन D की कमी से होता है।"
+    },
+    {
+      "q": "The process by which plants make their own food is called?",
+      "opts": [
+        "Respiration",
+        "Transpiration",
+        "Photosynthesis",
+        "Fermentation"
+      ],
+      "ans": 2,
+      "subject": "General Science",
+      "q_hi": "पौधे अपना भोजन स्वयं बनाने की प्रक्रिया को क्या कहते हैं?",
+      "opts_hi": [
+        "श्वसन",
+        "वाष्पोत्सर्जन",
+        "प्रकाश संश्लेषण",
+        "किण्वन"
+      ],
+      "exp_en": "Photosynthesis is the process by which plants convert light energy into chemical energy to produce food.",
+      "exp_hi": "प्रकाश संश्लेषण वह प्रक्रिया है जिसके द्वारा पौधे प्रकाश ऊर्जा को रासायनिक ऊर्जा में बदलकर भोजन बनाते हैं।"
+    },
+    {
+      "q": "Which blood cells are responsible for immunity?",
+      "opts": [
+        "RBCs",
+        "WBCs",
+        "Platelets",
+        "Plasma"
+      ],
+      "ans": 1,
+      "subject": "General Science",
+      "q_hi": "प्रतिरक्षा के लिए कौन सी रक्त कोशिकाएँ जिम्मेदार होती हैं?",
+      "opts_hi": [
+        "RBCs",
+        "WBCs",
+        "प्लेटलेट्स",
+        "प्लाज्मा"
+      ],
+      "exp_en": "White Blood Cells (WBCs) are part of the immune system and fight infections.",
+      "exp_hi": "श्वेत रक्त कोशिकाएँ (WBCs) प्रतिरक्षा प्रणाली का हिस्सा हैं और संक्रमण से लड़ती हैं।"
+    },
+    {
+      "q": "Which part of the brain controls balance and coordination?",
+      "opts": [
+        "Cerebrum",
+        "Cerebellum",
+        "Medulla oblongata",
+        "Hypothalamus"
+      ],
+      "ans": 1,
+      "subject": "General Science",
+      "q_hi": "मस्तिष्क का कौन सा भाग संतुलन और समन्वय को नियंत्रित करता है?",
+      "opts_hi": [
+        "सेरीब्रम",
+        "सेरीबेलम",
+        "मेडुला ऑब्लांगेटा",
+        "हाइपोथैलेमस"
+      ],
+      "exp_en": "The cerebellum controls balance, posture and coordination of voluntary movements.",
+      "exp_hi": "सेरीबेलम संतुलन, मुद्रा और स्वैच्छिक गतियों के समन्वय को नियंत्रित करता है।"
+    },
+    {
+      "q": "What is the smallest unit of life?",
+      "opts": [
+        "Tissue",
+        "Cell",
+        "Organ",
+        "Molecule"
+      ],
+      "ans": 1,
+      "subject": "General Science",
+      "q_hi": "जीवन की सबसे छोटी इकाई क्या है?",
+      "opts_hi": [
+        "ऊतक",
+        "कोशिका",
+        "अंग",
+        "अणु"
+      ],
+      "exp_en": "Cell is the basic structural and functional unit of life.",
+      "exp_hi": "कोशिका जीवन की मूल संरचनात्मक और कार्यात्मक इकाई है।"
+    },
+    {
+      "q": "Which blood group is known as the universal donor?",
+      "opts": [
+        "A+",
+        "O-",
+        "AB+",
+        "B-"
+      ],
+      "ans": 1,
+      "subject": "General Science",
+      "q_hi": "किस रक्त समूह को सार्वभौमिक दाता कहा जाता है?",
+      "opts_hi": [
+        "A+",
+        "O-",
+        "AB+",
+        "B-"
+      ],
+      "exp_en": "O- blood group is the universal donor as it lacks A, B and Rh antigens, so it can be given to any blood group.",
+      "exp_hi": "O- रक्त समूह सार्वभौमिक दाता है क्योंकि इसमें A, B और Rh प्रतिजन नहीं होते, इसलिए इसे किसी भी रक्त समूह को दिया जा सकता है।"
+    },
+    {
+      "q": "Which of the following is a scalar quantity?",
+      "opts": [
+        "Velocity",
+        "Force",
+        "Speed",
+        "Displacement"
+      ],
+      "ans": 2,
+      "subject": "General Science",
+      "q_hi": "निम्नलिखित में से कौन सी अदिश राशि है?",
+      "opts_hi": [
+        "वेग",
+        "बल",
+        "चाल",
+        "विस्थापन"
+      ],
+      "exp_en": "Speed is a scalar quantity as it has only magnitude, no direction. Velocity, force and displacement are vector quantities.",
+      "exp_hi": "चाल एक अदिश राशि है क्योंकि इसमें केवल परिमाण होता है, दिशा नहीं। वेग, बल और विस्थापन सदिश राशियाँ हैं।"
+    },
+    {
+      "q": "What is the SI unit of frequency?",
+      "opts": [
+        "Hertz",
+        "Newton",
+        "Joule",
+        "Watt"
+      ],
+      "ans": 0,
+      "subject": "General Science",
+      "q_hi": "आवृत्ति का SI मात्रक क्या है?",
+      "opts_hi": [
+        "हर्ट्ज",
+        "न्यूटन",
+        "जूल",
+        "वाट"
+      ],
+      "exp_en": "The SI unit of frequency is Hertz (Hz), named after Heinrich Hertz. 1 Hz = 1 cycle per second.",
+      "exp_hi": "आवृत्ति का SI मात्रक हर्ट्ज (Hz) है, जिसका नाम हेनरिक हर्ट्ज के नाम पर रखा गया है। 1 Hz = 1 चक्र प्रति सेकंड।"
+    },
+    {
+      "q": "If the mass of an object is 10 kg and it is moving with a velocity of 5 m/s, what is its kinetic energy?",
+      "opts": [
+        "125 J",
+        "250 J",
+        "100 J",
+        "150 J"
+      ],
+      "ans": 0,
+      "subject": "General Science",
+      "q_hi": "यदि किसी वस्तु का द्रव्यमान 10 किग्रा है और वह 5 मी/से के वेग से गतिमान है, तो उसकी गतिज ऊर्जा क्या है?",
+      "opts_hi": [
+        "125 J",
+        "250 J",
+        "100 J",
+        "150 J"
+      ],
+      "exp_en": "Kinetic Energy = ½mv² = ½ × 10 × (5)² = 5 × 25 = 125 J.",
+      "exp_hi": "गतिज ऊर्जा = ½mv² = ½ × 10 × (5)² = 5 × 25 = 125 जूल।"
+    },
+    {
+      "q": "Which law states that pressure applied to a confined fluid is transmitted equally in all directions?",
+      "opts": [
+        "Archimedes' Principle",
+        "Pascal's Law",
+        "Bernoulli's Theorem",
+        "Boyle's Law"
+      ],
+      "ans": 1,
+      "subject": "General Science",
+      "q_hi": "कौन सा नियम कहता है कि एक सीमित द्रव पर लगाया गया दाब सभी दिशाओं में समान रूप से संचरित होता है?",
+      "opts_hi": [
+        "आर्किमिडीज़ का सिद्धांत",
+        "पास्कल का नियम",
+        "बर्नौली का प्रमेय",
+        "बॉयल का नियम"
+      ],
+      "exp_en": "Pascal's Law states that pressure applied to a confined fluid is transmitted undiminished in all directions.",
+      "exp_hi": "पास्कल का नियम कहता है कि सीमित द्रव पर लगाया गया दाब सभी दिशाओं में अक्षुण्ण रूप से संचरित होता है।"
+    },
+    {
+      "q": "What is the mirror formula?",
+      "opts": [
+        "1/f = 1/v + 1/u",
+        "1/f = 1/v - 1/u",
+        "1/v = 1/f + 1/u",
+        "f = v + u"
+      ],
+      "ans": 1,
+      "subject": "General Science",
+      "q_hi": "दर्पण सूत्र क्या है?",
+      "opts_hi": [
+        "1/f = 1/v + 1/u",
+        "1/f = 1/v - 1/u",
+        "1/v = 1/f + 1/u",
+        "f = v + u"
+      ],
+      "exp_en": "The mirror formula is 1/f = 1/v - 1/u, where f = focal length, v = image distance, u = object distance (with sign convention).",
+      "exp_hi": "दर्पण सूत्र है 1/f = 1/v - 1/u, जहाँ f = फोकस दूरी, v = प्रतिबिम्ब दूरी, u = वस्तु दूरी (चिह्न परिपाटी के साथ)।"
+    },
+    {
+      "q": "What is the escape velocity of the Earth?",
+      "opts": [
+        "7.9 km/s",
+        "11.2 km/s",
+        "14.2 km/s",
+        "8.9 km/s"
+      ],
+      "ans": 1,
+      "subject": "General Science",
+      "q_hi": "पृथ्वी का पलायन वेग क्या है?",
+      "opts_hi": [
+        "7.9 किमी/से",
+        "11.2 किमी/से",
+        "14.2 किमी/से",
+        "8.9 किमी/से"
+      ],
+      "exp_en": "The escape velocity of Earth is approximately 11.2 km/s. It is the minimum speed needed to break free from Earth's gravitational pull.",
+      "exp_hi": "पृथ्वी का पलायन वेग लगभग 11.2 किमी/से है। यह पृथ्वी के गुरुत्वाकर्षण बंधन से मुक्त होने के लिए आवश्यक न्यूनतम चाल है।"
+    },
+    {
+      "q": "Which instrument is used to measure electric current?",
+      "opts": [
+        "Voltmeter",
+        "Ammeter",
+        "Galvanometer",
+        "Ohmmeter"
+      ],
+      "ans": 1,
+      "subject": "General Science",
+      "q_hi": "विद्युत धारा मापने के लिए कौन सा उपकरण उपयोग किया जाता है?",
+      "opts_hi": [
+        "वोल्टमीटर",
+        "एमीटर",
+        "गैल्वेनोमीटर",
+        "ओममीटर"
+      ],
+      "exp_en": "An ammeter is used to measure electric current in amperes. It is always connected in series.",
+      "exp_hi": "एमीटर का उपयोग विद्युत धारा को एम्पीयर में मापने के लिए किया जाता है। इसे सदैव श्रेणीक्रम में जोड़ा जाता है।"
+    },
+    {
+      "q": "Which law explains the conservation of energy in a closed system?",
+      "opts": [
+        "Newton's First Law",
+        "Newton's Second Law",
+        "First Law of Thermodynamics",
+        "Second Law of Thermodynamics"
+      ],
+      "ans": 2,
+      "subject": "General Science",
+      "q_hi": "कौन सा नियम एक बंद तंत्र में ऊर्जा संरक्षण की व्याख्या करता है?",
+      "opts_hi": [
+        "न्यूटन का प्रथम नियम",
+        "न्यूटन का द्वितीय नियम",
+        "ऊष्मागतिकी का प्रथम नियम",
+        "ऊष्मागतिकी का द्वितीय नियम"
+      ],
+      "exp_en": "The First Law of Thermodynamics states that energy cannot be created or destroyed, only transformed from one form to another.",
+      "exp_hi": "ऊष्मागतिकी का प्रथम नियम कहता है कि ऊर्जा को न तो उत्पन्न किया जा सकता है और न ही नष्ट, इसे केवल एक रूप से दूसरे रूप में परिवर्तित किया जा सकता है।"
+    },
+    {
+      "q": "What is the unit of power?",
+      "opts": [
+        "Joule",
+        "Newton",
+        "Watt",
+        "Ampere"
+      ],
+      "ans": 2,
+      "subject": "General Science",
+      "q_hi": "शक्ति का मात्रक क्या है?",
+      "opts_hi": [
+        "जूल",
+        "न्यूटन",
+        "वाट",
+        "एम्पीयर"
+      ],
+      "exp_en": "The SI unit of power is Watt (W), named after James Watt. 1 Watt = 1 Joule per second.",
+      "exp_hi": "शक्ति का SI मात्रक वाट (W) है, जिसका नाम जेम्स वाट के नाम पर रखा गया है। 1 वाट = 1 जूल प्रति सेकंड।"
+    },
+    {
+      "q": "What is the speed of light in vacuum approximately?",
+      "opts": [
+        "3 × 10⁶ m/s",
+        "3 × 10⁸ m/s",
+        "3 × 10¹⁰ m/s",
+        "3 × 10⁴ m/s"
+      ],
+      "ans": 1,
+      "subject": "General Science",
+      "q_hi": "निर्वात में प्रकाश की चाल लगभग कितनी है?",
+      "opts_hi": [
+        "3 × 10⁶ मी/से",
+        "3 × 10⁸ मी/से",
+        "3 × 10¹⁰ मी/से",
+        "3 × 10⁴ मी/से"
+      ],
+      "exp_en": "The speed of light in vacuum is approximately 3 × 10⁸ m/s, which is the fastest speed in the universe.",
+      "exp_hi": "निर्वात में प्रकाश की चाल लगभग 3 × 10⁸ मी/से है, जो ब्रह्मांड की सबसे तीव्र चाल है।"
+    },
+    {
+      "q": "What is the chemical formula of washing soda?",
+      "opts": [
+        "NaHCO₃",
+        "Na₂CO₃",
+        "Na₂CO₃·10H₂O",
+        "NaOH"
+      ],
+      "ans": 2,
+      "subject": "General Science",
+      "q_hi": "धोने के सोडा (Washing Soda) का रासायनिक सूत्र क्या है?",
+      "opts_hi": [
+        "NaHCO₃",
+        "Na₂CO₃",
+        "Na₂CO₃·10H₂O",
+        "NaOH"
+      ],
+      "exp_en": "Washing soda is sodium carbonate decahydrate with chemical formula Na₂CO₃·10H₂O.",
+      "exp_hi": "धोने का सोडा सोडियम कार्बोनेट डेकाहाइड्रेट है जिसका रासायनिक सूत्र Na₂CO₃·10H₂O है।"
+    },
+    {
+      "q": "What is the chemical name of quicklime?",
+      "opts": [
+        "Calcium carbonate",
+        "Calcium oxide",
+        "Calcium hydroxide",
+        "Calcium chloride"
+      ],
+      "ans": 1,
+      "subject": "General Science",
+      "q_hi": "चूने (Quicklime) का रासायनिक नाम क्या है?",
+      "opts_hi": [
+        "कैल्शियम कार्बोनेट",
+        "कैल्शियम ऑक्साइड",
+        "कैल्शियम हाइड्रॉक्साइड",
+        "कैल्शियम क्लोराइड"
+      ],
+      "exp_en": "Quicklime is chemically known as Calcium oxide (CaO).",
+      "exp_hi": "चूने को रासायनिक रूप से कैल्शियम ऑक्साइड (CaO) कहा जाता है।"
+    },
+    {
+      "q": "What is the pH of pure water at 25°C?",
+      "opts": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "ans": 2,
+      "subject": "General Science",
+      "q_hi": "25°C पर शुद्ध जल का pH क्या है?",
+      "opts_hi": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "exp_en": "The pH of pure water at 25°C is 7, which is neutral.",
+      "exp_hi": "25°C पर शुद्ध जल का pH 7 होता है, जो उदासीन होता है।"
+    },
+    {
+      "q": "Which of the following is the lightest gas?",
+      "opts": [
+        "Oxygen",
+        "Nitrogen",
+        "Hydrogen",
+        "Helium"
+      ],
+      "ans": 2,
+      "subject": "General Science",
+      "q_hi": "निम्नलिखित में से सबसे हल्की गैस कौन सी है?",
+      "opts_hi": [
+        "ऑक्सीजन",
+        "नाइट्रोजन",
+        "हाइड्रोजन",
+        "हीलियम"
+      ],
+      "exp_en": "Hydrogen is the lightest gas with molar mass 2 g/mol. Helium is the second lightest.",
+      "exp_hi": "हाइड्रोजन सबसे हल्की गैस है जिसका मोलर द्रव्यमान 2 ग्राम/मोल है। हीलियम दूसरी सबसे हल्की गैस है।"
+    },
+    {
+      "q": "What is the number of protons in a carbon atom?",
+      "opts": [
+        "4",
+        "6",
+        "8",
+        "12"
+      ],
+      "ans": 1,
+      "subject": "General Science",
+      "q_hi": "कार्बन परमाणु में प्रोटॉनों की संख्या कितनी है?",
+      "opts_hi": [
+        "4",
+        "6",
+        "8",
+        "12"
+      ],
+      "exp_en": "Carbon has atomic number 6, which means it has 6 protons in its nucleus.",
+      "exp_hi": "कार्बन की परमाणु संख्या 6 है, जिसका अर्थ है कि इसके नाभिक में 6 प्रोटॉन होते हैं।"
+    },
+    {
+      "q": "Which element is used in pencil leads?",
+      "opts": [
+        "Lead",
+        "Graphite",
+        "Carbon",
+        "Silicon"
+      ],
+      "ans": 1,
+      "subject": "General Science",
+      "q_hi": "पेंसिल की लेड में कौन सा तत्व उपयोग किया जाता है?",
+      "opts_hi": [
+        "सीसा",
+        "ग्रेफाइट",
+        "कार्बन",
+        "सिलिकॉन"
+      ],
+      "exp_en": "Pencil leads are made of graphite, which is a form of carbon. Despite the name, they do not contain lead.",
+      "exp_hi": "पेंसिल की लेड ग्रेफाइट से बनाई जाती है, जो कार्बन का एक रूप है। नाम के बावजूद, इनमें सीसा नहीं होता है।"
+    },
+    {
+      "q": "What is the largest organ of the human body?",
+      "opts": [
+        "Liver",
+        "Brain",
+        "Skin",
+        "Heart"
+      ],
+      "ans": 2,
+      "subject": "General Science",
+      "q_hi": "मानव शरीर का सबसे बड़ा अंग क्या है?",
+      "opts_hi": [
+        "यकृत",
+        "मस्तिष्क",
+        "त्वचा",
+        "हृदय"
+      ],
+      "exp_en": "Skin is the largest organ of the human body, covering the entire body and protecting it from the environment.",
+      "exp_hi": "त्वचा मानव शरीर का सबसे बड़ा अंग है, जो पूरे शरीर को ढकता है और पर्यावरण से सुरक्षा प्रदान करता है।"
+    },
+    {
+      "q": "Which gland controls the metabolic rate of the body?",
+      "opts": [
+        "Pituitary",
+        "Thyroid",
+        "Adrenal",
+        "Pancreas"
+      ],
+      "ans": 1,
+      "subject": "General Science",
+      "q_hi": "कौन सी ग्रंथि शरीर की चयापचय दर को नियंत्रित करती है?",
+      "opts_hi": [
+        "पिट्यूटरी",
+        "थायरॉइड",
+        "एड्रेनल",
+        "पैनक्रियाज"
+      ],
+      "exp_en": "The thyroid gland secretes thyroxine, which regulates the body's metabolic rate.",
+      "exp_hi": "थायरॉइड ग्रंथि थायरोक्सिन स्रावित करती है, जो शरीर की चयापचय दर को नियंत्रित करती है।"
+    },
+    {
+      "q": "Which blood group is called the universal donor?",
+      "opts": [
+        "A negative",
+        "B negative",
+        "AB negative",
+        "O negative"
+      ],
+      "ans": 3,
+      "subject": "General Science",
+      "q_hi": "किस रक्त समूह को सार्वभौमिक दाता कहा जाता है?",
+      "opts_hi": [
+        "A नेगेटिव",
+        "B नेगेटिव",
+        "AB नेगेटिव",
+        "O नेगेटिव"
+      ],
+      "exp_en": "O negative blood group is the universal donor as it lacks A, B and Rh antigens and can be given to anyone.",
+      "exp_hi": "O नेगेटिव रक्त समूह सार्वभौमिक दाता है क्योंकि इसमें A, B और Rh प्रतिजन नहीं होते और इसे किसी को भी दिया जा सकता है।"
+    },
+    {
+      "q": "Which vitamin is also known as ascorbic acid?",
+      "opts": [
+        "Vitamin A",
+        "Vitamin B",
+        "Vitamin C",
+        "Vitamin D"
+      ],
+      "ans": 2,
+      "subject": "General Science",
+      "q_hi": "किस विटामिन को एस्कॉर्बिक अम्ल भी कहा जाता है?",
+      "opts_hi": [
+        "विटामिन ए",
+        "विटामिन बी",
+        "विटामिन सी",
+        "विटामिन डी"
+      ],
+      "exp_en": "Vitamin C is also known as ascorbic acid. It is essential for the growth and repair of tissues.",
+      "exp_hi": "विटामिन सी को एस्कॉर्बिक अम्ल भी कहा जाता है। यह ऊतकों की वृद्धि और मरम्मत के लिए आवश्यक है।"
+    },
+    {
+      "q": "What is the function of hemoglobin in the blood?",
+      "opts": [
+        "Fights infection",
+        "Transports oxygen",
+        "Transports glucose",
+        "Helps in digestion"
+      ],
+      "ans": 1,
+      "subject": "General Science",
+      "q_hi": "रक्त में हीमोग्लोबिन का कार्य क्या है?",
+      "opts_hi": [
+        "संक्रमण से लड़ना",
+        "ऑक्सीजन का परिवहन करना",
+        "ग्लूकोज का परिवहन करना",
+        "पाचन में सहायता करना"
+      ],
+      "exp_en": "Hemoglobin is the iron-containing protein in red blood cells that transports oxygen from the lungs to the rest of the body.",
+      "exp_hi": "हीमोग्लोबिन लाल रक्त कोशिकाओं में पाया जाने वाला आयरन युक्त प्रोटीन है जो फेफड़ों से ऑक्सीजन को पूरे शरीर में पहुँचाता है।"
+    },
+    {
+      "q": "Which of the following is a disease caused by bacteria?",
+      "opts": [
+        "Malaria",
+        "Tuberculosis",
+        "Polio",
+        "Influenza"
+      ],
+      "ans": 1,
+      "subject": "General Science",
+      "q_hi": "निम्नलिखित में से कौन सा रोग जीवाणु द्वारा होता है?",
+      "opts_hi": [
+        "मलेरिया",
+        "क्षय रोग",
+        "पोलियो",
+        "इन्फ्लुएंजा"
+      ],
+      "exp_en": "Tuberculosis is caused by the bacterium Mycobacterium tuberculosis. Malaria is caused by a parasite, polio and influenza are viral diseases.",
+      "exp_hi": "क्षय रोग जीवाणु Mycobacterium tuberculosis के कारण होता है। मलेरिया परजीवी से होता है, पोलियो और इन्फ्लुएंजा वायरल रोग हैं।"
+    },
+    {
+      "q": "Which part of the plant carries water from the roots to the leaves?",
+      "opts": [
+        "Phloem",
+        "Xylem",
+        "Cortex",
+        "Epidermis"
+      ],
+      "ans": 1,
+      "subject": "General Science",
+      "q_hi": "पौधे का कौन सा भाग जड़ों से पत्तियों तक पानी पहुँचाता है?",
+      "opts_hi": [
+        "फ्लोएम",
+        "जाइलम",
+        "कॉर्टेक्स",
+        "एपिडर्मिस"
+      ],
+      "exp_en": "Xylem tissue transports water and minerals from the roots to the leaves in plants.",
+      "exp_hi": "जाइलम ऊतक पौधों में जड़ों से पत्तियों तक पानी और खनिजों का परिवहन करता है।"
+    },
+    {
+      "q": "Which animal is known as the ship of the desert?",
+      "opts": [
+        "Horse",
+        "Goat",
+        "Camel",
+        "Elephant"
+      ],
+      "ans": 2,
+      "subject": "General Science",
+      "q_hi": "किस जानवर को मरुस्थल का जहाज कहा जाता है?",
+      "opts_hi": [
+        "घोड़ा",
+        "बकरी",
+        "ऊँट",
+        "हाथी"
+      ],
+      "exp_en": "Camel is known as the 'Ship of the Desert' because it can travel long distances in deserts without water for many days.",
+      "exp_hi": "ऊँट को 'मरुस्थल का जहाज' कहा जाता है क्योंकि यह रेगिस्तान में बिना पानी के कई दिनों तक लंबी दूरी तय कर सकता है।"
+    },
+    {
+      "q": "What is the SI unit of force?",
+      "opts": [
+        "Joule",
+        "Newton",
+        "Watt",
+        "Pascal"
+      ],
+      "ans": 1,
+      "subject": "General Science",
+      "q_hi": "बल का SI मात्रक क्या है?",
+      "opts_hi": [
+        "जूल",
+        "न्यूटन",
+        "वाट",
+        "पास्कल"
+      ],
+      "exp_en": "The SI unit of force is Newton (N), named after Sir Isaac Newton. 1 Newton = 1 kg·m/s².",
+      "exp_hi": "बल का SI मात्रक न्यूटन (N) है, जिसका नाम सर आइजैक न्यूटन के नाम पर रखा गया है। 1 न्यूटन = 1 किग्रा·मी/से²।"
+    },
+    {
+      "q": "Which of the following is a good conductor of heat?",
+      "opts": [
+        "Wood",
+        "Plastic",
+        "Copper",
+        "Rubber"
+      ],
+      "ans": 2,
+      "subject": "General Science",
+      "q_hi": "निम्नलिखित में से कौन ऊष्मा का सुचालक है?",
+      "opts_hi": [
+        "लकड़ी",
+        "प्लास्टिक",
+        "तांबा",
+        "रबर"
+      ],
+      "exp_en": "Copper is a good conductor of heat. Wood, plastic and rubber are insulators.",
+      "exp_hi": "तांबा ऊष्मा का सुचालक है। लकड़ी, प्लास्टिक और रबर कुचालक हैं।"
+    },
+    {
+      "q": "What is the acceleration due to gravity on the surface of the Earth approximately?",
+      "opts": [
+        "8.9 m/s²",
+        "9.8 m/s²",
+        "10.8 m/s²",
+        "11.8 m/s²"
+      ],
+      "ans": 1,
+      "subject": "General Science",
+      "q_hi": "पृथ्वी की सतह पर गुरुत्वाकर्षण के कारण त्वरण लगभग कितना है?",
+      "opts_hi": [
+        "8.9 मी/से²",
+        "9.8 मी/से²",
+        "10.8 मी/से²",
+        "11.8 मी/से²"
+      ],
+      "exp_en": "The acceleration due to gravity on Earth's surface is approximately 9.8 m/s², denoted by 'g'.",
+      "exp_hi": "पृथ्वी की सतह पर गुरुत्वाकर्षण के कारण त्वरण लगभग 9.8 मी/से² होता है, जिसे 'g' से दर्शाया जाता है।"
+    },
+    {
+      "q": "Which gas is released when sodium reacts with water?",
+      "opts": [
+        "Oxygen",
+        "Hydrogen",
+        "Carbon dioxide",
+        "Nitrogen"
+      ],
+      "ans": 1,
+      "subject": "General Science",
+      "q_hi": "सोडियम जल के साथ अभिक्रिया करने पर कौन सी गैस निकलती है?",
+      "opts_hi": [
+        "ऑक्सीजन",
+        "हाइड्रोजन",
+        "कार्बन डाइऑक्साइड",
+        "नाइट्रोजन"
+      ],
+      "exp_en": "2Na + 2H₂O → 2NaOH + H₂↑. Hydrogen gas is released during the reaction with a hissing sound.",
+      "exp_hi": "2Na + 2H₂O → 2NaOH + H₂↑। अभिक्रिया के दौरान हाइड्रोजन गैस फुसफुसाहट की आवाज के साथ निकलती है।"
+    },
+    {
+      "q": "What is the oxidation state of iron in Fe₂O₃?",
+      "opts": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "ans": 2,
+      "subject": "General Science",
+      "q_hi": "Fe₂O₃ में आयरन की ऑक्सीकरण अवस्था क्या है?",
+      "opts_hi": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "exp_en": "2x + 3(-2) = 0 → 2x - 6 = 0 → 2x = 6 → x = +3. Iron is in +3 oxidation state in ferric oxide.",
+      "exp_hi": "2x + 3(-2) = 0 → 2x - 6 = 0 → 2x = 6 → x = +3। फेरिक ऑक्साइड में आयरन +3 ऑक्सीकरण अवस्था में है।"
+    },
+    {
+      "q": "Which of the following is a strong electrolyte?",
+      "opts": [
+        "Sugar solution",
+        "Ethanol solution",
+        "NaCl solution",
+        "Distilled water"
+      ],
+      "ans": 2,
+      "subject": "General Science",
+      "q_hi": "निम्नलिखित में से कौन एक प्रबल विद्युत अपघट्य है?",
+      "opts_hi": [
+        "शर्करा विलयन",
+        "इथेनॉल विलयन",
+        "NaCl विलयन",
+        "आसुत जल"
+      ],
+      "exp_en": "NaCl is a strong electrolyte as it completely dissociates into Na⁺ and Cl⁻ ions in water, conducting electricity well.",
+      "exp_hi": "NaCl एक प्रबल विद्युत अपघट्य है क्योंकि यह जल में पूर्ण रूप से Na⁺ और Cl⁻ आयनों में वियोजित होता है, जिससे बिजली अच्छी तरह से चालित होती है।"
+    },
+    {
+      "q": "What is the shape of methane (CH₄) molecule?",
+      "opts": [
+        "Linear",
+        "Trigonal planar",
+        "Tetrahedral",
+        "Octahedral"
+      ],
+      "ans": 2,
+      "subject": "General Science",
+      "q_hi": "मीथेन (CH₄) अणु का आकार क्या है?",
+      "opts_hi": [
+        "रैखिक",
+        "त्रिकोणीय समतलीय",
+        "चतुष्फलकीय",
+        "अष्टफलकीय"
+      ],
+      "exp_en": "Methane (CH₄) has a tetrahedral shape with bond angle 109.5° due to sp³ hybridization of carbon.",
+      "exp_hi": "मीथेन (CH₄) का आकार चतुष्फलकीय होता है जिसका बंध कोण 109.5° होता है, जो कार्बन के sp³ संकरण के कारण होता है।"
+    },
+    {
+      "q": "Which acid is present in vinegar?",
+      "opts": [
+        "Citric acid",
+        "Tartaric acid",
+        "Acetic acid",
+        "Lactic acid"
+      ],
+      "ans": 2,
+      "subject": "General Science",
+      "q_hi": "सिरके में कौन सा अम्ल पाया जाता है?",
+      "opts_hi": [
+        "साइट्रिक अम्ल",
+        "टार्टरिक अम्ल",
+        "एसिटिक अम्ल",
+        "लैक्टिक अम्ल"
+      ],
+      "exp_en": "Acetic acid (CH₃COOH) is present in vinegar. It gives vinegar its sour taste and pungent smell.",
+      "exp_hi": "सिरके में एसिटिक अम्ल (CH₃COOH) पाया जाता है। यह सिरके को खट्टा स्वाद और तीखी गंध देता है।"
+    },
+    {
+      "q": "Which enzyme is responsible for the digestion of proteins in the stomach?",
+      "opts": [
+        "Amylase",
+        "Lipase",
+        "Pepsin",
+        "Trypsin"
+      ],
+      "ans": 2,
+      "subject": "General Science",
+      "q_hi": "आमाशय में प्रोटीन के पाचन के लिए कौन सा एंजाइम जिम्मेदार है?",
+      "opts_hi": [
+        "एमाइलेज",
+        "लाइपेज",
+        "पेप्सिन",
+        "ट्रिप्सिन"
+      ],
+      "exp_en": "Pepsin is the enzyme secreted in the stomach that digests proteins into smaller peptides. It works in acidic medium (pH 2).",
+      "exp_hi": "पेप्सिन आमाशय में स्रावित होने वाला एंजाइम है जो प्रोटीन को छोटे पेप्टाइड्स में पचाता है। यह अम्लीय माध्यम (pH 2) में कार्य करता है।"
+    },
+    {
+      "q": "Which part of the brain is responsible for maintaining posture and equilibrium?",
+      "opts": [
+        "Cerebrum",
+        "Cerebellum",
+        "Medulla oblongata",
+        "Hypothalamus"
+      ],
+      "ans": 1,
+      "subject": "General Science",
+      "q_hi": "मस्तिष्क का कौन सा भाग मुद्रा और संतुलन बनाए रखने के लिए जिम्मेदार है?",
+      "opts_hi": [
+        "सेरीब्रम",
+        "सेरीबेलम",
+        "मेडुला ऑब्लांगेटा",
+        "हाइपोथैलेमस"
+      ],
+      "exp_en": "The cerebellum coordinates voluntary movements, posture, and balance. It receives sensory information from the inner ear and muscles.",
+      "exp_hi": "सेरीबेलम स्वैच्छिक गतिविधियों, मुद्रा और संतुलन का समन्वय करता है। यह आंतरिक कान और मांसपेशियों से संवेदी जानकारी प्राप्त करता है।"
+    },
+    {
+      "q": "Which of the following is a genetic disorder?",
+      "opts": [
+        "Malaria",
+        "Tuberculosis",
+        "Down syndrome",
+        "Typhoid"
+      ],
+      "ans": 2,
+      "subject": "General Science",
+      "q_hi": "निम्नलिखित में से कौन एक आनुवंशिक विकार है?",
+      "opts_hi": [
+        "मलेरिया",
+        "क्षय रोग",
+        "डाउन सिंड्रोम",
+        "टाइफाइड"
+      ],
+      "exp_en": "Down syndrome is a genetic disorder caused by the presence of an extra chromosome 21 (trisomy 21). Malaria, TB and typhoid are infectious diseases.",
+      "exp_hi": "डाउन सिंड्रोम एक आनुवंशिक विकार है जो अतिरिक्त गुणसूत्र 21 (ट्राइसोमी 21) की उपस्थिति के कारण होता है। मलेरिया, टीबी और टाइफाइड संक्रामक रोग हैं।"
+    },
+    {
+      "q": "The 'Powerhouse of the cell' is?",
+      "opts": [
+        "Nucleus",
+        "Ribosome",
+        "Mitochondria",
+        "Endoplasmic reticulum"
+      ],
+      "ans": 2,
+      "subject": "General Science",
+      "q_hi": "कोशिका का 'पावरहाउस' किसे कहा जाता है?",
+      "opts_hi": [
+        "केन्द्रक",
+        "राइबोसोम",
+        "माइटोकॉन्ड्रिया",
+        "एंडोप्लाज्मिक रेटिकुलम"
+      ],
+      "exp_en": "Mitochondria are known as the powerhouse of the cell as they produce ATP through cellular respiration. They have their own DNA.",
+      "exp_hi": "माइटोकॉन्ड्रिया को कोशिका का पावरहाउस कहा जाता है क्योंकि यह कोशिकीय श्वसन के माध्यम से ATP का उत्पादन करता है। इनका अपना DNA होता है।"
+    },
+    {
+      "q": "Which hormone regulates blood sugar levels?",
+      "opts": [
+        "Thyroxine",
+        "Adrenaline",
+        "Insulin",
+        "Estrogen"
+      ],
+      "ans": 2,
+      "subject": "General Science",
+      "q_hi": "रक्त शर्करा स्तर को कौन सा हार्मोन नियंत्रित करता है?",
+      "opts_hi": [
+        "थायरोक्सिन",
+        "एड्रेनालाईन",
+        "इंसुलिन",
+        "एस्ट्रोजन"
+      ],
+      "exp_en": "Insulin regulates blood sugar levels by facilitating glucose uptake into cells. It is produced by beta cells of the pancreas.",
+      "exp_hi": "इंसुलिन रक्त शर्करा स्तर को नियंत्रित करता है, कोशिकाओं में ग्लूकोज के अवशोषण को सुगम बनाता है। यह अग्न्याशय की बीटा कोशिकाओं द्वारा निर्मित होता है।"
+    },
+    {
+      "q": "Which blood vessels carry oxygenated blood from the heart to the body?",
+      "opts": [
+        "Veins",
+        "Arteries",
+        "Capillaries",
+        "Venules"
+      ],
+      "ans": 1,
+      "subject": "General Science",
+      "q_hi": "कौन सी रक्त वाहिकाएँ हृदय से शरीर में ऑक्सीजन युक्त रक्त ले जाती हैं?",
+      "opts_hi": [
+        "शिराएँ",
+        "धमनियाँ",
+        "केशिकाएँ",
+        "शिरिकाएँ"
+      ],
+      "exp_en": "Arteries carry oxygenated blood away from the heart to the body (except pulmonary arteries which carry deoxygenated blood).",
+      "exp_hi": "धमनियाँ हृदय से शरीर की ओर ऑक्सीजन युक्त रक्त ले जाती हैं (फुफ्फुसीय धमनियों को छोड़कर जो अशुद्ध रक्त ले जाती हैं)।"
+    },
+    {
+      "q": "What is the function of the placenta?",
+      "opts": [
+        "Digestion of food",
+        "Exchange of nutrients and waste between mother and fetus",
+        "Production of hormones only",
+        "Protection of fetus only"
+      ],
+      "ans": 1,
+      "subject": "General Science",
+      "q_hi": "प्लेसेंटा का कार्य क्या है?",
+      "opts_hi": [
+        "भोजन का पाचन",
+        "माता और भ्रूण के बीच पोषक तत्वों और अपशिष्ट का आदान-प्रदान",
+        "केवल हार्मोन का उत्पादन",
+        "केवल भ्रूण की सुरक्षा"
+      ],
+      "exp_en": "The placenta facilitates the exchange of oxygen, nutrients, and waste products between the mother and the developing fetus. It also produces hormones.",
+      "exp_hi": "प्लेसेंटा माता और विकासशील भ्रूण के बीच ऑक्सीजन, पोषक तत्वों और अपशिष्ट उत्पादों के आदान-प्रदान को सुगम बनाता है। यह हार्मोन भी उत्पन्न करता है।"
+    },
+    {
+      "q": "Which bacterium causes tuberculosis?",
+      "opts": [
+        "Salmonella",
+        "Vibrio cholerae",
+        "Mycobacterium tuberculosis",
+        "Streptococcus"
+      ],
+      "ans": 2,
+      "subject": "General Science",
+      "q_hi": "क्षय रोग किस जीवाणु के कारण होता है?",
+      "opts_hi": [
+        "साल्मोनेला",
+        "विब्रियो कॉलेरी",
+        "माइकोबैक्टीरियम ट्यूबरकुलोसिस",
+        "स्ट्रेप्टोकोकस"
+      ],
+      "exp_en": "Tuberculosis (TB) is caused by the bacterium Mycobacterium tuberculosis. It primarily affects the lungs but can affect other organs too.",
+      "exp_hi": "क्षय रोग (टीबी) जीवाणु Mycobacterium tuberculosis के कारण होता है। यह मुख्य रूप से फेफड़ों को प्रभावित करता है लेकिन अन्य अंगों को भी प्रभावित कर सकता है।"
+    },
+    {
+      "q": "What is the focal length of a concave mirror if the radius of curvature is 40 cm?",
+      "opts": [
+        "10 cm",
+        "20 cm",
+        "30 cm",
+        "40 cm"
+      ],
+      "ans": 1,
+      "subject": "General Science",
+      "q_hi": "यदि वक्रता त्रिज्या 40 सेमी है, तो अवतल दर्पण की फोकस दूरी क्या है?",
+      "opts_hi": [
+        "10 सेमी",
+        "20 सेमी",
+        "30 सेमी",
+        "40 सेमी"
+      ],
+      "exp_en": "Focal length (f) = Radius of curvature (R)/2 = 40/2 = 20 cm. For concave mirror, f is negative in sign convention.",
+      "exp_hi": "फोकस दूरी (f) = वक्रता त्रिज्या (R)/2 = 40/2 = 20 सेमी। अवतल दर्पण के लिए, चिह्न परिपाटी में f ऋणात्मक होता है।"
+    },
+    {
+      "q": "Which colour has the maximum frequency in the visible spectrum?",
+      "opts": [
+        "Red",
+        "Green",
+        "Violet",
+        "Blue"
+      ],
+      "ans": 2,
+      "subject": "General Science",
+      "q_hi": "दृश्य स्पेक्ट्रम में किस रंग की आवृत्ति अधिकतम होती है?",
+      "opts_hi": [
+        "लाल",
+        "हरा",
+        "बैंगनी",
+        "नीला"
+      ],
+      "exp_en": "Violet has the highest frequency and shortest wavelength in the visible spectrum (380-450 nm). Red has the lowest frequency.",
+      "exp_hi": "दृश्य स्पेक्ट्रम में बैंगनी की आवृत्ति सबसे अधिक और तरंगदैर्घ्य सबसे कम (380-450 nm) होता है। लाल की आवृत्ति सबसे कम होती है।"
+    },
+    {
+      "q": "Which element is used in the manufacture of solar cells?",
+      "opts": [
+        "Germanium",
+        "Silicon",
+        "Gallium",
+        "Boron"
+      ],
+      "ans": 1,
+      "subject": "General Science",
+      "q_hi": "सौर कोशिकाओं के निर्माण में किस तत्व का उपयोग किया जाता है?",
+      "opts_hi": [
+        "जर्मेनियम",
+        "सिलिकॉन",
+        "गैलियम",
+        "बोरॉन"
+      ],
+      "exp_en": "Silicon is the most commonly used semiconductor material in solar cells (about 90% of solar cells). It has suitable band gap properties (1.1 eV).",
+      "exp_hi": "सिलिकॉन सौर कोशिकाओं में सबसे अधिक उपयोग की जाने वाली अर्धचालक सामग्री है (लगभग 90% सौर कोशिकाएँ)। इसमें उपयुक्त बैंड गैप गुण (1.1 eV) होते हैं।"
+    },
+    {
+      "q": "What is the number of neutrons in a carbon-14 atom?",
+      "opts": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ans": 2,
+      "subject": "General Science",
+      "q_hi": "कार्बन-14 परमाणु में न्यूट्रॉनों की संख्या क्या है?",
+      "opts_hi": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "exp_en": "Carbon-14 has atomic number 6 (protons) and mass number 14. Neutrons = Mass number - Atomic number = 14 - 6 = 8.",
+      "exp_hi": "कार्बन-14 की परमाणु संख्या 6 (प्रोटॉन) और द्रव्यमान संख्या 14 है। न्यूट्रॉन = द्रव्यमान संख्या - परमाणु संख्या = 14 - 6 = 8।"
+    },
+    {
+      "q": "Which of the following is a viral disease?",
+      "opts": [
+        "Cholera",
+        "Tuberculosis",
+        "Polio",
+        "Typhoid"
+      ],
+      "ans": 2,
+      "subject": "General Science",
+      "q_hi": "निम्नलिखित में से कौन एक विषाणु जनित रोग है?",
+      "opts_hi": [
+        "हैजा",
+        "क्षय रोग",
+        "पोलियो",
+        "टाइफाइड"
+      ],
+      "exp_en": "Polio is caused by the poliovirus. Cholera is caused by Vibrio cholerae (bacteria), TB by Mycobacterium tuberculosis (bacteria), Typhoid by Salmonella typhi (bacteria).",
+      "exp_hi": "पोलियो पोलियोवायरस के कारण होता है। हैजा Vibrio cholerae (जीवाणु) के कारण होता है, टीबी Mycobacterium tuberculosis (जीवाणु) के कारण, टाइफाइड Salmonella typhi (जीवाणु) के कारण।"
+    },
+    {
+      "q": "What is the dimensional formula of force?",
+      "opts": [
+        "[MLT⁻²]",
+        "[ML²T⁻²]",
+        "[MLT⁻¹]",
+        "[ML²T⁻¹]"
+      ],
+      "ans": 0,
+      "subject": "General Science",
+      "q_hi": "बल का विमीय सूत्र क्या है?",
+      "opts_hi": [
+        "[MLT⁻²]",
+        "[ML²T⁻²]",
+        "[MLT⁻¹]",
+        "[ML²T⁻¹]"
+      ],
+      "exp_en": "Force = Mass × Acceleration. Dimensional formula = [M] × [LT⁻²] = [MLT⁻²].",
+      "exp_hi": "बल = द्रव्यमान × त्वरण। विमीय सूत्र = [M] × [LT⁻²] = [MLT⁻²]।"
+    },
+    {
+      "q": "The velocity of sound is maximum in which medium?",
+      "opts": [
+        "Air",
+        "Water",
+        "Solid",
+        "Vacuum"
+      ],
+      "ans": 2,
+      "subject": "General Science",
+      "q_hi": "ध्वनि का वेग किस माध्यम में अधिकतम होता है?",
+      "opts_hi": [
+        "वायु",
+        "जल",
+        "ठोस",
+        "निर्वात"
+      ],
+      "exp_en": "Sound travels fastest in solids because particles are closely packed, allowing vibrations to transfer quickly. In solids, particles are tightly packed, so sound velocity is highest.",
+      "exp_hi": "ठोसों में ध्वनि सबसे तेज चलती है क्योंकि कण निकट रूप से बंधे होते हैं, जिससे कंपन तेजी से स्थानांतरित होते हैं। ठोसों में कणों के बीच की दूरी कम होती है, इसलिए ध्वनि का वेग अधिकतम होता है।"
+    },
+    {
+      "q": "Which phenomenon is responsible for the blue color of the sky?",
+      "opts": [
+        "Reflection",
+        "Refraction",
+        "Scattering",
+        "Dispersion"
+      ],
+      "ans": 2,
+      "subject": "General Science",
+      "q_hi": "आकाश के नीले रंग के लिए कौन सी परिघटना जिम्मेदार है?",
+      "opts_hi": [
+        "परावर्तन",
+        "अपवर्तन",
+        "प्रकीर्णन",
+        "वर्ण विक्षेपण"
+      ],
+      "exp_en": "Rayleigh scattering is responsible for the blue color of the sky. Blue light is scattered more than other colors by atmospheric particles.",
+      "exp_hi": "रेले प्रकीर्णन आकाश के नीले रंग के लिए जिम्मेदार है। नीला प्रकाश वायुमंडलीय कणों द्वारा अन्य रंगों की तुलना में अधिक प्रकीर्णित होता है।"
+    },
+    {
+      "q": "What is the energy of a photon with frequency 'ν'?",
+      "opts": [
+        "hν",
+        "h/ν",
+        "ν/h",
+        "hν²"
+      ],
+      "ans": 0,
+      "subject": "General Science",
+      "q_hi": "आवृत्ति 'ν' वाले फोटॉन की ऊर्जा क्या है?",
+      "opts_hi": [
+        "hν",
+        "h/ν",
+        "ν/h",
+        "hν²"
+      ],
+      "exp_en": "The energy of a photon is given by E = hν, where h is Planck's constant (6.626 × 10⁻³⁴ Js) and ν is the frequency.",
+      "exp_hi": "फोटॉन की ऊर्जा E = hν द्वारा दी जाती है, जहाँ h प्लांक स्थिरांक (6.626 × 10⁻³⁴ Js) है और ν आवृत्ति है।"
+    },
+    {
+      "q": "The principle of working of a transformer is based on?",
+      "opts": [
+        "Electromagnetic induction only",
+        "Mutual induction",
+        "Self induction",
+        "Both electromagnetic and mutual induction"
+      ],
+      "ans": 1,
+      "subject": "General Science",
+      "q_hi": "ट्रांसफॉर्मर के कार्य करने का सिद्धांत किस पर आधारित है?",
+      "opts_hi": [
+        "केवल विद्युत चुम्बकीय प्रेरण",
+        "पारस्परिक प्रेरण",
+        "स्वप्रेरण",
+        "विद्युत चुम्बकीय और पारस्परिक प्रेरण दोनों"
+      ],
+      "exp_en": "A transformer works on the principle of mutual induction between two coils. While electromagnetic induction is the broader phenomenon, mutual induction is the specific principle.",
+      "exp_hi": "ट्रांसफॉर्मर दो कुंडलियों के बीच पारस्परिक प्रेरण के सिद्धांत पर कार्य करता है। विद्युत चुम्बकीय प्रेरण व्यापक परिघटना है, लेकिन पारस्परिक प्रेरण विशिष्ट सिद्धांत है।"
+    },
+    {
+      "q": "Which of the following has the highest specific heat capacity?",
+      "opts": [
+        "Iron",
+        "Water",
+        "Copper",
+        "Aluminum"
+      ],
+      "ans": 1,
+      "subject": "General Science",
+      "q_hi": "निम्नलिखित में से किसकी विशिष्ट ऊष्मा धारिता सबसे अधिक है?",
+      "opts_hi": [
+        "लोहा",
+        "जल",
+        "तांबा",
+        "एल्यूमीनियम"
+      ],
+      "exp_en": "Water has the highest specific heat capacity (4.18 J/g°C) among common substances, making it an excellent coolant.",
+      "exp_hi": "सामान्य पदार्थों में जल की विशिष्ट ऊष्मा धारिता (4.18 J/g°C) सबसे अधिक है, जो इसे एक उत्कृष्ट शीतलक बनाती है।"
+    },
+    {
+      "q": "What is the IUPAC name of CH₃COOH?",
+      "opts": [
+        "Acetic acid",
+        "Ethanoic acid",
+        "Methanoic acid",
+        "Propanoic acid"
+      ],
+      "ans": 1,
+      "subject": "General Science",
+      "q_hi": "CH₃COOH का IUPAC नाम क्या है?",
+      "opts_hi": [
+        "एसिटिक अम्ल",
+        "एथेनोइक अम्ल",
+        "मेथेनोइक अम्ल",
+        "प्रोपेनोइक अम्ल"
+      ],
+      "exp_en": "The IUPAC name of CH₃COOH is ethanoic acid. Acetic acid is its common name used in vinegar.",
+      "exp_hi": "CH₃COOH का IUPAC नाम एथेनोइक अम्ल है। एसिटिक अम्ल इसका सामान्य नाम है जो सिरके में उपयोग होता है।"
+    },
+    {
+      "q": "What is the SI unit of pressure?",
+      "opts": [
+        "Newton",
+        "Pascal",
+        "Joule",
+        "Watt"
+      ],
+      "ans": 1,
+      "subject": "General Science",
+      "q_hi": "दाब का SI मात्रक क्या है?",
+      "opts_hi": [
+        "न्यूटन",
+        "पास्कल",
+        "जूल",
+        "वाट"
+      ],
+      "exp_en": "The SI unit of pressure is Pascal (Pa), named after Blaise Pascal. 1 Pa = 1 N/m².",
+      "exp_hi": "दाब का SI मात्रक पास्कल (Pa) है, जिसका नाम ब्लेज़ पास्कल के नाम पर रखा गया है। 1 Pa = 1 N/m²।"
+    },
+    {
+      "q": "What is the principle behind the working of a hydraulic lift?",
+      "opts": [
+        "Archimedes' Principle",
+        "Bernoulli's Principle",
+        "Pascal's Law",
+        "Boyle's Law"
+      ],
+      "ans": 2,
+      "subject": "General Science",
+      "q_hi": "हाइड्रोलिक लिफ्ट के कार्य करने का सिद्धांत क्या है?",
+      "opts_hi": [
+        "आर्किमिडीज़ का सिद्धांत",
+        "बर्नौली का सिद्धांत",
+        "पास्कल का नियम",
+        "बॉयल का नियम"
+      ],
+      "exp_en": "A hydraulic lift works on Pascal's Law, which states that pressure applied to a confined fluid is transmitted equally in all directions.",
+      "exp_hi": "हाइड्रोलिक लिफ्ट पास्कल के नियम पर कार्य करती है, जो कहता है कि एक सीमित द्रव पर लगाया गया दाब सभी दिशाओं में समान रूप से संचरित होता है।"
+    },
+    {
+      "q": "Which type of lens is used to correct myopia (near-sightedness)?",
+      "opts": [
+        "Convex lens",
+        "Concave lens",
+        "Bifocal lens",
+        "Cylindrical lens"
+      ],
+      "ans": 1,
+      "subject": "General Science",
+      "q_hi": "मायोपिया (निकट दृष्टि दोष) को ठीक करने के लिए किस प्रकार के लेंस का उपयोग किया जाता है?",
+      "opts_hi": [
+        "उत्तल लेंस",
+        "अवतल लेंस",
+        "द्विफोकल लेंस",
+        "बेलनाकार लेंस"
+      ],
+      "exp_en": "Myopia (near-sightedness) is corrected using a concave lens (diverging lens), which spreads out light rays before they enter the eye.",
+      "exp_hi": "मायोपिया (निकट दृष्टि दोष) को अवतल लेंस (अपसारी लेंस) का उपयोग करके ठीक किया जाता है, जो आंख में प्रवेश करने से पहले प्रकाश किरणों को फैलाता है।"
+    },
+    {
+      "q": "What is the work done when a force of 10 N moves an object by 5 m in the direction of force?",
+      "opts": [
+        "25 J",
+        "50 J",
+        "75 J",
+        "100 J"
+      ],
+      "ans": 1,
+      "subject": "General Science",
+      "q_hi": "जब 10 N का बल किसी वस्तु को बल की दिशा में 5 मीटर विस्थापित करता है, तो किया गया कार्य क्या है?",
+      "opts_hi": [
+        "25 J",
+        "50 J",
+        "75 J",
+        "100 J"
+      ],
+      "exp_en": "Work = Force × Displacement = 10 × 5 = 50 J.",
+      "exp_hi": "कार्य = बल × विस्थापन = 10 × 5 = 50 जूल।"
+    },
+    {
+      "q": "Which of the following is a non-contact force?",
+      "opts": [
+        "Friction",
+        "Tension",
+        "Gravitational force",
+        "Normal force"
+      ],
+      "ans": 2,
+      "subject": "General Science",
+      "q_hi": "निम्नलिखित में से कौन एक असंपर्क बल है?",
+      "opts_hi": [
+        "घर्षण",
+        "तनाव",
+        "गुरुत्वाकर्षण बल",
+        "अभिलंब बल"
+      ],
+      "exp_en": "Gravitational force is a non-contact force as it acts without physical contact between objects. Friction, tension and normal force are contact forces.",
+      "exp_hi": "गुरुत्वाकर्षण बल एक असंपर्क बल है क्योंकि यह वस्तुओं के बीच भौतिक संपर्क के बिना कार्य करता है। घर्षण, तनाव और अभिलंब बल संपर्क बल हैं।"
+    },
+    {
+      "q": "What is the wavelength of a wave with frequency 50 Hz and speed 340 m/s?",
+      "opts": [
+        "5.8 m",
+        "6.8 m",
+        "7.8 m",
+        "8.8 m"
+      ],
+      "ans": 1,
+      "subject": "General Science",
+      "q_hi": "50 Hz आवृत्ति और 340 मी/से चाल वाली तरंग की तरंगदैर्घ्य क्या है?",
+      "opts_hi": [
+        "5.8 मी",
+        "6.8 मी",
+        "7.8 मी",
+        "8.8 मी"
+      ],
+      "exp_en": "Wavelength (λ) = Speed (v) / Frequency (f) = 340 / 50 = 6.8 m.",
+      "exp_hi": "तरंगदैर्घ्य (λ) = चाल (v) / आवृत्ति (f) = 340 / 50 = 6.8 मी।"
+    },
+    {
+      "q": "What is the chemical formula of sulphuric acid?",
+      "opts": [
+        "H₂SO₃",
+        "H₂SO₄",
+        "HCl",
+        "HNO₃"
+      ],
+      "ans": 1,
+      "subject": "General Science",
+      "q_hi": "सल्फ्यूरिक अम्ल का रासायनिक सूत्र क्या है?",
+      "opts_hi": [
+        "H₂SO₃",
+        "H₂SO₄",
+        "HCl",
+        "HNO₃"
+      ],
+      "exp_en": "Sulphuric acid has the chemical formula H₂SO₄. It is a strong mineral acid widely used in industry.",
+      "exp_hi": "सल्फ्यूरिक अम्ल का रासायनिक सूत्र H₂SO₄ है। यह एक प्रबल खनिज अम्ल है जो उद्योग में व्यापक रूप से उपयोग किया जाता है।"
+    },
+    {
+      "q": "Which of the following is the most abundant gas in the Earth's atmosphere?",
+      "opts": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Argon"
+      ],
+      "ans": 2,
+      "subject": "General Science",
+      "q_hi": "पृथ्वी के वायुमंडल में सबसे प्रचुर मात्रा में पाई जाने वाली गैस कौन सी है?",
+      "opts_hi": [
+        "ऑक्सीजन",
+        "कार्बन डाइऑक्साइड",
+        "नाइट्रोजन",
+        "आर्गन"
+      ],
+      "exp_en": "Nitrogen (N₂) is the most abundant gas in Earth's atmosphere, comprising about 78% of the air.",
+      "exp_hi": "पृथ्वी के वायुमंडल में नाइट्रोजन (N₂) सबसे प्रचुर गैस है, जो वायु का लगभग 78% है।"
+    },
+    {
+      "q": "What is the process of converting a solid directly into a gas called?",
+      "opts": [
+        "Condensation",
+        "Evaporation",
+        "Sublimation",
+        "Fusion"
+      ],
+      "ans": 2,
+      "subject": "General Science",
+      "q_hi": "ठोस का सीधे गैस में परिवर्तित होने की प्रक्रिया को क्या कहते हैं?",
+      "opts_hi": [
+        "संघनन",
+        "वाष्पीकरण",
+        "उर्ध्वपातन",
+        "संगलन"
+      ],
+      "exp_en": "Sublimation is the process in which a solid directly changes into a gas without passing through the liquid state. Dry ice (solid CO₂) undergoes sublimation.",
+      "exp_hi": "उर्ध्वपातन वह प्रक्रिया है जिसमें ठोस द्रव अवस्था से गुज़रे बिना सीधे गैस में बदल जाता है। सूखी बर्फ (ठोस CO₂) उर्ध्वपातन से गुज़रती है।"
+    },
+    {
+      "q": "Which metal is the best conductor of electricity?",
+      "opts": [
+        "Copper",
+        "Gold",
+        "Silver",
+        "Aluminum"
+      ],
+      "ans": 2,
+      "subject": "General Science",
+      "q_hi": "कौन सी धातु विद्युत की सबसे अच्छी सुचालक है?",
+      "opts_hi": [
+        "तांबा",
+        "सोना",
+        "चांदी",
+        "एल्यूमीनियम"
+      ],
+      "exp_en": "Silver is the best conductor of electricity among all metals. Copper is the second best and most commonly used.",
+      "exp_hi": "सभी धातुओं में चांदी विद्युत की सबसे अच्छी सुचालक है। तांबा दूसरा सबसे अच्छा है और सबसे अधिक उपयोग किया जाता है।"
+    },
+    {
+      "q": "What is the atomic number of oxygen?",
+      "opts": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ans": 2,
+      "subject": "General Science",
+      "q_hi": "ऑक्सीजन की परमाणु संख्या क्या है?",
+      "opts_hi": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "exp_en": "Oxygen has atomic number 8, which means it has 8 protons in its nucleus.",
+      "exp_hi": "ऑक्सीजन की परमाणु संख्या 8 है, जिसका अर्थ है कि इसके नाभिक में 8 प्रोटॉन होते हैं।"
+    },
+    {
+      "q": "Which part of the human brain is responsible for thinking and memory?",
+      "opts": [
+        "Cerebellum",
+        "Medulla oblongata",
+        "Cerebrum",
+        "Hypothalamus"
+      ],
+      "ans": 2,
+      "subject": "General Science",
+      "q_hi": "मानव मस्तिष्क का कौन सा भाग सोचने और स्मृति के लिए जिम्मेदार है?",
+      "opts_hi": [
+        "सेरीबेलम",
+        "मेडुला ऑब्लांगेटा",
+        "सेरीब्रम",
+        "हाइपोथैलेमस"
+      ],
+      "exp_en": "The cerebrum is the largest part of the brain and is responsible for higher functions like thinking, memory, speech, and voluntary movement.",
+      "exp_hi": "सेरीब्रम मस्तिष्क का सबसे बड़ा भाग है और सोचने, स्मृति, वाणी और स्वैच्छिक गति जैसे उच्च कार्यों के लिए जिम्मेदार है।"
+    },
+    {
+      "q": "Which organ in the human body produces bile?",
+      "opts": [
+        "Stomach",
+        "Liver",
+        "Gall bladder",
+        "Pancreas"
+      ],
+      "ans": 1,
+      "subject": "General Science",
+      "q_hi": "मानव शरीर में कौन सा अंग पित्त का उत्पादन करता है?",
+      "opts_hi": [
+        "आमाशय",
+        "यकृत",
+        "पित्ताशय",
+        "अग्न्याशय"
+      ],
+      "exp_en": "The liver produces bile, which is stored in the gall bladder and released into the small intestine to help digest fats.",
+      "exp_hi": "यकृत पित्त का उत्पादन करता है, जो पित्ताशय में संग्रहित होता है और वसा के पाचन में सहायता के लिए छोटी आंत में छोड़ा जाता है।"
+    },
+    {
+      "q": "What is the normal blood pressure of a healthy adult human?",
+      "opts": [
+        "100/60 mm Hg",
+        "120/80 mm Hg",
+        "140/90 mm Hg",
+        "160/100 mm Hg"
+      ],
+      "ans": 1,
+      "subject": "General Science",
+      "q_hi": "एक स्वस्थ वयस्क मानव का सामान्य रक्तचाप क्या है?",
+      "opts_hi": [
+        "100/60 mm Hg",
+        "120/80 mm Hg",
+        "140/90 mm Hg",
+        "160/100 mm Hg"
+      ],
+      "exp_en": "The normal blood pressure of a healthy adult is approximately 120/80 mm Hg. 120 is systolic pressure and 80 is diastolic pressure.",
+      "exp_hi": "एक स्वस्थ वयस्क का सामान्य रक्तचाप लगभग 120/80 mm Hg होता है। 120 सिस्टोलिक दाब है और 80 डायस्टोलिक दाब है।"
+    },
+    {
+      "q": "Which of the following is a deficiency disease?",
+      "opts": [
+        "Malaria",
+        "Tuberculosis",
+        "Goitre",
+        "Cholera"
+      ],
+      "ans": 2,
+      "subject": "General Science",
+      "q_hi": "निम्नलिखित में से कौन एक कमी रोग है?",
+      "opts_hi": [
+        "मलेरिया",
+        "क्षय रोग",
+        "घेंघा",
+        "हैजा"
+      ],
+      "exp_en": "Goitre is caused by iodine deficiency. Malaria, tuberculosis and cholera are infectious diseases caused by pathogens.",
+      "exp_hi": "घेंघा आयोडीन की कमी के कारण होता है। मलेरिया, क्षय रोग और हैजा रोगाणुओं के कारण होने वाले संक्रामक रोग हैं।"
+    },
+    {
+      "q": "Which organelle is known as the 'suicidal bag' of the cell?",
+      "opts": [
+        "Ribosome",
+        "Mitochondria",
+        "Golgi apparatus",
+        "Lysosome"
+      ],
+      "ans": 3,
+      "subject": "General Science",
+      "q_hi": "किस कोशिकांग को कोशिका का 'आत्मघाती थैली' कहा जाता है?",
+      "opts_hi": [
+        "राइबोसोम",
+        "माइटोकॉन्ड्रिया",
+        "गॉल्जी उपकरण",
+        "लाइसोसोम"
+      ],
+      "exp_en": "Lysosomes are known as the 'suicidal bags' of the cell because they contain digestive enzymes that can break down the cell's own components when damaged.",
+      "exp_hi": "लाइसोसोम को कोशिका की 'आत्मघाती थैली' कहा जाता है क्योंकि इनमें पाचक एंजाइम होते हैं जो क्षतिग्रस्त होने पर कोशिका के अपने घटकों को तोड़ सकते हैं।"
+    },
+    {
+      "q": "Which disease is caused by the bite of an Anopheles mosquito?",
+      "opts": [
+        "Dengue",
+        "Malaria",
+        "Chikungunya",
+        "Yellow fever"
+      ],
+      "ans": 1,
+      "subject": "General Science",
+      "q_hi": "एनोफिलीज मच्छर के काटने से कौन सा रोग होता है?",
+      "opts_hi": [
+        "डेंगू",
+        "मलेरिया",
+        "चिकनगुनिया",
+        "पीत ज्वर"
+      ],
+      "exp_en": "Malaria is caused by the Plasmodium parasite, which is transmitted to humans through the bite of an infected female Anopheles mosquito.",
+      "exp_hi": "मलेरिया प्लास्मोडियम परजीवी के कारण होता है, जो संक्रमित मादा एनोफिलीज मच्छर के काटने से मनुष्यों में फैलता है।"
+    },
+    {
+      "q": "Which part of the plant conducts water from roots to leaves?",
+      "opts": [
+        "Phloem",
+        "Xylem",
+        "Cortex",
+        "Epidermis"
+      ],
+      "ans": 1,
+      "subject": "General Science",
+      "q_hi": "पौधे का कौन सा भाग जड़ों से पत्तियों तक पानी पहुँचाता है?",
+      "opts_hi": [
+        "फ्लोएम",
+        "जाइलम",
+        "कॉर्टेक्स",
+        "एपिडर्मिस"
+      ],
+      "exp_en": "Xylem tissue transports water and dissolved minerals from the roots to the leaves in plants. It is composed of tracheids and vessels.",
+      "exp_hi": "जाइलम ऊतक पौधों में जड़ों से पत्तियों तक पानी और घुले हुए खनिजों का परिवहन करता है। यह ट्रैकिड्स और वेसल्स से बना होता है।"
+    },
+    {
+      "q": "What is the bending of light when it passes from one medium to another called?",
+      "opts": [
+        "Reflection",
+        "Refraction",
+        "Diffraction",
+        "Dispersion"
+      ],
+      "ans": 1,
+      "subject": "General Science",
+      "q_hi": "प्रकाश का एक माध्यम से दूसरे माध्यम में जाने पर मुड़ना क्या कहलाता है?",
+      "opts_hi": [
+        "परावर्तन",
+        "अपवर्तन",
+        "विवर्तन",
+        "वर्ण विक्षेपण"
+      ],
+      "exp_en": "Refraction is the bending of light when it passes from one transparent medium to another due to a change in its speed.",
+      "exp_hi": "अपवर्तन प्रकाश का एक पारदर्शी माध्यम से दूसरे में जाने पर मुड़ना है, जो उसकी चाल में परिवर्तन के कारण होता है।"
+    },
+    {
+      "q": "Which of the following is an example of a noble gas?",
+      "opts": [
+        "Hydrogen",
+        "Nitrogen",
+        "Helium",
+        "Chlorine"
+      ],
+      "ans": 2,
+      "subject": "General Science",
+      "q_hi": "निम्नलिखित में से कौन एक अक्रिय गैस का उदाहरण है?",
+      "opts_hi": [
+        "हाइड्रोजन",
+        "नाइट्रोजन",
+        "हीलियम",
+        "क्लोरीन"
+      ],
+      "exp_en": "Helium (He) is a noble gas in Group 18 of the periodic table. Noble gases are generally unreactive due to their full valence shells.",
+      "exp_hi": "हीलियम (He) आवर्त सारणी के समूह 18 की एक अक्रिय गैस है। अक्रिय गैसें अपने पूर्ण संयोजकता कोश के कारण आमतौर पर अप्रतिक्रियाशील होती हैं।"
+    },
+    {
+      "q": "Which vitamin is essential for the absorption of calcium in the body?",
+      "opts": [
+        "Vitamin A",
+        "Vitamin B",
+        "Vitamin D",
+        "Vitamin K"
+      ],
+      "ans": 2,
+      "subject": "General Science",
+      "q_hi": "शरीर में कैल्शियम के अवशोषण के लिए कौन सा विटामिन आवश्यक है?",
+      "opts_hi": [
+        "विटामिन ए",
+        "विटामिन बी",
+        "विटामिन डी",
+        "विटामिन के"
+      ],
+      "exp_en": "Vitamin D is essential for the absorption of calcium from the intestines. Deficiency of Vitamin D can lead to weak bones and rickets.",
+      "exp_hi": "विटामिन डी आंतों से कैल्शियम के अवशोषण के लिए आवश्यक है। विटामिन डी की कमी से हड्डियाँ कमजोर हो सकती हैं और रिकेट्स हो सकता है।"
+    },
+    {
+      "q": "What is the formula for kinetic energy?",
+      "opts": [
+        "mgh",
+        "½mv²",
+        "mv²",
+        "½mv"
+      ],
+      "ans": 1,
+      "subject": "General Science",
+      "q_hi": "गतिज ऊर्जा का सूत्र क्या है?",
+      "opts_hi": [
+        "mgh",
+        "½mv²",
+        "mv²",
+        "½mv"
+      ],
+      "exp_en": "Kinetic energy (KE) = ½mv², where m is mass and v is velocity of the object.",
+      "exp_hi": "गतिज ऊर्जा (KE) = ½mv², जहाँ m द्रव्यमान है और v वस्तु का वेग है।"
+    },
+    {
+      "q": "Which acid is found in lemon and orange?",
+      "opts": [
+        "Tartaric acid",
+        "Citric acid",
+        "Lactic acid",
+        "Acetic acid"
+      ],
+      "ans": 1,
+      "subject": "General Science",
+      "q_hi": "नींबू और संतरे में कौन सा अम्ल पाया जाता है?",
+      "opts_hi": [
+        "टार्टरिक अम्ल",
+        "साइट्रिक अम्ल",
+        "लैक्टिक अम्ल",
+        "एसिटिक अम्ल"
+      ],
+      "exp_en": "Citric acid is found in citrus fruits like lemon, orange, and grapefruit. It gives these fruits their sour taste.",
+      "exp_hi": "साइट्रिक अम्ल नींबू, संतरा और अंगूर जैसे खट्टे फलों में पाया जाता है। यह इन फलों को खट्टा स्वाद देता है।"
+    },
+    {
+      "q": "Which is the largest artery in the human body?",
+      "opts": [
+        "Pulmonary artery",
+        "Carotid artery",
+        "Aorta",
+        "Femoral artery"
+      ],
+      "ans": 2,
+      "subject": "General Science",
+      "q_hi": "मानव शरीर की सबसे बड़ी धमनी कौन सी है?",
+      "opts_hi": [
+        "फुफ्फुसीय धमनी",
+        "कैरोटिड धमनी",
+        "महाधमनी",
+        "ऊरु धमनी"
+      ],
+      "exp_en": "The aorta is the largest artery in the human body. It carries oxygenated blood from the left ventricle of the heart to the rest of the body.",
+      "exp_hi": "महाधमनी (Aorta) मानव शरीर की सबसे बड़ी धमनी है। यह हृदय के बाएं निलय से ऑक्सीजन युक्त रक्त को पूरे शरीर में ले जाती है।"
+    },
+    {
+      "q": "What is the reason for the formation of a rainbow?",
+      "opts": [
+        "Reflection of light",
+        "Refraction and dispersion of light",
+        "Diffraction of light",
+        "Scattering of light"
+      ],
+      "ans": 1,
+      "subject": "General Science",
+      "q_hi": "इंद्रधनुष के बनने का कारण क्या है?",
+      "opts_hi": [
+        "प्रकाश का परावर्तन",
+        "प्रकाश का अपवर्तन और वर्ण विक्षेपण",
+        "प्रकाश का विवर्तन",
+        "प्रकाश का प्रकीर्णन"
+      ],
+      "exp_en": "A rainbow is formed due to the refraction, dispersion, and internal reflection of sunlight by water droplets in the atmosphere.",
+      "exp_hi": "इंद्रधनुष वायुमंडल में जल की बूंदों द्वारा सूर्य के प्रकाश के अपवर्तन, वर्ण विक्षेपण और आंतरिक परावर्तन के कारण बनता है।"
+    }
+  ]
+}
