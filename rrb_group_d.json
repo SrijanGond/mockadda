@@ -7397,6 +7397,24 @@
           ],
           "ans": 0,
           "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Find the missing number in the series: 1, 6, 15, 28, 45, ?",
+          "q_hi": "श्रृंखला में लुप्त संख्या ज्ञात करें: 1, 6, 15, 28, 45, ?",
+          "opts": [
+            56,
+            62,
+            66,
+            72
+          ],
+          "opts_hi": [
+            56,
+            62,
+            66,
+            72
+          ],
+          "ans": 2,
+          "subject": "General Intelligence & Reasoning"
         }
       ]
     }
