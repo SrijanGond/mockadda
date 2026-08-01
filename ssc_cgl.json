@@ -3994,6 +3994,420 @@
           ],
           "ans": 0,
           "subject": "English Comprehension"
+        },
+        {
+          "q": "Select the related word from the given alternatives. Ampere : Current :: Kelvin : ?",
+          "q_hi": "दिए गए विकल्पों में से संबंधित शब्द चुनें। Ampere : Current :: Kelvin : ?",
+          "opts": [
+            "Heat",
+            "Energy",
+            "Temperature",
+            "Mass"
+          ],
+          "opts_hi": [
+            "ऊष्मा",
+            "ऊर्जा",
+            "तापमान",
+            "द्रव्यमान"
+          ],
+          "ans": 2,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Select the related word from the given alternatives. Danube : Europe :: Yangtze : ?",
+          "q_hi": "दिए गए विकल्पों में से संबंधित शब्द चुनें। Danube : Europe :: Yangtze : ?",
+          "opts": [
+            "Africa",
+            "Asia",
+            "Australia",
+            "South America"
+          ],
+          "opts_hi": [
+            "अफ्रीका",
+            "एशिया",
+            "ऑस्ट्रेलिया",
+            "दक्षिण अमेरिका"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Select the letter-cluster that can replace the question mark in the series: DFH, HJL, LNP, PRT, ?",
+          "q_hi": "श्रृंखला में प्रश्न चिह्न के स्थान पर आने वाला अक्षर-समूह चुनें: DFH, HJL, LNP, PRT, ?",
+          "opts": [
+            "TVX",
+            "TVW",
+            "SUW",
+            "UWY"
+          ],
+          "opts_hi": [
+            "TVX",
+            "TVW",
+            "SUW",
+            "UWY"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Select the letter-cluster that can replace the question mark: ABD, BCF, CDH, DEJ, ?",
+          "q_hi": "प्रश्न चिह्न के स्थान पर आने वाला अक्षर-समूह चुनें: ABD, BCF, CDH, DEJ, ?",
+          "opts": [
+            "EFL",
+            "EFK",
+            "FGL",
+            "DFL"
+          ],
+          "opts_hi": [
+            "EFL",
+            "EFK",
+            "FGL",
+            "DFL"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Select the letter-cluster that can replace the question mark: CEG, FHJ, ILN, LOQ, ?",
+          "q_hi": "प्रश्न चिह्न के स्थान पर आने वाला अक्षर-समूह चुनें: CEG, FHJ, ILN, LOQ, ?",
+          "opts": [
+            "ORT",
+            "NQS",
+            "ORU",
+            "PRT"
+          ],
+          "opts_hi": [
+            "ORT",
+            "NQS",
+            "ORU",
+            "PRT"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Select the letter-cluster that can replace the question mark: ZXVT, YWUS, XVTR, WUSQ, ?",
+          "q_hi": "प्रश्न चिह्न के स्थान पर आने वाला अक्षर-समूह चुनें: ZXVT, YWUS, XVTR, WUSQ, ?",
+          "opts": [
+            "VUTS",
+            "VTRP",
+            "UTSR",
+            "VTSQ"
+          ],
+          "opts_hi": [
+            "VUTS",
+            "VTRP",
+            "UTSR",
+            "VTSQ"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Select the letter-cluster that can replace the question mark: KMPT, LNQU, MORV, NPSW, ?",
+          "q_hi": "प्रश्न चिह्न के स्थान पर आने वाला अक्षर-समूह चुनें: KMPT, LNQU, MORV, NPSW, ?",
+          "opts": [
+            "OQTX",
+            "OQSX",
+            "PQTX",
+            "OPTX"
+          ],
+          "opts_hi": [
+            "OQTX",
+            "OQSX",
+            "PQTX",
+            "OPTX"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "What comes next: 4, 9, 16, 25, 36, ?",
+          "q_hi": "अगला पद क्या आएगा: 4, 9, 16, 25, 36, ?",
+          "opts": [
+            42,
+            45,
+            49,
+            48
+          ],
+          "opts_hi": [
+            42,
+            45,
+            49,
+            48
+          ],
+          "ans": 2,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "What comes next: 2, 6, 5, 10, 8, 14, 11, ?",
+          "q_hi": "अगला पद क्या आएगा: 2, 6, 5, 10, 8, 14, 11, ?",
+          "opts": [
+            16,
+            18,
+            20,
+            22
+          ],
+          "opts_hi": [
+            16,
+            18,
+            20,
+            22
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Each letter of the word MARKET is arranged in alphabetical order. How many letters are there in the English alphabetical series between the letter that is first from the left and the one that is third from the right in the new letter-cluster formed?",
+          "q_hi": "शब्द MARKET के अक्षरों को वर्णानुक्रम में व्यवस्थित किया गया है। नए अक्षर-समूह में बाईं ओर से पहले और दाईं ओर से तीसरे अक्षर के बीच अंग्रेजी वर्णमाला में कितने अक्षर हैं?",
+          "opts": [
+            3,
+            4,
+            5,
+            6
+          ],
+          "opts_hi": [
+            3,
+            4,
+            5,
+            6
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Which of the following addresses are identical to each other? 1. Rohan Sharma, B-204, Palm Residency, Pune, 411001 2. Rohan Sharma, B-204, Palm Residency, Pune, 411001 3. Rohan Sharma, B-204, Palm Residancy, Pune, 411001 4. Rohan S., B-204, Palm Residency, Pune, 411001",
+          "q_hi": "निम्नलिखित में से कौन से पते एक-दूसरे के समान हैं? 1. Rohan Sharma, B-204, Palm Residency, Pune, 411001 2. Rohan Sharma, B-204, Palm Residency, Pune, 411001 3. Rohan Sharma, B-204, Palm Residancy, Pune, 411001 4. Rohan S., B-204, Palm Residency, Pune, 411001",
+          "opts": [
+            "1 and 2",
+            "1 and 3",
+            "2 and 4",
+            "3 and 4"
+          ],
+          "opts_hi": [
+            "1 और 2",
+            "1 और 3",
+            "2 और 4",
+            "3 और 4"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Find the option that best completes the analogy. BF : JN :: DH : ?",
+          "q_hi": "उस विकल्प का चयन करें जो सादृश्य को पूरा करता है। BF : JN :: DH : ?",
+          "opts": [
+            "LP",
+            "LQ",
+            "KP",
+            "MP"
+          ],
+          "opts_hi": [
+            "LP",
+            "LQ",
+            "KP",
+            "MP"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "A is facing South. B is seated third to the left of A. Who is sitting immediately to the right of B?",
+          "q_hi": "A दक्षिण की ओर मुख किए हुए है। B, A के बाईं ओर तीसरे स्थान पर बैठा है। B के तुरंत दाईं ओर कौन बैठा है?",
+          "opts": [
+            "The person seated to the immediate left of A",
+            "The person seated opposite to A",
+            "The person seated to the immediate right of A",
+            "Cannot be determined"
+          ],
+          "opts_hi": [
+            "A के तुरंत बाईं ओर बैठा व्यक्ति",
+            "A के विपरीत बैठा व्यक्ति",
+            "A के तुरंत दाईं ओर बैठा व्यक्ति",
+            "निर्धारित नहीं किया जा सकता"
+          ],
+          "ans": 3,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "In the following question, the second word is related to the first word by a specific pattern of letter transformation. Apply the same pattern to the third word. LOCK : NQEM :: WORD : ?",
+          "q_hi": "निम्नलिखित प्रश्न में, दूसरा शब्द पहले शब्द से अक्षर परिवर्तन के एक विशिष्ट पैटर्न द्वारा संबंधित है। वही पैटर्न तीसरे शब्द पर लागू करें। LOCK : NQEM :: WORD : ?",
+          "opts": [
+            "YQTF",
+            "YQSF",
+            "XQTF",
+            "YPTF"
+          ],
+          "opts_hi": [
+            "YQTF",
+            "YQSF",
+            "XQTF",
+            "YPTF"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "In each of the following, a specific pattern such as reversal or rearrangement has been applied to the first word to get the second. Apply the same pattern to the third word. TRAIN : NIART :: CIRCLE : ?",
+          "q_hi": "निम्नलिखित में से प्रत्येक में, पहले शब्द से दूसरा शब्द प्राप्त करने के लिए एक विशिष्ट पैटर्न (जैसे उल्टा या पुनर्व्यवस्था) लागू किया गया है। वही पैटर्न तीसरे शब्द पर लागू करें। TRAIN : NIART :: CIRCLE : ?",
+          "opts": [
+            "ELCRIC",
+            "ELCRCI",
+            "ECLRIC",
+            "ELRCIC"
+          ],
+          "opts_hi": [
+            "ELCRIC",
+            "ELCRCI",
+            "ECLRIC",
+            "ELRCIC"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "In each of the following, the first word is coded to form the second word using a specific rearrangement and/or substitution rule. Apply the same rule to the third word. GARDEN : NEDRAG :: PICTURE : ?",
+          "q_hi": "निम्नलिखित में से प्रत्येक में, पहले शब्द को एक विशिष्ट पुनर्व्यवस्था और/या प्रतिस्थापन नियम का उपयोग करके दूसरा शब्द बनाने के लिए कूटबद्ध किया गया है। वही नियम तीसरे शब्द पर लागू करें। GARDEN : NEDRAG :: PICTURE : ?",
+          "opts": [
+            "ERUTCIP",
+            "ERUTCPI",
+            "EURTCIP",
+            "ERTUCIP"
+          ],
+          "opts_hi": [
+            "ERUTCIP",
+            "ERUTCPI",
+            "EURTCIP",
+            "ERTUCIP"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Identify the odd one: 4, 9, 25, 36, 48, 64",
+          "q_hi": "विषम पहचानें: 4, 9, 25, 36, 48, 64",
+          "opts": [
+            9,
+            25,
+            48,
+            64
+          ],
+          "opts_hi": [
+            9,
+            25,
+            48,
+            64
+          ],
+          "ans": 2,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Which of the following is the odd one out?",
+          "q_hi": "निम्नलिखित में से कौन विषम है?",
+          "opts": [
+            "2007-05-03T00:00:00.000Z",
+            "13, 17, 19",
+            "2006-04-02T00:00:00.000Z",
+            "29, 31, 37"
+          ],
+          "opts_hi": [
+            "2007-05-03T00:00:00.000Z",
+            "13, 17, 19",
+            "2006-04-02T00:00:00.000Z",
+            "29, 31, 37"
+          ],
+          "ans": 2,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Meera said, \"The woman in the photo is my father's mother's only daughter-in-law's daughter.\" Who is the woman to Meera?",
+          "q_hi": "मीरा ने कहा, \"फोटो में महिला मेरे पिता की माता की इकलौती पुत्रवधू की पुत्री है।\" वह महिला मीरा से किस प्रकार संबंधित है?",
+          "opts": [
+            "Sister",
+            "Mother",
+            "Aunt",
+            "Cousin"
+          ],
+          "opts_hi": [
+            "बहन",
+            "माता",
+            "चाची/मामी/मौसी",
+            "चचेरी/ममेरी बहन"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "In each of the following, a group of three numbers/symbols is given. Identify the group that does NOT follow the same pattern as the others.",
+          "q_hi": "निम्नलिखित में से प्रत्येक में, तीन संख्याओं/प्रतीकों का एक समूह दिया गया है। वह समूह पहचानें जो दूसरों के समान पैटर्न का पालन नहीं करता है।",
+          "opts": [
+            "B2! : D4@ : F6#",
+            "C3$ : E5% : G7^",
+            "H8& : J10* : L12(",
+            "M13) : O14_ : Q16+"
+          ],
+          "opts_hi": [
+            "B2! : D4@ : F6#",
+            "C3$ : E5% : G7^",
+            "H8& : J10* : L12(",
+            "M13) : O14_ : Q16+"
+          ],
+          "ans": 3,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Pointing to a man, a woman said, \"His father is my father-in-law's only son.\" How is the man related to the woman?",
+          "q_hi": "एक पुरुष की ओर इशारा करते हुए, एक महिला ने कहा, \"उसका पिता मेरे ससुर का इकलौता पुत्र है।\" वह पुरुष उस महिला से किस प्रकार संबंधित है?",
+          "opts": [
+            "Brother",
+            "Son",
+            "Husband",
+            "Nephew"
+          ],
+          "opts_hi": [
+            "भाई",
+            "पुत्र",
+            "पति",
+            "भतीजा/भांजा"
+          ],
+          "ans": 2,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "A man said, \"My father's only sister's son is your mother's brother.\" How is the man related to you?",
+          "q_hi": "एक पुरुष ने कहा, \"मेरे पिता की इकलौती बहन का पुत्र तुम्हारी माँ का भाई है।\" वह पुरुष आपसे किस प्रकार संबंधित है?",
+          "opts": [
+            "Uncle",
+            "Cousin",
+            "Father",
+            "Brother"
+          ],
+          "opts_hi": [
+            "चाचा/मामा/मौसा",
+            "चचेरा/ममेरा भाई",
+            "पिता",
+            "भाई"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "If % = ÷, & = ×, @ = −, then evaluate: 12 % 3 & 4 @ 5",
+          "q_hi": "यदि % = ÷, & = ×, @ = − है, तो मूल्यांकन करें: 12 % 3 & 4 @ 5",
+          "opts": [
+            11,
+            12,
+            15,
+            20
+          ],
+          "opts_hi": [
+            11,
+            12,
+            15,
+            20
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
         }
       ]
     },
