@@ -4819,6 +4819,456 @@
           "subject": "Quantitative Aptitude"
         },
         {
+          "q": "Arrange the fractions 5/8, 7/12, 3/4, and 11/16 in ascending order.",
+          "q_hi": "भिन्नों 5/8, 7/12, 3/4, और 11/16 को आरोही क्रम में व्यवस्थित करें।",
+          "opts": [
+            "7/12, 5/8, 11/16, 3/4",
+            "5/8, 7/12, 3/4, 11/16",
+            "3/4, 11/16, 5/8, 7/12",
+            "11/16, 3/4, 7/12, 5/8"
+          ],
+          "opts_hi": [
+            "7/12, 5/8, 11/16, 3/4",
+            "5/8, 7/12, 3/4, 11/16",
+            "3/4, 11/16, 5/8, 7/12",
+            "11/16, 3/4, 7/12, 5/8"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Simplify: (3¼ + 4.8) − 2.15",
+          "q_hi": "सरल करें: (3¼ + 4.8) − 2.15",
+          "opts": [
+            5.9,
+            6.9,
+            4.9,
+            5.4
+          ],
+          "opts_hi": [
+            5.9,
+            6.9,
+            4.9,
+            5.4
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Evaluate: 6½ − [¾ ÷ {½ − (¼ × (⅔ − ⅙))}]",
+          "q_hi": "मूल्यांकन करें: 6½ − [¾ ÷ {½ − (¼ × (⅔ − ⅙))}]",
+          "opts": [
+            "4½",
+            "−4½",
+            "3½",
+            "5½"
+          ],
+          "opts_hi": [
+            "4½",
+            "−4½",
+            "3½",
+            "5½"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "From a sample of 300 employees, determine the ratio of those proficient in Excel to those proficient in SQL using the table: Excel only = 100, SQL only = 90, Both = 80, Neither = 30.",
+          "q_hi": "300 कर्मचारियों के नमूने से, Excel में दक्ष और SQL में दक्ष लोगों का अनुपात ज्ञात करें: Excel only = 100, SQL only = 90, Both = 80, Neither = 30.",
+          "opts": [
+            "1899-12-30T18:17:00.000Z",
+            "1899-12-30T17:18:00.000Z",
+            "9:8",
+            "8:9"
+          ],
+          "opts_hi": [
+            "1899-12-30T18:17:00.000Z",
+            "1899-12-30T17:18:00.000Z",
+            "9:8",
+            "8:9"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Ramesh invested ₹60,000. After 4 months, Suresh joined with ₹90,000. At 8 months, Mahesh joined with ₹1,20,000. Total profit = ₹93,000 at year end. Find Mahesh's share.",
+          "q_hi": "रमेश ने ₹60,000 निवेश किये। 4 माह बाद सुरेश ₹90,000 के साथ जुड़ा। 8 माह बाद महेश ₹1,20,000 के साथ जुड़ा। वर्ष के अंत में कुल लाभ = ₹93,000. महेश का हिस्सा ज्ञात करें।",
+          "opts": [
+            "₹23,250",
+            "₹34,875",
+            "₹34,875",
+            "₹27,900"
+          ],
+          "opts_hi": [
+            "₹23,250",
+            "₹34,875",
+            "₹34,875",
+            "₹27,900"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A invests ₹50,000 for the whole year. B invests ₹1,00,000 for 4 months. What is B's share of a ₹50,000 profit?",
+          "q_hi": "A ₹50,000 पूरे वर्ष निवेश करता है। B ₹1,00,000 4 माह निवेश करता है। ₹50,000 लाभ में B का हिस्सा क्या है?",
+          "opts": [
+            "₹15,000",
+            "₹20,000",
+            "₹25,000",
+            "₹30,000"
+          ],
+          "opts_hi": [
+            "₹15,000",
+            "₹20,000",
+            "₹25,000",
+            "₹30,000"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "What is the average of all integers between 200 and 400 that are exactly divisible by 13?",
+          "q_hi": "200 और 400 के बीच 13 से पूर्णतः विभाज्य सभी पूर्णांकों का औसत क्या है?",
+          "opts": [
+            289,
+            299,
+            309,
+            279
+          ],
+          "opts_hi": [
+            289,
+            299,
+            309,
+            279
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "The average of 15 numbers is 80. Average of first 6 = 70, next 6 = 20% more than first 6. 13th number is 8 more than 15th; 14th is 4 less than 15th. Find average of 13th and 14th.",
+          "q_hi": "15 संख्याओं का औसत 80 है। पहली 6 का औसत = 70, अगली 6 पहली 6 से 20% अधिक हैं। 13वीं संख्या 15वीं से 8 अधिक, 14वीं 15वीं से 4 कम। 13वीं और 14वीं का औसत ज्ञात करें।",
+          "opts": [
+            92.67,
+            85,
+            90,
+            88.5
+          ],
+          "opts_hi": [
+            92.67,
+            85,
+            90,
+            88.5
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A landlord bought a shop for ₹12,00,000. He wants a 10% annual return after paying ₹3,000/month maintenance. What should be the monthly rent?",
+          "q_hi": "एक मकान मालिक ने ₹12,00,000 में दुकान खरीदी। वह ₹3,000/माह रखरखाव भुगतान के बाद 10% वार्षिक रिटर्न चाहता है। मासिक किराया क्या होना चाहिए?",
+          "opts": [
+            "₹12,000",
+            "₹13,000",
+            "₹14,000",
+            "₹15,000"
+          ],
+          "opts_hi": [
+            "₹12,000",
+            "₹13,000",
+            "₹14,000",
+            "₹15,000"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "An amount doubles in 4 years with compound interest. How many years will it take to grow to 16 times its original value?",
+          "q_hi": "एक राशि चक्रवृद्धि ब्याज पर 4 वर्षों में दोगुनी हो जाती है। यह अपने मूल मान का 16 गुना होने में कितने वर्ष लेगी?",
+          "opts": [
+            12,
+            14,
+            16,
+            20
+          ],
+          "opts_hi": [
+            12,
+            14,
+            16,
+            20
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A sum becomes ₹8,000 in 2 years and ₹9,600 in 3 years at compound interest. What is the original principal?",
+          "q_hi": "एक राशि चक्रवृद्धि ब्याज पर 2 वर्षों में ₹8,000 और 3 वर्षों में ₹9,600 हो जाती है। मूलधन क्या है?",
+          "opts": [
+            "₹4,000.33",
+            "₹5,555.56",
+            "₹6,666.67",
+            "₹5,000.00"
+          ],
+          "opts_hi": [
+            "₹4,000.33",
+            "₹5,555.56",
+            "₹6,666.67",
+            "₹5,000.00"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Rakesh purchased 20 L milk at ₹40/L and 10 L at ₹55/L. He mixed and sold at ₹50/L. What was his total profit or loss?",
+          "q_hi": "राकेश ने 20 L दूध ₹40/L और 10 L ₹55/L में खरीदा। उसने मिलाकर ₹50/L में बेचा। उसका कुल लाभ या हानि क्या थी?",
+          "opts": [
+            "Loss of ₹150",
+            "Profit of ₹150",
+            "Profit of ₹300",
+            "Loss of ₹300"
+          ],
+          "opts_hi": [
+            "₹150 की हानि",
+            "₹150 का लाभ",
+            "₹300 का लाभ",
+            "₹300 की हानि"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A toy manufacturer produced 1,000 cars at total cost ₹75,000. Donated 100 to charity. For the rest, offered 15% discount on MP ₹100/car, plus 1 free car per 9 purchased. If all 1,000 cars were distributed, what is his overall gain/loss %?",
+          "q_hi": "एक खिलौना निर्माता ने 1,000 कारों का उत्पादन ₹75,000 की कुल लागत में किया। 100 कारें दान कर दीं। शेष पर, MP ₹100/कार पर 15% छूट दी, साथ ही 9 खरीद पर 1 कार मुफ्त दी। यदि सभी 1,000 कारें वितरित की गईं, तो उसका कुल लाभ/हानि % क्या है?",
+          "opts": [
+            "8.2% loss",
+            "6.5% loss",
+            "4% profit",
+            "10% loss"
+          ],
+          "opts_hi": [
+            "8.2% हानि",
+            "6.5% हानि",
+            "4% लाभ",
+            "10% हानि"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A retailer marks a refrigerator 60% above CP, offers 20% discount, then 5% festive discount. If final SP is ₹18,240, find CP.",
+          "q_hi": "एक रिटेलर रेफ्रिजरेटर को CP से 60% अधिक अंकित करता है, 20% छूट देता है, फिर 5% उत्सव छूट देता है। यदि अंतिम SP ₹18,240 है, तो CP ज्ञात करें।",
+          "opts": [
+            "₹14,000",
+            "₹15,000",
+            "₹16,500",
+            "₹18,000"
+          ],
+          "opts_hi": [
+            "₹14,000",
+            "₹15,000",
+            "₹16,500",
+            "₹18,000"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A 50-liter mixture contains milk and water in ratio 7:3. How much water must be added to change ratio to 7:5?",
+          "q_hi": "50 लीटर मिश्रण में दूध और पानी का अनुपात 7:3 है। अनुपात को 7:5 करने के लिए कितना पानी मिलाना चाहिए?",
+          "opts": [
+            "8 litres",
+            "10 litres",
+            "12 litres",
+            "15 litres"
+          ],
+          "opts_hi": [
+            "8 लीटर",
+            "10 लीटर",
+            "12 लीटर",
+            "15 लीटर"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A can complete a task in 12 days, B in 18 days. If they work together for 5 days, what fraction of the work remains?",
+          "q_hi": "A एक कार्य 12 दिनों में, B 18 दिनों में पूरा कर सकता है। यदि वे 5 दिन साथ काम करते हैं, तो कार्य का कितना भाग शेष रहता है?",
+          "opts": [
+            "11/36",
+            "7/36",
+            "5/36",
+            "13/36"
+          ],
+          "opts_hi": [
+            "11/36",
+            "7/36",
+            "5/36",
+            "13/36"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Two teas priced at ₹80/kg and ₹120/kg are blended and sold at ₹114/kg, achieving a 14% profit margin. What is the ratio of the two teas in the mixture?",
+          "q_hi": "₹80/kg और ₹120/kg वाली दो चायों को मिलाकर ₹114/kg में बेचा जाता है, जिससे 14% लाभ मार्जिन प्राप्त होता है। मिश्रण में दोनों चायों का अनुपात क्या है?",
+          "opts": [
+            "1:1",
+            "2:1",
+            "3:2",
+            "4:1"
+          ],
+          "opts_hi": [
+            "1:1",
+            "2:1",
+            "3:2",
+            "4:1"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Three pipes A, B, C fill a tank in 8, 12, 16 hours respectively. All three are opened for 3 hours, then A is closed. How much additional time is needed to fill the tank?",
+          "q_hi": "तीन पाइप A, B, C एक टंकी को क्रमशः 8, 12, 16 घंटे में भरते हैं। तीनों को 3 घंटे खोला जाता है, फिर A बंद कर दिया जाता है। टंकी को भरने में कितना अतिरिक्त समय लगेगा?",
+          "opts": [
+            "9/7 hours",
+            "5/7 hours",
+            "3/7 hours",
+            "11/7 hours"
+          ],
+          "opts_hi": [
+            "9/7 घंटे",
+            "5/7 घंटे",
+            "3/7 घंटे",
+            "11/7 घंटे"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A superfast train covers a fixed distance in 45 minutes at 200 km/h. Due to diversion, distance increases by 25%. What should its new average speed be to arrive on time?",
+          "q_hi": "एक सुपरफास्ट ट्रेन एक निश्चित दूरी 45 मिनट में 200 किमी/घंटा की चाल से तय करती है। डायवर्जन के कारण दूरी 25% बढ़ जाती है। समय पर पहुँचने के लिए उसकी नई औसत चाल क्या होनी चाहिए?",
+          "opts": [
+            "240 km/h",
+            "250 km/h",
+            "260 km/h",
+            "275 km/h"
+          ],
+          "opts_hi": [
+            "240 किमी/घंटा",
+            "250 किमी/घंटा",
+            "260 किमी/घंटा",
+            "275 किमी/घंटा"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Two cars P and Q start from points 400 km apart. Moving towards each other, they meet in 5 hours; moving in same direction, they meet in 20 hours. What is the speed of car P (the faster car)?",
+          "q_hi": "दो कारें P और Q 400 किमी दूर स्थित बिंदुओं से चलना शुरू करती हैं। एक-दूसरे की ओर चलने पर वे 5 घंटे में मिलती हैं; एक ही दिशा में चलने पर 20 घंटे में मिलती हैं। कार P (तेज़ कार) की चाल क्या है?",
+          "opts": [
+            "40 km/h",
+            "45 km/h",
+            "50 km/h",
+            "60 km/h"
+          ],
+          "opts_hi": [
+            "40 किमी/घंटा",
+            "45 किमी/घंटा",
+            "50 किमी/घंटा",
+            "60 किमी/घंटा"
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A circular cake has radius 14 cm. If 60% of it is eaten, what is the area of cake remaining? (Use π=22/7)",
+          "q_hi": "एक गोल केक की त्रिज्या 14 सेमी है। यदि इसका 60% खा लिया जाए, तो शेष केक का क्षेत्रफल क्या है? (π=22/7 का उपयोग करें)",
+          "opts": [
+            "246.4 cm²",
+            "369.6 cm²",
+            "123.2 cm²",
+            "616 cm²"
+          ],
+          "opts_hi": [
+            "246.4 सेमी²",
+            "369.6 सेमी²",
+            "123.2 सेमी²",
+            "616 सेमी²"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A ring-shaped disc has outer radius 14 cm and inner radius 7 cm. What is the ratio of the ring's area to the whole outer circle?",
+          "q_hi": "एक वलयाकार डिस्क की बाहरी त्रिज्या 14 सेमी और आंतरिक त्रिज्या 7 सेमी है। वलय के क्षेत्रफल और पूरे बाहरी वृत्त के क्षेत्रफल का अनुपात क्या है?",
+          "opts": [
+            "1:2",
+            "3:4",
+            "2:3",
+            "5:7"
+          ],
+          "opts_hi": [
+            "1:2",
+            "3:4",
+            "2:3",
+            "5:7"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A car wheel has a radius of 21 cm. What percentage of its circumference is covered in a one-third turn?",
+          "q_hi": "एक कार के पहिये की त्रिज्या 21 सेमी है। एक-तिहाई घुमाव में इसकी परिधि का कितना प्रतिशत कवर होता है?",
+          "opts": [
+            0.25,
+            0.3333,
+            0.3,
+            0.4
+          ],
+          "opts_hi": [
+            0.25,
+            0.3333,
+            0.3,
+            0.4
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "The line y = mx + 7 passes through (2, 15). Find m.",
+          "q_hi": "रेखा y = mx + 7, (2, 15) से गुज़रती है। m ज्ञात करें।",
+          "opts": [
+            3,
+            4,
+            5,
+            6
+          ],
+          "opts_hi": [
+            3,
+            4,
+            5,
+            6
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "27³ + 15³ − 33³ + 315 is equal to:",
+          "q_hi": "27³ + 15³ − 33³ + 315 का मान क्या है?",
+          "opts": [
+            "−12,564",
+            "−13,890",
+            "−11,240",
+            "−14,720"
+          ],
+          "opts_hi": [
+            "−12,564",
+            "−13,890",
+            "−11,240",
+            "−14,720"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
           "q": "Select the synonym of \"Abundant.\"",
           "opts": [
             "Scarce",
