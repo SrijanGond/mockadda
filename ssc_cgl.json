@@ -2241,6 +2241,24 @@
           "subject": "General Intelligence & Reasoning"
         },
         {
+          "q": "BDFH : ACEG :: HJLN : ?",
+          "q_hi": "BDFH : ACEG :: HJLN : ?",
+          "opts": [
+            "GIKM",
+            "IKMO",
+            "GIMO",
+            "HIKM"
+          ],
+          "opts_hi": [
+            "GIKM",
+            "IKMO",
+            "GIMO",
+            "HIKM"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
           "q": "Who is known as the \"Father of the Indian Constitution\"?",
           "q_hi": "भारतीय संविधान के जनक के रूप में किसे जाना जाता है?",
           "opts": [
