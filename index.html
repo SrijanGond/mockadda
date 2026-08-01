@@ -481,12 +481,34 @@ function getMarkingScheme(test){
   };
 }
 
+// Caps each subject section of a test's questions at maxPerSection (default 25),
+// in first-seen order. Any questions beyond the 25th for a given subject are
+// dropped entirely (not counted, not shown, not included in scoring).
+// SCOPE: only SSC CGL and SSC CHSL follow this fixed 25/25/25/25 (General
+// Intelligence & Reasoning, General Awareness, Quantitative Aptitude, English
+// Comprehension) pattern — other exams (Banking, Teaching, Police, Railways,
+// etc.) have their own section sizes and must NOT be capped here. Gate this
+// by examKey, not just by whether a test has subject tags.
+const SECTION_CAPPED_EXAMS = new Set(['ssc_cgl','ssc_chsl']);
+function capQuestionsPerSection(questions, examKey, maxPerSection){
+  if(!SECTION_CAPPED_EXAMS.has(examKey)) return questions;
+  const cap = maxPerSection || 25;
+  const hasSubjects = questions.some(q=>q.subject);
+  if(!hasSubjects) return questions;
+  const counts={};
+  return questions.filter(q=>{
+    const subj = q.subject || 'General';
+    counts[subj] = (counts[subj]||0)+1;
+    return counts[subj] <= cap;
+  });
+}
+
 // ── QUIZ LOGIC ────────────────────────────────────────────────────────────────
 function startQuiz(catKey,examKey,test,returnScreen){
   S.activeCatKey=catKey; S.activeExamKey=examKey;
   S.activeExam=(catKey && DATA[catKey] && DATA[catKey].exams) ? DATA[catKey].exams[examKey] : null;
   S.returnScreen = returnScreen || 'tests';
-  S.test={...test,questions:[...test.questions]};
+  S.test={...test,questions:capQuestionsPerSection([...test.questions], examKey)};
   S.qi=0;S.ans={};S.flagged=new Set();S.visited=new Set([0]);
   S.timeLeft=test.duration*60;S.startTime=Date.now();
   S.navOpen=false;S.confirm=false;S.reviewOpen=false;S.stopConfirm=false;
