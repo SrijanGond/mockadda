@@ -2871,6 +2871,366 @@
           "subject": "Quantitative Aptitude"
         },
         {
+          "q": "Arrange the fractions 7/11, 5/8, 3/5, and 4/7 in ascending order.",
+          "q_hi": "भिन्नों को आरोही क्रम में व्यवस्थित करें 7/11, 5/8, 3/5, और 4/7।",
+          "opts": [
+            "3/5, 4/7, 5/8, 7/11",
+            "4/7, 3/5, 5/8, 7/11",
+            "3/5, 5/8, 4/7, 7/11",
+            "4/7, 5/8, 3/5, 7/11"
+          ],
+          "opts_hi": [
+            "3/5, 4/7, 5/8, 7/11",
+            "4/7, 3/5, 5/8, 7/11",
+            "3/5, 5/8, 4/7, 7/11",
+            "4/7, 5/8, 3/5, 7/11"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Simplify: (3¼ + 2.8) - 1.7",
+          "q_hi": "सरल करें: (3¼ + 2.8) - 1.7",
+          "opts": [
+            4.35,
+            4.55,
+            5.35,
+            5.55
+          ],
+          "opts_hi": [
+            4.35,
+            4.55,
+            5.35,
+            5.55
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Evaluate: 8⅓ - [4⅖ - {2½ - (¾ × (1½ - ⅓))}]",
+          "q_hi": "मूल्यांकन करें: 8⅓ - [4⅖ - {2½ - (¾ × (1½ - ⅓))}]",
+          "opts": [
+            "5¼",
+            "4¾",
+            "6⅙",
+            "5⅚"
+          ],
+          "opts_hi": [
+            "5¼",
+            "4¾",
+            "6⅙",
+            "5⅚"
+          ],
+          "ans": 3,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A sum of ₹12,000 becomes ₹14,520 in 2 years at compound interest. Find the rate of interest per annum.",
+          "q_hi": "₹12,000 की राशि चक्रवृद्धि ब्याज पर 2 वर्षों में ₹14,520 हो जाती है। वार्षिक ब्याज दर ज्ञात कीजिए।",
+          "opts": [
+            0.08,
+            0.09,
+            0.1,
+            0.12
+          ],
+          "opts_hi": [
+            0.08,
+            0.09,
+            0.1,
+            0.12
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "The ratio of the ages of A and B is 4 : 5. After 8 years, the ratio becomes 5 : 6. Find the present age of A.",
+          "q_hi": "A और B की आयु का अनुपात 4 : 5 है। 8 वर्ष बाद अनुपात 5 : 6 हो जाता है। A की वर्तमान आयु ज्ञात कीजिए।",
+          "opts": [
+            "24 years",
+            "28 years",
+            "32 years",
+            "36 years"
+          ],
+          "opts_hi": [
+            "24 वर्ष",
+            "28 वर्ष",
+            "32 वर्ष",
+            "36 वर्ष"
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A alone can complete a work in 12 days and B alone in 18 days. They work together for 4 days and then A leaves. In how many more days will B finish the remaining work?",
+          "q_hi": "A अकेला एक कार्य 12 दिनों में और B अकेला 18 दिनों में पूरा कर सकता है। वे 4 दिन साथ काम करते हैं और फिर A छोड़ देता है। शेष कार्य पूरा करने में B को और कितने दिन लगेंगे?",
+          "opts": [
+            "6 days",
+            "8 days",
+            "10 days",
+            "12 days"
+          ],
+          "opts_hi": [
+            "6 दिन",
+            "8 दिन",
+            "10 दिन",
+            "12 दिन"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "The selling price of an article is ₹1,080 after allowing a discount of 10%. If the cost price is ₹900, find the marked price.",
+          "q_hi": "10% छूट देने के बाद एक वस्तु का विक्रय मूल्य ₹1,080 है। यदि लागत मूल्य ₹900 है, तो अंकित मूल्य ज्ञात कीजिए।",
+          "opts": [
+            "₹1,100",
+            "₹1,200",
+            "₹1,250",
+            "₹1,300"
+          ],
+          "opts_hi": [
+            "₹1,100",
+            "₹1,200",
+            "₹1,250",
+            "₹1,300"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A train 180 m long is running at 54 km/h. How long will it take to cross a platform 120 m long?",
+          "q_hi": "180 मीटर लंबी एक ट्रेन 54 किमी/घंटा की चाल से चल रही है। 120 मीटर लंबे प्लेटफॉर्म को पार करने में उसे कितना समय लगेगा?",
+          "opts": [
+            "15 seconds",
+            "18 seconds",
+            "20 seconds",
+            "24 seconds"
+          ],
+          "opts_hi": [
+            "15 सेकंड",
+            "18 सेकंड",
+            "20 सेकंड",
+            "24 सेकंड"
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "The area of a square is 576 cm². Find the length of its diagonal.",
+          "q_hi": "एक वर्ग का क्षेत्रफल 576 सेमी² है। इसके विकर्ण की लंबाई ज्ञात कीजिए।",
+          "opts": [
+            "24√2 cm",
+            "28√2 cm",
+            "32√2 cm",
+            "36√2 cm"
+          ],
+          "opts_hi": [
+            "24√2 सेमी",
+            "28√2 सेमी",
+            "32√2 सेमी",
+            "36√2 सेमी"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "If x + 1/x = 5, find the value of x² + 1/x².",
+          "q_hi": "यदि x + 1/x = 5, तो x² + 1/x² का मान ज्ञात कीजिए।",
+          "opts": [
+            23,
+            25,
+            27,
+            29
+          ],
+          "opts_hi": [
+            23,
+            25,
+            27,
+            29
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "The difference between the compound interest and simple interest on ₹8,000 for 2 years at 10% per annum is:",
+          "q_hi": "₹8,000 पर 10% वार्षिक दर से 2 वर्षों का चक्रवृद्धि ब्याज और साधारण ब्याज का अंतर है:",
+          "opts": [
+            "₹80",
+            "₹100",
+            "₹120",
+            "₹160"
+          ],
+          "opts_hi": [
+            "₹80",
+            "₹100",
+            "₹120",
+            "₹160"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A can do a piece of work in 20 days and B in 30 days. They work together for 6 days and then A leaves. In how many days will B finish the remaining work?",
+          "q_hi": "A एक कार्य 20 दिनों में और B 30 दिनों में कर सकता है। वे 6 दिन साथ काम करते हैं और फिर A छोड़ देता है। शेष कार्य B कितने दिनों में पूरा करेगा?",
+          "opts": [
+            "9 days",
+            "12 days",
+            "15 days",
+            "18 days"
+          ],
+          "opts_hi": [
+            "9 दिन",
+            "12 दिन",
+            "15 दिन",
+            "18 दिन"
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "The average weight of 25 students is 48 kg. If the weight of the teacher is included, the average becomes 49 kg. Find the weight of the teacher.",
+          "q_hi": "25 छात्रों का औसत भार 48 किग्रा है। यदि शिक्षक का भार शामिल किया जाए तो औसत 49 किग्रा हो जाता है। शिक्षक का भार ज्ञात कीजिए।",
+          "opts": [
+            "70 kg",
+            "72 kg",
+            "74 kg",
+            "76 kg"
+          ],
+          "opts_hi": [
+            "70 किग्रा",
+            "72 किग्रा",
+            "74 किग्रा",
+            "76 किग्रा"
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A shopkeeper marks his goods 40% above the cost price and allows a discount of 20%. Find his profit percentage.",
+          "q_hi": "एक दुकानदार अपनी वस्तुएँ लागत मूल्य से 40% अधिक अंकित करता है और 20% छूट देता है। उसका लाभ प्रतिशत ज्ञात कीजिए।",
+          "opts": [
+            0.1,
+            0.12,
+            0.15,
+            0.18
+          ],
+          "opts_hi": [
+            0.1,
+            0.12,
+            0.15,
+            0.18
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "The ratio of two numbers is 3 : 5. If each number is increased by 10, the ratio becomes 5 : 7. Find the numbers.",
+          "q_hi": "दो संख्याओं का अनुपात 3 : 5 है। यदि प्रत्येक संख्या में 10 जोड़ दिया जाए तो अनुपात 5 : 7 हो जाता है। संख्याएँ ज्ञात कीजिए।",
+          "opts": [
+            "15, 25",
+            "18, 30",
+            "21, 35",
+            "24, 40"
+          ],
+          "opts_hi": [
+            "15, 25",
+            "18, 30",
+            "21, 35",
+            "24, 40"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A sum amounts to ₹6,655 in 3 years at 10% compound interest. Find the principal.",
+          "q_hi": "10% चक्रवृद्धि ब्याज पर 3 वर्षों में एक राशि ₹6,655 हो जाती है। मूलधन ज्ञात कीजिए।",
+          "opts": [
+            "₹4,500",
+            "₹5,000",
+            "₹5,500",
+            "₹6,000"
+          ],
+          "opts_hi": [
+            "₹4,500",
+            "₹5,000",
+            "₹5,500",
+            "₹6,000"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "The perimeter of a rectangle is 60 cm and its length is 18 cm. Find its area.",
+          "q_hi": "एक आयत का परिमाप 60 सेमी और लंबाई 18 सेमी है। इसका क्षेत्रफल ज्ञात कीजिए।",
+          "opts": [
+            "198 cm²",
+            "216 cm²",
+            "234 cm²",
+            "252 cm²"
+          ],
+          "opts_hi": [
+            "198 सेमी²",
+            "216 सेमी²",
+            "234 सेमी²",
+            "252 सेमी²"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "If 15 men can complete a work in 12 days, how many men are required to complete the same work in 9 days?",
+          "q_hi": "यदि 15 पुरुष एक कार्य 12 दिनों में पूरा कर सकते हैं, तो उसी कार्य को 9 दिनों में पूरा करने के लिए कितने पुरुषों की आवश्यकता होगी?",
+          "opts": [
+            18,
+            20,
+            22,
+            24
+          ],
+          "opts_hi": [
+            18,
+            20,
+            22,
+            24
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A mixture contains milk and water in the ratio 5 : 3. If 16 litres of mixture is replaced by water, the ratio becomes 3 : 5. Find the original quantity of mixture.",
+          "q_hi": "एक मिश्रण में दूध और पानी का अनुपात 5 : 3 है। यदि 16 लीटर मिश्रण को पानी से बदल दिया जाए तो अनुपात 3 : 5 हो जाता है। मिश्रण की मूल मात्रा ज्ञात कीजिए।",
+          "opts": [
+            "40 litres",
+            "48 litres",
+            "56 litres",
+            "64 litres"
+          ],
+          "opts_hi": [
+            "40 लीटर",
+            "48 लीटर",
+            "56 लीटर",
+            "64 लीटर"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "The simple interest on a sum for 3 years at 8% per annum is ₹1,440. Find the principal.",
+          "q_hi": "8% वार्षिक दर से 3 वर्षों का साधारण ब्याज ₹1,440 है। मूलधन ज्ञात कीजिए।",
+          "opts": [
+            "₹5,000",
+            "₹5,500",
+            "₹6,000",
+            "₹6,500"
+          ],
+          "opts_hi": [
+            "₹5,000",
+            "₹5,500",
+            "₹6,000",
+            "₹6,500"
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
           "q": "Identify the sentence with the correct use of the tense.",
           "opts": [
             "She is working here since 2019.",
