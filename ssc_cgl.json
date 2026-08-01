@@ -5346,6 +5346,456 @@
           "subject": "English Comprehension"
         },
         {
+          "q": "Select the most appropriate synonym of the given word: OBSEQUIOUS",
+          "q_hi": "",
+          "opts": [
+            "Rebellious",
+            "Servile",
+            "Confident",
+            "Indifferent"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Choose the correct meaning of the idiom: \"A bolt from the blue\"",
+          "q_hi": "",
+          "opts": [
+            "A planned event",
+            "A sudden unexpected event",
+            "A recurring problem",
+            "A minor inconvenience"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Select the most appropriate antonym of the given word: MUNIFICENT",
+          "q_hi": "",
+          "opts": [
+            "Generous",
+            "Miserly",
+            "Charitable",
+            "Lavish"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Identify the misspelt word.",
+          "q_hi": "",
+          "opts": [
+            "Bureaucracy",
+            "Occurrence",
+            "Concensus",
+            "Questionnaire"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 2,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Spot the correct spelling of the medical term for inflammation of the appendix.",
+          "q_hi": "",
+          "opts": [
+            "Appendicitis",
+            "Apendicitis",
+            "Appendicytis",
+            "Appendicitus"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 0,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Choose the correct one-word substitute for: 'A person who is unable to sleep'",
+          "q_hi": "",
+          "opts": [
+            "Somnambulist",
+            "Insomniac",
+            "Narcoleptic",
+            "Hypnotist"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Select the correct option: The negotiations were so fraught that both sides could ___ finalize the agenda.",
+          "q_hi": "",
+          "opts": [
+            "hardly",
+            "rarely",
+            "seldom",
+            "nearly"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 0,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Select the correct option: Rare though the phenomenon is, it can occur ___ extreme temperature fluctuations.",
+          "q_hi": "",
+          "opts": [
+            "towards",
+            "amid",
+            "among",
+            "under"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 3,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Select the correct option: While the plan appeared feasible on paper, its execution proved ___ challenging than expected.",
+          "q_hi": "",
+          "opts": [
+            "less",
+            "more",
+            "much",
+            "rather"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Find the part of the sentence that contains an error: That the committee failed to address the core issues (1)/ of the labour dispute were unsurprising (2)/ given the conflicting testimonies (3)/ gathered over multiple sessions. (4)",
+          "q_hi": "",
+          "opts": [
+            "That the committee failed to address the core issues",
+            "of the labour dispute were unsurprising",
+            "given the conflicting testimonies",
+            "gathered over multiple sessions"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Find the part of the sentence that contains an error: What make the new policy particularly controversial is not its proposed tax structure per se, (1)/ but that it assumes, without adequate evidence, (2)/ a uniformity among regions whose economic conditions are (3)/ vastly incomparable by any objective measure. (4)",
+          "q_hi": "",
+          "opts": [
+            "What make the new policy particularly controversial is not its proposed tax structure per se",
+            "but that it assumes, without adequate evidence",
+            "a uniformity among regions whose economic conditions are",
+            "vastly incomparable by any objective measure"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 0,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Change from active to passive: They have been ignoring the maintenance of the equipment for months.",
+          "q_hi": "",
+          "opts": [
+            "Maintenance of the equipment had been ignored by them for months.",
+            "Maintenance of the equipment is being ignored by them for months.",
+            "Maintenance of the equipment has been being ignored by them for months.",
+            "Maintenance of the equipment was ignored by them for months."
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 2,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Select the sentence containing the homonym of the highlighted word: The court adjourned the suit until further evidence was presented.",
+          "q_hi": "",
+          "opts": [
+            "He wore a navy blue suit to the interview.",
+            "The suit was filed against the corporation for fraud.",
+            "The lawsuit dragged on for over a decade.",
+            "The plaintiff's suit was dismissed by the judge."
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 0,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Convert from passive to active voice: It was being argued by several experts that the strategy had failed internally.",
+          "q_hi": "",
+          "opts": [
+            "Several experts argued that the strategy had failed internally.",
+            "The strategy was failing, several experts argued.",
+            "The experts were arguing a failed strategy internally.",
+            "The strategy had argued failure among several experts."
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 0,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Read the passage and answer: What is the primary trade-off discussed in the passage?",
+          "q_hi": "",
+          "opts": [
+            "Efficiency vs Profitability",
+            "Efficiency vs Resilience",
+            "Innovation vs Tradition",
+            "Growth vs Sustainability"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "What event is cited as an example of over-optimized systems failing?",
+          "q_hi": "",
+          "opts": [
+            "The 2008 Financial Crisis",
+            "The COVID-19 pandemic",
+            "The Dot-com bubble",
+            "World War II"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Why is resilience harder to quantify than efficiency?",
+          "q_hi": "",
+          "opts": [
+            "It has no economic value",
+            "Its value is realized only during crises, not routine operations",
+            "It cannot be measured mathematically",
+            "It is a subjective term with no clear definition"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "What does the author suggest organizations should do?",
+          "q_hi": "",
+          "opts": [
+            "Abandon efficiency entirely",
+            "Recalibrate the balance between efficiency and resilience",
+            "Focus solely on cost minimization",
+            "Ignore supply chain diversification"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "What is meant by \"strategic redundancy\" in the passage?",
+          "q_hi": "",
+          "opts": [
+            "Unnecessary duplication of work",
+            "Deliberate buffers and backups to withstand disruption",
+            "Reducing workforce size",
+            "Eliminating backup systems"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Choose the most suitable option to replace the highlighted part: He has the reputation to be a ruthless negotiator.",
+          "q_hi": "",
+          "opts": [
+            "of having ruthlessness",
+            "of being a ruthless negotiator",
+            "of being the ruthless negotiator",
+            "to being ruthless"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Choose the most suitable option to replace the highlighted part: The mentor advised her to avoid procrastinating and doing her tasks on time.",
+          "q_hi": "",
+          "opts": [
+            "to avoid procrastinating and to do her tasks on time",
+            "avoiding procrastination and doing tasks on time",
+            "to not procrastinate and do tasks on time",
+            "to avoid procrastination and to doing tasks on time"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 0,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Convert to indirect speech: She asked me, \"Where have you kept the documents?\"",
+          "q_hi": "",
+          "opts": [
+            "She asked me where I had kept the documents.",
+            "She asked me where have I kept the documents.",
+            "She asked me where I have kept the documents.",
+            "She asked me where had I kept the documents."
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 0,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Convert to direct speech: He said that he would submit the report by evening.",
+          "q_hi": "",
+          "opts": [
+            "I will submit the report by evening, he said.",
+            "I would submit the report by evening, he said.",
+            "I shall submit the report by evening, he said.",
+            "I can submit the report by evening, he said."
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 0,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Rearrange the sentences to make a logical passage: The final report was compiled after cross-verification. Field surveys were conducted across multiple districts. Raw data was entered into a centralized database. Researchers identified target regions for the study.",
+          "q_hi": "",
+          "opts": [
+            "4-2-3-1",
+            "2-3-1-4",
+            "3-1-4-2",
+            "4-1-2-3"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 0,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Rearrange the sentences to form a coherent paragraph: It typically involves gathering, analyzing, and interpreting numerical data. Statistics is a branch of mathematics dealing with data collection and analysis. This can be either descriptive, summarizing data, or inferential, drawing conclusions. The insights derived are then used to inform decision-making across various fields.",
+          "q_hi": "",
+          "opts": [
+            "2, 1, 3, 4",
+            "1, 2, 4, 3",
+            "4, 3, 2, 1",
+            "3, 4, 1, 2"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 0,
+          "subject": "English Comprehension"
+        },
+        {
           "q": "Select the related word from the given alternatives. Ampere : Current :: Kelvin : ?",
           "q_hi": "दिए गए विकल्पों में से संबंधित शब्द चुनें। Ampere : Current :: Kelvin : ?",
           "opts": [
