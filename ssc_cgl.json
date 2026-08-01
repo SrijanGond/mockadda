@@ -5290,6 +5290,42 @@
           ],
           "ans": 0,
           "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Select the letter-cluster that can replace the question mark: ACEG, BDFH, CEGI, DFHJ, ?",
+          "q_hi": "प्रश्न चिह्न के स्थान पर आने वाला अक्षर-समूह चुनें: ACEG, BDFH, CEGI, DFHJ, ?",
+          "opts": [
+            "EGIK",
+            "EGHJ",
+            "FHJL",
+            "EGIL"
+          ],
+          "opts_hi": [
+            "EGIK",
+            "EGHJ",
+            "FHJL",
+            "EGIL"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Select the letter-cluster that can replace the question mark: KMNP, LNQR, MPRT, NQTU, ?",
+          "q_hi": "प्रश्न चिह्न के स्थान पर आने वाला अक्षर-समूह चुनें: KMNP, LNQR, MPRT, NQTU, ?",
+          "opts": [
+            "ORUV",
+            "OQUV",
+            "OQRV",
+            "OQRU"
+          ],
+          "opts_hi": [
+            "ORUV",
+            "OQUV",
+            "OQRV",
+            "OQRU"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
         }
       ]
     },
