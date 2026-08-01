@@ -3295,6 +3295,366 @@
           ],
           "ans": 1,
           "subject": "English Comprehension"
+        },
+        {
+          "q": "Choose the correctly spelt word.",
+          "q_hi": "",
+          "opts": [
+            "Accomodation",
+            "Accommodation",
+            "Acommodation",
+            "Acomodation"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Choose the antonym of \"Benevolent\".",
+          "q_hi": "",
+          "opts": [
+            "Kind",
+            "Generous",
+            "Malevolent",
+            "Charitable"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 2,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Choose the synonym of \"Ephemeral\".",
+          "q_hi": "",
+          "opts": [
+            "Permanent",
+            "Temporary",
+            "Eternal",
+            "Lasting"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Fill in the blank with the correct preposition: He is fond _____ classical music.",
+          "q_hi": "",
+          "opts": [
+            "of",
+            "in",
+            "with",
+            "for"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 0,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Choose the correct passive form of: \"The teacher is teaching the students.\"",
+          "q_hi": "",
+          "opts": [
+            "The students are taught by the teacher.",
+            "The students are being taught by the teacher.",
+            "The students were taught by the teacher.",
+            "The students have been taught by the teacher."
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Identify the error in the sentence: Neither of the two boys have completed their homework.",
+          "q_hi": "",
+          "opts": [
+            "Neither of",
+            "the two boys",
+            "have completed",
+            "their homework"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 2,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Choose the one-word substitution for \"A person who loves mankind\".",
+          "q_hi": "",
+          "opts": [
+            "Misanthrope",
+            "Philanthropist",
+            "Optimist",
+            "Pessimist"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Choose the correct meaning of the idiom \"To spill the beans\".",
+          "q_hi": "",
+          "opts": [
+            "To reveal a secret",
+            "To cook food",
+            "To waste time",
+            "To be angry"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 0,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Improve the underlined part: She is enough tall to touch the ceiling.",
+          "q_hi": "",
+          "opts": [
+            "tall enough",
+            "enough taller",
+            "so tall",
+            "No improvement"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 0,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Choose the correct indirect speech of: He said, \"I am going to the market.\"",
+          "q_hi": "",
+          "opts": [
+            "He said that he is going to the market.",
+            "He said that he was going to the market.",
+            "He said that I am going to the market.",
+            "He said that he will go to the market."
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Choose the correct article: _____ honest man is always respected.",
+          "q_hi": "",
+          "opts": [
+            "A",
+            "An",
+            "The",
+            "No article"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Identify the part of speech of the underlined word: She sings beautifully.",
+          "q_hi": "",
+          "opts": [
+            "Noun",
+            "Verb",
+            "Adverb",
+            "Adjective"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 2,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Choose the correctly punctuated sentence.",
+          "q_hi": "",
+          "opts": [
+            "What a beautiful day it is.",
+            "What a beautiful day it is!",
+            "What a beautiful day it is?",
+            "What a beautiful day, it is!"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Fill in the blank: If I _____ rich, I would help the poor.",
+          "q_hi": "",
+          "opts": [
+            "am",
+            "was",
+            "were",
+            "will be"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 2,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Choose the antonym of \"Fragile\".",
+          "q_hi": "",
+          "opts": [
+            "Weak",
+            "Delicate",
+            "Strong",
+            "Brittle"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 2,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Choose the synonym of \"Abundant\".",
+          "q_hi": "",
+          "opts": [
+            "Scarce",
+            "Plentiful",
+            "Rare",
+            "Limited"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Choose the correct spelling.",
+          "q_hi": "",
+          "opts": [
+            "Occassion",
+            "Occasion",
+            "Ocassion",
+            "Occation"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "One-word substitution: \"A person who does not believe in God\".",
+          "q_hi": "",
+          "opts": [
+            "Theist",
+            "Atheist",
+            "Agnostic",
+            "Believer"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Meaning of the idiom \"Break the ice\".",
+          "q_hi": "",
+          "opts": [
+            "To start a conversation",
+            "To break something",
+            "To get angry",
+            "To end a relationship"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 0,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Error spotting: The news are very encouraging.",
+          "q_hi": "",
+          "opts": [
+            "The news",
+            "are",
+            "very encouraging",
+            "No error"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
         }
       ]
     },
