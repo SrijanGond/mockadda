@@ -2007,6 +2007,240 @@
           "exp_hi": "घड़ी के दर्पण प्रतिबिंब का समय ज्ञात करने के लिए दिए गए समय को 11:60 में से घटाते हैं। 11:60 − 08:20 = 03:40।"
         },
         {
+          "q": "Select the related word: Newton : Force :: Joule : ?",
+          "q_hi": "संबंधित शब्द का चयन करें: न्यूटन : बल :: जूल : ?",
+          "opts": [
+            "Power",
+            "Energy",
+            "Pressure",
+            "Work"
+          ],
+          "opts_hi": [
+            "शक्ति",
+            "ऊर्जा",
+            "दाब",
+            "कार्य"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Select the related word: Ganges : Gangotri :: Nile : ?",
+          "q_hi": "संबंधित शब्द का चयन करें: गंगा : गंगोत्री :: नील : ?",
+          "opts": [
+            "Lake Victoria",
+            "Ethiopian Highlands",
+            "Sudan",
+            "Cairo"
+          ],
+          "opts_hi": [
+            "विक्टोरिया झील",
+            "इथियोपियाई उच्चभूमि",
+            "सूडान",
+            "काहिरा"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Find the next letter-cluster: D H L, H L P, L P T, P T X, ?",
+          "q_hi": "अगला अक्षर-समूह ज्ञात करें: D H L, H L P, L P T, P T X, ?",
+          "opts": [
+            "TXB",
+            "TYA",
+            "SXB",
+            "UYB"
+          ],
+          "opts_hi": [
+            "TXB",
+            "TYA",
+            "SXB",
+            "UYB"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Find the next letter-cluster: PQR, QPS, RQT, SRU, ?",
+          "q_hi": "अगला अक्षर-समूह ज्ञात करें: PQR, QPS, RQT, SRU, ?",
+          "opts": [
+            "TSV",
+            "TSU",
+            "USV",
+            "TRV"
+          ],
+          "opts_hi": [
+            "TSV",
+            "TSU",
+            "USV",
+            "TRV"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Find the next letter-cluster: AXC, DZF, GBI, JEK, ?",
+          "q_hi": "अगला अक्षर-समूह ज्ञात करें: AXC, DZF, GBI, JEK, ?",
+          "opts": [
+            "MHN",
+            "MGN",
+            "NHM",
+            "LHM"
+          ],
+          "opts_hi": [
+            "MHN",
+            "MGN",
+            "NHM",
+            "LHM"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Find the next letter-cluster: BDFH, CEGI, DFHJ, EGIK, ?",
+          "q_hi": "अगला अक्षर-समूह ज्ञात करें: BDFH, CEGI, DFHJ, EGIK, ?",
+          "opts": [
+            "FHJL",
+            "FGJL",
+            "FHIK",
+            "GHJL"
+          ],
+          "opts_hi": [
+            "FHJL",
+            "FGJL",
+            "FHIK",
+            "GHJL"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "What comes next in the series: 5, 15, 9, 19, 13, 23, 17, ?",
+          "q_hi": "श्रृंखला में अगला पद क्या आएगा: 5, 15, 9, 19, 13, 23, 17, ?",
+          "opts": [
+            21,
+            27,
+            25,
+            29
+          ],
+          "opts_hi": [
+            21,
+            27,
+            25,
+            29
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "The letters of the word “TEACHER” are arranged in alphabetical order. How many letters of the English alphabet lie between the letter that is second from the left and the letter that is third from the right in the new arrangement?",
+          "q_hi": "शब्द “TEACHER” के अक्षरों को वर्णानुक्रम में व्यवस्थित किया गया है। नई व्यवस्था में बाईं ओर से दूसरे और दाईं ओर से तीसरे अक्षर के बीच अंग्रेजी वर्णमाला के कितने अक्षर आते हैं?",
+          "opts": [
+            8,
+            10,
+            11,
+            12
+          ],
+          "opts_hi": [
+            8,
+            10,
+            11,
+            12
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Which of the following addresses are identical? 1. Rahul Sharma, B-45, Green Park, Delhi, 110016 2. Rahul Sharma, B-45, Green Park, Delhi 110016 3. Rahul S., B-45, Green Park, Delhi, 110016 4. Rahul Sharma, B-45, Green Park, Delhi, 110016",
+          "q_hi": "निम्नलिखित में से कौन से पते समान हैं? 1. Rahul Sharma, B-45, Green Park, Delhi, 110016 2. Rahul Sharma, B-45, Green Park, Delhi 110016 3. Rahul S., B-45, Green Park, Delhi, 110016 4. Rahul Sharma, B-45, Green Park, Delhi, 110016",
+          "opts": [
+            "1 and 2",
+            "1 and 4",
+            "2 and 3",
+            "3 and 4"
+          ],
+          "opts_hi": [
+            "1 और 2",
+            "1 और 4",
+            "2 और 3",
+            "3 और 4"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Complete the analogy: BE : HK :: DG : ?",
+          "q_hi": "सादृश्य पूरा करें: BE : HK :: DG : ?",
+          "opts": [
+            "JM",
+            "IN",
+            "JO",
+            "KN"
+          ],
+          "opts_hi": [
+            "JM",
+            "IN",
+            "JO",
+            "KN"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "A is facing East. C is seated second to the left of A. Who is sitting immediately to the right of C?",
+          "q_hi": "A पूर्व की ओर मुख किए हुए है। C, A के बाईं ओर दूसरे स्थान पर बैठा है। C के तुरंत दाईं ओर कौन बैठा है?",
+          "opts": [
+            "The person seated opposite A",
+            "The person seated to the immediate left of A",
+            "The person seated to the immediate right of A",
+            "Cannot be determined"
+          ],
+          "opts_hi": [
+            "A के विपरीत बैठा व्यक्ति",
+            "A के तुरंत बाईं ओर बैठा व्यक्ति",
+            "A के तुरंत दाईं ओर बैठा व्यक्ति",
+            "निर्धारित नहीं किया जा सकता"
+          ],
+          "ans": 3,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "TIME : VJOG :: WORK : ?",
+          "q_hi": "TIME : VJOG :: WORK : ?",
+          "opts": [
+            "YQTM",
+            "YPTM",
+            "XQTM",
+            "YQSM"
+          ],
+          "opts_hi": [
+            "YQTM",
+            "YPTM",
+            "XQTM",
+            "YQSM"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Apply the same pattern: ELBA : ABLE :: TNETNOP : ?",
+          "q_hi": "समान पैटर्न लागू करें: ELBA : ABLE :: TNETNOP : ?",
+          "opts": [
+            "POTENT",
+            "CONTENT",
+            "COMPONENT",
+            "POTENTN"
+          ],
+          "opts_hi": [
+            "POTENT",
+            "CONTENT",
+            "COMPONENT",
+            "POTENTN"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
           "q": "Who is known as the \"Father of the Indian Constitution\"?",
           "q_hi": "भारतीय संविधान के जनक के रूप में किसे जाना जाता है?",
           "opts": [
