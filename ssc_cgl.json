@@ -489,6 +489,24 @@
           "exp_hi": "जैसे चित्रकार का मुख्य औज़ार ब्रश होता है, उसी प्रकार बढ़ई का मुख्य शिल्प औज़ार छेनी (Chisel) होता है।"
         },
         {
+          "q": "Select the letter-cluster that can replace the question mark: PRTQ, QSUR, RTVS, SUWT, ?",
+          "q_hi": "प्रश्न चिह्न के स्थान पर आने वाला अक्षर-समूह चुनें: PRTQ, QSUR, RTVS, SUWT, ?",
+          "opts": [
+            "TVXU",
+            "TVXW",
+            "UVXU",
+            "TWXU"
+          ],
+          "opts_hi": [
+            "TVXU",
+            "TVXW",
+            "UVXU",
+            "TWXU"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
           "q": "Which schedule of the Indian Constitution contains provisions related to the disqualification of members of Parliament on grounds of defection?",
           "opts": [
             "Eighth Schedule",
