@@ -2259,6 +2259,168 @@
           "subject": "General Intelligence & Reasoning"
         },
         {
+          "q": "Identify the odd one: 3, 5, 7, 11, 13, 17, 19, 21",
+          "q_hi": "विषम संख्या पहचानें: 3, 5, 7, 11, 13, 17, 19, 21",
+          "opts": [
+            17,
+            19,
+            21,
+            13
+          ],
+          "opts_hi": [
+            17,
+            19,
+            21,
+            13
+          ],
+          "ans": 2,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Which group is the odd one out?",
+          "q_hi": "कौन सा समूह विषम है?",
+          "opts": [
+            "2007-05-03T00:00:00.000Z",
+            "11, 13, 17",
+            "2006-04-02T00:00:00.000Z",
+            "19, 23, 29"
+          ],
+          "opts_hi": [
+            "2007-05-03T00:00:00.000Z",
+            "11, 13, 17",
+            "2006-04-02T00:00:00.000Z",
+            "19, 23, 29"
+          ],
+          "ans": 2,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Pointing to a photograph, a man said, “She is the daughter of my grandfather’s only son.” How is the woman related to the man?",
+          "q_hi": "एक तस्वीर की ओर इशारा करते हुए, एक पुरुष ने कहा, “वह मेरे दादा के इकलौते पुत्र की पुत्री है।” वह महिला उस पुरुष से किस प्रकार संबंधित है?",
+          "opts": [
+            "Sister",
+            "Daughter",
+            "Cousin",
+            "Niece"
+          ],
+          "opts_hi": [
+            "बहन",
+            "पुत्री",
+            "चचेरी/ममेरी बहन",
+            "भतीजी/भांजी"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Pointing to a lady, a girl said, “She is the only daughter of my father’s mother.” How is the lady related to the girl?",
+          "q_hi": "एक महिला की ओर इशारा करते हुए, एक लड़की ने कहा, “वह मेरे पिता की माता की इकलौती पुत्री है।” वह महिला उस लड़की से किस प्रकार संबंधित है?",
+          "opts": [
+            "Mother",
+            "Aunt",
+            "Sister",
+            "Grandmother"
+          ],
+          "opts_hi": [
+            "माता",
+            "चाची/मामी/मौसी",
+            "बहन",
+            "दादी/नानी"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Identify the group that does NOT follow the same pattern:",
+          "q_hi": "वह समूह पहचानें जो समान पैटर्न का पालन नहीं करता है:",
+          "opts": [
+            "P16 : N14 : L12",
+            "R18 : P16 : N14",
+            "T20 : R18 : P16",
+            "Q17 : O15 : M12"
+          ],
+          "opts_hi": [
+            "P16 : N14 : L12",
+            "R18 : P16 : N14",
+            "T20 : R18 : P16",
+            "Q17 : O15 : M12"
+          ],
+          "ans": 3,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "A woman said, “The boy in the picture is the son of the only brother of my mother’s husband.” How is the boy related to the woman?",
+          "q_hi": "एक महिला ने कहा, “तस्वीर में लड़का मेरी माँ के पति के इकलौते भाई का पुत्र है।” वह लड़का उस महिला से किस प्रकार संबंधित है?",
+          "opts": [
+            "Brother",
+            "Cousin",
+            "Nephew",
+            "Son"
+          ],
+          "opts_hi": [
+            "भाई",
+            "चचेरा/ममेरा भाई",
+            "भतीजा/भांजा",
+            "पुत्र"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "If # means ×, @ means −, $ means +, then evaluate: 8 # 3 @ 4 $ 6",
+          "q_hi": "यदि # का अर्थ × है, @ का अर्थ − है, $ का अर्थ + है, तो मूल्यांकन करें: 8 # 3 @ 4 $ 6",
+          "opts": [
+            26,
+            22,
+            28,
+            24
+          ],
+          "opts_hi": [
+            26,
+            22,
+            28,
+            24
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Complete the analogy: FH : JL :: NP : ?",
+          "q_hi": "सादृश्य पूरा करें: FH : JL :: NP : ?",
+          "opts": [
+            "RT",
+            "QS",
+            "RU",
+            "SU"
+          ],
+          "opts_hi": [
+            "RT",
+            "QS",
+            "RU",
+            "SU"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Letters of the word “MANAGER” are arranged alphabetically. How many letters are there between the second letter from the left and the second letter from the right in the new arrangement?",
+          "q_hi": "शब्द “MANAGER” के अक्षरों को वर्णानुक्रम में व्यवस्थित किया गया है। नई व्यवस्था में बाईं ओर से दूसरे और दाईं ओर से दूसरे अक्षर के बीच कितने अक्षर हैं?",
+          "opts": [
+            6,
+            7,
+            8,
+            9
+          ],
+          "opts_hi": [
+            6,
+            7,
+            8,
+            9
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
           "q": "Who is known as the \"Father of the Indian Constitution\"?",
           "q_hi": "भारतीय संविधान के जनक के रूप में किसे जाना जाता है?",
           "opts": [
@@ -3159,6 +3321,60 @@
           "subject": "Quantitative Aptitude"
         },
         {
+          "q": "A car covers a distance of 360 km in 6 hours. Find its average speed.",
+          "q_hi": "एक कार 360 किमी की दूरी 6 घंटे में तय करती है। इसकी औसत चाल ज्ञात कीजिए।",
+          "opts": [
+            "50 km/h",
+            "55 km/h",
+            "60 km/h",
+            "65 km/h"
+          ],
+          "opts_hi": [
+            "50 किमी/घंटा",
+            "55 किमी/घंटा",
+            "60 किमी/घंटा",
+            "65 किमी/घंटा"
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "The HCF of two numbers is 12 and their LCM is 180. If one number is 36, find the other.",
+          "q_hi": "दो संख्याओं का महत्तम समापवर्तक 12 और लघुत्तम समापवर्त्य 180 है। यदि एक संख्या 36 है, तो दूसरी ज्ञात कीजिए।",
+          "opts": [
+            48,
+            60,
+            72,
+            84
+          ],
+          "opts_hi": [
+            48,
+            60,
+            72,
+            84
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A number when divided by 5 leaves a remainder 3. When the square of the number is divided by 5, the remainder is:",
+          "q_hi": "एक संख्या को 5 से भाग देने पर शेष 3 आता है। उस संख्या के वर्ग को 5 से भाग देने पर शेष आएगा:",
+          "opts": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "opts_hi": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "ans": 3,
+          "subject": "Quantitative Aptitude"
+        },
+        {
           "q": "Identify the sentence with the correct use of the tense.",
           "opts": [
             "She is working here since 2019.",
@@ -3564,6 +3780,96 @@
             ""
           ],
           "ans": 0,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Passive voice: \"Someone has stolen my purse.\"",
+          "q_hi": "",
+          "opts": [
+            "My purse has been stolen.",
+            "My purse is stolen.",
+            "My purse was stolen.",
+            "My purse had been stolen."
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 0,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Fill in the blank with correct conjunction: He is poor _____ honest.",
+          "q_hi": "",
+          "opts": [
+            "but",
+            "and",
+            "or",
+            "so"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 0,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Choose the correct tense form: She _____ to school every day.",
+          "q_hi": "",
+          "opts": [
+            "go",
+            "goes",
+            "going",
+            "gone"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Cloze test type (single blank): The sun _____ in the east.",
+          "q_hi": "",
+          "opts": [
+            "rise",
+            "rises",
+            "rising",
+            "rose"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Read the sentence and answer: \"Despite the heavy rain, the match continued.\" What does the sentence imply?",
+          "q_hi": "",
+          "opts": [
+            "The match was cancelled.",
+            "The match was stopped.",
+            "The match went on.",
+            "The match was postponed."
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 2,
           "subject": "English Comprehension"
         }
       ]
