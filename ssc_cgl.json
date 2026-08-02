@@ -5500,6 +5500,456 @@
           "subject": "Quantitative Aptitude"
         },
         {
+          "q": "Arrange in ascending order: 5/8, 7/12, 3/5, 11/15",
+          "q_hi": "आरोही क्रम में व्यवस्थित करें: 5/8, 7/12, 3/5, 11/15",
+          "opts": [
+            "7/12, 3/5, 5/8, 11/15",
+            "3/5, 7/12, 5/8, 11/15",
+            "5/8, 7/12, 3/5, 11/15",
+            "11/15, 5/8, 3/5, 7/12"
+          ],
+          "opts_hi": [
+            "7/12, 3/5, 5/8, 11/15",
+            "3/5, 7/12, 5/8, 11/15",
+            "5/8, 7/12, 3/5, 11/15",
+            "11/15, 5/8, 3/5, 7/12"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Simplify: (4½ + 3.75) - 2.25",
+          "q_hi": "सरल करें: (4½ + 3.75) - 2.25",
+          "opts": [
+            5.75,
+            6,
+            6.25,
+            6.5
+          ],
+          "opts_hi": [
+            5.75,
+            6,
+            6.25,
+            6.5
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Evaluate: 9½ - [3¾ - {2⅓ - (5/6 × 3/4)}]",
+          "q_hi": "मूल्यांकन करें: 9½ - [3¾ - {2⅓ - (5/6 × 3/4)}]",
+          "opts": [
+            "7⅓",
+            "7½",
+            "8⅓",
+            "8½"
+          ],
+          "opts_hi": [
+            "7⅓",
+            "7½",
+            "8⅓",
+            "8½"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "In a class of 180 students, 70 study Maths only, 50 study Science only, 30 study both and 30 study neither. Find the ratio of Maths students to Science students.",
+          "q_hi": "180 छात्रों की कक्षा में, 70 केवल गणित पढ़ते हैं, 50 केवल विज्ञान पढ़ते हैं, 30 दोनों पढ़ते हैं और 30 कोई नहीं पढ़ते। गणित पढ़ने वालों और विज्ञान पढ़ने वालों का अनुपात ज्ञात करें।",
+          "opts": [
+            "5:4",
+            "4:3",
+            "6:5",
+            "7:6"
+          ],
+          "opts_hi": [
+            "5:4",
+            "4:3",
+            "6:5",
+            "7:6"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Average of 15 numbers is 42. Average of first 8 is 40 and last 8 is 45. Find the 8th number.",
+          "q_hi": "15 संख्याओं का औसत 42 है। पहली 8 का औसत 40 और अंतिम 8 का औसत 45 है। 8वीं संख्या ज्ञात करें।",
+          "opts": [
+            50,
+            52,
+            54,
+            56
+          ],
+          "opts_hi": [
+            50,
+            52,
+            54,
+            56
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A sum becomes ₹17,640 in 2 years at 5% compound interest. Find the principal.",
+          "q_hi": "एक राशि 5% चक्रवृद्धि ब्याज पर 2 वर्षों में ₹17,640 हो जाती है। मूलधन ज्ञात करें।",
+          "opts": [
+            "₹16,000",
+            "₹16,500",
+            "₹17,000",
+            "₹15,500"
+          ],
+          "opts_hi": [
+            "₹16,000",
+            "₹16,500",
+            "₹17,000",
+            "₹15,500"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Ages of A and B are in ratio 5 : 7. After 6 years ratio becomes 6 : 8. Find present age of A.",
+          "q_hi": "A और B की आयु का अनुपात 5 : 7 है। 6 वर्ष बाद अनुपात 6 : 8 हो जाता है। A की वर्तमान आयु ज्ञात करें।",
+          "opts": [
+            "20 years",
+            "25 years",
+            "30 years",
+            "35 years"
+          ],
+          "opts_hi": [
+            "20 वर्ष",
+            "25 वर्ष",
+            "30 वर्ष",
+            "35 वर्ष"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A can do a work in 15 days, B in 20 days. They work together for 6 days. Remaining work is completed by B in how many days?",
+          "q_hi": "A एक कार्य 15 दिनों में, B 20 दिनों में कर सकता है। वे 6 दिन साथ काम करते हैं। शेष कार्य B कितने दिनों में पूरा करेगा?",
+          "opts": [
+            "6 days",
+            "8 days",
+            "10 days",
+            "12 days"
+          ],
+          "opts_hi": [
+            "6 दिन",
+            "8 दिन",
+            "10 दिन",
+            "12 दिन"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Marked price is ₹1,500. After 20% discount selling price is ₹1,200. Find cost price if profit is 20%.",
+          "q_hi": "अंकित मूल्य ₹1,500 है। 20% छूट के बाद विक्रय मूल्य ₹1,200 है। यदि लाभ 20% है तो क्रय मूल्य ज्ञात करें।",
+          "opts": [
+            "₹900",
+            "₹950",
+            "₹1,000",
+            "₹1,050"
+          ],
+          "opts_hi": [
+            "₹900",
+            "₹950",
+            "₹1,000",
+            "₹1,050"
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A train 240 m long running at 72 km/h crosses a platform 160 m long in how many seconds?",
+          "q_hi": "240 मी लंबी ट्रेन 72 किमी/घंटा की चाल से 160 मी लंबा प्लेटफॉर्म पार करने में कितने सेकंड लेगी?",
+          "opts": [
+            "15 sec",
+            "18 sec",
+            "20 sec",
+            "22 sec"
+          ],
+          "opts_hi": [
+            "15 सेकंड",
+            "18 सेकंड",
+            "20 सेकंड",
+            "22 सेकंड"
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Area of a square is 441 cm². Find its diagonal.",
+          "q_hi": "एक वर्ग का क्षेत्रफल 441 सेमी² है। इसका विकर्ण ज्ञात करें।",
+          "opts": [
+            "21√2 cm",
+            "22√2 cm",
+            "23√2 cm",
+            "24√2 cm"
+          ],
+          "opts_hi": [
+            "21√2 सेमी",
+            "22√2 सेमी",
+            "23√2 सेमी",
+            "24√2 सेमी"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "If x + 1/x = 4, find x² + 1/x².",
+          "q_hi": "यदि x + 1/x = 4, तो x² + 1/x² ज्ञात करें।",
+          "opts": [
+            12,
+            13,
+            14,
+            15
+          ],
+          "opts_hi": [
+            12,
+            13,
+            14,
+            15
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Difference between CI and SI on ₹10,000 for 2 years at 8% is:",
+          "q_hi": "₹10,000 पर 2 वर्षों के 8% चक्रवृद्धि ब्याज और साधारण ब्याज का अंतर है:",
+          "opts": [
+            "₹44",
+            "₹48",
+            "₹56",
+            "₹64"
+          ],
+          "opts_hi": [
+            "₹44",
+            "₹48",
+            "₹56",
+            "₹64"
+          ],
+          "ans": 3,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A and B together can complete a work in 12 days. A alone takes 20 days. In how many days can B alone complete it?",
+          "q_hi": "A और B साथ मिलकर एक कार्य 12 दिनों में पूरा कर सकते हैं। A अकेला 20 दिन लेता है। B अकेला कितने दिनों में पूरा करेगा?",
+          "opts": [
+            "25 days",
+            "28 days",
+            "30 days",
+            "32 days"
+          ],
+          "opts_hi": [
+            "25 दिन",
+            "28 दिन",
+            "30 दिन",
+            "32 दिन"
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Average weight of 30 students is 45 kg. When teacher's weight is included, average becomes 46 kg. Find teacher's weight.",
+          "q_hi": "30 छात्रों का औसत भार 45 किग्रा है। शिक्षक का भार शामिल करने पर औसत 46 किग्रा हो जाता है। शिक्षक का भार ज्ञात करें।",
+          "opts": [
+            "70 kg",
+            "72 kg",
+            "74 kg",
+            "76 kg"
+          ],
+          "opts_hi": [
+            "70 किग्रा",
+            "72 किग्रा",
+            "74 किग्रा",
+            "76 किग्रा"
+          ],
+          "ans": 3,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A shopkeeper marks goods 50% above cost price and allows 20% discount. Find profit percentage.",
+          "q_hi": "एक दुकानदार वस्तुओं को क्रय मूल्य से 50% अधिक अंकित करता है और 20% छूट देता है। लाभ प्रतिशत ज्ञात करें।",
+          "opts": [
+            0.15,
+            0.18,
+            0.2,
+            0.25
+          ],
+          "opts_hi": [
+            0.15,
+            0.18,
+            0.2,
+            0.25
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Two numbers are in ratio 4 : 7. When 6 is added to each, ratio becomes 5 : 8. Find the numbers.",
+          "q_hi": "दो संख्याओं का अनुपात 4 : 7 है। प्रत्येक में 6 जोड़ने पर अनुपात 5 : 8 हो जाता है। संख्याएँ ज्ञात करें।",
+          "opts": [
+            "16, 28",
+            "20, 35",
+            "24, 42",
+            "28, 49"
+          ],
+          "opts_hi": [
+            "16, 28",
+            "20, 35",
+            "24, 42",
+            "28, 49"
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A sum amounts to ₹13,310 in 3 years at 10% compound interest. Find principal.",
+          "q_hi": "एक राशि 10% चक्रवृद्धि ब्याज पर 3 वर्षों में ₹13,310 हो जाती है। मूलधन ज्ञात करें।",
+          "opts": [
+            "₹9,000",
+            "₹9,500",
+            "₹10,000",
+            "₹10,500"
+          ],
+          "opts_hi": [
+            "₹9,000",
+            "₹9,500",
+            "₹10,000",
+            "₹10,500"
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Perimeter of a rectangle is 72 cm. Length is 22 cm. Find area.",
+          "q_hi": "एक आयत का परिमाप 72 सेमी है। लंबाई 22 सेमी है। क्षेत्रफल ज्ञात करें।",
+          "opts": [
+            "308 cm²",
+            "312 cm²",
+            "316 cm²",
+            "320 cm²"
+          ],
+          "opts_hi": [
+            "308 सेमी²",
+            "312 सेमी²",
+            "316 सेमी²",
+            "320 सेमी²"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "18 men can complete a work in 15 days. How many men are required to complete it in 10 days?",
+          "q_hi": "18 पुरुष एक कार्य 15 दिनों में पूरा कर सकते हैं। इसे 10 दिनों में पूरा करने के लिए कितने पुरुषों की आवश्यकता होगी?",
+          "opts": [
+            24,
+            25,
+            26,
+            27
+          ],
+          "opts_hi": [
+            24,
+            25,
+            26,
+            27
+          ],
+          "ans": 3,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Milk and water are in ratio 7 : 3. If 20 litres of mixture is replaced by water, ratio becomes 3 : 7. Find original quantity.",
+          "q_hi": "दूध और पानी का अनुपात 7 : 3 है। यदि 20 लीटर मिश्रण को पानी से बदल दिया जाए तो अनुपात 3 : 7 हो जाता है। मूल मात्रा ज्ञात करें।",
+          "opts": [
+            "40 litres",
+            "42 litres",
+            "44 litres",
+            "48 litres"
+          ],
+          "opts_hi": [
+            "40 लीटर",
+            "42 लीटर",
+            "44 लीटर",
+            "48 लीटर"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Simple interest on a sum for 4 years at 6% is ₹1,800. Find principal.",
+          "q_hi": "4 वर्षों के 6% साधारण ब्याज पर ₹1,800 है। मूलधन ज्ञात करें।",
+          "opts": [
+            "₹7,000",
+            "₹7,200",
+            "₹7,500",
+            "₹8,000"
+          ],
+          "opts_hi": [
+            "₹7,000",
+            "₹7,200",
+            "₹7,500",
+            "₹8,000"
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A car covers 420 km in 7 hours. Find average speed.",
+          "q_hi": "एक कार 420 किमी की दूरी 7 घंटे में तय करती है। औसत चाल ज्ञात करें।",
+          "opts": [
+            "55 km/h",
+            "58 km/h",
+            "60 km/h",
+            "65 km/h"
+          ],
+          "opts_hi": [
+            "55 किमी/घंटा",
+            "58 किमी/घंटा",
+            "60 किमी/घंटा",
+            "65 किमी/घंटा"
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "HCF of two numbers is 16 and LCM is 240. If one number is 48, find the other.",
+          "q_hi": "दो संख्याओं का HCF 16 और LCM 240 है। यदि एक संख्या 48 है, तो दूसरी ज्ञात करें।",
+          "opts": [
+            60,
+            70,
+            80,
+            90
+          ],
+          "opts_hi": [
+            60,
+            70,
+            80,
+            90
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A number when divided by 7 leaves remainder 4. When square of the number is divided by 7, remainder is:",
+          "q_hi": "एक संख्या को 7 से भाग देने पर शेष 4 आता है। उस संख्या के वर्ग को 7 से भाग देने पर शेष आएगा:",
+          "opts": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "opts_hi": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
           "q": "Who was the first Governor-General of India?",
           "q_hi": "भारत के पहले गवर्नर-जनरल कौन थे?",
           "opts": [
@@ -6560,6 +7010,438 @@
           ],
           "ans": 1,
           "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Choose the correctly spelt word.",
+          "q_hi": "सही वर्तनी वाला शब्द चुनें।",
+          "opts": [
+            "Seperate",
+            "Separate",
+            "Seperete",
+            "Separete"
+          ],
+          "opts_hi": [
+            "Seperate",
+            "Separate",
+            "Seperete",
+            "Separete"
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Choose the antonym of \"Optimistic\".",
+          "q_hi": "Optimistic का विलोम चुनें।",
+          "opts": [
+            "Hopeful",
+            "Cheerful",
+            "Pessimistic",
+            "Positive"
+          ],
+          "opts_hi": [
+            "आशावादी",
+            "प्रसन्नचित्त",
+            "निराशावादी",
+            "सकारात्मक"
+          ],
+          "ans": 2,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Choose the synonym of \"Diligent\".",
+          "q_hi": "Diligent का पर्यायवाची चुनें।",
+          "opts": [
+            "Lazy",
+            "Hardworking",
+            "Careless",
+            "Idle"
+          ],
+          "opts_hi": [
+            "आलसी",
+            "मेहनती",
+            "लापरवाह",
+            "निष्क्रिय"
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Fill in the blank: She is good _____ mathematics.",
+          "q_hi": "रिक्त स्थान भरें: She is good _____ mathematics.",
+          "opts": [
+            "in",
+            "at",
+            "on",
+            "with"
+          ],
+          "opts_hi": [
+            "में",
+            "में",
+            "पर",
+            "के साथ"
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Passive form of: \"They are repairing the road.\"",
+          "q_hi": "They are repairing the road. का Passive रूप चुनें।",
+          "opts": [
+            "The road is repaired.",
+            "The road is being repaired.",
+            "The road was repaired.",
+            "The road has been repaired."
+          ],
+          "opts_hi": [
+            "सड़क की मरम्मत की जाती है।",
+            "सड़क की मरम्मत की जा रही है।",
+            "सड़क की मरम्मत की गई थी।",
+            "सड़क की मरम्मत की गई है।"
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Error spotting: Each of the players have received a prize.",
+          "q_hi": "त्रुटि पहचानें: Each of the players have received a prize.",
+          "opts": [
+            "Each of",
+            "the players",
+            "have received",
+            "a prize"
+          ],
+          "opts_hi": [
+            "Each of",
+            "the players",
+            "have received",
+            "a prize"
+          ],
+          "ans": 2,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "One-word substitution: \"A person who hates women\".",
+          "q_hi": "स्त्रियों से घृणा करने वाला व्यक्ति के लिए एक शब्द।",
+          "opts": [
+            "Misogynist",
+            "Misanthrope",
+            "Philanthropist",
+            "Feminist"
+          ],
+          "opts_hi": [
+            "मिसोगाइनिस्ट",
+            "मिसान्थ्रोप",
+            "परोपकारी",
+            "नारीवादी"
+          ],
+          "ans": 0,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Meaning of idiom \"Hit the nail on the head\".",
+          "q_hi": "मुहावरे \"Hit the nail on the head\" का अर्थ।",
+          "opts": [
+            "To hurt someone",
+            "To do something exactly right",
+            "To make a mistake",
+            "To start a fight"
+          ],
+          "opts_hi": [
+            "किसी को चोट पहुँचाना",
+            "बिल्कुल सही काम करना",
+            "गलती करना",
+            "झगड़ा शुरू करना"
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Improve the sentence: He is enough strong to lift the box.",
+          "q_hi": "वाक्य सुधारें: He is enough strong to lift the box.",
+          "opts": [
+            "strong enough",
+            "enough stronger",
+            "so strong",
+            "No improvement"
+          ],
+          "opts_hi": [
+            "strong enough",
+            "enough stronger",
+            "so strong",
+            "कोई सुधार नहीं"
+          ],
+          "ans": 0,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Indirect speech of: She said, \"I will come tomorrow.\"",
+          "q_hi": "Indirect speech: She said, \"I will come tomorrow.\"",
+          "opts": [
+            "She said that she will come tomorrow.",
+            "She said that she would come the next day.",
+            "She said that I will come tomorrow.",
+            "She said that she comes tomorrow."
+          ],
+          "opts_hi": [
+            "उसने कहा कि वह कल आएगी।",
+            "उसने कहा कि वह अगले दिन आएगी।",
+            "उसने कहा कि मैं कल आऊँगा।",
+            "उसने कहा कि वह कल आती है।"
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Correct article: _____ European tourist visited the museum.",
+          "q_hi": "सही article: _____ European tourist visited the museum.",
+          "opts": [
+            "A",
+            "An",
+            "The",
+            "No article"
+          ],
+          "opts_hi": [
+            "A",
+            "An",
+            "The",
+            "कोई article नहीं"
+          ],
+          "ans": 0,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Part of speech of underlined word: He drove carefully.",
+          "q_hi": "रेखांकित शब्द का शब्द-भेद: He drove carefully.",
+          "opts": [
+            "Noun",
+            "Verb",
+            "Adverb",
+            "Adjective"
+          ],
+          "opts_hi": [
+            "संज्ञा",
+            "क्रिया",
+            "क्रियाविशेषण",
+            "विशेषण"
+          ],
+          "ans": 2,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Correctly punctuated sentence:",
+          "q_hi": "सही विराम चिह्न वाला वाक्य:",
+          "opts": [
+            "How beautiful the flower is.",
+            "How beautiful the flower is!",
+            "How beautiful the flower is?",
+            "How beautiful, the flower is!"
+          ],
+          "opts_hi": [
+            "How beautiful the flower is.",
+            "How beautiful the flower is!",
+            "How beautiful the flower is?",
+            "How beautiful, the flower is!"
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Fill in the blank: If she _____ hard, she would pass.",
+          "q_hi": "रिक्त स्थान भरें: If she _____ hard, she would pass.",
+          "opts": [
+            "works",
+            "worked",
+            "work",
+            "working"
+          ],
+          "opts_hi": [
+            "काम करती है",
+            "काम करती",
+            "काम करें",
+            "काम करती हुई"
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Antonym of \"Generous\".",
+          "q_hi": "Generous का विलोम।",
+          "opts": [
+            "Kind",
+            "Miserly",
+            "Helpful",
+            "Liberal"
+          ],
+          "opts_hi": [
+            "दयालु",
+            "कंजूस",
+            "सहायक",
+            "उदार"
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Synonym of \"Courageous\".",
+          "q_hi": "Courageous का पर्यायवाची।",
+          "opts": [
+            "Timid",
+            "Brave",
+            "Cowardly",
+            "Fearful"
+          ],
+          "opts_hi": [
+            "डरपोक",
+            "बहादुर",
+            "कायर",
+            "भयभीत"
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Correct spelling:",
+          "q_hi": "सही वर्तनी:",
+          "opts": [
+            "Definately",
+            "Definitely",
+            "Definitly",
+            "Definatly"
+          ],
+          "opts_hi": [
+            "Definately",
+            "Definitely",
+            "Definitly",
+            "Definatly"
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "One-word substitution: \"One who is all-powerful\".",
+          "q_hi": "सर्वशक्तिमान के लिए एक शब्द।",
+          "opts": [
+            "Omnipotent",
+            "Omniscient",
+            "Omnipresent",
+            "Omnivorous"
+          ],
+          "opts_hi": [
+            "सर्वशक्तिमान",
+            "सर्वज्ञ",
+            "सर्वव्यापी",
+            "सर्वभक्षी"
+          ],
+          "ans": 0,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Meaning of idiom \"Once in a blue moon\".",
+          "q_hi": "मुहावरे \"Once in a blue moon\" का अर्थ।",
+          "opts": [
+            "Very frequently",
+            "Very rarely",
+            "Every month",
+            "Suddenly"
+          ],
+          "opts_hi": [
+            "बहुत बार",
+            "बहुत कम",
+            "हर महीने",
+            "अचानक"
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Error spotting: The scissors is lying on the table.",
+          "q_hi": "त्रुटि पहचानें: The scissors is lying on the table.",
+          "opts": [
+            "The scissors",
+            "is lying",
+            "on the table",
+            "No error"
+          ],
+          "opts_hi": [
+            "The scissors",
+            "is lying",
+            "on the table",
+            "कोई त्रुटि नहीं"
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Passive of: \"Someone has broken the window.\"",
+          "q_hi": "Passive: \"Someone has broken the window.\"",
+          "opts": [
+            "The window has been broken.",
+            "The window is broken.",
+            "The window was broken.",
+            "The window had been broken."
+          ],
+          "opts_hi": [
+            "खिड़की तोड़ी गई है।",
+            "खिड़की टूटी हुई है।",
+            "खिड़की तोड़ी गई थी।",
+            "खिड़की तोड़ी गई थी।"
+          ],
+          "ans": 0,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Correct conjunction: He is intelligent _____ lazy.",
+          "q_hi": "सही conjunction: He is intelligent _____ lazy.",
+          "opts": [
+            "and",
+            "but",
+            "or",
+            "so"
+          ],
+          "opts_hi": [
+            "और",
+            "लेकिन",
+            "या",
+            "इसलिए"
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Fill in the blank: Water _____ at 100°C.",
+          "q_hi": "रिक्त स्थान भरें: Water _____ at 100°C.",
+          "opts": [
+            "boil",
+            "boils",
+            "boiling",
+            "boiled"
+          ],
+          "opts_hi": [
+            "उबलता है",
+            "उबलता है",
+            "उबलता हुआ",
+            "उबला"
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "The sentence \"Although it was raining, they went out.\" implies:",
+          "q_hi": "वाक्य \"Although it was raining, they went out.\" का अर्थ है:",
+          "opts": [
+            "They stayed inside",
+            "They went out in spite of rain",
+            "They cancelled the plan",
+            "They waited for the rain to stop"
+          ],
+          "opts_hi": [
+            "वे अंदर रहे",
+            "वे बारिश के बावजूद बाहर गए",
+            "उन्होंने योजना रद्द कर दी",
+            "उन्होंने बारिश रुकने का इंतज़ार किया"
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
         }
       ]
     },
