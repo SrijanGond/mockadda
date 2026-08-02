@@ -2691,6 +2691,96 @@
           "subject": "General Awareness"
         },
         {
+          "q": "The Speaker of the Lok Sabha is elected by which body?",
+          "q_hi": "लोकसभा का अध्यक्ष किस निकाय द्वारा चुना जाता है?",
+          "opts": [
+            "The President of India",
+            "The Prime Minister of India",
+            "Members of the Lok Sabha",
+            "The Rajya Sabha Chairman"
+          ],
+          "opts_hi": [
+            "भारत के राष्ट्रपति",
+            "भारत के प्रधान मंत्री",
+            "लोकसभा के सदस्य",
+            "राज्यसभा के सभापति"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The famous 'Battle of Haldighati' was fought between which two rulers?",
+          "q_hi": "प्रसिद्ध 'हल्दीघाटी का युद्ध' किन दो शासकों के बीच लड़ा गया था?",
+          "opts": [
+            "Akbar and Rana Pratap",
+            "Humayun and Sher Shah Suri",
+            "Akbar and Rana Udai Singh",
+            "Aurangzeb and Shivaji"
+          ],
+          "opts_hi": [
+            "अकबर और राणा प्रताप",
+            "हुमायूँ और शेर शाह सूरी",
+            "अकबर और राणा उदय सिंह",
+            "औरंगज़ेब और शिवाजी"
+          ],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which of the following rivers does NOT originate from the Himalayas?",
+          "q_hi": "निम्नलिखित में से कौन सी नदी हिमालय से उत्पन्न नहीं होती है?",
+          "opts": [
+            "Ganga",
+            "Yamuna",
+            "Godavari",
+            "Brahmaputra"
+          ],
+          "opts_hi": [
+            "गंगा",
+            "यमुना",
+            "गोदावरी",
+            "ब्रह्मपुत्र"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which of the following is a micronutrient essential for the formation of chlorophyll in plants?",
+          "q_hi": "पौधों में क्लोरोफिल के निर्माण के लिए आवश्यक सूक्ष्म पोषक तत्व निम्नलिखित में से कौन सा है?",
+          "opts": [
+            "Nitrogen",
+            "Phosphorus",
+            "Magnesium",
+            "Potassium"
+          ],
+          "opts_hi": [
+            "नाइट्रोजन",
+            "फॉस्फोरस",
+            "मैग्नीशियम",
+            "पोटैशियम"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The first G20 Sherpa meeting of India's G20 presidency was held in which city?",
+          "q_hi": "भारत की G20 अध्यक्षता की पहली G20 शेरपा बैठक किस शहर में आयोजित की गई थी?",
+          "opts": [
+            "New Delhi",
+            "Mumbai",
+            "Hyderabad",
+            "Bengaluru"
+          ],
+          "opts_hi": [
+            "नई दिल्ली",
+            "मुंबई",
+            "हैदराबाद",
+            "बेंगलुरु"
+          ],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
           "q": "Arrange the fractions 7/11, 5/8, 3/5, and 4/7 in ascending order.",
           "q_hi": "भिन्नों को आरोही क्रम में व्यवस्थित करें 7/11, 5/8, 3/5, और 4/7।",
           "opts": [
