@@ -2199,6 +2199,114 @@
           "subject": "General Intelligence & Reasoning"
         },
         {
+          "q": "Select the related word: Sword : Weapon :: Pen : ?",
+          "q_hi": "संबंधित शब्द चुनें: तलवार : हथियार :: कलम : ?",
+          "opts": [
+            "Book",
+            "Stationery",
+            "Paper",
+            "Ink"
+          ],
+          "opts_hi": [
+            "पुस्तक",
+            "लेखन सामग्री",
+            "कागज",
+            "स्याही"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Find the odd one out:",
+          "q_hi": "विषम चुनें:",
+          "opts": [
+            "Sword",
+            "Shield",
+            "Gun",
+            "Axe"
+          ],
+          "opts_hi": [
+            "तलवार",
+            "ढाल",
+            "बंदूक",
+            "कुल्हाड़ी"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "If 'CLOCK' is coded as 'DMPDL', how is 'WATCH' coded?",
+          "q_hi": "यदि 'CLOCK' को 'DMPDL' लिखा जाता है, तो 'WATCH' को कैसे लिखा जाएगा?",
+          "opts": [
+            "XBUDI",
+            "XBVDI",
+            "XBUCI",
+            "XBUHJ"
+          ],
+          "opts_hi": [
+            "XBUDI",
+            "XBVDI",
+            "XBUCI",
+            "XBUHJ"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Pointing to a woman, a man said, \"She is the daughter of my mother's only brother.\" How is the woman related to the man?",
+          "q_hi": "एक महिला की ओर इशारा करते हुए एक पुरुष ने कहा, \"वह मेरी माँ के इकलौते भाई की बेटी है।\" वह महिला उस पुरुष से किस प्रकार संबंधित है?",
+          "opts": [
+            "Sister",
+            "Cousin",
+            "Niece",
+            "Mother"
+          ],
+          "opts_hi": [
+            "बहन",
+            "चचेरी/ममेरी बहन",
+            "भतीजी",
+            "माँ"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "A man walks 12 km towards East. He turns right and walks 5 km. He then turns right and walks 12 km. How far is he from his starting point?",
+          "q_hi": "एक व्यक्ति 12 किमी पूर्व की ओर चलता है। वह दाईं ओर मुड़ता है और 5 किमी चलता है। फिर वह दाईं ओर मुड़ता है और 12 किमी चलता है। वह अपने प्रारंभिक बिंदु से कितनी दूर है?",
+          "opts": [
+            "7 km",
+            "5 km",
+            "12 km",
+            "17 km"
+          ],
+          "opts_hi": [
+            "7 किमी",
+            "5 किमी",
+            "12 किमी",
+            "17 किमी"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Find the next term: 3, 10, 29, 66, 127, ?",
+          "q_hi": "अगला पद ज्ञात करें: 3, 10, 29, 66, 127, ?",
+          "opts": [
+            218,
+            220,
+            222,
+            224
+          ],
+          "opts_hi": [
+            218,
+            220,
+            222,
+            224
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
           "q": "Who was the first Governor-General of Bengal under the Regulating Act of 1773?",
           "q_hi": "1773 के रेगुलेटिंग एक्ट के तहत बंगाल के पहले गवर्नर-जनरल कौन थे?",
           "opts": [
