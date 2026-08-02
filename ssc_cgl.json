@@ -3445,6 +3445,168 @@
           "ans": 1,
           "exp_en": "News' is an uncountable noun and takes a singular verb. Correct form: 'The news is very encouraging.'",
           "subject": "English Comprehension"
+        },
+        {
+          "q": "Choose the synonym of \"Obstinate\".",
+          "q_hi": "Obstinate का पर्यायवाची चुनें।",
+          "opts": [
+            "Stubborn",
+            "Flexible",
+            "Timid",
+            "Polite"
+          ],
+          "opts_hi": [
+            "Stubborn",
+            "Flexible",
+            "Timid",
+            "Polite"
+          ],
+          "ans": 0,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Choose the antonym of \"Virtue\".",
+          "q_hi": "Virtue का विलोम चुनें।",
+          "opts": [
+            "Honesty",
+            "Integrity",
+            "Vice",
+            "Morality"
+          ],
+          "opts_hi": [
+            "Honesty",
+            "Integrity",
+            "Vice",
+            "Morality"
+          ],
+          "ans": 2,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "One-word substitution for: \"A person who is unable to pay debts\"",
+          "q_hi": "ऋण चुकाने में असमर्थ व्यक्ति के लिए एक शब्द।",
+          "opts": [
+            "Insolvent",
+            "Bankrupt",
+            "Pauper",
+            "Destitute"
+          ],
+          "opts_hi": [
+            "Insolvent",
+            "Bankrupt",
+            "Pauper",
+            "Destitute"
+          ],
+          "ans": 0,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Choose the correct meaning of the idiom \"To be on tenterhooks\".",
+          "q_hi": "मुहावरे \"To be on tenterhooks\" का सही अर्थ चुनें।",
+          "opts": [
+            "To be excited",
+            "To be in a state of nervous suspense",
+            "To be relaxed",
+            "To be angry"
+          ],
+          "opts_hi": [
+            "To be excited",
+            "To be in a state of nervous suspense",
+            "To be relaxed",
+            "To be angry"
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Improve the underlined part: He is more cleverer than his brother.",
+          "q_hi": "रेखांकित भाग में सुधार करें: He is more cleverer than his brother.",
+          "opts": [
+            "more clever",
+            "cleverer",
+            "more cleverer (No improvement)",
+            "most clever"
+          ],
+          "opts_hi": [
+            "more clever",
+            "cleverer",
+            "more cleverer (कोई सुधार नहीं)",
+            "most clever"
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Find the part of the sentence that contains an error: The teacher along with her students (1)/ were going to the museum (2)/ when the bus broke down (3)/ on the highway. (4)",
+          "q_hi": "वाक्य का वह भाग खोजें जिसमें त्रुटि है: The teacher along with her students (1)/ were going to the museum (2)/ when the bus broke down (3)/ on the highway. (4)",
+          "opts": [
+            "The teacher along with her students",
+            "were going to the museum",
+            "when the bus broke down",
+            "on the highway"
+          ],
+          "opts_hi": [
+            "The teacher along with her students",
+            "were going to the museum",
+            "when the bus broke down",
+            "on the highway"
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Change from active to passive: \"The police caught the thief.\"",
+          "q_hi": "Active से Passive में बदलें: \"The police caught the thief.\"",
+          "opts": [
+            "The thief is caught by the police.",
+            "The thief was caught by the police.",
+            "The thief has been caught by the police.",
+            "The thief was being caught by the police."
+          ],
+          "opts_hi": [
+            "The thief is caught by the police.",
+            "The thief was caught by the police.",
+            "The thief has been caught by the police.",
+            "The thief was being caught by the police."
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Convert to indirect speech: He said to me, \"Please help me with this task.\"",
+          "q_hi": "Indirect Speech में बदलें: He said to me, \"Please help me with this task.\"",
+          "opts": [
+            "He requested me to help him with that task.",
+            "He said to me to help him with this task.",
+            "He requested me to help him with this task.",
+            "He told me to help him with that task."
+          ],
+          "opts_hi": [
+            "He requested me to help him with that task.",
+            "He said to me to help him with this task.",
+            "He requested me to help him with this task.",
+            "He told me to help him with that task."
+          ],
+          "ans": 0,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Read the sentence and answer: \"As soon as the chief guest arrived, the ceremony began.\" What does the sentence imply?",
+          "q_hi": "वाक्य पढ़ें और उत्तर दें: \"As soon as the chief guest arrived, the ceremony began.\" वाक्य का क्या अर्थ है?",
+          "opts": [
+            "The ceremony started before the chief guest arrived.",
+            "The ceremony began immediately after the chief guest arrived.",
+            "The chief guest arrived after the ceremony began.",
+            "The ceremony was cancelled."
+          ],
+          "opts_hi": [
+            "The ceremony started before the chief guest arrived.",
+            "The ceremony began immediately after the chief guest arrived.",
+            "The chief guest arrived after the ceremony began.",
+            "The ceremony was cancelled."
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
         }
       ]
     },
