@@ -7012,6 +7012,24 @@
           "subject": "General Intelligence & Reasoning"
         },
         {
+          "q": "Select the related number: 11 : 121 :: 13 : ?",
+          "q_hi": "संबंधित संख्या का चयन करें: 11 : 121 :: 13 : ?",
+          "opts": [
+            144,
+            169,
+            196,
+            225
+          ],
+          "opts_hi": [
+            144,
+            169,
+            196,
+            225
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
           "q": "Choose the correctly spelt word.",
           "q_hi": "सही वर्तनी वाला शब्द चुनें।",
           "opts": [
@@ -7439,6 +7457,24 @@
             "वे बारिश के बावजूद बाहर गए",
             "उन्होंने योजना रद्द कर दी",
             "उन्होंने बारिश रुकने का इंतज़ार किया"
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Choose the synonym of \"Benevolent\".",
+          "q_hi": "Benevolent का पर्यायवाची चुनें।",
+          "opts": [
+            "Cruel",
+            "Kind",
+            "Strict",
+            "Selfish"
+          ],
+          "opts_hi": [
+            "क्रूर",
+            "दयालु",
+            "सख्त",
+            "स्वार्थी"
           ],
           "ans": 1,
           "subject": "English Comprehension"
