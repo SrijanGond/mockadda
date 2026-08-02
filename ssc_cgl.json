@@ -5678,6 +5678,888 @@
           ],
           "ans": 2,
           "subject": "General Awareness"
+        },
+        {
+          "q": "Which of the following features distinguishes the Ellora Caves?",
+          "q_hi": "एलोरा गुफाओं को किस विशेषता के लिए जाना जाता है?",
+          "opts": [
+            "They are primarily Buddhist caves.",
+            "They contain Hindu, Buddhist and Jain temples carved from a single rock.",
+            "They are known only for frescoes.",
+            "They belong to the Mauryan period."
+          ],
+          "opts_hi": [
+            "ये मुख्य रूप से बौद्ध गुफाएँ हैं।",
+            "इनमें एक ही चट्टान से निर्मित हिंदू, बौद्ध और जैन मंदिर हैं।",
+            "ये केवल भित्ति चित्रों के लिए जानी जाती हैं।",
+            "ये मौर्य काल की हैं।"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which of the following statements about the Pushkar Fair is/are correct? It is held annually in Rajasthan. It is one of the largest cattle fairs in the world. It coincides with Kartik Purnima.",
+          "q_hi": "पुष्कर मेले के बारे में निम्नलिखित कथनों में से कौन सा/से सही है/हैं? यह राजस्थान में वार्षिक रूप से आयोजित होता है। यह विश्व के सबसे बड़े पशु मेलों में से एक है। यह कार्तिक पूर्णिमा के साथ मेल खाता है।",
+          "opts": [
+            "Only 1 and 2",
+            "Only 2 and 3",
+            "Only 1 and 3",
+            "1, 2 and 3"
+          ],
+          "opts_hi": [
+            "केवल 1 और 2",
+            "केवल 2 और 3",
+            "केवल 1 और 3",
+            "1, 2 और 3"
+          ],
+          "ans": 3,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "In Hindustani music, a tala with 10 beats is known as:",
+          "q_hi": "हिंदुस्तानी संगीत में 10 मात्राओं वाली ताल को कहते हैं:",
+          "opts": [
+            "Dadra",
+            "Jhaptaal",
+            "Teentaal",
+            "Ektaal"
+          ],
+          "opts_hi": [
+            "दादरा",
+            "झपताल",
+            "तीनताल",
+            "एकताल"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which of the following statements about Wrestling is correct?",
+          "q_hi": "कुश्ती के बारे में निम्नलिखित में से कौन सा कथन सही है?",
+          "opts": [
+            "Freestyle wrestling was introduced in Olympics in 1904.",
+            "India's first Olympic medal in wrestling was won in 1952.",
+            "Wrestling became an Olympic sport only in 2000.",
+            "Greco-Roman wrestling originated in Japan."
+          ],
+          "opts_hi": [
+            "फ्रीस्टाइल कुश्ती को 1904 में ओलंपिक में शामिल किया गया था।",
+            "कुश्ती में भारत का पहला ओलंपिक पदक 1952 में जीता गया था।",
+            "कुश्ती 2000 में ही ओलंपिक खेल बना।",
+            "ग्रीको-रोमन कुश्ती की उत्पत्ति जापान में हुई।"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Where was the 58th National Cross Country Championship held?",
+          "q_hi": "58वीं राष्ट्रीय क्रॉस कंट्री चैंपियनशिप कहाँ आयोजित हुई थी?",
+          "opts": [
+            "Bhopal",
+            "Guwahati",
+            "Ranchi",
+            "Chandigarh"
+          ],
+          "opts_hi": [
+            "भोपाल",
+            "गुवाहाटी",
+            "रांची",
+            "चंडीगढ़"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The primary focus of the India-Australia Economic Cooperation and Trade Agreement (ECTA) is:",
+          "q_hi": "भारत-ऑस्ट्रेलिया आर्थिक सहयोग और व्यापार समझौते का मुख्य फोकस है:",
+          "opts": [
+            "Defence collaboration only",
+            "Tariff reduction and market access",
+            "Cultural exchange",
+            "Space technology sharing"
+          ],
+          "opts_hi": [
+            "केवल रक्षा सहयोग",
+            "टैरिफ कटौती और बाजार पहुँच",
+            "सांस्कृतिक आदान-प्रदान",
+            "अंतरिक्ष प्रौद्योगिकी साझाकरण"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The Santosh Trophy is associated with which sport?",
+          "q_hi": "संतोष ट्रॉफी किस खेल से संबंधित है?",
+          "opts": [
+            "Hockey",
+            "Football",
+            "Cricket",
+            "Kabaddi"
+          ],
+          "opts_hi": [
+            "हॉकी",
+            "फुटबॉल",
+            "क्रिकेट",
+            "कबड्डी"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The book \"The Argumentative Indian\" is written by:",
+          "q_hi": "पुस्तक \"द आर्गुमेंटेटिव इंडियन\" के लेखक हैं:",
+          "opts": [
+            "Amartya Sen",
+            "Ramachandra Guha",
+            "Shashi Tharoor",
+            "Arundhati Roy"
+          ],
+          "opts_hi": [
+            "अमर्त्य सेन",
+            "रामचंद्र गुहा",
+            "शशि थरूर",
+            "अरुंधती रॉय"
+          ],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which of the following is a depositional glacial landform?",
+          "q_hi": "निम्नलिखित में से कौन-सी निक्षेपण हिमनदीय भू-आकृति है?",
+          "opts": [
+            "Cirque",
+            "Arete",
+            "Moraine",
+            "Horn"
+          ],
+          "opts_hi": [
+            "कर्क",
+            "एरीट",
+            "मोरेन",
+            "हॉर्न"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The Crew Escape System is primarily used in:",
+          "q_hi": "क्रू एस्केप सिस्टम मुख्य रूप से उपयोग किया जाता है:",
+          "opts": [
+            "Communication satellites",
+            "Human spaceflight missions",
+            "Weather satellites",
+            "Navigation satellites"
+          ],
+          "opts_hi": [
+            "संचार उपग्रह",
+            "मानव अंतरिक्ष उड़ान मिशन",
+            "मौसम उपग्रह",
+            "नेविगेशन उपग्रह"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Who among the following has served as the Chief Justice of India?",
+          "q_hi": "निम्नलिखित में से कौन भारत के मुख्य न्यायाधीश रह चुके हैं?",
+          "opts": [
+            "Justice N.V. Ramana",
+            "Justice D.Y. Chandrachud",
+            "Both (a) and (b)",
+            "Neither (a) nor (b)"
+          ],
+          "opts_hi": [
+            "न्यायमूर्ति एन.वी. रमण",
+            "न्यायमूर्ति डी.वाई. चंद्रचूड़",
+            "(a) और (b) दोनों",
+            "ना (a) और ना ही (b)"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which of the following is a key objective of the National Health Policy 2017?",
+          "q_hi": "राष्ट्रीय स्वास्थ्य नीति 2017 का प्रमुख उद्देश्य है:",
+          "opts": [
+            "Increase public health expenditure to 2.5% of GDP",
+            "Reduce IMR to below 20",
+            "Both (a) and (b)",
+            "None of the above"
+          ],
+          "opts_hi": [
+            "सार्वजनिक स्वास्थ्य व्यय को GDP के 2.5% तक बढ़ाना",
+            "शिशु मृत्यु दर (IMR) को 20 से कम करना",
+            "(a) और (b) दोनों",
+            "उपरोक्त में से कोई नहीं"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which process produces the maximum ATP in aerobic respiration?",
+          "q_hi": "वायवीय श्वसन में अधिकतम ATP किस प्रक्रिया में उत्पन्न होता है?",
+          "opts": [
+            "Glycolysis",
+            "Krebs cycle",
+            "Electron Transport Chain",
+            "Fermentation"
+          ],
+          "opts_hi": [
+            "ग्लाइकोलाइसिस",
+            "क्रेब्स चक्र",
+            "इलेक्ट्रॉन परिवहन श्रृंखला",
+            "किण्वन"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The States Reorganisation Act was passed in which year?",
+          "q_hi": "राज्य पुनर्गठन अधिनियम किस वर्ष पारित हुआ था?",
+          "opts": [
+            1950,
+            1956,
+            1960,
+            1971
+          ],
+          "opts_hi": [
+            1950,
+            1956,
+            1960,
+            1971
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The right to property is currently a:",
+          "q_hi": "संपत्ति का अधिकार वर्तमान में है:",
+          "opts": [
+            "Fundamental Right",
+            "Legal Right",
+            "Constitutional Right under Article 300A",
+            "Both (b) and (c)"
+          ],
+          "opts_hi": [
+            "मौलिक अधिकार",
+            "विधिक अधिकार",
+            "अनुच्छेद 300A के तहत संवैधानिक अधिकार",
+            "(b) और (c) दोनों"
+          ],
+          "ans": 3,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "In a rigid body rotating about a fixed axis, angular velocity is:",
+          "q_hi": "एक दृढ़ पिंड में निश्चित अक्ष के परितः घूर्णन में कोणीय वेग होता है:",
+          "opts": [
+            "Different for different particles",
+            "Same for all particles",
+            "Zero",
+            "Infinite"
+          ],
+          "opts_hi": [
+            "विभिन्न कणों के लिए भिन्न",
+            "सभी कणों के लिए समान",
+            "शून्य",
+            "अनंत"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The Bharatiya Sakshya Adhiniyam mainly deals with:",
+          "q_hi": "भारतीय साक्ष्य अधिनियम मुख्य रूप से संबंधित है:",
+          "opts": [
+            "Criminal procedure",
+            "Law of evidence",
+            "Civil procedure",
+            "Contract law"
+          ],
+          "opts_hi": [
+            "आपराधिक प्रक्रिया",
+            "साक्ष्य का कानून",
+            "सिविल प्रक्रिया",
+            "अनुबंध कानून"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Assertion (A): One Nation One Ration Card scheme allows portability of ration. Reason (R): It is based on Aadhaar authentication.",
+          "q_hi": "अभिकथन (A): वन नेशन वन राशन कार्ड योजना राशन की पोर्टेबिलिटी की अनुमति देती है। कारण (R): यह आधार प्रमाणीकरण पर आधारित है।",
+          "opts": [
+            "Both A and R are true and R explains A",
+            "Both A and R are true but R does not explain A",
+            "A is true, R is false",
+            "A is false, R is true"
+          ],
+          "opts_hi": [
+            "A और R दोनों सत्य हैं और R, A की व्याख्या करता है",
+            "A और R दोनों सत्य हैं लेकिन R, A की व्याख्या नहीं करता है",
+            "A सत्य है, R असत्य है",
+            "A असत्य है, R सत्य है"
+          ],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Cheraw dance belongs to which state?",
+          "q_hi": "चेराव नृत्य किस राज्य का है?",
+          "opts": [
+            "Mizoram",
+            "Manipur",
+            "Nagaland",
+            "Assam"
+          ],
+          "opts_hi": [
+            "मिजोरम",
+            "मणिपुर",
+            "नागालैंड",
+            "असम"
+          ],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Global Firepower Index primarily ranks countries based on:",
+          "q_hi": "ग्लोबल फायरपावर इंडेक्स मुख्य रूप से देशों को किस आधार पर रैंक करता है?",
+          "opts": [
+            "Economic strength",
+            "Military strength",
+            "Cultural influence",
+            "Population size"
+          ],
+          "opts_hi": [
+            "आर्थिक शक्ति",
+            "सैन्य शक्ति",
+            "सांस्कृतिक प्रभाव",
+            "जनसंख्या आकार"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Cooperative sector industries are owned by:",
+          "q_hi": "सहकारी क्षेत्र के उद्योगों का स्वामित्व होता है:",
+          "opts": [
+            "Central Government",
+            "State Government",
+            "Members/workers",
+            "Foreign companies"
+          ],
+          "opts_hi": [
+            "केंद्र सरकार",
+            "राज्य सरकार",
+            "सदस्य/श्रमिक",
+            "विदेशी कंपनियाँ"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "After the 42nd Constitutional Amendment, Education was placed in the:",
+          "q_hi": "42वें संविधान संशोधन के बाद शिक्षा को रखा गया:",
+          "opts": [
+            "Union List",
+            "State List",
+            "Concurrent List",
+            "Residuary List"
+          ],
+          "opts_hi": [
+            "संघ सूची",
+            "राज्य सूची",
+            "समवर्ती सूची",
+            "अवशिष्ट सूची"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The National Framework for Climate Services aims to:",
+          "q_hi": "जलवायु सेवाओं के लिए राष्ट्रीय ढांचा का उद्देश्य है:",
+          "opts": [
+            "Provide climate information services",
+            "Regulate carbon trading",
+            "Control groundwater",
+            "Promote private carbon offsets"
+          ],
+          "opts_hi": [
+            "जलवायु सूचना सेवाएँ प्रदान करना",
+            "कार्बन व्यापार को विनियमित करना",
+            "भूजल को नियंत्रित करना",
+            "निजी कार्बन ऑफसेट को बढ़ावा देना"
+          ],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Argon in the Earth's atmosphere is mainly produced by:",
+          "q_hi": "पृथ्वी के वायुमंडल में आर्गन मुख्य रूप से उत्पन्न होता है:",
+          "opts": [
+            "Decay of Potassium-40",
+            "Volcanic activity",
+            "Photosynthesis",
+            "Cosmic rays"
+          ],
+          "opts_hi": [
+            "पोटैशियम-40 का क्षय",
+            "ज्वालामुखीय गतिविधि",
+            "प्रकाश संश्लेषण",
+            "ब्रह्मांडीय किरणें"
+          ],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Fundamental Rights are:",
+          "q_hi": "मौलिक अधिकार हैं:",
+          "opts": [
+            "Justiciable",
+            "Non-justiciable",
+            "Directive in nature",
+            "Optional"
+          ],
+          "opts_hi": [
+            "न्यायोचित",
+            "अन्यायोचित",
+            "निर्देशात्मक प्रकृति के",
+            "वैकल्पिक"
+          ],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Select the related word from the given alternatives. Ampere : Current :: Ohm : ?",
+          "q_hi": "दिए गए विकल्पों में से संबंधित शब्द चुनें। एम्पियर : धारा :: ओम : ?",
+          "opts": [
+            "Resistance",
+            "Voltage",
+            "Power",
+            "Energy"
+          ],
+          "opts_hi": [
+            "प्रतिरोध",
+            "वोल्टेज",
+            "शक्ति",
+            "ऊर्जा"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Select the related word from the given alternatives. Yangtze : China :: Danube : ?",
+          "q_hi": "दिए गए विकल्पों में से संबंधित शब्द चुनें। यांग्त्ज़ी : चीन :: डेन्यूब : ?",
+          "opts": [
+            "Germany",
+            "France",
+            "Italy",
+            "Spain"
+          ],
+          "opts_hi": [
+            "जर्मनी",
+            "फ्रांस",
+            "इटली",
+            "स्पेन"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Select the letter-cluster that can replace the question mark (?) in the following series. B F J, F J N, J N R, N R V, ?",
+          "q_hi": "निम्नलिखित श्रृंखला में प्रश्न चिह्न (?) के स्थान पर आने वाले अक्षर-समूह का चयन करें। B F J, F J N, J N R, N R V, ?",
+          "opts": [
+            "R V Z",
+            "R V Y",
+            "Q U Y",
+            "S W A"
+          ],
+          "opts_hi": [
+            "R V Z",
+            "R V Y",
+            "Q U Y",
+            "S W A"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Select the letter-cluster that can replace the question mark (?) in the following series. KLM, LMN, MNO, NOP, ?",
+          "q_hi": "निम्नलिखित श्रृंखला में प्रश्न चिह्न (?) के स्थान पर आने वाले अक्षर-समूह का चयन करें। KLM, LMN, MNO, NOP, ?",
+          "opts": [
+            "OPQ",
+            "PQR",
+            "OQP",
+            "QPR"
+          ],
+          "opts_hi": [
+            "OPQ",
+            "PQR",
+            "OQP",
+            "QPR"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Select the letter-cluster that can replace the question mark (?) in the following series. CDF, FGI, IJL, LMO, ?",
+          "q_hi": "निम्नलिखित श्रृंखला में प्रश्न चिह्न (?) के स्थान पर आने वाले अक्षर-समूह का चयन करें। CDF, FGI, IJL, LMO, ?",
+          "opts": [
+            "PQR",
+            "OPR",
+            "NPR",
+            "OPQ"
+          ],
+          "opts_hi": [
+            "PQR",
+            "OPR",
+            "NPR",
+            "OPQ"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Select the letter-cluster that can replace the question mark (?) in the following series. ACEG, BDFH, CEGI, DFHJ, ?",
+          "q_hi": "निम्नलिखित श्रृंखला में प्रश्न चिह्न (?) के स्थान पर आने वाले अक्षर-समूह का चयन करें। ACEG, BDFH, CEGI, DFHJ, ?",
+          "opts": [
+            "EGIK",
+            "FHJL",
+            "EGIL",
+            "FHJK"
+          ],
+          "opts_hi": [
+            "EGIK",
+            "FHJL",
+            "EGIL",
+            "FHJK"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "What comes next in the series: 4, 13, 8, 17, 12, 21, 16, ?",
+          "q_hi": "इसके बाद क्या आएगा: 4, 13, 8, 17, 12, 21, 16, ?",
+          "opts": [
+            20,
+            25,
+            24,
+            28
+          ],
+          "opts_hi": [
+            20,
+            25,
+            24,
+            28
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Each of the letters in the word \"COMPUTER\" is arranged in alphabetical order. How many letters are there between the letter that is third from the left and the letter that is second from the right in the new arrangement?",
+          "q_hi": "शब्द \"COMPUTER\" के अक्षरों को वर्णानुक्रम में व्यवस्थित किया गया है। नए व्यवस्था में बाएँ से तीसरे और दाएँ से दूसरे अक्षर के बीच कितने अक्षर हैं?",
+          "opts": [
+            8,
+            9,
+            10,
+            11
+          ],
+          "opts_hi": [
+            8,
+            9,
+            10,
+            11
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Which of the following addresses are identical? 1. Suresh Kumar, C-22, Rose Garden, Pune, 411001 2. Suresh Kumar, C-22, Rose Garden, Pune 411001 3. Suresh K., C-22, Rose Garden, Pune, 411001 4. Suresh Kumar, C-22, Rose Garden, Pune, 411001",
+          "q_hi": "निम्नलिखित में से कौन से पते समान हैं? 1. Suresh Kumar, C-22, Rose Garden, Pune, 411001 2. Suresh Kumar, C-22, Rose Garden, Pune 411001 3. Suresh K., C-22, Rose Garden, Pune, 411001 4. Suresh Kumar, C-22, Rose Garden, Pune, 411001",
+          "opts": [
+            "1 and 2",
+            "1 and 4",
+            "2 and 3",
+            "3 and 4"
+          ],
+          "opts_hi": [
+            "1 और 2",
+            "1 और 4",
+            "2 और 3",
+            "3 और 4"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Which of the following is/are identical to the given address: Neha Sharma, 45, Palm Residency, Sector 9, Noida, 201301",
+          "q_hi": "दिए गए पते के समान कौन सा/से पता है/हैं: Neha Sharma, 45, Palm Residency, Sector 9, Noida, 201301",
+          "opts": [
+            "1 only",
+            "2 only",
+            "1 and 3",
+            "3 only"
+          ],
+          "opts_hi": [
+            "केवल 1",
+            "केवल 2",
+            "1 और 3",
+            "केवल 3"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Complete the analogy: CF : IL :: EH : ?",
+          "q_hi": "सादृश्य पूरा करें: CF : IL :: EH : ?",
+          "opts": [
+            "KN",
+            "KO",
+            "LN",
+            "LO"
+          ],
+          "opts_hi": [
+            "KN",
+            "KO",
+            "LN",
+            "LO"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "A is facing West. D is seated second to the right of A. Who is sitting immediately to the left of D?",
+          "q_hi": "A पश्चिम दिशा की ओर मुँह करके बैठा है। D, A के दाईं ओर दूसरे स्थान पर बैठा है। D के ठीक बाईं ओर कौन बैठा है?",
+          "opts": [
+            "The person seated opposite A",
+            "The person seated to the immediate right of A",
+            "The person seated to the immediate left of A",
+            "Cannot be determined"
+          ],
+          "opts_hi": [
+            "A के विपरीत बैठा व्यक्ति",
+            "A के तुरंत दाईं ओर बैठा व्यक्ति",
+            "A के तुरंत बाईं ओर बैठा व्यक्ति",
+            "निर्धारित नहीं किया जा सकता"
+          ],
+          "ans": 3,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "TIME : ULNG :: PLAY : ?",
+          "q_hi": "TIME : ULNG :: PLAY : ?",
+          "opts": [
+            "QMBZ",
+            "QNAZ",
+            "RMBZ",
+            "QMBY"
+          ],
+          "opts_hi": [
+            "QMBZ",
+            "QNAZ",
+            "RMBZ",
+            "QMBY"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Apply the same pattern: NOITCELES : SELECTION :: NOITULOS : ?",
+          "q_hi": "समान पैटर्न लागू करें: NOITCELES : SELECTION :: NOITULOS : ?",
+          "opts": [
+            "SOLUTION",
+            "SOLUTOIN",
+            "NOITULOS",
+            "SOLUTIONS"
+          ],
+          "opts_hi": [
+            "SOLUTION",
+            "SOLUTOIN",
+            "NOITULOS",
+            "SOLUTIONS"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "CDEG : BCDF :: FHJL : ?",
+          "q_hi": "CDEG : BCDF :: FHJL : ?",
+          "opts": [
+            "EGIK",
+            "EGIL",
+            "FHIK",
+            "EGJK"
+          ],
+          "opts_hi": [
+            "EGIK",
+            "EGIL",
+            "FHIK",
+            "EGJK"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Identify the odd one: 5, 7, 11, 13, 17, 19, 23, 25",
+          "q_hi": "विषम पहचानें: 5, 7, 11, 13, 17, 19, 23, 25",
+          "opts": [
+            17,
+            19,
+            23,
+            25
+          ],
+          "opts_hi": [
+            17,
+            19,
+            23,
+            25
+          ],
+          "ans": 3,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Which of the following is the odd one out?",
+          "q_hi": "निम्नलिखित में से कौन विषम है?",
+          "opts": [
+            "2011-07-05T00:00:00.000Z",
+            "13, 17, 19",
+            "2015-09-03T00:00:00.000Z",
+            "23, 29, 31"
+          ],
+          "opts_hi": [
+            "2011-07-05T00:00:00.000Z",
+            "13, 17, 19",
+            "2015-09-03T00:00:00.000Z",
+            "23, 29, 31"
+          ],
+          "ans": 2,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Pointing to a photograph, a woman said, \"He is the son of my mother's only daughter.\" How is the man related to the woman?",
+          "q_hi": "एक महिला ने फोटो की ओर इशारा करते हुए कहा, \"वह मेरी माँ की इकलौती बेटी का बेटा है।\" वह पुरुष महिला से किस प्रकार संबंधित है?",
+          "opts": [
+            "Brother",
+            "Son",
+            "Nephew",
+            "Cousin"
+          ],
+          "opts_hi": [
+            "भाई",
+            "पुत्र",
+            "भतीजा/भांजा",
+            "चचेरा/ममेरा भाई"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Pointing to a man, a woman said, \"His wife is the only daughter of my father.\" How is the man related to the woman?",
+          "q_hi": "एक महिला ने एक पुरुष की ओर इशारा करते हुए कहा, \"उसकी पत्नी मेरे पिता की इकलौती बेटी है।\" वह पुरुष महिला से किस प्रकार संबंधित है?",
+          "opts": [
+            "Father",
+            "Brother",
+            "Husband",
+            "Uncle"
+          ],
+          "opts_hi": [
+            "पिता",
+            "भाई",
+            "पति",
+            "चाचा/मामा"
+          ],
+          "ans": 2,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Identify the group that does NOT follow the same pattern:",
+          "q_hi": "वह समूह पहचानें जो समान पैटर्न का पालन नहीं करता है:",
+          "opts": [
+            "Q17 : O15 : M13",
+            "S19 : Q17 : O15",
+            "U21 : S19 : Q17",
+            "R18 : P16 : N13"
+          ],
+          "opts_hi": [
+            "Q17 : O15 : M13",
+            "S19 : Q17 : O15",
+            "U21 : S19 : Q17",
+            "R18 : P16 : N13"
+          ],
+          "ans": 3,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Pointing to a girl, a man said, \"She is the daughter of the only sister of my father.\" How is the girl related to the man?",
+          "q_hi": "एक पुरुष ने एक लड़की की ओर इशारा करते हुए कहा, \"वह मेरे पिता की इकलौती बहन की बेटी है।\" लड़की पुरुष से किस प्रकार संबंधित है?",
+          "opts": [
+            "Sister",
+            "Cousin",
+            "Niece",
+            "Daughter"
+          ],
+          "opts_hi": [
+            "बहन",
+            "चचेरी/ममेरी बहन",
+            "भतीजी/भांजी",
+            "पुत्री"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "If @ means ×, # means −, $ means +, then evaluate: 7 @ 4 # 5 $ 9",
+          "q_hi": "यदि @ का अर्थ × है, # का अर्थ − है, $ का अर्थ + है, तो मूल्यांकन करें: 7 @ 4 # 5 $ 9",
+          "opts": [
+            28,
+            32,
+            36,
+            24
+          ],
+          "opts_hi": [
+            28,
+            32,
+            36,
+            24
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Complete the analogy: GI : KM :: OQ : ?",
+          "q_hi": "सादृश्य पूरा करें: GI : KM :: OQ : ?",
+          "opts": [
+            "SU",
+            "SV",
+            "TU",
+            "TV"
+          ],
+          "opts_hi": [
+            "SU",
+            "SV",
+            "TU",
+            "TV"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Letters of the word \"LIBRARY\" are arranged alphabetically. How many letters are there between the second letter from the left and the third letter from the right in the new arrangement?",
+          "q_hi": "शब्द \"LIBRARY\" के अक्षरों को वर्णानुक्रम में व्यवस्थित किया गया है। नए व्यवस्था में बाएँ से दूसरे और दाएँ से तीसरे अक्षर के बीच कितने अक्षर हैं?",
+          "opts": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "opts_hi": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
         }
       ]
     },
