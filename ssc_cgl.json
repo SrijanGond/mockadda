@@ -489,24 +489,6 @@
           "exp_hi": "जैसे चित्रकार का मुख्य औज़ार ब्रश होता है, उसी प्रकार बढ़ई का मुख्य शिल्प औज़ार छेनी (Chisel) होता है।"
         },
         {
-          "q": "Select the letter-cluster that can replace the question mark: PRTQ, QSUR, RTVS, SUWT, ?",
-          "q_hi": "प्रश्न चिह्न के स्थान पर आने वाला अक्षर-समूह चुनें: PRTQ, QSUR, RTVS, SUWT, ?",
-          "opts": [
-            "TVXU",
-            "TVXW",
-            "UVXU",
-            "TWXU"
-          ],
-          "opts_hi": [
-            "TVXU",
-            "TVXW",
-            "UVXU",
-            "TWXU"
-          ],
-          "ans": 0,
-          "subject": "General Intelligence & Reasoning"
-        },
-        {
           "q": "Which schedule of the Indian Constitution contains provisions related to the disqualification of members of Parliament on grounds of defection?",
           "opts": [
             "Eighth Schedule",
@@ -5308,42 +5290,6 @@
           ],
           "ans": 0,
           "subject": "General Intelligence & Reasoning"
-        },
-        {
-          "q": "Select the letter-cluster that can replace the question mark: ACEG, BDFH, CEGI, DFHJ, ?",
-          "q_hi": "प्रश्न चिह्न के स्थान पर आने वाला अक्षर-समूह चुनें: ACEG, BDFH, CEGI, DFHJ, ?",
-          "opts": [
-            "EGIK",
-            "EGHJ",
-            "FHJL",
-            "EGIL"
-          ],
-          "opts_hi": [
-            "EGIK",
-            "EGHJ",
-            "FHJL",
-            "EGIL"
-          ],
-          "ans": 0,
-          "subject": "General Intelligence & Reasoning"
-        },
-        {
-          "q": "Select the letter-cluster that can replace the question mark: KMNP, LNQR, MPRT, NQTU, ?",
-          "q_hi": "प्रश्न चिह्न के स्थान पर आने वाला अक्षर-समूह चुनें: KMNP, LNQR, MPRT, NQTU, ?",
-          "opts": [
-            "ORUV",
-            "OQUV",
-            "OQRV",
-            "OQRU"
-          ],
-          "opts_hi": [
-            "ORUV",
-            "OQUV",
-            "OQRV",
-            "OQRU"
-          ],
-          "ans": 0,
-          "subject": "General Intelligence & Reasoning"
         }
       ]
     },
@@ -5569,7 +5515,7 @@
             "विलियम बेंटिक"
           ],
           "ans": 0,
-          "subject": "General Knowledge"
+          "subject": "General Awareness"
         },
         {
           "q": "Who is called the \"Iron Man of India\"?",
@@ -5587,7 +5533,7 @@
             "सुभाष चंद्र बोस"
           ],
           "ans": 2,
-          "subject": "General Knowledge"
+          "subject": "General Awareness"
         },
         {
           "q": "Who is the current President of India?",
@@ -5605,7 +5551,7 @@
             "नरेंद्र मोदी"
           ],
           "ans": 1,
-          "subject": "General Knowledge"
+          "subject": "General Awareness"
         },
         {
           "q": "Which aquatic animal has three hearts?",
@@ -5623,7 +5569,7 @@
             "मगरमच्छ"
           ],
           "ans": 0,
-          "subject": "General Knowledge"
+          "subject": "General Awareness"
         },
         {
           "q": "Which is the longest river bridge in India?",
@@ -5641,7 +5587,7 @@
             "गोदावरी पुल"
           ],
           "ans": 0,
-          "subject": "General Knowledge"
+          "subject": "General Awareness"
         },
         {
           "q": "Which Schedule of the Constitution deals with the division of powers between Union and States?",
@@ -5659,7 +5605,7 @@
             "10वीं अनुसूची"
           ],
           "ans": 1,
-          "subject": "General Knowledge"
+          "subject": "General Awareness"
         },
         {
           "q": "Which article abolishes untouchability?",
@@ -5677,7 +5623,7 @@
             "अनुच्छेद 17"
           ],
           "ans": 3,
-          "subject": "Polity"
+          "subject": "General Awareness"
         },
         {
           "q": "Right to Freedom is guaranteed under which group of Articles?",
@@ -5695,7 +5641,7 @@
             "अनुच्छेद 25-28"
           ],
           "ans": 1,
-          "subject": "Polity"
+          "subject": "General Awareness"
         },
         {
           "q": "The Right to Life and Personal Liberty is guaranteed under which Article?",
@@ -5713,7 +5659,7 @@
             "अनुच्छेद 22"
           ],
           "ans": 2,
-          "subject": "Polity"
+          "subject": "General Awareness"
         },
         {
           "q": "Which Fundamental Right was described by Dr. B.R. Ambedkar as the \"heart and soul\" of the Constitution?",
@@ -5731,7 +5677,7 @@
             "धर्म की स्वतंत्रता का अधिकार"
           ],
           "ans": 2,
-          "subject": "Polity"
+          "subject": "General Awareness"
         }
       ]
     },
@@ -5777,7 +5723,7 @@
             "तमिलनाडु"
           ],
           "ans": 1,
-          "subject": "General Knowledge"
+          "subject": "General Awareness"
         },
         {
           "q": "Which state produces the maximum rice in India?",
@@ -5795,7 +5741,7 @@
             "आंध्र प्रदेश"
           ],
           "ans": 1,
-          "subject": "General Knowledge"
+          "subject": "General Awareness"
         },
         {
           "q": "Which continent is referred to as a \"Continent Dedicated to Science\"?",
@@ -5813,7 +5759,7 @@
             "एशिया"
           ],
           "ans": 1,
-          "subject": "General Knowledge"
+          "subject": "General Awareness"
         },
         {
           "q": "Who is known as the 'Father of the Indian Constitution'?",
@@ -5831,7 +5777,7 @@
             "सरदार पटेल"
           ],
           "ans": 2,
-          "subject": "General Knowledge"
+          "subject": "General Awareness"
         },
         {
           "q": "Which supersonic missile did India agree to sell to Indonesia?",
@@ -5849,7 +5795,7 @@
             "आकाश"
           ],
           "ans": 0,
-          "subject": "Current Affairs"
+          "subject": "General Awareness"
         },
         {
           "q": "Which country did PM Modi visit in July 2026 to strengthen bilateral ties?",
@@ -5867,7 +5813,7 @@
             "यूएई, सऊदी अरब, इज़राइल"
           ],
           "ans": 0,
-          "subject": "Current Affairs"
+          "subject": "General Awareness"
         },
         {
           "q": "Who received the Padma Shri posthumously for bringing international recognition to 'Akhada'?",
@@ -5885,7 +5831,7 @@
             "के पजनिवेल"
           ],
           "ans": 1,
-          "subject": "Current Affairs"
+          "subject": "General Awareness"
         },
         {
           "q": "Which country is hosting the 2026 G7 Summit?",
@@ -5903,7 +5849,7 @@
             "इटली"
           ],
           "ans": 1,
-          "subject": "Current Affairs"
+          "subject": "General Awareness"
         },
         {
           "q": "What is the name of India's first indigenous distilled video story-generating AI model launched under the India AI Mission?",
@@ -5921,7 +5867,7 @@
             "सरस्वतीAI"
           ],
           "ans": 1,
-          "subject": "Current Affairs"
+          "subject": "General Awareness"
         },
         {
           "q": "Which film won the Best Feature Film award at the 72nd National Film Awards announced in July 2026?",
@@ -5939,7 +5885,7 @@
             "चंदू चैंपियन"
           ],
           "ans": 2,
-          "subject": "Current Affairs"
+          "subject": "General Awareness"
         },
         {
           "q": "According to the RBI's July 2026 Bulletin, what was the headline CPI inflation for June 2026?",
@@ -5957,7 +5903,7 @@
             "5.2%"
           ],
           "ans": 2,
-          "subject": "Current Affairs"
+          "subject": "General Awareness"
         },
         {
           "q": "What is the full form of GDP?",
@@ -5975,7 +5921,7 @@
             "कोई नहीं"
           ],
           "ans": 0,
-          "subject": "Economics"
+          "subject": "General Awareness"
         },
         {
           "q": "What is the apex body for microfinance in India?",
@@ -5993,7 +5939,7 @@
             "एनएचबी"
           ],
           "ans": 0,
-          "subject": "Economics"
+          "subject": "General Awareness"
         },
         {
           "q": "What is the current base year for calculating GDP in India?",
@@ -6011,7 +5957,7 @@
             "2020-21"
           ],
           "ans": 0,
-          "subject": "Economics"
+          "subject": "General Awareness"
         },
         {
           "q": "What is the main objective of Fiscal Policy?",
@@ -6029,7 +5975,7 @@
             "कोई नहीं"
           ],
           "ans": 1,
-          "subject": "Economics"
+          "subject": "General Awareness"
         },
         {
           "q": "What is the main objective of Monetary Policy?",
@@ -6047,7 +5993,7 @@
             "कोई नहीं"
           ],
           "ans": 2,
-          "subject": "Economics"
+          "subject": "General Awareness"
         },
         {
           "q": "Which Article of the Indian Constitution deals with the Right to Equality?",
@@ -6065,7 +6011,7 @@
             "अनुच्छेद 25"
           ],
           "ans": 0,
-          "subject": "Polity"
+          "subject": "General Awareness"
         },
         {
           "q": "Which Constitutional Amendment Act is known as the 'Mini Constitution'?",
@@ -6083,7 +6029,7 @@
             "73वां संशोधन अधिनियम"
           ],
           "ans": 0,
-          "subject": "Polity"
+          "subject": "General Awareness"
         },
         {
           "q": "Which of the following is the leading producer of tea in India?",
@@ -6101,7 +6047,7 @@
             "असम"
           ],
           "ans": 3,
-          "subject": "Geography"
+          "subject": "General Awareness"
         }
       ]
     }
