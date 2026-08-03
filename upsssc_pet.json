@@ -153,42 +153,6 @@
           "subject": "General Knowledge"
         },
         {
-          "q": "Which of the following is the largest district of Uttar Pradesh by area?",
-          "q_hi": "उत्तर प्रदेश का क्षेत्रफल की दृष्टि से सबसे बड़ा जिला निम्नलिखित में से कौन सा है?",
-          "opts": [
-            "Lakhimpur Kheri",
-            "Prayagraj",
-            "Lucknow",
-            "Varanasi"
-          ],
-          "opts_hi": [
-            "लखीमपुर खीरी",
-            "प्रयागराज",
-            "लखनऊ",
-            "वाराणसी"
-          ],
-          "ans": 0,
-          "subject": "General Knowledge"
-        },
-        {
-          "q": "Which of the following is the smallest district of Uttar Pradesh by area?",
-          "q_hi": "उत्तर प्रदेश का क्षेत्रफल की दृष्टि से सबसे छोटा जिला निम्नलिखित में से कौन सा है?",
-          "opts": [
-            "Hathras",
-            "Mahoba",
-            "Ghaziabad",
-            "Budaun"
-          ],
-          "opts_hi": [
-            "हाथरस",
-            "महोबा",
-            "गाजियाबाद",
-            "बदायूं"
-          ],
-          "ans": 0,
-          "subject": "General Knowledge"
-        },
-        {
           "q": "उत्तर प्रदेश के वर्तमान राज्यपाल (2025) कौन हैं?",
           "q_hi": "उत्तर प्रदेश के वर्तमान राज्यपाल (2025) कौन हैं?",
           "opts": [
@@ -2058,7 +2022,7 @@
             "WPOEFS"
           ],
           "ans": 0,
-          "subject": "Reasoning"
+          "subject": "Reasoning & Mathematics"
         },
         {
           "q": "यदि A को 26, B को 25, C को 24 कोडित किया जाता है, तो MOBILE का कोड क्या होगा?",
@@ -2076,7 +2040,7 @@
             151416192522
           ],
           "ans": 1,
-          "subject": "Reasoning"
+          "subject": "Reasoning & Mathematics"
         },
         {
           "q": "18 फरवरी 2005 को शुक्रवार थी, तो 18 फरवरी 2007 को कौन-सा दिन होगा?",
@@ -2094,7 +2058,7 @@
             "मंगलवार"
           ],
           "ans": 1,
-          "subject": "Reasoning"
+          "subject": "Reasoning & Mathematics"
         },
         {
           "q": "निम्नलिखित श्रृंखला में विषम पद चुनें: 8, 27, 64, 100, 125, 216, 343",
@@ -2112,7 +2076,7 @@
             343
           ],
           "ans": 2,
-          "subject": "Reasoning"
+          "subject": "Reasoning & Mathematics"
         },
         {
           "q": "एक कतार में राम बाएँ से 18वें स्थान पर और श्याम दाएँ से 19वें स्थान पर है। दोनों के बीच 5 व्यक्ति हैं, तो कुल कितने व्यक्ति हैं?",
@@ -2130,7 +2094,7 @@
             43
           ],
           "ans": 2,
-          "subject": "Reasoning"
+          "subject": "Reasoning & Mathematics"
         },
         {
           "q": "7:25 पर घड़ी की घंटे और मिनट की सुई के बीच कितना कोण बनेगा?",
@@ -2148,7 +2112,7 @@
             "85°"
           ],
           "ans": 1,
-          "subject": "Reasoning"
+          "subject": "Reasoning & Mathematics"
         },
         {
           "q": "4, 9, 16, 25, 36, __ में अगला पद क्या होगा?",
@@ -2166,7 +2130,7 @@
             64
           ],
           "ans": 1,
-          "subject": "Reasoning"
+          "subject": "Reasoning & Mathematics"
         },
         {
           "q": "15, 31, 63, __, 255, 511 श्रृंखला में रिक्त स्थान क्या है?",
@@ -2184,7 +2148,7 @@
             131
           ],
           "ans": 0,
-          "subject": "Reasoning"
+          "subject": "Reasoning & Mathematics"
         },
         {
           "q": "यदि BOOK को 43 लिखा जाता है, तो PEN को क्या लिखा जाएगा?",
@@ -2202,7 +2166,7 @@
             38
           ],
           "ans": 2,
-          "subject": "Reasoning"
+          "subject": "Reasoning & Mathematics"
         },
         {
           "q": "सभी पक्षियों को 'कुत्ता', सभी कुत्तों को 'बिल्ली' कहा जाए, तो 'कौआ' क्या कहलाएगा?",
@@ -2220,7 +2184,7 @@
             "कोई नहीं"
           ],
           "ans": 1,
-          "subject": "Reasoning"
+          "subject": "Reasoning & Mathematics"
         },
         {
           "q": "निम्नलिखित में से कौन-सा शब्द विषम है? (PENCIL, PEN, SCALE, INK)",
@@ -2238,7 +2202,7 @@
             "INK"
           ],
           "ans": 2,
-          "subject": "Reasoning"
+          "subject": "Reasoning & Mathematics"
         },
         {
           "q": "फाल्गुनी की ओर इशारा करते हुए हार्दिक ने कहा, \"इनके इकलौते भाई का पुत्र मेरी पत्नी का भाई है।\" फाल्गुनी हार्दिक से किस प्रकार संबंधित है?",
@@ -2256,7 +2220,7 @@
             "साली"
           ],
           "ans": 1,
-          "subject": "Reasoning"
+          "subject": "Reasoning & Mathematics"
         },
         {
           "q": "एक पुरुष ने कहा—\"यह मेरी माँ का बेटा है, लेकिन मैं उसका इकलौता बेटा नहीं।\" वह व्यक्ति कौन है?",
@@ -2274,7 +2238,7 @@
             "बहनोई"
           ],
           "ans": 2,
-          "subject": "Reasoning"
+          "subject": "Reasoning & Mathematics"
         },
         {
           "q": "1 से 94 तक की सभी प्राकृत संख्याओं का औसत क्या है?",
@@ -2292,7 +2256,7 @@
             49
           ],
           "ans": 1,
-          "subject": "Mathematics"
+          "subject": "Reasoning & Mathematics"
         },
         {
           "q": "प्रथम 60 प्राकृत संख्याओं का योग ज्ञात कीजिए।",
@@ -2310,7 +2274,7 @@
             1800
           ],
           "ans": 0,
-          "subject": "Mathematics"
+          "subject": "Reasoning & Mathematics"
         },
         {
           "q": "20 का 15% क्या है?",
@@ -2328,7 +2292,7 @@
             5
           ],
           "ans": 1,
-          "subject": "Mathematics"
+          "subject": "Reasoning & Mathematics"
         },
         {
           "q": "एक कार 360 किमी की दूरी 5 घंटे में तय करती है। चाल क्या है?",
@@ -2346,7 +2310,7 @@
             "72 km/h"
           ],
           "ans": 3,
-          "subject": "Mathematics"
+          "subject": "Reasoning & Mathematics"
         },
         {
           "q": "यदि 5 पुस्तकों का मूल्य ₹250 है, तो 8 पुस्तकों का मूल्य क्या होगा?",
@@ -2364,7 +2328,7 @@
             "₹500"
           ],
           "ans": 1,
-          "subject": "Mathematics"
+          "subject": "Reasoning & Mathematics"
         },
         {
           "q": "36 और 48 का HCF क्या है?",
@@ -2382,7 +2346,7 @@
             24
           ],
           "ans": 1,
-          "subject": "Mathematics"
+          "subject": "Reasoning & Mathematics"
         },
         {
           "q": "15 और 20 का LCM क्या है?",
@@ -2400,7 +2364,7 @@
             60
           ],
           "ans": 3,
-          "subject": "Mathematics"
+          "subject": "Reasoning & Mathematics"
         },
         {
           "q": "5, 8, 11, 14, ... का अगला पद क्या है?",
@@ -2418,7 +2382,7 @@
             19
           ],
           "ans": 1,
-          "subject": "Mathematics"
+          "subject": "Reasoning & Mathematics"
         },
         {
           "q": "24 × 5 ÷ 4 + 6 = ?",
@@ -2436,7 +2400,7 @@
             40
           ],
           "ans": 2,
-          "subject": "Mathematics"
+          "subject": "Reasoning & Mathematics"
         },
         {
           "q": "75% = ? / 4",
@@ -2454,7 +2418,7 @@
             5
           ],
           "ans": 1,
-          "subject": "Mathematics"
+          "subject": "Reasoning & Mathematics"
         },
         {
           "q": "₹500 पर 10% प्रति वर्ष की दर से 2 वर्ष का साधारण ब्याज क्या है?",
@@ -2472,7 +2436,7 @@
             "₹200"
           ],
           "ans": 1,
-          "subject": "Mathematics"
+          "subject": "Reasoning & Mathematics"
         }
       ]
     },
