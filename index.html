@@ -481,18 +481,21 @@ function getMarkingScheme(test){
   };
 }
 
-// Caps each subject section of a test's questions at maxPerSection (default 25),
-// in first-seen order. Any questions beyond the 25th for a given subject are
-// dropped entirely (not counted, not shown, not included in scoring).
-// SCOPE: only SSC CGL and SSC CHSL follow this fixed 25/25/25/25 (General
-// Intelligence & Reasoning, General Awareness, Quantitative Aptitude, English
-// Comprehension) pattern — other exams (Banking, Teaching, Police, Railways,
-// etc.) have their own section sizes and must NOT be capped here. Gate this
-// by examKey, not just by whether a test has subject tags.
-const SECTION_CAPPED_EXAMS = new Set(['ssc_cgl','ssc_chsl']);
-function capQuestionsPerSection(questions, examKey, maxPerSection){
-  if(!SECTION_CAPPED_EXAMS.has(examKey)) return questions;
-  const cap = maxPerSection || 25;
+// Caps each subject section of a test's questions at that exam's configured
+// max (see SECTION_CAP_BY_EXAM below), in first-seen order. Any questions
+// beyond the cap for a given subject are dropped entirely (not counted, not
+// shown, not included in scoring).
+// SCOPE: only exams with a fixed per-subject quota are capped here — SSC CGL
+// and SSC CHSL (25/subject: General Intelligence & Reasoning, General
+// Awareness, Quantitative Aptitude, English Comprehension) and UPSSSC PET
+// (30/subject: General Hindi, General Knowledge, Reasoning & Mathematics,
+// General Science). Other exams (Banking, Teaching, Police, Railways, etc.)
+// have their own section sizes and must NOT be capped here. Gate this by
+// examKey, not just by whether a test has subject tags.
+const SECTION_CAP_BY_EXAM = { ssc_cgl: 25, ssc_chsl: 25, upsssc_pet: 30 };
+function capQuestionsPerSection(questions, examKey){
+  const cap = SECTION_CAP_BY_EXAM[examKey];
+  if(!cap) return questions;
   const hasSubjects = questions.some(q=>q.subject);
   if(!hasSubjects) return questions;
   const counts={};
