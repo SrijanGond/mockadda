@@ -81,6 +81,7 @@ import pandas as pd
 SECTION_QUOTA = {
     "ssc_cgl": 25,
     "ssc_chsl": 25,
+    "upsssc_pet": 30,
 }
 
 # Subjects that are legitimately English-only (missing Hindi is expected,
