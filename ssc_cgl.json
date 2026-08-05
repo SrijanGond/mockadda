@@ -8733,6 +8733,456 @@
           ],
           "ans": 1,
           "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "If 35% of a number is 175, what is 60% of that number?",
+          "q_hi": "यदि किसी संख्या का 35% 175 है, तो उस संख्या का 60% क्या है?",
+          "opts": [
+            250,
+            280,
+            300,
+            320
+          ],
+          "opts_hi": [
+            250,
+            280,
+            300,
+            320
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "In an election, the winning candidate got 55% of the valid votes and won by a majority of 4000 votes. How many valid votes were cast?",
+          "q_hi": "एक चुनाव में, विजयी उम्मीदवार को वैध मतों का 55% प्राप्त हुआ और वह 4000 मतों के बहुमत से जीता। कितने वैध मत डाले गए?",
+          "opts": [
+            30000,
+            35000,
+            40000,
+            45000
+          ],
+          "opts_hi": [
+            30000,
+            35000,
+            40000,
+            45000
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A shopkeeper buys 100 items at ₹80 each. He sells 60 items at a profit of 25% and the remaining at a loss of 20%. What is his overall profit/loss percentage?",
+          "q_hi": "एक दुकानदार 100 वस्तुएँ ₹80 प्रत्येक में खरीदता है। वह 60 वस्तुओं को 25% लाभ पर और शेष को 20% हानि पर बेचता है। उसका कुल लाभ/हानि प्रतिशत क्या है?",
+          "opts": [
+            "5% profit",
+            "7% profit",
+            "10% profit",
+            "12% profit"
+          ],
+          "opts_hi": [
+            "5% लाभ",
+            "7% लाभ",
+            "10% लाभ",
+            "12% लाभ"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A person sells an article at a loss of 20%. If he had sold it for ₹80 more, he would have gained 20%. What is the cost price?",
+          "q_hi": "एक व्यक्ति एक वस्तु को 20% हानि पर बेचता है। यदि उसने इसे ₹80 अधिक में बेचा होता, तो उसे 20% लाभ होता। क्रय मूल्य क्या है?",
+          "opts": [
+            "₹150",
+            "₹175",
+            "₹200",
+            "₹225"
+          ],
+          "opts_hi": [
+            "₹150",
+            "₹175",
+            "₹200",
+            "₹225"
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A train 180 m long crosses a platform 240 m long in 21 seconds. What is the speed of the train?",
+          "q_hi": "180 मी लंबी एक ट्रेन 240 मी लंबे प्लेटफॉर्म को 21 सेकंड में पार करती है। ट्रेन की चाल क्या है?",
+          "opts": [
+            "60 km/h",
+            "72 km/h",
+            "80 km/h",
+            "90 km/h"
+          ],
+          "opts_hi": [
+            "60 किमी/घंटा",
+            "72 किमी/घंटा",
+            "80 किमी/घंटा",
+            "90 किमी/घंटा"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A man walks at 5 km/h for 2 hours and then at 7 km/h for 3 hours. What is his average speed?",
+          "q_hi": "एक व्यक्ति 5 किमी/घंटा की चाल से 2 घंटे चलता है और फिर 7 किमी/घंटा की चाल से 3 घंटे चलता है। उसकी औसत चाल क्या है?",
+          "opts": [
+            "5.5 km/h",
+            "6.0 km/h",
+            "6.2 km/h",
+            "6.5 km/h"
+          ],
+          "opts_hi": [
+            "5.5 किमी/घंटा",
+            "6.0 किमी/घंटा",
+            "6.2 किमी/घंटा",
+            "6.5 किमी/घंटा"
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "What is the simple interest on ₹6000 at 9% per annum for 4 years?",
+          "q_hi": "₹6000 पर 9% वार्षिक दर से 4 वर्षों का साधारण ब्याज क्या है?",
+          "opts": [
+            "₹1800",
+            "₹2000",
+            "₹2160",
+            "₹2400"
+          ],
+          "opts_hi": [
+            "₹1800",
+            "₹2000",
+            "₹2160",
+            "₹2400"
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "What is the compound interest on ₹10000 at 8% per annum compounded annually for 2 years?",
+          "q_hi": "₹10000 पर 8% वार्षिक दर से 2 वर्षों का चक्रवृद्धि ब्याज क्या है (वार्षिक रूप से संयोजित)?",
+          "opts": [
+            "₹1600",
+            "₹1664",
+            "₹1728",
+            "₹1800"
+          ],
+          "opts_hi": [
+            "₹1600",
+            "₹1664",
+            "₹1728",
+            "₹1800"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "If A : B = 3 : 5 and B : C = 4 : 7, find A : C.",
+          "q_hi": "यदि A : B = 3 : 5 और B : C = 4 : 7 है, तो A : C ज्ञात करें।",
+          "opts": [
+            "3 : 7",
+            "12 : 35",
+            "4 : 7",
+            "5 : 7"
+          ],
+          "opts_hi": [
+            "3 : 7",
+            "12 : 35",
+            "4 : 7",
+            "5 : 7"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "If x : y = 6 : 7, find (5x + 3y) : (4x + 5y).",
+          "q_hi": "यदि x : y = 6 : 7 है, तो (5x + 3y) : (4x + 5y) ज्ञात करें।",
+          "opts": [
+            "45 : 59",
+            "51 : 59",
+            "45 : 61",
+            "51 : 61"
+          ],
+          "opts_hi": [
+            "45 : 59",
+            "51 : 59",
+            "45 : 61",
+            "51 : 61"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "What is the HCF of 180, 240 and 300?",
+          "q_hi": "180, 240 और 300 का HCF क्या है?",
+          "opts": [
+            30,
+            45,
+            60,
+            75
+          ],
+          "opts_hi": [
+            30,
+            45,
+            60,
+            75
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "What is the LCM of 12, 18 and 20?",
+          "q_hi": "12, 18 और 20 का LCM क्या है?",
+          "opts": [
+            120,
+            140,
+            160,
+            180
+          ],
+          "opts_hi": [
+            120,
+            140,
+            160,
+            180
+          ],
+          "ans": 3,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Which of the following is a composite number?",
+          "q_hi": "निम्नलिखित में से कौन सी भाज्य संख्या है?",
+          "opts": [
+            37,
+            41,
+            43,
+            45
+          ],
+          "opts_hi": [
+            37,
+            41,
+            43,
+            45
+          ],
+          "ans": 3,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "If x² + 1/x² = 34, find x + 1/x (where x > 0).",
+          "q_hi": "यदि x² + 1/x² = 34 है, तो x + 1/x ज्ञात करें (जहाँ x > 0).",
+          "opts": [
+            4,
+            5,
+            6,
+            7
+          ],
+          "opts_hi": [
+            4,
+            5,
+            6,
+            7
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "If x + y = 14 and x² + y² = 100, find xy.",
+          "q_hi": "यदि x + y = 14 और x² + y² = 100 है, तो xy ज्ञात करें।",
+          "opts": [
+            40,
+            42,
+            44,
+            48
+          ],
+          "opts_hi": [
+            40,
+            42,
+            44,
+            48
+          ],
+          "ans": 3,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Solve: 6x + 3 = 27. Find x.",
+          "q_hi": "हल करें: 6x + 3 = 27. x ज्ञात करें।",
+          "opts": [
+            2,
+            3,
+            4,
+            5
+          ],
+          "opts_hi": [
+            2,
+            3,
+            4,
+            5
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "What is the area of a triangle with base 10 cm and height 12 cm?",
+          "q_hi": "10 सेमी आधार और 12 सेमी ऊँचाई वाले त्रिभुज का क्षेत्रफल क्या है?",
+          "opts": [
+            "50 cm²",
+            "55 cm²",
+            "60 cm²",
+            "65 cm²"
+          ],
+          "opts_hi": [
+            "50 सेमी²",
+            "55 सेमी²",
+            "60 सेमी²",
+            "65 सेमी²"
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "What is the volume of a sphere of radius 6 cm? (Use π = 3.14)",
+          "q_hi": "6 सेमी त्रिज्या वाले गोले का आयतन क्या है? (π = 3.14 का उपयोग करें)",
+          "opts": [
+            "678.24 cm³",
+            "724.16 cm³",
+            "814.32 cm³",
+            "904.32 cm³"
+          ],
+          "opts_hi": [
+            "678.24 सेमी³",
+            "724.16 सेमी³",
+            "814.32 सेमी³",
+            "904.32 सेमी³"
+          ],
+          "ans": 3,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "What is the perimeter of a rectangle of length 16 cm and breadth 9 cm?",
+          "q_hi": "16 सेमी लंबाई और 9 सेमी चौड़ाई वाले आयत का परिमाप क्या है?",
+          "opts": [
+            "40 cm",
+            "45 cm",
+            "48 cm",
+            "50 cm"
+          ],
+          "opts_hi": [
+            "40 सेमी",
+            "45 सेमी",
+            "48 सेमी",
+            "50 सेमी"
+          ],
+          "ans": 3,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "What is the value of sin² 45° + cos² 45°?",
+          "q_hi": "sin² 45° + cos² 45° का मान क्या है?",
+          "opts": [
+            0.5,
+            0.75,
+            1,
+            1.5
+          ],
+          "opts_hi": [
+            0.5,
+            0.75,
+            1,
+            1.5
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "What is the value of sec 30°?",
+          "q_hi": "sec 30° का मान क्या है?",
+          "opts": [
+            "1/√2",
+            "√2/√3",
+            "2/√3",
+            "√3/2"
+          ],
+          "opts_hi": [
+            "1/√2",
+            "√2/√3",
+            "2/√3",
+            "√3/2"
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "The average of 10 numbers is 30. If three numbers 25, 30 and 35 are removed, what is the new average?",
+          "q_hi": "10 संख्याओं का औसत 30 है। यदि तीन संख्याएँ 25, 30 और 35 हटा दी जाती हैं, तो नया औसत क्या है?",
+          "opts": [
+            25,
+            27,
+            28,
+            30
+          ],
+          "opts_hi": [
+            25,
+            27,
+            28,
+            30
+          ],
+          "ans": 3,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "The average of 6 numbers is 24. What is the sum of the numbers?",
+          "q_hi": "6 संख्याओं का औसत 24 है। संख्याओं का योग क्या है?",
+          "opts": [
+            120,
+            124,
+            128,
+            144
+          ],
+          "opts_hi": [
+            120,
+            124,
+            128,
+            144
+          ],
+          "ans": 3,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "The sum of the angles of a pentagon is:",
+          "q_hi": "एक पंचभुज के कोणों का योग होता है:",
+          "opts": [
+            "360°",
+            "450°",
+            "540°",
+            "720°"
+          ],
+          "opts_hi": [
+            "360°",
+            "450°",
+            "540°",
+            "720°"
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "The sum of the angles of a hexagon is:",
+          "q_hi": "एक षट्भुज के कोणों का योग होता है:",
+          "opts": [
+            "360°",
+            "540°",
+            "720°",
+            "900°"
+          ],
+          "opts_hi": [
+            "360°",
+            "540°",
+            "720°",
+            "900°"
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
         }
       ]
     }
