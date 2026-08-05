@@ -3261,6 +3261,42 @@
           "subject": "Quantitative Aptitude"
         },
         {
+          "q": "The sum of all two-digit numbers that leave a remainder of 3 when divided by 7 is:",
+          "q_hi": "उन सभी दो अंकीय संख्याओं का योग क्या है जो 7 से विभाजित करने पर 3 शेष छोड़ती हैं?",
+          "opts": [
+            676,
+            703,
+            666,
+            686
+          ],
+          "opts_hi": [
+            676,
+            703,
+            666,
+            686
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A vessel contains a mixture of milk and water in the ratio 5:3. If 16 litres of the mixture is removed and replaced with 16 litres of pure milk, the new ratio of milk to water becomes 9:4. What is the total capacity of the vessel (in litres)?",
+          "q_hi": "एक बर्तन में दूध और पानी का मिश्रण 5:3 के अनुपात में है। यदि 16 लीटर मिश्रण निकालकर 16 लीटर शुद्ध दूध मिला दिया जाए, तो दूध और पानी का नया अनुपात 9:4 हो जाता है। बर्तन की कुल क्षमता (लीटर में) क्या है?",
+          "opts": [
+            "88 litres",
+            "96 litres",
+            "104 litres",
+            "112 litres"
+          ],
+          "opts_hi": [
+            "88 लीटर",
+            "96 लीटर",
+            "104 लीटर",
+            "112 लीटर"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
           "q": "Choose the correctly spelt word.",
           "opts": [
             "Accomodation",
