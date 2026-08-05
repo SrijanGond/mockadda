@@ -7905,6 +7905,456 @@
           ],
           "ans": 3,
           "subject": "General Awareness"
+        },
+        {
+          "q": "In which year did Swami Vivekananda deliver his historic speech at the Chicago Parliament of Religions?",
+          "q_hi": "स्वामी विवेकानंद ने शिकागो धर्म संसद में अपना ऐतिहासिक भाषण किस वर्ष दिया था?",
+          "opts": [
+            1890,
+            1891,
+            1892,
+            1893
+          ],
+          "opts_hi": [
+            1890,
+            1891,
+            1892,
+            1893
+          ],
+          "ans": 3,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The Bhopal gas tragedy occurred in which year?",
+          "q_hi": "भोपाल गैस त्रासदी किस वर्ष हुई थी?",
+          "opts": [
+            1982,
+            1984,
+            1985,
+            1988
+          ],
+          "opts_hi": [
+            1982,
+            1984,
+            1985,
+            1988
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Who takes the salute during the Republic Day parade at New Delhi?",
+          "q_hi": "नई दिल्ली में गणतंत्र दिवस परेड के दौरान सलामी कौन लेता है?",
+          "opts": [
+            "Prime Minister",
+            "President",
+            "Chief Justice of India",
+            "Governor of Delhi"
+          ],
+          "opts_hi": [
+            "प्रधान मंत्री",
+            "राष्ट्रपति",
+            "भारत के मुख्य न्यायाधीश",
+            "दिल्ली के राज्यपाल"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Reni Village in Garhwal was known for which environmental movement in the 1970s?",
+          "q_hi": "गढ़वाल का रेणी गाँव 1970 के दशक में किस पर्यावरणीय आंदोलन के लिए जाना जाता था?",
+          "opts": [
+            "Save Silent Valley Movement",
+            "Chipko Movement",
+            "Jungle Bachao Andolan",
+            "Appiko Movement"
+          ],
+          "opts_hi": [
+            "सेव साइलेंट वैली आंदोलन",
+            "चिपको आंदोलन",
+            "जंगल बचाओ आंदोलन",
+            "अप्पिको आंदोलन"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "In which year was the National Food Security Act enacted in India?",
+          "q_hi": "राष्ट्रीय खाद्य सुरक्षा अधिनियम भारत में किस वर्ष पारित किया गया था?",
+          "opts": [
+            2009,
+            2011,
+            2012,
+            2013
+          ],
+          "opts_hi": [
+            2009,
+            2011,
+            2012,
+            2013
+          ],
+          "ans": 3,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which Indian city hosted the first meeting of the Employment Working Group of G20?",
+          "q_hi": "G20 के रोजगार कार्य समूह की पहली बैठक किस भारतीय शहर में आयोजित की गई थी?",
+          "opts": [
+            "Jaipur",
+            "Jodhpur",
+            "Lucknow",
+            "Kolkata"
+          ],
+          "opts_hi": [
+            "जयपुर",
+            "जोधपुर",
+            "लखनऊ",
+            "कोलकाता"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "When was the post of National Security Advisor created in India?",
+          "q_hi": "भारत में राष्ट्रीय सुरक्षा सलाहकार का पद कब बनाया गया था?",
+          "opts": [
+            1998,
+            1999,
+            2000,
+            2003
+          ],
+          "opts_hi": [
+            1998,
+            1999,
+            2000,
+            2003
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "In which year was the first meeting of the National Integration Council held?",
+          "q_hi": "राष्ट्रीय एकता परिषद की पहली बैठक किस वर्ष हुई थी?",
+          "opts": [
+            1951,
+            1955,
+            1962,
+            1965
+          ],
+          "opts_hi": [
+            1951,
+            1955,
+            1962,
+            1965
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The 'Silk City' of India, known for its famous silk sarees, is located in which state?",
+          "q_hi": "भारत की 'रेशम नगरी', जो अपनी प्रसिद्ध रेशम साड़ियों के लिए जानी जाती है, किस राज्य में स्थित है?",
+          "opts": [
+            "Tamil Nadu",
+            "Karnataka",
+            "Andhra Pradesh",
+            "Kerala"
+          ],
+          "opts_hi": [
+            "तमिलनाडु",
+            "कर्नाटक",
+            "आंध्र प्रदेश",
+            "केरल"
+          ],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which Indian finance minister was India's delegate to the World Monetary Conference at Bretton Woods in 1944?",
+          "q_hi": "1944 में ब्रेटन वुड्स में विश्व मौद्रिक सम्मेलन में भारत के प्रतिनिधि कौन से भारतीय वित्त मंत्री थे?",
+          "opts": [
+            "KC Neogy",
+            "CD Deshmukh",
+            "John Mathai",
+            "RK Shanmukham Chetty"
+          ],
+          "opts_hi": [
+            "केसी नियोगी",
+            "सीडी देशमुख",
+            "जॉन मथाई",
+            "आरके शनमुखम चेट्टी"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "In which year was yoga inscribed on UNESCO's Representative List of the Intangible Cultural Heritage of Humanity?",
+          "q_hi": "योग को किस वर्ष यूनेस्को की मानवता की अमूर्त सांस्कृतिक विरासत की प्रतिनिधि सूची में शामिल किया गया था?",
+          "opts": [
+            2014,
+            2015,
+            2016,
+            2018
+          ],
+          "opts_hi": [
+            2014,
+            2015,
+            2016,
+            2018
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "When was the Currency Building in the BBD Bagh area of Kolkata constructed?",
+          "q_hi": "कोलकाता के बीबीडी बाग क्षेत्र में करेंसी बिल्डिंग का निर्माण कब हुआ था?",
+          "opts": [
+            1833,
+            1850,
+            1900,
+            1910
+          ],
+          "opts_hi": [
+            1833,
+            1850,
+            1900,
+            1910
+          ],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "In which year were two additional Commissioners appointed to the Election Commission of India for the first time?",
+          "q_hi": "भारत के चुनाव आयोग में पहली बार दो अतिरिक्त आयुक्त किस वर्ष नियुक्त किए गए थे?",
+          "opts": [
+            1989,
+            1990,
+            1991,
+            1998
+          ],
+          "opts_hi": [
+            1989,
+            1990,
+            1991,
+            1998
+          ],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "In which year was 'Ramlila' inscribed on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity?",
+          "q_hi": "रामलीला' को किस वर्ष यूनेस्को की मानवता की अमूर्त सांस्कृतिक विरासत की प्रतिनिधि सूची में शामिल किया गया था?",
+          "opts": [
+            2006,
+            2008,
+            2010,
+            2012
+          ],
+          "opts_hi": [
+            2006,
+            2008,
+            2010,
+            2012
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "When was the Secretariat of the SAARC set up?",
+          "q_hi": "सार्क का सचिवालय कब स्थापित किया गया था?",
+          "opts": [
+            1984,
+            1985,
+            1986,
+            1987
+          ],
+          "opts_hi": [
+            1984,
+            1985,
+            1986,
+            1987
+          ],
+          "ans": 3,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "In which year was the National Stock Exchange of India (NSE) established?",
+          "q_hi": "भारत का राष्ट्रीय स्टॉक एक्सचेंज (NSE) किस वर्ष स्थापित किया गया था?",
+          "opts": [
+            1991,
+            1992,
+            1993,
+            1994
+          ],
+          "opts_hi": [
+            1991,
+            1992,
+            1993,
+            1994
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "When was the foundation stone for the Gateway of India laid in Bombay (now Mumbai)?",
+          "q_hi": "बॉम्बे (अब मुंबई) में गेटवे ऑफ इंडिया की आधारशिला कब रखी गई थी?",
+          "opts": [
+            1905,
+            1913,
+            1915,
+            1920
+          ],
+          "opts_hi": [
+            1905,
+            1913,
+            1915,
+            1920
+          ],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "In which year was the Rigveda manuscript included in UNESCO's Memory of the World Register?",
+          "q_hi": "ऋग्वेद पांडुलिपि को किस वर्ष यूनेस्को की विश्व धरोहर स्मृति रजिस्टर में शामिल किया गया था?",
+          "opts": [
+            2004,
+            2005,
+            2006,
+            2007
+          ],
+          "opts_hi": [
+            2004,
+            2005,
+            2006,
+            2007
+          ],
+          "ans": 3,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "In which year was the PIN Code (Postal Index Code) introduced in India?",
+          "q_hi": "भारत में पिन कोड (पोस्टल इंडेक्स कोड) कब शुरू किया गया था?",
+          "opts": [
+            1949,
+            1963,
+            1969,
+            1972
+          ],
+          "opts_hi": [
+            1949,
+            1963,
+            1969,
+            1972
+          ],
+          "ans": 3,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "When was the first underground section (Vishwavidyalaya - Kashmere Gate) of the Delhi Metro's Red Line opened?",
+          "q_hi": "दिल्ली मेट्रो की रेड लाइन का पहला अंडरग्राउंड सेक्शन (विश्वविद्यालय - कश्मीर गेट) कब खोला गया था?",
+          "opts": [
+            1997,
+            1998,
+            2000,
+            2004
+          ],
+          "opts_hi": [
+            1997,
+            1998,
+            2000,
+            2004
+          ],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "India signed a contract with which country for deep-sea mineral exploration in the Indian Ocean in October 2025?",
+          "q_hi": "अक्टूबर 2025 में भारत ने हिंद महासागर में गहरे समुद्र में खनिज अन्वेषण के लिए किस देश के साथ समझौते पर हस्ताक्षर किए?",
+          "opts": [
+            "USA",
+            "China",
+            "Russia",
+            "Japan"
+          ],
+          "opts_hi": [
+            "USA",
+            "चीन",
+            "रूस",
+            "जापान"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "In which country was India elected as the Chairman of the AIBD Executive Board?",
+          "q_hi": "भारत को AIBD कार्यकारी बोर्ड के अध्यक्ष के रूप में किस देश में चुना गया?",
+          "opts": [
+            "Japan",
+            "Thailand",
+            "Singapore",
+            "Malaysia"
+          ],
+          "opts_hi": [
+            "जापान",
+            "थाईलैंड",
+            "सिंगापुर",
+            "मलेशिया"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which country elected its first woman Prime Minister in October 2025?",
+          "q_hi": "अक्टूबर 2025 में किस देश ने अपनी पहली महिला प्रधानमंत्री चुनी?",
+          "opts": [
+            "Bangladesh",
+            "Nepal",
+            "Sri Lanka",
+            "Bhutan"
+          ],
+          "opts_hi": [
+            "बांग्लादेश",
+            "नेपाल",
+            "श्रीलंका",
+            "भूटान"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "What is the name of India's first reusable hybrid rocket launched by a Tamil Nadu-based startup?",
+          "q_hi": "तमिलनाडु स्थित एक स्टार्टअप द्वारा लॉन्च किया गया भारत का पहला पुन: प्रयोज्य हाइब्रिड रॉकेट किस नाम से जाना जाता है?",
+          "opts": [
+            "AGNI-V",
+            "RAKSHA-1",
+            "VAYU-1",
+            "RHUMI-1"
+          ],
+          "opts_hi": [
+            "अग्नि-वी",
+            "रक्षा-1",
+            "वायु-1",
+            "रूमी-1"
+          ],
+          "ans": 3,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "What is the name of India's first 25-qubit Quantum Processing Unit (QPU) launched in 2025?",
+          "q_hi": "2025 में लॉन्च किए गए भारत के पहले 25-क्यूबिट क्वांटम प्रोसेसिंग यूनिट (QPU) का नाम क्या है?",
+          "opts": [
+            "Tata QPU",
+            "IITQ-25",
+            "Q-India 1",
+            "Param Q-25"
+          ],
+          "opts_hi": [
+            "टाटा QPU",
+            "आईआईटीक्यू-25",
+            "क्यू-इंडिया 1",
+            "परम क्यू-25"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
         }
       ]
     }
