@@ -7499,6 +7499,24 @@
           "subject": "General Intelligence & Reasoning"
         },
         {
+          "q": "Statements: All doctors are scholars. Some engineers are doctors. Conclusions: I. Some engineers are scholars. II. No engineer is a scholar. Which of the following is correct?",
+          "q_hi": "कथन: सभी डॉक्टर विद्वान हैं। कुछ इंजीनियर डॉक्टर हैं। निष्कर्ष: I. कुछ इंजीनियर विद्वान हैं। II. कोई इंजीनियर विद्वान नहीं है। निम्नलिखित में से कौन सा सही है?",
+          "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both I and II follow",
+            "Neither I nor II follows"
+          ],
+          "opts_hi": [
+            "केवल I सही है",
+            "केवल II सही है",
+            "I और II दोनों सही हैं",
+            "ना तो I और ना ही II सही है"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
           "q": "Choose the synonym of \"Benevolent\".",
           "q_hi": "Benevolent का पर्यायवाची चुनें।",
           "opts": [
