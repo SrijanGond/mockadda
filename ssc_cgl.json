@@ -3207,6 +3207,60 @@
           "subject": "Quantitative Aptitude"
         },
         {
+          "q": "Two trains start simultaneously from stations A and B towards each other. The speed of the first train is 72 km/h and that of the second is 48 km/h. When they meet, the first train has travelled 60 km more than the second. What is the distance between A and B?",
+          "q_hi": "दो ट्रेनें स्टेशन A और B से एक साथ एक-दूसरे की ओर चलना शुरू करती हैं। पहली ट्रेन की गति 72 km/h और दूसरी की 48 km/h है। जब वे मिलती हैं, तो पहली ट्रेन ने दूसरी से 60 km अधिक यात्रा की होती है। A और B के बीच की दूरी क्या है?",
+          "opts": [
+            "250 km",
+            "300 km",
+            "275 km",
+            "320 km"
+          ],
+          "opts_hi": [
+            "250 km",
+            "300 km",
+            "275 km",
+            "320 km"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "A shopkeeper marks his goods 40% above cost price and offers successive discounts of 10% and 15%. What is his net profit or loss percentage?",
+          "q_hi": "एक दुकानदार अपने माल को लागत मूल्य से 40% अधिक पर अंकित करता है और क्रमिक छूट 10% और 15% देता है। उसका शुद्ध लाभ या हानि प्रतिशत क्या है?",
+          "opts": [
+            "6.7% profit",
+            "7% loss",
+            "6.3% loss",
+            "7.1% profit"
+          ],
+          "opts_hi": [
+            "6.7% लाभ",
+            "7% हानि",
+            "6.3% हानि",
+            "7.1% लाभ"
+          ],
+          "ans": 3,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "In a triangle ABC, the incircle touches side BC at D. If AB = 13 cm, BC = 14 cm, and CA = 15 cm, what is the length BD?",
+          "q_hi": "त्रिभुज ABC में, अंतःवृत्त भुजा BC को D पर स्पर्श करता है। यदि AB = 13 cm, BC = 14 cm और CA = 15 cm हो, तो BD की लंबाई क्या है?",
+          "opts": [
+            "6 cm",
+            "7 cm",
+            "5 cm",
+            "8 cm"
+          ],
+          "opts_hi": [
+            "6 cm",
+            "7 cm",
+            "5 cm",
+            "8 cm"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
           "q": "Choose the correctly spelt word.",
           "opts": [
             "Accomodation",
