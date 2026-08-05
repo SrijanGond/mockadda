@@ -9183,6 +9183,456 @@
           ],
           "ans": 2,
           "subject": "Quantitative Aptitude"
+        },
+        {
+          "q": "Select the most appropriate synonym of the given word: \"Taciturn\".",
+          "q_hi": "दिए गए शब्द का सबसे उपयुक्त पर्यायवाची चुनें: \"Taciturn\".",
+          "opts": [
+            "Talkative",
+            "Reserved",
+            "Loquacious",
+            "Verbose"
+          ],
+          "opts_hi": [
+            "बातूनी",
+            "संकोची",
+            "बातूनी",
+            "शब्दाडंबरपूर्ण"
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Select the most appropriate antonym of the given word: \"Ephemeral\".",
+          "q_hi": "दिए गए शब्द का सबसे उपयुक्त विलोम चुनें: \"Ephemeral\".",
+          "opts": [
+            "Temporary",
+            "Permanent",
+            "Fleeting",
+            "Transient"
+          ],
+          "opts_hi": [
+            "अस्थायी",
+            "स्थायी",
+            "क्षणिक",
+            "अल्पकालिक"
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Select the most appropriate synonym of the given word: \"Clandestine\".",
+          "q_hi": "दिए गए शब्द का सबसे उपयुक्त पर्यायवाची चुनें: \"Clandestine\".",
+          "opts": [
+            "Open",
+            "Secret",
+            "Public",
+            "Visible"
+          ],
+          "opts_hi": [
+            "खुला",
+            "गुप्त",
+            "सार्वजनिक",
+            "दृश्यमान"
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Select the most appropriate antonym of the given word: \"Benevolent\".",
+          "q_hi": "दिए गए शब्द का सबसे उपयुक्त विलोम चुनें: \"Benevolent\".",
+          "opts": [
+            "Kind",
+            "Generous",
+            "Malevolent",
+            "Charitable"
+          ],
+          "opts_hi": [
+            "दयालु",
+            "उदार",
+            "द्वेषपूर्ण",
+            "परोपकारी"
+          ],
+          "ans": 2,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Select the word with the correct spelling.",
+          "q_hi": "सही वर्तनी वाला शब्द चुनें।",
+          "opts": [
+            "Accomodate",
+            "Accommodate",
+            "Acomodate",
+            "Acommodate"
+          ],
+          "opts_hi": [
+            "Accomodate",
+            "Accommodate",
+            "Acomodate",
+            "Acommodate"
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Spot the correct spelling of the word meaning 'a person who does not believe in God'.",
+          "q_hi": "ईश्वर में विश्वास न करने वाला व्यक्ति' शब्द की सही वर्तनी चुनें।",
+          "opts": [
+            "Atheist",
+            "Athiest",
+            "Atheistt",
+            "Athiestt"
+          ],
+          "opts_hi": [
+            "Atheist",
+            "Athiest",
+            "Atheistt",
+            "Athiestt"
+          ],
+          "ans": 0,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Choose the correct one-word substitute for: 'A person who is unable to sleep'.",
+          "q_hi": "जो व्यक्ति सो नहीं सकता' के लिए सही एक-शब्दीय विकल्प चुनें।",
+          "opts": [
+            "Somnambulist",
+            "Insomniac",
+            "Narcoleptic",
+            "Hypnotist"
+          ],
+          "opts_hi": [
+            "सोमनाम्बुलिस्ट (नींद में चलने वाला)",
+            "अनिद्रा रोगी",
+            "नार्कोलेप्सी रोगी",
+            "सम्मोहक"
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Choose the correct one-word substitute for: 'A person who is all-powerful'.",
+          "q_hi": "सर्वशक्तिमान व्यक्ति' के लिए सही एक-शब्दीय विकल्प चुनें।",
+          "opts": [
+            "Omnipotent",
+            "Omniscient",
+            "Omnipresent",
+            "Omnivorous"
+          ],
+          "opts_hi": [
+            "सर्वशक्तिमान",
+            "सर्वज्ञ",
+            "सर्वव्यापी",
+            "सर्वभक्षी"
+          ],
+          "ans": 0,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Choose the correct meaning of the idiom \"To be on tenterhooks\".",
+          "q_hi": "मुहावरे \"To be on tenterhooks\" का सही अर्थ चुनें।",
+          "opts": [
+            "To be excited",
+            "To be in a state of nervous suspense",
+            "To be relaxed",
+            "To be angry"
+          ],
+          "opts_hi": [
+            "उत्साहित होना",
+            "घबराहट या चिंता की स्थिति में होना",
+            "शांत होना",
+            "क्रोधित होना"
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Meaning of the idiom \"Once in a blue moon\".",
+          "q_hi": "मुहावरे \"Once in a blue moon\" का अर्थ।",
+          "opts": [
+            "Very frequently",
+            "Very rarely",
+            "Every month",
+            "Suddenly"
+          ],
+          "opts_hi": [
+            "बहुत बार",
+            "बहुत कम",
+            "हर महीने",
+            "अचानक"
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Improve the underlined part: He is enough strong to lift the box.",
+          "q_hi": "रेखांकित भाग में सुधार करें: He is enough strong to lift the box.",
+          "opts": [
+            "strong enough",
+            "enough stronger",
+            "so strong",
+            "No improvement"
+          ],
+          "opts_hi": [
+            "strong enough",
+            "enough stronger",
+            "so strong",
+            "कोई सुधार नहीं"
+          ],
+          "ans": 0,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Improve the underlined part: She is the more taller of the two sisters.",
+          "q_hi": "रेखांकित भाग में सुधार करें: She is the more taller of the two sisters.",
+          "opts": [
+            "the more tall",
+            "the tallest",
+            "the taller",
+            "No improvement"
+          ],
+          "opts_hi": [
+            "the more tall",
+            "the tallest",
+            "the taller",
+            "कोई सुधार नहीं"
+          ],
+          "ans": 2,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Find the part of the sentence that contains an error: The teacher along with her students (1)/ were going to the museum (2)/ when the bus broke down (3)/ on the highway. (4)",
+          "q_hi": "वाक्य का वह भाग खोजें जिसमें त्रुटि है: The teacher along with her students (1)/ were going to the museum (2)/ when the bus broke down (3)/ on the highway. (4)",
+          "opts": [
+            "The teacher along with her students",
+            "were going to the museum",
+            "when the bus broke down",
+            "on the highway"
+          ],
+          "opts_hi": [
+            "The teacher along with her students",
+            "were going to the museum",
+            "when the bus broke down",
+            "on the highway"
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Error spotting: The news are very encouraging.",
+          "q_hi": "त्रुटि पहचानें: The news are very encouraging.",
+          "opts": [
+            "The news",
+            "are",
+            "very encouraging",
+            "No error"
+          ],
+          "opts_hi": [
+            "The news",
+            "are",
+            "very encouraging",
+            "कोई त्रुटि नहीं"
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Change from active to passive: \"The police caught the thief.\"",
+          "q_hi": "Active से Passive में बदलें: \"The police caught the thief.\"",
+          "opts": [
+            "The thief is caught by the police.",
+            "The thief was caught by the police.",
+            "The thief has been caught by the police.",
+            "The thief was being caught by the police."
+          ],
+          "opts_hi": [
+            "The thief is caught by the police.",
+            "The thief was caught by the police.",
+            "The thief has been caught by the police.",
+            "The thief was being caught by the police."
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Passive voice: \"Someone has stolen my purse.\"",
+          "q_hi": "Passive voice: \"Someone has stolen my purse.\"",
+          "opts": [
+            "My purse has been stolen.",
+            "My purse is stolen.",
+            "My purse was stolen.",
+            "My purse had been stolen."
+          ],
+          "opts_hi": [
+            "My purse has been stolen.",
+            "My purse is stolen.",
+            "My purse was stolen.",
+            "My purse had been stolen."
+          ],
+          "ans": 0,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Convert to indirect speech: She asked me, \"Where have you kept the documents?\"",
+          "q_hi": "Indirect Speech में बदलें: She asked me, \"Where have you kept the documents?\"",
+          "opts": [
+            "She asked me where I had kept the documents.",
+            "She asked me where have I kept the documents.",
+            "She asked me where I have kept the documents.",
+            "She asked me where had I kept the documents."
+          ],
+          "opts_hi": [
+            "She asked me where I had kept the documents.",
+            "She asked me where have I kept the documents.",
+            "She asked me where I have kept the documents.",
+            "She asked me where had I kept the documents."
+          ],
+          "ans": 0,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Convert to direct speech: He said that he would submit the report by evening.",
+          "q_hi": "Direct Speech में बदलें: He said that he would submit the report by evening.",
+          "opts": [
+            "I will submit the report by evening, he said.",
+            "I would submit the report by evening, he said.",
+            "I shall submit the report by evening, he said.",
+            "I can submit the report by evening, he said."
+          ],
+          "opts_hi": [
+            "I will submit the report by evening, he said.",
+            "I would submit the report by evening, he said.",
+            "I shall submit the report by evening, he said.",
+            "I can submit the report by evening, he said."
+          ],
+          "ans": 0,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Read the passage and answer the question that follows: The Industrial Revolution began in Britain in the late 18th century and transformed society from agrarian to industrial. It led to urbanization and the growth of factories. What was one major effect of the Industrial Revolution?",
+          "q_hi": "निम्नलिखित गद्यांश पढ़ें और उस पर आधारित प्रश्न का उत्तर दें: औद्योगिक क्रांति 18वीं शताब्दी के अंत में ब्रिटेन में शुरू हुई और समाज को कृषि प्रधान से औद्योगिक में बदल दिया। इसके कारण शहरीकरण और कारखानों का विकास हुआ। औद्योगिक क्रांति का एक प्रमुख प्रभाव क्या था?",
+          "opts": [
+            "Decline in population",
+            "Growth of cities and factories",
+            "Decrease in trade",
+            "Agricultural expansion"
+          ],
+          "opts_hi": [
+            "जनसंख्या में गिरावट",
+            "शहरों और कारखानों का विकास",
+            "व्यापार में कमी",
+            "कृषि विस्तार"
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Read the passage and answer: The internet has made information accessible to everyone. However, it has also led to concerns about privacy and data security. What is the main drawback of the internet mentioned in the passage?",
+          "q_hi": "गद्यांश पढ़ें और उत्तर दें: इंटरनेट ने जानकारी को सभी के लिए सुलभ बना दिया है। हालाँकि, इसने गोपनीयता और डेटा सुरक्षा के बारे में चिंताएँ भी पैदा की हैं। गद्यांश में इंटरनेट की मुख्य कमी क्या बताई गई है?",
+          "opts": [
+            "Access to unlimited information",
+            "High cost of internet services",
+            "Privacy and data security concerns",
+            "Slower communication"
+          ],
+          "opts_hi": [
+            "असीमित जानकारी की उपलब्धता",
+            "इंटरनेट सेवाओं की उच्च लागत",
+            "गोपनीयता और डेटा सुरक्षा संबंधी चिंताएँ",
+            "धीमा संचार"
+          ],
+          "ans": 2,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Read the passage: Climate change is one of the most pressing issues of our time. Rising temperatures, melting glaciers, and extreme weather events are clear indicators. If we do not act now, the consequences will be irreversible. What is the tone of the passage?",
+          "q_hi": "गद्यांश पढ़ें: जलवायु परिवर्तन हमारे समय के सबसे गंभीर मुद्दों में से एक है। बढ़ता तापमान, पिघलते ग्लेशियर और चरम मौसम की घटनाएँ स्पष्ट संकेतक हैं। यदि हम अभी कार्रवाई नहीं करते हैं, तो परिणाम अपरिवर्तनीय होंगे। गद्यांश का स्वर क्या है?",
+          "opts": [
+            "Optimistic",
+            "Urgent and warning",
+            "Neutral",
+            "Humorous"
+          ],
+          "opts_hi": [
+            "आशावादी",
+            "अत्यावश्यक और चेतावनी भरा",
+            "तटस्थ",
+            "हास्यप्रद"
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Read the sentence and answer: \"Despite the heavy rain, the match continued.\" What does the sentence imply?",
+          "q_hi": "वाक्य पढ़ें और उत्तर दें: \"Despite the heavy rain, the match continued.\" वाक्य का क्या अर्थ है?",
+          "opts": [
+            "The match was cancelled.",
+            "The match was stopped.",
+            "The match went on.",
+            "The match was postponed."
+          ],
+          "opts_hi": [
+            "The match was cancelled.",
+            "The match was stopped.",
+            "The match went on.",
+            "The match was postponed."
+          ],
+          "ans": 2,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Select the antonym of \"Generous\".",
+          "q_hi": "Generous का विलोम चुनें।",
+          "opts": [
+            "Kind",
+            "Miserly",
+            "Helpful",
+            "Liberal"
+          ],
+          "opts_hi": [
+            "दयालु",
+            "कंजूस",
+            "सहायक",
+            "उदार"
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Choose the synonym of \"Courageous\".",
+          "q_hi": "Courageous का पर्यायवाची चुनें।",
+          "opts": [
+            "Timid",
+            "Brave",
+            "Cowardly",
+            "Fearful"
+          ],
+          "opts_hi": [
+            "डरपोक",
+            "बहादुर",
+            "कायर",
+            "भयभीत"
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "q": "Choose the correct spelling.",
+          "q_hi": "सही वर्तनी चुनें।",
+          "opts": [
+            "Definately",
+            "Definitely",
+            "Definitly",
+            "Definatly"
+          ],
+          "opts_hi": [
+            "Definately",
+            "Definitely",
+            "Definitly",
+            "Definatly"
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
         }
       ]
     }
