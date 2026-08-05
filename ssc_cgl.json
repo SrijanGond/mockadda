@@ -8735,6 +8735,42 @@
           "subject": "General Intelligence & Reasoning"
         },
         {
+          "q": "Three different positions of a dice are shown below: Position 1: Top=1, Front=2, Right=3. Position 2: Top=4, Front=2, Right=1. Position 3: Top=3, Front=5, Right=4. Which number is opposite to the face having number '2'?",
+          "q_hi": "एक पासे की तीन अलग-अलग स्थितियाँ नीचे दिखाई गई हैं: स्थिति 1: शीर्ष=1, सामने=2, दायाँ=3। स्थिति 2: शीर्ष=4, सामने=2, दायाँ=1। स्थिति 3: शीर्ष=3, सामने=5, दायाँ=4। '2' अंक वाले फलक के विपरीत कौन सा अंक है?",
+          "opts": [
+            4,
+            5,
+            6,
+            1
+          ],
+          "opts_hi": [
+            4,
+            5,
+            6,
+            1
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "q": "Select the letter-cluster that can replace the question mark: A G M, D J P, G M S, J P V, ?",
+          "q_hi": "प्रश्न चिह्न के स्थान पर आने वाला अक्षर-समूह चुनें: A G M, D J P, G M S, J P V, ?",
+          "opts": [
+            "M S Y",
+            "M S X",
+            "M R Y",
+            "L S Y"
+          ],
+          "opts_hi": [
+            "M S Y",
+            "M S X",
+            "M R Y",
+            "L S Y"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
           "q": "If 35% of a number is 175, what is 60% of that number?",
           "q_hi": "यदि किसी संख्या का 35% 175 है, तो उस संख्या का 60% क्या है?",
           "opts": [
