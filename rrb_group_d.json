@@ -1508,6 +1508,25 @@
           "exp_hi": "पैटर्न: 1³-1=0, 2³-1=7, 3³-1=26, 4³-1=63, 5³-1=124, 6³-1=215।"
         },
         {
+          "sheetId": "251",
+          "q": "How many triangles are there in a standard 3-tier triangular figure?",
+          "q_hi": "एक मानक 3-स्तरीय त्रिभुजाकार आकृति में कितने त्रिभुज हैं?",
+          "opts": [
+            10,
+            13,
+            15,
+            18
+          ],
+          "opts_hi": [
+            10,
+            13,
+            15,
+            18
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
           "q": "Which state is the largest producer of coffee in India?",
           "opts": [
             "Kerala",
@@ -3005,6 +3024,120 @@
           ],
           "exp_en": "15% of x = 45 → x = 45 × 100/15 = 300.",
           "exp_hi": "संख्या का 15% = 45 → x = 45 × 100/15 = 300।"
+        },
+        {
+          "sheetId": "332",
+          "q": "A shopkeeper buys a pen for ₹50 and sells it at a profit of 18%. What is the selling price?",
+          "q_hi": "एक दुकानदार एक पेन ₹50 में खरीदता है और 18% लाभ पर बेचता है। विक्रय मूल्य क्या है?",
+          "opts": [
+            "₹55",
+            "₹57",
+            "₹59",
+            "₹61"
+          ],
+          "opts_hi": [
+            "₹55",
+            "₹57",
+            "₹59",
+            "₹61"
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "sheetId": "333",
+          "q": "What is the LCM of 8, 12 and 16?",
+          "q_hi": "8, 12 और 16 का LCM क्या है?",
+          "opts": [
+            32,
+            40,
+            48,
+            56
+          ],
+          "opts_hi": [
+            32,
+            40,
+            48,
+            56
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "sheetId": "334",
+          "q": "A bus travels 180 km in 3 hours. What is its speed in m/s?",
+          "q_hi": "एक बस 180 किमी की दूरी 3 घंटे में तय करती है। इसकी चाल मी/से में क्या है?",
+          "opts": [
+            "15 m/s",
+            "16.67 m/s",
+            "20 m/s",
+            "25 m/s"
+          ],
+          "opts_hi": [
+            "15 मी/से",
+            "16.67 मी/से",
+            "20 मी/से",
+            "25 मी/से"
+          ],
+          "ans": 1,
+          "subject": "Mathematics"
+        },
+        {
+          "sheetId": "335",
+          "q": "If x - 1/x = 3, find x² + 1/x².",
+          "q_hi": "यदि x - 1/x = 3 है, तो x² + 1/x² ज्ञात करें।",
+          "opts": [
+            7,
+            9,
+            11,
+            13
+          ],
+          "opts_hi": [
+            7,
+            9,
+            11,
+            13
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
+        },
+        {
+          "sheetId": "336",
+          "q": "What is the area of a square of side 15 cm?",
+          "q_hi": "15 सेमी भुजा वाले वर्ग का क्षेत्रफल क्या है?",
+          "opts": [
+            "200 cm²",
+            "215 cm²",
+            "220 cm²",
+            "225 cm²"
+          ],
+          "opts_hi": [
+            "200 सेमी²",
+            "215 सेमी²",
+            "220 सेमी²",
+            "225 सेमी²"
+          ],
+          "ans": 3,
+          "subject": "Mathematics"
+        },
+        {
+          "sheetId": "337",
+          "q": "A student scored 72 marks out of 120. What is his percentage?",
+          "q_hi": "एक छात्र ने 120 में से 72 अंक प्राप्त किए। उसका प्रतिशत क्या है?",
+          "opts": [
+            0.5,
+            0.55,
+            0.6,
+            0.65
+          ],
+          "opts_hi": [
+            0.5,
+            0.55,
+            0.6,
+            0.65
+          ],
+          "ans": 2,
+          "subject": "Mathematics"
         },
         {
           "q": "Select the option that is related to the third term in the same way as the second term is related to the first term: Pen : Write :: Scissors : ?",
