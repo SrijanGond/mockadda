@@ -1359,6 +1359,25 @@
           "subject": "Quantitative Aptitude"
         },
         {
+          "sheetId": "195",
+          "q": "A train 180 m long passes a platform 270 m long in 45 seconds. What is the speed of the train in km/h?",
+          "q_hi": "180 मीटर लंबी एक ट्रेन 270 मीटर लंबे एक प्लेटफॉर्म को 45 सेकंड में पार करती है। ट्रेन की गति किमी/घंटा में कितनी है?",
+          "opts": [
+            "36 km/h",
+            "40 km/h",
+            "45 km/h",
+            "54 km/h"
+          ],
+          "opts_hi": [
+            "36 किमी/घंटा",
+            "40 किमी/घंटा",
+            "45 किमी/घंटा",
+            "54 किमी/घंटा"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
           "q": "Select the part of the sentence that contains an error. She insisted that he goes to the doctor immediately after feeling unwell.",
           "opts": [
             "She insisted that",
