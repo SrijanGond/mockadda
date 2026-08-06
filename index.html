@@ -465,6 +465,8 @@ function getSubjectSections(test){
   const order=[], map={};
   test.questions.forEach((q,i)=>{
     const subj = (q.subject || 'General').trim();
+    if(!map[subj]){ map[subj]=[]; order.push(subj); }
+    map[subj].push(i);
   });
   const sections = order.map(subj=>({subject:subj, indices:map[subj]}));
   return sections.length>1 ? sections : null;
@@ -499,6 +501,8 @@ function capQuestionsPerSection(questions, examKey){
   const counts={};
   return questions.filter(q=>{
     const subj = (q.subject || 'General').trim();
+    counts[subj] = (counts[subj]||0)+1;
+    return counts[subj] <= cap;
   });
 }
 
