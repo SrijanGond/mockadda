@@ -1195,6 +1195,9 @@ function quizScreen(){
   qTextWrap.appendChild(el('div',{css:`font-weight:700;color:${accent};flex-shrink:0;`,text:(S.qi+1)+'.'}));
   const qTextInner=el('div',{css:'flex:1;'});
   qTextInner.appendChild(el('div',{css:`font-size:15px;line-height:1.7;color:${CBT.text};`,text:q.q}));
+  if(q.img){
+    qTextInner.appendChild(el('img',{src:q.img,alt:'Question image',css:`max-width:100%;max-height:320px;display:block;margin-top:10px;border-radius:8px;border:1px solid ${CBT.border};`}));
+  }
   if(S.lang==='hi'&&q.q_hi&&!isLanguageSkillSubject(q.subject)){
     qTextInner.appendChild(el('div',{css:`font-size:14px;color:#4338ca;margin-top:6px;line-height:1.7;`,text:q.q_hi}));
   }
@@ -1506,6 +1509,7 @@ function resultsScreen(){
       const qt=el('div',{css:`font-size:12px;line-height:1.5;flex:1;color:${Q.text};`});
       qt.appendChild(el('span',{css:`color:${Q.muted};margin-right:6px;font-weight:600;`,text:`Q${i+1}.`}));
       qt.appendChild(document.createTextNode(q.q));
+      if(q.img) qt.appendChild(el('img',{src:q.img,alt:'Question image',css:`max-width:100%;max-height:180px;display:block;margin-top:6px;border-radius:6px;border:1px solid ${Q.border};`}));
       if(S.lang==='hi'&&q.q_hi&&!isLanguageSkillSubject(q.subject)) qt.appendChild(el('div',{css:`font-size:11px;color:#818cf8;margin-top:2px;`,text:q.q_hi}));
       row.appendChild(qt);
       row.appendChild(el('span',{css:`flex-shrink:0;color:${sk?Q.dim:ok?Q.green:Q.red};font-size:16px;`,text:sk?'–':ok?'✓':'✗'}));
@@ -1615,7 +1619,7 @@ function mistakesHomeScreen(){
 
   const practiceBtn=el('button',{css:'width:100%;padding:14px;background:linear-gradient(135deg,#db2777,#be185d);color:#fff;border:none;border-radius:12px;font-family:Syne,sans-serif;font-weight:700;font-size:14px;cursor:pointer;margin-bottom:20px;box-shadow:0 4px 14px #db27774d;',text:'Practice All Saved Mistakes →'});
   practiceBtn.addEventListener('click',()=>{
-    const questions = mistakes.map(m=>({q:m.q,q_hi:m.q_hi,opts:m.opts,opts_hi:m.opts_hi,ans:m.ans,subject:m.subject}));
+    const questions = mistakes.map(m=>({q:m.q,q_hi:m.q_hi,img:m.img,opts:m.opts,opts_hi:m.opts_hi,ans:m.ans,subject:m.subject}));
     const duration = Math.max(10, Math.round(questions.length*1.2));
     const test = { id:'mistakes-'+Date.now(), title:'Mistake Notebook Practice', duration, difficulty:'Review', questions };
     startQuiz(null,null,test,'mistakesHome');
@@ -1625,6 +1629,7 @@ function mistakesHomeScreen(){
   mistakes.slice().reverse().forEach(m=>{
     const card=el('div',{css:'background:#fff;border:1px solid #e2e8f0;border-radius:12px;padding:14px;margin-bottom:10px;'});
     card.appendChild(el('div',{css:'font-size:12px;color:#0f172a;line-height:1.5;margin-bottom:8px;',text:m.q}));
+    if(m.img) card.appendChild(el('img',{src:m.img,alt:'Question image',css:'max-width:100%;max-height:140px;display:block;margin-bottom:8px;border-radius:6px;border:1px solid #e2e8f0;'}));
     const rmBtn=el('button',{css:'background:none;border:none;color:#94a3b8;font-size:11px;font-weight:600;cursor:pointer;',text:'Remove'});
     rmBtn.addEventListener('click',()=>{ toggleMistake(m); render(); });
     card.appendChild(rmBtn);
