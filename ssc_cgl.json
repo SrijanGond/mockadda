@@ -1029,6 +1029,215 @@
           "subject": "Quantitative Aptitude"
         },
         {
+          "sheetId": "61",
+          "q": "Pipe A can fill a tank in 12 hours and Pipe B can fill it in 18 hours. Pipe C can empty the full tank in 36 hours. If all three pipes are opened simultaneously, in how many hours will the empty tank be completely filled?",
+          "q_hi": "पाइप A एक टंकी को 12 घंटे में और पाइप B उसे 18 घंटे में भर सकता है। पाइप C पूरी टंकी को 36 घंटे में खाली कर सकता है। यदि तीनों पाइप एक साथ खोले जाएँ, तो खाली टंकी कितने घंटों में पूरी तरह भर जाएगी?",
+          "opts": [
+            "8 hours",
+            "9 hours",
+            "10 hours",
+            "12 hours"
+          ],
+          "opts_hi": [
+            "8 घंटे",
+            "9 घंटे",
+            "10 घंटे",
+            "12 घंटे"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "sheetId": "82",
+          "q": "If 25% of a number is 75, what is 40% of that number?",
+          "q_hi": "यदि किसी संख्या का 25% 75 है, तो उस संख्या का 40% क्या है?",
+          "opts": [
+            100,
+            110,
+            120,
+            130
+          ],
+          "opts_hi": [
+            100,
+            110,
+            120,
+            130
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "sheetId": "83",
+          "q": "A student scored 72 marks out of 120. What is his percentage?",
+          "q_hi": "एक छात्र ने 120 में से 72 अंक प्राप्त किए। उसका प्रतिशत क्या है?",
+          "opts": [
+            0.5,
+            0.55,
+            0.6,
+            0.65
+          ],
+          "opts_hi": [
+            0.5,
+            0.55,
+            0.6,
+            0.65
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "sheetId": "84",
+          "q": "If the price of a product increases by 20% and becomes ₹600, what was the original price?",
+          "q_hi": "यदि किसी वस्तु की कीमत में 20% की वृद्धि होती है और वह ₹600 हो जाती है, तो मूल कीमत क्या थी?",
+          "opts": [
+            "₹480",
+            "₹500",
+            "₹520",
+            "₹540"
+          ],
+          "opts_hi": [
+            "₹480",
+            "₹500",
+            "₹520",
+            "₹540"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "sheetId": "85",
+          "q": "In a class of 50 students, 30% are girls. How many boys are there?",
+          "q_hi": "50 छात्रों की एक कक्षा में, 30% लड़कियाँ हैं। कितने लड़के हैं?",
+          "opts": [
+            30,
+            35,
+            40,
+            45
+          ],
+          "opts_hi": [
+            30,
+            35,
+            40,
+            45
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "sheetId": "86",
+          "q": "A man spends 60% of his salary and saves ₹8000. What is his salary?",
+          "q_hi": "एक व्यक्ति अपने वेतन का 60% खर्च करता है और ₹8000 बचाता है। उसका वेतन क्या है?",
+          "opts": [
+            "₹18000",
+            "₹20000",
+            "₹22000",
+            "₹24000"
+          ],
+          "opts_hi": [
+            "₹18000",
+            "₹20000",
+            "₹22000",
+            "₹24000"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "sheetId": "87",
+          "q": "If A's income is 25% more than B's income, then B's income is what percent less than A's income?",
+          "q_hi": "यदि A की आय B की आय से 25% अधिक है, तो B की आय A की आय से कितने प्रतिशत कम है?",
+          "opts": [
+            0.15,
+            0.2,
+            0.25,
+            0.3
+          ],
+          "opts_hi": [
+            0.15,
+            0.2,
+            0.25,
+            0.3
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "sheetId": "88",
+          "q": "In an examination, a candidate must secure 40% marks to pass. He gets 160 marks and fails by 40 marks. What are the maximum marks?",
+          "q_hi": "एक परीक्षा में, उत्तीर्ण होने के लिए एक उम्मीदवार को 40% अंक प्राप्त करने होते हैं। उसे 160 अंक मिलते हैं और वह 40 अंकों से अनुत्तीर्ण हो जाता है। अधिकतम अंक क्या हैं?",
+          "opts": [
+            400,
+            450,
+            500,
+            550
+          ],
+          "opts_hi": [
+            400,
+            450,
+            500,
+            550
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "sheetId": "89",
+          "q": "The price of sugar is increased by 25%. By what percentage should consumption be reduced so that expenditure remains the same?",
+          "q_hi": "चीनी की कीमत में 25% की वृद्धि होती है। खपत को कितने प्रतिशत कम किया जाना चाहिए ताकि व्यय समान रहे?",
+          "opts": [
+            0.15,
+            0.2,
+            0.25,
+            0.3
+          ],
+          "opts_hi": [
+            0.15,
+            0.2,
+            0.25,
+            0.3
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "sheetId": "90",
+          "q": "In a city, 60% of adults are employed. Among employed, 40% are women. If total adults are 5000, how many employed men are there?",
+          "q_hi": "एक शहर में, 60% वयस्क कार्यरत हैं। कार्यरतों में, 40% महिलाएँ हैं। यदि कुल वयस्क 5000 हैं, तो कितने कार्यरत पुरुष हैं?",
+          "opts": [
+            1600,
+            1800,
+            2000,
+            2200
+          ],
+          "opts_hi": [
+            1600,
+            1800,
+            2000,
+            2200
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "sheetId": "91",
+          "q": "The population of a town increases by 10% annually. If the current population is 121000, what was it 2 years ago?",
+          "q_hi": "एक शहर की जनसंख्या वार्षिक 10% बढ़ती है। यदि वर्तमान जनसंख्या 121000 है, तो 2 वर्ष पूर्व यह क्या थी?",
+          "opts": [
+            100000,
+            110000,
+            105000,
+            95000
+          ],
+          "opts_hi": [
+            100000,
+            110000,
+            105000,
+            95000
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude"
+        },
+        {
           "q": "Which Article of the Constitution of India empowers the President to proclaim a National Emergency?",
           "q_hi": "भारतीय संविधान का कौन सा अनुच्छेद राष्ट्रपति को राष्ट्रीय आपातकाल घोषित करने की शक्ति प्रदान करता है?",
           "opts": [
@@ -1609,6 +1818,82 @@
           "subject": "General Intelligence & Reasoning"
         },
         {
+          "sheetId": "120",
+          "q": "Statement: \"Use XYZ brand soap for glowing skin.\" Assumptions: I. XYZ soap is effective for skin glow. II. People want glowing skin. Which of the following is true?",
+          "q_hi": "कथन: \"चमकदार त्वचा के लिए XYZ ब्रांड साबुन का उपयोग करें।\" पूर्वधारणाएँ: I. XYZ साबुन त्वचा की चमक के लिए प्रभावी है। II. लोग चमकदार त्वचा चाहते हैं। निम्नलिखित में से कौन सा सत्य है?",
+          "opts": [
+            "Only I is implicit",
+            "Only II is implicit",
+            "Both I and II are implicit",
+            "Neither is implicit"
+          ],
+          "opts_hi": [
+            "केवल I अंतर्निहित है",
+            "केवल II अंतर्निहित है",
+            "I और II दोनों अंतर्निहित हैं",
+            "कोई भी अंतर्निहित नहीं है"
+          ],
+          "ans": 2,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "sheetId": "121",
+          "q": "What is the missing term in the following series? 7, 12, 21, 34, 51, __",
+          "q_hi": "निम्नलिखित श्रृंखला में लुप्त पद क्या है? 7, 12, 21, 34, 51, __",
+          "opts": [
+            72,
+            68,
+            76,
+            70
+          ],
+          "opts_hi": [
+            72,
+            68,
+            76,
+            70
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "sheetId": "122",
+          "q": "Painter : Brush :: Carpenter : ?",
+          "q_hi": "चित्रकार : ब्रश :: बढ़ई : ?",
+          "opts": [
+            "Wood",
+            "Chisel",
+            "Nail",
+            "Hammer"
+          ],
+          "opts_hi": [
+            "लकड़ी",
+            "छेनी",
+            "कील",
+            "हथौड़ा"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "sheetId": "544",
+          "q": "A person starts from point X and walks 8 km towards the East. He then turns left and walks 6 km. He then turns left and walks 8 km. He then turns right and walks 4 km. In which direction is he now from point X?",
+          "q_hi": "एक व्यक्ति बिंदु X से चलना शुरू करता है और 8 किमी पूर्व की ओर चलता है। फिर वह बाईं ओर मुड़ता है और 6 किमी चलता है। फिर वह बाईं ओर मुड़ता है और 8 किमी चलता है। फिर वह दाईं ओर मुड़ता है और 4 किमी चलता है। वह अब बिंदु X से किस दिशा में है?",
+          "opts": [
+            "North",
+            "South",
+            "East",
+            "West"
+          ],
+          "opts_hi": [
+            "उत्तर",
+            "दक्षिण",
+            "पूर्व",
+            "पश्चिम"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
           "q": "Which Schedule of the Indian Constitution contains provisions related to the allocation of seats in the Rajya Sabha to states and union territories?",
           "q_hi": "भारतीय संविधान की कौन सी अनुसूची राज्यों और केंद्र शासित प्रदेशों को राज्य सभा में सीटों के आवंटन से संबंधित प्रावधान रखती है?",
           "opts": [
@@ -1626,6 +1911,25 @@
           "ans": 2,
           "exp_en": "The Fourth Schedule of the Indian Constitution deals with the allocation of seats in the Rajya Sabha (Council of States) to the various states and union territories.",
           "exp_hi": "भारतीय संविधान की चौथी अनुसूची विभिन्न राज्यों और केंद्र शासित प्रदेशों को राज्य सभा (राज्यों की परिषद) में सीटों के आवंटन से संबंधित है।",
+          "subject": "General Awareness"
+        },
+        {
+          "sheetId": "125",
+          "q": "Which gas is produced when dilute hydrochloric acid reacts with zinc metal?",
+          "q_hi": "जब तनु हाइड्रोक्लोरिक अम्ल जिंक धातु के साथ अभिक्रिया करता है, तो कौन सी गैस उत्पन्न होती है?",
+          "opts": [
+            "Oxygen",
+            "Chlorine",
+            "Hydrogen",
+            "Carbon dioxide"
+          ],
+          "opts_hi": [
+            "ऑक्सीजन",
+            "क्लोरीन",
+            "हाइड्रोजन",
+            "कार्बन डाइऑक्साइड"
+          ],
+          "ans": 2,
           "subject": "General Awareness"
         },
         {
@@ -2307,6 +2611,139 @@
           "subject": "General Intelligence & Reasoning"
         },
         {
+          "sheetId": "654",
+          "q": "Identify the odd one: 3, 5, 7, 11, 13, 17, 19, 21",
+          "q_hi": "विषम संख्या पहचानें: 3, 5, 7, 11, 13, 17, 19, 21",
+          "opts": [
+            17,
+            19,
+            21,
+            13
+          ],
+          "opts_hi": [
+            17,
+            19,
+            21,
+            13
+          ],
+          "ans": 2,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "sheetId": "655",
+          "q": "Which group is the odd one out?",
+          "q_hi": "कौन सा समूह विषम है?",
+          "opts": [
+            "2007-05-03T00:00:00.000Z",
+            "11, 13, 17",
+            "2006-04-02T00:00:00.000Z",
+            "19, 23, 29"
+          ],
+          "opts_hi": [
+            "2007-05-03T00:00:00.000Z",
+            "11, 13, 17",
+            "2006-04-02T00:00:00.000Z",
+            "19, 23, 29"
+          ],
+          "ans": 2,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "sheetId": "656",
+          "q": "Pointing to a photograph, a man said, “She is the daughter of my grandfather’s only son.” How is the woman related to the man?",
+          "q_hi": "एक तस्वीर की ओर इशारा करते हुए, एक पुरुष ने कहा, “वह मेरे दादा के इकलौते पुत्र की पुत्री है।” वह महिला उस पुरुष से किस प्रकार संबंधित है?",
+          "opts": [
+            "Sister",
+            "Daughter",
+            "Cousin",
+            "Niece"
+          ],
+          "opts_hi": [
+            "बहन",
+            "पुत्री",
+            "चचेरी/ममेरी बहन",
+            "भतीजी/भांजी"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "sheetId": "658",
+          "q": "Identify the group that does NOT follow the same pattern:",
+          "q_hi": "वह समूह पहचानें जो समान पैटर्न का पालन नहीं करता है:",
+          "opts": [
+            "P16 : N14 : L12",
+            "R18 : P16 : N14",
+            "T20 : R18 : P16",
+            "Q17 : O15 : M12"
+          ],
+          "opts_hi": [
+            "P16 : N14 : L12",
+            "R18 : P16 : N14",
+            "T20 : R18 : P16",
+            "Q17 : O15 : M12"
+          ],
+          "ans": 3,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "sheetId": "660",
+          "q": "A woman said, “The boy in the picture is the son of the only brother of my mother’s husband.” How is the boy related to the woman?",
+          "q_hi": "एक महिला ने कहा, “तस्वीर में लड़का मेरी माँ के पति के इकलौते भाई का पुत्र है।” वह लड़का उस महिला से किस प्रकार संबंधित है?",
+          "opts": [
+            "Brother",
+            "Cousin",
+            "Nephew",
+            "Son"
+          ],
+          "opts_hi": [
+            "भाई",
+            "चचेरा/ममेरा भाई",
+            "भतीजा/भांजा",
+            "पुत्र"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "sheetId": "661",
+          "q": "If # means ×, @ means −, $ means +, then evaluate: 8 # 3 @ 4 $ 6",
+          "q_hi": "यदि # का अर्थ × है, @ का अर्थ − है, $ का अर्थ + है, तो मूल्यांकन करें: 8 # 3 @ 4 $ 6",
+          "opts": [
+            26,
+            22,
+            28,
+            24
+          ],
+          "opts_hi": [
+            26,
+            22,
+            28,
+            24
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "sheetId": "662",
+          "q": "Complete the analogy: FH : JL :: NP : ?",
+          "q_hi": "सादृश्य पूरा करें: FH : JL :: NP : ?",
+          "opts": [
+            "RT",
+            "QS",
+            "RU",
+            "SU"
+          ],
+          "opts_hi": [
+            "RT",
+            "QS",
+            "RU",
+            "SU"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
           "q": "Who was the first Governor-General of Bengal under the Regulating Act of 1773?",
           "q_hi": "1773 के रेगुलेटिंग एक्ट के तहत बंगाल के पहले गवर्नर-जनरल कौन थे?",
           "opts": [
@@ -2807,6 +3244,101 @@
           "subject": "General Awareness"
         },
         {
+          "sheetId": "939",
+          "q": "The Speaker of the Lok Sabha is elected by which body?",
+          "q_hi": "लोकसभा का अध्यक्ष किस निकाय द्वारा चुना जाता है?",
+          "opts": [
+            "The President of India",
+            "The Prime Minister of India",
+            "Members of the Lok Sabha",
+            "The Rajya Sabha Chairman"
+          ],
+          "opts_hi": [
+            "भारत के राष्ट्रपति",
+            "भारत के प्रधान मंत्री",
+            "लोकसभा के सदस्य",
+            "राज्यसभा के सभापति"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "sheetId": "940",
+          "q": "The famous 'Battle of Haldighati' was fought between which two rulers?",
+          "q_hi": "प्रसिद्ध 'हल्दीघाटी का युद्ध' किन दो शासकों के बीच लड़ा गया था?",
+          "opts": [
+            "Akbar and Rana Pratap",
+            "Humayun and Sher Shah Suri",
+            "Akbar and Rana Udai Singh",
+            "Aurangzeb and Shivaji"
+          ],
+          "opts_hi": [
+            "अकबर और राणा प्रताप",
+            "हुमायूँ और शेर शाह सूरी",
+            "अकबर और राणा उदय सिंह",
+            "औरंगज़ेब और शिवाजी"
+          ],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "sheetId": "941",
+          "q": "Which of the following rivers does NOT originate from the Himalayas?",
+          "q_hi": "निम्नलिखित में से कौन सी नदी हिमालय से उत्पन्न नहीं होती है?",
+          "opts": [
+            "Ganga",
+            "Yamuna",
+            "Godavari",
+            "Brahmaputra"
+          ],
+          "opts_hi": [
+            "गंगा",
+            "यमुना",
+            "गोदावरी",
+            "ब्रह्मपुत्र"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "sheetId": "942",
+          "q": "Which of the following is a micronutrient essential for the formation of chlorophyll in plants?",
+          "q_hi": "पौधों में क्लोरोफिल के निर्माण के लिए आवश्यक सूक्ष्म पोषक तत्व निम्नलिखित में से कौन सा है?",
+          "opts": [
+            "Nitrogen",
+            "Phosphorus",
+            "Magnesium",
+            "Potassium"
+          ],
+          "opts_hi": [
+            "नाइट्रोजन",
+            "फॉस्फोरस",
+            "मैग्नीशियम",
+            "पोटैशियम"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "sheetId": "944",
+          "q": "The first G20 Sherpa meeting of India's G20 presidency was held in which city?",
+          "q_hi": "भारत की G20 अध्यक्षता की पहली G20 शेरपा बैठक किस शहर में आयोजित की गई थी?",
+          "opts": [
+            "New Delhi",
+            "Mumbai",
+            "Hyderabad",
+            "Bengaluru"
+          ],
+          "opts_hi": [
+            "नई दिल्ली",
+            "मुंबई",
+            "हैदराबाद",
+            "बेंगलुरु"
+          ],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
           "q": "Arrange the fractions 7/11, 5/8, 3/5, and 4/7 in ascending order.",
           "q_hi": "भिन्नों को आरोही क्रम में व्यवस्थित करें 7/11, 5/8, 3/5, और 4/7।",
           "opts": [
@@ -3297,6 +3829,63 @@
           "subject": "Quantitative Aptitude"
         },
         {
+          "sheetId": "709",
+          "q": "A car covers a distance of 360 km in 6 hours. Find its average speed.",
+          "q_hi": "एक कार 360 किमी की दूरी 6 घंटे में तय करती है। इसकी औसत चाल ज्ञात कीजिए।",
+          "opts": [
+            "50 km/h",
+            "55 km/h",
+            "60 km/h",
+            "65 km/h"
+          ],
+          "opts_hi": [
+            "50 किमी/घंटा",
+            "55 किमी/घंटा",
+            "60 किमी/घंटा",
+            "65 किमी/घंटा"
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "sheetId": "710",
+          "q": "The HCF of two numbers is 12 and their LCM is 180. If one number is 36, find the other.",
+          "q_hi": "दो संख्याओं का महत्तम समापवर्तक 12 और लघुत्तम समापवर्त्य 180 है। यदि एक संख्या 36 है, तो दूसरी ज्ञात कीजिए।",
+          "opts": [
+            48,
+            60,
+            72,
+            84
+          ],
+          "opts_hi": [
+            48,
+            60,
+            72,
+            84
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude"
+        },
+        {
+          "sheetId": "711",
+          "q": "A number when divided by 5 leaves a remainder 3. When the square of the number is divided by 5, the remainder is:",
+          "q_hi": "एक संख्या को 5 से भाग देने पर शेष 3 आता है। उस संख्या के वर्ग को 5 से भाग देने पर शेष आएगा:",
+          "opts": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "opts_hi": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "ans": 3,
+          "subject": "Quantitative Aptitude"
+        },
+        {
           "q": "Choose the correctly spelt word.",
           "opts": [
             "Accomodation",
@@ -3696,6 +4285,101 @@
             "The ceremony was cancelled."
           ],
           "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "sheetId": "732",
+          "q": "Passive voice: \"Someone has stolen my purse.\"",
+          "q_hi": "",
+          "opts": [
+            "My purse has been stolen.",
+            "My purse is stolen.",
+            "My purse was stolen.",
+            "My purse had been stolen."
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 0,
+          "subject": "English Comprehension"
+        },
+        {
+          "sheetId": "733",
+          "q": "Fill in the blank with correct conjunction: He is poor _____ honest.",
+          "q_hi": "",
+          "opts": [
+            "but",
+            "and",
+            "or",
+            "so"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 0,
+          "subject": "English Comprehension"
+        },
+        {
+          "sheetId": "734",
+          "q": "Choose the correct tense form: She _____ to school every day.",
+          "q_hi": "",
+          "opts": [
+            "go",
+            "goes",
+            "going",
+            "gone"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "sheetId": "735",
+          "q": "Cloze test type (single blank): The sun _____ in the east.",
+          "q_hi": "",
+          "opts": [
+            "rise",
+            "rises",
+            "rising",
+            "rose"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "English Comprehension"
+        },
+        {
+          "sheetId": "736",
+          "q": "Read the sentence and answer: \"Despite the heavy rain, the match continued.\" What does the sentence imply?",
+          "q_hi": "",
+          "opts": [
+            "The match was cancelled.",
+            "The match was stopped.",
+            "The match went on.",
+            "The match was postponed."
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 2,
           "subject": "English Comprehension"
         }
       ]
