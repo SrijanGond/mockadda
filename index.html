@@ -506,12 +506,31 @@ function capQuestionsPerSection(questions, examKey){
   });
 }
 
+// Groups questions into one contiguous run per subject, in first-appearance
+// order — fixes source data where the same subject appears in several
+// scattered runs (e.g. from questions added across many separate publish
+// sessions) so the quiz always presents one clean block per subject,
+// regardless of how the underlying JSON array is ordered. Each subject's
+// own internal question order is preserved (stable grouping, not a sort).
+function groupQuestionsBySubject(questions){
+  const hasSubjects = questions.some(q=>q.subject);
+  if(!hasSubjects) return questions;
+  const buckets={}, order=[];
+  questions.forEach(q=>{
+    const subj=(q.subject||'General').trim();
+    if(!buckets[subj]){ buckets[subj]=[]; order.push(subj); }
+    buckets[subj].push(q);
+  });
+  return order.flatMap(subj=>buckets[subj]);
+}
+
 // ── QUIZ LOGIC ────────────────────────────────────────────────────────────────
 function startQuiz(catKey,examKey,test,returnScreen){
   S.activeCatKey=catKey; S.activeExamKey=examKey;
   S.activeExam=(catKey && DATA[catKey] && DATA[catKey].exams) ? DATA[catKey].exams[examKey] : null;
   S.returnScreen = returnScreen || 'tests';
-  S.test={...test,questions:capQuestionsPerSection([...test.questions], examKey)};
+  const capped = capQuestionsPerSection([...test.questions], examKey);
+  S.test={...test,questions:groupQuestionsBySubject(capped)};
   S.qi=0;S.ans={};S.flagged=new Set();S.visited=new Set([0]);
   S.timeLeft=test.duration*60;S.startTime=Date.now();
   S.navOpen=false;S.confirm=false;S.reviewOpen=false;S.stopConfirm=false;
