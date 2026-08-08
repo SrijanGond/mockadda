@@ -9455,6 +9455,44 @@
           "subject": "General Intelligence & Reasoning"
         },
         {
+          "sheetId": "1442",
+          "q": "Select the related word: Nose : Smell :: Ear : ?",
+          "q_hi": "संबंधित शब्द चुनें: नाक : सूंघना :: कान : ?",
+          "opts": [
+            "See",
+            "Hear",
+            "Taste",
+            "Touch"
+          ],
+          "opts_hi": [
+            "देखना",
+            "सुनना",
+            "चखना",
+            "स्पर्श करना"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
+          "sheetId": "1443",
+          "q": "Find the next term: 2, 9, 28, 65, 126, ?",
+          "q_hi": "अगला पद ज्ञात करें: 2, 9, 28, 65, 126, ?",
+          "opts": [
+            215,
+            217,
+            219,
+            221
+          ],
+          "opts_hi": [
+            215,
+            217,
+            219,
+            221
+          ],
+          "ans": 1,
+          "subject": "General Intelligence & Reasoning"
+        },
+        {
           "q": "If 35% of a number is 175, what is 60% of that number?",
           "q_hi": "यदि किसी संख्या का 35% 175 है, तो उस संख्या का 60% क्या है?",
           "opts": [
