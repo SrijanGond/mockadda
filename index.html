@@ -135,6 +135,75 @@ function resetLangToggleAvailability(){
 
 // ── STATE ────────────────────────────────────────────────────────────────────
 let DATA = {};
+
+// Web App URL for the "Report Question" Apps Script endpoint.
+const REPORT_ENDPOINT_URL = 'https://script.google.com/macros/s/AKfycbytjmh1BWtrSdRPSdmUE1-T51caugpbf3NSzI8SFH6OY2qucFX1dROJ4_Md7TEPh2hm/exec';
+
+// Fires a report to the Apps Script endpoint. Uses mode:'no-cors' since
+// Apps Script Web Apps don't support CORS preflight requests from another
+// origin — this means we can't read the response, so success is assumed
+// once the request is sent rather than confirmed. text/plain content-type
+// is used deliberately (not application/json) to avoid triggering a
+// preflight OPTIONS request, which Apps Script Web Apps can't handle.
+function reportQuestion(payload){
+  if(!REPORT_ENDPOINT_URL) return Promise.resolve(false);
+  return fetch(REPORT_ENDPOINT_URL,{
+    method:'POST',
+    mode:'no-cors',
+    headers:{'Content-Type':'text/plain;charset=utf-8'},
+    body:JSON.stringify(payload),
+  }).then(()=>true).catch(()=>false);
+}
+
+// Self-contained report-question overlay — deliberately NOT wired into the
+// main render()/state machine, so it can't interfere with in-progress quiz
+// state (answers, timer, section navigation). It manages its own lifecycle
+// and removes itself when done.
+const REPORT_REASONS = ['Wrong answer marked','Question text unclear/incorrect','Option(s) incorrect or duplicated','Translation issue','Image missing or wrong','Other'];
+function openReportModal(q){
+  const ov=el('div',{css:'position:fixed;inset:0;background:rgba(0,0,0,0.5);z-index:500;display:flex;align-items:center;justify-content:center;padding:24px;'});
+  const box=el('div',{css:'background:#fff;border-radius:16px;padding:22px;border:1px solid #e2e8f0;width:100%;max-width:360px;box-shadow:0 10px 40px rgba(0,0,0,0.25);'});
+  box.appendChild(el('div',{css:'font-family:Syne,sans-serif;font-weight:700;font-size:17px;margin-bottom:4px;color:#0f172a;',text:'🚩 Report this question'}));
+  box.appendChild(el('div',{css:'font-size:12px;color:#64748b;margin-bottom:14px;line-height:1.5;',text:'This goes straight to the question bank for review — thank you for helping improve it.'}));
+
+  const select=el('select',{css:'width:100%;padding:10px;border:1px solid #e2e8f0;border-radius:8px;font-size:13px;margin-bottom:10px;'});
+  REPORT_REASONS.forEach(r=>select.appendChild(el('option',{value:r,text:r})));
+
+  const note=el('textarea',{css:'width:100%;padding:10px;border:1px solid #e2e8f0;border-radius:8px;font-size:13px;min-height:70px;margin-bottom:14px;font-family:inherit;resize:vertical;'});
+  note.placeholder='Optional — any extra detail';
+
+  const statusMsg=el('div',{css:'font-size:12px;color:#059669;margin-bottom:8px;display:none;',text:'✓ Reported — thank you!'});
+  box.appendChild(select);
+  box.appendChild(note);
+  box.appendChild(statusMsg);
+
+  const btnRow=el('div',{css:'display:flex;gap:10px;'});
+  const cancelBtn=el('button',{css:'flex:1;padding:11px;background:#f1f5f9;border:1px solid #e2e8f0;color:#0f172a;border-radius:9px;cursor:pointer;font-weight:600;font-size:13px;',text:'Cancel',onClick:()=>ov.remove()});
+  const submitBtn=el('button',{css:'flex:1;padding:11px;background:#b91c1c;border:none;color:#fff;border-radius:9px;cursor:pointer;font-family:Syne,sans-serif;font-weight:700;font-size:13px;',text:'Submit Report',onClick:()=>{
+    submitBtn.disabled=true; submitBtn.textContent='Sending…';
+    const reason = select.value + (note.value.trim() ? (' — '+note.value.trim()) : '');
+    reportQuestion({
+      examTags: S.activeExamKey || '',
+      setId: (S.test && S.test.id) || '',
+      sheetId: q.sheetId || '',
+      subject: q.subject || '',
+      question: q.q || '',
+      reason: reason,
+    }).finally(()=>{
+      statusMsg.style.display='block';
+      cancelBtn.textContent='Close';
+      submitBtn.remove();
+      setTimeout(()=>ov.remove(),1400);
+    });
+  }});
+  btnRow.appendChild(cancelBtn);
+  btnRow.appendChild(submitBtn);
+  box.appendChild(btnRow);
+
+  ov.appendChild(box);
+  ov.addEventListener('click',(e)=>{ if(e.target===ov) ov.remove(); });
+  document.body.appendChild(ov);
+}
 let S = {
   screen:'loading', activeCatKey:null, activeExamKey:null, activeExam:null,
   test:null, qi:0, ans:{}, flagged:new Set(), visited:new Set([0]),
@@ -1241,6 +1310,9 @@ function quizScreen(){
     } else {
       optText.appendChild(el('span',{text:opt}));
     }
+    if(q.opts_img && q.opts_img[i]){
+      optText.appendChild(el('img',{src:q.opts_img[i],alt:'Option '+(i+1)+' image',css:`max-width:100%;max-height:140px;display:block;margin-top:6px;border-radius:6px;border:1px solid ${CBT.border};`}));
+    }
     row.appendChild(optText);
     optsGrid.appendChild(row);
   });
@@ -1251,6 +1323,9 @@ function quizScreen(){
   const actionRow=el('div',{css:'display:flex;gap:10px;flex-wrap:wrap;'});
   actionRow.appendChild(el('button',{css:`padding:9px 18px;background:#fff;border:1.5px solid ${CBT.border};color:${CBT.text};border-radius:8px;font-size:13px;font-weight:600;cursor:pointer;`,text:'Clear Response',onClick:()=>{delete S.ans[S.qi];render();}}));
   actionRow.appendChild(el('button',{css:`padding:9px 18px;background:${isFlagged?CBT.purple+'18':'#fff'};border:1.5px solid ${isFlagged?CBT.purple:CBT.border};color:${isFlagged?CBT.purple:CBT.text};border-radius:8px;font-size:13px;font-weight:600;cursor:pointer;`,text:isFlagged?'✓ Marked for Review':'Review Later',onClick:()=>{isFlagged?S.flagged.delete(S.qi):S.flagged.add(S.qi);render();}}));
+  if(REPORT_ENDPOINT_URL){
+    actionRow.appendChild(el('button',{css:`padding:9px 18px;background:#fff;border:1.5px solid ${CBT.border};color:#b91c1c;border-radius:8px;font-size:13px;font-weight:600;cursor:pointer;`,text:'🚩 Report Question',onClick:()=>openReportModal(q)}));
+  }
   qCard.appendChild(actionRow);
   mainCol.appendChild(qCard);
 
