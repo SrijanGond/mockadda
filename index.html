@@ -14,7 +14,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
 <title>MockAdda – Free Online Mock Tests | SSC, Banking, Railways, Teaching</title>
 <meta name="description" content="Practice free mock tests on MockAdda for SSC, Banking, Railways, Teaching and Civil Services exams."/>
-<link href="https://fonts.googleapis.com/css2?family=Syne:wght@600;700;800&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@600;700;800&family=DM+Sans:wght@300;400;500;600&family=Noto+Sans+Devanagari:wght@500;600;700&display=swap" rel="stylesheet">
 <style>
 *{box-sizing:border-box;margin:0;padding:0;}
 html,body{background:linear-gradient(180deg,#eef2ff 0%,#f8fafc 420px,#f8fafc 100%);color:#0f172a;font-family:'DM Sans',sans-serif;-webkit-font-smoothing:antialiased;}
@@ -56,6 +56,21 @@ button{font-family:'DM Sans',sans-serif;cursor:pointer;}
 #langFloat button:disabled{opacity:.35;cursor:not-allowed;pointer-events:none;}
 @keyframes spin{to{transform:rotate(360deg);}}
 @keyframes fadeIn{from{opacity:0;transform:translateY(8px);}to{opacity:1;transform:translateY(0);}}
+@keyframes floatY{0%,100%{transform:translateY(0);}50%{transform:translateY(-10px);}}
+
+/* Hero layout — girl-studying illustration + text. Stacked (illustration on
+   top) on mobile since that's most of our traffic; side-by-side with the
+   illustration on the LEFT once there's room (>=760px). */
+.hero-flex{display:flex;flex-direction:column;align-items:center;gap:18px;text-align:center;}
+.hero-illu{width:190px;max-width:56%;flex-shrink:0;animation:floatY 4.5s ease-in-out infinite;}
+.hero-illu svg{width:100%;height:auto;display:block;}
+.hero-text{width:100%;}
+.hero-hi-quote{font-family:'Noto Sans Devanagari',sans-serif;}
+@media(min-width:760px){
+  .hero-flex{flex-direction:row;align-items:center;text-align:left;gap:40px;}
+  .hero-illu{width:230px;max-width:none;}
+  .hero-text{text-align:left;}
+}
 
 /* CBT (Computer Based Test) quiz screen — responsive layout.
    Mobile: single column. The question palette is shown BOTH inline on the page
@@ -1043,10 +1058,50 @@ function homeScreen(){
   const hero=el('div',{css:'background:linear-gradient(135deg,#0f172a 0%,#1e1b4b 60%,#0f172a 100%);padding:44px 20px 48px;text-align:center;position:relative;overflow:hidden;'});
   hero.appendChild(el('div',{css:'position:absolute;top:-80px;left:-80px;width:260px;height:260px;background:rgba(14,165,233,0.07);border-radius:50%;pointer-events:none;'}));
   hero.appendChild(el('div',{css:'position:absolute;bottom:-100px;right:-60px;width:300px;height:300px;background:rgba(124,58,237,0.06);border-radius:50%;pointer-events:none;'}));
-  const hi=el('div',{css:'position:relative;max-width:600px;margin:0 auto;'});
+  const heroInner=el('div',{css:'position:relative;max-width:1020px;margin:0 auto;',class:'hero-flex'});
+
+  // Girl-studying illustration — sits on the left once there's room (see .hero-flex
+  // media query above), stacked on top on narrow/mobile screens.
+  const heroSvg=`<svg viewBox="0 0 320 340" xmlns="http://www.w3.org/2000/svg">
+    <g fill="#fbbf24">
+      <path d="M36 46l3 8 8 3-8 3-3 8-3-8-8-3 8-3z"/>
+      <path d="M272 38l2.5 6.5 6.5 2.5-6.5 2.5-2.5 6.5-2.5-6.5-6.5-2.5 6.5-2.5z"/>
+      <path d="M282 130l2 5 5 2-5 2-2 5-2-5-5-2 5-2z"/>
+    </g>
+    <ellipse cx="160" cy="312" rx="105" ry="13" fill="#000" opacity="0.18"/>
+    <circle cx="255" cy="80" r="15" fill="#10b981"/>
+    <path d="M248 80l5 5 9-10" stroke="#fff" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M113 152 Q101 88 160 84 Q219 88 207 152 Q212 190 193 208 L127 208 Q108 190 113 152Z" fill="#3b2417"/>
+    <path d="M112 258 Q122 296 160 296 Q198 296 208 258 L198 236 Q160 258 122 236 Z" fill="#7c3aed"/>
+    <path d="M122 176 Q160 162 198 176 L207 246 Q160 264 113 246 Z" fill="#38bdf8"/>
+    <path d="M120 188 Q98 208 103 236 Q112 246 126 236 Q119 213 130 194 Z" fill="#38bdf8"/>
+    <path d="M200 188 Q222 208 217 236 Q208 246 194 236 Q201 213 190 194 Z" fill="#38bdf8"/>
+    <circle cx="106" cy="238" r="9" fill="#e8b48a"/>
+    <circle cx="214" cy="238" r="9" fill="#e8b48a"/>
+    <rect x="149" y="148" width="22" height="20" fill="#e8b48a"/>
+    <circle cx="160" cy="129" r="41" fill="#e8b48a"/>
+    <path d="M121 118 Q118 79 160 77 Q202 79 199 118 Q193 94 160 94 Q127 94 121 118Z" fill="#3b2417"/>
+    <circle cx="160" cy="74" r="17" fill="#3b2417"/>
+    <circle cx="146" cy="131" r="4" fill="#1e293b"/>
+    <circle cx="174" cy="131" r="4" fill="#1e293b"/>
+    <path d="M149 149 Q160 156 171 149" stroke="#1e293b" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <circle cx="139" cy="141" r="6" fill="#f472b6" opacity="0.45"/>
+    <circle cx="181" cy="141" r="6" fill="#f472b6" opacity="0.45"/>
+    <path d="M96 233 Q160 213 224 233 L224 253 Q160 233 96 253 Z" fill="#f8fafc"/>
+    <line x1="160" y1="219" x2="160" y2="249" stroke="#cbd5e1" stroke-width="2"/>
+    <line x1="107" y1="236" x2="150" y2="227" stroke="#94a3b8" stroke-width="1.5"/>
+    <line x1="107" y1="243" x2="150" y2="235" stroke="#94a3b8" stroke-width="1.5"/>
+    <line x1="170" y1="227" x2="213" y2="236" stroke="#94a3b8" stroke-width="1.5"/>
+    <line x1="170" y1="235" x2="213" y2="243" stroke="#94a3b8" stroke-width="1.5"/>
+    <rect x="93" y="205" width="6" height="36" rx="2.5" fill="#fbbf24" transform="rotate(-25 96 223)"/>
+  </svg>`;
+  heroInner.appendChild(el('div',{class:'hero-illu',html:heroSvg}));
+
+  const hi=el('div',{css:'position:relative;',class:'hero-text'});
   hi.appendChild(el('div',{css:'display:inline-block;background:rgba(14,165,233,0.15);border:1px solid rgba(14,165,233,0.3);color:#38bdf8;font-size:11px;font-weight:700;padding:5px 16px;border-radius:20px;letter-spacing:0.1em;margin-bottom:18px;',text:'🎯 FREE MOCK TESTS FOR ALL COMPETITIVE EXAMS'}));
   hi.appendChild(el('h1',{css:'font-family:Syne,sans-serif;font-weight:800;font-size:26px;color:#fff;line-height:1.3;margin-bottom:12px;',text:'One Destination for Complete Exam Preparation'}));
-  hi.appendChild(el('p',{css:'color:#94a3b8;font-size:14px;line-height:1.7;margin-bottom:28px;',text:'Practice with real exam-pattern mock tests for SSC, Banking, Railways, Teaching & Civil Services.'}));
+  hi.appendChild(el('p',{css:'color:#94a3b8;font-size:14px;line-height:1.7;margin-bottom:16px;',text:'Practice with real exam-pattern mock tests for SSC, Banking, Railways, Teaching & Civil Services.'}));
+  hi.appendChild(el('div',{class:'hero-hi-quote',css:'display:inline-block;margin-bottom:24px;padding:9px 18px;background:rgba(124,58,237,0.14);border:1px solid rgba(124,58,237,0.35);border-radius:12px;font-weight:600;font-size:15px;color:#d8b4fe;',text:'“पढ़ो कहीं पर, टेस्ट दो यहीं पर”'}));
   const lr=el('div',{css:'display:flex;justify-content:center;gap:6px;align-items:center;margin-bottom:28px;flex-wrap:wrap;'});
   ['Learn','Practice','Improve','Succeed'].forEach((t,i,arr)=>{
     lr.appendChild(el('span',{css:'color:#f1f5f9;font-size:13px;font-weight:600;',text:t}));
@@ -1060,7 +1115,7 @@ function homeScreen(){
     s.appendChild(el('div',{css:'font-size:10px;color:#64748b;margin-top:2px;font-weight:500;',text:l}));
     stats.appendChild(s);
   });
-  hi.appendChild(stats);hero.appendChild(hi);root.appendChild(hero);
+  hi.appendChild(stats);heroInner.appendChild(hi);hero.appendChild(heroInner);root.appendChild(hero);
 
   // Quick-launch cards — placed right after the hero so students see them without scrolling
   const quickWrap=el('div',{css:'padding:16px 20px 4px;max-width:800px;margin:0 auto;'});
