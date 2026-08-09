@@ -8053,6 +8053,32 @@
           "subject": "Reasoning & Mathematics"
         },
         {
+          "sheetId": "1364",
+          "q": "A figure is given on the left. Select the option that shows its correct mirror image when a mirror is placed vertically on the right side (line MN).",
+          "q_hi": "बाईं ओर एक आकृति दी गई है। यदि दाईं ओर रेखा MN पर दर्पण रखा जाए, तो उसका सही दर्पण प्रतिबिंब दिखाने वाला विकल्प चुनें।",
+          "opts": [
+            "Figure (A)",
+            "Figure (B)",
+            "Figure (C)",
+            "Figure (D)"
+          ],
+          "opts_hi": [
+            "आकृति (A)",
+            "आकृति (B)",
+            "आकृति (C)",
+            "आकृति (D)"
+          ],
+          "ans": 0,
+          "subject": "Reasoning & Mathematics",
+          "img": "/question-images/nonverbal/mirror_9000_opt_c.svg",
+          "opts_img": [
+            "/question-images/nonverbal/mirror_9000_opt_d.svg",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
           "q": "Which of the following is the most abundant gas in Earth's atmosphere?",
           "q_hi": "पृथ्वी के वायुमंडल में सबसे प्रचुर मात्रा में पाई जाने वाली गैस निम्नलिखित में से कौन सी है?",
           "opts": [
