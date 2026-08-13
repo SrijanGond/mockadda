@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="100%" height="100%" font-family="Arial, sans-serif">
+  <rect width="600" height="400" fill="#ffffff" rx="8"/>
+  
+  <circle cx="200" cy="200" r="140" fill="#f0f0f0" stroke="#ccc" stroke-width="1"/>
+  
+  <!-- Pension Funds 38% => 136.8 deg -->
+  <path d="M200,200 L200,60 A140,140 0 0,1 342.4,98.8 Z" fill="#4e79a7"/>
+  <text x="250" y="100" fill="#fff" font-size="14" font-weight="bold">38%</text>
+  
+  <!-- Insurance 5% => 18 deg -->
+  <path d="M200,200 L342.4,98.8 A140,140 0 0,1 358.9,122.0 Z" fill="#f28e2b"/>
+  <text x="310" y="120" fill="#fff" font-size="12">5%</text>
+  
+  <!-- NRI 19% => 68.4 deg -->
+  <path d="M200,200 L358.9,122.0 A140,140 0 0,1 384.0,194.0 Z" fill="#e15759"/>
+  <text x="330" y="160" fill="#fff" font-size="14">19%</text>
+  
+  <!-- HNI 22% => 79.2 deg -->
+  <path d="M200,200 L384.0,194.0 A140,140 0 0,1 340.0,300.0 Z" fill="#59a14f"/>
+  <text x="320" y="250" fill="#fff" font-size="14">22%</text>
+  
+  <!-- Public 6% => 21.6 deg -->
+  <path d="M200,200 L340.0,300.0 A140,140 0 0,1 222.0,330.0 Z" fill="#f2b95d"/>
+  <text x="280" y="300" fill="#000" font-size="12">6%</text>
+  
+  <!-- FII 5% => 18 deg -->
+  <path d="M200,200 L222.0,330.0 A140,140 0 0,1 200,340 Z" fill="#edc948"/>
+  <text x="210" y="310" fill="#000" font-size="12">5%</text>
+  
+  <!-- Legend -->
+  <g transform="translate(420, 60)">
+    <rect x="0" y="0" width="16" height="16" fill="#4e79a7"/><text x="22" y="13" font-size="12" fill="#333">Pension Funds</text>
+    <rect x="0" y="24" width="16" height="16" fill="#f28e2b"/><text x="22" y="37" font-size="12" fill="#333">Insurance</text>
+    <rect x="0" y="48" width="16" height="16" fill="#e15759"/><text x="22" y="61" font-size="12" fill="#333">NRI</text>
+    <rect x="0" y="72" width="16" height="16" fill="#59a14f"/><text x="22" y="85" font-size="12" fill="#333">HNI</text>
+    <rect x="0" y="96" width="16" height="16" fill="#f2b95d"/><text x="22" y="109" font-size="12" fill="#333">Public</text>
+    <rect x="0" y="120" width="16" height="16" fill="#edc948"/><text x="22" y="133" font-size="12" fill="#333">FII</text>
+  </g>
+</svg>
