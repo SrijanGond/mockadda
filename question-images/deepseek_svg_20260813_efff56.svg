@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="100%" height="100%" font-family="Arial, sans-serif">
+  <rect width="600" height="400" fill="#ffffff" rx="8"/>
+  
+  <circle cx="200" cy="200" r="140" fill="#f0f0f0" stroke="#ccc" stroke-width="1"/>
+  
+  <!-- Mutual Funds 50% => 180 deg -->
+  <path d="M200,200 L200,60 A140,140 0 0,1 340,340 Z" fill="#4e79a7"/>
+  <text x="260" y="180" fill="#fff" font-size="18" font-weight="bold">50%</text>
+  
+  <!-- NRI 5% => 18 deg -->
+  <path d="M200,200 L340,340 A140,140 0 0,1 222,340 Z" fill="#f28e2b"/>
+  <text x="280" y="320" fill="#000" font-size="12">5%</text>
+  
+  <!-- Public 5% => 18 deg -->
+  <path d="M200,200 L222,340 A140,140 0 0,1 200,340 Z" fill="#e15759"/>
+  <text x="210" y="320" fill="#000" font-size="12">5%</text>
+  
+  <!-- Insurance 24% => 86.4 deg -->
+  <path d="M200,200 L200,340 A140,140 0 0,1 100,310 Z" fill="#59a14f"/>
+  <text x="120" y="300" fill="#fff" font-size="14">24%</text>
+  
+  <!-- FII 5% => 18 deg -->
+  <path d="M200,200 L100,310 A140,140 0 0,1 65,220 Z" fill="#f2b95d"/>
+  <text x="80" y="260" fill="#000" font-size="12">5%</text>
+  
+  <!-- Retail 5% => 18 deg -->
+  <path d="M200,200 L65,220 A140,140 0 0,1 80,120 Z" fill="#edc948"/>
+  <text x="70" y="170" fill="#000" font-size="12">5%</text>
+  
+  <!-- HNI 6% => 21.6 deg -->
+  <path d="M200,200 L80,120 A140,140 0 0,1 200,60 Z" fill="#af7ac5"/>
+  <text x="90" y="100" fill="#fff" font-size="12">6%</text>
+  
+  <!-- Legend -->
+  <g transform="translate(420, 60)">
+    <rect x="0" y="0" width="16" height="16" fill="#4e79a7"/><text x="22" y="13" font-size="12" fill="#333">Mutual Funds</text>
+    <rect x="0" y="24" width="16" height="16" fill="#f28e2b"/><text x="22" y="37" font-size="12" fill="#333">NRI</text>
+    <rect x="0" y="48" width="16" height="16" fill="#e15759"/><text x="22" y="61" font-size="12" fill="#333">Public</text>
+    <rect x="0" y="72" width="16" height="16" fill="#59a14f"/><text x="22" y="85" font-size="12" fill="#333">Insurance</text>
+    <rect x="0" y="96" width="16" height="16" fill="#f2b95d"/><text x="22" y="109" font-size="12" fill="#333">FII</text>
+    <rect x="0" y="120" width="16" height="16" fill="#edc948"/><text x="22" y="133" font-size="12" fill="#333">Retail</text>
+    <rect x="0" y="144" width="16" height="16" fill="#af7ac5"/><text x="22" y="157" font-size="12" fill="#333">HNI</text>
+  </g>
+</svg>
