@@ -8299,7 +8299,1661 @@
       "difficulty": "Medium",
       "correctMarks": 1,
       "negativeMarks": 0.5,
-      "questions": []
+      "questions": [
+        {
+          "sheetId": "1369",
+          "q": "Which Indus Valley site is famous for the Great Bath?",
+          "q_hi": "सिंधु घाटी सभ्यता का कौन सा स्थल विशाल स्नानागार के लिए प्रसिद्ध है?",
+          "opts": [
+            "Harappa",
+            "Mohenjo-daro",
+            "Lothal",
+            "Kalibangan"
+          ],
+          "opts_hi": [
+            "हड़प्पा",
+            "मोहनजोदड़ो",
+            "लोथल",
+            "कालीबंगा"
+          ],
+          "ans": 1,
+          "subject": "History"
+        },
+        {
+          "sheetId": "1370",
+          "q": "Where was the First Buddhist Council held?",
+          "q_hi": "प्रथम बौद्ध संगीति किस स्थान पर आयोजित की गई थी?",
+          "opts": [
+            "Vaishali",
+            "Rajgir",
+            "Pataliputra",
+            "Kushinagar"
+          ],
+          "opts_hi": [
+            "वैशाली",
+            "राजगृह",
+            "पाटलिपुत्र",
+            "कुशीनगर"
+          ],
+          "ans": 1,
+          "subject": "History"
+        },
+        {
+          "sheetId": "1371",
+          "q": "Who was the founder of the Maurya Empire?",
+          "q_hi": "मौर्य साम्राज्य के संस्थापक कौन थे?",
+          "opts": [
+            "Bimbisara",
+            "Chandragupta Maurya",
+            "Ashoka",
+            "Mahapadma Nanda"
+          ],
+          "opts_hi": [
+            "बिम्बिसार",
+            "चंद्रगुप्त मौर्य",
+            "अशोक",
+            "महापद्म नंद"
+          ],
+          "ans": 1,
+          "subject": "History"
+        },
+        {
+          "sheetId": "1372",
+          "q": "Which Mughal emperor introduced the syncretic religion ‘Din-i-Ilahi’?",
+          "q_hi": "किस मुगल सम्राट ने समन्वयवादी धर्म ‘दीन-ए-इलाही’ की शुरुआत की?",
+          "opts": [
+            "Babur",
+            "Akbar",
+            "Jahangir",
+            "Aurangzeb"
+          ],
+          "opts_hi": [
+            "बाबर",
+            "अकबर",
+            "जहांगीर",
+            "औरंगजेब"
+          ],
+          "ans": 1,
+          "subject": "History"
+        },
+        {
+          "sheetId": "1373",
+          "q": "The Revolt of 1857 began at which military station?",
+          "q_hi": "1857 का विद्रोह किस सैनिक छावनी से प्रारंभ हुआ?",
+          "opts": [
+            "Delhi",
+            "Meerut",
+            "Kanpur",
+            "Lucknow"
+          ],
+          "opts_hi": [
+            "दिल्ली",
+            "मेरठ",
+            "कानपुर",
+            "लखनऊ"
+          ],
+          "ans": 1,
+          "subject": "History"
+        },
+        {
+          "sheetId": "1374",
+          "q": "Which Mauryan ruler issued the 'Edicts of Ashoka' primarily to spread the principles of Dhamma among the people?",
+          "q_hi": "किस मौर्य शासक ने धम्म के सिद्धांतों को जन-जन तक पहुँचाने के लिए 'अशोक के अभिलेख' जारी किए थे?",
+          "opts": [
+            "Chandragupta Maurya",
+            "Bindusara",
+            "Ashoka",
+            "Dasharatha Maurya"
+          ],
+          "opts_hi": [
+            "चंद्रगुप्त मौर्य",
+            "बिंदुसार",
+            "अशोक",
+            "दशरथ मौर्य"
+          ],
+          "ans": 2,
+          "subject": "Indian History"
+        },
+        {
+          "sheetId": "1375",
+          "q": "The 'Mansabdari system', which was a rank-based administrative and military system, was introduced during the reign of which Mughal emperor?",
+          "q_hi": "मनसबदारी प्रथा', जो एक पद-आधारित प्रशासनिक और सैन्य व्यवस्था थी, किस मुगल सम्राट के शासनकाल में शुरू की गई थी?",
+          "opts": [
+            "Babur",
+            "Humayun",
+            "Akbar",
+            "Jahangir"
+          ],
+          "opts_hi": [
+            "बाबर",
+            "हुमायूँ",
+            "अकबर",
+            "जहाँगीर"
+          ],
+          "ans": 2,
+          "subject": "Indian History"
+        },
+        {
+          "sheetId": "1376",
+          "q": "Which Article of the Indian Constitution guarantees the right to freedom of religion?",
+          "q_hi": "भारतीय संविधान का कौन सा अनुच्छेद धर्म की स्वतंत्रता के अधिकार की गारंटी देता है?",
+          "opts": [
+            "Article 19",
+            "Article 21",
+            "Article 25",
+            "Article 32"
+          ],
+          "opts_hi": [
+            "अनुच्छेद 19",
+            "अनुच्छेद 21",
+            "अनुच्छेद 25",
+            "अनुच्छेद 32"
+          ],
+          "ans": 2,
+          "subject": "Indian Polity & Constitution"
+        },
+        {
+          "sheetId": "1377",
+          "q": "By which Constitutional Amendment Act were the Fundamental Duties added to the Indian Constitution?",
+          "q_hi": "किस संविधान संशोधन अधिनियम द्वारा भारतीय संविधान में मूल कर्तव्यों को जोड़ा गया था?",
+          "opts": [
+            "42nd Amendment, 1976",
+            "44th Amendment, 1978",
+            "52nd Amendment, 1985",
+            "86th Amendment, 2002"
+          ],
+          "opts_hi": [
+            "42वाँ संशोधन, 1976",
+            "44वाँ संशोधन, 1978",
+            "52वाँ संशोधन, 1985",
+            "86वाँ संशोधन, 2002"
+          ],
+          "ans": 0,
+          "subject": "Indian Polity & Constitution"
+        },
+        {
+          "sheetId": "1378",
+          "q": "The maximum strength of the Rajya Sabha, as prescribed by the Constitution of India, is —",
+          "q_hi": "भारत के संविधान द्वारा निर्धारित राज्य सभा की अधिकतम सदस्य संख्या है —",
+          "opts": [
+            238,
+            245,
+            250,
+            260
+          ],
+          "opts_hi": [
+            238,
+            245,
+            250,
+            260
+          ],
+          "ans": 2,
+          "subject": "Indian Polity & Constitution"
+        },
+        {
+          "sheetId": "1379",
+          "q": "Which Part of the Indian Constitution contains the Directive Principles of State Policy?",
+          "q_hi": "भारतीय संविधान के किस भाग में राज्य के नीति निदेशक तत्व निहित हैं?",
+          "opts": [
+            "Part III",
+            "Part IV",
+            "Part IV-A",
+            "Part V"
+          ],
+          "opts_hi": [
+            "भाग III",
+            "भाग IV",
+            "भाग IV-A",
+            "भाग V"
+          ],
+          "ans": 1,
+          "subject": "Indian Polity & Constitution"
+        },
+        {
+          "sheetId": "1380",
+          "q": "Under which Article of the Indian Constitution can the President declare a Financial Emergency?",
+          "q_hi": "भारतीय संविधान के किस अनुच्छेद के तहत राष्ट्रपति वित्तीय आपातकाल की घोषणा कर सकते हैं?",
+          "opts": [
+            "Article 352",
+            "Article 356",
+            "Article 360",
+            "Article 365"
+          ],
+          "opts_hi": [
+            "अनुच्छेद 352",
+            "अनुच्छेद 356",
+            "अनुच्छेद 360",
+            "अनुच्छेद 365"
+          ],
+          "ans": 2,
+          "subject": "Indian Polity & Constitution"
+        },
+        {
+          "sheetId": "1391",
+          "q": "Under which Article of the Indian Constitution is the Right to Equality guaranteed to citizens?",
+          "q_hi": "भारतीय संविधान के किस अनुच्छेद के अंतर्गत नागरिकों को समानता का अधिकार प्रदान किया गया है?",
+          "opts": [
+            "Article 12",
+            "Article 14",
+            "Article 19",
+            "Article 21"
+          ],
+          "opts_hi": [
+            "अनुच्छेद 12",
+            "अनुच्छेद 14",
+            "अनुच्छेद 19",
+            "अनुच्छेद 21"
+          ],
+          "ans": 1,
+          "subject": "Indian Polity & Constitution"
+        },
+        {
+          "sheetId": "1392",
+          "q": "In which Part of the Indian Constitution are the Directive Principles of State Policy contained?",
+          "q_hi": "भारतीय संविधान के किस भाग में राज्य के नीति निदेशक तत्व वर्णित हैं?",
+          "opts": [
+            "Part III",
+            "Part IV",
+            "Part V",
+            "Part IVA"
+          ],
+          "opts_hi": [
+            "भाग III",
+            "भाग IV",
+            "भाग V",
+            "भाग IVA"
+          ],
+          "ans": 1,
+          "subject": "Indian Polity & Constitution"
+        },
+        {
+          "sheetId": "1393",
+          "q": "Which of the following statements regarding a Joint Sitting of the two Houses of Parliament in India is correct?",
+          "q_hi": "भारत में संसद के दोनों सदनों की संयुक्त बैठक के संबंध में निम्नलिखित में से कौन सा कथन सही है?",
+          "opts": [
+            "It is presided over by the President of India",
+            "It is presided over by the Speaker of Lok Sabha",
+            "It is presided over by the Chairman of Rajya Sabha",
+            "It can be convened for any type of Bill"
+          ],
+          "opts_hi": [
+            "इसकी अध्यक्षता भारत के राष्ट्रपति द्वारा की जाती है",
+            "इसकी अध्यक्षता लोकसभा के अध्यक्ष द्वारा की जाती है",
+            "इसकी अध्यक्षता राज्यसभा के सभापति द्वारा की जाती है",
+            "इसे किसी भी प्रकार के विधेयक के लिए बुलाया जा सकता है"
+          ],
+          "ans": 1,
+          "subject": "Indian Polity & Constitution"
+        },
+        {
+          "sheetId": "1394",
+          "q": "Which Constitutional Amendment Act added the words 'Socialist', 'Secular', and 'Integrity' to the Preamble of the Indian Constitution?",
+          "q_hi": "किस संविधान संशोधन अधिनियम द्वारा भारतीय संविधान की प्रस्तावना में 'समाजवादी', 'पंथनिरपेक्ष' और 'अखंडता' शब्द जोड़े गए?",
+          "opts": [
+            "42nd Amendment, 1976",
+            "44th Amendment, 1978",
+            "52nd Amendment, 1985",
+            "86th Amendment, 2002"
+          ],
+          "opts_hi": [
+            "42वाँ संशोधन, 1976",
+            "44वाँ संशोधन, 1978",
+            "52वाँ संशोधन, 1985",
+            "86वाँ संशोधन, 2002"
+          ],
+          "ans": 0,
+          "subject": "Indian Polity & Constitution"
+        },
+        {
+          "sheetId": "1395",
+          "q": "Consider the following statements regarding the proclamation of National Emergency under Article 352 of the Indian Constitution: (1) It can be proclaimed on grounds of war, external aggression, or armed rebellion. (2) It must be approved by each House of Parliament by a simple majority within one month. (3) Once approved, it continues for a period of six months unless revoked earlier. Which of the statements given above is/are correct?",
+          "q_hi": "भारतीय संविधान के अनुच्छेद 352 के अंतर्गत राष्ट्रीय आपातकाल की उद्घोषणा के संबंध में निम्नलिखित कथनों पर विचार कीजिए: (1) इसे युद्ध, बाह्य आक्रमण या सशस्त्र विद्रोह के आधार पर घोषित किया जा सकता है। (2) इसे एक माह के भीतर संसद के प्रत्येक सदन द्वारा साधारण बहुमत से अनुमोदित होना चाहिए। (3) अनुमोदन के पश्चात यह छह माह की अवधि तक प्रवृत्त रहती है जब तक कि इसे पहले न हटाया जाए। उपर्युक्त कथनों में से कौन सा/से कथन सही है/हैं?",
+          "opts": [
+            "Only (1)",
+            "Only (1) and (3)",
+            "Only (2) and (3)",
+            "All of (1), (2), and (3)"
+          ],
+          "opts_hi": [
+            "केवल (1)",
+            "केवल (1) और (3)",
+            "केवल (2) और (3)",
+            "(1), (2) और (3) सभी"
+          ],
+          "ans": 1,
+          "subject": "Indian Polity & Constitution"
+        },
+        {
+          "sheetId": "1381",
+          "q": "Which river is known as the 'Sorrow of Bihar' due to the frequent floods it causes in the state?",
+          "q_hi": "किस नदी को बिहार में बार-बार बाढ़ लाने के कारण 'बिहार का शोक' कहा जाता है?",
+          "opts": [
+            "Gandak",
+            "Bagmati",
+            "Kosi",
+            "Kamla"
+          ],
+          "opts_hi": [
+            "गंडक",
+            "बागमती",
+            "कोसी",
+            "कमला"
+          ],
+          "ans": 2,
+          "subject": "Geography"
+        },
+        {
+          "sheetId": "1382",
+          "q": "Which type of soil is most suitable for cotton cultivation and is predominantly found in the Deccan Plateau region?",
+          "q_hi": "कपास की खेती के लिए कौन-सी मिट्टी सबसे उपयुक्त है और दक्कन पठार क्षेत्र में मुख्य रूप से पाई जाती है?",
+          "opts": [
+            "Alluvial soil",
+            "Red soil",
+            "Laterite soil",
+            "Black soil"
+          ],
+          "opts_hi": [
+            "जलोढ़ मिट्टी",
+            "लाल मिट्टी",
+            "लैटेराइट मिट्टी",
+            "काली मिट्टी"
+          ],
+          "ans": 3,
+          "subject": "Geography"
+        },
+        {
+          "sheetId": "1383",
+          "q": "The South-West Monsoon normally arrives at the coast of Kerala by which approximate date every year?",
+          "q_hi": "दक्षिण-पश्चिम मानसून सामान्यतः प्रत्येक वर्ष किस अनुमानित तिथि तक केरल के तट पर पहुँचता है?",
+          "opts": [
+            "1st June",
+            "15th May",
+            "15th June",
+            "1st July"
+          ],
+          "opts_hi": [
+            "1 जून",
+            "15 मई",
+            "15 जून",
+            "1 जुलाई"
+          ],
+          "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "sheetId": "1384",
+          "q": "Which mountain pass connects the Leh region of Ladakh with the Manali region of Himachal Pradesh?",
+          "q_hi": "कौन-सा पर्वतीय दर्रा लद्दाख के लेह क्षेत्र को हिमाचल प्रदेश के मनाली क्षेत्र से जोड़ता है?",
+          "opts": [
+            "Zoji La",
+            "Shipki La",
+            "Rohtang Pass",
+            "Baralacha La"
+          ],
+          "opts_hi": [
+            "जोजी ला",
+            "शिपकी ला",
+            "रोहतांग दर्रा",
+            "बारालाचा ला"
+          ],
+          "ans": 3,
+          "subject": "Geography"
+        },
+        {
+          "sheetId": "1385",
+          "q": "Which type of natural vegetation is typically found in areas of India that receive an annual rainfall between 50 cm and 100 cm?",
+          "q_hi": "भारत के उन क्षेत्रों में कौन-सी प्राकृतिक वनस्पति सामान्यतः पाई जाती है जहाँ वार्षिक वर्षा 50 सेमी से 100 सेमी के बीच होती है?",
+          "opts": [
+            "Tropical Evergreen Forest",
+            "Tropical Deciduous Forest",
+            "Mangrove Forest",
+            "Alpine Forest"
+          ],
+          "opts_hi": [
+            "उष्णकटिबंधीय सदाबहार वन",
+            "उष्णकटिबंधीय पर्णपाती वन",
+            "मैंग्रोव वन",
+            "अल्पाइन वन"
+          ],
+          "ans": 1,
+          "subject": "Geography"
+        },
+        {
+          "sheetId": "1386",
+          "q": "Which Five Year Plan in India gave the highest priority to the reduction of economic inequalities and poverty alleviation for the first time as its central objective?",
+          "q_hi": "भारत में किस पंचवर्षीय योजना ने पहली बार आर्थिक असमानता को कम करने और गरीबी उन्मूलन को अपने केंद्रीय उद्देश्य के रूप में सर्वोच्च प्राथमिकता दी?",
+          "opts": [
+            "Third Five Year Plan",
+            "Fourth Five Year Plan",
+            "Fifth Five Year Plan",
+            "Sixth Five Year Plan"
+          ],
+          "opts_hi": [
+            "तृतीय पंचवर्षीय योजना",
+            "चतुर्थ पंचवर्षीय योजना",
+            "पंचम पंचवर्षीय योजना",
+            "षष्ठ पंचवर्षीय योजना"
+          ],
+          "ans": 2,
+          "subject": "Indian Economy"
+        },
+        {
+          "sheetId": "1387",
+          "q": "The concept of 'Priority Sector Lending' in India requires commercial banks to mandatorily lend a fixed percentage of their Adjusted Net Bank Credit (ANBC) to specified sectors. What is the prescribed overall target for domestic scheduled commercial banks?",
+          "q_hi": "भारत में 'प्राथमिकता क्षेत्र ऋण' की अवधारणा के अंतर्गत वाणिज्यिक बैंकों को अपने समायोजित निवल बैंक ऋण (ANBC) का एक निश्चित प्रतिशत निर्दिष्ट क्षेत्रों को अनिवार्य रूप से देना होता है। घरेलू अनुसूचित वाणिज्यिक बैंकों के लिए यह समग्र लक्ष्य कितना निर्धारित है?",
+          "opts": [
+            0.32,
+            0.4,
+            0.45,
+            0.5
+          ],
+          "opts_hi": [
+            0.32,
+            0.4,
+            0.45,
+            0.5
+          ],
+          "ans": 1,
+          "subject": "Indian Economy"
+        },
+        {
+          "sheetId": "1388",
+          "q": "Which of the following best describes the difference between GDP at Market Price and GDP at Factor Cost?",
+          "q_hi": "निम्नलिखित में से कौन-सा विकल्प बाजार मूल्य पर GDP और कारक लागत पर GDP के अंतर को सबसे अच्छी तरह से स्पष्ट करता है?",
+          "opts": [
+            "GDP at MP = GDP at FC + Subsidies - Indirect Taxes",
+            "GDP at MP = GDP at FC + Indirect Taxes - Subsidies",
+            "GDP at MP = GDP at FC - Indirect Taxes - Subsidies",
+            "GDP at MP = GDP at FC + Direct Taxes - Subsidies"
+          ],
+          "opts_hi": [
+            "बाजार मूल्य पर GDP = कारक लागत पर GDP + सब्सिडी - अप्रत्यक्ष कर",
+            "बाजार मूल्य पर GDP = कारक लागत पर GDP + अप्रत्यक्ष कर - सब्सिडी",
+            "बाजार मूल्य पर GDP = कारक लागत पर GDP - अप्रत्यक्ष कर - सब्सिडी",
+            "बाजार मूल्य पर GDP = कारक लागत पर GDP + प्रत्यक्ष कर - सब्सिडी"
+          ],
+          "ans": 1,
+          "subject": "Indian Economy"
+        },
+        {
+          "sheetId": "1389",
+          "q": "The term 'Operation Flood', launched in 1970 in India, is associated with which of the following sectors?",
+          "q_hi": "1970 में भारत में शुरू किया गया 'ऑपरेशन फ्लड' किस क्षेत्र से संबंधित है?",
+          "opts": [
+            "Wheat production",
+            "Flood control and irrigation",
+            "Milk and dairy development",
+            "Fisheries development"
+          ],
+          "opts_hi": [
+            "गेहूँ उत्पादन",
+            "बाढ़ नियंत्रण और सिंचाई",
+            "दुग्ध और डेयरी विकास",
+            "मत्स्य पालन विकास"
+          ],
+          "ans": 2,
+          "subject": "Indian Economy"
+        },
+        {
+          "sheetId": "1390",
+          "q": "The New Economic Policy of 1991 in India was introduced during the tenure of which Finance Minister?",
+          "q_hi": "भारत में 1991 की नई आर्थिक नीति किस वित्त मंत्री के कार्यकाल में लागू की गई थी?",
+          "opts": [
+            "Pranab Mukherjee",
+            "V. P. Singh",
+            "Manmohan Singh",
+            "Yashwant Sinha"
+          ],
+          "opts_hi": [
+            "प्रणब मुखर्जी",
+            "वी. पी. सिंह",
+            "मनमोहन सिंह",
+            "यशवंत सिन्हा"
+          ],
+          "ans": 2,
+          "subject": "Indian Economy"
+        },
+        {
+          "sheetId": "1396",
+          "q": "Which part of the human brain is primarily responsible for maintaining body balance and coordination of muscular movements?",
+          "q_hi": "मानव मस्तिष्क का कौन-सा भाग मुख्य रूप से शरीर का संतुलन बनाए रखने और पेशीय गतिविधियों के समन्वय के लिए उत्तरदायी है?",
+          "opts": [
+            "Cerebrum",
+            "Cerebellum",
+            "Medulla Oblongata",
+            "Hypothalamus"
+          ],
+          "opts_hi": [
+            "प्रमस्तिष्क (सेरेब्रम)",
+            "अनुमस्तिष्क (सेरेबेलम)",
+            "मेडुला ऑब्लांगेटा",
+            "हाइपोथैलेमस"
+          ],
+          "ans": 1,
+          "subject": "General Science"
+        },
+        {
+          "sheetId": "1397",
+          "q": "Which of the following substances turns red litmus paper blue, indicating its basic nature?",
+          "q_hi": "निम्नलिखित में से कौन-सा पदार्थ लाल लिटमस पेपर को नीला कर देता है, जो उसकी क्षारीय प्रकृति को दर्शाता है?",
+          "opts": [
+            "Vinegar",
+            "Lemon juice",
+            "Baking soda solution",
+            "Tamarind juice"
+          ],
+          "opts_hi": [
+            "सिरका",
+            "नींबू का रस",
+            "बेकिंग सोडा का घोल",
+            "इमली का रस"
+          ],
+          "ans": 2,
+          "subject": "General Science"
+        },
+        {
+          "sheetId": "1398",
+          "q": "A person suffering from myopia (short-sightedness) cannot see distant objects clearly. Which type of lens is used to correct this defect?",
+          "q_hi": "निकट-दृष्टि दोष (मायोपिया) से पीड़ित व्यक्ति दूर की वस्तुओं को स्पष्ट नहीं देख पाता। इस दोष को दूर करने के लिए किस प्रकार के लेंस का उपयोग किया जाता है?",
+          "opts": [
+            "Convex lens",
+            "Concave lens",
+            "Bifocal lens",
+            "Plano-convex lens"
+          ],
+          "opts_hi": [
+            "उत्तल लेंस",
+            "अवतल लेंस",
+            "द्विफोकस लेंस",
+            "प्लैनो-उत्तल लेंस"
+          ],
+          "ans": 1,
+          "subject": "General Science"
+        },
+        {
+          "sheetId": "1399",
+          "q": "Deficiency of which vitamin causes the disease 'Scurvy', characterised by bleeding gums and weakness?",
+          "q_hi": "किस विटामिन की कमी से 'स्कर्वी' रोग होता है, जिसमें मसूड़ों से रक्तस्राव और कमजोरी के लक्षण दिखाई देते हैं?",
+          "opts": [
+            "Vitamin A",
+            "Vitamin B12",
+            "Vitamin C",
+            "Vitamin D"
+          ],
+          "opts_hi": [
+            "विटामिन A",
+            "विटामिन B12",
+            "विटामिन C",
+            "विटामिन D"
+          ],
+          "ans": 2,
+          "subject": "General Science"
+        },
+        {
+          "sheetId": "1400",
+          "q": "A box of mass 10 kg is lifted vertically through a height of 5 metres. If acceleration due to gravity is 10 m/s², what is the work done against gravity?",
+          "q_hi": "10 किग्रा द्रव्यमान के एक बक्से को 5 मीटर की ऊँचाई तक ऊर्ध्वाधर रूप से उठाया जाता है। यदि गुरुत्वीय त्वरण 10 m/s² है, तो गुरुत्वाकर्षण के विरुद्ध किया गया कार्य कितना है?",
+          "opts": [
+            "50 J",
+            "250 J",
+            "500 J",
+            "1000 J"
+          ],
+          "opts_hi": [
+            "50 J",
+            "250 J",
+            "500 J",
+            "1000 J"
+          ],
+          "ans": 2,
+          "subject": "General Science"
+        },
+        {
+          "sheetId": "1401",
+          "q": "A shopkeeper marks the price of an article 40% above its cost price and then gives a discount of 20% on the marked price. What is his profit percentage?",
+          "q_hi": "एक दुकानदार किसी वस्तु का अंकित मूल्य उसके क्रय मूल्य से 40% अधिक रखता है और फिर अंकित मूल्य पर 20% की छूट देता है। उसका लाभ प्रतिशत क्या है?",
+          "opts": [
+            0.1,
+            0.12,
+            0.14,
+            0.2
+          ],
+          "opts_hi": [
+            0.1,
+            0.12,
+            0.14,
+            0.2
+          ],
+          "ans": 1,
+          "subject": "Elementary Arithmetic"
+        },
+        {
+          "sheetId": "1402",
+          "q": "A sum of money doubles itself in 8 years at simple interest. In how many years will it become 5 times itself at the same rate of interest?",
+          "q_hi": "साधारण ब्याज पर कोई धनराशि 8 वर्षों में दोगुनी हो जाती है। उसी ब्याज दर पर वह कितने वर्षों में 5 गुनी हो जाएगी?",
+          "opts": [
+            "24 years",
+            "28 years",
+            "32 years",
+            "40 years"
+          ],
+          "opts_hi": [
+            "24 वर्ष",
+            "28 वर्ष",
+            "32 वर्ष",
+            "40 वर्ष"
+          ],
+          "ans": 2,
+          "subject": "Elementary Arithmetic"
+        },
+        {
+          "sheetId": "1403",
+          "q": "Two numbers are in the ratio 3 : 5. If 6 is added to each number, the new ratio becomes 3 : 4. What is the smaller of the two original numbers?",
+          "q_hi": "दो संख्याएँ 3 : 5 के अनुपात में हैं। यदि प्रत्येक संख्या में 6 जोड़ा जाए तो नया अनुपात 3 : 4 हो जाता है। दोनों मूल संख्याओं में से छोटी संख्या कौन-सी है?",
+          "opts": [
+            6,
+            9,
+            12,
+            15
+          ],
+          "opts_hi": [
+            6,
+            9,
+            12,
+            15
+          ],
+          "ans": 0,
+          "subject": "Elementary Arithmetic"
+        },
+        {
+          "sheetId": "1405",
+          "q": "The average of 5 consecutive even numbers is 34. What is the largest of these 5 numbers?",
+          "q_hi": "5 क्रमागत सम संख्याओं का औसत 34 है। इन 5 संख्याओं में सबसे बड़ी संख्या कौन-सी है?",
+          "opts": [
+            36,
+            38,
+            40,
+            42
+          ],
+          "opts_hi": [
+            36,
+            38,
+            40,
+            42
+          ],
+          "ans": 1,
+          "subject": "Elementary Arithmetic"
+        },
+        {
+          "sheetId": "1409",
+          "q": "Which type of Sandhi is formed in the word 'सज्जन' (sajjan)?",
+          "q_hi": "सज्जन' शब्द में कौन-सी संधि है?",
+          "opts": [
+            "स्वर संधि",
+            "विसर्ग संधि",
+            "व्यंजन संधि",
+            "अयादि संधि"
+          ],
+          "opts_hi": [
+            "स्वर संधि",
+            "विसर्ग संधि",
+            "व्यंजन संधि",
+            "अयादि संधि"
+          ],
+          "ans": 2,
+          "subject": "General Hindi"
+        },
+        {
+          "sheetId": "1410",
+          "q": "What is the correct meaning of the idiom 'आँखें चुराना'?",
+          "q_hi": "मुहावरे 'आँखें चुराना' का सही अर्थ क्या है?",
+          "opts": [
+            "बहुत प्रसन्न होना",
+            "सामने न आना / नज़र बचाना",
+            "ध्यान से देखना",
+            "क्रोधित होना"
+          ],
+          "opts_hi": [
+            "बहुत प्रसन्न होना",
+            "सामने न आना / नज़र बचाना",
+            "ध्यान से देखना",
+            "क्रोधित होना"
+          ],
+          "ans": 1,
+          "subject": "General Hindi"
+        },
+        {
+          "sheetId": "1411",
+          "q": "What is the correct antonym of the word 'आदान'?",
+          "q_hi": "आदान' शब्द का सही विलोम शब्द कौन-सा है?",
+          "opts": [
+            "ग्रहण",
+            "प्रदान",
+            "संग्रह",
+            "निवेदन"
+          ],
+          "opts_hi": [
+            "ग्रहण",
+            "प्रदान",
+            "संग्रह",
+            "निवेदन"
+          ],
+          "ans": 1,
+          "subject": "General Hindi"
+        },
+        {
+          "sheetId": "1412",
+          "q": "Which type of Samas (compound) is formed in the word 'यथाशक्ति'?",
+          "q_hi": "यथाशक्ति' शब्द में कौन-सा समास है?",
+          "opts": [
+            "तत्पुरुष समास",
+            "द्वंद्व समास",
+            "बहुव्रीहि समास",
+            "अव्ययीभाव समास"
+          ],
+          "opts_hi": [
+            "तत्पुरुष समास",
+            "द्वंद्व समास",
+            "बहुव्रीहि समास",
+            "अव्ययीभाव समास"
+          ],
+          "ans": 3,
+          "subject": "General Hindi"
+        },
+        {
+          "sheetId": "1413",
+          "q": "Identify the correct sentence among the following:",
+          "q_hi": "निम्नलिखित में से शुद्ध वाक्य पहचानिए:",
+          "opts": [
+            "मुझे बहुत प्यास लग रही है।",
+            "मुझको बहुत प्यास लगी है।",
+            "मैंने बहुत प्यास लगी है।",
+            "मुझे बहुत प्यास लगा है।"
+          ],
+          "opts_hi": [
+            "मुझे बहुत प्यास लग रही है।",
+            "मुझको बहुत प्यास लगी है।",
+            "मैंने बहुत प्यास लगी है।",
+            "मुझे बहुत प्यास लगा है।"
+          ],
+          "ans": 0,
+          "subject": "General Hindi"
+        },
+        {
+          "sheetId": "1414",
+          "q": "Choose the word most similar in meaning to 'OBSTINATE'.",
+          "q_hi": "नीचे दिए गए शब्द 'OBSTINATE' के अर्थ के सबसे समान शब्द का चयन करें।",
+          "opts": [
+            "Flexible",
+            "Stubborn",
+            "Timid",
+            "Generous"
+          ],
+          "opts_hi": [
+            "Flexible",
+            "Stubborn",
+            "Timid",
+            "Generous"
+          ],
+          "ans": 1,
+          "subject": "General English"
+        },
+        {
+          "sheetId": "1424",
+          "q": "Which city has been identified as the proposed host for India's bid to host the 2036 Summer Olympics?",
+          "q_hi": "2036 ग्रीष्मकालीन ओलंपिक की मेजबानी के लिए भारत की बोली में किस शहर को प्रस्तावित मेजबान के रूप में चिन्हित किया गया है?",
+          "opts": [
+            "Mumbai",
+            "Ahmedabad",
+            "Bengaluru",
+            "New Delhi"
+          ],
+          "opts_hi": [
+            "मुंबई",
+            "अहमदाबाद",
+            "बेंगलुरु",
+            "नई दिल्ली"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "sheetId": "1425",
+          "q": "Which country became a permanent member of the G20 during India's presidency?",
+          "q_hi": "भारत की अध्यक्षता के दौरान कौन सा देश G20 का स्थायी सदस्य बना?",
+          "opts": [
+            "Brazil",
+            "South Africa",
+            "African Union",
+            "Indonesia"
+          ],
+          "opts_hi": [
+            "ब्राजील",
+            "दक्षिण अफ्रीका",
+            "अफ्रीकी संघ",
+            "इंडोनेशिया"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "sheetId": "1426",
+          "q": "Who is the current Governor of the Reserve Bank of India (as of August 2026)?",
+          "q_hi": "भारतीय रिजर्व बैंक (RBI) के वर्तमान गवर्नर (अगस्त 2026 तक) कौन हैं?",
+          "opts": [
+            "Shaktikanta Das",
+            "Sanjay Malhotra",
+            "Urjit Patel",
+            "Raghuram Rajan"
+          ],
+          "opts_hi": [
+            "शक्तिकांत दास",
+            "संजय मल्होत्रा",
+            "उर्जित पटेल",
+            "रघुराम राजन"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "sheetId": "1427",
+          "q": "NASA invited ISRO to join which space programme in August 2026?",
+          "q_hi": "NASA ने अगस्त 2026 में ISRO को किस अंतरिक्ष कार्यक्रम में शामिल होने के लिए आमंत्रित किया?",
+          "opts": [
+            "SpaceX Dragon Mission",
+            "Moon Base Programme under Artemis Accords",
+            "Mars Sample Return Mission",
+            "International Space Station (ISS)"
+          ],
+          "opts_hi": [
+            "स्पेसएक्स ड्रैगन मिशन",
+            "आर्टेमिस समझौते के तहत चंद्र आधार कार्यक्रम",
+            "मंगल नमूना वापसी मिशन",
+            "अंतर्राष्ट्रीय अंतरिक्ष स्टेशन (ISS)"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "sheetId": "1428",
+          "q": "What was the GDP growth projection for 2026-27 as announced by the RBI Governor in August 2026?",
+          "q_hi": "RBI गवर्नर ने अगस्त 2026 में 2026-27 के लिए GDP वृद्धि अनुमान कितना प्रतिशत घोषित किया?",
+          "opts": [
+            0.065,
+            0.067,
+            0.07,
+            0.072
+          ],
+          "opts_hi": [
+            0.065,
+            0.067,
+            0.07,
+            0.072
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "sheetId": "1429",
+          "q": "Which two Bills were passed by the Lok Sabha in a span of 14 minutes in August 2026?",
+          "q_hi": "अगस्त 2026 में लोकसभा ने 14 मिनट के भीतर कौन से दो विधेयक पारित किए?",
+          "opts": [
+            "Kerala (Alteration of Name) Bill, 2026 and National Co-operative Development Corporation (Amendment) Bill, 2026",
+            "Farm Bills 2026 and GST Amendment Bill 2026",
+            "Women's Reservation Bill 2026 and Education Reform Bill 2026",
+            "Anti-Defection Bill 2026 and Electoral Reform Bill 2026"
+          ],
+          "opts_hi": [
+            "केरल (नाम परिवर्तन) विधेयक, 2026 और राष्ट्रीय सहकारी विकास निगम (संशोधन) विधेयक, 2026",
+            "कृषि विधेयक 2026 और GST संशोधन विधेयक 2026",
+            "महिला आरक्षण विधेयक 2026 और शिक्षा सुधार विधेयक 2026",
+            "दल-बदल विरोधी विधेयक 2026 और चुनाव सुधार विधेयक 2026"
+          ],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "sheetId": "1430",
+          "q": "In August 2026, which country's Prime Minister had a telephonic conversation with PM Modi, reviewing the India-Israel strategic partnership?",
+          "q_hi": "अगस्त 2026 में, किस देश के प्रधान मंत्री की PM मोदी के साथ टेलीफोनिक बातचीत हुई, जिसमें भारत-इज़राइल रणनीतिक साझेदारी की समीक्षा की गई?",
+          "opts": [
+            "USA",
+            "Israel",
+            "UAE",
+            "Russia"
+          ],
+          "opts_hi": [
+            "USA",
+            "इज़राइल",
+            "UAE",
+            "रूस"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "sheetId": "1431",
+          "q": "How many Padma awards were announced for the year 2026?",
+          "q_hi": "वर्ष 2026 के लिए कितने पद्म पुरस्कारों की घोषणा की गई?",
+          "opts": [
+            101,
+            121,
+            131,
+            141
+          ],
+          "opts_hi": [
+            101,
+            121,
+            131,
+            141
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "sheetId": "1432",
+          "q": "In August 2026, India and the US commenced a joint navy exercise in which city?",
+          "q_hi": "अगस्त 2026 में, भारत और US ने किस शहर में संयुक्त नौसेना अभ्यास शुरू किया?",
+          "opts": [
+            "Mumbai",
+            "Kochi",
+            "Visakhapatnam",
+            "Chennai"
+          ],
+          "opts_hi": [
+            "मुंबई",
+            "कोच्चि",
+            "विशाखापत्तनम",
+            "चेन्नई"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "sheetId": "1433",
+          "q": "What was the theme of the New Delhi Leaders' Declaration adopted unanimously under India's G20 presidency?",
+          "q_hi": "भारत की G20 अध्यक्षता के तहत सर्वसम्मति से अपनाई गई नई दिल्ली नेताओं की घोषणा का विषय क्या था?",
+          "opts": [
+            "Viksit Bharat @2047",
+            "One Earth, One Family, One Future",
+            "One Future",
+            "Green Development Pact"
+          ],
+          "opts_hi": [
+            "विकसित भारत @2047",
+            "एक पृथ्वी, एक परिवार, एक भविष्य",
+            "एक भविष्य",
+            "हरित विकास समझौता"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "sheetId": "1434",
+          "q": "Which of the following is NOT a neighbouring country of India?",
+          "q_hi": "निम्नलिखित में से कौन सा भारत का पड़ोसी देश नहीं है?",
+          "opts": [
+            "Nepal",
+            "Bhutan",
+            "Thailand",
+            "Myanmar"
+          ],
+          "opts_hi": [
+            "नेपाल",
+            "भूटान",
+            "थाईलैंड",
+            "म्यांमार"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "sheetId": "1435",
+          "q": "As per the NIRF Rankings 2025, which institution was ranked as India's best research institute?",
+          "q_hi": "NIRF Rankings 2025 के अनुसार, किस संस्थान को भारत का सर्वश्रेष्ठ अनुसंधान संस्थान चुना गया?",
+          "opts": [
+            "IIT Madras",
+            "IIT Delhi",
+            "Indian Institute of Science (IISc), Bengaluru",
+            "AIIMS Delhi"
+          ],
+          "opts_hi": [
+            "आईआईटी मद्रास",
+            "आईआईटी दिल्ली",
+            "भारतीय विज्ञान संस्थान (IISc), बेंगलुरु",
+            "एम्स दिल्ली"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "sheetId": "1436",
+          "q": "The Repealing and Amending Bill, 2025, passed by the Indian Parliament, repeals how many Acts?",
+          "q_hi": "भारतीय संसद द्वारा पारित रिपीलिंग एंड अमेंडिंग बिल, 2025, कितने अधिनियमों को निरस्त करता है?",
+          "opts": [
+            51,
+            61,
+            71,
+            81
+          ],
+          "opts_hi": [
+            51,
+            61,
+            71,
+            81
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "sheetId": "1437",
+          "q": "National Technology Day is observed in India on which date?",
+          "q_hi": "राष्ट्रीय प्रौद्योगिकी दिवस भारत में किस तारीख को मनाया जाता है?",
+          "opts": [
+            "2026-05-01T00:00:00.000Z",
+            "2026-05-11T00:00:00.000Z",
+            "2026-05-21T00:00:00.000Z",
+            "2026-05-31T00:00:00.000Z"
+          ],
+          "opts_hi": [
+            "1 मई",
+            "11 मई",
+            "21 मई",
+            "31 मई"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "sheetId": "1438",
+          "q": "The headquarters of the World Health Organization (WHO) is located in which city?",
+          "q_hi": "विश्व स्वास्थ्य संगठन (WHO) का मुख्यालय किस शहर में स्थित है?",
+          "opts": [
+            "New York, USA",
+            "Washington D.C., USA",
+            "Geneva, Switzerland",
+            "London, UK"
+          ],
+          "opts_hi": [
+            "न्यूयॉर्क, अमेरिका",
+            "वाशिंगटन डी.सी., अमेरिका",
+            "जिनेवा, स्विट्जरलैंड",
+            "लंदन, यूके"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "sheetId": "1439",
+          "q": "In September 2025, which region of Himachal Pradesh was officially inscribed as India's first high-altitude Cold Desert Biosphere Reserve in UNESCO's World Network of Biosphere Reserves?",
+          "q_hi": "सितंबर 2025 में, हिमाचल प्रदेश के किस क्षेत्र को यूनेस्को की विश्व बायोस्फीयर रिजर्व नेटवर्क में भारत के पहले उच्च-ऊँचाई कोल्ड डेजर्ट बायोस्फीयर रिजर्व के रूप में आधिकारिक रूप से शामिल किया गया?",
+          "opts": [
+            "Ladakh",
+            "Spiti Valley",
+            "Kinnaur",
+            "Manali"
+          ],
+          "opts_hi": [
+            "लद्दाख",
+            "स्पीति घाटी",
+            "किन्नौर",
+            "मनाली"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "sheetId": "1440",
+          "q": "What was the theme of the Uttar Pradesh tableau that won first prize among States/UTs at the Republic Day Parade 2025?",
+          "q_hi": "गणतंत्र दिवस परेड 2025 में राज्यों/केंद्र शासित प्रदेशों में प्रथम पुरस्कार जीतने वाले उत्तर प्रदेश के झांकी का विषय क्या था?",
+          "opts": [
+            "Heritage of Ayodhya — The Divine Legacy",
+            "Viksit Bharat @2047",
+            "Incredible India — Unity in Diversity",
+            "Mahakumbh 2025 — Swarnim Bharat: Virasa aur Vikas"
+          ],
+          "opts_hi": [
+            "अयोध्या की विरासत — द डिवाइन लेगसी",
+            "विकसित भारत @2047",
+            "इनक्रेडिबल इंडिया — यूनिटी इन डायवर्सिटी",
+            "महाकुंभ 2025 — स्वर्णिम भारत: विरासा और विकास"
+          ],
+          "ans": 3,
+          "subject": "General Awareness"
+        },
+        {
+          "sheetId": "1441",
+          "q": "India hosted the World Para Athletics Championships for the first time in 2025. In which city was this event held?",
+          "q_hi": "भारत ने 2025 में पहली बार विश्व पैरा एथलेटिक्स चैंपियनशिप की मेजबानी की। यह आयोजन किस शहर में हुआ था?",
+          "opts": [
+            "Mumbai",
+            "Bengaluru",
+            "New Delhi",
+            "Chennai"
+          ],
+          "opts_hi": [
+            "मुंबई",
+            "बेंगलुरु",
+            "नई दिल्ली",
+            "चेन्नई"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "sheetId": "1442",
+          "q": "Who among the following was awarded the Sahitya Akademi Award 2025 for the English novel \"Crimson Spring\"?",
+          "q_hi": "निम्नलिखित में से किसे अंग्रेजी उपन्यास \"Crimson Spring\" के लिए साहित्य अकादमी पुरस्कार 2025 प्रदान किया गया?",
+          "opts": [
+            "Mamta Kalia",
+            "Navtej Sarna",
+            "Prasun Bandyopadhyay",
+            "Jinder"
+          ],
+          "opts_hi": [
+            "ममता कालिया",
+            "नवतेज सरना",
+            "प्रसून बंद्योपाध्याय",
+            "जिंदर"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "sheetId": "1443",
+          "q": "According to the India Meteorological Department (IMD), 2025 was India's __________ warmest year on record.",
+          "q_hi": "भारत मौसम विज्ञान विभाग (IMD) के अनुसार, 2025 भारत का रिकॉर्ड पर __________ सबसे गर्म वर्ष था।",
+          "opts": [
+            "fifth",
+            "sixth",
+            "seventh",
+            "eighth"
+          ],
+          "opts_hi": [
+            "पाँचवाँ",
+            "छठा",
+            "सातवाँ",
+            "आठवाँ"
+          ],
+          "ans": 3,
+          "subject": "General Awareness"
+        },
+        {
+          "sheetId": "1444",
+          "q": "Read the following passage carefully and answer the question that follows: The Harappan civilization, also known as the Indus Valley civilization, flourished around 2500 BCE in the northwestern regions of South Asia. It was one of the world's earliest urban civilizations, along with Egypt and Mesopotamia. The cities of Harappa and Mohenjo-Daro were well-planned with grid patterns, advanced drainage systems, and standardized burnt brick buildings. The civilization declined around 1900 BCE due to climate change and the drying up of the Saraswati River. Question: Which of the following was NOT a feature of the Harappan civilization?",
+          "q_hi": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़ें और उस पर आधारित प्रश्न का उत्तर दें: हड़प्पा सभ्यता, जिसे सिंधु घाटी सभ्यता भी कहा जाता है, लगभग 2500 ईसा पूर्व में दक्षिण एशिया के उत्तर-पश्चिमी क्षेत्रों में फली-फूली। यह मिस्र और मेसोपोटामिया के साथ विश्व की प्रारंभिक शहरी सभ्यताओं में से एक थी। हड़प्पा और मोहनजोदड़ो के शहर ग्रिड पैटर्न, उन्नत जल निकासी प्रणाली और मानकीकृत पकी ईंटों की इमारतों के साथ सुनियोजित थे। लगभग 1900 ईसा पूर्व में जलवायु परिवर्तन और सरस्वती नदी के सूखने के कारण इस सभ्यता का पतन हो गया। प्रश्न: निम्नलिखित में से कौन हड़प्पा सभ्यता की विशेषता नहीं थी?",
+          "opts": [
+            "Well-planned grid patterns",
+            "Advanced drainage systems",
+            "Use of iron tools",
+            "Standardized burnt brick buildings"
+          ],
+          "opts_hi": [
+            "सुनियोजित ग्रिड पैटर्न",
+            "उन्नत जल निकासी प्रणाली",
+            "लौह औजारों का उपयोग",
+            "मानकीकृत पकी ईंटों की इमारतें"
+          ],
+          "ans": 2,
+          "subject": "Hindi Language"
+        },
+        {
+          "sheetId": "1445",
+          "q": "Read the following passage carefully and answer the question that follows: The Harappan civilization, also known as the Indus Valley civilization, flourished around 2500 BCE in the northwestern regions of South Asia. It was one of the world's earliest urban civilizations, along with Egypt and Mesopotamia. The cities of Harappa and Mohenjo-Daro were well-planned with grid patterns, advanced drainage systems, and standardized burnt brick buildings. The civilization declined around 1900 BCE due to climate change and the drying up of the Saraswati River. Question: What was the main reason for the decline of the Harappan civilization?",
+          "q_hi": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़ें और उस पर आधारित प्रश्न का उत्तर दें: हड़प्पा सभ्यता, जिसे सिंधु घाटी सभ्यता भी कहा जाता है, लगभग 2500 ईसा पूर्व में दक्षिण एशिया के उत्तर-पश्चिमी क्षेत्रों में फली-फूली। यह मिस्र और मेसोपोटामिया के साथ विश्व की प्रारंभिक शहरी सभ्यताओं में से एक थी। हड़प्पा और मोहनजोदड़ो के शहर ग्रिड पैटर्न, उन्नत जल निकासी प्रणाली और मानकीकृत पकी ईंटों की इमारतों के साथ सुनियोजित थे। लगभग 1900 ईसा पूर्व में जलवायु परिवर्तन और सरस्वती नदी के सूखने के कारण इस सभ्यता का पतन हो गया। प्रश्न: हड़प्पा सभ्यता के पतन का मुख्य कारण क्या था?",
+          "opts": [
+            "Invasion by Aryans",
+            "Climate change and drying up of the Saraswati River",
+            "Earthquake",
+            "Flood"
+          ],
+          "opts_hi": [
+            "आर्यों का आक्रमण",
+            "जलवायु परिवर्तन और सरस्वती नदी का सूखना",
+            "भूकंप",
+            "बाढ़"
+          ],
+          "ans": 1,
+          "subject": "Hindi Language"
+        },
+        {
+          "sheetId": "1446",
+          "q": "Read the following passage carefully and answer the question that follows: The Indian National Congress was founded in 1885 by Allan Octavian Hume, a retired British civil servant, along with prominent Indian leaders. The first session was held in Bombay under the presidency of Womesh Chunder Bonnerjee. The early Congress aimed to present Indian grievances to the British government through constitutional means. However, by the 1920s, under the leadership of Mahatma Gandhi, the Congress adopted a more militant approach, launching non-cooperation and civil disobedience movements. Question: Who was the first President of the Indian National Congress?",
+          "q_hi": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़ें और उस पर आधारित प्रश्न का उत्तर दें: भारतीय राष्ट्रीय कांग्रेस की स्थापना 1885 में एक सेवानिवृत्त ब्रिटिश सिविल सेवक एलन ऑक्टेवियन ह्यूम और प्रमुख भारतीय नेताओं द्वारा की गई थी। पहला अधिवेशन बॉम्बे में वोमेश चंद्र बोनर्जी की अध्यक्षता में आयोजित हुआ था। प्रारंभिक कांग्रेस का उद्देश्य संवैधानिक माध्यमों से ब्रिटिश सरकार के समक्ष भारतीय शिकायतों को प्रस्तुत करना था। हालाँकि, 1920 के दशक तक, महात्मा गांधी के नेतृत्व में, कांग्रेस ने असहयोग और सविनय अवज्ञा आंदोलन शुरू करते हुए अधिक उग्र दृष्टिकोण अपनाया। प्रश्न: भारतीय राष्ट्रीय कांग्रेस के पहले अध्यक्ष कौन थे?",
+          "opts": [
+            "Allan Octavian Hume",
+            "Womesh Chunder Bonnerjee",
+            "Mahatma Gandhi",
+            "Dadabhai Naoroji"
+          ],
+          "opts_hi": [
+            "एलन ऑक्टेवियन ह्यूम",
+            "वोमेश चंद्र बोनर्जी",
+            "महात्मा गांधी",
+            "दादाभाई नौरोजी"
+          ],
+          "ans": 1,
+          "subject": "Hindi Language"
+        },
+        {
+          "sheetId": "1447",
+          "q": "Read the following passage carefully and answer the question that follows: The Indian National Congress was founded in 1885 by Allan Octavian Hume, a retired British civil servant, along with prominent Indian leaders. The first session was held in Bombay under the presidency of Womesh Chunder Bonnerjee. The early Congress aimed to present Indian grievances to the British government through constitutional means. However, by the 1920s, under the leadership of Mahatma Gandhi, the Congress adopted a more militant approach, launching non-cooperation and civil disobedience movements. Question: What was the initial aim of the Indian National Congress?",
+          "q_hi": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़ें और उस पर आधारित प्रश्न का उत्तर दें: भारतीय राष्ट्रीय कांग्रेस की स्थापना 1885 में एक सेवानिवृत्त ब्रिटिश सिविल सेवक एलन ऑक्टेवियन ह्यूम और प्रमुख भारतीय नेताओं द्वारा की गई थी। पहला अधिवेशन बॉम्बे में वोमेश चंद्र बोनर्जी की अध्यक्षता में आयोजित हुआ था। प्रारंभिक कांग्रेस का उद्देश्य संवैधानिक माध्यमों से ब्रिटिश सरकार के समक्ष भारतीय शिकायतों को प्रस्तुत करना था। हालाँकि, 1920 के दशक तक, महात्मा गांधी के नेतृत्व में, कांग्रेस ने असहयोग और सविनय अवज्ञा आंदोलन शुरू करते हुए अधिक उग्र दृष्टिकोण अपनाया। प्रश्न: भारतीय राष्ट्रीय कांग्रेस का प्रारंभिक उद्देश्य क्या था?",
+          "opts": [
+            "To demand complete independence",
+            "To present Indian grievances through constitutional means",
+            "To launch violent protests",
+            "To overthrow the British government"
+          ],
+          "opts_hi": [
+            "पूर्ण स्वतंत्रता की मांग करना",
+            "संवैधानिक माध्यमों से भारतीय शिकायतों को प्रस्तुत करना",
+            "हिंसक विरोध प्रदर्शन शुरू करना",
+            "ब्रिटिश सरकार को उखाड़ फेंकना"
+          ],
+          "ans": 1,
+          "subject": "Hindi Language"
+        },
+        {
+          "sheetId": "1448",
+          "q": "Read the following passage carefully and answer the question that follows: The concept of sustainable development aims to meet the needs of the present without compromising the ability of future generations to meet their own needs. It balances economic growth, social inclusion, and environmental protection. The United Nations adopted the Sustainable Development Goals (SDGs) in 2015, which include 17 goals to be achieved by 2030. These goals address issues like poverty, inequality, climate change, and clean energy. Question: When were the Sustainable Development Goals (SDGs) adopted by the United Nations?",
+          "q_hi": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़ें और उस पर आधारित प्रश्न का उत्तर दें: सतत विकास की अवधारणा का उद्देश्य वर्तमान की आवश्यकताओं को पूरा करना है, बिना भविष्य की पीढ़ियों की अपनी आवश्यकताओं को पूरा करने की क्षमता से समझौता किए। यह आर्थिक विकास, सामाजिक समावेशन और पर्यावरण संरक्षण को संतुलित करता है। संयुक्त राष्ट्र ने 2015 में सतत विकास लक्ष्य (SDGs) को अपनाया, जिसमें 2030 तक प्राप्त किए जाने वाले 17 लक्ष्य शामिल हैं। ये लक्ष्य गरीबी, असमानता, जलवायु परिवर्तन और स्वच्छ ऊर्जा जैसे मुद्दों को संबोधित करते हैं। प्रश्न: सतत विकास लक्ष्य (SDGs) को संयुक्त राष्ट्र द्वारा कब अपनाया गया था?",
+          "opts": [
+            2000,
+            2005,
+            2010,
+            2015
+          ],
+          "opts_hi": [
+            2000,
+            2005,
+            2010,
+            2015
+          ],
+          "ans": 3,
+          "subject": "Hindi Language"
+        },
+        {
+          "sheetId": "1449",
+          "q": "Read the following passage carefully and answer the question that follows: The concept of sustainable development aims to meet the needs of the present without compromising the ability of future generations to meet their own needs. It balances economic growth, social inclusion, and environmental protection. The United Nations adopted the Sustainable Development Goals (SDGs) in 2015, which include 17 goals to be achieved by 2030. These goals address issues like poverty, inequality, climate change, and clean energy. Question: How many Sustainable Development Goals (SDGs) were adopted by the United Nations?",
+          "q_hi": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़ें और उस पर आधारित प्रश्न का उत्तर दें: सतत विकास की अवधारणा का उद्देश्य वर्तमान की आवश्यकताओं को पूरा करना है, बिना भविष्य की पीढ़ियों की अपनी आवश्यकताओं को पूरा करने की क्षमता से समझौता किए। यह आर्थिक विकास, सामाजिक समावेशन और पर्यावरण संरक्षण को संतुलित करता है। संयुक्त राष्ट्र ने 2015 में सतत विकास लक्ष्य (SDGs) को अपनाया, जिसमें 2030 तक प्राप्त किए जाने वाले 17 लक्ष्य शामिल हैं। ये लक्ष्य गरीबी, असमानता, जलवायु परिवर्तन और स्वच्छ ऊर्जा जैसे मुद्दों को संबोधित करते हैं। प्रश्न: संयुक्त राष्ट्र द्वारा कितने सतत विकास लक्ष्य (SDGs) अपनाए गए?",
+          "opts": [
+            10,
+            12,
+            15,
+            17
+          ],
+          "opts_hi": [
+            10,
+            12,
+            15,
+            17
+          ],
+          "ans": 3,
+          "subject": "Hindi Language"
+        },
+        {
+          "sheetId": "1450",
+          "q": "Read the following passage carefully and answer the question that follows: The Indian Constitution, adopted on 26 January 1950, is the supreme law of India. It establishes a sovereign, socialist, secular, democratic republic. The Constitution provides for a parliamentary system of government with a bicameral legislature. Fundamental Rights are guaranteed to all citizens, while Directive Principles of State Policy guide the government in making laws. The Constitution also provides for an independent judiciary with the Supreme Court as the highest court of appeal. Question: When was the Indian Constitution adopted?",
+          "q_hi": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़ें और उस पर आधारित प्रश्न का उत्तर दें: भारतीय संविधान, जो 26 जनवरी 1950 को लागू हुआ, भारत का सर्वोच्च कानून है। यह एक संप्रभु, समाजवादी, धर्मनिरपेक्ष, लोकतांत्रिक गणराज्य की स्थापना करता है। संविधान द्विसदनीय विधायिका के साथ संसदीय शासन प्रणाली का प्रावधान करता है। सभी नागरिकों को मौलिक अधिकारों की गारंटी दी जाती है, जबकि राज्य के नीति निर्देशक सिद्धांत सरकार को कानून बनाने में मार्गदर्शन करते हैं। संविधान एक स्वतंत्र न्यायपालिका का भी प्रावधान करता है, जिसमें सर्वोच्च न्यायालय अपील की सर्वोच्च अदालत है। प्रश्न: भारतीय संविधान कब लागू हुआ?",
+          "opts": [
+            "1949-01-26T00:00:00.000Z",
+            "1950-01-26T00:00:00.000Z",
+            "1947-08-15T00:00:00.000Z",
+            "1950-10-02T00:00:00.000Z"
+          ],
+          "opts_hi": [
+            "26 जनवरी 1949",
+            "26 जनवरी 1950",
+            "15 अगस्त 1947",
+            "2 अक्टूबर 1950"
+          ],
+          "ans": 1,
+          "subject": "Hindi Language"
+        },
+        {
+          "sheetId": "1451",
+          "q": "Read the following passage carefully and answer the question that follows: The Indian Constitution, adopted on 26 January 1950, is the supreme law of India. It establishes a sovereign, socialist, secular, democratic republic. The Constitution provides for a parliamentary system of government with a bicameral legislature. Fundamental Rights are guaranteed to all citizens, while Directive Principles of State Policy guide the government in making laws. The Constitution also provides for an independent judiciary with the Supreme Court as the highest court of appeal. Question: Which of the following is NOT a feature of the Indian Constitution according to the passage?",
+          "q_hi": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़ें और उस पर आधारित प्रश्न का उत्तर दें: भारतीय संविधान, जो 26 जनवरी 1950 को लागू हुआ, भारत का सर्वोच्च कानून है। यह एक संप्रभु, समाजवादी, धर्मनिरपेक्ष, लोकतांत्रिक गणराज्य की स्थापना करता है। संविधान द्विसदनीय विधायिका के साथ संसदीय शासन प्रणाली का प्रावधान करता है। सभी नागरिकों को मौलिक अधिकारों की गारंटी दी जाती है, जबकि राज्य के नीति निर्देशक सिद्धांत सरकार को कानून बनाने में मार्गदर्शन करते हैं। संविधान एक स्वतंत्र न्यायपालिका का भी प्रावधान करता है, जिसमें सर्वोच्च न्यायालय अपील की सर्वोच्च अदालत है। प्रश्न: गद्यांश के अनुसार निम्नलिखित में से कौन भारतीय संविधान की विशेषता नहीं है?",
+          "opts": [
+            "Sovereign, socialist, secular, democratic republic",
+            "Parliamentary system with bicameral legislature",
+            "Fundamental Rights guaranteed to all citizens",
+            "Presidential system of government"
+          ],
+          "opts_hi": [
+            "संप्रभु, समाजवादी, धर्मनिरपेक्ष, लोकतांत्रिक गणराज्य",
+            "द्विसदनीय विधायिका के साथ संसदीय प्रणाली",
+            "सभी नागरिकों को मौलिक अधिकारों की गारंटी",
+            "राष्ट्रपति शासन प्रणाली"
+          ],
+          "ans": 3,
+          "subject": "Hindi Language"
+        },
+        {
+          "sheetId": "1452",
+          "q": "Read the following passage carefully and answer the question that follows: The Indian Space Research Organisation (ISRO) was established in 1969 to develop India's space program. Its primary objectives include designing and launching satellites for communication, weather forecasting, and navigation. Notable achievements include the Chandrayaan-1 mission, which discovered water on the Moon, the Mars Orbiter Mission (MOM) in 2014, making India the first Asian nation to reach Mars orbit, and the Chandrayaan-3 mission, which successfully landed on the Moon's south pole in 2023. Question: In which year was ISRO established?",
+          "q_hi": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़ें और उस पर आधारित प्रश्न का उत्तर दें: भारतीय अंतरिक्ष अनुसंधान संगठन (ISRO) की स्थापना 1969 में भारत के अंतरिक्ष कार्यक्रम को विकसित करने के लिए की गई थी। इसके प्राथमिक उद्देश्यों में संचार, मौसम पूर्वानुमान और नेविगेशन के लिए उपग्रहों का डिजाइन और प्रक्षेपण शामिल है। उल्लेखनीय उपलब्धियों में चंद्रयान-1 मिशन शामिल है, जिसने चंद्रमा पर जल की खोज की, 2014 में मंगल ऑर्बिटर मिशन (MOM), जिसने भारत को मंगल की कक्षा तक पहुंचने वाला पहला एशियाई देश बनाया, और चंद्रयान-3 मिशन, जो 2023 में चंद्रमा के दक्षिणी ध्रुव पर सफलतापूर्वक उतरा। प्रश्न: ISRO की स्थापना किस वर्ष हुई थी?",
+          "opts": [
+            1962,
+            1965,
+            1969,
+            1972
+          ],
+          "opts_hi": [
+            1962,
+            1965,
+            1969,
+            1972
+          ],
+          "ans": 2,
+          "subject": "Hindi Language"
+        },
+        {
+          "sheetId": "1453",
+          "q": "Read the following passage carefully and answer the question that follows: The Indian Space Research Organisation (ISRO) was established in 1969 to develop India's space program. Its primary objectives include designing and launching satellites for communication, weather forecasting, and navigation. Notable achievements include the Chandrayaan-1 mission, which discovered water on the Moon, the Mars Orbiter Mission (MOM) in 2014, making India the first Asian nation to reach Mars orbit, and the Chandrayaan-3 mission, which successfully landed on the Moon's south pole in 2023. Question: Which ISRO mission discovered water on the Moon?",
+          "q_hi": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़ें और उस पर आधारित प्रश्न का उत्तर दें: भारतीय अंतरिक्ष अनुसंधान संगठन (ISRO) की स्थापना 1969 में भारत के अंतरिक्ष कार्यक्रम को विकसित करने के लिए की गई थी। इसके प्राथमिक उद्देश्यों में संचार, मौसम पूर्वानुमान और नेविगेशन के लिए उपग्रहों का डिजाइन और प्रक्षेपण शामिल है। उल्लेखनीय उपलब्धियों में चंद्रयान-1 मिशन शामिल है, जिसने चंद्रमा पर जल की खोज की, 2014 में मंगल ऑर्बिटर मिशन (MOM), जिसने भारत को मंगल की कक्षा तक पहुंचने वाला पहला एशियाई देश बनाया, और चंद्रयान-3 मिशन, जो 2023 में चंद्रमा के दक्षिणी ध्रुव पर सफलतापूर्वक उतरा। प्रश्न: किस ISRO मिशन ने चंद्रमा पर पानी की खोज की?",
+          "opts": [
+            "Chandrayaan-2",
+            "Mars Orbiter Mission (MOM)",
+            "Chandrayaan-1",
+            "Chandrayaan-3"
+          ],
+          "opts_hi": [
+            "चंद्रयान-2",
+            "मंगल ऑर्बिटर मिशन (MOM)",
+            "चंद्रयान-1",
+            "चंद्रयान-3"
+          ],
+          "ans": 2,
+          "subject": "Hindi Language"
+        },
+        {
+          "sheetId": "1454",
+          "q": "If the total subscription is ₹45,000 crore, what is the amount for Insurance?",
+          "q_hi": "यदि कुल सदस्यता ₹45,000 करोड़ है, तो Insurance की राशि क्या है?",
+          "opts": [
+            "₹4,500 crore",
+            "₹6,750 crore",
+            "₹0 crore",
+            "₹2,250 crore"
+          ],
+          "opts_hi": [
+            "₹4,500 करोड़",
+            "₹6,750 करोड़",
+            "₹0 करोड़",
+            "₹2,250 करोड़"
+          ],
+          "ans": 3,
+          "subject": "Data Interpretation"
+        },
+        {
+          "sheetId": "1455",
+          "q": "If the total subscription is ₹45,000 crore, what is the combined amount for Insurance and Companies?",
+          "q_hi": "यदि कुल सदस्यता ₹45,000 करोड़ है, तो Insurance और Companies की संयुक्त राशि क्या है?",
+          "opts": [
+            "₹4,500 crore",
+            "₹9,000 crore",
+            "₹2,250 crore",
+            "₹6,750 crore"
+          ],
+          "opts_hi": [
+            "₹4,500 करोड़",
+            "₹9,000 करोड़",
+            "₹2,250 करोड़",
+            "₹6,750 करोड़"
+          ],
+          "ans": 0,
+          "subject": "Data Interpretation"
+        },
+        {
+          "sheetId": "1456",
+          "q": "What is the difference in amount between FII and Pension Funds (in crores) if total is ₹45,000 crore?",
+          "q_hi": "यदि कुल ₹45,000 करोड़ है, तो FII और Pension Funds की राशियों में क्या अंतर है (करोड़ में)?",
+          "opts": [
+            "₹17,100 crore",
+            "₹19,350 crore",
+            "₹14,850 crore",
+            "₹12,600 crore"
+          ],
+          "opts_hi": [
+            "₹17,100 करोड़",
+            "₹19,350 करोड़",
+            "₹14,850 करोड़",
+            "₹12,600 करोड़"
+          ],
+          "ans": 2,
+          "subject": "Data Interpretation"
+        },
+        {
+          "sheetId": "1457",
+          "q": "If the total subscription is ₹45,000 crore, what is the amount for the sector with the highest percentage (Pension Funds)?",
+          "q_hi": "यदि कुल सदस्यता ₹45,000 करोड़ है, तो सबसे अधिक प्रतिशत वाले क्षेत्र (Pension Funds) की राशि क्या है?",
+          "opts": [
+            "₹19,350 crore",
+            "₹21,600 crore",
+            "₹17,100 crore",
+            "₹14,850 crore"
+          ],
+          "opts_hi": [
+            "₹19,350 करोड़",
+            "₹21,600 करोड़",
+            "₹17,100 करोड़",
+            "₹14,850 करोड़"
+          ],
+          "ans": 2,
+          "subject": "Data Interpretation"
+        },
+        {
+          "sheetId": "1458",
+          "q": "If the total subscription is ₹45,000 crore, what is the amount for the sector with the lowest percentage (Insurance)?",
+          "q_hi": "यदि कुल सदस्यता ₹45,000 करोड़ है, तो सबसे कम प्रतिशत वाले क्षेत्र (Insurance) की राशि क्या है?",
+          "opts": [
+            "₹4,500 crore",
+            "₹2,250 crore",
+            "₹6,750 crore",
+            "₹0 crore"
+          ],
+          "opts_hi": [
+            "₹4,500 करोड़",
+            "₹2,250 करोड़",
+            "₹6,750 करोड़",
+            "₹0 करोड़"
+          ],
+          "ans": 1,
+          "subject": "Data Interpretation"
+        },
+        {
+          "sheetId": "1459",
+          "q": "If the total subscription is ₹35,000 crore, what is the amount for FII?",
+          "q_hi": "यदि कुल सदस्यता ₹35,000 करोड़ है, तो FII की राशि क्या है?",
+          "opts": [
+            "₹3,500 crore",
+            "₹5,250 crore",
+            "₹0 crore",
+            "₹1,750 crore"
+          ],
+          "opts_hi": [
+            "₹3,500 करोड़",
+            "₹5,250 करोड़",
+            "₹0 करोड़",
+            "₹1,750 करोड़"
+          ],
+          "ans": 3,
+          "subject": "Data Interpretation"
+        },
+        {
+          "sheetId": "1460",
+          "q": "If the total subscription is ₹35,000 crore, what is the combined amount for FII and Banks?",
+          "q_hi": "यदि कुल सदस्यता ₹35,000 करोड़ है, तो FII और Banks की संयुक्त राशि क्या है?",
+          "opts": [
+            "₹7,350 crore",
+            "₹2,100 crore",
+            "₹5,600 crore",
+            "₹3,850 crore"
+          ],
+          "opts_hi": [
+            "₹7,350 करोड़",
+            "₹2,100 करोड़",
+            "₹5,600 करोड़",
+            "₹3,850 करोड़"
+          ],
+          "ans": 3,
+          "subject": "Data Interpretation"
+        },
+        {
+          "sheetId": "1461",
+          "q": "What is the difference in amount between Insurance and Retail (in crores) if total is ₹35,000 crore?",
+          "q_hi": "यदि कुल ₹35,000 करोड़ है, तो Insurance और Retail की राशियों में क्या अंतर है (करोड़ में)?",
+          "opts": [
+            "₹-1,050 crore",
+            "₹2,450 crore",
+            "₹4,200 crore",
+            "₹700 crore"
+          ],
+          "opts_hi": [
+            "₹-1,050 करोड़",
+            "₹2,450 करोड़",
+            "₹4,200 करोड़",
+            "₹700 करोड़"
+          ],
+          "ans": 3,
+          "subject": "Data Interpretation"
+        },
+        {
+          "sheetId": "1462",
+          "q": "If the total subscription is ₹35,000 crore, what is the amount for the sector with the highest percentage (Companies)?",
+          "q_hi": "यदि कुल सदस्यता ₹35,000 करोड़ है, तो सबसे अधिक प्रतिशत वाले क्षेत्र (Companies) की राशि क्या है?",
+          "opts": [
+            "₹23,450 crore",
+            "₹26,950 crore",
+            "₹25,200 crore",
+            "₹21,700 crore"
+          ],
+          "opts_hi": [
+            "₹23,450 करोड़",
+            "₹26,950 करोड़",
+            "₹25,200 करोड़",
+            "₹21,700 करोड़"
+          ],
+          "ans": 0,
+          "subject": "Data Interpretation"
+        },
+        {
+          "sheetId": "1463",
+          "q": "If the total subscription is ₹35,000 crore, what is the amount for the sector with the lowest percentage (FII)?",
+          "q_hi": "यदि कुल सदस्यता ₹35,000 करोड़ है, तो सबसे कम प्रतिशत वाले क्षेत्र (FII) की राशि क्या है?",
+          "opts": [
+            "₹5,250 crore",
+            "₹1,750 crore",
+            "₹0 crore",
+            "₹3,500 crore"
+          ],
+          "opts_hi": [
+            "₹5,250 करोड़",
+            "₹1,750 करोड़",
+            "₹0 करोड़",
+            "₹3,500 करोड़"
+          ],
+          "ans": 1,
+          "subject": "Data Interpretation"
+        },
+        {
+          "sheetId": "1464",
+          "q": "If the total subscription is ₹30,000 crore, what is the amount for Retail?",
+          "q_hi": "यदि कुल सदस्यता ₹30,000 करोड़ है, तो Retail की राशि क्या है?",
+          "opts": [
+            "₹3,000 crore",
+            "₹1,500 crore",
+            "₹4,500 crore",
+            "₹0 crore"
+          ],
+          "opts_hi": [
+            "₹3,000 करोड़",
+            "₹1,500 करोड़",
+            "₹4,500 करोड़",
+            "₹0 करोड़"
+          ],
+          "ans": 1,
+          "subject": "Data Interpretation"
+        },
+        {
+          "sheetId": "1465",
+          "q": "If the total subscription is ₹30,000 crore, what is the combined amount for Retail and Insurance?",
+          "q_hi": "यदि कुल सदस्यता ₹30,000 करोड़ है, तो Retail और Insurance की संयुक्त राशि क्या है?",
+          "opts": [
+            "₹7,200 crore",
+            "₹8,700 crore",
+            "₹11,700 crore",
+            "₹10,200 crore"
+          ],
+          "opts_hi": [
+            "₹7,200 करोड़",
+            "₹8,700 करोड़",
+            "₹11,700 करोड़",
+            "₹10,200 करोड़"
+          ],
+          "ans": 1,
+          "subject": "Data Interpretation"
+        },
+        {
+          "sheetId": "1466",
+          "q": "What is the difference in amount between Mutual Funds and NRI (in crores) if total is ₹30,000 crore?",
+          "q_hi": "यदि कुल ₹30,000 करोड़ है, तो Mutual Funds और NRI की राशियों में क्या अंतर है (करोड़ में)?",
+          "opts": [
+            "₹15,000 crore",
+            "₹13,500 crore",
+            "₹16,500 crore",
+            "₹12,000 crore"
+          ],
+          "opts_hi": [
+            "₹15,000 करोड़",
+            "₹13,500 करोड़",
+            "₹16,500 करोड़",
+            "₹12,000 करोड़"
+          ],
+          "ans": 1,
+          "subject": "Data Interpretation"
+        },
+        {
+          "sheetId": "1467",
+          "q": "If the total subscription is ₹30,000 crore, what is the amount for the sector with the highest percentage (Mutual Funds)?",
+          "q_hi": "यदि कुल सदस्यता ₹30,000 करोड़ है, तो सबसे अधिक प्रतिशत वाले क्षेत्र (Mutual Funds) की राशि क्या है?",
+          "opts": [
+            "₹18,000 crore",
+            "₹15,000 crore",
+            "₹13,500 crore",
+            "₹16,500 crore"
+          ],
+          "opts_hi": [
+            "₹18,000 करोड़",
+            "₹15,000 करोड़",
+            "₹13,500 करोड़",
+            "₹16,500 करोड़"
+          ],
+          "ans": 1,
+          "subject": "Data Interpretation"
+        },
+        {
+          "sheetId": "1468",
+          "q": "If the total subscription is ₹30,000 crore, what is the amount for the sector with the lowest percentage (NRI)?",
+          "q_hi": "यदि कुल सदस्यता ₹30,000 करोड़ है, तो सबसे कम प्रतिशत वाले क्षेत्र (NRI) की राशि क्या है?",
+          "opts": [
+            "₹3,000 crore",
+            "₹4,500 crore",
+            "₹1,500 crore",
+            "₹0 crore"
+          ],
+          "opts_hi": [
+            "₹3,000 करोड़",
+            "₹4,500 करोड़",
+            "₹1,500 करोड़",
+            "₹0 करोड़"
+          ],
+          "ans": 2,
+          "subject": "Data Interpretation"
+        }
+      ]
     }
   ]
 }
