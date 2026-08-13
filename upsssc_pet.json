@@ -8396,6 +8396,63 @@
           "subject": "History"
         },
         {
+          "sheetId": "1406",
+          "q": "Which is the oldest Veda among the four Vedas?",
+          "q_hi": "चारों वेदों में सबसे प्राचीन वेद कौन सा है?",
+          "opts": [
+            "Samaveda",
+            "Rigveda",
+            "Yajurveda",
+            "Atharvaveda"
+          ],
+          "opts_hi": [
+            "सामवेद",
+            "ऋग्वेद",
+            "यजुर्वेद",
+            "अथर्ववेद"
+          ],
+          "ans": 1,
+          "subject": "History"
+        },
+        {
+          "sheetId": "1407",
+          "q": "Which Gupta ruler is known as the ‘Napoleon of India’?",
+          "q_hi": "किस गुप्त शासक को ‘भारत का नेपोलियन’ कहा जाता है?",
+          "opts": [
+            "Chandragupta I",
+            "Samudragupta",
+            "Chandragupta II",
+            "Skandagupta"
+          ],
+          "opts_hi": [
+            "चंद्रगुप्त प्रथम",
+            "समुद्रगुप्त",
+            "चंद्रगुप्त द्वितीय",
+            "स्कंदगुप्त"
+          ],
+          "ans": 1,
+          "subject": "History"
+        },
+        {
+          "sheetId": "1408",
+          "q": "Who was the founder of the Maratha Empire?",
+          "q_hi": "मराठा साम्राज्य के संस्थापक कौन थे?",
+          "opts": [
+            "Baji Rao I",
+            "Shivaji",
+            "Sambhaji",
+            "Balaji Vishwanath"
+          ],
+          "opts_hi": [
+            "बाजीराव प्रथम",
+            "शिवाजी",
+            "संभाजी",
+            "बालाजी विश्वनाथ"
+          ],
+          "ans": 1,
+          "subject": "History"
+        },
+        {
           "sheetId": "1374",
           "q": "Which Mauryan ruler issued the 'Edicts of Ashoka' primarily to spread the principles of Dhamma among the people?",
           "q_hi": "किस मौर्य शासक ने धम्म के सिद्धांतों को जन-जन तक पहुँचाने के लिए 'अशोक के अभिलेख' जारी किए थे?",
