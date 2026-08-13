@@ -9042,6 +9042,25 @@
           "subject": "Elementary Arithmetic"
         },
         {
+          "sheetId": "1404",
+          "q": "A alone can complete a work in 24 days and B alone in 16 days. They work together for 6 days, after which A leaves. In how many days will B complete the remaining work?",
+          "q_hi": "A अकेला एक काम को 24 दिनों में और B अकेला 16 दिनों में पूरा कर सकता है। वे 6 दिनों तक एक साथ काम करते हैं, जिसके बाद A चला जाता है। B शेष काम कितने दिनों में पूरा करेगा?",
+          "opts": [
+            "4 days",
+            "5 days",
+            "6 days",
+            "8 days"
+          ],
+          "opts_hi": [
+            "4 दिन",
+            "5 दिन",
+            "6 दिन",
+            "8 दिन"
+          ],
+          "ans": 2,
+          "subject": "Elementary Arithmetic"
+        },
+        {
           "sheetId": "1409",
           "q": "Which type of Sandhi is formed in the word 'सज्जन' (sajjan)?",
           "q_hi": "सज्जन' शब्द में कौन-सी संधि है?",
