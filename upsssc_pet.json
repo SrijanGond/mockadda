@@ -9175,6 +9175,82 @@
           "subject": "General English"
         },
         {
+          "sheetId": "1415",
+          "q": "Choose the word most opposite in meaning to 'FRUGAL'.",
+          "q_hi": "नीचे दिए गए शब्द 'FRUGAL' के विपरीत अर्थ वाले शब्द का चयन करें।",
+          "opts": [
+            "Thrifty",
+            "Careful",
+            "Extravagant",
+            "Modest"
+          ],
+          "opts_hi": [
+            "Thrifty",
+            "Careful",
+            "Extravagant",
+            "Modest"
+          ],
+          "ans": 2,
+          "subject": "General English"
+        },
+        {
+          "sheetId": "1416",
+          "q": "Choose the most appropriate preposition to fill in the blank: She has been waiting _____ two hours for the bus.",
+          "q_hi": "रिक्त स्थान की पूर्ति के लिए सबसे उपयुक्त preposition चुनें: She has been waiting _____ two hours for the bus.",
+          "opts": [
+            "since",
+            "from",
+            "for",
+            "by"
+          ],
+          "opts_hi": [
+            "since",
+            "from",
+            "for",
+            "by"
+          ],
+          "ans": 2,
+          "subject": "General English"
+        },
+        {
+          "sheetId": "1417",
+          "q": "Select the most appropriate one-word substitution for: 'A person who is unable to pay their debts'.",
+          "q_hi": "निम्नलिखित के लिए सबसे उपयुक्त एक शब्द चुनें: 'वह व्यक्ति जो अपना कर्ज चुकाने में असमर्थ हो'।",
+          "opts": [
+            "Insolvent",
+            "Illiterate",
+            "Introvert",
+            "Immigrant"
+          ],
+          "opts_hi": [
+            "Insolvent",
+            "Illiterate",
+            "Introvert",
+            "Immigrant"
+          ],
+          "ans": 0,
+          "subject": "General English"
+        },
+        {
+          "sheetId": "1418",
+          "q": "Identify the part of the sentence that contains a grammatical error: (A) The committee / (B) have taken / (C) its decision / (D) unanimously.",
+          "q_hi": "वाक्य के उस भाग को पहचानें जिसमें व्याकरण संबंधी त्रुटि है: (A) The committee / (B) have taken / (C) its decision / (D) unanimously.",
+          "opts": [
+            "The committee",
+            "have taken",
+            "its decision",
+            "unanimously"
+          ],
+          "opts_hi": [
+            "The committee",
+            "have taken",
+            "its decision",
+            "unanimously"
+          ],
+          "ans": 1,
+          "subject": "General English"
+        },
+        {
           "sheetId": "1424",
           "q": "Which city has been identified as the proposed host for India's bid to host the 2036 Summer Olympics?",
           "q_hi": "2036 ग्रीष्मकालीन ओलंपिक की मेजबानी के लिए भारत की बोली में किस शहर को प्रस्तावित मेजबान के रूप में चिन्हित किया गया है?",
@@ -10028,6 +10104,101 @@
           ],
           "ans": 2,
           "subject": "Data Interpretation"
+        },
+        {
+          "sheetId": "1419",
+          "q": "Find the missing number in the series: 4, 9, 20, 43, 90, ?",
+          "q_hi": "श्रृंखला में लुप्त संख्या ज्ञात करें: 4, 9, 20, 43, 90, ?",
+          "opts": [
+            183,
+            181,
+            185,
+            179
+          ],
+          "opts_hi": [
+            183,
+            181,
+            185,
+            179
+          ],
+          "ans": 0,
+          "subject": "Reasoning/Analytical Ability"
+        },
+        {
+          "sheetId": "1420",
+          "q": "In a certain code language, 'RIVER' is written as 'SJWFS'. Using the same rule, how will 'CLOUD' be written in that code?",
+          "q_hi": "एक निश्चित कूट भाषा में 'RIVER' को 'SJWFS' लिखा जाता है। उसी नियम के अनुसार 'CLOUD' को उस कूट में कैसे लिखेंगे?",
+          "opts": [
+            "DMPVE",
+            "DNPVF",
+            "CLPVE",
+            "DMPUD"
+          ],
+          "opts_hi": [
+            "DMPVE",
+            "DNPVF",
+            "CLPVE",
+            "DMPUD"
+          ],
+          "ans": 0,
+          "subject": "Reasoning/Analytical Ability"
+        },
+        {
+          "sheetId": "1421",
+          "q": "Pointing to a photograph, Meena says, 'His mother is the only daughter of my father.' How is Meena related to the person in the photograph?",
+          "q_hi": "एक फोटो की ओर इशारा करते हुए मीना कहती है, 'इसकी माँ मेरे पिता की इकलौती पुत्री है।' फोटो में दिखाई दे रहे व्यक्ति से मीना का क्या संबंध है?",
+          "opts": [
+            "Aunt",
+            "Sister",
+            "Mother",
+            "Grandmother"
+          ],
+          "opts_hi": [
+            "बुआ",
+            "बहन",
+            "माँ",
+            "दादी"
+          ],
+          "ans": 2,
+          "subject": "Reasoning/Analytical Ability"
+        },
+        {
+          "sheetId": "1422",
+          "q": "Rahul starts from point A and walks 8 km towards the North, then turns right and walks 6 km, then turns right again and walks 8 km. How far is he from point A, and in which direction?",
+          "q_hi": "राहुल बिंदु A से उत्तर दिशा में 8 km चलता है, फिर दाएँ मुड़कर 6 km चलता है, फिर दोबारा दाएँ मुड़कर 8 km चलता है। वह बिंदु A से कितनी दूर है और किस दिशा में है?",
+          "opts": [
+            "6 km, West",
+            "6 km, East",
+            "8 km, South",
+            "10 km, East"
+          ],
+          "opts_hi": [
+            "6 km, पश्चिम",
+            "6 km, पूर्व",
+            "8 km, दक्षिण",
+            "10 km, पूर्व"
+          ],
+          "ans": 1,
+          "subject": "Reasoning/Analytical Ability"
+        },
+        {
+          "sheetId": "1423",
+          "q": "Statements: All pens are books. Some books are copies. Conclusions: I. Some pens are copies. II. Some copies are books. Which of the following is correct?",
+          "q_hi": "कथन: सभी कलम किताबें हैं। कुछ किताबें कॉपियाँ हैं। निष्कर्ष: I. कुछ कलम कॉपियाँ हैं। II. कुछ कॉपियाँ किताबें हैं। निम्नलिखित में से कौन-सा सही है?",
+          "opts": [
+            "Only Conclusion I follows",
+            "Only Conclusion II follows",
+            "Both Conclusions I and II follow",
+            "Neither Conclusion I nor II follows"
+          ],
+          "opts_hi": [
+            "केवल निष्कर्ष I अनुसरण करता है",
+            "केवल निष्कर्ष II अनुसरण करता है",
+            "निष्कर्ष I और II दोनों अनुसरण करते हैं",
+            "न तो निष्कर्ष I और न ही II अनुसरण करता है"
+          ],
+          "ans": 1,
+          "subject": "Reasoning/Analytical Ability"
         }
       ]
     }
