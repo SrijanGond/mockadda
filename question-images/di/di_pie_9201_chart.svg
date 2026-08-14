@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 420" width="100%" height="100%">
+  <foreignObject width="500" height="420">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="width:100%;height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;font-family:Arial,sans-serif;background:#fff;">
+      <div style="width:280px;height:280px;border-radius:50%;background:conic-gradient(#4BC0C0 0% 67%, #C9CBCF 67% 72%, #9966FF 72% 77%, #FF6384 77% 82%, #FFCE56 82% 89%, #36A2EB 89% 94%, #FF9F40 94% 100%);box-shadow:0 4px 12px rgba(0,0,0,0.15);"></div>
+      <div style="display:flex;flex-wrap:wrap;justify-content:center;margin-top:18px;gap:8px;max-width:450px;">
+        <span style="background:#4BC0C0;padding:4px 12px;border-radius:20px;color:#fff;font-size:13px;">Companies 67%</span>
+        <span style="background:#C9CBCF;padding:4px 12px;border-radius:20px;color:#000;font-size:13px;">Insurance 5%</span>
+        <span style="background:#9966FF;padding:4px 12px;border-radius:20px;color:#fff;font-size:13px;">NRI 5%</span>
+        <span style="background:#FF6384;padding:4px 12px;border-radius:20px;color:#fff;font-size:13px;">Pension 5%</span>
+        <span style="background:#FFCE56;padding:4px 12px;border-radius:20px;color:#000;font-size:13px;">Retail 7%</span>
+        <span style="background:#36A2EB;padding:4px 12px;border-radius:20px;color:#fff;font-size:13px;">FII 5%</span>
+        <span style="background:#FF9F40;padding:4px 12px;border-radius:20px;color:#fff;font-size:13px;">Banks 6%</span>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
