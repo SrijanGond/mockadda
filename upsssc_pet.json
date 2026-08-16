@@ -8918,6 +8918,25 @@
           "subject": "Elementary Arithmetic"
         },
         {
+          "sheetId": "1501",
+          "q": "Two numbers are in the ratio 3 : 5. If 6 is added to each number, the new ratio becomes 3 : 4. What is the larger of the two original numbers?",
+          "q_hi": "दो संख्याएँ 3 : 5 के अनुपात में हैं। यदि प्रत्येक संख्या में 6 जोड़ा जाए, तो नया अनुपात 3 : 4 हो जाता है। मूल दो संख्याओं में से बड़ी संख्या कौन सी है?",
+          "opts": [
+            10,
+            15,
+            20,
+            25
+          ],
+          "opts_hi": [
+            10,
+            15,
+            20,
+            25
+          ],
+          "ans": 0,
+          "subject": "Elementary Arithmetic"
+        },
+        {
           "sheetId": "1504",
           "q": "Which type of Sandhi is formed in the word 'महर्षि' (Maharshi)?",
           "q_hi": "महर्षि' शब्द में कौन-सी संधि है?",
