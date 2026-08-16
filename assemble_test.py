@@ -88,7 +88,47 @@ QUOTAS = {
         ('General Intelligence & Reasoning', ['general intelligence & reasoning', 'general intelligence', 'reasoning'], 25),
         ('General Awareness & Current Affairs', ['general awareness & current affairs', 'general awareness', 'current affairs'], 25),
     ],
+    # Official UPSSSC PET pattern: 15 subjects, 100 questions/marks, 120 min,
+    # +1/-0.25. Same 15-bucket structure for every full mock (upsssc_pet_1
+    # through _5). Two known data gaps as of this run:
+    #   - Your Sheet has a combined "Reasoning & Mathematics" label; the
+    #     official pattern needs Logic & Reasoning and Elementary Arithmetic
+    #     as two separate 5-question buckets. Until those rows get split and
+    #     re-tagged in the Sheet, both buckets will likely show a shortfall.
+    #   - "Analysis of 2 Unread Hindi Passages" needs real passage-based
+    #     questions, not generic MCQs — there's nothing in the Sheet to pull
+    #     from yet, so this bucket will show SHORT 10/10 until that content
+    #     is written.
+    #   - Graph vs. Table interpretation share one generic "Data
+    #     Interpretation" subject tag in the Sheet, so both buckets draw
+    #     from the same alias; whichever bucket is assembled first claims
+    #     the first available DI questions, and the second bucket gets
+    #     what's left. Not a true graph/table split — good enough for now,
+    #     re-tag by topic in the Sheet later for accuracy.
+    'upsssc_pet_1': [
+        ('Indian History', ['indian history', 'india history', 'history'], 5),
+        ('Indian National Movement', ['indian national movement'], 5),
+        ('Geography', ['geography'], 5),
+        ('Indian Economy', ['indian economy'], 5),
+        ('Indian Constitution & Public Administration',
+         ['indian constitution & public administration', 'indian constitution and public administration',
+          'indian polity & constitution', 'polity'], 5),
+        ('General Science', ['general science', 'science'], 5),
+        ('Elementary Arithmetic', ['elementary arithmetic', 'mathematics'], 5),
+        ('General Hindi', ['general hindi', 'hindi language'], 5),
+        ('General English', ['general english'], 5),
+        ('Logic & Reasoning', ['logic & reasoning', 'reasoning/analytical ability', 'reasoning'], 5),
+        ('Current Affairs', ['current affairs'], 10),
+        ('General Awareness', ['general awareness', 'general knowledge'], 10),
+        ('Analysis of 2 Unread Hindi Passages',
+         ['analysis of 2 unread hindi passages', 'hindi passage analysis', 'unread hindi passages'], 10),
+        ('Graph Analysis & Interpretation', ['data interpretation', 'graph analysis & interpretation'], 10),
+        ('Table Analysis & Interpretation', ['data interpretation', 'table analysis & interpretation'], 10),
+    ],
 }
+# Sets 2-5 follow the exact same official pattern as Set 1.
+for _n in (2, 3, 4, 5):
+    QUOTAS[f'upsssc_pet_{_n}'] = QUOTAS['upsssc_pet_1']
 
 # Duration is in MINUTES (the site does test.duration * 60 to get the
 # countdown in seconds) — NOT seconds. Getting this wrong doesn't error,
@@ -103,6 +143,11 @@ TEST_META = {
     'rrb_group_d_2': {'duration': 90, 'correctMarks': 1, 'negativeMarks': 0.33},
     'rrb_group_d_3': {'duration': 90, 'correctMarks': 1, 'negativeMarks': 0.33},
     'rrb_group_d_4': {'duration': 90, 'correctMarks': 1, 'negativeMarks': 0.33},
+    'upsssc_pet_1': {'duration': 120, 'correctMarks': 1, 'negativeMarks': 0.25},
+    'upsssc_pet_2': {'duration': 120, 'correctMarks': 1, 'negativeMarks': 0.25},
+    'upsssc_pet_3': {'duration': 120, 'correctMarks': 1, 'negativeMarks': 0.25},
+    'upsssc_pet_4': {'duration': 120, 'correctMarks': 1, 'negativeMarks': 0.25},
+    'upsssc_pet_5': {'duration': 120, 'correctMarks': 1, 'negativeMarks': 0.25},
 }
 
 def is_language_skill_subject(subject):
