@@ -9637,7 +9637,8 @@
             0.1
           ],
           "ans": 0,
-          "subject": "Data Interpretation"
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_bar_exam_9200_chart.svg"
         },
         {
           "sheetId": "1541",
@@ -9656,7 +9657,8 @@
             0.9
           ],
           "ans": 1,
-          "subject": "Data Interpretation"
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_bar_exam_9200_chart.svg"
         },
         {
           "sheetId": "1542",
@@ -9675,7 +9677,8 @@
             0.86
           ],
           "ans": 2,
-          "subject": "Data Interpretation"
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_bar_exam_9200_chart.svg"
         },
         {
           "sheetId": "1543",
@@ -9694,26 +9697,108 @@
             0.19
           ],
           "ans": 3,
-          "subject": "Data Interpretation"
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_bar_exam_9200_chart.svg"
+        },
+        {
+          "sheetId": "1544",
+          "q": "The earnings of the company in 1996-97 were approximately what percent of the average earning over the period under review?",
+          "q_hi": "1996-97 में कंपनी की आय समीक्षा अवधि के औसत आय का लगभग कितना प्रतिशत थी?",
+          "opts": [
+            0.76,
+            0.91,
+            0.86,
+            0.81
+          ],
+          "opts_hi": [
+            0.76,
+            0.91,
+            0.86,
+            0.81
+          ],
+          "ans": 3,
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_bar_exam_9201_chart.svg"
         },
         {
           "sheetId": "1545",
           "q": "The ratio of number of years, in which earnings of the company are below the average earning, to those in which the earnings are above the average is:",
           "q_hi": "उन वर्षों की संख्या का अनुपात, जिनमें कंपनी की आय औसत आय से कम है, उन वर्षों की संख्या से जिनमें आय औसत से अधिक है, है:",
           "opts": [
-            "1899-12-30T02:06:00.000Z",
-            "1899-12-30T04:04:00.000Z",
-            "1899-12-30T03:05:00.000Z",
-            "1899-12-30T05:03:00.000Z"
+            "02:06",
+            "04:04",
+            "03:05",
+            "05:03"
           ],
           "opts_hi": [
-            "1899-12-30T02:06:00.000Z",
-            "1899-12-30T04:04:00.000Z",
-            "1899-12-30T03:05:00.000Z",
-            "1899-12-30T05:03:00.000Z"
+            "02:06",
+            "04:04",
+            "03:05",
+            "05:03"
           ],
           "ans": 2,
-          "subject": "Data Interpretation"
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_bar_exam_9201_chart.svg"
+        },
+        {
+          "sheetId": "1546",
+          "q": "The earning of company in 1997-98 was how many times that in 1994-95?",
+          "q_hi": "1997-98 में कंपनी की आय 1994-95 से कितनी गुना थी?",
+          "opts": [
+            0.2,
+            0.3,
+            0.1,
+            0.4
+          ],
+          "opts_hi": [
+            0.2,
+            0.3,
+            0.1,
+            0.4
+          ],
+          "ans": 0,
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_bar_exam_9201_chart.svg"
+        },
+        {
+          "sheetId": "1547",
+          "q": "What was the percentage increase in earning of the company in 1997-98 over 1993-94?",
+          "q_hi": "1997-98 में कंपनी की आय में 1993-94 की तुलना में कितने प्रतिशत की वृद्धि हुई थी?",
+          "opts": [
+            "-87%",
+            "-57%",
+            "-67%",
+            "-77%"
+          ],
+          "opts_hi": [
+            "-87%",
+            "-57%",
+            "-67%",
+            "-77%"
+          ],
+          "ans": 0,
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_bar_exam_9201_chart.svg"
+        },
+        {
+          "sheetId": "1548",
+          "q": "What was the approximate percentage decline in the earning of the company from 1994-95 to 1995-96?",
+          "q_hi": "1994-95 से 1995-96 तक कंपनी की आय में लगभग कितने प्रतिशत की गिरावट आई थी?",
+          "opts": [
+            0.29,
+            0.34,
+            0.42,
+            0.5
+          ],
+          "opts_hi": [
+            0.29,
+            0.34,
+            0.42,
+            0.5
+          ],
+          "ans": 0,
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_bar_exam_9201_chart.svg"
         }
       ]
     },
@@ -11613,10 +11698,10 @@
             "10 km, East"
           ],
           "opts_hi": [
-            "6 km, पश्चिम",
-            "6 km, पूर्व",
-            "8 km, दक्षिण",
-            "10 km, पूर्व"
+            "6 किमी, पश्चिम",
+            "6 किमी, पूर्व",
+            "8 किमी, दक्षिण",
+            "10 किमी, पूर्व"
           ],
           "ans": 1,
           "subject": "Reasoning/Analytical Ability"
