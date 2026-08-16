@@ -569,22 +569,52 @@ function getMarkingScheme(test){
 // beyond the cap for a given subject are dropped entirely (not counted, not
 // shown, not included in scoring).
 // SCOPE: only exams with a fixed per-subject quota are capped here — SSC CGL
-// and SSC CHSL (25/subject: General Intelligence & Reasoning, General
+// and SSC CHSL (flat 25/subject: General Intelligence & Reasoning, General
 // Awareness, Quantitative Aptitude, English Comprehension) and UPSSSC PET
-// (30/subject: General Hindi, General Knowledge, Reasoning & Mathematics,
-// General Science). Other exams (Banking, Teaching, Police, Railways, etc.)
-// have their own section sizes and must NOT be capped here. Gate this by
+// (per-subject, matching the official 15-section pattern — 5 for most
+// subjects, 10 for Current Affairs / General Awareness / Analysis of 2
+// Unread Hindi Passages / Graph Analysis & Interpretation / Table Analysis &
+// Interpretation — NOT a flat 30, since that was the old incorrect 4-section
+// grouping). Other exams (Banking, Teaching, Police, Railways, etc.) have
+// their own section sizes and must NOT be capped here. Gate this by
 // examKey, not just by whether a test has subject tags.
-const SECTION_CAP_BY_EXAM = { ssc_cgl: 25, ssc_chsl: 25, upsssc_pet: 30 };
+// A cap entry can be either a flat number (applies to every subject, as with
+// ssc_cgl/ssc_chsl) or an object mapping each canonical subject name to its
+// own cap (as with upsssc_pet) — subjects not listed in the object are left
+// uncapped, since that's a data-tagging issue to fix in the Sheet, not
+// something the frontend should silently truncate.
+const SECTION_CAP_BY_EXAM = {
+  ssc_cgl: 25,
+  ssc_chsl: 25,
+  upsssc_pet: {
+    'Indian History': 5,
+    'Indian National Movement': 5,
+    'Geography': 5,
+    'Indian Economy': 5,
+    'Indian Constitution & Public Administration': 5,
+    'General Science': 5,
+    'Elementary Arithmetic': 5,
+    'General Hindi': 5,
+    'General English': 5,
+    'Logic & Reasoning': 5,
+    'Current Affairs': 10,
+    'General Awareness': 10,
+    'Analysis of 2 Unread Hindi Passages': 10,
+    'Graph Analysis & Interpretation': 10,
+    'Table Analysis & Interpretation': 10,
+  }
+};
 function capQuestionsPerSection(questions, examKey){
-  const cap = SECTION_CAP_BY_EXAM[examKey];
-  if(!cap) return questions;
+  const capConfig = SECTION_CAP_BY_EXAM[examKey];
+  if(!capConfig) return questions;
   const hasSubjects = questions.some(q=>q.subject);
   if(!hasSubjects) return questions;
   const counts={};
   return questions.filter(q=>{
     const subj = (q.subject || 'General').trim();
+    const cap = (typeof capConfig === 'number') ? capConfig : capConfig[subj];
     counts[subj] = (counts[subj]||0)+1;
+    if(cap == null) return true; // subject not in the per-subject map — leave uncapped
     return counts[subj] <= cap;
   });
 }
@@ -965,13 +995,24 @@ const EXAM_CONTENT = {
   upsssc_pet: {
     intro: "UPSSSC PET (Preliminary Eligibility Test) is conducted by the Uttar Pradesh Subordinate Services Selection Commission as a qualifying exam for recruitment to various Group C posts in the Uttar Pradesh government. The PET score is used as a screening tool — candidates who qualify can then apply for specific posts based on their PET score.",
     sections: [
-      {name:'General Hindi', qs:30, marks:30},
-      {name:'General Knowledge', qs:30, marks:30},
-      {name:'Reasoning & Mathematics', qs:30, marks:30},
-      {name:'General Science', qs:30, marks:30},
+      {name:'Indian History', qs:5, marks:5},
+      {name:'Indian National Movement', qs:5, marks:5},
+      {name:'Geography', qs:5, marks:5},
+      {name:'Indian Economy', qs:5, marks:5},
+      {name:'Indian Constitution & Public Administration', qs:5, marks:5},
+      {name:'General Science', qs:5, marks:5},
+      {name:'Elementary Arithmetic', qs:5, marks:5},
+      {name:'General Hindi', qs:5, marks:5},
+      {name:'General English', qs:5, marks:5},
+      {name:'Logic & Reasoning', qs:5, marks:5},
+      {name:'Current Affairs', qs:10, marks:10},
+      {name:'General Awareness', qs:10, marks:10},
+      {name:'Analysis of 2 Unread Hindi Passages', qs:10, marks:10},
+      {name:'Graph Analysis & Interpretation', qs:10, marks:10},
+      {name:'Table Analysis & Interpretation', qs:10, marks:10},
     ],
     duration: '2 hours total',
-    negativeMarking: '0.50 marks deducted for every wrong answer',
+    negativeMarking: '0.25 marks deducted for every wrong answer',
     note: 'PET is valid for 2 years. You can apply for any UPSSSC Group C post using your PET score within this validity period.'
   }
 };
