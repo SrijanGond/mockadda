@@ -141,6 +141,20 @@ def csv_row_to_question(row):
         exp_hi = (row.get('exp_hi') or '').strip()
         if exp_hi:
             q['exp_hi'] = exp_hi
+    # Question-level chart/diagram image (DI bar charts, 2-graph, pie, etc).
+    img = (row.get('img') or '').strip()
+    if img:
+        q['img'] = img
+    # Per-option images (e.g. non-verbal reasoning "which figure completes
+    # the series" questions where each option is a shape, not text).
+    opt_imgs = [
+        (row.get('opt_a_img') or '').strip(),
+        (row.get('opt_b_img') or '').strip(),
+        (row.get('opt_c_img') or '').strip(),
+        (row.get('opt_d_img') or '').strip(),
+    ]
+    if any(opt_imgs):
+        q['opts_img'] = opt_imgs
     return q
 
 def main():
