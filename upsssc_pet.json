@@ -8937,6 +8937,25 @@
           "subject": "Elementary Arithmetic"
         },
         {
+          "sheetId": "1503",
+          "q": "Simplify: 84 ÷ 4 + 6 × 5 - 3²",
+          "q_hi": "सरल करें: 84 ÷ 4 + 6 × 5 - 3²",
+          "opts": [
+            42,
+            50,
+            52,
+            48
+          ],
+          "opts_hi": [
+            42,
+            50,
+            52,
+            48
+          ],
+          "ans": 0,
+          "subject": "Elementary Arithmetic"
+        },
+        {
           "sheetId": "1504",
           "q": "Which type of Sandhi is formed in the word 'महर्षि' (Maharshi)?",
           "q_hi": "महर्षि' शब्द में कौन-सी संधि है?",
