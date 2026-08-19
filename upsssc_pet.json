@@ -14907,21 +14907,21 @@
         },
         {
           "sheetId": "1576",
-          "q": "The Reserve Bank of India was nationalised in which year?",
-          "q_hi": "भारतीय रिज़र्व बैंक का राष्ट्रीयकरण किस वर्ष किया गया था?",
+          "q": "The fiscal deficit in the Union Budget of India is expressed as a percentage of which of the following?",
+          "q_hi": "भारत के केंद्रीय बजट में राजकोषीय घाटे को निम्नलिखित में से किसके प्रतिशत के रूप में व्यक्त किया जाता है?",
           "opts": [
-            1935,
-            1949,
-            1955,
-            1969
+            "GDP",
+            "GSDP",
+            "NDP",
+            "NNP"
           ],
           "opts_hi": [
-            1935,
-            1949,
-            1955,
-            1969
+            "सकल घरेलू उत्पाद (GDP)",
+            "राज्य सकल घरेलू उत्पाद (GSDP)",
+            "शुद्ध घरेलू उत्पाद (NDP)",
+            "शुद्ध राष्ट्रीय उत्पाद (NNP)"
           ],
-          "ans": 1,
+          "ans": 0,
           "subject": "Indian Economy"
         },
         {
