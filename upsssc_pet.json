@@ -11831,6 +11831,101 @@
           "subject": "Indian National Movement"
         },
         {
+          "sheetId": "1564",
+          "q": "At which session of the Indian National Congress was the Non-Cooperation Movement formally adopted as a resolution?",
+          "q_hi": "भारतीय राष्ट्रीय कांग्रेस के किस अधिवेशन में असहयोग आंदोलन को औपचारिक रूप से प्रस्ताव के रूप में पारित किया गया था?",
+          "opts": [
+            "Surat Session, 1907",
+            "Nagpur Session, 1920",
+            "Calcutta Session, 1917",
+            "Lahore Session, 1929"
+          ],
+          "opts_hi": [
+            "सूरत अधिवेशन, 1907",
+            "नागपुर अधिवेशन, 1920",
+            "कलकत्ता अधिवेशन, 1917",
+            "लाहौर अधिवेशन, 1929"
+          ],
+          "ans": 1,
+          "subject": "Indian National Movement"
+        },
+        {
+          "sheetId": "1565",
+          "q": "The Dandi March of 1930 was undertaken to protest against which British law or policy?",
+          "q_hi": "1930 की दांडी यात्रा किस ब्रिटिश कानून या नीति के विरोध में की गई थी?",
+          "opts": [
+            "Rowlatt Act",
+            "Salt Law",
+            "Vernacular Press Act",
+            "Ilbert Bill"
+          ],
+          "opts_hi": [
+            "रॉलेट एक्ट",
+            "नमक कानून",
+            "वर्नाक्युलर प्रेस एक्ट",
+            "इल्बर्ट बिल"
+          ],
+          "ans": 1,
+          "subject": "Indian National Movement"
+        },
+        {
+          "sheetId": "1566",
+          "q": "The slogan 'Do or Die' was given by Mahatma Gandhi in connection with which movement?",
+          "q_hi": "करो या मरो' का नारा महात्मा गांधी ने किस आंदोलन के संदर्भ में दिया था?",
+          "opts": [
+            "Non-Cooperation Movement",
+            "Civil Disobedience Movement",
+            "Quit India Movement",
+            "Swadeshi Movement"
+          ],
+          "opts_hi": [
+            "असहयोग आंदोलन",
+            "सविनय अवज्ञा आंदोलन",
+            "भारत छोड़ो आंदोलन",
+            "स्वदेशी आंदोलन"
+          ],
+          "ans": 2,
+          "subject": "Indian National Movement"
+        },
+        {
+          "sheetId": "1567",
+          "q": "Bhagat Singh, Rajguru, and Sukhdev were hanged by the British on which date?",
+          "q_hi": "भगत सिंह, राजगुरु और सुखदेव को अंग्रेजों ने किस तारीख को फाँसी दी थी?",
+          "opts": [
+            "1931-03-23T00:00:00.000Z",
+            "1930-08-15T00:00:00.000Z",
+            "1929-04-13T00:00:00.000Z",
+            "1932-01-30T00:00:00.000Z"
+          ],
+          "opts_hi": [
+            "23 मार्च 1931",
+            "15 अगस्त 1930",
+            "13 अप्रैल 1929",
+            "30 जनवरी 1932"
+          ],
+          "ans": 0,
+          "subject": "Indian National Movement"
+        },
+        {
+          "sheetId": "1568",
+          "q": "Which plan provided the constitutional framework for the partition of British India into India and Pakistan in 1947?",
+          "q_hi": "किस योजना ने 1947 में ब्रिटिश भारत को भारत और पाकिस्तान में विभाजित करने का संवैधानिक ढाँचा प्रदान किया?",
+          "opts": [
+            "Cabinet Mission Plan",
+            "Wavell Plan",
+            "Mountbatten Plan",
+            "Cripps Mission Plan"
+          ],
+          "opts_hi": [
+            "कैबिनेट मिशन योजना",
+            "वेवेल योजना",
+            "माउंटबेटन योजना",
+            "क्रिप्स मिशन योजना"
+          ],
+          "ans": 2,
+          "subject": "Indian National Movement"
+        },
+        {
           "q": "Which river is known as the 'Sorrow of Bihar'?",
           "q_hi": "किस नदी को 'बिहार का शोक' कहा जाता है?",
           "opts": [
@@ -11918,6 +12013,101 @@
             "यमुना"
           ],
           "ans": 0,
+          "subject": "Geography"
+        },
+        {
+          "sheetId": "1569",
+          "q": "Which river is known as the 'Sorrow of Bihar' due to the frequent floods it causes in the state?",
+          "q_hi": "किस नदी को बिहार में बार-बार बाढ़ लाने के कारण 'बिहार का शोक' कहा जाता है?",
+          "opts": [
+            "Gandak",
+            "Kosi",
+            "Bagmati",
+            "Son"
+          ],
+          "opts_hi": [
+            "गंडक",
+            "कोसी",
+            "बागमती",
+            "सोन"
+          ],
+          "ans": 1,
+          "subject": "Geography"
+        },
+        {
+          "sheetId": "1570",
+          "q": "The retreating monsoon season in India is associated with which of the following phenomena?",
+          "q_hi": "भारत में लौटते मानसून की ऋतु किस घटना से संबंधित है?",
+          "opts": [
+            "Western disturbances",
+            "Loo winds",
+            "Nor'westers",
+            "Cyclones in the Bay of Bengal"
+          ],
+          "opts_hi": [
+            "पश्चिमी विक्षोभ",
+            "लू",
+            "नॉर्वेस्टर",
+            "बंगाल की खाड़ी में चक्रवात"
+          ],
+          "ans": 3,
+          "subject": "Geography"
+        },
+        {
+          "sheetId": "1571",
+          "q": "Black soil, which is well known for its ability to retain moisture for long periods, is also called by which name?",
+          "q_hi": "काली मिट्टी, जो लंबे समय तक नमी बनाए रखने के लिए जानी जाती है, किस अन्य नाम से भी पुकारी जाती है?",
+          "opts": [
+            "Laterite soil",
+            "Alluvial soil",
+            "Regur soil",
+            "Red soil"
+          ],
+          "opts_hi": [
+            "लैटेराइट मिट्टी",
+            "जलोढ़ मिट्टी",
+            "रेगुर मिट्टी",
+            "लाल मिट्टी"
+          ],
+          "ans": 2,
+          "subject": "Geography"
+        },
+        {
+          "sheetId": "1572",
+          "q": "The Deccan Plateau is bounded on its west by which mountain range?",
+          "q_hi": "दक्कन का पठार अपनी पश्चिमी सीमा पर किस पर्वत श्रृंखला से घिरा है?",
+          "opts": [
+            "Eastern Ghats",
+            "Aravalli Range",
+            "Western Ghats",
+            "Vindhya Range"
+          ],
+          "opts_hi": [
+            "पूर्वी घाट",
+            "अरावली श्रृंखला",
+            "पश्चिमी घाट",
+            "विंध्य श्रृंखला"
+          ],
+          "ans": 2,
+          "subject": "Geography"
+        },
+        {
+          "sheetId": "1573",
+          "q": "Which of the following straits connects the Red Sea to the Gulf of Aden?",
+          "q_hi": "निम्नलिखित में से कौन-सी जलसंधि लाल सागर को अदन की खाड़ी से जोड़ती है?",
+          "opts": [
+            "Strait of Hormuz",
+            "Strait of Malacca",
+            "Bab-el-Mandeb",
+            "Strait of Gibraltar"
+          ],
+          "opts_hi": [
+            "होर्मुज जलसंधि",
+            "मलक्का जलसंधि",
+            "बाब-अल-मंदेब",
+            "जिब्राल्टर जलसंधि"
+          ],
+          "ans": 2,
           "subject": "Geography"
         },
         {
@@ -12011,6 +12201,101 @@
           "subject": "Indian Constitution & Public Administration"
         },
         {
+          "sheetId": "1579",
+          "q": "Under which Article of the Indian Constitution is the Right to Constitutional Remedies guaranteed, which Dr. B.R. Ambedkar called the 'heart and soul' of the Constitution?",
+          "q_hi": "भारतीय संविधान के किस अनुच्छेद के अंतर्गत संवैधानिक उपचारों का अधिकार प्रदान किया गया है, जिसे डॉ. बी.आर. अम्बेडकर ने संविधान की 'हृदय और आत्मा' कहा था?",
+          "opts": [
+            "Article 30",
+            "Article 32",
+            "Article 19",
+            "Article 226"
+          ],
+          "opts_hi": [
+            "अनुच्छेद 30",
+            "अनुच्छेद 32",
+            "अनुच्छेद 19",
+            "अनुच्छेद 226"
+          ],
+          "ans": 1,
+          "subject": "Indian Constitution & Public Administration"
+        },
+        {
+          "sheetId": "1580",
+          "q": "The Directive Principles of State Policy are contained in which Part of the Indian Constitution?",
+          "q_hi": "राज्य के नीति निदेशक तत्व भारतीय संविधान के किस भाग में उल्लिखित हैं?",
+          "opts": [
+            "Part III",
+            "Part IV",
+            "Part V",
+            "Part IVA"
+          ],
+          "opts_hi": [
+            "भाग III",
+            "भाग IV",
+            "भाग V",
+            "भाग IVA"
+          ],
+          "ans": 1,
+          "subject": "Indian Constitution & Public Administration"
+        },
+        {
+          "sheetId": "1581",
+          "q": "By which Constitutional Amendment Act were the Fundamental Duties of Indian citizens added to the Constitution?",
+          "q_hi": "किस संविधान संशोधन अधिनियम द्वारा भारतीय नागरिकों के मूल कर्तव्यों को संविधान में जोड़ा गया?",
+          "opts": [
+            "42nd Amendment, 1976",
+            "44th Amendment, 1978",
+            "86th Amendment, 2002",
+            "52nd Amendment, 1985"
+          ],
+          "opts_hi": [
+            "42वाँ संशोधन, 1976",
+            "44वाँ संशोधन, 1978",
+            "86वाँ संशोधन, 2002",
+            "52वाँ संशोधन, 1985"
+          ],
+          "ans": 0,
+          "subject": "Indian Constitution & Public Administration"
+        },
+        {
+          "sheetId": "1582",
+          "q": "Which house of the Indian Parliament is described as a permanent house that cannot be dissolved, and one-third of its members retire every two years?",
+          "q_hi": "भारतीय संसद के किस सदन को स्थायी सदन कहा जाता है जिसे भंग नहीं किया जा सकता, और इसके एक-तिहाई सदस्य प्रत्येक दो वर्ष में सेवानिवृत्त होते हैं?",
+          "opts": [
+            "Lok Sabha",
+            "Rajya Sabha",
+            "Both Houses",
+            "Vidhan Parishad"
+          ],
+          "opts_hi": [
+            "लोक सभा",
+            "राज्य सभा",
+            "दोनों सदन",
+            "विधान परिषद"
+          ],
+          "ans": 1,
+          "subject": "Indian Constitution & Public Administration"
+        },
+        {
+          "sheetId": "1583",
+          "q": "Which Constitutional Amendment Act gave constitutional status to Panchayati Raj institutions and added the Eleventh Schedule to the Indian Constitution?",
+          "q_hi": "किस संविधान संशोधन अधिनियम ने पंचायती राज संस्थाओं को संवैधानिक दर्जा दिया और भारतीय संविधान में ग्यारहवीं अनुसूची जोड़ी?",
+          "opts": [
+            "70th Amendment, 1992",
+            "74th Amendment, 1992",
+            "73rd Amendment, 1992",
+            "76th Amendment, 1994"
+          ],
+          "opts_hi": [
+            "70वाँ संशोधन, 1992",
+            "74वाँ संशोधन, 1992",
+            "73वाँ संशोधन, 1992",
+            "76वाँ संशोधन, 1994"
+          ],
+          "ans": 2,
+          "subject": "Indian Constitution & Public Administration"
+        },
+        {
           "q": "What is the chemical symbol for Sodium?",
           "q_hi": "सोडियम का रासायनिक प्रतीक क्या है?",
           "opts": [
@@ -12096,6 +12381,101 @@
             "एम्पियर",
             "ओम",
             "वाट"
+          ],
+          "ans": 1,
+          "subject": "General Science"
+        },
+        {
+          "sheetId": "1584",
+          "q": "Which gland in the human body is responsible for regulating the body's metabolic rate by secreting thyroxine hormone?",
+          "q_hi": "मानव शरीर में कौन सी ग्रंथि थायरॉक्सिन हार्मोन स्रावित करके शरीर की उपापचय दर को नियंत्रित करती है?",
+          "opts": [
+            "Pituitary gland",
+            "Adrenal gland",
+            "Thyroid gland",
+            "Pancreas"
+          ],
+          "opts_hi": [
+            "पिट्यूटरी ग्रंथि",
+            "अधिवृक्क ग्रंथि",
+            "थायरॉइड ग्रंथि",
+            "अग्न्याशय"
+          ],
+          "ans": 2,
+          "subject": "General Science"
+        },
+        {
+          "sheetId": "1585",
+          "q": "When a solution of sodium hydroxide reacts with a solution of hydrochloric acid, which products are formed?",
+          "q_hi": "जब सोडियम हाइड्रॉक्साइड के विलयन की हाइड्रोक्लोरिक अम्ल के विलयन से अभिक्रिया होती है, तो कौन से उत्पाद बनते हैं?",
+          "opts": [
+            "Sodium oxide and water",
+            "Sodium chloride and water",
+            "Sodium carbonate and hydrogen",
+            "Sodium chloride and oxygen"
+          ],
+          "opts_hi": [
+            "सोडियम ऑक्साइड और जल",
+            "सोडियम क्लोराइड और जल",
+            "सोडियम कार्बोनेट और हाइड्रोजन",
+            "सोडियम क्लोराइड और ऑक्सीजन"
+          ],
+          "ans": 1,
+          "subject": "General Science"
+        },
+        {
+          "sheetId": "1586",
+          "q": "A person suffering from myopia (short-sightedness) is prescribed spectacles. Which type of lens is used to correct this defect?",
+          "q_hi": "निकट दृष्टि दोष (मायोपिया) से पीड़ित व्यक्ति को चश्मा लगाने की सलाह दी जाती है। इस दोष को ठीक करने के लिए किस प्रकार के लेंस का उपयोग किया जाता है?",
+          "opts": [
+            "Convex lens",
+            "Bifocal lens",
+            "Concave lens",
+            "Cylindrical lens"
+          ],
+          "opts_hi": [
+            "उत्तल लेंस",
+            "द्विफोकसी लेंस",
+            "अवतल लेंस",
+            "बेलनाकार लेंस"
+          ],
+          "ans": 2,
+          "subject": "General Science"
+        },
+        {
+          "sheetId": "1587",
+          "q": "Deficiency of which vitamin leads to the disease called 'Scurvy', characterised by bleeding gums and weakness?",
+          "q_hi": "स्कर्वी' रोग, जिसमें मसूड़ों से खून आना और कमजोरी होती है, किस विटामिन की कमी से होता है?",
+          "opts": [
+            "Vitamin A",
+            "Vitamin D",
+            "Vitamin B12",
+            "Vitamin C"
+          ],
+          "opts_hi": [
+            "विटामिन A",
+            "विटामिन D",
+            "विटामिन B12",
+            "विटामिन C"
+          ],
+          "ans": 3,
+          "subject": "General Science"
+        },
+        {
+          "sheetId": "1588",
+          "q": "According to Newton's third law of motion, when a bullet is fired from a gun, the gun moves backward. This backward movement of the gun is called:",
+          "q_hi": "न्यूटन के गति के तृतीय नियम के अनुसार, जब बंदूक से गोली दागी जाती है, तो बंदूक पीछे की ओर हटती है। बंदूक की इस पीछे की ओर की गति को क्या कहते हैं?",
+          "opts": [
+            "Inertia",
+            "Recoil",
+            "Momentum",
+            "Impulse"
+          ],
+          "opts_hi": [
+            "जड़त्व",
+            "प्रतिक्षेप (रिकॉइल)",
+            "संवेग",
+            "आवेग"
           ],
           "ans": 1,
           "subject": "General Science"
@@ -12191,6 +12571,101 @@
           "subject": "Elementary Arithmetic"
         },
         {
+          "sheetId": "1609",
+          "q": "A shopkeeper marks the price of an article 25% above its cost price and then gives a discount of 12% on the marked price. What is his profit percentage?",
+          "q_hi": "एक दुकानदार किसी वस्तु का अंकित मूल्य उसके क्रय मूल्य से 25% अधिक रखता है और फिर अंकित मूल्य पर 12% की छूट देता है। उसका लाभ प्रतिशत क्या है?",
+          "opts": [
+            0.1,
+            0.13,
+            0.12,
+            0.11
+          ],
+          "opts_hi": [
+            0.1,
+            0.13,
+            0.12,
+            0.11
+          ],
+          "ans": 0,
+          "subject": "Elementary Arithmetic"
+        },
+        {
+          "sheetId": "1610",
+          "q": "A sum of money doubles itself in 8 years at simple interest. In how many years will it become four times itself?",
+          "q_hi": "साधारण ब्याज पर कोई धनराशि 8 वर्षों में दोगुनी हो जाती है। कितने वर्षों में वह चार गुनी हो जाएगी?",
+          "opts": [
+            "32 years",
+            "16 years",
+            "24 years",
+            "20 years"
+          ],
+          "opts_hi": [
+            "32 वर्ष",
+            "16 वर्ष",
+            "24 वर्ष",
+            "20 वर्ष"
+          ],
+          "ans": 2,
+          "subject": "Elementary Arithmetic"
+        },
+        {
+          "sheetId": "1611",
+          "q": "The ratio of the ages of Ravi and Suresh is 4 : 5. After 6 years, this ratio will become 6 : 7. What is the present age of Suresh?",
+          "q_hi": "रवि और सुरेश की वर्तमान आयु का अनुपात 4 : 5 है। 6 वर्ष बाद यह अनुपात 6 : 7 हो जाएगा। सुरेश की वर्तमान आयु क्या है?",
+          "opts": [
+            "20 years",
+            "25 years",
+            "15 years",
+            "18 years"
+          ],
+          "opts_hi": [
+            "20 वर्ष",
+            "25 वर्ष",
+            "15 वर्ष",
+            "18 वर्ष"
+          ],
+          "ans": 2,
+          "subject": "Elementary Arithmetic"
+        },
+        {
+          "sheetId": "1612",
+          "q": "Simplify: 840 ÷ 14 + 3 × 25 - 120 ÷ 8",
+          "q_hi": "सरल कीजिए: 840 ÷ 14 + 3 × 25 - 120 ÷ 8",
+          "opts": [
+            120,
+            130,
+            125,
+            135
+          ],
+          "opts_hi": [
+            120,
+            130,
+            125,
+            135
+          ],
+          "ans": 0,
+          "subject": "Elementary Arithmetic"
+        },
+        {
+          "sheetId": "1613",
+          "q": "The average of 5 consecutive even numbers is 36. What is the largest of these numbers?",
+          "q_hi": "5 क्रमागत सम संख्याओं का औसत 36 है। इनमें सबसे बड़ी संख्या कौन-सी है?",
+          "opts": [
+            42,
+            38,
+            44,
+            40
+          ],
+          "opts_hi": [
+            42,
+            38,
+            44,
+            40
+          ],
+          "ans": 3,
+          "subject": "Elementary Arithmetic"
+        },
+        {
           "q": "'सूर्य' का पर्यायवाची शब्द कौन सा है?",
           "q_hi": "'सूर्य' का पर्यायवाची शब्द कौन सा है?",
           "opts": [
@@ -12276,6 +12751,101 @@
             "11",
             "12",
             "13"
+          ],
+          "ans": 1,
+          "subject": "General Hindi"
+        },
+        {
+          "sheetId": "1614",
+          "q": "Which type of Sandhi is formed in the word 'महेश' (महा + ईश)?",
+          "q_hi": "महेश' (महा + ईश) शब्द में कौन-सी संधि है?",
+          "opts": [
+            "दीर्घ संधि",
+            "गुण संधि",
+            "वृद्धि संधि",
+            "यण संधि"
+          ],
+          "opts_hi": [
+            "दीर्घ संधि",
+            "गुण संधि",
+            "वृद्धि संधि",
+            "यण संधि"
+          ],
+          "ans": 1,
+          "subject": "General Hindi"
+        },
+        {
+          "sheetId": "1615",
+          "q": "Which type of Samas (compound word) is 'नीलकंठ'?",
+          "q_hi": "नीलकंठ' में कौन-सा समास है?",
+          "opts": [
+            "तत्पुरुष समास",
+            "द्विगु समास",
+            "बहुव्रीहि समास",
+            "कर्मधारय समास"
+          ],
+          "opts_hi": [
+            "तत्पुरुष समास",
+            "द्विगु समास",
+            "बहुव्रीहि समास",
+            "कर्मधारय समास"
+          ],
+          "ans": 2,
+          "subject": "General Hindi"
+        },
+        {
+          "sheetId": "1616",
+          "q": "What is the correct antonym of the word 'आदान'?",
+          "q_hi": "आदान' शब्द का सही विलोम क्या है?",
+          "opts": [
+            "ग्रहण",
+            "प्रदान",
+            "निदान",
+            "वर्धन"
+          ],
+          "opts_hi": [
+            "ग्रहण",
+            "प्रदान",
+            "निदान",
+            "वर्धन"
+          ],
+          "ans": 1,
+          "subject": "General Hindi"
+        },
+        {
+          "sheetId": "1617",
+          "q": "What is the correct meaning of the idiom 'आँखें चार होना'?",
+          "q_hi": "आँखें चार होना' मुहावरे का सही अर्थ क्या है?",
+          "opts": [
+            "आपस में लड़ना",
+            "बहुत क्रोध करना",
+            "प्रेम हो जाना",
+            "सामना करने से डरना"
+          ],
+          "opts_hi": [
+            "आपस में लड़ना",
+            "बहुत क्रोध करना",
+            "प्रेम हो जाना",
+            "सामना करने से डरना"
+          ],
+          "ans": 2,
+          "subject": "General Hindi"
+        },
+        {
+          "sheetId": "1618",
+          "q": "Which Ras (poetic sentiment) is known as the 'King of Ras' (रसराज) in Hindi poetry?",
+          "q_hi": "हिंदी काव्य में किस रस को 'रसराज' कहा जाता है?",
+          "opts": [
+            "वीर रस",
+            "शृंगार रस",
+            "करुण रस",
+            "रौद्र रस"
+          ],
+          "opts_hi": [
+            "वीर रस",
+            "शृंगार रस",
+            "करुण रस",
+            "रौद्र रस"
           ],
           "ans": 1,
           "subject": "General Hindi"
@@ -12371,6 +12941,101 @@
           "subject": "General English"
         },
         {
+          "sheetId": "1619",
+          "q": "Choose the word most similar in meaning to the word 'BENEVOLENT'.",
+          "q_hi": "नीचे दिए गए शब्द 'BENEVOLENT' के अर्थ के सबसे निकट समानार्थी शब्द चुनिए।",
+          "opts": [
+            "Malicious",
+            "Charitable",
+            "Arrogant",
+            "Indifferent"
+          ],
+          "opts_hi": [
+            "Malicious",
+            "Charitable",
+            "Arrogant",
+            "Indifferent"
+          ],
+          "ans": 1,
+          "subject": "General English"
+        },
+        {
+          "sheetId": "1620",
+          "q": "Fill in the blank with the most appropriate preposition: 'She has been working on this project ______ three months.'",
+          "q_hi": "रिक्त स्थान की पूर्ति सबसे उचित preposition से कीजिए: 'She has been working on this project ______ three months.'",
+          "opts": [
+            "since",
+            "from",
+            "for",
+            "until"
+          ],
+          "opts_hi": [
+            "since",
+            "from",
+            "for",
+            "until"
+          ],
+          "ans": 2,
+          "subject": "General English"
+        },
+        {
+          "sheetId": "1621",
+          "q": "Choose the word most nearly opposite in meaning to the word 'FRUGAL'.",
+          "q_hi": "नीचे दिए गए शब्द 'FRUGAL' के अर्थ के सबसे निकट विलोम शब्द चुनिए।",
+          "opts": [
+            "Thrifty",
+            "Humble",
+            "Extravagant",
+            "Cautious"
+          ],
+          "opts_hi": [
+            "Thrifty",
+            "Humble",
+            "Extravagant",
+            "Cautious"
+          ],
+          "ans": 2,
+          "subject": "General English"
+        },
+        {
+          "sheetId": "1622",
+          "q": "Identify the part of the sentence that contains a grammatical error: 'The committee (A) have reached (B) their decision (C) unanimously. (D) No error'",
+          "q_hi": "निम्नलिखित वाक्य के जिस भाग में व्याकरण संबंधी त्रुटि हो, उसे पहचानिए: 'The committee (A) have reached (B) their decision (C) unanimously. (D) No error'",
+          "opts": [
+            "The committee",
+            "have reached",
+            "their decision",
+            "No error"
+          ],
+          "opts_hi": [
+            "The committee",
+            "have reached",
+            "their decision",
+            "No error"
+          ],
+          "ans": 1,
+          "subject": "General English"
+        },
+        {
+          "sheetId": "1623",
+          "q": "Choose the most appropriate one-word substitution for the given expression: 'A person who is unable to pay their debts'",
+          "q_hi": "दिए गए वाक्यांश के लिए सबसे उचित एक शब्द चुनिए: 'A person who is unable to pay their debts'",
+          "opts": [
+            "Miser",
+            "Insolvent",
+            "Creditor",
+            "Prodigal"
+          ],
+          "opts_hi": [
+            "Miser",
+            "Insolvent",
+            "Creditor",
+            "Prodigal"
+          ],
+          "ans": 1,
+          "subject": "General English"
+        },
+        {
           "q": "Find the odd one out: Apple, Mango, Banana, Potato",
           "q_hi": "विषम को चुनें: सेब, आम, केला, आलू",
           "opts": [
@@ -12456,6 +13121,82 @@
             "गोला",
             "वर्ग",
             "त्रिभुज"
+          ],
+          "ans": 1,
+          "subject": "Logic & Reasoning"
+        },
+        {
+          "sheetId": "1624",
+          "q": "Find the missing number in the series: 4, 9, 16, 25, 36, ?",
+          "q_hi": "श्रृंखला में लुप्त संख्या ज्ञात कीजिए: 4, 9, 16, 25, 36, ?",
+          "opts": [
+            42,
+            49,
+            48,
+            54
+          ],
+          "opts_hi": [
+            42,
+            49,
+            48,
+            54
+          ],
+          "ans": 1,
+          "subject": "Logic & Reasoning"
+        },
+        {
+          "sheetId": "1626",
+          "q": "Pointing to a photograph, Suresh says, 'She is the daughter of my grandfather's only son.' How is the person in the photograph related to Suresh?",
+          "q_hi": "एक फोटो की ओर इशारा करते हुए सुरेश कहता है, 'वह मेरे दादा के इकलौते बेटे की बेटी है।' फोटो में मौजूद व्यक्ति सुरेश से किस प्रकार संबंधित है?",
+          "opts": [
+            "Sister",
+            "Cousin",
+            "Niece",
+            "Aunt"
+          ],
+          "opts_hi": [
+            "बहन",
+            "चचेरी बहन",
+            "भतीजी",
+            "चाची"
+          ],
+          "ans": 0,
+          "subject": "Logic & Reasoning"
+        },
+        {
+          "sheetId": "1627",
+          "q": "Ravi starts from point A, walks 8 km towards North, then turns right and walks 6 km, then turns right again and walks 8 km. How far and in which direction is he now from point A?",
+          "q_hi": "रवि बिंदु A से चलना शुरू करता है, उत्तर दिशा में 8 किमी चलता है, फिर दाएँ मुड़कर 6 किमी चलता है, फिर दोबारा दाएँ मुड़कर 8 किमी चलता है। वह अब बिंदु A से कितनी दूर और किस दिशा में है?",
+          "opts": [
+            "6 km, East",
+            "6 km, West",
+            "8 km, South",
+            "14 km, East"
+          ],
+          "opts_hi": [
+            "6 किमी, पूर्व",
+            "6 किमी, पश्चिम",
+            "8 किमी, दक्षिण",
+            "14 किमी, पूर्व"
+          ],
+          "ans": 0,
+          "subject": "Logic & Reasoning"
+        },
+        {
+          "sheetId": "1628",
+          "q": "Statements: All pens are books. Some books are copies. Conclusions: I. Some pens are copies. II. Some copies are books. Which conclusion(s) follow(s)?",
+          "q_hi": "कथन: सभी पेन, किताबें हैं। कुछ किताबें, कॉपियाँ हैं। निष्कर्ष: I. कुछ पेन, कॉपियाँ हैं। II. कुछ कॉपियाँ, किताबें हैं। कौन-सा/से निष्कर्ष सही है/हैं?",
+          "opts": [
+            "Only Conclusion I follows",
+            "Only Conclusion II follows",
+            "Both I and II follow",
+            "Neither I nor II follows"
+          ],
+          "opts_hi": [
+            "केवल निष्कर्ष I सही है",
+            "केवल निष्कर्ष II सही है",
+            "I और II दोनों सही हैं",
+            "न तो I न II सही है"
           ],
           "ans": 1,
           "subject": "Logic & Reasoning"
@@ -12731,6 +13472,196 @@
           "subject": "General Awareness"
         },
         {
+          "sheetId": "1639",
+          "q": "The 'Doctrine of Lapse' was a policy introduced during the Governor-Generalship of which British official in India?",
+          "q_hi": "व्यपगत का सिद्धांत' (Doctrine of Lapse) किस ब्रिटिश गवर्नर-जनरल के कार्यकाल के दौरान लागू किया गया था?",
+          "opts": [
+            "Lord Cornwallis",
+            "Lord Dalhousie",
+            "Lord Curzon",
+            "Lord Wellesley"
+          ],
+          "opts_hi": [
+            "लॉर्ड कार्नवालिस",
+            "लॉर्ड डलहौजी",
+            "लॉर्ड कर्जन",
+            "लॉर्ड वेलेजली"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "sheetId": "1640",
+          "q": "Which river forms the boundary between the states of Uttar Pradesh and Madhya Pradesh for a significant stretch?",
+          "q_hi": "कौन-सी नदी उत्तर प्रदेश और मध्य प्रदेश राज्यों के बीच एक महत्वपूर्ण खंड के लिए सीमा बनाती है?",
+          "opts": [
+            "Chambal",
+            "Betwa",
+            "Son",
+            "Ken"
+          ],
+          "opts_hi": [
+            "चंबल",
+            "बेतवा",
+            "सोन",
+            "केन"
+          ],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "sheetId": "1641",
+          "q": "Under which Article of the Indian Constitution can the President of India declare a National Emergency on the ground of armed rebellion?",
+          "q_hi": "भारतीय संविधान के किस अनुच्छेद के तहत भारत के राष्ट्रपति सशस्त्र विद्रोह के आधार पर राष्ट्रीय आपातकाल की घोषणा कर सकते हैं?",
+          "opts": [
+            "Article 352",
+            "Article 356",
+            "Article 360",
+            "Article 370"
+          ],
+          "opts_hi": [
+            "अनुच्छेद 352",
+            "अनुच्छेद 356",
+            "अनुच्छेद 360",
+            "अनुच्छेद 370"
+          ],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "sheetId": "1642",
+          "q": "Which Five-Year Plan of India adopted the 'Mahalanobis Model' as its economic framework, focusing on heavy industries?",
+          "q_hi": "भारत की किस पंचवर्षीय योजना ने भारी उद्योगों पर ध्यान केंद्रित करते हुए 'महालनोबिस मॉडल' को अपने आर्थिक ढांचे के रूप में अपनाया?",
+          "opts": [
+            "First Five-Year Plan",
+            "Second Five-Year Plan",
+            "Third Five-Year Plan",
+            "Fourth Five-Year Plan"
+          ],
+          "opts_hi": [
+            "प्रथम पंचवर्षीय योजना",
+            "द्वितीय पंचवर्षीय योजना",
+            "तृतीय पंचवर्षीय योजना",
+            "चतुर्थ पंचवर्षीय योजना"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "sheetId": "1643",
+          "q": "Which vitamin is produced in the human body when the skin is exposed to sunlight?",
+          "q_hi": "जब त्वचा सूर्य के प्रकाश के संपर्क में आती है तो मानव शरीर में कौन-सा विटामिन उत्पन्न होता है?",
+          "opts": [
+            "Vitamin A",
+            "Vitamin B12",
+            "Vitamin C",
+            "Vitamin D"
+          ],
+          "opts_hi": [
+            "विटामिन A",
+            "विटामिन B12",
+            "विटामिन C",
+            "विटामिन D"
+          ],
+          "ans": 3,
+          "subject": "General Awareness"
+        },
+        {
+          "sheetId": "1644",
+          "q": "Which city of Uttar Pradesh is known as the 'City of Nawabs' and is famous for its Chikankari embroidery?",
+          "q_hi": "उत्तर प्रदेश का कौन-सा शहर 'नवाबों के शहर' के रूप में जाना जाता है और अपनी चिकनकारी कढ़ाई के लिए प्रसिद्ध है?",
+          "opts": [
+            "Varanasi",
+            "Agra",
+            "Lucknow",
+            "Kanpur"
+          ],
+          "opts_hi": [
+            "वाराणसी",
+            "आगरा",
+            "लखनऊ",
+            "कानपुर"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "sheetId": "1645",
+          "q": "The classical dance form 'Kathak' is primarily associated with which region of India?",
+          "q_hi": "शास्त्रीय नृत्य शैली 'कथक' मुख्य रूप से भारत के किस क्षेत्र से संबंधित है?",
+          "opts": [
+            "Tamil Nadu",
+            "Kerala",
+            "Manipur",
+            "Uttar Pradesh and Rajasthan"
+          ],
+          "opts_hi": [
+            "तमिलनाडु",
+            "केरल",
+            "मणिपुर",
+            "उत्तर प्रदेश और राजस्थान"
+          ],
+          "ans": 3,
+          "subject": "General Awareness"
+        },
+        {
+          "sheetId": "1646",
+          "q": "The 'Palk Strait' separates India from which neighboring country?",
+          "q_hi": "पाक जलडमरूमध्य' (Palk Strait) भारत को किस पड़ोसी देश से अलग करती है?",
+          "opts": [
+            "Maldives",
+            "Myanmar",
+            "Sri Lanka",
+            "Bangladesh"
+          ],
+          "opts_hi": [
+            "मालदीव",
+            "म्यांमार",
+            "श्रीलंका",
+            "बांग्लादेश"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "sheetId": "1647",
+          "q": "The 'Dronacharya Award' in India is given to recognize outstanding achievements in which field?",
+          "q_hi": "भारत में 'द्रोणाचार्य पुरस्कार' किस क्षेत्र में उत्कृष्ट उपलब्धियों को मान्यता देने के लिए दिया जाता है?",
+          "opts": [
+            "Literature",
+            "Sports Coaching",
+            "Science & Research",
+            "Social Service"
+          ],
+          "opts_hi": [
+            "साहित्य",
+            "खेल प्रशिक्षण",
+            "विज्ञान एवं अनुसंधान",
+            "समाज सेवा"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "sheetId": "1648",
+          "q": "Which session of the Indian National Congress first demanded 'Purna Swaraj' (Complete Independence) as its goal?",
+          "q_hi": "भारतीय राष्ट्रीय कांग्रेस के किस अधिवेशन ने पहली बार अपने लक्ष्य के रूप में 'पूर्ण स्वराज' (पूर्ण स्वतंत्रता) की मांग की?",
+          "opts": [
+            "Surat Session, 1907",
+            "Nagpur Session, 1920",
+            "Lahore Session, 1929",
+            "Karachi Session, 1931"
+          ],
+          "opts_hi": [
+            "सूरत अधिवेशन, 1907",
+            "नागपुर अधिवेशन, 1920",
+            "लाहौर अधिवेशन, 1929",
+            "कराची अधिवेशन, 1931"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
           "q": "India launched its Chandrayaan-3 mission, successfully landing near the Moon's south pole, in which year?",
           "q_hi": "भारत ने चंद्रयान-3 मिशन लॉन्च किया, जो चंद्रमा के दक्षिणी ध्रुव के पास सफलतापूर्वक उतरा, किस वर्ष?",
           "opts": [
@@ -12908,6 +13839,196 @@
             "घरेलू विनिर्माण को बढ़ावा देना"
           ],
           "ans": 3,
+          "subject": "Current Affairs"
+        },
+        {
+          "sheetId": "1629",
+          "q": "Under the PM Vishwakarma scheme, launched by the Government of India, what is the maximum loan amount available in the second tranche to artisans and craftspeople?",
+          "q_hi": "भारत सरकार द्वारा शुरू की गई पीएम विश्वकर्मा योजना के तहत, कारीगरों और शिल्पकारों को दूसरी किस्त में अधिकतम कितनी ऋण राशि उपलब्ध है?",
+          "opts": [
+            "Rs. 1 lakh",
+            "Rs. 2 lakh",
+            "Rs. 3 lakh",
+            "Rs. 5 lakh"
+          ],
+          "opts_hi": [
+            "₹1 लाख",
+            "₹2 लाख",
+            "₹3 लाख",
+            "₹5 लाख"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        },
+        {
+          "sheetId": "1630",
+          "q": "The Padma Vibhushan is the second highest civilian award in India. It is awarded for 'distinguished service of exceptional order.' Which ministry recommends these awards?",
+          "q_hi": "पद्म विभूषण भारत का दूसरा सर्वोच्च नागरिक सम्मान है। इसे 'असाधारण और विशिष्ट सेवा' के लिए दिया जाता है। इन पुरस्कारों की सिफारिश कौन सा मंत्रालय करता है?",
+          "opts": [
+            "Ministry of External Affairs",
+            "Ministry of Culture",
+            "Ministry of Home Affairs",
+            "Prime Minister's Office"
+          ],
+          "opts_hi": [
+            "विदेश मंत्रालय",
+            "संस्कृति मंत्रालय",
+            "गृह मंत्रालय",
+            "प्रधानमंत्री कार्यालय"
+          ],
+          "ans": 2,
+          "subject": "Current Affairs"
+        },
+        {
+          "sheetId": "1631",
+          "q": "India became a full member of which grouping in 2023, joining alongside Saudi Arabia, UAE, Ethiopia, Iran, and Argentina (though Argentina later declined)?",
+          "q_hi": "2023 में भारत किस समूह का पूर्ण सदस्य बना, जिसमें सऊदी अरब, UAE, इथियोपिया, ईरान और अर्जेंटीना (हालांकि अर्जेंटीना ने बाद में मना कर दिया) भी शामिल हुए?",
+          "opts": [
+            "G20",
+            "BRICS",
+            "SCO",
+            "ASEAN"
+          ],
+          "opts_hi": [
+            "G20",
+            "ब्रिक्स",
+            "SCO",
+            "आसियान"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        },
+        {
+          "sheetId": "1632",
+          "q": "The 2023 ICC Cricket World Cup was hosted by India. Which team won the tournament?",
+          "q_hi": "2023 ICC क्रिकेट विश्व कप की मेजबानी भारत ने की थी। किस टीम ने यह टूर्नामेंट जीता?",
+          "opts": [
+            "India",
+            "Australia",
+            "South Africa",
+            "New Zealand"
+          ],
+          "opts_hi": [
+            "भारत",
+            "ऑस्ट्रेलिया",
+            "दक्षिण अफ्रीका",
+            "न्यूजीलैंड"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        },
+        {
+          "sheetId": "1633",
+          "q": "ISRO's Chandrayaan-3 mission successfully landed on the Moon in August 2023. The lander of this mission was named:",
+          "q_hi": "ISRO के चंद्रयान-3 मिशन ने अगस्त 2023 में सफलतापूर्वक चंद्रमा पर लैंडिंग की। इस मिशन के लैंडर का नाम था:",
+          "opts": [
+            "Vikram",
+            "Pragyan",
+            "Shanti",
+            "Aditya"
+          ],
+          "opts_hi": [
+            "विक्रम",
+            "प्रज्ञान",
+            "शांति",
+            "आदित्य"
+          ],
+          "ans": 0,
+          "subject": "Current Affairs"
+        },
+        {
+          "sheetId": "1634",
+          "q": "Who was appointed as the Chief Election Commissioner of India in March 2024, following the enactment of the Chief Election Commissioners and other Election Commissioners (Appointment, Conditions of Service and Term of Office) Act, 2023?",
+          "q_hi": "मुख्य चुनाव आयुक्त और अन्य चुनाव आयुक्त (नियुक्ति, सेवा की शर्तें और पदावधि) अधिनियम, 2023 के लागू होने के बाद मार्च 2024 में भारत के मुख्य चुनाव आयुक्त के रूप में किसे नियुक्त किया गया?",
+          "opts": [
+            "Rajiv Kumar",
+            "Gyanesh Kumar",
+            "Sukhbir Singh Sandhu",
+            "Anup Chandra Pandey"
+          ],
+          "opts_hi": [
+            "राजीव कुमार",
+            "ज्ञानेश कुमार",
+            "सुखबीर सिंह संधू",
+            "अनूप चंद्र पांडेय"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        },
+        {
+          "sheetId": "1635",
+          "q": "The new Parliament building of India was inaugurated by Prime Minister Narendra Modi in May 2023. Which historical symbol was installed in the Central Hall of the new Parliament?",
+          "q_hi": "मई 2023 में प्रधानमंत्री नरेंद्र मोदी द्वारा भारत के नए संसद भवन का उद्घाटन किया गया। नए संसद के केंद्रीय हॉल में कौन सा ऐतिहासिक प्रतीक स्थापित किया गया?",
+          "opts": [
+            "Ashoka Pillar",
+            "Sengol (royal sceptre)",
+            "Nataraja statue",
+            "Saraswati idol"
+          ],
+          "opts_hi": [
+            "अशोक स्तंभ",
+            "सेंगोल (राजदंड)",
+            "नटराज की मूर्ति",
+            "सरस्वती की मूर्ति"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        },
+        {
+          "sheetId": "1636",
+          "q": "The Uttar Pradesh government launched the 'Mukhyamantri Abhyudaya Yojana' primarily to provide free coaching to students preparing for which type of examinations?",
+          "q_hi": "उत्तर प्रदेश सरकार ने 'मुख्यमंत्री अभ्युदय योजना' मुख्य रूप से किस प्रकार की परीक्षाओं की तैयारी करने वाले छात्रों को निःशुल्क कोचिंग प्रदान करने के लिए शुरू की?",
+          "opts": [
+            "School board exams",
+            "Medical entrance exams only",
+            "Competitive exams like IAS, IPS, NDA, CDS",
+            "University semester exams"
+          ],
+          "opts_hi": [
+            "स्कूल बोर्ड परीक्षाएं",
+            "केवल मेडिकल प्रवेश परीक्षाएं",
+            "IAS, IPS, NDA, CDS जैसी प्रतियोगी परीक्षाएं",
+            "विश्वविद्यालय सेमेस्टर परीक्षाएं"
+          ],
+          "ans": 2,
+          "subject": "Current Affairs"
+        },
+        {
+          "sheetId": "1637",
+          "q": "India's Unified Payments Interface (UPI) is governed and operated by which organisation?",
+          "q_hi": "भारत का यूनिफाइड पेमेंट्स इंटरफेस (UPI) किस संगठन द्वारा संचालित और प्रबंधित किया जाता है?",
+          "opts": [
+            "Reserve Bank of India",
+            "National Payments Corporation of India",
+            "State Bank of India",
+            "Ministry of Finance"
+          ],
+          "opts_hi": [
+            "भारतीय रिजर्व बैंक",
+            "नेशनल पेमेंट्स कॉर्पोरेशन ऑफ इंडिया",
+            "भारतीय स्टेट बैंक",
+            "वित्त मंत्रालय"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        },
+        {
+          "sheetId": "1638",
+          "q": "India officially submitted its updated Nationally Determined Contribution (NDC) to the UNFCCC in 2022, committing to achieve approximately what percentage of cumulative electric power installed capacity from non-fossil fuel based energy resources by 2030?",
+          "q_hi": "भारत ने 2022 में UNFCCC को अपना अद्यतन राष्ट्रीय निर्धारित योगदान (NDC) आधिकारिक रूप से प्रस्तुत किया, जिसमें 2030 तक गैर-जीवाश्म ईंधन आधारित ऊर्जा स्रोतों से संचयी विद्युत स्थापित क्षमता का लगभग कितने प्रतिशत प्राप्त करने की प्रतिबद्धता जताई गई?",
+          "opts": [
+            0.4,
+            0.5,
+            0.6,
+            0.75
+          ],
+          "opts_hi": [
+            0.4,
+            0.5,
+            0.6,
+            0.75
+          ],
+          "ans": 1,
           "subject": "Current Affairs"
         },
         {
@@ -13089,6 +14210,226 @@
           ],
           "ans": 0,
           "subject": "Data Interpretation"
+        },
+        {
+          "sheetId": "1589",
+          "q": "The earnings of the company in 1996-97 were approximately what percent of the average earning over the period under review?",
+          "q_hi": "1996-97 में कंपनी की आय समीक्षा अवधि के औसत आय का लगभग कितना प्रतिशत थी?",
+          "opts": [
+            1.51,
+            1.41,
+            1.46,
+            1.36
+          ],
+          "opts_hi": [
+            1.51,
+            1.41,
+            1.46,
+            1.36
+          ],
+          "ans": 1,
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_bar_exam_9200_chart.svg"
+        },
+        {
+          "sheetId": "1591",
+          "q": "The earning of company in 1997-98 was how many times that in 1994-95?",
+          "q_hi": "1997-98 में कंपनी की आय 1994-95 से कितनी गुना थी?",
+          "opts": [
+            0.1,
+            0.2,
+            0.3,
+            0.4
+          ],
+          "opts_hi": [
+            0.1,
+            0.2,
+            0.3,
+            0.4
+          ],
+          "ans": 0,
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_bar_exam_9200_chart.svg"
+        },
+        {
+          "sheetId": "1592",
+          "q": "What was the percentage increase in earning of the company in 1997-98 over 1993-94?",
+          "q_hi": "1997-98 में कंपनी की आय में 1993-94 की तुलना में कितने प्रतिशत की वृद्धि हुई थी?",
+          "opts": [
+            0.02,
+            0.42,
+            0.22,
+            0.12
+          ],
+          "opts_hi": [
+            0.02,
+            0.42,
+            0.22,
+            0.12
+          ],
+          "ans": 0,
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_bar_exam_9200_chart.svg"
+        },
+        {
+          "sheetId": "1593",
+          "q": "What was the approximate percentage decline in the earning of the company from 1994-95 to 1995-96?",
+          "q_hi": "1994-95 से 1995-96 तक कंपनी की आय में लगभग कितने प्रतिशत की गिरावट आई थी?",
+          "opts": [
+            0.11,
+            0.06,
+            0.09,
+            0.01
+          ],
+          "opts_hi": [
+            0.11,
+            0.06,
+            0.09,
+            0.01
+          ],
+          "ans": 3,
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_bar_exam_9200_chart.svg"
+        },
+        {
+          "sheetId": "1599",
+          "q": "In 2016, the revenue was approximately what percent of the total revenue over the period?",
+          "q_hi": "2016 में राजस्व, अवधि के कुल राजस्व का लगभग कितना प्रतिशत था?",
+          "opts": [
+            0.17,
+            0.14,
+            0.23,
+            0.2
+          ],
+          "opts_hi": [
+            0.17,
+            0.14,
+            0.23,
+            0.2
+          ],
+          "ans": 0,
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_2graph_9200_chart.svg"
+        },
+        {
+          "sheetId": "1600",
+          "q": "In which year was the profit the highest?",
+          "q_hi": "किस वर्ष में लाभ सबसे अधिक था?",
+          "opts": [
+            2018,
+            2015,
+            2020,
+            2019
+          ],
+          "opts_hi": [
+            2018,
+            2015,
+            2020,
+            2019
+          ],
+          "ans": 0,
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_2graph_9200_chart.svg"
+        },
+        {
+          "sheetId": "1601",
+          "q": "What is the approximate ratio of revenue to profit in 2016?",
+          "q_hi": "2016 में राजस्व और लाभ का अनुमानित अनुपात क्या है?",
+          "opts": [
+            "17.3 : 1",
+            "15.3 : 1",
+            "16.3 : 1",
+            "19.3 : 1"
+          ],
+          "opts_hi": [
+            "17.3 : 1",
+            "15.3 : 1",
+            "16.3 : 1",
+            "19.3 : 1"
+          ],
+          "ans": 0,
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_2graph_9200_chart.svg"
+        },
+        {
+          "sheetId": "1602",
+          "q": "What was the percentage change in revenue from 2015 to 2020?",
+          "q_hi": "2015 से 2020 तक राजस्व में कितने प्रतिशत का परिवर्तन हुआ?",
+          "opts": [
+            0.54,
+            0.64,
+            0.49,
+            0.59
+          ],
+          "opts_hi": [
+            0.54,
+            0.64,
+            0.49,
+            0.59
+          ],
+          "ans": 1,
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_2graph_9200_chart.svg"
+        },
+        {
+          "sheetId": "1603",
+          "q": "In which year was the revenue below average but the profit above average?",
+          "q_hi": "किस वर्ष में राजस्व औसत से कम था लेकिन लाभ औसत से अधिक था?",
+          "opts": [
+            2018,
+            2020,
+            2019,
+            2017
+          ],
+          "opts_hi": [
+            2018,
+            2020,
+            2019,
+            2017
+          ],
+          "ans": 0,
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_2graph_9200_chart.svg"
+        },
+        {
+          "sheetId": "1604",
+          "q": "In 2017, the revenue was approximately what percent of the total revenue over the period?",
+          "q_hi": "2017 में राजस्व, अवधि के कुल राजस्व का लगभग कितना प्रतिशत था?",
+          "opts": [
+            0.26,
+            0.29,
+            0.23,
+            0.32
+          ],
+          "opts_hi": [
+            0.26,
+            0.29,
+            0.23,
+            0.32
+          ],
+          "ans": 3,
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_2graph_9201_chart.svg"
+        },
+        {
+          "sheetId": "1606",
+          "q": "What is the approximate ratio of revenue to profit in 2019?",
+          "q_hi": "2019 में राजस्व और लाभ का अनुमानित अनुपात क्या है?",
+          "opts": [
+            "5.4 : 1",
+            "7.4 : 1",
+            "4.4 : 1",
+            "6.4 : 1"
+          ],
+          "opts_hi": [
+            "5.4 : 1",
+            "7.4 : 1",
+            "4.4 : 1",
+            "6.4 : 1"
+          ],
+          "ans": 1,
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_2graph_9201_chart.svg"
         },
         {
           "q": "Which is the staple food crop of Uttar Pradesh?",
@@ -13449,6 +14790,215 @@
           ],
           "ans": 1,
           "subject": "Comprehension"
+        },
+        {
+          "sheetId": "1559",
+          "q": "Which rock edict of Ashoka mentions his personal name 'Devanampiya Piyadasi' for the first time through a separate minor rock edict found at Maski?",
+          "q_hi": "अशोक के किस लघु शिलालेख में उनका व्यक्तिगत नाम 'देवानांपिय पियदस्सी' का उल्लेख मस्की में मिलता है?",
+          "opts": [
+            "Major Rock Edict XIII",
+            "Minor Rock Edict I",
+            "Pillar Edict VII",
+            "Major Rock Edict II"
+          ],
+          "opts_hi": [
+            "प्रमुख शिलालेख XIII",
+            "लघु शिलालेख I",
+            "स्तम्भ लेख VII",
+            "प्रमुख शिलालेख II"
+          ],
+          "ans": 1,
+          "subject": "India History"
+        },
+        {
+          "sheetId": "1560",
+          "q": "The 'Ain-i-Akbari', which provides detailed administrative records of Akbar's reign, was written by which court official?",
+          "q_hi": "आइन-ए-अकबरी', जो अकबर के शासनकाल का विस्तृत प्रशासनिक विवरण प्रस्तुत करती है, किस दरबारी अधिकारी द्वारा लिखी गई थी?",
+          "opts": [
+            "Birbal",
+            "Todar Mal",
+            "Abul Fazl",
+            "Faizi"
+          ],
+          "opts_hi": [
+            "बीरबल",
+            "टोडर मल",
+            "अबुल फज्ल",
+            "फैजी"
+          ],
+          "ans": 2,
+          "subject": "India History"
+        },
+        {
+          "sheetId": "1561",
+          "q": "At which session of the Indian National Congress was the historic 'Purna Swaraj' (Complete Independence) resolution passed on 31 December 1929?",
+          "q_hi": "भारतीय राष्ट्रीय कांग्रेस के किस अधिवेशन में 31 दिसम्बर 1929 को ऐतिहासिक 'पूर्ण स्वराज' प्रस्ताव पारित किया गया था?",
+          "opts": [
+            "Calcutta Session",
+            "Lahore Session",
+            "Lucknow Session",
+            "Karachi Session"
+          ],
+          "opts_hi": [
+            "कलकत्ता अधिवेशन",
+            "लाहौर अधिवेशन",
+            "लखनऊ अधिवेशन",
+            "कराची अधिवेशन"
+          ],
+          "ans": 1,
+          "subject": "India History"
+        },
+        {
+          "sheetId": "1562",
+          "q": "Which Gupta ruler is credited with the title 'Vikramaditya' and is known for defeating the Shakas, as described in the Mehrauli Iron Pillar inscription?",
+          "q_hi": "किस गुप्त शासक को 'विक्रमादित्य' की उपाधि दी जाती है और मेहरौली लौह स्तम्भ अभिलेख के अनुसार शकों को पराजित करने का श्रेय दिया जाता है?",
+          "opts": [
+            "Samudragupta",
+            "Chandragupta I",
+            "Chandragupta II",
+            "Kumaragupta I"
+          ],
+          "opts_hi": [
+            "समुद्रगुप्त",
+            "चन्द्रगुप्त प्रथम",
+            "चन्द्रगुप्त द्वितीय",
+            "कुमारगुप्त प्रथम"
+          ],
+          "ans": 2,
+          "subject": "India History"
+        },
+        {
+          "sheetId": "1563",
+          "q": "The 'Brahmo Samaj', founded in 1828 in Calcutta, aimed at reforming Hinduism by rejecting idol worship and promoting monotheism. Who among the following founded it?",
+          "q_hi": "1828 में कलकत्ता में स्थापित 'ब्रह्म समाज' का उद्देश्य मूर्ति पूजा को अस्वीकार कर एकेश्वरवाद को बढ़ावा देते हुए हिन्दू धर्म में सुधार करना था। इसकी स्थापना निम्नलिखित में से किसने की?",
+          "opts": [
+            "Swami Dayananda Saraswati",
+            "Ram Mohan Roy",
+            "Keshab Chandra Sen",
+            "Ishwar Chandra Vidyasagar"
+          ],
+          "opts_hi": [
+            "स्वामी दयानन्द सरस्वती",
+            "राम मोहन राय",
+            "केशव चन्द्र सेन",
+            "ईश्वर चन्द्र विद्यासागर"
+          ],
+          "ans": 1,
+          "subject": "India History"
+        },
+        {
+          "sheetId": "1574",
+          "q": "Which of the following correctly defines 'Gross Domestic Product' (GDP)?",
+          "q_hi": "निम्नलिखित में से कौन सा कथन 'सकल घरेलू उत्पाद' (GDP) को सही रूप से परिभाषित करता है?",
+          "opts": [
+            "Total value of goods and services produced by a country's residents anywhere in the world in a year",
+            "Total market value of all final goods and services produced within a country's geographic boundary in a given year",
+            "Total value of goods and services exported by a country in a year",
+            "Net value of all goods and services produced within a country after deducting depreciation"
+          ],
+          "opts_hi": [
+            "किसी देश के निवासियों द्वारा विश्व में कहीं भी एक वर्ष में उत्पादित वस्तुओं और सेवाओं का कुल मूल्य",
+            "किसी देश की भौगोलिक सीमा के भीतर एक निश्चित वर्ष में उत्पादित सभी अंतिम वस्तुओं और सेवाओं का कुल बाजार मूल्य",
+            "एक वर्ष में किसी देश द्वारा निर्यात की गई वस्तुओं और सेवाओं का कुल मूल्य",
+            "मूल्यह्रास घटाने के बाद किसी देश में उत्पादित सभी वस्तुओं और सेवाओं का शुद्ध मूल्य"
+          ],
+          "ans": 1,
+          "subject": "Indian Economy"
+        },
+        {
+          "sheetId": "1576",
+          "q": "The Reserve Bank of India was nationalised in which year?",
+          "q_hi": "भारतीय रिज़र्व बैंक का राष्ट्रीयकरण किस वर्ष किया गया था?",
+          "opts": [
+            1935,
+            1949,
+            1955,
+            1969
+          ],
+          "opts_hi": [
+            1935,
+            1949,
+            1955,
+            1969
+          ],
+          "ans": 1,
+          "subject": "Indian Economy"
+        },
+        {
+          "sheetId": "1577",
+          "q": "Which type of unemployment is most commonly observed in the agricultural sector of India, where more workers are engaged than actually required?",
+          "q_hi": "भारत के कृषि क्षेत्र में किस प्रकार की बेरोज़गारी सबसे अधिक पाई जाती है, जहाँ आवश्यकता से अधिक श्रमिक लगे होते हैं?",
+          "opts": [
+            "Frictional Unemployment",
+            "Structural Unemployment",
+            "Disguised Unemployment",
+            "Cyclical Unemployment"
+          ],
+          "opts_hi": [
+            "घर्षणात्मक बेरोज़गारी",
+            "संरचनात्मक बेरोज़गारी",
+            "प्रच्छन्न बेरोज़गारी",
+            "चक्रीय बेरोज़गारी"
+          ],
+          "ans": 2,
+          "subject": "Indian Economy"
+        },
+        {
+          "sheetId": "1578",
+          "q": "If the government's total expenditure exceeds its total receipts excluding borrowings, the difference is called:",
+          "q_hi": "यदि सरकार का कुल व्यय, उधारी को छोड़कर कुल प्राप्तियों से अधिक हो, तो उस अंतर को क्या कहते हैं?",
+          "opts": [
+            "Revenue Deficit",
+            "Primary Deficit",
+            "Fiscal Deficit",
+            "Budget Deficit"
+          ],
+          "opts_hi": [
+            "राजस्व घाटा",
+            "प्राथमिक घाटा",
+            "राजकोषीय घाटा",
+            "बजट घाटा"
+          ],
+          "ans": 2,
+          "subject": "Indian Economy"
+        },
+        {
+          "sheetId": "1649",
+          "q": "Read the following passage and answer the question:  'प्रकृति मनुष्य की सबसे बड़ी शिक्षक है। वह हमें धैर्य सिखाती है — जैसे नदी पत्थरों को काटकर अपना मार्ग बना लेती है। वह हमें परिश्रम का पाठ पढ़ाती है — जैसे मधुमक्खी बिना थके मधु एकत्र करती रहती है। प्रकृति का हर तत्व हमें जीवन जीने की कला सिखाता है, यदि हम उसे ध्यान से देखें।'  What is the central idea of this passage?",
+          "q_hi": "निम्नलिखित गद्यांश को पढ़कर प्रश्न का उत्तर दीजिए:  'प्रकृति मनुष्य की सबसे बड़ी शिक्षक है। वह हमें धैर्य सिखाती है — जैसे नदी पत्थरों को काटकर अपना मार्ग बना लेती है। वह हमें परिश्रम का पाठ पढ़ाती है — जैसे मधुमक्खी बिना थके मधु एकत्र करती रहती है। प्रकृति का हर तत्व हमें जीवन जीने की कला सिखाता है, यदि हम उसे ध्यान से देखें।'  इस गद्यांश का केंद्रीय भाव क्या है?",
+          "opts": [
+            "Nature is more beautiful than humans",
+            "Nature teaches humans life lessons",
+            "Bees and rivers are hardworking",
+            "Humans should live near nature"
+          ],
+          "opts_hi": [
+            "प्रकृति मनुष्य से अधिक सुंदर है",
+            "प्रकृति मनुष्य को जीवन के पाठ सिखाती है",
+            "मधुमक्खी और नदी परिश्रमी होती हैं",
+            "मनुष्य को प्रकृति के पास रहना चाहिए"
+          ],
+          "ans": 1,
+          "subject": "Analysis of Hindi Unread Passage (2 Passages)"
+        },
+        {
+          "sheetId": "1650",
+          "q": "Read the following passage and answer the question:  'आज के युग में समय की कद्र करना अत्यंत आवश्यक है। जो व्यक्ति समय को व्यर्थ गँवाता है, वह जीवन में पिछड़ जाता है। समय एक बार बीत जाने पर कभी लौटकर नहीं आता। इसलिए प्रत्येक क्षण का सदुपयोग करना चाहिए।'  In the passage, the word 'सदुपयोग' means:",
+          "q_hi": "निम्नलिखित गद्यांश को पढ़कर प्रश्न का उत्तर दीजिए:  'आज के युग में समय की कद्र करना अत्यंत आवश्यक है। जो व्यक्ति समय को व्यर्थ गँवाता है, वह जीवन में पिछड़ जाता है। समय एक बार बीत जाने पर कभी लौटकर नहीं आता। इसलिए प्रत्येक क्षण का सदुपयोग करना चाहिए।'  गद्यांश में 'सदुपयोग' शब्द का अर्थ है:",
+          "opts": [
+            "Misuse",
+            "Waste",
+            "Proper use",
+            "Ignorance"
+          ],
+          "opts_hi": [
+            "दुरुपयोग",
+            "बर्बादी",
+            "उचित उपयोग",
+            "उपेक्षा"
+          ],
+          "ans": 2,
+          "subject": "Analysis of Hindi Unread Passage (2 Passages)"
         }
       ]
     },
