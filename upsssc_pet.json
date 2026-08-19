@@ -13146,19 +13146,19 @@
         },
         {
           "sheetId": "1626",
-          "q": "Pointing to a photograph, Suresh says, 'She is the daughter of my grandfather's only son.' How is the person in the photograph related to Suresh?",
-          "q_hi": "एक फोटो की ओर इशारा करते हुए सुरेश कहता है, 'वह मेरे दादा के इकलौते बेटे की बेटी है।' फोटो में मौजूद व्यक्ति सुरेश से किस प्रकार संबंधित है?",
+          "q": "In a certain code language, 'ORANGE' is written as 'TCPUIG'. Following the same rule, how will 'MANGO' be written in that code?",
+          "q_hi": "किसी कूट भाषा में 'ORANGE' को 'TCPUIG' लिखा जाता है। उसी नियम के अनुसार 'MANGO' को उस कूट भाषा में कैसे लिखा जाएगा?",
           "opts": [
-            "Sister",
-            "Cousin",
-            "Niece",
-            "Aunt"
+            "OCPIQ",
+            "PCNIQ",
+            "OCPJR",
+            "OCPHQ"
           ],
           "opts_hi": [
-            "बहन",
-            "चचेरी बहन",
-            "भतीजी",
-            "चाची"
+            "OCPIQ",
+            "PCNIQ",
+            "OCPJR",
+            "OCPHQ"
           ],
           "ans": 0,
           "subject": "Logic & Reasoning"
