@@ -2317,6 +2317,8 @@ window.addEventListener('popstate', ()=>{
   else { S.screen='home'; }
   render();
 });
+
+// ===== UPDATED BOOT FUNCTION WITH MOCK TEST DETECTION =====
 async function boot(){
   try{
     const res = await fetch('/meta.json');
@@ -2325,6 +2327,34 @@ async function boot(){
     console.error('Failed to load MockAdda data', e);
     DATA = {};
   }
+
+  // --- NEW: Check for UPSSSC mock test URL pattern ---
+  const path = location.pathname;
+  const mockMatch = path.match(/\/upsssc\/upsssc-pet-mock-test-(\d+)/);
+  if(mockMatch){
+    const mockNumber = parseInt(mockMatch[1], 10);
+    const examKey = 'upsssc_pet';
+    const catKey = 'upsssc';
+    const cat = DATA[catKey];
+    const exam = cat ? cat.exams[examKey] : null;
+    if(exam && exam.tests && exam.tests.length >= mockNumber){
+      const test = exam.tests[mockNumber - 1];
+      if(test){
+        try {
+          const fullTest = await loadFullTest(examKey, test.id, test);
+          S.activeCatKey = catKey;
+          S.activeExamKey = examKey;
+          S.activeExam = exam;
+          navigateToExam(catKey, examKey, exam);
+          startQuiz(catKey, examKey, fullTest);
+          return; // Exit boot, quiz starts immediately
+        } catch(e) {
+          console.warn('Failed to load mock test, falling back to tests screen', e);
+        }
+      }
+    }
+  }
+
   const match = parseUrlPath();
   if(match){
     S.activeCatKey=match.catKey; S.activeExamKey=match.examKey; S.activeExam=match.exam;
@@ -2336,6 +2366,7 @@ async function boot(){
   render();
 }
 boot();
+// ===== END OF UPDATED BOOT =====
 </script>
 </body>
 </html>
