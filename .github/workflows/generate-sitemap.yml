@@ -2,10 +2,10 @@ name: Generate Sitemap
 
 on:
   push:
-    branches: [ main ]   # or 'master' if that's your default branch
-  # You can also add a schedule to run weekly:
+    branches: [ main, master ]
+  # Optional: Run automatically every Sunday
   # schedule:
-  #   - cron: '0 0 * * 0'  # every Sunday at midnight
+  #   - cron: '0 0 * * 0'
 
 jobs:
   build:
@@ -27,5 +27,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add sitemap.xml
-          git diff --staged --quiet || git commit -m "Auto-update sitemap"
+          git diff --staged --quiet || git commit -m "Auto-update sitemap [skip ci]"
           git push
