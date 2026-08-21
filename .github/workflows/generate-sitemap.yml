@@ -1,0 +1,31 @@
+name: Generate Sitemap
+
+on:
+  push:
+    branches: [ main ]   # or 'master' if that's your default branch
+  # You can also add a schedule to run weekly:
+  # schedule:
+  #   - cron: '0 0 * * 0'  # every Sunday at midnight
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Generate sitemap
+        run: python generate_sitemap.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add sitemap.xml
+          git diff --staged --quiet || git commit -m "Auto-update sitemap"
+          git push
