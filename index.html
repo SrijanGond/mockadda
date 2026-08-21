@@ -7,7 +7,6 @@
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'G-2E4YWNRY8E');
 </script>
 <meta charset="UTF-8"/>
@@ -87,6 +86,78 @@ button{font-family:'DM Sans',sans-serif;cursor:pointer;}
   .qb-sidebar{display:block !important;width:300px;flex-shrink:0;position:sticky;top:76px;}
   .qb-mobile-nav-btn{display:none !important;}
   .qb-mobile-palette{display:none !important;}
+}
+
+/* ── VIRTUAL KEYBOARD ─────────────────────────────────────────── */
+.vk-board {
+  background: #f1f5f9;
+  border-radius: 12px;
+  padding: 10px 6px 8px;
+  margin-top: 16px;
+  border: 1px solid #e2e8f0;
+  user-select: none;
+}
+.vk-row {
+  display: flex;
+  justify-content: center;
+  gap: 6px;
+  margin-bottom: 6px;
+}
+.vk-key {
+  min-width: 36px;
+  height: 40px;
+  background: #fff;
+  border: 1px solid #cbd5e1;
+  border-radius: 6px;
+  font-size: 14px;
+  font-weight: 600;
+  color: #0f172a;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.06);
+  transition: all 0.08s;
+  padding: 0 4px;
+  line-height: 1.2;
+}
+.vk-key:active {
+  transform: scale(0.92);
+  background: #e2e8f0;
+}
+.vk-key.special {
+  background: #e2e8f0;
+  color: #1e293b;
+  font-size: 12px;
+  min-width: 50px;
+}
+.vk-key.shift-active {
+  background: #bae6fd;
+  border-color: #0ea5e9;
+}
+.vk-key .vk-shift-char {
+  font-size: 10px;
+  color: #64748b;
+  font-weight: 400;
+}
+.vk-key .vk-main-char {
+  font-size: 15px;
+}
+.vk-space {
+  min-width: 120px;
+  font-size: 13px;
+  letter-spacing: 1px;
+}
+@media (max-width: 480px) {
+  .vk-key {
+    min-width: 26px;
+    height: 34px;
+    font-size: 12px;
+    padding: 0 2px;
+  }
+  .vk-key.special { min-width: 38px; font-size: 10px; }
+  .vk-space { min-width: 70px; }
 }
 </style>
 </head>
@@ -1882,6 +1953,136 @@ async function launchSubjectPractice(slug, name, count){
   }
 }
 
+// ─── VIRTUAL KEYBOARD BUILDER ──────────────────────────────────────────────
+function createVirtualKeyboard(lang, onKeyPress) {
+  const EN_LAYOUT = {
+    rows: [
+      ['`','1','2','3','4','5','6','7','8','9','0','-','='],
+      ['q','w','e','r','t','y','u','i','o','p','[',']','\\'],
+      ['a','s','d','f','g','h','j','k','l',';',"'"],
+      ['z','x','c','v','b','n','m',',','.','/']
+    ],
+    shift: {
+      '`':'~','1':'!','2':'@','3':'#','4':'$','5':'%','6':'^','7':'&','8':'*','9':'(','0':')','-':'_','=':'+',
+      'q':'Q','w':'W','e':'E','r':'R','t':'T','y':'Y','u':'U','i':'I','o':'O','p':'P','[':'{',']':'}','\\':'|',
+      'a':'A','s':'S','d':'D','f':'F','g':'G','h':'H','j':'J','k':'K','l':'L',';':':',"'":'"',
+      'z':'Z','x':'X','c':'C','v':'V','b':'B','n':'N','m':'M',',':'<','.':'>','/':'?'
+    }
+  };
+
+  const HI_CODES = {
+    row1: ['Backquote','Digit1','Digit2','Digit3','Digit4','Digit5','Digit6','Digit7','Digit8','Digit9','Digit0','Minus','Equal'],
+    row2: ['KeyQ','KeyW','KeyE','KeyR','KeyT','KeyY','KeyU','KeyI','KeyO','KeyP','BracketLeft','BracketRight','Backslash'],
+    row3: ['KeyA','KeyS','KeyD','KeyF','KeyG','KeyH','KeyJ','KeyK','KeyL','Semicolon','Quote'],
+    row4: ['KeyZ','KeyX','KeyC','KeyV','KeyB','KeyN','KeyM','Comma','Period','Slash']
+  };
+
+  const container = el('div', { class: 'vk-board' });
+  let shiftActive = false;
+
+  function getChar(code, shift) {
+    if (lang === 'en') {
+      const base = code;
+      const shifted = EN_LAYOUT.shift[base];
+      return shift && shifted ? shifted : base;
+    } else {
+      const map = INSCRIPT_MAP[code];
+      if (!map) return '';
+      return shift ? map.s : map.n;
+    }
+  }
+
+  function buildKey(label, code, isSpecial, extra) {
+    const btn = el('button', { class: 'vk-key' + (isSpecial ? ' special' : '') + (extra ? ' ' + extra : '') });
+    if (isSpecial) {
+      btn.textContent = label;
+    } else {
+      const main = getChar(code, false);
+      const shifted = getChar(code, true);
+      if (shifted && shifted !== main) {
+        btn.innerHTML = `<span class="vk-main-char">${main}</span><span class="vk-shift-char">${shifted}</span>`;
+      } else {
+        btn.textContent = main;
+      }
+    }
+    btn.dataset.code = code || label;
+
+    if (label === 'Shift') {
+      btn.dataset.shift = '1';
+      btn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        shiftActive = !shiftActive;
+        document.querySelectorAll('.vk-key[data-shift="1"]').forEach(el => {
+          el.classList.toggle('shift-active', shiftActive);
+        });
+      });
+    } else if (label === '←') {
+      btn.addEventListener('click', () => onKeyPress('Backspace'));
+    } else if (label === 'Enter') {
+      btn.addEventListener('click', () => onKeyPress('Enter'));
+    } else if (label === 'Space') {
+      btn.classList.add('vk-space');
+      btn.addEventListener('click', () => onKeyPress(' '));
+    } else {
+      btn.addEventListener('click', () => {
+        const ch = getChar(btn.dataset.code, shiftActive);
+        if (ch) {
+          onKeyPress(ch);
+          if (shiftActive) {
+            shiftActive = false;
+            document.querySelectorAll('.vk-key[data-shift="1"]').forEach(el => {
+              el.classList.toggle('shift-active', false);
+            });
+          }
+        }
+      });
+    }
+    return btn;
+  }
+
+  let rows;
+  if (lang === 'en') {
+    rows = EN_LAYOUT.rows;
+  } else {
+    rows = [HI_CODES.row1, HI_CODES.row2, HI_CODES.row3, HI_CODES.row4];
+  }
+
+  rows.forEach((row, idx) => {
+    const rowDiv = el('div', { class: 'vk-row' });
+    const isLastRow = (idx === rows.length - 1);
+
+    if (isLastRow && lang === 'en') {
+      rowDiv.appendChild(buildKey('Shift', null, true));
+    }
+
+    row.forEach(label => {
+      if (lang === 'en') {
+        rowDiv.appendChild(buildKey(label, label, false));
+      } else {
+        rowDiv.appendChild(buildKey(label, label, false));
+      }
+    });
+
+    if (idx === 0) {
+      rowDiv.appendChild(buildKey('←', null, true));
+    } else if (idx === 2) {
+      rowDiv.appendChild(buildKey('Enter', null, true));
+    }
+
+    if (isLastRow && lang === 'hi') {
+      rowDiv.appendChild(buildKey('Shift', null, true));
+    }
+
+    if (isLastRow) {
+      rowDiv.appendChild(buildKey('Space', null, true));
+    }
+
+    container.appendChild(rowDiv);
+  });
+
+  return container;
+}
+
 // ── TYPING PRACTICE ────────────────────────────────────────────────────────────
 function typingHomeScreen(){
   const root=el('div');root.appendChild(Navbar());
@@ -1970,15 +2171,9 @@ function typingHomeScreen(){
 }
 
 function buildRepeatedText(passage, durationSec){
-  // Generous upper bound so even a very fast typist (100+ WPM) never runs out of text before time is up
   const estCharsNeeded = Math.ceil((durationSec/60) * 110 * 5) + 500;
   let out = passage.text;
   if(out.length >= estCharsNeeded) return out;
-  // Instead of repeating the SAME passage over and over (which is what made
-  // long tests feel like the text kept "resetting"), cycle through the other
-  // passages in the same language pool first, so a 20-30 minute test shows
-  // genuinely different paragraphs before anything repeats. Only after every
-  // other passage has been used once do we start over from the beginning.
   const pool = TYPING_PASSAGES[T.lang] || [];
   const others = pool.filter(p=>p.id!==passage.id);
   let i = 0;
@@ -1986,8 +2181,6 @@ function buildRepeatedText(passage, durationSec){
     out += ' ' + others[i % others.length].text;
     i++;
   }
-  // Fallback (e.g. only one passage exists in this language) — repeat the
-  // same passage rather than looping forever.
   while(out.length < estCharsNeeded){
     out += ' ' + passage.text;
   }
@@ -2038,9 +2231,55 @@ function typingTestScreen(){
   body.appendChild(inputBox);
   body.appendChild(el('button',{css:'width:100%;margin-top:14px;padding:12px;background:#f1f5f9;border:1px solid #e2e8f0;color:#64748b;border-radius:10px;font-weight:600;font-size:13px;cursor:pointer;',text:'Finish Now',onClick:()=>finishTypingTest('manual')}));
 
+  // ─── VIRTUAL KEYBOARD (added below) ──────────────────────────────────
+  const keyboardWrapper = el('div', { id: 'vkWrapper' });
+  keyboardWrapper.appendChild(el('div', { css: 'margin-top:12px;font-size:11px;color:#94a3b8;text-align:center;', text: '🖱️ Click keys below to type (Shift for uppercase/symbols)' }));
+
+  const handleKeyPress = (char) => {
+    if (T.finished) return;
+    const textarea = document.getElementById('typingInput');
+    if (!textarea) return;
+    if (!T.startTime) { T.startTime = Date.now(); startTypingTimer(); }
+
+    if (char === 'Backspace') {
+      const start = textarea.selectionStart;
+      const end = textarea.selectionEnd;
+      if (start === end && start > 0) {
+        const val = textarea.value;
+        textarea.value = val.slice(0, start - 1) + val.slice(start);
+        textarea.selectionStart = textarea.selectionEnd = start - 1;
+        T.corrections++;
+      } else if (start !== end) {
+        const val = textarea.value;
+        textarea.value = val.slice(0, start) + val.slice(end);
+        textarea.selectionStart = textarea.selectionEnd = start;
+        T.corrections++;
+      }
+    } else if (char === 'Enter') {
+      const start = textarea.selectionStart;
+      const end = textarea.selectionEnd;
+      const val = textarea.value;
+      textarea.value = val.slice(0, start) + '\n' + val.slice(end);
+      textarea.selectionStart = textarea.selectionEnd = start + 1;
+    } else {
+      const start = textarea.selectionStart;
+      const end = textarea.selectionEnd;
+      const val = textarea.value;
+      textarea.value = val.slice(0, start) + char + val.slice(end);
+      textarea.selectionStart = textarea.selectionEnd = start + char.length;
+    }
+    const ev = new Event('input', { bubbles: true });
+    textarea.dispatchEvent(ev);
+    onTypingInput({ target: textarea });
+    textarea.focus();
+  };
+
+  const kb = createVirtualKeyboard(T.lang, handleKeyPress);
+  keyboardWrapper.appendChild(kb);
+  body.appendChild(keyboardWrapper);
+
   root.appendChild(body);
 
-  // wire up input handling after DOM is attached
   setTimeout(()=>{
     inputBox.focus();
     inputBox.addEventListener('input', onTypingInput);
@@ -2053,7 +2292,6 @@ function typingTestScreen(){
           insertAtCursor(inputBox, e.shiftKey ? mapping.s : mapping.n);
           onTypingInput({target: inputBox});
         }
-        // keys not in the map (Backspace, Delete, arrows, Tab, Enter, etc.) pass through untouched
       }
     });
   }, 0);
@@ -2143,7 +2381,6 @@ function finishTypingTest(reason){
   let errors = 0;
   const compareLen = Math.min(typed.length, target.length);
 
-  // category-level breakdown for weak/strong-point analysis
   const cats = { letters:{total:0,wrong:0}, numbers:{total:0,wrong:0}, punctuation:{total:0,wrong:0}, spaces:{total:0,wrong:0} };
   for(let i=0;i<compareLen;i++){
     const cat = charCategory(target[i]);
@@ -2185,7 +2422,6 @@ function buildTypingInsights(r){
     if(c.rate<=0.04) strengths.push(CATEGORY_LABELS[c.cat]+' — very accurate');
     else if(c.rate>0.15){ weaknesses.push(CATEGORY_LABELS[c.cat]+' — '+Math.round(c.rate*100)+'% error rate'); tips.push(CATEGORY_TIPS[c.cat]); }
   });
-  // if nothing crossed the absolute weakness threshold, still call out the relatively weakest category as a growth area
   if(!weaknesses.length && catRates.length){
     const worst = catRates.reduce((a,b)=> (b.rate>a.rate ? b : a));
     if(worst.rate>0){ weaknesses.push(CATEGORY_LABELS[worst.cat]+' — your relatively weakest area ('+Math.round(worst.rate*100)+'% error rate)'); tips.push(CATEGORY_TIPS[worst.cat]); }
@@ -2223,7 +2459,6 @@ function typingResultsScreen(){
   const msg = r.wpm>=40?'🎉 Excellent speed!':r.wpm>=25?'👍 Good progress, keep practicing!':'📚 Keep practicing daily to build speed.';
   body.appendChild(el('div',{css:'text-align:center;font-family:Syne,sans-serif;font-weight:700;font-size:15px;color:#0f172a;margin-bottom:20px;',text:msg}));
 
-  // Strengths & Weaknesses
   const swGrid=el('div',{css:'display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-bottom:16px;'});
   const strengthBox=el('div',{css:'background:#f0fdf4;border:1px solid #bbf7d0;border-radius:12px;padding:14px;'});
   strengthBox.appendChild(el('div',{css:'font-family:Syne,sans-serif;font-weight:700;font-size:12px;color:#16a34a;margin-bottom:8px;',text:'💪 Strengths'}));
