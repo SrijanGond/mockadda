@@ -2561,6 +2561,101 @@
           ],
           "ans": 1,
           "subject": "Reasoning & Mathematics"
+        },
+        {
+          "sheetId": "1651",
+          "q": "Which Mauryan king issued the Bhabru (Bairat) edict, expressing his personal faith in the Buddha, Dhamma, and Sangha?",
+          "q_hi": "किस मौर्य राजा ने भाब्रू (बैराट) शिलालेख जारी किया, जिसमें बुद्ध, धम्म और संघ में अपनी व्यक्तिगत आस्था व्यक्त की गई थी?",
+          "opts": [
+            "Chandragupta Maurya",
+            "Bindusara",
+            "Ashoka",
+            "Dasharatha"
+          ],
+          "opts_hi": [
+            "चंद्रगुप्त मौर्य",
+            "बिन्दुसार",
+            "अशोक",
+            "दशरथ"
+          ],
+          "ans": 2,
+          "subject": "India History"
+        },
+        {
+          "sheetId": "1652",
+          "q": "The 'token currency' system, in which copper coins were issued at the value of silver coins, was introduced during the reign of which Delhi Sultan?",
+          "q_hi": "सांकेतिक मुद्रा' प्रणाली, जिसमें तांबे के सिक्कों को चांदी के सिक्कों के मूल्य पर जारी किया गया, किस दिल्ली सुल्तान के शासनकाल में शुरू की गई थी?",
+          "opts": [
+            "Alauddin Khalji",
+            "Muhammad bin Tughluq",
+            "Firuz Shah Tughluq",
+            "Ibrahim Lodi"
+          ],
+          "opts_hi": [
+            "अलाउद्दीन खिलजी",
+            "मुहम्मद बिन तुगलक",
+            "फिरोज शाह तुगलक",
+            "इब्राहिम लोदी"
+          ],
+          "ans": 1,
+          "subject": "India History"
+        },
+        {
+          "sheetId": "1653",
+          "q": "At which session of the Indian National Congress was the famous 'Purna Swaraj' (Complete Independence) resolution passed?",
+          "q_hi": "भारतीय राष्ट्रीय कांग्रेस के किस अधिवेशन में प्रसिद्ध 'पूर्ण स्वराज' (पूर्ण स्वतंत्रता) प्रस्ताव पारित किया गया था?",
+          "opts": [
+            "Calcutta Session, 1928",
+            "Lahore Session, 1929",
+            "Karachi Session, 1931",
+            "Nagpur Session, 1920"
+          ],
+          "opts_hi": [
+            "कलकत्ता अधिवेशन, 1928",
+            "लाहौर अधिवेशन, 1929",
+            "कराची अधिवेशन, 1931",
+            "नागपुर अधिवेशन, 1920"
+          ],
+          "ans": 1,
+          "subject": "India History"
+        },
+        {
+          "sheetId": "1654",
+          "q": "Which of the following Vedas is primarily a collection of melodies and chants (samans) meant to be sung during sacrificial rituals?",
+          "q_hi": "निम्नलिखित में से कौन-सा वेद मुख्य रूप से यज्ञ अनुष्ठानों के दौरान गाई जाने वाली धुनों और मंत्रों (सामन) का संग्रह है?",
+          "opts": [
+            "Rigveda",
+            "Yajurveda",
+            "Samaveda",
+            "Atharvaveda"
+          ],
+          "opts_hi": [
+            "ऋग्वेद",
+            "यजुर्वेद",
+            "सामवेद",
+            "अथर्ववेद"
+          ],
+          "ans": 2,
+          "subject": "India History"
+        },
+        {
+          "sheetId": "1655",
+          "q": "The 'Mansabdari system' introduced by Akbar assigned ranks to nobles. What did the term 'Sawar' rank in this system specifically indicate?",
+          "q_hi": "अकबर द्वारा शुरू की गई 'मनसबदारी प्रथा' में अमीरों को पद दिए जाते थे। इस प्रथा में 'सवार' पद विशेष रूप से क्या दर्शाता था?",
+          "opts": [
+            "Number of foot soldiers to be maintained",
+            "Monthly salary of the mansabdar",
+            "Number of cavalry horses to be maintained",
+            "Total revenue assignment of the jagir"
+          ],
+          "opts_hi": [
+            "पैदल सैनिकों की संख्या जो रखनी थी",
+            "मनसबदार का मासिक वेतन",
+            "घुड़सवार घोड़ों की संख्या जो रखनी थी",
+            "जागीर का कुल राजस्व निर्धारण"
+          ],
+          "ans": 2,
+          "subject": "India History"
         }
       ]
     },
