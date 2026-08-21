@@ -2656,6 +2656,196 @@
           ],
           "ans": 2,
           "subject": "India History"
+        },
+        {
+          "sheetId": "1656",
+          "q": "At which session of the Indian National Congress was the Non-Cooperation Movement formally adopted as a resolution?",
+          "q_hi": "भारतीय राष्ट्रीय कांग्रेस के किस अधिवेशन में असहयोग आंदोलन को औपचारिक रूप से प्रस्ताव के रूप में अपनाया गया?",
+          "opts": [
+            "Surat Session, 1920",
+            "Nagpur Session, 1920",
+            "Calcutta Session, 1920",
+            "Lahore Session, 1920"
+          ],
+          "opts_hi": [
+            "सूरत अधिवेशन, 1920",
+            "नागपुर अधिवेशन, 1920",
+            "कलकत्ता अधिवेशन, 1920",
+            "लाहौर अधिवेशन, 1920"
+          ],
+          "ans": 1,
+          "subject": "Indian National Movement"
+        },
+        {
+          "sheetId": "1657",
+          "q": "During the Dandi March of 1930, Mahatma Gandhi covered a distance of approximately 241 miles from Sabarmati Ashram to Dandi. How many days did this march last?",
+          "q_hi": "1930 के दांडी मार्च के दौरान महात्मा गांधी ने साबरमती आश्रम से दांडी तक लगभग 241 मील की दूरी तय की। यह मार्च कितने दिनों तक चला?",
+          "opts": [
+            "21 days",
+            "28 days",
+            "24 days",
+            "30 days"
+          ],
+          "opts_hi": [
+            "21 दिन",
+            "28 दिन",
+            "24 दिन",
+            "30 दिन"
+          ],
+          "ans": 2,
+          "subject": "Indian National Movement"
+        },
+        {
+          "sheetId": "1658",
+          "q": "Which underground radio station was secretly operated during the Quit India Movement of 1942 to spread the message of freedom?",
+          "q_hi": "1942 के भारत छोड़ो आंदोलन के दौरान स्वतंत्रता का संदेश फैलाने के लिए कौन-सा भूमिगत रेडियो स्टेशन गुप्त रूप से संचालित किया गया था?",
+          "opts": [
+            "Azad Hind Radio",
+            "Congress Radio",
+            "Swaraj Radio",
+            "Vande Mataram Radio"
+          ],
+          "opts_hi": [
+            "आजाद हिंद रेडियो",
+            "कांग्रेस रेडियो",
+            "स्वराज रेडियो",
+            "वंदे मातरम रेडियो"
+          ],
+          "ans": 1,
+          "subject": "Indian National Movement"
+        },
+        {
+          "sheetId": "1659",
+          "q": "The slogan 'Jai Hind' was popularized during the Indian freedom struggle by which leader as a battle cry of the Indian National Army?",
+          "q_hi": "जय हिंद' का नारा भारतीय स्वतंत्रता संग्राम के दौरान किस नेता ने भारतीय राष्ट्रीय सेना के युद्धघोष के रूप में लोकप्रिय बनाया?",
+          "opts": [
+            "Bhagat Singh",
+            "Bal Gangadhar Tilak",
+            "Subhas Chandra Bose",
+            "Lala Lajpat Rai"
+          ],
+          "opts_hi": [
+            "भगत सिंह",
+            "बाल गंगाधर तिलक",
+            "सुभाष चंद्र बोस",
+            "लाला लाजपत राय"
+          ],
+          "ans": 2,
+          "subject": "Indian National Movement"
+        },
+        {
+          "sheetId": "1660",
+          "q": "The partition of Bengal announced in 1905 was carried out by which Viceroy of India, and was annulled in which year?",
+          "q_hi": "1905 में घोषित बंगाल विभाजन किस वायसराय द्वारा किया गया था, और इसे किस वर्ष रद्द किया गया?",
+          "opts": [
+            "Lord Curzon; 1911",
+            "Lord Minto; 1911",
+            "Lord Curzon; 1919",
+            "Lord Hardinge; 1911"
+          ],
+          "opts_hi": [
+            "लॉर्ड कर्जन; 1911",
+            "लॉर्ड मिंटो; 1911",
+            "लॉर्ड कर्जन; 1919",
+            "लॉर्ड हार्डिंग; 1911"
+          ],
+          "ans": 0,
+          "subject": "Indian National Movement"
+        },
+        {
+          "sheetId": "1661",
+          "q": "Which of the following rivers does NOT originate from the Amarkantak plateau?",
+          "q_hi": "निम्नलिखित में से कौन सी नदी अमरकंटक पठार से उद्गमित नहीं होती?",
+          "opts": [
+            "Narmada",
+            "Son",
+            "Johilla",
+            "Tapti"
+          ],
+          "opts_hi": [
+            "नर्मदा",
+            "सोन",
+            "जोहिला",
+            "ताप्ती"
+          ],
+          "ans": 3,
+          "subject": "Geography"
+        },
+        {
+          "sheetId": "1662",
+          "q": "Which type of soil is formed due to the weathering of basaltic lava rocks and is known for its high moisture-retaining capacity, making it most suitable for cotton cultivation?",
+          "q_hi": "किस प्रकार की मिट्टी बेसाल्टिक लावा चट्टानों के अपक्षय से बनती है और अपनी उच्च नमी धारण क्षमता के लिए जानी जाती है, जो इसे कपास की खेती के लिए सर्वाधिक उपयुक्त बनाती है?",
+          "opts": [
+            "Laterite soil",
+            "Alluvial soil",
+            "Black soil",
+            "Red and Yellow soil"
+          ],
+          "opts_hi": [
+            "लैटेराइट मिट्टी",
+            "जलोढ़ मिट्टी",
+            "काली मिट्टी",
+            "लाल और पीली मिट्टी"
+          ],
+          "ans": 2,
+          "subject": "Geography"
+        },
+        {
+          "sheetId": "1663",
+          "q": "The Nathu La pass, which serves as a key trade route between India and China, is located in which Indian state?",
+          "q_hi": "नाथू ला दर्रा, जो भारत और चीन के बीच एक प्रमुख व्यापार मार्ग के रूप में कार्य करता है, किस भारतीय राज्य में स्थित है?",
+          "opts": [
+            "Arunachal Pradesh",
+            "Uttarakhand",
+            "Sikkim",
+            "Himachal Pradesh"
+          ],
+          "opts_hi": [
+            "अरुणाचल प्रदेश",
+            "उत्तराखंड",
+            "सिक्किम",
+            "हिमाचल प्रदेश"
+          ],
+          "ans": 2,
+          "subject": "Geography"
+        },
+        {
+          "sheetId": "1664",
+          "q": "Which of the following coastal regions of India receives the majority of its rainfall during the retreating monsoon season (October-November), unlike most other parts of the country?",
+          "q_hi": "भारत का निम्नलिखित में से कौन सा तटीय क्षेत्र देश के अधिकांश अन्य भागों के विपरीत, अपनी अधिकांश वर्षा लौटते मानसून (अक्टूबर-नवम्बर) के दौरान प्राप्त करता है?",
+          "opts": [
+            "Konkan Coast",
+            "Malabar Coast",
+            "Coromandel Coast",
+            "Kathiawar Coast"
+          ],
+          "opts_hi": [
+            "कोंकण तट",
+            "मालाबार तट",
+            "कोरोमंडल तट",
+            "काठियावाड़ तट"
+          ],
+          "ans": 2,
+          "subject": "Geography"
+        },
+        {
+          "sheetId": "1665",
+          "q": "Dudhwa National Park, well known as a habitat for the one-horned Indian rhinoceros and the Bengal tiger, is located in which state of India?",
+          "q_hi": "दुधवा राष्ट्रीय उद्यान, जो एक सींग वाले भारतीय गैंडे और बंगाल बाघ के आवास के रूप में प्रसिद्ध है, भारत के किस राज्य में स्थित है?",
+          "opts": [
+            "Uttarakhand",
+            "Uttar Pradesh",
+            "Bihar",
+            "Madhya Pradesh"
+          ],
+          "opts_hi": [
+            "उत्तराखंड",
+            "उत्तर प्रदेश",
+            "बिहार",
+            "मध्य प्रदेश"
+          ],
+          "ans": 1,
+          "subject": "Geography"
         }
       ]
     },
