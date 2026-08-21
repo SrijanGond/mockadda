@@ -32,4 +32,64 @@
 
   <!-- UPSSSC Exams -->
   <url><loc>https://www.readymadequiz.co.in/upsssc/upsssc-pet</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-</urlset>
+  <!-- UPSSSC 10 New Question Sets -->
+  <url>
+    <loc>https://www.readymadequiz.co.in/YOUR-URL-PATH-1</loc>
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.readymadequiz.co.in/YOUR-URL-PATH-2</loc>
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.readymadequiz.co.in/YOUR-URL-PATH-3</loc>
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.readymadequiz.co.in/YOUR-URL-PATH-4</loc>
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.readymadequiz.co.in/YOUR-URL-PATH-5</loc>
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.readymadequiz.co.in/YOUR-URL-PATH-6</loc>
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.readymadequiz.co.in/YOUR-URL-PATH-7</loc>
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.readymadequiz.co.in/YOUR-URL-PATH-8</loc>
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.readymadequiz.co.in/YOUR-URL-PATH-9</loc>
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.readymadequiz.co.in/YOUR-URL-PATH-10</loc>
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url></urlset>
