@@ -648,11 +648,19 @@ function getMarkingScheme(test){
 // SCOPE: only exams with a fixed per-subject quota are capped here — SSC CGL
 // and SSC CHSL (flat 25/subject: General Intelligence & Reasoning, General
 // Awareness, Quantitative Aptitude, English Comprehension) and UPSSSC PET
-// (per-subject, matching the official 15-section pattern — 5 for most
-// subjects, 10 for Current Affairs / General Awareness / Analysis of 2
-// Unread Hindi Passages / Graph Analysis & Interpretation / Table Analysis &
-// Interpretation — NOT a flat 30, since that was the old incorrect 4-section
-// grouping). Other exams (Banking, Teaching, Police, Railways, etc.) have
+// (per-subject, using the actual subject names as tagged in the data — 5 for
+// most subjects, 10 for Current Affairs / General Awareness / Agriculture &
+// Rural Development / Comprehension / Analysis of Hindi Unread Passage
+// (2 Passages), 20 for the combined Data Interpretation subject). Subject
+// name variants (e.g. "Indian History" vs "India History") are normalized
+// via SUBJECT_ALIASES_BY_EXAM before the cap check, mirroring the same
+// aliasing already applied at publish time in the Apps Script. Sets created
+// before subject tagging existed (upsssc_pet_1–4) use a flat 100-question
+// cap instead via FLAT_CAP_BY_TEST — their content is intentionally left
+// unchanged, only the display count is capped. HARD_MAX_QUESTIONS is a
+// final safety net so no test can ever show more than 100 regardless of how
+// its subjects are distributed. Other exams (Banking, Teaching, Police,
+// Railways, etc.) have
 // their own section sizes and must NOT be capped here. Gate this by
 // examKey, not just by whether a test has subject tags.
 // A cap entry can be either a flat number (applies to every subject, as with
@@ -664,7 +672,7 @@ const SECTION_CAP_BY_EXAM = {
   ssc_cgl: 25,
   ssc_chsl: 25,
   upsssc_pet: {
-    'Indian History': 5,
+    'India History': 5,
     'Indian National Movement': 5,
     'Geography': 5,
     'Indian Economy': 5,
@@ -674,26 +682,66 @@ const SECTION_CAP_BY_EXAM = {
     'General Hindi': 5,
     'General English': 5,
     'Logic & Reasoning': 5,
+    'Computer Knowledge': 5,
     'Current Affairs': 10,
     'General Awareness': 10,
-    'Analysis of 2 Unread Hindi Passages': 10,
-    'Graph Analysis & Interpretation': 10,
-    'Table Analysis & Interpretation': 10,
+    'Data Interpretation': 20,
+    'Agriculture & Rural Development': 10,
+    'Comprehension': 10,
+    'Analysis of Hindi Unread Passage (2 Passages)': 10,
   }
 };
-function capQuestionsPerSection(questions, examKey){
+// Collapses known subject-label variants to one canonical name before cap
+// lookup — mirrors SUBJECT_ALIASES in the Apps Script publish script, so a
+// question tagged either way still counts against the same cap bucket
+// instead of silently bypassing it.
+const SUBJECT_ALIASES_BY_EXAM = {
+  upsssc_pet: {
+    'History': 'India History',
+    'Indian History': 'India History',
+    'Hindi Language': 'General Hindi',
+    'Indian Polity & Constitution': 'Indian Constitution & Public Administration',
+    'Reasoning/Analytical Ability': 'Logic & Reasoning',
+    'Reasoning': 'Logic & Reasoning',
+    'Elementary Mathematics': 'Elementary Arithmetic',
+  }
+};
+// Legacy sets created before the subject/syllabus tagging existed — these
+// aren't reliably subject-tagged at all, so per-subject capping doesn't
+// apply to them. Just keep the first N in original order instead. Content
+// in these sets is intentionally left as-is; only the DISPLAY is capped.
+const FLAT_CAP_BY_TEST = {
+  upsssc_pet_1: 100,
+  upsssc_pet_2: 100,
+  upsssc_pet_3: 100,
+  upsssc_pet_4: 100,
+};
+// Absolute ceiling regardless of subject totals — a test whose subjects
+// individually stay under cap can still sum past 100 if it mixes more
+// subject variety than the standard 100-question pattern (this has
+// happened in practice). The site must never show more than this no
+// matter what the underlying data looks like.
+const HARD_MAX_QUESTIONS = 100;
+
+function capQuestionsPerSection(questions, examKey, testId){
+  if(testId && FLAT_CAP_BY_TEST.hasOwnProperty(testId)){
+    return questions.slice(0, FLAT_CAP_BY_TEST[testId]);
+  }
   const capConfig = SECTION_CAP_BY_EXAM[examKey];
-  if(!capConfig) return questions;
+  const aliases = SUBJECT_ALIASES_BY_EXAM[examKey];
+  if(!capConfig) return questions.slice(0, HARD_MAX_QUESTIONS);
   const hasSubjects = questions.some(q=>q.subject);
-  if(!hasSubjects) return questions;
+  if(!hasSubjects) return questions.slice(0, HARD_MAX_QUESTIONS);
   const counts={};
-  return questions.filter(q=>{
-    const subj = (q.subject || 'General').trim();
+  const kept = questions.filter(q=>{
+    let subj = (q.subject || 'General').trim();
+    if(aliases && aliases.hasOwnProperty(subj)) subj = aliases[subj];
     const cap = (typeof capConfig === 'number') ? capConfig : capConfig[subj];
     counts[subj] = (counts[subj]||0)+1;
     if(cap == null) return true; // subject not in the per-subject map — leave uncapped
     return counts[subj] <= cap;
   });
+  return kept.slice(0, HARD_MAX_QUESTIONS);
 }
 
 // Groups questions into one contiguous run per subject, in first-appearance
@@ -719,7 +767,7 @@ function startQuiz(catKey,examKey,test,returnScreen){
   S.activeCatKey=catKey; S.activeExamKey=examKey;
   S.activeExam=(catKey && DATA[catKey] && DATA[catKey].exams) ? DATA[catKey].exams[examKey] : null;
   S.returnScreen = returnScreen || 'tests';
-  const capped = capQuestionsPerSection([...test.questions], examKey);
+  const capped = capQuestionsPerSection([...test.questions], examKey, test.id);
   S.test={...test,questions:groupQuestionsBySubject(capped)};
   S.qi=0;S.ans={};S.flagged=new Set();S.visited=new Set([0]);
   S.timeLeft=test.duration*60;S.startTime=Date.now();
