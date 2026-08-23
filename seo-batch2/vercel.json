@@ -1,0 +1,308 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    {
+      "source": "/ssc/ssc-cgl",
+      "destination": "/ssc/ssc-cgl/index.html"
+    },
+    {
+      "source": "/ssc/ssc-cgl/",
+      "destination": "/ssc/ssc-cgl/index.html"
+    },
+    {
+      "source": "/ssc/ssc-chsl",
+      "destination": "/ssc/ssc-chsl/index.html"
+    },
+    {
+      "source": "/ssc/ssc-chsl/",
+      "destination": "/ssc/ssc-chsl/index.html"
+    },
+    {
+      "source": "/ssc/ssc-mts",
+      "destination": "/ssc/ssc-mts/index.html"
+    },
+    {
+      "source": "/ssc/ssc-mts/",
+      "destination": "/ssc/ssc-mts/index.html"
+    },
+    {
+      "source": "/ssc/ssc-gd",
+      "destination": "/ssc/ssc-gd/index.html"
+    },
+    {
+      "source": "/ssc/ssc-gd/",
+      "destination": "/ssc/ssc-gd/index.html"
+    },
+    {
+      "source": "/banking/sbi-po",
+      "destination": "/banking/sbi-po/index.html"
+    },
+    {
+      "source": "/banking/sbi-po/",
+      "destination": "/banking/sbi-po/index.html"
+    },
+    {
+      "source": "/banking/ibps-po",
+      "destination": "/banking/ibps-po/index.html"
+    },
+    {
+      "source": "/banking/ibps-po/",
+      "destination": "/banking/ibps-po/index.html"
+    },
+    {
+      "source": "/banking/sbi-clerk",
+      "destination": "/banking/sbi-clerk/index.html"
+    },
+    {
+      "source": "/banking/sbi-clerk/",
+      "destination": "/banking/sbi-clerk/index.html"
+    },
+    {
+      "source": "/railways/rrb-ntpc",
+      "destination": "/railways/rrb-ntpc/index.html"
+    },
+    {
+      "source": "/railways/rrb-ntpc/",
+      "destination": "/railways/rrb-ntpc/index.html"
+    },
+    {
+      "source": "/railways/rrb-group-d",
+      "destination": "/railways/rrb-group-d/index.html"
+    },
+    {
+      "source": "/railways/rrb-group-d/",
+      "destination": "/railways/rrb-group-d/index.html"
+    },
+    {
+      "source": "/teaching/ctet",
+      "destination": "/teaching/ctet/index.html"
+    },
+    {
+      "source": "/teaching/ctet/",
+      "destination": "/teaching/ctet/index.html"
+    },
+    {
+      "source": "/teaching/kvs",
+      "destination": "/teaching/kvs/index.html"
+    },
+    {
+      "source": "/teaching/kvs/",
+      "destination": "/teaching/kvs/index.html"
+    },
+    {
+      "source": "/civil-services/upsc-prelims",
+      "destination": "/civil-services/upsc-prelims/index.html"
+    },
+    {
+      "source": "/civil-services/upsc-prelims/",
+      "destination": "/civil-services/upsc-prelims/index.html"
+    },
+    {
+      "source": "/roaro/roaro-prelims",
+      "destination": "/roaro/roaro-prelims/index.html"
+    },
+    {
+      "source": "/roaro/roaro-prelims/",
+      "destination": "/roaro/roaro-prelims/index.html"
+    },
+    {
+      "source": "/police/up-police-constable",
+      "destination": "/police/up-police-constable/index.html"
+    },
+    {
+      "source": "/police/up-police-constable/",
+      "destination": "/police/up-police-constable/index.html"
+    },
+    {
+      "source": "/upsssc/upsssc-pet",
+      "destination": "/upsssc/upsssc-pet/index.html"
+    },
+    {
+      "source": "/upsssc/upsssc-pet/",
+      "destination": "/upsssc/upsssc-pet/index.html"
+    },
+    {
+      "source": "/upsssc/upsssc-pet-mock-test-1",
+      "destination": "/upsssc/upsssc-pet-mock-test-1/index.html"
+    },
+    {
+      "source": "/upsssc/upsssc-pet-mock-test-1/",
+      "destination": "/upsssc/upsssc-pet-mock-test-1/index.html"
+    },
+    {
+      "source": "/upsssc/upsssc-pet-mock-test-2",
+      "destination": "/upsssc/upsssc-pet-mock-test-2/index.html"
+    },
+    {
+      "source": "/upsssc/upsssc-pet-mock-test-2/",
+      "destination": "/upsssc/upsssc-pet-mock-test-2/index.html"
+    },
+    {
+      "source": "/upsssc/upsssc-pet-mock-test-3",
+      "destination": "/upsssc/upsssc-pet-mock-test-3/index.html"
+    },
+    {
+      "source": "/upsssc/upsssc-pet-mock-test-3/",
+      "destination": "/upsssc/upsssc-pet-mock-test-3/index.html"
+    },
+    {
+      "source": "/upsssc/upsssc-pet-mock-test-4",
+      "destination": "/upsssc/upsssc-pet-mock-test-4/index.html"
+    },
+    {
+      "source": "/upsssc/upsssc-pet-mock-test-4/",
+      "destination": "/upsssc/upsssc-pet-mock-test-4/index.html"
+    },
+    {
+      "source": "/upsssc/upsssc-pet-mock-test-5",
+      "destination": "/upsssc/upsssc-pet-mock-test-5/index.html"
+    },
+    {
+      "source": "/upsssc/upsssc-pet-mock-test-5/",
+      "destination": "/upsssc/upsssc-pet-mock-test-5/index.html"
+    },
+    {
+      "source": "/upsssc/upsssc-pet-mock-test-6",
+      "destination": "/upsssc/upsssc-pet-mock-test-6/index.html"
+    },
+    {
+      "source": "/upsssc/upsssc-pet-mock-test-6/",
+      "destination": "/upsssc/upsssc-pet-mock-test-6/index.html"
+    },
+    {
+      "source": "/upsssc/upsssc-pet-mock-test-7",
+      "destination": "/upsssc/upsssc-pet-mock-test-7/index.html"
+    },
+    {
+      "source": "/upsssc/upsssc-pet-mock-test-7/",
+      "destination": "/upsssc/upsssc-pet-mock-test-7/index.html"
+    },
+    {
+      "source": "/upsssc/upsssc-pet-mock-test-8",
+      "destination": "/upsssc/upsssc-pet-mock-test-8/index.html"
+    },
+    {
+      "source": "/upsssc/upsssc-pet-mock-test-8/",
+      "destination": "/upsssc/upsssc-pet-mock-test-8/index.html"
+    },
+    {
+      "source": "/upsssc/upsssc-pet-mock-test-9",
+      "destination": "/upsssc/upsssc-pet-mock-test-9/index.html"
+    },
+    {
+      "source": "/upsssc/upsssc-pet-mock-test-9/",
+      "destination": "/upsssc/upsssc-pet-mock-test-9/index.html"
+    },
+    {
+      "source": "/upsssc/upsssc-pet-mock-test-10",
+      "destination": "/upsssc/upsssc-pet-mock-test-10/index.html"
+    },
+    {
+      "source": "/upsssc/upsssc-pet-mock-test-10/",
+      "destination": "/upsssc/upsssc-pet-mock-test-10/index.html"
+    },
+    {
+      "source": "/upsssc/upsssc-pet-mock-test-11",
+      "destination": "/upsssc/upsssc-pet-mock-test-11/index.html"
+    },
+    {
+      "source": "/upsssc/upsssc-pet-mock-test-11/",
+      "destination": "/upsssc/upsssc-pet-mock-test-11/index.html"
+    },
+    {
+      "source": "/ssc/ssc-cgl-mock-test-1",
+      "destination": "/ssc/ssc-cgl-mock-test-1/index.html"
+    },
+    {
+      "source": "/ssc/ssc-cgl-mock-test-1/",
+      "destination": "/ssc/ssc-cgl-mock-test-1/index.html"
+    },
+    {
+      "source": "/ssc/ssc-cgl-mock-test-2",
+      "destination": "/ssc/ssc-cgl-mock-test-2/index.html"
+    },
+    {
+      "source": "/ssc/ssc-cgl-mock-test-2/",
+      "destination": "/ssc/ssc-cgl-mock-test-2/index.html"
+    },
+    {
+      "source": "/ssc/ssc-cgl-mock-test-3",
+      "destination": "/ssc/ssc-cgl-mock-test-3/index.html"
+    },
+    {
+      "source": "/ssc/ssc-cgl-mock-test-3/",
+      "destination": "/ssc/ssc-cgl-mock-test-3/index.html"
+    },
+    {
+      "source": "/ssc/ssc-cgl-mock-test-4",
+      "destination": "/ssc/ssc-cgl-mock-test-4/index.html"
+    },
+    {
+      "source": "/ssc/ssc-cgl-mock-test-4/",
+      "destination": "/ssc/ssc-cgl-mock-test-4/index.html"
+    },
+    {
+      "source": "/ssc/ssc-cgl-mock-test-5",
+      "destination": "/ssc/ssc-cgl-mock-test-5/index.html"
+    },
+    {
+      "source": "/ssc/ssc-cgl-mock-test-5/",
+      "destination": "/ssc/ssc-cgl-mock-test-5/index.html"
+    },
+    {
+      "source": "/ssc/ssc-chsl-mock-test-1",
+      "destination": "/ssc/ssc-chsl-mock-test-1/index.html"
+    },
+    {
+      "source": "/ssc/ssc-chsl-mock-test-1/",
+      "destination": "/ssc/ssc-chsl-mock-test-1/index.html"
+    },
+    {
+      "source": "/railways/rrb-group-d-mock-test-1",
+      "destination": "/railways/rrb-group-d-mock-test-1/index.html"
+    },
+    {
+      "source": "/railways/rrb-group-d-mock-test-1/",
+      "destination": "/railways/rrb-group-d-mock-test-1/index.html"
+    },
+    {
+      "source": "/railways/rrb-group-d-mock-test-2",
+      "destination": "/railways/rrb-group-d-mock-test-2/index.html"
+    },
+    {
+      "source": "/railways/rrb-group-d-mock-test-2/",
+      "destination": "/railways/rrb-group-d-mock-test-2/index.html"
+    },
+    {
+      "source": "/railways/rrb-group-d-mock-test-3",
+      "destination": "/railways/rrb-group-d-mock-test-3/index.html"
+    },
+    {
+      "source": "/railways/rrb-group-d-mock-test-3/",
+      "destination": "/railways/rrb-group-d-mock-test-3/index.html"
+    },
+    {
+      "source": "/railways/rrb-group-d-mock-test-4",
+      "destination": "/railways/rrb-group-d-mock-test-4/index.html"
+    },
+    {
+      "source": "/railways/rrb-group-d-mock-test-4/",
+      "destination": "/railways/rrb-group-d-mock-test-4/index.html"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)\\.json",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-cache, must-revalidate"
+        }
+      ]
+    }
+  ]
+}
