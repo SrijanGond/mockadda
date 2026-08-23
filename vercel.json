@@ -210,6 +210,86 @@
       "destination": "/upsssc/upsssc-pet-mock-test-11/index.html"
     },
     {
+      "source": "/ssc/ssc-cgl-mock-test-1",
+      "destination": "/ssc/ssc-cgl-mock-test-1/index.html"
+    },
+    {
+      "source": "/ssc/ssc-cgl-mock-test-1/",
+      "destination": "/ssc/ssc-cgl-mock-test-1/index.html"
+    },
+    {
+      "source": "/ssc/ssc-cgl-mock-test-2",
+      "destination": "/ssc/ssc-cgl-mock-test-2/index.html"
+    },
+    {
+      "source": "/ssc/ssc-cgl-mock-test-2/",
+      "destination": "/ssc/ssc-cgl-mock-test-2/index.html"
+    },
+    {
+      "source": "/ssc/ssc-cgl-mock-test-3",
+      "destination": "/ssc/ssc-cgl-mock-test-3/index.html"
+    },
+    {
+      "source": "/ssc/ssc-cgl-mock-test-3/",
+      "destination": "/ssc/ssc-cgl-mock-test-3/index.html"
+    },
+    {
+      "source": "/ssc/ssc-cgl-mock-test-4",
+      "destination": "/ssc/ssc-cgl-mock-test-4/index.html"
+    },
+    {
+      "source": "/ssc/ssc-cgl-mock-test-4/",
+      "destination": "/ssc/ssc-cgl-mock-test-4/index.html"
+    },
+    {
+      "source": "/ssc/ssc-cgl-mock-test-5",
+      "destination": "/ssc/ssc-cgl-mock-test-5/index.html"
+    },
+    {
+      "source": "/ssc/ssc-cgl-mock-test-5/",
+      "destination": "/ssc/ssc-cgl-mock-test-5/index.html"
+    },
+    {
+      "source": "/ssc/ssc-chsl-mock-test-1",
+      "destination": "/ssc/ssc-chsl-mock-test-1/index.html"
+    },
+    {
+      "source": "/ssc/ssc-chsl-mock-test-1/",
+      "destination": "/ssc/ssc-chsl-mock-test-1/index.html"
+    },
+    {
+      "source": "/railways/rrb-group-d-mock-test-1",
+      "destination": "/railways/rrb-group-d-mock-test-1/index.html"
+    },
+    {
+      "source": "/railways/rrb-group-d-mock-test-1/",
+      "destination": "/railways/rrb-group-d-mock-test-1/index.html"
+    },
+    {
+      "source": "/railways/rrb-group-d-mock-test-2",
+      "destination": "/railways/rrb-group-d-mock-test-2/index.html"
+    },
+    {
+      "source": "/railways/rrb-group-d-mock-test-2/",
+      "destination": "/railways/rrb-group-d-mock-test-2/index.html"
+    },
+    {
+      "source": "/railways/rrb-group-d-mock-test-3",
+      "destination": "/railways/rrb-group-d-mock-test-3/index.html"
+    },
+    {
+      "source": "/railways/rrb-group-d-mock-test-3/",
+      "destination": "/railways/rrb-group-d-mock-test-3/index.html"
+    },
+    {
+      "source": "/railways/rrb-group-d-mock-test-4",
+      "destination": "/railways/rrb-group-d-mock-test-4/index.html"
+    },
+    {
+      "source": "/railways/rrb-group-d-mock-test-4/",
+      "destination": "/railways/rrb-group-d-mock-test-4/index.html"
+    },
+    {
       "source": "/(.*)",
       "destination": "/index.html"
     }
