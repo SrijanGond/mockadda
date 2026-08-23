@@ -1316,16 +1316,16 @@
           "q": "यूरिया में नाइट्रोजन का प्रतिशत कितना होता है?",
           "q_hi": "यूरिया में नाइट्रोजन का प्रतिशत कितना होता है?",
           "opts": [
-            0.4,
-            0.46,
-            0.5,
-            0.55
+            "40%",
+            "46%",
+            "50%",
+            "55%"
           ],
           "opts_hi": [
-            0.4,
-            0.46,
-            0.5,
-            0.55
+            "40%",
+            "46%",
+            "50%",
+            "55%"
           ],
           "ans": 1,
           "subject": "General Science"
@@ -8884,16 +8884,16 @@
           "q": "A shopkeeper marks the price of an article 25% above its cost price and then offers a discount of 10% on the marked price. What is his profit percentage?",
           "q_hi": "एक दुकानदार किसी वस्तु का अंकित मूल्य उसके क्रय मूल्य से 25% अधिक रखता है और फिर अंकित मूल्य पर 10% की छूट देता है। उसका लाभ प्रतिशत कितना है?",
           "opts": [
-            0.125,
-            0.15,
-            0.1,
-            0.175
+            "12.5%",
+            "15%",
+            "10%",
+            "17.5%"
           ],
           "opts_hi": [
-            0.125,
-            0.15,
-            0.1,
-            0.175
+            "12.5%",
+            "15%",
+            "10%",
+            "17.5%"
           ],
           "ans": 0,
           "subject": "Elementary Arithmetic"
@@ -9644,16 +9644,16 @@
           "q": "The earnings of the company in 1996-97 were approximately what percent of the average earning over the period under review?",
           "q_hi": "1996-97 में कंपनी की आय समीक्षा अवधि के औसत आय का लगभग कितना प्रतिशत थी?",
           "opts": [
-            0.15,
-            0.25,
-            0.2,
-            0.1
+            "15%",
+            "25%",
+            "20%",
+            "10%"
           ],
           "opts_hi": [
-            0.15,
-            0.25,
-            0.2,
-            0.1
+            "15%",
+            "25%",
+            "20%",
+            "10%"
           ],
           "ans": 0,
           "subject": "Data Interpretation"
@@ -9701,16 +9701,16 @@
           "q": "What was the approximate percentage decline in the earning of the company from 1994-95 to 1995-96?",
           "q_hi": "1994-95 से 1995-96 तक कंपनी की आय में लगभग कितने प्रतिशत की गिरावट आई थी?",
           "opts": [
-            0.24,
-            0.29,
-            0.14,
-            0.19
+            "24%",
+            "29%",
+            "14%",
+            "19%"
           ],
           "opts_hi": [
-            0.24,
-            0.29,
-            0.14,
-            0.19
+            "24%",
+            "29%",
+            "14%",
+            "19%"
           ],
           "ans": 3,
           "subject": "Data Interpretation"
@@ -10243,16 +10243,16 @@
           "q": "The concept of 'Priority Sector Lending' in India requires commercial banks to mandatorily lend a fixed percentage of their Adjusted Net Bank Credit (ANBC) to specified sectors. What is the prescribed overall target for domestic scheduled commercial banks?",
           "q_hi": "भारत में 'प्राथमिकता क्षेत्र ऋण' की अवधारणा के अंतर्गत वाणिज्यिक बैंकों को अपने समायोजित निवल बैंक ऋण (ANBC) का एक निश्चित प्रतिशत निर्दिष्ट क्षेत्रों को अनिवार्य रूप से देना होता है। घरेलू अनुसूचित वाणिज्यिक बैंकों के लिए यह समग्र लक्ष्य कितना निर्धारित है?",
           "opts": [
-            0.32,
-            0.4,
-            0.45,
-            0.5
+            "32%",
+            "40%",
+            "45%",
+            "50%"
           ],
           "opts_hi": [
-            0.32,
-            0.4,
-            0.45,
-            0.5
+            "32%",
+            "40%",
+            "45%",
+            "50%"
           ],
           "ans": 1,
           "subject": "Indian Economy"
@@ -10414,16 +10414,16 @@
           "q": "A shopkeeper marks the price of an article 40% above its cost price and then gives a discount of 20% on the marked price. What is his profit percentage?",
           "q_hi": "एक दुकानदार किसी वस्तु का अंकित मूल्य उसके क्रय मूल्य से 40% अधिक रखता है और फिर अंकित मूल्य पर 20% की छूट देता है। उसका लाभ प्रतिशत क्या है?",
           "opts": [
-            0.1,
-            0.12,
-            0.14,
-            0.2
+            "10%",
+            "12%",
+            "14%",
+            "20%"
           ],
           "opts_hi": [
-            0.1,
-            0.12,
-            0.14,
-            0.2
+            "10%",
+            "12%",
+            "14%",
+            "20%"
           ],
           "ans": 1,
           "subject": "Elementary Arithmetic"
@@ -10775,16 +10775,16 @@
           "q": "What was the GDP growth projection for 2026-27 as announced by the RBI Governor in August 2026?",
           "q_hi": "RBI गवर्नर ने अगस्त 2026 में 2026-27 के लिए GDP वृद्धि अनुमान कितना प्रतिशत घोषित किया?",
           "opts": [
-            0.065,
-            0.067,
-            0.07,
-            0.072
+            "6.5%",
+            "6.7%",
+            "7%",
+            "7.2%"
           ],
           "opts_hi": [
-            0.065,
-            0.067,
-            0.07,
-            0.072
+            "6.5%",
+            "6.7%",
+            "7%",
+            "7.2%"
           ],
           "ans": 1,
           "subject": "General Awareness"
@@ -12784,16 +12784,16 @@
           "q": "A shopkeeper marks the price of an article 25% above its cost price and then gives a discount of 12% on the marked price. What is his profit percentage?",
           "q_hi": "एक दुकानदार किसी वस्तु का अंकित मूल्य उसके क्रय मूल्य से 25% अधिक रखता है और फिर अंकित मूल्य पर 12% की छूट देता है। उसका लाभ प्रतिशत क्या है?",
           "opts": [
-            0.1,
-            0.13,
-            0.12,
-            0.11
+            "10%",
+            "13%",
+            "12%",
+            "11%"
           ],
           "opts_hi": [
-            0.1,
-            0.13,
-            0.12,
-            0.11
+            "10%",
+            "13%",
+            "12%",
+            "11%"
           ],
           "ans": 0,
           "subject": "Elementary Arithmetic"
@@ -14226,16 +14226,16 @@
           "q": "India officially submitted its updated Nationally Determined Contribution (NDC) to the UNFCCC in 2022, committing to achieve approximately what percentage of cumulative electric power installed capacity from non-fossil fuel based energy resources by 2030?",
           "q_hi": "भारत ने 2022 में UNFCCC को अपना अद्यतन राष्ट्रीय निर्धारित योगदान (NDC) आधिकारिक रूप से प्रस्तुत किया, जिसमें 2030 तक गैर-जीवाश्म ईंधन आधारित ऊर्जा स्रोतों से संचयी विद्युत स्थापित क्षमता का लगभग कितने प्रतिशत प्राप्त करने की प्रतिबद्धता जताई गई?",
           "opts": [
-            0.4,
-            0.5,
-            0.6,
-            0.75
+            "40%",
+            "50%",
+            "60%",
+            "75%"
           ],
           "opts_hi": [
-            0.4,
-            0.5,
-            0.6,
-            0.75
+            "40%",
+            "50%",
+            "60%",
+            "75%"
           ],
           "ans": 1,
           "subject": "Current Affairs"
@@ -14465,16 +14465,16 @@
           "q": "What was the percentage increase in earning of the company in 1997-98 over 1993-94?",
           "q_hi": "1997-98 में कंपनी की आय में 1993-94 की तुलना में कितने प्रतिशत की वृद्धि हुई थी?",
           "opts": [
-            0.02,
-            0.42,
-            0.22,
-            0.12
+            "2%",
+            "42%",
+            "22%",
+            "12%"
           ],
           "opts_hi": [
-            0.02,
-            0.42,
-            0.22,
-            0.12
+            "2%",
+            "42%",
+            "22%",
+            "12%"
           ],
           "ans": 0,
           "subject": "Data Interpretation",
@@ -14485,16 +14485,16 @@
           "q": "What was the approximate percentage decline in the earning of the company from 1994-95 to 1995-96?",
           "q_hi": "1994-95 से 1995-96 तक कंपनी की आय में लगभग कितने प्रतिशत की गिरावट आई थी?",
           "opts": [
-            0.11,
-            0.06,
-            0.09,
-            0.01
+            "11%",
+            "6%",
+            "9%",
+            "1%"
           ],
           "opts_hi": [
-            0.11,
-            0.06,
-            0.09,
-            0.01
+            "11%",
+            "6%",
+            "9%",
+            "1%"
           ],
           "ans": 3,
           "subject": "Data Interpretation",
@@ -14505,16 +14505,16 @@
           "q": "In 2016, the revenue was approximately what percent of the total revenue over the period?",
           "q_hi": "2016 में राजस्व, अवधि के कुल राजस्व का लगभग कितना प्रतिशत था?",
           "opts": [
-            0.17,
-            0.14,
-            0.23,
-            0.2
+            "17%",
+            "14%",
+            "23%",
+            "20%"
           ],
           "opts_hi": [
-            0.17,
-            0.14,
-            0.23,
-            0.2
+            "17%",
+            "14%",
+            "23%",
+            "20%"
           ],
           "ans": 0,
           "subject": "Data Interpretation",
@@ -14565,16 +14565,16 @@
           "q": "What was the percentage change in revenue from 2015 to 2020?",
           "q_hi": "2015 से 2020 तक राजस्व में कितने प्रतिशत का परिवर्तन हुआ?",
           "opts": [
-            0.54,
-            0.64,
-            0.49,
-            0.59
+            "54%",
+            "64%",
+            "49%",
+            "59%"
           ],
           "opts_hi": [
-            0.54,
-            0.64,
-            0.49,
-            0.59
+            "54%",
+            "64%",
+            "49%",
+            "59%"
           ],
           "ans": 1,
           "subject": "Data Interpretation",
@@ -14605,16 +14605,16 @@
           "q": "In 2017, the revenue was approximately what percent of the total revenue over the period?",
           "q_hi": "2017 में राजस्व, अवधि के कुल राजस्व का लगभग कितना प्रतिशत था?",
           "opts": [
-            0.26,
-            0.29,
-            0.23,
-            0.32
+            "26%",
+            "29%",
+            "23%",
+            "32%"
           ],
           "opts_hi": [
-            0.26,
-            0.29,
-            0.23,
-            0.32
+            "26%",
+            "29%",
+            "23%",
+            "32%"
           ],
           "ans": 3,
           "subject": "Data Interpretation",
@@ -23077,16 +23077,16 @@
           "q": "A trader bought 80 oranges for Rs. 240 and sold them at the rate of 5 oranges for Rs. 18. What is his profit percentage?",
           "q_hi": "एक व्यापारी ने 80 संतरे रु. 240 में खरीदे और उन्हें 5 संतरे रु. 18 की दर से बेचा। उसका लाभ प्रतिशत क्या है?",
           "opts": [
-            "0.15",
-            "0.18",
-            "0.2",
-            "0.25"
+            "15%",
+            "18%",
+            "20%",
+            "25%"
           ],
           "opts_hi": [
-            "0.15",
-            "0.18",
-            "0.2",
-            "0.25"
+            "15%",
+            "18%",
+            "20%",
+            "25%"
           ],
           "ans": 2,
           "subject": "Elementary Arithmetic"
@@ -23951,16 +23951,16 @@
           "q": "In 2020, the revenue was approximately what percent of the total revenue over the period?",
           "q_hi": "2020 में राजस्व, अवधि के कुल राजस्व का लगभग कितना प्रतिशत था?",
           "opts": [
-            "0.11",
-            "0.14",
-            "0.17",
-            "0.19"
+            "11%",
+            "14%",
+            "17%",
+            "19%"
           ],
           "opts_hi": [
-            "0.11",
-            "0.14",
-            "0.17",
-            "0.19"
+            "11%",
+            "14%",
+            "17%",
+            "19%"
           ],
           "ans": 0,
           "subject": "Data Interpretation",
@@ -24008,16 +24008,16 @@
           "q": "What was the percentage change in revenue from 2015 to 2020?",
           "q_hi": "2015 से 2020 तक राजस्व में कितने प्रतिशत का परिवर्तन हुआ?",
           "opts": [
-            "0.56",
-            "0.46",
-            "0.51",
-            "0.61"
+            "56%",
+            "46%",
+            "51%",
+            "61%"
           ],
           "opts_hi": [
-            "0.56",
-            "0.46",
-            "0.51",
-            "0.61"
+            "56%",
+            "46%",
+            "51%",
+            "61%"
           ],
           "ans": 0,
           "subject": "Data Interpretation",
@@ -24046,16 +24046,16 @@
           "q": "In 2015, the revenue was approximately what percent of the total revenue over the period?",
           "q_hi": "2015 में राजस्व, अवधि के कुल राजस्व का लगभग कितना प्रतिशत था?",
           "opts": [
-            "0.12",
-            "0.18",
-            "0.09",
-            "0.15"
+            "12%",
+            "18%",
+            "9%",
+            "15%"
           ],
           "opts_hi": [
-            "0.12",
-            "0.18",
-            "0.09",
-            "0.15"
+            "12%",
+            "18%",
+            "9%",
+            "15%"
           ],
           "ans": 0,
           "subject": "Data Interpretation",
@@ -24103,16 +24103,16 @@
           "q": "What was the percentage change in revenue from 2015 to 2020?",
           "q_hi": "2015 से 2020 तक राजस्व में कितने प्रतिशत का परिवर्तन हुआ?",
           "opts": [
-            "0.78",
-            "0.83",
-            "0.88",
-            "0.73"
+            "78%",
+            "83%",
+            "88%",
+            "73%"
           ],
           "opts_hi": [
-            "0.78",
-            "0.83",
-            "0.88",
-            "0.73"
+            "78%",
+            "83%",
+            "88%",
+            "73%"
           ],
           "ans": 0,
           "subject": "Data Interpretation",
@@ -24141,16 +24141,16 @@
           "q": "The earnings of the company in 1996-97 were approximately what percent of the average earning over the period under review?",
           "q_hi": "1996-97 में कंपनी की आय समीक्षा अवधि के औसत आय का लगभग कितना प्रतिशत थी?",
           "opts": [
-            "0.41",
-            "0.36",
-            "0.46",
-            "0.51"
+            "41%",
+            "36%",
+            "46%",
+            "51%"
           ],
           "opts_hi": [
-            "0.41",
-            "0.36",
-            "0.46",
-            "0.51"
+            "41%",
+            "36%",
+            "46%",
+            "51%"
           ],
           "ans": 2,
           "subject": "Data Interpretation",
@@ -24198,16 +24198,16 @@
           "q": "What was the percentage increase in earning of the company in 1997-98 over 1993-94?",
           "q_hi": "1997-98 में कंपनी की आय में 1993-94 की तुलना में कितने प्रतिशत की वृद्धि हुई थी?",
           "opts": [
-            "0.59",
-            "0.39",
-            "0.79",
-            "0.99"
+            "59%",
+            "39%",
+            "79%",
+            "99%"
           ],
           "opts_hi": [
-            "0.59",
-            "0.39",
-            "0.79",
-            "0.99"
+            "59%",
+            "39%",
+            "79%",
+            "99%"
           ],
           "ans": 2,
           "subject": "Data Interpretation",
@@ -24217,16 +24217,16 @@
           "q": "What was the approximate percentage decline in the earning of the company from 1994-95 to 1995-96?",
           "q_hi": "1994-95 से 1995-96 तक कंपनी की आय में लगभग कितने प्रतिशत की गिरावट आई थी?",
           "opts": [
-            "0.38",
-            "0.3",
-            "0.42",
-            "0.35"
+            "38%",
+            "30%",
+            "42%",
+            "35%"
           ],
           "opts_hi": [
-            "0.38",
-            "0.3",
-            "0.42",
-            "0.35"
+            "38%",
+            "30%",
+            "42%",
+            "35%"
           ],
           "ans": 0,
           "subject": "Data Interpretation",
@@ -24236,16 +24236,16 @@
           "q": "The earnings of the company in 1996-97 were approximately what percent of the average earning over the period under review?",
           "q_hi": "1996-97 में कंपनी की आय समीक्षा अवधि के औसत आय का लगभग कितना प्रतिशत थी?",
           "opts": [
-            "0.46",
-            "0.51",
-            "0.56",
-            "0.41"
+            "46%",
+            "51%",
+            "56%",
+            "41%"
           ],
           "opts_hi": [
-            "0.46",
-            "0.51",
-            "0.56",
-            "0.41"
+            "46%",
+            "51%",
+            "56%",
+            "41%"
           ],
           "ans": 1,
           "subject": "Data Interpretation",
@@ -24293,16 +24293,16 @@
           "q": "What was the percentage increase in earning of the company in 1997-98 over 1993-94?",
           "q_hi": "1997-98 में कंपनी की आय में 1993-94 की तुलना में कितने प्रतिशत की वृद्धि हुई थी?",
           "opts": [
-            "0.41",
-            "0.21",
-            "0.31",
-            "0.11"
+            "41%",
+            "21%",
+            "31%",
+            "11%"
           ],
           "opts_hi": [
-            "0.41",
-            "0.21",
-            "0.31",
-            "0.11"
+            "41%",
+            "21%",
+            "31%",
+            "11%"
           ],
           "ans": 0,
           "subject": "Data Interpretation",
