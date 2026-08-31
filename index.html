@@ -704,6 +704,14 @@ const SUBJECT_ALIASES_BY_EXAM = {
     'Reasoning/Analytical Ability': 'Logic & Reasoning',
     'Reasoning': 'Logic & Reasoning',
     'Elementary Mathematics': 'Elementary Arithmetic',
+    // The official exam syllabus describes these as two separate 10-question
+    // sections, but real published content tags them individually with these
+    // exact literal names rather than the merged "Data Interpretation" tag
+    // used elsewhere — collapse both into the same canonical bucket so the
+    // combined 20-question cap applies correctly regardless of which naming
+    // convention a given set's content happens to use.
+    'Graph Interpretation (2 Graphs)': 'Data Interpretation',
+    'Table Interpretation & Analysis (2 Tables)': 'Data Interpretation',
   }
 };
 // Legacy sets created before the subject/syllabus tagging existed — these
