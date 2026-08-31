@@ -290,6 +290,14 @@
       "destination": "/railways/rrb-group-d-mock-test-4/index.html"
     },
     {
+      "source": "/upsssc/upsssc-pet-mock-test-12",
+      "destination": "/upsssc/upsssc-pet-mock-test-12/index.html"
+    },
+    {
+      "source": "/upsssc/upsssc-pet-mock-test-12/",
+      "destination": "/upsssc/upsssc-pet-mock-test-12/index.html"
+    },
+    {
       "source": "/(.*)",
       "destination": "/index.html"
     }
