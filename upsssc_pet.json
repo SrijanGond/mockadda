@@ -24328,6 +24328,2367 @@
           "img": "/question-images/di/di_bar_exam_9201_chart.svg"
         }
       ]
+    },
+    {
+      "id": "upsssc_pet_12",
+      "title": "UPSSSC PET Full Mock Test 12 (Preliminary Eligibility Test)",
+      "duration": 120,
+      "difficulty": "Medium",
+      "correctMarks": 1,
+      "negativeMarks": 0.5,
+      "questions": [
+        {
+          "q": "Which Mauryan ruler issued the Bhabru (Bairat) edict in which he expressed his personal faith in the Buddha, Dhamma, and Sangha?",
+          "q_hi": "किस मौर्य शासक ने भाब्रू (बैराट) अभिलेख जारी किया, जिसमें उसने बुद्ध, धम्म और संघ में अपनी व्यक्तिगत आस्था व्यक्त की?",
+          "opts": [
+            "Bindusara",
+            "Chandragupta Maurya",
+            "Ashoka",
+            "Dasharatha"
+          ],
+          "opts_hi": [
+            "बिन्दुसार",
+            "चन्द्रगुप्त मौर्य",
+            "अशोक",
+            "दशरथ"
+          ],
+          "ans": 2,
+          "subject": "India History"
+        },
+        {
+          "q": "The 'Mansabdari system' introduced during Akbar's reign was primarily borrowed from which administrative tradition?",
+          "q_hi": "अकबर के शासनकाल में शुरू की गई 'मनसबदारी प्रथा' मुख्यतः किस प्रशासनिक परंपरा से ली गई थी?",
+          "opts": [
+            "Persian Safavid system",
+            "Mongol decimal system",
+            "Ottoman Timar system",
+            "Rajput jagir system"
+          ],
+          "opts_hi": [
+            "फारसी सफ़ाविद प्रणाली",
+            "मंगोल दशमलव प्रणाली",
+            "ऑटोमन तिमार प्रणाली",
+            "राजपूत जागीर प्रणाली"
+          ],
+          "ans": 1,
+          "subject": "India History"
+        },
+        {
+          "q": "The historic 'Poorna Swaraj' (Complete Independence) resolution was passed at which session of the Indian National Congress?",
+          "q_hi": "ऐतिहासिक 'पूर्ण स्वराज' (पूर्ण स्वतंत्रता) प्रस्ताव भारतीय राष्ट्रीय कांग्रेस के किस अधिवेशन में पारित किया गया था?",
+          "opts": [
+            "Lahore Session, 1929",
+            "Calcutta Session, 1928",
+            "Nagpur Session, 1920",
+            "Karachi Session, 1931"
+          ],
+          "opts_hi": [
+            "लाहौर अधिवेशन, 1929",
+            "कलकत्ता अधिवेशन, 1928",
+            "नागपुर अधिवेशन, 1920",
+            "कराची अधिवेशन, 1931"
+          ],
+          "ans": 0,
+          "subject": "India History"
+        },
+        {
+          "q": "The term 'Gotra', which originally referred to a 'cow-pen' or 'cow-shed', gradually came to signify which social concept in the later Vedic period?",
+          "q_hi": "शब्द 'गोत्र', जिसका मूल अर्थ 'गोशाला' था, उत्तर वैदिक काल में धीरे-धीरे किस सामाजिक अवधारणा का बोधक बन गया?",
+          "opts": [
+            "A unit of land measurement",
+            "A common ancestral lineage",
+            "A class of ritual priests",
+            "A type of tribal council"
+          ],
+          "opts_hi": [
+            "भूमि मापन की एक इकाई",
+            "सामान्य पैतृक वंश-परंपरा",
+            "अनुष्ठानिक पुजारियों का एक वर्ग",
+            "एक प्रकार की जनजातीय परिषद"
+          ],
+          "ans": 1,
+          "subject": "India History"
+        },
+        {
+          "q": "Who was the Governor-General of India when the Revolt of 1857 broke out?",
+          "q_hi": "1857 के विद्रोह के समय भारत का गवर्नर-जनरल कौन था?",
+          "opts": [
+            "Lord Dalhousie",
+            "Lord Canning",
+            "Lord Ellenborough",
+            "Lord Lawrence"
+          ],
+          "opts_hi": [
+            "लॉर्ड डलहौजी",
+            "लॉर्ड कैनिंग",
+            "लॉर्ड एलनबरो",
+            "लॉर्ड लॉरेंस"
+          ],
+          "ans": 1,
+          "subject": "India History"
+        },
+        {
+          "q": "Who among the following presided over the first session of the Indian National Congress held in Bombay in 1885?",
+          "q_hi": "1885 में बॉम्बे में आयोजित भारतीय राष्ट्रीय कांग्रेस के प्रथम अधिवेशन की अध्यक्षता किसने की थी?",
+          "opts": [
+            "Dadabhai Naoroji",
+            "Bal Gangadhar Tilak",
+            "Womesh Chandra Bonnerjee",
+            "Surendranath Banerjee"
+          ],
+          "opts_hi": [
+            "दादाभाई नौरोजी",
+            "बाल गंगाधर तिलक",
+            "वोमेश चन्द्र बनर्जी",
+            "सुरेन्द्रनाथ बनर्जी"
+          ],
+          "ans": 2,
+          "subject": "Indian National Movement"
+        },
+        {
+          "q": "The Non-Cooperation Movement launched by Mahatma Gandhi in 1920 was withdrawn primarily because of which event?",
+          "q_hi": "महात्मा गांधी द्वारा 1920 में प्रारम्भ किए गए असहयोग आंदोलन को मुख्यतः किस घटना के कारण वापस लिया गया था?",
+          "opts": [
+            "Jallianwala Bagh massacre",
+            "Chauri Chaura incident",
+            "Moplah Rebellion",
+            "Simon Commission visit"
+          ],
+          "opts_hi": [
+            "जलियाँवाला बाग हत्याकांड",
+            "चौरी-चौरा कांड",
+            "मोपला विद्रोह",
+            "साइमन कमीशन का आगमन"
+          ],
+          "ans": 1,
+          "subject": "Indian National Movement"
+        },
+        {
+          "q": "Mahatma Gandhi started the famous Dandi March on 12 March 1930 from which place?",
+          "q_hi": "महात्मा गांधी ने 12 मार्च 1930 को प्रसिद्ध दांडी मार्च किस स्थान से प्रारम्भ किया था?",
+          "opts": [
+            "Wardha",
+            "Porbandar",
+            "Sabarmati Ashram",
+            "Surat"
+          ],
+          "opts_hi": [
+            "वर्धा",
+            "पोरबंदर",
+            "साबरमती आश्रम",
+            "सूरत"
+          ],
+          "ans": 2,
+          "subject": "Indian National Movement"
+        },
+        {
+          "q": "The slogan 'Do or Die' was given by Mahatma Gandhi in connection with which movement?",
+          "q_hi": "करो या मरो' का नारा महात्मा गांधी ने किस आंदोलन के संदर्भ में दिया था?",
+          "opts": [
+            "Non-Cooperation Movement",
+            "Civil Disobedience Movement",
+            "Quit India Movement",
+            "Champaran Satyagraha"
+          ],
+          "opts_hi": [
+            "असहयोग आंदोलन",
+            "सविनय अवज्ञा आंदोलन",
+            "भारत छोड़ो आंदोलन",
+            "चम्पारण सत्याग्रह"
+          ],
+          "ans": 2,
+          "subject": "Indian National Movement"
+        },
+        {
+          "q": "Bhagat Singh, Rajguru, and Sukhdev were hanged by the British government on which date?",
+          "q_hi": "भगत सिंह, राजगुरु और सुखदेव को ब्रिटिश सरकार ने किस तिथि को फाँसी दी थी?",
+          "opts": [
+            "1931-03-23 00:00:00",
+            "1919-04-13 00:00:00",
+            "1925-08-09 00:00:00",
+            "1928-12-17 00:00:00"
+          ],
+          "opts_hi": [
+            "23 मार्च 1931",
+            "13 अप्रैल 1919",
+            "9 अगस्त 1925",
+            "17 दिसंबर 1928"
+          ],
+          "ans": 0,
+          "subject": "Indian National Movement"
+        },
+        {
+          "q": "Which river is known as the 'Sorrow of Bihar' due to the frequent floods it causes in the region?",
+          "q_hi": "किस नदी को बिहार में बार-बार आने वाली बाढ़ के कारण 'बिहार का शोक' कहा जाता है?",
+          "opts": [
+            "Gandak",
+            "Kosi",
+            "Bagmati",
+            "Mahananda"
+          ],
+          "opts_hi": [
+            "गंडक",
+            "कोसी",
+            "बागमती",
+            "महानंदा"
+          ],
+          "ans": 1,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which type of soil is most suitable for the cultivation of cotton and is predominantly found in the Deccan Plateau region of India?",
+          "q_hi": "कपास की खेती के लिए कौन-सी मिट्टी सबसे उपयुक्त होती है और यह भारत के दक्कन पठार क्षेत्र में मुख्य रूप से पाई जाती है?",
+          "opts": [
+            "Alluvial soil",
+            "Red soil",
+            "Black soil",
+            "Laterite soil"
+          ],
+          "opts_hi": [
+            "जलोढ़ मिट्टी",
+            "लाल मिट्टी",
+            "काली मिट्टी",
+            "लैटेराइट मिट्टी"
+          ],
+          "ans": 2,
+          "subject": "Geography"
+        },
+        {
+          "q": "The Nathu La mountain pass, which serves as a trade route between India and China, is located in which Indian state?",
+          "q_hi": "नाथू ला दर्रा, जो भारत और चीन के बीच एक व्यापार मार्ग के रूप में काम करता है, किस भारतीय राज्य में स्थित है?",
+          "opts": [
+            "Arunachal Pradesh",
+            "Himachal Pradesh",
+            "Uttarakhand",
+            "Sikkim"
+          ],
+          "opts_hi": [
+            "अरुणाचल प्रदेश",
+            "हिमाचल प्रदेश",
+            "उत्तराखंड",
+            "सिक्किम"
+          ],
+          "ans": 3,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which one of the following places in India receives the highest average annual rainfall?",
+          "q_hi": "निम्नलिखित में से भारत के किस स्थान पर सर्वाधिक औसत वार्षिक वर्षा होती है?",
+          "opts": [
+            "Cherrapunji",
+            "Mawsynram",
+            "Agumbe",
+            "Mahabaleshwar"
+          ],
+          "opts_hi": [
+            "चेरापूंजी",
+            "मॉसिनराम",
+            "अगुम्बे",
+            "महाबलेश्वर"
+          ],
+          "ans": 1,
+          "subject": "Geography"
+        },
+        {
+          "q": "The 'Chilika Lake', the largest coastal lagoon in India and an important wetland for migratory birds, is located in which state?",
+          "q_hi": "भारत की सबसे बड़ी तटीय लैगून झील 'चिल्का झील', जो प्रवासी पक्षियों के लिए एक महत्वपूर्ण आर्द्रभूमि है, किस राज्य में स्थित है?",
+          "opts": [
+            "Andhra Pradesh",
+            "West Bengal",
+            "Odisha",
+            "Tamil Nadu"
+          ],
+          "opts_hi": [
+            "आंध्र प्रदेश",
+            "पश्चिम बंगाल",
+            "ओडिशा",
+            "तमिलनाडु"
+          ],
+          "ans": 2,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which Five Year Plan in India gave the highest priority to the development of heavy industries and was largely influenced by the Mahalanobis model?",
+          "q_hi": "भारत की किस पंचवर्षीय योजना में भारी उद्योगों के विकास को सर्वोच्च प्राथमिकता दी गई और जो मुख्यतः महालनोबिस मॉडल से प्रभावित थी?",
+          "opts": [
+            "First Five Year Plan",
+            "Second Five Year Plan",
+            "Third Five Year Plan",
+            "Fourth Five Year Plan"
+          ],
+          "opts_hi": [
+            "पहली पंचवर्षीय योजना",
+            "दूसरी पंचवर्षीय योजना",
+            "तीसरी पंचवर्षीय योजना",
+            "चौथी पंचवर्षीय योजना"
+          ],
+          "ans": 1,
+          "subject": "Indian Economy"
+        },
+        {
+          "q": "The Reserve Bank of India was established in which year under the Reserve Bank of India Act?",
+          "q_hi": "भारतीय रिज़र्व बैंक की स्थापना भारतीय रिज़र्व बैंक अधिनियम के अंतर्गत किस वर्ष हुई थी?",
+          "opts": [
+            "1930.0",
+            "1932.0",
+            "1935.0",
+            "1947.0"
+          ],
+          "opts_hi": [
+            "1930.0",
+            "1932.0",
+            "1935.0",
+            "1947.0"
+          ],
+          "ans": 2,
+          "subject": "Indian Economy"
+        },
+        {
+          "q": "The MGNREGS (Mahatma Gandhi National Rural Employment Guarantee Scheme) guarantees a minimum of how many days of wage employment in a financial year to every rural household whose adult members volunteer to do unskilled manual work?",
+          "q_hi": "महात्मा गांधी राष्ट्रीय ग्रामीण रोजगार गारंटी योजना (MGNREGS) प्रत्येक ग्रामीण परिवार को एक वित्त वर्ष में कम से कम कितने दिनों के मजदूरी रोजगार की गारंटी देती है जिसके वयस्क सदस्य अकुशल मैनुअल कार्य करने के इच्छुक हों?",
+          "opts": [
+            "50 days",
+            "100 days",
+            "150 days",
+            "200 days"
+          ],
+          "opts_hi": [
+            "50 दिन",
+            "100 दिन",
+            "150 दिन",
+            "200 दिन"
+          ],
+          "ans": 1,
+          "subject": "Indian Economy"
+        },
+        {
+          "q": "Which of the following correctly defines 'Gross National Product' (GNP)?",
+          "q_hi": "सकल राष्ट्रीय उत्पाद' (GNP) को निम्नलिखित में से कौन सही परिभाषित करता है?",
+          "opts": [
+            "GDP minus depreciation",
+            "GDP plus net factor income from abroad",
+            "GDP plus indirect taxes minus subsidies",
+            "GDP plus government expenditure"
+          ],
+          "opts_hi": [
+            "GDP घटा मूल्यह्रास",
+            "GDP जमा विदेश से शुद्ध कारक आय",
+            "GDP जमा अप्रत्यक्ष कर घटा सब्सिडी",
+            "GDP जमा सरकारी व्यय"
+          ],
+          "ans": 1,
+          "subject": "Indian Economy"
+        },
+        {
+          "q": "The Green Revolution in India during the 1960s was most successful in increasing the production of which crop?",
+          "q_hi": "1960 के दशक में भारत में हरित क्रांति किस फसल के उत्पादन में वृद्धि करने में सबसे अधिक सफल रही?",
+          "opts": [
+            "Rice and Wheat",
+            "Cotton and Jute",
+            "Sugarcane and Maize",
+            "Pulses and Oilseeds"
+          ],
+          "opts_hi": [
+            "चावल और गेहूँ",
+            "कपास और जूट",
+            "गन्ना और मक्का",
+            "दलहन और तिलहन"
+          ],
+          "ans": 0,
+          "subject": "Indian Economy"
+        },
+        {
+          "q": "Which Article of the Indian Constitution guarantees the Right to Constitutional Remedies, allowing citizens to directly approach the Supreme Court for enforcement of Fundamental Rights?",
+          "q_hi": "भारतीय संविधान का कौन-सा अनुच्छेद संवैधानिक उपचारों का अधिकार प्रदान करता है, जिसके तहत नागरिक मौलिक अधिकारों के प्रवर्तन के लिए सीधे सर्वोच्च न्यायालय जा सकते हैं?",
+          "opts": [
+            "Article 30",
+            "Article 32",
+            "Article 35",
+            "Article 226"
+          ],
+          "opts_hi": [
+            "अनुच्छेद 30",
+            "अनुच्छेद 32",
+            "अनुच्छेद 35",
+            "अनुच्छेद 226"
+          ],
+          "ans": 1,
+          "subject": "Indian Constitution & Public Administration"
+        },
+        {
+          "q": "The Directive Principles of State Policy enshrined in the Indian Constitution are borrowed primarily from the Constitution of which country?",
+          "q_hi": "भारतीय संविधान में निहित राज्य के नीति-निर्देशक तत्व मुख्य रूप से किस देश के संविधान से लिए गए हैं?",
+          "opts": [
+            "United States of America",
+            "United Kingdom",
+            "Ireland",
+            "Canada"
+          ],
+          "opts_hi": [
+            "संयुक्त राज्य अमेरिका",
+            "यूनाइटेड किंगडम",
+            "आयरलैंड",
+            "कनाडा"
+          ],
+          "ans": 2,
+          "subject": "Indian Constitution & Public Administration"
+        },
+        {
+          "q": "A Money Bill passed by the Lok Sabha is sent to the Rajya Sabha. If the Rajya Sabha does not return it within the prescribed period, the Bill is deemed to have been passed by both Houses after how many days?",
+          "q_hi": "लोक सभा द्वारा पारित धन विधेयक राज्य सभा को भेजा जाता है। यदि राज्य सभा उसे निर्धारित अवधि में वापस नहीं करती, तो कितने दिनों के बाद विधेयक दोनों सदनों द्वारा पारित माना जाता है?",
+          "opts": [
+            "7 days",
+            "14 days",
+            "21 days",
+            "30 days"
+          ],
+          "opts_hi": [
+            "7 दिन",
+            "14 दिन",
+            "21 दिन",
+            "30 दिन"
+          ],
+          "ans": 1,
+          "subject": "Indian Constitution & Public Administration"
+        },
+        {
+          "q": "By which Constitutional Amendment Act were the Fundamental Duties of citizens added to the Indian Constitution?",
+          "q_hi": "किस संविधान संशोधन अधिनियम द्वारा भारतीय संविधान में नागरिकों के मूल कर्तव्य जोड़े गए थे?",
+          "opts": [
+            "42nd Amendment Act, 1976",
+            "44th Amendment Act, 1978",
+            "52nd Amendment Act, 1985",
+            "86th Amendment Act, 2002"
+          ],
+          "opts_hi": [
+            "42वाँ संशोधन अधिनियम, 1976",
+            "44वाँ संशोधन अधिनियम, 1978",
+            "52वाँ संशोधन अधिनियम, 1985",
+            "86वाँ संशोधन अधिनियम, 2002"
+          ],
+          "ans": 0,
+          "subject": "Indian Constitution & Public Administration"
+        },
+        {
+          "q": "Which Constitutional Amendment Act gave constitutional status to Panchayati Raj institutions in India and added the Eleventh Schedule to the Constitution?",
+          "q_hi": "किस संविधान संशोधन अधिनियम ने भारत में पंचायती राज संस्थाओं को संवैधानिक दर्जा दिया और संविधान में ग्यारहवीं अनुसूची जोड़ी?",
+          "opts": [
+            "70th Amendment Act, 1992",
+            "73rd Amendment Act, 1992",
+            "74th Amendment Act, 1992",
+            "76th Amendment Act, 1994"
+          ],
+          "opts_hi": [
+            "70वाँ संशोधन अधिनियम, 1992",
+            "73वाँ संशोधन अधिनियम, 1992",
+            "74वाँ संशोधन अधिनियम, 1992",
+            "76वाँ संशोधन अधिनियम, 1994"
+          ],
+          "ans": 1,
+          "subject": "Indian Constitution & Public Administration"
+        },
+        {
+          "q": "Which gland in the human body is known as the 'master gland' because it regulates the functioning of other endocrine glands?",
+          "q_hi": "मानव शरीर में किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है क्योंकि यह अन्य अंतःस्रावी ग्रंथियों के कार्य को नियंत्रित करती है?",
+          "opts": [
+            "Thyroid gland",
+            "Adrenal gland",
+            "Pituitary gland",
+            "Pancreas"
+          ],
+          "opts_hi": [
+            "थायरॉइड ग्रंथि",
+            "अधिवृक्क ग्रंथि",
+            "पीयूष ग्रंथि",
+            "अग्न्याशय"
+          ],
+          "ans": 2,
+          "subject": "General Science"
+        },
+        {
+          "q": "Which of the following substances is used as an antacid to neutralise excess acid in the human stomach?",
+          "q_hi": "निम्नलिखित में से किस पदार्थ का उपयोग मानव पेट में अतिरिक्त अम्ल को उदासीन करने के लिए एंटासिड के रूप में किया जाता है?",
+          "opts": [
+            "Sodium chloride",
+            "Calcium carbonate",
+            "Potassium nitrate",
+            "Aluminium sulphate"
+          ],
+          "opts_hi": [
+            "सोडियम क्लोराइड",
+            "कैल्शियम कार्बोनेट",
+            "पोटैशियम नाइट्रेट",
+            "एल्युमिनियम सल्फेट"
+          ],
+          "ans": 1,
+          "subject": "General Science"
+        },
+        {
+          "q": "A person suffering from myopia (short-sightedness) should wear which type of corrective lens?",
+          "q_hi": "निकट दृष्टि दोष (मायोपिया) से पीड़ित व्यक्ति को किस प्रकार का सुधारात्मक लेंस पहनना चाहिए?",
+          "opts": [
+            "Convex lens",
+            "Concave lens",
+            "Bifocal lens",
+            "Cylindrical lens"
+          ],
+          "opts_hi": [
+            "उत्तल लेंस",
+            "अवतल लेंस",
+            "द्विफोकसी लेंस",
+            "बेलनाकार लेंस"
+          ],
+          "ans": 1,
+          "subject": "General Science"
+        },
+        {
+          "q": "Which pigment present in the leaves of green plants is primarily responsible for absorbing sunlight during photosynthesis?",
+          "q_hi": "हरे पौधों की पत्तियों में कौन सा वर्णक (pigment) प्रकाश संश्लेषण के दौरान सूर्य के प्रकाश को अवशोषित करने के लिए मुख्य रूप से उत्तरदायी है?",
+          "opts": [
+            "Carotene",
+            "Xanthophyll",
+            "Chlorophyll",
+            "Anthocyanin"
+          ],
+          "opts_hi": [
+            "कैरोटीन",
+            "जैन्थोफिल",
+            "क्लोरोफिल",
+            "एन्थोसायनिन"
+          ],
+          "ans": 2,
+          "subject": "General Science"
+        },
+        {
+          "q": "Which of the following metals is the best conductor of electricity among all known metals?",
+          "q_hi": "निम्नलिखित में से कौन सी धातु सभी ज्ञात धातुओं में विद्युत की सर्वश्रेष्ठ चालक है?",
+          "opts": [
+            "Copper",
+            "Gold",
+            "Aluminium",
+            "Silver"
+          ],
+          "opts_hi": [
+            "तांबा",
+            "सोना",
+            "एल्युमिनियम",
+            "चांदी"
+          ],
+          "ans": 3,
+          "subject": "General Science"
+        },
+        {
+          "q": "A shopkeeper marks the price of an article 40% above its cost price and then offers a discount of 25% on the marked price. What is his profit or loss percentage?",
+          "q_hi": "एक दुकानदार किसी वस्तु का मूल्य उसके क्रय मूल्य से 40% अधिक अंकित करता है और फिर अंकित मूल्य पर 25% की छूट देता है। उसका लाभ या हानि प्रतिशत क्या होगा?",
+          "opts": [
+            "5% Profit",
+            "5% Loss",
+            "10% Profit",
+            "15% Loss"
+          ],
+          "opts_hi": [
+            "5% लाभ",
+            "5% हानि",
+            "10% लाभ",
+            "15% हानि"
+          ],
+          "ans": 0,
+          "subject": "Elementary Arithmetic"
+        },
+        {
+          "q": "A sum of money doubles itself in 8 years at simple interest. In how many years will it become three times of itself?",
+          "q_hi": "कोई धनराशि साधारण ब्याज पर 8 वर्षों में दोगुनी हो जाती है। वह कितने वर्षों में तिगुनी हो जाएगी?",
+          "opts": [
+            "12 years",
+            "20 years",
+            "16 years",
+            "24 years"
+          ],
+          "opts_hi": [
+            "12 वर्ष",
+            "20 वर्ष",
+            "16 वर्ष",
+            "24 वर्ष"
+          ],
+          "ans": 2,
+          "subject": "Elementary Arithmetic"
+        },
+        {
+          "q": "Two numbers are in the ratio 3 : 5. If 6 is subtracted from each of them, the new ratio becomes 1 : 3. What is the larger of the two numbers?",
+          "q_hi": "दो संख्याएँ 3 : 5 के अनुपात में हैं। यदि प्रत्येक में से 6 घटाया जाए तो नया अनुपात 1 : 3 हो जाता है। दोनों संख्याओं में बड़ी संख्या कौन सी है?",
+          "opts": [
+            "15.0",
+            "20.0",
+            "18.0",
+            "10.0"
+          ],
+          "opts_hi": [
+            "15.0",
+            "20.0",
+            "18.0",
+            "10.0"
+          ],
+          "ans": 0,
+          "subject": "Elementary Arithmetic"
+        },
+        {
+          "q": "A can complete a piece of work in 12 days and B can complete the same work in 18 days. They start working together but A leaves after 4 days. In how many more days will B alone finish the remaining work?",
+          "q_hi": "A किसी काम को 12 दिनों में और B उसी काम को 18 दिनों में पूरा कर सकता है। वे दोनों मिलकर काम शुरू करते हैं, लेकिन A 4 दिन बाद छोड़ देता है। शेष काम B अकेले कितने और दिनों में पूरा करेगा?",
+          "opts": [
+            "8 days",
+            "10 days",
+            "6 days",
+            "9 days"
+          ],
+          "opts_hi": [
+            "8 दिन",
+            "10 दिन",
+            "6 दिन",
+            "9 दिन"
+          ],
+          "ans": 2,
+          "subject": "Elementary Arithmetic"
+        },
+        {
+          "q": "The average marks of 30 students in a class is 54. When the marks of 5 more students are included, the average rises to 56. What is the average marks of the 5 new students?",
+          "q_hi": "एक कक्षा के 30 विद्यार्थियों के औसत अंक 54 हैं। जब 5 और विद्यार्थियों के अंक शामिल किए जाते हैं तो औसत बढ़कर 56 हो जाता है। नए 5 विद्यार्थियों के औसत अंक कितने हैं?",
+          "opts": [
+            "62.0",
+            "68.0",
+            "66.0",
+            "70.0"
+          ],
+          "opts_hi": [
+            "62.0",
+            "68.0",
+            "66.0",
+            "70.0"
+          ],
+          "ans": 2,
+          "subject": "Elementary Arithmetic"
+        },
+        {
+          "q": "Which of the following is the correct Sandhi Viched (splitting) of the word 'महेश्वर'?",
+          "q_hi": "महेश्वर' शब्द का सही संधि विच्छेद कौन-सा है?",
+          "opts": [
+            "महा + ईश्वर",
+            "महे + श्वर",
+            "मह + ईश्वर",
+            "महा + इश्वर"
+          ],
+          "opts_hi": [
+            "महा + ईश्वर",
+            "महे + श्वर",
+            "मह + ईश्वर",
+            "महा + इश्वर"
+          ],
+          "ans": 0,
+          "subject": "General Hindi"
+        },
+        {
+          "q": "What type of Samas (compound) is the word 'नीलकंठ'?",
+          "q_hi": "नीलकंठ' शब्द में कौन-सा समास है?",
+          "opts": [
+            "तत्पुरुष समास",
+            "द्वंद्व समास",
+            "बहुव्रीहि समास",
+            "कर्मधारय समास"
+          ],
+          "opts_hi": [
+            "तत्पुरुष समास",
+            "द्वंद्व समास",
+            "बहुव्रीहि समास",
+            "कर्मधारय समास"
+          ],
+          "ans": 2,
+          "subject": "General Hindi"
+        },
+        {
+          "q": "What is the correct meaning of the idiom 'अंगूठा दिखाना'?",
+          "q_hi": "अंगूठा दिखाना' मुहावरे का सही अर्थ क्या है?",
+          "opts": [
+            "किसी को रास्ता बताना",
+            "साफ मना कर देना",
+            "किसी की सहायता करना",
+            "किसी को धमकी देना"
+          ],
+          "opts_hi": [
+            "किसी को रास्ता बताना",
+            "साफ मना कर देना",
+            "किसी की सहायता करना",
+            "किसी को धमकी देना"
+          ],
+          "ans": 1,
+          "subject": "General Hindi"
+        },
+        {
+          "q": "What is the correct antonym (vilom) of the word 'सौम्य'?",
+          "q_hi": "सौम्य' शब्द का सही विलोम शब्द कौन-सा है?",
+          "opts": [
+            "शांत",
+            "कोमल",
+            "उग्र",
+            "विनम्र"
+          ],
+          "opts_hi": [
+            "शांत",
+            "कोमल",
+            "उग्र",
+            "विनम्र"
+          ],
+          "ans": 2,
+          "subject": "General Hindi"
+        },
+        {
+          "q": "Which of the following sentences is grammatically correct?",
+          "q_hi": "निम्नलिखित में से कौन-सा वाक्य शुद्ध है?",
+          "opts": [
+            "मुझे प्यास लग रही है।",
+            "मुझको प्यास लग रहा है।",
+            "मैं प्यास लग रहा है।",
+            "मुझे प्यास लग रहा है।"
+          ],
+          "opts_hi": [
+            "मुझे प्यास लग रही है।",
+            "मुझको प्यास लग रहा है।",
+            "मैं प्यास लग रहा है।",
+            "मुझे प्यास लग रहा है।"
+          ],
+          "ans": 0,
+          "subject": "General Hindi"
+        },
+        {
+          "q": "Choose the one word that best substitutes the given group of words: 'A person who is unable to pay their debts'",
+          "q_hi": "",
+          "opts": [
+            "Solvent",
+            "Insolvent",
+            "Affluent",
+            "Creditor"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "General English"
+        },
+        {
+          "q": "Choose the correct option to fill in the blank: 'By the time the ambulance arrived, the patient _______ consciousness.'",
+          "q_hi": "",
+          "opts": [
+            "loses",
+            "has lost",
+            "had lost",
+            "was losing"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 2,
+          "subject": "General English"
+        },
+        {
+          "q": "Select the word that is most nearly OPPOSITE in meaning to the word 'FRUGAL'.",
+          "q_hi": "",
+          "opts": [
+            "Thrifty",
+            "Prudent",
+            "Extravagant",
+            "Economical"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 2,
+          "subject": "General English"
+        },
+        {
+          "q": "Identify the part of the sentence that contains a grammatical error: 'She is one of those students (A) / who always complete (B) / their assignments on (C) / time without fail. (D)'",
+          "q_hi": "",
+          "opts": [
+            "She is one of those students",
+            "who always complete",
+            "their assignments on",
+            "time without fail"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "General English"
+        },
+        {
+          "q": "Choose the correct meaning of the idiom: 'To burn the midnight oil'",
+          "q_hi": "",
+          "opts": [
+            "To waste electricity",
+            "To work or study late into the night",
+            "To celebrate a festival with fire",
+            "To cause destruction deliberately"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "General English"
+        },
+        {
+          "q": "Pointing to a photograph, Suresh said, 'She is the daughter of my grandfather's only son.' How is the woman in the photograph related to Suresh?",
+          "q_hi": "एक फोटो की ओर इशारा करते हुए सुरेश ने कहा, 'यह मेरे दादा के इकलौते बेटे की बेटी है।' फोटो में मौजूद महिला सुरेश से किस प्रकार संबंधित है?",
+          "opts": [
+            "Sister",
+            "Cousin",
+            "Mother",
+            "Aunt"
+          ],
+          "opts_hi": [
+            "बहन",
+            "चचेरी बहन",
+            "माँ",
+            "चाची"
+          ],
+          "ans": 0,
+          "subject": "Logic & Reasoning"
+        },
+        {
+          "q": "Ramesh starts walking from point A towards the North. After walking 6 km he turns right and walks 8 km. He then turns right again and walks 6 km. How far is he from the starting point A, and in which direction?",
+          "q_hi": "रमेश बिंदु A से उत्तर दिशा में चलना शुरू करता है। 6 किमी चलने के बाद वह दाएँ मुड़ता है और 8 किमी चलता है। फिर वह दाएँ मुड़कर 6 किमी और चलता है। वह प्रारंभिक बिंदु A से कितनी दूर और किस दिशा में है?",
+          "opts": [
+            "8 km, West",
+            "6 km, East",
+            "8 km, East",
+            "10 km, East"
+          ],
+          "opts_hi": [
+            "8 किमी, पश्चिम",
+            "6 किमी, पूर्व",
+            "8 किमी, पूर्व",
+            "10 किमी, पूर्व"
+          ],
+          "ans": 2,
+          "subject": "Logic & Reasoning"
+        },
+        {
+          "q": "In a certain code language, 'BRIDGE' is written as 'EULGJH'. Using the same rule, how will 'FARMER' be written in that code?",
+          "q_hi": "एक निश्चित कूट भाषा में 'BRIDGE' को 'EULGJH' लिखा जाता है। उसी नियम के अनुसार 'FARMER' को उस कूट में कैसे लिखा जाएगा?",
+          "opts": [
+            "IDUPHU",
+            "IDTPHU",
+            "HDUOHT",
+            "IEVQIV"
+          ],
+          "opts_hi": [
+            "IDUPHU",
+            "IDTPHU",
+            "HDUOHT",
+            "IEVQIV"
+          ],
+          "ans": 0,
+          "subject": "Logic & Reasoning"
+        },
+        {
+          "q": "Statements: All pens are pencils. Some pencils are erasers. Conclusions: (I) Some pens are erasers. (II) Some erasers are pencils. Which conclusion(s) follow(s)?",
+          "q_hi": "कथन: सभी पेन पेंसिल हैं। कुछ पेंसिल इरेज़र हैं। निष्कर्ष: (I) कुछ पेन इरेज़र हैं। (II) कुछ इरेज़र पेंसिल हैं। कौन-सा/से निष्कर्ष अनुसरण करता/करते है/हैं?",
+          "opts": [
+            "Only Conclusion I follows",
+            "Only Conclusion II follows",
+            "Both I and II follow",
+            "Neither I nor II follows"
+          ],
+          "opts_hi": [
+            "केवल निष्कर्ष I अनुसरण करता है",
+            "केवल निष्कर्ष II अनुसरण करता है",
+            "I और II दोनों अनुसरण करते हैं",
+            "न तो I और न ही II अनुसरण करता है"
+          ],
+          "ans": 1,
+          "subject": "Logic & Reasoning"
+        },
+        {
+          "q": "Find the missing number in the series: 4, 9, 20, 43, 90, ?",
+          "q_hi": "श्रृंखला में लुप्त संख्या ज्ञात कीजिए: 4, 9, 20, 43, 90, ?",
+          "opts": [
+            "183.0",
+            "176.0",
+            "185.0",
+            "181.0"
+          ],
+          "opts_hi": [
+            "183.0",
+            "176.0",
+            "185.0",
+            "181.0"
+          ],
+          "ans": 0,
+          "subject": "Logic & Reasoning"
+        },
+        {
+          "q": "Under the Pradhan Mantri Fasal Bima Yojana (PMFBY), what is the maximum premium rate borne by farmers for commercial and horticultural crops?",
+          "q_hi": "प्रधानमंत्री फसल बीमा योजना (PMFBY) के अंतर्गत व्यावसायिक एवं बागवानी फसलों के लिए किसानों द्वारा वहन की जाने वाली अधिकतम प्रीमियम दर क्या है?",
+          "opts": [
+            "0.02",
+            "0.05",
+            "0.015",
+            "0.03"
+          ],
+          "opts_hi": [
+            "0.02",
+            "0.05",
+            "0.015",
+            "0.03"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "The 'Jal Jeevan Mission' launched by the Government of India aims to provide tap water connections to rural households by which year?",
+          "q_hi": "भारत सरकार द्वारा शुरू किए गए 'जल जीवन मिशन' का लक्ष्य किस वर्ष तक ग्रामीण परिवारों को नल जल कनेक्शन प्रदान करना है?",
+          "opts": [
+            "2022.0",
+            "2030.0",
+            "2024.0",
+            "2026.0"
+          ],
+          "opts_hi": [
+            "2022.0",
+            "2030.0",
+            "2024.0",
+            "2026.0"
+          ],
+          "ans": 2,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "India's Chandrayaan-3 mission successfully made a soft landing near the lunar south pole in August 2023. Which space agency's lander carried out this mission?",
+          "q_hi": "भारत के चंद्रयान-3 मिशन ने अगस्त 2023 में चंद्रमा के दक्षिणी ध्रुव के पास सफलतापूर्वक सॉफ्ट लैंडिंग की। किस अंतरिक्ष एजेंसी के लैंडर ने यह मिशन पूरा किया?",
+          "opts": [
+            "NASA",
+            "ISRO",
+            "ESA",
+            "JAXA"
+          ],
+          "opts_hi": [
+            "NASA",
+            "ISRO",
+            "ESA",
+            "JAXA"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "The 'Pradhan Mantri Rashtriya Bal Puraskar' is awarded to children in recognition of their exceptional achievements. What is the minimum age criterion for a child to be eligible for this award?",
+          "q_hi": "प्रधानमंत्री राष्ट्रीय बाल पुरस्कार' बच्चों को उनकी असाधारण उपलब्धियों के लिए दिया जाता है। इस पुरस्कार के लिए पात्र होने हेतु बच्चे की न्यूनतम आयु सीमा क्या है?",
+          "opts": [
+            "5 years",
+            "8 years",
+            "10 years",
+            "12 years"
+          ],
+          "opts_hi": [
+            "5 वर्ष",
+            "8 वर्ष",
+            "10 वर्ष",
+            "12 वर्ष"
+          ],
+          "ans": 0,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Every year, 'National Voters Day' is observed in India to encourage voter participation. On which date is it celebrated?",
+          "q_hi": "मतदाता भागीदारी को प्रोत्साहित करने के लिए भारत में प्रत्येक वर्ष 'राष्ट्रीय मतदाता दिवस' मनाया जाता है। यह किस तारीख को मनाया जाता है?",
+          "opts": [
+            "2026-01-26 00:00:00",
+            "2026-01-25 00:00:00",
+            "2026-03-15 00:00:00",
+            "2026-10-02 00:00:00"
+          ],
+          "opts_hi": [
+            "26 जनवरी",
+            "25 जनवरी",
+            "15 मार्च",
+            "2 अक्टूबर"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Under the Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) scheme, what is the annual financial assistance provided to eligible farmer families?",
+          "q_hi": "प्रधानमंत्री किसान सम्मान निधि (PM-KISAN) योजना के अंतर्गत पात्र किसान परिवारों को प्रतिवर्ष कितनी वित्तीय सहायता प्रदान की जाती है?",
+          "opts": [
+            "₹4,000",
+            "₹6,000",
+            "₹8,000",
+            "₹10,000"
+          ],
+          "opts_hi": [
+            "₹4,000",
+            "₹6,000",
+            "₹8,000",
+            "₹10,000"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "The Ayushman Bharat – Pradhan Mantri Jan Arogya Yojana (AB-PMJAY) provides health cover of up to how much per family per year to eligible beneficiaries?",
+          "q_hi": "आयुष्मान भारत – प्रधानमंत्री जन आरोग्य योजना (AB-PMJAY) के अंतर्गत पात्र लाभार्थी परिवारों को प्रतिवर्ष कितने रुपये तक का स्वास्थ्य बीमा कवर प्रदान किया जाता है?",
+          "opts": [
+            "₹2 lakh",
+            "₹3 lakh",
+            "₹5 lakh",
+            "₹7 lakh"
+          ],
+          "opts_hi": [
+            "₹2 लाख",
+            "₹3 लाख",
+            "₹5 लाख",
+            "₹7 लाख"
+          ],
+          "ans": 2,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Which organisation is the apex body responsible for regulating and developing the securities market in India?",
+          "q_hi": "भारत में प्रतिभूति बाजार को विनियमित और विकसित करने के लिए कौन-सा संगठन शीर्ष निकाय है?",
+          "opts": [
+            "RBI",
+            "IRDAI",
+            "SEBI",
+            "NABARD"
+          ],
+          "opts_hi": [
+            "RBI",
+            "IRDAI",
+            "SEBI",
+            "NABARD"
+          ],
+          "ans": 2,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Chandrayaan-3, India's successful lunar mission, landed near which region of the Moon in August 2023?",
+          "q_hi": "भारत के सफल चंद्र मिशन चंद्रयान-3 ने अगस्त 2023 में चंद्रमा के किस क्षेत्र के निकट सफलतापूर्वक लैंडिंग की?",
+          "opts": [
+            "North Pole",
+            "Equatorial region",
+            "South Pole",
+            "Far side of the Moon"
+          ],
+          "opts_hi": [
+            "उत्तरी ध्रुव",
+            "भूमध्यरेखीय क्षेत्र",
+            "दक्षिणी ध्रुव",
+            "चंद्रमा का सुदूर हिस्सा"
+          ],
+          "ans": 2,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Under the Pradhan Mantri Awas Yojana – Gramin (PMAY-G), what is the financial assistance provided to eligible beneficiaries in plain areas for construction of a pucca house?",
+          "q_hi": "प्रधानमंत्री आवास योजना – ग्रामीण (PMAY-G) के तहत मैदानी क्षेत्रों में पात्र लाभार्थियों को पक्का मकान बनाने के लिए कितनी वित्तीय सहायता प्रदान की जाती है?",
+          "opts": [
+            "₹70,000",
+            "₹1,00,000",
+            "₹1,20,000",
+            "₹1,50,000"
+          ],
+          "opts_hi": [
+            "₹70,000",
+            "₹1,00,000",
+            "₹1,20,000",
+            "₹1,50,000"
+          ],
+          "ans": 2,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "The 'Doctrine of Lapse' was introduced during the Governor-Generalship of which of the following?",
+          "q_hi": "व्यपगत सिद्धांत' (Doctrine of Lapse) निम्नलिखित में से किस गवर्नर-जनरल के कार्यकाल में लागू किया गया था?",
+          "opts": [
+            "Lord Wellesley",
+            "Lord Dalhousie",
+            "Lord Canning",
+            "Lord Cornwallis"
+          ],
+          "opts_hi": [
+            "लॉर्ड वेलेजली",
+            "लॉर्ड डलहौजी",
+            "लॉर्ड कैनिंग",
+            "लॉर्ड कार्नवालिस"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which Schedule of the Indian Constitution contains provisions related to the disqualification of members of Parliament and State Legislatures on grounds of defection?",
+          "q_hi": "भारतीय संविधान की कौन-सी अनुसूची संसद और राज्य विधानमंडलों के सदस्यों को दल-बदल के आधार पर अयोग्य ठहराने से संबंधित प्रावधान करती है?",
+          "opts": [
+            "Eighth Schedule",
+            "Ninth Schedule",
+            "Tenth Schedule",
+            "Eleventh Schedule"
+          ],
+          "opts_hi": [
+            "आठवीं अनुसूची",
+            "नौवीं अनुसूची",
+            "दसवीं अनुसूची",
+            "ग्यारहवीं अनुसूची"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The 'Chilika Lake', the largest coastal lagoon in India, is located in which state?",
+          "q_hi": "चिल्का झील', जो भारत की सबसे बड़ी तटीय लैगून है, किस राज्य में स्थित है?",
+          "opts": [
+            "Andhra Pradesh",
+            "West Bengal",
+            "Tamil Nadu",
+            "Odisha"
+          ],
+          "opts_hi": [
+            "आंध्र प्रदेश",
+            "पश्चिम बंगाल",
+            "तमिलनाडु",
+            "ओडिशा"
+          ],
+          "ans": 3,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which of the following vitamins is synthesized in the human body with the help of sunlight?",
+          "q_hi": "निम्नलिखित में से कौन-सा विटामिन सूर्य के प्रकाश की सहायता से मानव शरीर में संश्लेषित होता है?",
+          "opts": [
+            "Vitamin A",
+            "Vitamin B12",
+            "Vitamin C",
+            "Vitamin D"
+          ],
+          "opts_hi": [
+            "विटामिन A",
+            "विटामिन B12",
+            "विटामिन C",
+            "विटामिन D"
+          ],
+          "ans": 3,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The 'Green Revolution' in India was primarily associated with the increased production of which crop?",
+          "q_hi": "भारत में 'हरित क्रांति' मुख्य रूप से किस फसल के उत्पादन में वृद्धि से संबंधित थी?",
+          "opts": [
+            "Rice and Wheat",
+            "Sugarcane and Cotton",
+            "Pulses and Oilseeds",
+            "Maize and Barley"
+          ],
+          "opts_hi": [
+            "चावल और गेहूँ",
+            "गन्ना और कपास",
+            "दलहन और तिलहन",
+            "मक्का और जौ"
+          ],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which Mughal emperor issued the 'Farman of 1717' granting trading privileges to the British East India Company in Bengal?",
+          "q_hi": "किस मुगल सम्राट ने 1717 ई. में 'फर्मान' जारी कर बंगाल में ब्रिटिश ईस्ट इंडिया कंपनी को व्यापारिक विशेषाधिकार प्रदान किए?",
+          "opts": [
+            "Aurangzeb",
+            "Bahadur Shah I",
+            "Farrukhsiyar",
+            "Muhammad Shah"
+          ],
+          "opts_hi": [
+            "औरंगज़ेब",
+            "बहादुर शाह प्रथम",
+            "फर्रुखसियर",
+            "मुहम्मद शाह"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The 'Palk Strait' separates India from which neighboring country?",
+          "q_hi": "पाक जलसंधि' भारत को किस पड़ोसी देश से अलग करती है?",
+          "opts": [
+            "Maldives",
+            "Sri Lanka",
+            "Bangladesh",
+            "Myanmar"
+          ],
+          "opts_hi": [
+            "मालदीव",
+            "श्रीलंका",
+            "बांग्लादेश",
+            "म्यांमार"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Under which Article of the Indian Constitution can the President of India declare a National Emergency?",
+          "q_hi": "भारतीय संविधान के किस अनुच्छेद के अंतर्गत भारत का राष्ट्रपति राष्ट्रीय आपातकाल की घोषणा कर सकता है?",
+          "opts": [
+            "Article 352",
+            "Article 356",
+            "Article 360",
+            "Article 370"
+          ],
+          "opts_hi": [
+            "अनुच्छेद 352",
+            "अनुच्छेद 356",
+            "अनुच्छेद 360",
+            "अनुच्छेद 370"
+          ],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which part of the human brain is primarily responsible for regulating body temperature, hunger, and thirst?",
+          "q_hi": "मानव मस्तिष्क का कौन-सा भाग मुख्य रूप से शरीर के तापमान, भूख और प्यास को नियंत्रित करने के लिए उत्तरदायी है?",
+          "opts": [
+            "Cerebellum",
+            "Medulla oblongata",
+            "Hypothalamus",
+            "Cerebrum"
+          ],
+          "opts_hi": [
+            "अनुमस्तिष्क (सेरिबेलम)",
+            "मेडुला ऑब्लांगेटा",
+            "हाइपोथैलेमस",
+            "प्रमस्तिष्क (सेरिब्रम)"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which Five-Year Plan in India adopted the 'Mahalanobis Model' as its strategy for economic development, emphasizing heavy industry?",
+          "q_hi": "भारत की किस पंचवर्षीय योजना ने आर्थिक विकास की रणनीति के रूप में भारी उद्योग पर बल देते हुए 'महालनोबिस मॉडल' को अपनाया?",
+          "opts": [
+            "First Five-Year Plan",
+            "Second Five-Year Plan",
+            "Third Five-Year Plan",
+            "Fourth Five-Year Plan"
+          ],
+          "opts_hi": [
+            "प्रथम पंचवर्षीय योजना",
+            "द्वितीय पंचवर्षीय योजना",
+            "तृतीय पंचवर्षीय योजना",
+            "चतुर्थ पंचवर्षीय योजना"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "गाँव की माटी में एक अजीब सी महक होती है — वह महक जो शहर की सड़कों पर कहीं नहीं मिलती। जब भी रमेश अपने पुश्तैनी गाँव लौटता, उसे लगता जैसे वर्षों की थकान पल भर में उतर जाती है। खेतों में लहलहाती फसल, आम के बागों की छाँव, और कुएँ से निकलते ठंडे पानी की आवाज़ — ये सब मिलकर उसके मन को एक अनकही शांति देते। शहर में नौकरी करते हुए उसने बहुत कुछ पाया — पैसा, प्रतिष्ठा, सुविधाएँ — लेकिन जो सुकून उसे उस मिट्टी की गोद में मिलता था, वह शहर की किसी भी चीज़ से नहीं मिल सकता था। उसके पिता कहते थे, 'बेटा, जड़ों को मत भूलो। पेड़ कितना भी ऊँचा हो जाए, उसकी जड़ें तो ज़मीन में ही रहती हैं।' रमेश को अब समझ आ गया था कि उसके पिता का यह कथन कितना सच था। शहरी जीवन की भाग-दौड़ में वह बाहर से भले ही समृद्ध दिखता हो, लेकिन भीतर से वह तभी पूर्ण महसूस करता जब गाँव की माटी उसके पैरों तले होती।  Q: इस गद्यांश का मुख्य भाव क्या है?  What is the central theme of this passage?",
+          "q_hi": "गाँव की माटी में एक अजीब सी महक होती है — वह महक जो शहर की सड़कों पर कहीं नहीं मिलती। जब भी रमेश अपने पुश्तैनी गाँव लौटता, उसे लगता जैसे वर्षों की थकान पल भर में उतर जाती है। खेतों में लहलहाती फसल, आम के बागों की छाँव, और कुएँ से निकलते ठंडे पानी की आवाज़ — ये सब मिलकर उसके मन को एक अनकही शांति देते। शहर में नौकरी करते हुए उसने बहुत कुछ पाया — पैसा, प्रतिष्ठा, सुविधाएँ — लेकिन जो सुकून उसे उस मिट्टी की गोद में मिलता था, वह शहर की किसी भी चीज़ से नहीं मिल सकता था। उसके पिता कहते थे, 'बेटा, जड़ों को मत भूलो। पेड़ कितना भी ऊँचा हो जाए, उसकी जड़ें तो ज़मीन में ही रहती हैं।' रमेश को अब समझ आ गया था कि उसके पिता का यह कथन कितना सच था। शहरी जीवन की भाग-दौड़ में वह बाहर से भले ही समृद्ध दिखता हो, लेकिन भीतर से वह तभी पूर्ण महसूस करता जब गाँव की माटी उसके पैरों तले होती।  प्रश्न: इस गद्यांश का मुख्य भाव क्या है?",
+          "opts": [
+            "Hardships of city life",
+            "Deep emotional bond with one's roots and native land",
+            "Advantages of agriculture over jobs",
+            "Importance of following a father's advice"
+          ],
+          "opts_hi": [
+            "शहरी जीवन की कठिनाइयाँ",
+            "अपनी जड़ों और मातृभूमि से गहरा भावनात्मक जुड़ाव",
+            "नौकरी की तुलना में खेती के फायदे",
+            "पिता की सलाह मानने का महत्त्व"
+          ],
+          "ans": 1,
+          "subject": "Analysis of Hindi Unread Passage (2 Passages)"
+        },
+        {
+          "q": "गाँव की माटी में एक अजीब सी महक होती है — वह महक जो शहर की सड़कों पर कहीं नहीं मिलती। जब भी रमेश अपने पुश्तैनी गाँव लौटता, उसे लगता जैसे वर्षों की थकान पल भर में उतर जाती है। खेतों में लहलहाती फसल, आम के बागों की छाँव, और कुएँ से निकलते ठंडे पानी की आवाज़ — ये सब मिलकर उसके मन को एक अनकही शांति देते। शहर में नौकरी करते हुए उसने बहुत कुछ पाया — पैसा, प्रतिष्ठा, सुविधाएँ — लेकिन जो सुकून उसे उस मिट्टी की गोद में मिलता था, वह शहर की किसी भी चीज़ से नहीं मिल सकता था। उसके पिता कहते थे, 'बेटा, जड़ों को मत भूलो। पेड़ कितना भी ऊँचा हो जाए, उसकी जड़ें तो ज़मीन में ही रहती हैं।' रमेश को अब समझ आ गया था कि उसके पिता का यह कथन कितना सच था। शहरी जीवन की भाग-दौड़ में वह बाहर से भले ही समृद्ध दिखता हो, लेकिन भीतर से वह तभी पूर्ण महसूस करता जब गाँव की माटी उसके पैरों तले होती।  Q: गद्यांश के अनुसार, शहर में नौकरी करके रमेश ने क्या-क्या प्राप्त किया?  According to the passage, what did Ramesh gain by working in the city?",
+          "q_hi": "गाँव की माटी में एक अजीब सी महक होती है — वह महक जो शहर की सड़कों पर कहीं नहीं मिलती। जब भी रमेश अपने पुश्तैनी गाँव लौटता, उसे लगता जैसे वर्षों की थकान पल भर में उतर जाती है। खेतों में लहलहाती फसल, आम के बागों की छाँव, और कुएँ से निकलते ठंडे पानी की आवाज़ — ये सब मिलकर उसके मन को एक अनकही शांति देते। शहर में नौकरी करते हुए उसने बहुत कुछ पाया — पैसा, प्रतिष्ठा, सुविधाएँ — लेकिन जो सुकून उसे उस मिट्टी की गोद में मिलता था, वह शहर की किसी भी चीज़ से नहीं मिल सकता था। उसके पिता कहते थे, 'बेटा, जड़ों को मत भूलो। पेड़ कितना भी ऊँचा हो जाए, उसकी जड़ें तो ज़मीन में ही रहती हैं।' रमेश को अब समझ आ गया था कि उसके पिता का यह कथन कितना सच था। शहरी जीवन की भाग-दौड़ में वह बाहर से भले ही समृद्ध दिखता हो, लेकिन भीतर से वह तभी पूर्ण महसूस करता जब गाँव की माटी उसके पैरों तले होती।  प्रश्न: गद्यांश के अनुसार, शहर में नौकरी करके रमेश ने क्या-क्या प्राप्त किया?",
+          "opts": [
+            "Money, fame and peace",
+            "Money, prestige and comforts",
+            "Prestige, peace and family",
+            "Comforts, happiness and recognition"
+          ],
+          "opts_hi": [
+            "पैसा, यश और शांति",
+            "पैसा, प्रतिष्ठा और सुविधाएँ",
+            "प्रतिष्ठा, शांति और परिवार",
+            "सुविधाएँ, खुशी और पहचान"
+          ],
+          "ans": 1,
+          "subject": "Analysis of Hindi Unread Passage (2 Passages)"
+        },
+        {
+          "q": "गाँव की माटी में एक अजीब सी महक होती है — वह महक जो शहर की सड़कों पर कहीं नहीं मिलती। जब भी रमेश अपने पुश्तैनी गाँव लौटता, उसे लगता जैसे वर्षों की थकान पल भर में उतर जाती है। खेतों में लहलहाती फसल, आम के बागों की छाँव, और कुएँ से निकलते ठंडे पानी की आवाज़ — ये सब मिलकर उसके मन को एक अनकही शांति देते। शहर में नौकरी करते हुए उसने बहुत कुछ पाया — पैसा, प्रतिष्ठा, सुविधाएँ — लेकिन जो सुकून उसे उस मिट्टी की गोद में मिलता था, वह शहर की किसी भी चीज़ से नहीं मिल सकता था। उसके पिता कहते थे, 'बेटा, जड़ों को मत भूलो। पेड़ कितना भी ऊँचा हो जाए, उसकी जड़ें तो ज़मीन में ही रहती हैं।' रमेश को अब समझ आ गया था कि उसके पिता का यह कथन कितना सच था। शहरी जीवन की भाग-दौड़ में वह बाहर से भले ही समृद्ध दिखता हो, लेकिन भीतर से वह तभी पूर्ण महसूस करता जब गाँव की माटी उसके पैरों तले होती।  Q: गद्यांश में प्रयुक्त शब्द 'पुश्तैनी' का सबसे उचित अर्थ क्या है?  What is the most appropriate meaning of the word 'pushtaini' as used in the passage?",
+          "q_hi": "गाँव की माटी में एक अजीब सी महक होती है — वह महक जो शहर की सड़कों पर कहीं नहीं मिलती। जब भी रमेश अपने पुश्तैनी गाँव लौटता, उसे लगता जैसे वर्षों की थकान पल भर में उतर जाती है। खेतों में लहलहाती फसल, आम के बागों की छाँव, और कुएँ से निकलते ठंडे पानी की आवाज़ — ये सब मिलकर उसके मन को एक अनकही शांति देते। शहर में नौकरी करते हुए उसने बहुत कुछ पाया — पैसा, प्रतिष्ठा, सुविधाएँ — लेकिन जो सुकून उसे उस मिट्टी की गोद में मिलता था, वह शहर की किसी भी चीज़ से नहीं मिल सकता था। उसके पिता कहते थे, 'बेटा, जड़ों को मत भूलो। पेड़ कितना भी ऊँचा हो जाए, उसकी जड़ें तो ज़मीन में ही रहती हैं।' रमेश को अब समझ आ गया था कि उसके पिता का यह कथन कितना सच था। शहरी जीवन की भाग-दौड़ में वह बाहर से भले ही समृद्ध दिखता हो, लेकिन भीतर से वह तभी पूर्ण महसूस करता जब गाँव की माटी उसके पैरों तले होती।  प्रश्न: गद्यांश में प्रयुक्त शब्द 'पुश्तैनी' का सबसे उचित अर्थ क्या है?",
+          "opts": [
+            "Newly built",
+            "Ancestral / inherited from generations",
+            "Far away and unknown",
+            "Rented and temporary"
+          ],
+          "opts_hi": [
+            "नव-निर्मित",
+            "पूर्वजों से प्राप्त / पीढ़ियों से चला आया",
+            "दूर और अनजान",
+            "किराये का और अस्थायी"
+          ],
+          "ans": 1,
+          "subject": "Analysis of Hindi Unread Passage (2 Passages)"
+        },
+        {
+          "q": "गाँव की मिट्टी में एक अलग ही सुगंध होती है। जब बारिश की पहली बूँदें धरती पर पड़ती हैं, तो मिट्टी से एक मनमोहक खुशबू उठती है जिसे 'पेट्रीकोर' कहते हैं। यह खुशबू मिट्टी में पाए जाने वाले एक विशेष जीवाणु 'स्ट्रेप्टोमाइसेस' के कारण आती है। यह जीवाणु मिट्टी में जैविक पदार्थों को सड़ाकर उन्हें पोषक तत्वों में बदलता है। इस प्रक्रिया में 'जियोस्मिन' नामक एक यौगिक बनता है जो वायु में मिलकर हमें सोंधी खुशबू का एहसास कराता है। वैज्ञानिकों का मानना है कि इस खुशबू के प्रति मनुष्य की संवेदनशीलता इसलिए अधिक है क्योंकि हमारे पूर्वज वर्षा की भविष्यवाणी करने के लिए इस गंध पर निर्भर रहते थे। बारिश का अर्थ था जल, और जल का अर्थ था जीवन। इसीलिए यह खुशबू हमें न केवल प्राकृतिक आनंद देती है, बल्कि हमारे मस्तिष्क में एक गहरी स्मृति और भावनात्मक संतोष भी जगाती है। इस प्रकार मिट्टी की सोंधी सुगंध विज्ञान और भावना दोनों का अद्भुत संगम है।  Q: इस गद्यांश का मुख्य विषय क्या है?  Q: What is the central theme of this passage?",
+          "q_hi": "गाँव की मिट्टी में एक अलग ही सुगंध होती है। जब बारिश की पहली बूँदें धरती पर पड़ती हैं, तो मिट्टी से एक मनमोहक खुशबू उठती है जिसे 'पेट्रीकोर' कहते हैं। यह खुशबू मिट्टी में पाए जाने वाले एक विशेष जीवाणु 'स्ट्रेप्टोमाइसेस' के कारण आती है। यह जीवाणु मिट्टी में जैविक पदार्थों को सड़ाकर उन्हें पोषक तत्वों में बदलता है। इस प्रक्रिया में 'जियोस्मिन' नामक एक यौगिक बनता है जो वायु में मिलकर हमें सोंधी खुशबू का एहसास कराता है। वैज्ञानिकों का मानना है कि इस खुशबू के प्रति मनुष्य की संवेदनशीलता इसलिए अधिक है क्योंकि हमारे पूर्वज वर्षा की भविष्यवाणी करने के लिए इस गंध पर निर्भर रहते थे। बारिश का अर्थ था जल, और जल का अर्थ था जीवन। इसीलिए यह खुशबू हमें न केवल प्राकृतिक आनंद देती है, बल्कि हमारे मस्तिष्क में एक गहरी स्मृति और भावनात्मक संतोष भी जगाती है। इस प्रकार मिट्टी की सोंधी सुगंध विज्ञान और भावना दोनों का अद्भुत संगम है।  प्रश्न: इस गद्यांश का मुख्य विषय क्या है?",
+          "opts": [
+            "The importance of rain for agriculture",
+            "The science and emotion behind the fragrance of wet soil",
+            "The harmful effects of bacteria in soil",
+            "Ancient humans and their weather prediction methods"
+          ],
+          "opts_hi": [
+            "कृषि के लिए वर्षा का महत्व",
+            "गीली मिट्टी की सुगंध का वैज्ञानिक और भावनात्मक आधार",
+            "मिट्टी में जीवाणुओं के हानिकारक प्रभाव",
+            "प्राचीन मनुष्य और उनकी मौसम-भविष्यवाणी की विधियाँ"
+          ],
+          "ans": 1,
+          "subject": "Analysis of Hindi Unread Passage (2 Passages)"
+        },
+        {
+          "q": "गाँव की मिट्टी में एक अलग ही सुगंध होती है। जब बारिश की पहली बूँदें धरती पर पड़ती हैं, तो मिट्टी से एक मनमोहक खुशबू उठती है जिसे 'पेट्रीकोर' कहते हैं। यह खुशबू मिट्टी में पाए जाने वाले एक विशेष जीवाणु 'स्ट्रेप्टोमाइसेस' के कारण आती है। यह जीवाणु मिट्टी में जैविक पदार्थों को सड़ाकर उन्हें पोषक तत्वों में बदलता है। इस प्रक्रिया में 'जियोस्मिन' नामक एक यौगिक बनता है जो वायु में मिलकर हमें सोंधी खुशबू का एहसास कराता है। वैज्ञानिकों का मानना है कि इस खुशबू के प्रति मनुष्य की संवेदनशीलता इसलिए अधिक है क्योंकि हमारे पूर्वज वर्षा की भविष्यवाणी करने के लिए इस गंध पर निर्भर रहते थे। बारिश का अर्थ था जल, और जल का अर्थ था जीवन। इसीलिए यह खुशबू हमें न केवल प्राकृतिक आनंद देती है, बल्कि हमारे मस्तिष्क में एक गहरी स्मृति और भावनात्मक संतोष भी जगाती है। इस प्रकार मिट्टी की सोंधी सुगंध विज्ञान और भावना दोनों का अद्भुत संगम है।  Q: गद्यांश के अनुसार 'जियोस्मिन' क्या है?  Q: According to the passage, what is 'Geosmin'?",
+          "q_hi": "गाँव की मिट्टी में एक अलग ही सुगंध होती है। जब बारिश की पहली बूँदें धरती पर पड़ती हैं, तो मिट्टी से एक मनमोहक खुशबू उठती है जिसे 'पेट्रीकोर' कहते हैं। यह खुशबू मिट्टी में पाए जाने वाले एक विशेष जीवाणु 'स्ट्रेप्टोमाइसेस' के कारण आती है। यह जीवाणु मिट्टी में जैविक पदार्थों को सड़ाकर उन्हें पोषक तत्वों में बदलता है। इस प्रक्रिया में 'जियोस्मिन' नामक एक यौगिक बनता है जो वायु में मिलकर हमें सोंधी खुशबू का एहसास कराता है। वैज्ञानिकों का मानना है कि इस खुशबू के प्रति मनुष्य की संवेदनशीलता इसलिए अधिक है क्योंकि हमारे पूर्वज वर्षा की भविष्यवाणी करने के लिए इस गंध पर निर्भर रहते थे। बारिश का अर्थ था जल, और जल का अर्थ था जीवन। इसीलिए यह खुशबू हमें न केवल प्राकृतिक आनंद देती है, बल्कि हमारे मस्तिष्क में एक गहरी स्मृति और भावनात्मक संतोष भी जगाती है। इस प्रकार मिट्टी की सोंधी सुगंध विज्ञान और भावना दोनों का अद्भुत संगम है।  प्रश्न: गद्यांश के अनुसार 'जियोस्मिन' क्या है?",
+          "opts": [
+            "A type of soil bacteria",
+            "A chemical compound formed during decomposition of organic matter",
+            "The name given to the fragrance of rain itself",
+            "A nutrient found in soil water"
+          ],
+          "opts_hi": [
+            "एक प्रकार का मिट्टी का जीवाणु",
+            "जैविक पदार्थों के अपघटन में बनने वाला एक रासायनिक यौगिक",
+            "बारिश की खुशबू को दिया गया नाम",
+            "मिट्टी के जल में पाया जाने वाला एक पोषक तत्व"
+          ],
+          "ans": 1,
+          "subject": "Analysis of Hindi Unread Passage (2 Passages)"
+        },
+        {
+          "q": "गाँव की मिट्टी में एक अलग ही सुगंध होती है। जब बारिश की पहली बूँदें धरती पर पड़ती हैं, तो मिट्टी से एक मनमोहक खुशबू उठती है जिसे 'पेट्रीकोर' कहते हैं। यह खुशबू मिट्टी में पाए जाने वाले एक विशेष जीवाणु 'स्ट्रेप्टोमाइसेस' के कारण आती है। यह जीवाणु मिट्टी में जैविक पदार्थों को सड़ाकर उन्हें पोषक तत्वों में बदलता है। इस प्रक्रिया में 'जियोस्मिन' नामक एक यौगिक बनता है जो वायु में मिलकर हमें सोंधी खुशबू का एहसास कराता है। वैज्ञानिकों का मानना है कि इस खुशबू के प्रति मनुष्य की संवेदनशीलता इसलिए अधिक है क्योंकि हमारे पूर्वज वर्षा की भविष्यवाणी करने के लिए इस गंध पर निर्भर रहते थे। बारिश का अर्थ था जल, और जल का अर्थ था जीवन। इसीलिए यह खुशबू हमें न केवल प्राकृतिक आनंद देती है, बल्कि हमारे मस्तिष्क में एक गहरी स्मृति और भावनात्मक संतोष भी जगाती है। इस प्रकार मिट्टी की सोंधी सुगंध विज्ञान और भावना दोनों का अद्भुत संगम है।  Q: गद्यांश से यह निष्कर्ष निकाला जा सकता है कि मनुष्य की मिट्टी की सुगंध के प्रति संवेदनशीलता —  Q: From the passage it can be inferred that human sensitivity to the smell of wet soil is —",
+          "q_hi": "गाँव की मिट्टी में एक अलग ही सुगंध होती है। जब बारिश की पहली बूँदें धरती पर पड़ती हैं, तो मिट्टी से एक मनमोहक खुशबू उठती है जिसे 'पेट्रीकोर' कहते हैं। यह खुशबू मिट्टी में पाए जाने वाले एक विशेष जीवाणु 'स्ट्रेप्टोमाइसेस' के कारण आती है। यह जीवाणु मिट्टी में जैविक पदार्थों को सड़ाकर उन्हें पोषक तत्वों में बदलता है। इस प्रक्रिया में 'जियोस्मिन' नामक एक यौगिक बनता है जो वायु में मिलकर हमें सोंधी खुशबू का एहसास कराता है। वैज्ञानिकों का मानना है कि इस खुशबू के प्रति मनुष्य की संवेदनशीलता इसलिए अधिक है क्योंकि हमारे पूर्वज वर्षा की भविष्यवाणी करने के लिए इस गंध पर निर्भर रहते थे। बारिश का अर्थ था जल, और जल का अर्थ था जीवन। इसीलिए यह खुशबू हमें न केवल प्राकृतिक आनंद देती है, बल्कि हमारे मस्तिष्क में एक गहरी स्मृति और भावनात्मक संतोष भी जगाती है। इस प्रकार मिट्टी की सोंधी सुगंध विज्ञान और भावना दोनों का अद्भुत संगम है।  प्रश्न: गद्यांश से यह निष्कर्ष निकाला जा सकता है कि मनुष्य की मिट्टी की सुगंध के प्रति संवेदनशीलता —",
+          "opts": [
+            "is a modern cultural habit developed recently",
+            "is caused solely by the compound Geosmin",
+            "has evolutionary roots linked to survival and need for water",
+            "is unique only to people who live in villages"
+          ],
+          "opts_hi": [
+            "हाल ही में विकसित एक आधुनिक सांस्कृतिक आदत है",
+            "केवल जियोस्मिन यौगिक के कारण है",
+            "जीवित रहने और जल की आवश्यकता से जुड़ी विकासवादी जड़ें हैं",
+            "केवल गाँव में रहने वाले लोगों में पाई जाती है"
+          ],
+          "ans": 2,
+          "subject": "Analysis of Hindi Unread Passage (2 Passages)"
+        },
+        {
+          "q": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़कर पूछे गए प्रश्नों के उत्तर दीजिए —  भारत एक कृषि-प्रधान देश है। यहाँ की अर्थव्यवस्था का मूल आधार खेती रही है। किसान भोर होते ही अपने खेतों की ओर निकल पड़ता है और सूर्यास्त तक परिश्रम करता है। वह धरती को माँ मानता है और उसकी सेवा में कोई कोताही नहीं करता। फसल अच्छी हो तो उसके घर में खुशहाली आती है, पर सूखा या बाढ़ आने पर उसकी सारी मेहनत धूल में मिल जाती है।  आज के युग में कृषि का स्वरूप बदल रहा है। आधुनिक यंत्रों, उन्नत बीजों और वैज्ञानिक विधियों के प्रयोग से उत्पादन बढ़ा है। सरकार ने सिंचाई योजनाओं, ऋण-सुविधाओं और न्यूनतम समर्थन मूल्य जैसी नीतियों के माध्यम से किसानों की मदद का प्रयास किया है। फिर भी किसान की वास्तविक स्थिति चिंताजनक बनी हुई है। कर्ज का बोझ, बाजार में उचित मूल्य न मिलना और प्राकृतिक आपदाओं की मार — ये सब उसकी प्रगति में बाधा बनते हैं।  जरूरत इस बात की है कि किसान को केवल अनुदान नहीं, बल्कि एक ऐसी व्यवस्था मिले जिसमें वह आत्मनिर्भर बन सके। कृषि शिक्षा, तकनीकी प्रशिक्षण और उचित बाजार तक पहुँच — ये तीन स्तम्भ किसान के जीवन को बदल सकते हैं।  Q: उपर्युक्त गद्यांश का सबसे उपयुक्त शीर्षक क्या होगा?",
+          "q_hi": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़कर पूछे गए प्रश्नों के उत्तर दीजिए —  भारत एक कृषि-प्रधान देश है। यहाँ की अर्थव्यवस्था का मूल आधार खेती रही है। किसान भोर होते ही अपने खेतों की ओर निकल पड़ता है और सूर्यास्त तक परिश्रम करता है। वह धरती को माँ मानता है और उसकी सेवा में कोई कोताही नहीं करता। फसल अच्छी हो तो उसके घर में खुशहाली आती है, पर सूखा या बाढ़ आने पर उसकी सारी मेहनत धूल में मिल जाती है।  आज के युग में कृषि का स्वरूप बदल रहा है। आधुनिक यंत्रों, उन्नत बीजों और वैज्ञानिक विधियों के प्रयोग से उत्पादन बढ़ा है। सरकार ने सिंचाई योजनाओं, ऋण-सुविधाओं और न्यूनतम समर्थन मूल्य जैसी नीतियों के माध्यम से किसानों की मदद का प्रयास किया है। फिर भी किसान की वास्तविक स्थिति चिंताजनक बनी हुई है। कर्ज का बोझ, बाजार में उचित मूल्य न मिलना और प्राकृतिक आपदाओं की मार — ये सब उसकी प्रगति में बाधा बनते हैं।  जरूरत इस बात की है कि किसान को केवल अनुदान नहीं, बल्कि एक ऐसी व्यवस्था मिले जिसमें वह आत्मनिर्भर बन सके। कृषि शिक्षा, तकनीकी प्रशिक्षण और उचित बाजार तक पहुँच — ये तीन स्तम्भ किसान के जीवन को बदल सकते हैं।  Q: उपर्युक्त गद्यांश का सबसे उपयुक्त शीर्षक क्या होगा?",
+          "opts": [
+            "भारत की नदियाँ और बाढ़",
+            "किसान की दशा और कृषि विकास",
+            "आधुनिक यंत्रों का महत्त्व",
+            "सरकारी अनुदान योजनाएँ"
+          ],
+          "opts_hi": [
+            "भारत की नदियाँ और बाढ़",
+            "किसान की दशा और कृषि विकास",
+            "आधुनिक यंत्रों का महत्त्व",
+            "सरकारी अनुदान योजनाएँ"
+          ],
+          "ans": 1,
+          "subject": "Analysis of Hindi Unread Passage (2 Passages)"
+        },
+        {
+          "q": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़कर पूछे गए प्रश्नों के उत्तर दीजिए —  भारत एक कृषि-प्रधान देश है। यहाँ की अर्थव्यवस्था का मूल आधार खेती रही है। किसान भोर होते ही अपने खेतों की ओर निकल पड़ता है और सूर्यास्त तक परिश्रम करता है। वह धरती को माँ मानता है और उसकी सेवा में कोई कोताही नहीं करता। फसल अच्छी हो तो उसके घर में खुशहाली आती है, पर सूखा या बाढ़ आने पर उसकी सारी मेहनत धूल में मिल जाती है।  आज के युग में कृषि का स्वरूप बदल रहा है। आधुनिक यंत्रों, उन्नत बीजों और वैज्ञानिक विधियों के प्रयोग से उत्पादन बढ़ा है। सरकार ने सिंचाई योजनाओं, ऋण-सुविधाओं और न्यूनतम समर्थन मूल्य जैसी नीतियों के माध्यम से किसानों की मदद का प्रयास किया है। फिर भी किसान की वास्तविक स्थिति चिंताजनक बनी हुई है। कर्ज का बोझ, बाजार में उचित मूल्य न मिलना और प्राकृतिक आपदाओं की मार — ये सब उसकी प्रगति में बाधा बनते हैं।  जरूरत इस बात की है कि किसान को केवल अनुदान नहीं, बल्कि एक ऐसी व्यवस्था मिले जिसमें वह आत्मनिर्भर बन सके। कृषि शिक्षा, तकनीकी प्रशिक्षण और उचित बाजार तक पहुँच — ये तीन स्तम्भ किसान के जीवन को बदल सकते हैं।  Q: गद्यांश के अनुसार सरकार ने किसानों की सहायता के लिए किन नीतियों का उल्लेख किया गया है?",
+          "q_hi": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़कर पूछे गए प्रश्नों के उत्तर दीजिए —  भारत एक कृषि-प्रधान देश है। यहाँ की अर्थव्यवस्था का मूल आधार खेती रही है। किसान भोर होते ही अपने खेतों की ओर निकल पड़ता है और सूर्यास्त तक परिश्रम करता है। वह धरती को माँ मानता है और उसकी सेवा में कोई कोताही नहीं करता। फसल अच्छी हो तो उसके घर में खुशहाली आती है, पर सूखा या बाढ़ आने पर उसकी सारी मेहनत धूल में मिल जाती है।  आज के युग में कृषि का स्वरूप बदल रहा है। आधुनिक यंत्रों, उन्नत बीजों और वैज्ञानिक विधियों के प्रयोग से उत्पादन बढ़ा है। सरकार ने सिंचाई योजनाओं, ऋण-सुविधाओं और न्यूनतम समर्थन मूल्य जैसी नीतियों के माध्यम से किसानों की मदद का प्रयास किया है। फिर भी किसान की वास्तविक स्थिति चिंताजनक बनी हुई है। कर्ज का बोझ, बाजार में उचित मूल्य न मिलना और प्राकृतिक आपदाओं की मार — ये सब उसकी प्रगति में बाधा बनते हैं।  जरूरत इस बात की है कि किसान को केवल अनुदान नहीं, बल्कि एक ऐसी व्यवस्था मिले जिसमें वह आत्मनिर्भर बन सके। कृषि शिक्षा, तकनीकी प्रशिक्षण और उचित बाजार तक पहुँच — ये तीन स्तम्भ किसान के जीवन को बदल सकते हैं।  Q: गद्यांश के अनुसार सरकार ने किसानों की सहायता के लिए किन नीतियों का उल्लेख किया गया है?",
+          "opts": [
+            "सिंचाई योजनाएँ, ऋण-सुविधाएँ और न्यूनतम समर्थन मूल्य",
+            "कृषि शिक्षा, तकनीकी प्रशिक्षण और बाजार-सुविधा",
+            "उन्नत बीज, आधुनिक यंत्र और वैज्ञानिक विधियाँ",
+            "बाढ़ नियंत्रण, फसल बीमा और कर माफी"
+          ],
+          "opts_hi": [
+            "सिंचाई योजनाएँ, ऋण-सुविधाएँ और न्यूनतम समर्थन मूल्य",
+            "कृषि शिक्षा, तकनीकी प्रशिक्षण और बाजार-सुविधा",
+            "उन्नत बीज, आधुनिक यंत्र और वैज्ञानिक विधियाँ",
+            "बाढ़ नियंत्रण, फसल बीमा और कर माफी"
+          ],
+          "ans": 0,
+          "subject": "Analysis of Hindi Unread Passage (2 Passages)"
+        },
+        {
+          "q": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़कर पूछे गए प्रश्नों के उत्तर दीजिए —  भारत एक कृषि-प्रधान देश है। यहाँ की अर्थव्यवस्था का मूल आधार खेती रही है। किसान भोर होते ही अपने खेतों की ओर निकल पड़ता है और सूर्यास्त तक परिश्रम करता है। वह धरती को माँ मानता है और उसकी सेवा में कोई कोताही नहीं करता। फसल अच्छी हो तो उसके घर में खुशहाली आती है, पर सूखा या बाढ़ आने पर उसकी सारी मेहनत धूल में मिल जाती है।  आज के युग में कृषि का स्वरूप बदल रहा है। आधुनिक यंत्रों, उन्नत बीजों और वैज्ञानिक विधियों के प्रयोग से उत्पादन बढ़ा है। सरकार ने सिंचाई योजनाओं, ऋण-सुविधाओं और न्यूनतम समर्थन मूल्य जैसी नीतियों के माध्यम से किसानों की मदद का प्रयास किया है। फिर भी किसान की वास्तविक स्थिति चिंताजनक बनी हुई है। कर्ज का बोझ, बाजार में उचित मूल्य न मिलना और प्राकृतिक आपदाओं की मार — ये सब उसकी प्रगति में बाधा बनते हैं।  जरूरत इस बात की है कि किसान को केवल अनुदान नहीं, बल्कि एक ऐसी व्यवस्था मिले जिसमें वह आत्मनिर्भर बन सके। कृषि शिक्षा, तकनीकी प्रशिक्षण और उचित बाजार तक पहुँच — ये तीन स्तम्भ किसान के जीवन को बदल सकते हैं।  Q: गद्यांश से यह अनुमान लगाया जा सकता है कि लेखक के अनुसार केवल सरकारी अनुदान किसान की समस्या का स्थायी समाधान क्यों नहीं है?",
+          "q_hi": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़कर पूछे गए प्रश्नों के उत्तर दीजिए —  भारत एक कृषि-प्रधान देश है। यहाँ की अर्थव्यवस्था का मूल आधार खेती रही है। किसान भोर होते ही अपने खेतों की ओर निकल पड़ता है और सूर्यास्त तक परिश्रम करता है। वह धरती को माँ मानता है और उसकी सेवा में कोई कोताही नहीं करता। फसल अच्छी हो तो उसके घर में खुशहाली आती है, पर सूखा या बाढ़ आने पर उसकी सारी मेहनत धूल में मिल जाती है।  आज के युग में कृषि का स्वरूप बदल रहा है। आधुनिक यंत्रों, उन्नत बीजों और वैज्ञानिक विधियों के प्रयोग से उत्पादन बढ़ा है। सरकार ने सिंचाई योजनाओं, ऋण-सुविधाओं और न्यूनतम समर्थन मूल्य जैसी नीतियों के माध्यम से किसानों की मदद का प्रयास किया है। फिर भी किसान की वास्तविक स्थिति चिंताजनक बनी हुई है। कर्ज का बोझ, बाजार में उचित मूल्य न मिलना और प्राकृतिक आपदाओं की मार — ये सब उसकी प्रगति में बाधा बनते हैं।  जरूरत इस बात की है कि किसान को केवल अनुदान नहीं, बल्कि एक ऐसी व्यवस्था मिले जिसमें वह आत्मनिर्भर बन सके। कृषि शिक्षा, तकनीकी प्रशिक्षण और उचित बाजार तक पहुँच — ये तीन स्तम्भ किसान के जीवन को बदल सकते हैं।  Q: गद्यांश से यह अनुमान लगाया जा सकता है कि लेखक के अनुसार केवल सरकारी अनुदान किसान की समस्या का स्थायी समाधान क्यों नहीं है?",
+          "opts": [
+            "क्योंकि अनुदान की राशि बहुत कम होती है",
+            "क्योंकि अनुदान किसान को आत्मनिर्भर नहीं बनाता",
+            "क्योंकि अनुदान केवल बड़े किसानों को मिलता है",
+            "क्योंकि अनुदान से फसल की गुणवत्ता नहीं बढ़ती"
+          ],
+          "opts_hi": [
+            "क्योंकि अनुदान की राशि बहुत कम होती है",
+            "क्योंकि अनुदान किसान को आत्मनिर्भर नहीं बनाता",
+            "क्योंकि अनुदान केवल बड़े किसानों को मिलता है",
+            "क्योंकि अनुदान से फसल की गुणवत्ता नहीं बढ़ती"
+          ],
+          "ans": 1,
+          "subject": "Analysis of Hindi Unread Passage (2 Passages)"
+        },
+        {
+          "q": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़कर पूछे गए प्रश्नों के उत्तर दीजिए —  भारत एक कृषि-प्रधान देश है। यहाँ की अर्थव्यवस्था का मूल आधार खेती रही है। किसान भोर होते ही अपने खेतों की ओर निकल पड़ता है और सूर्यास्त तक परिश्रम करता है। वह धरती को माँ मानता है और उसकी सेवा में कोई कोताही नहीं करता। फसल अच्छी हो तो उसके घर में खुशहाली आती है, पर सूखा या बाढ़ आने पर उसकी सारी मेहनत धूल में मिल जाती है।  आज के युग में कृषि का स्वरूप बदल रहा है। आधुनिक यंत्रों, उन्नत बीजों और वैज्ञानिक विधियों के प्रयोग से उत्पादन बढ़ा है। सरकार ने सिंचाई योजनाओं, ऋण-सुविधाओं और न्यूनतम समर्थन मूल्य जैसी नीतियों के माध्यम से किसानों की मदद का प्रयास किया है। फिर भी किसान की वास्तविक स्थिति चिंताजनक बनी हुई है। कर्ज का बोझ, बाजार में उचित मूल्य न मिलना और प्राकृतिक आपदाओं की मार — ये सब उसकी प्रगति में बाधा बनते हैं।  जरूरत इस बात की है कि किसान को केवल अनुदान नहीं, बल्कि एक ऐसी व्यवस्था मिले जिसमें वह आत्मनिर्भर बन सके। कृषि शिक्षा, तकनीकी प्रशिक्षण और उचित बाजार तक पहुँच — ये तीन स्तम्भ किसान के जीवन को बदल सकते हैं।  Q: गद्यांश में प्रयुक्त 'कोताही' शब्द का सबसे उचित अर्थ क्या है?",
+          "q_hi": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़कर पूछे गए प्रश्नों के उत्तर दीजिए —  भारत एक कृषि-प्रधान देश है। यहाँ की अर्थव्यवस्था का मूल आधार खेती रही है। किसान भोर होते ही अपने खेतों की ओर निकल पड़ता है और सूर्यास्त तक परिश्रम करता है। वह धरती को माँ मानता है और उसकी सेवा में कोई कोताही नहीं करता। फसल अच्छी हो तो उसके घर में खुशहाली आती है, पर सूखा या बाढ़ आने पर उसकी सारी मेहनत धूल में मिल जाती है।  आज के युग में कृषि का स्वरूप बदल रहा है। आधुनिक यंत्रों, उन्नत बीजों और वैज्ञानिक विधियों के प्रयोग से उत्पादन बढ़ा है। सरकार ने सिंचाई योजनाओं, ऋण-सुविधाओं और न्यूनतम समर्थन मूल्य जैसी नीतियों के माध्यम से किसानों की मदद का प्रयास किया है। फिर भी किसान की वास्तविक स्थिति चिंताजनक बनी हुई है। कर्ज का बोझ, बाजार में उचित मूल्य न मिलना और प्राकृतिक आपदाओं की मार — ये सब उसकी प्रगति में बाधा बनते हैं।  जरूरत इस बात की है कि किसान को केवल अनुदान नहीं, बल्कि एक ऐसी व्यवस्था मिले जिसमें वह आत्मनिर्भर बन सके। कृषि शिक्षा, तकनीकी प्रशिक्षण और उचित बाजार तक पहुँच — ये तीन स्तम्भ किसान के जीवन को बदल सकते हैं।  Q: गद्यांश में प्रयुक्त 'कोताही' शब्द का सबसे उचित अर्थ क्या है?",
+          "opts": [
+            "लापरवाही",
+            "कठिनाई",
+            "साहस",
+            "अहंकार"
+          ],
+          "opts_hi": [
+            "लापरवाही",
+            "कठिनाई",
+            "साहस",
+            "अहंकार"
+          ],
+          "ans": 0,
+          "subject": "Analysis of Hindi Unread Passage (2 Passages)"
+        },
+        {
+          "q": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़कर पूछे गए प्रश्नों के उत्तर दीजिए —  भारत एक कृषि-प्रधान देश है। यहाँ की अर्थव्यवस्था का मूल आधार खेती रही है। किसान भोर होते ही अपने खेतों की ओर निकल पड़ता है और सूर्यास्त तक परिश्रम करता है। वह धरती को माँ मानता है और उसकी सेवा में कोई कोताही नहीं करता। फसल अच्छी हो तो उसके घर में खुशहाली आती है, पर सूखा या बाढ़ आने पर उसकी सारी मेहनत धूल में मिल जाती है।  आज के युग में कृषि का स्वरूप बदल रहा है। आधुनिक यंत्रों, उन्नत बीजों और वैज्ञानिक विधियों के प्रयोग से उत्पादन बढ़ा है। सरकार ने सिंचाई योजनाओं, ऋण-सुविधाओं और न्यूनतम समर्थन मूल्य जैसी नीतियों के माध्यम से किसानों की मदद का प्रयास किया है। फिर भी किसान की वास्तविक स्थिति चिंताजनक बनी हुई है। कर्ज का बोझ, बाजार में उचित मूल्य न मिलना और प्राकृतिक आपदाओं की मार — ये सब उसकी प्रगति में बाधा बनते हैं।  जरूरत इस बात की है कि किसान को केवल अनुदान नहीं, बल्कि एक ऐसी व्यवस्था मिले जिसमें वह आत्मनिर्भर बन सके। कृषि शिक्षा, तकनीकी प्रशिक्षण और उचित बाजार तक पहुँच — ये तीन स्तम्भ किसान के जीवन को बदल सकते हैं।  Q: इस गद्यांश में लेखक का मुख्य स्वर (tone) कैसा है?",
+          "q_hi": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़कर पूछे गए प्रश्नों के उत्तर दीजिए —  भारत एक कृषि-प्रधान देश है। यहाँ की अर्थव्यवस्था का मूल आधार खेती रही है। किसान भोर होते ही अपने खेतों की ओर निकल पड़ता है और सूर्यास्त तक परिश्रम करता है। वह धरती को माँ मानता है और उसकी सेवा में कोई कोताही नहीं करता। फसल अच्छी हो तो उसके घर में खुशहाली आती है, पर सूखा या बाढ़ आने पर उसकी सारी मेहनत धूल में मिल जाती है।  आज के युग में कृषि का स्वरूप बदल रहा है। आधुनिक यंत्रों, उन्नत बीजों और वैज्ञानिक विधियों के प्रयोग से उत्पादन बढ़ा है। सरकार ने सिंचाई योजनाओं, ऋण-सुविधाओं और न्यूनतम समर्थन मूल्य जैसी नीतियों के माध्यम से किसानों की मदद का प्रयास किया है। फिर भी किसान की वास्तविक स्थिति चिंताजनक बनी हुई है। कर्ज का बोझ, बाजार में उचित मूल्य न मिलना और प्राकृतिक आपदाओं की मार — ये सब उसकी प्रगति में बाधा बनते हैं।  जरूरत इस बात की है कि किसान को केवल अनुदान नहीं, बल्कि एक ऐसी व्यवस्था मिले जिसमें वह आत्मनिर्भर बन सके। कृषि शिक्षा, तकनीकी प्रशिक्षण और उचित बाजार तक पहुँच — ये तीन स्तम्भ किसान के जीवन को बदल सकते हैं।  Q: इस गद्यांश में लेखक का मुख्य स्वर (tone) कैसा है?",
+          "opts": [
+            "व्यंग्यात्मक और आलोचनात्मक",
+            "सहानुभूतिपूर्ण और सुधारवादी",
+            "उदासीन और तटस्थ",
+            "उत्साहपूर्ण और उत्सवधर्मी"
+          ],
+          "opts_hi": [
+            "व्यंग्यात्मक और आलोचनात्मक",
+            "सहानुभूतिपूर्ण और सुधारवादी",
+            "उदासीन और तटस्थ",
+            "उत्साहपूर्ण और उत्सवधर्मी"
+          ],
+          "ans": 1,
+          "subject": "Analysis of Hindi Unread Passage (2 Passages)"
+        },
+        {
+          "q": "How many students got more marks in Hindi than in English?",
+          "q_hi": "कितने छात्रों ने अंग्रेज़ी की अपेक्षा हिंदी में ज्यादा अंक अर्जित किए?",
+          "opts": [
+            "5.0",
+            "4.0",
+            "7.0",
+            "3.0"
+          ],
+          "opts_hi": [
+            "5.0",
+            "4.0",
+            "7.0",
+            "3.0"
+          ],
+          "ans": 0,
+          "subject": "Graph Interpretation (2 Graphs)",
+          "img": "/question-images/di/di_2graph_9200_chart1.svg"
+        },
+        {
+          "q": "Which of the following students got less marks in Hindi than in English?",
+          "q_hi": "निम्न में से किन छात्रों को अंग्रेज़ी की अपेक्षा हिंदी में कम अंक मिले?",
+          "opts": [
+            "2007-05-04 00:00:00",
+            "2026-04-03 00:00:00",
+            "4, 5, 6, 7",
+            "2026-07-04 00:00:00"
+          ],
+          "opts_hi": [
+            "2007-05-04 00:00:00",
+            "2026-04-03 00:00:00",
+            "4, 5, 6, 7",
+            "2026-07-04 00:00:00"
+          ],
+          "ans": 3,
+          "subject": "Graph Interpretation (2 Graphs)",
+          "img": "/question-images/di/di_2graph_9200_chart1.svg"
+        },
+        {
+          "q": "Percentage increase of marks in English from student 4 to 5 is –",
+          "q_hi": "अंग्रेज़ी में छात्र 4 से 5 के मध्य अंक की प्रतिशत बढ़त है –",
+          "opts": [
+            "Insufficient data",
+            "90.0",
+            "150.0",
+            "95.0"
+          ],
+          "opts_hi": [
+            "अपर्याप्त डेटा",
+            "90.0",
+            "150.0",
+            "95.0"
+          ],
+          "ans": 0,
+          "subject": "Graph Interpretation (2 Graphs)",
+          "img": "/question-images/di/di_2graph_9200_chart1.svg"
+        },
+        {
+          "q": "The difference of the maximum ratio and minimum ratio of Hindi/English is",
+          "q_hi": "हिंदी/अंग्रेज़ी के अधिकतम अनुपात और न्यूनतम अनुपात का अंतर है",
+          "opts": [
+            "1.05",
+            "1.15",
+            "0.95",
+            "1.25"
+          ],
+          "opts_hi": [
+            "1.05",
+            "1.15",
+            "0.95",
+            "1.25"
+          ],
+          "ans": 2,
+          "subject": "Graph Interpretation (2 Graphs)",
+          "img": "/question-images/di/di_2graph_9200_chart1.svg"
+        },
+        {
+          "q": "Student 5 got 60 marks in English. His/her marks in Hindi are –",
+          "q_hi": "छात्र 5 को अंग्रेज़ी में 60 अंक मिले। उसके हिंदी में अंक हैं –",
+          "opts": [
+            "87.0",
+            "107.0",
+            "72.0",
+            "95.0"
+          ],
+          "opts_hi": [
+            "87.0",
+            "107.0",
+            "72.0",
+            "95.0"
+          ],
+          "ans": 0,
+          "subject": "Graph Interpretation (2 Graphs)",
+          "img": "/question-images/di/di_2graph_9200_chart1.svg"
+        },
+        {
+          "q": "The maximum rise in the production of steel was in the year:",
+          "q_hi": "उत्पादन इस्पात का में उच्चतम वृद्धि का वर्ष था:",
+          "opts": [
+            "2018-19",
+            "2019-20",
+            "2014-15",
+            "2020-21"
+          ],
+          "opts_hi": [
+            "2018-19",
+            "2019-20",
+            "2014-15",
+            "2020-21"
+          ],
+          "ans": 0,
+          "subject": "Graph Interpretation (2 Graphs)",
+          "img": "/question-images/di/di_2graph_9200_chart2.svg"
+        },
+        {
+          "q": "During the last four years the production of steel increased by _____ % on the production of steel of the first four years.",
+          "q_hi": "पहले चार वर्षों की तुलना में अंतिम चार वर्षों में उत्पादन इस्पात का _____ % बढ़ गया।",
+          "opts": [
+            "0.267",
+            "0.309",
+            "0.235",
+            "0.337"
+          ],
+          "opts_hi": [
+            "0.267",
+            "0.309",
+            "0.235",
+            "0.337"
+          ],
+          "ans": 2,
+          "subject": "Graph Interpretation (2 Graphs)",
+          "img": "/question-images/di/di_2graph_9200_chart2.svg"
+        },
+        {
+          "q": "The average production of steel during the eight years was _____.",
+          "q_hi": "आठ वर्षों के दौरान औसत उत्पादन इस्पात का था _____.",
+          "opts": [
+            "68.9",
+            "73.9",
+            "77.9",
+            "64.9"
+          ],
+          "opts_hi": [
+            "68.9",
+            "73.9",
+            "77.9",
+            "64.9"
+          ],
+          "ans": 0,
+          "subject": "Graph Interpretation (2 Graphs)",
+          "img": "/question-images/di/di_2graph_9200_chart2.svg"
+        },
+        {
+          "q": "The maximum percentage decrease of production of steel over the previous year was in the year:",
+          "q_hi": "उत्पादन इस्पात का में पिछले वर्ष की तुलना में अधिकतम प्रतिशत घटत किस वर्ष रही?",
+          "opts": [
+            "2017-18",
+            "2020-21",
+            "2018-19",
+            "2014-15"
+          ],
+          "opts_hi": [
+            "2017-18",
+            "2020-21",
+            "2018-19",
+            "2014-15"
+          ],
+          "ans": 0,
+          "subject": "Graph Interpretation (2 Graphs)",
+          "img": "/question-images/di/di_2graph_9200_chart2.svg"
+        },
+        {
+          "q": "The production of steel in 2014-15 was _____ of the production of steel in 2015-16.",
+          "q_hi": "2014-15 में उत्पादन इस्पात का 2015-16 के उत्पादन इस्पात का का _____ था।",
+          "opts": [
+            "2026-04-03 00:00:00",
+            "2026-02-01 00:00:00",
+            "2026-04-01 00:00:00",
+            "2026-03-02 00:00:00"
+          ],
+          "opts_hi": [
+            "2026-04-03 00:00:00",
+            "2026-02-01 00:00:00",
+            "2026-04-01 00:00:00",
+            "2026-03-02 00:00:00"
+          ],
+          "ans": 0,
+          "subject": "Graph Interpretation (2 Graphs)",
+          "img": "/question-images/di/di_2graph_9200_chart2.svg"
+        },
+        {
+          "q": "Which of the following students got less marks in Physics than in Chemistry?",
+          "q_hi": "निम्न में से किन छात्रों को रसायन विज्ञान की अपेक्षा भौतिकी में कम अंक मिले?",
+          "opts": [
+            "1, 2, 4, 5, 7",
+            "1, 2, 5, 7",
+            "1, 4, 5, 7",
+            "1, 2, 3, 4, 5, 7"
+          ],
+          "opts_hi": [
+            "1, 2, 4, 5, 7",
+            "1, 2, 5, 7",
+            "1, 4, 5, 7",
+            "1, 2, 3, 4, 5, 7"
+          ],
+          "ans": 0,
+          "subject": "Graph Interpretation (2 Graphs)",
+          "img": "/question-images/di/di_2graph_9201_chart1.svg"
+        },
+        {
+          "q": "Percentage increase of marks in Chemistry from student 2 to 3 is –",
+          "q_hi": "रसायन विज्ञान में छात्र 2 से 3 के मध्य अंक की प्रतिशत बढ़त है –",
+          "opts": [
+            "Insufficient data",
+            "30.0",
+            "25.0",
+            "85.0"
+          ],
+          "opts_hi": [
+            "अपर्याप्त डेटा",
+            "30.0",
+            "25.0",
+            "85.0"
+          ],
+          "ans": 0,
+          "subject": "Graph Interpretation (2 Graphs)",
+          "img": "/question-images/di/di_2graph_9201_chart1.svg"
+        },
+        {
+          "q": "The difference of the maximum ratio and minimum ratio of Physics/Chemistry is",
+          "q_hi": "भौतिकी/रसायन विज्ञान के अधिकतम अनुपात और न्यूनतम अनुपात का अंतर है",
+          "opts": [
+            "1.05",
+            "1.25",
+            "0.95",
+            "1.15"
+          ],
+          "opts_hi": [
+            "1.05",
+            "1.25",
+            "0.95",
+            "1.15"
+          ],
+          "ans": 0,
+          "subject": "Graph Interpretation (2 Graphs)",
+          "img": "/question-images/di/di_2graph_9201_chart1.svg"
+        },
+        {
+          "q": "Student 2 got 80 marks in Chemistry. His/her marks in Physics are –",
+          "q_hi": "छात्र 2 को रसायन विज्ञान में 80 अंक मिले। उसके भौतिकी में अंक हैं –",
+          "opts": [
+            "40.0",
+            "25.0",
+            "60.0",
+            "48.0"
+          ],
+          "opts_hi": [
+            "40.0",
+            "25.0",
+            "60.0",
+            "48.0"
+          ],
+          "ans": 0,
+          "subject": "Graph Interpretation (2 Graphs)",
+          "img": "/question-images/di/di_2graph_9201_chart1.svg"
+        },
+        {
+          "q": "The maximum rise in the production of steel was in the year:",
+          "q_hi": "उत्पादन इस्पात का में उच्चतम वृद्धि का वर्ष था:",
+          "opts": [
+            "2018-19",
+            "2019-20",
+            "2020-21",
+            "2014-15"
+          ],
+          "opts_hi": [
+            "2018-19",
+            "2019-20",
+            "2020-21",
+            "2014-15"
+          ],
+          "ans": 0,
+          "subject": "Graph Interpretation (2 Graphs)",
+          "img": "/question-images/di/di_2graph_9201_chart2.svg"
+        },
+        {
+          "q": "During the last four years the production of steel increased by _____ % on the production of steel of the first four years.",
+          "q_hi": "पहले चार वर्षों की तुलना में अंतिम चार वर्षों में उत्पादन इस्पात का _____ % बढ़ गया।",
+          "opts": [
+            "0.139",
+            "0.107",
+            "0.181",
+            "0.209"
+          ],
+          "opts_hi": [
+            "0.139",
+            "0.107",
+            "0.181",
+            "0.209"
+          ],
+          "ans": 0,
+          "subject": "Graph Interpretation (2 Graphs)",
+          "img": "/question-images/di/di_2graph_9201_chart2.svg"
+        },
+        {
+          "q": "The average production of steel during the eight years was _____.",
+          "q_hi": "आठ वर्षों के दौरान औसत उत्पादन इस्पात का था _____.",
+          "opts": [
+            "65.3",
+            "61.3",
+            "70.3",
+            "74.3"
+          ],
+          "opts_hi": [
+            "65.3",
+            "61.3",
+            "70.3",
+            "74.3"
+          ],
+          "ans": 0,
+          "subject": "Graph Interpretation (2 Graphs)",
+          "img": "/question-images/di/di_2graph_9201_chart2.svg"
+        },
+        {
+          "q": "The maximum percentage decrease of production of steel over the previous year was in the year:",
+          "q_hi": "उत्पादन इस्पात का में पिछले वर्ष की तुलना में अधिकतम प्रतिशत घटत किस वर्ष रही?",
+          "opts": [
+            "2015-16",
+            "2018-19",
+            "2016-17",
+            "2020-21"
+          ],
+          "opts_hi": [
+            "2015-16",
+            "2018-19",
+            "2016-17",
+            "2020-21"
+          ],
+          "ans": 0,
+          "subject": "Graph Interpretation (2 Graphs)",
+          "img": "/question-images/di/di_2graph_9201_chart2.svg"
+        },
+        {
+          "q": "The production of steel in 2017-18 was _____ of the production of steel in 2019-20.",
+          "q_hi": "2017-18 में उत्पादन इस्पात का 2019-20 के उत्पादन इस्पात का का _____ था।",
+          "opts": [
+            "2026-05-03 00:00:00",
+            "2026-03-01 00:00:00",
+            "2026-03-02 00:00:00",
+            "2026-02-01 00:00:00"
+          ],
+          "opts_hi": [
+            "2026-05-03 00:00:00",
+            "2026-03-01 00:00:00",
+            "2026-03-02 00:00:00",
+            "2026-02-01 00:00:00"
+          ],
+          "ans": 0,
+          "subject": "Graph Interpretation (2 Graphs)",
+          "img": "/question-images/di/di_2graph_9201_chart2.svg"
+        },
+        {
+          "q": "Which of the following students got less marks in Hindi than in English?",
+          "q_hi": "निम्न में से किन छात्रों को अंग्रेज़ी की अपेक्षा हिंदी में कम अंक मिले?",
+          "opts": [
+            "2, 3, 4, 6, 7",
+            "2007-06-02 00:00:00",
+            "2, 3, 5, 6, 7",
+            "2, 3, 4, 7"
+          ],
+          "opts_hi": [
+            "2, 3, 4, 6, 7",
+            "2007-06-02 00:00:00",
+            "2, 3, 5, 6, 7",
+            "2, 3, 4, 7"
+          ],
+          "ans": 0,
+          "subject": "Graph Interpretation (2 Graphs)",
+          "img": "/question-images/di/di_2graph_9202_chart1.svg"
+        },
+        {
+          "q": "Percentage increase of marks in English from student 3 to 4 is –",
+          "q_hi": "अंग्रेज़ी में छात्र 3 से 4 के मध्य अंक की प्रतिशत बढ़त है –",
+          "opts": [
+            "Insufficient data",
+            "85.0",
+            "30.0",
+            "25.0"
+          ],
+          "opts_hi": [
+            "अपर्याप्त डेटा",
+            "85.0",
+            "30.0",
+            "25.0"
+          ],
+          "ans": 0,
+          "subject": "Graph Interpretation (2 Graphs)",
+          "img": "/question-images/di/di_2graph_9202_chart1.svg"
+        },
+        {
+          "q": "The difference of the maximum ratio and minimum ratio of Hindi/English is",
+          "q_hi": "हिंदी/अंग्रेज़ी के अधिकतम अनुपात और न्यूनतम अनुपात का अंतर है",
+          "opts": [
+            "0.65",
+            "0.85",
+            "0.55",
+            "0.75"
+          ],
+          "opts_hi": [
+            "0.65",
+            "0.85",
+            "0.55",
+            "0.75"
+          ],
+          "ans": 0,
+          "subject": "Graph Interpretation (2 Graphs)",
+          "img": "/question-images/di/di_2graph_9202_chart1.svg"
+        },
+        {
+          "q": "Student 5 got 100 marks in English. His/her marks in Hindi are –",
+          "q_hi": "छात्र 5 को अंग्रेज़ी में 100 अंक मिले। उसके हिंदी में अंक हैं –",
+          "opts": [
+            "105.0",
+            "113.0",
+            "90.0",
+            "125.0"
+          ],
+          "opts_hi": [
+            "105.0",
+            "113.0",
+            "90.0",
+            "125.0"
+          ],
+          "ans": 0,
+          "subject": "Graph Interpretation (2 Graphs)",
+          "img": "/question-images/di/di_2graph_9202_chart1.svg"
+        },
+        {
+          "q": "The maximum rise in the number of tourists was in the year:",
+          "q_hi": "पर्यटकों की संख्या में उच्चतम वृद्धि का वर्ष था:",
+          "opts": [
+            "2017-18",
+            "2019-20",
+            "2013-14",
+            "2018-19"
+          ],
+          "opts_hi": [
+            "2017-18",
+            "2019-20",
+            "2013-14",
+            "2018-19"
+          ],
+          "ans": 0,
+          "subject": "Graph Interpretation (2 Graphs)",
+          "img": "/question-images/di/di_2graph_9202_chart2.svg"
+        },
+        {
+          "q": "The average number of tourists during the eight years was _____.",
+          "q_hi": "आठ वर्षों के दौरान औसत पर्यटकों की संख्या थी _____.",
+          "opts": [
+            "57.3",
+            "62.3",
+            "66.3",
+            "53.3"
+          ],
+          "opts_hi": [
+            "57.3",
+            "62.3",
+            "66.3",
+            "53.3"
+          ],
+          "ans": 0,
+          "subject": "Graph Interpretation (2 Graphs)",
+          "img": "/question-images/di/di_2graph_9202_chart2.svg"
+        },
+        {
+          "q": "The maximum percentage decrease of number of tourists over the previous year was in the year:",
+          "q_hi": "पर्यटकों की संख्या में पिछले वर्ष की तुलना में अधिकतम प्रतिशत घटत किस वर्ष रही?",
+          "opts": [
+            "2018-19",
+            "2015-16",
+            "2019-20",
+            "2013-14"
+          ],
+          "opts_hi": [
+            "2018-19",
+            "2015-16",
+            "2019-20",
+            "2013-14"
+          ],
+          "ans": 0,
+          "subject": "Graph Interpretation (2 Graphs)",
+          "img": "/question-images/di/di_2graph_9202_chart2.svg"
+        },
+        {
+          "q": "The number of tourists in 2018-19 was _____ of the number of tourists in 2014-15.",
+          "q_hi": "2018-19 में पर्यटकों की संख्या 2014-15 के पर्यटकों की संख्या का _____ था।",
+          "opts": [
+            "2026-04-03 00:00:00",
+            "2026-04-01 00:00:00",
+            "2026-03-02 00:00:00",
+            "2026-02-01 00:00:00"
+          ],
+          "opts_hi": [
+            "2026-04-03 00:00:00",
+            "2026-04-01 00:00:00",
+            "2026-03-02 00:00:00",
+            "2026-02-01 00:00:00"
+          ],
+          "ans": 0,
+          "subject": "Graph Interpretation (2 Graphs)",
+          "img": "/question-images/di/di_2graph_9202_chart2.svg"
+        },
+        {
+          "q": "In which year did commission earned by Agent A show the highest increase over that of the preceding year?",
+          "q_hi": "किस वर्ष में एजेंट A द्वारा अर्जित कमीशन पिछले वर्ष की तुलना में अधिकतम वृद्धि दर्शाता है?",
+          "opts": [
+            "2016.0",
+            "2015.0",
+            "2017.0",
+            "2014.0"
+          ],
+          "opts_hi": [
+            "2016.0",
+            "2015.0",
+            "2017.0",
+            "2014.0"
+          ],
+          "ans": 0,
+          "subject": "Table Interpretation & Analysis (2 Tables)",
+          "img": "/question-images/di/di_table_9200_chart1.svg"
+        },
+        {
+          "q": "In the year 2014, the commission of Agent A was approximately what percent of the total commission earned by all agents in that year?",
+          "q_hi": "वर्ष 2014 में एजेंट A का कमीशन उस वर्ष के कुल कमीशन का लगभग कितना प्रतिशत था?",
+          "opts": [
+            "0.2678",
+            "0.3328",
+            "0.1828",
+            "0.1228"
+          ],
+          "opts_hi": [
+            "0.2678",
+            "0.3328",
+            "0.1828",
+            "0.1228"
+          ],
+          "ans": 2,
+          "subject": "Table Interpretation & Analysis (2 Tables)",
+          "img": "/question-images/di/di_table_9200_chart1.svg"
+        },
+        {
+          "q": "Which agent's commission in 2019 shows the highest increase over that in 2014?",
+          "q_hi": "किस एजेंट का 2019 में कमीशन, 2014 की तुलना में सर्वाधिक वृद्धि दर्शाता है?",
+          "opts": [
+            "E",
+            "C",
+            "A",
+            "D"
+          ],
+          "opts_hi": [
+            "E",
+            "C",
+            "A",
+            "D"
+          ],
+          "ans": 3,
+          "subject": "Table Interpretation & Analysis (2 Tables)",
+          "img": "/question-images/di/di_table_9200_chart1.svg"
+        },
+        {
+          "q": "In which of the following years was the difference between the highest and lowest commission earned by any agent maximum?",
+          "q_hi": "निम्न में से किस वर्ष में किसी भी एजेंट द्वारा अर्जित उच्चतम और न्यूनतम कमीशन का अंतर अधिकतम है?",
+          "opts": [
+            "2018.0",
+            "2014.0",
+            "2016.0",
+            "2015.0"
+          ],
+          "opts_hi": [
+            "2018.0",
+            "2014.0",
+            "2016.0",
+            "2015.0"
+          ],
+          "ans": 3,
+          "subject": "Table Interpretation & Analysis (2 Tables)",
+          "img": "/question-images/di/di_table_9200_chart1.svg"
+        },
+        {
+          "q": "In the year 2018, commission earned by Agent A was approximately what percent of commission earned by Agent B?",
+          "q_hi": "वर्ष 2018 में एजेंट A द्वारा अर्जित कमीशन, एजेंट B द्वारा अर्जित कमीशन का लगभग कितना प्रतिशत है?",
+          "opts": [
+            "1.1031",
+            "0.9031",
+            "0.8131",
+            "1.0231"
+          ],
+          "opts_hi": [
+            "1.1031",
+            "0.9031",
+            "0.8131",
+            "1.0231"
+          ],
+          "ans": 1,
+          "subject": "Table Interpretation & Analysis (2 Tables)",
+          "img": "/question-images/di/di_table_9200_chart1.svg"
+        },
+        {
+          "q": "In which of the following months is the average number of enrolments (across all branches) the maximum?",
+          "q_hi": "निम्नलिखित में से किस महीने में (सभी शाखाओं में) नामांकन की औसत संख्या सर्वाधिक है?",
+          "opts": [
+            "Jun",
+            "Aug",
+            "May",
+            "Sep"
+          ],
+          "opts_hi": [
+            "Jun",
+            "Aug",
+            "May",
+            "Sep"
+          ],
+          "ans": 2,
+          "subject": "Table Interpretation & Analysis (2 Tables)",
+          "img": "/question-images/di/di_table_9200_chart2.svg"
+        },
+        {
+          "q": "The number of enrolments at Branch R in Jul is approximately what percent more or less than in May?",
+          "q_hi": "शाखा R में Jul में नामांकन की संख्या, May की तुलना में लगभग कितने प्रतिशत कम या ज्यादा थी?",
+          "opts": [
+            "0.429",
+            "0.361",
+            "0.404",
+            "0.379"
+          ],
+          "opts_hi": [
+            "0.429",
+            "0.361",
+            "0.404",
+            "0.379"
+          ],
+          "ans": 3,
+          "subject": "Table Interpretation & Analysis (2 Tables)",
+          "img": "/question-images/di/di_table_9200_chart2.svg"
+        },
+        {
+          "q": "What is the ratio of the number of enrolments at Branch P to that at Branch S over the period May to Sep?",
+          "q_hi": "May से Sep तक शाखा P में नामांकन की संख्या का शाखा S में नामांकन की संख्या से अनुपात क्या है?",
+          "opts": [
+            "1.61",
+            "0.86",
+            "1.41",
+            "1.11"
+          ],
+          "opts_hi": [
+            "1.61",
+            "0.86",
+            "1.41",
+            "1.11"
+          ],
+          "ans": 3,
+          "subject": "Table Interpretation & Analysis (2 Tables)",
+          "img": "/question-images/di/di_table_9200_chart2.svg"
+        },
+        {
+          "q": "At which Branch is the average number of enrolments the maximum?",
+          "q_hi": "किस शाखा में नामांकन की औसत संख्या सर्वाधिक है?",
+          "opts": [
+            "R",
+            "Q",
+            "S",
+            "P"
+          ],
+          "opts_hi": [
+            "R",
+            "Q",
+            "S",
+            "P"
+          ],
+          "ans": 1,
+          "subject": "Table Interpretation & Analysis (2 Tables)",
+          "img": "/question-images/di/di_table_9200_chart2.svg"
+        },
+        {
+          "q": "The average number of enrolments at Branch S is approximately what percent more or less than the average number of enrolments at Branch P?",
+          "q_hi": "शाखा S में नामांकन की औसत संख्या, शाखा P में नामांकन की औसत संख्या से लगभग कितने प्रतिशत कम या ज्यादा है?",
+          "opts": [
+            "0.0977",
+            "0.0527",
+            "0.1577",
+            "0.2077"
+          ],
+          "opts_hi": [
+            "0.0977",
+            "0.0527",
+            "0.1577",
+            "0.2077"
+          ],
+          "ans": 0,
+          "subject": "Table Interpretation & Analysis (2 Tables)",
+          "img": "/question-images/di/di_table_9200_chart2.svg"
+        },
+        {
+          "q": "In which year did commission earned by Agent E show the highest increase over that of the preceding year?",
+          "q_hi": "किस वर्ष में एजेंट E द्वारा अर्जित कमीशन पिछले वर्ष की तुलना में अधिकतम वृद्धि दर्शाता है?",
+          "opts": [
+            "2014.0",
+            "2016.0",
+            "2017.0",
+            "2018.0"
+          ],
+          "opts_hi": [
+            "2014.0",
+            "2016.0",
+            "2017.0",
+            "2018.0"
+          ],
+          "ans": 1,
+          "subject": "Table Interpretation & Analysis (2 Tables)",
+          "img": "/question-images/di/di_table_9201_chart1.svg"
+        },
+        {
+          "q": "In the year 2014, the commission of Agent E was approximately what percent of the total commission earned by all agents in that year?",
+          "q_hi": "वर्ष 2014 में एजेंट E का कमीशन उस वर्ष के कुल कमीशन का लगभग कितना प्रतिशत था?",
+          "opts": [
+            "0.3586",
+            "0.2086",
+            "0.2936",
+            "0.1486"
+          ],
+          "opts_hi": [
+            "0.3586",
+            "0.2086",
+            "0.2936",
+            "0.1486"
+          ],
+          "ans": 1,
+          "subject": "Table Interpretation & Analysis (2 Tables)",
+          "img": "/question-images/di/di_table_9201_chart1.svg"
+        },
+        {
+          "q": "Which agent's commission in 2019 shows the highest increase over that in 2014?",
+          "q_hi": "किस एजेंट का 2019 में कमीशन, 2014 की तुलना में सर्वाधिक वृद्धि दर्शाता है?",
+          "opts": [
+            "A",
+            "E",
+            "B",
+            "D"
+          ],
+          "opts_hi": [
+            "A",
+            "E",
+            "B",
+            "D"
+          ],
+          "ans": 3,
+          "subject": "Table Interpretation & Analysis (2 Tables)",
+          "img": "/question-images/di/di_table_9201_chart1.svg"
+        },
+        {
+          "q": "In which of the following years was the difference between the highest and lowest commission earned by any agent maximum?",
+          "q_hi": "निम्न में से किस वर्ष में किसी भी एजेंट द्वारा अर्जित उच्चतम और न्यूनतम कमीशन का अंतर अधिकतम है?",
+          "opts": [
+            "2019.0",
+            "2016.0",
+            "2015.0",
+            "2017.0"
+          ],
+          "opts_hi": [
+            "2019.0",
+            "2016.0",
+            "2015.0",
+            "2017.0"
+          ],
+          "ans": 1,
+          "subject": "Table Interpretation & Analysis (2 Tables)",
+          "img": "/question-images/di/di_table_9201_chart1.svg"
+        },
+        {
+          "q": "In the year 2015, commission earned by Agent D was approximately what percent of commission earned by Agent B?",
+          "q_hi": "वर्ष 2015 में एजेंट D द्वारा अर्जित कमीशन, एजेंट B द्वारा अर्जित कमीशन का लगभग कितना प्रतिशत है?",
+          "opts": [
+            "1.2397",
+            "1.3197",
+            "1.0297",
+            "1.1197"
+          ],
+          "opts_hi": [
+            "1.2397",
+            "1.3197",
+            "1.0297",
+            "1.1197"
+          ],
+          "ans": 3,
+          "subject": "Table Interpretation & Analysis (2 Tables)",
+          "img": "/question-images/di/di_table_9201_chart1.svg"
+        },
+        {
+          "q": "In which of the following months is the average number of enrolments (across all branches) the maximum?",
+          "q_hi": "निम्नलिखित में से किस महीने में (सभी शाखाओं में) नामांकन की औसत संख्या सर्वाधिक है?",
+          "opts": [
+            "Jul",
+            "May",
+            "Jun",
+            "Aug"
+          ],
+          "opts_hi": [
+            "Jul",
+            "May",
+            "Jun",
+            "Aug"
+          ],
+          "ans": 0,
+          "subject": "Table Interpretation & Analysis (2 Tables)",
+          "img": "/question-images/di/di_table_9201_chart2.svg"
+        },
+        {
+          "q": "The number of enrolments at Branch Q in May is approximately what percent more or less than in Sep?",
+          "q_hi": "शाखा Q में May में नामांकन की संख्या, Sep की तुलना में लगभग कितने प्रतिशत कम या ज्यादा थी?",
+          "opts": [
+            "0.081",
+            "0.131",
+            "0.106",
+            "0.063"
+          ],
+          "opts_hi": [
+            "0.081",
+            "0.131",
+            "0.106",
+            "0.063"
+          ],
+          "ans": 0,
+          "subject": "Table Interpretation & Analysis (2 Tables)",
+          "img": "/question-images/di/di_table_9201_chart2.svg"
+        },
+        {
+          "q": "What is the ratio of the number of enrolments at Branch P to that at Branch R over the period May to Sep?",
+          "q_hi": "May से Sep तक शाखा P में नामांकन की संख्या का शाखा R में नामांकन की संख्या से अनुपात क्या है?",
+          "opts": [
+            "1.46",
+            "1.16",
+            "1.66",
+            "0.91"
+          ],
+          "opts_hi": [
+            "1.46",
+            "1.16",
+            "1.66",
+            "0.91"
+          ],
+          "ans": 1,
+          "subject": "Table Interpretation & Analysis (2 Tables)",
+          "img": "/question-images/di/di_table_9201_chart2.svg"
+        },
+        {
+          "q": "At which Branch is the average number of enrolments the maximum?",
+          "q_hi": "किस शाखा में नामांकन की औसत संख्या सर्वाधिक है?",
+          "opts": [
+            "S",
+            "Q",
+            "P",
+            "R"
+          ],
+          "opts_hi": [
+            "S",
+            "Q",
+            "P",
+            "R"
+          ],
+          "ans": 2,
+          "subject": "Table Interpretation & Analysis (2 Tables)",
+          "img": "/question-images/di/di_table_9201_chart2.svg"
+        },
+        {
+          "q": "The average number of enrolments at Branch Q is approximately what percent more or less than the average number of enrolments at Branch P?",
+          "q_hi": "शाखा Q में नामांकन की औसत संख्या, शाखा P में नामांकन की औसत संख्या से लगभग कितने प्रतिशत कम या ज्यादा है?",
+          "opts": [
+            "0.1928",
+            "0.2428",
+            "0.0878",
+            "0.1328"
+          ],
+          "opts_hi": [
+            "0.1928",
+            "0.2428",
+            "0.0878",
+            "0.1328"
+          ],
+          "ans": 3,
+          "subject": "Table Interpretation & Analysis (2 Tables)",
+          "img": "/question-images/di/di_table_9201_chart2.svg"
+        }
+      ]
     }
   ]
 }
