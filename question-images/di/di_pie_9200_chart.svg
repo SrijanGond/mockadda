@@ -1,16 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 420" width="100%" height="100%">
-  <foreignObject width="500" height="420">
-    <div xmlns="http://www.w3.org/1999/xhtml" style="width:100%;height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;font-family:Arial,sans-serif;background:#fff;">
-      <div style="width:280px;height:280px;border-radius:50%;background:conic-gradient(#FF6384 0% 38%, #36A2EB 38% 44%, #FFCE56 44% 49%, #4BC0C0 49% 54%, #9966FF 54% 73%, #FF9F40 73% 95%, #C9CBCF 95% 100%);box-shadow:0 4px 12px rgba(0,0,0,0.15);"></div>
-      <div style="display:flex;flex-wrap:wrap;justify-content:center;margin-top:18px;gap:8px;max-width:450px;">
-        <span style="background:#FF6384;padding:4px 12px;border-radius:20px;color:#fff;font-size:13px;">Pension 38%</span>
-        <span style="background:#36A2EB;padding:4px 12px;border-radius:20px;color:#fff;font-size:13px;">Public 6%</span>
-        <span style="background:#FFCE56;padding:4px 12px;border-radius:20px;color:#000;font-size:13px;">FII 5%</span>
-        <span style="background:#4BC0C0;padding:4px 12px;border-radius:20px;color:#fff;font-size:13px;">Companies 5%</span>
-        <span style="background:#9966FF;padding:4px 12px;border-radius:20px;color:#fff;font-size:13px;">NRI 19%</span>
-        <span style="background:#FF9F40;padding:4px 12px;border-radius:20px;color:#fff;font-size:13px;">HNI 22%</span>
-        <span style="background:#C9CBCF;padding:4px 12px;border-radius:20px;color:#000;font-size:13px;">Insurance 5%</span>
-      </div>
-    </div>
-  </foreignObject>
-</svg>
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg"><rect width="400" height="300" fill="#ffffff"/><path d="M 140 150 L 240 150 A 100 100 0 0 1 91.82463258982845 237.63066800438634 Z" fill="#0ea5e9" stroke="#fff" stroke-width="2"/><text x="201.08496989004453" y="257.28904324047323" font-size="11" text-anchor="middle" fill="#0f172a" font-family="DM Sans,sans-serif">Banks 33%</text><path d="M 140 150 L 91.82463258982845 237.63066800438634 A 100 100 0 0 1 40.19732715717285 143.72094804706862 Z" fill="#7c3aed" stroke="#fff" stroke-width="2"/><text x="34.843198394736376" y="211.81044089220583" font-size="11" text-anchor="middle" fill="#0f172a" font-family="DM Sans,sans-serif">FII 18%</text><path d="M 140 150 L 40.19732715717285 143.72094804706862 A 100 100 0 0 1 47.02235141117488 113.18754473153217 Z" fill="#f59e0b" stroke="#fff" stroke-width="2"/><text x="22.889988567350315" y="127.82281103241485" font-size="11" text-anchor="middle" fill="#0f172a" font-family="DM Sans,sans-serif">Retail 5%</text><path d="M 140 150 L 47.02235141117488 113.18754473153217 A 100 100 0 0 1 71.54528940713118 77.1031372578588 Z" fill="#dc2626" stroke="#fff" stroke-width="2"/><text x="40.7503310870526" y="86.54999465774428" font-size="11" text-anchor="middle" fill="#0f172a" font-family="DM Sans,sans-serif">NRI 7%</text><path d="M 140 150 L 71.54528940713118 77.1031372578588 A 100 100 0 0 1 240 150.00000000000006 Z" fill="#16a34a" stroke="#fff" stroke-width="2"/><text x="187.6577468761738" y="43.86944491792232" font-size="11" text-anchor="middle" fill="#0f172a" font-family="DM Sans,sans-serif">Pension Funds 37%</text></svg>
