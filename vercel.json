@@ -314,6 +314,14 @@
       "destination": "/upsssc/upsssc-pet-mock-test-14/index.html"
     },
     {
+      "source": "/current-affairs",
+      "destination": "/current-affairs/index.html"
+    },
+    {
+      "source": "/current-affairs/",
+      "destination": "/current-affairs/index.html"
+    },
+    {
       "source": "/(.*)",
       "destination": "/index.html"
     }
