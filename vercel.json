@@ -306,6 +306,14 @@
       "destination": "/upsssc/upsssc-pet-mock-test-13/index.html"
     },
     {
+      "source": "/upsssc/upsssc-pet-mock-test-14",
+      "destination": "/upsssc/upsssc-pet-mock-test-14/index.html"
+    },
+    {
+      "source": "/upsssc/upsssc-pet-mock-test-14/",
+      "destination": "/upsssc/upsssc-pet-mock-test-14/index.html"
+    },
+    {
       "source": "/(.*)",
       "destination": "/index.html"
     }
