@@ -1340,6 +1340,7 @@ function homeScreen(){
   const quickWrap=el('div',{css:'padding:16px 20px 4px;max-width:800px;margin:0 auto;'});
   const quickGrid=el('div',{css:'display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;'});
   const quickCards=[
+    ['📰','Current Affairs','Daily digest for exam prep','#0ea5e9','#0284c7',()=>{navigateToCurrentAffairs();S.screen='currentAffairsHome';render();}],
     ['⌨️','Typing Practice','English & Hindi','#0891b2','#0e7490',()=>{S.screen='typingHome';render();}],
     ['📚','Practice by Subject','Maths, Polity, English & more','#7c3aed','#6d28d9',()=>{S.screen='subjectsHome';render();}],
     ['🔖','Mistake Notebook','Revisit questions you got wrong','#db2777','#be185d',()=>{S.screen='mistakesHome';render();}],
@@ -2661,8 +2662,8 @@ function Footer(){
   lg.appendChild(c1);
   const c2=el('div');
   c2.appendChild(el('div',{css:'font-family:Syne,sans-serif;font-weight:700;font-size:12px;color:#94a3b8;letter-spacing:0.08em;text-transform:uppercase;margin-bottom:10px;',text:'Company'}));
-  [['Typing Practice','typingHome'],['Practice by Subject','subjectsHome'],['Mistake Notebook','mistakesHome'],['Word of the Day','vocabHome'],['About Us','about'],['Contact Us','contact'],['Privacy Policy','privacy'],['Terms of Service','terms']].forEach(([n,s])=>{
-    const lk=el('div',{css:'font-size:13px;color:#64748b;margin-bottom:7px;cursor:pointer;',text:n,onClick:()=>go(s)});
+  [['Current Affairs','currentAffairsHome'],['Typing Practice','typingHome'],['Practice by Subject','subjectsHome'],['Mistake Notebook','mistakesHome'],['Word of the Day','vocabHome'],['About Us','about'],['Contact Us','contact'],['Privacy Policy','privacy'],['Terms of Service','terms']].forEach(([n,s])=>{
+    const lk=el('div',{css:'font-size:13px;color:#64748b;margin-bottom:7px;cursor:pointer;',text:n,onClick:()=>{if(s==='currentAffairsHome')navigateToCurrentAffairs();go(s);}});
     c2.appendChild(lk);
   });
   lg.appendChild(c2);top.appendChild(lg);
