@@ -1,3 +1,58 @@
 {
-  "items": []
+  "items": [
+    {
+      "id": "1",
+      "date": "2026-09-02",
+      "category": "Banking",
+      "title": "RBI Appoints Suman Ray as Executive Director",
+      "title_hi": "RBI ने सुमन रे को कार्यकारी निदेशक नियुक्त किया",
+      "content": "The Reserve Bank of India appointed Suman Ray as its new Executive Director, effective September 1, 2026. This is a key leadership appointment relevant for banking exam current affairs sections.",
+      "content_hi": "भारतीय रिज़र्व बैंक (RBI) ने सुमन रे को अपना नया कार्यकारी निदेशक नियुक्त किया, जो 1 सितंबर 2026 से प्रभावी है। यह बैंकिंग परीक्षाओं के करेंट अफेयर्स खंड के लिए एक महत्वपूर्ण नेतृत्व नियुक्ति है।"
+    },
+    {
+      "id": "2",
+      "date": "2026-09-07",
+      "category": "Banking",
+      "title": "LIC Gets RBI Nod to Raise Stake in ICICI Bank",
+      "title_hi": "LIC को ICICI बैंक में हिस्सेदारी बढ़ाने की RBI से मंजूरी",
+      "content": "The RBI approved Life Insurance Corporation of India's request to increase its shareholding in ICICI Bank to up to 9.99%, a significant move in the insurance-banking sector.",
+      "content_hi": "RBI ने भारतीय जीवन बीमा निगम (LIC) को ICICI बैंक में अपनी हिस्सेदारी बढ़ाकर 9.99% तक करने की अनुमति दे दी है, जो बीमा-बैंकिंग क्षेत्र में एक महत्वपूर्ण कदम है।"
+    },
+    {
+      "id": "3",
+      "date": "2026-09-10",
+      "category": "National",
+      "title": "UIDAI Launches Aadhaar Face Authentication SDK",
+      "title_hi": "UIDAI ने आधार फेस ऑथेंटिकेशन SDK लॉन्च किया",
+      "content": "The Unique Identification Authority of India (UIDAI) launched a new Software Development Kit (SDK) and sandbox environment for Aadhaar-based face authentication, aimed at expanding contactless identity verification.",
+      "content_hi": "भारतीय विशिष्ट पहचान प्राधिकरण (UIDAI) ने आधार-आधारित फेस ऑथेंटिकेशन के लिए एक नया सॉफ्टवेयर डेवलपमेंट किट (SDK) और सैंडबॉक्स वातावरण लॉन्च किया है, जिसका उद्देश्य संपर्क रहित पहचान सत्यापन का विस्तार करना है।"
+    },
+    {
+      "id": "4",
+      "date": "2026-09-12",
+      "category": "International",
+      "title": "India Hosts 18th BRICS Summit in New Delhi",
+      "title_hi": "भारत ने नई दिल्ली में 18वें ब्रिक्स शिखर सम्मेलन की मेजबानी की",
+      "content": "India hosted the 18th BRICS Summit in New Delhi from September 12-13, 2026, with Sudhakar Dalela serving as India's BRICS Sherpa, coordinating the agenda among member nations.",
+      "content_hi": "भारत ने 12-13 सितंबर 2026 को नई दिल्ली में 18वें ब्रिक्स शिखर सम्मेलन की मेजबानी की, जिसमें सुधाकर डालेला ने भारत के ब्रिक्स शेरपा के रूप में सदस्य देशों के बीच एजेंडे का समन्वय किया।"
+    },
+    {
+      "id": "5",
+      "date": "2026-09-11",
+      "category": "Economy",
+      "title": "UPI Introduces Tap-to-Pay and Unified Transaction View",
+      "title_hi": "UPI में टैप-टू-पे और यूनिफाइड ट्रांजैक्शन व्यू सुविधाएं जोड़ी गईं",
+      "content": "The National Payments Corporation of India rolled out new UPI features, including tap-to-pay functionality and a unified view of transactions across apps, to improve user convenience.",
+      "content_hi": "नेशनल पेमेंट्स कॉरपोरेशन ऑफ इंडिया (NPCI) ने यूनिफाइड पेमेंट्स इंटरफेस (UPI) में नई सुविधाएं शुरू कीं, जिनमें टैप-टू-पे कार्यक्षमता और विभिन्न ऐप्स में लेनदेन का एकीकृत दृश्य शामिल है, ताकि उपयोगकर्ताओं की सुविधा बढ़ाई जा सके।"
+    },
+    {
+      "id": "6",
+      "date": "2026-07-22",
+      "category": "Appointments",
+      "title": "Harjit Singh Grewal Appointed Chairperson, National Commission for Minorities",
+      "title_hi": "हरजीत सिंह ग्रेवाल राष्ट्रीय अल्पसंख्यक आयोग के अध्यक्ष नियुक्त",
+      "content": "Harjit Singh Grewal was appointed as the Chairperson of the National Commission for Minorities, a constitutional body responsible for safeguarding minority rights in India.",
+      "content_hi": "हरजीत सिंह ग्रेवाल को राष्ट्रीय अल्पसंख्यक आयोग का अध्यक्ष नियुक्त किया गया, जो भारत में अल्पसंख्यक अधिकारों की सुरक्षा के लिए जिम्मेदार एक संवैधानिक निकाय है।"
+    }
+  ]
 }
