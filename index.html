@@ -1200,6 +1200,74 @@ function examContentSection(examKey){
 }
 
 
+// ── CURRENT AFFAIRS ──────────────────────────────────────────────────────────
+let CURRENT_AFFAIRS_CACHE = null; // cached after first fetch, same pattern as SUBJECTS_META
+async function loadCurrentAffairs(){
+  if(CURRENT_AFFAIRS_CACHE) return CURRENT_AFFAIRS_CACHE;
+  try{
+    const res = await fetch('/current_affairs.json');
+    if(!res.ok) throw new Error('not found');
+    const data = await res.json();
+    CURRENT_AFFAIRS_CACHE = data.items || [];
+  }catch(e){
+    CURRENT_AFFAIRS_CACHE = [];
+  }
+  return CURRENT_AFFAIRS_CACHE;
+}
+function formatCADate(dateStr){
+  try{
+    const d = new Date(dateStr+'T00:00:00');
+    return d.toLocaleDateString('en-IN',{day:'numeric',month:'long',year:'numeric'});
+  }catch(e){ return dateStr; }
+}
+function navigateToCurrentAffairs(){
+  const url = '/current-affairs';
+  if(location.pathname !== url) history.pushState({currentAffairs:true}, '', url);
+  document.title = 'Current Affairs | MockAdda';
+  const metaDesc = document.querySelector('meta[name="description"]');
+  if(metaDesc) metaDesc.setAttribute('content',
+    'Daily current affairs digest for SSC, Banking, Railways, UPSSSC and other competitive exams — updated every day on MockAdda.');
+}
+function currentAffairsHomeScreen(){
+  const root=el('div');root.appendChild(Navbar());
+  const hdr=el('div',{css:'background:linear-gradient(135deg,#0ea5e9,#0369a1);padding:28px 20px;'});
+  hdr.appendChild(el('button',{css:'background:none;border:none;color:rgba(255,255,255,0.8);font-size:13px;cursor:pointer;margin-bottom:10px;display:block;padding:0;',text:'← Back to Home',onClick:()=>go('home')}));
+  hdr.appendChild(el('div',{css:'display:flex;align-items:center;gap:10px;'},[el('div',{css:'font-size:28px;',text:'📰'}),el('h2',{css:'font-family:Syne,sans-serif;font-weight:800;font-size:22px;color:#fff;',text:'Current Affairs'})]));
+  hdr.appendChild(el('p',{css:'font-size:13px;color:#e0f2fe;margin-top:6px;',text:'Daily current affairs digest for competitive exam preparation — updated every day.'}));
+  root.appendChild(hdr);
+
+  const body=el('div',{css:'padding:20px;max-width:700px;margin:0 auto;'});
+  const listWrap=el('div',{id:'currentAffairsList'});
+  listWrap.appendChild(el('div',{css:'text-align:center;padding:30px;color:#94a3b8;font-size:13px;',text:'Loading current affairs...'}));
+  body.appendChild(listWrap);
+  root.appendChild(body);root.appendChild(Footer());
+
+  loadCurrentAffairs().then(items=>{
+    listWrap.innerHTML='';
+    if(!items.length){
+      listWrap.appendChild(el('div',{css:'text-align:center;padding:30px;color:#94a3b8;font-size:13px;line-height:1.6;',text:'No current affairs published yet. Check back soon — new updates are added daily.'}));
+      return;
+    }
+    const byDate = {};
+    items.forEach(it=>{ (byDate[it.date] = byDate[it.date] || []).push(it); });
+    const dates = Object.keys(byDate).sort((a,b)=>b.localeCompare(a));
+    dates.forEach(date=>{
+      listWrap.appendChild(el('div',{css:'font-family:Syne,sans-serif;font-weight:800;font-size:14px;color:#0369a1;margin:20px 0 10px;padding-bottom:6px;border-bottom:2px solid #e0f2fe;',text:formatCADate(date)}));
+      byDate[date].forEach(it=>{
+        const title = (S.lang==='hi' && it.title_hi) ? it.title_hi : it.title;
+        const content = (S.lang==='hi' && it.content_hi) ? it.content_hi : it.content;
+        const card=el('div',{css:'background:#fff;border:1px solid #e2e8f0;border-radius:12px;padding:16px;margin-bottom:12px;'});
+        if(it.category) card.appendChild(el('span',{css:'display:inline-block;background:#0ea5e918;color:#0369a1;font-size:10px;font-weight:700;padding:3px 10px;border-radius:12px;margin-bottom:8px;',text:it.category}));
+        card.appendChild(el('div',{css:'font-family:Syne,sans-serif;font-weight:700;font-size:15px;color:#0f172a;margin-bottom:6px;line-height:1.4;',text:title}));
+        card.appendChild(el('div',{css:'font-size:13px;color:#475569;line-height:1.7;white-space:pre-wrap;',text:content}));
+        listWrap.appendChild(card);
+      });
+    });
+  });
+
+  return root;
+}
+
 function buildScreen(){
   resetLangToggleAvailability(); // quizScreen() will re-tighten this per question if needed
   const screenMap={
@@ -1218,7 +1286,8 @@ function buildScreen(){
     typingResults:typingResultsScreen,
     subjectsHome:subjectsHomeScreen,
     mistakesHome:mistakesHomeScreen,
-    vocabHome:vocabHomeScreen
+    vocabHome:vocabHomeScreen,
+    currentAffairsHome:currentAffairsHomeScreen
   };
   return(screenMap[S.screen]||loadingScreen)();
 }
@@ -1234,16 +1303,24 @@ function loadingScreen(){
 // ── NAVBAR ────────────────────────────────────────────────────────────────────
 function Navbar(){
   const nav=el('nav',{css:'position:sticky;top:0;z-index:50;background:#fff;border-bottom:1px solid #e2e8f0;padding:0 20px;display:flex;align-items:center;justify-content:space-between;height:58px;box-shadow:0 1px 4px rgba(0,0,0,0.06);'});
+  const left=el('div',{css:'display:flex;align-items:center;gap:14px;'});
   const logo=el('div',{css:'display:flex;align-items:center;gap:8px;cursor:pointer;',onClick:()=>{navigateToHome();go('home');}});
   logo.appendChild(el('div',{css:'width:36px;height:36px;border-radius:10px;background:linear-gradient(135deg,#0ea5e9,#7c3aed);display:flex;align-items:center;justify-content:center;color:#fff;font-weight:800;font-size:17px;font-family:Syne,sans-serif;',text:'M'}));
   const lt=el('div',{css:'display:flex;align-items:baseline;gap:1px;'});
   lt.appendChild(el('span',{css:'font-family:Syne,sans-serif;font-weight:800;font-size:19px;color:#0f172a;',text:'Mock'}));
   lt.appendChild(el('span',{css:'font-family:Syne,sans-serif;font-weight:800;font-size:19px;color:#0ea5e9;',text:'Adda'}));
-  logo.appendChild(lt);nav.appendChild(logo);
+  logo.appendChild(lt);left.appendChild(logo);
+  const caLink=el('div',{css:'display:flex;align-items:center;gap:5px;cursor:pointer;padding:6px 12px;background:#0ea5e914;border-radius:20px;',onClick:()=>{navigateToCurrentAffairs();go('currentAffairsHome');}},[
+    el('span',{css:'font-size:14px;',text:'📰'}),
+    el('span',{css:'font-size:12px;font-weight:700;color:#0369a1;white-space:nowrap;',text:'Current Affairs'})
+  ]);
+  left.appendChild(caLink);
+  nav.appendChild(left);
   const right=el('div',{css:'display:flex;align-items:center;gap:10px;'});
   right.appendChild(el('a',{href:'mailto:contact@mockadda.com',css:'font-size:12px;color:#64748b;font-weight:500;',text:'Contact'}));
   nav.appendChild(right);
   return nav;
+
 }
 
 // ── HOME ──────────────────────────────────────────────────────────────────────
@@ -2631,6 +2708,11 @@ async function loadFullTest(examKey, testId, metaTest){
   return full || metaTest;
 }
 window.addEventListener('popstate', ()=>{
+  if(location.pathname === '/current-affairs' || location.pathname === '/current-affairs/'){
+    S.screen = 'currentAffairsHome';
+    render();
+    return;
+  }
   const match = parseUrlPath();
   if(match){ S.activeCatKey=match.catKey; S.activeExamKey=match.examKey; S.activeExam=match.exam; S.screen='tests'; }
   else { S.screen='home'; }
@@ -2685,6 +2767,14 @@ async function boot(){
         }
       }
     }
+  }
+
+  // --- Current Affairs direct URL ---
+  if(path === '/current-affairs' || path === '/current-affairs/'){
+    S.screen = 'currentAffairsHome';
+    navigateToCurrentAffairs();
+    render();
+    return;
   }
 
   const match = parseUrlPath();
