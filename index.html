@@ -770,6 +770,22 @@ function groupQuestionsBySubject(questions){
   return order.flatMap(subj=>buckets[subj]);
 }
 
+// ── GA4 TEST TRACKING ─────────────────────────────────────────────────────────
+// Sends test_start / test_submit events with exam + test name so GA4 can show which sets are actually attempted.
+// Wrapped in try/catch so an ad blocker or missing tag can never break a test.
+function trackTest(action){
+  try{
+    if(typeof gtag!=='function' || !S.test) return;
+    const rs=S.returnScreen;
+    const testType = rs==='mistakesHome' ? 'mistakes_practice' : (rs==='subjectsHome' ? 'subject_practice' : 'mock_test');
+    gtag('event', action, {
+      exam_id: S.activeExamKey || testType,
+      test_name: S.test.title || '',
+      test_type: testType
+    });
+  }catch(e){}
+}
+
 // ── QUIZ LOGIC ────────────────────────────────────────────────────────────────
 function startQuiz(catKey,examKey,test,returnScreen){
   S.activeCatKey=catKey; S.activeExamKey=examKey;
@@ -794,6 +810,7 @@ function startQuiz(catKey,examKey,test,returnScreen){
   }
 
   S.screen='quiz';render();startTimer();
+  trackTest('test_start');
 }
 function startTimer(){
   clearInterval(timerHandle);
@@ -835,6 +852,7 @@ function advanceSection(){
 function goQ(idx){ if(S.sectionLocked.has(idx)) return; S.visited.add(idx);S.qi=idx;S.navOpen=false;render();}
 function submit(){
   clearInterval(timerHandle);
+  if(S.screen==='quiz') trackTest('test_submit'); // only once per attempt, even if submit() is triggered twice
   if(S.startTime) S.timeTaken=Math.floor((Date.now()-S.startTime)/1000);
   recordActivity();
   S.screen='results';S.confirm=false;S.navOpen=false;render();
