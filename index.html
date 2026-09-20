@@ -326,7 +326,7 @@ function parseUrlPath(){
   return null;
 }
 // Keeps <link rel="canonical"> and og:url in sync with the page being shown.
-// (The static canonical in <head> points at the homepage, which told Google every URL was a duplicate of it.)
+// (The template's static canonical points at the homepage; this keeps it correct after in-app navigation.)
 function setCanonical(path){
   try{
     const full = 'https://www.readymadequiz.co.in' + path;
@@ -2774,7 +2774,10 @@ async function boot(){
           S.activeCatKey = mCatKey;
           S.activeExamKey = mExamKey;
           S.activeExam = exam;
-          navigateToExam(mCatKey, mExamKey, exam);
+          // NOTE: do NOT call navigateToExam() here. It rewrites the address bar to the exam page and
+          // replaces this page's title/description, so Google's renderer sees every mock-test URL turn
+          // into the same exam page ("Page with redirect" / duplicate). Keep the URL, title and canonical
+          // exactly as served for this mock-test page.
           startQuiz(mCatKey, mExamKey, fullTest);
           return; // Exit boot, quiz starts immediately
         } catch(e) {
