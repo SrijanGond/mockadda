@@ -325,9 +325,22 @@ function parseUrlPath(){
   }
   return null;
 }
+// Keeps <link rel="canonical"> and og:url in sync with the page being shown.
+// (The static canonical in <head> points at the homepage, which told Google every URL was a duplicate of it.)
+function setCanonical(path){
+  try{
+    const full = 'https://www.readymadequiz.co.in' + path;
+    let l = document.querySelector('link[rel="canonical"]');
+    if(!l){ l = document.createElement('link'); l.setAttribute('rel','canonical'); document.head.appendChild(l); }
+    l.setAttribute('href', full);
+    const og = document.querySelector('meta[property="og:url"]');
+    if(og) og.setAttribute('content', full);
+  }catch(e){}
+}
 function navigateToExam(catKey, examKey, exam){
   const url = examUrl(catKey, examKey);
   if(location.pathname !== url) history.pushState({catKey,examKey}, '', url);
+  setCanonical(url);
   document.title = exam.name + ' Free Mock Test | MockAdda';
   const metaDesc = document.querySelector('meta[name="description"]');
   if(metaDesc) metaDesc.setAttribute('content',
@@ -335,6 +348,7 @@ function navigateToExam(catKey, examKey, exam){
 }
 function navigateToHome(){
   if(location.pathname !== '/') history.pushState({}, '', '/');
+  setCanonical('/');
   document.title = 'MockAdda – Free Online Mock Tests | SSC, Banking, Railways, Teaching';
   const metaDesc = document.querySelector('meta[name="description"]');
   if(metaDesc) metaDesc.setAttribute('content',
@@ -1221,6 +1235,7 @@ function formatCADate(dateStr){
 function navigateToCurrentAffairs(){
   const url = '/current-affairs';
   if(location.pathname !== url) history.pushState({currentAffairs:true}, '', url);
+  setCanonical(url);
   document.title = 'Current Affairs | MockAdda';
   const metaDesc = document.querySelector('meta[name="description"]');
   if(metaDesc) metaDesc.setAttribute('content',
@@ -2709,12 +2724,13 @@ async function loadFullTest(examKey, testId, metaTest){
 window.addEventListener('popstate', ()=>{
   if(location.pathname === '/current-affairs' || location.pathname === '/current-affairs/'){
     S.screen = 'currentAffairsHome';
+    setCanonical('/current-affairs');
     render();
     return;
   }
   const match = parseUrlPath();
-  if(match){ S.activeCatKey=match.catKey; S.activeExamKey=match.examKey; S.activeExam=match.exam; S.screen='tests'; }
-  else { S.screen='home'; }
+  if(match){ S.activeCatKey=match.catKey; S.activeExamKey=match.examKey; S.activeExam=match.exam; S.screen='tests'; setCanonical(examUrl(match.catKey, match.examKey)); }
+  else { S.screen='home'; setCanonical('/'); }
   render();
 });
 
