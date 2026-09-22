@@ -9640,98 +9640,93 @@
           "subject": "General Awareness"
         },
         {
-          "sheetId": "1539",
-          "q": "The earnings of the company in 1996-97 were approximately what percent of the average earning over the period under review?",
-          "q_hi": "1996-97 में कंपनी की आय समीक्षा अवधि के औसत आय का लगभग कितना प्रतिशत थी?",
+          "q": "A cold-storage unit recorded potato stock (in tonnes) over 5 months: Jan-450, Feb-620, Mar-380, Apr-710, May-540. What was the average monthly stock?",
+          "q_hi": "एक कोल्ड-स्टोरेज इकाई में 5 महीनों का आलू भंडार (टन में) इस प्रकार दर्ज हुआ: जन-450, फर-620, मार्च-380, अप्रैल-710, मई-540। औसत मासिक भंडार कितना था?",
           "opts": [
-            "15%",
-            "25%",
-            "20%",
-            "10%"
+            "540 tonnes",
+            "520 tonnes",
+            "560 tonnes",
+            "500 tonnes"
           ],
           "opts_hi": [
-            "15%",
-            "25%",
-            "20%",
-            "10%"
-          ],
-          "ans": 0,
-          "subject": "Data Interpretation"
-        },
-        {
-          "sheetId": "1541",
-          "q": "The earning of company in 1997-98 was how many times that in 1994-95?",
-          "q_hi": "1997-98 में कंपनी की आय 1994-95 से कितनी गुना थी?",
-          "opts": [
-            0.7,
-            0.8,
-            0.6,
-            0.9
-          ],
-          "opts_hi": [
-            0.7,
-            0.8,
-            0.6,
-            0.9
+            "540 टन",
+            "520 टन",
+            "560 टन",
+            "500 टन"
           ],
           "ans": 1,
           "subject": "Data Interpretation"
         },
         {
-          "sheetId": "1542",
-          "q": "What was the percentage increase in earning of the company in 1997-98 over 1993-94?",
-          "q_hi": "1997-98 में कंपनी की आय में 1993-94 की तुलना में कितने प्रतिशत की वृद्धि हुई थी?",
+          "q": "Using the same cold-storage data (Jan-450, Feb-620, Mar-380, Apr-710, May-540 tonnes), in how many months was the stock above the 5-month average?",
+          "q_hi": "उसी कोल्ड-स्टोरेज आंकड़े (जन-450, फर-620, मार्च-380, अप्रैल-710, मई-540 टन) में, कितने महीनों में भंडार 5-महीने के औसत से अधिक था?",
           "opts": [
-            1.16,
-            0.56,
-            0.76,
-            0.86
+            "1",
+            "2",
+            "3",
+            "4"
           ],
           "opts_hi": [
-            1.16,
-            0.56,
-            0.76,
-            0.86
+            "1",
+            "2",
+            "3",
+            "4"
           ],
-          "ans": 2,
+          "ans": 1,
           "subject": "Data Interpretation"
         },
         {
-          "sheetId": "1543",
-          "q": "What was the approximate percentage decline in the earning of the company from 1994-95 to 1995-96?",
-          "q_hi": "1994-95 से 1995-96 तक कंपनी की आय में लगभग कितने प्रतिशत की गिरावट आई थी?",
+          "q": "A block's primary school enrolment (number of students) over four years was: 2021-1200, 2022-1350, 2023-1180, 2024-1500. What was the percentage increase in enrolment from 2021 to 2024?",
+          "q_hi": "एक ब्लॉक में प्राथमिक विद्यालय नामांकन (छात्रों की संख्या) चार वर्षों में इस प्रकार था: 2021-1200, 2022-1350, 2023-1180, 2024-1500। 2021 से 2024 तक नामांकन में कितने प्रतिशत की वृद्धि हुई?",
           "opts": [
-            "24%",
-            "29%",
-            "14%",
-            "19%"
+            "20%",
+            "25%",
+            "30%",
+            "15%"
           ],
           "opts_hi": [
-            "24%",
-            "29%",
-            "14%",
-            "19%"
+            "20%",
+            "25%",
+            "30%",
+            "15%"
           ],
-          "ans": 3,
+          "ans": 1,
           "subject": "Data Interpretation"
         },
         {
-          "sheetId": "1545",
-          "q": "The ratio of number of years, in which earnings of the company are below the average earning, to those in which the earnings are above the average is:",
-          "q_hi": "उन वर्षों की संख्या का अनुपात, जिनमें कंपनी की आय औसत आय से कम है, उन वर्षों की संख्या से जिनमें आय औसत से अधिक है, है:",
+          "q": "A ration shop distributed wheat (in quintals) over 4 weeks: Week1-80, Week2-95, Week3-70, Week4-105. What was the total wheat distributed over the 4 weeks?",
+          "q_hi": "एक राशन की दुकान ने 4 सप्ताह में गेहूँ (क्विंटल में) इस प्रकार वितरित किया: सप्ताह1-80, सप्ताह2-95, सप्ताह3-70, सप्ताह4-105। 4 सप्ताह में कुल कितना गेहूँ वितरित किया गया?",
           "opts": [
-            "1899-12-30T02:06:00.000Z",
-            "1899-12-30T04:04:00.000Z",
-            "1899-12-30T03:05:00.000Z",
-            "1899-12-30T05:03:00.000Z"
+            "350 quintals",
+            "340 quintals",
+            "360 quintals",
+            "330 quintals"
           ],
           "opts_hi": [
-            "1899-12-30T02:06:00.000Z",
-            "1899-12-30T04:04:00.000Z",
-            "1899-12-30T03:05:00.000Z",
-            "1899-12-30T05:03:00.000Z"
+            "350 क्विंटल",
+            "340 क्विंटल",
+            "360 क्विंटल",
+            "330 क्विंटल"
           ],
-          "ans": 2,
+          "ans": 0,
+          "subject": "Data Interpretation"
+        },
+        {
+          "q": "A district's vaccination centres served the following number of people in a week: Centre A-320, Centre B-410, Centre C-275, Centre D-395. What is the ratio of people served at Centre B to Centre C (approximately)?",
+          "q_hi": "एक जिले के टीकाकरण केंद्रों ने एक सप्ताह में इतने लोगों को सेवा दी: केंद्र A-320, केंद्र B-410, केंद्र C-275, केंद्र D-395। केंद्र B और केंद्र C में सेवा प्राप्त लोगों का अनुपात (लगभग) क्या है?",
+          "opts": [
+            "3:2",
+            "2:1",
+            "5:4",
+            "4:3"
+          ],
+          "opts_hi": [
+            "3:2",
+            "2:1",
+            "5:4",
+            "4:3"
+          ],
+          "ans": 0,
           "subject": "Data Interpretation"
         }
       ]
@@ -33856,16 +33851,16 @@
           "q": "A shopkeeper marks the price of an article 25% above its cost price. He then offers a discount of 10% on the marked price. What is his profit percentage?",
           "q_hi": "एक दुकानदार किसी वस्तु का अंकित मूल्य उसके क्रय मूल्य से 25% अधिक रखता है। वह अंकित मूल्य पर 10% की छूट देता है। उसका लाभ प्रतिशत कितना होगा?",
           "opts": [
-            "12.50%",
-            "15%",
-            "10%",
-            "20%"
+            "0.125",
+            "0.15",
+            "0.1",
+            "0.2"
           ],
           "opts_hi": [
-            "12.50%",
-            "15%",
-            "10%",
-            "20%"
+            "0.125",
+            "0.15",
+            "0.1",
+            "0.2"
           ],
           "ans": 0,
           "subject": "Elementary Arithmetic"
@@ -34768,7 +34763,8 @@
             "₹44,850 करोड़"
           ],
           "ans": 0,
-          "subject": "Data Interpretation"
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_pie_9200_chart.svg"
         },
         {
           "q": "If the total subscription is ₹195,000 crore, what is the combined amount for Public and Banks?",
@@ -34786,7 +34782,8 @@
             "₹72,150 करोड़"
           ],
           "ans": 3,
-          "subject": "Data Interpretation"
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_pie_9200_chart.svg"
         },
         {
           "q": "What is the difference in amount between FII and HNI (in crores) if total is ₹195,000 crore?",
@@ -34804,7 +34801,8 @@
             "₹40,950 करोड़"
           ],
           "ans": 2,
-          "subject": "Data Interpretation"
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_pie_9200_chart.svg"
         },
         {
           "q": "If the total subscription is ₹195,000 crore, what is the amount for the sector with the highest percentage (NRI)?",
@@ -34822,7 +34820,8 @@
             "₹66,300 करोड़"
           ],
           "ans": 2,
-          "subject": "Data Interpretation"
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_pie_9200_chart.svg"
         },
         {
           "q": "If the total subscription is ₹195,000 crore, what is the amount for the sector with the lowest percentage (HNI)?",
@@ -34840,7 +34839,8 @@
             "₹9,750 करोड़"
           ],
           "ans": 3,
-          "subject": "Data Interpretation"
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_pie_9200_chart.svg"
         },
         {
           "q": "If the total subscription is ₹110,000 crore, what is the amount for Insurance?",
@@ -34858,7 +34858,8 @@
             "₹77,000 करोड़"
           ],
           "ans": 1,
-          "subject": "Data Interpretation"
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_pie_9201_chart.svg"
         },
         {
           "q": "If the total subscription is ₹110,000 crore, what is the combined amount for Insurance and Pension Funds?",
@@ -34876,7 +34877,8 @@
             "₹85,800 करोड़"
           ],
           "ans": 2,
-          "subject": "Data Interpretation"
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_pie_9201_chart.svg"
         },
         {
           "q": "What is the difference in amount between HNI and Mutual Funds (in crores) if total is ₹110,000 crore?",
@@ -34894,7 +34896,8 @@
             "₹15,400 करोड़"
           ],
           "ans": 1,
-          "subject": "Data Interpretation"
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_pie_9201_chart.svg"
         },
         {
           "q": "If the total subscription is ₹110,000 crore, what is the amount for the sector with the highest percentage (Insurance)?",
@@ -34912,7 +34915,8 @@
             "₹71,500 करोड़"
           ],
           "ans": 3,
-          "subject": "Data Interpretation"
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_pie_9201_chart.svg"
         },
         {
           "q": "If the total subscription is ₹110,000 crore, what is the amount for the sector with the lowest percentage (HNI)?",
@@ -34930,7 +34934,8 @@
             "₹5,500 करोड़"
           ],
           "ans": 3,
-          "subject": "Data Interpretation"
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_pie_9201_chart.svg"
         },
         {
           "q": "If the total subscription is ₹90,000 crore, what is the amount for NRI?",
@@ -34948,7 +34953,8 @@
             "₹37,800 करोड़"
           ],
           "ans": 1,
-          "subject": "Data Interpretation"
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_pie_9202_chart.svg"
         },
         {
           "q": "If the total subscription is ₹90,000 crore, what is the combined amount for NRI and Insurance?",
@@ -34966,7 +34972,8 @@
             "₹37,800 करोड़"
           ],
           "ans": 3,
-          "subject": "Data Interpretation"
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_pie_9202_chart.svg"
         },
         {
           "q": "What is the difference in amount between Banks and Public (in crores) if total is ₹90,000 crore?",
@@ -34984,7 +34991,8 @@
             "₹27,900 करोड़"
           ],
           "ans": 3,
-          "subject": "Data Interpretation"
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_pie_9202_chart.svg"
         },
         {
           "q": "If the total subscription is ₹90,000 crore, what is the amount for the sector with the highest percentage (NRI)?",
@@ -35002,7 +35010,8 @@
             "₹33,300 करोड़"
           ],
           "ans": 3,
-          "subject": "Data Interpretation"
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_pie_9202_chart.svg"
         },
         {
           "q": "If the total subscription is ₹90,000 crore, what is the amount for the sector with the lowest percentage (Insurance)?",
@@ -35020,7 +35029,8 @@
             "₹9,000 करोड़"
           ],
           "ans": 2,
-          "subject": "Data Interpretation"
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_pie_9202_chart.svg"
         },
         {
           "q": "If the total subscription is ₹60,000 crore, what is the amount for FII?",
@@ -35038,7 +35048,8 @@
             "₹6,600 करोड़"
           ],
           "ans": 1,
-          "subject": "Data Interpretation"
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_pie_9203_chart.svg"
         },
         {
           "q": "If the total subscription is ₹60,000 crore, what is the combined amount for FII and Companies?",
@@ -35056,7 +35067,8 @@
             "₹16,800 करोड़"
           ],
           "ans": 2,
-          "subject": "Data Interpretation"
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_pie_9203_chart.svg"
         },
         {
           "q": "What is the difference in amount between Public and Mutual Funds (in crores) if total is ₹60,000 crore?",
@@ -35074,7 +35086,8 @@
             "₹6,600 करोड़"
           ],
           "ans": 1,
-          "subject": "Data Interpretation"
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_pie_9203_chart.svg"
         },
         {
           "q": "If the total subscription is ₹60,000 crore, what is the amount for the sector with the highest percentage (Banks)?",
@@ -35092,7 +35105,8 @@
             "₹44,400 करोड़"
           ],
           "ans": 2,
-          "subject": "Data Interpretation"
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_pie_9203_chart.svg"
         },
         {
           "q": "If the total subscription is ₹60,000 crore, what is the amount for the sector with the lowest percentage (Mutual Funds)?",
@@ -35110,7 +35124,8 @@
             "₹3,600 करोड़"
           ],
           "ans": 3,
-          "subject": "Data Interpretation"
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_pie_9203_chart.svg"
         }
       ]
     },
