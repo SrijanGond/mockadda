@@ -33856,16 +33856,16 @@
           "q": "A shopkeeper marks the price of an article 25% above its cost price. He then offers a discount of 10% on the marked price. What is his profit percentage?",
           "q_hi": "एक दुकानदार किसी वस्तु का अंकित मूल्य उसके क्रय मूल्य से 25% अधिक रखता है। वह अंकित मूल्य पर 10% की छूट देता है। उसका लाभ प्रतिशत कितना होगा?",
           "opts": [
-            "0.125",
-            "0.15",
-            "0.1",
-            "0.2"
+            "12.50%",
+            "15%",
+            "10%",
+            "20%"
           ],
           "opts_hi": [
-            "0.125",
-            "0.15",
-            "0.1",
-            "0.2"
+            "12.50%",
+            "15%",
+            "10%",
+            "20%"
           ],
           "ans": 0,
           "subject": "Elementary Arithmetic"
@@ -34768,8 +34768,7 @@
             "₹44,850 करोड़"
           ],
           "ans": 0,
-          "subject": "Data Interpretation",
-          "img": "/question-images/di/di_pie_9200_chart.svg"
+          "subject": "Data Interpretation"
         },
         {
           "q": "If the total subscription is ₹195,000 crore, what is the combined amount for Public and Banks?",
@@ -34787,8 +34786,7 @@
             "₹72,150 करोड़"
           ],
           "ans": 3,
-          "subject": "Data Interpretation",
-          "img": "/question-images/di/di_pie_9200_chart.svg"
+          "subject": "Data Interpretation"
         },
         {
           "q": "What is the difference in amount between FII and HNI (in crores) if total is ₹195,000 crore?",
@@ -34806,8 +34804,7 @@
             "₹40,950 करोड़"
           ],
           "ans": 2,
-          "subject": "Data Interpretation",
-          "img": "/question-images/di/di_pie_9200_chart.svg"
+          "subject": "Data Interpretation"
         },
         {
           "q": "If the total subscription is ₹195,000 crore, what is the amount for the sector with the highest percentage (NRI)?",
@@ -34825,8 +34822,7 @@
             "₹66,300 करोड़"
           ],
           "ans": 2,
-          "subject": "Data Interpretation",
-          "img": "/question-images/di/di_pie_9200_chart.svg"
+          "subject": "Data Interpretation"
         },
         {
           "q": "If the total subscription is ₹195,000 crore, what is the amount for the sector with the lowest percentage (HNI)?",
@@ -34844,8 +34840,7 @@
             "₹9,750 करोड़"
           ],
           "ans": 3,
-          "subject": "Data Interpretation",
-          "img": "/question-images/di/di_pie_9200_chart.svg"
+          "subject": "Data Interpretation"
         },
         {
           "q": "If the total subscription is ₹110,000 crore, what is the amount for Insurance?",
@@ -34863,8 +34858,7 @@
             "₹77,000 करोड़"
           ],
           "ans": 1,
-          "subject": "Data Interpretation",
-          "img": "/question-images/di/di_pie_9201_chart.svg"
+          "subject": "Data Interpretation"
         },
         {
           "q": "If the total subscription is ₹110,000 crore, what is the combined amount for Insurance and Pension Funds?",
@@ -34882,8 +34876,7 @@
             "₹85,800 करोड़"
           ],
           "ans": 2,
-          "subject": "Data Interpretation",
-          "img": "/question-images/di/di_pie_9201_chart.svg"
+          "subject": "Data Interpretation"
         },
         {
           "q": "What is the difference in amount between HNI and Mutual Funds (in crores) if total is ₹110,000 crore?",
@@ -34901,8 +34894,7 @@
             "₹15,400 करोड़"
           ],
           "ans": 1,
-          "subject": "Data Interpretation",
-          "img": "/question-images/di/di_pie_9201_chart.svg"
+          "subject": "Data Interpretation"
         },
         {
           "q": "If the total subscription is ₹110,000 crore, what is the amount for the sector with the highest percentage (Insurance)?",
@@ -34920,8 +34912,7 @@
             "₹71,500 करोड़"
           ],
           "ans": 3,
-          "subject": "Data Interpretation",
-          "img": "/question-images/di/di_pie_9201_chart.svg"
+          "subject": "Data Interpretation"
         },
         {
           "q": "If the total subscription is ₹110,000 crore, what is the amount for the sector with the lowest percentage (HNI)?",
@@ -34939,8 +34930,7 @@
             "₹5,500 करोड़"
           ],
           "ans": 3,
-          "subject": "Data Interpretation",
-          "img": "/question-images/di/di_pie_9201_chart.svg"
+          "subject": "Data Interpretation"
         },
         {
           "q": "If the total subscription is ₹90,000 crore, what is the amount for NRI?",
@@ -34958,8 +34948,7 @@
             "₹37,800 करोड़"
           ],
           "ans": 1,
-          "subject": "Data Interpretation",
-          "img": "/question-images/di/di_pie_9202_chart.svg"
+          "subject": "Data Interpretation"
         },
         {
           "q": "If the total subscription is ₹90,000 crore, what is the combined amount for NRI and Insurance?",
@@ -34977,8 +34966,7 @@
             "₹37,800 करोड़"
           ],
           "ans": 3,
-          "subject": "Data Interpretation",
-          "img": "/question-images/di/di_pie_9202_chart.svg"
+          "subject": "Data Interpretation"
         },
         {
           "q": "What is the difference in amount between Banks and Public (in crores) if total is ₹90,000 crore?",
@@ -34996,8 +34984,7 @@
             "₹27,900 करोड़"
           ],
           "ans": 3,
-          "subject": "Data Interpretation",
-          "img": "/question-images/di/di_pie_9202_chart.svg"
+          "subject": "Data Interpretation"
         },
         {
           "q": "If the total subscription is ₹90,000 crore, what is the amount for the sector with the highest percentage (NRI)?",
@@ -35015,8 +35002,7 @@
             "₹33,300 करोड़"
           ],
           "ans": 3,
-          "subject": "Data Interpretation",
-          "img": "/question-images/di/di_pie_9202_chart.svg"
+          "subject": "Data Interpretation"
         },
         {
           "q": "If the total subscription is ₹90,000 crore, what is the amount for the sector with the lowest percentage (Insurance)?",
@@ -35034,8 +35020,7 @@
             "₹9,000 करोड़"
           ],
           "ans": 2,
-          "subject": "Data Interpretation",
-          "img": "/question-images/di/di_pie_9202_chart.svg"
+          "subject": "Data Interpretation"
         },
         {
           "q": "If the total subscription is ₹60,000 crore, what is the amount for FII?",
@@ -35053,8 +35038,7 @@
             "₹6,600 करोड़"
           ],
           "ans": 1,
-          "subject": "Data Interpretation",
-          "img": "/question-images/di/di_pie_9203_chart.svg"
+          "subject": "Data Interpretation"
         },
         {
           "q": "If the total subscription is ₹60,000 crore, what is the combined amount for FII and Companies?",
@@ -35072,8 +35056,7 @@
             "₹16,800 करोड़"
           ],
           "ans": 2,
-          "subject": "Data Interpretation",
-          "img": "/question-images/di/di_pie_9203_chart.svg"
+          "subject": "Data Interpretation"
         },
         {
           "q": "What is the difference in amount between Public and Mutual Funds (in crores) if total is ₹60,000 crore?",
@@ -35091,8 +35074,7 @@
             "₹6,600 करोड़"
           ],
           "ans": 1,
-          "subject": "Data Interpretation",
-          "img": "/question-images/di/di_pie_9203_chart.svg"
+          "subject": "Data Interpretation"
         },
         {
           "q": "If the total subscription is ₹60,000 crore, what is the amount for the sector with the highest percentage (Banks)?",
@@ -35110,8 +35092,7 @@
             "₹44,400 करोड़"
           ],
           "ans": 2,
-          "subject": "Data Interpretation",
-          "img": "/question-images/di/di_pie_9203_chart.svg"
+          "subject": "Data Interpretation"
         },
         {
           "q": "If the total subscription is ₹60,000 crore, what is the amount for the sector with the lowest percentage (Mutual Funds)?",
@@ -35129,8 +35110,1837 @@
             "₹3,600 करोड़"
           ],
           "ans": 3,
+          "subject": "Data Interpretation"
+        }
+      ]
+    },
+    {
+      "id": "upsssc_pet_17",
+      "title": "UPSSSC PET Full Mock Test 17 (Preliminary Eligibility Test)",
+      "duration": 120,
+      "difficulty": "Medium",
+      "correctMarks": 1,
+      "negativeMarks": 0.5,
+      "questions": [
+        {
+          "q": "Which rock edict of Ashoka mentions the names of five contemporary Hellenistic kings to whom he sent Dhamma envoys?",
+          "q_hi": "अशोक के किस शिलालेख में पाँच समकालीन यूनानी राजाओं के नाम उल्लेखित हैं, जिनके पास उसने धम्म दूत भेजे थे?",
+          "opts": [
+            "Rock Edict II",
+            "Rock Edict XIII",
+            "Rock Edict X",
+            "Rock Edict VII"
+          ],
+          "opts_hi": [
+            "शिलालेख II",
+            "शिलालेख XIII",
+            "शिलालेख X",
+            "शिलालेख VII"
+          ],
+          "ans": 1,
+          "subject": "India History"
+        },
+        {
+          "q": "The saint-poet Kabir was a disciple of which Bhakti saint?",
+          "q_hi": "संत-कवि कबीर किस भक्ति संत के शिष्य थे?",
+          "opts": [
+            "Ramananda",
+            "Ramanuja",
+            "Vallabhacharya",
+            "Namdev"
+          ],
+          "opts_hi": [
+            "रामानंद",
+            "रामानुज",
+            "वल्लभाचार्य",
+            "नामदेव"
+          ],
+          "ans": 0,
+          "subject": "India History"
+        },
+        {
+          "q": "The Great Bath, one of the most remarkable structures of the Indus Valley Civilisation, was discovered at which site?",
+          "q_hi": "सिंधु घाटी सभ्यता की सबसे उल्लेखनीय संरचनाओं में से एक 'महान स्नानागार' (ग्रेट बाथ) किस स्थल पर खोजा गया था?",
+          "opts": [
+            "Harappa",
+            "Lothal",
+            "Mohenjo-daro",
+            "Kalibangan"
+          ],
+          "opts_hi": [
+            "हड़प्पा",
+            "लोथल",
+            "मोहनजोदड़ो",
+            "कालीबंगा"
+          ],
+          "ans": 2,
+          "subject": "India History"
+        },
+        {
+          "q": "The famous 'Poorna Swaraj' resolution was passed at which session of the Indian National Congress?",
+          "q_hi": "प्रसिद्ध 'पूर्ण स्वराज' प्रस्ताव भारतीय राष्ट्रीय कांग्रेस के किस अधिवेशन में पारित किया गया था?",
+          "opts": [
+            "Lahore Session, 1929",
+            "Calcutta Session, 1928",
+            "Karachi Session, 1931",
+            "Lucknow Session, 1936"
+          ],
+          "opts_hi": [
+            "लाहौर अधिवेशन, 1929",
+            "कलकत्ता अधिवेशन, 1928",
+            "कराची अधिवेशन, 1931",
+            "लखनऊ अधिवेशन, 1936"
+          ],
+          "ans": 0,
+          "subject": "India History"
+        },
+        {
+          "q": "Which Mughal emperor abolished the discriminatory 'Jizya' tax on non-Muslims, which was later reimposed by Aurangzeb?",
+          "q_hi": "किस मुगल सम्राट ने गैर-मुसलमानों पर लगने वाले भेदभावपूर्ण 'जजिया' कर को समाप्त किया था, जिसे बाद में औरंगजेब ने पुनः लागू किया?",
+          "opts": [
+            "Humayun",
+            "Jahangir",
+            "Akbar",
+            "Shah Jahan"
+          ],
+          "opts_hi": [
+            "हुमायूँ",
+            "जहाँगीर",
+            "अकबर",
+            "शाहजहाँ"
+          ],
+          "ans": 2,
+          "subject": "India History"
+        },
+        {
+          "q": "At which session of the Indian National Congress was the Non-Cooperation Movement formally launched in 1920?",
+          "q_hi": "1920 में भारतीय राष्ट्रीय कांग्रेस के किस अधिवेशन में असहयोग आंदोलन को औपचारिक रूप से प्रारंभ किया गया था?",
+          "opts": [
+            "Surat Session, 1907",
+            "Nagpur Session, 1920",
+            "Calcutta Session, 1920",
+            "Lahore Session, 1929"
+          ],
+          "opts_hi": [
+            "सूरत अधिवेशन, 1907",
+            "नागपुर अधिवेशन, 1920",
+            "कलकत्ता अधिवेशन, 1920",
+            "लाहौर अधिवेशन, 1929"
+          ],
+          "ans": 2,
+          "subject": "Indian National Movement"
+        },
+        {
+          "q": "Mahatma Gandhi started the famous Dandi March on 12 March 1930 from which place?",
+          "q_hi": "महात्मा गांधी ने 12 मार्च 1930 को प्रसिद्ध दांडी मार्च किस स्थान से प्रारंभ किया था?",
+          "opts": [
+            "Wardha",
+            "Porbandar",
+            "Sabarmati Ashram",
+            "Bardoli"
+          ],
+          "opts_hi": [
+            "वर्धा",
+            "पोरबंदर",
+            "साबरमती आश्रम",
+            "बारडोली"
+          ],
+          "ans": 2,
+          "subject": "Indian National Movement"
+        },
+        {
+          "q": "The slogan 'Do or Die' was given by Mahatma Gandhi in connection with which movement?",
+          "q_hi": "करो या मरो' का नारा महात्मा गांधी ने किस आंदोलन के संदर्भ में दिया था?",
+          "opts": [
+            "Khilafat Movement",
+            "Non-Cooperation Movement",
+            "Civil Disobedience Movement",
+            "Quit India Movement"
+          ],
+          "opts_hi": [
+            "खिलाफत आंदोलन",
+            "असहयोग आंदोलन",
+            "सविनय अवज्ञा आंदोलन",
+            "भारत छोड़ो आंदोलन"
+          ],
+          "ans": 3,
+          "subject": "Indian National Movement"
+        },
+        {
+          "q": "Who among the following presided over the first session of the Indian National Congress held in 1885?",
+          "q_hi": "1885 में आयोजित भारतीय राष्ट्रीय कांग्रेस के प्रथम अधिवेशन की अध्यक्षता निम्नलिखित में से किसने की थी?",
+          "opts": [
+            "Dadabhai Naoroji",
+            "Bal Gangadhar Tilak",
+            "Womesh Chandra Bonnerjee",
+            "Gopal Krishna Gokhale"
+          ],
+          "opts_hi": [
+            "दादाभाई नौरोजी",
+            "बाल गंगाधर तिलक",
+            "व्योमेशचन्द्र बनर्जी",
+            "गोपाल कृष्ण गोखले"
+          ],
+          "ans": 2,
+          "subject": "Indian National Movement"
+        },
+        {
+          "q": "The Kakori Train Robbery of 1925 was organized primarily by which revolutionary organization?",
+          "q_hi": "1925 की काकोरी ट्रेन डकैती मुख्य रूप से किस क्रांतिकारी संगठन द्वारा आयोजित की गई थी?",
+          "opts": [
+            "Anushilan Samiti",
+            "Hindustan Republican Association",
+            "Abhinav Bharat Society",
+            "India House"
+          ],
+          "opts_hi": [
+            "अनुशीलन समिति",
+            "हिंदुस्तान रिपब्लिकन एसोसिएशन",
+            "अभिनव भारत सोसायटी",
+            "इंडिया हाउस"
+          ],
+          "ans": 1,
+          "subject": "Indian National Movement"
+        },
+        {
+          "q": "The Chambal River is a tributary of which major river system?",
+          "q_hi": "चम्बल नदी किस प्रमुख नदी की सहायक नदी है?",
+          "opts": [
+            "Ganga",
+            "Yamuna",
+            "Son",
+            "Betwa"
+          ],
+          "opts_hi": [
+            "गंगा",
+            "यमुना",
+            "सोन",
+            "बेतवा"
+          ],
+          "ans": 1,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which type of soil is known as 'Regur' and is most suitable for cotton cultivation?",
+          "q_hi": "किस प्रकार की मिट्टी को 'रेगुर' कहा जाता है और यह कपास की खेती के लिए सबसे उपयुक्त है?",
+          "opts": [
+            "Alluvial soil",
+            "Red soil",
+            "Black soil",
+            "Laterite soil"
+          ],
+          "opts_hi": [
+            "जलोढ़ मिट्टी",
+            "लाल मिट्टी",
+            "काली मिट्टी",
+            "लेटराइट मिट्टी"
+          ],
+          "ans": 2,
+          "subject": "Geography"
+        },
+        {
+          "q": "The Nathu La pass, which serves as an important trade route between India and China, is located in which Indian state?",
+          "q_hi": "नाथू ला दर्रा, जो भारत और चीन के बीच एक महत्वपूर्ण व्यापार मार्ग है, किस भारतीय राज्य में स्थित है?",
+          "opts": [
+            "Arunachal Pradesh",
+            "Himachal Pradesh",
+            "Uttarakhand",
+            "Sikkim"
+          ],
+          "opts_hi": [
+            "अरुणाचल प्रदेश",
+            "हिमाचल प्रदेश",
+            "उत्तराखंड",
+            "सिक्किम"
+          ],
+          "ans": 3,
+          "subject": "Geography"
+        },
+        {
+          "q": "The 'Mango Showers' that occur in Kerala and Karnataka during the pre-monsoon season are caused by which phenomenon?",
+          "q_hi": "आम्र वर्षा' (मैंगो शावर्स) जो मानसून पूर्व मौसम में केरल और कर्नाटक में होती है, किस घटना के कारण होती है?",
+          "opts": [
+            "Western disturbances",
+            "Retreating monsoon",
+            "Local convectional thunderstorms",
+            "Bay of Bengal cyclones"
+          ],
+          "opts_hi": [
+            "पश्चिमी विक्षोभ",
+            "लौटता मानसून",
+            "स्थानीय संवहनी तड़ित झंझावात",
+            "बंगाल की खाड़ी के चक्रवात"
+          ],
+          "ans": 2,
+          "subject": "Geography"
+        },
+        {
+          "q": "The Sundarbans mangrove forest, the largest mangrove ecosystem in the world, is primarily shared between India and which other country?",
+          "q_hi": "सुंदरबन मैंग्रोव वन, जो विश्व का सबसे बड़ा मैंग्रोव पारिस्थितिकी तंत्र है, मुख्यतः भारत और किस अन्य देश के बीच स्थित है?",
+          "opts": [
+            "Myanmar",
+            "Sri Lanka",
+            "Bangladesh",
+            "Nepal"
+          ],
+          "opts_hi": [
+            "म्यांमार",
+            "श्रीलंका",
+            "बांग्लादेश",
+            "नेपाल"
+          ],
+          "ans": 2,
+          "subject": "Geography"
+        },
+        {
+          "q": "If the Gross Domestic Product (GDP) of a country is Rs. 500 crore and Net Factor Income from Abroad (NFIA) is Rs. 25 crore, what will be its Gross National Product (GNP)?",
+          "q_hi": "यदि किसी देश का सकल घरेलू उत्पाद (GDP) 500 करोड़ रुपये है और विदेश से शुद्ध कारक आय (NFIA) 25 करोड़ रुपये है, तो उसका सकल राष्ट्रीय उत्पाद (GNP) क्या होगा?",
+          "opts": [
+            "Rs. 475 crore",
+            "Rs. 525 crore",
+            "Rs. 500 crore",
+            "Rs. 550 crore"
+          ],
+          "opts_hi": [
+            "475 करोड़ रुपये",
+            "525 करोड़ रुपये",
+            "500 करोड़ रुपये",
+            "550 करोड़ रुपये"
+          ],
+          "ans": 1,
+          "subject": "Indian Economy"
+        },
+        {
+          "q": "Which Five Year Plan in India gave the highest priority to the development of heavy industries and was largely based on the Mahalanobis model?",
+          "q_hi": "भारत में किस पंचवर्षीय योजना में भारी उद्योगों के विकास को सर्वोच्च प्राथमिकता दी गई और यह मुख्यतः महालनोबिस मॉडल पर आधारित थी?",
+          "opts": [
+            "First Plan (1951-56)",
+            "Third Plan (1961-66)",
+            "Second Plan (1956-61)",
+            "Fourth Plan (1969-74)"
+          ],
+          "opts_hi": [
+            "प्रथम योजना (1951-56)",
+            "तृतीय योजना (1961-66)",
+            "द्वितीय योजना (1956-61)",
+            "चतुर्थ योजना (1969-74)"
+          ],
+          "ans": 2,
+          "subject": "Indian Economy"
+        },
+        {
+          "q": "The Reserve Bank of India was nationalised in which year?",
+          "q_hi": "भारतीय रिज़र्व बैंक का राष्ट्रीयकरण किस वर्ष किया गया था?",
+          "opts": [
+            "1935",
+            "1949",
+            "1955",
+            "1969"
+          ],
+          "opts_hi": [
+            "1935",
+            "1949",
+            "1955",
+            "1969"
+          ],
+          "ans": 1,
+          "subject": "Indian Economy"
+        },
+        {
+          "q": "Which type of unemployment is commonly found in India's agricultural sector, where workers appear employed but their marginal productivity is zero or negligible?",
+          "q_hi": "भारत के कृषि क्षेत्र में किस प्रकार की बेरोजगारी सामान्यतः पाई जाती है, जिसमें श्रमिक कार्यरत प्रतीत होते हैं लेकिन उनकी सीमांत उत्पादकता शून्य या नगण्य होती है?",
+          "opts": [
+            "Cyclical unemployment",
+            "Frictional unemployment",
+            "Structural unemployment",
+            "Disguised unemployment"
+          ],
+          "opts_hi": [
+            "चक्रीय बेरोजगारी",
+            "घर्षणात्मक बेरोजगारी",
+            "संरचनात्मक बेरोजगारी",
+            "प्रच्छन्न बेरोजगारी"
+          ],
+          "ans": 3,
+          "subject": "Indian Economy"
+        },
+        {
+          "q": "Under the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA), a rural household is legally guaranteed a minimum of how many days of unskilled wage employment in a financial year?",
+          "q_hi": "महात्मा गांधी राष्ट्रीय ग्रामीण रोजगार गारंटी अधिनियम (MGNREGA) के अंतर्गत एक ग्रामीण परिवार को एक वित्तीय वर्ष में न्यूनतम कितने दिनों के अकुशल मजदूरी रोजगार की कानूनी गारंटी दी गई है?",
+          "opts": [
+            "50 days",
+            "150 days",
+            "100 days",
+            "200 days"
+          ],
+          "opts_hi": [
+            "50 दिन",
+            "150 दिन",
+            "100 दिन",
+            "200 दिन"
+          ],
+          "ans": 2,
+          "subject": "Indian Economy"
+        },
+        {
+          "q": "Under which Article of the Indian Constitution is the Right to Constitutional Remedies guaranteed, which Dr. B.R. Ambedkar called the 'heart and soul' of the Constitution?",
+          "q_hi": "भारतीय संविधान के किस अनुच्छेद के अंतर्गत संवैधानिक उपचारों का अधिकार प्रदान किया गया है, जिसे डॉ. बी.आर. अम्बेडकर ने संविधान की 'आत्मा' कहा था?",
+          "opts": [
+            "Article 30",
+            "Article 32",
+            "Article 35",
+            "Article 226"
+          ],
+          "opts_hi": [
+            "अनुच्छेद 30",
+            "अनुच्छेद 32",
+            "अनुच्छेद 35",
+            "अनुच्छेद 226"
+          ],
+          "ans": 1,
+          "subject": "Indian Constitution & Public Administration"
+        },
+        {
+          "q": "The Directive Principles of State Policy (DPSP) are contained in which Part of the Indian Constitution?",
+          "q_hi": "राज्य के नीति निदेशक तत्व (DPSP) भारतीय संविधान के किस भाग में समाविष्ट हैं?",
+          "opts": [
+            "Part III",
+            "Part IV",
+            "Part IVA",
+            "Part V"
+          ],
+          "opts_hi": [
+            "भाग III",
+            "भाग IV",
+            "भाग IVA",
+            "भाग V"
+          ],
+          "ans": 1,
+          "subject": "Indian Constitution & Public Administration"
+        },
+        {
+          "q": "By which Constitutional Amendment Act were the Fundamental Duties of Indian citizens added to the Constitution?",
+          "q_hi": "किस संविधान संशोधन अधिनियम द्वारा भारतीय नागरिकों के मूल कर्तव्यों को संविधान में जोड़ा गया?",
+          "opts": [
+            "42nd Amendment, 1976",
+            "44th Amendment, 1978",
+            "52nd Amendment, 1985",
+            "61st Amendment, 1988"
+          ],
+          "opts_hi": [
+            "42वाँ संशोधन, 1976",
+            "44वाँ संशोधन, 1978",
+            "52वाँ संशोधन, 1985",
+            "61वाँ संशोधन, 1988"
+          ],
+          "ans": 0,
+          "subject": "Indian Constitution & Public Administration"
+        },
+        {
+          "q": "A Money Bill introduced in the Parliament of India can be introduced only in which House?",
+          "q_hi": "भारत की संसद में धन विधेयक केवल किस सदन में प्रस्तुत किया जा सकता है?",
+          "opts": [
+            "Rajya Sabha",
+            "Either House",
+            "Lok Sabha",
+            "Joint Session"
+          ],
+          "opts_hi": [
+            "राज्यसभा",
+            "किसी भी सदन में",
+            "लोकसभा",
+            "संयुक्त बैठक"
+          ],
+          "ans": 2,
+          "subject": "Indian Constitution & Public Administration"
+        },
+        {
+          "q": "Which Constitutional Amendment Act gave constitutional status to the Panchayati Raj institutions in India?",
+          "q_hi": "किस संविधान संशोधन अधिनियम ने भारत में पंचायती राज संस्थाओं को संवैधानिक दर्जा प्रदान किया?",
+          "opts": [
+            "70th Amendment, 1992",
+            "73rd Amendment, 1992",
+            "74th Amendment, 1992",
+            "76th Amendment, 1994"
+          ],
+          "opts_hi": [
+            "70वाँ संशोधन, 1992",
+            "73वाँ संशोधन, 1992",
+            "74वाँ संशोधन, 1992",
+            "76वाँ संशोधन, 1994"
+          ],
+          "ans": 1,
+          "subject": "Indian Constitution & Public Administration"
+        },
+        {
+          "q": "Which organ in the human body is responsible for producing bile juice that helps in the digestion of fats?",
+          "q_hi": "मानव शरीर में कौन सा अंग पित्त रस (बाइल जूस) का उत्पादन करता है, जो वसा के पाचन में सहायता करता है?",
+          "opts": [
+            "Pancreas",
+            "Liver",
+            "Gallbladder",
+            "Small intestine"
+          ],
+          "opts_hi": [
+            "अग्न्याशय",
+            "यकृत (लीवर)",
+            "पित्ताशय",
+            "छोटी आंत"
+          ],
+          "ans": 1,
+          "subject": "General Science"
+        },
+        {
+          "q": "Which gas is released when dilute hydrochloric acid reacts with zinc metal?",
+          "q_hi": "जब तनु हाइड्रोक्लोरिक अम्ल जिंक धातु के साथ अभिक्रिया करता है, तो कौन सी गैस निकलती है?",
+          "opts": [
+            "Oxygen",
+            "Chlorine",
+            "Hydrogen",
+            "Carbon dioxide"
+          ],
+          "opts_hi": [
+            "ऑक्सीजन",
+            "क्लोरीन",
+            "हाइड्रोजन",
+            "कार्बन डाइऑक्साइड"
+          ],
+          "ans": 2,
+          "subject": "General Science"
+        },
+        {
+          "q": "A car travels at a uniform speed of 60 km/h. How much distance (in km) will it cover in 45 minutes?",
+          "q_hi": "एक कार 60 km/h की एकसमान गति से चलती है। वह 45 मिनट में कितनी दूरी (km में) तय करेगी?",
+          "opts": [
+            "40 km",
+            "50 km",
+            "45 km",
+            "30 km"
+          ],
+          "opts_hi": [
+            "40 km",
+            "50 km",
+            "45 km",
+            "30 km"
+          ],
+          "ans": 2,
+          "subject": "General Science"
+        },
+        {
+          "q": "Which part of the plant is responsible for absorbing water and minerals from the soil?",
+          "q_hi": "पौधे का कौन सा भाग मिट्टी से पानी और खनिज लवण अवशोषित करने के लिए उत्तरदायी होता है?",
+          "opts": [
+            "Leaves",
+            "Stem",
+            "Root hair",
+            "Stomata"
+          ],
+          "opts_hi": [
+            "पत्तियाँ",
+            "तना",
+            "मूल रोम",
+            "रंध्र (स्टोमेटा)"
+          ],
+          "ans": 2,
+          "subject": "General Science"
+        },
+        {
+          "q": "The chemical formula of baking soda, commonly used in cooking, is:",
+          "q_hi": "खाना पकाने में आमतौर पर उपयोग होने वाले बेकिंग सोडा का रासायनिक सूत्र है:",
+          "opts": [
+            "Na2CO3",
+            "NaHCO3",
+            "NaCl",
+            "NaOH"
+          ],
+          "opts_hi": [
+            "Na2CO3",
+            "NaHCO3",
+            "NaCl",
+            "NaOH"
+          ],
+          "ans": 1,
+          "subject": "General Science"
+        },
+        {
+          "q": "A shopkeeper marks the price of an article 40% above its cost price and then gives a discount of 25% on the marked price. What is his profit or loss percentage?",
+          "q_hi": "एक दुकानदार किसी वस्तु का अंकित मूल्य उसके क्रय मूल्य से 40% अधिक रखता है और फिर अंकित मूल्य पर 25% की छूट देता है। उसका लाभ या हानि प्रतिशत क्या है?",
+          "opts": [
+            "5% Profit",
+            "5% Loss",
+            "10% Profit",
+            "15% Loss"
+          ],
+          "opts_hi": [
+            "5% लाभ",
+            "5% हानि",
+            "10% लाभ",
+            "15% हानि"
+          ],
+          "ans": 0,
+          "subject": "Elementary Arithmetic"
+        },
+        {
+          "q": "A sum of money doubles itself at simple interest in 8 years. In how many years will it become four times itself at the same rate of interest?",
+          "q_hi": "साधारण ब्याज पर कोई राशि 8 वर्षों में दोगुनी हो जाती है। उसी ब्याज दर पर वह राशि कितने वर्षों में चार गुनी हो जाएगी?",
+          "opts": [
+            "16 years",
+            "20 years",
+            "24 years",
+            "32 years"
+          ],
+          "opts_hi": [
+            "16 वर्ष",
+            "20 वर्ष",
+            "24 वर्ष",
+            "32 वर्ष"
+          ],
+          "ans": 2,
+          "subject": "Elementary Arithmetic"
+        },
+        {
+          "q": "Two numbers are in the ratio 3 : 5. If 6 is added to each number, the ratio becomes 2 : 3. What is the smaller of the two numbers?",
+          "q_hi": "दो संख्याओं का अनुपात 3 : 5 है। यदि प्रत्येक संख्या में 6 जोड़ दिया जाए तो अनुपात 2 : 3 हो जाता है। दोनों संख्याओं में से छोटी संख्या कौन सी है?",
+          "opts": [
+            "18",
+            "24",
+            "30",
+            "36"
+          ],
+          "opts_hi": [
+            "18",
+            "24",
+            "30",
+            "36"
+          ],
+          "ans": 0,
+          "subject": "Elementary Arithmetic"
+        },
+        {
+          "q": "A can complete a piece of work in 12 days and B can complete the same work in 18 days. They work together for 4 days, after which A leaves. In how many more days will B alone finish the remaining work?",
+          "q_hi": "A किसी कार्य को 12 दिनों में और B उसी कार्य को 18 दिनों में पूरा कर सकता है। वे 4 दिन साथ काम करते हैं, जिसके बाद A काम छोड़ देता है। शेष कार्य B अकेले कितने और दिनों में पूरा करेगा?",
+          "opts": [
+            "6 days",
+            "8 days",
+            "10 days",
+            "12 days"
+          ],
+          "opts_hi": [
+            "6 दिन",
+            "8 दिन",
+            "10 दिन",
+            "12 दिन"
+          ],
+          "ans": 1,
+          "subject": "Elementary Arithmetic"
+        },
+        {
+          "q": "The average of 5 consecutive odd numbers is 41. What is the largest of these five numbers?",
+          "q_hi": "5 क्रमागत विषम संख्याओं का औसत 41 है। इन पाँच संख्याओं में सबसे बड़ी संख्या कौन सी है?",
+          "opts": [
+            "43",
+            "45",
+            "47",
+            "49"
+          ],
+          "opts_hi": [
+            "43",
+            "45",
+            "47",
+            "49"
+          ],
+          "ans": 1,
+          "subject": "Elementary Arithmetic"
+        },
+        {
+          "q": "निम्नलिखित में से 'महेश' शब्द का सही संधि विच्छेद कौन-सा है?",
+          "q_hi": "",
+          "opts": [
+            "महा + ईश",
+            "मह + ईश",
+            "महा + इश",
+            "महि + ईश"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 0,
+          "subject": "General Hindi"
+        },
+        {
+          "q": "आँखें चुराना' मुहावरे का सही अर्थ क्या है?",
+          "q_hi": "",
+          "opts": [
+            "जानबूझकर सामना न करना",
+            "आँखों में दर्द होना",
+            "किसी को ध्यान से देखना",
+            "चोरी करते पकड़े जाना"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 0,
+          "subject": "General Hindi"
+        },
+        {
+          "q": "कृपण' शब्द का सही विलोम शब्द कौन-सा है?",
+          "q_hi": "",
+          "opts": [
+            "दानी",
+            "निर्धन",
+            "उदार",
+            "धनी"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 2,
+          "subject": "General Hindi"
+        },
+        {
+          "q": "निम्नलिखित वाक्यों में से शुद्ध वाक्य कौन-सा है?",
+          "q_hi": "",
+          "opts": [
+            "मुझे प्यास लग रही है।",
+            "मुझको प्यास लग रहा है।",
+            "मुझे प्यास लग रहा है।",
+            "मैंने प्यास लग रही है।"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 0,
+          "subject": "General Hindi"
+        },
+        {
+          "q": "नदी' शब्द का पर्यायवाची निम्नलिखित में से कौन-सा नहीं है?",
+          "q_hi": "",
+          "opts": [
+            "तटिनी",
+            "सरिता",
+            "वाहिनी",
+            "पयोधि"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 3,
+          "subject": "General Hindi"
+        },
+        {
+          "q": "Choose the word most similar in meaning to the word 'BENEVOLENT'.",
+          "q_hi": "",
+          "opts": [
+            "Malicious",
+            "Charitable",
+            "Indifferent",
+            "Cunning"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "General English"
+        },
+        {
+          "q": "Choose the word most opposite in meaning to the word 'FRUGAL'.",
+          "q_hi": "",
+          "opts": [
+            "Thrifty",
+            "Cautious",
+            "Extravagant",
+            "Humble"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 2,
+          "subject": "General English"
+        },
+        {
+          "q": "Choose the correct option to fill in the blank: She has been waiting for the bus ______ two hours.",
+          "q_hi": "",
+          "opts": [
+            "since",
+            "for",
+            "from",
+            "by"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "General English"
+        },
+        {
+          "q": "Choose the one word that best substitutes the following phrase: 'A person who is unable to pay his debts'.",
+          "q_hi": "",
+          "opts": [
+            "Philanthropist",
+            "Insolvent",
+            "Litigant",
+            "Introvert"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "General English"
+        },
+        {
+          "q": "What is the correct meaning of the idiom 'To burn the midnight oil'?",
+          "q_hi": "",
+          "opts": [
+            "To waste resources carelessly",
+            "To work or study late into the night",
+            "To destroy something completely",
+            "To cause unnecessary trouble"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "General English"
+        },
+        {
+          "q": "In a certain code language, 'MANGO' is written as 'NBOHP'. Using the same logic, how will 'GRAPE' be written in that code?",
+          "q_hi": "किसी कूट भाषा में 'MANGO' को 'NBOHP' लिखा जाता है। उसी नियम के अनुसार 'GRAPE' को उस कूट भाषा में कैसे लिखा जाएगा?",
+          "opts": [
+            "HSBQF",
+            "HSAQF",
+            "ITBRF",
+            "GRABF"
+          ],
+          "opts_hi": [
+            "HSBQF",
+            "HSAQF",
+            "ITBRF",
+            "GRABF"
+          ],
+          "ans": 0,
+          "subject": "Logic & Reasoning"
+        },
+        {
+          "q": "Pointing to a photograph, Sunita says, 'The person in this photo is the only son of the father of my brother's sister.' How is the person in the photograph related to Sunita?",
+          "q_hi": "एक तस्वीर की ओर इशारा करते हुए सुनीता कहती है, 'इस तस्वीर में जो व्यक्ति है, वह मेरे भाई की बहन के पिता का इकलौता बेटा है।' तस्वीर में दिखने वाला व्यक्ति सुनीता से किस प्रकार संबंधित है?",
+          "opts": [
+            "Uncle",
+            "Brother",
+            "Father",
+            "Cousin"
+          ],
+          "opts_hi": [
+            "चाचा",
+            "भाई",
+            "पिता",
+            "चचेरा भाई"
+          ],
+          "ans": 1,
+          "subject": "Logic & Reasoning"
+        },
+        {
+          "q": "Ramesh starts from his house and walks 8 km towards the North. He then turns right and walks 6 km. After that, he turns right again and walks 8 km. How far is he from his house, and in which direction?",
+          "q_hi": "रमेश अपने घर से उत्तर दिशा में 8 किमी चलता है। फिर वह दाएँ मुड़कर 6 किमी चलता है। उसके बाद वह फिर दाएँ मुड़कर 8 किमी चलता है। वह अपने घर से कितनी दूर और किस दिशा में है?",
+          "opts": [
+            "6 km, West",
+            "8 km, East",
+            "6 km, East",
+            "10 km, South"
+          ],
+          "opts_hi": [
+            "6 किमी, पश्चिम",
+            "8 किमी, पूर्व",
+            "6 किमी, पूर्व",
+            "10 किमी, दक्षिण"
+          ],
+          "ans": 2,
+          "subject": "Logic & Reasoning"
+        },
+        {
+          "q": "Statements: All pens are pencils. Some pencils are erasers. Conclusions: (I) Some pens are erasers. (II) Some erasers are pencils. Which of the following is correct?",
+          "q_hi": "कथन: सभी कलम पेंसिल हैं। कुछ पेंसिल रबर हैं। निष्कर्ष: (I) कुछ कलम रबर हैं। (II) कुछ रबर पेंसिल हैं। निम्नलिखित में से कौन-सा सही है?",
+          "opts": [
+            "Only Conclusion I follows",
+            "Only Conclusion II follows",
+            "Both Conclusions I and II follow",
+            "Neither Conclusion follows"
+          ],
+          "opts_hi": [
+            "केवल निष्कर्ष I अनुसरण करता है",
+            "केवल निष्कर्ष II अनुसरण करता है",
+            "निष्कर्ष I और II दोनों अनुसरण करते हैं",
+            "न तो निष्कर्ष I और न ही II अनुसरण करता है"
+          ],
+          "ans": 1,
+          "subject": "Logic & Reasoning"
+        },
+        {
+          "q": "Find the missing number in the following series: 4, 9, 20, 43, 90, ?",
+          "q_hi": "निम्नलिखित श्रृंखला में लुप्त संख्या ज्ञात कीजिए: 4, 9, 20, 43, 90, ?",
+          "opts": [
+            "163",
+            "175",
+            "183",
+            "185"
+          ],
+          "opts_hi": [
+            "163",
+            "175",
+            "183",
+            "185"
+          ],
+          "ans": 2,
+          "subject": "Logic & Reasoning"
+        },
+        {
+          "q": "Under the Pradhan Mantri Awas Yojana (Urban), the 'Housing for All' mission was initially targeted to be completed by which year?",
+          "q_hi": "प्रधानमंत्री आवास योजना (शहरी) के अंतर्गत 'सबके लिए आवास' मिशन को प्रारंभ में किस वर्ष तक पूरा करने का लक्ष्य रखा गया था?",
+          "opts": [
+            "2019",
+            "2022",
+            "2024",
+            "2025"
+          ],
+          "opts_hi": [
+            "2019",
+            "2022",
+            "2024",
+            "2025"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "The National Institution for Transforming India (NITI Aayog) replaced which body in January 2015?",
+          "q_hi": "राष्ट्रीय भारत परिवर्तन संस्था (नीति आयोग) ने जनवरी 2015 में किस संस्था का स्थान लिया?",
+          "opts": [
+            "Finance Commission",
+            "Planning Commission",
+            "Election Commission",
+            "Law Commission"
+          ],
+          "opts_hi": [
+            "वित्त आयोग",
+            "योजना आयोग",
+            "चुनाव आयोग",
+            "विधि आयोग"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Which Indian shooter won a gold medal at the Tokyo 2020 Olympics, becoming the first Indian to win an Olympic gold in shooting?",
+          "q_hi": "किस भारतीय निशानेबाज ने टोक्यो 2020 ओलंपिक में स्वर्ण पदक जीता और शूटिंग में ओलंपिक स्वर्ण जीतने वाले पहले भारतीय बने?",
+          "opts": [
+            "Abhinav Bindra",
+            "Gagan Narang",
+            "Manu Bhaker",
+            "Saurabh Chaudhary"
+          ],
+          "opts_hi": [
+            "अभिनव बिंद्रा",
+            "गगन नारंग",
+            "मनु भाकर",
+            "सौरभ चौधरी"
+          ],
+          "ans": 0,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "The 'Jal Jeevan Mission' launched by the Government of India aims to provide tap water connections to every rural household by which year?",
+          "q_hi": "भारत सरकार द्वारा शुरू किए गए 'जल जीवन मिशन' का लक्ष्य किस वर्ष तक प्रत्येक ग्रामीण घर को नल जल कनेक्शन प्रदान करना है?",
+          "opts": [
+            "2022",
+            "2023",
+            "2024",
+            "2025"
+          ],
+          "opts_hi": [
+            "2022",
+            "2023",
+            "2024",
+            "2025"
+          ],
+          "ans": 2,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "India's first indigenous aircraft carrier, INS Vikrant, was commissioned into the Indian Navy in which year?",
+          "q_hi": "भारत का पहला स्वदेशी विमानवाहक पोत INS विक्रांत किस वर्ष भारतीय नौसेना में कमीशन किया गया?",
+          "opts": [
+            "2020",
+            "2021",
+            "2022",
+            "2023"
+          ],
+          "opts_hi": [
+            "2020",
+            "2021",
+            "2022",
+            "2023"
+          ],
+          "ans": 2,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "The Bharat Ratna award, India's highest civilian honour, can be awarded to a maximum of how many persons in a single year?",
+          "q_hi": "भारत रत्न पुरस्कार, जो भारत का सर्वोच्च नागरिक सम्मान है, एक वर्ष में अधिकतम कितने व्यक्तियों को दिया जा सकता है?",
+          "opts": [
+            "Two",
+            "Three",
+            "Four",
+            "Five"
+          ],
+          "opts_hi": [
+            "दो",
+            "तीन",
+            "चार",
+            "पाँच"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "India became a permanent member of the Shanghai Cooperation Organisation (SCO) in which year?",
+          "q_hi": "भारत किस वर्ष शंघाई सहयोग संगठन (SCO) का स्थायी सदस्य बना?",
+          "opts": [
+            "2015",
+            "2016",
+            "2017",
+            "2018"
+          ],
+          "opts_hi": [
+            "2015",
+            "2016",
+            "2017",
+            "2018"
+          ],
+          "ans": 2,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Under India's Nationally Determined Contributions (NDCs), India has committed to achieving about 50% of its cumulative electric power installed capacity from non-fossil fuel based sources by which year?",
+          "q_hi": "भारत के राष्ट्रीय स्तर पर निर्धारित योगदान (NDC) के तहत, भारत ने किस वर्ष तक अपनी संचयी विद्युत शक्ति स्थापित क्षमता का लगभग 50% गैर-जीवाश्म ईंधन स्रोतों से प्राप्त करने की प्रतिबद्धता जताई है?",
+          "opts": [
+            "2030",
+            "2035",
+            "2040",
+            "2047"
+          ],
+          "opts_hi": [
+            "2030",
+            "2035",
+            "2040",
+            "2047"
+          ],
+          "ans": 0,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Chandrayaan-3, India's third lunar mission, successfully landed on the Moon's south polar region in which month and year?",
+          "q_hi": "भारत का तीसरा चंद्र मिशन चंद्रयान-3 किस महीने और वर्ष में चंद्रमा के दक्षिण ध्रुवीय क्षेत्र पर सफलतापूर्वक उतरा?",
+          "opts": [
+            "2023-07-01 00:00:00",
+            "2023-08-01 00:00:00",
+            "2023-09-01 00:00:00",
+            "2023-10-01 00:00:00"
+          ],
+          "opts_hi": [
+            "जुलाई 2023",
+            "अगस्त 2023",
+            "सितंबर 2023",
+            "अक्टूबर 2023"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "The Unified Payments Interface (UPI) is regulated and managed by which organisation in India?",
+          "q_hi": "भारत में यूनिफाइड पेमेंट्स इंटरफेस (UPI) को कौन सी संस्था नियंत्रित और प्रबंधित करती है?",
+          "opts": [
+            "Reserve Bank of India",
+            "National Payments Corporation of India",
+            "State Bank of India",
+            "Ministry of Finance"
+          ],
+          "opts_hi": [
+            "भारतीय रिजर्व बैंक",
+            "भारतीय राष्ट्रीय भुगतान निगम",
+            "भारतीय स्टेट बैंक",
+            "वित्त मंत्रालय"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "The 'Doctrine of Lapse' was introduced during the Governor-Generalship of which of the following?",
+          "q_hi": "व्यपगत का सिद्धांत' (Doctrine of Lapse) निम्नलिखित में से किस गवर्नर-जनरल के कार्यकाल में लागू किया गया था?",
+          "opts": [
+            "Lord Wellesley",
+            "Lord Dalhousie",
+            "Lord Canning",
+            "Lord Cornwallis"
+          ],
+          "opts_hi": [
+            "लॉर्ड वेलेजली",
+            "लॉर्ड डलहौजी",
+            "लॉर्ड कैनिंग",
+            "लॉर्ड कार्नवालिस"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which river forms the boundary between the states of Uttar Pradesh and Madhya Pradesh for a significant stretch?",
+          "q_hi": "कौन सी नदी उत्तर प्रदेश और मध्य प्रदेश राज्यों के बीच एक महत्वपूर्ण भाग में सीमा बनाती है?",
+          "opts": [
+            "Chambal",
+            "Betwa",
+            "Ken",
+            "Tons"
+          ],
+          "opts_hi": [
+            "चंबल",
+            "बेतवा",
+            "केन",
+            "टोंस"
+          ],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which Article of the Indian Constitution deals with the Right to Constitutional Remedies?",
+          "q_hi": "भारतीय संविधान का कौन सा अनुच्छेद संवैधानिक उपचारों के अधिकार से संबंधित है?",
+          "opts": [
+            "Article 19",
+            "Article 21",
+            "Article 32",
+            "Article 44"
+          ],
+          "opts_hi": [
+            "अनुच्छेद 19",
+            "अनुच्छेद 21",
+            "अनुच्छेद 32",
+            "अनुच्छेद 44"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which Five-Year Plan in India adopted the 'Growth with Social Justice and Equity' as its main objective?",
+          "q_hi": "भारत की किस पंचवर्षीय योजना ने 'सामाजिक न्याय और समानता के साथ विकास' को अपना मुख्य उद्देश्य बनाया?",
+          "opts": [
+            "Seventh Plan",
+            "Eighth Plan",
+            "Ninth Plan",
+            "Tenth Plan"
+          ],
+          "opts_hi": [
+            "सातवीं योजना",
+            "आठवीं योजना",
+            "नौवीं योजना",
+            "दसवीं योजना"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which organ of the human body produces the hormone 'Insulin'?",
+          "q_hi": "मानव शरीर का कौन सा अंग 'इंसुलिन' हार्मोन का उत्पादन करता है?",
+          "opts": [
+            "Liver",
+            "Kidney",
+            "Pancreas",
+            "Thyroid gland"
+          ],
+          "opts_hi": [
+            "यकृत",
+            "गुर्दा",
+            "अग्न्याशय",
+            "थायरॉइड ग्रंथि"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The famous 'Dudhwa National Park' is located in which district of Uttar Pradesh?",
+          "q_hi": "प्रसिद्ध 'दुधवा राष्ट्रीय उद्यान' उत्तर प्रदेश के किस जिले में स्थित है?",
+          "opts": [
+            "Bahraich",
+            "Lakhimpur Kheri",
+            "Pilibhit",
+            "Sonbhadra"
+          ],
+          "opts_hi": [
+            "बहराइच",
+            "लखीमपुर खीरी",
+            "पीलीभीत",
+            "सोनभद्र"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The famous medieval poet Amir Khusrau was associated with the court of which Delhi Sultan?",
+          "q_hi": "प्रसिद्ध मध्यकालीन कवि अमीर खुसरो किस दिल्ली सुल्तान के दरबार से जुड़े थे?",
+          "opts": [
+            "Iltutmish",
+            "Balban",
+            "Alauddin Khalji",
+            "Muhammad bin Tughluq"
+          ],
+          "opts_hi": [
+            "इल्तुतमिश",
+            "बलबन",
+            "अलाउद्दीन खिलजी",
+            "मुहम्मद बिन तुगलक"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The phenomenon responsible for the blue colour of the sky is:",
+          "q_hi": "आकाश के नीले रंग के लिए उत्तरदायी घटना है:",
+          "opts": [
+            "Reflection of light",
+            "Refraction of light",
+            "Scattering of light",
+            "Total internal reflection"
+          ],
+          "opts_hi": [
+            "प्रकाश का परावर्तन",
+            "प्रकाश का अपवर्तन",
+            "प्रकाश का प्रकीर्णन",
+            "पूर्ण आंतरिक परावर्तन"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "At which session of the Indian National Congress was the famous 'Poorna Swaraj' (Complete Independence) resolution passed?",
+          "q_hi": "भारतीय राष्ट्रीय कांग्रेस के किस अधिवेशन में प्रसिद्ध 'पूर्ण स्वराज' (पूर्ण स्वतंत्रता) का प्रस्ताव पारित किया गया था?",
+          "opts": [
+            "Calcutta Session, 1928",
+            "Lahore Session, 1929",
+            "Karachi Session, 1931",
+            "Lucknow Session, 1936"
+          ],
+          "opts_hi": [
+            "कलकत्ता अधिवेशन, 1928",
+            "लाहौर अधिवेशन, 1929",
+            "कराची अधिवेशन, 1931",
+            "लखनऊ अधिवेशन, 1936"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The 'Dhanwantari Award' given in India is associated with which field?",
+          "q_hi": "भारत में दिया जाने वाला 'धन्वंतरि पुरस्कार' किस क्षेत्र से संबंधित है?",
+          "opts": [
+            "Literature",
+            "Medicine",
+            "Agriculture",
+            "Classical Dance"
+          ],
+          "opts_hi": [
+            "साहित्य",
+            "चिकित्सा",
+            "कृषि",
+            "शास्त्रीय नृत्य"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "निम्नलिखित गद्यांश को पढ़कर पूछे गए प्रश्नों के उत्तर दीजिए:  आज के युग में पर्यावरण प्रदूषण एक गंभीर समस्या बन चुका है। नदियों का जल दूषित हो रहा है, वायुमंडल में हानिकारक गैसों की मात्रा बढ़ती जा रही है और वनों की अंधाधुंध कटाई से भूमि बंजर होती जा रही है। औद्योगीकरण और शहरीकरण की दौड़ में मनुष्य यह भूल गया है कि प्रकृति का संतुलन बिगड़ने पर उसके दुष्परिणाम स्वयं मनुष्य को ही भोगने पड़ते हैं। कारखानों से निकलने वाला धुआँ और रसायन युक्त जल नदियों में छोड़ा जाता है, जिससे जलीय जीव भी संकट में पड़ गए हैं। वनों की कटाई के कारण वर्षा का चक्र अनियमित हो गया है। बाढ़ और सूखे जैसी प्राकृतिक आपदाएँ पहले से अधिक विनाशकारी होती जा रही हैं। इस समस्या का समाधान केवल सरकार के भरोसे नहीं छोड़ा जा सकता; प्रत्येक नागरिक को अपनी जिम्मेदारी समझनी होगी। वृक्षारोपण, जल संरक्षण और ऊर्जा की बचत जैसे छोटे-छोटे प्रयासों से ही पर्यावरण को बचाया जा सकता है। यदि समय रहते सचेत नहीं हुए तो आने वाली पीढ़ियों को एक प्रदूषित और असंतुलित पृथ्वी विरासत में मिलेगी।  Q: उपर्युक्त गद्यांश का उचित शीर्षक क्या होगा?",
+          "q_hi": "",
+          "opts": [
+            "औद्योगीकरण के लाभ",
+            "पर्यावरण प्रदूषण: एक गंभीर समस्या",
+            "नदियों का महत्त्व",
+            "वर्षा और कृषि"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "Analysis of Hindi Unread Passage (2 Passages)"
+        },
+        {
+          "q": "निम्नलिखित गद्यांश को पढ़कर पूछे गए प्रश्नों के उत्तर दीजिए:  आज के युग में पर्यावरण प्रदूषण एक गंभीर समस्या बन चुका है। नदियों का जल दूषित हो रहा है, वायुमंडल में हानिकारक गैसों की मात्रा बढ़ती जा रही है और वनों की अंधाधुंध कटाई से भूमि बंजर होती जा रही है। औद्योगीकरण और शहरीकरण की दौड़ में मनुष्य यह भूल गया है कि प्रकृति का संतुलन बिगड़ने पर उसके दुष्परिणाम स्वयं मनुष्य को ही भोगने पड़ते हैं। कारखानों से निकलने वाला धुआँ और रसायन युक्त जल नदियों में छोड़ा जाता है, जिससे जलीय जीव भी संकट में पड़ गए हैं। वनों की कटाई के कारण वर्षा का चक्र अनियमित हो गया है। बाढ़ और सूखे जैसी प्राकृतिक आपदाएँ पहले से अधिक विनाशकारी होती जा रही हैं। इस समस्या का समाधान केवल सरकार के भरोसे नहीं छोड़ा जा सकता; प्रत्येक नागरिक को अपनी जिम्मेदारी समझनी होगी। वृक्षारोपण, जल संरक्षण और ऊर्जा की बचत जैसे छोटे-छोटे प्रयासों से ही पर्यावरण को बचाया जा सकता है। यदि समय रहते सचेत नहीं हुए तो आने वाली पीढ़ियों को एक प्रदूषित और असंतुलित पृथ्वी विरासत में मिलेगी।  Q: गद्यांश के अनुसार वनों की कटाई का क्या प्रभाव पड़ा है?",
+          "q_hi": "",
+          "opts": [
+            "जलीय जीव संकट में पड़ गए हैं",
+            "वायुमंडल में ऑक्सीजन बढ़ी है",
+            "वर्षा का चक्र अनियमित हो गया है",
+            "कारखानों की संख्या घटी है"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 2,
+          "subject": "Analysis of Hindi Unread Passage (2 Passages)"
+        },
+        {
+          "q": "निम्नलिखित गद्यांश को पढ़कर पूछे गए प्रश्नों के उत्तर दीजिए:  आज के युग में पर्यावरण प्रदूषण एक गंभीर समस्या बन चुका है। नदियों का जल दूषित हो रहा है, वायुमंडल में हानिकारक गैसों की मात्रा बढ़ती जा रही है और वनों की अंधाधुंध कटाई से भूमि बंजर होती जा रही है। औद्योगीकरण और शहरीकरण की दौड़ में मनुष्य यह भूल गया है कि प्रकृति का संतुलन बिगड़ने पर उसके दुष्परिणाम स्वयं मनुष्य को ही भोगने पड़ते हैं। कारखानों से निकलने वाला धुआँ और रसायन युक्त जल नदियों में छोड़ा जाता है, जिससे जलीय जीव भी संकट में पड़ गए हैं। वनों की कटाई के कारण वर्षा का चक्र अनियमित हो गया है। बाढ़ और सूखे जैसी प्राकृतिक आपदाएँ पहले से अधिक विनाशकारी होती जा रही हैं। इस समस्या का समाधान केवल सरकार के भरोसे नहीं छोड़ा जा सकता; प्रत्येक नागरिक को अपनी जिम्मेदारी समझनी होगी। वृक्षारोपण, जल संरक्षण और ऊर्जा की बचत जैसे छोटे-छोटे प्रयासों से ही पर्यावरण को बचाया जा सकता है। यदि समय रहते सचेत नहीं हुए तो आने वाली पीढ़ियों को एक प्रदूषित और असंतुलित पृथ्वी विरासत में मिलेगी।  Q: गद्यांश से यह निष्कर्ष निकाला जा सकता है कि —",
+          "q_hi": "",
+          "opts": [
+            "प्रदूषण केवल शहरों की समस्या है",
+            "पर्यावरण रक्षा में नागरिकों की भूमिका आवश्यक है",
+            "सरकार ही पर्यावरण बचा सकती है",
+            "औद्योगीकरण पूरी तरह बंद कर देना चाहिए"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "Analysis of Hindi Unread Passage (2 Passages)"
+        },
+        {
+          "q": "निम्नलिखित गद्यांश को पढ़कर पूछे गए प्रश्नों के उत्तर दीजिए:  आज के युग में पर्यावरण प्रदूषण एक गंभीर समस्या बन चुका है। नदियों का जल दूषित हो रहा है, वायुमंडल में हानिकारक गैसों की मात्रा बढ़ती जा रही है और वनों की अंधाधुंध कटाई से भूमि बंजर होती जा रही है। औद्योगीकरण और शहरीकरण की दौड़ में मनुष्य यह भूल गया है कि प्रकृति का संतुलन बिगड़ने पर उसके दुष्परिणाम स्वयं मनुष्य को ही भोगने पड़ते हैं। कारखानों से निकलने वाला धुआँ और रसायन युक्त जल नदियों में छोड़ा जाता है, जिससे जलीय जीव भी संकट में पड़ गए हैं। वनों की कटाई के कारण वर्षा का चक्र अनियमित हो गया है। बाढ़ और सूखे जैसी प्राकृतिक आपदाएँ पहले से अधिक विनाशकारी होती जा रही हैं। इस समस्या का समाधान केवल सरकार के भरोसे नहीं छोड़ा जा सकता; प्रत्येक नागरिक को अपनी जिम्मेदारी समझनी होगी। वृक्षारोपण, जल संरक्षण और ऊर्जा की बचत जैसे छोटे-छोटे प्रयासों से ही पर्यावरण को बचाया जा सकता है। यदि समय रहते सचेत नहीं हुए तो आने वाली पीढ़ियों को एक प्रदूषित और असंतुलित पृथ्वी विरासत में मिलेगी।  Q: गद्यांश में प्रयुक्त शब्द 'अंधाधुंध' का सबसे उचित अर्थ है —",
+          "q_hi": "",
+          "opts": [
+            "बहुत धीरे-धीरे",
+            "सोच-समझकर",
+            "बिना सोचे-समझे, बेतहाशा",
+            "नियमित रूप से"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 2,
+          "subject": "Analysis of Hindi Unread Passage (2 Passages)"
+        },
+        {
+          "q": "निम्नलिखित गद्यांश को पढ़कर पूछे गए प्रश्नों के उत्तर दीजिए:  आज के युग में पर्यावरण प्रदूषण एक गंभीर समस्या बन चुका है। नदियों का जल दूषित हो रहा है, वायुमंडल में हानिकारक गैसों की मात्रा बढ़ती जा रही है और वनों की अंधाधुंध कटाई से भूमि बंजर होती जा रही है। औद्योगीकरण और शहरीकरण की दौड़ में मनुष्य यह भूल गया है कि प्रकृति का संतुलन बिगड़ने पर उसके दुष्परिणाम स्वयं मनुष्य को ही भोगने पड़ते हैं। कारखानों से निकलने वाला धुआँ और रसायन युक्त जल नदियों में छोड़ा जाता है, जिससे जलीय जीव भी संकट में पड़ गए हैं। वनों की कटाई के कारण वर्षा का चक्र अनियमित हो गया है। बाढ़ और सूखे जैसी प्राकृतिक आपदाएँ पहले से अधिक विनाशकारी होती जा रही हैं। इस समस्या का समाधान केवल सरकार के भरोसे नहीं छोड़ा जा सकता; प्रत्येक नागरिक को अपनी जिम्मेदारी समझनी होगी। वृक्षारोपण, जल संरक्षण और ऊर्जा की बचत जैसे छोटे-छोटे प्रयासों से ही पर्यावरण को बचाया जा सकता है। यदि समय रहते सचेत नहीं हुए तो आने वाली पीढ़ियों को एक प्रदूषित और असंतुलित पृथ्वी विरासत में मिलेगी।  Q: उपर्युक्त गद्यांश में लेखक का स्वर (tone) कैसा है?",
+          "q_hi": "",
+          "opts": [
+            "व्यंग्यात्मक एवं हास्यपूर्ण",
+            "चिंतित एवं प्रेरणादायक",
+            "उदासीन एवं तटस्थ",
+            "क्रोधित एवं आक्रामक"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "Analysis of Hindi Unread Passage (2 Passages)"
+        },
+        {
+          "q": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़कर पूछे गए प्रश्नों के उत्तर दीजिए —  वन और पर्यावरण का संबंध अत्यंत गहरा है। वन न केवल वायु को शुद्ध करते हैं, बल्कि मिट्टी के कटाव को भी रोकते हैं। वृक्षों की जड़ें भूमि को बाँधे रखती हैं, जिससे बाढ़ और भूस्खलन जैसी प्राकृतिक आपदाओं का खतरा कम होता है। वन असंख्य जीव-जंतुओं और वनस्पतियों के आश्रयस्थल हैं। परंतु आज मानव की बढ़ती आवश्यकताओं और लालच के कारण वनों की अंधाधुंध कटाई हो रही है। खेती, उद्योग और शहरीकरण के नाम पर प्रतिवर्ष लाखों पेड़ काटे जा रहे हैं। इससे जलवायु परिवर्तन, वर्षा की अनियमितता और जैव विविधता का ह्रास हो रहा है। विशेषज्ञों का मानना है कि यदि वनों की कटाई इसी गति से जारी रही, तो आने वाली पीढ़ियों को भयंकर जल-संकट और पर्यावरण असंतुलन का सामना करना पड़ेगा। अतः वनों का संरक्षण समय की सबसे बड़ी आवश्यकता है। सरकार और समाज दोनों को मिलकर वृक्षारोपण को बढ़ावा देना होगा और वनों की अवैध कटाई पर कठोर रोक लगानी होगी। पर्यावरण की रक्षा करना ही भावी पीढ़ियों के लिए सबसे बड़ी विरासत है।  Q: उपर्युक्त गद्यांश का सबसे उपयुक्त शीर्षक क्या होगा?",
+          "q_hi": "",
+          "opts": [
+            "जीव-जंतुओं का संरक्षण",
+            "वन और पर्यावरण संरक्षण की आवश्यकता",
+            "शहरीकरण की समस्याएँ",
+            "जल-संकट का समाधान"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "Analysis of Hindi Unread Passage (2 Passages)"
+        },
+        {
+          "q": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़कर पूछे गए प्रश्नों के उत्तर दीजिए —  वन और पर्यावरण का संबंध अत्यंत गहरा है। वन न केवल वायु को शुद्ध करते हैं, बल्कि मिट्टी के कटाव को भी रोकते हैं। वृक्षों की जड़ें भूमि को बाँधे रखती हैं, जिससे बाढ़ और भूस्खलन जैसी प्राकृतिक आपदाओं का खतरा कम होता है। वन असंख्य जीव-जंतुओं और वनस्पतियों के आश्रयस्थल हैं। परंतु आज मानव की बढ़ती आवश्यकताओं और लालच के कारण वनों की अंधाधुंध कटाई हो रही है। खेती, उद्योग और शहरीकरण के नाम पर प्रतिवर्ष लाखों पेड़ काटे जा रहे हैं। इससे जलवायु परिवर्तन, वर्षा की अनियमितता और जैव विविधता का ह्रास हो रहा है। विशेषज्ञों का मानना है कि यदि वनों की कटाई इसी गति से जारी रही, तो आने वाली पीढ़ियों को भयंकर जल-संकट और पर्यावरण असंतुलन का सामना करना पड़ेगा। अतः वनों का संरक्षण समय की सबसे बड़ी आवश्यकता है। सरकार और समाज दोनों को मिलकर वृक्षारोपण को बढ़ावा देना होगा और वनों की अवैध कटाई पर कठोर रोक लगानी होगी। पर्यावरण की रक्षा करना ही भावी पीढ़ियों के लिए सबसे बड़ी विरासत है।  Q: गद्यांश के अनुसार वृक्षों की जड़ें किस कार्य में सहायक होती हैं?",
+          "q_hi": "",
+          "opts": [
+            "वर्षा कराने में",
+            "वायु को शुद्ध करने में",
+            "भूमि को बाँधे रखने में",
+            "जीव-जंतुओं को आश्रय देने में"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 2,
+          "subject": "Analysis of Hindi Unread Passage (2 Passages)"
+        },
+        {
+          "q": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़कर पूछे गए प्रश्नों के उत्तर दीजिए —  वन और पर्यावरण का संबंध अत्यंत गहरा है। वन न केवल वायु को शुद्ध करते हैं, बल्कि मिट्टी के कटाव को भी रोकते हैं। वृक्षों की जड़ें भूमि को बाँधे रखती हैं, जिससे बाढ़ और भूस्खलन जैसी प्राकृतिक आपदाओं का खतरा कम होता है। वन असंख्य जीव-जंतुओं और वनस्पतियों के आश्रयस्थल हैं। परंतु आज मानव की बढ़ती आवश्यकताओं और लालच के कारण वनों की अंधाधुंध कटाई हो रही है। खेती, उद्योग और शहरीकरण के नाम पर प्रतिवर्ष लाखों पेड़ काटे जा रहे हैं। इससे जलवायु परिवर्तन, वर्षा की अनियमितता और जैव विविधता का ह्रास हो रहा है। विशेषज्ञों का मानना है कि यदि वनों की कटाई इसी गति से जारी रही, तो आने वाली पीढ़ियों को भयंकर जल-संकट और पर्यावरण असंतुलन का सामना करना पड़ेगा। अतः वनों का संरक्षण समय की सबसे बड़ी आवश्यकता है। सरकार और समाज दोनों को मिलकर वृक्षारोपण को बढ़ावा देना होगा और वनों की अवैध कटाई पर कठोर रोक लगानी होगी। पर्यावरण की रक्षा करना ही भावी पीढ़ियों के लिए सबसे बड़ी विरासत है।  Q: गद्यांश से यह निष्कर्ष निकाला जा सकता है कि वनों की कटाई का सबसे बड़ा कारण क्या है?",
+          "q_hi": "",
+          "opts": [
+            "प्राकृतिक आपदाएँ",
+            "मानव की बढ़ती आवश्यकताएँ और लालच",
+            "सरकारी नीतियों की विफलता",
+            "जीव-जंतुओं का हस्तक्षेप"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "Analysis of Hindi Unread Passage (2 Passages)"
+        },
+        {
+          "q": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़कर पूछे गए प्रश्नों के उत्तर दीजिए —  वन और पर्यावरण का संबंध अत्यंत गहरा है। वन न केवल वायु को शुद्ध करते हैं, बल्कि मिट्टी के कटाव को भी रोकते हैं। वृक्षों की जड़ें भूमि को बाँधे रखती हैं, जिससे बाढ़ और भूस्खलन जैसी प्राकृतिक आपदाओं का खतरा कम होता है। वन असंख्य जीव-जंतुओं और वनस्पतियों के आश्रयस्थल हैं। परंतु आज मानव की बढ़ती आवश्यकताओं और लालच के कारण वनों की अंधाधुंध कटाई हो रही है। खेती, उद्योग और शहरीकरण के नाम पर प्रतिवर्ष लाखों पेड़ काटे जा रहे हैं। इससे जलवायु परिवर्तन, वर्षा की अनियमितता और जैव विविधता का ह्रास हो रहा है। विशेषज्ञों का मानना है कि यदि वनों की कटाई इसी गति से जारी रही, तो आने वाली पीढ़ियों को भयंकर जल-संकट और पर्यावरण असंतुलन का सामना करना पड़ेगा। अतः वनों का संरक्षण समय की सबसे बड़ी आवश्यकता है। सरकार और समाज दोनों को मिलकर वृक्षारोपण को बढ़ावा देना होगा और वनों की अवैध कटाई पर कठोर रोक लगानी होगी। पर्यावरण की रक्षा करना ही भावी पीढ़ियों के लिए सबसे बड़ी विरासत है।  Q: गद्यांश में प्रयुक्त 'ह्रास' शब्द का अर्थ है —",
+          "q_hi": "",
+          "opts": [
+            "वृद्धि",
+            "कमी / पतन",
+            "संरक्षण",
+            "परिवर्तन"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 1,
+          "subject": "Analysis of Hindi Unread Passage (2 Passages)"
+        },
+        {
+          "q": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़कर पूछे गए प्रश्नों के उत्तर दीजिए —  वन और पर्यावरण का संबंध अत्यंत गहरा है। वन न केवल वायु को शुद्ध करते हैं, बल्कि मिट्टी के कटाव को भी रोकते हैं। वृक्षों की जड़ें भूमि को बाँधे रखती हैं, जिससे बाढ़ और भूस्खलन जैसी प्राकृतिक आपदाओं का खतरा कम होता है। वन असंख्य जीव-जंतुओं और वनस्पतियों के आश्रयस्थल हैं। परंतु आज मानव की बढ़ती आवश्यकताओं और लालच के कारण वनों की अंधाधुंध कटाई हो रही है। खेती, उद्योग और शहरीकरण के नाम पर प्रतिवर्ष लाखों पेड़ काटे जा रहे हैं। इससे जलवायु परिवर्तन, वर्षा की अनियमितता और जैव विविधता का ह्रास हो रहा है। विशेषज्ञों का मानना है कि यदि वनों की कटाई इसी गति से जारी रही, तो आने वाली पीढ़ियों को भयंकर जल-संकट और पर्यावरण असंतुलन का सामना करना पड़ेगा। अतः वनों का संरक्षण समय की सबसे बड़ी आवश्यकता है। सरकार और समाज दोनों को मिलकर वृक्षारोपण को बढ़ावा देना होगा और वनों की अवैध कटाई पर कठोर रोक लगानी होगी। पर्यावरण की रक्षा करना ही भावी पीढ़ियों के लिए सबसे बड़ी विरासत है।  Q: इस गद्यांश में लेखक का मुख्य भाव/दृष्टिकोण कैसा है?",
+          "q_hi": "",
+          "opts": [
+            "उदासीन एवं तटस्थ",
+            "व्यंग्यात्मक एवं हास्यपूर्ण",
+            "चिंतित एवं आग्रहपूर्ण",
+            "आशावादी एवं उत्साहपूर्ण"
+          ],
+          "opts_hi": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ans": 2,
+          "subject": "Analysis of Hindi Unread Passage (2 Passages)"
+        },
+        {
+          "q": "The earnings of the company in 1996-97 were approximately what percent of the average earning over the period under review?",
+          "q_hi": "1996-97 में कंपनी की आय समीक्षा अवधि के औसत आय का लगभग कितना प्रतिशत थी?",
+          "opts": [
+            "55.6%",
+            "62.1%",
+            "51.1%",
+            "59.6%"
+          ],
+          "opts_hi": [
+            "55.6%",
+            "62.1%",
+            "51.1%",
+            "59.6%"
+          ],
+          "ans": 3,
           "subject": "Data Interpretation",
-          "img": "/question-images/di/di_pie_9203_chart.svg"
+          "img": "/question-images/di/di_bar_exam_9200_chart.svg"
+        },
+        {
+          "q": "The ratio of number of years, in which earnings of the company are below the average earning, to those in which the earnings are above the average is:",
+          "q_hi": "उन वर्षों की संख्या का अनुपात, जिनमें कंपनी की आय औसत आय से कम है, उन वर्षों की संख्या से जिनमें आय औसत से अधिक है, है:",
+          "opts": [
+            "6:6",
+            "5:1",
+            "4:4",
+            "5:4"
+          ],
+          "opts_hi": [
+            "6:6",
+            "5:1",
+            "4:4",
+            "5:4"
+          ],
+          "ans": 2,
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_bar_exam_9200_chart.svg"
+        },
+        {
+          "q": "The earning of the company in 1997-98 was how many times that in 1994-95?",
+          "q_hi": "1997-98 में कंपनी की आय 1994-95 से कितनी गुना थी?",
+          "opts": [
+            "1.57 times",
+            "1.79 times",
+            "1.45 times",
+            "1.59 times"
+          ],
+          "opts_hi": [
+            "1.57 गुना",
+            "1.79 गुना",
+            "1.45 गुना",
+            "1.59 गुना"
+          ],
+          "ans": 1,
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_bar_exam_9200_chart.svg"
+        },
+        {
+          "q": "What was the percentage change in earning of the company in 1997-98 over 1993-94?",
+          "q_hi": "1997-98 में कंपनी की आय में 1993-94 की तुलना में कितने प्रतिशत का परिवर्तन हुआ था?",
+          "opts": [
+            "11.8%",
+            "13.0%",
+            "11.3%",
+            "8.5%"
+          ],
+          "opts_hi": [
+            "11.8%",
+            "13.0%",
+            "11.3%",
+            "8.5%"
+          ],
+          "ans": 2,
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_bar_exam_9200_chart.svg"
+        },
+        {
+          "q": "What was the approximate percentage change in the earning of the company from 1994-95 to 1995-96?",
+          "q_hi": "1994-95 से 1995-96 तक कंपनी की आय में लगभग कितने प्रतिशत का परिवर्तन हुआ था?",
+          "opts": [
+            "57.9%",
+            "86.0%",
+            "64.4%",
+            "70.0%"
+          ],
+          "opts_hi": [
+            "57.9%",
+            "86.0%",
+            "64.4%",
+            "70.0%"
+          ],
+          "ans": 3,
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_bar_exam_9200_chart.svg"
+        },
+        {
+          "q": "The earnings of the company in 1996-97 were approximately what percent of the average earning over the period under review?",
+          "q_hi": "1996-97 में कंपनी की आय समीक्षा अवधि के औसत आय का लगभग कितना प्रतिशत थी?",
+          "opts": [
+            "139.0%",
+            "138.3%",
+            "145.1%",
+            "139.9%"
+          ],
+          "opts_hi": [
+            "139.0%",
+            "138.3%",
+            "145.1%",
+            "139.9%"
+          ],
+          "ans": 2,
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_bar_exam_9201_chart.svg"
+        },
+        {
+          "q": "The ratio of number of years, in which earnings of the company are below the average earning, to those in which the earnings are above the average is:",
+          "q_hi": "उन वर्षों की संख्या का अनुपात, जिनमें कंपनी की आय औसत आय से कम है, उन वर्षों की संख्या से जिनमें आय औसत से अधिक है, है:",
+          "opts": [
+            "5:3",
+            "4:1",
+            "4:4",
+            "5:1"
+          ],
+          "opts_hi": [
+            "5:3",
+            "4:1",
+            "4:4",
+            "5:1"
+          ],
+          "ans": 2,
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_bar_exam_9201_chart.svg"
+        },
+        {
+          "q": "The earning of the company in 1997-98 was how many times that in 1994-95?",
+          "q_hi": "1997-98 में कंपनी की आय 1994-95 से कितनी गुना थी?",
+          "opts": [
+            "0.65 times",
+            "0.49 times",
+            "0.60 times",
+            "0.53 times"
+          ],
+          "opts_hi": [
+            "0.65 गुना",
+            "0.49 गुना",
+            "0.60 गुना",
+            "0.53 गुना"
+          ],
+          "ans": 2,
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_bar_exam_9201_chart.svg"
+        },
+        {
+          "q": "What was the percentage change in earning of the company in 1997-98 over 1993-94?",
+          "q_hi": "1997-98 में कंपनी की आय में 1993-94 की तुलना में कितने प्रतिशत का परिवर्तन हुआ था?",
+          "opts": [
+            "-67.3%",
+            "-55.6%",
+            "-56.9%",
+            "-53.5%"
+          ],
+          "opts_hi": [
+            "-67.3%",
+            "-55.6%",
+            "-56.9%",
+            "-53.5%"
+          ],
+          "ans": 2,
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_bar_exam_9201_chart.svg"
+        },
+        {
+          "q": "What was the approximate percentage change in the earning of the company from 1994-95 to 1995-96?",
+          "q_hi": "1994-95 से 1995-96 तक कंपनी की आय में लगभग कितने प्रतिशत का परिवर्तन हुआ था?",
+          "opts": [
+            "-71.5%",
+            "-65.9%",
+            "-61.1%",
+            "-72.5%"
+          ],
+          "opts_hi": [
+            "-71.5%",
+            "-65.9%",
+            "-61.1%",
+            "-72.5%"
+          ],
+          "ans": 1,
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_bar_exam_9201_chart.svg"
+        },
+        {
+          "q": "The earnings of the company in 1996-97 were approximately what percent of the average earning over the period under review?",
+          "q_hi": "1996-97 में कंपनी की आय समीक्षा अवधि के औसत आय का लगभग कितना प्रतिशत थी?",
+          "opts": [
+            "85.9%",
+            "80.2%",
+            "87.8%",
+            "86.9%"
+          ],
+          "opts_hi": [
+            "85.9%",
+            "80.2%",
+            "87.8%",
+            "86.9%"
+          ],
+          "ans": 3,
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_bar_exam_9202_chart.svg"
+        },
+        {
+          "q": "The ratio of number of years, in which earnings of the company are below the average earning, to those in which the earnings are above the average is:",
+          "q_hi": "उन वर्षों की संख्या का अनुपात, जिनमें कंपनी की आय औसत आय से कम है, उन वर्षों की संख्या से जिनमें आय औसत से अधिक है, है:",
+          "opts": [
+            "6:3",
+            "5:3",
+            "7:1",
+            "7:7"
+          ],
+          "opts_hi": [
+            "6:3",
+            "5:3",
+            "7:1",
+            "7:7"
+          ],
+          "ans": 1,
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_bar_exam_9202_chart.svg"
+        },
+        {
+          "q": "The earning of the company in 1997-98 was how many times that in 1994-95?",
+          "q_hi": "1997-98 में कंपनी की आय 1994-95 से कितनी गुना थी?",
+          "opts": [
+            "3.05 times",
+            "3.69 times",
+            "3.54 times",
+            "4.30 times"
+          ],
+          "opts_hi": [
+            "3.05 गुना",
+            "3.69 गुना",
+            "3.54 गुना",
+            "4.30 गुना"
+          ],
+          "ans": 1,
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_bar_exam_9202_chart.svg"
+        },
+        {
+          "q": "What was the percentage change in earning of the company in 1997-98 over 1993-94?",
+          "q_hi": "1997-98 में कंपनी की आय में 1993-94 की तुलना में कितने प्रतिशत का परिवर्तन हुआ था?",
+          "opts": [
+            "41.0%",
+            "49.5%",
+            "40.2%",
+            "38.9%"
+          ],
+          "opts_hi": [
+            "41.0%",
+            "49.5%",
+            "40.2%",
+            "38.9%"
+          ],
+          "ans": 0,
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_bar_exam_9202_chart.svg"
+        },
+        {
+          "q": "What was the approximate percentage change in the earning of the company from 1994-95 to 1995-96?",
+          "q_hi": "1994-95 से 1995-96 तक कंपनी की आय में लगभग कितने प्रतिशत का परिवर्तन हुआ था?",
+          "opts": [
+            "536.4%",
+            "602.1%",
+            "546.9%",
+            "602.6%"
+          ],
+          "opts_hi": [
+            "536.4%",
+            "602.1%",
+            "546.9%",
+            "602.6%"
+          ],
+          "ans": 0,
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_bar_exam_9202_chart.svg"
+        },
+        {
+          "q": "The earnings of the company in 1996-97 were approximately what percent of the average earning over the period under review?",
+          "q_hi": "1996-97 में कंपनी की आय समीक्षा अवधि के औसत आय का लगभग कितना प्रतिशत थी?",
+          "opts": [
+            "129.0%",
+            "138.7%",
+            "144.7%",
+            "166.3%"
+          ],
+          "opts_hi": [
+            "129.0%",
+            "138.7%",
+            "144.7%",
+            "166.3%"
+          ],
+          "ans": 2,
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_bar_exam_9203_chart.svg"
+        },
+        {
+          "q": "The ratio of number of years, in which earnings of the company are below the average earning, to those in which the earnings are above the average is:",
+          "q_hi": "उन वर्षों की संख्या का अनुपात, जिनमें कंपनी की आय औसत आय से कम है, उन वर्षों की संख्या से जिनमें आय औसत से अधिक है, है:",
+          "opts": [
+            "2:6",
+            "7:1",
+            "2:7",
+            "4:4"
+          ],
+          "opts_hi": [
+            "2:6",
+            "7:1",
+            "2:7",
+            "4:4"
+          ],
+          "ans": 3,
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_bar_exam_9203_chart.svg"
+        },
+        {
+          "q": "The earning of the company in 1997-98 was how many times that in 1994-95?",
+          "q_hi": "1997-98 में कंपनी की आय 1994-95 से कितनी गुना थी?",
+          "opts": [
+            "0.84 times",
+            "0.88 times",
+            "0.91 times",
+            "0.87 times"
+          ],
+          "opts_hi": [
+            "0.84 गुना",
+            "0.88 गुना",
+            "0.91 गुना",
+            "0.87 गुना"
+          ],
+          "ans": 1,
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_bar_exam_9203_chart.svg"
+        },
+        {
+          "q": "What was the percentage change in earning of the company in 1997-98 over 1993-94?",
+          "q_hi": "1997-98 में कंपनी की आय में 1993-94 की तुलना में कितने प्रतिशत का परिवर्तन हुआ था?",
+          "opts": [
+            "-16.3%",
+            "-13.2%",
+            "-17.8%",
+            "-19.4%"
+          ],
+          "opts_hi": [
+            "-16.3%",
+            "-13.2%",
+            "-17.8%",
+            "-19.4%"
+          ],
+          "ans": 0,
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_bar_exam_9203_chart.svg"
+        },
+        {
+          "q": "What was the approximate percentage change in the earning of the company from 1994-95 to 1995-96?",
+          "q_hi": "1994-95 से 1995-96 तक कंपनी की आय में लगभग कितने प्रतिशत का परिवर्तन हुआ था?",
+          "opts": [
+            "-14.1%",
+            "-16.9%",
+            "-17.5%",
+            "-17.1%"
+          ],
+          "opts_hi": [
+            "-14.1%",
+            "-16.9%",
+            "-17.5%",
+            "-17.1%"
+          ],
+          "ans": 2,
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_bar_exam_9203_chart.svg"
         }
       ]
     }
