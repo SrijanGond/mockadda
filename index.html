@@ -1511,16 +1511,46 @@ function testsScreen(){
     const meta=el('div',{css:'display:flex;gap:18px;margin-bottom:16px;'});
     [['⏱',`${t.duration} min`],['❓',`${qCount(t)} Questions`],['📝','MCQ Format']].forEach(([ic,tx])=>meta.appendChild(el('div',{css:'display:flex;align-items:center;gap:5px;font-size:12px;color:#64748b;'},[el('span',{text:ic}),tx])));
     card.appendChild(meta);
-    const btn=el('button',{css:`width:100%;padding:13px;background:linear-gradient(135deg,${cat.color},${shadeColor(cat.color,-18)});color:#fff;border:none;border-radius:10px;font-family:Syne,sans-serif;font-weight:700;font-size:14px;cursor:pointer;box-shadow:0 3px 10px ${cat.color}4d;`,text:'Start Mock Test →'});
-    btn.addEventListener('click',async()=>{
+    // FIX: Render each test as a real crawlable <a href> instead of a plain
+    // button. Google needs an actual anchor pointing at the mock-test URL,
+    // otherwise it treats each mock-test page as an orphan and refuses to
+    // accept the page's self-referencing canonical — which is what caused
+    // the "Page with redirect" / "Duplicate, Google chose different
+    // canonical" reports. JS still handles the click for the SPA behaviour.
+    const catSlug = S.activeCatKey.replace(/_/g,'-');
+    const examSlug = S.activeExamKey.replace(/_/g,'-');
+    const testUrl = '/' + catSlug + '/' + examSlug + '-mock-test-' + (i+1);
+
+    const btn=el('a',{
+      href:testUrl,
+      css:`display:block;width:100%;padding:13px;background:linear-gradient(135deg,${cat.color},${shadeColor(cat.color,-18)});color:#fff;border:none;border-radius:10px;font-family:Syne,sans-serif;font-weight:700;font-size:14px;cursor:pointer;box-shadow:0 3px 10px ${cat.color}4d;text-align:center;text-decoration:none;box-sizing:border-box;`,
+      text:'Start Mock Test →'
+    });
+    btn.addEventListener('click',async(e)=>{
+      // Allow ctrl/cmd/middle-click to open in a new tab naturally
+      if(e.ctrlKey || e.metaKey || e.shiftKey || e.button===1) return;
+      e.preventDefault();
       if(btn.dataset.loading) return;
       btn.dataset.loading='1';
       btn.textContent='Loading...';btn.style.opacity='0.7';
       try{
         const fullTest=await loadFullTest(S.activeExamKey,t.id,t);
         btn.style.opacity='1';delete btn.dataset.loading;btn.textContent='Start Mock Test →';
+
+        // Sync the URL bar, canonical and title to the mock-test URL the
+        // anchor points at — same state boot() would have produced on a
+        // direct visit. Without this, the exam page canonical stays active
+        // and Google reads the mock test as a duplicate of the exam page.
+        if(location.pathname !== testUrl) history.pushState({}, '', testUrl);
+        setCanonical(testUrl);
+        document.title = exam.name + ' Mock Test ' + (i+1) + ' — Free Practice | MockAdda';
+        const metaDesc = document.querySelector('meta[name="description"]');
+        if(metaDesc) metaDesc.setAttribute('content',
+          'Attempt ' + exam.name + ' Mock Test ' + (i+1) + ' free on MockAdda. ' +
+          'Timed, exam-pattern questions with instant results, answer review, and detailed analysis.');
+
         startQuiz(S.activeCatKey,S.activeExamKey,fullTest);
-      }catch(e){
+      }catch(err){
         btn.textContent='Failed — Tap to Retry';btn.style.opacity='1';delete btn.dataset.loading;
       }
     });
@@ -1554,6 +1584,22 @@ function quizScreen(){
 
   const container=el('div',{class:'qb-container',css:'max-width:1100px;margin:0 auto;padding:16px;'});
   const mainCol=el('div',{class:'qb-main-col'});
+
+  // FIX: Breadcrumb navigation. Real <a href> anchors give Google a clear
+  // structural signal (Home > Category > Exam > This test) and give users
+  // a visible way back. This is one of the internal-link signals Google
+  // uses to decide whether a mock-test page deserves its own index entry.
+  if(S.activeExam && S.activeCatKey && S.activeExamKey){
+    const catSlug = S.activeCatKey.replace(/_/g,'-');
+    const examSlug = S.activeExamKey.replace(/_/g,'-');
+    const bc=el('div',{css:`font-size:11px;color:${CBT.muted};margin-bottom:10px;text-align:center;line-height:1.6;`});
+    bc.appendChild(el('a',{href:'/',css:`color:${CBT.muted};text-decoration:none;`,text:'Home'}));
+    bc.appendChild(document.createTextNode(' › '));
+    bc.appendChild(el('a',{href:'/'+catSlug+'/'+examSlug,css:`color:${CBT.muted};text-decoration:none;`,text:S.activeExam.name}));
+    bc.appendChild(document.createTextNode(' › '));
+    bc.appendChild(el('span',{css:`color:${CBT.text};`,text:test.title}));
+    mainCol.appendChild(bc);
+  }
 
   // Exam title header
   const examHeader=el('div',{css:'text-align:center;margin-bottom:12px;'});
@@ -2760,10 +2806,21 @@ async function boot(){
           S.activeCatKey = mCatKey;
           S.activeExamKey = mExamKey;
           S.activeExam = exam;
-          // NOTE: do NOT call navigateToExam() here. It rewrites the address bar to the exam page and
-          // replaces this page's title/description, so Google's renderer sees every mock-test URL turn
-          // into the same exam page ("Page with redirect" / duplicate). Keep the URL, title and canonical
-          // exactly as served for this mock-test page.
+
+          // FIX: Give each mock-test URL its own self-referencing canonical,
+          // unique title, and unique meta description. Previously the static
+          // <link rel="canonical"> from index.html (which points at the
+          // homepage) stayed in place, and Google treated every mock-test
+          // URL as a duplicate of the homepage or of a sibling mock test.
+          // That is what caused the "Page with redirect" / "Duplicate,
+          // Google chose different canonical" reports in Search Console.
+          setCanonical(path);
+          document.title = exam.name + ' Mock Test ' + mockNumber + ' — Free Practice | MockAdda';
+          const metaDesc = document.querySelector('meta[name="description"]');
+          if(metaDesc) metaDesc.setAttribute('content',
+            'Attempt ' + exam.name + ' Mock Test ' + mockNumber + ' free on MockAdda. ' +
+            'Timed, exam-pattern questions with instant results, answer review, and detailed analysis.');
+
           startQuiz(mCatKey, mExamKey, fullTest);
           return; // Exit boot, quiz starts immediately
         } catch(e) {
