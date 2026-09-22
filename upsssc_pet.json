@@ -33856,16 +33856,16 @@
           "q": "A shopkeeper marks the price of an article 25% above its cost price. He then offers a discount of 10% on the marked price. What is his profit percentage?",
           "q_hi": "एक दुकानदार किसी वस्तु का अंकित मूल्य उसके क्रय मूल्य से 25% अधिक रखता है। वह अंकित मूल्य पर 10% की छूट देता है। उसका लाभ प्रतिशत कितना होगा?",
           "opts": [
-            "12.50%",
-            "15%",
-            "10%",
-            "20%"
+            "0.125",
+            "0.15",
+            "0.1",
+            "0.2"
           ],
           "opts_hi": [
-            "12.50%",
-            "15%",
-            "10%",
-            "20%"
+            "0.125",
+            "0.15",
+            "0.1",
+            "0.2"
           ],
           "ans": 0,
           "subject": "Elementary Arithmetic"
@@ -34768,7 +34768,8 @@
             "₹44,850 करोड़"
           ],
           "ans": 0,
-          "subject": "Data Interpretation"
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_pie_9200_chart.svg"
         },
         {
           "q": "If the total subscription is ₹195,000 crore, what is the combined amount for Public and Banks?",
@@ -34786,7 +34787,8 @@
             "₹72,150 करोड़"
           ],
           "ans": 3,
-          "subject": "Data Interpretation"
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_pie_9200_chart.svg"
         },
         {
           "q": "What is the difference in amount between FII and HNI (in crores) if total is ₹195,000 crore?",
@@ -34804,7 +34806,8 @@
             "₹40,950 करोड़"
           ],
           "ans": 2,
-          "subject": "Data Interpretation"
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_pie_9200_chart.svg"
         },
         {
           "q": "If the total subscription is ₹195,000 crore, what is the amount for the sector with the highest percentage (NRI)?",
@@ -34822,7 +34825,8 @@
             "₹66,300 करोड़"
           ],
           "ans": 2,
-          "subject": "Data Interpretation"
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_pie_9200_chart.svg"
         },
         {
           "q": "If the total subscription is ₹195,000 crore, what is the amount for the sector with the lowest percentage (HNI)?",
@@ -34840,7 +34844,8 @@
             "₹9,750 करोड़"
           ],
           "ans": 3,
-          "subject": "Data Interpretation"
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_pie_9200_chart.svg"
         },
         {
           "q": "If the total subscription is ₹110,000 crore, what is the amount for Insurance?",
@@ -34858,7 +34863,8 @@
             "₹77,000 करोड़"
           ],
           "ans": 1,
-          "subject": "Data Interpretation"
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_pie_9201_chart.svg"
         },
         {
           "q": "If the total subscription is ₹110,000 crore, what is the combined amount for Insurance and Pension Funds?",
@@ -34876,7 +34882,8 @@
             "₹85,800 करोड़"
           ],
           "ans": 2,
-          "subject": "Data Interpretation"
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_pie_9201_chart.svg"
         },
         {
           "q": "What is the difference in amount between HNI and Mutual Funds (in crores) if total is ₹110,000 crore?",
@@ -34894,7 +34901,8 @@
             "₹15,400 करोड़"
           ],
           "ans": 1,
-          "subject": "Data Interpretation"
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_pie_9201_chart.svg"
         },
         {
           "q": "If the total subscription is ₹110,000 crore, what is the amount for the sector with the highest percentage (Insurance)?",
@@ -34912,7 +34920,8 @@
             "₹71,500 करोड़"
           ],
           "ans": 3,
-          "subject": "Data Interpretation"
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_pie_9201_chart.svg"
         },
         {
           "q": "If the total subscription is ₹110,000 crore, what is the amount for the sector with the lowest percentage (HNI)?",
@@ -34930,7 +34939,8 @@
             "₹5,500 करोड़"
           ],
           "ans": 3,
-          "subject": "Data Interpretation"
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_pie_9201_chart.svg"
         },
         {
           "q": "If the total subscription is ₹90,000 crore, what is the amount for NRI?",
@@ -34948,7 +34958,8 @@
             "₹37,800 करोड़"
           ],
           "ans": 1,
-          "subject": "Data Interpretation"
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_pie_9202_chart.svg"
         },
         {
           "q": "If the total subscription is ₹90,000 crore, what is the combined amount for NRI and Insurance?",
@@ -34966,7 +34977,8 @@
             "₹37,800 करोड़"
           ],
           "ans": 3,
-          "subject": "Data Interpretation"
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_pie_9202_chart.svg"
         },
         {
           "q": "What is the difference in amount between Banks and Public (in crores) if total is ₹90,000 crore?",
@@ -34984,7 +34996,8 @@
             "₹27,900 करोड़"
           ],
           "ans": 3,
-          "subject": "Data Interpretation"
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_pie_9202_chart.svg"
         },
         {
           "q": "If the total subscription is ₹90,000 crore, what is the amount for the sector with the highest percentage (NRI)?",
@@ -35002,7 +35015,8 @@
             "₹33,300 करोड़"
           ],
           "ans": 3,
-          "subject": "Data Interpretation"
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_pie_9202_chart.svg"
         },
         {
           "q": "If the total subscription is ₹90,000 crore, what is the amount for the sector with the lowest percentage (Insurance)?",
@@ -35020,7 +35034,8 @@
             "₹9,000 करोड़"
           ],
           "ans": 2,
-          "subject": "Data Interpretation"
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_pie_9202_chart.svg"
         },
         {
           "q": "If the total subscription is ₹60,000 crore, what is the amount for FII?",
@@ -35038,7 +35053,8 @@
             "₹6,600 करोड़"
           ],
           "ans": 1,
-          "subject": "Data Interpretation"
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_pie_9203_chart.svg"
         },
         {
           "q": "If the total subscription is ₹60,000 crore, what is the combined amount for FII and Companies?",
@@ -35056,7 +35072,8 @@
             "₹16,800 करोड़"
           ],
           "ans": 2,
-          "subject": "Data Interpretation"
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_pie_9203_chart.svg"
         },
         {
           "q": "What is the difference in amount between Public and Mutual Funds (in crores) if total is ₹60,000 crore?",
@@ -35074,7 +35091,8 @@
             "₹6,600 करोड़"
           ],
           "ans": 1,
-          "subject": "Data Interpretation"
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_pie_9203_chart.svg"
         },
         {
           "q": "If the total subscription is ₹60,000 crore, what is the amount for the sector with the highest percentage (Banks)?",
@@ -35092,7 +35110,8 @@
             "₹44,400 करोड़"
           ],
           "ans": 2,
-          "subject": "Data Interpretation"
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_pie_9203_chart.svg"
         },
         {
           "q": "If the total subscription is ₹60,000 crore, what is the amount for the sector with the lowest percentage (Mutual Funds)?",
@@ -35110,7 +35129,8 @@
             "₹3,600 करोड़"
           ],
           "ans": 3,
-          "subject": "Data Interpretation"
+          "subject": "Data Interpretation",
+          "img": "/question-images/di/di_pie_9203_chart.svg"
         }
       ]
     }
