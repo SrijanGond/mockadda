@@ -166,26 +166,6 @@ button{font-family:'DM Sans',sans-serif;cursor:pointer;}
 <meta property="og:description" content="Practice free mock tests on MockAdda for SSC, Banking, Railways, Teaching and Civil Services exams."/>
 <meta property="og:url" content="https://www.readymadequiz.co.in/"/>
 <meta property="og:type" content="website"/>
-<link rel="canonical" href="https://www.readymadequiz.co.in/upsssc/upsssc-pet-mock-test-12"/>
-<meta property="og:title" content="UPSSSC PET Full Mock Test 12 (Preliminary Eligibility Test) | MockAdda"/>
-<meta property="og:description" content="Attempt UPSSSC PET Full Mock Test 12 (Preliminary Eligibility Test) on MockAdda — free, timed, exam-pattern mock test with 100 questions and instant results. Available in Hindi and English."/>
-<meta property="og:url" content="https://www.readymadequiz.co.in/upsssc/upsssc-pet-mock-test-12"/>
-<meta property="og:type" content="website"/>
-<link rel="canonical" href="https://www.readymadequiz.co.in/upsssc/upsssc-pet-mock-test-13"/>
-<meta property="og:title" content="UPSSSC PET Full Mock Test 13 (Preliminary Eligibility Test) | MockAdda"/>
-<meta property="og:description" content="Attempt UPSSSC PET Full Mock Test 13 (Preliminary Eligibility Test) on MockAdda — free, timed, exam-pattern mock test with 100 questions and instant results. Available in Hindi and English."/>
-<meta property="og:url" content="https://www.readymadequiz.co.in/upsssc/upsssc-pet-mock-test-13"/>
-<meta property="og:type" content="website"/>
-<link rel="canonical" href="https://www.readymadequiz.co.in/upsssc/upsssc-pet-mock-test-14"/>
-<meta property="og:title" content="UPSSSC PET Full Mock Test 14 (Preliminary Eligibility Test) | MockAdda"/>
-<meta property="og:description" content="Attempt UPSSSC PET Full Mock Test 14 (Preliminary Eligibility Test) on MockAdda — free, timed, exam-pattern mock test with 100 questions and instant results. Available in Hindi and English."/>
-<meta property="og:url" content="https://www.readymadequiz.co.in/upsssc/upsssc-pet-mock-test-14"/>
-<meta property="og:type" content="website"/>
-<link rel="canonical" href="https://www.readymadequiz.co.in/current-affairs"/>
-<meta property="og:title" content="Current Affairs for Competitive Exams | MockAdda"/>
-<meta property="og:description" content="Daily current affairs digest for SSC, Banking, Railways, UPSSSC and other competitive exams. Updated every day — free to read on MockAdda."/>
-<meta property="og:url" content="https://www.readymadequiz.co.in/current-affairs"/>
-<meta property="og:type" content="website"/>
 </head>
 <body>
 <div id="app"><div id="seoSnapshot" style="max-width:640px;margin:32px auto;padding:0 20px;font-family:'DM Sans',sans-serif;color:#0f172a;">
@@ -352,9 +332,22 @@ function parseUrlPath(){
   }
   return null;
 }
+// Keeps <link rel="canonical"> and og:url in sync with the page being shown.
+// (The template's static canonical points at the homepage; this keeps it correct after in-app navigation.)
+function setCanonical(path){
+  try{
+    const full = 'https://www.readymadequiz.co.in' + path;
+    let l = document.querySelector('link[rel="canonical"]');
+    if(!l){ l = document.createElement('link'); l.setAttribute('rel','canonical'); document.head.appendChild(l); }
+    l.setAttribute('href', full);
+    const og = document.querySelector('meta[property="og:url"]');
+    if(og) og.setAttribute('content', full);
+  }catch(e){}
+}
 function navigateToExam(catKey, examKey, exam){
   const url = examUrl(catKey, examKey);
   if(location.pathname !== url) history.pushState({catKey,examKey}, '', url);
+  setCanonical(url);
   document.title = exam.name + ' Free Mock Test | MockAdda';
   const metaDesc = document.querySelector('meta[name="description"]');
   if(metaDesc) metaDesc.setAttribute('content',
@@ -362,6 +355,7 @@ function navigateToExam(catKey, examKey, exam){
 }
 function navigateToHome(){
   if(location.pathname !== '/') history.pushState({}, '', '/');
+  setCanonical('/');
   document.title = 'MockAdda – Free Online Mock Tests | SSC, Banking, Railways, Teaching';
   const metaDesc = document.querySelector('meta[name="description"]');
   if(metaDesc) metaDesc.setAttribute('content',
@@ -797,6 +791,23 @@ function groupQuestionsBySubject(questions){
   return order.flatMap(subj=>buckets[subj]);
 }
 
+// ── GA4 TEST TRACKING ─────────────────────────────────────────────────────────
+// Sends test_start / test_submit events with exam + test name so GA4 can show which sets are actually attempted.
+// Wrapped in try/catch so an ad blocker or missing tag can never break a test.
+function trackTest(action, extra){
+  try{
+    if(typeof gtag!=='function' || !S.test) return;
+    const rs=S.returnScreen;
+    const testType = rs==='mistakesHome' ? 'mistakes_practice' : (rs==='subjectsHome' ? 'subject_practice' : 'mock_test');
+    gtag('event', action, {
+      exam_id: S.activeExamKey || testType,
+      test_name: S.test.title || '',
+      test_type: testType,
+      ...(extra||{})
+    });
+  }catch(e){}
+}
+
 // ── QUIZ LOGIC ────────────────────────────────────────────────────────────────
 function startQuiz(catKey,examKey,test,returnScreen){
   S.activeCatKey=catKey; S.activeExamKey=examKey;
@@ -821,6 +832,7 @@ function startQuiz(catKey,examKey,test,returnScreen){
   }
 
   S.screen='quiz';render();startTimer();
+  trackTest('test_start');
 }
 function startTimer(){
   clearInterval(timerHandle);
@@ -862,7 +874,9 @@ function advanceSection(){
 function goQ(idx){ if(S.sectionLocked.has(idx)) return; S.visited.add(idx);S.qi=idx;S.navOpen=false;render();}
 function submit(){
   clearInterval(timerHandle);
+  const wasQuiz = (S.screen==='quiz'); // only track once per attempt, even if submit() is triggered twice
   if(S.startTime) S.timeTaken=Math.floor((Date.now()-S.startTime)/1000);
+  if(wasQuiz) trackTest('test_submit', {time_taken_sec: S.timeTaken||0});
   recordActivity();
   S.screen='results';S.confirm=false;S.navOpen=false;render();
 }
@@ -1228,6 +1242,7 @@ function formatCADate(dateStr){
 function navigateToCurrentAffairs(){
   const url = '/current-affairs';
   if(location.pathname !== url) history.pushState({currentAffairs:true}, '', url);
+  setCanonical(url);
   document.title = 'Current Affairs | MockAdda';
   const metaDesc = document.querySelector('meta[name="description"]');
   if(metaDesc) metaDesc.setAttribute('content',
@@ -1367,6 +1382,7 @@ function homeScreen(){
   const quickWrap=el('div',{css:'padding:16px 20px 4px;max-width:800px;margin:0 auto;'});
   const quickGrid=el('div',{css:'display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;'});
   const quickCards=[
+    ['📰','Current Affairs','Daily digest for exam prep','#0ea5e9','#0284c7',()=>{navigateToCurrentAffairs();S.screen='currentAffairsHome';render();}],
     ['⌨️','Typing Practice','English & Hindi','#0891b2','#0e7490',()=>{S.screen='typingHome';render();}],
     ['📚','Practice by Subject','Maths, Polity, English & more','#7c3aed','#6d28d9',()=>{S.screen='subjectsHome';render();}],
     ['🔖','Mistake Notebook','Revisit questions you got wrong','#db2777','#be185d',()=>{S.screen='mistakesHome';render();}],
@@ -1727,20 +1743,6 @@ function buildQuestionPalette(qs,sections,accent){
       const tabBtn=el('button',{css:`padding:8px 14px;border-radius:8px;border:1.5px solid ${isActive?accent:CBT.border};background:${isActive?accent:isLockedSection?'#f1f5f9':'#fff'};color:${isActive?'#fff':isLockedSection?'#cbd5e1':CBT.text};font-size:12px;font-weight:700;cursor:${clickable?'pointer':'default'};`,text:(isLockedSection?'✓ ':'')+sec.subject});
       if(clickable) tabBtn.addEventListener('click',()=>goQ(sec.indices[0]));
       tabWrap.appendChild(tabBtn);
-    });
-    // A section belongs to this exam's official pattern (EXAM_CONTENT) but has
-    // zero live questions yet — show it as a disabled "coming soon" tab rather
-    // than silently omitting it, so it's clear the section is planned, not
-    // missing by mistake.
-    const officialSections = EXAM_CONTENT[S.activeExamKey] ? EXAM_CONTENT[S.activeExamKey].sections : [];
-    const liveSubjects = new Set(sections.map(sec=>sec.subject));
-    officialSections.forEach(off=>{
-      if(liveSubjects.has(off.name)) return;
-      tabWrap.appendChild(el('button',{
-        css:`padding:8px 14px;border-radius:8px;border:1.5px dashed ${CBT.border};background:transparent;color:${CBT.muted};font-size:12px;font-weight:700;cursor:not-allowed;`,
-        text:off.name+' — coming soon',
-        title:'No questions added for this section yet'
-      }));
     });
     wrap.appendChild(tabWrap);
   }
@@ -2688,8 +2690,8 @@ function Footer(){
   lg.appendChild(c1);
   const c2=el('div');
   c2.appendChild(el('div',{css:'font-family:Syne,sans-serif;font-weight:700;font-size:12px;color:#94a3b8;letter-spacing:0.08em;text-transform:uppercase;margin-bottom:10px;',text:'Company'}));
-  [['Typing Practice','typingHome'],['Practice by Subject','subjectsHome'],['Mistake Notebook','mistakesHome'],['Word of the Day','vocabHome'],['About Us','about'],['Contact Us','contact'],['Privacy Policy','privacy'],['Terms of Service','terms']].forEach(([n,s])=>{
-    const lk=el('div',{css:'font-size:13px;color:#64748b;margin-bottom:7px;cursor:pointer;',text:n,onClick:()=>go(s)});
+  [['Current Affairs','currentAffairsHome'],['Typing Practice','typingHome'],['Practice by Subject','subjectsHome'],['Mistake Notebook','mistakesHome'],['Word of the Day','vocabHome'],['About Us','about'],['Contact Us','contact'],['Privacy Policy','privacy'],['Terms of Service','terms']].forEach(([n,s])=>{
+    const lk=el('div',{css:'font-size:13px;color:#64748b;margin-bottom:7px;cursor:pointer;',text:n,onClick:()=>{if(s==='currentAffairsHome')navigateToCurrentAffairs();go(s);}});
     c2.appendChild(lk);
   });
   lg.appendChild(c2);top.appendChild(lg);
@@ -2715,12 +2717,13 @@ async function loadFullTest(examKey, testId, metaTest){
 window.addEventListener('popstate', ()=>{
   if(location.pathname === '/current-affairs' || location.pathname === '/current-affairs/'){
     S.screen = 'currentAffairsHome';
+    setCanonical('/current-affairs');
     render();
     return;
   }
   const match = parseUrlPath();
-  if(match){ S.activeCatKey=match.catKey; S.activeExamKey=match.examKey; S.activeExam=match.exam; S.screen='tests'; }
-  else { S.screen='home'; }
+  if(match){ S.activeCatKey=match.catKey; S.activeExamKey=match.examKey; S.activeExam=match.exam; S.screen='tests'; setCanonical(examUrl(match.catKey, match.examKey)); }
+  else { S.screen='home'; setCanonical('/'); }
   render();
 });
 
@@ -2764,7 +2767,10 @@ async function boot(){
           S.activeCatKey = mCatKey;
           S.activeExamKey = mExamKey;
           S.activeExam = exam;
-          navigateToExam(mCatKey, mExamKey, exam);
+          // NOTE: do NOT call navigateToExam() here. It rewrites the address bar to the exam page and
+          // replaces this page's title/description, so Google's renderer sees every mock-test URL turn
+          // into the same exam page ("Page with redirect" / duplicate). Keep the URL, title and canonical
+          // exactly as served for this mock-test page.
           startQuiz(mCatKey, mExamKey, fullTest);
           return; // Exit boot, quiz starts immediately
         } catch(e) {
