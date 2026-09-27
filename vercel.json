@@ -322,6 +322,38 @@
       "destination": "/current-affairs/"
     },
     {
+      "source": "/upsssc/upsssc-pet-mock-test-15",
+      "destination": "/upsssc/upsssc-pet-mock-test-15/"
+    },
+    {
+      "source": "/upsssc/upsssc-pet-mock-test-15/",
+      "destination": "/upsssc/upsssc-pet-mock-test-15/"
+    },
+    {
+      "source": "/upsssc/upsssc-pet-mock-test-16",
+      "destination": "/upsssc/upsssc-pet-mock-test-16/"
+    },
+    {
+      "source": "/upsssc/upsssc-pet-mock-test-16/",
+      "destination": "/upsssc/upsssc-pet-mock-test-16/"
+    },
+    {
+      "source": "/upsssc/upsssc-pet-mock-test-17",
+      "destination": "/upsssc/upsssc-pet-mock-test-17/"
+    },
+    {
+      "source": "/upsssc/upsssc-pet-mock-test-17/",
+      "destination": "/upsssc/upsssc-pet-mock-test-17/"
+    },
+    {
+      "source": "/upsssc/upsssc-pet-mock-test-18",
+      "destination": "/upsssc/upsssc-pet-mock-test-18/"
+    },
+    {
+      "source": "/upsssc/upsssc-pet-mock-test-18/",
+      "destination": "/upsssc/upsssc-pet-mock-test-18/"
+    },
+    {
       "source": "/(.*)",
       "destination": "/"
     }
