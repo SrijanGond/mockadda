@@ -7769,13 +7769,13 @@
           "q": "Which of the following is the smallest district of Uttar Pradesh by area?",
           "q_hi": "उत्तर प्रदेश का क्षेत्रफल की दृष्टि से सबसे छोटा जिला निम्नलिखित में से कौन सा है?",
           "opts": [
-            "Hathras",
+            "Hapur",
             "Mahoba",
             "Ghaziabad",
             "Budaun"
           ],
           "opts_hi": [
-            "हाथरस",
+            "हापुड़",
             "महोबा",
             "गाजियाबाद",
             "बदायूं"
@@ -7874,21 +7874,21 @@
           "subject": "General Knowledge"
         },
         {
-          "q": "Which state produces the maximum rice in India?",
-          "q_hi": "भारत में सबसे अधिक चावल उत्पादन करने वाला राज्य कौन सा है?",
+          "q": "Which state is the largest producer of potato in India?",
+          "q_hi": "भारत में आलू का सबसे बड़ा उत्पादक राज्य कौन सा है?",
           "opts": [
             "Uttar Pradesh",
             "West Bengal",
-            "Punjab",
-            "Andhra Pradesh"
+            "Bihar",
+            "Punjab"
           ],
           "opts_hi": [
             "उत्तर प्रदेश",
             "पश्चिम बंगाल",
-            "पंजाब",
-            "आंध्र प्रदेश"
+            "बिहार",
+            "पंजाब"
           ],
-          "ans": 1,
+          "ans": 0,
           "subject": "General Knowledge"
         },
         {
@@ -8501,8 +8501,8 @@
         },
         {
           "sheetId": "1474",
-          "q": "At which session of the Indian National Congress was the Non-Cooperation Movement formally adopted as a resolution in 1920?",
-          "q_hi": "1920 में भारतीय राष्ट्रीय कांग्रेस के किस अधिवेशन में असहयोग आंदोलन को औपचारिक रूप से प्रस्ताव के रूप में पारित किया गया था?",
+          "q": "The resolution to launch the Non-Cooperation Movement was first passed at which special session of the Indian National Congress in September 1920?",
+          "q_hi": "सितंबर 1920 में भारतीय राष्ट्रीय कांग्रेस के किस विशेष अधिवेशन में असहयोग आंदोलन शुरू करने का प्रस्ताव सर्वप्रथम पारित किया गया था?",
           "opts": [
             "Lucknow Session",
             "Nagpur Session",
@@ -8933,7 +8933,7 @@
             "8 दिन",
             "12 दिन"
           ],
-          "ans": 0,
+          "ans": 2,
           "subject": "Elementary Arithmetic"
         },
         {
@@ -8941,16 +8941,16 @@
           "q": "Two numbers are in the ratio 3 : 5. If 6 is added to each number, the new ratio becomes 3 : 4. What is the larger of the two original numbers?",
           "q_hi": "दो संख्याएँ 3 : 5 के अनुपात में हैं। यदि प्रत्येक संख्या में 6 जोड़ा जाए, तो नया अनुपात 3 : 4 हो जाता है। मूल दो संख्याओं में से बड़ी संख्या कौन सी है?",
           "opts": [
-            10,
-            15,
-            20,
-            25
+            "10",
+            "15",
+            "20",
+            "25"
           ],
           "opts_hi": [
-            10,
-            15,
-            20,
-            25
+            "10",
+            "15",
+            "20",
+            "25"
           ],
           "ans": 0,
           "subject": "Elementary Arithmetic"
@@ -8960,16 +8960,16 @@
           "q": "Simplify: 84 ÷ 4 + 6 × 5 - 3²",
           "q_hi": "सरल करें: 84 ÷ 4 + 6 × 5 - 3²",
           "opts": [
-            42,
-            50,
-            52,
-            48
+            "42",
+            "50",
+            "52",
+            "48"
           ],
           "opts_hi": [
-            42,
-            50,
-            52,
-            48
+            "42",
+            "50",
+            "52",
+            "48"
           ],
           "ans": 0,
           "subject": "Elementary Arithmetic"
@@ -9166,8 +9166,8 @@
         },
         {
           "sheetId": "1515",
-          "q": "Pointing to a woman in a photograph, Suresh said, 'She is the mother of my son's wife.' How is that woman related to Suresh?",
-          "q_hi": "एक तस्वीर में किसी महिला की ओर इशारा करते हुए सुरेश ने कहा, 'वह मेरे बेटे की पत्नी की माँ है।' वह महिला सुरेश से किस प्रकार संबंधित है?",
+          "q": "Pointing to a woman in a photograph, Suresh said, 'She is the mother of my son's mother.' How is that woman related to Suresh?",
+          "q_hi": "एक तस्वीर में किसी महिला की ओर इशारा करते हुए सुरेश ने कहा, 'वह मेरे बेटे की माँ की माँ है।' वह महिला सुरेश से किस प्रकार संबंधित है?",
           "opts": [
             "Sister",
             "Mother-in-law",
@@ -9226,16 +9226,16 @@
           "q": "Find the missing number in the series: 3, 7, 15, 31, 63, ?",
           "q_hi": "श्रृंखला में लुप्त संख्या ज्ञात करें: 3, 7, 15, 31, 63, ?",
           "opts": [
-            124,
-            126,
-            127,
-            128
+            "124",
+            "126",
+            "127",
+            "128"
           ],
           "opts_hi": [
-            124,
-            126,
-            127,
-            128
+            "124",
+            "126",
+            "127",
+            "128"
           ],
           "ans": 2,
           "subject": "Logic & Reasoning"
@@ -9337,8 +9337,8 @@
         },
         {
           "sheetId": "1523",
-          "q": "Who was appointed as the Chief Election Commissioner of India in March 2024, succeeding Rajiv Kumar who retired from the post?",
-          "q_hi": "मार्च 2024 में राजीव कुमार के सेवानिवृत्त होने के बाद भारत के मुख्य निर्वाचन आयुक्त के रूप में किसे नियुक्त किया गया?",
+          "q": "Who was appointed as the Chief Election Commissioner of India in February 2025, succeeding Rajiv Kumar who retired from the post?",
+          "q_hi": "फरवरी 2025 में राजीव कुमार के सेवानिवृत्त होने के बाद भारत के मुख्य निर्वाचन आयुक्त के रूप में किसे नियुक्त किया गया?",
           "opts": [
             "Gyanesh Kumar",
             "Sukhbir Singh Sandhu",
@@ -9356,40 +9356,40 @@
         },
         {
           "sheetId": "1524",
-          "q": "Which Indian scientist was awarded the Bharat Ratna posthumously in 2024, recognized for his foundational contributions to India's space and missile programmes?",
-          "q_hi": "किस भारतीय वैज्ञानिक को 2024 में मरणोपरांत भारत रत्न से सम्मानित किया गया, जिन्हें भारत के अंतरिक्ष और मिसाइल कार्यक्रमों में मूलभूत योगदान के लिए जाना जाता है?",
+          "q": "Which agricultural scientist, known as the 'Father of the Green Revolution in India', was posthumously awarded the Bharat Ratna in 2024?",
+          "q_hi": "किस कृषि वैज्ञानिक को, जिन्हें 'भारत में हरित क्रांति का जनक' कहा जाता है, 2024 में मरणोपरांत भारत रत्न से सम्मानित किया गया?",
           "opts": [
-            "Vikram Sarabhai",
-            "APJ Abdul Kalam",
-            "Satish Dhawan",
-            "K. Sivan"
+            "M.S. Swaminathan",
+            "Norman Borlaug",
+            "Verghese Kurien",
+            "Homi J. Bhabha"
           ],
           "opts_hi": [
-            "विक्रम साराभाई",
-            "ए.पी.जे. अब्दुल कलाम",
-            "सतीश धवन",
-            "के. सिवान"
+            "एम.एस. स्वामीनाथन",
+            "नॉर्मन बोरलॉग",
+            "वर्गीज कुरियन",
+            "होमी जे. भाभा"
           ],
-          "ans": 1,
+          "ans": 0,
           "subject": "Current Affairs"
         },
         {
           "sheetId": "1525",
-          "q": "India assumed the Presidency of which major international grouping in December 2022, hosting the G20 Summit in New Delhi in September 2023?",
-          "q_hi": "भारत ने दिसंबर 2022 में किस प्रमुख अंतर्राष्ट्रीय समूह की अध्यक्षता ग्रहण की, और सितंबर 2023 में नई दिल्ली में G20 शिखर सम्मेलन की मेजबानी की?",
+          "q": "Which indigenously built aircraft carrier was commissioned into the Indian Navy in September 2022?",
+          "q_hi": "सितंबर 2022 में भारतीय नौसेना में कौन सा स्वदेश निर्मित विमानवाहक पोत शामिल किया गया?",
           "opts": [
-            "G7",
-            "BRICS",
-            "G20",
-            "SCO"
+            "INS Vikrant",
+            "INS Vikramaditya",
+            "INS Viraat",
+            "INS Vishal"
           ],
           "opts_hi": [
-            "जी7",
-            "ब्रिक्स",
-            "जी20",
-            "एससीओ"
+            "आईएनएस विक्रांत",
+            "आईएनएस विक्रमादित्य",
+            "आईएनएस विराट",
+            "आईएनएस विशाल"
           ],
-          "ans": 2,
+          "ans": 0,
           "subject": "Current Affairs"
         },
         {
@@ -9457,13 +9457,13 @@
             "First War of Indian Independence",
             "Sepoy Mutiny",
             "Both A and B",
-            "Great Rebellion"
+            "Neither A nor B"
           ],
           "opts_hi": [
             "भारतीय स्वतंत्रता का प्रथम युद्ध",
             "सिपाही विद्रोह",
             "A और B दोनों",
-            "महान विद्रोह"
+            "न तो A और न ही B"
           ],
           "ans": 2,
           "subject": "General Awareness"
@@ -9625,10 +9625,10 @@
           "q": "National Youth Day is celebrated in India on which date?",
           "q_hi": "राष्ट्रीय युवा दिवस भारत में किस तारीख को मनाया जाता है?",
           "opts": [
-            "2026-01-12T00:00:00.000Z",
-            "2026-01-14T00:00:00.000Z",
-            "2026-01-26T00:00:00.000Z",
-            "2026-10-02T00:00:00.000Z"
+            "12 January",
+            "14 January",
+            "26 January",
+            "2 October"
           ],
           "opts_hi": [
             "12 जनवरी",
@@ -9654,7 +9654,7 @@
             "560 टन",
             "500 टन"
           ],
-          "ans": 1,
+          "ans": 0,
           "subject": "Data Interpretation"
         },
         {
