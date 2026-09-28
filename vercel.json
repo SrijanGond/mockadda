@@ -354,6 +354,14 @@
       "destination": "/upsssc/upsssc-pet-mock-test-18/"
     },
     {
+      "source": "/upsssc/upsssc-pet-mock-test-19",
+      "destination": "/upsssc/upsssc-pet-mock-test-19/"
+    },
+    {
+      "source": "/upsssc/upsssc-pet-mock-test-19/",
+      "destination": "/upsssc/upsssc-pet-mock-test-19/"
+    },
+    {
       "source": "/(.*)",
       "destination": "/"
     }
