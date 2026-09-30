@@ -1325,10 +1325,10 @@ function Navbar(){
   const nav=el('nav',{css:'position:sticky;top:0;z-index:50;background:#fff;border-bottom:1px solid #e2e8f0;padding:0 20px;display:flex;align-items:center;justify-content:space-between;height:58px;box-shadow:0 1px 4px rgba(0,0,0,0.06);'});
   const left=el('div',{css:'display:flex;align-items:center;gap:14px;'});
   const logo=el('div',{css:'display:flex;align-items:center;gap:8px;cursor:pointer;',onClick:()=>{navigateToHome();go('home');}});
-  logo.appendChild(el('div',{css:'width:36px;height:36px;border-radius:10px;background:linear-gradient(135deg,#0ea5e9,#7c3aed);display:flex;align-items:center;justify-content:center;color:#fff;font-weight:800;font-size:17px;font-family:Syne,sans-serif;',text:'M'}));
+  logo.appendChild(el('div',{css:'width:36px;height:36px;border-radius:10px;background:linear-gradient(135deg,#0ea5e9,#7c3aed);display:flex;align-items:center;justify-content:center;color:#fff;font-weight:800;font-size:17px;font-family:Syne,sans-serif;',text:'R'}));
   const lt=el('div',{css:'display:flex;align-items:baseline;gap:1px;'});
-  lt.appendChild(el('span',{css:'font-family:Syne,sans-serif;font-weight:800;font-size:19px;color:#0f172a;',text:'Mock'}));
-  lt.appendChild(el('span',{css:'font-family:Syne,sans-serif;font-weight:800;font-size:19px;color:#0ea5e9;',text:'Adda'}));
+  lt.appendChild(el('span',{css:'font-family:Syne,sans-serif;font-weight:800;font-size:19px;color:#0f172a;',text:'ReadyMade'}));
+  lt.appendChild(el('span',{css:'font-family:Syne,sans-serif;font-weight:800;font-size:19px;color:#0ea5e9;',text:'Quiz'}));
   logo.appendChild(lt);left.appendChild(logo);
   const caLink=el('div',{css:'display:flex;align-items:center;gap:5px;cursor:pointer;padding:6px 12px;background:#0ea5e914;border-radius:20px;',onClick:()=>{navigateToCurrentAffairs();go('currentAffairsHome');}},[
     el('span',{css:'font-size:14px;',text:'📰'}),
