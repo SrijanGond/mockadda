@@ -175,7 +175,7 @@ button{font-family:'DM Sans',sans-serif;cursor:pointer;}
     100 questions on ReadyMadeQuiz. Get instant results and detailed review
     after every attempt. Available in Hindi and English.
   </p>
-  <p style="font-size:15px;"><a href="/upsssc-pet/">Read the UPSSSC PET 2026 guide: eligibility, exam pattern, syllabus and how to apply</a></p>
+  <p style="font-size:15px;"><a href="/upsssc-pet/">Read the UPSSSC PET 2026 guide: eligibility, exam pattern, syllabus and how to apply</a> · <a href="/ssc-chsl/">SSC CHSL 2026 guide</a></p>
 </div></div>
 
 <!-- FLOATING LANGUAGE TOGGLE - floats on non-quiz screens; moved inline into the
@@ -1007,7 +1007,7 @@ const EXAM_CONTENT = {
     note: 'Tier 1 only qualifies you for Tier 2 — marks aren\'t carried forward. Final selection depends entirely on your Tier 2 score.'
   },
   ssc_chsl: {
-    intro: "SSC CHSL (Combined Higher Secondary Level) is conducted by the Staff Selection Commission to recruit 10+2 pass candidates for posts like Lower Divisional Clerk, Postal Assistant, Data Entry Operator, and Sorting Assistant. Selection involves a Tier 1 qualifying exam, a Tier 2 exam, and a typing or skill test.",
+    intro: "SSC CHSL (Combined Higher Secondary Level) is conducted by the Staff Selection Commission to recruit 12th pass candidates for Group C posts in central government offices: Lower Divisional Clerk / Junior Secretariat Assistant (LDC/JSA) and Data Entry Operator (DEO). The 2026 notice lists about 2536 tentative vacancies. Selection involves a Tier-I exam, a Tier-II exam, and a qualifying skill or typing test.",
     sections: [
       {name:'General Intelligence', qs:25, marks:50},
       {name:'General Awareness', qs:25, marks:50},
@@ -1015,8 +1015,8 @@ const EXAM_CONTENT = {
       {name:'English Language', qs:25, marks:50},
     ],
     duration: '60 minutes total, with 15 minutes of sectional timing per subject',
-    negativeMarking: '0.50 marks deducted for every wrong answer',
-    note: 'Tier 1 is qualifying only. Tier 2 adds a Computer Knowledge module plus a mandatory Typing/Skill Test.'
+    negativeMarking: '0.50 marks deducted for every wrong answer (Tier-I)',
+    note: 'Tier-I shortlists candidates for Tier-II. Tier-II has Maths (30), Reasoning (30), English (40), General Awareness (20) with 1 mark negative marking, a qualifying Computer Knowledge test (15 questions) and a qualifying Typing/Skill Test. Final merit is based on Tier-II only.'
   },
   ssc_mts: {
     intro: "SSC MTS (Multi-Tasking Staff) is conducted by the Staff Selection Commission for recruitment to Group C non-gazetted posts in various central government departments and offices. The exam is conducted in two sessions — Paper 1 tests General Awareness and Reasoning, while Paper 2 is a descriptive test in English or Hindi.",
@@ -1460,6 +1460,10 @@ function homeScreen(){
   return root;
 }
 
+const EXAM_GUIDES = {
+  upsssc_pet: {url:'/upsssc-pet/', pill:'📖 PET 2026 Guide', title:'Applying for UPSSSC PET or new to the exam?', sub:'Check eligibility, age limit, fee, exam pattern, syllabus and how to apply before you start. परीक्षा की पूरी जानकारी हिंदी में।', btn:'📖 Read UPSSSC PET 2026 Guide →'},
+  ssc_chsl: {url:'/ssc-chsl/', pill:'📖 CHSL 2026 Guide', title:'Applying for SSC CHSL or new to the exam?', sub:'Check vacancies, eligibility, age limit, fee, Tier-I and Tier-II pattern, typing test and syllabus before you start. परीक्षा की पूरी जानकारी हिंदी में।', btn:'📖 Read SSC CHSL 2026 Guide →'}
+};
 function examCard(catKey,examKey,exam,color){
   const tc=exam.tests.length,qc=exam.tests.reduce((a,t)=>a+qCount(t),0);
   const dark=shadeColor(color,-22);
@@ -1473,8 +1477,8 @@ function examCard(catKey,examKey,exam,color){
   tags.appendChild(el('span',{css:`background:rgba(255,255,255,0.25);color:#fff;font-size:10px;font-weight:700;padding:3px 9px;border-radius:8px;`,text:`${tc} Tests`}));
   tags.appendChild(el('span',{css:'background:rgba(255,255,255,0.25);color:#fff;font-size:10px;font-weight:600;padding:3px 9px;border-radius:8px;',text:`${qc} Qs`}));
   card.appendChild(tags);
-  if(examKey==='upsssc_pet'){
-    card.appendChild(el('a',{href:'/upsssc-pet/',target:'_blank',rel:'noopener',css:'display:inline-block;position:relative;margin-top:10px;background:#fff;color:#0f172a;font-size:11px;font-weight:700;padding:5px 11px;border-radius:8px;text-decoration:none;',text:'📖 PET 2026 Guide',onClick:(e)=>e.stopPropagation()}));
+  if(EXAM_GUIDES[examKey]){
+    card.appendChild(el('a',{href:EXAM_GUIDES[examKey].url,target:'_blank',rel:'noopener',css:'display:inline-block;position:relative;margin-top:10px;background:#fff;color:#0f172a;font-size:11px;font-weight:700;padding:5px 11px;border-radius:8px;text-decoration:none;',text:EXAM_GUIDES[examKey].pill,onClick:(e)=>e.stopPropagation()}));
   }
   card.addEventListener('mouseenter',()=>{card.style.transform='translateY(-3px)';card.style.boxShadow=`0 8px 22px ${color}66`;});
   card.addEventListener('mouseleave',()=>{card.style.transform='';card.style.boxShadow=`0 4px 14px ${color}4d`;});
@@ -1510,11 +1514,12 @@ function testsScreen(){
   root.appendChild(hdr);
   const body=el('div',{css:'padding:20px;max-width:800px;margin:0 auto;'});
   body.appendChild(el('p',{css:'font-size:13px;color:#64748b;margin-bottom:18px;line-height:1.6;background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:12px 14px;',text:'⚠️ Tests are timed. Once started, the timer cannot be paused. The test auto-submits when time expires.'}));
-  if(S.activeExamKey==='upsssc_pet'){
+  const guide = EXAM_GUIDES[S.activeExamKey];
+  if(guide){
     const gb=el('div',{css:'background:linear-gradient(135deg,#eff6ff,#f5f3ff);border:1.5px solid #c7d2fe;border-radius:14px;padding:16px;margin-bottom:18px;'});
-    gb.appendChild(el('div',{css:'font-family:Syne,sans-serif;font-weight:800;font-size:15px;color:#0f172a;margin-bottom:5px;',text:'Applying for UPSSSC PET or new to the exam?'}));
-    gb.appendChild(el('p',{css:'font-size:12px;color:#475569;line-height:1.6;margin-bottom:12px;',text:'Check eligibility, age limit, fee, exam pattern, syllabus and how to apply before you start. परीक्षा की पूरी जानकारी हिंदी में।'}));
-    gb.appendChild(el('a',{href:'/upsssc-pet/',target:'_blank',rel:'noopener',css:'display:inline-block;background:linear-gradient(135deg,#0ea5e9,#7c3aed);color:#fff;font-family:Syne,sans-serif;font-weight:700;font-size:13px;padding:10px 18px;border-radius:10px;text-decoration:none;',text:'📖 Read UPSSSC PET 2026 Guide →'}));
+    gb.appendChild(el('div',{css:'font-family:Syne,sans-serif;font-weight:800;font-size:15px;color:#0f172a;margin-bottom:5px;',text:guide.title}));
+    gb.appendChild(el('p',{css:'font-size:12px;color:#475569;line-height:1.6;margin-bottom:12px;',text:guide.sub}));
+    gb.appendChild(el('a',{href:guide.url,target:'_blank',rel:'noopener',css:'display:inline-block;background:linear-gradient(135deg,#0ea5e9,#7c3aed);color:#fff;font-family:Syne,sans-serif;font-weight:700;font-size:13px;padding:10px 18px;border-radius:10px;text-decoration:none;',text:guide.btn}));
     body.appendChild(gb);
   }
   const contentSection = examContentSection(S.activeExamKey);
@@ -2701,7 +2706,7 @@ function Footer(){
   lg.appendChild(c1);
   const c2=el('div');
   c2.appendChild(el('div',{css:'font-family:Syne,sans-serif;font-weight:700;font-size:12px;color:#94a3b8;letter-spacing:0.08em;text-transform:uppercase;margin-bottom:10px;',text:'Company'}));
-  [['Current Affairs','currentAffairsHome'],['Typing Practice','typingHome'],['Practice by Subject','subjectsHome'],['Mistake Notebook','mistakesHome'],['Word of the Day','vocabHome'],['About Us','about','/about/'],['Contact Us','contact','/contact/'],['Privacy Policy','privacy','/privacy-policy/'],['Terms of Service','terms','/terms/'],['Disclaimer','disclaimer','/disclaimer/'],['UPSSSC PET Guide','petguide','/upsssc-pet/']].forEach(([n,s,h])=>{
+  [['Current Affairs','currentAffairsHome'],['Typing Practice','typingHome'],['Practice by Subject','subjectsHome'],['Mistake Notebook','mistakesHome'],['Word of the Day','vocabHome'],['About Us','about','/about/'],['Contact Us','contact','/contact/'],['Privacy Policy','privacy','/privacy-policy/'],['Terms of Service','terms','/terms/'],['Disclaimer','disclaimer','/disclaimer/'],['UPSSSC PET Guide','petguide','/upsssc-pet/'],['SSC CHSL Guide','chslguide','/ssc-chsl/']].forEach(([n,s,h])=>{
     if(h){c2.appendChild(el('a',{href:h,css:'display:block;font-size:13px;color:#64748b;margin-bottom:7px;text-decoration:none;',text:n}));return;}
     const lk=el('div',{css:'font-size:13px;color:#64748b;margin-bottom:7px;cursor:pointer;',text:n,onClick:()=>{if(s==='currentAffairsHome')navigateToCurrentAffairs();go(s);}});
     c2.appendChild(lk);
