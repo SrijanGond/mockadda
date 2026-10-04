@@ -176,6 +176,7 @@ button{font-family:'DM Sans',sans-serif;cursor:pointer;}
     after every attempt. Available in Hindi and English.
   </p>
   <p style="font-size:15px;"><a href="/upsssc-pet/">Read the UPSSSC PET 2026 guide: eligibility, exam pattern, syllabus and how to apply</a> · <a href="/ssc-chsl/">SSC CHSL 2026 guide</a></p>
+  <p style="font-size:15px;"><a href="/upsssc/upsssc-pet-mock-test-18">Previous: UPSSSC PET Full Mock Test 18</a> · <a href="/upsssc/upsssc-pet-mock-test-20">Next: UPSSSC PET Full Mock Test 20</a> · <a href="/upsssc/upsssc-pet">All UPSSSC PET mock tests</a></p>
 </div></div>
 
 <!-- FLOATING LANGUAGE TOGGLE - floats on non-quiz screens; moved inline into the
@@ -318,6 +319,9 @@ const fmt = s=>`${String(Math.floor(s/60)).padStart(2,'0')}:${String(s%60).padSt
 // ── URL ROUTING (added for SEO — gives every exam a real, crawlable URL) ─────
 function examUrl(catKey, examKey){
   return '/' + catKey.replace(/_/g,'-') + '/' + examKey.replace(/_/g,'-');
+}
+function mockTestUrl(catKey, examKey, n){
+  return examUrl(catKey, examKey) + '-mock-test-' + n;
 }
 function parseUrlPath(){
   const parts = location.pathname.split('/').filter(Boolean);
@@ -1538,7 +1542,7 @@ function testsScreen(){
     const dc={Easy:['#f0fdf4','#16a34a'],Medium:['#fffbeb','#d97706'],Hard:['#fef2f2','#dc2626']}[t.difficulty]||['#f8fafc','#64748b'];
     const card=el('div',{css:`background:#fff;border:1.5px solid #e2e8f0;border-left:5px solid ${cat.color};border-radius:14px;padding:18px;margin-bottom:12px;box-shadow:0 2px 8px ${cat.color}1a;`});
     const top=el('div',{css:'display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:14px;'});
-    top.appendChild(el('div',{},[el('div',{css:'font-family:Syne,sans-serif;font-weight:700;font-size:15px;color:#0f172a;margin-bottom:3px;',text:t.title}),el('div',{css:'font-size:11px;color:#94a3b8;',text:`Mock Test ${i+1}`})]));
+    top.appendChild(el('div',{},[el('div',{css:'font-family:Syne,sans-serif;font-weight:700;font-size:15px;color:#0f172a;margin-bottom:3px;'},[el('a',{href:mockTestUrl(S.activeCatKey,S.activeExamKey,i+1),css:'color:inherit;text-decoration:none;',text:t.title})]),el('div',{css:'font-size:11px;color:#94a3b8;',text:`Mock Test ${i+1}`})]));
     top.appendChild(el('span',{css:`background:${dc[0]};color:${dc[1]};font-size:11px;font-weight:700;padding:4px 12px;border-radius:20px;`,text:t.difficulty}));
     card.appendChild(top);
     const meta=el('div',{css:'display:flex;gap:18px;margin-bottom:16px;'});
@@ -1967,6 +1971,22 @@ function resultsScreen(){
     el('button',{css:`flex:1;padding:12px;background:${Q.card};border:1px solid ${Q.border};color:${Q.text};border-radius:10px;font-weight:600;font-size:13px;cursor:pointer;`,text:'Retry',onClick:()=>startQuiz(S.activeCatKey,S.activeExamKey,S.test,S.returnScreen)}),
     el('button',{css:`flex:1;padding:12px;background:${accent};border:none;color:#fff;border-radius:10px;font-family:Syne,sans-serif;font-weight:700;font-size:13px;cursor:pointer;`,text:S.returnScreen==='subjectsHome'?'More Subjects':'More Tests',onClick:()=>{S.screen=S.returnScreen;render();}})
   ]));
+  // Internal links: next / previous test, the exam hub and the exam guide (real <a href> links)
+  (function(){
+    const exam=S.activeExam;
+    if(!exam||!exam.tests||!S.activeCatKey||!S.activeExamKey) return;
+    const idx=exam.tests.findIndex(t=>t.id===S.test.id);
+    if(idx<0) return;
+    const box=el('div',{css:`margin-top:22px;padding-top:18px;border-top:1px solid ${Q.border};`});
+    box.appendChild(el('div',{css:`font-family:Syne,sans-serif;font-weight:700;font-size:14px;color:${Q.text};margin-bottom:10px;`,text:'Keep practising'}));
+    const linkCss=`display:block;padding:11px 14px;margin-bottom:8px;background:${Q.card};border:1px solid ${Q.border};border-radius:10px;color:${Q.text};font-size:13px;font-weight:600;text-decoration:none;`;
+    if(idx<exam.tests.length-1) box.appendChild(el('a',{href:mockTestUrl(S.activeCatKey,S.activeExamKey,idx+2),css:linkCss,text:'Next: '+exam.tests[idx+1].title+' →'}));
+    if(idx>0) box.appendChild(el('a',{href:mockTestUrl(S.activeCatKey,S.activeExamKey,idx),css:linkCss,text:'← Previous: '+exam.tests[idx-1].title}));
+    box.appendChild(el('a',{href:examUrl(S.activeCatKey,S.activeExamKey),css:linkCss,text:'All '+exam.name+' mock tests'}));
+    const guide=(typeof EXAM_GUIDES!=='undefined')?EXAM_GUIDES[S.activeExamKey]:null;
+    if(guide) box.appendChild(el('a',{href:guide.url,css:linkCss,text:guide.title}));
+    body.appendChild(box);
+  })();
   root.appendChild(body);return root;
 }
 
