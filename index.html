@@ -579,7 +579,17 @@ function shadeColor(hex, percent){
 }
 
 // ── MISTAKE NOTEBOOK (saved on this device via localStorage) ─────────────────
-const MISTAKES_KEY = 'mockadda_mistakes_v1';
+// One-time move of saved data from the old MockAdda storage keys to the ReadyMadeQuiz keys
+(function migrateStorageKeys(){
+  try{
+    [['mockadda_mistakes_v1','readymadequiz_mistakes_v1'],['mockadda_streak_v1','readymadequiz_streak_v1']].forEach(function(k){
+      var oldVal = localStorage.getItem(k[0]);
+      if(oldVal !== null && localStorage.getItem(k[1]) === null){ localStorage.setItem(k[1], oldVal); }
+      if(oldVal !== null){ localStorage.removeItem(k[0]); }
+    });
+  }catch(e){ /* storage unavailable — fail silently */ }
+})();
+const MISTAKES_KEY = 'readymadequiz_mistakes_v1';
 function loadMistakes(){
   try{ return JSON.parse(localStorage.getItem(MISTAKES_KEY) || '[]'); }catch(e){ return []; }
 }
@@ -597,7 +607,7 @@ function toggleMistake(q){
 }
 
 // ── STUDY STREAK TRACKER (saved on this device via localStorage) ─────────────
-const STREAK_KEY = 'mockadda_streak_v1';
+const STREAK_KEY = 'readymadequiz_streak_v1';
 function todayStr(){
   const d=new Date();
   return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0');
