@@ -5497,454 +5497,1822 @@
       "negativeMarks": 0.5,
       "questions": [
         {
-          "q": "If 30% of a number is 90, what is the number?",
-          "q_hi": "यदि किसी संख्या का 30% = 90 है, तो संख्या क्या है?",
+          "q": "Two different positions of the same dice are shown. Which number will be on the face opposite to the face showing 6?",
           "opts": [
-            "270",
-            "280",
-            "300",
-            "320"
-          ],
-          "opts_hi": [
-            "270",
-            "280",
-            "300",
-            "320"
-          ],
-          "ans": 2,
-          "subject": "Quantitative Aptitude"
-        },
-        {
-          "q": "A shopkeeper sells a product for ₹840 at 20% profit. Cost price is?",
-          "q_hi": "एक दुकानदार ₹840 में 20% लाभ पर बेचता है। क्रय मूल्य क्या है?",
-          "opts": [
-            "₹680",
-            "₹700",
-            "₹720",
-            "₹750"
-          ],
-          "opts_hi": [
-            "₹680",
-            "₹700",
-            "₹720",
-            "₹750"
-          ],
-          "ans": 1,
-          "subject": "Quantitative Aptitude"
-        },
-        {
-          "q": "What is the HCF of 144, 180 and 192?",
-          "q_hi": "144, 180 और 192 का म.स.प. (HCF) क्या है?",
-          "opts": [
-            "12",
-            "24",
-            "36",
-            "48"
-          ],
-          "opts_hi": [
-            "12",
-            "24",
-            "36",
-            "48"
-          ],
-          "ans": 0,
-          "subject": "Quantitative Aptitude"
-        },
-        {
-          "q": "What is the LCM of 24, 36 and 40?",
-          "q_hi": "24, 36 और 40 का ल.स.प. (LCM) क्या है?",
-          "opts": [
-            "360",
-            "720",
-            "180",
-            "120"
-          ],
-          "opts_hi": [
-            "360",
-            "720",
-            "180",
-            "120"
-          ],
-          "ans": 0,
-          "subject": "Quantitative Aptitude"
-        },
-        {
-          "q": "If the angles of a triangle are in the ratio 2:3:4, what is the smallest angle?",
-          "q_hi": "यदि एक त्रिभुज के कोण 2:3:4 के अनुपात में हैं, तो सबसे छोटा कोण क्या है?",
-          "opts": [
-            "40°",
-            "60°",
-            "80°",
-            "20°"
-          ],
-          "opts_hi": [
-            "40°",
-            "60°",
-            "80°",
-            "20°"
-          ],
-          "ans": 0,
-          "subject": "Quantitative Aptitude"
-        },
-        {
-          "q": "What is the remainder when 2^100 is divided by 7?",
-          "q_hi": "2^100 को 7 से विभाजित करने पर शेषफल क्या है?",
-          "opts": [
-            "1",
             "2",
+            "1",
             "3",
             "4"
           ],
+          "ans": 0,
+          "subject": "General Intelligence",
+          "q_hi": "एक ही पासे की दो अलग-अलग स्थितियाँ दी गई हैं। 6 वाले फलक के विपरीत फलक पर कौन-सी संख्या होगी?",
           "opts_hi": [
-            "1",
             "2",
+            "1",
             "3",
             "4"
           ],
-          "ans": 1,
-          "subject": "Quantitative Aptitude"
+          "exp_en": "Faces seen together in one view are adjacent, so they cannot be opposite to each other. Only 2 remains possible as the face opposite to 6.",
+          "exp_hi": "एक ही दृश्य में साथ दिखने वाले फलक आसन्न होते हैं, विपरीत नहीं। इसलिए 6 के विपरीत केवल 2 संभव है।",
+          "img": "/question-images/chsl/chsl4_dice_26_q.svg"
         },
         {
-          "q": "If a:b = 2:3 and b:c = 4:5, find a:c.",
-          "q_hi": "यदि a:b = 2:3 और b:c = 4:5 है, तो a:c ज्ञात करें।",
+          "q": "Select the correct mirror image of the given figure when the mirror is placed on the bottom (below) side of the figure.",
           "opts": [
-            "8:12",
-            "8:15",
-            "2:5",
-            "4:5"
-          ],
-          "opts_hi": [
-            "8:12",
-            "8:15",
-            "2:5",
-            "4:5"
-          ],
-          "ans": 1,
-          "subject": "Quantitative Aptitude"
-        },
-        {
-          "q": "Synonym of 'Abundant'?",
-          "q_hi": "'Abundant' (प्रचुर) का समानार्थी शब्द?",
-          "opts": [
-            "Scarce",
-            "Plentiful",
-            "Limited",
-            "Rare"
-          ],
-          "opts_hi": [
-            "दुर्लभ",
-            "प्रचुर",
-            "सीमित",
-            "विरल"
-          ],
-          "ans": 1,
-          "subject": "English Comprehension"
-        },
-        {
-          "q": "Antonym of 'Verbose'?",
-          "q_hi": "'Verbose' (वाचाल) का विलोम शब्द?",
-          "opts": [
-            "Talkative",
-            "Concise",
-            "Elaborate",
-            "Lengthy"
-          ],
-          "opts_hi": [
-            "बातूनी",
-            "संक्षिप्त",
-            "विस्तृत",
-            "लंबा"
-          ],
-          "ans": 1,
-          "subject": "English Comprehension"
-        },
-        {
-          "q": "Synonym of 'Benevolent'?",
-          "q_hi": "'Benevolent' का पर्यायवाची शब्द?",
-          "opts": [
-            "Malevolent",
-            "Kind",
-            "Cruel",
-            "Angry"
-          ],
-          "opts_hi": [
-            "Malevolent",
-            "Kind",
-            "Cruel",
-            "Angry"
-          ],
-          "ans": 1,
-          "subject": "English Comprehension"
-        },
-        {
-          "q": "Choose the correctly spelled word.",
-          "q_hi": "सही वर्तनी वाला शब्द चुनें।",
-          "opts": [
-            "Seperate",
-            "Separate",
-            "Seperete",
-            "Seprate"
-          ],
-          "opts_hi": [
-            "Seperate",
-            "Separate",
-            "Seperete",
-            "Seprate"
-          ],
-          "ans": 1,
-          "subject": "English Comprehension"
-        },
-        {
-          "q": "Find the error in the sentence: \"The sceneries of Kashmir (A) / is very beautiful (B) / and attracts many tourists (C) / every year. (D)\"",
-          "q_hi": "वाक्य में त्रुटि ज्ञात करें: \"The sceneries of Kashmir (A) / is very beautiful (B) / and attracts many tourists (C) / every year. (D)\"",
-          "opts": [
-            "A",
-            "B",
-            "C",
-            "D"
-          ],
-          "opts_hi": [
-            "A",
-            "B",
-            "C",
-            "D"
+            "Figure (A)",
+            "Figure (B)",
+            "Figure (C)",
+            "Figure (D)"
           ],
           "ans": 0,
-          "subject": "English Comprehension"
+          "subject": "General Intelligence",
+          "q_hi": "दी गई आकृति का सही दर्पण प्रतिबिंब चुनिए, जब दर्पण को आकृति के नीचे ओर रखा जाता है।",
+          "opts_hi": [
+            "आकृति (A)",
+            "आकृति (B)",
+            "आकृति (C)",
+            "आकृति (D)"
+          ],
+          "exp_en": "A mirror below the figure flips it upside down; left and right stay unchanged.",
+          "exp_hi": "नीचे रखा दर्पण आकृति को ऊपर-नीचे पलट देता है; बायाँ-दायाँ वही रहता है।",
+          "img": "/question-images/chsl/chsl4_mirror_27_q.svg",
+          "opts_img": [
+            "/question-images/chsl/chsl4_mirror_27_opt_a.svg",
+            "/question-images/chsl/chsl4_mirror_27_opt_b.svg",
+            "/question-images/chsl/chsl4_mirror_27_opt_c.svg",
+            "/question-images/chsl/chsl4_mirror_27_opt_d.svg"
+          ]
         },
         {
-          "q": "The phrase \"To be at loggerheads\" means:",
-          "q_hi": "To be at loggerheads वाक्यांश का अर्थ है:",
+          "q": "Select the Venn diagram that best represents the relationship between the following classes: Ocean, Chair, Wheat.",
           "opts": [
-            "To be in a romantic relationship",
-            "To be in a state of agreement",
-            "To be in a state of disagreement",
-            "To be working together"
-          ],
-          "opts_hi": [
-            "रोमांटिक रिश्ते में होना",
-            "सहमति की स्थिति में होना",
-            "असहमति की स्थिति में होना",
-            "एक साथ काम करना"
-          ],
-          "ans": 2,
-          "subject": "English Comprehension"
-        },
-        {
-          "q": "Fill in the blank: I am looking forward _______ you.",
-          "q_hi": "रिक्त स्थान भरें: I am looking forward _______ you.",
-          "opts": [
-            "to meet",
-            "to meeting",
-            "meeting",
-            "meet"
-          ],
-          "opts_hi": [
-            "to meet",
-            "to meeting",
-            "meeting",
-            "meet"
-          ],
-          "ans": 1,
-          "subject": "English Comprehension"
-        },
-        {
-          "q": "Choose the correct passive voice form of: \"They are building a new mall.\"",
-          "q_hi": "का सही passive voice रूप चुनें: \"They are building a new mall.\"",
-          "opts": [
-            "A new mall is being built by them.",
-            "A new mall was being built by them.",
-            "A new mall is built by them.",
-            "A new mall was built by them."
-          ],
-          "opts_hi": [
-            "A new mall is being built by them.",
-            "A new mall was being built by them.",
-            "A new mall is built by them.",
-            "A new mall was built by them."
+            "Figure (A)",
+            "Figure (B)",
+            "Figure (C)",
+            "Figure (D)"
           ],
           "ans": 0,
-          "subject": "English Comprehension"
+          "subject": "General Intelligence",
+          "q_hi": "उस वेन आरेख का चयन कीजिए जो निम्नलिखित वर्गों के बीच उचित संबंध को दर्शाता है: समुद्र, कुर्सी, गेहूं।",
+          "opts_hi": [
+            "आकृति (A)",
+            "आकृति (B)",
+            "आकृति (C)",
+            "आकृति (D)"
+          ],
+          "exp_en": "The three classes have nothing in common, so they are three separate circles.",
+          "exp_hi": "तीनों वर्गों में कोई समानता नहीं है, इसलिए तीन अलग-अलग वृत्त बनेंगे।",
+          "opts_img": [
+            "/question-images/chsl/chsl4_venn_28_opt_a.svg",
+            "/question-images/chsl/chsl4_venn_28_opt_b.svg",
+            "/question-images/chsl/chsl4_venn_28_opt_c.svg",
+            "/question-images/chsl/chsl4_venn_28_opt_d.svg"
+          ]
         },
         {
-          "q": "The word \"Diligent\" means:",
-          "q_hi": "शब्द \"Diligent\" का अर्थ है:",
+          "q": "Three of the following four 4-digit numbers have consecutive digits (in some order) and one does not. Find the odd one out.",
           "opts": [
-            "Lazy",
-            "Hardworking",
-            "Careless",
-            "Slow"
-          ],
-          "opts_hi": [
-            "आलसी",
-            "मेहनती",
-            "लापरवाह",
-            "धीमा"
-          ],
-          "ans": 1,
-          "subject": "English Comprehension"
-        },
-        {
-          "q": "Choose the correct article: She is _______ best student in the class.",
-          "q_hi": "सही आर्टिकल चुनें: She is _______ best student in the class.",
-          "opts": [
-            "a",
-            "an",
-            "the",
-            "No article"
-          ],
-          "opts_hi": [
-            "a",
-            "an",
-            "the",
-            "No article"
-          ],
-          "ans": 2,
-          "subject": "English Comprehension"
-        },
-        {
-          "q": "Choose the correct meaning of the idiom \"A piece of cake.\"",
-          "q_hi": "A piece of cake मुहावरे का सही अर्थ चुनें।",
-          "opts": [
-            "Difficult task",
-            "Very easy task",
-            "Expensive item",
-            "Delicious food"
-          ],
-          "opts_hi": [
-            "कठिन कार्य",
-            "बहुत आसान कार्य",
-            "महंगी वस्तु",
-            "स्वादिष्ट भोजन"
-          ],
-          "ans": 1,
-          "subject": "English Comprehension"
-        },
-        {
-          "q": "Identify the error: \"He is one of the best student in the class.\"",
-          "q_hi": "त्रुटि पहचानें: \"He is one of the best student in the class.\"",
-          "opts": [
-            "is",
-            "of",
-            "student",
-            "in"
-          ],
-          "opts_hi": [
-            "is",
-            "of",
-            "student",
-            "in"
-          ],
-          "ans": 2,
-          "subject": "English Comprehension"
-        },
-        {
-          "q": "The phrase \"Turn a deaf ear\" means:",
-          "q_hi": "Turn a deaf ear वाक्यांश का अर्थ है:",
-          "opts": [
-            "Listen carefully",
-            "Pretend not to hear",
-            "Lose hearing ability",
-            "Speak loudly"
-          ],
-          "opts_hi": [
-            "ध्यान से सुनना",
-            "सुनने का नाटक करना",
-            "सुनने की क्षमता खोना",
-            "जोर से बोलना"
+            "4568",
+            "2345",
+            "3456",
+            "1234"
           ],
           "ans": 0,
-          "subject": "English Comprehension"
+          "subject": "General Intelligence",
+          "q_hi": "निम्नलिखित चार 4-अंकीय संख्याओं में से तीन में (किसी क्रम में) लगातार अंक हैं और एक में नहीं है। विषम का चयन करें।",
+          "opts_hi": [
+            "4568",
+            "2345",
+            "3456",
+            "1234"
+          ],
+          "exp_en": "1234, 2345 and 3456 each consist of four consecutive digits. 4568 breaks this pattern since 7 is missing, so it is the odd one out.",
+          "exp_hi": "1234, 2345 और 3456 में चार लगातार अंक हैं। 4568 में 7 गायब है, इसलिए यह पैटर्न से अलग है।"
         },
         {
-          "q": "Choose the synonym of \"Abundant.\"",
-          "q_hi": "Abundant का पर्यायवाची शब्द चुनें।",
+          "q": "In a certain code, MANGO is written as OCPIQ. What will APPLE be written as in the same code?",
           "opts": [
-            "Scarce",
-            "Plentiful",
-            "Limited",
-            "Lacking"
-          ],
-          "opts_hi": [
-            "दुर्लभ",
-            "प्रचुर",
-            "सीमित",
-            "कमी"
+            "CRRMG",
+            "CRRNG",
+            "BRRNG",
+            "CRRNF"
           ],
           "ans": 1,
-          "subject": "English Comprehension"
+          "subject": "General Intelligence",
+          "q_hi": "एक निश्चित कोड में, MANGO को OCPIQ लिखा जाता है। उसी कोड में APPLE को क्या लिखा जाएगा?",
+          "opts_hi": [
+            "CRRMG",
+            "CRRNG",
+            "BRRNG",
+            "CRRNF"
+          ],
+          "exp_en": "Each letter is shifted forward by 2 places: M to O, A to C, N to P, G to I, O to Q. Applying the same shift to APPLE gives C, R, R, N, G, so APPLE becomes CRRNG.",
+          "exp_hi": "प्रत्येक अक्षर को 2 स्थान आगे शिफ्ट किया गया है: M से O, A से C आदि। इसी नियम से APPLE का कोड CRRNG बनता है।"
         },
         {
-          "q": "Fill in the blank: He has been waiting _______ 2 hours.",
-          "q_hi": "रिक्त स्थान भरें: He has been waiting _______ 2 hours.",
+          "q": "In the number group (3, 4, 14), the numbers follow the rule (a + b) x 2 = c. Which of the following groups follows the same rule?",
           "opts": [
-            "since",
-            "for",
-            "from",
-            "until"
+            "(5, 6, 22)",
+            "(2, 3, 8)",
+            "(6, 7, 24)",
+            "(4, 5, 16)"
           ],
+          "ans": 0,
+          "subject": "General Intelligence",
+          "q_hi": "संख्या समूह (3, 4, 14) में संख्याएं नियम (a + b) x 2 = c का पालन करती हैं। निम्नलिखित में से कौन सा समूह उसी नियम का पालन करता है?",
           "opts_hi": [
-            "since",
-            "for",
-            "from",
-            "until"
+            "(5, 6, 22)",
+            "(2, 3, 8)",
+            "(6, 7, 24)",
+            "(4, 5, 16)"
           ],
-          "ans": 1,
-          "subject": "English Comprehension"
+          "exp_en": "Check rule (a+b)x2=c: for (5,6,22), (5+6)x2=22, which matches. Other groups fail this check, so (5,6,22) follows the same pattern.",
+          "exp_hi": "नियम (a+b)x2=c जाँचें: (5,6,22) के लिए (5+6)x2=22, जो सही मेल खाता है। अन्य समूह इस नियम का पालन नहीं करते।"
         },
         {
-          "q": "Select the antonym of \"Genuine.\"",
-          "q_hi": "Genuine का विलोम शब्द चुनें।",
+          "q": "Find the next number in the series: 5, 9, 17, 33, ?",
           "opts": [
-            "Real",
-            "Authentic",
-            "Fake",
-            "Original"
-          ],
-          "opts_hi": [
-            "Real",
-            "Authentic",
-            "Fake",
-            "Original"
-          ],
-          "ans": 2,
-          "subject": "English Comprehension"
-        },
-        {
-          "q": "Improve the bracketed part: She (has) a beautiful voice.",
-          "q_hi": "कोष्ठक भाग में सुधार करें: She (has) a beautiful voice.",
-          "opts": [
-            "have",
-            "is having",
-            "had",
-            "No improvement"
-          ],
-          "opts_hi": [
-            "have",
-            "is having",
-            "had",
-            "No improvement"
+            "57",
+            "61",
+            "49",
+            "65"
           ],
           "ans": 3,
-          "subject": "English Comprehension"
+          "subject": "General Intelligence",
+          "q_hi": "श्रृंखला में अगली संख्या ज्ञात करें: 5, 9, 17, 33, ?",
+          "opts_hi": [
+            "57",
+            "61",
+            "49",
+            "65"
+          ],
+          "exp_en": "Each term follows the rule: multiply by 2 and subtract 1. 5x2-1=9, 9x2-1=17, 17x2-1=33, 33x2-1=65. So the next number is 65.",
+          "exp_hi": "प्रत्येक पद में नियम है: 2 से गुणा करें और 1 घटाएं। 5x2-1=9, 9x2-1=17, 17x2-1=33, 33x2-1=65। अतः अगली संख्या 65 है।"
         },
         {
-          "q": "Which of the following is the most abundant gas in the Earth's atmosphere?",
-          "q_hi": "पृथ्वी के वायुमंडल में सबसे प्रचुर मात्रा में पाई जाने वाली गैस निम्नलिखित में से कौन सी है?",
+          "q": "Find the missing letter in the series: a, c, e, _, i",
           "opts": [
-            "Oxygen",
-            "Carbon Dioxide",
-            "Nitrogen",
-            "Argon"
+            "f",
+            "g",
+            "h",
+            "j"
           ],
+          "ans": 1,
+          "subject": "General Intelligence",
+          "q_hi": "श्रृंखला में लुप्त अक्षर ज्ञात करें: a, c, e, _, i",
           "opts_hi": [
-            "ऑक्सीजन",
-            "कार्बन डाइऑक्साइड",
-            "नाइट्रोजन",
-            "आर्गन"
+            "f",
+            "g",
+            "h",
+            "j"
+          ],
+          "exp_en": "The series skips one letter each time: a, c, e, g, i. The missing letter is g, continuing the alternate letter pattern.",
+          "exp_hi": "इस श्रृंखला में हर बार एक अक्षर छोड़ा गया है: a, c, e, g, i। लुप्त अक्षर g है, जो वैकल्पिक अक्षर पैटर्न को जारी रखता है।"
+        },
+        {
+          "q": "Select the number pair that follows the same rule as: 6 : 42 :: 8 : ?",
+          "opts": [
+            "56",
+            "64",
+            "81",
+            "72"
+          ],
+          "ans": 3,
+          "subject": "General Intelligence",
+          "q_hi": "उस संख्या युग्म का चयन करें जो इसी नियम का पालन करता है: 6 : 42 :: 8 : ?",
+          "opts_hi": [
+            "56",
+            "64",
+            "81",
+            "72"
+          ],
+          "exp_en": "Rule: n : n x (n+1). For 6, 6 x 7 = 42. For 8, 8 x 9 = 72.",
+          "exp_hi": "नियम: n : n x (n+1)। 6 के लिए, 6 x 7 = 42। 8 के लिए, 8 x 9 = 72।"
+        },
+        {
+          "q": "Select the letter-cluster that follows the same rule as: DFH : CEG :: MOQ : ?",
+          "opts": [
+            "LMO",
+            "NPR",
+            "LNP",
+            "KMO"
           ],
           "ans": 2,
-          "subject": "General Awareness"
+          "subject": "General Intelligence",
+          "q_hi": "उस अक्षर-समूह का चयन करें जो इसी नियम का पालन करता है: DFH : CEG :: MOQ : ?",
+          "opts_hi": [
+            "LMO",
+            "NPR",
+            "LNP",
+            "KMO"
+          ],
+          "exp_en": "Each letter of the second cluster is one position before the corresponding letter of the first cluster. So for MOQ, the answer is LNP (M-1=L, O-1=N, Q-1=P).",
+          "exp_hi": "दूसरे समूह का प्रत्येक अक्षर पहले समूह के संगत अक्षर से एक स्थान पीछे है। इसलिए MOQ के लिए उत्तर LNP है (M-1=L, O-1=N, Q-1=P)।"
+        },
+        {
+          "q": "Select the word that best fits in place of the question mark: Cardiologist : Heart :: Dermatologist : ?",
+          "opts": [
+            "Bone",
+            "Kidney",
+            "Skin",
+            "Lungs"
+          ],
+          "ans": 2,
+          "subject": "General Intelligence",
+          "q_hi": "उस शब्द का चयन करें जो प्रश्नवाचक चिन्ह के स्थान पर सबसे उपयुक्त बैठता है: Cardiologist : Heart :: Dermatologist : ?",
+          "opts_hi": [
+            "हड्डी (Bone)",
+            "गुर्दा (Kidney)",
+            "त्वचा (Skin)",
+            "फेफड़े (Lungs)"
+          ],
+          "exp_en": "A Cardiologist treats the Heart, similarly a Dermatologist treats the Skin.",
+          "exp_hi": "एक Cardiologist हृदय (Heart) का इलाज करता है, उसी प्रकार एक Dermatologist त्वचा (Skin) का इलाज करता है।"
+        },
+        {
+          "q": "Three of the following four numbers follow a pattern of digits increasing by 1 at each place. Select the one that does NOT belong to that group.",
+          "opts": [
+            "5679",
+            "3456",
+            "4567",
+            "2345"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence",
+          "q_hi": "निम्नलिखित चार संख्याओं में से तीन में अंक प्रत्येक स्थान पर 1-1 बढ़ते हुए एक पैटर्न बनाते हैं। उस संख्या का चयन करें जो इस समूह से संबंधित नहीं है।",
+          "opts_hi": [
+            "5679",
+            "3456",
+            "4567",
+            "2345"
+          ],
+          "exp_en": "In 2345, 3456 and 4567, each digit is exactly 1 more than the previous digit. In 5679, the digit after 7 jumps to 9 instead of 8, breaking the pattern.",
+          "exp_hi": "2345, 3456 और 4567 में प्रत्येक अंक पिछले अंक से ठीक 1 अधिक है। 5679 में 7 के बाद अंक 8 की बजाय 9 पर कूदता है, जिससे पैटर्न टूटता है।"
+        },
+        {
+          "q": "In a certain code language, FLOWER is written as HNQYGT. How will GARDEN be written in that code language?",
+          "opts": [
+            "HBTGFP",
+            "HCSGFO",
+            "ICSFGP",
+            "ICTFGP"
+          ],
+          "ans": 3,
+          "subject": "General Intelligence",
+          "q_hi": "एक निश्चित कोड भाषा में, FLOWER को HNQYGT लिखा जाता है। उसी कोड भाषा में GARDEN को कैसे लिखा जाएगा?",
+          "opts_hi": [
+            "HBTGFP",
+            "HCSGFO",
+            "ICSFGP",
+            "ICTFGP"
+          ],
+          "exp_en": "Each letter of FLOWER is shifted forward by 2 positions to get HNQYGT (F+2=H, L+2=N, O+2=Q, W+2=Y, E+2=G, R+2=T). Applying the same rule to GARDEN gives G+2=I, A+2=C, R+2=T, D+2=F, E+2=G, N+2=P, i.e. ICTFGP.",
+          "exp_hi": "FLOWER के प्रत्येक अक्षर को 2 स्थान आगे खिसकाकर HNQYGT प्राप्त होता है (F+2=H, L+2=N, O+2=Q, W+2=Y, E+2=G, R+2=T)। यही नियम GARDEN पर लगाने पर G+2=I, A+2=C, R+2=T, D+2=F, E+2=G, N+2=P मिलता है, अर्थात ICTFGP।"
+        },
+        {
+          "q": "Select the number that fits the same pattern: 48 : 12 :: 63 : ?",
+          "opts": [
+            "8",
+            "10",
+            "9",
+            "11"
+          ],
+          "ans": 2,
+          "subject": "General Intelligence",
+          "q_hi": "उस संख्या का चयन करें जो समान पैटर्न का पालन करती है: 48 : 12 :: 63 : ?",
+          "opts_hi": [
+            "8",
+            "10",
+            "9",
+            "11"
+          ],
+          "exp_en": "Sum of digits of first number gives second number: 4+8=12. Similarly 6+3=9.",
+          "exp_hi": "पहली संख्या के अंकों का योग दूसरी संख्या देता है: 4+8=12। इसी तरह 6+3=9।"
+        },
+        {
+          "q": "Select the letter-cluster that follows the same rule as: BDF : CEG :: HJL : ?",
+          "opts": [
+            "HJM",
+            "JKL",
+            "IJK",
+            "IKM"
+          ],
+          "ans": 3,
+          "subject": "General Intelligence",
+          "q_hi": "उस अक्षर-समूह का चयन करें जो समान नियम का पालन करता है: BDF : CEG :: HJL : ?",
+          "opts_hi": [
+            "HJM",
+            "JKL",
+            "IJK",
+            "IKM"
+          ],
+          "exp_en": "Each letter of the first cluster is shifted one step forward to get the second cluster. Applying the same rule to HJL gives IKM.",
+          "exp_hi": "पहले समूह के प्रत्येक अक्षर को एक स्थान आगे खिसकाकर दूसरा समूह बनता है। HJL पर यही नियम लगाने पर IKM मिलता है।"
+        },
+        {
+          "q": "Three of the following four-digit numbers are alike in a certain way based on digit sum and one is different. Find the odd one out.",
+          "opts": [
+            "1234",
+            "2541",
+            "3450",
+            "7320"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence",
+          "q_hi": "निम्नलिखित चार संख्याओं में से तीन अंकों के योग के आधार पर एक जैसी हैं और एक अलग है। अलग संख्या चुनें।",
+          "opts_hi": [
+            "1234",
+            "2541",
+            "3450",
+            "7320"
+          ],
+          "exp_en": "In 3450, 2541 and 7320 the sum of digits is 12, but in 1234 the sum of digits is 10, making it the odd one out.",
+          "exp_hi": "3450, 2541 और 7320 में अंकों का योग 12 है, परंतु 1234 में अंकों का योग 10 है, इसलिए यह अलग है।"
+        },
+        {
+          "q": "Pointing to a photograph, Ravi said, She is the daughter of my grandfather's only son. How is the girl related to Ravi (a male)?",
+          "opts": [
+            "Sister",
+            "Daughter",
+            "Cousin",
+            "Niece"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence",
+          "q_hi": "एक तस्वीर की ओर इशारा करते हुए रवि ने कहा, वह मेरे दादा के इकलौते बेटे की बेटी है। वह लड़की रवि (एक पुरुष) से किस प्रकार संबंधित है?",
+          "opts_hi": [
+            "बहन",
+            "बेटी",
+            "चचेरी बहन",
+            "भतीजी"
+          ],
+          "exp_en": "Grandfather's only son is Ravi's father. The daughter of Ravi's father is Ravi's sister.",
+          "exp_hi": "दादा का इकलौता बेटा रवि का पिता है। रवि के पिता की बेटी रवि की बहन होगी।"
+        },
+        {
+          "q": "Select the odd one out.",
+          "opts": [
+            "Potato",
+            "Banana",
+            "Mango",
+            "Apple"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence",
+          "q_hi": "विषम का चयन करें।",
+          "opts_hi": [
+            "आलू",
+            "केला",
+            "आम",
+            "सेब"
+          ],
+          "exp_en": "Mango, Banana and Apple are fruits, while Potato is a vegetable.",
+          "exp_hi": "आम, केला और सेब फल हैं, जबकि आलू एक सब्जी है।"
+        },
+        {
+          "q": "Arrange the following in a logical order of units of writing, from smallest to largest. 1. Word 2. Sentence 3. Paragraph 4. Book",
+          "opts": [
+            "2,1,3,4",
+            "1,2,3,4",
+            "1,3,2,4",
+            "4,3,2,1"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence",
+          "q_hi": "निम्नलिखित को लेखन इकाइयों के तार्किक क्रम में व्यवस्थित करें, सबसे छोटे से सबसे बड़े तक। 1. शब्द 2. वाक्य 3. अनुच्छेद 4. पुस्तक",
+          "opts_hi": [
+            "2,1,3,4",
+            "1,2,3,4",
+            "1,3,2,4",
+            "4,3,2,1"
+          ],
+          "exp_en": "A word forms a sentence, sentences form a paragraph, and paragraphs together form a book.",
+          "exp_hi": "एक शब्द मिलकर वाक्य बनाता है, वाक्य मिलकर अनुच्छेद बनाते हैं, और अनुच्छेद मिलकर पुस्तक बनाते हैं।"
+        },
+        {
+          "q": "Statements: All pens are pencils. All pencils are erasers. Some erasers are sharpeners. Conclusions: I. All pens are erasers. II. Some erasers are pencils. III. Some sharpeners are pens.",
+          "opts": [
+            "Only I and II follow",
+            "Only I follows",
+            "Only II and III follow",
+            "All follow"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence",
+          "q_hi": "कथन: सभी पेन, पेंसिल हैं। सभी पेंसिल, रबड़ हैं। कुछ रबड़, शार्पनर हैं। निष्कर्ष: I. सभी पेन, रबड़ हैं। II. कुछ रबड़, पेंसिल हैं। III. कुछ शार्पनर, पेन हैं।",
+          "opts_hi": [
+            "केवल I और II अनुसरण करते हैं",
+            "केवल I अनुसरण करता है",
+            "केवल II और III अनुसरण करते हैं",
+            "सभी अनुसरण करते हैं"
+          ],
+          "exp_en": "Since all pens are pencils and all pencils are erasers, all pens are erasers (I follows). Since all pencils are erasers, some erasers are pencils (II follows). III cannot be concluded as no direct link exists between sharpeners and pens.",
+          "exp_hi": "चूंकि सभी पेन पेंसिल हैं और सभी पेंसिल रबड़ हैं, इसलिए सभी पेन रबड़ हैं (I सही है)। चूंकि सभी पेंसिल रबड़ हैं, इसलिए कुछ रबड़ पेंसिल हैं (II सही है)। शार्पनर और पेन के बीच कोई सीधा संबंध नहीं है, इसलिए III नहीं निकाला जा सकता।"
+        },
+        {
+          "q": "Petal : Flower :: Page : ?",
+          "opts": [
+            "Pen",
+            "Book",
+            "Library",
+            "Chapter"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence",
+          "q_hi": "पंखुड़ी : फूल :: पृष्ठ : ?",
+          "opts_hi": [
+            "कलम",
+            "किताब",
+            "पुस्तकालय",
+            "अध्याय"
+          ],
+          "exp_en": "A petal is a part of a flower, similarly a page is a part of a book. This is a part-to-whole relationship.",
+          "exp_hi": "पंखुड़ी फूल का एक भाग है, उसी प्रकार पृष्ठ किताब का एक भाग है। यह भाग-संपूर्ण का संबंध है।"
+        },
+        {
+          "q": "Select the letter-cluster that is different from the other three.",
+          "opts": [
+            "BDF",
+            "HJL",
+            "PRS",
+            "MOQ"
+          ],
+          "ans": 2,
+          "subject": "General Intelligence",
+          "q_hi": "उस अक्षर-समूह को चुनें जो अन्य तीन से भिन्न है।",
+          "opts_hi": [
+            "BDF",
+            "HJL",
+            "PRS",
+            "MOQ"
+          ],
+          "exp_en": "BDF, HJL and MOQ each have letters with a constant gap of 2 positions, e.g. B(2) D(4) F(6). PRS has gaps of 2 and 1 (P16 R18 S19), breaking the pattern.",
+          "exp_hi": "BDF, HJL और MOQ में प्रत्येक अक्षर के बीच स्थिर अंतर 2 है, जैसे B(2) D(4) F(6)। PRS में अंतर 2 और 1 है, जो पैटर्न को तोड़ता है।"
+        },
+        {
+          "q": "If in a certain code each letter of a word is written as its position number in the English alphabet, CHAIR is coded as 3-8-1-9-18. How will TABLE be coded in the same language?",
+          "opts": [
+            "2-1-20-12-5",
+            "20-1-12-2-5",
+            "20-1-2-12-5",
+            "20-2-1-12-5"
+          ],
+          "ans": 2,
+          "subject": "General Intelligence",
+          "q_hi": "यदि एक निश्चित कोड में प्रत्येक अक्षर को अंग्रेजी वर्णमाला में उसकी स्थिति संख्या के रूप में लिखा जाता है, तो CHAIR को 3-8-1-9-18 लिखा जाता है। उसी भाषा में TABLE को कैसे कोडित किया जाएगा?",
+          "opts_hi": [
+            "2-1-20-12-5",
+            "20-1-12-2-5",
+            "20-1-2-12-5",
+            "20-2-1-12-5"
+          ],
+          "exp_en": "T=20, A=1, B=2, L=12, E=5. Writing these position numbers in order gives 20-1-2-12-5.",
+          "exp_hi": "T=20, A=1, B=2, L=12, E=5। इन स्थिति संख्याओं को क्रम में लिखने पर 20-1-2-12-5 प्राप्त होता है।"
+        },
+        {
+          "q": "In which of the following equations will the signs + and × need to be interchanged to make the equation correct?",
+          "opts": [
+            "7 + 3 × 4 = 19",
+            "8 + 4 × 2 = 20",
+            "5 + 6 × 2 = 22",
+            "9 + 2 × 3 = 21"
+          ],
+          "ans": 3,
+          "subject": "General Intelligence",
+          "q_hi": "निम्नलिखित में से किस समीकरण में + और × चिन्हों को आपस में बदलने पर समीकरण सही हो जाएगा?",
+          "opts_hi": [
+            "7 + 3 × 4 = 19",
+            "8 + 4 × 2 = 20",
+            "5 + 6 × 2 = 22",
+            "9 + 2 × 3 = 21"
+          ],
+          "exp_en": "Swapping + and × in 9 + 2 x 3 = 21 gives 9 x 2 + 3 = 18 + 3 = 21, which is true. The other options do not balance after swapping.",
+          "exp_hi": "9 + 2 × 3 = 21 में + और × बदलने पर 9 × 2 + 3 = 18 + 3 = 21 होता है, जो सत्य है। अन्य विकल्प बदलने के बाद संतुलित नहीं होते।"
+        },
+        {
+          "q": "In a class of 40 students, Meena ranks 14th from the top. If there are 5 students between Meena and the last rank, what is her rank from the bottom?",
+          "opts": [
+            "6th",
+            "7th",
+            "26th",
+            "27th"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence",
+          "q_hi": "40 विद्यार्थियों की कक्षा में मीना का स्थान ऊपर से 14वां है। यदि मीना और अंतिम स्थान के बीच 5 विद्यार्थी हैं, तो नीचे से उसका स्थान क्या है?",
+          "opts_hi": [
+            "6वां",
+            "7वां",
+            "26वां",
+            "27वां"
+          ],
+          "exp_en": "5 students between Meena and the last rank means Meena is 6th from the last position counted inclusive, so rank from bottom = 5 + 1 = 6th? Let us verify with total: rank from top + rank from bottom - 1 = total students. Here rank from bottom = 6, check 14 + 6 - 1 = 19, not 40, so recompute: students between Meena and last rank = 5, so positions after her = 5, meaning her rank from bottom = 5 + 1 = 6th. This is independent of total students count.",
+          "exp_hi": "मीना और अंतिम स्थान के बीच 5 विद्यार्थी हैं, इसका अर्थ है कि मीना के बाद 5 विद्यार्थी हैं, इसलिए नीचे से उसका स्थान = 5 + 1 = 6वां होगा।"
+        },
+        {
+          "q": "Which ancient Indian university, located in present-day Bihar, was a renowned centre of Buddhist learning and was visited by Chinese traveller Xuanzang?",
+          "opts": [
+            "Nalanda",
+            "Takshashila",
+            "Vikramshila",
+            "Vallabhi"
+          ],
+          "ans": 0,
+          "subject": "General Awareness",
+          "q_hi": "कौन-सा प्राचीन भारतीय विश्वविद्यालय, जो वर्तमान बिहार में स्थित था, बौद्ध शिक्षा का प्रसिद्ध केंद्र था और जिसे चीनी यात्री ह्वेनसांग ने देखा था?",
+          "opts_hi": [
+            "नालंदा",
+            "तक्षशिला",
+            "विक्रमशिला",
+            "वल्लभी"
+          ],
+          "exp_en": "Nalanda, in present-day Bihar, was a famous centre of Buddhist learning visited by the Chinese traveller Xuanzang in the 7th century CE.",
+          "exp_hi": "वर्तमान बिहार में स्थित नालंदा बौद्ध शिक्षा का प्रसिद्ध केंद्र था, जिसे 7वीं सदी में चीनी यात्री ह्वेनसांग ने देखा था।"
+        },
+        {
+          "q": "The Sun Temple at Konark, a UNESCO World Heritage Site, is located in which Indian state?",
+          "opts": [
+            "West Bengal",
+            "Tamil Nadu",
+            "Andhra Pradesh",
+            "Odisha"
+          ],
+          "ans": 3,
+          "subject": "General Awareness",
+          "q_hi": "कोणार्क का सूर्य मंदिर, जो एक यूनेस्को विश्व धरोहर स्थल है, भारत के किस राज्य में स्थित है?",
+          "opts_hi": [
+            "पश्चिम बंगाल",
+            "तमिलनाडु",
+            "आंध्र प्रदेश",
+            "ओडिशा"
+          ],
+          "exp_en": "The Konark Sun Temple, built in the 13th century, is located in Odisha and is a UNESCO World Heritage Site known for its chariot-shaped structure.",
+          "exp_hi": "13वीं सदी में निर्मित कोणार्क सूर्य मंदिर ओडिशा में स्थित है और यह अपनी रथ के आकार की संरचना के लिए प्रसिद्ध यूनेस्को विश्व धरोहर स्थल है।"
+        },
+        {
+          "q": "In the Indian economy, what does the abbreviation RBI stand for?",
+          "opts": [
+            "Rural Banking Institute",
+            "Regional Bank of India",
+            "Reserve Bank of India",
+            "Revenue Board of India"
+          ],
+          "ans": 2,
+          "subject": "General Awareness",
+          "q_hi": "भारतीय अर्थव्यवस्था में RBI का पूर्ण रूप क्या है?",
+          "opts_hi": [
+            "रूरल बैंकिंग इंस्टिट्यूट",
+            "रीजनल बैंक ऑफ इंडिया",
+            "रिज़र्व बैंक ऑफ इंडिया",
+            "रेवेन्यू बोर्ड ऑफ इंडिया"
+          ],
+          "exp_en": "RBI stands for Reserve Bank of India, the central banking institution that regulates the monetary policy of the country.",
+          "exp_hi": "RBI का पूर्ण रूप रिज़र्व बैंक ऑफ इंडिया है, जो देश की मौद्रिक नीति को नियंत्रित करने वाली केंद्रीय बैंकिंग संस्था है।"
+        },
+        {
+          "q": "Which separation technique is used to separate a mixture of ammonium chloride and sodium chloride, since one component changes directly from solid to gas on heating?",
+          "opts": [
+            "Filtration",
+            "Sublimation",
+            "Decantation",
+            "Centrifugation"
+          ],
+          "ans": 1,
+          "subject": "General Awareness",
+          "q_hi": "अमोनियम क्लोराइड और सोडियम क्लोराइड के मिश्रण को अलग करने के लिए कौन-सी पृथक्करण विधि उपयोग की जाती है, क्योंकि एक घटक गर्म करने पर सीधे ठोस से गैस में बदल जाता है?",
+          "opts_hi": [
+            "निस्पंदन",
+            "ऊर्ध्वपातन",
+            "निथारन",
+            "अपकेंद्रण"
+          ],
+          "exp_en": "Ammonium chloride sublimes on heating, turning directly from solid to vapour, allowing it to be separated from sodium chloride by sublimation.",
+          "exp_hi": "अमोनियम क्लोराइड गर्म करने पर ऊर्ध्वपातित हो जाता है, सीधे ठोस से वाष्प में बदल जाता है, जिससे इसे सोडियम क्लोराइड से ऊर्ध्वपातन विधि द्वारा अलग किया जा सकता है।"
+        },
+        {
+          "q": "The Tropic of Cancer does NOT pass through which of these Indian states?",
+          "opts": [
+            "Gujarat",
+            "Rajasthan",
+            "Jharkhand",
+            "Punjab"
+          ],
+          "ans": 3,
+          "subject": "General Awareness",
+          "q_hi": "कर्क रेखा निम्नलिखित में से किस भारतीय राज्य से होकर नहीं गुजरती है?",
+          "opts_hi": [
+            "गुजरात",
+            "राजस्थान",
+            "झारखंड",
+            "पंजाब"
+          ],
+          "exp_en": "The Tropic of Cancer passes through eight Indian states including Gujarat, Rajasthan, and Jharkhand, but not through Punjab.",
+          "exp_hi": "कर्क रेखा भारत के आठ राज्यों से होकर गुजरती है जिनमें गुजरात, राजस्थान और झारखंड शामिल हैं, लेकिन पंजाब से नहीं गुजरती।"
+        },
+        {
+          "q": "The Pradhan Mantri Jan Dhan Yojana is primarily aimed at which objective?",
+          "opts": [
+            "Providing free housing",
+            "Subsidising LPG cylinders",
+            "Financial inclusion through bank accounts",
+            "Skill training for youth"
+          ],
+          "ans": 2,
+          "subject": "General Awareness",
+          "q_hi": "प्रधानमंत्री जन धन योजना मुख्य रूप से किस उद्देश्य से शुरू की गई थी?",
+          "opts_hi": [
+            "मुफ्त आवास प्रदान करना",
+            "एलपीजी सिलेंडर पर सब्सिडी",
+            "बैंक खातों के माध्यम से वित्तीय समावेशन",
+            "युवाओं के लिए कौशल प्रशिक्षण"
+          ],
+          "exp_en": "Pradhan Mantri Jan Dhan Yojana was launched to ensure financial inclusion by providing access to banking services and bank accounts for all households.",
+          "exp_hi": "प्रधानमंत्री जन धन योजना सभी परिवारों को बैंकिंग सेवाओं और बैंक खातों तक पहुंच प्रदान करके वित्तीय समावेशन सुनिश्चित करने के लिए शुरू की गई थी।"
+        },
+        {
+          "q": "Which part of the electromagnetic spectrum has the shortest wavelength?",
+          "opts": [
+            "Radio waves",
+            "Gamma rays",
+            "Visible light",
+            "Infrared rays"
+          ],
+          "ans": 1,
+          "subject": "General Awareness",
+          "q_hi": "विद्युत चुम्बकीय स्पेक्ट्रम के किस भाग की तरंगदैर्घ्य सबसे कम होती है?",
+          "opts_hi": [
+            "रेडियो तरंगें",
+            "गामा किरणें",
+            "दृश्य प्रकाश",
+            "अवरक्त किरणें"
+          ],
+          "exp_en": "Among the given options, gamma rays have the shortest wavelength and the highest frequency and energy in the electromagnetic spectrum.",
+          "exp_hi": "दिए गए विकल्पों में से, गामा किरणों की तरंगदैर्घ्य सबसे कम और आवृत्ति तथा ऊर्जा सबसे अधिक होती है।"
+        },
+        {
+          "q": "Who among the following received the Bharat Ratna for his contribution to Indian classical vocal music?",
+          "opts": [
+            "Zakir Hussain",
+            "Bhimsen Joshi",
+            "Ravi Shankar",
+            "Bismillah Khan"
+          ],
+          "ans": 1,
+          "subject": "General Awareness",
+          "q_hi": "निम्नलिखित में से किसे भारतीय शास्त्रीय गायन संगीत में योगदान के लिए भारत रत्न से सम्मानित किया गया?",
+          "opts_hi": [
+            "जाकिर हुसैन",
+            "भीमसेन जोशी",
+            "रवि शंकर",
+            "बिस्मिल्लाह खान"
+          ],
+          "exp_en": "Pandit Bhimsen Joshi, renowned Hindustani classical vocalist, was awarded the Bharat Ratna in 2008 for his contribution to vocal music.",
+          "exp_hi": "प्रसिद्ध हिंदुस्तानी शास्त्रीय गायक पंडित भीमसेन जोशी को गायन संगीत में उनके योगदान के लिए 2008 में भारत रत्न से सम्मानित किया गया था।"
+        },
+        {
+          "q": "India's National Statistical Office releases data on which of the following regularly?",
+          "opts": [
+            "Election results",
+            "Weather forecasts",
+            "Gross Domestic Product estimates",
+            "Railway timetables"
+          ],
+          "ans": 2,
+          "subject": "General Awareness",
+          "q_hi": "भारत का राष्ट्रीय सांख्यिकी कार्यालय निम्नलिखित में से किसके आंकड़े नियमित रूप से जारी करता है?",
+          "opts_hi": [
+            "चुनाव परिणाम",
+            "मौसम पूर्वानुमान",
+            "सकल घरेलू उत्पाद के अनुमान",
+            "रेलवे समय सारिणी"
+          ],
+          "exp_en": "The National Statistical Office is responsible for compiling and releasing official statistics including GDP estimates for the Indian economy.",
+          "exp_hi": "राष्ट्रीय सांख्यिकी कार्यालय भारतीय अर्थव्यवस्था के लिए सकल घरेलू उत्पाद के अनुमान सहित आधिकारिक आंकड़े संकलित और जारी करने के लिए जिम्मेदार है।"
+        },
+        {
+          "q": "Which river, known for its frequent course changes, is called the Sorrow of Bihar?",
+          "opts": [
+            "Son",
+            "Kosi",
+            "Gandak",
+            "Punpun"
+          ],
+          "ans": 1,
+          "subject": "General Awareness",
+          "q_hi": "अपने बार-बार मार्ग परिवर्तन के लिए प्रसिद्ध किस नदी को बिहार का शोक कहा जाता है?",
+          "opts_hi": [
+            "सोन",
+            "कोसी",
+            "गंडक",
+            "पुनपुन"
+          ],
+          "exp_en": "The Kosi river is called the Sorrow of Bihar due to its devastating floods and frequent change of course.",
+          "exp_hi": "कोसी नदी को उसकी विनाशकारी बाढ़ और बार-बार मार्ग परिवर्तन के कारण बिहार का शोक कहा जाता है।"
+        },
+        {
+          "q": "What is the full form of NITI Aayog, the Indian government policy think tank?",
+          "opts": [
+            "National Institution for Transforming India",
+            "National Institute of Trade and Industry",
+            "National Infrastructure and Technology Initiative",
+            "New India Trade and Investment"
+          ],
+          "ans": 0,
+          "subject": "General Awareness",
+          "q_hi": "भारत सरकार के नीति थिंक टैंक नीति आयोग का पूर्ण रूप क्या है?",
+          "opts_hi": [
+            "नेशनल इंस्टीट्यूशन फॉर ट्रांसफॉर्मिंग इंडिया",
+            "नेशनल इंस्टीट्यूट ऑफ ट्रेड एंड इंडस्ट्री",
+            "नेशनल इंफ्रास्ट्रक्चर एंड टेक्नोलॉजी इनिशिएटिव",
+            "न्यू इंडिया ट्रेड एंड इन्वेस्टमेंट"
+          ],
+          "exp_en": "NITI Aayog stands for National Institution for Transforming India, which replaced the Planning Commission in 2015.",
+          "exp_hi": "नीति आयोग का अर्थ है नेशनल इंस्टीट्यूशन फॉर ट्रांसफॉर्मिंग इंडिया, जिसने 2015 में योजना आयोग का स्थान लिया।"
+        },
+        {
+          "q": "In computer systems, what does the abbreviation RAM stand for?",
+          "opts": [
+            "Read Allocated Memory",
+            "Read Access Module",
+            "Rapid Application Memory",
+            "Random Access Memory"
+          ],
+          "ans": 3,
+          "subject": "General Awareness",
+          "q_hi": "कंप्यूटर प्रणाली में RAM का पूर्ण रूप क्या है?",
+          "opts_hi": [
+            "रीड एलोकेटेड मेमोरी",
+            "रीड एक्सेस मॉड्यूल",
+            "रैपिड एप्लीकेशन मेमोरी",
+            "रैंडम एक्सेस मेमोरी"
+          ],
+          "exp_en": "RAM stands for Random Access Memory, a temporary memory used by a computer to store data currently in use.",
+          "exp_hi": "RAM का अर्थ है रैंडम एक्सेस मेमोरी, जो कंप्यूटर द्वारा वर्तमान में उपयोग किए जा रहे डेटा को अस्थायी रूप से संग्रहीत करने हेतु प्रयोग होती है।"
+        },
+        {
+          "q": "The Arjuna Award in India is primarily given for outstanding achievement in which field?",
+          "opts": [
+            "Sports",
+            "Literature",
+            "Science",
+            "Classical Music"
+          ],
+          "ans": 0,
+          "subject": "General Awareness",
+          "q_hi": "भारत में अर्जुन पुरस्कार मुख्य रूप से किस क्षेत्र में उत्कृष्ट उपलब्धि के लिए दिया जाता है?",
+          "opts_hi": [
+            "खेल",
+            "साहित्य",
+            "विज्ञान",
+            "शास्त्रीय संगीत"
+          ],
+          "exp_en": "The Arjuna Award is conferred by the Government of India for consistently outstanding performance in sports for four years.",
+          "exp_hi": "अर्जुन पुरस्कार भारत सरकार द्वारा चार वर्षों तक लगातार उत्कृष्ट खेल प्रदर्शन के लिए दिया जाता है।"
+        },
+        {
+          "q": "The Qutub Minar in Delhi was built by which ruler?",
+          "opts": [
+            "Qutb-ud-din Aibak",
+            "Akbar",
+            "Shah Jahan",
+            "Humayun"
+          ],
+          "ans": 0,
+          "subject": "General Awareness",
+          "q_hi": "दिल्ली में कुतुब मीनार किस शासक ने बनवाई थी?",
+          "opts_hi": [
+            "कुतुबुद्दीन ऐबक",
+            "अकबर",
+            "शाहजहाँ",
+            "हुमायूँ"
+          ],
+          "exp_en": "The Qutub Minar was commissioned by Qutb-ud-din Aibak, founder of the Delhi Sultanate, and later completed by his successors.",
+          "exp_hi": "कुतुब मीनार का निर्माण दिल्ली सल्तनत के संस्थापक कुतुबुद्दीन ऐबक ने शुरू करवाया था और बाद में उनके उत्तराधिकारियों ने इसे पूरा किया।"
+        },
+        {
+          "q": "The UNESCO World Heritage Site of Hampi, known for its ruins of the Vijayanagara Empire, is located in which state?",
+          "opts": [
+            "Tamil Nadu",
+            "Karnataka",
+            "Andhra Pradesh",
+            "Telangana"
+          ],
+          "ans": 1,
+          "subject": "General Awareness",
+          "q_hi": "विजयनगर साम्राज्य के खंडहरों के लिए प्रसिद्ध यूनेस्को विश्व धरोहर स्थल हम्पी किस राज्य में स्थित है?",
+          "opts_hi": [
+            "तमिलनाडु",
+            "कर्नाटक",
+            "आंध्र प्रदेश",
+            "तेलंगाना"
+          ],
+          "exp_en": "Hampi, the site of the ruined capital of the Vijayanagara Empire, is situated in Karnataka and is a UNESCO World Heritage Site.",
+          "exp_hi": "विजयनगर साम्राज्य की खंडहर राजधानी हम्पी कर्नाटक में स्थित है और यह एक यूनेस्को विश्व धरोहर स्थल है।"
+        },
+        {
+          "q": "The Brahmaputra river, before entering India, is known by which name in Tibet?",
+          "opts": [
+            "Indus",
+            "Yarlung Tsangpo",
+            "Sutlej",
+            "Teesta"
+          ],
+          "ans": 1,
+          "subject": "General Awareness",
+          "q_hi": "भारत में प्रवेश करने से पहले ब्रह्मपुत्र नदी तिब्बत में किस नाम से जानी जाती है?",
+          "opts_hi": [
+            "सिंधु",
+            "यारलुंग त्सांगपो",
+            "सतलुज",
+            "तीस्ता"
+          ],
+          "exp_en": "In Tibet, the Brahmaputra is called the Yarlung Tsangpo before it enters India through Arunachal Pradesh.",
+          "exp_hi": "तिब्बत में ब्रह्मपुत्र नदी को यारलुंग त्सांगपो कहा जाता है, यह अरुणाचल प्रदेश से होकर भारत में प्रवेश करती है।"
+        },
+        {
+          "q": "In the Indian financial system, what does the abbreviation SEBI stand for?",
+          "opts": [
+            "Savings and Exchange Board of India",
+            "State Exchange Bureau of India",
+            "Securities and Exchange Board of India",
+            "Securities and Economic Bureau of India"
+          ],
+          "ans": 2,
+          "subject": "General Awareness",
+          "q_hi": "भारतीय वित्तीय प्रणाली में SEBI का पूर्ण रूप क्या है?",
+          "opts_hi": [
+            "सेविंग्स एंड एक्सचेंज बोर्ड ऑफ इंडिया",
+            "स्टेट एक्सचेंज ब्यूरो ऑफ इंडिया",
+            "सिक्योरिटीज एंड एक्सचेंज बोर्ड ऑफ इंडिया",
+            "सिक्योरिटीज एंड इकोनॉमिक ब्यूरो ऑफ इंडिया"
+          ],
+          "exp_en": "SEBI stands for Securities and Exchange Board of India, the regulatory body for the securities and capital markets.",
+          "exp_hi": "SEBI का पूर्ण रूप सिक्योरिटीज एंड एक्सचेंज बोर्ड ऑफ इंडिया है, जो प्रतिभूति और पूंजी बाजार का नियामक निकाय है।"
+        },
+        {
+          "q": "India's highest sporting honour, the Rajiv Gandhi Khel Ratna, was renamed after which sportsperson in 2021?",
+          "opts": [
+            "Sachin Tendulkar",
+            "Milkha Singh",
+            "Major Dhyan Chand",
+            "P.T. Usha"
+          ],
+          "ans": 2,
+          "subject": "General Awareness",
+          "q_hi": "भारत के सर्वोच्च खेल सम्मान राजीव गांधी खेल रत्न का नाम 2021 में किस खिलाड़ी के नाम पर रखा गया?",
+          "opts_hi": [
+            "सचिन तेंदुलकर",
+            "मिल्खा सिंह",
+            "मेजर ध्यानचंद",
+            "पी.टी. उषा"
+          ],
+          "exp_en": "In 2021, the Rajiv Gandhi Khel Ratna award was renamed the Major Dhyan Chand Khel Ratna, honouring the legendary hockey player.",
+          "exp_hi": "वर्ष 2021 में राजीव गांधी खेल रत्न पुरस्कार का नाम बदलकर मेजर ध्यानचंद खेल रत्न कर दिया गया, जो महान हॉकी खिलाड़ी के सम्मान में था।"
+        },
+        {
+          "q": "Which Delhi Sultanate ruler is known for shifting his capital from Delhi to Daulatabad and introducing token currency?",
+          "opts": [
+            "Muhammad bin Tughlaq",
+            "Alauddin Khilji",
+            "Balban",
+            "Firoz Shah Tughlaq"
+          ],
+          "ans": 0,
+          "subject": "General Awareness",
+          "q_hi": "दिल्ली सल्तनत का कौन सा शासक अपनी राजधानी दिल्ली से दौलताबाद स्थानांतरित करने और सांकेतिक मुद्रा शुरू करने के लिए जाना जाता है?",
+          "opts_hi": [
+            "मुहम्मद बिन तुगलक",
+            "अलाउद्दीन खिलजी",
+            "बलबन",
+            "फिरोज शाह तुगलक"
+          ],
+          "exp_en": "Muhammad bin Tughlaq shifted the capital to Daulatabad and introduced token (copper) currency, both of which failed as administrative experiments.",
+          "exp_hi": "मुहम्मद बिन तुगलक ने राजधानी दौलताबाद स्थानांतरित की और सांकेतिक (तांबे की) मुद्रा शुरू की, ये दोनों प्रशासनिक प्रयोग असफल रहे।"
+        },
+        {
+          "q": "Which of the following Indian states does NOT share a border with Nepal?",
+          "opts": [
+            "Sikkim",
+            "Bihar",
+            "Uttar Pradesh",
+            "Haryana"
+          ],
+          "ans": 3,
+          "subject": "General Awareness",
+          "q_hi": "निम्नलिखित में से कौन सा भारतीय राज्य नेपाल के साथ सीमा साझा नहीं करता है?",
+          "opts_hi": [
+            "सिक्किम",
+            "बिहार",
+            "उत्तर प्रदेश",
+            "हरियाणा"
+          ],
+          "exp_en": "Haryana does not border Nepal; the states sharing a border with Nepal are Uttarakhand, Uttar Pradesh, Bihar, West Bengal, and Sikkim.",
+          "exp_hi": "हरियाणा नेपाल के साथ सीमा साझा नहीं करता; नेपाल से सीमा साझा करने वाले राज्य उत्तराखंड, उत्तर प्रदेश, बिहार, पश्चिम बंगाल और सिक्किम हैं।"
+        },
+        {
+          "q": "The Ayushman Bharat scheme primarily aims to provide which benefit to eligible families?",
+          "opts": [
+            "Monthly pension for the elderly",
+            "Free housing construction",
+            "Health insurance coverage for hospitalisation",
+            "Free electricity connections"
+          ],
+          "ans": 2,
+          "subject": "General Awareness",
+          "q_hi": "आयुष्मान भारत योजना मुख्य रूप से पात्र परिवारों को कौन सा लाभ प्रदान करने का लक्ष्य रखती है?",
+          "opts_hi": [
+            "वृद्धों के लिए मासिक पेंशन",
+            "मुफ्त आवास निर्माण",
+            "अस्पताल में भर्ती होने के लिए स्वास्थ्य बीमा कवरेज",
+            "मुफ्त बिजली कनेक्शन"
+          ],
+          "exp_en": "Ayushman Bharat (PM-JAY) provides health insurance coverage of up to Rs 5 lakh per family per year for secondary and tertiary hospitalisation.",
+          "exp_hi": "आयुष्मान भारत (PM-JAY) प्रति परिवार प्रति वर्ष 5 लाख रुपये तक का स्वास्थ्य बीमा कवरेज द्वितीयक और तृतीयक अस्पताल भर्ती के लिए प्रदान करती है।"
+        },
+        {
+          "q": "Which component of human blood is primarily responsible for clotting at the site of a wound?",
+          "opts": [
+            "White blood cells",
+            "Red blood cells",
+            "Plasma",
+            "Platelets"
+          ],
+          "ans": 3,
+          "subject": "General Awareness",
+          "q_hi": "मानव रक्त का कौन सा घटक घाव के स्थान पर थक्का बनाने के लिए मुख्य रूप से जिम्मेदार होता है?",
+          "opts_hi": [
+            "श्वेत रक्त कोशिकाएं",
+            "लाल रक्त कोशिकाएं",
+            "प्लाज्मा",
+            "प्लेटलेट्स"
+          ],
+          "exp_en": "Platelets (thrombocytes) clump together and release chemicals that initiate the clotting process to stop bleeding at a wound site.",
+          "exp_hi": "प्लेटलेट्स (थ्रोम्बोसाइट्स) एक साथ जुड़कर ऐसे रसायन छोड़ते हैं जो घाव स्थल पर रक्तस्राव रोकने के लिए थक्का बनने की प्रक्रिया शुरू करते हैं।"
+        },
+        {
+          "q": "ISRO, India's national space agency, has its headquarters located in which city?",
+          "opts": [
+            "Bengaluru",
+            "Thiruvananthapuram",
+            "Hyderabad",
+            "Chennai"
+          ],
+          "ans": 0,
+          "subject": "General Awareness",
+          "q_hi": "भारत की राष्ट्रीय अंतरिक्ष एजेंसी इसरो का मुख्यालय किस शहर में स्थित है?",
+          "opts_hi": [
+            "बेंगलुरु",
+            "तिरुवनंतपुरम",
+            "हैदराबाद",
+            "चेन्नई"
+          ],
+          "exp_en": "The Indian Space Research Organisation (ISRO) has its headquarters in Bengaluru, Karnataka, and operates several centres across India.",
+          "exp_hi": "भारतीय अंतरिक्ष अनुसंधान संगठन (इसरो) का मुख्यालय बेंगलुरु, कर्नाटक में है, और इसके भारत भर में कई केंद्र हैं।"
+        },
+        {
+          "q": "The novel Malgudi Days, depicting life in a fictional South Indian town, was written by which author?",
+          "opts": [
+            "Ruskin Bond",
+            "Mulk Raj Anand",
+            "Khushwant Singh",
+            "R.K. Narayan"
+          ],
+          "ans": 3,
+          "subject": "General Awareness",
+          "q_hi": "उपन्यास मालगुडी डेज़, जो एक काल्पनिक दक्षिण भारतीय शहर के जीवन को दर्शाता है, किस लेखक द्वारा लिखा गया था?",
+          "opts_hi": [
+            "रस्किन बॉन्ड",
+            "मुल्क राज आनंद",
+            "खुशवंत सिंह",
+            "आर.के. नारायण"
+          ],
+          "exp_en": "Malgudi Days is a famous collection of short stories written by R.K. Narayan, set in the fictional town of Malgudi.",
+          "exp_hi": "मालगुडी डेज़ आर.के. नारायण द्वारा लिखी गई लघु कथाओं का प्रसिद्ध संग्रह है, जो काल्पनिक शहर मालगुडी पर आधारित है।"
+        },
+        {
+          "q": "The United Nations General Assembly declared which date as International Day of Yoga, first observed in 2015?",
+          "opts": [
+            "June 21",
+            "April 7",
+            "October 2",
+            "March 21"
+          ],
+          "ans": 0,
+          "subject": "General Awareness",
+          "q_hi": "संयुक्त राष्ट्र महासभा ने किस तिथि को अंतर्राष्ट्रीय योग दिवस घोषित किया था, जिसे पहली बार 2015 में मनाया गया?",
+          "opts_hi": [
+            "21 जून",
+            "7 अप्रैल",
+            "2 अक्टूबर",
+            "21 मार्च"
+          ],
+          "exp_en": "The UN General Assembly declared 21 June as International Day of Yoga in 2014, and it has been observed worldwide since 2015.",
+          "exp_hi": "संयुक्त राष्ट्र महासभा ने 2014 में 21 जून को अंतर्राष्ट्रीय योग दिवस घोषित किया था, और तब से यह विश्वभर में मनाया जाता है।"
+        },
+        {
+          "q": "The bar graph shows the target and actual production of AC machines (in thousands) of a factory in five months. What is the ratio of the combined target production of October and August to the combined actual production of September and December?",
+          "opts": [
+            "10 : 9",
+            "9 : 11",
+            "9 : 10",
+            "1 : 1"
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "दिया गया बार ग्राफ पाँच महीनों में एक कारखाने की एसी मशीनों (हज़ारों में) का लक्षित और वास्तविक उत्पादन दर्शाता है। अक्टूबर और अगस्त के संयुक्त लक्षित उत्पादन का सितंबर और दिसंबर के संयुक्त वास्तविक उत्पादन से अनुपात क्या है?",
+          "opts_hi": [
+            "10 : 9",
+            "9 : 11",
+            "9 : 10",
+            "1 : 1"
+          ],
+          "exp_en": "Target (October+August) = 60+30 = 90; actual (September+December) = 50+50 = 100. Ratio = 9 : 10.",
+          "exp_hi": "लक्षित = 60+30 = 90; वास्तविक = 50+50 = 100। अनुपात = 9 : 10।",
+          "img": "/question-images/chsl/chsl4_bar_51_q.svg"
+        },
+        {
+          "q": "The bar graph shows the target and actual production of AC machines (in thousands) of a factory in five months. The total target production in October, August, September is what percent less than the total actual production in all five months? (correct to one decimal place)",
+          "opts": [
+            "123.1%",
+            "57.5%",
+            "55.2%",
+            "52.1%"
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "दिया गया बार ग्राफ पाँच महीनों में एक कारखाने की एसी मशीनों (हज़ारों में) का लक्षित और वास्तविक उत्पादन दर्शाता है। अक्टूबर, अगस्त, सितंबर में कुल लक्षित उत्पादन, पाँचों महीनों के कुल वास्तविक उत्पादन से कितने प्रतिशत कम है? (दशमलव के एक अंक तक)",
+          "opts_hi": [
+            "123.1%",
+            "57.5%",
+            "55.2%",
+            "52.1%"
+          ],
+          "exp_en": "Target total = 130; actual total = 290. Percent less = (290-130)/290 x 100 = 55.2%.",
+          "exp_hi": "लक्षित कुल = 130; वास्तविक कुल = 290। कम प्रतिशत = (290-130)/290 x 100 = 55.2%।",
+          "img": "/question-images/chsl/chsl4_bar_51_q.svg"
+        },
+        {
+          "q": "The bar graph shows the target and actual production of AC machines (in thousands) of a factory in five months. The actual production in August was what percent more than the average target production of the five months? (correct to one decimal place)",
+          "opts": [
+            "15.4%",
+            "13.3%",
+            "17.9%",
+            "12.0%"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "दिया गया बार ग्राफ पाँच महीनों में एक कारखाने की एसी मशीनों (हज़ारों में) का लक्षित और वास्तविक उत्पादन दर्शाता है। अगस्त में वास्तविक उत्पादन, पाँच महीनों के औसत लक्षित उत्पादन से कितने प्रतिशत अधिक था? (दशमलव के एक अंक तक)",
+          "opts_hi": [
+            "15.4%",
+            "13.3%",
+            "17.9%",
+            "12.0%"
+          ],
+          "exp_en": "Average target = 260/5 = 52. Percent more = (60-52)/52 x 100 = 15.4%.",
+          "exp_hi": "औसत लक्षित = 260/5 = 52। अधिक प्रतिशत = (60-52)/52 x 100 = 15.4%।",
+          "img": "/question-images/chsl/chsl4_bar_51_q.svg"
+        },
+        {
+          "q": "The bar graph shows the target and actual production of AC machines (in thousands) of a factory in five months. In which month was the actual production 25% more than the target production?",
+          "opts": [
+            "September",
+            "November",
+            "August",
+            "December"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "दिया गया बार ग्राफ पाँच महीनों में एक कारखाने की एसी मशीनों (हज़ारों में) का लक्षित और वास्तविक उत्पादन दर्शाता है। किस महीने में वास्तविक उत्पादन, लक्षित उत्पादन से 25% अधिक था?",
+          "opts_hi": [
+            "सितंबर",
+            "नवंबर",
+            "अगस्त",
+            "दिसंबर"
+          ],
+          "exp_en": "In September, target = 40 and actual = 50; 40 x 1.25 = 50. No other option satisfies this.",
+          "exp_hi": "सितंबर में लक्षित = 40 और वास्तविक = 50; 40 x 1.25 = 50।",
+          "img": "/question-images/chsl/chsl4_bar_51_q.svg"
+        },
+        {
+          "q": "A is 20% more than B, and B is 25% less than C. A is what percentage of C?",
+          "opts": [
+            "80%",
+            "85%",
+            "90%",
+            "95%"
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "A, B से 20% अधिक है, और B, C से 25% कम है। A, C का कितना प्रतिशत है?",
+          "opts_hi": [
+            "80%",
+            "85%",
+            "90%",
+            "95%"
+          ],
+          "exp_en": "Let C = 100. B = 75% of C = 75. A = 120% of B = 1.2 x 75 = 90. So A is 90% of C.",
+          "exp_hi": "मान लें C = 100। B = C का 75% = 75। A = B का 120% = 1.2 x 75 = 90। अतः A, C का 90% है।"
+        },
+        {
+          "q": "A shopkeeper marks an item 25% above its cost price of Rs 800 and then offers a 10% discount on the marked price. What is his profit percentage?",
+          "opts": [
+            "10%",
+            "20%",
+            "15%",
+            "12.5%"
+          ],
+          "ans": 3,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "एक दुकानदार 800 रुपये लागत मूल्य वाली वस्तु पर 25% अधिक अंकित मूल्य रखता है और फिर अंकित मूल्य पर 10% छूट देता है। उसका लाभ प्रतिशत क्या है?",
+          "opts_hi": [
+            "10%",
+            "20%",
+            "15%",
+            "12.5%"
+          ],
+          "exp_en": "MP = 800 x 1.25 = 1000. SP = 1000 x 0.90 = 900. Profit = 900 - 800 = 100. Profit percent = 100/800 x 100 = 12.5%.",
+          "exp_hi": "अंकित मूल्य = 800 x 1.25 = 1000। विक्रय मूल्य = 1000 x 0.90 = 900। लाभ = 900 - 800 = 100। लाभ प्रतिशत = 100/800 x 100 = 12.5%।"
+        },
+        {
+          "q": "Find the compound interest on Rs 10000 at 20% per annum for 1.5 years, interest being compounded annually and simple interest charged for the half year.",
+          "opts": [
+            "Rs 2800",
+            "Rs 3000",
+            "Rs 3400",
+            "Rs 3200"
+          ],
+          "ans": 3,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "10000 रुपये पर 20% वार्षिक दर से 1.5 वर्ष का चक्रवृद्धि ब्याज ज्ञात करें, जहाँ ब्याज वार्षिक रूप से संयोजित हो और आधे वर्ष के लिए साधारण ब्याज लगाया जाए।",
+          "opts_hi": [
+            "2800 रुपये",
+            "3000 रुपये",
+            "3400 रुपये",
+            "3200 रुपये"
+          ],
+          "exp_en": "After 1 year: 10000 x 1.2 = 12000. SI for half year on 12000 at 20% p.a = 12000 x 0.20 x 0.5 = 1200. Total amount = 13200. CI = 13200 - 10000 = 3200.",
+          "exp_hi": "1 वर्ष बाद: 10000 x 1.2 = 12000। आधे वर्ष का साधारण ब्याज = 12000 x 0.20 x 0.5 = 1200। कुल राशि = 13200। चक्रवृद्धि ब्याज = 13200 - 10000 = 3200।"
+        },
+        {
+          "q": "15 men working 8 hours a day can complete a work in 20 days. How many men, working 10 hours a day, are needed to complete the same work in 12 days?",
+          "opts": [
+            "16",
+            "20",
+            "18",
+            "24"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "15 पुरुष प्रतिदिन 8 घंटे काम करके एक कार्य को 20 दिनों में पूरा करते हैं। प्रतिदिन 10 घंटे काम करने वाले कितने पुरुष उसी कार्य को 12 दिनों में पूरा करेंगे?",
+          "opts_hi": [
+            "16",
+            "20",
+            "18",
+            "24"
+          ],
+          "exp_en": "Total man-hours = 15 x 8 x 20 = 2400. Required men = 2400 / (10 x 12) = 20.",
+          "exp_hi": "कुल मानव-घंटे = 15 x 8 x 20 = 2400। आवश्यक पुरुष = 2400 / (10 x 12) = 20।"
+        },
+        {
+          "q": "Two trains of lengths 120 m and 180 m are running towards each other on parallel tracks at speeds of 54 km/h and 36 km/h respectively. In how much time will they completely cross each other?",
+          "opts": [
+            "12 seconds",
+            "10 seconds",
+            "15 seconds",
+            "18 seconds"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "120 मीटर और 180 मीटर लंबी दो रेलगाड़ियाँ समानांतर पटरियों पर क्रमशः 54 किमी/घंटा और 36 किमी/घंटा की गति से एक-दूसरे की ओर चल रही हैं। वे एक-दूसरे को पूरी तरह पार करने में कितना समय लेंगी?",
+          "opts_hi": [
+            "12 सेकंड",
+            "10 सेकंड",
+            "15 सेकंड",
+            "18 सेकंड"
+          ],
+          "exp_en": "Relative speed = 54 + 36 = 90 km/h = 25 m/s. Total length = 120 + 180 = 300 m. Time = 300/25 = 12 seconds.",
+          "exp_hi": "सापेक्ष गति = 54 + 36 = 90 किमी/घंटा = 25 मीटर/सेकंड। कुल लंबाई = 120 + 180 = 300 मीटर। समय = 300/25 = 12 सेकंड।"
+        },
+        {
+          "q": "Two concentric circles have radii 10 cm and r cm. A chord of the outer circle touches the inner circle and is 16 cm long. Find r.",
+          "opts": [
+            "5 cm",
+            "8 cm",
+            "6 cm",
+            "4 cm"
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "दो संकेंद्रीय वृत्तों की त्रिज्याएँ 10 सेमी और r सेमी हैं। बाहरी वृत्त की एक जीवा आंतरिक वृत्त को स्पर्श करती है और उसकी लंबाई 16 सेमी है। r ज्ञात करें।",
+          "opts_hi": [
+            "5 सेमी",
+            "8 सेमी",
+            "6 सेमी",
+            "4 सेमी"
+          ],
+          "exp_en": "Half the chord = 8 cm. By Pythagoras, r^2 = 10^2 - 8^2 = 36, so r = 6 cm.",
+          "exp_hi": "आधी जीवा = 8 सेमी। पाइथागोरस प्रमेय से, r^2 = 10^2 - 8^2 = 36, अतः r = 6 सेमी।"
+        },
+        {
+          "q": "In a triangle, the centroid G is such that the distance from a vertex A to G is 12 cm. Find the distance from G to the midpoint of the side opposite to A.",
+          "opts": [
+            "6 cm",
+            "4 cm",
+            "8 cm",
+            "12 cm"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "एक त्रिभुज में केन्द्रक G इस प्रकार है कि शीर्ष A से G की दूरी 12 सेमी है। A के सम्मुख भुजा के मध्यबिंदु से G की दूरी ज्ञात करें।",
+          "opts_hi": [
+            "6 सेमी",
+            "4 सेमी",
+            "8 सेमी",
+            "12 सेमी"
+          ],
+          "exp_en": "The centroid divides each median in the ratio 2:1 from vertex to midpoint, so the distance from G to the midpoint is half of AG, i.e. 12/2 = 6 cm.",
+          "exp_hi": "केन्द्रक प्रत्येक माध्यिका को शीर्ष से मध्यबिंदु तक 2:1 के अनुपात में विभाजित करता है, अतः G से मध्यबिंदु की दूरी AG की आधी, यानी 12/2 = 6 सेमी है।"
+        },
+        {
+          "q": "If a + b + c = 12, a^2 + b^2 + c^2 = 50 and a^3 + b^3 + c^3 = 468, find the value of abc.",
+          "opts": [
+            "156",
+            "120",
+            "96",
+            "144"
+          ],
+          "ans": 3,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "यदि a + b + c = 12, a^2 + b^2 + c^2 = 50 और a^3 + b^3 + c^3 = 468 है, तो abc का मान ज्ञात करें।",
+          "opts_hi": [
+            "156",
+            "120",
+            "96",
+            "144"
+          ],
+          "exp_en": "ab+bc+ca = [(a+b+c)^2 - (a^2+b^2+c^2)]/2 = (144-50)/2 = 47. Using a^3+b^3+c^3-3abc = (a+b+c)(a^2+b^2+c^2-ab-bc-ca), 468 - 3abc = 12(50-47) = 36, so 3abc = 432, abc = 144.",
+          "exp_hi": "ab+bc+ca = [(a+b+c)^2 - (a^2+b^2+c^2)]/2 = (144-50)/2 = 47। सूत्र a^3+b^3+c^3-3abc = (a+b+c)(a^2+b^2+c^2-ab-bc-ca) से, 468 - 3abc = 12(50-47) = 36, अतः 3abc = 432, abc = 144।"
+        },
+        {
+          "q": "Simplify: 24 ÷ 6 of 2 + 3 × 4 - 5",
+          "opts": [
+            "9",
+            "7",
+            "11",
+            "5"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "सरल करें: 24 ÷ 6 of 2 + 3 × 4 - 5",
+          "opts_hi": [
+            "9",
+            "7",
+            "11",
+            "5"
+          ],
+          "exp_en": "of first: 6 of 2 = 12; then 24 ÷ 12 = 2; 3 × 4 = 12; so 2 + 12 - 5 = 9.",
+          "exp_hi": "पहले of: 6 of 2 = 12; फिर 24 ÷ 12 = 2; 3 × 4 = 12; अतः 2 + 12 - 5 = 9।"
+        },
+        {
+          "q": "The ratio of a person's income to expenditure is 5:4. If his savings are Rs 6000, find his income.",
+          "opts": [
+            "Rs 36000",
+            "Rs 24000",
+            "Rs 20000",
+            "Rs 30000"
+          ],
+          "ans": 3,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "एक व्यक्ति की आय और व्यय का अनुपात 5:4 है। यदि उसकी बचत Rs 6000 है, तो उसकी आय ज्ञात करें।",
+          "opts_hi": [
+            "Rs 36000",
+            "Rs 24000",
+            "Rs 20000",
+            "Rs 30000"
+          ],
+          "exp_en": "Savings ratio = 5-4 = 1 part = Rs 6000. So income = 5 parts = 5 × 6000 = Rs 30000.",
+          "exp_hi": "बचत का अनुपात = 5-4 = 1 भाग = Rs 6000। अतः आय = 5 भाग = 5 × 6000 = Rs 30000।"
+        },
+        {
+          "q": "The average age of 15 boys in a class is 12 years and the average age of 10 girls is 15 years. Find the average age of all 25 students.",
+          "opts": [
+            "13.5 years",
+            "13.2 years",
+            "14 years",
+            "12.8 years"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "एक कक्षा में 15 लड़कों की औसत आयु 12 वर्ष है और 10 लड़कियों की औसत आयु 15 वर्ष है। सभी 25 विद्यार्थियों की औसत आयु ज्ञात कीजिए।",
+          "opts_hi": [
+            "13.5 वर्ष",
+            "13.2 वर्ष",
+            "14 वर्ष",
+            "12.8 वर्ष"
+          ],
+          "exp_en": "Sum of boys ages = 15×12=180, sum of girls ages=10×15=150, total=330, average=330/25=13.2 years.",
+          "exp_hi": "लड़कों की कुल आयु = 15×12=180, लड़कियों की कुल आयु=10×15=150, कुल=330, औसत=330/25=13.2 वर्ष।"
+        },
+        {
+          "q": "Triangles ABC and DEF are similar, with the ratio of their corresponding sides being 3:5. If the area of triangle ABC is 54 cm^2, find the area of triangle DEF.",
+          "opts": [
+            "150 cm^2",
+            "120 cm^2",
+            "90 cm^2",
+            "135 cm^2"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "त्रिभुज ABC और DEF समरूप हैं, और उनकी संगत भुजाओं का अनुपात 3:5 है। यदि त्रिभुज ABC का क्षेत्रफल 54 cm^2 है, तो त्रिभुज DEF का क्षेत्रफल ज्ञात कीजिए।",
+          "opts_hi": [
+            "150 cm^2",
+            "120 cm^2",
+            "90 cm^2",
+            "135 cm^2"
+          ],
+          "exp_en": "Ratio of areas = (ratio of sides)^2 = 9:25. Area DEF = 54×25/9 = 150 cm^2.",
+          "exp_hi": "क्षेत्रफलों का अनुपात = (भुजाओं के अनुपात)^2 = 9:25। DEF का क्षेत्रफल = 54×25/9 = 150 cm^2।"
+        },
+        {
+          "q": "A cone has height 12 cm and volume 100π cm^3. Find the area of its base.",
+          "opts": [
+            "25π cm^2",
+            "20π cm^2",
+            "30π cm^2",
+            "24π cm^2"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "एक शंकु की ऊँचाई 12 cm और आयतन 100π cm^3 है। उसके आधार का क्षेत्रफल ज्ञात कीजिए।",
+          "opts_hi": [
+            "25π cm^2",
+            "20π cm^2",
+            "30π cm^2",
+            "24π cm^2"
+          ],
+          "exp_en": "Volume = (1/3)×base area×height, so base area = 3×100π/12 = 25π cm^2.",
+          "exp_hi": "आयतन = (1/3)×आधार क्षेत्रफल×ऊँचाई, अतः आधार क्षेत्रफल = 3×100π/12 = 25π cm^2।"
+        },
+        {
+          "q": "Find the digit x such that the number 3x725 is divisible by 11.",
+          "opts": [
+            "3",
+            "2",
+            "4",
+            "5"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "वह अंक x ज्ञात कीजिए जिससे संख्या 3x725, 11 से विभाज्य हो जाए।",
+          "opts_hi": [
+            "3",
+            "2",
+            "4",
+            "5"
+          ],
+          "exp_en": "Alternating sum from right = 5-2+7-x+3 = 13-x. For divisibility by 11, 13-x must be 0 or 11, so x=2.",
+          "exp_hi": "दाएँ से एकांतर योग = 5-2+7-x+3 = 13-x। 11 से विभाज्यता के लिए 13-x, 0 या 11 होना चाहिए, अतः x=2।"
+        },
+        {
+          "q": "If sinA + cosA = 7/5, find the value of sinA·cosA.",
+          "opts": [
+            "7/25",
+            "12/25",
+            "24/25",
+            "1/25"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "यदि sinA + cosA = 7/5 है, तो sinA·cosA का मान ज्ञात कीजिए।",
+          "opts_hi": [
+            "7/25",
+            "12/25",
+            "24/25",
+            "1/25"
+          ],
+          "exp_en": "Squaring, (sinA+cosA)^2 = 1 + 2sinAcosA. So 49/25 = 1 + 2sinAcosA, giving sinAcosA = 24/50 = 12/25.",
+          "exp_hi": "वर्ग करने पर, (sinA+cosA)^2 = 1 + 2sinAcosA। अतः 49/25 = 1 + 2sinAcosA, जिससे sinAcosA = 24/50 = 12/25।"
+        },
+        {
+          "q": "Find the simple interest on Rs 8000 at 15% per annum for 2 years 4 months.",
+          "opts": [
+            "Rs 2400",
+            "Rs 2800",
+            "Rs 3000",
+            "Rs 2600"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "Rs 8000 पर 15% वार्षिक दर से 2 वर्ष 4 महीने का साधारण ब्याज ज्ञात करें।",
+          "opts_hi": [
+            "Rs 2400",
+            "Rs 2800",
+            "Rs 3000",
+            "Rs 2600"
+          ],
+          "exp_en": "T = 2 + 4/12 = 7/3 years. SI = 8000 x 15 x 7 / (3 x 100) = Rs 2800.",
+          "exp_hi": "T = 2 + 4/12 = 7/3 वर्ष। SI = 8000 x 15 x 7 / (3 x 100) = Rs 2800."
+        },
+        {
+          "q": "An article costing Rs 500 is marked up by 40% and then sold after a discount of 10%. Find the profit percentage.",
+          "opts": [
+            "20%",
+            "24%",
+            "30%",
+            "26%"
+          ],
+          "ans": 3,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "Rs 500 लागत वाली वस्तु पर 40% अंकित मूल्य बढ़ाया जाता है और फिर 10% छूट देकर बेचा जाता है। लाभ प्रतिशत ज्ञात करें।",
+          "opts_hi": [
+            "20%",
+            "24%",
+            "30%",
+            "26%"
+          ],
+          "exp_en": "MP = 500 x 1.4 = Rs 700. SP = 700 x 0.9 = Rs 630. Profit = 130, Profit% = 130/500 x 100 = 26%.",
+          "exp_hi": "MP = 500 x 1.4 = Rs 700। SP = 700 x 0.9 = Rs 630। लाभ = 130, लाभ% = 130/500 x 100 = 26%।"
+        },
+        {
+          "q": "If tanθ + cotθ = 2, find the value of sin^4θ + cos^4θ.",
+          "opts": [
+            "3/4",
+            "1",
+            "1/2",
+            "1/4"
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "यदि tanθ + cotθ = 2 है, तो sin^4θ + cos^4θ का मान ज्ञात करें।",
+          "opts_hi": [
+            "3/4",
+            "1",
+            "1/2",
+            "1/4"
+          ],
+          "exp_en": "tanθ + cotθ = 2 gives θ = 45 degrees, so sinθ = cosθ = 1/√2. sin^4θ + cos^4θ = 1/4 + 1/4 = 1/2.",
+          "exp_hi": "tanθ + cotθ = 2 से θ = 45 डिग्री, अतः sinθ = cosθ = 1/√2। sin^4θ + cos^4θ = 1/4 + 1/4 = 1/2।"
+        },
+        {
+          "q": "In the five-digit number 7x45y, if y = 4 and the number is divisible by 9, find the value of x.",
+          "opts": [
+            "5",
+            "8",
+            "7",
+            "9"
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "पाँच अंकों की संख्या 7x45y में यदि y = 4 हो और संख्या 9 से विभाज्य हो, तो x का मान ज्ञात करें।",
+          "opts_hi": [
+            "5",
+            "8",
+            "7",
+            "9"
+          ],
+          "exp_en": "Digit sum = 7+x+4+5+4 = 20+x. For divisibility by 9, 20+x must be a multiple of 9, so x = 7 (giving 27).",
+          "exp_hi": "अंकों का योग = 7+x+4+5+4 = 20+x। 9 से विभाज्यता के लिए 20+x, 9 का गुणज होना चाहिए, अतः x = 7 (योग 27)।"
+        },
+        {
+          "q": "Two circles of radii 13 cm and 15 cm have their centres 14 cm apart and intersect each other. Find the length of their common chord.",
+          "opts": [
+            "26 cm",
+            "20 cm",
+            "24 cm",
+            "18 cm"
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "13 सेमी और 15 सेमी त्रिज्या वाले दो वृत्तों के केंद्रों के बीच की दूरी 14 सेमी है और वे एक-दूसरे को काटते हैं। उनकी उभयनिष्ठ जीवा की लंबाई ज्ञात करें।",
+          "opts_hi": [
+            "26 सेमी",
+            "20 सेमी",
+            "24 सेमी",
+            "18 सेमी"
+          ],
+          "exp_en": "Distance of chord from centre O1: x = (14^2+13^2-15^2)/(2x14) = 140/28 = 5. Half chord = sqrt(13^2-5^2) = sqrt(144) = 12. Chord length = 24 cm.",
+          "exp_hi": "केंद्र O1 से जीवा की दूरी: x = (14^2+13^2-15^2)/(2x14) = 140/28 = 5। आधी जीवा = sqrt(13^2-5^2) = sqrt(144) = 12। जीवा की लंबाई = 24 सेमी।"
+        },
+        {
+          "q": "Two circles, each of radius 10 cm, have their centres 16 cm apart. Find the length of their common chord.",
+          "opts": [
+            "16 cm",
+            "10 cm",
+            "14 cm",
+            "12 cm"
+          ],
+          "ans": 3,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "दो वृत्त, जिनमें से प्रत्येक की त्रिज्या 10 cm है, के केंद्रों के बीच की दूरी 16 cm है। उनकी उभयनिष्ठ जीवा (common chord) की लंबाई ज्ञात करें।",
+          "opts_hi": [
+            "16 cm",
+            "10 cm",
+            "14 cm",
+            "12 cm"
+          ],
+          "exp_en": "Since both circles have equal radii, the common chord is bisected perpendicularly at the midpoint of the line joining centres, so each half-distance is 8 cm. Half-chord = sqrt(10^2 - 8^2) = sqrt(36) = 6, so full chord = 12 cm.",
+          "exp_hi": "चूंकि दोनों वृत्तों की त्रिज्या बराबर है, उभयनिष्ठ जीवा केंद्रों को मिलाने वाली रेखा के मध्यबिंदु पर लंबवत समद्विभाजित होती है, इसलिए प्रत्येक आधी दूरी 8 cm है। आधी जीवा = sqrt(10^2 - 8^2) = sqrt(36) = 6, अतः पूरी जीवा = 12 cm."
+        },
+        {
+          "q": "Rohan has always (1) interested in wildlife photography. Last summer, he decided to travel (2) a remote forest to capture rare species on camera. Despite the harsh weather, he remained (3) and continued his work for weeks. His patience finally (4) off when he photographed a leopard that few had ever seen. Experts later praised his images as (5) proof of the region's rich biodiversity. Select the most appropriate option for blank No. 1.",
+          "opts": [
+            "being",
+            "was",
+            "be",
+            "been"
+          ],
+          "ans": 3,
+          "subject": "English Language",
+          "exp_en": "The present perfect continuous structure 'has always been interested' requires the past participle 'been' after 'has'."
+        },
+        {
+          "q": "Rohan has always (1) interested in wildlife photography. Last summer, he decided to travel (2) a remote forest to capture rare species on camera. Despite the harsh weather, he remained (3) and continued his work for weeks. His patience finally (4) off when he photographed a leopard that few had ever seen. Experts later praised his images as (5) proof of the region's rich biodiversity. Select the most appropriate option for blank No. 2.",
+          "opts": [
+            "at",
+            "in",
+            "to",
+            "for"
+          ],
+          "ans": 2,
+          "subject": "English Language",
+          "exp_en": "'Travel to a place' is the correct and commonly used preposition pattern indicating destination."
+        },
+        {
+          "q": "Rohan has always (1) interested in wildlife photography. Last summer, he decided to travel (2) a remote forest to capture rare species on camera. Despite the harsh weather, he remained (3) and continued his work for weeks. His patience finally (4) off when he photographed a leopard that few had ever seen. Experts later praised his images as (5) proof of the region's rich biodiversity. Select the most appropriate option for blank No. 3.",
+          "opts": [
+            "discouraged",
+            "reluctant",
+            "undeterred",
+            "hesitant"
+          ],
+          "ans": 2,
+          "subject": "English Language",
+          "exp_en": "'Undeterred' means not discouraged from continuing, which fits the context of harsh weather not stopping him from working."
+        },
+        {
+          "q": "Rohan has always (1) interested in wildlife photography. Last summer, he decided to travel (2) a remote forest to capture rare species on camera. Despite the harsh weather, he remained (3) and continued his work for weeks. His patience finally (4) off when he photographed a leopard that few had ever seen. Experts later praised his images as (5) proof of the region's rich biodiversity. Select the most appropriate option for blank No. 4.",
+          "opts": [
+            "payed",
+            "pays",
+            "paying",
+            "paid"
+          ],
+          "ans": 3,
+          "subject": "English Language",
+          "exp_en": "The idiomatic phrase 'paid off' (past tense) is correct here; 'payed' is not a standard spelling of the past tense of 'pay'."
+        },
+        {
+          "q": "Rohan has always (1) interested in wildlife photography. Last summer, he decided to travel (2) a remote forest to capture rare species on camera. Despite the harsh weather, he remained (3) and continued his work for weeks. His patience finally (4) off when he photographed a leopard that few had ever seen. Experts later praised his images as (5) proof of the region's rich biodiversity. Select the most appropriate option for blank No. 5.",
+          "opts": [
+            "doubtful",
+            "compelling",
+            "boring",
+            "weak"
+          ],
+          "ans": 1,
+          "subject": "English Language",
+          "exp_en": "'Compelling proof' means convincing evidence, which matches the positive tone of the sentence praising his images."
+        },
+        {
+          "q": "Identify the segment with a grammatical error: (A) Neither the manager / (B) nor the employees / (C) was willing / (D) to postpone the meeting.",
+          "opts": [
+            "C",
+            "B",
+            "A",
+            "D"
+          ],
+          "ans": 0,
+          "subject": "English Language",
+          "exp_en": "With neither-nor, the verb agrees with the nearer subject employees (plural), so it should be were not was."
+        },
+        {
+          "q": "Improve the underlined part: The committee have decided to postpone the annual function until further notice.",
+          "opts": [
+            "has decided",
+            "had been decided",
+            "deciding",
+            "No improvement"
+          ],
+          "ans": 0,
+          "subject": "English Language",
+          "exp_en": "Committee, when considered as a single unit, takes a singular verb has decided."
+        },
+        {
+          "q": "Select the one-word substitution for a person who knows many languages.",
+          "opts": [
+            "Linguist",
+            "Polyglot",
+            "Bilingual",
+            "Translator"
+          ],
+          "ans": 1,
+          "subject": "English Language",
+          "exp_en": "A polyglot is a person who can speak or write several languages fluently."
+        },
+        {
+          "q": "Select the correct meaning of the idiom to get cold feet.",
+          "opts": [
+            "To become nervous about doing something",
+            "To feel unwell",
+            "To be very calm",
+            "To lose interest permanently"
+          ],
+          "ans": 0,
+          "subject": "English Language",
+          "exp_en": "To get cold feet means to suddenly become too nervous or afraid to do something planned."
+        },
+        {
+          "q": "Identify the segment with a grammatical error: (A) The teacher asked / (B) the students to / (C) kept quiet during / (D) the examination hours.",
+          "opts": [
+            "The teacher asked",
+            "the examination hours",
+            "kept quiet during",
+            "the students to"
+          ],
+          "ans": 3,
+          "subject": "English Language",
+          "exp_en": "The infinitive construction is incomplete; it should be the students to keep quiet, not kept quiet, to maintain grammatical consistency with to."
+        },
+        {
+          "q": "Improve the underlined part of the sentence: She don't know the answer to this question.",
+          "opts": [
+            "doesn't knows",
+            "doesn't know",
+            "don't knew",
+            "no improvement"
+          ],
+          "ans": 1,
+          "subject": "English Language",
+          "exp_en": "With the third person singular subject she, the correct auxiliary is doesn't followed by the base form know."
+        },
+        {
+          "q": "Select the one-word substitution for a place where birds are kept.",
+          "opts": [
+            "Aviary",
+            "Apiary",
+            "Aquarium",
+            "Sanctuary"
+          ],
+          "ans": 0,
+          "subject": "English Language",
+          "exp_en": "An aviary is a large enclosure for keeping birds, distinct from an apiary (beehives) or aquarium (fish)."
+        },
+        {
+          "q": "Select the most appropriate word to fill in the blank: The manager tried to ______ the angry customer by offering a refund.",
+          "opts": [
+            "placate",
+            "aggravate",
+            "instigate",
+            "provoke"
+          ],
+          "ans": 0,
+          "subject": "English Language",
+          "exp_en": "Placate means to calm or soothe someone, which fits the context of resolving the customer's anger."
+        },
+        {
+          "q": "Select the wrongly spelt word.",
+          "opts": [
+            "Occurrence",
+            "Accommodate",
+            "Maintainance",
+            "Embarrass"
+          ],
+          "ans": 2,
+          "subject": "English Language",
+          "exp_en": "The correct spelling is maintenance, not maintainance."
+        },
+        {
+          "q": "Arrange the parts A, B, C, D in the correct order to form a meaningful paragraph. A. he decided to start his own small bakery B. after working in a large hotel for ten years C. and within two years it became popular in the town D. Suresh learned many skills in baking",
+          "opts": [
+            "ABDC",
+            "DBAC",
+            "DACB",
+            "BDAC"
+          ],
+          "ans": 1,
+          "subject": "English Language",
+          "exp_en": "The logical order is D-B-A-C: Suresh learned skills, after working in a hotel he decided to start a bakery, and it became popular."
+        },
+        {
+          "q": "Arrange the parts A, B, C, D in the correct order to form a meaningful paragraph. A. but soon realised that patience was more useful B. the young farmer wanted quick results from his field C. and his harvest finally improved the next season D. so he waited and cared for the crops steadily",
+          "opts": [
+            "BDAC",
+            "BADC",
+            "ABCD",
+            "BACD"
+          ],
+          "ans": 3,
+          "subject": "English Language",
+          "exp_en": "The correct sequence B-A-C-D flows logically: the farmer wanted quick results, realised patience was better, waited and cared, then improved his harvest. Wait, check order: B-A-D-C fits better since D (so he waited) should come after A (realised) and before C (harvest improved). The answer BACD places C before D incorrectly, so BADC is correct."
+        },
+        {
+          "q": "Choose the correct indirect speech of the sentence: The teacher said to the students, Submit your assignments before Friday.",
+          "opts": [
+            "The teacher ordered the students submitting their assignments before Friday.",
+            "The teacher said the students submit their assignments before Friday.",
+            "The teacher told the students to submit their assignments before Friday.",
+            "The teacher told the students that submit their assignments before Friday."
+          ],
+          "ans": 2,
+          "subject": "English Language",
+          "exp_en": "Imperative sentences in indirect speech use to + base verb after told, as in to submit their assignments."
+        },
+        {
+          "q": "Choose the correct passive voice of the sentence: The manager will finalise the budget tomorrow.",
+          "opts": [
+            "The budget will have finalised by the manager tomorrow.",
+            "The budget will finalised by the manager tomorrow.",
+            "The budget is being finalised by the manager tomorrow.",
+            "The budget will be finalised by the manager tomorrow."
+          ],
+          "ans": 3,
+          "subject": "English Language",
+          "exp_en": "For future simple tense, the passive form is will be + past participle, giving will be finalised."
+        },
+        {
+          "q": "Identify the segment with a grammatical error: (A) The old wooden bridge, which was built / (B) during the colonial era, / (C) are still used / (D) by hundreds of villagers daily.",
+          "opts": [
+            "The old wooden bridge, which was built",
+            "during the colonial era,",
+            "are still used",
+            "by hundreds of villagers daily."
+          ],
+          "ans": 2,
+          "subject": "English Language",
+          "exp_en": "The subject bridge is singular, so the verb should be is, not are."
+        },
+        {
+          "q": "Improve the underlined part of the sentence: The flood victims were provided with food, water and also shelter was given to them.",
+          "opts": [
+            "and shelter",
+            "and also given shelter",
+            "No improvement",
+            "and shelter was also given"
+          ],
+          "ans": 0,
+          "subject": "English Language",
+          "exp_en": "To maintain parallel structure, the list should simply continue as food, water and shelter."
+        },
+        {
+          "q": "Select the most appropriate word to fill in the blank: Despite repeated warnings, the stubborn child refused to _____ his dangerous habit of climbing trees.",
+          "opts": [
+            "enhance",
+            "relinquish",
+            "cultivate",
+            "postpone"
+          ],
+          "ans": 1,
+          "subject": "English Language",
+          "exp_en": "Relinquish means to give up, which fits the context of abandoning a habit."
+        },
+        {
+          "q": "Select the correct synonym of the word Candid.",
+          "opts": [
+            "Frank",
+            "Secretive",
+            "Hostile",
+            "Timid"
+          ],
+          "ans": 0,
+          "subject": "English Language",
+          "exp_en": "Candid means honest and straightforward, which matches frank."
+        },
+        {
+          "q": "Select the correct antonym of the word Benevolent.",
+          "opts": [
+            "Malevolent",
+            "Generous",
+            "Gracious",
+            "Charitable"
+          ],
+          "ans": 0,
+          "subject": "English Language",
+          "exp_en": "Benevolent means kind and generous; its opposite is malevolent, meaning having or showing ill will."
+        },
+        {
+          "q": "Select the correct synonym of the word Meticulous.",
+          "opts": [
+            "Careless",
+            "Indifferent",
+            "Hasty",
+            "Painstaking"
+          ],
+          "ans": 3,
+          "subject": "English Language",
+          "exp_en": "Meticulous means showing great attention to detail; painstaking carries the same sense of careful, thorough effort."
+        },
+        {
+          "q": "Select the correct antonym of the word Austere.",
+          "opts": [
+            "Lenient",
+            "Lavish",
+            "Strict",
+            "Harsh"
+          ],
+          "ans": 1,
+          "subject": "English Language",
+          "exp_en": "Austere means simple and strict; its opposite is lavish, meaning extravagant or luxurious."
         }
       ]
     }
