@@ -370,6 +370,22 @@
       "destination": "/upsssc/upsssc-pet-mock-test-20/"
     },
     {
+      "source": "/upsssc/upsssc-pet-mock-test-21",
+      "destination": "/upsssc/upsssc-pet-mock-test-21/"
+    },
+    {
+      "source": "/upsssc/upsssc-pet-mock-test-21/",
+      "destination": "/upsssc/upsssc-pet-mock-test-21/"
+    },
+    {
+      "source": "/upsssc/upsssc-pet-mock-test-22",
+      "destination": "/upsssc/upsssc-pet-mock-test-22/"
+    },
+    {
+      "source": "/upsssc/upsssc-pet-mock-test-22/",
+      "destination": "/upsssc/upsssc-pet-mock-test-22/"
+    },
+    {
       "source": "/(.*)",
       "destination": "/"
     }
