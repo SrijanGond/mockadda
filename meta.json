@@ -76,20 +76,6 @@
             "duration": 60,
             "difficulty": "Hard",
             "questionCount": 100
-          },
-          {
-            "id": "ssc_chsl_5",
-            "title": "SSC CHSL Full Mock Test 5 (Tier 1 Pattern)",
-            "duration": 60,
-            "difficulty": "Medium",
-            "questionCount": 100
-          },
-          {
-            "id": "ssc_chsl_6",
-            "title": "SSC CHSL Full Mock Test 6 (Tier 1 Pattern)",
-            "duration": 60,
-            "difficulty": "Hard",
-            "questionCount": 100
           }
         ]
       },
@@ -352,6 +338,11 @@
     "icon": "📚",
     "color": "#34d399",
     "exams": {
+      "super_tet": {
+        "name": "UP Super TET",
+        "fullname": "UPESSC Assistant Teacher Selection Exam 2026 (Primary, Urban and Aided Schools)",
+        "tests": []
+      },
       "ctet": {
         "name": "CTET",
         "fullname": "Central Teacher Eligibility Test",
@@ -690,6 +681,20 @@
           {
             "id": "upsssc_pet_20",
             "title": "UPSSSC PET Full Mock Test 20 (Preliminary Eligibility Test)",
+            "duration": 120,
+            "difficulty": "Medium",
+            "questionCount": 100
+          },
+          {
+            "id": "upsssc_pet_21",
+            "title": "UPSSSC PET Full Mock Test 21 (Preliminary Eligibility Test)",
+            "duration": 120,
+            "difficulty": "Medium",
+            "questionCount": 100
+          },
+          {
+            "id": "upsssc_pet_22",
+            "title": "UPSSSC PET Full Mock Test 22 (Preliminary Eligibility Test)",
             "duration": 120,
             "difficulty": "Medium",
             "questionCount": 100
