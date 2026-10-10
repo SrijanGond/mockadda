@@ -426,6 +426,19 @@
             "questionCount": 25
           }
         ]
+      },
+      "super_tet": {
+        "name": "UP Super TET",
+        "fullname": "Uttar Pradesh Education Service Selection Commission — Assistant Teacher Recruitment Exam (Super TET)",
+        "tests": [
+          {
+            "id": "super_tet_1",
+            "title": "UP Super TET Full Mock Test 1 (UPESSC Pattern)",
+            "duration": 120,
+            "difficulty": "Medium",
+            "questionCount": 120
+          }
+        ]
       }
     }
   },
