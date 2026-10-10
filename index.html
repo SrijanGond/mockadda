@@ -757,6 +757,11 @@ const FLAT_CAP_BY_TEST = {
 // happened in practice). The site must never show more than this no
 // matter what the underlying data looks like.
 const HARD_MAX_QUESTIONS = 100;
+// Per-exam override of the 100-question ceiling for exams whose real paper is
+// longer than 100 questions (UP Super TET = 120 questions). Any exam not
+// listed here keeps the standard HARD_MAX_QUESTIONS ceiling.
+const HARD_MAX_BY_EXAM = { super_tet: 120 };
+function hardMaxFor(examKey){ return HARD_MAX_BY_EXAM[examKey] || HARD_MAX_QUESTIONS; }
 
 function capQuestionsPerSection(questions, examKey, testId){
   if(testId && FLAT_CAP_BY_TEST.hasOwnProperty(testId)){
@@ -764,9 +769,9 @@ function capQuestionsPerSection(questions, examKey, testId){
   }
   const capConfig = SECTION_CAP_BY_EXAM[examKey];
   const aliases = SUBJECT_ALIASES_BY_EXAM[examKey];
-  if(!capConfig) return questions.slice(0, HARD_MAX_QUESTIONS);
+  if(!capConfig) return questions.slice(0, hardMaxFor(examKey));
   const hasSubjects = questions.some(q=>q.subject);
-  if(!hasSubjects) return questions.slice(0, HARD_MAX_QUESTIONS);
+  if(!hasSubjects) return questions.slice(0, hardMaxFor(examKey));
   const counts={};
   const kept = questions.filter(q=>{
     let subj = (q.subject || 'General').trim();
@@ -776,7 +781,7 @@ function capQuestionsPerSection(questions, examKey, testId){
     if(cap == null) return true; // subject not in the per-subject map — leave uncapped
     return counts[subj] <= cap;
   });
-  return kept.slice(0, HARD_MAX_QUESTIONS);
+  return kept.slice(0, hardMaxFor(examKey));
 }
 
 // Groups questions into one contiguous run per subject, in first-appearance
