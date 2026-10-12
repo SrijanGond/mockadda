@@ -97,20 +97,6 @@
             "duration": 60,
             "difficulty": "Medium",
             "questionCount": 100
-          },
-          {
-            "id": "ssc_chsl_8",
-            "title": "SSC CHSL Full Mock Test 8 (Tier 1 Pattern)",
-            "duration": 60,
-            "difficulty": "Medium",
-            "questionCount": 100
-          },
-          {
-            "id": "ssc_chsl_9",
-            "title": "SSC CHSL Full Mock Test 9 (Tier 1 Pattern)",
-            "duration": 60,
-            "difficulty": "Medium",
-            "questionCount": 100
           }
         ]
       },
@@ -451,6 +437,13 @@
             "duration": 120,
             "difficulty": "Medium",
             "questionCount": 120
+          },
+          {
+            "id": "super_tet_2",
+            "title": "UP Super TET Full Mock Test 2 (UPESSC Pattern)",
+            "duration": 120,
+            "difficulty": "Medium",
+            "questionCount": 118
           }
         ]
       }
