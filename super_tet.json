@@ -2528,7 +2528,7 @@
       "title": "UP Super TET Full Mock Test 2 (UPESSC Pattern)",
       "duration": 120,
       "difficulty": "Medium",
-      "questionCount": 118,
+      "questionCount": 120,
       "correctMarks": 3,
       "negativeMarks": 1,
       "questions": [
@@ -4983,6 +4983,50 @@
             "1946"
           ],
           "exp_hi": "भारत छोड़ो आंदोलन 8 अगस्त 1942 को \"करो या मरो\" के नारे के साथ शुरू हुआ।"
+        },
+        {
+          "q": "'जो पहले कभी न हुआ हो' – इस वाक्यांश के लिए एक शब्द कौन-सा है?",
+          "opts": [
+            "अभूतपूर्व",
+            "अनुपम",
+            "अद्वितीय",
+            "अलौकिक"
+          ],
+          "ans": 0,
+          "subject": "Hindi Language",
+          "exp_en": "'जो पहले कभी न हुआ हो' के लिए एक शब्द 'अभूतपूर्व' है। 'अद्वितीय' का अर्थ है जिसके समान दूसरा न हो, और 'अलौकिक' का अर्थ है जो इस लोक का न हो।",
+          "topic": "अनेक शब्दों के लिए एक शब्द",
+          "difficulty": "Medium",
+          "q_hi": "'जो पहले कभी न हुआ हो' – इस वाक्यांश के लिए एक शब्द कौन-सा है?",
+          "opts_hi": [
+            "अभूतपूर्व",
+            "अनुपम",
+            "अद्वितीय",
+            "अलौकिक"
+          ],
+          "exp_hi": "'जो पहले कभी न हुआ हो' के लिए एक शब्द 'अभूतपूर्व' है। 'अद्वितीय' का अर्थ है जिसके समान दूसरा न हो, और 'अलौकिक' का अर्थ है जो इस लोक का न हो।"
+        },
+        {
+          "q": "Which is the largest state of India by area?",
+          "opts": [
+            "Madhya Pradesh",
+            "Maharashtra",
+            "Rajasthan",
+            "Uttar Pradesh"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge & Current Affairs",
+          "exp_en": "Rajasthan, with an area of about 3.42 lakh sq km, is the largest state of India by area.",
+          "topic": "Indian geography",
+          "difficulty": "Easy",
+          "q_hi": "क्षेत्रफल की दृष्टि से भारत का सबसे बड़ा राज्य कौन-सा है?",
+          "opts_hi": [
+            "मध्य प्रदेश",
+            "महाराष्ट्र",
+            "राजस्थान",
+            "उत्तर प्रदेश"
+          ],
+          "exp_hi": "लगभग 3.42 लाख वर्ग किमी क्षेत्रफल के साथ राजस्थान भारत का सबसे बड़ा राज्य है।"
         }
       ]
     }
