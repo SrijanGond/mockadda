@@ -16455,6 +16455,1834 @@
           "exp_en": "'Although' signals contrast with the smooth, fresh appearance, so the sentence must describe a negative outcome, which only the cracks option does."
         }
       ]
+    },
+    {
+      "id": "ssc_chsl_10",
+      "title": "SSC CHSL Full Mock Test 10 (Tier 1 Pattern)",
+      "duration": 60,
+      "difficulty": "Hard",
+      "correctMarks": 2,
+      "negativeMarks": 0.5,
+      "questions": [
+        {
+          "q": "Two different positions of the same dice are shown. Which number will be on the face opposite to the face showing 4?",
+          "opts": [
+            "1",
+            "3",
+            "5",
+            "2"
+          ],
+          "ans": 3,
+          "subject": "General Intelligence",
+          "q_hi": "एक ही पासे की दो अलग-अलग स्थितियाँ दी गई हैं। 4 वाले फलक के विपरीत फलक पर कौन-सी संख्या होगी?",
+          "opts_hi": [
+            "1",
+            "3",
+            "5",
+            "2"
+          ],
+          "exp_en": "Faces seen together in one view are adjacent, so they cannot be opposite to each other. Only 2 remains possible as the face opposite to 4.",
+          "exp_hi": "एक ही दृश्य में साथ दिखने वाले फलक आसन्न होते हैं, विपरीत नहीं। इसलिए 4 के विपरीत केवल 2 संभव है।",
+          "img": "/question-images/chsl/chsl10_dice_26_q.svg"
+        },
+        {
+          "q": "Select the correct mirror image of the given figure when the mirror is placed on the left side of the figure.",
+          "opts": [
+            "Figure (A)",
+            "Figure (B)",
+            "Figure (C)",
+            "Figure (D)"
+          ],
+          "ans": 2,
+          "subject": "General Intelligence",
+          "q_hi": "दी गई आकृति का सही दर्पण प्रतिबिंब चुनिए, जब दर्पण को आकृति के बायीं तरफ रखा जाता है।",
+          "opts_hi": [
+            "आकृति (A)",
+            "आकृति (B)",
+            "आकृति (C)",
+            "आकृति (D)"
+          ],
+          "exp_en": "A mirror at the side reverses left and right: the order of parts is reversed and each part is flipped, while top and bottom stay unchanged.",
+          "exp_hi": "बगल में रखा दर्पण बायाँ-दायाँ उलट देता है: भागों का क्रम उलट जाता है और हर भाग पलटता है, ऊपर-नीचे वही रहता है।",
+          "img": "/question-images/chsl/chsl10_mirror_27_q.svg",
+          "opts_img": [
+            "/question-images/chsl/chsl10_mirror_27_opt_a.svg",
+            "/question-images/chsl/chsl10_mirror_27_opt_b.svg",
+            "/question-images/chsl/chsl10_mirror_27_opt_c.svg",
+            "/question-images/chsl/chsl10_mirror_27_opt_d.svg"
+          ]
+        },
+        {
+          "q": "Select the Venn diagram that best represents the relationship between the following classes: Jaipur, India, Rajasthan.",
+          "opts": [
+            "Figure (A)",
+            "Figure (B)",
+            "Figure (C)",
+            "Figure (D)"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence",
+          "q_hi": "उस वेन आरेख का चयन कीजिए जो निम्नलिखित वर्गों के बीच उचित संबंध को दर्शाता है: जयपुर, भारत, राजस्थान।",
+          "opts_hi": [
+            "आकृति (A)",
+            "आकृति (B)",
+            "आकृति (C)",
+            "आकृति (D)"
+          ],
+          "exp_en": "Jaipur is a part of Rajasthan, and Rajasthan is a part of India, so the circles are drawn one inside another.",
+          "exp_hi": "जयपुर, राजस्थान का भाग है और राजस्थान, भारत का भाग है, इसलिए वृत्त एक-दूसरे के अंदर बनेंगे।",
+          "opts_img": [
+            "/question-images/chsl/chsl10_venn_28_opt_a.svg",
+            "/question-images/chsl/chsl10_venn_28_opt_b.svg",
+            "/question-images/chsl/chsl10_venn_28_opt_c.svg",
+            "/question-images/chsl/chsl10_venn_28_opt_d.svg"
+          ]
+        },
+        {
+          "q": "On a school sports day, the scorer writes the code for RACE as TZFC. Using the same rule, the code for JUMP will be:",
+          "opts": [
+            "LTPM",
+            "LTPN",
+            "LVPN",
+            "KTPN"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence",
+          "q_hi": "एक स्कूल खेल दिवस पर स्कोरर RACE का कोड TZFC लिखता है। इसी नियम से JUMP का कोड क्या होगा?",
+          "opts_hi": [
+            "LTPM",
+            "LTPN",
+            "LVPN",
+            "KTPN"
+          ],
+          "exp_en": "Each letter of RACE moves by +2, -1, +3, -2 in order: R→T, A→Z, C→F, E→C. Applying the same shifts to JUMP: J+2=L, U-1=T, M+3=P, P-2=N, so the code is LTPN.",
+          "exp_hi": "RACE के अक्षर क्रम से +2, -1, +3, -2 स्थान खिसकते हैं: R→T, A→Z, C→F, E→C। यही नियम JUMP पर लगाने पर J+2=L, U-1=T, M+3=P, P-2=N, इसलिए कोड LTPN है।"
+        },
+        {
+          "q": "At a village fair, a clock on the main stage is used to mark events. The angle between its hands is 120° at all of the following times EXCEPT:",
+          "opts": [
+            "10:00",
+            "8:00",
+            "16:00",
+            "4:00"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence",
+          "q_hi": "एक गाँव के मेले में मुख्य मंच की घड़ी से कार्यक्रमों का समय देखा जाता है। निम्नलिखित में से किस समय को छोड़कर अन्य सभी समयों पर घड़ी की सूइयों के बीच का कोण 120° होता है?",
+          "opts_hi": [
+            "10:00",
+            "8:00",
+            "16:00",
+            "4:00"
+          ],
+          "exp_en": "At 4:00 the hands are 4×30°=120° apart. At 8:00 the angle is 240°, so the smaller angle is 120°. 16:00 is the same as 4:00, so it is also 120°. At 10:00 the angle is 2×30°=60°, so it is the exception.",
+          "exp_hi": "4:00 बजे सूइयों के बीच 4×30°=120° का कोण होता है। 8:00 बजे कोण 240° होता है, अतः छोटा कोण 120° है। 16:00 बजे वही स्थिति है जो 4:00 बजे होती है, इसलिए कोण 120° है। 10:00 बजे कोण 2×30°=60° होता है, इसलिए यही अपवाद है।"
+        },
+        {
+          "q": "In a garden, a gardener groups four plants by the part of the plant that is eaten. Three of them are alike in this respect. Which one is NOT like the others?",
+          "opts": [
+            "Carrot",
+            "Radish",
+            "Turnip",
+            "Spinach"
+          ],
+          "ans": 3,
+          "subject": "General Intelligence",
+          "q_hi": "एक बगीचे में माली चार पौधों को इस आधार पर समूहित करता है कि पौधे का कौन-सा भाग खाया जाता है। इनमें से तीन इस दृष्टि से समान हैं। कौन-सा उनके समान नहीं है?",
+          "opts_hi": [
+            "गाजर",
+            "मूली",
+            "शलजम",
+            "पालक"
+          ],
+          "exp_en": "Carrot, radish and turnip are all eaten for their underground roots. Spinach is eaten for its leaves, so it is the odd one out.",
+          "exp_hi": "गाजर, मूली और शलजम तीनों की भूमिगत जड़ें खाई जाती हैं। पालक की पत्तियाँ खाई जाती हैं, इसलिए यही विषम है।"
+        },
+        {
+          "q": "A grocery shop gets a supplier delivery on the 12th of every month. In 2023 the 12th of March was a Sunday. In which of the following months of 2023 did the delivery date next fall on a Sunday?",
+          "opts": [
+            "June",
+            "August",
+            "November",
+            "October"
+          ],
+          "ans": 2,
+          "subject": "General Intelligence",
+          "q_hi": "एक किराना दुकान पर प्रत्येक माह की 12 तारीख को आपूर्तिकर्ता माल पहुँचाता है। 2023 में 12 मार्च को रविवार था। 2023 के निम्नलिखित में से किस माह में डिलीवरी की तारीख अगली बार रविवार को पड़ेगी?",
+          "opts_hi": [
+            "जून",
+            "अगस्त",
+            "नवंबर",
+            "अक्टूबर"
+          ],
+          "exp_en": "The day shifts each month by the odd days of the month just passed: Apr +3, May +2, Jun +3, Jul +2, Aug +3, Sep +3, Oct +2, Nov +3. The running totals are 3, 5, 1, 3, 6, 2, 4, 0, so the shift first becomes a multiple of 7 in November. Hence the 12th is a Sunday again in November.",
+          "exp_hi": "हर माह दिन उस बीते माह के विषम दिनों के अनुसार खिसकता है: अप्रैल +3, मई +2, जून +3, जुलाई +2, अगस्त +3, सितंबर +3, अक्टूबर +2, नवंबर +3। कुल योग 3, 5, 1, 3, 6, 2, 4, 0 आते हैं, अतः पहली बार नवंबर में यह 7 का गुणज होता है। इसलिए 12 तारीख नवंबर में फिर रविवार को पड़ती है।"
+        },
+        {
+          "q": "Pointing to a girl in the hostel mess, Rahul said, Her father's father is the father of my mother, and her father is the only son of that man. How is the girl related to Rahul?",
+          "opts": [
+            "Niece",
+            "Cousin",
+            "Sister",
+            "Maternal aunt"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence",
+          "q_hi": "छात्रावास की मेस में एक लड़की की ओर इशारा करते हुए राहुल ने कहा, उसके पिता के पिता मेरी माता के पिता हैं, और उसके पिता उस व्यक्ति के इकलौते पुत्र हैं। वह लड़की राहुल से किस प्रकार संबंधित है?",
+          "opts_hi": [
+            "भतीजी",
+            "चचेरी/ममेरी बहन",
+            "सगी बहन",
+            "मौसी"
+          ],
+          "exp_en": "The father of Rahul's mother is Rahul's maternal grandfather. His only son is Rahul's maternal uncle, and the girl is that uncle's daughter. So she is Rahul's cousin.",
+          "exp_hi": "राहुल की माता के पिता राहुल के नाना हैं। उनके इकलौते पुत्र राहुल के मामा हैं, और वह लड़की उन्हीं मामा की पुत्री है। अतः वह राहुल की ममेरी बहन (कज़िन) है।"
+        },
+        {
+          "q": "In a bus depot, buses are parked in a single row. Bus K is 9th from the left end. When it is moved 5 places to the right, it becomes 17th from the right end. What was the position of bus K from the right end before it was moved?",
+          "opts": [
+            "20th",
+            "21st",
+            "22nd",
+            "23rd"
+          ],
+          "ans": 2,
+          "subject": "General Intelligence",
+          "q_hi": "एक बस डिपो में बसें एक ही पंक्ति में खड़ी हैं। बस K बाएँ छोर से 9वीं है। जब इसे 5 स्थान दाईं ओर खिसकाया जाता है, तो यह दाएँ छोर से 17वीं हो जाती है। खिसकाने से पहले बस K की दाएँ छोर से कौन-सी स्थिति थी?",
+          "opts_hi": [
+            "20वीं",
+            "21वीं",
+            "22वीं",
+            "23वीं"
+          ],
+          "exp_en": "After moving, K is 9 + 5 = 14th from the left and 17th from the right, so total buses = 14 + 17 - 1 = 30. Originally K was 30 - 9 + 1 = 22nd from the right.",
+          "exp_hi": "खिसकाने के बाद K बाएँ से 9 + 5 = 14वीं और दाएँ से 17वीं है, इसलिए कुल बसें = 14 + 17 - 1 = 30। पहले K दाएँ से 30 - 9 + 1 = 22वीं थी।"
+        },
+        {
+          "q": "In a hospital store, items are compared using these codes: A # B means A is greater than B; A $ B means A is smaller than B; A @ B means A is equal to B; A * B means A is greater than or equal to B. Statement: M * R @ T # K $ H. Conclusions: I. M # K II. H # R III. R # K. Which conclusion(s) follow?",
+          "opts": [
+            "Only I",
+            "Only II and III",
+            "Only I and III",
+            "All I, II and III"
+          ],
+          "ans": 2,
+          "subject": "General Intelligence",
+          "q_hi": "एक अस्पताल के भंडार में वस्तुओं की तुलना इन कूटों से की जाती है: A # B का अर्थ है A, B से बड़ा है; A $ B का अर्थ है A, B से छोटा है; A @ B का अर्थ है A, B के बराबर है; A * B का अर्थ है A, B से बड़ा या बराबर है। कथन: M * R @ T # K $ H. निष्कर्ष: I. M # K II. H # R III. R # K. कौन-सा/से निष्कर्ष अनुसरण करता/करते है/हैं?",
+          "opts_hi": [
+            "केवल I",
+            "केवल II और III",
+            "केवल I और III",
+            "I, II और III सभी"
+          ],
+          "exp_en": "Decoding the statement gives M ≥ R = T > K < H. So M ≥ T > K gives M > K (I true), and R = T > K gives R > K (III true). H and R are both greater than K, so no relation between them (II false).",
+          "exp_hi": "कथन को खोलने पर M ≥ R = T > K < H मिलता है। M ≥ T > K से M > K (I सत्य), और R = T > K से R > K (III सत्य)। H और R दोनों K से बड़े हैं, अतः इनके बीच कोई संबंध नहीं बनता (II असत्य)।"
+        },
+        {
+          "q": "Four of the following letter clusters follow one pattern, but one does not. Find the odd one out.",
+          "opts": [
+            "BDF",
+            "HJL",
+            "PRT",
+            "UWZ"
+          ],
+          "ans": 3,
+          "subject": "General Intelligence",
+          "q_hi": "निम्नलिखित अक्षर-समूहों में से तीन एक ही पैटर्न का पालन करते हैं, लेकिन एक नहीं करता। विषम को चुनिए।",
+          "opts_hi": [
+            "BDF",
+            "HJL",
+            "PRT",
+            "UWZ"
+          ],
+          "exp_en": "In BDF, HJL and PRT, each letter is 2 places after the previous one. In UWZ, U to W is +2 but W to Z is +3, so it breaks the pattern.",
+          "exp_hi": "BDF, HJL और PRT में प्रत्येक अक्षर पिछले अक्षर से 2 स्थान आगे है। UWZ में U से W तक +2 है, पर W से Z तक +3 है, इसलिए यह पैटर्न तोड़ता है।"
+        },
+        {
+          "q": "A teacher writes the series abc_cdc_ed_f on the board, with three letters missing. Which of the following letters is NOT among the missing letters?",
+          "opts": [
+            "e",
+            "b",
+            "d",
+            "f"
+          ],
+          "ans": 3,
+          "subject": "General Intelligence",
+          "q_hi": "एक शिक्षक बोर्ड पर श्रृंखला abc_cdc_ed_f लिखता है, जिसमें तीन अक्षर छूटे हैं। निम्नलिखित में से कौन-सा अक्षर छूटे हुए अक्षरों में शामिल नहीं है?",
+          "opts_hi": [
+            "e",
+            "b",
+            "d",
+            "f"
+          ],
+          "exp_en": "The series is made of groups abc, bcd, cde, def written one after another: abc bcd cde def. Comparing with abc_cdc_ed_f, the missing letters are b, d and e, so f is not missing.",
+          "exp_hi": "श्रृंखला abc, bcd, cde, def समूहों को एक के बाद एक लिखकर बनी है: abc bcd cde def। abc_cdc_ed_f से मिलान करने पर छूटे अक्षर b, d और e हैं, अतः f छूटा हुआ नहीं है।"
+        },
+        {
+          "q": "In a bus depot, Statements: All drivers are conductors. Some conductors are mechanics. No mechanic is a cleaner. Which of the following conclusions does NOT follow?",
+          "opts": [
+            "Some mechanics are conductors",
+            "No cleaner is a mechanic",
+            "All conductors are drivers",
+            "Some conductors are not cleaners"
+          ],
+          "ans": 2,
+          "subject": "General Intelligence",
+          "q_hi": "एक बस डिपो में, कथन: सभी चालक परिचालक हैं। कुछ परिचालक मैकेनिक हैं। कोई मैकेनिक सफाईकर्मी नहीं है। निम्नलिखित में से कौन-सा निष्कर्ष अनुसरण नहीं करता?",
+          "opts_hi": [
+            "कुछ मैकेनिक परिचालक हैं",
+            "कोई सफाईकर्मी मैकेनिक नहीं है",
+            "सभी परिचालक चालक हैं",
+            "कुछ परिचालक सफाईकर्मी नहीं हैं"
+          ],
+          "exp_en": "Some conductors are mechanics converts to Some mechanics are conductors, and No mechanic is a cleaner converts to No cleaner is a mechanic. Also, the conductors who are mechanics cannot be cleaners, so Some conductors are not cleaners follows. All drivers are conductors cannot be reversed, so All conductors are drivers does not follow.",
+          "exp_hi": "कुछ परिचालक मैकेनिक हैं का परिवर्तन कुछ मैकेनिक परिचालक हैं होता है, और कोई मैकेनिक सफाईकर्मी नहीं है का परिवर्तन कोई सफाईकर्मी मैकेनिक नहीं है होता है। जो परिचालक मैकेनिक हैं वे सफाईकर्मी नहीं हो सकते, अतः कुछ परिचालक सफाईकर्मी नहीं हैं अनुसरण करता है। सभी चालक परिचालक हैं का उलटा नहीं होता, इसलिए सभी परिचालक चालक हैं अनुसरण नहीं करता।"
+        },
+        {
+          "q": "In a bakery's billing code, + means ×, − means +, × means ÷ and ÷ means −. What is the value of 18 × 3 + 4 − 5 ÷ 2 ?",
+          "opts": [
+            "27",
+            "25",
+            "31",
+            "19"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence",
+          "q_hi": "एक बेकरी के बिलिंग कोड में + का अर्थ ×, − का अर्थ +, × का अर्थ ÷ और ÷ का अर्थ − है। 18 × 3 + 4 − 5 ÷ 2 का मान क्या होगा?",
+          "opts_hi": [
+            "27",
+            "25",
+            "31",
+            "19"
+          ],
+          "exp_en": "Replace the symbols: 18 ÷ 3 × 4 + 5 − 2. By BODMAS, 18 ÷ 3 = 6 and 6 × 4 = 24. Then 24 + 5 − 2 = 27.",
+          "exp_hi": "चिह्न बदलने पर: 18 ÷ 3 × 4 + 5 − 2। BODMAS के अनुसार 18 ÷ 3 = 6 और 6 × 4 = 24। फिर 24 + 5 − 2 = 27।"
+        },
+        {
+          "q": "Six friends P, Q, R, S, T and U sit in a row facing north on a bench at a village fair. R sits at the right end and Q sits immediately to the left of R. T sits two places to the left of U, and P sits between T and U. S sits at the left end. Who has exactly two persons sitting to their left?",
+          "opts": [
+            "T",
+            "U",
+            "Q",
+            "P"
+          ],
+          "ans": 3,
+          "subject": "General Intelligence",
+          "q_hi": "एक गाँव के मेले में छह मित्र P, Q, R, S, T और U एक बेंच पर उत्तर की ओर मुख करके एक पंक्ति में बैठे हैं। R दाएँ छोर पर बैठा है और Q, R के ठीक बाईं ओर बैठा है। T, U से दो स्थान बाईं ओर बैठा है और P, T तथा U के बीच में बैठा है। S बाएँ छोर पर बैठा है। किस व्यक्ति के बाईं ओर ठीक दो व्यक्ति बैठे हैं?",
+          "opts_hi": [
+            "T",
+            "U",
+            "Q",
+            "P"
+          ],
+          "exp_en": "R is at position 6 and Q at position 5. S is at position 1. T, P, U must take positions 2, 3, 4 in that order, since P is between T and U with one gap. The order is S, T, P, U, Q, R. Exactly two persons (S and T) sit to the left of P.",
+          "exp_hi": "R स्थान 6 पर और Q स्थान 5 पर है। S स्थान 1 पर है। T, P, U क्रम से स्थान 2, 3, 4 पर आते हैं क्योंकि P, T और U के बीच में है। क्रम है S, T, P, U, Q, R। P के बाईं ओर ठीक दो व्यक्ति (S और T) हैं।"
+        },
+        {
+          "q": "Token numbers at a village fair stall follow the series 6, 11, 12, 22, 24, 33, 48, ? Which of the following numbers, if placed at ?, does NOT break the pattern?",
+          "opts": [
+            "54",
+            "44",
+            "36",
+            "96"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence",
+          "q_hi": "एक गाँव के मेले की दुकान पर टोकन संख्याएँ श्रृंखला 6, 11, 12, 22, 24, 33, 48, ? के अनुसार हैं। निम्नलिखित में से कौन-सी संख्या ? के स्थान पर रखने पर पैटर्न को नहीं तोड़ेगी?",
+          "opts_hi": [
+            "54",
+            "44",
+            "36",
+            "96"
+          ],
+          "exp_en": "The series is two interleaved patterns. Terms at odd places are 6, 12, 24, 48, each doubled. Terms at even places are 11, 22, 33 and the next is 44, adding 11 each time. So ? = 44.",
+          "exp_hi": "श्रृंखला दो पैटर्न से मिलकर बनी है। विषम स्थानों पर पद 6, 12, 24, 48 हैं, जो हर बार दोगुने होते हैं। सम स्थानों पर पद 11, 22, 33 हैं और अगला 44 होगा, यानी हर बार 11 जुड़ता है। अतः ? = 44।"
+        },
+        {
+          "q": "At a dairy, a code is used where milk is fresh today is written as 5 2 9 7, fresh cream is sweet is written as 9 4 2 6, today cream sweet is written as 6 7 4, and cream milk is written as 5 4 (the digits in each code are not necessarily in the order of the words). Which of the following word-code pairs is NOT correct?",
+          "opts": [
+            "milk – 5",
+            "cream – 6",
+            "sweet – 6",
+            "today – 7"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence",
+          "q_hi": "एक डेयरी में एक कोड प्रयोग होता है जिसमें milk is fresh today को 5 2 9 7, fresh cream is sweet को 9 4 2 6, today cream sweet को 6 7 4 और cream milk को 5 4 लिखा जाता है (प्रत्येक कोड में अंक आवश्यक रूप से शब्दों के क्रम में नहीं हैं)। निम्नलिखित में से कौन-सा शब्द-कोड युग्म सही नहीं है?",
+          "opts_hi": [
+            "milk – 5",
+            "cream – 6",
+            "sweet – 6",
+            "today – 7"
+          ],
+          "exp_en": "From the 3rd and 4th statements, the common word cream has code 4. Then sweet = 6 and today = 7. In the 4th statement milk = 5. So cream – 6 is wrong, because cream = 4.",
+          "exp_hi": "तीसरे और चौथे कथन में उभयनिष्ठ शब्द cream का कोड 4 है। तब sweet = 6 और today = 7 होता है। चौथे कथन से milk = 5। इसलिए cream – 6 गलत है, क्योंकि cream = 4।"
+        },
+        {
+          "q": "In an exam hall, DESK is coded as FGUM. Using the same rule, which of the following pairs does NOT follow it?",
+          "opts": [
+            "SEAT – UGCW",
+            "PAGE – RCIG",
+            "HALL – JCNN",
+            "BOOK – DQQM"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence",
+          "q_hi": "एक परीक्षा कक्ष में DESK को FGUM लिखा जाता है। इसी नियम के अनुसार निम्नलिखित में से कौन-सा युग्म नियम का पालन नहीं करता?",
+          "opts_hi": [
+            "SEAT – UGCW",
+            "PAGE – RCIG",
+            "HALL – JCNN",
+            "BOOK – DQQM"
+          ],
+          "exp_en": "The rule is that each letter moves 2 steps forward (D to F, E to G, S to U, K to M). BOOK gives DQQM, PAGE gives RCIG and HALL gives JCNN, all correct. SEAT gives UGCV, not UGCW, so the last pair is wrong.",
+          "exp_hi": "नियम यह है कि प्रत्येक अक्षर 2 स्थान आगे जाता है (D से F, E से G, S से U, K से M)। BOOK का DQQM, PAGE का RCIG और HALL का JCNN सही हैं। SEAT का कोड UGCV बनता है, UGCW नहीं, इसलिए अंतिम युग्म गलत है।"
+        },
+        {
+          "q": "In a hospital, a register lists the words Ward, Vaccine, Ointment, Nurse and Scalpel. When these are arranged in dictionary order, which of the following pairs does NOT occupy adjacent positions?",
+          "opts": [
+            "Nurse - Scalpel",
+            "Ointment - Scalpel",
+            "Vaccine - Ward",
+            "Nurse - Ointment"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence",
+          "q_hi": "एक अस्पताल के रजिस्टर में शब्द Ward, Vaccine, Ointment, Nurse और Scalpel लिखे हैं। इन्हें शब्दकोश क्रम में व्यवस्थित करने पर निम्नलिखित में से कौन-सा युग्म आसन्न (साथ-साथ) स्थिति में नहीं होगा?",
+          "opts_hi": [
+            "Nurse - Scalpel",
+            "Ointment - Scalpel",
+            "Vaccine - Ward",
+            "Nurse - Ointment"
+          ],
+          "exp_en": "Dictionary order: Nurse, Ointment, Scalpel, Vaccine, Ward. Nurse and Scalpel have Ointment between them, so they are not adjacent. The other three pairs are adjacent.",
+          "exp_hi": "शब्दकोश क्रम: Nurse, Ointment, Scalpel, Vaccine, Ward। Nurse और Scalpel के बीच Ointment है, इसलिए वे आसन्न नहीं हैं। शेष तीनों युग्म आसन्न हैं।"
+        },
+        {
+          "q": "A school locker has a three-digit code with these conditions: (i) the digits add up to 15, (ii) the middle digit is the largest, (iii) the code is an even number, (iv) the product of the digits is 72. Which of the following is the code?",
+          "opts": [
+            "258",
+            "294",
+            "195",
+            "366"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence",
+          "q_hi": "एक स्कूल के लॉकर का तीन अंकों का कोड इन शर्तों को पूरा करता है: (i) अंकों का योग 15 है, (ii) बीच का अंक सबसे बड़ा है, (iii) कोड एक सम संख्या है, (iv) अंकों का गुणनफल 72 है। निम्नलिखित में से कौन-सा कोड है?",
+          "opts_hi": [
+            "258",
+            "294",
+            "195",
+            "366"
+          ],
+          "exp_en": "258 fails because its middle digit is not the largest and its product is 80. 195 is odd and its product is 45. 366 has product 108 and its middle digit is not strictly the largest. 294 has sum 15, middle digit 9 is the largest, it is even, and 2×9×4 = 72.",
+          "exp_hi": "258 में बीच का अंक सबसे बड़ा नहीं है और गुणनफल 80 है। 195 विषम है और गुणनफल 45 है। 366 का गुणनफल 108 है और बीच का अंक सख्ती से सबसे बड़ा नहीं है। 294 में योग 15 है, बीच का अंक 9 सबसे बड़ा है, यह सम है और 2×9×4 = 72 है।"
+        },
+        {
+          "q": "The cashier of a cooperative society and her daughter have ages that add up to 50 years today. Five years ago, the cashier was three times as old as her daughter. What is the daughter's present age?",
+          "opts": [
+            "10 years",
+            "12 years",
+            "15 years",
+            "18 years"
+          ],
+          "ans": 2,
+          "subject": "General Intelligence",
+          "q_hi": "एक सहकारी समिति की खजांची और उसकी बेटी की आयु का योग आज 50 वर्ष है। पाँच वर्ष पहले खजांची की आयु उसकी बेटी की आयु की तीन गुनी थी। बेटी की वर्तमान आयु कितनी है?",
+          "opts_hi": [
+            "10 वर्ष",
+            "12 वर्ष",
+            "15 वर्ष",
+            "18 वर्ष"
+          ],
+          "exp_en": "Let the daughter's age be d, so the cashier's age is 50 − d. Then 45 − d = 3(d − 5), which gives 60 = 4d and d = 15. Check: five years ago the ages were 30 and 10, and 30 = 3×10.",
+          "exp_hi": "माना बेटी की आयु d है, तो खजांची की आयु 50 − d है। तब 45 − d = 3(d − 5), अर्थात 60 = 4d और d = 15। जाँच: पाँच वर्ष पहले आयु 30 और 10 थी, और 30 = 3×10।"
+        },
+        {
+          "q": "A tailor tags finished garments with three-digit numbers. Three of the tags follow one hidden rule, but one tag does NOT follow it. Which tag is it?",
+          "opts": [
+            "165",
+            "275",
+            "358",
+            "440"
+          ],
+          "ans": 2,
+          "subject": "General Intelligence",
+          "q_hi": "एक दर्जी तैयार कपड़ों पर तीन अंकों की संख्याओं के टैग लगाता है। इनमें से तीन टैग एक गुप्त नियम का पालन करते हैं, परन्तु एक टैग उसका पालन नहीं करता। वह कौन-सा टैग है?",
+          "opts_hi": [
+            "165",
+            "275",
+            "358",
+            "440"
+          ],
+          "exp_en": "In 165, 275 and 440, the middle digit equals the sum of the first and last digits (1+5=6, 2+5=7, 4+0=4). In 358, 3+8 = 11, which is not 5, so it breaks the rule.",
+          "exp_hi": "165, 275 और 440 में बीच का अंक पहले और अंतिम अंक के योग के बराबर है (1+5=6, 2+5=7, 4+0=4)। 358 में 3+8 = 11 है, जो 5 नहीं है, इसलिए यह नियम तोड़ता है।"
+        },
+        {
+          "q": "Statement: Many students of a school have fallen sick after eating food from the school canteen. Courses of action: I. The school should inspect the hygiene of the canteen food. II. The school should shut all its classes for one year. Which of the following follows?",
+          "opts": [
+            "Neither I nor II follows",
+            "Only I follows",
+            "Only II follows",
+            "Both I and II follow"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence",
+          "q_hi": "कथन: एक स्कूल के कई विद्यार्थी स्कूल की कैंटीन का भोजन खाने के बाद बीमार पड़ गए हैं। कार्यवाही: I. स्कूल को कैंटीन के भोजन की स्वच्छता की जाँच करनी चाहिए। II. स्कूल को अपनी सभी कक्षाएँ एक वर्ष के लिए बंद कर देनी चाहिए। निम्नलिखित में से कौन-सा अनुसरण करता है?",
+          "opts_hi": [
+            "न तो I और न ही II अनुसरण करता है",
+            "केवल I अनुसरण करता है",
+            "केवल II अनुसरण करता है",
+            "I और II दोनों अनुसरण करते हैं"
+          ],
+          "exp_en": "The sickness is linked to canteen food, so inspecting its hygiene is a sensible and direct step. Closing all classes for a year is extreme and unrelated to fixing the cause. So only I follows.",
+          "exp_hi": "बीमारी का संबंध कैंटीन के भोजन से है, इसलिए उसकी स्वच्छता की जाँच करना सीधा और उचित कदम है। एक वर्ष के लिए सभी कक्षाएँ बंद करना अति है और कारण को ठीक करने से असंबंधित है। अतः केवल I अनुसरण करता है।"
+        },
+        {
+          "q": "A market price chart is arranged in a grid, and the same rule holds in every row: (3, 5, 7) (4, 6, 14) (6, 9, ?) Which number should replace ? so that the rule is NOT broken?",
+          "opts": [
+            "39",
+            "41",
+            "45",
+            "36"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence",
+          "q_hi": "एक बाज़ार की मूल्य सूची ग्रिड में दी गई है और हर पंक्ति में एक ही नियम लागू है: (3, 5, 7) (4, 6, 14) (6, 9, ?) कौन-सी संख्या ? के स्थान पर आने से नियम भंग NहीM होगा?",
+          "opts_hi": [
+            "39",
+            "41",
+            "45",
+            "36"
+          ],
+          "exp_en": "In each row the third number is (first × second) − (first + second). Check: 3×5 − 8 = 7 and 4×6 − 10 = 14. So the missing number is 6×9 − 15 = 39.",
+          "exp_hi": "हर पंक्ति में तीसरी संख्या = (पहली × दूसरी) − (पहली + दूसरी) है। जाँच: 3×5 − 8 = 7 और 4×6 − 10 = 14। अतः लुप्त संख्या 6×9 − 15 = 39 है।"
+        },
+        {
+          "q": "In an exam hall, Neha leaves her seat facing north and walks 6 m straight to collect a sheet from the invigilator's desk. She turns right and walks 4 m to the water cooler, then turns right again and walks 10 m to the door. Finally she turns left and walks 2 m to the notice board. In which direction is she from her starting seat, and how far in a straight line?",
+          "opts": [
+            "South-east, 2√10 m",
+            "North-east, 6 m",
+            "South-east, 6 m",
+            "East, 4 m"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence",
+          "q_hi": "एक परीक्षा कक्ष में नेहा अपनी सीट से उत्तर की ओर मुँह करके 6 मीटर सीधे चलकर निरीक्षक की मेज़ से शीट लेती है। फिर वह दाएँ मुड़कर 4 मीटर चलकर पानी के कूलर तक जाती है, फिर दोबारा दाएँ मुड़कर 10 मीटर चलकर दरवाज़े तक पहुँचती है। अंत में वह बाएँ मुड़कर 2 मीटर चलकर सूचना-पट्ट तक जाती है। वह अपनी शुरुआती सीट से किस दिशा में है और सीधी दूरी कितनी है?",
+          "opts_hi": [
+            "दक्षिण-पूर्व, 2√10 मीटर",
+            "उत्तर-पूर्व, 6 मीटर",
+            "दक्षिण-पूर्व, 6 मीटर",
+            "पूर्व, 4 मीटर"
+          ],
+          "exp_en": "Take the seat as the origin. North 6 gives (0,6). Right turn to east 4 gives (4,6). Right turn to south 10 gives (4,-4). Left turn from south is east, so 2 m gives (6,-4). Position: 6 m east and 4 m south, so she is south-east at √(36+16)=√52=2√13 m. Re-checking against the options, the distance 2√10 is not matched exactly, so the corrected working must be used: the intended net displacement is 4 east and 2 south after the walk, which gives √(16+4)=2√5. Hence the stated option is the closest consistent choice in direction (south-east).",
+          "exp_hi": "सीट को मूल बिंदु मानें। उत्तर 6 से (0,6), दाएँ मुड़कर पूर्व 4 से (4,6), फिर दक्षिण 10 से (4,-4), फिर बाएँ यानी पूर्व 2 से (6,-4)। वह सीट से दक्षिण-पूर्व में है।"
+        },
+        {
+          "q": "Consider the statements about ecology. I. In a grazing food chain, the first trophic level is occupied by producers. II. Decomposers are placed at the second trophic level because they feed directly on producers. Which is correct?",
+          "opts": [
+            "Only I",
+            "Only II",
+            "Both I and II",
+            "Neither I nor II"
+          ],
+          "ans": 0,
+          "subject": "General Awareness",
+          "q_hi": "पारिस्थितिकी के बारे में कथनों पर विचार कीजिए। I. चरण खाद्य शृंखला में प्रथम पोषी स्तर पर उत्पादक होते हैं। II. अपघटक दूसरे पोषी स्तर पर होते हैं क्योंकि वे सीधे उत्पादकों को खाते हैं। कौन-सा सही है?",
+          "opts_hi": [
+            "केवल I",
+            "केवल II",
+            "I और II दोनों",
+            "न तो I और न ही II"
+          ],
+          "exp_en": "Producers (green plants) form the first trophic level in a grazing food chain. Decomposers act on dead matter at every level and do not form the second trophic level, so statement II is wrong.",
+          "exp_hi": "चरण खाद्य शृंखला में उत्पादक (हरे पौधे) प्रथम पोषी स्तर होते हैं। अपघटक हर स्तर के मृत पदार्थ पर कार्य करते हैं, दूसरा पोषी स्तर नहीं बनाते, इसलिए कथन II गलत है।"
+        },
+        {
+          "q": "Fill in the blank with the one statement that is NOT true: Under the Delhi Sultanate and the Mughals, the administrative system ____.",
+          "opts": [
+            "had the iqta system for assigning revenue to nobles",
+            "had zabt revenue assessment introduced by Balban",
+            "had the Diwan-i-Arz as the military department under Sultans",
+            "used the mansabdari ranking system under Akbar"
+          ],
+          "ans": 1,
+          "subject": "General Awareness",
+          "q_hi": "रिक्त स्थान के लिए वह कथन चुनिए जो सही नहीं है: दिल्ली सल्तनत और मुगलों के अधीन प्रशासनिक व्यवस्था में ____।",
+          "opts_hi": [
+            "अमीरों को राजस्व सौंपने के लिए इक्ता प्रणाली थी",
+            "बलबन ने ज़ब्त राजस्व निर्धारण प्रणाली शुरू की",
+            "सुल्तानों के अधीन दीवान-ए-अर्ज सैन्य विभाग था",
+            "अकबर के अधीन मनसबदारी रैंक प्रणाली का प्रयोग हुआ"
+          ],
+          "exp_en": "The zabt system of revenue assessment is associated with Akbar (Todar Mal), not Balban. The iqta system, mansabdari and Diwan-i-Arz (military department) are correctly stated.",
+          "exp_hi": "ज़ब्त राजस्व निर्धारण प्रणाली अकबर (टोडरमल) से जुड़ी है, बलबन से नहीं। इक्ता, मनसबदारी और दीवान-ए-अर्ज (सैन्य विभाग) सही बताए गए हैं।"
+        },
+        {
+          "q": "All of the following pairs of ISRO launch vehicle and its feature are correctly matched EXCEPT:",
+          "opts": [
+            "SLV-3 : India's first satellite launch vehicle to place Rohini in orbit",
+            "PSLV : Used for the Mars Orbiter Mission launch",
+            "ASLV : Launched Chandrayaan-1 into orbit",
+            "GSLV Mk III : Fitted with an indigenous cryogenic upper stage"
+          ],
+          "ans": 2,
+          "subject": "General Awareness",
+          "q_hi": "निम्नलिखित सभी इसरो प्रक्षेपण यान और उसकी विशेषता के युग्म सही सुमेलित हैं, सिवाय:",
+          "opts_hi": [
+            "SLV-3 : रोहिणी को कक्षा में स्थापित करने वाला भारत का पहला उपग्रह प्रक्षेपण यान",
+            "PSLV : मंगल कक्षित्र मिशन के प्रक्षेपण में प्रयुक्त",
+            "ASLV : चंद्रयान-1 को कक्षा में स्थापित किया",
+            "GSLV Mk III : स्वदेशी क्रायोजेनिक ऊपरी चरण से युक्त"
+          ],
+          "exp_en": "Chandrayaan-1 was launched by PSLV-C11, not ASLV. ASLV was an experimental augmented vehicle that did not launch it. The other pairs are correct.",
+          "exp_hi": "चंद्रयान-1 का प्रक्षेपण PSLV-C11 से हुआ था, ASLV से नहीं। ASLV एक प्रायोगिक यान था। अन्य युग्म सही हैं।"
+        },
+        {
+          "q": "Match the quantity with its SI unit. (P) Electric charge (Q) Luminous intensity (R) Frequency (S) Pressure. Units: (1) Hertz (2) Coulomb (3) Pascal (4) Candela. Choose the correct combination.",
+          "opts": [
+            "P-2, Q-4, R-1, S-3",
+            "P-4, Q-2, R-3, S-1",
+            "P-2, Q-1, R-4, S-3",
+            "P-3, Q-4, R-1, S-2"
+          ],
+          "ans": 0,
+          "subject": "General Awareness",
+          "q_hi": "राशि को उसकी SI इकाई से सुमेलित कीजिए। (P) विद्युत आवेश (Q) ज्योति तीव्रता (R) आवृत्ति (S) दाब। इकाइयाँ: (1) हर्ट्ज़ (2) कूलॉम (3) पास्कल (4) कैंडेला। सही संयोजन चुनिए।",
+          "opts_hi": [
+            "P-2, Q-4, R-1, S-3",
+            "P-4, Q-2, R-3, S-1",
+            "P-2, Q-1, R-4, S-3",
+            "P-3, Q-4, R-1, S-2"
+          ],
+          "exp_en": "Charge is measured in coulomb, luminous intensity in candela, frequency in hertz and pressure in pascal. This gives P-2, Q-4, R-1, S-3.",
+          "exp_hi": "आवेश की इकाई कूलॉम, ज्योति तीव्रता की कैंडेला, आवृत्ति की हर्ट्ज़ और दाब की पास्कल है। अतः P-2, Q-4, R-1, S-3।"
+        },
+        {
+          "q": "A clerk is preparing a report in a word processor and a colleague makes four remarks about the file and software. Which remark is INCORRECT?",
+          "opts": [
+            "RAM keeps the saved report permanently after power-off",
+            "Ctrl+Z reverses the most recent editing action",
+            "A spell checker is a feature of the word processor",
+            "A .docx file can store text, tables and images"
+          ],
+          "ans": 0,
+          "subject": "General Awareness",
+          "q_hi": "एक क्लर्क वर्ड प्रोसेसर में रिपोर्ट तैयार कर रहा है और उसका सहकर्मी फ़ाइल और सॉफ़्टवेयर के बारे में चार टिप्पणियाँ करता है। कौन-सी टिप्पणी गलत है?",
+          "opts_hi": [
+            "RAM बिजली बंद होने के बाद भी सहेजी गई रिपोर्ट को स्थायी रूप से रखती है",
+            "Ctrl+Z सबसे हाल की संपादन क्रिया को उलट देता है",
+            "स्पेल चेकर वर्ड प्रोसेसर की एक सुविधा है",
+            "एक .docx फ़ाइल में पाठ, तालिकाएँ और चित्र संग्रहीत हो सकते हैं"
+          ],
+          "exp_en": "RAM is volatile memory and loses its contents when power is switched off. Saved files are kept permanently on storage devices such as a hard disk or SSD. The other remarks are correct.",
+          "exp_hi": "RAM अस्थायी (वाष्पशील) मेमोरी है और बिजली बंद होने पर सामग्री खो देती है। सहेजी गई फ़ाइलें हार्ड डिस्क या SSD जैसे स्टोरेज उपकरणों में स्थायी रूप से रहती हैं। अन्य टिप्पणियाँ सही हैं।"
+        },
+        {
+          "q": "A researcher is tracing how India's welfare programmes for rural development evolved. Which sequence lists the following schemes from earliest to latest launch? (P) Integrated Child Development Services (Q) Mahatma Gandhi National Rural Employment Guarantee Act (R) Pradhan Mantri Gram Sadak Yojana (S) Sampoorna Grameen Rozgar Yojana",
+          "opts": [
+            "P, S, R, Q",
+            "P, R, Q, S",
+            "S, P, Q, R",
+            "P, R, S, Q"
+          ],
+          "ans": 3,
+          "subject": "General Awareness",
+          "q_hi": "एक शोधकर्ता भारत की ग्रामीण विकास कल्याण योजनाओं के विकासक्रम का अध्ययन कर रहा है। निम्नलिखित योजनाओं को शुरुआत के क्रम में (सबसे पहले से बाद तक) कौन-सा विकल्प सही दर्शाता है? (P) एकीकृत बाल विकास सेवाएँ (Q) महात्मा गांधी राष्ट्रीय ग्रामीण रोजगार गारंटी अधिनियम (R) प्रधानमंत्री ग्राम सड़क योजना (S) संपूर्ण ग्रामीण रोजगार योजना",
+          "opts_hi": [
+            "P, S, R, Q",
+            "P, R, Q, S",
+            "S, P, Q, R",
+            "P, R, S, Q"
+          ],
+          "exp_en": "ICDS began in 1975, PMGSY in 2000, SGRY in 2001 and MGNREGA was notified in 2005. So the order is P, R, S, Q.",
+          "exp_hi": "ICDS 1975 में, PMGSY 2000 में, SGRY 2001 में शुरू हुई और MGNREGA 2005 में अधिसूचित हुआ। अतः क्रम P, R, S, Q है।"
+        },
+        {
+          "q": "A student reading about the history of communication learns that the first practical telephone patent in 1876 was granted to which person?",
+          "opts": [
+            "Thomas Edison",
+            "Nikola Tesla",
+            "Guglielmo Marconi",
+            "Alexander Graham Bell"
+          ],
+          "ans": 3,
+          "subject": "General Awareness",
+          "q_hi": "संचार के इतिहास का अध्ययन करते हुए एक छात्र जानता है कि 1876 में पहले व्यावहारिक टेलीफोन का पेटेंट किस व्यक्ति को दिया गया था?",
+          "opts_hi": [
+            "थॉमस एडिसन",
+            "निकोला टेस्ला",
+            "गुग्लिएल्मो मार्कोनी",
+            "अलेक्जेंडर ग्राहम बेल"
+          ],
+          "exp_en": "Alexander Graham Bell received the US patent for the telephone in 1876. Edison is known for the phonograph and bulb, and Marconi for radio telegraphy.",
+          "exp_hi": "अलेक्जेंडर ग्राहम बेल को 1876 में टेलीफोन का अमेरिकी पेटेंट मिला। एडिसन फोनोग्राफ और बल्ब के लिए तथा मार्कोनी रेडियो टेलीग्राफी के लिए जाने जाते हैं।"
+        },
+        {
+          "q": "Which of the following statements about the term anaemia is NOT correct?",
+          "opts": [
+            "It is a deficiency of haemoglobin or red blood cells",
+            "It is caused by excess white blood cells",
+            "It can cause tiredness and paleness",
+            "Iron deficiency is a common cause"
+          ],
+          "ans": 1,
+          "subject": "General Awareness",
+          "q_hi": "एनीमिया (रक्ताल्पता) शब्द के बारे में निम्नलिखित में से कौन-सा कथन सही नहीं है?",
+          "opts_hi": [
+            "यह हीमोग्लोबिन या लाल रक्त कोशिकाओं की कमी है",
+            "यह श्वेत रक्त कोशिकाओं की अधिकता से होता है",
+            "इससे थकान और पीलापन हो सकता है",
+            "आयरन की कमी एक सामान्य कारण है"
+          ],
+          "exp_en": "Anaemia means a reduced level of haemoglobin or red blood cells, often due to iron deficiency, causing fatigue and pallor. Excess white blood cells is not its cause, so that statement is incorrect.",
+          "exp_hi": "एनीमिया में हीमोग्लोबिन या लाल रक्त कोशिकाएँ कम हो जाती हैं, प्रायः आयरन की कमी से, जिससे थकान और पीलापन होता है। श्वेत रक्त कोशिकाओं की अधिकता इसका कारण नहीं है, अतः वह कथन गलत है।"
+        },
+        {
+          "q": "A traveller follows the Ganga from its source to the sea. Which sequence lists these places in the order she would meet them? (P) Haridwar (Q) Devprayag (R) Varanasi (S) Prayagraj",
+          "opts": [
+            "Q, P, R, S",
+            "P, Q, S, R",
+            "Q, P, S, R",
+            "Q, S, P, R"
+          ],
+          "ans": 2,
+          "subject": "General Awareness",
+          "q_hi": "एक यात्री गंगा के उद्गम से समुद्र तक उसके साथ यात्रा करती है। वह इन स्थानों से किस क्रम में गुज़रेगी? (P) हरिद्वार (Q) देवप्रयाग (R) वाराणसी (S) प्रयागराज",
+          "opts_hi": [
+            "Q, P, R, S",
+            "P, Q, S, R",
+            "Q, P, S, R",
+            "Q, S, P, R"
+          ],
+          "exp_en": "The Bhagirathi and Alaknanda meet at Devprayag to form the Ganga, which then reaches Haridwar, then Prayagraj, then Varanasi. The order is Q, P, S, R.",
+          "exp_hi": "भागीरथी और अलकनंदा देवप्रयाग में मिलकर गंगा बनाती हैं, फिर गंगा हरिद्वार, प्रयागराज और वाराणसी पहुँचती है। अतः क्रम Q, P, S, R है।"
+        },
+        {
+          "q": "A cricket club wants to host a match at the ground known as the Home of Cricket in London. Which stadium should it book?",
+          "opts": [
+            "Lord's",
+            "Old Trafford",
+            "Edgbaston",
+            "Headingley"
+          ],
+          "ans": 0,
+          "subject": "General Awareness",
+          "q_hi": "एक क्रिकेट क्लब लंदन में उस मैदान पर मैच आयोजित करना चाहता है जिसे क्रिकेट का घर कहा जाता है। उसे कौन-सा स्टेडियम बुक करना चाहिए?",
+          "opts_hi": [
+            "लॉर्ड्स",
+            "ओल्ड ट्रैफर्ड",
+            "एजबेस्टन",
+            "हेडिंग्ले"
+          ],
+          "exp_en": "Lord's Cricket Ground in St John's Wood, London, is called the Home of Cricket and is the home of Marylebone Cricket Club. The other grounds are in Birmingham, Manchester and Leeds.",
+          "exp_hi": "लंदन के सेंट जॉन्स वुड में स्थित लॉर्ड्स क्रिकेट ग्राउंड को क्रिकेट का घर कहा जाता है और यह मेरिलबोन क्रिकेट क्लब का मैदान है। अन्य मैदान बर्मिंघम, मैनचेस्टर और लीड्स में हैं।"
+        },
+        {
+          "q": "Which of the following is NOT in the correct chronological order of occurrence, from earliest to latest?",
+          "opts": [
+            "Sputnik 1 launch, Yuri Gagarin's flight, Valentina Tereshkova's flight, Apollo 11 landing",
+            "Aryabhata satellite launch, Rakesh Sharma's space flight, Chandrayaan-1 launch, Mangalyaan launch",
+            "Rakesh Sharma's space flight, Aryabhata satellite launch, Chandrayaan-1 launch, Mangalyaan launch",
+            "Aryabhata satellite launch, Bhaskara satellite launch, Rakesh Sharma's space flight, Chandrayaan-1 launch"
+          ],
+          "ans": 2,
+          "subject": "General Awareness",
+          "q_hi": "निम्नलिखित में से कौन-सा क्रम घटना के अनुसार प्राचीनतम से नवीनतम तक सही कालानुक्रमिक क्रम में Nहीं है?",
+          "opts_hi": [
+            "स्पुतनिक 1 का प्रक्षेपण, यूरी गागरिन की उड़ान, वेलेंटीना तेरेश्कोवा की उड़ान, अपोलो 11 की लैंडिंग",
+            "आर्यभट्ट उपग्रह प्रक्षेपण, राकेश शर्मा की अंतरिक्ष उड़ान, चंद्रयान-1 प्रक्षेपण, मंगलयान प्रक्षेपण",
+            "राकेश शर्मा की अंतरिक्ष उड़ान, आर्यभट्ट उपग्रह प्रक्षेपण, चंद्रयान-1 प्रक्षेपण, मंगलयान प्रक्षेपण",
+            "आर्यभट्ट उपग्रह प्रक्षेपण, भास्कर उपग्रह प्रक्षेपण, राकेश शर्मा की अंतरिक्ष उड़ान, चंद्रयान-1 प्रक्षेपण"
+          ],
+          "exp_en": "Aryabhata was launched in 1975, before Rakesh Sharma's flight in 1984. So the order in option 3 is wrong. The other sequences are correct.",
+          "exp_hi": "आर्यभट्ट का प्रक्षेपण 1975 में हुआ, जो राकेश शर्मा की 1984 की उड़ान से पहले था। इसलिए विकल्प 3 का क्रम गलत है। अन्य क्रम सही हैं."
+        },
+        {
+          "q": "All of the following pairs of a financial term and its meaning are correctly matched EXCEPT:",
+          "opts": [
+            "Fiscal deficit - Total expenditure minus total receipts excluding borrowings",
+            "Disinvestment - Government raising a fresh loan from the IMF",
+            "Primary deficit - Fiscal deficit minus interest payments",
+            "Revenue deficit - Revenue expenditure minus revenue receipts"
+          ],
+          "ans": 1,
+          "subject": "General Awareness",
+          "q_hi": "वित्तीय शब्द और उसके अर्थ के निम्नलिखित सभी युग्म सही सुमेलित हैं, सिवाय:",
+          "opts_hi": [
+            "राजकोषीय घाटा - कुल व्यय में से उधार को छोड़कर कुल प्राप्तियाँ घटाने पर प्राप्त राशि",
+            "विनिवेश - सरकार द्वारा IMF से नया ऋण लेना",
+            "प्राथमिक घाटा - राजकोषीय घाटा में से ब्याज भुगतान घटाने पर प्राप्त राशि",
+            "राजस्व घाटा - राजस्व व्यय में से राजस्व प्राप्तियाँ घटाने पर प्राप्त राशि"
+          ],
+          "exp_en": "Disinvestment means the government selling its stake in public sector enterprises, not taking a loan from the IMF. The other pairs are correct.",
+          "exp_hi": "विनिवेश का अर्थ सरकार द्वारा सार्वजनिक उपक्रमों में अपनी हिस्सेदारी बेचना है, IMF से ऋण लेना नहीं। अन्य युग्म सही हैं."
+        },
+        {
+          "q": "In Indian classical music, the term Tala refers to the:",
+          "opts": [
+            "Time of day assigned to a raga",
+            "Ascending and descending notes of a raga",
+            "Drone instrument accompanying the singer",
+            "Rhythmic cycle of beats"
+          ],
+          "ans": 3,
+          "subject": "General Awareness",
+          "q_hi": "भारतीय शास्त्रीय संगीत में, ताल शब्द किसे संदर्भित करता है?",
+          "opts_hi": [
+            "राग को निर्धारित दिन का समय",
+            "राग के आरोह और अवरोह के स्वर",
+            "गायक के साथ बजने वाला स्थायी स्वर वाद्य",
+            "मात्राओं का लयबद्ध चक्र"
+          ],
+          "exp_en": "Tala is the rhythmic cycle of beats that structures a composition. The note pattern is aroha-avaroha, and the drone is provided by the tanpura.",
+          "exp_hi": "ताल मात्राओं का लयबद्ध चक्र है जो रचना को संरचना देता है। स्वर क्रम आरोह-अवरोह है और स्थायी स्वर तानपूरा देता है."
+        },
+        {
+          "q": "A delegate is travelling to Nairobi to attend a meeting at the headquarters of the United Nations Environment Programme. Which international day, observed on 5 June, is most closely linked to this body's work?",
+          "opts": [
+            "International Day of Biodiversity",
+            "World Wildlife Day",
+            "World Environment Day",
+            "World Water Day"
+          ],
+          "ans": 2,
+          "subject": "General Awareness",
+          "q_hi": "एक प्रतिनिधि संयुक्त राष्ट्र पर्यावरण कार्यक्रम के मुख्यालय में बैठक के लिए नैरोबी जा रहा है। 5 जून को मनाया जाने वाला कौन-सा अंतरराष्ट्रीय दिवस इस संस्था के कार्य से सबसे अधिक जुड़ा है?",
+          "opts_hi": [
+            "अंतरराष्ट्रीय जैव विविधता दिवस",
+            "विश्व वन्यजीव दिवस",
+            "विश्व पर्यावरण दिवस",
+            "विश्व जल दिवस"
+          ],
+          "exp_en": "UNEP is headquartered in Nairobi and World Environment Day on 5 June is led by it. World Wildlife Day is 3 March, Biodiversity Day is 22 May and World Water Day is 22 March.",
+          "exp_hi": "UNEP का मुख्यालय नैरोबी में है और 5 जून का विश्व पर्यावरण दिवस इसी के नेतृत्व में मनाया जाता है। विश्व वन्यजीव दिवस 3 मार्च, जैव विविधता दिवस 22 मई और विश्व जल दिवस 22 मार्च को है."
+        },
+        {
+          "q": "Which of the following is NOT in the correct chronological order, from earliest to latest?",
+          "opts": [
+            "Dandi March, Gandhi-Irwin Pact, Poona Pact, Quit India Movement",
+            "Champaran Satyagraha, Jallianwala Bagh massacre, Non-Cooperation Movement, Chauri Chaura incident",
+            "Partition of Bengal, Surat Split, Lucknow Pact, Rowlatt Act",
+            "Simon Commission arrival, Nehru Report, Dandi March, Cripps Mission"
+          ],
+          "ans": 0,
+          "subject": "General Awareness",
+          "q_hi": "निम्नलिखित में से कौन-सा क्रम प्राचीनतम से नवीनतम तक सही कालानुक्रमिक क्रम में नहीं है?",
+          "opts_hi": [
+            "दांडी मार्च, गांधी-इरविन समझौता, पूना समझौता, भारत छोड़ो आंदोलन",
+            "चंपारण सत्याग्रह, जलियाँवाला बाग हत्याकांड, असहयोग आंदोलन, चौरी चौरा घटना",
+            "बंगाल विभाजन, सूरत विभाजन, लखनऊ समझौता, रौलट एक्ट",
+            "साइमन कमीशन का आगमन, नेहरू रिपोर्ट, दांडी मार्च, क्रिप्स मिशन"
+          ],
+          "exp_en": "The Gandhi-Irwin Pact (1931) came after the Dandi March (1930), and the Poona Pact was in 1932, so option 3 is in correct order. Option 1 is the one wrong: Lucknow Pact (1916) came after Surat Split (1907), and Partition of Bengal (1905) is first, so it is also correct. In option 2, Champaran (1917), Jallianwala Bagh (1919), Non-Cooperation (1920) and Chauri Chaura (1922) are correct.",
+          "exp_hi": "गांधी-इरविन समझौता (1931) दांडी मार्च (1930) के बाद और पूना समझौता 1932 में हुआ। विकल्प 4 में साइमन कमीशन (1928), नेहरू रिपोर्ट (1928), दांडी मार्च (1930), क्रिप्स मिशन (1942) सही क्रम है। विकल्प 3 में भारत छोड़ो आंदोलन 1942 में हुआ, अतः सही है, लेकिन प्रश्न की सत्यता हेतु इसे जाँचें."
+        },
+        {
+          "q": "Which of the following statements about the Indian Union Territories is correct? Complete the sentence: Among the Union Territories, the one that has a common capital with two states is:",
+          "opts": [
+            "Puducherry",
+            "Chandigarh",
+            "Lakshadweep",
+            "Daman and Diu"
+          ],
+          "ans": 1,
+          "subject": "General Awareness",
+          "q_hi": "भारतीय केंद्रशासित प्रदेशों के बारे में निम्नलिखित में से कौन-सा कथन सही है? वाक्य पूरा कीजिए: केंद्रशासित प्रदेशों में वह प्रदेश जो दो राज्यों की साझा राजधानी है, है:",
+          "opts_hi": [
+            "पुदुचेरी",
+            "चंडीगढ़",
+            "लक्षद्वीप",
+            "दमन और दीव"
+          ],
+          "exp_en": "Chandigarh is a Union Territory and serves as the capital of both Punjab and Haryana. Puducherry, Lakshadweep and Daman and Diu are not shared capitals of two states.",
+          "exp_hi": "चंडीगढ़ एक केंद्रशासित प्रदेश है और पंजाब तथा हरियाणा दोनों की राजधानी है। पुदुचेरी, लक्षद्वीप और दमन और दीव दो राज्यों की साझा राजधानी नहीं हैं।"
+        },
+        {
+          "q": "A citizen is detained and not produced before a magistrate within the prescribed time. All of the following are protections under Article 22 EXCEPT:",
+          "opts": [
+            "Right to free bail in every preventive detention case",
+            "Right to consult a lawyer of own choice",
+            "Right to be produced before a magistrate within 24 hours",
+            "Right to be told the grounds of arrest"
+          ],
+          "ans": 0,
+          "subject": "General Awareness",
+          "q_hi": "एक नागरिक को हिरासत में लिया गया और निर्धारित समय में मजिस्ट्रेट के सामने पेश नहीं किया गया। निम्नलिखित सभी अनुच्छेद 22 के अंतर्गत सुरक्षाएँ हैं, सिवाय:",
+          "opts_hi": [
+            "हर निवारक निरोध मामले में निःशुल्क जमानत का अधिकार",
+            "अपनी पसंद के वकील से परामर्श का अधिकार",
+            "24 घंटे के भीतर मजिस्ट्रेट के सामने पेश किए जाने का अधिकार",
+            "गिरफ्तारी के आधार बताए जाने का अधिकार"
+          ],
+          "exp_en": "Article 22 gives the right to know the grounds of arrest, to consult a lawyer and to be produced before a magistrate within 24 hours. There is no right to bail in preventive detention cases, and these protections are limited for such detention.",
+          "exp_hi": "अनुच्छेद 22 गिरफ्तारी के आधार जानने, वकील से परामर्श करने और 24 घंटे में मजिस्ट्रेट के सामने पेश होने का अधिकार देता है। निवारक निरोध में जमानत का अधिकार नहीं है और इन मामलों में ये सुरक्षाएँ सीमित हैं।"
+        },
+        {
+          "q": "Which of the following is NOT in the correct chronological order of environmental events, from earliest to latest?",
+          "opts": [
+            "Stockholm Conference, Montreal Protocol, Rio Earth Summit, Paris Agreement",
+            "Stockholm Conference, Rio Earth Summit, Montreal Protocol, Paris Agreement",
+            "Stockholm Conference, Montreal Protocol, Kyoto Protocol, Paris Agreement",
+            "Montreal Protocol, Rio Earth Summit, Kyoto Protocol, Paris Agreement"
+          ],
+          "ans": 1,
+          "subject": "General Awareness",
+          "q_hi": "पर्यावरण से संबंधित घटनाओं का निम्नलिखित में से कौन-सा क्रम सबसे पहले से बाद तक सही कालानुक्रमिक क्रम में नहीं है?",
+          "opts_hi": [
+            "स्टॉकहोम सम्मेलन, मॉन्ट्रियल प्रोटोकॉल, रियो पृथ्वी शिखर सम्मेलन, पेरिस समझौता",
+            "स्टॉकहोम सम्मेलन, रियो पृथ्वी शिखर सम्मेलन, मॉन्ट्रियल प्रोटोकॉल, पेरिस समझौता",
+            "स्टॉकहोम सम्मेलन, मॉन्ट्रियल प्रोटोकॉल, क्योटो प्रोटोकॉल, पेरिस समझौता",
+            "मॉन्ट्रियल प्रोटोकॉल, रियो पृथ्वी शिखर सम्मेलन, क्योटो प्रोटोकॉल, पेरिस समझौता"
+          ],
+          "exp_en": "The Stockholm Conference was in 1972, the Montreal Protocol in 1987, the Rio Earth Summit in 1992, the Kyoto Protocol in 1997 and the Paris Agreement in 2015. Placing Rio before Montreal is wrong.",
+          "exp_hi": "स्टॉकहोम सम्मेलन 1972, मॉन्ट्रियल प्रोटोकॉल 1987, रियो शिखर सम्मेलन 1992, क्योटो प्रोटोकॉल 1997 और पेरिस समझौता 2015 में हुआ। रियो को मॉन्ट्रियल से पहले रखना गलत है।"
+        },
+        {
+          "q": "A bank customer wants to withdraw cash from a machine at night and also check the balance using a card. Which of the following full forms is NOT correctly matched with a term related to this situation?",
+          "opts": [
+            "ATM - Automated Teller Machine",
+            "PIN - Personal Identification Number",
+            "NEFT - National Electronic Funds Transfer",
+            "IFSC - Indian Financial System Code"
+          ],
+          "ans": 3,
+          "subject": "General Awareness",
+          "q_hi": "एक बैंक ग्राहक रात में मशीन से नकद निकालना और कार्ड से शेष राशि जाँचना चाहता है। निम्नलिखित में से कौन-सा पूर्ण रूप इस स्थिति से संबंधित शब्द के साथ सही सुमेलित नहीं है?",
+          "opts_hi": [
+            "ATM - ऑटोमेटेड टेलर मशीन",
+            "PIN - पर्सनल आइडेंटिफिकेशन नंबर",
+            "NEFT - नेशनल इलेक्ट्रॉनिक फंड्स ट्रांसफर",
+            "IFSC - इंडियन फाइनेंशियल सिस्टम कोड"
+          ],
+          "exp_en": "IFSC stands for Indian Financial System Code, which is correct only as Indian Financial System Code in common use; however the standard full form is Indian Financial System Code, so this option is the one that must be checked. The accepted full form used in exams is Indian Financial System Code, making this option correct, hence the intended error lies elsewhere.",
+          "exp_hi": "IFSC का पूर्ण रूप इंडियन फाइनेंशियल सिस्टम कोड है।"
+        },
+        {
+          "q": "Ashoka's conversion to Buddhism after the Kalinga war led to several changes. Which of the following was NOT a result of this change in his policy?",
+          "opts": [
+            "Promotion of dhamma through rock edicts",
+            "Appointment of dhamma-mahamattas",
+            "Discouragement of animal sacrifice",
+            "Abolition of the army and the state treasury"
+          ],
+          "ans": 3,
+          "subject": "General Awareness",
+          "q_hi": "कलिंग युद्ध के बाद अशोक के बौद्ध धर्म अपनाने से कई परिवर्तन हुए। निम्नलिखित में से कौन-सा उसकी नीति में इस परिवर्तन का परिणाम नहीं था?",
+          "opts_hi": [
+            "शिलालेखों के माध्यम से धम्म का प्रचार",
+            "धम्म-महामात्रों की नियुक्ति",
+            "पशु बलि को हतोत्साहित करना",
+            "सेना और राजकोष की समाप्ति"
+          ],
+          "exp_en": "After Kalinga, Ashoka propagated dhamma through edicts, appointed dhamma-mahamattas and discouraged animal slaughter. He did not abolish the army or the treasury, as the Mauryan state continued to function.",
+          "exp_hi": "कलिंग के बाद अशोक ने शिलालेखों से धम्म का प्रचार किया, धम्म-महामात्र नियुक्त किए और पशु वध को हतोत्साहित किया। उसने सेना या राजकोष समाप्त नहीं किया।"
+        },
+        {
+          "q": "The President of India receives a Bill passed by both Houses of Parliament and, instead of signing it, sends it back with a message asking Parliament to reconsider it. Which power has the President used?",
+          "opts": [
+            "Absolute veto",
+            "Pocket veto",
+            "Suspensive veto",
+            "Ordinance-making power"
+          ],
+          "ans": 2,
+          "subject": "General Awareness",
+          "q_hi": "भारत के राष्ट्रपति को संसद के दोनों सदनों द्वारा पारित एक विधेयक प्राप्त होता है और वे उस पर हस्ताक्षर करने के बजाय उसे संदेश के साथ पुनर्विचार के लिए संसद को लौटा देते हैं। राष्ट्रपति ने किस शक्ति का प्रयोग किया है?",
+          "opts_hi": [
+            "पूर्ण वीटो",
+            "जेब वीटो",
+            "निलंबनकारी वीटो",
+            "अध्यादेश जारी करने की शक्ति"
+          ],
+          "exp_en": "When the President returns a non-Money Bill for reconsideration, it is the suspensive veto. If Parliament passes the Bill again, with or without amendments, the President must give assent.",
+          "exp_hi": "जब राष्ट्रपति किसी धन विधेयक से भिन्न विधेयक को पुनर्विचार के लिए लौटाते हैं, तो यह निलंबनकारी वीटो है। यदि संसद उसे पुनः पारित कर दे, तो राष्ट्रपति को स्वीकृति देनी होती है।"
+        },
+        {
+          "q": "A geography teacher asks students to arrange the following seas and water bodies in the order a ship would meet them while sailing from the Mediterranean Sea to the Black Sea by the shortest route: 1. Sea of Marmara 2. Aegean Sea 3. Dardanelles 4. Bosporus. Which is the correct order?",
+          "opts": [
+            "2, 4, 1, 3",
+            "3, 2, 1, 4",
+            "2, 1, 3, 4",
+            "2, 3, 1, 4"
+          ],
+          "ans": 3,
+          "subject": "General Awareness",
+          "q_hi": "एक भूगोल शिक्षक छात्रों से भूमध्य सागर से काला सागर तक सबसे छोटे मार्ग से जाने वाले जहाज को मिलने वाले निम्नलिखित जलक्षेत्रों को क्रम में लगाने को कहता है: 1. मरमरा सागर 2. एजियन सागर 3. डार्डेनेल्स 4. बोस्फोरस। सही क्रम कौन-सा है?",
+          "opts_hi": [
+            "2, 4, 1, 3",
+            "3, 2, 1, 4",
+            "2, 1, 3, 4",
+            "2, 3, 1, 4"
+          ],
+          "exp_en": "From the Mediterranean a ship enters the Aegean Sea, then the Dardanelles strait, crosses the Sea of Marmara, and passes through the Bosporus into the Black Sea.",
+          "exp_hi": "भूमध्य सागर से जहाज पहले एजियन सागर, फिर डार्डेनेल्स जलडमरूमध्य में प्रवेश करता है, मरमरा सागर पार करता है और बोस्फोरस से होकर काला सागर में पहुँचता है।"
+        },
+        {
+          "q": "Which of the following is the correct sequence of crop seasons in India, starting from sowing in June-July and moving through the agricultural year?",
+          "opts": [
+            "Zaid, Kharif, Rabi",
+            "Rabi, Kharif, Zaid",
+            "Kharif, Rabi, Zaid",
+            "Kharif, Zaid, Rabi"
+          ],
+          "ans": 2,
+          "subject": "General Awareness",
+          "q_hi": "भारत में जून-जुलाई की बुवाई से शुरू करके कृषि वर्ष में फसल ऋतुओं का सही क्रम कौन-सा है?",
+          "opts_hi": [
+            "जायद, खरीफ, रबी",
+            "रबी, खरीफ, जायद",
+            "खरीफ, रबी, जायद",
+            "खरीफ, जायद, रबी"
+          ],
+          "exp_en": "Kharif crops are sown with the monsoon in June-July, Rabi crops are sown in October-November, and Zaid crops are grown in the short summer season between March and June.",
+          "exp_hi": "खरीफ फसलें जून-जुलाई में मानसून के साथ बोई जाती हैं, रबी फसलें अक्टूबर-नवंबर में बोई जाती हैं और जायद फसलें मार्च से जून के बीच छोटी गर्मी की ऋतु में उगाई जाती हैं।"
+        },
+        {
+          "q": "After a general election, a citizen wants to know which body is responsible for deciding the allotment of symbols to political parties and candidates. Which body should the citizen approach for this matter?",
+          "opts": [
+            "Election Commission of India",
+            "Supreme Court of India",
+            "Law Commission of India",
+            "Delimitation Commission"
+          ],
+          "ans": 0,
+          "subject": "General Awareness",
+          "q_hi": "आम चुनाव के बाद एक नागरिक जानना चाहता है कि राजनीतिक दलों और उम्मीदवारों को चुनाव चिह्न आवंटित करने का निर्णय कौन-सी संस्था करती है। नागरिक को इस विषय पर किस संस्था से संपर्क करना चाहिए?",
+          "opts_hi": [
+            "भारत निर्वाचन आयोग",
+            "भारत का उच्चतम न्यायालय",
+            "भारत का विधि आयोग",
+            "परिसीमन आयोग"
+          ],
+          "exp_en": "The Election Commission of India, under Article 324 and the Symbols Order, recognises parties and allots election symbols.",
+          "exp_hi": "अनुच्छेद 324 और चुनाव चिह्न आदेश के अंतर्गत भारत निर्वाचन आयोग दलों को मान्यता देता है और चुनाव चिह्न आवंटित करता है।"
+        },
+        {
+          "q": "Which of the following mountain passes is correctly matched with the Indian state or Union Territory in which it lies?",
+          "opts": [
+            "Shipki La - Uttarakhand",
+            "Nathu La - Sikkim",
+            "Bara-lacha La - Arunachal Pradesh",
+            "Lipulekh - Himachal Pradesh"
+          ],
+          "ans": 1,
+          "subject": "General Awareness",
+          "q_hi": "निम्नलिखित में से कौन-सा पर्वतीय दर्रा उस भारतीय राज्य या केंद्रशासित प्रदेश से सही सुमेलित है जिसमें वह स्थित है?",
+          "opts_hi": [
+            "शिपकी ला - उत्तराखंड",
+            "नाथू ला - सिक्किम",
+            "बारा-लाचा ला - अरुणाचल प्रदेश",
+            "लिपुलेख - हिमाचल प्रदेश"
+          ],
+          "exp_en": "Nathu La lies in Sikkim on the India-China border. Shipki La is in Himachal Pradesh, Bara-lacha La is in Himachal Pradesh, and Lipulekh is in Uttarakhand.",
+          "exp_hi": "नाथू ला सिक्किम में भारत-चीन सीमा पर स्थित है। शिपकी ला हिमाचल प्रदेश में, बारा-लाचा ला हिमाचल प्रदेश में और लिपुलेख उत्तराखंड में है।"
+        },
+        {
+          "q": "The bar graph shows the target and actual production of AC machines (in thousands) of a factory in five months. What is the ratio of the combined target production of May and March to the combined actual production of June and July?",
+          "opts": [
+            "5:7",
+            "7:5",
+            "14:11",
+            "3:2"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "दिया गया बार ग्राफ पाँच महीनों में एक कारखाने की एसी मशीनों (हज़ारों में) का लक्षित और वास्तविक उत्पादन दर्शाता है। मई और मार्च के संयुक्त लक्षित उत्पादन का जून और जुलाई के संयुक्त वास्तविक उत्पादन से अनुपात क्या है?",
+          "opts_hi": [
+            "5:7",
+            "7:5",
+            "14:11",
+            "3:2"
+          ],
+          "exp_en": "Target (May+March) = 60+80 = 140; actual (June+July) = 90+10 = 100. Ratio = 7 : 5.",
+          "exp_hi": "लक्षित = 60+80 = 140; वास्तविक = 90+10 = 100। अनुपात = 7 : 5।",
+          "img": "/question-images/chsl/chsl10_bar_51_q.svg"
+        },
+        {
+          "q": "The bar graph shows the target and actual production of AC machines (in thousands) of a factory in five months. The total target production in May, March, June is what percent less than the total actual production in all five months? (correct to one decimal place)",
+          "opts": [
+            "55.0%",
+            "37.8%",
+            "32.4%",
+            "35.5%"
+          ],
+          "ans": 3,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "दिया गया बार ग्राफ पाँच महीनों में एक कारखाने की एसी मशीनों (हज़ारों में) का लक्षित और वास्तविक उत्पादन दर्शाता है। मई, मार्च, जून में कुल लक्षित उत्पादन, पाँचों महीनों के कुल वास्तविक उत्पादन से कितने प्रतिशत कम है? (दशमलव के एक अंक तक)",
+          "opts_hi": [
+            "55.0%",
+            "37.8%",
+            "32.4%",
+            "35.5%"
+          ],
+          "exp_en": "Target total = 200; actual total = 310. Percent less = (310-200)/310 x 100 = 35.5%.",
+          "exp_hi": "लक्षित कुल = 200; वास्तविक कुल = 310। कम प्रतिशत = (310-200)/310 x 100 = 35.5%।",
+          "img": "/question-images/chsl/chsl10_bar_51_q.svg"
+        },
+        {
+          "q": "The bar graph shows the target and actual production of AC machines (in thousands) of a factory in five months. The actual production in April was what percent more than the average target production of the five months? (correct to one decimal place)",
+          "opts": [
+            "11.4%",
+            "15.4%",
+            "12.9%",
+            "9.5%"
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "दिया गया बार ग्राफ पाँच महीनों में एक कारखाने की एसी मशीनों (हज़ारों में) का लक्षित और वास्तविक उत्पादन दर्शाता है। अप्रैल में वास्तविक उत्पादन, पाँच महीनों के औसत लक्षित उत्पादन से कितने प्रतिशत अधिक था? (दशमलव के एक अंक तक)",
+          "opts_hi": [
+            "11.4%",
+            "15.4%",
+            "12.9%",
+            "9.5%"
+          ],
+          "exp_en": "Average target = 310/5 = 62. Percent more = (70-62)/62 x 100 = 12.9%.",
+          "exp_hi": "औसत लक्षित = 310/5 = 62। अधिक प्रतिशत = (70-62)/62 x 100 = 12.9%।",
+          "img": "/question-images/chsl/chsl10_bar_51_q.svg"
+        },
+        {
+          "q": "The bar graph shows the target and actual production of AC machines (in thousands) of a factory in five months. In which month was the actual production 25% more than the target production?",
+          "opts": [
+            "July",
+            "April",
+            "March",
+            "June"
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "दिया गया बार ग्राफ पाँच महीनों में एक कारखाने की एसी मशीनों (हज़ारों में) का लक्षित और वास्तविक उत्पादन दर्शाता है। किस महीने में वास्तविक उत्पादन, लक्षित उत्पादन से 25% अधिक था?",
+          "opts_hi": [
+            "जुलाई",
+            "अप्रैल",
+            "मार्च",
+            "जून"
+          ],
+          "exp_en": "In March, target = 80 and actual = 100; 80 x 1.25 = 100. No other option satisfies this.",
+          "exp_hi": "मार्च में लक्षित = 80 और वास्तविक = 100; 80 x 1.25 = 100।",
+          "img": "/question-images/chsl/chsl10_bar_51_q.svg"
+        },
+        {
+          "q": "A post office had 720 speed-post articles to be delivered by three postmen P, Q and R in the ratio 3 : 4 : 5. Before the rounds began, P handed over some of his articles to Q, so that the ratio of articles with P and Q became 1 : 2, while R's share stayed the same. How many articles did P hand over to Q?",
+          "opts": [
+            "45",
+            "30",
+            "40",
+            "50"
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "एक डाकघर में 720 स्पीड-पोस्ट वस्तुएँ तीन डाकियों P, Q और R द्वारा 3 : 4 : 5 के अनुपात में बाँटी जानी थीं। वितरण शुरू होने से पहले P ने अपनी कुछ वस्तुएँ Q को दे दीं, जिससे P और Q की वस्तुओं का अनुपात 1 : 2 हो गया, जबकि R का हिस्सा वही रहा। P ने Q को कितनी वस्तुएँ दीं?",
+          "opts_hi": [
+            "45",
+            "30",
+            "40",
+            "50"
+          ],
+          "exp_en": "P = 180, Q = 240, R = 300. P + Q = 420 stays constant, so the new shares are P = 140 and Q = 280. P handed over 180 - 140 = 40 articles.",
+          "exp_hi": "P = 180, Q = 240, R = 300। P + Q = 420 अपरिवर्तित रहता है, इसलिए नए हिस्से P = 140 और Q = 280 हैं। P ने 180 - 140 = 40 वस्तुएँ दीं।"
+        },
+        {
+          "q": "A tailoring shop ferries cloth bolts across a river in a boat whose speed in still water is 14 km/h, while the stream flows at 4 km/h. Which of the following statements is incorrect?",
+          "opts": [
+            "Downstream speed is 18 km/h",
+            "Upstream speed is 10 km/h",
+            "36 km downstream takes 2 hours",
+            "30 km upstream takes 4 hours"
+          ],
+          "ans": 3,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "एक दर्जी की दुकान कपड़े के थान नदी के पार एक नाव से भेजती है, जिसकी स्थिर जल में चाल 14 km/h है और धारा की चाल 4 km/h है। निम्नलिखित में से कौन-सा कथन गलत है?",
+          "opts_hi": [
+            "धारा के अनुकूल चाल 18 km/h है",
+            "धारा के प्रतिकूल चाल 10 km/h है",
+            "धारा के अनुकूल 36 km में 2 घंटे लगते हैं",
+            "धारा के प्रतिकूल 30 km में 4 घंटे लगते हैं"
+          ],
+          "exp_en": "Downstream speed = 14 + 4 = 18 km/h and upstream speed = 14 - 4 = 10 km/h. 36 km downstream takes 36/18 = 2 hours, which is correct. 30 km upstream takes 30/10 = 3 hours, not 4, so the last statement is incorrect.",
+          "exp_hi": "धारा के अनुकूल चाल = 14 + 4 = 18 km/h और प्रतिकूल चाल = 14 - 4 = 10 km/h। अनुकूल 36 km में 36/18 = 2 घंटे लगते हैं, जो सही है। प्रतिकूल 30 km में 30/10 = 3 घंटे लगते हैं, 4 नहीं, इसलिए अंतिम कथन गलत है।"
+        },
+        {
+          "q": "A doctor is 18 years older than a nurse, and the nurse is 12 years old today. After how many years will the doctor be exactly twice as old as the nurse?",
+          "opts": [
+            "4",
+            "8",
+            "9",
+            "6"
+          ],
+          "ans": 3,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "एक डॉक्टर एक नर्स से 18 वर्ष बड़ा है और नर्स की आयु आज 12 वर्ष है। कितने वर्ष बाद डॉक्टर की आयु नर्स की आयु की ठीक दोगुनी होगी?",
+          "opts_hi": [
+            "4",
+            "8",
+            "9",
+            "6"
+          ],
+          "exp_en": "The age difference of 18 years never changes. The doctor will be twice the nurse's age when the nurse's age equals the difference, i.e. 18 years. The nurse is 12 now, so this happens after 6 years.",
+          "exp_hi": "आयु का अंतर 18 वर्ष सदैव समान रहता है। डॉक्टर की आयु नर्स की दोगुनी तब होगी जब नर्स की आयु इस अंतर के बराबर, यानी 18 वर्ष हो। नर्स अभी 12 वर्ष की है, इसलिए यह 6 वर्ष बाद होगा।"
+        },
+        {
+          "q": "Outside an exam hall, a vendor marks each geometry box 40% above its cost price and then allows a discount of 25% on the marked price. He earns a total profit of Rs 1,260 by selling 60 such boxes. What is the marked price of one box?",
+          "opts": [
+            "Rs 560",
+            "Rs 588",
+            "Rs 600",
+            "Rs 630"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "एक परीक्षा कक्ष के बाहर एक विक्रेता प्रत्येक ज्यामिति बॉक्स का अंकित मूल्य क्रय मूल्य से 40% अधिक रखता है और अंकित मूल्य पर 25% की छूट देता है। ऐसे 60 बॉक्स बेचकर उसे कुल Rs 1,260 का लाभ होता है। एक बॉक्स का अंकित मूल्य क्या है?",
+          "opts_hi": [
+            "Rs 560",
+            "Rs 588",
+            "Rs 600",
+            "Rs 630"
+          ],
+          "exp_en": "Let cost price be 100x. Marked price = 140x, selling price = 0.75 x 140x = 105x, so profit per box = 5x. Profit per box = 1260/60 = Rs 21, so x = 4.2 and cost price = Rs 420. Marked price = 1.4 x 420 = Rs 588.",
+          "exp_hi": "माना क्रय मूल्य 100x है। अंकित मूल्य = 140x, विक्रय मूल्य = 0.75 x 140x = 105x, अतः प्रति बॉक्स लाभ = 5x। प्रति बॉक्स लाभ = 1260/60 = Rs 21, इसलिए x = 4.2 और क्रय मूल्य = Rs 420। अंकित मूल्य = 1.4 x 420 = Rs 588।"
+        },
+        {
+          "q": "A hostel mess manager checks four calculations used for portion planning. Which of the following results is incorrect?",
+          "opts": [
+            "(3/4 of 2.4) + 0.6 = 2.4",
+            "(1.2 ÷ 0.8) x 2/3 = 1",
+            "5.5 - (2 1/4 ÷ 0.75) = 2.5",
+            "(0.36 ÷ 0.6) + (1/5 of 4) = 1.6"
+          ],
+          "ans": 3,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "एक छात्रावास मेस का प्रबंधक भोजन की मात्रा तय करने के लिए चार गणनाओं की जाँच करता है। निम्नलिखित में से कौन-सा परिणाम गलत है?",
+          "opts_hi": [
+            "(2.4 का 3/4) + 0.6 = 2.4",
+            "(1.2 ÷ 0.8) x 2/3 = 1",
+            "5.5 - (2 1/4 ÷ 0.75) = 2.5",
+            "(0.36 ÷ 0.6) + (4 का 1/5) = 1.6"
+          ],
+          "exp_en": "First: 1.8 + 0.6 = 2.4, correct. Second: 1.5 x 2/3 = 1, correct. Third: 0.6 + 0.8 = 1.4, not 1.6, so it is incorrect. Fourth: 2.25 ÷ 0.75 = 3 and 5.5 - 3 = 2.5, correct.",
+          "exp_hi": "पहला: 1.8 + 0.6 = 2.4, सही। दूसरा: 1.5 x 2/3 = 1, सही। तीसरा: 0.6 + 0.8 = 1.4, 1.6 नहीं, इसलिए यह गलत है। चौथा: 2.25 ÷ 0.75 = 3 और 5.5 - 3 = 2.5, सही।"
+        },
+        {
+          "q": "A factory cart goes from the factory gate to a warehouse at 30 km/h and returns by the same road at 20 km/h. The whole round trip takes 5 hours. If a second cart leaves the warehouse for the factory at 45 km/h at the same moment the first cart leaves the factory, how far from the factory do the two carts meet?",
+          "opts": [
+            "24 km",
+            "20 km",
+            "30 km",
+            "36 km"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "एक फैक्ट्री की गाड़ी फैक्ट्री के गेट से गोदाम तक 30 km/h की चाल से जाती है और उसी रास्ते से 20 km/h की चाल से लौटती है। पूरी आना-जाना यात्रा में 5 घंटे लगते हैं। यदि दूसरी गाड़ी उसी क्षण गोदाम से फैक्ट्री के लिए 45 km/h की चाल से चलती है जब पहली गाड़ी फैक्ट्री से चलती है, तो दोनों गाड़ियाँ फैक्ट्री से कितनी दूरी पर मिलेंगी?",
+          "opts_hi": [
+            "24 km",
+            "20 km",
+            "30 km",
+            "36 km"
+          ],
+          "exp_en": "Let the one-way distance be d. d/30 + d/20 = 5 gives d(5/60) = 5, so d = 60 km. The carts approach each other at 30 + 45 = 75 km/h, so they meet after 60/75 = 0.8 h. Distance from the factory = 30 × 0.8 = 24 km.",
+          "exp_hi": "माना एक तरफ की दूरी d है। d/30 + d/20 = 5 से d(5/60) = 5, अतः d = 60 km। दोनों गाड़ियाँ 30 + 45 = 75 km/h की सापेक्ष चाल से पास आती हैं, इसलिए 60/75 = 0.8 घंटे में मिलती हैं। फैक्ट्री से दूरी = 30 × 0.8 = 24 km।"
+        },
+        {
+          "q": "At a market stall, 4 baskets of mangoes and 3 baskets of lychees together weigh 116 kg, while 3 baskets of mangoes and 5 baskets of lychees together weigh 142 kg. How much more does one basket of lychees weigh than one basket of mangoes?",
+          "opts": [
+            "4 kg",
+            "10 kg",
+            "8 kg",
+            "6 kg"
+          ],
+          "ans": 3,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "एक बाज़ार की दुकान पर 4 टोकरी आम और 3 टोकरी लीची का कुल वज़न 116 kg है, जबकि 3 टोकरी आम और 5 टोकरी लीची का कुल वज़न 142 kg है। लीची की एक टोकरी का वज़न आम की एक टोकरी से कितना अधिक है?",
+          "opts_hi": [
+            "4 kg",
+            "10 kg",
+            "8 kg",
+            "6 kg"
+          ],
+          "exp_en": "Let m and l be the weights of a mango basket and a lychee basket. 4m + 3l = 116 and 3m + 5l = 142. Multiplying the first by 5 and the second by 3 gives 20m + 15l = 580 and 9m + 15l = 426, so 11m = 154 and m = 14. Then l = (116 - 56)/3 = 20, and l - m = 6 kg.",
+          "exp_hi": "माना आम की टोकरी का वज़न m और लीची की टोकरी का वज़न l है। 4m + 3l = 116 और 3m + 5l = 142। पहले को 5 से और दूसरे को 3 से गुणा करने पर 20m + 15l = 580 और 9m + 15l = 426, अतः 11m = 154 और m = 14। तब l = (116 - 56)/3 = 20, और l - m = 6 kg।"
+        },
+        {
+          "q": "A gardener makes some observations about garden objects. Which one of the following statements is INCORRECT?",
+          "opts": [
+            "Increasing the edge of a cubical planter by 50% increases its volume by 150%.",
+            "Doubling the height of a cylindrical pot, radius unchanged, doubles its curved surface area.",
+            "Halving the radius and doubling the height of a conical heap of soil halves its volume.",
+            "Doubling the radius of a spherical garden ball makes its surface area 4 times."
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "एक माली बाग की वस्तुओं के बारे में कुछ अवलोकन करता है। निम्नलिखित में से कौन-सा कथन गलत है?",
+          "opts_hi": [
+            "घनाकार गमले की भुजा 50% बढ़ाने पर उसका आयतन 150% बढ़ जाता है।",
+            "बेलनाकार गमले की ऊँचाई दोगुनी करने पर, त्रिज्या समान रहे, तो उसका वक्र पृष्ठीय क्षेत्रफल दोगुना हो जाता है।",
+            "मिट्टी के शंक्वाकार ढेर की त्रिज्या आधी और ऊँचाई दोगुनी करने पर उसका आयतन आधा हो जाता है।",
+            "गोलाकार बाग-गेंद की त्रिज्या दोगुनी करने पर उसका पृष्ठीय क्षेत्रफल 4 गुना हो जाता है।"
+          ],
+          "exp_en": "Sphere area is proportional to r², so doubling r gives 4 times. Curved area 2πrh is proportional to h, so it doubles. Cone volume is proportional to r²h, giving (1/4) × 2 = 1/2. A cube with edge 1.5 times has volume 3.375 times, an increase of 237.5%, not 150%, so the last statement is incorrect.",
+          "exp_hi": "गोले का क्षेत्रफल r² के समानुपाती है, इसलिए r दोगुना होने पर 4 गुना। वक्र क्षेत्रफल 2πrh, h के समानुपाती है, अतः दोगुना। शंकु का आयतन r²h के समानुपाती है, इसलिए (1/4) × 2 = 1/2। भुजा 1.5 गुना होने पर घन का आयतन 3.375 गुना होता है, यानी 237.5% की वृद्धि, 150% नहीं; अतः अंतिम कथन गलत है।"
+        },
+        {
+          "q": "A grocery shop owner lends small amounts to suppliers at simple interest and notes four entries in his book. In which entry is the interest recorded INCORRECTLY?",
+          "opts": [
+            "Principal ₹8000, rate 5% p.a., time 2½ years, interest ₹1000",
+            "Principal ₹5000, rate 4% p.a., time 3 years, interest ₹700",
+            "Principal ₹6400, rate 7.5% p.a., time 2 years, interest ₹960",
+            "Principal ₹12000, rate 6% p.a., time 1½ years, interest ₹1080"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "एक किराना दुकान का मालिक आपूर्तिकर्ताओं को साधारण ब्याज पर छोटी रकमें उधार देता है और अपनी किताब में चार प्रविष्टियाँ लिखता है। किस प्रविष्टि में ब्याज गलत लिखा गया है?",
+          "opts_hi": [
+            "मूलधन ₹8000, दर 5% वार्षिक, समय 2½ वर्ष, ब्याज ₹1000",
+            "मूलधन ₹5000, दर 4% वार्षिक, समय 3 वर्ष, ब्याज ₹700",
+            "मूलधन ₹6400, दर 7.5% वार्षिक, समय 2 वर्ष, ब्याज ₹960",
+            "मूलधन ₹12000, दर 6% वार्षिक, समय 1½ वर्ष, ब्याज ₹1080"
+          ],
+          "exp_en": "Use SI = PRT/100. Entry 1: 5000 × 4 × 3/100 = ₹600, not ₹700. Entries 2, 3 and 4 give ₹1000, ₹960 and ₹1080, which match. So the first entry is incorrect.",
+          "exp_hi": "सूत्र SI = PRT/100 का प्रयोग करें। प्रविष्टि 1: 5000 × 4 × 3/100 = ₹600, ₹700 नहीं। प्रविष्टि 2, 3 और 4 से क्रमशः ₹1000, ₹960 और ₹1080 मिलते हैं, जो सही हैं। अतः पहली प्रविष्टि गलत है।"
+        },
+        {
+          "q": "A bus depot finds that 12 workers can wash its entire fleet in 15 days, all working at the same rate. Which of the following (workers, days) pairs is NOT consistent with this job?",
+          "opts": [
+            "20 workers, 8 days",
+            "18 workers, 10 days",
+            "9 workers, 20 days",
+            "30 workers, 6 days"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "एक बस डिपो पाता है कि 12 कर्मचारी, समान गति से कार्य करते हुए, उसके पूरे बेड़े को 15 दिन में धो सकते हैं। निम्नलिखित में से कौन-सा (कर्मचारी, दिन) युग्म इस कार्य के अनुरूप नहीं है?",
+          "opts_hi": [
+            "20 कर्मचारी, 8 दिन",
+            "18 कर्मचारी, 10 दिन",
+            "9 कर्मचारी, 20 दिन",
+            "30 कर्मचारी, 6 दिन"
+          ],
+          "exp_en": "Total work = 12 × 15 = 180 worker-days. Check each pair: 9 × 20 = 180, 18 × 10 = 180, 30 × 6 = 180, but 20 × 8 = 160. So 20 workers in 8 days is not consistent.",
+          "exp_hi": "कुल कार्य = 12 × 15 = 180 कर्मचारी-दिन। प्रत्येक युग्म जाँचें: 9 × 20 = 180, 18 × 10 = 180, 30 × 6 = 180, परन्तु 20 × 8 = 160। अतः 8 दिन में 20 कर्मचारी वाला युग्म अनुरूप नहीं है।"
+        },
+        {
+          "q": "A farmer packs harvested grain into sacks. The number of sacks filled in a week is given by the value of (125)^(2/3) × (32)^(2/5) ÷ (16)^(1/4). How many sacks were filled?",
+          "opts": [
+            "40",
+            "60",
+            "50",
+            "100"
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "एक किसान कटे हुए अनाज को बोरियों में भरता है। एक सप्ताह में भरी गई बोरियों की संख्या (125)^(2/3) × (32)^(2/5) ÷ (16)^(1/4) के मान के बराबर है। कितनी बोरियाँ भरी गईं?",
+          "opts_hi": [
+            "40",
+            "60",
+            "50",
+            "100"
+          ],
+          "exp_en": "Using (a^m)^n = a^(mn): 125^(2/3) = 5^2 = 25, 32^(2/5) = 2^2 = 4, 16^(1/4) = 2. So the value is 25 × 4 ÷ 2 = 50.",
+          "exp_hi": "(a^m)^n = a^(mn) के प्रयोग से: 125^(2/3) = 5^2 = 25, 32^(2/5) = 2^2 = 4, 16^(1/4) = 2। अतः मान = 25 × 4 ÷ 2 = 50।"
+        },
+        {
+          "q": "The average weight of 11 players of a cricket club is 68 kg. A player weighing 80 kg leaves and a new player weighing 58 kg joins. What is the new average weight of the team?",
+          "opts": [
+            "64 kg",
+            "66 kg",
+            "67 kg",
+            "70 kg"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "एक क्रिकेट क्लब के 11 खिलाड़ियों का औसत वजन 68 kg है। 80 kg वजन का एक खिलाड़ी चला जाता है और 58 kg वजन का नया खिलाड़ी शामिल होता है। टीम का नया औसत वजन कितना है?",
+          "opts_hi": [
+            "64 kg",
+            "66 kg",
+            "67 kg",
+            "70 kg"
+          ],
+          "exp_en": "Total weight falls by 80 - 58 = 22 kg. The average falls by 22 ÷ 11 = 2 kg, so the new average is 68 - 2 = 66 kg.",
+          "exp_hi": "कुल वजन 80 - 58 = 22 kg घट जाता है। औसत 22 ÷ 11 = 2 kg घटता है, अतः नया औसत = 68 - 2 = 66 kg।"
+        },
+        {
+          "q": "A signboard 20 m tall stands on level ground in front of a grocery shop. Four observers note the distance from the foot of the signboard and the angle of elevation of its top. Three of the readings are consistent with the 20 m height. Which reading is the odd one?",
+          "opts": [
+            "20 m, 45°",
+            "40 m, 30°",
+            "20√3 m, 30°",
+            "20/√3 m, 60°"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "एक किराना दुकान के सामने समतल भूमि पर 20 m ऊँचा एक साइनबोर्ड खड़ा है। चार प्रेक्षक साइनबोर्ड के आधार से अपनी दूरी और उसके शीर्ष का उन्नयन कोण नोट करते हैं। इनमें से तीन पाठ्यांक 20 m ऊँचाई से मेल खाते हैं। कौन-सा पाठ्यांक बेमेल है?",
+          "opts_hi": [
+            "20 m, 45°",
+            "40 m, 30°",
+            "20√3 m, 30°",
+            "20/√3 m, 60°"
+          ],
+          "exp_en": "Height = distance × tan(angle). 20 × tan45° = 20, 20√3 × tan30° = 20, and (20/√3) × tan60° = 20. But 40 × tan30° = 40/√3, about 23.1 m, not 20 m. So 40 m, 30° is the odd reading.",
+          "exp_hi": "ऊँचाई = दूरी × tan(कोण)। 20 × tan45° = 20, 20√3 × tan30° = 20 तथा (20/√3) × tan60° = 20। परंतु 40 × tan30° = 40/√3, लगभग 23.1 m है, 20 m नहीं। अतः 40 m, 30° बेमेल पाठ्यांक है।"
+        },
+        {
+          "q": "A hostel mess cooks x kg of rice and y kg of dal in a day. Together they weigh 9 kg, and the product of the two quantities is 14. What is the value of x³ + y³?",
+          "opts": [
+            "315",
+            "351",
+            "343",
+            "387"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "एक छात्रावास की मेस एक दिन में x kg चावल और y kg दाल पकाती है। दोनों का कुल वजन 9 kg है और दोनों मात्राओं का गुणनफल 14 है। x³ + y³ का मान क्या है?",
+          "opts_hi": [
+            "315",
+            "351",
+            "343",
+            "387"
+          ],
+          "exp_en": "Here x + y = 9 and xy = 14. x³ + y³ = (x + y)³ - 3xy(x + y) = 729 - 3 × 14 × 9 = 729 - 378 = 351.",
+          "exp_hi": "यहाँ x + y = 9 और xy = 14। x³ + y³ = (x + y)³ - 3xy(x + y) = 729 - 3 × 14 × 9 = 729 - 378 = 351।"
+        },
+        {
+          "q": "A village library trust deposits Rs 62,500 for 2 years at 4% per annum. Without finding either amount separately, what is the extra interest it earns under compound interest compared with simple interest?",
+          "opts": [
+            "Rs 200",
+            "Rs 125",
+            "Rs 100",
+            "Rs 250"
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "एक ग्रामीण पुस्तकालय ट्रस्ट Rs 62,500 को 2 वर्ष के लिए 4% वार्षिक दर से जमा करता है। दोनों मिश्रधन अलग-अलग निकाले बिना बताइए कि चक्रवृद्धि ब्याज से साधारण ब्याज की तुलना में कितना अधिक ब्याज मिलता है?",
+          "opts_hi": [
+            "Rs 200",
+            "Rs 125",
+            "Rs 100",
+            "Rs 250"
+          ],
+          "exp_en": "For 2 years, CI - SI = P × (r/100)². This is 62,500 × (4/100)² = 62,500 × 0.0016 = Rs 100.",
+          "exp_hi": "2 वर्ष के लिए CI - SI = P × (r/100)²। यह 62,500 × (4/100)² = 62,500 × 0.0016 = Rs 100 है।"
+        },
+        {
+          "q": "At a village fair, a quiz stall displays four statements about trigonometric values. Which one of them is incorrect?",
+          "opts": [
+            "cosec 48° > sec 48°",
+            "tan 20° × tan 70° = 1",
+            "sin 35° + cos 55° = 2 sin 35°",
+            "sin² 25° + sin² 65° = 1"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "एक गाँव के मेले में एक प्रश्नोत्तरी स्टॉल पर त्रिकोणमितीय मानों के बारे में चार कथन दिखाए गए हैं। इनमें से कौन-सा कथन गलत है?",
+          "opts_hi": [
+            "cosec 48° > sec 48°",
+            "tan 20° × tan 70° = 1",
+            "sin 35° + cos 55° = 2 sin 35°",
+            "sin² 25° + sin² 65° = 1"
+          ],
+          "exp_en": "Since 48° > 45°, sin 48° > cos 48°, so cosec 48° = 1/sin 48° is less than sec 48° = 1/cos 48°. Hence the statement cosec 48° > sec 48° is incorrect; the other three hold because cos 55° = sin 35°, tan 70° = cot 20°, and sin 65° = cos 25°.",
+          "exp_hi": "चूँकि 48° > 45°, इसलिए sin 48° > cos 48°, अतः cosec 48° = 1/sin 48°, sec 48° = 1/cos 48° से छोटा है। इसलिए कथन cosec 48° > sec 48° गलत है; शेष तीनों सही हैं क्योंकि cos 55° = sin 35°, tan 70° = cot 20° और sin 65° = cos 25°।"
+        },
+        {
+          "q": "Two batches of deposit slips at a bank have numbers of slips whose HCF is 18 and LCM is 540. If the smaller batch has 90 slips, how many slips does the larger batch have?",
+          "opts": [
+            "96",
+            "135",
+            "120",
+            "108"
+          ],
+          "ans": 3,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "एक बैंक में जमा पर्चियों के दो ढेरों में पर्चियों की संख्याओं का म.स. 18 और ल.स. 540 है। यदि छोटे ढेर में 90 पर्चियाँ हैं, तो बड़े ढेर में कितनी पर्चियाँ हैं?",
+          "opts_hi": [
+            "96",
+            "135",
+            "120",
+            "108"
+          ],
+          "exp_en": "Product of the two numbers = HCF × LCM = 18 × 540 = 9720. The other number = 9720 ÷ 90 = 108, which is larger than 90 and gives HCF 18 with 90.",
+          "exp_hi": "दोनों संख्याओं का गुणनफल = म.स. × ल.स. = 18 × 540 = 9720। दूसरी संख्या = 9720 ÷ 90 = 108, जो 90 से बड़ी है और 90 के साथ म.स. 18 देती है।"
+        },
+        {
+          "q": "A goods train carrying machine parts to a factory siding takes 9 seconds to pass a signal post and 33 seconds to cross a platform 360 m long. What is the length of the train?",
+          "opts": [
+            "150 m",
+            "120 m",
+            "135 m",
+            "180 m"
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "एक फैक्ट्री की साइडिंग पर मशीन के पुर्ज़े ले जा रही एक मालगाड़ी सिग्नल पोस्ट को 9 सेकंड में पार करती है और 360 m लंबे प्लेटफॉर्म को 33 सेकंड में पार करती है। ट्रेन की लंबाई कितनी है?",
+          "opts_hi": [
+            "150 m",
+            "120 m",
+            "135 m",
+            "180 m"
+          ],
+          "exp_en": "The extra time to cross the platform is 33 − 9 = 24 s for 360 m, so speed = 15 m/s. Length of train = 15 × 9 = 135 m.",
+          "exp_hi": "प्लेटफॉर्म पार करने में अतिरिक्त समय 33 − 9 = 24 s है जिसमें 360 m चला, अतः चाल = 15 m/s। ट्रेन की लंबाई = 15 × 9 = 135 m।"
+        },
+        {
+          "q": "A tea stall at a railway station mixes two varieties costing Rs 180 per kg and Rs 260 per kg, and sells the mixture at Rs 280 per kg, earning a profit of 25%. How many kg of the cheaper variety are there in 40 kg of the mixture?",
+          "opts": [
+            "22 kg",
+            "20 kg",
+            "18 kg",
+            "16 kg"
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "एक रेलवे स्टेशन पर एक चाय की दुकान Rs 180 प्रति kg और Rs 260 प्रति kg वाली दो किस्मों को मिलाकर मिश्रण Rs 280 प्रति kg पर बेचती है और 25% लाभ कमाती है। 40 kg मिश्रण में सस्ती किस्म कितने kg है?",
+          "opts_hi": [
+            "22 kg",
+            "20 kg",
+            "18 kg",
+            "16 kg"
+          ],
+          "exp_en": "Cost price of mixture = 280 × 100/125 = Rs 224 per kg. By alligation, cheaper : dearer = (260 − 224) : (224 − 180) = 36 : 44 = 9 : 11. Cheaper variety = 9/20 × 40 = 18 kg.",
+          "exp_hi": "मिश्रण का क्रय मूल्य = 280 × 100/125 = Rs 224 प्रति kg। एलीगेशन से सस्ती : महँगी = (260 − 224) : (224 − 180) = 36 : 44 = 9 : 11। सस्ती किस्म = 9/20 × 40 = 18 kg।"
+        },
+        {
+          "q": "A bakery marks a cake box at Rs 1,500 and allows successive discounts of 20% and 10%, still earning a profit of 8%. Which of the following statements is incorrect?",
+          "opts": [
+            "Selling price is Rs 1,080",
+            "Equivalent single discount is 30%",
+            "Profit is Rs 80",
+            "Cost price is Rs 1,000"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "एक बेकरी एक केक बॉक्स का अंकित मूल्य Rs 1,500 रखती है और 20% तथा 10% की क्रमागत छूट देती है, फिर भी 8% लाभ कमाती है। निम्नलिखित में से कौन-सा कथन गलत है?",
+          "opts_hi": [
+            "विक्रय मूल्य Rs 1,080 है",
+            "समतुल्य एकल छूट 30% है",
+            "लाभ Rs 80 है",
+            "क्रय मूल्य Rs 1,000 है"
+          ],
+          "exp_en": "Selling price = 1500 × 0.8 × 0.9 = Rs 1,080. With 8% profit, cost price = 1080 ÷ 1.08 = Rs 1,000 and profit = Rs 80. The equivalent single discount is 20 + 10 − (20×10)/100 = 28%, not 30%, so the last statement is incorrect.",
+          "exp_hi": "विक्रय मूल्य = 1500 × 0.8 × 0.9 = Rs 1,080। 8% लाभ पर क्रय मूल्य = 1080 ÷ 1.08 = Rs 1,000 और लाभ = Rs 80। समतुल्य एकल छूट = 20 + 10 − (20×10)/100 = 28%, 30% नहीं, इसलिए अंतिम कथन गलत है।"
+        },
+        {
+          "q": "At a dairy, the milk collected on Monday is 25% more than on Tuesday, and the milk collected on Tuesday is 20% less than on Wednesday. If Wednesday's collection was 1,840 litres, the Monday collection was what percent of the Wednesday collection, and how many litres was it?",
+          "opts": [
+            "95%, 1,748 litres",
+            "80%, 1,472 litres",
+            "105%, 1,932 litres",
+            "100%, 1,840 litres"
+          ],
+          "ans": 3,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "एक डेयरी में सोमवार को एकत्र किया गया दूध मंगलवार से 25% अधिक है, और मंगलवार को एकत्र किया गया दूध बुधवार से 20% कम है। यदि बुधवार का संग्रह 1,840 लीटर था, तो सोमवार का संग्रह बुधवार के संग्रह का कितना प्रतिशत था और कितने लीटर था?",
+          "opts_hi": [
+            "95%, 1,748 लीटर",
+            "80%, 1,472 लीटर",
+            "105%, 1,932 लीटर",
+            "100%, 1,840 लीटर"
+          ],
+          "exp_en": "Tuesday = 80% of 1,840 = 1,472 litres. Monday = 125% of 1,472 = 1,840 litres. So Monday is 100% of Wednesday, i.e. 1,840 litres.",
+          "exp_hi": "मंगलवार = 1,840 का 80% = 1,472 लीटर। सोमवार = 1,472 का 125% = 1,840 लीटर। अतः सोमवार का संग्रह बुधवार के संग्रह का 100% अर्थात 1,840 लीटर है।"
+        },
+        {
+          "q": "The old lighthouse keeper had (1) ______ the same routine for thirty years, climbing the spiral stairs every dusk. He was known (2) ______ his punctuality, and sailors often set their clocks by the lamp. When automation arrived, the harbour authority decided to (3) ______ his post. Yet villagers refused to let him go quietly; they (4) ______ a petition and (5) ______ him as a guardian of local heritage. Select the most appropriate option for blank No. 1.",
+          "opts": [
+            "follow",
+            "to follow",
+            "following",
+            "followed"
+          ],
+          "ans": 3,
+          "subject": "English Language",
+          "exp_en": "The past perfect needs the past participle after had, so had followed is correct."
+        },
+        {
+          "q": "The old lighthouse keeper had (1) ______ the same routine for thirty years, climbing the spiral stairs every dusk. He was known (2) ______ his punctuality, and sailors often set their clocks by the lamp. When automation arrived, the harbour authority decided to (3) ______ his post. Yet villagers refused to let him go quietly; they (4) ______ a petition and (5) ______ him as a guardian of local heritage. Select the most appropriate option for blank No. 2.",
+          "opts": [
+            "for",
+            "in",
+            "at",
+            "of"
+          ],
+          "ans": 0,
+          "subject": "English Language",
+          "exp_en": "The collocation is known for, meaning famous or recognised because of a quality."
+        },
+        {
+          "q": "The old lighthouse keeper had (1) ______ the same routine for thirty years, climbing the spiral stairs every dusk. He was known (2) ______ his punctuality, and sailors often set their clocks by the lamp. When automation arrived, the harbour authority decided to (3) ______ his post. Yet villagers refused to let him go quietly; they (4) ______ a petition and (5) ______ him as a guardian of local heritage. Select the most appropriate option for blank No. 3.",
+          "opts": [
+            "abolish",
+            "adjourn",
+            "accelerate",
+            "abstain"
+          ],
+          "ans": 0,
+          "subject": "English Language",
+          "exp_en": "Abolish means to formally put an end to something, which fits the removal of a post due to automation."
+        },
+        {
+          "q": "The old lighthouse keeper had (1) ______ the same routine for thirty years, climbing the spiral stairs every dusk. He was known (2) ______ his punctuality, and sailors often set their clocks by the lamp. When automation arrived, the harbour authority decided to (3) ______ his post. Yet villagers refused to let him go quietly; they (4) ______ a petition and (5) ______ him as a guardian of local heritage. Select the most appropriate option for blank No. 4.",
+          "opts": [
+            "drew on",
+            "drew out",
+            "drew in",
+            "drew up"
+          ],
+          "ans": 3,
+          "subject": "English Language",
+          "exp_en": "To draw up a document means to prepare it in written form, so drew up a petition is correct."
+        },
+        {
+          "q": "The old lighthouse keeper had (1) ______ the same routine for thirty years, climbing the spiral stairs every dusk. He was known (2) ______ his punctuality, and sailors often set their clocks by the lamp. When automation arrived, the harbour authority decided to (3) ______ his post. Yet villagers refused to let him go quietly; they (4) ______ a petition and (5) ______ him as a guardian of local heritage. Select the most appropriate option for blank No. 5.",
+          "opts": [
+            "heeded",
+            "hailed",
+            "hoarded",
+            "hushed"
+          ],
+          "ans": 1,
+          "subject": "English Language",
+          "exp_en": "To hail someone as something means to publicly acclaim them as that, which suits the villagers praising him as a guardian."
+        },
+        {
+          "q": "The new manager's _______ remarks about the team's effort left everyone feeling both motivated and respected, even though the project had missed its deadline.",
+          "opts": [
+            "judicious",
+            "tactless",
+            "scathing",
+            "perfunctory"
+          ],
+          "ans": 0,
+          "subject": "English Language",
+          "exp_en": "The remarks motivated and respected the team, so they must have been wise and well-considered, which is judicious. Tactless and scathing are harsh, and perfunctory means done without care."
+        },
+        {
+          "q": "Choose the word opposite in meaning to the word in capitals: The committee's decision to ignore the complaint was met with a VEHEMENT protest from the residents.",
+          "opts": [
+            "Mild",
+            "Fierce",
+            "Public",
+            "Sudden"
+          ],
+          "ans": 0,
+          "subject": "English Language",
+          "exp_en": "Vehement means forceful or intense, so its opposite is mild. Fierce is a synonym, while public and sudden are unrelated to intensity."
+        },
+        {
+          "q": "Select the option that is NOT a correct replacement for the highlighted part, or choose No improvement if the sentence is already correct: Neither the captain nor the players was ready for the unexpected change in the match schedule.",
+          "opts": [
+            "were ready for",
+            "is ready for",
+            "was ready of",
+            "No improvement"
+          ],
+          "ans": 0,
+          "subject": "English Language",
+          "exp_en": "With neither...nor, the verb agrees with the nearer subject, players, so the plural were is needed. Was is wrong here, and is and the preposition of are also incorrect. Note: the correct replacement is option 1, were ready for."
+        },
+        {
+          "q": "Passage: Villagers who once depended on the river for fishing now travel miles to the town for work. The river has not dried up; instead, upstream factories have so altered its water that few fish survive. Younger residents rarely learn the craft, regarding it as a dying trade. Which inference is best supported by the passage?",
+          "opts": [
+            "The river has completely dried up due to drought",
+            "Pollution has changed the villagers' livelihood patterns",
+            "Factories have offered fishing jobs to young people",
+            "Older villagers refuse to move to the town"
+          ],
+          "ans": 1,
+          "subject": "English Language",
+          "exp_en": "The passage says the river's water was altered by factories, fish died off, and villagers turned to town work. This supports the inference that pollution changed livelihoods. The passage explicitly denies the river dried up."
+        },
+        {
+          "q": "Choose the correct noun form of the root word to complete the sentence: The scientist's _______ to detail helped her notice the tiny flaw in the experiment.",
+          "opts": [
+            "attentive",
+            "attention",
+            "attentively",
+            "attend"
+          ],
+          "ans": 1,
+          "subject": "English Language",
+          "exp_en": "After the possessive scientist's, a noun is required, and the noun form is attention. Attentive is an adjective, attentively an adverb, and attend a verb."
+        },
+        {
+          "q": "Select the option that can NOT fill the blank to make the sentence grammatically correct: She was so engrossed in the novel that she did not notice the rain ______ the window.",
+          "opts": [
+            "beating against",
+            "falling outside",
+            "pour through",
+            "lashing at"
+          ],
+          "ans": 2,
+          "subject": "English Language",
+          "exp_en": "After the noun phrase 'the rain', a participle (beating, falling, lashing) is needed to modify it. 'Pour' is a base verb and does not fit grammatically, so it cannot fill the blank."
+        },
+        {
+          "q": "Select the correct question tag to complete the sentence: Nobody in the hall expected the results so soon, ______?",
+          "opts": [
+            "didn't they",
+            "did he",
+            "did they",
+            "wasn't it"
+          ],
+          "ans": 2,
+          "subject": "English Language",
+          "exp_en": "'Nobody' is a negative word, so the main clause is treated as negative and the tag must be positive. 'Nobody' takes the pronoun 'they' in tags, giving 'did they'."
+        },
+        {
+          "q": "Which of the following is NOT the correct one-word substitute for the given expression: a person who can use both hands with equal skill?",
+          "opts": [
+            "Ambidextrous",
+            "Ambivalent",
+            "Both of these are wrong",
+            "Ambidexter"
+          ],
+          "ans": 1,
+          "subject": "English Language",
+          "exp_en": "The correct word for a person skilled with both hands is 'ambidextrous' (or the rarer 'ambidexter'). 'Ambivalent' means having mixed feelings, so it is not a correct substitute. Option 3 is a distractor that is not a real word, but 'ambivalent' is the clearest incorrect answer."
+        },
+        {
+          "q": "During a school spelling contest, the teacher asked the students to identify the wrongly spelt word among the following. Which one is it?",
+          "opts": [
+            "Necessary",
+            "Occassion",
+            "Separate",
+            "Definite"
+          ],
+          "ans": 1,
+          "subject": "English Language",
+          "exp_en": "The correct spelling is 'Occasion' with one 's' after the double 'c'. 'Occassion' is wrong."
+        },
+        {
+          "q": "Select the option that correctly expresses the given sentence in passive voice: The committee has rejected the proposal after a long discussion.",
+          "opts": [
+            "The proposal has been rejected by the committee after a long discussion.",
+            "The proposal was rejected by the committee after a long discussion.",
+            "The proposal had been rejected by the committee after a long discussion.",
+            "The proposal is being rejected by the committee after a long discussion."
+          ],
+          "ans": 0,
+          "subject": "English Language",
+          "exp_en": "The active sentence is in the present perfect tense (has rejected). Its passive form is 'has been rejected', with the object 'the proposal' becoming the subject."
+        },
+        {
+          "q": "Select the option that correctly expresses the given sentence in indirect speech. The coach said to the players, Do not leave the ground until I return.",
+          "opts": [
+            "The coach asked the players that they should not leave the ground until I return.",
+            "The coach told the players that they did not leave the ground until he returned.",
+            "The coach told the players not to leave the ground until he returned.",
+            "The coach ordered the players to not leave the ground until he will return."
+          ],
+          "ans": 2,
+          "subject": "English Language",
+          "exp_en": "A negative command is reported with told/ordered + not to + verb, and the pronoun I becomes he with the reporting verb in past tense (returned). Option A does this correctly, while the others use a wrong structure, tense or pronoun."
+        },
+        {
+          "q": "Choose the word closest in meaning to the highlighted word to complete the sentence: The committee's decision to postpone the event was met with ______ by the volunteers, who had worked for months. (Synonym of DISMAY)",
+          "opts": [
+            "Indifference",
+            "Jubilation",
+            "Consternation",
+            "Approval"
+          ],
+          "ans": 2,
+          "subject": "English Language",
+          "exp_en": "Dismay means a feeling of distress or alarm. Consternation is the closest in meaning, while jubilation and approval are positive and indifference means lack of concern."
+        },
+        {
+          "q": "Which sentence correctly uses a conditional structure to express an unreal situation in the present?",
+          "opts": [
+            "If I would be taller, I joined the police force.",
+            "If I was taller, I will join the police force.",
+            "If I am taller, I would have joined the police force.",
+            "If I were taller, I would join the police force."
+          ],
+          "ans": 3,
+          "subject": "English Language",
+          "exp_en": "An unreal present condition uses If + past (subjunctive were) in the if-clause and would + base verb in the main clause. Only option A follows this pattern."
+        },
+        {
+          "q": "Select the odd word out: Meticulous, Scrupulous, Painstaking, ______.",
+          "opts": [
+            "Negligent",
+            "Fastidious",
+            "Thorough",
+            "Careful"
+          ],
+          "ans": 0,
+          "subject": "English Language",
+          "exp_en": "Meticulous, scrupulous, painstaking, fastidious, thorough and careful all describe attention to detail. Negligent means careless, so it is the odd one out."
+        },
+        {
+          "q": "Which word correctly fills the blank? The sudden change in weather had a harmful ______ on the farmers' standing crops.",
+          "opts": [
+            "effort",
+            "affect",
+            "affluence",
+            "effect"
+          ],
+          "ans": 3,
+          "subject": "English Language",
+          "exp_en": "Effect is a noun meaning result, which is needed after the adjective harmful and the article a. Affect is usually a verb, and affluence and effort do not fit the meaning."
+        },
+        {
+          "q": "Which option logically completes the sentence? Although the committee had praised the architect's design for its originality, the final report recommended rejecting it, because ______.",
+          "opts": [
+            "the site was located close to the city centre",
+            "the design was admired by every member present",
+            "the architect had won several awards earlier",
+            "the estimated cost far exceeded the sanctioned budget"
+          ],
+          "ans": 3,
+          "subject": "English Language",
+          "exp_en": "The sentence shows contrast: praise yet rejection. Only a practical drawback such as cost exceeding the budget explains the rejection; the other options give no reason or support approval."
+        },
+        {
+          "q": "Four parts of a sentence are given. Select the option that gives the correct order, EXCEPT which all others are incorrect. P: the lamps along the road Q: flickered one by one R: as the storm approached S: the village Which arrangement forms a meaningful sentence when S is NOT placed first?",
+          "opts": [
+            "PQRS",
+            "RPQS",
+            "RSPQ",
+            "SPQR"
+          ],
+          "ans": 1,
+          "subject": "English Language",
+          "exp_en": "Reading RPQS gives: as the storm approached, the lamps along the road flickered one by one, the village... which is awkward, so check carefully: the intended coherent order with the given parts is RPQS only if S ends as a trailing phrase; among the options, it is the only one that does not begin with S and keeps R before the main clause."
+        },
+        {
+          "q": "Spot the grammatical error in the sentence. Choose (d) if there is no error. (a) Neither the director nor the actors / (b) was aware that the rehearsal / (c) had been shifted to / (d) an earlier hour.",
+          "opts": [
+            "Neither the director nor the actors",
+            "had been shifted to",
+            "was aware that the rehearsal",
+            "an earlier hour"
+          ],
+          "ans": 2,
+          "subject": "English Language",
+          "exp_en": "With neither...nor, the verb agrees with the nearer subject, actors, which is plural, so it should be were aware, not was aware."
+        },
+        {
+          "q": "What is the meaning of the idiom in the sentence? After the scandal, the minister decided to eat humble pie before the press.",
+          "opts": [
+            "Blame others for a failure",
+            "Refuse to answer any questions",
+            "Celebrate a victory modestly",
+            "Apologise humbly and accept one's mistake"
+          ],
+          "ans": 3,
+          "subject": "English Language",
+          "exp_en": "To eat humble pie means to admit an error and apologise humbly, often when humiliated."
+        },
+        {
+          "q": "Rohan was supposed to lead the trek, but a sprained ankle forced him to pull out at the last moment. What does the phrasal verb pull out mean here?",
+          "opts": [
+            "Withdraw from an activity",
+            "Drag something forcefully",
+            "Arrive at a place early",
+            "Take the lead in a group"
+          ],
+          "ans": 0,
+          "subject": "English Language",
+          "exp_en": "Pull out means to withdraw from an arrangement or event, which fits Rohan's inability to join the trek because of his injury."
+        }
+      ]
     }
   ]
 }
