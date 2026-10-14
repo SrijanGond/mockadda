@@ -258,6 +258,7 @@ function openReportModal(q){
   box.appendChild(el('div',{css:'font-size:12px;color:#64748b;margin-bottom:14px;line-height:1.5;',text:'This goes straight to the question bank for review — thank you for helping improve it.'}));
 
   const select=el('select',{css:'width:100%;padding:10px;border:1px solid #e2e8f0;border-radius:8px;font-size:13px;margin-bottom:10px;'});
+  const ph=el('option',{value:'',text:'Select a reason…'}); ph.disabled=true; ph.selected=true; select.appendChild(ph);
   REPORT_REASONS.forEach(r=>select.appendChild(el('option',{value:r,text:r})));
 
   const note=el('textarea',{css:'width:100%;padding:10px;border:1px solid #e2e8f0;border-radius:8px;font-size:13px;min-height:70px;margin-bottom:14px;font-family:inherit;resize:vertical;'});
@@ -271,6 +272,7 @@ function openReportModal(q){
   const btnRow=el('div',{css:'display:flex;gap:10px;'});
   const cancelBtn=el('button',{css:'flex:1;padding:11px;background:#f1f5f9;border:1px solid #e2e8f0;color:#0f172a;border-radius:9px;cursor:pointer;font-weight:600;font-size:13px;',text:'Cancel',onClick:()=>ov.remove()});
   const submitBtn=el('button',{css:'flex:1;padding:11px;background:#b91c1c;border:none;color:#fff;border-radius:9px;cursor:pointer;font-family:Syne,sans-serif;font-weight:700;font-size:13px;',text:'Submit Report',onClick:()=>{
+    if(!select.value){ select.style.borderColor='#b91c1c'; return; }
     submitBtn.disabled=true; submitBtn.textContent='Sending…';
     const reason = select.value + (note.value.trim() ? (' — '+note.value.trim()) : '');
     reportQuestion({
