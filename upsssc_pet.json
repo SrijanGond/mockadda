@@ -46029,6 +46029,1816 @@
           "subject": "Data Interpretation"
         }
       ]
+    },
+    {
+      "id": "upsssc_pet_23",
+      "title": "UPSSSC PET Full Mock Test 23 (Preliminary Eligibility Test)",
+      "duration": 120,
+      "difficulty": "Medium",
+      "correctMarks": 1,
+      "negativeMarks": 0.5,
+      "questions": [
+        {
+          "q": "Which Mauryan ruler issued the 'Edict of Kalinga' after being deeply moved by the devastation of the Kalinga War?",
+          "q_hi": "किस मौर्य शासक ने कलिंग युद्ध की तबाही से व्यथित होकर 'कलिंग अभिलेख' जारी किया था?",
+          "opts": [
+            "Chandragupta Maurya",
+            "Bindusara",
+            "Ashoka",
+            "Dasharatha Maurya"
+          ],
+          "opts_hi": [
+            "चंद्रगुप्त मौर्य",
+            "बिंदुसार",
+            "अशोक",
+            "दशरथ मौर्य"
+          ],
+          "ans": 2,
+          "subject": "India History"
+        },
+        {
+          "q": "The 'Mansabdari system', a military and administrative ranking system, was introduced in the Mughal Empire by which emperor?",
+          "q_hi": "मुगल साम्राज्य में सैन्य एवं प्रशासनिक पद-श्रेणी प्रणाली 'मनसबदारी व्यवस्था' किस सम्राट द्वारा प्रारंभ की गई थी?",
+          "opts": [
+            "Babur",
+            "Humayun",
+            "Akbar",
+            "Jahangir"
+          ],
+          "opts_hi": [
+            "बाबर",
+            "हुमायूँ",
+            "अकबर",
+            "जहाँगीर"
+          ],
+          "ans": 2,
+          "subject": "India History"
+        },
+        {
+          "q": "The famous 'Dandi March' of 1930, also known as the Salt March, covered a distance of approximately how many miles from Sabarmati Ashram to Dandi?",
+          "q_hi": "1930 की प्रसिद्ध 'दांडी मार्च', जिसे नमक मार्च भी कहा जाता है, साबरमती आश्रम से दांडी तक लगभग कितने मील की दूरी तय की गई थी?",
+          "opts": [
+            "78 miles",
+            "241 miles",
+            "150 miles",
+            "320 miles"
+          ],
+          "opts_hi": [
+            "78 मील",
+            "241 मील",
+            "150 मील",
+            "320 मील"
+          ],
+          "ans": 1,
+          "subject": "India History"
+        },
+        {
+          "q": "Which of the following Vedas is primarily a collection of melodies and chants used during sacrificial rituals?",
+          "q_hi": "निम्नलिखित में से कौन-सा वेद मुख्य रूप से यज्ञ अनुष्ठानों में प्रयुक्त धुनों एवं मंत्रों का संग्रह है?",
+          "opts": [
+            "Rigveda",
+            "Yajurveda",
+            "Samaveda",
+            "Atharvaveda"
+          ],
+          "opts_hi": [
+            "ऋग्वेद",
+            "यजुर्वेद",
+            "सामवेद",
+            "अथर्ववेद"
+          ],
+          "ans": 2,
+          "subject": "India History"
+        },
+        {
+          "q": "The Indian National Congress was founded in 1885 under the presidentship of whom at its first session held in Bombay?",
+          "q_hi": "1885 में बम्बई में आयोजित भारतीय राष्ट्रीय कांग्रेस के प्रथम अधिवेशन की अध्यक्षता किसने की थी?",
+          "opts": [
+            "Dadabhai Naoroji",
+            "Bal Gangadhar Tilak",
+            "Womesh Chandra Bonnerjee",
+            "Gopal Krishna Gokhale"
+          ],
+          "opts_hi": [
+            "दादाभाई नौरोजी",
+            "बाल गंगाधर तिलक",
+            "वोमेश चन्द्र बनर्जी",
+            "गोपाल कृष्ण गोखले"
+          ],
+          "ans": 2,
+          "subject": "India History"
+        },
+        {
+          "q": "The partition of Bengal in 1905 was announced by which Viceroy of India?",
+          "q_hi": "1905 में बंगाल विभाजन की घोषणा भारत के किस वायसराय ने की थी?",
+          "opts": [
+            "Lord Curzon",
+            "Lord Minto",
+            "Lord Ripon",
+            "Lord Hardinge"
+          ],
+          "opts_hi": [
+            "लॉर्ड कर्जन",
+            "लॉर्ड मिंटो",
+            "लॉर्ड रिपन",
+            "लॉर्ड हार्डिंग"
+          ],
+          "ans": 0,
+          "subject": "Indian National Movement"
+        },
+        {
+          "q": "At which session of the Indian National Congress in 1920 was the Non-Cooperation Movement formally adopted?",
+          "q_hi": "1920 में भारतीय राष्ट्रीय कांग्रेस के किस अधिवेशन में असहयोग आंदोलन को औपचारिक रूप से अपनाया गया था?",
+          "opts": [
+            "Surat Session",
+            "Nagpur Session",
+            "Calcutta Session",
+            "Lahore Session"
+          ],
+          "opts_hi": [
+            "सूरत अधिवेशन",
+            "नागपुर अधिवेशन",
+            "कलकत्ता अधिवेशन",
+            "लाहौर अधिवेशन"
+          ],
+          "ans": 1,
+          "subject": "Indian National Movement"
+        },
+        {
+          "q": "Mahatma Gandhi began the famous Dandi March on 12 March 1930 from which place?",
+          "q_hi": "महात्मा गांधी ने 12 मार्च 1930 को प्रसिद्ध दांडी मार्च किस स्थान से शुरू किया था?",
+          "opts": [
+            "Wardha",
+            "Porbandar",
+            "Sabarmati Ashram",
+            "Rajkot"
+          ],
+          "opts_hi": [
+            "वर्धा",
+            "पोरबंदर",
+            "साबरमती आश्रम",
+            "राजकोट"
+          ],
+          "ans": 2,
+          "subject": "Indian National Movement"
+        },
+        {
+          "q": "The slogan 'Do or Die' associated with the Quit India Movement of 1942 was given by which leader?",
+          "q_hi": "1942 के भारत छोड़ो आंदोलन से जुड़ा नारा 'करो या मरो' किस नेता ने दिया था?",
+          "opts": [
+            "Jawaharlal Nehru",
+            "Subhas Chandra Bose",
+            "Sardar Vallabhbhai Patel",
+            "Mahatma Gandhi"
+          ],
+          "opts_hi": [
+            "जवाहरलाल नेहरू",
+            "सुभाष चंद्र बोस",
+            "सरदार वल्लभभाई पटेल",
+            "महात्मा गांधी"
+          ],
+          "ans": 3,
+          "subject": "Indian National Movement"
+        },
+        {
+          "q": "Bhagat Singh, Rajguru, and Sukhdev were executed on 23 March 1931 in connection with the killing of which British police officer?",
+          "q_hi": "भगत सिंह, राजगुरु और सुखदेव को 23 मार्च 1931 को किस ब्रिटिश पुलिस अधिकारी की हत्या के संबंध में फांसी दी गई थी?",
+          "opts": [
+            "Michael O'Dwyer",
+            "John Saunders",
+            "Reginald Dyer",
+            "Henry Lawrence"
+          ],
+          "opts_hi": [
+            "माइकल ओ'डायर",
+            "जॉन सॉन्डर्स",
+            "रेजिनाल्ड डायर",
+            "हेनरी लॉरेंस"
+          ],
+          "ans": 1,
+          "subject": "Indian National Movement"
+        },
+        {
+          "q": "Which river is known as the 'Sorrow of Bihar' due to the frequent floods it causes in the state?",
+          "q_hi": "किस नदी को बिहार में बार-बार आने वाली बाढ़ के कारण 'बिहार का शोक' कहा जाता है?",
+          "opts": [
+            "Gandak",
+            "Kosi",
+            "Bagmati",
+            "Mahananda"
+          ],
+          "opts_hi": [
+            "गंडक",
+            "कोसी",
+            "बागमती",
+            "महानंदा"
+          ],
+          "ans": 1,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which type of soil is most suitable for the cultivation of cotton and is predominantly found in the Deccan Plateau region of India?",
+          "q_hi": "कपास की खेती के लिए कौन सी मिट्टी सबसे उपयुक्त है और यह मुख्य रूप से भारत के दक्कन पठार क्षेत्र में पाई जाती है?",
+          "opts": [
+            "Laterite soil",
+            "Alluvial soil",
+            "Black soil",
+            "Red soil"
+          ],
+          "opts_hi": [
+            "लैटेराइट मिट्टी",
+            "जलोढ़ मिट्टी",
+            "काली मिट्टी",
+            "लाल मिट्टी"
+          ],
+          "ans": 2,
+          "subject": "Geography"
+        },
+        {
+          "q": "The 'Mango Showers' that occur in Kerala and Karnataka just before the onset of the Southwest Monsoon are locally known by which name?",
+          "q_hi": "दक्षिण-पश्चिम मानसून की शुरुआत से ठीक पहले केरल और कर्नाटक में होने वाली वर्षा को स्थानीय रूप से किस नाम से जाना जाता है?",
+          "opts": [
+            "Kal Baisakhi",
+            "Cherry Blossoms",
+            "Blossom Showers",
+            "Retreating Monsoon"
+          ],
+          "opts_hi": [
+            "काल बैसाखी",
+            "चेरी ब्लॉसम",
+            "ब्लॉसम शावर्स",
+            "लौटता मानसून"
+          ],
+          "ans": 2,
+          "subject": "Geography"
+        },
+        {
+          "q": "Kaziranga National Park, famous for the one-horned rhinoceros, is located along the banks of which river?",
+          "q_hi": "एक सींग वाले गैंडे के लिए प्रसिद्ध काजीरंगा राष्ट्रीय उद्यान किस नदी के किनारे स्थित है?",
+          "opts": [
+            "Manas",
+            "Brahmaputra",
+            "Lohit",
+            "Subansiri"
+          ],
+          "opts_hi": [
+            "मानस",
+            "ब्रह्मपुत्र",
+            "लोहित",
+            "सुबनसिरी"
+          ],
+          "ans": 1,
+          "subject": "Geography"
+        },
+        {
+          "q": "The Nathu La mountain pass, which connects India with China, is situated in which Indian state?",
+          "q_hi": "नाथू ला दर्रा, जो भारत को चीन से जोड़ता है, किस भारतीय राज्य में स्थित है?",
+          "opts": [
+            "Arunachal Pradesh",
+            "Himachal Pradesh",
+            "Uttarakhand",
+            "Sikkim"
+          ],
+          "opts_hi": [
+            "अरुणाचल प्रदेश",
+            "हिमाचल प्रदेश",
+            "उत्तराखंड",
+            "सिक्किम"
+          ],
+          "ans": 3,
+          "subject": "Geography"
+        },
+        {
+          "q": "Which of the following best describes 'Gross Domestic Product (GDP) at Factor Cost'?",
+          "q_hi": "निम्नलिखित में से कौन-सा 'कारक लागत पर सकल घरेलू उत्पाद (GDP)' को सबसे अच्छी तरह परिभाषित करता है?",
+          "opts": [
+            "GDP + Indirect Taxes – Subsidies",
+            "GDP – Indirect Taxes + Subsidies",
+            "GDP + Net Factor Income from Abroad",
+            "GDP – Depreciation"
+          ],
+          "opts_hi": [
+            "GDP + अप्रत्यक्ष कर – सब्सिडी",
+            "GDP – अप्रत्यक्ष कर + सब्सिडी",
+            "GDP + विदेश से शुद्ध कारक आय",
+            "GDP – मूल्यह्रास"
+          ],
+          "ans": 1,
+          "subject": "Indian Economy"
+        },
+        {
+          "q": "The Planning Commission of India was replaced by NITI Aayog in which year?",
+          "q_hi": "भारत के योजना आयोग को किस वर्ष नीति आयोग द्वारा प्रतिस्थापित किया गया था?",
+          "opts": [
+            "2013",
+            "2014",
+            "2015",
+            "2016"
+          ],
+          "opts_hi": [
+            "2013",
+            "2014",
+            "2015",
+            "2016"
+          ],
+          "ans": 2,
+          "subject": "Indian Economy"
+        },
+        {
+          "q": "The 'Repo Rate' is the rate at which the Reserve Bank of India lends money to —",
+          "q_hi": "रेपो दर' वह दर है जिस पर भारतीय रिजर्व बैंक किसे धन उधार देता है?",
+          "opts": [
+            "General public",
+            "State governments",
+            "Commercial banks",
+            "Foreign banks"
+          ],
+          "opts_hi": [
+            "आम जनता को",
+            "राज्य सरकारों को",
+            "वाणिज्यिक बैंकों को",
+            "विदेशी बैंकों को"
+          ],
+          "ans": 2,
+          "subject": "Indian Economy"
+        },
+        {
+          "q": "Which of the following states is the largest producer of wheat in India?",
+          "q_hi": "निम्नलिखित में से कौन-सा राज्य भारत में गेहूँ का सबसे बड़ा उत्पादक है?",
+          "opts": [
+            "Haryana",
+            "Madhya Pradesh",
+            "Uttar Pradesh",
+            "Punjab"
+          ],
+          "opts_hi": [
+            "हरियाणा",
+            "मध्य प्रदेश",
+            "उत्तर प्रदेश",
+            "पंजाब"
+          ],
+          "ans": 2,
+          "subject": "Indian Economy"
+        },
+        {
+          "q": "Which type of unemployment is most commonly observed in the agricultural sector of India, where more people are engaged in a job than actually required?",
+          "q_hi": "भारत के कृषि क्षेत्र में किस प्रकार की बेरोजगारी सबसे अधिक पाई जाती है, जिसमें आवश्यकता से अधिक लोग कार्य में लगे होते हैं?",
+          "opts": [
+            "Frictional unemployment",
+            "Structural unemployment",
+            "Cyclical unemployment",
+            "Disguised unemployment"
+          ],
+          "opts_hi": [
+            "घर्षणात्मक बेरोजगारी",
+            "संरचनात्मक बेरोजगारी",
+            "चक्रीय बेरोजगारी",
+            "प्रच्छन्न बेरोजगारी"
+          ],
+          "ans": 3,
+          "subject": "Indian Economy"
+        },
+        {
+          "q": "Under which clause of Article 19 of the Indian Constitution can the State impose reasonable restrictions on the right to form associations or unions on grounds of 'public order' and 'morality'?",
+          "q_hi": "भारतीय संविधान के अनुच्छेद 19 के किस खंड के अंतर्गत राज्य 'लोक व्यवस्था' और 'नैतिकता' के आधार पर संघ या यूनियन बनाने के अधिकार पर युक्तियुक्त प्रतिबंध लगा सकता है?",
+          "opts": [
+            "Clause (2)",
+            "Clause (3)",
+            "Clause (4)",
+            "Clause (5)"
+          ],
+          "opts_hi": [
+            "खंड (2)",
+            "खंड (3)",
+            "खंड (4)",
+            "खंड (5)"
+          ],
+          "ans": 2,
+          "subject": "Indian Constitution & Public Administration"
+        },
+        {
+          "q": "The 42nd Constitutional Amendment Act, 1976 added which of the following words to the Preamble of the Indian Constitution?",
+          "q_hi": "42वें संविधान संशोधन अधिनियम, 1976 द्वारा भारतीय संविधान की प्रस्तावना में निम्नलिखित में से कौन से शब्द जोड़े गए?",
+          "opts": [
+            "Democratic and Republic",
+            "Sovereign and Secular",
+            "Socialist, Secular and Integrity",
+            "Justice and Fraternity"
+          ],
+          "opts_hi": [
+            "लोकतांत्रिक और गणराज्य",
+            "संप्रभु और पंथनिरपेक्ष",
+            "समाजवादी, पंथनिरपेक्ष और अखंडता",
+            "न्याय और बंधुता"
+          ],
+          "ans": 2,
+          "subject": "Indian Constitution & Public Administration"
+        },
+        {
+          "q": "Which of the following bills can be introduced ONLY in the Lok Sabha and NOT in the Rajya Sabha?",
+          "q_hi": "निम्नलिखित में से कौन सा विधेयक केवल लोकसभा में पेश किया जा सकता है, राज्यसभा में नहीं?",
+          "opts": [
+            "Constitutional Amendment Bill",
+            "Ordinary Bill",
+            "Money Bill",
+            "Private Member Bill"
+          ],
+          "opts_hi": [
+            "संविधान संशोधन विधेयक",
+            "साधारण विधेयक",
+            "धन विधेयक",
+            "निजी सदस्य विधेयक"
+          ],
+          "ans": 2,
+          "subject": "Indian Constitution & Public Administration"
+        },
+        {
+          "q": "Which Article of the Indian Constitution directs the State to secure for workers a living wage, conditions of work ensuring a decent standard of life, and full enjoyment of leisure?",
+          "q_hi": "भारतीय संविधान का कौन सा अनुच्छेद राज्य को यह निर्देश देता है कि वह श्रमिकों के लिए जीवन-निर्वाह मजदूरी, काम की दशाएँ जो उचित जीवन-स्तर सुनिश्चित करें और अवकाश का पूरा उपभोग सुनिश्चित करे?",
+          "opts": [
+            "Article 39",
+            "Article 41",
+            "Article 43",
+            "Article 45"
+          ],
+          "opts_hi": [
+            "अनुच्छेद 39",
+            "अनुच्छेद 41",
+            "अनुच्छेद 43",
+            "अनुच्छेद 45"
+          ],
+          "ans": 2,
+          "subject": "Indian Constitution & Public Administration"
+        },
+        {
+          "q": "Under Article 356 (President's Rule), if the proclamation imposing President's Rule is approved by Parliament, for what maximum period can it remain in force WITHOUT any further parliamentary approval?",
+          "q_hi": "अनुच्छेद 356 (राष्ट्रपति शासन) के अंतर्गत, यदि संसद द्वारा उद्घोषणा को अनुमोदित कर दिया जाए, तो बिना किसी अतिरिक्त संसदीय अनुमोदन के यह अधिकतम कितने समय तक लागू रह सकती है?",
+          "opts": [
+            "3 months",
+            "6 months",
+            "1 year",
+            "2 years"
+          ],
+          "opts_hi": [
+            "3 माह",
+            "6 माह",
+            "1 वर्ष",
+            "2 वर्ष"
+          ],
+          "ans": 1,
+          "subject": "Indian Constitution & Public Administration"
+        },
+        {
+          "q": "Which hormone is secreted by the juxtaglomerular cells of the kidney and plays a key role in regulating blood pressure by initiating the renin-angiotensin system?",
+          "q_hi": "गुर्दे की जक्सटाग्लोमेरुलर कोशिकाओं द्वारा कौन-सा हार्मोन स्रावित होता है जो रेनिन-एंजियोटेंसिन तंत्र को प्रारंभ करके रक्तचाप नियमन में मुख्य भूमिका निभाता है?",
+          "opts": [
+            "Aldosterone",
+            "Erythropoietin",
+            "Renin",
+            "ADH (Vasopressin)"
+          ],
+          "opts_hi": [
+            "एल्डोस्टेरोन",
+            "एरिथ्रोपोइटिन",
+            "रेनिन",
+            "ADH (वैसोप्रेसिन)"
+          ],
+          "ans": 2,
+          "subject": "General Science"
+        },
+        {
+          "q": "Which of the following compounds exhibits the highest degree of ionic character due to the greatest electronegativity difference between its constituent elements?",
+          "q_hi": "निम्नलिखित में से किस यौगिक में घटक तत्वों के बीच सर्वाधिक विद्युतऋणात्मकता अंतर के कारण आयनिक चरित्र की मात्रा सबसे अधिक होती है?",
+          "opts": [
+            "HCl",
+            "NaF",
+            "MgO",
+            "CaCl2"
+          ],
+          "opts_hi": [
+            "HCl",
+            "NaF",
+            "MgO",
+            "CaCl2"
+          ],
+          "ans": 1,
+          "subject": "General Science"
+        },
+        {
+          "q": "A convex lens of focal length 20 cm forms a real, inverted image of the same size as the object. At what distance from the lens is the object placed?",
+          "q_hi": "20 cm फोकस दूरी का एक उत्तल लेंस वस्तु के समान आकार का वास्तविक, उल्टा प्रतिबिम्ब बनाता है। वस्तु लेंस से कितनी दूरी पर रखी गई है?",
+          "opts": [
+            "20 cm",
+            "30 cm",
+            "40 cm",
+            "10 cm"
+          ],
+          "opts_hi": [
+            "20 cm",
+            "30 cm",
+            "40 cm",
+            "10 cm"
+          ],
+          "ans": 2,
+          "subject": "General Science"
+        },
+        {
+          "q": "In C4 plants, carbon dioxide is first fixed in the mesophyll cells by the enzyme PEP carboxylase to form a 4-carbon compound. Which of the following is that primary 4-carbon product?",
+          "q_hi": "C4 पादपों में, मेसोफिल कोशिकाओं में PEP कार्बोक्सिलेज एंजाइम द्वारा CO2 का प्रथम स्थिरीकरण होता है जिससे एक 4-कार्बन यौगिक बनता है। वह प्राथमिक 4-कार्बन उत्पाद कौन-सा है?",
+          "opts": [
+            "Oxaloacetic acid (OAA)",
+            "Malic acid",
+            "Phosphoglyceric acid (PGA)",
+            "Aspartic acid"
+          ],
+          "opts_hi": [
+            "ऑक्जेलोएसिटिक अम्ल (OAA)",
+            "मैलिक अम्ल",
+            "फॉस्फोग्लिसरिक अम्ल (PGA)",
+            "एस्पार्टिक अम्ल"
+          ],
+          "ans": 0,
+          "subject": "General Science"
+        },
+        {
+          "q": "Which hormone, secreted by the juxtaglomerular cells of the kidney, initiates the renin-angiotensin-aldosterone system (RAAS) by acting on angiotensinogen present in the blood plasma?",
+          "q_hi": "वृक्क की जक्सटाग्लोमेरुलर कोशिकाओं द्वारा स्रावित कौन-सा हार्मोन, रक्त प्लाज्मा में उपस्थित एंजियोटेंसिनोजन पर क्रिया करके रेनिन-एंजियोटेंसिन-एल्डोस्टेरोन सिस्टम (RAAS) को प्रारम्भ करता है?",
+          "opts": [
+            "Aldosterone",
+            "Renin",
+            "Erythropoietin",
+            "Angiotensin II"
+          ],
+          "opts_hi": [
+            "एल्डोस्टेरोन",
+            "रेनिन",
+            "एरिथ्रोपोइटिन",
+            "एंजियोटेंसिन II"
+          ],
+          "ans": 1,
+          "subject": "General Science"
+        },
+        {
+          "q": "A shopkeeper marks his goods 40% above the cost price and offers two successive discounts of 15% and 10%. What is his net profit or loss percentage?",
+          "q_hi": "एक दुकानदार अपनी वस्तुओं को क्रय मूल्य से 40% अधिक अंकित करता है और दो क्रमिक छूट 15% तथा 10% देता है। उसका शुद्ध लाभ या हानि प्रतिशत क्या होगा?",
+          "opts": [
+            "7.1% profit",
+            "7% loss",
+            "6.3% profit",
+            "5% profit"
+          ],
+          "opts_hi": [
+            "7.1% लाभ",
+            "7% हानि",
+            "6.3% लाभ",
+            "5% लाभ"
+          ],
+          "ans": 0,
+          "subject": "Elementary Arithmetic"
+        },
+        {
+          "q": "A sum of money doubles itself at simple interest in 8 years. In how many years will the same sum become 3.5 times itself at the same rate of interest under compound interest (compounded annually)?",
+          "q_hi": "एक धनराशि साधारण ब्याज पर 8 वर्षों में दोगुनी हो जाती है। उसी ब्याज दर पर वार्षिक चक्रवृद्धि ब्याज से वही धनराशि 3.5 गुनी होने में कितने वर्ष लगेंगे?",
+          "opts": [
+            "Between 10 and 11 years",
+            "Exactly 10 years",
+            "12 years",
+            "Between 11 and 12 years"
+          ],
+          "opts_hi": [
+            "10 और 11 वर्षों के बीच",
+            "ठीक 10 वर्ष",
+            "12 वर्ष",
+            "11 और 12 वर्षों के बीच"
+          ],
+          "ans": 0,
+          "subject": "Elementary Arithmetic"
+        },
+        {
+          "q": "Three partners A, B, and C invest in a business. A invests Rs. 6,000 for 8 months, B invests Rs. 9,000 for 6 months, and C invests Rs. 5,000 for 12 months. If the total profit is Rs. 12,300, what is B's share of the profit?",
+          "q_hi": "तीन साझेदार A, B और C एक व्यापार में निवेश करते हैं। A, 6,000 रुपये 8 महीनों के लिए, B, 9,000 रुपये 6 महीनों के लिए और C, 5,000 रुपये 12 महीनों के लिए निवेश करता है। यदि कुल लाभ 12,300 रुपये है, तो B का लाभ कितना है?",
+          "opts": [
+            "Rs. 4,100",
+            "Rs. 4,500",
+            "Rs. 3,690",
+            "Rs. 4,920"
+          ],
+          "opts_hi": [
+            "₹ 4,100",
+            "₹ 4,500",
+            "₹ 3,690",
+            "₹ 4,920"
+          ],
+          "ans": 0,
+          "subject": "Elementary Arithmetic"
+        },
+        {
+          "q": "A can complete a piece of work in 18 days and B can complete the same work in 24 days. They start working together, but after 6 days A leaves. C then joins B and they together complete the remaining work in 6 more days. In how many days can C alone complete the entire work?",
+          "q_hi": "A किसी काम को 18 दिनों में और B उसी काम को 24 दिनों में पूरा कर सकता है। वे दोनों एक साथ काम शुरू करते हैं, परंतु 6 दिन बाद A चला जाता है। फिर C, B के साथ जुड़ता है और वे दोनों मिलकर शेष काम 6 और दिनों में पूरा करते हैं। C अकेले पूरा काम कितने दिनों में पूरा करेगा?",
+          "opts": [
+            "40 days",
+            "36 days",
+            "32 days",
+            "48 days"
+          ],
+          "opts_hi": [
+            "40 दिन",
+            "36 दिन",
+            "32 दिन",
+            "48 दिन"
+          ],
+          "ans": 1,
+          "subject": "Elementary Arithmetic"
+        },
+        {
+          "q": "निम्नलिखित में से किस शब्द का संधि विच्छेद सही है? (क) महोत्सव = मह + उत्सव (ख) सज्जन = सत् + जन (ग) निराशा = नि + राशा (घ) उद्योग = उत् + योग",
+          "q_hi": "",
+          "opts": [
+            "केवल क",
+            "केवल ख",
+            "केवल घ",
+            "ख और घ दोनों"
+          ],
+          "opts_hi": [
+            "केवल क",
+            "केवल ख",
+            "केवल घ",
+            "ख और घ दोनों"
+          ],
+          "ans": 3,
+          "subject": "General Hindi"
+        },
+        {
+          "q": "आँखों में धूल झोंकना' मुहावरे का सही अर्थ कौन-सा है?",
+          "q_hi": "",
+          "opts": [
+            "आँखें खराब करना",
+            "धोखा देना",
+            "सच बात छुपाना",
+            "किसी को डराना"
+          ],
+          "opts_hi": [
+            "आँखें खराब करना",
+            "धोखा देना",
+            "सच बात छुपाना",
+            "किसी को डराना"
+          ],
+          "ans": 1,
+          "subject": "General Hindi"
+        },
+        {
+          "q": "निम्नलिखित वाक्यों में से शुद्ध वाक्य कौन-सा है?",
+          "q_hi": "",
+          "opts": [
+            "मुझे बहुत प्यास लग रही है।",
+            "वह अपने घर को गया।",
+            "मैंने उसको देखा था।",
+            "वे लोग खाना खाकर चली गईं।"
+          ],
+          "opts_hi": [
+            "मुझे बहुत प्यास लग रही है।",
+            "वह अपने घर को गया।",
+            "मैंने उसको देखा था।",
+            "वे लोग खाना खाकर चली गईं।"
+          ],
+          "ans": 0,
+          "subject": "General Hindi"
+        },
+        {
+          "q": "कमल' के पर्यायवाची शब्दों की सूची में कौन-सा शब्द सम्मिलित नहीं है?",
+          "q_hi": "",
+          "opts": [
+            "राजीव",
+            "नीरज",
+            "पंकज",
+            "नीलकंठ"
+          ],
+          "opts_hi": [
+            "राजीव",
+            "नीरज",
+            "पंकज",
+            "नीलकंठ"
+          ],
+          "ans": 3,
+          "subject": "General Hindi"
+        },
+        {
+          "q": "निम्नलिखित पंक्ति में कौन-सा अलंकार है? 'चरण कमल बंदौ हरि राई'",
+          "q_hi": "",
+          "opts": [
+            "उपमा",
+            "रूपक",
+            "उत्प्रेक्षा",
+            "अतिशयोक्ति"
+          ],
+          "opts_hi": [
+            "उपमा",
+            "रूपक",
+            "उत्प्रेक्षा",
+            "अतिशयोक्ति"
+          ],
+          "ans": 1,
+          "subject": "General Hindi"
+        },
+        {
+          "q": "Identify the part of the sentence that contains a grammatical error: 'The committee (A) have reached (B) their decision (C) after a long deliberation. (D) No error'",
+          "q_hi": "",
+          "opts": [
+            "The committee",
+            "have reached",
+            "their decision",
+            "No error"
+          ],
+          "opts_hi": [
+            "The committee",
+            "have reached",
+            "their decision",
+            "No error"
+          ],
+          "ans": 1,
+          "subject": "General English"
+        },
+        {
+          "q": "Choose the most appropriate word to fill in the blank: Despite his ________ manner in public, those close to him knew he harboured deep resentment against his rivals.",
+          "q_hi": "",
+          "opts": [
+            "affable",
+            "querulous",
+            "obdurate",
+            "reticent"
+          ],
+          "opts_hi": [
+            "affable",
+            "querulous",
+            "obdurate",
+            "reticent"
+          ],
+          "ans": 0,
+          "subject": "General English"
+        },
+        {
+          "q": "In the following passage, choose the word that best fits blank number 3: 'Deforestation has become a global (1)___ that threatens not only wildlife but also the (2)___ balance of entire ecosystems. Scientists warn that if current trends (3)___, many species will face extinction within decades.'",
+          "q_hi": "",
+          "opts": [
+            "desist",
+            "persist",
+            "resist",
+            "insist"
+          ],
+          "opts_hi": [
+            "desist",
+            "persist",
+            "resist",
+            "insist"
+          ],
+          "ans": 1,
+          "subject": "General English"
+        },
+        {
+          "q": "Choose the ONE WORD that best substitutes the given phrase: 'A person who believes that human nature is essentially selfish and that people are motivated only by self-interest'",
+          "q_hi": "",
+          "opts": [
+            "Misanthrope",
+            "Cynic",
+            "Nihilist",
+            "Stoic"
+          ],
+          "opts_hi": [
+            "Misanthrope",
+            "Cynic",
+            "Nihilist",
+            "Stoic"
+          ],
+          "ans": 1,
+          "subject": "General English"
+        },
+        {
+          "q": "Select the correct meaning of the underlined idiom: 'After the scandal broke, the minister tried to pour oil on troubled waters, but the opposition refused to back down.'",
+          "q_hi": "",
+          "opts": [
+            "To make a situation worse",
+            "To avoid a confrontation",
+            "To calm a tense situation",
+            "To suppress evidence"
+          ],
+          "opts_hi": [
+            "To make a situation worse",
+            "To avoid a confrontation",
+            "To calm a tense situation",
+            "To suppress evidence"
+          ],
+          "ans": 2,
+          "subject": "General English"
+        },
+        {
+          "q": "Pointing to a photograph, Meena says, 'The father of the only brother of this man's mother is the paternal grandfather of my husband's only son.' If Meena has no siblings, how is the man in the photograph related to Meena?",
+          "q_hi": "एक तस्वीर की ओर इशारा करते हुए मीना कहती है, 'इस आदमी की माँ के एकमात्र भाई के पिता मेरे पति के एकमात्र पुत्र के दादा हैं।' यदि मीना का कोई भाई-बहन नहीं है, तो तस्वीर में मौजूद आदमी मीना से किस प्रकार संबंधित है?",
+          "opts": [
+            "Son",
+            "Brother",
+            "Uncle",
+            "Nephew"
+          ],
+          "opts_hi": [
+            "पुत्र",
+            "भाई",
+            "मामा/चाचा",
+            "भतीजा/भांजा"
+          ],
+          "ans": 3,
+          "subject": "Logic & Reasoning"
+        },
+        {
+          "q": "In a certain code language, SEGMENT is written as TFHNFOU and MINERAL is written as NJOFSBM. Using the same logic, how will CAPITAL be written in that code?",
+          "q_hi": "किसी निश्चित कूट भाषा में SEGMENT को TFHNFOU लिखा जाता है और MINERAL को NJOFSBM लिखा जाता है। उसी तर्क के आधार पर CAPITAL को उस कूट भाषा में कैसे लिखा जाएगा?",
+          "opts": [
+            "DBQJUBM",
+            "DBQJTEM",
+            "DBRJUBM",
+            "CBQJUBM"
+          ],
+          "opts_hi": [
+            "DBQJUBM",
+            "DBQJTEM",
+            "DBRJUBM",
+            "CBQJUBM"
+          ],
+          "ans": 0,
+          "subject": "Logic & Reasoning"
+        },
+        {
+          "q": "Statements: All pens are books. Some books are tables. No table is a chair. Conclusions: I. Some pens are tables. II. No chair is a book. III. Some books are chairs is a possibility. Which of the following is correct?",
+          "q_hi": "कथन: सभी पेन किताबें हैं। कुछ किताबें मेज हैं। कोई मेज कुर्सी नहीं है। निष्कर्ष: I. कुछ पेन मेज हैं। II. कोई कुर्सी किताब नहीं है। III. कुछ किताबें कुर्सी हैं, यह एक संभावना है। निम्नलिखित में से कौन-सा सही है?",
+          "opts": [
+            "Only I follows",
+            "Only II and III follow",
+            "Only III follows",
+            "None follows"
+          ],
+          "opts_hi": [
+            "केवल I अनुसरण करता है",
+            "केवल II और III अनुसरण करते हैं",
+            "केवल III अनुसरण करता है",
+            "कोई अनुसरण नहीं करता"
+          ],
+          "ans": 2,
+          "subject": "Logic & Reasoning"
+        },
+        {
+          "q": "Rajan starts from point A and walks 12 km towards the North. He then turns right and walks 9 km, then turns right again and walks 6 km. He then turns left and walks 3 km. Finally, he turns left and walks 6 km. How far and in which direction is he from his starting point A?",
+          "q_hi": "रजन बिंदु A से उत्तर दिशा में 12 किमी चलता है। फिर वह दाएँ मुड़कर 9 किमी चलता है, फिर दाएँ मुड़कर 6 किमी चलता है। फिर वह बाएँ मुड़कर 3 किमी चलता है। अंत में वह बाएँ मुड़कर 6 किमी चलता है। वह अपने प्रारंभिक बिंदु A से कितनी दूर और किस दिशा में है?",
+          "opts": [
+            "12√2 km (about 17 km), North-East",
+            "12 km, East",
+            "15 km, East",
+            "12 km, North-East"
+          ],
+          "opts_hi": [
+            "12√2 किमी (लगभग 17 किमी), उत्तर-पूर्व",
+            "12 किमी, पूर्व",
+            "15 किमी, पूर्व",
+            "12 किमी, उत्तर-पूर्व"
+          ],
+          "ans": 0,
+          "subject": "Logic & Reasoning"
+        },
+        {
+          "q": "In a certain code language, 'BROWSE' is written as 'DTQYUG' and 'PLANET' is written as 'RNCPGV'. Following the same logic, how will 'STREAM' be written in that code language?",
+          "q_hi": "एक निश्चित कूट भाषा में 'BROWSE' को 'DTQYUG' लिखा जाता है और 'PLANET' को 'RNCPGV' लिखा जाता है। उसी नियम के अनुसार 'STREAM' को उस कूट भाषा में कैसे लिखा जाएगा?",
+          "opts": [
+            "UVTGCO",
+            "UVTGCP",
+            "UWTGCO",
+            "UVSGCO"
+          ],
+          "opts_hi": [
+            "UVTGCO",
+            "UVTGCP",
+            "UWTGCO",
+            "UVSGCO"
+          ],
+          "ans": 0,
+          "subject": "Logic & Reasoning"
+        },
+        {
+          "q": "Under the PM Vishwakarma Yojana, which of the following statements is INCORRECT regarding the credit support provided to artisans?",
+          "q_hi": "पीएम विश्वकर्मा योजना के अंतर्गत कारीगरों को प्रदान की जाने वाली ऋण सहायता के संबंध में निम्नलिखित में से कौन-सा कथन गलत है?",
+          "opts": [
+            "First tranche loan limit is Rs 1 lakh",
+            "Interest rate is capped at 5% per annum",
+            "Second tranche loan limit is Rs 2 lakh",
+            "The scheme is fully funded by state governments"
+          ],
+          "opts_hi": [
+            "प्रथम किश्त ऋण सीमा 1 लाख रुपये है",
+            "ब्याज दर 5% प्रति वर्ष पर सीमित है",
+            "द्वितीय किश्त ऋण सीमा 2 लाख रुपये है",
+            "यह योजना राज्य सरकारों द्वारा पूर्णतः वित्त पोषित है"
+          ],
+          "ans": 3,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "The National Payments Corporation of India (NPCI) operates under the regulatory oversight of which two bodies jointly?",
+          "q_hi": "नेशनल पेमेंट्स कॉर्पोरेशन ऑफ इंडिया (NPCI) किन दो संस्थाओं की संयुक्त नियामक देखरेख में कार्य करती है?",
+          "opts": [
+            "RBI and SEBI",
+            "RBI and IBA",
+            "Ministry of Finance and SEBI",
+            "SEBI and IRDAI"
+          ],
+          "opts_hi": [
+            "RBI और SEBI",
+            "RBI और IBA",
+            "वित्त मंत्रालय और SEBI",
+            "SEBI और IRDAI"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Which article of the United Nations Charter empowers the UN Security Council to take enforcement actions, including the use of armed force, to maintain international peace and security?",
+          "q_hi": "संयुक्त राष्ट्र चार्टर का कौन-सा अनुच्छेद UN सुरक्षा परिषद को अंतर्राष्ट्रीय शांति और सुरक्षा बनाए रखने के लिए सशस्त्र बल के उपयोग सहित प्रवर्तन कार्रवाई करने का अधिकार देता है?",
+          "opts": [
+            "Article 41",
+            "Article 42",
+            "Article 51",
+            "Article 35"
+          ],
+          "opts_hi": [
+            "अनुच्छेद 41",
+            "अनुच्छेद 42",
+            "अनुच्छेद 51",
+            "अनुच्छेद 35"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "The Monetary Policy Committee (MPC) of the Reserve Bank of India consists of how many members, and what is the casting vote provision?",
+          "q_hi": "भारतीय रिजर्व बैंक की मौद्रिक नीति समिति (MPC) में कितने सदस्य होते हैं और निर्णायक मत (कास्टिंग वोट) का प्रावधान क्या है?",
+          "opts": [
+            "4 members; Governor has casting vote",
+            "6 members; Governor has casting vote in case of tie",
+            "6 members; Deputy Governor has casting vote",
+            "5 members; Governor has casting vote"
+          ],
+          "opts_hi": [
+            "4 सदस्य; गवर्नर के पास निर्णायक मत",
+            "6 सदस्य; बराबरी की स्थिति में गवर्नर के पास निर्णायक मत",
+            "6 सदस्य; डिप्टी गवर्नर के पास निर्णायक मत",
+            "5 सदस्य; गवर्नर के पास निर्णायक मत"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "India's first indigenous aircraft carrier INS Vikrant was commissioned into the Indian Navy in which year and is based at which naval base?",
+          "q_hi": "भारत का पहला स्वदेशी विमानवाहक पोत INS विक्रांत किस वर्ष भारतीय नौसेना में कमीशन किया गया और यह किस नौसैनिक अड्डे पर तैनात है?",
+          "opts": [
+            "2021, INS Kadamba (Karwar)",
+            "2022, INS Dega (Visakhapatnam)",
+            "2022, Kochi (Southern Naval Command)",
+            "2023, INS Hansa (Goa)"
+          ],
+          "opts_hi": [
+            "2021, INS कदंबा (कारवार)",
+            "2022, INS देगा (विशाखापत्तनम)",
+            "2022, कोच्चि (दक्षिणी नौसेना कमान)",
+            "2023, INS हंसा (गोवा)"
+          ],
+          "ans": 2,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "The Forest Rights Act (Scheduled Tribes and Other Traditional Forest Dwellers Recognition of Forest Rights Act), 2006 recognises forest rights over how many categories of forest rights in total?",
+          "q_hi": "वन अधिकार अधिनियम (अनुसूचित जनजाति और अन्य परंपरागत वन निवासी वन अधिकारों की मान्यता अधिनियम), 2006 कुल कितनी श्रेणियों के वन अधिकारों को मान्यता देता है?",
+          "opts": [
+            "9 categories",
+            "13 categories",
+            "6 categories",
+            "3 categories"
+          ],
+          "opts_hi": [
+            "9 श्रेणियां",
+            "13 श्रेणियां",
+            "6 श्रेणियां",
+            "3 श्रेणियां"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Project BOLD (Bamboo Oasis on Lands of Drylands) is an initiative of which organisation, and it aims to create bamboo-based green cover in which type of regions?",
+          "q_hi": "प्रोजेक्ट BOLD (बांस ओएसिस ऑन लैंड्स ऑफ ड्रायलैंड्स) किस संस्था की पहल है और इसका उद्देश्य किस प्रकार के क्षेत्रों में बांस-आधारित हरित आवरण बनाना है?",
+          "opts": [
+            "National Mission for Green India; coastal regions",
+            "National Mission for Sustainable Agriculture; flood plains",
+            "Khadi and Village Industries Commission (KVIC); arid and semi-arid regions",
+            "CAMPA; tribal forest areas"
+          ],
+          "opts_hi": [
+            "राष्ट्रीय हरित भारत मिशन; तटीय क्षेत्र",
+            "राष्ट्रीय सतत कृषि मिशन; बाढ़ के मैदान",
+            "खादी और ग्रामोद्योग आयोग (KVIC); शुष्क और अर्ध-शुष्क क्षेत्र",
+            "CAMPA; जनजातीय वन क्षेत्र"
+          ],
+          "ans": 2,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Under the Pradhan Mantri Fasal Bima Yojana (PMFBY), the maximum premium rate to be paid by farmers for Kharif crops is fixed at what percentage of the sum insured?",
+          "q_hi": "प्रधानमंत्री फसल बीमा योजना (PMFBY) के अंतर्गत खरीफ फसलों के लिए किसानों द्वारा देय अधिकतम प्रीमियम दर बीमित राशि के कितने प्रतिशत पर निर्धारित की गई है?",
+          "opts": [
+            "1.50%",
+            "2%",
+            "3%",
+            "5%"
+          ],
+          "opts_hi": [
+            "1.50%",
+            "2%",
+            "3%",
+            "5%"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "The NITI Aayog was established on 1 January 2015 to replace the Planning Commission. Which of the following correctly describes a structural difference between the two bodies?",
+          "q_hi": "नीति आयोग की स्थापना 1 जनवरी 2015 को योजना आयोग के स्थान पर की गई थी। निम्नलिखित में से कौन-सा विकल्प दोनों निकायों के बीच एक संरचनात्मक अंतर का सही वर्णन करता है?",
+          "opts": [
+            "NITI Aayog has constitutional status; Planning Commission did not",
+            "Planning Commission included Chief Ministers; NITI Aayog does not",
+            "NITI Aayog has fund-allocation powers that Planning Commission lacked",
+            "NITI Aayog lacks fund-allocation powers that Planning Commission had"
+          ],
+          "opts_hi": [
+            "नीति आयोग को संवैधानिक दर्जा प्राप्त है; योजना आयोग को नहीं था",
+            "योजना आयोग में मुख्यमंत्री शामिल थे; नीति आयोग में नहीं हैं",
+            "नीति आयोग के पास निधि आवंटन की शक्तियाँ हैं जो योजना आयोग के पास नहीं थीं",
+            "नीति आयोग के पास वह निधि आवंटन शक्तियाँ नहीं हैं जो योजना आयोग के पास थीं"
+          ],
+          "ans": 3,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Chandrayaan-3's lander module 'Vikram' successfully touched down near the lunar south pole on 23 August 2023. What was the name of the rover deployed from Vikram during this mission?",
+          "q_hi": "चंद्रयान-3 का लैंडर मॉड्यूल 'विक्रम' 23 अगस्त 2023 को चंद्रमा के दक्षिणी ध्रुव के निकट सफलतापूर्वक उतरा। इस मिशन के दौरान विक्रम से तैनात रोवर का नाम क्या था?",
+          "opts": [
+            "Pragyan",
+            "Sojourner",
+            "Aditya",
+            "Mangalyaan"
+          ],
+          "opts_hi": [
+            "प्रज्ञान",
+            "सोजर्नर",
+            "आदित्य",
+            "मंगलयान"
+          ],
+          "ans": 0,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "The Padma Vibhushan is the second highest civilian honour in India. Which of the following criteria correctly distinguishes Padma Vibhushan from Padma Bhushan?",
+          "q_hi": "पद्म विभूषण भारत का दूसरा सर्वोच्च नागरिक सम्मान है। निम्नलिखित में से कौन-सा मानदंड पद्म विभूषण को पद्म भूषण से सही रूप से अलग करता है?",
+          "opts": [
+            "Padma Vibhushan is given only to government servants",
+            "Padma Vibhushan recognises distinguished service of a higher order than Padma Bhushan",
+            "Padma Vibhushan can be awarded posthumously but Padma Bhushan cannot",
+            "Padma Vibhushan is restricted to Indian citizens only"
+          ],
+          "opts_hi": [
+            "पद्म विभूषण केवल सरकारी कर्मचारियों को दिया जाता है",
+            "पद्म विभूषण, पद्म भूषण से उच्च कोटि की विशिष्ट सेवा को मान्यता देता है",
+            "पद्म विभूषण मरणोपरांत दिया जा सकता है किंतु पद्म भूषण नहीं",
+            "पद्म विभूषण केवल भारतीय नागरिकों तक सीमित है"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "The Khelo India University Games is an initiative under which ministry, and which edition of the Games was held in Uttar Pradesh for the first time?",
+          "q_hi": "खेलो इंडिया यूनिवर्सिटी गेम्स किस मंत्रालय की पहल है और उत्तर प्रदेश में पहली बार इसका कौन-सा संस्करण आयोजित हुआ?",
+          "opts": [
+            "Ministry of Education; 1st edition",
+            "Ministry of Youth Affairs and Sports; 3rd edition",
+            "Ministry of Youth Affairs and Sports; 1st edition",
+            "Ministry of Education; 3rd edition"
+          ],
+          "opts_hi": [
+            "शिक्षा मंत्रालय; पहला संस्करण",
+            "युवा कार्यक्रम और खेल मंत्रालय; तीसरा संस्करण",
+            "युवा कार्यक्रम और खेल मंत्रालय; पहला संस्करण",
+            "शिक्षा मंत्रालय; तीसरा संस्करण"
+          ],
+          "ans": 1,
+          "subject": "Current Affairs"
+        },
+        {
+          "q": "Which Mughal emperor issued the 'Farman of 1717' granting trading privileges to the English East India Company, which was later used as a pretext for expanding British influence in Bengal?",
+          "q_hi": "किस मुगल सम्राट ने 1717 का 'फरमान' जारी किया, जिसने अंग्रेजी ईस्ट इंडिया कंपनी को व्यापारिक विशेषाधिकार दिए, जिसे बाद में बंगाल में ब्रिटिश प्रभाव बढ़ाने के बहाने के रूप में इस्तेमाल किया गया?",
+          "opts": [
+            "Aurangzeb",
+            "Bahadur Shah I",
+            "Farrukhsiyar",
+            "Muhammad Shah"
+          ],
+          "opts_hi": [
+            "औरंगजेब",
+            "बहादुर शाह प्रथम",
+            "फर्रुखसियर",
+            "मुहम्मद शाह"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Under which Article of the Indian Constitution can the President of India refer a question of law or fact of public importance to the Supreme Court for its opinion?",
+          "q_hi": "भारतीय संविधान के किस अनुच्छेद के तहत राष्ट्रपति सार्वजनिक महत्व के किसी विधिक या तथ्यात्मक प्रश्न पर सर्वोच्च न्यायालय से परामर्शी राय माँग सकते हैं?",
+          "opts": [
+            "Article 131",
+            "Article 137",
+            "Article 143",
+            "Article 148"
+          ],
+          "opts_hi": [
+            "अनुच्छेद 131",
+            "अनुच्छेद 137",
+            "अनुच्छेद 143",
+            "अनुच्छेद 148"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The Chambal River, a major tributary of the Yamuna, originates from which location in Madhya Pradesh?",
+          "q_hi": "चंबल नदी, जो यमुना की एक प्रमुख सहायक नदी है, मध्य प्रदेश में किस स्थान से निकलती है?",
+          "opts": [
+            "Amarkantak Plateau",
+            "Janapav Hills near Indore",
+            "Vindhya Range near Bhopal",
+            "Satpura Range near Hoshangabad"
+          ],
+          "opts_hi": [
+            "अमरकंटक पठार",
+            "इंदौर के निकट जानापाव पहाड़ियाँ",
+            "भोपाल के निकट विंध्य श्रृंखला",
+            "होशंगाबाद के निकट सतपुड़ा श्रृंखला"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The concept of 'Antyodaya' — targeting benefits to the poorest of the poor — was first operationalised at the national level in India through which programme?",
+          "q_hi": "अंत्योदय' की अवधारणा — सबसे गरीब व्यक्तियों को लाभ पहुँचाना — भारत में राष्ट्रीय स्तर पर किस कार्यक्रम के माध्यम से पहली बार क्रियान्वित की गई?",
+          "opts": [
+            "IRDP",
+            "Antyodaya Anna Yojana",
+            "TRYSEM",
+            "Pradhan Mantri Gram Sadak Yojana"
+          ],
+          "opts_hi": [
+            "आईआरडीपी",
+            "अंत्योदय अन्न योजना",
+            "ट्राइसेम",
+            "प्रधानमंत्री ग्राम सड़क योजना"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which enzyme is responsible for unwinding the double-helix structure of DNA during replication by breaking hydrogen bonds between the base pairs?",
+          "q_hi": "DNA प्रतिकृति के दौरान बेस जोड़ों के बीच हाइड्रोजन बंधों को तोड़कर द्विकुंडलीय संरचना को खोलने के लिए कौन-सा एंजाइम उत्तरदायी है?",
+          "opts": [
+            "DNA Polymerase",
+            "Ligase",
+            "Helicase",
+            "Primase"
+          ],
+          "opts_hi": [
+            "डीएनए पॉलीमरेज",
+            "लाइगेज",
+            "हेलिकेज",
+            "प्राइमेज"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "A transformer has 500 turns in its primary coil and 2000 turns in its secondary coil. If the primary voltage is 220 V, what is the secondary voltage, and what type of transformer is this?",
+          "q_hi": "एक ट्रांसफॉर्मर की प्राथमिक कुंडली में 500 फेरे और द्वितीयक कुंडली में 2000 फेरे हैं। यदि प्राथमिक वोल्टेज 220 V है, तो द्वितीयक वोल्टेज क्या होगा और यह किस प्रकार का ट्रांसफॉर्मर है?",
+          "opts": [
+            "440 V, Step-up",
+            "880 V, Step-up",
+            "55 V, Step-down",
+            "110 V, Step-down"
+          ],
+          "opts_hi": [
+            "440 V, उच्चायी",
+            "880 V, उच्चायी",
+            "55 V, अपचायी",
+            "110 V, अपचायी"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The 'Abhinav Bharat Society', a secret revolutionary organisation, was founded in 1904 by which freedom fighter who later became a prominent leader in the Hindu Mahasabha?",
+          "q_hi": "अभिनव भारत सोसायटी', एक गुप्त क्रांतिकारी संगठन, की स्थापना 1904 में किस स्वतंत्रता सेनानी ने की, जो बाद में हिंदू महासभा के एक प्रमुख नेता बने?",
+          "opts": [
+            "Bal Gangadhar Tilak",
+            "Vinayak Damodar Savarkar",
+            "Lala Lajpat Rai",
+            "Bipin Chandra Pal"
+          ],
+          "opts_hi": [
+            "बाल गंगाधर तिलक",
+            "विनायक दामोदर सावरकर",
+            "लाला लाजपत राय",
+            "बिपिन चंद्र पाल"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The allocation of seats in the Rajya Sabha to states and union territories is governed by which Schedule of the Indian Constitution?",
+          "q_hi": "राज्य सभा में राज्यों और केंद्रशासित प्रदेशों को सीटों का आवंटन भारतीय संविधान की किस अनुसूची द्वारा नियंत्रित होता है?",
+          "opts": [
+            "Second Schedule",
+            "Third Schedule",
+            "Fourth Schedule",
+            "Fifth Schedule"
+          ],
+          "opts_hi": [
+            "दूसरी अनुसूची",
+            "तीसरी अनुसूची",
+            "चौथी अनुसूची",
+            "पाँचवीं अनुसूची"
+          ],
+          "ans": 2,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "Which process involves the conversion of a substance directly from the solid phase to the gaseous phase without passing through the liquid phase, and which of the following is the best example of this process under normal atmospheric conditions?",
+          "q_hi": "किस प्रक्रिया में कोई पदार्थ द्रव अवस्था से गुजरे बिना सीधे ठोस अवस्था से गैसीय अवस्था में परिवर्तित होता है, और सामान्य वायुमंडलीय दबाव में इसका सबसे उचित उदाहरण निम्न में से कौन-सा है?",
+          "opts": [
+            "Evaporation – Camphor",
+            "Sublimation – Camphor",
+            "Sublimation – Wax",
+            "Condensation – Dry Ice"
+          ],
+          "opts_hi": [
+            "वाष्पीकरण – कपूर",
+            "ऊर्ध्वपातन – कपूर",
+            "ऊर्ध्वपातन – मोम",
+            "संघनन – शुष्क बर्फ"
+          ],
+          "ans": 1,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "The 'Dudhwa National Park' in Uttar Pradesh is known for the successful reintroduction of which endangered species in the 1980s under Project Tiger?",
+          "q_hi": "उत्तर प्रदेश का 'दुधवा राष्ट्रीय उद्यान' 1980 के दशक में 'प्रोजेक्ट टाइगर' के अंतर्गत किस लुप्तप्राय प्रजाति के सफल पुनर्वास के लिए जाना जाता है?",
+          "opts": [
+            "One-horned Rhinoceros",
+            "Asiatic Lion",
+            "Snow Leopard",
+            "Gharial"
+          ],
+          "opts_hi": [
+            "एक सींग वाला गैंडा",
+            "एशियाई शेर",
+            "हिम तेंदुआ",
+            "घड़ियाल"
+          ],
+          "ans": 0,
+          "subject": "General Awareness"
+        },
+        {
+          "q": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़कर प्रश्नों के उत्तर दीजिए:  भारत की नदियाँ केवल जल का स्रोत नहीं हैं, वे इस देश की सांस्कृतिक चेतना की धुरी भी हैं। गंगा, यमुना, सरस्वती जैसी नदियों ने न केवल कृषि को संभव बनाया, बल्कि उनके तटों पर सभ्यताएँ पनपीं, दर्शन जन्मे और परंपराएँ गढ़ी गईं। किंतु आज जब हम विकास की दौड़ में अंधे होकर भाग रहे हैं, तब इन्हीं नदियों का अस्तित्व संकट में है। औद्योगिक कचरा, नगरीय मलजल और अवैध रेत खनन ने नदियों की काया को क्षत-विक्षत कर दिया है। नदियाँ जो कभी अमृत वितरित करती थीं, आज विषाक्त जलधाराओं में बदलती जा रही हैं। सरकारें योजनाएँ बनाती हैं, परियोजनाएँ आती-जाती हैं, पर धरातल पर परिणाम नगण्य रहते हैं। वास्तव में जब तक समाज की सामूहिक चेतना नहीं जागेगी और हर नागरिक नदी को जीवन का अंग नहीं मानेगा, तब तक कोई भी सरकारी प्रयास पर्याप्त नहीं होगा। नदी-संरक्षण महज एक पर्यावरणीय मुद्दा नहीं, यह हमारी सांस्कृतिक और सामाजिक जिम्मेदारी है।  Q: उपर्युक्त गद्यांश का सर्वाधिक उपयुक्त शीर्षक क्या होगा?",
+          "q_hi": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़कर प्रश्नों के उत्तर दीजिए:  भारत की नदियाँ केवल जल का स्रोत नहीं हैं, वे इस देश की सांस्कृतिक चेतना की धुरी भी हैं। गंगा, यमुना, सरस्वती जैसी नदियों ने न केवल कृषि को संभव बनाया, बल्कि उनके तटों पर सभ्यताएँ पनपीं, दर्शन जन्मे और परंपराएँ गढ़ी गईं। किंतु आज जब हम विकास की दौड़ में अंधे होकर भाग रहे हैं, तब इन्हीं नदियों का अस्तित्व संकट में है। औद्योगिक कचरा, नगरीय मलजल और अवैध रेत खनन ने नदियों की काया को क्षत-विक्षत कर दिया है। नदियाँ जो कभी अमृत वितरित करती थीं, आज विषाक्त जलधाराओं में बदलती जा रही हैं। सरकारें योजनाएँ बनाती हैं, परियोजनाएँ आती-जाती हैं, पर धरातल पर परिणाम नगण्य रहते हैं। वास्तव में जब तक समाज की सामूहिक चेतना नहीं जागेगी और हर नागरिक नदी को जीवन का अंग नहीं मानेगा, तब तक कोई भी सरकारी प्रयास पर्याप्त नहीं होगा। नदी-संरक्षण महज एक पर्यावरणीय मुद्दा नहीं, यह हमारी सांस्कृतिक और सामाजिक जिम्मेदारी है।  प्रश्न: उपर्युक्त गद्यांश का सर्वाधिक उपयुक्त शीर्षक क्या होगा?",
+          "opts": [
+            "भारत की प्रमुख नदियाँ",
+            "नदियाँ: संस्कृति, संकट और सामूहिक दायित्व",
+            "सरकारी जल-परियोजनाओं की विफलता",
+            "औद्योगिक प्रदूषण और पर्यावरण"
+          ],
+          "opts_hi": [
+            "भारत की प्रमुख नदियाँ",
+            "नदियाँ: संस्कृति, संकट और सामूहिक दायित्व",
+            "सरकारी जल-परियोजनाओं की विफलता",
+            "औद्योगिक प्रदूषण और पर्यावरण"
+          ],
+          "ans": 1,
+          "subject": "Analysis of Hindi Unread Passage (2 Passages)"
+        },
+        {
+          "q": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़कर प्रश्नों के उत्तर दीजिए:  भारत की नदियाँ केवल जल का स्रोत नहीं हैं, वे इस देश की सांस्कृतिक चेतना की धुरी भी हैं। गंगा, यमुना, सरस्वती जैसी नदियों ने न केवल कृषि को संभव बनाया, बल्कि उनके तटों पर सभ्यताएँ पनपीं, दर्शन जन्मे और परंपराएँ गढ़ी गईं। किंतु आज जब हम विकास की दौड़ में अंधे होकर भाग रहे हैं, तब इन्हीं नदियों का अस्तित्व संकट में है। औद्योगिक कचरा, नगरीय मलजल और अवैध रेत खनन ने नदियों की काया को क्षत-विक्षत कर दिया है। नदियाँ जो कभी अमृत वितरित करती थीं, आज विषाक्त जलधाराओं में बदलती जा रही हैं। सरकारें योजनाएँ बनाती हैं, परियोजनाएँ आती-जाती हैं, पर धरातल पर परिणाम नगण्य रहते हैं। वास्तव में जब तक समाज की सामूहिक चेतना नहीं जागेगी और हर नागरिक नदी को जीवन का अंग नहीं मानेगा, तब तक कोई भी सरकारी प्रयास पर्याप्त नहीं होगा। नदी-संरक्षण महज एक पर्यावरणीय मुद्दा नहीं, यह हमारी सांस्कृतिक और सामाजिक जिम्मेदारी है।  Q: गद्यांश के अनुसार नदियों की दुर्दशा के लिए निम्नलिखित में से कौन-से कारण उत्तरदायी बताए गए हैं?",
+          "q_hi": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़कर प्रश्नों के उत्तर दीजिए:  भारत की नदियाँ केवल जल का स्रोत नहीं हैं, वे इस देश की सांस्कृतिक चेतना की धुरी भी हैं। गंगा, यमुना, सरस्वती जैसी नदियों ने न केवल कृषि को संभव बनाया, बल्कि उनके तटों पर सभ्यताएँ पनपीं, दर्शन जन्मे और परंपराएँ गढ़ी गईं। किंतु आज जब हम विकास की दौड़ में अंधे होकर भाग रहे हैं, तब इन्हीं नदियों का अस्तित्व संकट में है। औद्योगिक कचरा, नगरीय मलजल और अवैध रेत खनन ने नदियों की काया को क्षत-विक्षत कर दिया है। नदियाँ जो कभी अमृत वितरित करती थीं, आज विषाक्त जलधाराओं में बदलती जा रही हैं। सरकारें योजनाएँ बनाती हैं, परियोजनाएँ आती-जाती हैं, पर धरातल पर परिणाम नगण्य रहते हैं। वास्तव में जब तक समाज की सामूहिक चेतना नहीं जागेगी और हर नागरिक नदी को जीवन का अंग नहीं मानेगा, तब तक कोई भी सरकारी प्रयास पर्याप्त नहीं होगा। नदी-संरक्षण महज एक पर्यावरणीय मुद्दा नहीं, यह हमारी सांस्कृतिक और सामाजिक जिम्मेदारी है।  प्रश्न: गद्यांश के अनुसार नदियों की दुर्दशा के लिए निम्नलिखित में से कौन-से कारण उत्तरदायी बताए गए हैं?",
+          "opts": [
+            "औद्योगिक कचरा, मलजल और अवैध रेत खनन",
+            "कृषि-अपशिष्ट और वनकटान",
+            "जनसंख्या वृद्धि और सूखा",
+            "सरकारी परियोजनाओं की अधिकता"
+          ],
+          "opts_hi": [
+            "औद्योगिक कचरा, मलजल और अवैध रेत खनन",
+            "कृषि-अपशिष्ट और वनकटान",
+            "जनसंख्या वृद्धि और सूखा",
+            "सरकारी परियोजनाओं की अधिकता"
+          ],
+          "ans": 0,
+          "subject": "Analysis of Hindi Unread Passage (2 Passages)"
+        },
+        {
+          "q": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़कर पूछे गए प्रश्नों के उत्तर दीजिए:  भारतीय कृषि सदियों से देश की अर्थव्यवस्था की रीढ़ रही है, किंतु आज यह क्षेत्र अनेक गंभीर चुनौतियों से जूझ रहा है। मानसून की अनिश्चितता, घटती भूजल सतह, और बढ़ती उत्पादन लागत ने किसानों की स्थिति को अत्यंत दयनीय बना दिया है। छोटे और सीमांत किसान, जो कुल कृषक जनसंख्या का अधिकांश भाग हैं, आधुनिक तकनीक और संसाधनों से वंचित रहते हैं। सरकारी योजनाएँ प्रायः उन्हीं किसानों तक पहुँचती हैं जो पहले से सक्षम हैं, जबकि वास्तविक जरूरतमंद किसान इनसे अनभिज्ञ रहते हैं या जटिल प्रशासनिक प्रक्रियाओं के कारण लाभ नहीं उठा पाते। भूमि सुधार अधूरे रह गए हैं और ऋण का बोझ पीढ़ी-दर-पीढ़ी बढ़ता जा रहा है। इस संकट का स्थायी समाधान न तो केवल अनुदान में है और न ही केवल आधुनिकीकरण में — इसके लिए एक समग्र नीतिगत दृष्टि चाहिए जो किसान को उत्पादक से उद्यमी बनाए तथा उसे बाज़ार, तकनीक और न्याय — तीनों तक समान पहुँच दिलाए।  Q: उपर्युक्त गद्यांश का सर्वाधिक उपयुक्त शीर्षक क्या होगा?",
+          "q_hi": "",
+          "opts": [
+            "भारत में मानसून की समस्या",
+            "भारतीय कृषि: संकट और समग्र समाधान की आवश्यकता",
+            "सरकारी योजनाओं की विफलता",
+            "किसानों का आधुनिकीकरण"
+          ],
+          "opts_hi": [
+            "भारत में मानसून की समस्या",
+            "भारतीय कृषि: संकट और समग्र समाधान की आवश्यकता",
+            "सरकारी योजनाओं की विफलता",
+            "किसानों का आधुनिकीकरण"
+          ],
+          "ans": 1,
+          "subject": "Analysis of Hindi Unread Passage (2 Passages)"
+        },
+        {
+          "q": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़कर पूछे गए प्रश्नों के उत्तर दीजिए:  भारतीय कृषि सदियों से देश की अर्थव्यवस्था की रीढ़ रही है, किंतु आज यह क्षेत्र अनेक गंभीर चुनौतियों से जूझ रहा है। मानसून की अनिश्चितता, घटती भूजल सतह, और बढ़ती उत्पादन लागत ने किसानों की स्थिति को अत्यंत दयनीय बना दिया है। छोटे और सीमांत किसान, जो कुल कृषक जनसंख्या का अधिकांश भाग हैं, आधुनिक तकनीक और संसाधनों से वंचित रहते हैं। सरकारी योजनाएँ प्रायः उन्हीं किसानों तक पहुँचती हैं जो पहले से सक्षम हैं, जबकि वास्तविक जरूरतमंद किसान इनसे अनभिज्ञ रहते हैं या जटिल प्रशासनिक प्रक्रियाओं के कारण लाभ नहीं उठा पाते। भूमि सुधार अधूरे रह गए हैं और ऋण का बोझ पीढ़ी-दर-पीढ़ी बढ़ता जा रहा है। इस संकट का स्थायी समाधान न तो केवल अनुदान में है और न ही केवल आधुनिकीकरण में — इसके लिए एक समग्र नीतिगत दृष्टि चाहिए जो किसान को उत्पादक से उद्यमी बनाए तथा उसे बाज़ार, तकनीक और न्याय — तीनों तक समान पहुँच दिलाए।  Q: गद्यांश के अनुसार, जरूरतमंद किसान सरकारी योजनाओं का लाभ क्यों नहीं उठा पाते?",
+          "q_hi": "",
+          "opts": [
+            "वे खेती छोड़ चुके हैं",
+            "वे शहरों में रहते हैं",
+            "योजनाओं से अनभिज्ञता और जटिल प्रशासनिक प्रक्रियाएँ",
+            "उनके पास पर्याप्त भूमि नहीं है"
+          ],
+          "opts_hi": [
+            "वे खेती छोड़ चुके हैं",
+            "वे शहरों में रहते हैं",
+            "योजनाओं से अनभिज्ञता और जटिल प्रशासनिक प्रक्रियाएँ",
+            "उनके पास पर्याप्त भूमि नहीं है"
+          ],
+          "ans": 2,
+          "subject": "Analysis of Hindi Unread Passage (2 Passages)"
+        },
+        {
+          "q": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़कर पूछे गए प्रश्नों के उत्तर दीजिए:  भारतीय कृषि सदियों से देश की अर्थव्यवस्था की रीढ़ रही है, किंतु आज यह क्षेत्र अनेक गंभीर चुनौतियों से जूझ रहा है। मानसून की अनिश्चितता, घटती भूजल सतह, और बढ़ती उत्पादन लागत ने किसानों की स्थिति को अत्यंत दयनीय बना दिया है। छोटे और सीमांत किसान, जो कुल कृषक जनसंख्या का अधिकांश भाग हैं, आधुनिक तकनीक और संसाधनों से वंचित रहते हैं। सरकारी योजनाएँ प्रायः उन्हीं किसानों तक पहुँचती हैं जो पहले से सक्षम हैं, जबकि वास्तविक जरूरतमंद किसान इनसे अनभिज्ञ रहते हैं या जटिल प्रशासनिक प्रक्रियाओं के कारण लाभ नहीं उठा पाते। भूमि सुधार अधूरे रह गए हैं और ऋण का बोझ पीढ़ी-दर-पीढ़ी बढ़ता जा रहा है। इस संकट का स्थायी समाधान न तो केवल अनुदान में है और न ही केवल आधुनिकीकरण में — इसके लिए एक समग्र नीतिगत दृष्टि चाहिए जो किसान को उत्पादक से उद्यमी बनाए तथा उसे बाज़ार, तकनीक और न्याय — तीनों तक समान पहुँच दिलाए।  Q: गद्यांश से यह निष्कर्ष निकाला जा सकता है कि —",
+          "q_hi": "",
+          "opts": [
+            "कृषि क्षेत्र में केवल प्राकृतिक आपदाएँ ही समस्या हैं",
+            "वर्तमान नीतियाँ कृषि संकट का पूर्ण समाधान नहीं कर पा रही हैं",
+            "भारतीय किसान आधुनिक तकनीक अपनाना नहीं चाहते",
+            "ऋण माफी कृषि संकट का एकमात्र उपाय है"
+          ],
+          "opts_hi": [
+            "कृषि क्षेत्र में केवल प्राकृतिक आपदाएँ ही समस्या हैं",
+            "वर्तमान नीतियाँ कृषि संकट का पूर्ण समाधान नहीं कर पा रही हैं",
+            "भारतीय किसान आधुनिक तकनीक अपनाना नहीं चाहते",
+            "ऋण माफी कृषि संकट का एकमात्र उपाय है"
+          ],
+          "ans": 1,
+          "subject": "Analysis of Hindi Unread Passage (2 Passages)"
+        },
+        {
+          "q": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़कर पूछे गए प्रश्नों के उत्तर दीजिए:  भारतीय कृषि सदियों से देश की अर्थव्यवस्था की रीढ़ रही है, किंतु आज यह क्षेत्र अनेक गंभीर चुनौतियों से जूझ रहा है। मानसून की अनिश्चितता, घटती भूजल सतह, और बढ़ती उत्पादन लागत ने किसानों की स्थिति को अत्यंत दयनीय बना दिया है। छोटे और सीमांत किसान, जो कुल कृषक जनसंख्या का अधिकांश भाग हैं, आधुनिक तकनीक और संसाधनों से वंचित रहते हैं। सरकारी योजनाएँ प्रायः उन्हीं किसानों तक पहुँचती हैं जो पहले से सक्षम हैं, जबकि वास्तविक जरूरतमंद किसान इनसे अनभिज्ञ रहते हैं या जटिल प्रशासनिक प्रक्रियाओं के कारण लाभ नहीं उठा पाते। भूमि सुधार अधूरे रह गए हैं और ऋण का बोझ पीढ़ी-दर-पीढ़ी बढ़ता जा रहा है। इस संकट का स्थायी समाधान न तो केवल अनुदान में है और न ही केवल आधुनिकीकरण में — इसके लिए एक समग्र नीतिगत दृष्टि चाहिए जो किसान को उत्पादक से उद्यमी बनाए तथा उसे बाज़ार, तकनीक और न्याय — तीनों तक समान पहुँच दिलाए।  Q: गद्यांश में 'अनभिज्ञ' शब्द का सर्वाधिक उपयुक्त अर्थ है —",
+          "q_hi": "",
+          "opts": [
+            "भली-भाँति परिचित",
+            "जानकारी न रखने वाला",
+            "जानबूझकर उपेक्षा करने वाला",
+            "विद्वान एवं जागरूक"
+          ],
+          "opts_hi": [
+            "भली-भाँति परिचित",
+            "जानकारी न रखने वाला",
+            "जानबूझकर उपेक्षा करने वाला",
+            "विद्वान एवं जागरूक"
+          ],
+          "ans": 1,
+          "subject": "Analysis of Hindi Unread Passage (2 Passages)"
+        },
+        {
+          "q": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़कर पूछे गए प्रश्नों के उत्तर दीजिए:  भारतीय कृषि सदियों से देश की अर्थव्यवस्था की रीढ़ रही है, किंतु आज यह क्षेत्र अनेक गंभीर चुनौतियों से जूझ रहा है। मानसून की अनिश्चितता, घटती भूजल सतह, और बढ़ती उत्पादन लागत ने किसानों की स्थिति को अत्यंत दयनीय बना दिया है। छोटे और सीमांत किसान, जो कुल कृषक जनसंख्या का अधिकांश भाग हैं, आधुनिक तकनीक और संसाधनों से वंचित रहते हैं। सरकारी योजनाएँ प्रायः उन्हीं किसानों तक पहुँचती हैं जो पहले से सक्षम हैं, जबकि वास्तविक जरूरतमंद किसान इनसे अनभिज्ञ रहते हैं या जटिल प्रशासनिक प्रक्रियाओं के कारण लाभ नहीं उठा पाते। भूमि सुधार अधूरे रह गए हैं और ऋण का बोझ पीढ़ी-दर-पीढ़ी बढ़ता जा रहा है। इस संकट का स्थायी समाधान न तो केवल अनुदान में है और न ही केवल आधुनिकीकरण में — इसके लिए एक समग्र नीतिगत दृष्टि चाहिए जो किसान को उत्पादक से उद्यमी बनाए तथा उसे बाज़ार, तकनीक और न्याय — तीनों तक समान पहुँच दिलाए।  Q: इस गद्यांश में लेखक का स्वर (tone) कैसा है?",
+          "q_hi": "",
+          "opts": [
+            "व्यंग्यात्मक एवं उपहासपूर्ण",
+            "उदासीन एवं तटस्थ",
+            "चिंतनशील एवं सुधारवादी",
+            "उत्साहपूर्ण एवं प्रशंसात्मक"
+          ],
+          "opts_hi": [
+            "व्यंग्यात्मक एवं उपहासपूर्ण",
+            "उदासीन एवं तटस्थ",
+            "चिंतनशील एवं सुधारवादी",
+            "उत्साहपूर्ण एवं प्रशंसात्मक"
+          ],
+          "ans": 2,
+          "subject": "Analysis of Hindi Unread Passage (2 Passages)"
+        },
+        {
+          "q": "The following line graph shows the ratio of Physics marks to Chemistry marks for 7 students: Student 1: 0.75, Student 2: 1.25, Student 3: 0.55, Student 4: 1.40, Student 5: 0.90, Student 6: 1.55, Student 7: 0.65  Q: How many students got more marks in Physics than in Chemistry?",
+          "q_hi": "निम्नलिखित रेखा-ग्राफ 7 छात्रों के भौतिकी अंकों और रसायन विज्ञान अंकों का अनुपात दर्शाता है: छात्र 1: 0.75, छात्र 2: 1.25, छात्र 3: 0.55, छात्र 4: 1.40, छात्र 5: 0.90, छात्र 6: 1.55, छात्र 7: 0.65  प्र: कितने छात्रों को रसायन विज्ञान की तुलना में भौतिकी में अधिक अंक प्राप्त हुए?",
+          "opts": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "opts_hi": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "ans": 1,
+          "subject": "Graph Interpretation (2 Graphs)"
+        },
+        {
+          "q": "The following line graph shows the ratio of Physics marks to Chemistry marks for 7 students: Student 1: 0.75, Student 2: 1.25, Student 3: 0.55, Student 4: 1.40, Student 5: 0.90, Student 6: 1.55, Student 7: 0.65  Q: Which of the following groups of students got less marks in Physics than in Chemistry?",
+          "q_hi": "निम्नलिखित रेखा-ग्राफ 7 छात्रों के भौतिकी अंकों और रसायन विज्ञान अंकों का अनुपात दर्शाता है: छात्र 1: 0.75, छात्र 2: 1.25, छात्र 3: 0.55, छात्र 4: 1.40, छात्र 5: 0.90, छात्र 6: 1.55, छात्र 7: 0.65  प्र: निम्नलिखित में से किस समूह के छात्रों को रसायन विज्ञान की तुलना में भौतिकी में कम अंक प्राप्त हुए?",
+          "opts": [
+            "Students 1, 3, 5, 7",
+            "Students 1, 2, 5, 7",
+            "Students 2, 4, 6",
+            "Students 1, 3, 4, 7"
+          ],
+          "opts_hi": [
+            "छात्र 1, 3, 5, 7",
+            "छात्र 1, 2, 5, 7",
+            "छात्र 2, 4, 6",
+            "छात्र 1, 3, 4, 7"
+          ],
+          "ans": 0,
+          "subject": "Graph Interpretation (2 Graphs)"
+        },
+        {
+          "q": "The following line graph shows the ratio of Physics marks to Chemistry marks for 7 students: Student 1: 0.75, Student 2: 1.25, Student 3: 0.55, Student 4: 1.40, Student 5: 0.90, Student 6: 1.55, Student 7: 0.65  Q: The percentage increase of marks in Chemistry from Student 3 to Student 5 is —",
+          "q_hi": "निम्नलिखित रेखा-ग्राफ 7 छात्रों के भौतिकी अंकों और रसायन विज्ञान अंकों का अनुपात दर्शाता है: छात्र 1: 0.75, छात्र 2: 1.25, छात्र 3: 0.55, छात्र 4: 1.40, छात्र 5: 0.90, छात्र 6: 1.55, छात्र 7: 0.65  प्र: छात्र 3 से छात्र 5 तक रसायन विज्ञान के अंकों में प्रतिशत वृद्धि है —",
+          "opts": [
+            "63.60%",
+            "45%",
+            "Insufficient data",
+            "38.50%"
+          ],
+          "opts_hi": [
+            "63.60%",
+            "45%",
+            "अपर्याप्त आँकड़े",
+            "38.50%"
+          ],
+          "ans": 2,
+          "subject": "Graph Interpretation (2 Graphs)"
+        },
+        {
+          "q": "The following line graph shows the ratio of Physics marks to Chemistry marks for 7 students: Student 1: 0.75, Student 2: 1.25, Student 3: 0.55, Student 4: 1.40, Student 5: 0.90, Student 6: 1.55, Student 7: 0.65  Q: The difference between the maximum ratio and the minimum ratio is —",
+          "q_hi": "निम्नलिखित रेखा-ग्राफ 7 छात्रों के भौतिकी अंकों और रसायन विज्ञान अंकों का अनुपात दर्शाता है: छात्र 1: 0.75, छात्र 2: 1.25, छात्र 3: 0.55, छात्र 4: 1.40, छात्र 5: 0.90, छात्र 6: 1.55, छात्र 7: 0.65  प्र: अधिकतम अनुपात और न्यूनतम अनुपात का अंतर है —",
+          "opts": [
+            "0.9",
+            "1",
+            "1.1",
+            "0.8"
+          ],
+          "opts_hi": [
+            "0.9",
+            "1",
+            "1.1",
+            "0.8"
+          ],
+          "ans": 1,
+          "subject": "Graph Interpretation (2 Graphs)"
+        },
+        {
+          "q": "The following line graph shows the ratio of Physics marks to Chemistry marks for 7 students: Student 1: 0.75, Student 2: 1.25, Student 3: 0.55, Student 4: 1.40, Student 5: 0.90, Student 6: 1.55, Student 7: 0.65  Q: Student 4 scored 80 marks in Chemistry. How many marks did Student 4 score in Physics?",
+          "q_hi": "निम्नलिखित रेखा-ग्राफ 7 छात्रों के भौतिकी अंकों और रसायन विज्ञान अंकों का अनुपात दर्शाता है: छात्र 1: 0.75, छात्र 2: 1.25, छात्र 3: 0.55, छात्र 4: 1.40, छात्र 5: 0.90, छात्र 6: 1.55, छात्र 7: 0.65  प्र: छात्र 4 ने रसायन विज्ञान में 80 अंक प्राप्त किए। छात्र 4 ने भौतिकी में कितने अंक प्राप्त किए?",
+          "opts": [
+            "100",
+            "108",
+            "112",
+            "116"
+          ],
+          "opts_hi": [
+            "100",
+            "108",
+            "112",
+            "116"
+          ],
+          "ans": 2,
+          "subject": "Graph Interpretation (2 Graphs)"
+        },
+        {
+          "q": "The following line graph shows the ratio of marks obtained in Physics to marks obtained in Chemistry for 7 students (S1 to S7): S1: 0.75, S2: 1.20, S3: 0.55, S4: 1.45, S5: 0.90, S6: 1.35, S7: 1.10. Q: How many students got more marks in Physics than in Chemistry?",
+          "q_hi": "निम्नलिखित रेखा आरेख 7 छात्रों (S1 से S7) के लिए भौतिकी में प्राप्त अंकों का रसायन विज्ञान में प्राप्त अंकों से अनुपात दर्शाता है: S1: 0.75, S2: 1.20, S3: 0.55, S4: 1.45, S5: 0.90, S6: 1.35, S7: 1.10. प्रश्न: कितने छात्रों ने रसायन विज्ञान की तुलना में भौतिकी में अधिक अंक प्राप्त किए?",
+          "opts": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "opts_hi": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "ans": 2,
+          "subject": "Graph Interpretation (2 Graphs)"
+        },
+        {
+          "q": "The following line graph shows the ratio of marks obtained in Physics to marks obtained in Chemistry for 7 students (S1 to S7): S1: 0.75, S2: 1.20, S3: 0.55, S4: 1.45, S5: 0.90, S6: 1.35, S7: 1.10. Q: Which of the following groups of students got less marks in Physics than in Chemistry?",
+          "q_hi": "निम्नलिखित रेखा आरेख 7 छात्रों (S1 से S7) के लिए भौतिकी में प्राप्त अंकों का रसायन विज्ञान में प्राप्त अंकों से अनुपात दर्शाता है: S1: 0.75, S2: 1.20, S3: 0.55, S4: 1.45, S5: 0.90, S6: 1.35, S7: 1.10. प्रश्न: निम्नलिखित में से किस छात्र-समूह ने रसायन विज्ञान की तुलना में भौतिकी में कम अंक प्राप्त किए?",
+          "opts": [
+            "S1, S3, S5",
+            "S1, S2, S5",
+            "S2, S4, S6",
+            "S3, S5, S7"
+          ],
+          "opts_hi": [
+            "S1, S3, S5",
+            "S1, S2, S5",
+            "S2, S4, S6",
+            "S3, S5, S7"
+          ],
+          "ans": 0,
+          "subject": "Graph Interpretation (2 Graphs)"
+        },
+        {
+          "q": "The following line graph shows the ratio of marks obtained in Physics to marks obtained in Chemistry for 7 students (S1 to S7): S1: 0.75, S2: 1.20, S3: 0.55, S4: 1.45, S5: 0.90, S6: 1.35, S7: 1.10. Q: What is the percentage increase in Chemistry marks from student S3 to student S6?",
+          "q_hi": "निम्नलिखित रेखा आरेख 7 छात्रों (S1 से S7) के लिए भौतिकी में प्राप्त अंकों का रसायन विज्ञान में प्राप्त अंकों से अनुपात दर्शाता है: S1: 0.75, S2: 1.20, S3: 0.55, S4: 1.45, S5: 0.90, S6: 1.35, S7: 1.10. प्रश्न: छात्र S3 से छात्र S6 तक रसायन विज्ञान के अंकों में कितने प्रतिशत की वृद्धि हुई?",
+          "opts": [
+            "145.45%",
+            "80%",
+            "Insufficient data",
+            "245.45%"
+          ],
+          "opts_hi": [
+            "145.45%",
+            "80%",
+            "अपर्याप्त डेटा",
+            "245.45%"
+          ],
+          "ans": 2,
+          "subject": "Graph Interpretation (2 Graphs)"
+        },
+        {
+          "q": "The following line graph shows the ratio of marks obtained in Physics to marks obtained in Chemistry for 7 students (S1 to S7): S1: 0.75, S2: 1.20, S3: 0.55, S4: 1.45, S5: 0.90, S6: 1.35, S7: 1.10. Q: What is the difference between the maximum ratio and the minimum ratio?",
+          "q_hi": "निम्नलिखित रेखा आरेख 7 छात्रों (S1 से S7) के लिए भौतिकी में प्राप्त अंकों का रसायन विज्ञान में प्राप्त अंकों से अनुपात दर्शाता है: S1: 0.75, S2: 1.20, S3: 0.55, S4: 1.45, S5: 0.90, S6: 1.35, S7: 1.10. प्रश्न: अधिकतम अनुपात और न्यूनतम अनुपात के बीच का अंतर क्या है?",
+          "opts": [
+            "0.8",
+            "0.9",
+            "0.95",
+            "1"
+          ],
+          "opts_hi": [
+            "0.8",
+            "0.9",
+            "0.95",
+            "1"
+          ],
+          "ans": 1,
+          "subject": "Graph Interpretation (2 Graphs)"
+        },
+        {
+          "q": "The following line graph shows the ratio of marks obtained in Physics to marks obtained in Chemistry for 7 students (S1 to S7): S1: 0.75, S2: 1.20, S3: 0.55, S4: 1.45, S5: 0.90, S6: 1.35, S7: 1.10. Q: Student S4 obtained 80 marks in Chemistry. What are their marks in Physics?",
+          "q_hi": "निम्नलिखित रेखा आरेख 7 छात्रों (S1 से S7) के लिए भौतिकी में प्राप्त अंकों का रसायन विज्ञान में प्राप्त अंकों से अनुपात दर्शाता है: S1: 0.75, S2: 1.20, S3: 0.55, S4: 1.45, S5: 0.90, S6: 1.35, S7: 1.10. प्रश्न: छात्र S4 ने रसायन विज्ञान में 80 अंक प्राप्त किए। उनके भौतिकी के अंक कितने हैं?",
+          "opts": [
+            "100",
+            "108",
+            "112",
+            "116"
+          ],
+          "opts_hi": [
+            "100",
+            "108",
+            "112",
+            "116"
+          ],
+          "ans": 3,
+          "subject": "Graph Interpretation (2 Graphs)"
+        },
+        {
+          "q": "Agent | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 A | 27350 | 28500 | 25200 | 29800 | 24600 | 27000 B | 21400 | 23600 | 26800 | 22500 | 25300 | 28100 C | 30200 | 28700 | 31500 | 29400 | 32800 | 30600 D | 18500 | 21300 | 19800 | 23100 | 20400 | 22700 E | 24600 | 25400 | 27300 | 26200 | 28900 | 25800 Total | 122050 | 127500 | 130600 | 131000 | 132000 | 134200  Q: The table above shows the commission earned (in ₹) by five sales agents A–E over the years 2016 to 2021. In which year did Agent B's commission show the highest increase over the commission earned in the immediately preceding year?",
+          "q_hi": "एजेंट | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 A | 27350 | 28500 | 25200 | 29800 | 24600 | 27000 B | 21400 | 23600 | 26800 | 22500 | 25300 | 28100 C | 30200 | 28700 | 31500 | 29400 | 32800 | 30600 D | 18500 | 21300 | 19800 | 23100 | 20400 | 22700 E | 24600 | 25400 | 27300 | 26200 | 28900 | 25800 कुल | 122050 | 127500 | 130600 | 131000 | 132000 | 134200  प्र: उपरोक्त तालिका में पाँच सेल्स एजेंट A–E द्वारा वर्ष 2016 से 2021 तक अर्जित कमीशन (₹ में) दर्शाया गया है। किस वर्ष में एजेंट B का कमीशन अपने तत्काल पूर्ववर्ती वर्ष की तुलना में सर्वाधिक वृद्धि दर्शाता है?",
+          "opts": [
+            "2017",
+            "2018",
+            "2020",
+            "2021"
+          ],
+          "opts_hi": [
+            "2017",
+            "2018",
+            "2020",
+            "2021"
+          ],
+          "ans": 1,
+          "subject": "Table Interpretation & Analysis (2 Tables)"
+        },
+        {
+          "q": "Agent | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 A | 27350 | 28500 | 25200 | 29800 | 24600 | 27000 B | 21400 | 23600 | 26800 | 22500 | 25300 | 28100 C | 30200 | 28700 | 31500 | 29400 | 32800 | 30600 D | 18500 | 21300 | 19800 | 23100 | 20400 | 22700 E | 24600 | 25400 | 27300 | 26200 | 28900 | 25800 Total | 122050 | 127500 | 130600 | 131000 | 132000 | 134200  Q: The table above shows the commission earned (in ₹) by five sales agents A–E over the years 2016 to 2021. In the year 2019, Agent C's commission was approximately what percent of the total commission earned by all agents in that year?",
+          "q_hi": "एजेंट | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 A | 27350 | 28500 | 25200 | 29800 | 24600 | 27000 B | 21400 | 23600 | 26800 | 22500 | 25300 | 28100 C | 30200 | 28700 | 31500 | 29400 | 32800 | 30600 D | 18500 | 21300 | 19800 | 23100 | 20400 | 22700 E | 24600 | 25400 | 27300 | 26200 | 28900 | 25800 कुल | 122050 | 127500 | 130600 | 131000 | 132000 | 134200  प्र: उपरोक्त तालिका में पाँच सेल्स एजेंट A–E द्वारा वर्ष 2016 से 2021 तक अर्जित कमीशन (₹ में) दर्शाया गया है। वर्ष 2019 में, एजेंट C का कमीशन उस वर्ष के सभी एजेंटों के कुल कमीशन का लगभग कितने प्रतिशत था?",
+          "opts": [
+            "20.18%",
+            "22.44%",
+            "24.31%",
+            "25.76%"
+          ],
+          "opts_hi": [
+            "20.18%",
+            "22.44%",
+            "24.31%",
+            "25.76%"
+          ],
+          "ans": 1,
+          "subject": "Table Interpretation & Analysis (2 Tables)"
+        },
+        {
+          "q": "Agent | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 A | 27350 | 28500 | 25200 | 29800 | 24600 | 27000 B | 21400 | 23600 | 26800 | 22500 | 25300 | 28100 C | 30200 | 28700 | 31500 | 29400 | 32800 | 30600 D | 18500 | 21300 | 19800 | 23100 | 20400 | 22700 E | 24600 | 25400 | 27300 | 26200 | 28900 | 25800 Total | 122050 | 127500 | 130600 | 131000 | 132000 | 134200  Q: The table above shows the commission earned (in ₹) by five sales agents A–E over the years 2016 to 2021. Which agent's commission in 2021 shows the highest increase over that agent's commission in 2016?",
+          "q_hi": "एजेंट | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 A | 27350 | 28500 | 25200 | 29800 | 24600 | 27000 B | 21400 | 23600 | 26800 | 22500 | 25300 | 28100 C | 30200 | 28700 | 31500 | 29400 | 32800 | 30600 D | 18500 | 21300 | 19800 | 23100 | 20400 | 22700 E | 24600 | 25400 | 27300 | 26200 | 28900 | 25800 कुल | 122050 | 127500 | 130600 | 131000 | 132000 | 134200  प्र: उपरोक्त तालिका में पाँच सेल्स एजेंट A–E द्वारा वर्ष 2016 से 2021 तक अर्जित कमीशन (₹ में) दर्शाया गया है। किस एजेंट का वर्ष 2021 का कमीशन, वर्ष 2016 के उसी एजेंट के कमीशन की तुलना में सर्वाधिक वृद्धि दर्शाता है?",
+          "opts": [
+            "Agent A",
+            "Agent C",
+            "Agent D",
+            "Agent B"
+          ],
+          "opts_hi": [
+            "एजेंट A",
+            "एजेंट C",
+            "एजेंट D",
+            "एजेंट B"
+          ],
+          "ans": 3,
+          "subject": "Table Interpretation & Analysis (2 Tables)"
+        },
+        {
+          "q": "Agent | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 A | 27350 | 28500 | 25200 | 29800 | 24600 | 27000 B | 21400 | 23600 | 26800 | 22500 | 25300 | 28100 C | 30200 | 28700 | 31500 | 29400 | 32800 | 30600 D | 18500 | 21300 | 19800 | 23100 | 20400 | 22700 E | 24600 | 25400 | 27300 | 26200 | 28900 | 25800 Total | 122050 | 127500 | 130600 | 131000 | 132000 | 134200  Q: The table above shows the commission earned (in ₹) by five sales agents A–E over the years 2016 to 2021. In which year was the difference between the highest and the lowest commission earned (among all five agents) the maximum?",
+          "q_hi": "एजेंट | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 A | 27350 | 28500 | 25200 | 29800 | 24600 | 27000 B | 21400 | 23600 | 26800 | 22500 | 25300 | 28100 C | 30200 | 28700 | 31500 | 29400 | 32800 | 30600 D | 18500 | 21300 | 19800 | 23100 | 20400 | 22700 E | 24600 | 25400 | 27300 | 26200 | 28900 | 25800 कुल | 122050 | 127500 | 130600 | 131000 | 132000 | 134200  प्र: उपरोक्त तालिका में पाँच सेल्स एजेंट A–E द्वारा वर्ष 2016 से 2021 तक अर्जित कमीशन (₹ में) दर्शाया गया है। किस वर्ष में सभी पाँच एजेंटों के बीच सर्वाधिक और न्यूनतम कमीशन का अंतर सबसे अधिक था?",
+          "opts": [
+            "2016",
+            "2018",
+            "2019",
+            "2020"
+          ],
+          "opts_hi": [
+            "2016",
+            "2018",
+            "2019",
+            "2020"
+          ],
+          "ans": 3,
+          "subject": "Table Interpretation & Analysis (2 Tables)"
+        },
+        {
+          "q": "Salesman | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 A | 24600 | 26400 | 23100 | 28500 | 25800 | 27600 B | 22800 | 21500 | 24300 | 23700 | 26100 | 25400 C | 28200 | 29600 | 31500 | 27800 | 30200 | 32400 D | 25500 | 27300 | 26800 | 29100 | 28600 | 30500 E | 20100 | 22600 | 21400 | 24200 | 23500 | 26800 Total | 121200 | 127400 | 127100 | 133300 | 134200 | 142700  Q: The table above shows the annual commission (in ₹) earned by five salesmen from 2017 to 2022. In which year did Salesman C's commission show the highest increase over the immediately preceding year?",
+          "q_hi": "विक्रेता | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 A | 24600 | 26400 | 23100 | 28500 | 25800 | 27600 B | 22800 | 21500 | 24300 | 23700 | 26100 | 25400 C | 28200 | 29600 | 31500 | 27800 | 30200 | 32400 D | 25500 | 27300 | 26800 | 29100 | 28600 | 30500 E | 20100 | 22600 | 21400 | 24200 | 23500 | 26800 कुल | 121200 | 127400 | 127100 | 133300 | 134200 | 142700  प्र: उपर्युक्त तालिका 2017 से 2022 तक पाँच विक्रेताओं की वार्षिक कमीशन (₹ में) दर्शाती है। किस वर्ष में विक्रेता C की कमीशन में पिछले वर्ष की तुलना में सर्वाधिक वृद्धि हुई?",
+          "opts": [
+            "2018",
+            "2019",
+            "2021",
+            "2022"
+          ],
+          "opts_hi": [
+            "2018",
+            "2019",
+            "2021",
+            "2022"
+          ],
+          "ans": 2,
+          "subject": "Table Interpretation & Analysis (2 Tables)"
+        },
+        {
+          "q": "Salesman | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 A | 24600 | 26400 | 23100 | 28500 | 25800 | 27600 B | 22800 | 21500 | 24300 | 23700 | 26100 | 25400 C | 28200 | 29600 | 31500 | 27800 | 30200 | 32400 D | 25500 | 27300 | 26800 | 29100 | 28600 | 30500 E | 20100 | 22600 | 21400 | 24200 | 23500 | 26800 Total | 121200 | 127400 | 127100 | 133300 | 134200 | 142700  Q: The table above shows the annual commission (in ₹) earned by five salesmen from 2017 to 2022. In 2019, Salesman B's commission was approximately what percent of the total commission of all salesmen that year?",
+          "q_hi": "विक्रेता | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 A | 24600 | 26400 | 23100 | 28500 | 25800 | 27600 B | 22800 | 21500 | 24300 | 23700 | 26100 | 25400 C | 28200 | 29600 | 31500 | 27800 | 30200 | 32400 D | 25500 | 27300 | 26800 | 29100 | 28600 | 30500 E | 20100 | 22600 | 21400 | 24200 | 23500 | 26800 कुल | 121200 | 127400 | 127100 | 133300 | 134200 | 142700  प्र: उपर्युक्त तालिका 2017 से 2022 तक पाँच विक्रेताओं की वार्षिक कमीशन (₹ में) दर्शाती है। वर्ष 2019 में विक्रेता B की कमीशन उस वर्ष के सभी विक्रेताओं की कुल कमीशन का लगभग कितना प्रतिशत थी?",
+          "opts": [
+            "17.85%",
+            "18.64%",
+            "19.12%",
+            "20.31%"
+          ],
+          "opts_hi": [
+            "17.85%",
+            "18.64%",
+            "19.12%",
+            "20.31%"
+          ],
+          "ans": 2,
+          "subject": "Table Interpretation & Analysis (2 Tables)"
+        },
+        {
+          "q": "Salesman | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 A | 24600 | 26400 | 23100 | 28500 | 25800 | 27600 B | 22800 | 21500 | 24300 | 23700 | 26100 | 25400 C | 28200 | 29600 | 31500 | 27800 | 30200 | 32400 D | 25500 | 27300 | 26800 | 29100 | 28600 | 30500 E | 20100 | 22600 | 21400 | 24200 | 23500 | 26800 Total | 121200 | 127400 | 127100 | 133300 | 134200 | 142700  Q: The table above shows the annual commission (in ₹) earned by five salesmen from 2017 to 2022. Which salesman's commission in 2022 showed the highest increase compared to their commission in 2017?",
+          "q_hi": "विक्रेता | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 A | 24600 | 26400 | 23100 | 28500 | 25800 | 27600 B | 22800 | 21500 | 24300 | 23700 | 26100 | 25400 C | 28200 | 29600 | 31500 | 27800 | 30200 | 32400 D | 25500 | 27300 | 26800 | 29100 | 28600 | 30500 E | 20100 | 22600 | 21400 | 24200 | 23500 | 26800 कुल | 121200 | 127400 | 127100 | 133300 | 134200 | 142700  प्र: उपर्युक्त तालिका 2017 से 2022 तक पाँच विक्रेताओं की वार्षिक कमीशन (₹ में) दर्शाती है। किस विक्रेता की कमीशन में वर्ष 2022 में वर्ष 2017 की तुलना में सर्वाधिक वृद्धि हुई?",
+          "opts": [
+            "Salesman B",
+            "Salesman C",
+            "Salesman D",
+            "Salesman E"
+          ],
+          "opts_hi": [
+            "विक्रेता B",
+            "विक्रेता C",
+            "विक्रेता D",
+            "विक्रेता E"
+          ],
+          "ans": 3,
+          "subject": "Table Interpretation & Analysis (2 Tables)"
+        },
+        {
+          "q": "Salesman | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 A | 24600 | 26400 | 23100 | 28500 | 25800 | 27600 B | 22800 | 21500 | 24300 | 23700 | 26100 | 25400 C | 28200 | 29600 | 31500 | 27800 | 30200 | 32400 D | 25500 | 27300 | 26800 | 29100 | 28600 | 30500 E | 20100 | 22600 | 21400 | 24200 | 23500 | 26800 Total | 121200 | 127400 | 127100 | 133300 | 134200 | 142700  Q: The table above shows the annual commission (in ₹) earned by five salesmen from 2017 to 2022. In which year was the difference between the highest and the lowest commission (among all five salesmen) the maximum?",
+          "q_hi": "विक्रेता | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 A | 24600 | 26400 | 23100 | 28500 | 25800 | 27600 B | 22800 | 21500 | 24300 | 23700 | 26100 | 25400 C | 28200 | 29600 | 31500 | 27800 | 30200 | 32400 D | 25500 | 27300 | 26800 | 29100 | 28600 | 30500 E | 20100 | 22600 | 21400 | 24200 | 23500 | 26800 कुल | 121200 | 127400 | 127100 | 133300 | 134200 | 142700  प्र: उपर्युक्त तालिका 2017 से 2022 तक पाँच विक्रेताओं की वार्षिक कमीशन (₹ में) दर्शाती है। किस वर्ष में सभी पाँच विक्रेताओं की कमीशन में से सर्वाधिक और सबसे कम का अंतर सबसे अधिक था?",
+          "opts": [
+            "2017",
+            "2018",
+            "2019",
+            "2022"
+          ],
+          "opts_hi": [
+            "2017",
+            "2018",
+            "2019",
+            "2022"
+          ],
+          "ans": 2,
+          "subject": "Table Interpretation & Analysis (2 Tables)"
+        },
+        {
+          "q": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़कर प्रश्नों के उत्तर दीजिए:  भारत की नदियाँ केवल जल का स्रोत नहीं हैं, वे इस देश की सांस्कृतिक चेतना की धुरी भी हैं। गंगा, यमुना, सरस्वती जैसी नदियों ने न केवल कृषि को संभव बनाया, बल्कि उनके तटों पर सभ्यताएँ पनपीं, दर्शन जन्मे और परंपराएँ गढ़ी गईं। किंतु आज जब हम विकास की दौड़ में अंधे होकर भाग रहे हैं, तब इन्हीं नदियों का अस्तित्व संकट में है। औद्योगिक कचरा, नगरीय मलजल और अवैध रेत खनन ने नदियों की काया को क्षत-विक्षत कर दिया है। नदियाँ जो कभी अमृत वितरित करती थीं, आज विषाक्त जलधाराओं में बदलती जा रही हैं। सरकारें योजनाएँ बनाती हैं, परियोजनाएँ आती-जाती हैं, पर धरातल पर परिणाम नगण्य रहते हैं। वास्तव में जब तक समाज की सामूहिक चेतना नहीं जागेगी और हर नागरिक नदी को जीवन का अंग नहीं मानेगा, तब तक कोई भी सरकारी प्रयास पर्याप्त नहीं होगा। नदी-संरक्षण महज एक पर्यावरणीय मुद्दा नहीं, यह हमारी सांस्कृतिक और सामाजिक जिम्मेदारी है।  Q: गद्यांश के अनुसार नदी-संरक्षण के संबंध में लेखक का मुख्य तर्क क्या है?",
+          "q_hi": "",
+          "opts": [
+            "यह केवल सरकार का दायित्व है",
+            "यह केवल एक पर्यावरणीय मुद्दा है",
+            "यह समाज की सांस्कृतिक और सामाजिक जिम्मेदारी भी है",
+            "नई सरकारी परियोजनाएँ ही इसके लिए पर्याप्त हैं"
+          ],
+          "opts_hi": [
+            "यह केवल सरकार का दायित्व है",
+            "यह केवल एक पर्यावरणीय मुद्दा है",
+            "यह समाज की सांस्कृतिक और सामाजिक जिम्मेदारी भी है",
+            "नई सरकारी परियोजनाएँ ही इसके लिए पर्याप्त हैं"
+          ],
+          "ans": 2,
+          "subject": "Analysis of Hindi Unread Passage (2 Passages)"
+        },
+        {
+          "q": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़कर प्रश्नों के उत्तर दीजिए:  भारत की नदियाँ केवल जल का स्रोत नहीं हैं, वे इस देश की सांस्कृतिक चेतना की धुरी भी हैं। गंगा, यमुना, सरस्वती जैसी नदियों ने न केवल कृषि को संभव बनाया, बल्कि उनके तटों पर सभ्यताएँ पनपीं, दर्शन जन्मे और परंपराएँ गढ़ी गईं। किंतु आज जब हम विकास की दौड़ में अंधे होकर भाग रहे हैं, तब इन्हीं नदियों का अस्तित्व संकट में है। औद्योगिक कचरा, नगरीय मलजल और अवैध रेत खनन ने नदियों की काया को क्षत-विक्षत कर दिया है। नदियाँ जो कभी अमृत वितरित करती थीं, आज विषाक्त जलधाराओं में बदलती जा रही हैं। सरकारें योजनाएँ बनाती हैं, परियोजनाएँ आती-जाती हैं, पर धरातल पर परिणाम नगण्य रहते हैं। वास्तव में जब तक समाज की सामूहिक चेतना नहीं जागेगी और हर नागरिक नदी को जीवन का अंग नहीं मानेगा, तब तक कोई भी सरकारी प्रयास पर्याप्त नहीं होगा। नदी-संरक्षण महज एक पर्यावरणीय मुद्दा नहीं, यह हमारी सांस्कृतिक और सामाजिक जिम्मेदारी है।  Q: गद्यांश में 'क्षत-विक्षत' शब्द का सर्वाधिक उपयुक्त अर्थ है —",
+          "q_hi": "",
+          "opts": [
+            "पूरी तरह सुरक्षित",
+            "घायल एवं बुरी तरह टूटा-फूटा",
+            "अत्यंत स्वच्छ",
+            "नवनिर्मित"
+          ],
+          "opts_hi": [
+            "पूरी तरह सुरक्षित",
+            "घायल एवं बुरी तरह टूटा-फूटा",
+            "अत्यंत स्वच्छ",
+            "नवनिर्मित"
+          ],
+          "ans": 1,
+          "subject": "Analysis of Hindi Unread Passage (2 Passages)"
+        },
+        {
+          "q": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़कर प्रश्नों के उत्तर दीजिए:  भारत की नदियाँ केवल जल का स्रोत नहीं हैं, वे इस देश की सांस्कृतिक चेतना की धुरी भी हैं। गंगा, यमुना, सरस्वती जैसी नदियों ने न केवल कृषि को संभव बनाया, बल्कि उनके तटों पर सभ्यताएँ पनपीं, दर्शन जन्मे और परंपराएँ गढ़ी गईं। किंतु आज जब हम विकास की दौड़ में अंधे होकर भाग रहे हैं, तब इन्हीं नदियों का अस्तित्व संकट में है। औद्योगिक कचरा, नगरीय मलजल और अवैध रेत खनन ने नदियों की काया को क्षत-विक्षत कर दिया है। नदियाँ जो कभी अमृत वितरित करती थीं, आज विषाक्त जलधाराओं में बदलती जा रही हैं। सरकारें योजनाएँ बनाती हैं, परियोजनाएँ आती-जाती हैं, पर धरातल पर परिणाम नगण्य रहते हैं। वास्तव में जब तक समाज की सामूहिक चेतना नहीं जागेगी और हर नागरिक नदी को जीवन का अंग नहीं मानेगा, तब तक कोई भी सरकारी प्रयास पर्याप्त नहीं होगा। नदी-संरक्षण महज एक पर्यावरणीय मुद्दा नहीं, यह हमारी सांस्कृतिक और सामाजिक जिम्मेदारी है।  Q: गद्यांश के अनुसार नदियों ने भारतीय सभ्यता को किस प्रकार प्रभावित किया?",
+          "q_hi": "",
+          "opts": [
+            "उन्होंने केवल सिंचाई की सुविधा उपलब्ध कराई",
+            "उन्होंने केवल व्यापार को बढ़ावा दिया",
+            "वे केवल धार्मिक आस्था का विषय रहीं",
+            "उन्होंने कृषि को संभव बनाया तथा उनके तटों पर सभ्यताएँ, दर्शन और परंपराएँ विकसित हुईं"
+          ],
+          "opts_hi": [
+            "उन्होंने केवल सिंचाई की सुविधा उपलब्ध कराई",
+            "उन्होंने केवल व्यापार को बढ़ावा दिया",
+            "वे केवल धार्मिक आस्था का विषय रहीं",
+            "उन्होंने कृषि को संभव बनाया तथा उनके तटों पर सभ्यताएँ, दर्शन और परंपराएँ विकसित हुईं"
+          ],
+          "ans": 3,
+          "subject": "Analysis of Hindi Unread Passage (2 Passages)"
+        },
+        {
+          "q": "A train 150 m long crosses a pole in 15 seconds. How much time will it take to cross a platform 250 m long at the same speed?",
+          "q_hi": "150 मीटर लंबी एक रेलगाड़ी एक खंभे को 15 सेकंड में पार करती है। समान चाल से 250 मीटर लंबे प्लेटफॉर्म को पार करने में उसे कितना समय लगेगा?",
+          "opts": [
+            "25 seconds",
+            "30 seconds",
+            "40 seconds",
+            "50 seconds"
+          ],
+          "opts_hi": [
+            "25 सेकंड",
+            "30 सेकंड",
+            "40 सेकंड",
+            "50 सेकंड"
+          ],
+          "ans": 2,
+          "subject": "Elementary Arithmetic"
+        }
+      ]
     }
   ]
 }
