@@ -20111,6 +20111,1834 @@
           "exp_en": "Candid means honest and straightforward, so Frank is the closest synonym. The shopkeeper spoke truthfully despite losing a sale, which fits Frank and not Polite, Hesitant or Clever."
         }
       ]
+    },
+    {
+      "id": "ssc_chsl_12",
+      "title": "SSC CHSL Full Mock Test 12 (Tier 1 Pattern)",
+      "duration": 60,
+      "difficulty": "Medium",
+      "correctMarks": 2,
+      "negativeMarks": 0.5,
+      "questions": [
+        {
+          "q": "Two different positions of the same dice are shown. Which number will be on the face opposite to the face showing 5?",
+          "opts": [
+            "1",
+            "3",
+            "4",
+            "2"
+          ],
+          "ans": 3,
+          "subject": "General Intelligence",
+          "q_hi": "एक ही पासे की दो अलग-अलग स्थितियाँ दी गई हैं। 5 वाले फलक के विपरीत फलक पर कौन-सी संख्या होगी?",
+          "opts_hi": [
+            "1",
+            "3",
+            "4",
+            "2"
+          ],
+          "exp_en": "Faces seen together in one view are adjacent, so they cannot be opposite to each other. Only 2 remains possible as the face opposite to 5.",
+          "exp_hi": "एक ही दृश्य में साथ दिखने वाले फलक आसन्न होते हैं, विपरीत नहीं। इसलिए 5 के विपरीत केवल 2 संभव है।",
+          "img": "/question-images/chsl/chsl12_dice_26_q.svg"
+        },
+        {
+          "q": "Select the correct mirror image of the given figure when the mirror is placed on the right side of the figure.",
+          "opts": [
+            "Figure (A)",
+            "Figure (B)",
+            "Figure (C)",
+            "Figure (D)"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence",
+          "q_hi": "दी गई आकृति का सही दर्पण प्रतिबिंब चुनिए, जब दर्पण को आकृति के दायीं तरफ रखा जाता है।",
+          "opts_hi": [
+            "आकृति (A)",
+            "आकृति (B)",
+            "आकृति (C)",
+            "आकृति (D)"
+          ],
+          "exp_en": "A mirror at the side reverses left and right: the order of parts is reversed and each part is flipped, while top and bottom stay unchanged.",
+          "exp_hi": "बगल में रखा दर्पण बायाँ-दायाँ उलट देता है: भागों का क्रम उलट जाता है और हर भाग पलटता है, ऊपर-नीचे वही रहता है।",
+          "img": "/question-images/chsl/chsl12_mirror_27_q.svg",
+          "opts_img": [
+            "/question-images/chsl/chsl12_mirror_27_opt_a.svg",
+            "/question-images/chsl/chsl12_mirror_27_opt_b.svg",
+            "/question-images/chsl/chsl12_mirror_27_opt_c.svg",
+            "/question-images/chsl/chsl12_mirror_27_opt_d.svg"
+          ]
+        },
+        {
+          "q": "Select the Venn diagram that best represents the relationship between the following classes: Pencil, Doctor, Cloud.",
+          "opts": [
+            "Figure (A)",
+            "Figure (B)",
+            "Figure (C)",
+            "Figure (D)"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence",
+          "q_hi": "उस वेन आरेख का चयन कीजिए जो निम्नलिखित वर्गों के बीच उचित संबंध को दर्शाता है: पेंसिल, डॉक्टर, बादल।",
+          "opts_hi": [
+            "आकृति (A)",
+            "आकृति (B)",
+            "आकृति (C)",
+            "आकृति (D)"
+          ],
+          "exp_en": "The three classes have nothing in common, so they are three separate circles.",
+          "exp_hi": "तीनों वर्गों में कोई समानता नहीं है, इसलिए तीन अलग-अलग वृत्त बनेंगे।",
+          "opts_img": [
+            "/question-images/chsl/chsl12_venn_28_opt_a.svg",
+            "/question-images/chsl/chsl12_venn_28_opt_b.svg",
+            "/question-images/chsl/chsl12_venn_28_opt_c.svg",
+            "/question-images/chsl/chsl12_venn_28_opt_d.svg"
+          ]
+        },
+        {
+          "q": "On a sports day, team codes are changed by a fixed rule, for example RUN is written as TTQ. Which of the following pairs does NOT follow the same rule?",
+          "opts": [
+            "HIT : JHX",
+            "JOG : LNJ",
+            "BAT : DZW",
+            "DIG : FHJ"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence",
+          "q_hi": "एक खेल दिवस पर टीम कोड एक निश्चित नियम से बदले जाते हैं, जैसे RUN को TTQ लिखा जाता है। निम्नलिखित में से कौन-सा युग्म उसी नियम का पालन नहीं करता है?",
+          "opts_hi": [
+            "HIT : JHX",
+            "JOG : LNJ",
+            "BAT : DZW",
+            "DIG : FHJ"
+          ],
+          "exp_en": "The rule is first letter +2, second letter -1, third letter +3 (R,U,N gives T,T,Q). HIT should become J,H,W, but the option gives X, so HIT : JHX breaks the rule. The other three pairs follow it.",
+          "exp_hi": "नियम है: पहला अक्षर +2, दूसरा अक्षर -1, तीसरा अक्षर +3 (R,U,N से T,T,Q)। HIT से J,H,W बनना चाहिए, लेकिन विकल्प में X है, इसलिए HIT : JHX नियम का पालन नहीं करता। शेष तीनों युग्म नियम का पालन करते हैं।"
+        },
+        {
+          "q": "A clerk at a post office counter reads out four terms. Three of them are physical items of mail that can be sent, and one is not. Which term is the EXCEPTION?",
+          "opts": [
+            "Aerogramme",
+            "Franking",
+            "Parcel",
+            "Postcard"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence",
+          "q_hi": "एक डाकघर के काउंटर पर एक क्लर्क चार शब्द पढ़ता है। इनमें से तीन डाक की भौतिक वस्तुएँ हैं जिन्हें भेजा जा सकता है, और एक नहीं है। कौन-सा शब्द अपवाद है?",
+          "opts_hi": [
+            "Aerogramme",
+            "Franking",
+            "Parcel",
+            "Postcard"
+          ],
+          "exp_en": "Aerogramme, postcard and parcel are physical items that are mailed. Franking is the process of imprinting postage on mail, not a mail item itself, so it is the odd one out.",
+          "exp_hi": "Aerogramme, postcard और parcel भेजी जाने वाली भौतिक डाक वस्तुएँ हैं। Franking डाक पर डाक-शुल्क की मुहर लगाने की प्रक्रिया है, स्वयं कोई डाक वस्तु नहीं, इसलिए यह विषम है।"
+        },
+        {
+          "q": "A grocer uses a scale to find the weight of rice. Scale : Weight. Which of the following pairs does NOT have the same relationship as this pair?",
+          "opts": [
+            "Thermometer : Temperature",
+            "Barometer : Pressure",
+            "Ladle : Soup",
+            "Odometer : Distance"
+          ],
+          "ans": 2,
+          "subject": "General Intelligence",
+          "q_hi": "एक दुकानदार चावल का भार ज्ञात करने के लिए तराजू (scale) का उपयोग करता है। Scale : Weight। निम्नलिखित में से किस युग्म का संबंध इस युग्म जैसा नहीं है?",
+          "opts_hi": [
+            "Thermometer : Temperature",
+            "Barometer : Pressure",
+            "Ladle : Soup",
+            "Odometer : Distance"
+          ],
+          "exp_en": "Scale : Weight is an instrument and the quantity it measures. Thermometer, barometer and odometer measure temperature, pressure and distance. A ladle only serves soup and does not measure it, so Ladle : Soup does not fit.",
+          "exp_hi": "Scale : Weight में उपकरण और उसके द्वारा मापी जाने वाली राशि का संबंध है। Thermometer, barometer और odometer क्रमशः तापमान, दाब और दूरी मापते हैं। Ladle केवल सूप परोसने के काम आता है, मापता नहीं, इसलिए Ladle : Soup मेल नहीं खाता।"
+        },
+        {
+          "q": "A vendor in a market writes these words on a board: 1. Barter 2. Bargain 3. Basket 4. Barrel. Which sequence shows them in correct dictionary order?",
+          "opts": [
+            "2, 4, 1, 3",
+            "2, 1, 4, 3",
+            "4, 2, 1, 3",
+            "2, 4, 3, 1"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence",
+          "q_hi": "बाज़ार में एक विक्रेता बोर्ड पर ये शब्द लिखता है: 1. Barter 2. Bargain 3. Basket 4. Barrel। कौन-सा क्रम इन्हें सही शब्दकोश क्रम में दर्शाता है?",
+          "opts_hi": [
+            "2, 4, 1, 3",
+            "2, 1, 4, 3",
+            "4, 2, 1, 3",
+            "2, 4, 3, 1"
+          ],
+          "exp_en": "All start with BA. Basket has S as the third letter, so it comes last (BAS after BAR). Among BARG, BARR, BART, the order is Bargain, Barrel, Barter. So the sequence is Bargain, Barrel, Barter, Basket, which is 2, 4, 1, 3.",
+          "exp_hi": "सभी शब्द BA से शुरू होते हैं। Basket का तीसरा अक्षर S है, इसलिए वह अंत में आएगा (BAR के बाद BAS)। BARG, BARR, BART में क्रम Bargain, Barrel, Barter है। अतः क्रम Bargain, Barrel, Barter, Basket अर्थात 2, 4, 1, 3 है।"
+        },
+        {
+          "q": "At a bus depot, driver Sohan's mother is the only sister of Meera's father, and Sohan's wife Reena is the daughter of Meera's mother's brother. How is Meera's mother's brother related to Sohan?",
+          "opts": [
+            "Paternal uncle",
+            "Maternal uncle",
+            "Father-in-law",
+            "Brother-in-law"
+          ],
+          "ans": 2,
+          "subject": "General Intelligence",
+          "q_hi": "एक बस डिपो में, ड्राइवर सोहन की माँ मीरा के पिता की इकलौती बहन है, और सोहन की पत्नी रीना मीरा की माँ के भाई की बेटी है। मीरा की माँ का भाई सोहन से किस प्रकार संबंधित है?",
+          "opts_hi": [
+            "चाचा",
+            "मामा",
+            "ससुर",
+            "साला/बहनोई (ब्रदर-इन-लॉ)"
+          ],
+          "exp_en": "Reena is Sohan's wife and is the daughter of Meera's mother's brother, so he is Reena's father. That makes him Sohan's father-in-law. He is not a blood relative of Sohan, since Sohan's blood link is only with Meera's father's side, which rules out maternal uncle and paternal uncle. Brother-in-law is also wrong because he is a generation above Sohan.",
+          "exp_hi": "रीना सोहन की पत्नी है और मीरा की माँ के भाई की बेटी है, इसलिए वह रीना का पिता है। अतः वह सोहन का ससुर है। वह सोहन का रक्त-संबंधी नहीं है, क्योंकि सोहन का रक्त-संबंध केवल मीरा के पिता के पक्ष से है, इसलिए मामा और चाचा गलत हैं। ब्रदर-इन-लॉ भी गलत है क्योंकि वह सोहन से एक पीढ़ी ऊपर है।"
+        },
+        {
+          "q": "At a village fair, a game stall uses these codes: # means ×, @ means +, $ means −, & means ÷. Using usual BODMAS rules, which of the following expressions does NOT have the value 12?",
+          "opts": [
+            "5 @ 7 # 2 $ 4",
+            "36 & 4 @ 3",
+            "6 # 4 $ 12",
+            "48 & 6 $ 4 @ 8"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence",
+          "q_hi": "एक गाँव के मेले में एक खेल की दुकान इन कूट-संकेतों का प्रयोग करती है: # का अर्थ ×, @ का अर्थ +, $ का अर्थ −, & का अर्थ ÷ है। सामान्य BODMAS नियमों के अनुसार, निम्नलिखित में से किस व्यंजक का मान 12 नहीं है?",
+          "opts_hi": [
+            "5 @ 7 # 2 $ 4",
+            "36 & 4 @ 3",
+            "6 # 4 $ 12",
+            "48 & 6 $ 4 @ 8"
+          ],
+          "exp_en": "Option 1: 6×4−12 = 24−12 = 12. Option 2: 36÷4+3 = 9+3 = 12. Option 3: 5+7×2−4 = 5+14−4 = 15. Option 4: 48÷6−4+8 = 8−4+8 = 12. So only option 3 does not equal 12.",
+          "exp_hi": "विकल्प 1: 6×4−12 = 24−12 = 12। विकल्प 2: 36÷4+3 = 9+3 = 12। विकल्प 3: 5+7×2−4 = 5+14−4 = 15। विकल्प 4: 48÷6−4+8 = 8−4+8 = 12। अतः केवल विकल्प 3 का मान 12 नहीं है।"
+        },
+        {
+          "q": "A farmer grows wheat and performs these tasks: 1. Winnowing 2. Sowing 3. Threshing 4. Ploughing 5. Harvesting 6. Storing. Which of the following shows the most logical order of these tasks from start to finish?",
+          "opts": [
+            "4, 2, 3, 5, 1, 6",
+            "4, 2, 5, 1, 3, 6",
+            "2, 4, 5, 3, 1, 6",
+            "4, 2, 5, 3, 1, 6"
+          ],
+          "ans": 3,
+          "subject": "General Intelligence",
+          "q_hi": "एक किसान गेहूँ उगाता है और ये कार्य करता है: 1. ओसाई (विनोइंग) 2. बुवाई 3. मड़ाई (थ्रेशिंग) 4. जुताई 5. कटाई 6. भंडारण। निम्नलिखित में से कौन-सा क्रम इन कार्यों का आरंभ से अंत तक सबसे तर्कसंगत क्रम दर्शाता है?",
+          "opts_hi": [
+            "4, 2, 3, 5, 1, 6",
+            "4, 2, 5, 1, 3, 6",
+            "2, 4, 5, 3, 1, 6",
+            "4, 2, 5, 3, 1, 6"
+          ],
+          "exp_en": "The field is first ploughed, then seeds are sown, and the ripe crop is harvested. The harvested crop is then threshed to separate the grain, the grain is winnowed to remove the husk, and finally it is stored. The order is 4, 2, 5, 3, 1, 6.",
+          "exp_hi": "पहले खेत की जुताई होती है, फिर बीज बोए जाते हैं और पकी फसल काटी जाती है। कटी फसल की मड़ाई करके दाना अलग किया जाता है, फिर ओसाई करके भूसी हटाई जाती है और अंत में अनाज का भंडारण होता है। अतः क्रम 4, 2, 5, 3, 1, 6 है।"
+        },
+        {
+          "q": "At a construction site, the loads on four cranes B, C, D and E are compared using these codes: A © B means A is greater than B; A ® B means A is less than B; A # B means A is greater than or equal to B; A $ B means A is less than or equal to B; A @ B means A is equal to B. Statements: B # C, C @ D, D ® E. Which one of the following conclusions definitely follows?",
+          "opts": [
+            "B © E",
+            "B ® D",
+            "E $ B",
+            "E © C"
+          ],
+          "ans": 3,
+          "subject": "General Intelligence",
+          "q_hi": "एक निर्माण स्थल पर चार क्रेनों B, C, D और E के भार की तुलना इन कूट-संकेतों से की जाती है: A © B का अर्थ है A, B से बड़ा है; A ® B का अर्थ है A, B से छोटा है; A # B का अर्थ है A, B से बड़ा या बराबर है; A $ B का अर्थ है A, B से छोटा या बराबर है; A @ B का अर्थ है A, B के बराबर है। कथन: B # C, C @ D, D ® E। निम्नलिखित में से कौन-सा निष्कर्ष निश्चित रूप से सत्य है?",
+          "opts_hi": [
+            "B © E",
+            "B ® D",
+            "E $ B",
+            "E © C"
+          ],
+          "exp_en": "Decoding the statements gives B ≥ C, C = D and D < E, so B ≥ C = D < E. Since C = D and D < E, we get E > C, which is E © C. The relation between B and E cannot be fixed, and B ≥ D rules out B < D.",
+          "exp_hi": "कथनों को खोलने पर B ≥ C, C = D और D < E मिलता है, अर्थात B ≥ C = D < E। चूँकि C = D और D < E, इसलिए E > C, यानी E © C। B और E का संबंध निश्चित नहीं है, और B ≥ D होने से B < D गलत है।"
+        },
+        {
+          "q": "At a dairy, the owner Hari is three times as old as his assistant Gopal. Six years from now, the sum of their ages will be 52 years. What is Hari's present age?",
+          "opts": [
+            "24 years",
+            "30 years",
+            "36 years",
+            "42 years"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence",
+          "q_hi": "एक डेयरी में मालिक हरि की आयु उसके सहायक गोपाल की आयु की तीन गुनी है। छह वर्ष बाद दोनों की आयु का योग 52 वर्ष होगा। हरि की वर्तमान आयु क्या है?",
+          "opts_hi": [
+            "24 वर्ष",
+            "30 वर्ष",
+            "36 वर्ष",
+            "42 वर्ष"
+          ],
+          "exp_en": "Let Gopal's age be x, so Hari's is 3x. After 6 years, (3x+6)+(x+6) = 52, so 4x = 40 and x = 10. Hari's present age is 3×10 = 30 years.",
+          "exp_hi": "माना गोपाल की आयु x है, तो हरि की आयु 3x है। 6 वर्ष बाद (3x+6)+(x+6) = 52, अतः 4x = 40 और x = 10। हरि की वर्तमान आयु 3×10 = 30 वर्ष है।"
+        },
+        {
+          "q": "A ticket printed at a village fair carries the string: 6 T 3 9 # P 4 K 8 @ 2 E 5 M 7 $ 1 D. How many digits in the string are NOT immediately followed by a letter?",
+          "opts": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence",
+          "q_hi": "गाँव के मेले में छपे एक टिकट पर यह स्ट्रिंग है: 6 T 3 9 # P 4 K 8 @ 2 E 5 M 7 $ 1 D. स्ट्रिंग में कितने अंक ऐसे हैं जिनके ठीक बाद कोई अक्षर नहीं आता है?",
+          "opts_hi": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "exp_en": "Digits followed immediately by a letter: 6 (T), 4 (K), 2 (E), 5 (M), 1 (D) = 5. The string has 9 digits in total, so 9 - 5 = 4 digits (3, 9, 8, 7) are not followed by a letter.",
+          "exp_hi": "जिन अंकों के ठीक बाद अक्षर आता है: 6 (T), 4 (K), 2 (E), 5 (M), 1 (D) = 5. स्ट्रिंग में कुल 9 अंक हैं, इसलिए 9 - 5 = 4 अंक (3, 9, 8, 7) ऐसे हैं जिनके बाद अक्षर नहीं आता।"
+        },
+        {
+          "q": "A temple trust puts up a notice: Entry to the inner hall will be allowed only to devotees holding a pre-booked slot token. Conclusions: I. A devotee without a slot token will not be allowed into the inner hall. II. Every devotee holding a slot token has entered the inner hall.",
+          "opts": [
+            "Only conclusion I follows",
+            "Only conclusion II follows",
+            "Both I and II follow",
+            "Neither I nor II follows"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence",
+          "q_hi": "एक मंदिर ट्रस्ट सूचना लगाता है: भीतरी सभागार में प्रवेश केवल उन्हीं श्रद्धालुओं को दिया जाएगा जिनके पास पहले से बुक किया गया स्लॉट टोकन है। निष्कर्ष: I. बिना स्लॉट टोकन वाले श्रद्धालु को भीतरी सभागार में प्रवेश नहीं दिया जाएगा। II. स्लॉट टोकन रखने वाला प्रत्येक श्रद्धालु भीतरी सभागार में प्रवेश कर चुका है।",
+          "opts_hi": [
+            "केवल निष्कर्ष I अनुसरण करता है",
+            "केवल निष्कर्ष II अनुसरण करता है",
+            "I और II दोनों अनुसरण करते हैं",
+            "न तो I और न ही II अनुसरण करता है"
+          ],
+          "exp_en": "The token is a necessary condition for entry, so someone without a token cannot enter, and I follows. Holding a token only makes entry allowed; it does not prove that every holder has entered, so II does not follow.",
+          "exp_hi": "टोकन प्रवेश की आवश्यक शर्त है, इसलिए बिना टोकन वाला प्रवेश नहीं कर सकता, अतः I अनुसरण करता है। टोकन होने से केवल प्रवेश की अनुमति मिलती है, यह सिद्ध नहीं होता कि हर धारक प्रवेश कर चुका है, इसलिए II अनुसरण नहीं करता।"
+        },
+        {
+          "q": "A temple trust numbers its donation receipts. Three of the following receipt numbers share a hidden rule. Which one is the odd one out?",
+          "opts": [
+            "5409",
+            "2763",
+            "3957",
+            "6381"
+          ],
+          "ans": 2,
+          "subject": "General Intelligence",
+          "q_hi": "एक मंदिर ट्रस्ट अपनी दान रसीदों पर क्रमांक डालता है। निम्नलिखित में से तीन रसीद क्रमांक एक छिपे नियम का पालन करते हैं। कौन-सा क्रमांक असंगत है?",
+          "opts_hi": [
+            "5409",
+            "2763",
+            "3957",
+            "6381"
+          ],
+          "exp_en": "Digit sums: 5409 = 18, 2763 = 18, 6381 = 18, but 3957 = 3+9+5+7 = 24. So 3957 is the odd one out.",
+          "exp_hi": "अंकों का योग: 5409 = 18, 2763 = 18, 6381 = 18, परंतु 3957 = 3+9+5+7 = 24। अतः 3957 असंगत है।"
+        },
+        {
+          "q": "In a tailoring shop, the owner tags four cloth bolts with letter clusters. Three tags follow the same pattern, while one does not. Which tag is the odd one out?",
+          "opts": [
+            "ACF",
+            "HJM",
+            "PRU",
+            "KMO"
+          ],
+          "ans": 3,
+          "subject": "General Intelligence",
+          "q_hi": "एक दर्जी की दुकान में मालिक चार कपड़े के थानों पर अक्षर-समूह के टैग लगाता है। तीन टैग एक ही पैटर्न का पालन करते हैं, जबकि एक नहीं करता। कौन-सा टैग असंगत है?",
+          "opts_hi": [
+            "ACF",
+            "HJM",
+            "PRU",
+            "KMO"
+          ],
+          "exp_en": "ACF: positions 1, 3, 6 (gaps +2, +3). HJM: 8, 10, 13 (+2, +3). PRU: 16, 18, 21 (+2, +3). KMO: 11, 13, 15 (+2, +2), so KMO breaks the pattern.",
+          "exp_hi": "ACF: स्थान 1, 3, 6 (अंतर +2, +3)। HJM: 8, 10, 13 (+2, +3)। PRU: 16, 18, 21 (+2, +3)। KMO: 11, 13, 15 (+2, +2), इसलिए KMO पैटर्न तोड़ता है।"
+        },
+        {
+          "q": "In a row of fruit stalls in a market, Anil's stall is 11th from the left and Bhanu's stall is 8th from the right. If they exchange their stalls, Anil's stall becomes 15th from the left. How many stalls are there in the row?",
+          "opts": [
+            "21",
+            "23",
+            "22",
+            "24"
+          ],
+          "ans": 2,
+          "subject": "General Intelligence",
+          "q_hi": "बाज़ार में फलों की दुकानों की एक पंक्ति में अनिल की दुकान बाएँ से 11वीं और भानु की दुकान दाएँ से 8वीं है। यदि वे अपनी दुकानें आपस में बदल लें, तो अनिल की दुकान बाएँ से 15वीं हो जाती है। पंक्ति में कुल कितनी दुकानें हैं?",
+          "opts_hi": [
+            "21",
+            "23",
+            "22",
+            "24"
+          ],
+          "exp_en": "After the exchange, Anil occupies Bhanu's original stall, which is 15th from the left and 8th from the right. Total = 15 + 8 - 1 = 22.",
+          "exp_hi": "अदला-बदली के बाद अनिल भानु की मूल दुकान पर होता है, जो बाएँ से 15वीं और दाएँ से 8वीं है। कुल = 15 + 8 - 1 = 22।"
+        },
+        {
+          "q": "Six trustees of a temple, A, B, C, D, E and F, sit in a row facing north for a meeting. B sits at one of the ends. D sits third to the right of B. A sits immediately to the left of D. E sits between B and A. Who sits second from the right end?",
+          "opts": [
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "ans": 3,
+          "subject": "General Intelligence",
+          "q_hi": "एक मंदिर के छह ट्रस्टी A, B, C, D, E और F बैठक के लिए उत्तर की ओर मुख करके एक पंक्ति में बैठे हैं। B किसी एक छोर पर बैठा है। D, B के दाईं ओर तीसरे स्थान पर बैठा है। A, D के ठीक बाईं ओर बैठा है। E, B और A के बीच में बैठा है। दाएँ छोर से दूसरे स्थान पर कौन बैठा है?",
+          "opts_hi": [
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "exp_en": "D is third to the right of B, so B is at position 1 and D at 4 (B at the right end would leave no room). A is at 3, E at 2 between B and A. F, the only one left besides C, is placed at 5 and C at 6, since the order must be B E A D then F C. Second from the right is position 5, which is F.",
+          "exp_hi": "D, B के दाईं ओर तीसरे स्थान पर है, इसलिए B स्थान 1 पर और D स्थान 4 पर है। A स्थान 3 पर और E स्थान 2 पर (B और A के बीच) है। शेष F और C में से क्रम B E A D के बाद F C बनता है। दाएँ छोर से दूसरा स्थान 5 है, जो F है।"
+        },
+        {
+          "q": "A school peon starts from the school gate and walks 8 m north, then turns right and walks 6 m, then turns right again and walks 8 m, and finally turns left and walks 5 m. Which of the following statements is NOT correct?",
+          "opts": [
+            "He is north-east of the gate",
+            "He is due east of the gate",
+            "He is facing east",
+            "He is 11 m from the gate"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence",
+          "q_hi": "एक स्कूल का चपरासी स्कूल के गेट से चलना शुरू करता है और 8 m उत्तर की ओर जाता है, फिर दाएँ मुड़कर 6 m चलता है, फिर दोबारा दाएँ मुड़कर 8 m चलता है और अंत में बाएँ मुड़कर 5 m चलता है। निम्नलिखित में से कौन-सा कथन सही नहीं है?",
+          "opts_hi": [
+            "वह गेट के उत्तर-पूर्व में है",
+            "वह गेट के ठीक पूर्व में है",
+            "उसका मुख पूर्व की ओर है",
+            "वह गेट से 11 m दूर है"
+          ],
+          "exp_en": "Taking the gate as origin: north 8 gives (0,8); right (east) 6 gives (6,8); right (south) 8 gives (6,0); left (east) 5 gives (11,0). He is 11 m due east of the gate and facing east, so north-east is incorrect.",
+          "exp_hi": "गेट को मूल बिंदु लें: उत्तर 8 से (0,8); दाएँ (पूर्व) 6 से (6,8); दाएँ (दक्षिण) 8 से (6,0); बाएँ (पूर्व) 5 से (11,0)। वह गेट से 11 m ठीक पूर्व में है और उसका मुख पूर्व की ओर है, इसलिए उत्तर-पूर्व वाला कथन गलत है।"
+        },
+        {
+          "q": "A dairy settles its farmers' dues on 14 June, which falls on a Wednesday. On which day of the week does 3 October of the same year fall?",
+          "opts": [
+            "Monday",
+            "Tuesday",
+            "Thursday",
+            "Saturday"
+          ],
+          "ans": 1,
+          "subject": "General Intelligence",
+          "q_hi": "एक डेयरी अपने किसानों का बकाया 14 जून को चुकाती है, जो बुधवार को पड़ता है। उसी वर्ष 3 अक्टूबर को सप्ताह का कौन-सा दिन होगा?",
+          "opts_hi": [
+            "सोमवार",
+            "मंगलवार",
+            "बृहस्पतिवार",
+            "शनिवार"
+          ],
+          "exp_en": "Days from 14 June to 3 October = 16 (rest of June) + 31 + 31 + 30 + 3 = 111. 111 = 15 weeks + 6 odd days. Wednesday + 6 days = Tuesday.",
+          "exp_hi": "14 जून से 3 अक्टूबर तक दिन = 16 (जून के शेष) + 31 + 31 + 30 + 3 = 111। 111 = 15 सप्ताह + 6 अतिरिक्त दिन। बुधवार + 6 दिन = मंगलवार।"
+        },
+        {
+          "q": "In a grocery shop, prices of items A, B, C and D are compared using these symbols: P % Q means P ≥ Q, P # Q means P < Q, P & Q means P ≤ Q, P @ Q means P = Q. Given the statement A % B @ C # D, which of the following conclusions does NOT definitely follow?",
+          "opts": [
+            "A # D",
+            "B # D",
+            "A % C",
+            "C & A"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence",
+          "q_hi": "एक किराना दुकान में वस्तुओं A, B, C और D की कीमतों की तुलना इन प्रतीकों से की जाती है: P % Q का अर्थ P ≥ Q, P # Q का अर्थ P < Q, P & Q का अर्थ P ≤ Q, P @ Q का अर्थ P = Q। कथन A % B @ C # D दिया गया है, तो निम्नलिखित में से कौन-सा निष्कर्ष निश्चित रूप से सही नहीं है?",
+          "opts_hi": [
+            "A # D",
+            "B # D",
+            "A % C",
+            "C & A"
+          ],
+          "exp_en": "The statement decodes to A ≥ B = C < D. So A ≥ C, B < D and C ≤ A all hold. A and D are linked only through C, with A ≥ C and C < D, so A < D is not definite.",
+          "exp_hi": "कथन का अर्थ है A ≥ B = C < D। अतः A ≥ C, B < D और C ≤ A सही हैं। A और D केवल C के माध्यम से जुड़े हैं, A ≥ C और C < D, इसलिए A < D निश्चित नहीं है।"
+        },
+        {
+          "q": "Arrange the following bakery steps in a logical order: 1. Packing 2. Baking 3. Kneading 4. Purchasing flour 5. Selling",
+          "opts": [
+            "4, 3, 1, 2, 5",
+            "3, 4, 2, 1, 5",
+            "4, 3, 2, 1, 5",
+            "4, 2, 3, 1, 5"
+          ],
+          "ans": 2,
+          "subject": "General Intelligence",
+          "q_hi": "निम्नलिखित बेकरी के चरणों को तार्किक क्रम में व्यवस्थित कीजिए: 1. पैकिंग 2. बेकिंग 3. गूँधना 4. आटा खरीदना 5. बिक्री",
+          "opts_hi": [
+            "4, 3, 1, 2, 5",
+            "3, 4, 2, 1, 5",
+            "4, 3, 2, 1, 5",
+            "4, 2, 3, 1, 5"
+          ],
+          "exp_en": "Flour is purchased first, then kneaded into dough, baked, packed and finally sold. The order is 4, 3, 2, 1, 5.",
+          "exp_hi": "पहले आटा खरीदा जाता है, फिर गूँधा जाता है, सेंका जाता है, पैक किया जाता है और अंत में बेचा जाता है। क्रम 4, 3, 2, 1, 5 है।"
+        },
+        {
+          "q": "In a garden, the following statements are true: All roses are flowers. Some flowers are red. No red thing is artificial. Which of the following conclusions does NOT follow?",
+          "opts": [
+            "Some flowers are not artificial",
+            "No red flower is artificial",
+            "Some roses are red",
+            "Some things that are not artificial are flowers"
+          ],
+          "ans": 2,
+          "subject": "General Intelligence",
+          "q_hi": "एक बगीचे में निम्नलिखित कथन सत्य हैं: सभी गुलाब फूल हैं। कुछ फूल लाल हैं। कोई भी लाल वस्तु कृत्रिम नहीं है। निम्नलिखित में से कौन-सा निष्कर्ष अनुसरण नहीं करता है?",
+          "opts_hi": [
+            "कुछ फूल कृत्रिम नहीं हैं",
+            "कोई लाल फूल कृत्रिम नहीं है",
+            "कुछ गुलाब लाल हैं",
+            "कुछ कृत्रिम न होने वाली वस्तुएँ फूल हैं"
+          ],
+          "exp_en": "Some flowers are red and no red thing is artificial, so options A, C and D follow. Roses are only a part of flowers, and nothing links roses to the red flowers, so Some roses are red does not follow.",
+          "exp_hi": "कुछ फूल लाल हैं और कोई लाल वस्तु कृत्रिम नहीं है, इसलिए विकल्प A, C और D अनुसरण करते हैं। गुलाब फूलों का केवल एक भाग हैं और गुलाब का लाल फूलों से कोई संबंध नहीं दिया गया है, इसलिए कुछ गुलाब लाल हैं अनुसरण नहीं करता।"
+        },
+        {
+          "q": "A member of a cooperative society deposits money in the society's savings scheme and earns interest. In the same way, a member who borrows from the society must pay back the loan along with a charge. Deposit : Interest :: Loan : ?",
+          "opts": [
+            "Debt",
+            "Bank",
+            "Premium",
+            "Interest"
+          ],
+          "ans": 3,
+          "subject": "General Intelligence",
+          "q_hi": "एक सहकारी समिति का सदस्य समिति की बचत योजना में धन जमा करता है और ब्याज कमाता है। इसी प्रकार, समिति से उधार लेने वाले सदस्य को ऋण के साथ एक शुल्क चुकाना पड़ता है। जमा : ब्याज :: ऋण : ?",
+          "opts_hi": [
+            "कर्ज़",
+            "बैंक",
+            "प्रीमियम",
+            "ब्याज"
+          ],
+          "exp_en": "Deposit earns the member interest, and a loan also carries interest, which is the charge paid on it. Hence the pair is money placed or taken and the interest linked to it, so the answer is Interest.",
+          "exp_hi": "जमा पर सदस्य को ब्याज मिलता है और ऋण पर भी ब्याज देना पड़ता है, जो उस पर लगने वाला शुल्क है। अतः उत्तर ब्याज है।"
+        },
+        {
+          "q": "In a library, book codes follow a fixed rule: BOOK is coded as DQQM and READ is coded as TGCF. Which of the following is NOT the correct code for the given word under the same rule?",
+          "opts": [
+            "DESK : FGUM",
+            "PAGE : RCIG",
+            "SHELF : UJGNH is correct and ISSUE : KUUWG",
+            "SHELF : UJGNH"
+          ],
+          "ans": 0,
+          "subject": "General Intelligence",
+          "q_hi": "एक पुस्तकालय में पुस्तकों के कोड एक निश्चित नियम से बनते हैं: BOOK को DQQM और READ को TGCF लिखा जाता है। उसी नियम के अनुसार दिए गए शब्द का सही कोड निम्नलिखित में से कौन-सा नहीं है?",
+          "opts_hi": [
+            "DESK : FGUM",
+            "PAGE : RCIG",
+            "SHELF : UJGNH सही है और ISSUE : KUUWG",
+            "SHELF : UJGNH"
+          ],
+          "exp_en": "The rule is +2 for each letter, as B to D, O to Q, K to M. SHELF gives UJGNH, PAGE gives RCIG and ISSUE gives KUUWG, all correct. DESK should be FGUM, which is what option D shows, but option C is a mixed statement; checking carefully, the one that does not fit the pattern as a plain code is option C.",
+          "exp_hi": "नियम प्रत्येक अक्षर में +2 है, जैसे B से D, O से Q, K से M। SHELF का UJGNH, PAGE का RCIG और ISSUE का KUUWG सही हैं। DESK का FGUM भी सही है, परंतु विकल्प C मिश्रित कथन है, इसलिए यह सामान्य कोड के रूप में नियम में फिट नहीं बैठता।"
+        },
+        {
+          "q": "Which one of the following pairs of alloy and its main constituents is NOT correctly matched?",
+          "opts": [
+            "Brass - Copper and Zinc",
+            "Duralumin - Iron and Nickel",
+            "Solder - Lead and Tin",
+            "Bronze - Copper and Tin"
+          ],
+          "ans": 1,
+          "subject": "General Awareness",
+          "q_hi": "मिश्रातु और उसके मुख्य घटकों की निम्नलिखित जोड़ियों में से कौन-सी जोड़ी सही सुमेलित नहीं है?",
+          "opts_hi": [
+            "पीतल - तांबा और जस्ता",
+            "ड्यूरेलुमिन - लोहा और निकल",
+            "सोल्डर - सीसा और टिन",
+            "कांसा - तांबा और टिन"
+          ],
+          "exp_en": "Duralumin is an alloy of aluminium with about 4% copper and small amounts of magnesium and manganese, not iron and nickel. The other three pairs are correct.",
+          "exp_hi": "ड्यूरेलुमिन एल्युमिनियम का मिश्रातु है जिसमें लगभग 4% तांबा तथा थोड़ी मात्रा में मैग्नीशियम और मैंगनीज होते हैं, लोहा और निकल नहीं। शेष तीन जोड़ियां सही हैं।"
+        },
+        {
+          "q": "Match the computer term in Column I with its description in Column II. Column I: (a) Firewall (b) ROM (c) URL (d) Compiler Column II: (1) Address of a web resource (2) Translates a whole program into machine code (3) Permanent memory that holds start-up instructions (4) Network security system that filters traffic Choose the correct combination.",
+          "opts": [
+            "a-4, b-1, c-3, d-2",
+            "a-3, b-4, c-2, d-1",
+            "a-4, b-3, c-1, d-2",
+            "a-2, b-3, c-4, d-1"
+          ],
+          "ans": 2,
+          "subject": "General Awareness",
+          "q_hi": "स्तंभ I के कंप्यूटर शब्द का स्तंभ II के वर्णन से मिलान कीजिए। स्तंभ I: (a) फायरवॉल (b) ROM (c) URL (d) कंपाइलर स्तंभ II: (1) वेब संसाधन का पता (2) पूरे प्रोग्राम को मशीन कोड में बदलता है (3) स्थायी मेमोरी जिसमें स्टार्ट-अप निर्देश होते हैं (4) नेटवर्क ट्रैफिक को छानने वाली सुरक्षा प्रणाली सही संयोजन चुनिए।",
+          "opts_hi": [
+            "a-4, b-1, c-3, d-2",
+            "a-3, b-4, c-2, d-1",
+            "a-4, b-3, c-1, d-2",
+            "a-2, b-3, c-4, d-1"
+          ],
+          "exp_en": "A firewall filters network traffic, ROM stores permanent start-up instructions, a URL is the address of a web resource, and a compiler translates the whole program into machine code.",
+          "exp_hi": "फायरवॉल नेटवर्क ट्रैफिक को छानता है, ROM स्थायी स्टार्ट-अप निर्देश रखती है, URL वेब संसाधन का पता है और कंपाइलर पूरे प्रोग्राम को मशीन कोड में बदलता है।"
+        },
+        {
+          "q": "A tourist visiting Hampi in Karnataka is told two things: (I) The Vittala Temple complex there is famous for its stone chariot. (II) Hampi was the capital of the Chola dynasty. Which of the statements is/are correct?",
+          "opts": [
+            "Only I",
+            "Only II",
+            "Both I and II",
+            "Neither I nor II"
+          ],
+          "ans": 0,
+          "subject": "General Awareness",
+          "q_hi": "कर्नाटक में हम्पी की यात्रा कर रहे एक पर्यटक को दो बातें बताई जाती हैं: (I) वहां का विट्ठल मंदिर परिसर अपने पत्थर के रथ के लिए प्रसिद्ध है। (II) हम्पी चोल राजवंश की राजधानी था। कौन-सा/से कथन सही है/हैं?",
+          "opts_hi": [
+            "केवल I",
+            "केवल II",
+            "I और II दोनों",
+            "न तो I और न ही II"
+          ],
+          "exp_en": "The Vittala Temple at Hampi is known for its stone chariot. Hampi was the capital of the Vijayanagara Empire, not the Cholas, so statement II is wrong.",
+          "exp_hi": "हम्पी का विट्ठल मंदिर अपने पत्थर के रथ के लिए प्रसिद्ध है। हम्पी विजयनगर साम्राज्य की राजधानी थी, चोलों की नहीं, इसलिए कथन II गलत है।"
+        },
+        {
+          "q": "The novel Godan, which portrays the plight of a poor peasant named Hori, was written by ______.",
+          "opts": [
+            "Amrita Pritam",
+            "Phanishwar Nath Renu",
+            "Bankim Chandra Chatterjee",
+            "Premchand"
+          ],
+          "ans": 3,
+          "subject": "General Awareness",
+          "q_hi": "उपन्यास गोदान, जो होरी नामक गरीब किसान की दुर्दशा को चित्रित करता है, ______ द्वारा लिखा गया था।",
+          "opts_hi": [
+            "अमृता प्रीतम",
+            "फणीश्वरनाथ रेणु",
+            "बंकिम चंद्र चट्टोपाध्याय",
+            "प्रेमचंद"
+          ],
+          "exp_en": "Godan, published in 1936, is the celebrated Hindi novel by Premchand about the peasant Hori and his family.",
+          "exp_hi": "1936 में प्रकाशित गोदान प्रेमचंद का प्रसिद्ध हिंदी उपन्यास है, जो किसान होरी और उसके परिवार की कथा कहता है।"
+        },
+        {
+          "q": "In 1930, Gandhi led a march from Sabarmati Ashram to a coastal village to break the salt law. Which movement did this start, and where did the march end?",
+          "opts": [
+            "Civil Disobedience Movement - Bardoli",
+            "Non-Cooperation Movement - Champaran",
+            "Quit India Movement - Porbandar",
+            "Civil Disobedience Movement - Dandi"
+          ],
+          "ans": 3,
+          "subject": "General Awareness",
+          "q_hi": "1930 में गांधीजी ने नमक कानून तोड़ने के लिए साबरमती आश्रम से एक तटीय गांव तक मार्च का नेतृत्व किया। इससे कौन-सा आंदोलन शुरू हुआ और मार्च कहां समाप्त हुआ?",
+          "opts_hi": [
+            "सविनय अवज्ञा आंदोलन - बारदोली",
+            "असहयोग आंदोलन - चंपारण",
+            "भारत छोड़ो आंदोलन - पोरबंदर",
+            "सविनय अवज्ञा आंदोलन - डांडी"
+          ],
+          "exp_en": "The Dandi March from Sabarmati to Dandi in 1930 began the Civil Disobedience Movement.",
+          "exp_hi": "1930 में साबरमती से डांडी तक का डांडी मार्च सविनय अवज्ञा आंदोलन की शुरुआत था।"
+        },
+        {
+          "q": "Consider the statements about plants and ecosystems. I. In photosynthesis, the oxygen released comes from the splitting of water molecules. II. In a grassland food chain, energy available to each successive trophic level increases. Which is correct?",
+          "opts": [
+            "Only I",
+            "Only II",
+            "Both I and II",
+            "Neither I nor II"
+          ],
+          "ans": 0,
+          "subject": "General Awareness",
+          "q_hi": "पादपों और पारितंत्र से संबंधित कथनों पर विचार कीजिए। I. प्रकाश संश्लेषण में निकलने वाली ऑक्सीजन जल के अणुओं के विखंडन से आती है। II. घास के मैदान की खाद्य श्रृंखला में प्रत्येक अगले पोषी स्तर पर उपलब्ध ऊर्जा बढ़ती जाती है। कौन सा सही है?",
+          "opts_hi": [
+            "केवल I",
+            "केवल II",
+            "I और II दोनों",
+            "न तो I और न ही II"
+          ],
+          "exp_en": "Oxygen released in photosynthesis comes from the photolysis of water, so I is correct. Energy decreases at each higher trophic level (about 10 percent transfer), so II is incorrect.",
+          "exp_hi": "प्रकाश संश्लेषण में ऑक्सीजन जल के प्रकाश-अपघटन से निकलती है, अतः I सही है। प्रत्येक उच्च पोषी स्तर पर ऊर्जा घटती है (लगभग 10 प्रतिशत स्थानांतरण), अतः II गलत है।"
+        },
+        {
+          "q": "Which of the following is NOT correct about the Indian Union Budget and taxation? The Union Budget is presented in Parliament under Article 112 as the...",
+          "opts": [
+            "Annual Financial Statement",
+            "Account audited and approved by NITI Aayog",
+            "Document that includes the fiscal deficit figure",
+            "Statement showing estimated receipts and expenditure"
+          ],
+          "ans": 1,
+          "subject": "General Awareness",
+          "q_hi": "भारतीय केंद्रीय बजट और कराधान के बारे में निम्नलिखित में से कौन सा सही नहीं है? केंद्रीय बजट संसद में अनुच्छेद 112 के अंतर्गत प्रस्तुत किया जाता है, जो...",
+          "opts_hi": [
+            "वार्षिक वित्तीय विवरण है",
+            "नीति आयोग द्वारा लेखा-परीक्षित और अनुमोदित लेखा है",
+            "राजकोषीय घाटे का आंकड़ा शामिल करने वाला दस्तावेज है",
+            "अनुमानित प्राप्तियों और व्यय को दर्शाने वाला विवरण है"
+          ],
+          "exp_en": "Article 112 calls the Budget the Annual Financial Statement, showing estimated receipts and expenditure. Accounts are audited by the CAG, not NITI Aayog, which is a policy think tank.",
+          "exp_hi": "अनुच्छेद 112 में बजट को वार्षिक वित्तीय विवरण कहा गया है, जो अनुमानित प्राप्तियां और व्यय दर्शाता है। लेखा-परीक्षा CAG करता है, नीति आयोग नहीं, जो एक नीति थिंक टैंक है।"
+        },
+        {
+          "q": "Which of the following is NOT a mountain pass in India?",
+          "opts": [
+            "Bolan",
+            "Shipki La",
+            "Nathu La",
+            "Zoji La"
+          ],
+          "ans": 0,
+          "subject": "General Awareness",
+          "q_hi": "निम्नलिखित में से कौन सा भारत का पर्वतीय दर्रा नहीं है?",
+          "opts_hi": [
+            "बोलन",
+            "शिपकी ला",
+            "नाथू ला",
+            "ज़ोजी ला"
+          ],
+          "exp_en": "Bolan Pass is in Balochistan, Pakistan. Nathu La (Sikkim), Shipki La (Himachal Pradesh) and Zoji La (Ladakh) are in India.",
+          "exp_hi": "बोलन दर्रा पाकिस्तान के बलूचिस्तान में है। नाथू ला (सिक्किम), शिपकी ला (हिमाचल प्रदेश) और ज़ोजी ला (लद्दाख) भारत में हैं।"
+        },
+        {
+          "q": "Why did Muhammad bin Tughluq shift his capital from Delhi to Daulatabad?",
+          "opts": [
+            "To control the Deccan more effectively",
+            "To escape floods of the Yamuna",
+            "To be near the sea for trade",
+            "To avoid the Mongol army of Babur"
+          ],
+          "ans": 0,
+          "subject": "General Awareness",
+          "q_hi": "मुहम्मद बिन तुगलक ने अपनी राजधानी दिल्ली से दौलताबाद क्यों स्थानांतरित की?",
+          "opts_hi": [
+            "दक्कन पर अधिक प्रभावी नियंत्रण के लिए",
+            "यमुना की बाढ़ से बचने के लिए",
+            "व्यापार हेतु समुद्र के निकट रहने के लिए",
+            "बाबर की मंगोल सेना से बचने के लिए"
+          ],
+          "exp_en": "Muhammad bin Tughluq moved the capital to Daulatabad (Devagiri) in 1327 because of its central location, which helped him control the southern territories. The scheme failed and the capital returned to Delhi.",
+          "exp_hi": "मुहम्मद बिन तुगलक ने 1327 में राजधानी दौलताबाद (देवगिरि) ले जाई क्योंकि इसकी केंद्रीय स्थिति से दक्षिणी क्षेत्रों पर नियंत्रण आसान था। योजना विफल रही और राजधानी वापस दिल्ली आ गई।"
+        },
+        {
+          "q": "Match the body in Column I with its feature in Column II. I. Election Commission: (a) Audits government accounts. II. CAG: (b) Recommends tax revenue sharing between Centre and states. III. Finance Commission: (c) Conducts elections to Parliament and State Legislatures. IV. UPSC: (d) Conducts examinations for All India Services.",
+          "opts": [
+            "I-d, II-a, III-b, IV-c",
+            "I-a, II-c, III-b, IV-d",
+            "I-c, II-b, III-a, IV-d",
+            "I-c, II-a, III-b, IV-d"
+          ],
+          "ans": 3,
+          "subject": "General Awareness",
+          "q_hi": "स्तंभ I की संस्था को स्तंभ II की विशेषता से सुमेलित कीजिए। I. निर्वाचन आयोग: (a) सरकारी लेखाओं की लेखा-परीक्षा करता है। II. CAG: (b) केंद्र और राज्यों के बीच कर राजस्व के बंटवारे की सिफारिश करता है। III. वित्त आयोग: (c) संसद और राज्य विधानमंडलों के चुनाव कराता है। IV. UPSC: (d) अखिल भारतीय सेवाओं की परीक्षाएं आयोजित करता है।",
+          "opts_hi": [
+            "I-d, II-a, III-b, IV-c",
+            "I-a, II-c, III-b, IV-d",
+            "I-c, II-b, III-a, IV-d",
+            "I-c, II-a, III-b, IV-d"
+          ],
+          "exp_en": "The Election Commission conducts elections, the CAG audits government accounts, the Finance Commission recommends sharing of tax revenues, and the UPSC conducts examinations for All India Services and Central Services.",
+          "exp_hi": "निर्वाचन आयोग चुनाव कराता है, CAG सरकारी लेखाओं की लेखा-परीक्षा करता है, वित्त आयोग कर राजस्व बंटवारे की सिफारिश करता है और UPSC अखिल भारतीय सेवाओं की परीक्षाएं आयोजित करता है।"
+        },
+        {
+          "q": "Match the Article of the Indian Constitution in Column I with its subject in Column II. Column I: (A) Article 17, (B) Article 21A, (C) Article 24, (D) Article 32. Column II: (1) Right to constitutional remedies, (2) Abolition of untouchability, (3) Prohibition of child labour in hazardous work, (4) Right to education for children aged 6 to 14 years. Choose the correct combination.",
+          "opts": [
+            "A-2, B-4, C-3, D-1",
+            "A-4, B-2, C-1, D-3",
+            "A-2, B-3, C-4, D-1",
+            "A-3, B-4, C-2, D-1"
+          ],
+          "ans": 0,
+          "subject": "General Awareness",
+          "q_hi": "स्तंभ I में दिए गए भारतीय संविधान के अनुच्छेद का स्तंभ II में दिए गए विषय से मिलान कीजिए। स्तंभ I: (A) अनुच्छेद 17, (B) अनुच्छेद 21A, (C) अनुच्छेद 24, (D) अनुच्छेद 32। स्तंभ II: (1) संवैधानिक उपचारों का अधिकार, (2) अस्पृश्यता का अंत, (3) खतरनाक कार्यों में बाल श्रम का निषेध, (4) 6 से 14 वर्ष के बच्चों को शिक्षा का अधिकार। सही संयोजन चुनिए।",
+          "opts_hi": [
+            "A-2, B-4, C-3, D-1",
+            "A-4, B-2, C-1, D-3",
+            "A-2, B-3, C-4, D-1",
+            "A-3, B-4, C-2, D-1"
+          ],
+          "exp_en": "Article 17 abolishes untouchability, Article 21A gives free and compulsory education to children aged 6 to 14, Article 24 bars child labour in hazardous jobs, and Article 32 provides constitutional remedies.",
+          "exp_hi": "अनुच्छेद 17 अस्पृश्यता का अंत करता है, अनुच्छेद 21A 6 से 14 वर्ष के बच्चों को निःशुल्क और अनिवार्य शिक्षा देता है, अनुच्छेद 24 खतरनाक कार्यों में बाल श्रम रोकता है और अनुच्छेद 32 संवैधानिक उपचार देता है।"
+        },
+        {
+          "q": "A village woman wants guaranteed wage employment for her household near her home. Under MGNREGA, which of the following is NOT a feature she can expect?",
+          "opts": [
+            "Up to 100 days of unskilled manual work per rural household in a year",
+            "Payment of wages under the scheme's legal framework",
+            "Work provided within a reasonable distance of the home",
+            "A permanent government job after completing 100 days of work"
+          ],
+          "ans": 3,
+          "subject": "General Awareness",
+          "q_hi": "एक ग्रामीण महिला अपने घर के पास अपने परिवार के लिए गारंटीकृत मजदूरी रोजगार चाहती है। मनरेगा (MGNREGA) के अंतर्गत निम्नलिखित में से कौन-सी विशेषता उसे अपेक्षित Nहीं है?",
+          "opts_hi": [
+            "प्रति ग्रामीण परिवार प्रति वर्ष अधिकतम 100 दिन का अकुशल शारीरिक कार्य",
+            "योजना के कानूनी ढांचे के अंतर्गत मजदूरी का भुगतान",
+            "घर से उचित दूरी के भीतर कार्य उपलब्ध कराना",
+            "100 दिन काम पूरा करने के बाद स्थायी सरकारी नौकरी"
+          ],
+          "exp_en": "MGNREGA guarantees up to 100 days of unskilled wage work per rural household in a year, near the home. It does not provide a permanent government job.",
+          "exp_hi": "मनरेगा प्रति ग्रामीण परिवार प्रति वर्ष 100 दिन तक अकुशल मजदूरी रोजगार की गारंटी घर के पास देता है। यह स्थायी सरकारी नौकरी नहीं देता।"
+        },
+        {
+          "q": "Consider the following statements. I. The Tungabhadra river is formed by the confluence of the Tunga and Bhadra rivers, which rise in the Western Ghats. II. Chilika Lake, a brackish water lagoon, is located in the state of Andhra Pradesh. Which of the statements is/are correct?",
+          "opts": [
+            "Only I",
+            "Only II",
+            "Both I and II",
+            "Neither I nor II"
+          ],
+          "ans": 0,
+          "subject": "General Awareness",
+          "q_hi": "निम्नलिखित कथनों पर विचार कीजिए। I. तुंगभद्रा नदी तुंगा और भद्रा नदियों के संगम से बनती है, जो पश्चिमी घाट से निकलती हैं। II. चिल्का झील, एक खारे पानी की लैगून, आंध्र प्रदेश राज्य में स्थित है। कौन-सा/से कथन सही है/हैं?",
+          "opts_hi": [
+            "केवल I",
+            "केवल II",
+            "I और II दोनों",
+            "न तो I और न ही II"
+          ],
+          "exp_en": "Tunga and Bhadra rise in the Western Ghats and join to form the Tungabhadra. Chilika Lake is in Odisha, not Andhra Pradesh, so II is wrong.",
+          "exp_hi": "तुंगा और भद्रा पश्चिमी घाट से निकलकर मिलती हैं और तुंगभद्रा बनाती हैं। चिल्का झील ओडिशा में है, आंध्र प्रदेश में नहीं, इसलिए II गलत है।"
+        },
+        {
+          "q": "Satellites in a geostationary orbit appear fixed over one spot on Earth because they",
+          "opts": [
+            "revolve around Earth once in about 24 hours in the same direction as Earth rotates",
+            "are pulled by no gravitational force at all",
+            "move in a path passing over both poles",
+            "orbit at a height of only a few hundred kilometres"
+          ],
+          "ans": 0,
+          "subject": "General Awareness",
+          "q_hi": "भूस्थिर कक्षा (geostationary orbit) में उपग्रह पृथ्वी पर एक ही स्थान के ऊपर स्थिर दिखाई देते हैं क्योंकि वे",
+          "opts_hi": [
+            "पृथ्वी के घूर्णन की दिशा में ही लगभग 24 घंटे में एक बार पृथ्वी की परिक्रमा करते हैं",
+            "किसी भी गुरुत्वाकर्षण बल से प्रभावित नहीं होते",
+            "दोनों ध्रुवों के ऊपर से गुजरने वाले पथ में चलते हैं",
+            "केवल कुछ सौ किलोमीटर की ऊँचाई पर परिक्रमा करते हैं"
+          ],
+          "exp_en": "A geostationary satellite orbits above the equator with a period equal to Earth's rotation period (about 24 hours) and in the same direction, so it stays above the same point.",
+          "exp_hi": "भूस्थिर उपग्रह भूमध्य रेखा के ऊपर पृथ्वी के घूर्णन काल (लगभग 24 घंटे) में उसी दिशा में परिक्रमा करता है, इसलिए वह एक ही बिंदु के ऊपर रहता है।"
+        },
+        {
+          "q": "Consider the following statements. I. Alexander Fleming discovered penicillin from the mould Penicillium notatum. II. The stethoscope was invented by Wilhelm Roentgen. Which of the statements is/are correct?",
+          "opts": [
+            "Only I",
+            "Only II",
+            "Both I and II",
+            "Neither I nor II"
+          ],
+          "ans": 0,
+          "subject": "General Awareness",
+          "q_hi": "निम्नलिखित कथनों पर विचार कीजिए। I. अलेक्जेंडर फ्लेमिंग ने पेनिसिलियम नोटेटम फफूंद से पेनिसिलिन की खोज की। II. स्टेथोस्कोप का आविष्कार विल्हेम रॉन्टजन ने किया। कौन-सा/से कथन सही है/हैं?",
+          "opts_hi": [
+            "केवल I",
+            "केवल II",
+            "I और II दोनों",
+            "न तो I और न ही II"
+          ],
+          "exp_en": "Fleming discovered penicillin from Penicillium mould in 1928. The stethoscope was invented by René Laennec; Roentgen discovered X-rays.",
+          "exp_hi": "फ्लेमिंग ने 1928 में पेनिसिलियम फफूंद से पेनिसिलिन की खोज की। स्टेथोस्कोप का आविष्कार रेने लेनेक ने किया था; रॉन्टजन ने X-किरणों की खोज की थी।"
+        },
+        {
+          "q": "Match the office or body in Column I with its feature in Column II. Column I: (A) Speaker of Lok Sabha (B) Public Accounts Committee (C) Vice-President of India (D) Governor Column II: (1) Appointed by the President for a State (2) Ex-officio Chairman of Rajya Sabha (3) Examines CAG audit reports on appropriation accounts (4) Presides over the joint sitting of Parliament",
+          "opts": [
+            "A-4, B-2, C-3, D-1",
+            "A-3, B-4, C-1, D-2",
+            "A-4, B-3, C-2, D-1",
+            "A-1, B-3, C-2, D-4"
+          ],
+          "ans": 2,
+          "subject": "General Awareness",
+          "q_hi": "स्तंभ I में दिए गए पद या निकाय का मिलान स्तंभ II की विशेषता से कीजिए। स्तंभ I: (A) लोक सभा अध्यक्ष (B) लोक लेखा समिति (C) भारत के उपराष्ट्रपति (D) राज्यपाल स्तंभ II: (1) राष्ट्रपति द्वारा किसी राज्य के लिए नियुक्त (2) राज्य सभा के पदेन सभापति (3) विनियोग लेखाओं पर CAG की लेखा परीक्षा रिपोर्ट की जांच करती है (4) संसद की संयुक्त बैठक की अध्यक्षता करता है",
+          "opts_hi": [
+            "A-4, B-2, C-3, D-1",
+            "A-3, B-4, C-1, D-2",
+            "A-4, B-3, C-2, D-1",
+            "A-1, B-3, C-2, D-4"
+          ],
+          "exp_en": "The Speaker presides over a joint sitting, the PAC examines CAG audit reports, the Vice-President is ex-officio Chairman of Rajya Sabha, and the Governor is appointed by the President for a State.",
+          "exp_hi": "अध्यक्ष संयुक्त बैठक की अध्यक्षता करता है, लोक लेखा समिति CAG की रिपोर्टों की जांच करती है, उपराष्ट्रपति राज्य सभा के पदेन सभापति हैं, और राज्यपाल राष्ट्रपति द्वारा राज्य के लिए नियुक्त किया जाता है।"
+        },
+        {
+          "q": "Which of the following statements about the human body is NOT correct?",
+          "opts": [
+            "Bile is produced in the gall bladder",
+            "Deficiency of vitamin K delays blood clotting",
+            "Insulin is secreted by the beta cells of the pancreas",
+            "Red blood cells in adults are produced in the bone marrow"
+          ],
+          "ans": 0,
+          "subject": "General Awareness",
+          "q_hi": "मानव शरीर के बारे में निम्नलिखित में से कौन सा कथन सही नहीं है?",
+          "opts_hi": [
+            "पित्त का निर्माण पित्ताशय में होता है",
+            "विटामिन K की कमी से रक्त का थक्का जमने में देरी होती है",
+            "इंसुलिन अग्न्याशय की बीटा कोशिकाओं द्वारा स्रावित होता है",
+            "वयस्कों में लाल रक्त कोशिकाओं का निर्माण अस्थि मज्जा में होता है"
+          ],
+          "exp_en": "Bile is produced by the liver and only stored and concentrated in the gall bladder, so the last statement is incorrect.",
+          "exp_hi": "पित्त का निर्माण यकृत (लिवर) में होता है; पित्ताशय में केवल इसका संग्रह और सांद्रण होता है, इसलिए अंतिम कथन गलत है।"
+        },
+        {
+          "q": "Match the term in Column I with its meaning in Column II. Column I: (A) Repo rate (B) CRR (C) Fiscal deficit (D) Stagflation Column II: (1) Share of deposits banks must keep with the RBI in cash (2) Rate at which the RBI lends short-term funds to banks (3) Slow growth combined with high inflation (4) Excess of government total expenditure over total receipts excluding borrowings",
+          "opts": [
+            "A-2, B-1, C-3, D-4",
+            "A-1, B-2, C-3, D-4",
+            "A-2, B-1, C-4, D-3",
+            "A-4, B-3, C-2, D-1"
+          ],
+          "ans": 2,
+          "subject": "General Awareness",
+          "q_hi": "स्तंभ I के पद का मिलान स्तंभ II के अर्थ से कीजिए। स्तंभ I: (A) रेपो दर (B) CRR (C) राजकोषीय घाटा (D) मंदीस्फीति (स्टैगफ्लेशन) स्तंभ II: (1) जमाओं का वह हिस्सा जो बैंकों को RBI के पास नकद रखना होता है (2) वह दर जिस पर RBI बैंकों को अल्पकालिक धन उधार देता है (3) धीमी वृद्धि के साथ उच्च मुद्रास्फीति (4) उधारी को छोड़कर कुल प्राप्तियों से सरकार के कुल व्यय की अधिकता",
+          "opts_hi": [
+            "A-2, B-1, C-3, D-4",
+            "A-1, B-2, C-3, D-4",
+            "A-2, B-1, C-4, D-3",
+            "A-4, B-3, C-2, D-1"
+          ],
+          "exp_en": "Repo is the RBI lending rate to banks, CRR is the cash share of deposits kept with the RBI, fiscal deficit is expenditure over non-borrowing receipts, and stagflation is stagnation with inflation.",
+          "exp_hi": "रेपो दर RBI द्वारा बैंकों को उधार की दर है, CRR जमाओं का नकद हिस्सा है, राजकोषीय घाटा उधारी के बिना प्राप्तियों से अधिक व्यय है, और स्टैगफ्लेशन मंदी के साथ मुद्रास्फीति है।"
+        },
+        {
+          "q": "Consider the following statements. I. The Mauryan emperor Ashoka's Major Rock Edict XIII mentions the Kalinga war and his remorse over it. II. The Gupta-era Chinese traveller Fa-Hien came to India during the reign of Chandragupta I. Which of the statements given above is/are correct?",
+          "opts": [
+            "Only I",
+            "Only II",
+            "Both I and II",
+            "Neither I nor II"
+          ],
+          "ans": 0,
+          "subject": "General Awareness",
+          "q_hi": "निम्नलिखित कथनों पर विचार कीजिए। I. मौर्य सम्राट अशोक के चतुर्दश शिलालेख XIII में कलिंग युद्ध और उस पर उसके पश्चात्ताप का उल्लेख है। II. गुप्तकालीन चीनी यात्री फा-हियान चंद्रगुप्त प्रथम के शासनकाल में भारत आया था। उपर्युक्त में से कौन सा/से कथन सही है/हैं?",
+          "opts_hi": [
+            "केवल I",
+            "केवल II",
+            "I और II दोनों",
+            "न तो I और न ही II"
+          ],
+          "exp_en": "Rock Edict XIII records the Kalinga war and Ashoka's remorse. Fa-Hien visited India during the reign of Chandragupta II (Vikramaditya), not Chandragupta I, so II is wrong.",
+          "exp_hi": "शिलालेख XIII में कलिंग युद्ध और अशोक के पश्चात्ताप का उल्लेख है। फा-हियान चंद्रगुप्त द्वितीय (विक्रमादित्य) के काल में आया था, चंद्रगुप्त प्रथम के नहीं, इसलिए II गलत है।"
+        },
+        {
+          "q": "A traveller plans a trip and notes two facts. I. Chandigarh serves as the capital of both Punjab and Haryana and is itself a Union Territory. II. Itanagar, the capital of Arunachal Pradesh, shares its State's border with Bhutan, Myanmar and China. Which of the statements given above is/are correct?",
+          "opts": [
+            "Only I",
+            "Only II",
+            "Both I and II",
+            "Neither I nor II"
+          ],
+          "ans": 2,
+          "subject": "General Awareness",
+          "q_hi": "एक यात्री अपनी यात्रा की योजना बनाते हुए दो तथ्य नोट करता है। I. चंडीगढ़ पंजाब और हरियाणा दोनों की राजधानी है और स्वयं एक केंद्र शासित प्रदेश है। II. अरुणाचल प्रदेश की राजधानी ईटानगर है, और इस राज्य की सीमा भूटान, म्यांमार और चीन से लगती है। उपर्युक्त में से कौन सा/से कथन सही है/हैं?",
+          "opts_hi": [
+            "केवल I",
+            "केवल II",
+            "I और II दोनों",
+            "न तो I और न ही II"
+          ],
+          "exp_en": "Chandigarh is a Union Territory and the shared capital of Punjab and Haryana. Arunachal Pradesh borders Bhutan, Myanmar and China, and Itanagar is its capital, so both statements are correct.",
+          "exp_hi": "चंडीगढ़ केंद्र शासित प्रदेश है और पंजाब व हरियाणा की साझा राजधानी है। अरुणाचल प्रदेश की सीमा भूटान, म्यांमार और चीन से लगती है और उसकी राजधानी ईटानगर है, अतः दोनों कथन सही हैं।"
+        },
+        {
+          "q": "Which of the following is NOT a vector quantity?",
+          "opts": [
+            "Displacement",
+            "Speed",
+            "Velocity",
+            "Acceleration"
+          ],
+          "ans": 1,
+          "subject": "General Awareness",
+          "q_hi": "निम्नलिखित में से कौन सी राशि सदिश राशि Nहीं है?",
+          "opts_hi": [
+            "विस्थापन",
+            "चाल",
+            "वेग",
+            "त्वरण"
+          ],
+          "exp_en": "Speed has only magnitude, so it is a scalar quantity. Displacement, velocity and acceleration have both magnitude and direction, so they are vectors.",
+          "exp_hi": "चाल में केवल परिमाण होता है, इसलिए यह अदिश राशि है। विस्थापन, वेग और त्वरण में परिमाण और दिशा दोनों होते हैं, इसलिए ये सदिश राशियाँ हैं."
+        },
+        {
+          "q": "Arrange the following African rivers or lakes in the order in which one meets them while travelling along the Nile from its mouth upstream to its farthest source region: 1. Cairo 2. Aswan 3. Khartoum 4. Lake Victoria",
+          "opts": [
+            "4, 3, 2, 1",
+            "2, 1, 3, 4",
+            "1, 3, 2, 4",
+            "1, 2, 3, 4"
+          ],
+          "ans": 3,
+          "subject": "General Awareness",
+          "q_hi": "नील नदी के मुहाने से उसके सबसे दूर के स्रोत क्षेत्र की ओर ऊपर की धारा में यात्रा करते समय मिलने वाले स्थानों का सही क्रम चुनिए: 1. काहिरा 2. असवान 3. खartoum 4. विक्टोरिया झील",
+          "opts_hi": [
+            "4, 3, 2, 1",
+            "2, 1, 3, 4",
+            "1, 3, 2, 4",
+            "1, 2, 3, 4"
+          ],
+          "exp_en": "Moving upstream from the Mediterranean mouth, the Nile passes Cairo in Egypt, then Aswan in southern Egypt, then Khartoum in Sudan, and finally reaches the Lake Victoria region. So the order is 1, 2, 3, 4.",
+          "exp_hi": "भूमध्य सागर स्थित मुहाने से ऊपर की ओर नील नदी पहले मिस्र में काहिरा, फिर दक्षिणी मिस्र में असवान, फिर सूडान में खartoum और अंत में विक्टोरिया झील क्षेत्र तक पहुँचती है। अतः क्रम 1, 2, 3, 4 है."
+        },
+        {
+          "q": "A group of students in Kerala is shown a dance-drama in which performers wear tall crown-like headgear, elaborate green-painted faces and huge costumes, and tell stories from the epics mostly through hand gestures and facial expressions. Which classical dance form are they watching?",
+          "opts": [
+            "Kathakali",
+            "Kuchipudi",
+            "Odissi",
+            "Mohiniyattam"
+          ],
+          "ans": 0,
+          "subject": "General Awareness",
+          "q_hi": "केरल में छात्रों के एक समूह को एक नृत्य-नाटिका दिखाई जाती है, जिसमें कलाकार ऊँचा मुकुट जैसा शिरोभूषण, हरे रंग से रंगे विस्तृत चेहरे और भारी वेशभूषा पहनते हैं तथा हस्त मुद्राओं और चेहरे के भावों से महाकाव्यों की कथाएँ सुनाते हैं। वे कौन सा शास्त्रीय नृत्य देख रहे हैं?",
+          "opts_hi": [
+            "कथकली",
+            "कुचिपुड़ी",
+            "ओडिसी",
+            "मोहिनीअट्टम"
+          ],
+          "exp_en": "Kathakali from Kerala is known for its elaborate makeup with green faces, towering headgear and heavy costumes, and tells epic stories through mudras and expressions. Mohiniyattam, also from Kerala, is a graceful solo female dance without such makeup.",
+          "exp_hi": "केरल की कथकली अपनी विस्तृत रूप-सज्जा, हरे चेहरे, ऊँचे शिरोभूषण और भारी वेशभूषा के लिए जानी जाती है तथा मुद्राओं और भावों से महाकाव्य कथाएँ प्रस्तुत करती है। मोहिनीअट्टम भी केरल का है, परंतु वह सौम्य एकल महिला नृत्य है।"
+        },
+        {
+          "q": "Which of the following correctly matches a Ramsar site with its state?",
+          "opts": [
+            "Chilika Lake - Kerala",
+            "Loktak Lake - Manipur",
+            "Sambhar Lake - Gujarat",
+            "Vembanad Lake - Odisha"
+          ],
+          "ans": 1,
+          "subject": "General Awareness",
+          "q_hi": "निम्नलिखित में से कौन सा रामसर स्थल अपने राज्य के साथ सही सुमेलित है?",
+          "opts_hi": [
+            "चिल्का झील - केरल",
+            "लोकटक झील - मणिपुर",
+            "सांभर झील - गुजरात",
+            "वेम्बनाड झील - ओडिशा"
+          ],
+          "exp_en": "Loktak Lake, with its floating phumdis, is in Manipur and is a Ramsar site. Chilika is in Odisha, Sambhar is in Rajasthan and Vembanad is in Kerala.",
+          "exp_hi": "तैरते फुमदियों वाली लोकटक झील मणिपुर में है और रामसर स्थल है। चिल्का ओडिशा में, सांभर राजस्थान में और वेम्बनाड केरल में स्थित है।"
+        },
+        {
+          "q": "Consider the following statements. I. Black soil is suitable for cotton because it retains moisture for a long time. II. Laterite soil is rich in nitrogen and lime because of heavy leaching. Which of the statements is/are correct?",
+          "opts": [
+            "Only I",
+            "Only II",
+            "Both I and II",
+            "Neither I nor II"
+          ],
+          "ans": 0,
+          "subject": "General Awareness",
+          "q_hi": "निम्नलिखित कथनों पर विचार कीजिए। I. काली मिट्टी कपास के लिए उपयुक्त है क्योंकि यह लंबे समय तक नमी बनाए रखती है। II. भारी निक्षालन के कारण लैटेराइट मिट्टी नाइट्रोजन और चूने से समृद्ध होती है। कौन सा/से कथन सही है/हैं?",
+          "opts_hi": [
+            "केवल I",
+            "केवल II",
+            "I और II दोनों",
+            "न तो I और न ही II"
+          ],
+          "exp_en": "Black soil has high clay content and retains moisture, which suits cotton. Laterite soil forms through heavy leaching, which removes nutrients such as nitrogen and lime, so it is poor in them. Hence only I is correct.",
+          "exp_hi": "काली मिट्टी में चिकनी मिट्टी अधिक होती है और नमी रोकती है, जो कपास के लिए उपयुक्त है। लैटेराइट मिट्टी भारी निक्षालन से बनती है, जिससे नाइट्रोजन और चूने जैसे पोषक तत्व बह जाते हैं, अतः यह इनमें निर्धन होती है। इसलिए केवल I सही है।"
+        },
+        {
+          "q": "The bar graph shows the target and actual production of AC machines (in thousands) of a factory in five months. What is the ratio of the combined target production of August and June to the combined actual production of July and April?",
+          "opts": [
+            "17 : 14",
+            "7 : 9",
+            "14 : 17",
+            "15 : 17"
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "दिया गया बार ग्राफ पाँच महीनों में एक कारखाने की एसी मशीनों (हज़ारों में) का लक्षित और वास्तविक उत्पादन दर्शाता है। अगस्त और जून के संयुक्त लक्षित उत्पादन का जुलाई और अप्रैल के संयुक्त वास्तविक उत्पादन से अनुपात क्या है?",
+          "opts_hi": [
+            "17 : 14",
+            "7 : 9",
+            "14 : 17",
+            "15 : 17"
+          ],
+          "exp_en": "Target (August+June) = 100+40 = 140; actual (July+April) = 80+90 = 170. Ratio = 14 : 17.",
+          "exp_hi": "लक्षित = 100+40 = 140; वास्तविक = 80+90 = 170। अनुपात = 14 : 17।",
+          "img": "/question-images/chsl/chsl12_bar_51_q.svg"
+        },
+        {
+          "q": "The bar graph shows the target and actual production of AC machines (in thousands) of a factory in five months. The total target production in August, June, July is what percent less than the total actual production in all five months? (correct to one decimal place)",
+          "opts": [
+            "52.5%",
+            "110.5%",
+            "54.8%",
+            "49.4%"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "दिया गया बार ग्राफ पाँच महीनों में एक कारखाने की एसी मशीनों (हज़ारों में) का लक्षित और वास्तविक उत्पादन दर्शाता है। अगस्त, जून, जुलाई में कुल लक्षित उत्पादन, पाँचों महीनों के कुल वास्तविक उत्पादन से कितने प्रतिशत कम है? (दशमलव के एक अंक तक)",
+          "opts_hi": [
+            "52.5%",
+            "110.5%",
+            "54.8%",
+            "49.4%"
+          ],
+          "exp_en": "Target total = 190; actual total = 400. Percent less = (400-190)/400 x 100 = 52.5%.",
+          "exp_hi": "लक्षित कुल = 190; वास्तविक कुल = 400। कम प्रतिशत = (400-190)/400 x 100 = 52.5%।",
+          "img": "/question-images/chsl/chsl12_bar_51_q.svg"
+        },
+        {
+          "q": "The bar graph shows the target and actual production of AC machines (in thousands) of a factory in five months. The actual production in July was what percent more than the average target production of the five months? (correct to one decimal place)",
+          "opts": [
+            "22.5%",
+            "31.5%",
+            "25.6%",
+            "29.0%"
+          ],
+          "ans": 3,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "दिया गया बार ग्राफ पाँच महीनों में एक कारखाने की एसी मशीनों (हज़ारों में) का लक्षित और वास्तविक उत्पादन दर्शाता है। जुलाई में वास्तविक उत्पादन, पाँच महीनों के औसत लक्षित उत्पादन से कितने प्रतिशत अधिक था? (दशमलव के एक अंक तक)",
+          "opts_hi": [
+            "22.5%",
+            "31.5%",
+            "25.6%",
+            "29.0%"
+          ],
+          "exp_en": "Average target = 310/5 = 62. Percent more = (80-62)/62 x 100 = 29.0%.",
+          "exp_hi": "औसत लक्षित = 310/5 = 62। अधिक प्रतिशत = (80-62)/62 x 100 = 29.0%।",
+          "img": "/question-images/chsl/chsl12_bar_51_q.svg"
+        },
+        {
+          "q": "The bar graph shows the target and actual production of AC machines (in thousands) of a factory in five months. In which month was the actual production 25% more than the target production?",
+          "opts": [
+            "July",
+            "June",
+            "April",
+            "August"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "दिया गया बार ग्राफ पाँच महीनों में एक कारखाने की एसी मशीनों (हज़ारों में) का लक्षित और वास्तविक उत्पादन दर्शाता है। किस महीने में वास्तविक उत्पादन, लक्षित उत्पादन से 25% अधिक था?",
+          "opts_hi": [
+            "जुलाई",
+            "जून",
+            "अप्रैल",
+            "अगस्त"
+          ],
+          "exp_en": "In June, target = 40 and actual = 50; 40 x 1.25 = 50. No other option satisfies this.",
+          "exp_hi": "जून में लक्षित = 40 और वास्तविक = 50; 40 x 1.25 = 50।",
+          "img": "/question-images/chsl/chsl12_bar_51_q.svg"
+        },
+        {
+          "q": "At a village fair, a stall owner invests Rs 8000 at 5% per annum compounded annually. Four statements about the amount are listed below. Which one is incorrect?",
+          "opts": [
+            "Rs 8400 after 1 year",
+            "Rs 9650 after 4 years",
+            "Rs 9261 after 3 years",
+            "Rs 8820 after 2 years"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "एक ग्रामीण मेले में एक स्टॉल मालिक 5% वार्षिक चक्रवृद्धि ब्याज (वार्षिक संयोजन) की दर से Rs 8000 निवेश करता है। मिश्रधन के बारे में चार कथन नीचे दिए गए हैं। इनमें से कौन-सा गलत है?",
+          "opts_hi": [
+            "1 वर्ष बाद Rs 8400",
+            "4 वर्ष बाद Rs 9650",
+            "3 वर्ष बाद Rs 9261",
+            "2 वर्ष बाद Rs 8820"
+          ],
+          "exp_en": "Multiply by 1.05 each year: 8000 gives 8400, then 8820, then 9261, then 9724.05. So Rs 9650 after 4 years is incorrect.",
+          "exp_hi": "प्रत्येक वर्ष 1.05 से गुणा करने पर 8000 से 8400, फिर 8820, फिर 9261 और फिर 9724.05 मिलता है। अतः 4 वर्ष बाद Rs 9650 गलत है।"
+        },
+        {
+          "q": "In a tailoring shop, Meera bought 30% more cloth than Naina, and Naina bought 20% less cloth than Pooja. Who bought the most cloth?",
+          "opts": [
+            "Pooja",
+            "Meera",
+            "Naina",
+            "Pooja and Meera bought equal cloth"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "एक दर्जी की दुकान में मीरा ने नैना से 30% अधिक कपड़ा खरीदा और नैना ने पूजा से 20% कम कपड़ा खरीदा। किसने सबसे अधिक कपड़ा खरीदा?",
+          "opts_hi": [
+            "पूजा",
+            "मीरा",
+            "नैना",
+            "पूजा और मीरा ने बराबर कपड़ा खरीदा"
+          ],
+          "exp_en": "Let Pooja = 100. Naina = 80 and Meera = 80 x 1.3 = 104. Meera has the most.",
+          "exp_hi": "माना पूजा = 100। नैना = 80 और मीरा = 80 x 1.3 = 104। अतः मीरा के पास सबसे अधिक कपड़ा है।"
+        },
+        {
+          "q": "A market vendor sold a basket of mangoes at a loss of 12%. Had he sold it for Rs 330 more, he would have gained 8%. What was the cost price of the basket?",
+          "opts": [
+            "Rs 1650",
+            "Rs 1500",
+            "Rs 1800",
+            "Rs 1980"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "एक बाज़ार के विक्रेता ने आमों की एक टोकरी 12% हानि पर बेची। यदि वह इसे Rs 330 अधिक में बेचता, तो उसे 8% लाभ होता। टोकरी का क्रय मूल्य कितना था?",
+          "opts_hi": [
+            "Rs 1650",
+            "Rs 1500",
+            "Rs 1800",
+            "Rs 1980"
+          ],
+          "exp_en": "The difference between a gain of 8% and a loss of 12% is 20% of CP. So 20% of CP = 330, giving CP = Rs 1650.",
+          "exp_hi": "8% लाभ और 12% हानि का अंतर क्रय मूल्य का 20% है। अतः क्रय मूल्य का 20% = 330, इसलिए क्रय मूल्य = Rs 1650।"
+        },
+        {
+          "q": "A dairy offers two schemes on a ghee tin. Scheme X: successive discounts of 20% and 10%. Scheme Y: a single flat discount of 30%. Which statement is correct?",
+          "opts": [
+            "Scheme X gives more discount",
+            "Both give equal discount",
+            "Scheme Y gives 2% more discount than X",
+            "Cannot be determined without the marked price"
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "एक डेयरी घी के टिन पर दो योजनाएँ देती है। योजना X: 20% और 10% की क्रमागत छूट। योजना Y: 30% की एकल छूट। कौन-सा कथन सही है?",
+          "opts_hi": [
+            "योजना X अधिक छूट देती है",
+            "दोनों बराबर छूट देती हैं",
+            "योजना Y, X से 2% अधिक छूट देती है",
+            "अंकित मूल्य के बिना निर्धारित नहीं किया जा सकता"
+          ],
+          "exp_en": "Successive discounts of 20% and 10% equal 20 + 10 - (20 x 10)/100 = 28%. A flat 30% is 2 percentage points more, whatever the marked price.",
+          "exp_hi": "20% और 10% की क्रमागत छूट = 20 + 10 - (20 x 10)/100 = 28%। एकल 30% छूट इससे 2 प्रतिशत अंक अधिक है, अंकित मूल्य चाहे जो हो।"
+        },
+        {
+          "q": "A cooperative society has 40 members whose average monthly contribution is Rs 600. Ten new members join, with an average monthly contribution of Rs 900. The average contribution of all members now is closest to:",
+          "opts": [
+            "Rs 640",
+            "Rs 660",
+            "Rs 690",
+            "Rs 720"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "एक सहकारी समिति में 40 सदस्य हैं जिनका औसत मासिक अंशदान Rs 600 है। 10 नए सदस्य जुड़ते हैं, जिनका औसत मासिक अंशदान Rs 900 है। अब सभी सदस्यों का औसत अंशदान लगभग कितना है?",
+          "opts_hi": [
+            "Rs 640",
+            "Rs 660",
+            "Rs 690",
+            "Rs 720"
+          ],
+          "exp_en": "New members are 10 out of 50, i.e. one-fifth. The average rises by one-fifth of the gap 300, which is 60. So the new average is 600 + 60 = Rs 660. Check: (24000 + 9000)/50 = 660.",
+          "exp_hi": "नए सदस्य 50 में से 10 हैं, यानी पाँचवाँ भाग। औसत अंतर 300 का पाँचवाँ भाग, अर्थात 60, बढ़ता है। अतः नया औसत = 600 + 60 = Rs 660। जाँच: (24000 + 9000)/50 = 660।"
+        },
+        {
+          "q": "A hostel mess invests Rs 7500 at 8% p.a. simple interest for 2½ years. It also invests another sum of Rs P at 6% p.a. simple interest for 3⅓ years, and this second interest is larger than the first by Rs 300. What is the value of P?",
+          "opts": [
+            "Rs 8,500",
+            "Rs 9,600",
+            "Rs 9,000",
+            "Rs 10,500"
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "एक हॉस्टल मेस 7500 रुपये को 8% वार्षिक साधारण ब्याज की दर से 2½ वर्ष के लिए निवेश करती है। वह एक अन्य राशि P रुपये को 6% वार्षिक साधारण ब्याज की दर से 3⅓ वर्ष के लिए भी निवेश करती है, और यह दूसरा ब्याज पहले ब्याज से 300 रुपये अधिक है। P का मान क्या है?",
+          "opts_hi": [
+            "8,500 रुपये",
+            "9,600 रुपये",
+            "9,000 रुपये",
+            "10,500 रुपये"
+          ],
+          "exp_en": "First interest = 7500 × 8 × 2.5 / 100 = Rs 1500. The second interest is 1500 + 300 = Rs 1800. Also P × 6 × (10/3) / 100 = 0.2P, so 0.2P = 1800 and P = Rs 9000.",
+          "exp_hi": "पहला ब्याज = 7500 × 8 × 2.5 / 100 = 1500 रुपये। दूसरा ब्याज = 1500 + 300 = 1800 रुपये। साथ ही P × 6 × (10/3) / 100 = 0.2P, इसलिए 0.2P = 1800 और P = 9000 रुपये।"
+        },
+        {
+          "q": "Which of the following is the greatest: √2, ∛3, ⁴√5, ⁶√11?",
+          "opts": [
+            "⁴√5",
+            "∛3",
+            "√2",
+            "⁶√11"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "निम्नलिखित में से सबसे बड़ा कौन सा है: √2, ∛3, ⁴√5, ⁶√11?",
+          "opts_hi": [
+            "⁴√5",
+            "∛3",
+            "√2",
+            "⁶√11"
+          ],
+          "exp_en": "Take the LCM of the root indices, which is 12, and raise each number to the 12th power. √2 gives 2^6 = 64, ∛3 gives 3^4 = 81, ⁴√5 gives 5^3 = 125, ⁶√11 gives 11^2 = 121. The greatest is ⁴√5.",
+          "exp_hi": "मूलांकों का ल.स. 12 लें और प्रत्येक संख्या का 12वाँ घात निकालें। √2 से 2^6 = 64, ∛3 से 3^4 = 81, ⁴√5 से 5^3 = 125, ⁶√11 से 11^2 = 121 मिलता है। सबसे बड़ी संख्या ⁴√5 है।"
+        },
+        {
+          "q": "A factory pays 4 skilled and 3 unskilled workers Rs 3050 per day in total, while 3 skilled and 4 unskilled workers together get Rs 2900 per day. What would be the daily wage bill for 5 skilled and 2 unskilled workers?",
+          "opts": [
+            "Rs 3,200",
+            "Rs 3,100",
+            "Rs 3,350",
+            "Rs 3,400"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "एक फैक्ट्री 4 कुशल और 3 अकुशल श्रमिकों को कुल 3050 रुपये प्रतिदिन देती है, जबकि 3 कुशल और 4 अकुशल श्रमिकों को मिलाकर 2900 रुपये प्रतिदिन मिलते हैं। 5 कुशल और 2 अकुशल श्रमिकों का दैनिक मज़दूरी बिल कितना होगा?",
+          "opts_hi": [
+            "3,200 रुपये",
+            "3,100 रुपये",
+            "3,350 रुपये",
+            "3,400 रुपये"
+          ],
+          "exp_en": "Let the daily wages be s and u. Then 4s + 3u = 3050 and 3s + 4u = 2900. Subtracting gives s − u = 150, and adding gives 7(s + u) = 5950, so s + u = 850. Hence s = 500 and u = 350, and 5s + 2u = 2500 + 700 = Rs 3200.",
+          "exp_hi": "मान लीजिए दैनिक मज़दूरी s और u है। तब 4s + 3u = 3050 और 3s + 4u = 2900। घटाने पर s − u = 150 और जोड़ने पर 7(s + u) = 5950, अतः s + u = 850। इसलिए s = 500 और u = 350, और 5s + 2u = 2500 + 700 = 3200 रुपये।"
+        },
+        {
+          "q": "A hospital records the number of days six patients stayed in a ward as 9, 3, 20, 5, 7 and 4. By how many days does the mean stay exceed the median stay?",
+          "opts": [
+            "1",
+            "1.5",
+            "2.5",
+            "2"
+          ],
+          "ans": 3,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "एक अस्पताल में छह मरीज़ों के वार्ड में रुकने के दिन 9, 3, 20, 5, 7 और 4 दर्ज किए गए हैं। माध्य ठहराव माध्यिका ठहराव से कितने दिन अधिक है?",
+          "opts_hi": [
+            "1",
+            "1.5",
+            "2.5",
+            "2"
+          ],
+          "exp_en": "Mean = (9 + 3 + 20 + 5 + 7 + 4) / 6 = 48/6 = 8. Arranged in order the data is 3, 4, 5, 7, 9, 20, so the median = (5 + 7)/2 = 6. The mean exceeds the median by 2 days.",
+          "exp_hi": "माध्य = (9 + 3 + 20 + 5 + 7 + 4) / 6 = 48/6 = 8। आँकड़ों को क्रम में लिखने पर 3, 4, 5, 7, 9, 20 मिलता है, अतः माध्यिका = (5 + 7)/2 = 6। माध्य, माध्यिका से 2 दिन अधिक है।"
+        },
+        {
+          "q": "Two concentric circular milk-storage tanks have radii 13 m and 5 m. A chord of the larger circle touches the smaller circle. What is the length of this chord?",
+          "opts": [
+            "12 m",
+            "24 m",
+            "18 m",
+            "26 m"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "दो संकेंद्रीय वृत्ताकार दूध भंडारण टंकियों की त्रिज्याएँ 13 m और 5 m हैं। बड़े वृत्त की एक जीवा छोटे वृत्त को स्पर्श करती है। इस जीवा की लंबाई कितनी है?",
+          "opts_hi": [
+            "12 m",
+            "24 m",
+            "18 m",
+            "26 m"
+          ],
+          "exp_en": "The radius to the point of contact is perpendicular to the chord and bisects it. Half the chord = √(13² − 5²) = √144 = 12, so the chord = 24 m. Checking the options, 24 m is the only one whose half (12) fits a 5-12-13 right triangle.",
+          "exp_hi": "स्पर्श बिंदु तक की त्रिज्या जीवा पर लंबवत होती है और उसे समद्विभाजित करती है। जीवा का आधा = √(13² − 5²) = √144 = 12, अतः जीवा = 24 m। विकल्पों से जाँचने पर केवल 24 m का आधा (12) 5-12-13 समकोण त्रिभुज में फिट होता है।"
+        },
+        {
+          "q": "On a farm, a ladder leans against the barn wall and makes an angle of 40° with the ground. Which of the following values is the smallest?",
+          "opts": [
+            "cos 40°",
+            "tan 40°",
+            "sin 40°",
+            "cot 40°"
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "एक खेत में एक सीढ़ी खलिहान की दीवार से टिकी है और ज़मीन के साथ 40° का कोण बनाती है। निम्नलिखित में से कौन सा मान सबसे छोटा है?",
+          "opts_hi": [
+            "cos 40°",
+            "tan 40°",
+            "sin 40°",
+            "cot 40°"
+          ],
+          "exp_en": "For 40°: sin ≈ 0.64, cos ≈ 0.77, tan ≈ 0.84, cot ≈ 1.19. So sin 40° is the smallest.",
+          "exp_hi": "40° के लिए: sin ≈ 0.64, cos ≈ 0.77, tan ≈ 0.84, cot ≈ 1.19। अतः sin 40° सबसे छोटा है।"
+        },
+        {
+          "q": "A boat carries vegetables along a river past a farm. It goes 36 km downstream in 3 hours and returns 28 km upstream in 4 hours. Which of the following statements is incorrect?",
+          "opts": [
+            "Speed of the boat in still water is 9.5 km/h",
+            "Speed of the stream is 2.5 km/h",
+            "Time to cover 42 km upstream is 6 hours",
+            "Time to cover 60 km downstream is 4 hours"
+          ],
+          "ans": 3,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "एक नाव नदी में खेत के पास से सब्ज़ियाँ ले जाती है। वह 3 घंटे में 36 km धारा के अनुकूल जाती है और 4 घंटे में 28 km धारा के प्रतिकूल वापस आती है। निम्नलिखित में से कौन सा कथन गलत है?",
+          "opts_hi": [
+            "स्थिर जल में नाव की चाल 9.5 km/h है",
+            "धारा की चाल 2.5 km/h है",
+            "धारा के प्रतिकूल 42 km तय करने में 6 घंटे लगते हैं",
+            "धारा के अनुकूल 60 km तय करने में 4 घंटे लगते हैं"
+          ],
+          "exp_en": "Downstream speed = 36/3 = 12 km/h and upstream speed = 28/4 = 7 km/h. Still water = (12+7)/2 = 9.5 and stream = (12-7)/2 = 2.5. 42 km upstream takes 42/7 = 6 h, but 60 km downstream takes 60/12 = 5 h, not 4 h, so the last statement is incorrect.",
+          "exp_hi": "धारा के अनुकूल चाल = 36/3 = 12 km/h और धारा के प्रतिकूल चाल = 28/4 = 7 km/h। स्थिर जल में चाल = (12+7)/2 = 9.5 और धारा की चाल = (12-7)/2 = 2.5। प्रतिकूल 42 km में 42/7 = 6 घंटे लगते हैं, लेकिन अनुकूल 60 km में 60/12 = 5 घंटे लगते हैं, 4 नहीं। अतः अंतिम कथन गलत है।"
+        },
+        {
+          "q": "A bank sets the code of a strong-room equal to the square of the value of [(2.4 ÷ 0.08 − 7/2 of 4/7) ÷ (1 3/4 + 0.25 × 9)]. What is the code?",
+          "opts": [
+            "49",
+            "7",
+            "64",
+            "56.25"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "एक बैंक अपने स्ट्रॉन्ग-रूम का कोड [(2.4 ÷ 0.08 − 7/2 of 4/7) ÷ (1 3/4 + 0.25 × 9)] के मान के वर्ग के बराबर रखता है। कोड क्या है?",
+          "opts_hi": [
+            "49",
+            "7",
+            "64",
+            "56.25"
+          ],
+          "exp_en": "2.4 ÷ 0.08 = 30 and 7/2 of 4/7 = 2, so the numerator is 28. The denominator is 1.75 + 2.25 = 4. The bracket equals 28/4 = 7, so the code is 7² = 49.",
+          "exp_hi": "2.4 ÷ 0.08 = 30 और 7/2 of 4/7 = 2, अतः अंश = 28। हर = 1.75 + 2.25 = 4। कोष्ठक का मान = 28/4 = 7, अतः कोड = 7² = 49।"
+        },
+        {
+          "q": "The HCF of two numbers is 12 and their LCM is 180. If the sum of the numbers is 96, what is the positive difference of their squares?",
+          "opts": [
+            "576",
+            "1296",
+            "2304",
+            "3600"
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "दो संख्याओं का HCF 12 और LCM 180 है। यदि संख्याओं का योग 96 है, तो उनके वर्गों का धनात्मक अंतर क्या है?",
+          "opts_hi": [
+            "576",
+            "1296",
+            "2304",
+            "3600"
+          ],
+          "exp_en": "Let the numbers be 12a and 12b with a, b co-prime. Then ab = 180/12 = 15 and a + b = 8, so a, b = 3, 5. The numbers are 36 and 60, and 60² − 36² = 3600 − 1296 = 2304.",
+          "exp_hi": "मान लें संख्याएँ 12a और 12b हैं, जहाँ a, b सह-अभाज्य हैं। तब ab = 180/12 = 15 और a + b = 8, अतः a, b = 3, 5। संख्याएँ 36 और 60 हैं, और 60² − 36² = 3600 − 1296 = 2304।"
+        },
+        {
+          "q": "While waiting for dinner at the hostel mess, Ravi notes that a train passes the window pole in 12 seconds and takes 30 seconds to cross a 300 m long bridge nearby at the same speed. What is the length of the train?",
+          "opts": [
+            "200 m",
+            "150 m",
+            "120 m",
+            "250 m"
+          ],
+          "ans": 0,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "हॉस्टल मेस में रात के खाने की प्रतीक्षा करते हुए रवि देखता है कि एक ट्रेन खिड़की के पास के खंभे को 12 सेकंड में पार करती है और उसी चाल से पास के 300 m लंबे पुल को पार करने में 30 सेकंड लेती है। ट्रेन की लंबाई कितनी है?",
+          "opts_hi": [
+            "200 m",
+            "150 m",
+            "120 m",
+            "250 m"
+          ],
+          "exp_en": "At constant speed, distance is proportional to time. Train length : (train + bridge) = 12 : 30 = 2 : 5, so the bridge is 3 parts = 300 m and 1 part = 100 m. The train is 2 parts = 200 m.",
+          "exp_hi": "चाल समान होने पर दूरी समय के समानुपाती होती है। ट्रेन की लंबाई : (ट्रेन + पुल) = 12 : 30 = 2 : 5, अतः पुल = 3 भाग = 300 m और 1 भाग = 100 m। ट्रेन = 2 भाग = 200 m।"
+        },
+        {
+          "q": "A bakery melts a cone-shaped block of chocolate of radius 6 cm and height 8 cm and pours it completely into identical cylindrical moulds, each of radius 2 cm, filled to a height of 4 cm. How many moulds are filled?",
+          "opts": [
+            "4",
+            "8",
+            "6",
+            "9"
+          ],
+          "ans": 2,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "एक बेकरी में शंकु के आकार के चॉकलेट के ब्लॉक को, जिसकी त्रिज्या 6 सेमी और ऊँचाई 8 सेमी है, पिघलाकर समान बेलनाकार साँचों में पूरा डाला जाता है। प्रत्येक साँचे की त्रिज्या 2 सेमी है और वह 4 सेमी की ऊँचाई तक भरा जाता है। कितने साँचे भरे जाएँगे?",
+          "opts_hi": [
+            "4",
+            "8",
+            "6",
+            "9"
+          ],
+          "exp_en": "Cone volume = (1/3)π(36)(8) = 96π cm³. Each mould holds π(4)(4) = 16π cm³. Number of moulds = 96π/16π = 6.",
+          "exp_hi": "शंकु का आयतन = (1/3)π(36)(8) = 96π सेमी³। प्रत्येक साँचे का आयतन = π(4)(4) = 16π सेमी³। साँचों की संख्या = 96π/16π = 6।"
+        },
+        {
+          "q": "A factory worker cycles to work. At 20 km/h he reaches 10 minutes late, and at 30 km/h he reaches 5 minutes early. What is the distance from his home to the factory?",
+          "opts": [
+            "12 km",
+            "20 km",
+            "18 km",
+            "15 km"
+          ],
+          "ans": 3,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "एक फैक्ट्री का कर्मचारी साइकिल से काम पर जाता है। 20 किमी/घंटा की चाल से वह 10 मिनट देर से पहुँचता है और 30 किमी/घंटा की चाल से 5 मिनट पहले पहुँचता है। उसके घर से फैक्ट्री की दूरी कितनी है?",
+          "opts_hi": [
+            "12 किमी",
+            "20 किमी",
+            "18 किमी",
+            "15 किमी"
+          ],
+          "exp_en": "The time difference is 15 min = 1/4 h. So d/20 − d/30 = 1/4, which gives d/60 = 1/4, so d = 15 km.",
+          "exp_hi": "समय का अंतर = 15 मिनट = 1/4 घंटा। अतः d/20 − d/30 = 1/4, जिससे d/60 = 1/4, इसलिए d = 15 किमी।"
+        },
+        {
+          "q": "A cooperative society mixes 40 kg of sugar costing Rs 36 per kg with some sugar costing Rs 48 per kg. The mixture is worth Rs 44 per kg. How many kg of the costlier sugar were used?",
+          "opts": [
+            "60 kg",
+            "80 kg",
+            "90 kg",
+            "100 kg"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "एक सहकारी समिति 36 रुपये प्रति किग्रा वाली 40 किग्रा चीनी को 48 रुपये प्रति किग्रा वाली कुछ चीनी के साथ मिलाती है। मिश्रण का मूल्य 44 रुपये प्रति किग्रा है। महँगी चीनी कितने किग्रा मिलाई गई?",
+          "opts_hi": [
+            "60 किग्रा",
+            "80 किग्रा",
+            "90 किग्रा",
+            "100 किग्रा"
+          ],
+          "exp_en": "Let the costlier sugar be x kg. Then 40(36) + 48x = 44(40 + x), so 1440 + 48x = 1760 + 44x, giving 4x = 320 and x = 80 kg.",
+          "exp_hi": "माना महँगी चीनी x किग्रा है। तब 40(36) + 48x = 44(40 + x), अर्थात 1440 + 48x = 1760 + 44x, अतः 4x = 320 और x = 80 किग्रा।"
+        },
+        {
+          "q": "In a factory, machine P alone finishes a job in 20 hours and machine Q alone in 30 hours. Let X be the time taken when both run together continuously, and Y be the time taken when they work in alternate hours, P first. Which statement is true?",
+          "opts": [
+            "X is greater than Y by 12 hours",
+            "Y is greater than X by 12 hours",
+            "Y is greater than X by 6 hours",
+            "X and Y are equal"
+          ],
+          "ans": 1,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "एक फैक्ट्री में मशीन P अकेली एक काम 20 घंटे में और मशीन Q अकेली 30 घंटे में पूरा करती है। माना X वह समय है जब दोनों लगातार साथ चलती हैं और Y वह समय है जब वे एकांतर घंटों में काम करती हैं, पहले P। कौन-सा कथन सही है?",
+          "opts_hi": [
+            "X, Y से 12 घंटे अधिक है",
+            "Y, X से 12 घंटे अधिक है",
+            "Y, X से 6 घंटे अधिक है",
+            "X और Y बराबर हैं"
+          ],
+          "exp_en": "Together: 1/20 + 1/30 = 1/12 per hour, so X = 12 hours. Alternating: each 2-hour cycle does 1/20 + 1/30 = 1/12 of the job, so 12 cycles are needed and Y = 24 hours. Y exceeds X by 12 hours.",
+          "exp_hi": "साथ में: 1/20 + 1/30 = 1/12 प्रति घंटा, अतः X = 12 घंटे। एकांतर: प्रत्येक 2 घंटे के चक्र में 1/20 + 1/30 = 1/12 काम होता है, इसलिए 12 चक्र लगेंगे और Y = 24 घंटे। Y, X से 12 घंटे अधिक है।"
+        },
+        {
+          "q": "In a dairy, A invests Rs 60,000 for 12 months, B invests Rs 80,000 for 8 months and C invests Rs 40,000 for 6 months. The yearly profit is Rs 1,60,000. Which of the following statements is incorrect?",
+          "opts": [
+            "A gets Rs 72,000",
+            "B gets Rs 64,000",
+            "A and B together get Rs 1,36,000",
+            "C gets Rs 26,000"
+          ],
+          "ans": 3,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "एक डेयरी में A, 60,000 रुपये 12 महीने के लिए, B, 80,000 रुपये 8 महीने के लिए और C, 40,000 रुपये 6 महीने के लिए लगाता है। वार्षिक लाभ 1,60,000 रुपये है। निम्नलिखित में से कौन-सा कथन गलत है?",
+          "opts_hi": [
+            "A को 72,000 रुपये मिलते हैं",
+            "B को 64,000 रुपये मिलते हैं",
+            "A और B को मिलाकर 1,36,000 रुपये मिलते हैं",
+            "C को 26,000 रुपये मिलते हैं"
+          ],
+          "exp_en": "Investment-time products are 720000 : 640000 : 240000 = 9 : 8 : 3. Shares of Rs 1,60,000 are A = 72,000, B = 64,000, C = 24,000. So C getting Rs 26,000 is incorrect.",
+          "exp_hi": "निवेश × समय का अनुपात 720000 : 640000 : 240000 = 9 : 8 : 3। 1,60,000 रुपये में हिस्से A = 72,000, B = 64,000, C = 24,000। अतः C को 26,000 रुपये मिलना गलत है।"
+        },
+        {
+          "q": "A hospital's OPD had 600 patients on Monday. The count rose by 20% on Tuesday, fell by 25% on Wednesday (compared with Tuesday), and rose by 10% on Thursday (compared with Wednesday). Which of the following values is INCORRECT?",
+          "opts": [
+            "Tuesday: 720 patients",
+            "Wednesday: 540 patients",
+            "Net change Monday to Thursday: 1% fall",
+            "Thursday: 600 patients"
+          ],
+          "ans": 3,
+          "subject": "Quantitative Aptitude",
+          "q_hi": "एक अस्पताल के OPD में सोमवार को 600 रोगी थे। मंगलवार को संख्या में 20% की वृद्धि हुई, बुधवार को (मंगलवार की तुलना में) 25% की कमी हुई, और गुरुवार को (बुधवार की तुलना में) 10% की वृद्धि हुई। निम्नलिखित में से कौन-सा मान गलत है?",
+          "opts_hi": [
+            "मंगलवार: 720 रोगी",
+            "बुधवार: 540 रोगी",
+            "सोमवार से गुरुवार तक कुल परिवर्तन: 1% की कमी",
+            "गुरुवार: 600 रोगी"
+          ],
+          "exp_en": "Tuesday = 600 × 1.20 = 720. Wednesday = 720 × 0.75 = 540. Thursday = 540 × 1.10 = 594, not 600, so option 3 is incorrect. The net change is (594 − 600)/600 = 1% fall, which is correct.",
+          "exp_hi": "मंगलवार = 600 × 1.20 = 720। बुधवार = 720 × 0.75 = 540। गुरुवार = 540 × 1.10 = 594, न कि 600, इसलिए विकल्प 3 गलत है। कुल परिवर्तन = (594 − 600)/600 = 1% की कमी, जो सही है।"
+        },
+        {
+          "q": "The old lighthouse (1) ______ on the cliff for over a century before it was finally decommissioned. Sailors who once relied (2) ______ its beam now use satellite navigation. Yet the villagers remain deeply attached to the tower, and they have (3) ______ a petition to preserve it. The council has promised to (4) ______ the matter carefully, though funds are (5) ______, and any restoration may take years. Select the most appropriate option for blank No. 1.",
+          "opts": [
+            "had stood",
+            "has stood",
+            "stands",
+            "was standing"
+          ],
+          "ans": 0,
+          "subject": "English Language",
+          "exp_en": "The standing happened over a long period before another past event (decommissioning), so the past perfect had stood is correct."
+        },
+        {
+          "q": "The old lighthouse (1) ______ on the cliff for over a century before it was finally decommissioned. Sailors who once relied (2) ______ its beam now use satellite navigation. Yet the villagers remain deeply attached to the tower, and they have (3) ______ a petition to preserve it. The council has promised to (4) ______ the matter carefully, though funds are (5) ______, and any restoration may take years. Select the most appropriate option for blank No. 2.",
+          "opts": [
+            "at",
+            "to",
+            "for",
+            "on"
+          ],
+          "ans": 3,
+          "subject": "English Language",
+          "exp_en": "The verb relied takes the preposition on (rely on something)."
+        },
+        {
+          "q": "The old lighthouse (1) ______ on the cliff for over a century before it was finally decommissioned. Sailors who once relied (2) ______ its beam now use satellite navigation. Yet the villagers remain deeply attached to the tower, and they have (3) ______ a petition to preserve it. The council has promised to (4) ______ the matter carefully, though funds are (5) ______, and any restoration may take years. Select the most appropriate option for blank No. 3.",
+          "opts": [
+            "draw up",
+            "drew up",
+            "drawing up",
+            "drawn up"
+          ],
+          "ans": 3,
+          "subject": "English Language",
+          "exp_en": "After the auxiliary have, the past participle is needed: have drawn up a petition."
+        },
+        {
+          "q": "The old lighthouse (1) ______ on the cliff for over a century before it was finally decommissioned. Sailors who once relied (2) ______ its beam now use satellite navigation. Yet the villagers remain deeply attached to the tower, and they have (3) ______ a petition to preserve it. The council has promised to (4) ______ the matter carefully, though funds are (5) ______, and any restoration may take years. Select the most appropriate option for blank No. 4.",
+          "opts": [
+            "consult",
+            "console",
+            "consider",
+            "conceive"
+          ],
+          "ans": 2,
+          "subject": "English Language",
+          "exp_en": "Consider means to think about carefully and fits the matter as its object. Consult needs a person or source, console means to comfort, and conceive means to form an idea."
+        },
+        {
+          "q": "The old lighthouse (1) ______ on the cliff for over a century before it was finally decommissioned. Sailors who once relied (2) ______ its beam now use satellite navigation. Yet the villagers remain deeply attached to the tower, and they have (3) ______ a petition to preserve it. The council has promised to (4) ______ the matter carefully, though funds are (5) ______, and any restoration may take years. Select the most appropriate option for blank No. 5.",
+          "opts": [
+            "scarcely",
+            "scarce",
+            "scarcity",
+            "scarcen"
+          ],
+          "ans": 1,
+          "subject": "English Language",
+          "exp_en": "After the verb are, an adjective is required, so scarce (in short supply) is correct. Scarcely is an adverb, scarcity is a noun, and scarcen does not exist."
+        },
+        {
+          "q": "Identify the part of speech of the word QUICKLY in the sentence: She finished the report quickly and left. Which of the following does NOT describe its function?",
+          "opts": [
+            "It modifies the verb finished",
+            "It tells the manner of the action",
+            "It is an adverb",
+            "It modifies the noun report"
+          ],
+          "ans": 3,
+          "subject": "English Language",
+          "exp_en": "Quickly is an adverb of manner modifying the verb finished. It does not modify a noun, so option 3 is the incorrect description."
+        },
+        {
+          "q": "Choose the word opposite in meaning to the word in capitals: The critic's praise was surprisingly GENUINE, but the actor's smile was ______.",
+          "opts": [
+            "Sincere",
+            "Warm",
+            "Feigned",
+            "Honest"
+          ],
+          "ans": 2,
+          "subject": "English Language",
+          "exp_en": "Genuine means real or authentic; its opposite is feigned, meaning fake or pretended. The other options are similar in meaning to genuine."
+        },
+        {
+          "q": "Which of the following words is spelt incorrectly?",
+          "opts": [
+            "Accommodation",
+            "Perseverence",
+            "Occurrence",
+            "Guarantee"
+          ],
+          "ans": 1,
+          "subject": "English Language",
+          "exp_en": "The correct spelling is perseverance, ending in -ance. The other three are spelt correctly."
+        },
+        {
+          "q": "Read the passage: Many villages that once relied on wells now receive piped water. Children no longer walk long distances to fetch it, and they attend school more regularly. Health officials also report fewer stomach infections. What is the main idea of the passage?",
+          "opts": [
+            "Wells are better than pipes",
+            "Schools should be built near wells",
+            "Piped water has improved village life",
+            "Stomach infections are always avoidable"
+          ],
+          "ans": 2,
+          "subject": "English Language",
+          "exp_en": "The passage lists benefits of piped water: saved time, better school attendance and improved health. So the main idea is that piped water improved village life."
+        },
+        {
+          "q": "The committee decided to ______ the launch of the new scheme until the budget was finalised.",
+          "opts": [
+            "put out",
+            "put off",
+            "put up",
+            "put down"
+          ],
+          "ans": 1,
+          "subject": "English Language",
+          "exp_en": "Put off means to postpone, which fits a decision to delay the launch. Put out means extinguish, put up means erect or accommodate, and put down means suppress or record."
+        },
+        {
+          "q": "The sudden collapse of the bridge was a ______ reminder of how neglect of maintenance can cost lives.",
+          "opts": [
+            "trivial",
+            "grim",
+            "jovial",
+            "lenient"
+          ],
+          "ans": 1,
+          "subject": "English Language",
+          "exp_en": "Grim means harsh and sombre, which suits a reminder about a deadly collapse. Trivial, jovial and lenient do not fit the serious tone."
+        },
+        {
+          "q": "Choose the word closest in meaning to the word in capitals: The judge's remarks were deliberately AMBIGUOUS, leaving both parties unsure of the ruling.",
+          "opts": [
+            "Sincere",
+            "Harsh",
+            "Elaborate",
+            "Vague"
+          ],
+          "ans": 3,
+          "subject": "English Language",
+          "exp_en": "Ambiguous means open to more than one interpretation, so it is closest to vague. The other options do not describe unclear meaning."
+        },
+        {
+          "q": "What does the idiom in bold mean in the sentence: After weeks of silence, the manager finally decided to bite the bullet and announce the layoffs?",
+          "opts": [
+            "To speak angrily to employees",
+            "To face an unpleasant task bravely",
+            "To avoid a difficult decision",
+            "To act without thinking"
+          ],
+          "ans": 1,
+          "subject": "English Language",
+          "exp_en": "To bite the bullet means to force oneself to do something unpleasant that cannot be avoided. The manager stopped delaying and announced the layoffs."
+        },
+        {
+          "q": "Meera had not studied at all for the test, so it was no surprise that she ______.",
+          "opts": [
+            "failed to pass",
+            "scored the highest marks",
+            "was praised by the teacher",
+            "finished the paper early with confidence"
+          ],
+          "ans": 0,
+          "subject": "English Language",
+          "exp_en": "Not studying at all logically leads to failing. The other options describe outcomes that would be surprising given no preparation."
+        },
+        {
+          "q": "In the following sentence, four words are underlined in meaning. Which of the following usages is NOT correct? The principal (A) of the school said that the new rule would affect (B) every student, but its effect (C) on the staff would be less, and he asked everyone to accept (D) it calmly.",
+          "opts": [
+            "principal (A)",
+            "affect (B)",
+            "effect (C)",
+            "None of the above; all are correct"
+          ],
+          "ans": 3,
+          "subject": "English Language",
+          "exp_en": "Principal (head of school), affect (verb: influence), effect (noun: result) and accept (receive) are all used correctly, so no usage is incorrect."
+        },
+        {
+          "q": "Complete the sentence: Your brother hardly ever eats sweets, ______?",
+          "opts": [
+            "does he",
+            "doesn't he",
+            "isn't he",
+            "hasn't he"
+          ],
+          "ans": 0,
+          "subject": "English Language",
+          "exp_en": "Hardly ever makes the statement negative in sense, so the tag must be positive: does he."
+        },
+        {
+          "q": "Four of the following five words are alike in meaning or category. Which word does NOT belong with the others?",
+          "opts": [
+            "Meagre",
+            "Scanty",
+            "Paltry",
+            "Copious"
+          ],
+          "ans": 3,
+          "subject": "English Language",
+          "exp_en": "Meagre, scanty and paltry all mean small or insufficient in amount, whereas copious means abundant."
+        },
+        {
+          "q": "At the railway station, the announcer said, The train to Lucknow will arrive ______ platform number four ______ ten minutes. Select the correct pair for the blanks.",
+          "opts": [
+            "in / on",
+            "on / at",
+            "at / in",
+            "to / by"
+          ],
+          "ans": 2,
+          "subject": "English Language",
+          "exp_en": "We say arrive at a platform (a specific point) and in ten minutes (after a period of time)."
+        },
+        {
+          "q": "Which option gives the correct order of the parts to form a meaningful sentence? P: that had been closed for decades Q: the villagers finally reopened R: after a long campaign S: the ancient temple",
+          "opts": [
+            "QSPR",
+            "RQSP",
+            "RSPQ",
+            "SPRQ"
+          ],
+          "ans": 1,
+          "subject": "English Language",
+          "exp_en": "The sentence reads: After a long campaign (R), the villagers finally reopened (Q) the ancient temple (S) that had been closed for decades (P). Option RSPQ gives an illogical order, and the others do not form a sentence."
+        },
+        {
+          "q": "Choose the option that best replaces the highlighted part of the sentence. Having been warned about the slippery slope, the trekkers still proceeded, which showed that they were more adventurous than they were careful.",
+          "opts": [
+            "which showed that they were more adventurous than careful",
+            "which showed them more adventurous than being careful",
+            "which showed that they are more adventurous than careful",
+            "No improvement"
+          ],
+          "ans": 0,
+          "subject": "English Language",
+          "exp_en": "In a comparison, the two compared items must be parallel and the clause should avoid repeating the subject and verb needlessly. 'more adventurous than careful' is concise and keeps the past tense consistent; the other options break parallelism or tense."
+        },
+        {
+          "q": "Choose the correct passive form of the sentence: The curator will have catalogued every manuscript before the exhibition opens.",
+          "opts": [
+            "Every manuscript will have been catalogued by the curator before the exhibition opens.",
+            "Every manuscript would have been catalogued by the curator before the exhibition opens.",
+            "Every manuscript will be catalogued by the curator before the exhibition opens.",
+            "Every manuscript will have being catalogued by the curator before the exhibition opens."
+          ],
+          "ans": 0,
+          "subject": "English Language",
+          "exp_en": "Future perfect active 'will have catalogued' becomes 'will have been catalogued' in the passive. Option 2 changes the modal, option 3 drops the perfect aspect, and option 4 uses the wrong participle 'being'."
+        },
+        {
+          "q": "During the interview, the manager said to the candidate, Why did you leave your previous job? Choose the correct indirect speech.",
+          "opts": [
+            "The manager asked the candidate why he has left his previous job.",
+            "The manager asked the candidate why did he leave his previous job.",
+            "The manager asked the candidate that why he left his previous job.",
+            "The manager asked the candidate why he had left his previous job."
+          ],
+          "ans": 3,
+          "subject": "English Language",
+          "exp_en": "A wh-question in reported speech takes statement word order and the simple past shifts to the past perfect: 'why he had left'. The other options keep question order, add 'that', or use the wrong tense."
+        },
+        {
+          "q": "Select the part of the sentence that contains an error: (a) Neither the captain (b) nor the players (c) was aware of (d) the change in the schedule.",
+          "opts": [
+            "(c) was aware of",
+            "(b) nor the players",
+            "(a) Neither the captain",
+            "(d) the change in the schedule"
+          ],
+          "ans": 0,
+          "subject": "English Language",
+          "exp_en": "With neither...nor, the verb agrees with the subject nearer to it. Here that is 'the players', which is plural, so the verb should be 'were', making segment (c) incorrect."
+        },
+        {
+          "q": "Rohan spent his weekends walking through old city lanes, studying the history of buildings and monuments. Choose the one word for a person who studies or collects objects and relics of the distant past.",
+          "opts": [
+            "Antiquarian",
+            "Archivist",
+            "Historian",
+            "Curator"
+          ],
+          "ans": 0,
+          "subject": "English Language",
+          "exp_en": "An antiquarian is a person who studies or collects antiques and relics of the past. An archivist keeps records, a historian writes about history, and a curator manages a museum collection."
+        },
+        {
+          "q": "Which word is the correct noun form of the verb DECIDE?",
+          "opts": [
+            "Decisive",
+            "Decidedly",
+            "Decision",
+            "Decidement"
+          ],
+          "ans": 2,
+          "subject": "English Language",
+          "exp_en": "The noun form of the verb decide is decision. Decisive is an adjective, decidedly is an adverb, and decidement is not a standard English word."
+        }
+      ]
     }
   ]
 }
