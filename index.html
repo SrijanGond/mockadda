@@ -258,7 +258,6 @@ function openReportModal(q){
   box.appendChild(el('div',{css:'font-size:12px;color:#64748b;margin-bottom:14px;line-height:1.5;',text:'This goes straight to the question bank for review — thank you for helping improve it.'}));
 
   const select=el('select',{css:'width:100%;padding:10px;border:1px solid #e2e8f0;border-radius:8px;font-size:13px;margin-bottom:10px;'});
-  const ph=el('option',{value:'',text:'Select a reason…'}); ph.disabled=true; ph.selected=true; select.appendChild(ph);
   REPORT_REASONS.forEach(r=>select.appendChild(el('option',{value:r,text:r})));
 
   const note=el('textarea',{css:'width:100%;padding:10px;border:1px solid #e2e8f0;border-radius:8px;font-size:13px;min-height:70px;margin-bottom:14px;font-family:inherit;resize:vertical;'});
@@ -272,7 +271,6 @@ function openReportModal(q){
   const btnRow=el('div',{css:'display:flex;gap:10px;'});
   const cancelBtn=el('button',{css:'flex:1;padding:11px;background:#f1f5f9;border:1px solid #e2e8f0;color:#0f172a;border-radius:9px;cursor:pointer;font-weight:600;font-size:13px;',text:'Cancel',onClick:()=>ov.remove()});
   const submitBtn=el('button',{css:'flex:1;padding:11px;background:#b91c1c;border:none;color:#fff;border-radius:9px;cursor:pointer;font-family:Syne,sans-serif;font-weight:700;font-size:13px;',text:'Submit Report',onClick:()=>{
-    if(!select.value){ select.style.borderColor='#b91c1c'; return; }
     submitBtn.disabled=true; submitBtn.textContent='Sending…';
     const reason = select.value + (note.value.trim() ? (' — '+note.value.trim()) : '');
     reportQuestion({
@@ -2826,6 +2824,13 @@ async function boot(){
           // replaces this page's title/description, so Google's renderer sees every mock-test URL turn
           // into the same exam page ("Page with redirect" / duplicate). Keep the URL, title and canonical
           // exactly as served for this mock-test page.
+          // SEO: give each mock-test URL its own canonical, title and description so Google
+          // does not treat it as a duplicate of the homepage (static canonical in <head> is '/').
+          setCanonical(path.replace(/\/$/, ''));
+          document.title = exam.name + ' Mock Test ' + mockNumber + ' \u2013 Free Online Practice | ReadyMadeQuiz';
+          const mockMeta = document.querySelector('meta[name="description"]');
+          if(mockMeta) mockMeta.setAttribute('content',
+            'Free ' + exam.name + ' mock test ' + mockNumber + ' with exam-pattern questions, timer and instant result. Practice on ReadyMadeQuiz.');
           startQuiz(mCatKey, mExamKey, fullTest);
           return; // Exit boot, quiz starts immediately
         } catch(e) {
