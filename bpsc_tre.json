@@ -1,0 +1,590 @@
+{
+ "tests": [
+  {
+   "id": "bpsc_tre_1",
+   "title": "BPSC TRE 4.0 Prelims Practice Set 1 (History & National Movement)",
+   "duration": 20,
+   "difficulty": "Medium",
+   "questionCount": 25,
+   "correctMarks": 1,
+   "negativeMarks": 0.33,
+   "questions": [
+    {
+     "id": "gen-1792835309312-1",
+     "subject": "History & National Movement (India & Bihar)",
+     "topic": "National Movement",
+     "difficulty": "Easy",
+     "q": "In which year did Mahatma Gandhi lead the Champaran Satyagraha against the oppressive indigo (tinkathia) system?",
+     "q_hi": "महात्मा गांधी ने नील की शोषणकारी तिनकठिया प्रथा के विरुद्ध चंपारण सत्याग्रह का नेतृत्व किस वर्ष किया?",
+     "opts": [
+      "1915",
+      "1917",
+      "1919",
+      "1920"
+     ],
+     "opts_hi": [
+      "1915",
+      "1917",
+      "1919",
+      "1920"
+     ],
+     "ans": 1,
+     "exp_en": "Gandhiji's first satyagraha in India was held at Champaran (Bihar) in 1917, at the request of Rajkumar Shukla, against the tinkathia system.",
+     "exp_hi": "गांधीजी का भारत में पहला सत्याग्रह 1917 में चंपारण (बिहार) में राजकुमार शुक्ल के आग्रह पर तिनकठिया प्रथा के विरुद्ध हुआ।"
+    },
+    {
+     "id": "gen-1792835309312-2",
+     "subject": "History & National Movement (India & Bihar)",
+     "topic": "Bihar History",
+     "difficulty": "Medium",
+     "q": "Who led the Revolt of 1857 in Bihar from Jagdishpur (Arrah) in spite of his advanced age?",
+     "q_hi": "अपनी वृद्धावस्था के बावजूद 1857 के विद्रोह में बिहार के जगदीशपुर (आरा) से किसने नेतृत्व किया?",
+     "opts": [
+      "Peer Ali Khan",
+      "Tantia Tope",
+      "Nana Sahib",
+      "Babu Kunwar Singh"
+     ],
+     "opts_hi": [
+      "पीर अली खान",
+      "तात्या टोपे",
+      "नाना साहेब",
+      "बाबू कुँवर सिंह"
+     ],
+     "ans": 3,
+     "exp_en": "Babu Kunwar Singh of Jagdishpur led the 1857 revolt in Bihar. Peer Ali Khan, a Patna bookseller, was executed in 1857; Tantia Tope and Nana Sahib are associated with Kanpur and central India.",
+     "exp_hi": "जगदीशपुर के बाबू कुँवर सिंह ने बिहार में 1857 के विद्रोह का नेतृत्व किया। पटना के पुस्तक विक्रेता पीर अली खान को 1857 में फाँसी दी गई; तात्या टोपे और नाना साहेब कानपुर व मध्य भारत से जुड़े थे।"
+    },
+    {
+     "id": "gen-1792835309312-3",
+     "subject": "History & National Movement (India & Bihar)",
+     "topic": "Bihar History",
+     "difficulty": "Easy",
+     "q": "Which Bihar-born freedom fighter became the first President of India?",
+     "q_hi": "बिहार में जन्मे किस स्वतंत्रता सेनानी को भारत का प्रथम राष्ट्रपति बनने का गौरव प्राप्त हुआ?",
+     "opts": [
+      "Dr. Rajendra Prasad",
+      "Anugrah Narayan Sinha",
+      "Jayaprakash Narayan",
+      "Sachchidananda Sinha"
+     ],
+     "opts_hi": [
+      "डॉ. राजेन्द्र प्रसाद",
+      "अनुग्रह नारायण सिन्हा",
+      "जयप्रकाश नारायण",
+      "सच्चिदानंद सिन्हा"
+     ],
+     "ans": 0,
+     "exp_en": "Dr. Rajendra Prasad (born at Ziradei, Siwan) presided over the Constituent Assembly and served as India's first President (1950-62).",
+     "exp_hi": "डॉ. राजेन्द्र प्रसाद (जन्म: जीरादेई, सिवान) संविधान सभा के अध्यक्ष रहे और भारत के प्रथम राष्ट्रपति (1950-62) बने।"
+    },
+    {
+     "id": "gen-1792835309312-4",
+     "subject": "History & National Movement (India & Bihar)",
+     "topic": "Bihar History",
+     "difficulty": "Hard",
+     "q": "Who, being the oldest member, was the temporary (interim) President of the Constituent Assembly at its first meeting in December 1946?",
+     "q_hi": "दिसंबर 1946 में संविधान सभा की प्रथम बैठक में सबसे वरिष्ठ सदस्य के रूप में अस्थायी अध्यक्ष कौन थे?",
+     "opts": [
+      "Dr. B. R. Ambedkar",
+      "H. C. Mukherjee",
+      "Dr. Rajendra Prasad",
+      "Sachchidananda Sinha"
+     ],
+     "opts_hi": [
+      "डॉ. बी. आर. अंबेडकर",
+      "एच. सी. मुखर्जी",
+      "डॉ. राजेन्द्र प्रसाद",
+      "सच्चिदानंद सिन्हा"
+     ],
+     "ans": 3,
+     "exp_en": "Sachchidananda Sinha of Bihar was the temporary president on 9 December 1946. Dr. Rajendra Prasad was later elected the permanent president.",
+     "exp_hi": "बिहार के सच्चिदानंद सिन्हा 9 दिसंबर 1946 को अस्थायी अध्यक्ष थे। बाद में डॉ. राजेन्द्र प्रसाद स्थायी अध्यक्ष चुने गए।"
+    },
+    {
+     "id": "gen-1792835309312-5",
+     "subject": "History & National Movement (India & Bihar)",
+     "topic": "Ancient India",
+     "difficulty": "Medium",
+     "q": "Ashoka adopted Buddhism after the Kalinga War, which was fought in about:",
+     "q_hi": "कलिंग युद्ध, जिसके बाद अशोक ने बौद्ध धर्म अपनाया, लगभग किस वर्ष लड़ा गया?",
+     "opts": [
+      "321 BCE",
+      "261 BCE",
+      "232 BCE",
+      "185 BCE"
+     ],
+     "opts_hi": [
+      "321 BCE",
+      "261 BCE",
+      "232 BCE",
+      "185 BCE"
+     ],
+     "ans": 1,
+     "exp_en": "Ashoka conquered Kalinga in about 261 BCE. 321 BCE is Chandragupta's accession, 232 BCE is Ashoka's death and 185 BCE marks the end of the Mauryas.",
+     "exp_hi": "अशोक ने लगभग 261 ई.पू. में कलिंग जीता। 321 ई.पू. चंद्रगुप्त का राज्यारोहण, 232 ई.पू. अशोक की मृत्यु तथा 185 ई.पू. मौर्य वंश का अंत है।"
+    },
+    {
+     "id": "gen-1792835309312-6",
+     "subject": "History & National Movement (India & Bihar)",
+     "topic": "Ancient India",
+     "difficulty": "Easy",
+     "q": "Pataliputra, the capital of the Mauryan Empire, is the modern city of:",
+     "q_hi": "मौर्य साम्राज्य की राजधानी पाटलिपुत्र वर्तमान में किस नगर के रूप में स्थित है?",
+     "opts": [
+      "Bhagalpur",
+      "Nalanda",
+      "Patna",
+      "Gaya"
+     ],
+     "opts_hi": [
+      "भागलपुर",
+      "नालंदा",
+      "पटना",
+      "गया"
+     ],
+     "ans": 2,
+     "exp_en": "Pataliputra (earlier Pataligram) lies at modern Patna on the Ganga.",
+     "exp_hi": "पाटलिपुत्र (प्राचीन पाटलिग्राम) वर्तमान पटना में गंगा तट पर स्थित था।"
+    },
+    {
+     "id": "gen-1792835309312-7",
+     "subject": "History & National Movement (India & Bihar)",
+     "topic": "Ancient India",
+     "difficulty": "Medium",
+     "q": "The ancient Nalanda Mahavihara is generally credited to the patronage of which Gupta ruler?",
+     "q_hi": "प्राचीन नालंदा महाविहार की स्थापना का श्रेय सामान्यतः किस गुप्त शासक को दिया जाता है?",
+     "opts": [
+      "Kumaragupta I",
+      "Samudragupta",
+      "Chandragupta I",
+      "Skandagupta"
+     ],
+     "opts_hi": [
+      "कुमारगुप्त प्रथम",
+      "समुद्रगुप्त",
+      "चंद्रगुप्त प्रथम",
+      "स्कंदगुप्त"
+     ],
+     "ans": 0,
+     "exp_en": "Nalanda is generally attributed to Kumaragupta I (5th century CE) and flourished later under Harsha and the Palas.",
+     "exp_hi": "नालंदा की स्थापना का श्रेय सामान्यतः कुमारगुप्त प्रथम (5वीं सदी ई.) को दिया जाता है; बाद में हर्ष और पालों के काल में यह फला-फूला।"
+    },
+    {
+     "id": "gen-1792835309312-8",
+     "subject": "History & National Movement (India & Bihar)",
+     "topic": "Medieval India",
+     "difficulty": "Hard",
+     "q": "Vikramshila University (near Bhagalpur, Bihar) was founded by which Pala ruler?",
+     "q_hi": "विक्रमशिला विश्वविद्यालय (भागलपुर, बिहार के निकट) की स्थापना किस पाल शासक ने की?",
+     "opts": [
+      "Devapala",
+      "Gopala",
+      "Mahipala",
+      "Dharmapala"
+     ],
+     "opts_hi": [
+      "देवपाल",
+      "गोपाल",
+      "महिपाल",
+      "धर्मपाल"
+     ],
+     "ans": 3,
+     "exp_en": "Dharmapala (c. 770-810 CE) founded Vikramshila, whose ruins are at Antichak, Bhagalpur.",
+     "exp_hi": "धर्मपाल (लगभग 770-810 ई.) ने विक्रमशिला की स्थापना की, जिसके अवशेष भागलपुर के अंतीचक में हैं।"
+    },
+    {
+     "id": "gen-1792835309312-9",
+     "subject": "History & National Movement (India & Bihar)",
+     "topic": "Ancient India",
+     "difficulty": "Medium",
+     "q": "Lord Mahavira, the 24th Tirthankara, was born at Kundagrama near which ancient city?",
+     "q_hi": "24वें तीर्थंकर भगवान महावीर का जन्म किस प्राचीन नगर के निकट कुंडग्राम में हुआ था?",
+     "opts": [
+      "Kapilavastu",
+      "Vaishali",
+      "Kushinagar",
+      "Pava"
+     ],
+     "opts_hi": [
+      "कपिलवस्तु",
+      "वैशाली",
+      "कुशीनगर",
+      "पावा"
+     ],
+     "ans": 1,
+     "exp_en": "Mahavira was born at Kundagrama near Vaishali. He attained nirvana at Pava (Pavapuri).",
+     "exp_hi": "महावीर का जन्म वैशाली के निकट कुंडग्राम में हुआ। उन्हें पावा (पावापुरी) में निर्वाण प्राप्त हुआ।"
+    },
+    {
+     "id": "gen-1792835309312-10",
+     "subject": "History & National Movement (India & Bihar)",
+     "topic": "Ancient India",
+     "difficulty": "Medium",
+     "q": "Gautama Buddha attained enlightenment at Bodh Gaya on the banks of the river:",
+     "q_hi": "गौतम बुद्ध को बोधगया में किस नदी के तट पर ज्ञान प्राप्त हुआ?",
+     "opts": [
+      "Gandak",
+      "Son",
+      "Kosi",
+      "Niranjana (Phalgu)"
+     ],
+     "opts_hi": [
+      "गंडक",
+      "सोन",
+      "कोसी",
+      "निरंजना (फल्गु)"
+     ],
+     "ans": 3,
+     "exp_en": "Siddhartha attained enlightenment under the Bodhi tree at Bodh Gaya on the bank of the Niranjana (Phalgu) river.",
+     "exp_hi": "सिद्धार्थ को बोधगया में निरंजना (फल्गु) नदी के तट पर बोधि वृक्ष के नीचे ज्ञान प्राप्त हुआ।"
+    },
+    {
+     "id": "gen-1792835309312-11",
+     "subject": "History & National Movement (India & Bihar)",
+     "topic": "Ancient India",
+     "difficulty": "Medium",
+     "q": "Where was the Second Buddhist Council held?",
+     "q_hi": "द्वितीय बौद्ध संगीति कहाँ आयोजित हुई थी?",
+     "opts": [
+      "Vaishali",
+      "Rajgriha",
+      "Kashmir",
+      "Pataliputra"
+     ],
+     "opts_hi": [
+      "वैशाली",
+      "राजगृह",
+      "कश्मीर",
+      "पाटलिपुत्र"
+     ],
+     "ans": 0,
+     "exp_en": "The Second Buddhist Council was held at Vaishali. The First was at Rajgriha and the Third at Pataliputra.",
+     "exp_hi": "द्वितीय बौद्ध संगीति वैशाली में हुई। प्रथम राजगृह में और तृतीय पाटलिपुत्र में हुई थी।"
+    },
+    {
+     "id": "gen-1792835309312-12",
+     "subject": "History & National Movement (India & Bihar)",
+     "topic": "Ancient India",
+     "difficulty": "Hard",
+     "q": "Who presided over the Third Buddhist Council held at Pataliputra during Ashoka's reign?",
+     "q_hi": "अशोक के शासनकाल में पाटलिपुत्र में आयोजित तृतीय बौद्ध संगीति की अध्यक्षता किसने की?",
+     "opts": [
+      "Upali",
+      "Mahakassapa",
+      "Moggaliputta Tissa",
+      "Vasumitra"
+     ],
+     "opts_hi": [
+      "उपालि",
+      "महाकस्सप",
+      "मोग्गलिपुत्त तिस्स",
+      "वसुमित्र"
+     ],
+     "ans": 2,
+     "exp_en": "Moggaliputta Tissa presided over the Third Council. Vasumitra presided over the Fourth Council under Kanishka.",
+     "exp_hi": "तृतीय संगीति की अध्यक्षता मोग्गलिपुत्त तिस्स ने की। चतुर्थ संगीति की अध्यक्षता कनिष्क के काल में वसुमित्र ने की थी।"
+    },
+    {
+     "id": "gen-1792835309312-13",
+     "subject": "History & National Movement (India & Bihar)",
+     "topic": "Medieval India",
+     "difficulty": "Medium",
+     "q": "Sher Shah Suri, who belonged to Sasaram (Bihar), defeated Humayun in 1539 in the Battle of:",
+     "q_hi": "सासाराम (बिहार) के शेरशाह सूरी ने 1539 में किस युद्ध में हुमायूँ को पराजित किया?",
+     "opts": [
+      "Khanwa",
+      "Tarain",
+      "Panipat",
+      "Chausa"
+     ],
+     "opts_hi": [
+      "खानवा",
+      "तराइन",
+      "पानीपत",
+      "चौसा"
+     ],
+     "ans": 3,
+     "exp_en": "Sher Shah defeated Humayun at Chausa (1539) and again at Kannauj (1540), after which he became the ruler of Delhi.",
+     "exp_hi": "शेरशाह ने चौसा (1539) और फिर कन्नौज (1540) में हुमायूँ को हराया और दिल्ली का शासक बना।"
+    },
+    {
+     "id": "gen-1792835309312-14",
+     "subject": "History & National Movement (India & Bihar)",
+     "topic": "Modern India",
+     "difficulty": "Medium",
+     "q": "The Battle of Buxar (1764) was fought between the British and the combined forces of Mir Qasim, Shuja-ud-Daula and:",
+     "q_hi": "बक्सर का युद्ध (1764) अंग्रेजों तथा मीर कासिम, शुजाउद्दौला और किसकी संयुक्त सेनाओं के बीच हुआ?",
+     "opts": [
+      "Siraj-ud-Daula",
+      "Shah Alam II",
+      "Mir Jafar",
+      "Hyder Ali"
+     ],
+     "opts_hi": [
+      "सिराजुद्दौला",
+      "शाह आलम द्वितीय",
+      "मीर जाफर",
+      "हैदर अली"
+     ],
+     "ans": 1,
+     "exp_en": "At Buxar (Bihar) the British under Hector Munro defeated Mir Qasim, Shuja-ud-Daula of Awadh and the Mughal emperor Shah Alam II.",
+     "exp_hi": "बक्सर (बिहार) में हेक्टर मुनरो के नेतृत्व में अंग्रेजों ने मीर कासिम, अवध के शुजाउद्दौला और मुगल सम्राट शाह आलम द्वितीय को पराजित किया।"
+    },
+    {
+     "id": "gen-1792835309312-15",
+     "subject": "History & National Movement (India & Bihar)",
+     "topic": "Modern India",
+     "difficulty": "Easy",
+     "q": "Who was the Governor of Bengal when the East India Company obtained the Diwani of Bengal, Bihar and Orissa in 1765?",
+     "q_hi": "1765 में ईस्ट इंडिया कंपनी को बंगाल, बिहार और उड़ीसा की दीवानी मिलने के समय बंगाल का गवर्नर कौन था?",
+     "opts": [
+      "Robert Clive",
+      "Warren Hastings",
+      "Lord Cornwallis",
+      "Lord Dalhousie"
+     ],
+     "opts_hi": [
+      "रॉबर्ट क्लाइव",
+      "वारेन हेस्टिंग्स",
+      "लॉर्ड कॉर्नवालिस",
+      "लॉर्ड डलहौजी"
+     ],
+     "ans": 0,
+     "exp_en": "Robert Clive secured the Diwani from Shah Alam II through the Treaty of Allahabad (1765) after the Battle of Buxar.",
+     "exp_hi": "बक्सर युद्ध के बाद इलाहाबाद की संधि (1765) द्वारा रॉबर्ट क्लाइव ने शाह आलम द्वितीय से दीवानी प्राप्त की।"
+    },
+    {
+     "id": "gen-1792835309312-16",
+     "subject": "History & National Movement (India & Bihar)",
+     "topic": "National Movement",
+     "difficulty": "Easy",
+     "q": "The Non-Cooperation Movement was withdrawn by Gandhiji after the violent incident at:",
+     "q_hi": "असहयोग आंदोलन को गांधीजी ने किस स्थान पर हुई हिंसक घटना के बाद वापस ले लिया?",
+     "opts": [
+      "Bardoli",
+      "Jallianwala Bagh",
+      "Chauri Chaura",
+      "Kakori"
+     ],
+     "opts_hi": [
+      "बारदोली",
+      "जलियाँवाला बाग",
+      "चौरी चौरा",
+      "काकोरी"
+     ],
+     "ans": 2,
+     "exp_en": "After the Chauri Chaura incident (Gorakhpur, February 1922) Gandhiji withdrew the movement.",
+     "exp_hi": "फरवरी 1922 में चौरी चौरा (गोरखपुर) की घटना के बाद गांधीजी ने आंदोलन वापस ले लिया।"
+    },
+    {
+     "id": "gen-1792835309312-17",
+     "subject": "History & National Movement (India & Bihar)",
+     "topic": "National Movement",
+     "difficulty": "Easy",
+     "q": "Gandhiji began the Dandi March (Salt Satyagraha) in 1930 from:",
+     "q_hi": "गांधीजी ने 1930 में दांडी मार्च (नमक सत्याग्रह) कहाँ से प्रारंभ किया?",
+     "opts": [
+      "Sevagram",
+      "Champaran",
+      "Phoenix Farm",
+      "Sabarmati Ashram"
+     ],
+     "opts_hi": [
+      "सेवाग्राम",
+      "चंपारण",
+      "फीनिक्स फार्म",
+      "साबरमती आश्रम"
+     ],
+     "ans": 3,
+     "exp_en": "The march began on 12 March 1930 from Sabarmati Ashram and reached Dandi on 6 April 1930.",
+     "exp_hi": "यह यात्रा 12 मार्च 1930 को साबरमती आश्रम से शुरू होकर 6 अप्रैल 1930 को दांडी पहुँची।"
+    },
+    {
+     "id": "gen-1792835309312-18",
+     "subject": "History & National Movement (India & Bihar)",
+     "topic": "National Movement",
+     "difficulty": "Medium",
+     "q": "Which socialist leader of Bihar escaped from Hazaribagh Central Jail in November 1942 during the Quit India Movement?",
+     "q_hi": "भारत छोड़ो आंदोलन के दौरान नवंबर 1942 में बिहार के किस समाजवादी नेता ने हजारीबाग केंद्रीय कारागार से भागने में सफलता पाई?",
+     "opts": [
+      "Shri Krishna Sinha",
+      "Jayaprakash Narayan",
+      "Karpuri Thakur",
+      "Ram Manohar Lohia"
+     ],
+     "opts_hi": [
+      "श्रीकृष्ण सिन्हा",
+      "जयप्रकाश नारायण",
+      "कर्पूरी ठाकुर",
+      "राम मनोहर लोहिया"
+     ],
+     "ans": 1,
+     "exp_en": "Jayaprakash Narayan escaped from Hazaribagh jail on the night of Diwali (November 1942) and led underground resistance.",
+     "exp_hi": "जयप्रकाश नारायण नवंबर 1942 में दीपावली की रात हजारीबाग जेल से भाग निकले और भूमिगत प्रतिरोध का नेतृत्व किया।"
+    },
+    {
+     "id": "gen-1792835309312-19",
+     "subject": "History & National Movement (India & Bihar)",
+     "topic": "Bihar History",
+     "difficulty": "Medium",
+     "q": "Bihar was separated from the Bengal Presidency and formed into a province (with Orissa) in:",
+     "q_hi": "बिहार को बंगाल प्रेसीडेंसी से अलग कर (उड़ीसा सहित) एक प्रांत किस वर्ष बनाया गया?",
+     "opts": [
+      "1905",
+      "1912",
+      "1920",
+      "1936"
+     ],
+     "opts_hi": [
+      "1905",
+      "1912",
+      "1920",
+      "1936"
+     ],
+     "ans": 1,
+     "exp_en": "The separation was announced at the 1911 Delhi Durbar and took effect in 1912. Orissa was separated from Bihar in 1936.",
+     "exp_hi": "अलग प्रांत की घोषणा 1911 के दिल्ली दरबार में हुई और यह 1912 में प्रभावी हुआ। उड़ीसा 1936 में बिहार से अलग हुआ।"
+    },
+    {
+     "id": "gen-1792835309312-20",
+     "subject": "History & National Movement (India & Bihar)",
+     "topic": "Bihar History",
+     "difficulty": "Easy",
+     "q": "Who was the first Chief Minister of Bihar after independence, popularly known as 'Bihar Kesari'?",
+     "q_hi": "स्वतंत्रता के बाद बिहार के प्रथम मुख्यमंत्री कौन थे, जिन्हें 'बिहार केसरी' कहा जाता है?",
+     "opts": [
+      "Anugrah Narayan Sinha",
+      "Bindeshwari Dubey",
+      "Karpuri Thakur",
+      "Shri Krishna Sinha"
+     ],
+     "opts_hi": [
+      "अनुग्रह नारायण सिन्हा",
+      "बिंदेश्वरी दुबे",
+      "कर्पूरी ठाकुर",
+      "श्रीकृष्ण सिन्हा"
+     ],
+     "ans": 3,
+     "exp_en": "Shri Krishna Sinha headed the first Congress ministry (1937 as Premier) and served as Chief Minister until 1961. Anugrah Narayan Sinha was the first Deputy CM.",
+     "exp_hi": "श्रीकृष्ण सिन्हा 1937 में प्रथम कांग्रेस मंत्रिमंडल के प्रधानमंत्री (प्रीमियर) बने और 1961 तक मुख्यमंत्री रहे। अनुग्रह नारायण सिन्हा प्रथम उपमुख्यमंत्री थे।"
+    },
+    {
+     "id": "gen-1792835309312-21",
+     "subject": "History & National Movement (India & Bihar)",
+     "topic": "Bihar History",
+     "difficulty": "Medium",
+     "q": "Jayaprakash Narayan gave the call for 'Sampoorna Kranti' (Total Revolution) in June 1974 at:",
+     "q_hi": "जयप्रकाश नारायण ने जून 1974 में 'संपूर्ण क्रांति' का आह्वान कहाँ किया?",
+     "opts": [
+      "Boat Club, Delhi",
+      "Ramlila Maidan, Delhi",
+      "Gandhi Maidan, Patna",
+      "Sabarmati Ashram"
+     ],
+     "opts_hi": [
+      "बोट क्लब, दिल्ली",
+      "रामलीला मैदान, दिल्ली",
+      "गांधी मैदान, पटना",
+      "साबरमती आश्रम"
+     ],
+     "ans": 2,
+     "exp_en": "JP announced Sampoorna Kranti on 5 June 1974 at Gandhi Maidan, Patna, during the Bihar Movement.",
+     "exp_hi": "जेपी ने बिहार आंदोलन के दौरान 5 जून 1974 को पटना के गांधी मैदान में संपूर्ण क्रांति की घोषणा की।"
+    },
+    {
+     "id": "gen-1792835309312-22",
+     "subject": "History & National Movement (India & Bihar)",
+     "topic": "Medieval India",
+     "difficulty": "Easy",
+     "q": "The First Battle of Panipat (1526) was fought between Babur and:",
+     "q_hi": "पानीपत का प्रथम युद्ध (1526) बाबर और किसके बीच लड़ा गया?",
+     "opts": [
+      "Hemu",
+      "Ibrahim Lodi",
+      "Rana Sanga",
+      "Sher Shah"
+     ],
+     "opts_hi": [
+      "हेमू",
+      "इब्राहीम लोदी",
+      "राणा सांगा",
+      "शेरशाह"
+     ],
+     "ans": 1,
+     "exp_en": "Babur defeated Ibrahim Lodi at Panipat in 1526 and founded the Mughal Empire in India.",
+     "exp_hi": "बाबर ने 1526 में पानीपत में इब्राहीम लोदी को हराकर भारत में मुगल साम्राज्य की नींव रखी।"
+    },
+    {
+     "id": "gen-1792835309312-23",
+     "subject": "History & National Movement (India & Bihar)",
+     "topic": "Ancient India",
+     "difficulty": "Medium",
+     "q": "Who was the last Nanda ruler overthrown by Chandragupta Maurya with the help of Chanakya?",
+     "q_hi": "चाणक्य की सहायता से चंद्रगुप्त मौर्य ने नंद वंश के किस अंतिम शासक को पराजित किया?",
+     "opts": [
+      "Bimbisara",
+      "Mahapadma Nanda",
+      "Ajatashatru",
+      "Dhanananda"
+     ],
+     "opts_hi": [
+      "बिम्बिसार",
+      "महापद्म नंद",
+      "अजातशत्रु",
+      "धनानंद"
+     ],
+     "ans": 3,
+     "exp_en": "Dhanananda was the last Nanda king of Magadha; Mahapadma Nanda was the dynasty's founder.",
+     "exp_hi": "धनानंद मगध के अंतिम नंद शासक थे; महापद्म नंद इस वंश के संस्थापक थे।"
+    },
+    {
+     "id": "gen-1792835309312-24",
+     "subject": "History & National Movement (India & Bihar)",
+     "topic": "Ancient India",
+     "difficulty": "Hard",
+     "q": "The Allahabad Pillar inscription (Prayag Prashasti) describing Samudragupta's conquests was composed by:",
+     "q_hi": "समुद्रगुप्त की विजयों का वर्णन करने वाली इलाहाबाद स्तंभ लेख (प्रयाग प्रशस्ति) की रचना किसने की?",
+     "opts": [
+      "Harishena",
+      "Ravikirti",
+      "Banabhatta",
+      "Kalidasa"
+     ],
+     "opts_hi": [
+      "हरिषेण",
+      "रविकीर्ति",
+      "बाणभट्ट",
+      "कालिदास"
+     ],
+     "ans": 0,
+     "exp_en": "Harishena, court poet of Samudragupta, composed the Prayag Prashasti. Banabhatta wrote the Harshacharita and Ravikirti the Aihole inscription.",
+     "exp_hi": "समुद्रगुप्त के दरबारी कवि हरिषेण ने प्रयाग प्रशस्ति की रचना की। बाणभट्ट ने हर्षचरित और रविकीर्ति ने ऐहोल अभिलेख लिखा।"
+    },
+    {
+     "id": "gen-1792835309312-25",
+     "subject": "History & National Movement (India & Bihar)",
+     "topic": "National Movement",
+     "difficulty": "Easy",
+     "q": "Who presided over the first session of the Indian National Congress held in Bombay in 1885?",
+     "q_hi": "1885 में बंबई में आयोजित भारतीय राष्ट्रीय कांग्रेस के प्रथम अधिवेशन की अध्यक्षता किसने की?",
+     "opts": [
+      "Surendranath Banerjee",
+      "Dadabhai Naoroji",
+      "W. C. Bonnerjee",
+      "A. O. Hume"
+     ],
+     "opts_hi": [
+      "सुरेंद्रनाथ बनर्जी",
+      "दादाभाई नौरोजी",
+      "डब्ल्यू. सी. बनर्जी",
+      "ए. ओ. ह्यूम"
+     ],
+     "ans": 2,
+     "exp_en": "W. C. Bonnerjee presided over the first session in December 1885; A. O. Hume was the founding organiser (General Secretary).",
+     "exp_hi": "डब्ल्यू. सी. बनर्जी ने दिसंबर 1885 के प्रथम अधिवेशन की अध्यक्षता की; ए. ओ. ह्यूम संस्थापक संयोजक (महासचिव) थे।"
+    }
+   ]
+  }
+ ]
+}
