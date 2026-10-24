@@ -502,6 +502,21 @@
             "questionCount": 120
           }
         ]
+      },
+      "bpsc_tre": {
+        "name": "BPSC TRE 4.0",
+        "fullname": "Bihar Public Service Commission Teacher Recruitment Examination 4.0 (Prelims)",
+        "tests": [
+          {
+            "id": "bpsc_tre_1",
+            "title": "BPSC TRE 4.0 Prelims Practice Set 1 (History & National Movement)",
+            "duration": 20,
+            "difficulty": "Medium",
+            "questionCount": 25,
+            "correctMarks": 1,
+            "negativeMarks": 0.33
+          }
+        ]
       }
     }
   },
