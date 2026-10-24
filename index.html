@@ -762,7 +762,7 @@ const HARD_MAX_QUESTIONS = 100;
 // Per-exam override of the 100-question ceiling for exams whose real paper is
 // longer than 100 questions (UP Super TET = 120 questions). Any exam not
 // listed here keeps the standard HARD_MAX_QUESTIONS ceiling.
-const HARD_MAX_BY_EXAM = { super_tet: 120 };
+const HARD_MAX_BY_EXAM = { super_tet: 120, bpsc_tre: 150 };
 function hardMaxFor(examKey){ return HARD_MAX_BY_EXAM[examKey] || HARD_MAX_QUESTIONS; }
 
 function capQuestionsPerSection(questions, examKey, testId){
@@ -1145,6 +1145,16 @@ const EXAM_CONTENT = {
     duration: '2 hours',
     negativeMarking: '+3 marks for every correct answer and 1 mark deducted for every wrong or multiple answer',
     note: 'OMR-based exam with 120 multiple-choice questions in English and Hindi. If marks are equal, the higher graduation percentage is checked first, then the training qualification percentage, then the older candidate ranks higher. If the exam is held in more than one shift, scores are normalized. Pay Level 6 (Rs. 35,400 to Rs. 1,12,400). Fee: Rs. 1,000 General/OBC/EWS, Rs. 500 SC/ST, Rs. 300 PwD. Check upessc.up.gov.in for the official syllabus and updates.'
+  },
+  
+  bpsc_tre: {
+    intro: "BPSC TRE-4.0 (Teacher Recruitment Examination, Advertisement No. 14/2026) is conducted by the Bihar Public Service Commission for 32,388 school teacher posts under the Education Department, Bihar: 3,847 for classes 1-5, 8,563 for classes 6-8, 3,877 for classes 9-10 and 16,101 for classes 11-12. Selection is through a Preliminary Exam and a Mains Exam, with no interview.",
+    sections: [
+      {name:'Preliminary Exam: General Studies (current affairs, general science, history and national movement, geography, polity, economy, general mental ability)', qs:150, marks:150},
+    ],
+    duration: '2 hours',
+    negativeMarking: '1/3 mark deducted for every wrong or unanswered question (each question has five options A-E; E means do not attempt)',
+    note: 'The Preliminary Exam is a screening test; candidates called for Mains number 2.5 to 10 times the vacancies. Minimum qualifying marks: 40% General, 36.5% BC, 34% EBC, 32% SC/ST/women/PwD. Mains is objective (150 questions, 150 marks, 2.5 hours) with a qualifying language part (minimum 30%). Online applications were open from 01.09.2026 to 30.09.2026; fee Rs. 100 per class group. Always confirm dates on bpsc.bihar.gov.in.'
   },
   
   // ─── CIVIL SERVICES ─────────────────────────────────────────────────────────
