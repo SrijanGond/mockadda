@@ -1304,14 +1304,14 @@ function currentAffairsHomeScreen(){
     items.forEach(it=>{ (byDate[it.date] = byDate[it.date] || []).push(it); });
     const dates = Object.keys(byDate).sort((a,b)=>b.localeCompare(a));
     dates.forEach(date=>{
-      listWrap.appendChild(el('div',{css:'font-family:Syne,sans-serif;font-weight:800;font-size:14px;color:#0369a1;margin:20px 0 10px;padding-bottom:6px;border-bottom:2px solid #e0f2fe;',text:formatCADate(date)}));
+      listWrap.appendChild(el('div',{css:"font-family:'DM Sans','Noto Sans Devanagari',sans-serif;font-weight:700;font-size:17px;letter-spacing:0.2px;color:#075985;margin:24px 0 12px;padding-bottom:8px;border-bottom:2px solid #bae6fd;",text:formatCADate(date)}));
       byDate[date].forEach(it=>{
         const title = (S.lang==='hi' && it.title_hi) ? it.title_hi : it.title;
         const content = (S.lang==='hi' && it.content_hi) ? it.content_hi : it.content;
-        const card=el('div',{css:'background:#fff;border:1px solid #e2e8f0;border-radius:12px;padding:16px;margin-bottom:12px;'});
-        if(it.category) card.appendChild(el('span',{css:'display:inline-block;background:#0ea5e918;color:#0369a1;font-size:10px;font-weight:700;padding:3px 10px;border-radius:12px;margin-bottom:8px;',text:it.category}));
-        card.appendChild(el('div',{css:'font-family:Syne,sans-serif;font-weight:700;font-size:15px;color:#0f172a;margin-bottom:6px;line-height:1.4;',text:title}));
-        card.appendChild(el('div',{css:'font-size:13px;color:#475569;line-height:1.7;white-space:pre-wrap;',text:content}));
+        const card=el('div',{css:'background:#fff;border:1px solid #cbd5e1;border-radius:12px;padding:18px;margin-bottom:14px;box-shadow:0 1px 3px rgba(15,23,42,0.06);'});
+        if(it.category) card.appendChild(el('span',{css:'display:inline-block;background:#e0f2fe;color:#075985;font-size:12px;font-weight:700;padding:4px 12px;border-radius:12px;margin-bottom:10px;',text:it.category}));
+        card.appendChild(el('div',{css:"font-family:'DM Sans','Noto Sans Devanagari',sans-serif;font-weight:700;font-size:19px;color:#0f172a;margin-bottom:10px;line-height:1.45;",text:title}));
+        card.appendChild(el('div',{css:"font-family:'DM Sans','Noto Sans Devanagari',sans-serif;font-size:16px;font-weight:400;color:#1e293b;line-height:1.8;white-space:pre-wrap;",text:content}));
         listWrap.appendChild(card);
       });
     });
@@ -1950,23 +1950,23 @@ function resultsScreen(){
     const rv=el('div',{css:'margin-bottom:16px;'});
     S.test.questions.forEach((q,i)=>{
       const ua=S.ans[i],ok=ua===q.ans,sk=ua===undefined;
-      const card=el('div',{css:`background:${Q.card};border:1px solid ${sk?Q.border:ok?Q.green+'35':Q.red+'35'};border-radius:12px;padding:12px 14px;margin-bottom:8px;`});
+      const card=el('div',{css:`background:${Q.card};border:1px solid ${sk?Q.border:ok?Q.green+'35':Q.red+'35'};border-radius:12px;padding:16px;margin-bottom:12px;`});
       const row=el('div',{css:'display:flex;justify-content:space-between;gap:8px;'});
-      const qt=el('div',{css:`font-size:12px;line-height:1.5;flex:1;color:${Q.text};`});
+      const qt=el('div',{css:`font-family:'DM Sans','Noto Sans Devanagari',sans-serif;font-size:15px;font-weight:500;line-height:1.6;flex:1;color:${Q.text};`});
       qt.appendChild(el('span',{css:`color:${Q.muted};margin-right:6px;font-weight:600;`,text:`Q${i+1}.`}));
       qt.appendChild(document.createTextNode(q.q));
       if(q.img) qt.appendChild(el('img',{src:q.img,alt:'Question image',css:`max-width:100%;max-height:180px;display:block;margin-top:6px;border-radius:6px;border:1px solid ${Q.border};`}));
-      if(S.lang==='hi'&&q.q_hi&&!isLanguageSkillSubject(q.subject)) qt.appendChild(el('div',{css:`font-size:11px;color:#818cf8;margin-top:2px;`,text:q.q_hi}));
+      if(S.lang==='hi'&&q.q_hi&&!isLanguageSkillSubject(q.subject)) qt.appendChild(el('div',{css:`font-size:14px;color:#a5b4fc;margin-top:4px;line-height:1.6;`,text:q.q_hi}));
       row.appendChild(qt);
       row.appendChild(el('span',{css:`flex-shrink:0;color:${sk?Q.dim:ok?Q.green:Q.red};font-size:16px;`,text:sk?'–':ok?'✓':'✗'}));
       card.appendChild(row);
       // Always show the correct answer, regardless of whether the student got it right, wrong, or skipped it
       const showHi = S.lang==='hi'&&q.opts_hi&&!isLanguageSkillSubject(q.subject);
       const ct=showHi?`सही उत्तर: ${q.opts_hi[q.ans]} (${q.opts[q.ans]})`:`Correct Answer: ${q.opts[q.ans]}`;
-      card.appendChild(el('div',{css:`margin-top:6px;font-size:11px;color:${Q.green};`,text:ct}));
+      card.appendChild(el('div',{css:`font-family:'DM Sans','Noto Sans Devanagari',sans-serif;margin-top:10px;font-size:14px;font-weight:600;line-height:1.5;color:${Q.green};`,text:ct}));
       if(!sk&&!ok){
         const yt=showHi?`आपका उत्तर: ${q.opts_hi[ua]} (${q.opts[ua]})`:`Your Answer: ${q.opts[ua]}`;
-        card.appendChild(el('div',{css:`margin-top:3px;font-size:11px;color:${Q.red};`,text:yt}));
+        card.appendChild(el('div',{css:`font-family:'DM Sans','Noto Sans Devanagari',sans-serif;margin-top:4px;font-size:14px;font-weight:500;line-height:1.5;color:${Q.red};`,text:yt}));
         const saved = isMistakeSaved(q.q);
         const bmBtn = el('button',{css:`margin-top:8px;background:${saved?Q.purple+'22':'transparent'};border:1px solid ${saved?Q.purple:Q.border};color:${saved?Q.purple:Q.muted};padding:4px 10px;border-radius:8px;font-size:10px;font-weight:600;cursor:pointer;`,text:saved?'🔖 Saved to Mistake Notebook':'🔖 Save to Mistake Notebook'});
         bmBtn.addEventListener('click',()=>{ toggleMistake(q); render(); });
@@ -1977,9 +1977,9 @@ function resultsScreen(){
       // is on Hindi and it's not a language-skill subject; otherwise English.
       const expText = (showHi && q.exp_hi) ? q.exp_hi : q.exp_en;
       if(expText){
-        const expBox=el('div',{css:`margin-top:8px;background:${accent}0d;border-left:3px solid ${accent};border-radius:6px;padding:8px 10px;`});
-        expBox.appendChild(el('div',{css:`font-size:10px;font-weight:700;color:${accent};margin-bottom:3px;text-transform:uppercase;letter-spacing:.03em;`,text:'Explanation'}));
-        expBox.appendChild(el('div',{css:`font-size:11px;line-height:1.6;color:${Q.text};`,text:expText}));
+        const expBox=el('div',{css:`margin-top:12px;background:${accent}1f;border-left:4px solid ${accent};border-radius:8px;padding:12px 14px;`});
+        expBox.appendChild(el('div',{css:`font-family:'DM Sans','Noto Sans Devanagari',sans-serif;font-size:12px;font-weight:700;color:${accent};margin-bottom:6px;text-transform:uppercase;letter-spacing:.06em;`,text:'Explanation'}));
+        expBox.appendChild(el('div',{css:`font-family:'DM Sans','Noto Sans Devanagari',sans-serif;font-size:15px;font-weight:400;line-height:1.75;color:#f8fafc;white-space:pre-wrap;`,text:expText}));
         card.appendChild(expBox);
       }
       rv.appendChild(card);
