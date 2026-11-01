@@ -805,6 +805,44 @@ function groupQuestionsBySubject(questions){
 }
 
 // ── GA4 TEST TRACKING ─────────────────────────────────────────────────────────
+// ── PAID PACK: SSC CHSL printable test pack ─────────────────────────────────
+// Change these values in one place. payUrl should be a FIXED-amount Razorpay Payment Link
+// (Razorpay Dashboard > Payment Links) so buyers cannot type a wrong amount.
+const CHSL_PACK = {
+  examKey: 'ssc_chsl',
+  name: 'SSC CHSL Tier 1 Printable Test Pack',
+  price: 99,
+  tests: 5,
+  payUrl: 'https://rzp.io/rzp/A1CZzxO',
+  email: 'readymadequiz.co.in@gmail.com'
+};
+// GA4 events: paywall_click (opened the offer) -> purchase_start (pressed Continue to payment)
+function trackPack(action, placement){
+  try{
+    if(typeof gtag!=='function') return;
+    gtag('event', action, {product:'chsl_pack', placement:placement, value:CHSL_PACK.price, currency:'INR'});
+  }catch(e){}
+}
+function chslPackCard(placement){
+  const P=CHSL_PACK;
+  const card=el('div',{css:'background:linear-gradient(135deg,#fffbeb,#fff7ed);border:1.5px solid #fcd34d;border-radius:14px;padding:16px;margin-bottom:18px;'});
+  card.appendChild(el('div',{css:'font-family:Syne,sans-serif;font-weight:800;font-size:15px;color:#0f172a;margin-bottom:5px;',text:'📄 '+P.name}));
+  card.appendChild(el('p',{css:'font-size:12px;color:#475569;line-height:1.6;margin-bottom:12px;',text:P.tests+' full-length CHSL Tier 1 papers as printable PDFs (100 questions each), with answer key and explanations in English and Hindi. One-time payment of ₹'+P.price+'.'}));
+  const panel=el('div',{css:'display:none;font-size:12px;color:#334155;line-height:1.7;background:#fff;border:1px solid #fde68a;border-radius:10px;padding:12px;'});
+  panel.appendChild(el('div',{text:'1. Pay ₹'+P.price+' on the secure Razorpay page (UPI, cards or netbanking). Use the email address where you want the PDFs.'}));
+  panel.appendChild(el('div',{text:'2. We email the PDFs to that address within a few hours.'}));
+  panel.appendChild(el('div',{css:'margin-top:4px;color:#64748b;',text:'Questions? Write to '+P.email}));
+  panel.appendChild(el('a',{href:P.payUrl,target:'_blank',rel:'noopener',css:'display:inline-block;margin-top:10px;background:#059669;color:#fff;font-family:Syne,sans-serif;font-weight:700;font-size:13px;padding:10px 18px;border-radius:10px;text-decoration:none;',text:'Continue to payment →',onClick:()=>trackPack('purchase_start',placement)}));
+  const btn=el('button',{css:'background:linear-gradient(135deg,#f59e0b,#ea580c);color:#fff;border:none;font-family:Syne,sans-serif;font-weight:700;font-size:13px;padding:10px 18px;border-radius:10px;',text:'Get the pack — ₹'+P.price,onClick:()=>{
+    trackPack('paywall_click',placement);
+    btn.style.display='none';
+    panel.style.display='block';
+  }});
+  card.appendChild(btn);
+  card.appendChild(panel);
+  return card;
+}
+
 // Sends test_start / test_submit events with exam + test name so GA4 can show which sets are actually attempted.
 // Wrapped in try/catch so an ad blocker or missing tag can never break a test.
 function trackTest(action, extra){
@@ -1555,6 +1593,7 @@ function testsScreen(){
     gb.appendChild(el('a',{href:guide.url,target:'_blank',rel:'noopener',css:'display:inline-block;background:linear-gradient(135deg,#0ea5e9,#7c3aed);color:#fff;font-family:Syne,sans-serif;font-weight:700;font-size:13px;padding:10px 18px;border-radius:10px;text-decoration:none;',text:guide.btn}));
     body.appendChild(gb);
   }
+  if(S.activeExamKey===CHSL_PACK.examKey) body.appendChild(chslPackCard('tests_screen'));
   const contentSection = examContentSection(S.activeExamKey);
   if(contentSection) body.appendChild(contentSection);
   exam.tests.forEach((t,i)=>{
@@ -2005,6 +2044,7 @@ function resultsScreen(){
     const guide=(typeof EXAM_GUIDES!=='undefined')?EXAM_GUIDES[S.activeExamKey]:null;
     if(guide) box.appendChild(el('a',{href:guide.url,css:linkCss,text:guide.title}));
     body.appendChild(box);
+    if(S.activeExamKey===CHSL_PACK.examKey){ const pc=chslPackCard('results'); pc.style.marginTop='16px'; body.appendChild(pc); }
   })();
   root.appendChild(body);return root;
 }
