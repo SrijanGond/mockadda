@@ -1842,7 +1842,7 @@
             "1",
             "3",
             "4",
-            "2"
+            "6"
           ],
           "ans": 3,
           "subject": "General Intelligence",
@@ -1851,10 +1851,10 @@
             "1",
             "3",
             "4",
-            "2"
+            "6"
           ],
-          "exp_en": "Faces seen together in one view are adjacent, so they cannot be opposite to each other. Only 2 remains possible as the face opposite to 5.",
-          "exp_hi": "एक ही दृश्य में साथ दिखने वाले फलक आसन्न होते हैं, विपरीत नहीं। इसलिए 5 के विपरीत केवल 2 संभव है।",
+          "exp_en": "The number 6 appears in both views, so it is adjacent to every other number seen (3, 2, 1 and 4). The only number not adjacent to 6 is 5, so 5 is opposite to 6.",
+          "exp_hi": "संख्या 6 दोनों दृश्यों में दिखाई देती है, इसलिए यह दिखाई देने वाली सभी संख्याओं (3, 2, 1 और 4) से सटी है। 6 से न सटी एकमात्र संख्या 5 है, अतः 5 के विपरीत 6 है।",
           "img": "/question-images/chsl/chsl2_dice_26_q.svg"
         },
         {
@@ -1865,7 +1865,7 @@
             "Figure (C)",
             "Figure (D)"
           ],
-          "ans": 3,
+          "ans": 0,
           "subject": "General Intelligence",
           "q_hi": "दी गई आकृति का सही दर्पण प्रतिबिंब चुनिए, जब दर्पण को आकृति के बायीं तरफ रखा जाता है।",
           "opts_hi": [
@@ -5087,7 +5087,7 @@
           "exp_hi": "दाईं ओर से विषम स्थानों के अंकों का योग = 2+4+3=9, सम स्थानों का योग = 5+x। 11 से विभाज्यता के लिए 9-(5+x), 0 या 11 का गुणज होना चाहिए, अतः x=4।"
         },
         {
-          "q": "Two circles of radii 13 cm and 15 cm intersect each other such that their common chord is 24 cm long. If both centres lie on the same side of the chord, find the distance between the centres.",
+          "q": "Two circles of radii 13 cm and 15 cm intersect each other such that their common chord is 24 cm long. If the centres lie on opposite sides of the chord, find the distance between the centres.",
           "opts": [
             "18 cm",
             "10 cm",
@@ -5096,15 +5096,15 @@
           ],
           "ans": 2,
           "subject": "Quantitative Aptitude",
-          "q_hi": "13 सेमी और 15 सेमी त्रिज्या वाले दो वृत्त इस प्रकार प्रतिच्छेद करते हैं कि उनकी उभयनिष्ठ जीवा 24 सेमी लंबी है। यदि दोनों केंद्र जीवा के एक ही ओर हों, तो केंद्रों के बीच की दूरी ज्ञात करें।",
+          "q_hi": "13 सेमी और 15 सेमी त्रिज्या वाले दो वृत्त इस प्रकार प्रतिच्छेद करते हैं कि उनकी उभयनिष्ठ जीवा 24 सेमी लंबी है। यदि दोनों केंद्र जीवा के विपरीत ओर हों, तो केंद्रों के बीच की दूरी ज्ञात करें।",
           "opts_hi": [
             "18 सेमी",
             "10 सेमी",
             "14 सेमी",
             "20 सेमी"
           ],
-          "exp_en": "Half chord = 12 cm. Distance of first centre from chord = sqrt(13^2-12^2) = 5 cm. Distance of second centre = sqrt(15^2-12^2) = 9 cm. Distance between centres = 9 - 5 = ... since both on same side, actually = 5 + 9 = 14 cm (standard configuration).",
-          "exp_hi": "आधी जीवा = 12 सेमी। पहले केंद्र की दूरी = sqrt(13^2-12^2) = 5 सेमी। दूसरे केंद्र की दूरी = sqrt(15^2-12^2) = 9 सेमी। केंद्रों के बीच की दूरी = 5 + 9 = 14 सेमी।"
+          "exp_en": "Half the chord = 12 cm. Distance of the first centre from the chord = √(13² − 12²) = 5 cm. Distance of the second centre = √(15² − 12²) = 9 cm. The centres lie on opposite sides of the chord, so the distance between them = 5 + 9 = 14 cm.",
+          "exp_hi": "आधी जीवा = 12 सेमी। पहले केंद्र की जीवा से दूरी = √(13² − 12²) = 5 सेमी। दूसरे केंद्र की दूरी = √(15² − 12²) = 9 सेमी। दोनों केंद्र जीवा के विपरीत ओर हैं, इसलिए केंद्रों के बीच की दूरी = 5 + 9 = 14 सेमी।"
         },
         {
           "q": "Evaluate: (sin 30° + cos 60°) / (1 + tan 45°)",
@@ -5991,24 +5991,24 @@
           "exp_hi": "9 + 2 × 3 = 21 में + और × बदलने पर 9 × 2 + 3 = 18 + 3 = 21 होता है, जो सत्य है। अन्य विकल्प बदलने के बाद संतुलित नहीं होते।"
         },
         {
-          "q": "In a class of 40 students, Meena ranks 14th from the top. If there are 5 students between Meena and the last rank, what is her rank from the bottom?",
+          "q": "In a class of 40 students, Meena ranks 14th from the top. What is her rank from the bottom?",
           "opts": [
-            "6th",
-            "7th",
             "26th",
-            "27th"
+            "27th",
+            "28th",
+            "25th"
           ],
           "ans": 1,
           "subject": "General Intelligence",
-          "q_hi": "40 विद्यार्थियों की कक्षा में मीना का स्थान ऊपर से 14वां है। यदि मीना और अंतिम स्थान के बीच 5 विद्यार्थी हैं, तो नीचे से उसका स्थान क्या है?",
+          "q_hi": "40 विद्यार्थियों की कक्षा में मीना का स्थान ऊपर से 14वां है। नीचे से उसका स्थान क्या है?",
           "opts_hi": [
-            "6वां",
-            "7वां",
             "26वां",
-            "27वां"
+            "27वां",
+            "28वां",
+            "25वां"
           ],
-          "exp_en": "5 students between Meena and the last rank means Meena is 6th from the last position counted inclusive, so rank from bottom = 5 + 1 = 6th? Let us verify with total: rank from top + rank from bottom - 1 = total students. Here rank from bottom = 6, check 14 + 6 - 1 = 19, not 40, so recompute: students between Meena and last rank = 5, so positions after her = 5, meaning her rank from bottom = 5 + 1 = 6th. This is independent of total students count.",
-          "exp_hi": "मीना और अंतिम स्थान के बीच 5 विद्यार्थी हैं, इसका अर्थ है कि मीना के बाद 5 विद्यार्थी हैं, इसलिए नीचे से उसका स्थान = 5 + 1 = 6वां होगा।"
+          "exp_en": "Rank from the bottom = total students − rank from the top + 1 = 40 − 14 + 1 = 27th.",
+          "exp_hi": "नीचे से स्थान = कुल विद्यार्थी − ऊपर से स्थान + 1 = 40 − 14 + 1 = 27वां।"
         },
         {
           "q": "Which ancient Indian university, located in present-day Bihar, was a renowned centre of Buddhist learning and was visited by Chinese traveller Xuanzang?",
@@ -7202,9 +7202,9 @@
             "ABCD",
             "BACD"
           ],
-          "ans": 3,
+          "ans": 1,
           "subject": "English Language",
-          "exp_en": "The correct sequence B-A-C-D flows logically: the farmer wanted quick results, realised patience was better, waited and cared, then improved his harvest. Wait, check order: B-A-D-C fits better since D (so he waited) should come after A (realised) and before C (harvest improved). The answer BACD places C before D incorrectly, so BADC is correct."
+          "exp_en": "B introduces the young farmer who wanted quick results. A (\"but soon realised that patience was more useful\") contrasts with that wish. D (\"so he waited and cared for the crops steadily\") follows from this realisation, and C (\"and his harvest finally improved the next season\") is the result. The correct order is B-A-D-C."
         },
         {
           "q": "Choose the correct indirect speech of the sentence: The teacher said to the students, Submit your assignments before Friday.",
@@ -7327,7 +7327,7 @@
         {
           "q": "Two different positions of the same dice are shown. Which number will be on the face opposite to the face showing 4?",
           "opts": [
-            "5",
+            "6",
             "1",
             "2",
             "3"
@@ -7336,13 +7336,13 @@
           "subject": "General Intelligence",
           "q_hi": "एक ही पासे की दो अलग-अलग स्थितियाँ दी गई हैं। 4 वाले फलक के विपरीत फलक पर कौन-सी संख्या होगी?",
           "opts_hi": [
-            "5",
+            "6",
             "1",
             "2",
             "3"
           ],
-          "exp_en": "Faces seen together in one view are adjacent, so they cannot be opposite to each other. Only 5 remains possible as the face opposite to 4.",
-          "exp_hi": "एक ही दृश्य में साथ दिखने वाले फलक आसन्न होते हैं, विपरीत नहीं। इसलिए 4 के विपरीत केवल 5 संभव है।",
+          "exp_en": "The number 6 appears in both views, so it is adjacent to 5, 3, 1 and 2. The only number not adjacent to 6 is 4, so 4 is opposite to 6.",
+          "exp_hi": "संख्या 6 दोनों दृश्यों में दिखाई देती है, इसलिए यह 5, 3, 1 और 2 से सटी है। 6 से न सटी एकमात्र संख्या 4 है, अतः 4 के विपरीत 6 है।",
           "img": "/question-images/chsl/chsl5_dice_26_q.svg"
         },
         {
@@ -7353,7 +7353,7 @@
             "Figure (C)",
             "Figure (D)"
           ],
-          "ans": 2,
+          "ans": 3,
           "subject": "General Intelligence",
           "q_hi": "दी गई आकृति का सही दर्पण प्रतिबिंब चुनिए, जब दर्पण को आकृति के दायीं तरफ रखा जाता है।",
           "opts_hi": [
@@ -7519,24 +7519,24 @@
           "exp_hi": "स्टेथोस्कोप डॉक्टर द्वारा प्रयोग किया जाने वाला उपकरण है। इसी प्रकार हथौड़ा बढ़ई द्वारा प्रयोग किया जाने वाला उपकरण है।"
         },
         {
-          "q": "If + and × are interchanged, and also - and ÷ are interchanged, what is the value of 12 ÷ 4 + 3 × 2 - 6?",
+          "q": "If + and × are interchanged, and also − and ÷ are interchanged, what is the value of 20 ÷ 2 + 3 × 6 − 3?",
           "opts": [
-            "10",
             "14",
-            "2",
-            "6"
+            "16",
+            "18",
+            "20"
           ],
-          "ans": 0,
+          "ans": 1,
           "subject": "General Intelligence",
-          "q_hi": "यदि + और × आपस में बदल दिए जाएँ तथा - और ÷ भी आपस में बदल दिए जाएँ, तो 12 ÷ 4 + 3 × 2 - 6 का मान क्या होगा?",
+          "q_hi": "यदि + और × आपस में बदल दिए जाएँ तथा − और ÷ भी आपस में बदल दिए जाएँ, तो 20 ÷ 2 + 3 × 6 − 3 का मान क्या होगा?",
           "opts_hi": [
-            "10",
             "14",
-            "2",
-            "6"
+            "16",
+            "18",
+            "20"
           ],
-          "exp_en": "After interchange the expression becomes 12 - 4 × 3 + 2 ÷ 6? Check carefully: ÷ becomes -, + becomes ×, × becomes +, - becomes ÷. So 12 - 4 × 3 + 2 ÷ 6 gives 12 - 12 + 1/3, which is not clean. Reading it as 12 ÷ 4 + 3 × 2 - 6 with the swaps gives 12 - 4 × 3 + 2 ÷ 6. The intended clean reading is not available, so option 10 is not supported.",
-          "exp_hi": "चिह्न बदलने पर व्यंजक 12 - 4 × 3 + 2 ÷ 6 बनता है, जिसका मान स्पष्ट पूर्णांक नहीं आता।"
+          "exp_en": "After the interchange, ÷ becomes −, + becomes ×, × becomes + and − becomes ÷. So 20 ÷ 2 + 3 × 6 − 3 becomes 20 − 2 × 3 + 6 ÷ 3. By BODMAS: 20 − 6 + 2 = 16.",
+          "exp_hi": "चिह्न बदलने पर ÷ → −, + → ×, × → + और − → ÷ हो जाता है। अतः 20 ÷ 2 + 3 × 6 − 3 बदलकर 20 − 2 × 3 + 6 ÷ 3 बन जाता है। BODMAS से: 20 − 6 + 2 = 16।"
         },
         {
           "q": "Pointing to a man, Riya said, He is the son of my mother's only brother. How is the man related to Riya?",
@@ -7559,24 +7559,24 @@
           "exp_hi": "रिया की माँ का इकलौता भाई रिया का मामा है। उसका पुत्र रिया का ममेरा भाई (cousin) हुआ।"
         },
         {
-          "q": "Find the missing letters in the series: ab_ba_b_ab_ba",
+          "q": "Find the missing letters in the series: a_bbaa_ba_bb",
           "opts": [
-            "abba",
-            "baab",
-            "baba",
-            "aabb"
+            "aba",
+            "abb",
+            "bab",
+            "baa"
           ],
-          "ans": 1,
+          "ans": 0,
           "subject": "General Intelligence",
-          "q_hi": "श्रृंखला में लुप्त अक्षर ज्ञात कीजिए: ab_ba_b_ab_ba",
+          "q_hi": "श्रृंखला में लुप्त अक्षर ज्ञात कीजिए: a_bbaa_ba_bb",
           "opts_hi": [
-            "abba",
-            "baab",
-            "baba",
-            "aabb"
+            "aba",
+            "abb",
+            "bab",
+            "baa"
           ],
-          "exp_en": "Fill in baab: the series becomes ab b ba a b a ab b ba, which is not a clearly repeating pattern. No option gives a verified consistent pattern, so this item needs revision.",
-          "exp_hi": "विकल्प baab भरने पर भी स्पष्ट दोहराव वाला पैटर्न सत्यापित नहीं होता, अतः इस प्रश्न में संशोधन आवश्यक है।"
+          "exp_en": "The series repeats the block 'aabb'. Filling the blanks with a, b, a gives aabb aabb aabb, so the missing letters are 'aba'.",
+          "exp_hi": "श्रृंखला में 'aabb' खंड दोहराया जाता है। रिक्त स्थानों में a, b, a भरने पर aabb aabb aabb बनता है, अतः लुप्त अक्षर 'aba' हैं।"
         },
         {
           "q": "Arrange the following words in a logical and meaningful order. 1. Plant 2. Fruit 3. Seed 4. Flower 5. Sapling",
@@ -11475,24 +11475,24 @@
           "exp_hi": "BRAINS को वर्णमाला क्रम में लिखने पर A B I N R S मिलता है। B R A I N S से स्थान-दर-स्थान मिलान करने पर केवल अंतिम अक्षर S अपनी जगह पर है। अतः एक अक्षर अपनी स्थिति में रहता है।"
         },
         {
-          "q": "In a certain code language, if the signs + and − are interchanged and also × and ÷ are interchanged, what is the value of 18 + 6 ÷ 3 × 4 − 5?",
+          "q": "In a certain code language, if the signs + and − are interchanged and also × and ÷ are interchanged, what is the value of 20 + 6 ÷ 3 × 2 − 4?",
           "opts": [
+            "15",
+            "13",
             "19",
-            "21",
-            "16",
             "25"
           ],
           "ans": 0,
           "subject": "General Intelligence",
-          "q_hi": "एक निश्चित कूट भाषा में, यदि चिह्न + और − आपस में बदल दिए जाएं तथा × और ÷ भी आपस में बदल दिए जाएं, तो 18 + 6 ÷ 3 × 4 − 5 का मान क्या होगा?",
+          "q_hi": "एक निश्चित कूट भाषा में, यदि चिह्न + और − आपस में बदल दिए जाएं तथा × और ÷ भी आपस में बदल दिए जाएं, तो 20 + 6 ÷ 3 × 2 − 4 का मान क्या होगा?",
           "opts_hi": [
+            "15",
+            "13",
             "19",
-            "21",
-            "16",
             "25"
           ],
-          "exp_en": "After interchanging, + becomes −, − becomes +, ÷ becomes ×, × becomes ÷. The expression becomes 18 − 6 × 3 ÷ 4 + 5. By BODMAS: 6 × 3 = 18, 18 ÷ 4 = 4.5, so 18 − 4.5 + 5 = 18.5, which is not clean. Re-solving with the intended operations: using the original expression with interchanged signs gives 18 − 6 × 3 ÷ 4 + 5, so the closest clean option cannot be confirmed.",
-          "exp_hi": "चिह्न बदलने पर व्यंजक 18 − 6 × 3 ÷ 4 + 5 बनता है। इसका मान 18.5 आता है, जो पूर्ण संख्या नहीं है।"
+          "exp_en": "After interchanging, + becomes −, − becomes +, ÷ becomes × and × becomes ÷. The expression becomes 20 − 6 × 3 ÷ 2 + 4. By BODMAS (× and ÷ from left to right): 6 × 3 = 18, 18 ÷ 2 = 9, so 20 − 9 + 4 = 15.",
+          "exp_hi": "चिह्न बदलने पर + → −, − → +, ÷ → × और × → ÷ हो जाता है। व्यंजक 20 − 6 × 3 ÷ 2 + 4 बनता है। BODMAS (× और ÷ बाएँ से दाएँ): 6 × 3 = 18, 18 ÷ 2 = 9, अतः 20 − 9 + 4 = 15।"
         },
         {
           "q": "Which of the following is a UNESCO World Heritage Site located in Odisha?",
@@ -16961,7 +16961,7 @@
         {
           "q": "In an exam hall, Neha leaves her seat facing north and walks 6 m straight to collect a sheet from the invigilator's desk. She turns right and walks 4 m to the water cooler, then turns right again and walks 10 m to the door. Finally she turns left and walks 2 m to the notice board. In which direction is she from her starting seat, and how far in a straight line?",
           "opts": [
-            "South-east, 2√10 m",
+            "South-east, 2√13 m",
             "North-east, 6 m",
             "South-east, 6 m",
             "East, 4 m"
@@ -16970,13 +16970,13 @@
           "subject": "General Intelligence",
           "q_hi": "एक परीक्षा कक्ष में नेहा अपनी सीट से उत्तर की ओर मुँह करके 6 मीटर सीधे चलकर निरीक्षक की मेज़ से शीट लेती है। फिर वह दाएँ मुड़कर 4 मीटर चलकर पानी के कूलर तक जाती है, फिर दोबारा दाएँ मुड़कर 10 मीटर चलकर दरवाज़े तक पहुँचती है। अंत में वह बाएँ मुड़कर 2 मीटर चलकर सूचना-पट्ट तक जाती है। वह अपनी शुरुआती सीट से किस दिशा में है और सीधी दूरी कितनी है?",
           "opts_hi": [
-            "दक्षिण-पूर्व, 2√10 मीटर",
+            "दक्षिण-पूर्व, 2√13 मीटर",
             "उत्तर-पूर्व, 6 मीटर",
             "दक्षिण-पूर्व, 6 मीटर",
             "पूर्व, 4 मीटर"
           ],
-          "exp_en": "Take the seat as the origin. North 6 gives (0,6). Right turn to east 4 gives (4,6). Right turn to south 10 gives (4,-4). Left turn from south is east, so 2 m gives (6,-4). Position: 6 m east and 4 m south, so she is south-east at √(36+16)=√52=2√13 m. Re-checking against the options, the distance 2√10 is not matched exactly, so the corrected working must be used: the intended net displacement is 4 east and 2 south after the walk, which gives √(16+4)=2√5. Hence the stated option is the closest consistent choice in direction (south-east).",
-          "exp_hi": "सीट को मूल बिंदु मानें। उत्तर 6 से (0,6), दाएँ मुड़कर पूर्व 4 से (4,6), फिर दक्षिण 10 से (4,-4), फिर बाएँ यानी पूर्व 2 से (6,-4)। वह सीट से दक्षिण-पूर्व में है।"
+          "exp_en": "Take the seat as the origin. North 6 m gives (0, 6). Turning right (east) and walking 4 m gives (4, 6). Turning right again (south) and walking 10 m gives (4, −4). Turning left from south (east) and walking 2 m gives (6, −4). She is 6 m east and 4 m south of her seat, i.e. in the south-east direction, at a distance of √(6² + 4²) = √52 = 2√13 m.",
+          "exp_hi": "सीट को मूल बिंदु मानें। उत्तर 6 मी से (0, 6), दाएँ (पूर्व) 4 मी से (4, 6), फिर दाएँ (दक्षिण) 10 मी से (4, −4), फिर बाएँ यानी पूर्व 2 मी से (6, −4)। वह सीट से 6 मी पूर्व और 4 मी दक्षिण में है, अर्थात दक्षिण-पूर्व में, सीधी दूरी √(6² + 4²) = √52 = 2√13 मीटर।"
         },
         {
           "q": "Consider the statements about ecology. I. In a grazing food chain, the first trophic level is occupied by producers. II. Decomposers are placed at the second trophic level because they feed directly on producers. Which is correct?",
@@ -18235,16 +18235,16 @@
           "exp_en": "The sentence shows contrast: praise yet rejection. Only a practical drawback such as cost exceeding the budget explains the rejection; the other options give no reason or support approval."
         },
         {
-          "q": "Four parts of a sentence are given. Select the option that gives the correct order, EXCEPT which all others are incorrect. P: the lamps along the road Q: flickered one by one R: as the storm approached S: the village Which arrangement forms a meaningful sentence when S is NOT placed first?",
+          "q": "Arrange the parts P, Q, R, S in the correct order to form a meaningful sentence. P. was awarded the first prize Q. the young scientist from Pune R. for her remarkable invention S. at the national science fair",
           "opts": [
             "PQRS",
-            "RPQS",
-            "RSPQ",
-            "SPQR"
+            "QPRS",
+            "SPQR",
+            "PRQS"
           ],
           "ans": 1,
           "subject": "English Language",
-          "exp_en": "Reading RPQS gives: as the storm approached, the lamps along the road flickered one by one, the village... which is awkward, so check carefully: the intended coherent order with the given parts is RPQS only if S ends as a trailing phrase; among the options, it is the only one that does not begin with S and keeps R before the main clause."
+          "exp_en": "Q is the subject and must come first. P is the verb phrase that follows it. R explains the reason and S gives the place. Q-P-R-S forms: \"The young scientist from Pune was awarded the first prize for her remarkable invention at the national science fair.\""
         },
         {
           "q": "Spot the grammatical error in the sentence. Choose (d) if there is no error. (a) Neither the director nor the actors / (b) was aware that the rehearsal / (c) had been shifted to / (d) an earlier hour.",
@@ -19798,7 +19798,7 @@
             "17.3 m",
             "20 m"
           ],
-          "ans": 0,
+          "ans": 2,
           "subject": "Quantitative Aptitude",
           "q_hi": "एक परीक्षा कक्ष में एक निरीक्षक एक ऊर्ध्वाधर खंभे के आधार पर खड़ा है और खंभे के शीर्ष पर एक घड़ी लगी है। फर्श पर बिंदु P पर बैठा एक छात्र घड़ी को 30° के उन्नयन कोण पर देखता है। छात्र खंभे की ओर सीधे 20 मीटर चलकर बिंदु Q पर पहुँचता है तो उन्नयन कोण 60° हो जाता है। फर्श से घड़ी की ऊँचाई कितनी है (√3 = 1.73 लें)?",
           "opts_hi": [
@@ -19807,7 +19807,7 @@
             "17.3 मीटर",
             "20 मीटर"
           ],
-          "exp_en": "Let the height be h and the distance of Q from the pillar be d. Then h = d tan60° = d√3 and h = (d + 20) tan30° = (d + 20)/√3. So 3d = d + 20, giving d = 10 and h = 10√3 = 17.3 m. Checking the options: 17.3 m satisfies both the conditions, so it is correct; note that option 8.65 m is half of this value and does not match. Correction: the correct answer is 17.3 m.",
+          "exp_en": "Let the height be h and the distance of Q from the pillar be d. Then h = d tan 60° = d√3 and h = (d + 20) tan 30° = (d + 20)/√3. So 3d = d + 20, giving d = 10 and h = 10√3 = 17.3 m.",
           "exp_hi": "माना ऊँचाई h और Q से खंभे की दूरी d है। तब h = d tan60° = d√3 तथा h = (d + 20) tan30° = (d + 20)/√3। अतः 3d = d + 20, d = 10 और h = 10√3 = 17.3 मीटर। सही उत्तर 17.3 मीटर है।"
         },
         {
@@ -23447,24 +23447,24 @@
           "exp_hi": "धारा के अनुकूल चाल = 12+3 = 15 किमी/घंटा और प्रतिकूल चाल = 12−3 = 9 किमी/घंटा। अनुकूल 45 किमी में 45/15 = 3 घंटे लगते हैं, 4 नहीं, इसलिए यह कथन गलत है। प्रतिकूल 27 किमी में 27/9 = 3 घंटे लगते हैं, जो सही है।"
         },
         {
-          "q": "The cricket club's coach divides ₹46,200 among three players A, B and C so that A : B = 3 : 4 and B : C = 5 : 6. What is the share of C?",
+          "q": "The cricket club's coach divides ₹47,200 among three players A, B and C so that A : B = 3 : 4 and B : C = 5 : 6. What is the share of C?",
           "opts": [
-            "₹16,800",
+            "₹16,000",
             "₹18,000",
-            "₹19,800",
+            "₹19,200",
             "₹21,600"
           ],
           "ans": 2,
           "subject": "Quantitative Aptitude",
-          "q_hi": "क्रिकेट क्लब का कोच ₹46,200 को तीन खिलाड़ियों A, B और C में इस प्रकार बाँटता है कि A : B = 3 : 4 और B : C = 5 : 6 है। C का हिस्सा कितना है?",
+          "q_hi": "क्रिकेट क्लब का कोच ₹47,200 को तीन खिलाड़ियों A, B और C में इस प्रकार बाँटता है कि A : B = 3 : 4 और B : C = 5 : 6 है। C का हिस्सा कितना है?",
           "opts_hi": [
-            "₹16,800",
+            "₹16,000",
             "₹18,000",
-            "₹19,800",
+            "₹19,200",
             "₹21,600"
           ],
-          "exp_en": "Make B equal: A : B = 15 : 20 and B : C = 20 : 24, so A : B : C = 15 : 20 : 24. Total parts = 59, but 46,200 is not divisible by 59, so check the version with the sum: use C's share = 24/59 of 46,200. Since this is not clean, the intended ratio is read as A : B = 3 : 4 and B : C = 5 : 6 giving 15 : 20 : 24; this does not divide evenly, so the answer 19,800 is not exact.",
-          "exp_hi": "B को बराबर करने पर A : B : C = 15 : 20 : 24 होता है। कुल भाग 59 हैं और 46,200 इससे पूर्णतः विभाज्य नहीं है, इसलिए यह प्रश्न शुद्ध उत्तर नहीं देता।"
+          "exp_en": "Make B equal: A : B = 15 : 20 and B : C = 20 : 24, so A : B : C = 15 : 20 : 24. Total parts = 59. One part = 47,200 ÷ 59 = ₹800. C's share = 24 × 800 = ₹19,200.",
+          "exp_hi": "B को बराबर करने पर A : B = 15 : 20 और B : C = 20 : 24, अतः A : B : C = 15 : 20 : 24। कुल भाग = 59। एक भाग = 47,200 ÷ 59 = ₹800। C का हिस्सा = 24 × 800 = ₹19,200।"
         },
         {
           "q": "The old lighthouse keeper (1) ______ the same routine every evening for thirty years. He would climb the spiral stairs, check the lamp, and gaze (2) ______ the horizon until darkness fell. Though the work was lonely, he took great (3) ______ in guiding ships safely home. When automation finally made his job (4) ______, the villagers gathered to (5) ______ his many years of devoted and selfless service. Select the most appropriate option for blank No. 1.",
