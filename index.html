@@ -880,8 +880,8 @@ async function startChslCheckout(placement, setStatus, onFallback){
     onFallback();
   }
 }
-async function recoverChslPurchase(reference, contact){
-  const r=await fetch(CHSL_PACK.recoverUrl,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({reference:reference,contact:contact})});
+async function recoverChslPurchase(paymentId, contact){
+  const r=await fetch(CHSL_PACK.recoverUrl,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({payment_id:paymentId,contact:contact})});
   const j=await r.json().catch(()=>({}));
   if(r.ok&&j.signature) return {order_id:j.order_id,payment_id:j.payment_id,signature:j.signature};
   throw new Error(j.error||'We could not find this payment.');
@@ -920,15 +920,15 @@ function chslPackCard(placement){
   // Already paid but no download button (closed tab, new phone, cleared browser)? Look the payment up.
   const recBox=el('div',{css:'display:none;margin-top:12px;font-size:12px;color:#334155;line-height:1.7;background:#fff;border:1px solid #fde68a;border-radius:10px;padding:12px;'});
   const inCss='width:100%;box-sizing:border-box;padding:9px 10px;margin:6px 0;border:1px solid #cbd5e1;border-radius:8px;font-size:13px;';
-  const idIn=el('input',{type:'text',placeholder:'UPI transaction ID (optional)',autocomplete:'off',css:inCss});
-  const ctIn=el('input',{type:'text',placeholder:'Phone number or email used for payment',autocomplete:'off',css:inCss});
+  const idIn=el('input',{type:'text',placeholder:'Payment ID (starts with pay_)',autocomplete:'off',css:inCss});
+  const ctIn=el('input',{type:'text',placeholder:'Email or phone used for payment',autocomplete:'off',css:inCss});
   const recMsg=el('div',{css:'color:#b45309;margin-top:6px;'});
   const recBtn=el('button',{css:btnCss+'background:#059669;cursor:pointer;margin-top:4px;',text:'Get my download',onClick:function(){
     recMsg.textContent='Checking…';
     recoverChslPurchase(idIn.value.trim(),ctIn.value.trim()).then(function(p){ saveChslPurchase(p); trackPackPurchase(p.payment_id,placement); showBought(p); }).catch(function(e){ recMsg.textContent=e.message; });
   }});
-  recBox.appendChild(el('div',{text:'Enter the phone number or email you used when paying. Adding your UPI transaction ID (shown in your UPI app) helps us find the payment faster.'}));
-  recBox.appendChild(ctIn); recBox.appendChild(idIn); recBox.appendChild(recBtn); recBox.appendChild(recMsg);
+  recBox.appendChild(el('div',{text:'Enter the payment ID from your Razorpay receipt and the email or phone number you paid with.'}));
+  recBox.appendChild(idIn); recBox.appendChild(ctIn); recBox.appendChild(recBtn); recBox.appendChild(recMsg);
   const recLink=el('a',{href:'#',css:'display:block;margin-top:12px;font-size:12px;color:#475569;text-decoration:underline;',text:'Already paid? Get your download',onClick:function(e){ e.preventDefault(); recBox.style.display=(recBox.style.display==='none')?'block':'none'; }});
   card.appendChild(recLink);
   card.appendChild(recBox);
