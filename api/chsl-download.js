@@ -6,8 +6,8 @@
 const crypto = require('crypto');
 const fs = require('fs');
 const path = require('path');
+const { FORMAT, signatureFor, safeEqual, checkPurchase, configured } = require('./_lib/verify');
 
-const PRICE_PAISE = parseInt(process.env.CHSL_PRICE_PAISE || '9900', 10);
 const FILE_NAME = 'ReadyMadeQuiz_SSC_CHSL_Tier1_Test_Pack_5_Tests.zip';
 
 function page(res, status, title, message) {
@@ -17,21 +17,8 @@ function page(res, status, title, message) {
   return res.status(status).send(
     '<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">' +
     '<title>' + title + '</title><body style="font-family:sans-serif;max-width:480px;margin:60px auto;padding:0 20px;line-height:1.6">' +
-    '<h2>' + title + '</h2><p>' + message + '</p><p><a href="/">Back to ReadyMadeQuiz</a></p></body>'
+    '<h2>' + title + '</h2><p>' + message + '</p><p><a href="/pack-thanks.html">Recover my download</a> · <a href="/">Back to ReadyMadeQuiz</a></p></body>'
   );
-}
-
-function safeEqual(a, b) {
-  const A = Buffer.from(String(a)), B = Buffer.from(String(b));
-  return A.length === B.length && crypto.timingSafeEqual(A, B);
-}
-
-async function razorpay(pathname, keyId, keySecret) {
-  const r = await fetch('https://api.razorpay.com/v1' + pathname, {
-    headers: { Authorization: 'Basic ' + Buffer.from(keyId + ':' + keySecret).toString('base64') },
-  });
-  if (!r.ok) throw new Error('razorpay ' + r.status);
-  return r.json();
 }
 
 module.exports = async (req, res) => {
@@ -39,31 +26,20 @@ module.exports = async (req, res) => {
     res.setHeader('Allow', 'GET, HEAD');
     return res.status(405).send('Method not allowed');
   }
-  const keyId = process.env.RAZORPAY_KEY_ID;
-  const keySecret = process.env.RAZORPAY_KEY_SECRET;
-  if (!keyId || !keySecret) return page(res, 500, 'Not available', 'Downloads are not configured yet. Please email us with your payment ID.');
+  if (!configured()) return page(res, 500, 'Not available', 'Downloads are not configured yet. Please email us with your payment ID.');
 
   const q = req.query || {};
   const orderId = String(q.order_id || ''), paymentId = String(q.payment_id || ''), signature = String(q.signature || '');
-  if (!/^order_[A-Za-z0-9]+$/.test(orderId) || !/^pay_[A-Za-z0-9]+$/.test(paymentId) || !/^[a-f0-9]{64}$/.test(signature)) {
+  if (!FORMAT.order.test(orderId) || !FORMAT.payment.test(paymentId) || !FORMAT.signature.test(signature)) {
     return page(res, 400, 'Invalid download link', 'This link is incomplete. Please use the download button shown after your payment.');
   }
-  const expected = crypto.createHmac('sha256', keySecret).update(orderId + '|' + paymentId).digest('hex');
-  if (!safeEqual(expected, signature)) {
+  if (!safeEqual(signatureFor(orderId, paymentId), signature)) {
     return page(res, 403, 'Invalid download link', 'We could not verify this payment. If you have paid, please email us with your payment ID.');
   }
   try {
-    const [payment, order] = await Promise.all([
-      razorpay('/payments/' + paymentId, keyId, keySecret),
-      razorpay('/orders/' + orderId, keyId, keySecret),
-    ]);
-    const product = order && order.notes && order.notes.product;
-    if (payment.order_id !== orderId || product !== 'chsl_pack' || !(payment.amount >= PRICE_PAISE)) {
-      return page(res, 403, 'Invalid download link', 'This payment is not for the CHSL pack.');
-    }
-    if (payment.status !== 'captured') {
-      return page(res, 202, 'Payment being confirmed', 'Your payment has been received and is being confirmed. Please refresh this page in a minute.');
-    }
+    const check = await checkPurchase(orderId, paymentId);
+    if (check.state === 'invalid') return page(res, 403, 'Invalid download link', 'This payment is not for the CHSL pack.');
+    if (check.state === 'pending') return page(res, 202, 'Payment being confirmed', 'Your payment has been received and is being confirmed. Please refresh this page in a minute.');
   } catch (e) {
     return page(res, 503, 'Please try again', 'We could not confirm your payment right now. Please try again in a minute.');
   }
