@@ -48,9 +48,9 @@
 
   <div class="card space" id="recover">
     <h1>Already paid?</h1>
-    <p>Enter the payment ID from your Razorpay receipt (it starts with <b>pay_</b>) and the email or phone number you used when paying.</p>
-    <input id="rp" placeholder="Payment ID, e.g. pay_AbC123..." autocomplete="off">
-    <input id="rc" placeholder="Email or phone number used for payment" autocomplete="off">
+    <p>Enter the phone number or email you used when paying. Adding your UPI transaction ID (shown in your UPI app) helps us find the payment faster.</p>
+    <input id="rc" placeholder="Phone number or email used for payment" autocomplete="off">
+    <input id="rp" placeholder="UPI transaction ID (optional)" autocomplete="off">
     <button class="btn" id="rb" type="button">Get my download</button>
     <p class="small warn space" id="rs"></p>
   </div>
@@ -90,7 +90,7 @@
   }
   $('rb').addEventListener('click',function(){
     var s=$('rs'); s.textContent='Checking…';
-    fetch('/api/chsl-recover',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({payment_id:$('rp').value.trim(),contact:$('rc').value.trim()})})
+    fetch('/api/chsl-recover',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({reference:$('rp').value.trim(),contact:$('rc').value.trim()})})
       .then(function(r){ return r.json().then(function(j){ return {ok:r.ok,status:r.status,j:j}; }); })
       .then(function(x){
         if(x.ok&&x.j.signature){ var p={order_id:x.j.order_id,payment_id:x.j.payment_id,signature:x.j.signature}; save(p); track(p); s.textContent=''; show(p); }
