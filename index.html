@@ -806,40 +806,132 @@ function groupQuestionsBySubject(questions){
 
 // ── GA4 TEST TRACKING ─────────────────────────────────────────────────────────
 // ── PAID PACK: SSC CHSL printable test pack ─────────────────────────────────
-// Change these values in one place. payUrl should be a FIXED-amount Razorpay Payment Link
-// (Razorpay Dashboard > Payment Links) so buyers cannot type a wrong amount.
+// Flow: Buy button -> /api/create-order -> Razorpay Checkout window -> payment succeeds ->
+// the download button appears at once (served by /api/chsl-download after server-side verification).
+// The price shown here must match CHSL_PRICE_PAISE on the server (default 9900 paise = ₹99).
 const CHSL_PACK = {
   examKey: 'ssc_chsl',
   name: 'SSC CHSL Tier 1 Printable Test Pack',
   price: 99,
   tests: 5,
+  createUrl: '/api/create-order',
+  callbackPath: '/api/payment-callback',
+  recoverUrl: '/api/chsl-recover',
+  downloadUrl: '/api/chsl-download',
+  // Backup only (used if the payment window cannot open): manual delivery by email
   payUrl: 'https://rzp.io/rzp/A1CZzxO',
   email: 'readymadequiz.co.in@gmail.com'
 };
-// GA4 events: paywall_click (opened the offer) -> purchase_start (pressed Continue to payment)
-function trackPack(action, placement){
+// GA4 events: paywall_click -> purchase_start (payment window opened) -> purchase (paid) -> pack_download
+function trackPack(action, placement, extra){
   try{
     if(typeof gtag!=='function') return;
-    gtag('event', action, {product:'chsl_pack', placement:placement, value:CHSL_PACK.price, currency:'INR'});
+    gtag('event', action, Object.assign({product:'chsl_pack', placement:placement, value:CHSL_PACK.price, currency:'INR'}, extra||{}));
   }catch(e){}
+}
+function trackPackPurchase(paymentId, placement){
+  try{
+    if(typeof gtag!=='function') return;
+    gtag('event','purchase',{transaction_id:paymentId, value:CHSL_PACK.price, currency:'INR', placement:placement,
+      items:[{item_id:'chsl_pack', item_name:CHSL_PACK.name, price:CHSL_PACK.price, quantity:1}]});
+  }catch(e){}
+}
+const CHSL_PURCHASE_KEY='readymadequiz_chsl_purchase_v1';
+function getChslPurchase(){
+  try{
+    const p=JSON.parse(localStorage.getItem(CHSL_PURCHASE_KEY)||'null');
+    return (p&&p.order_id&&p.payment_id&&p.signature)?p:null;
+  }catch(e){ return null; }
+}
+function saveChslPurchase(p){ try{ localStorage.setItem(CHSL_PURCHASE_KEY, JSON.stringify(p)); }catch(e){} }
+function chslDownloadHref(p){
+  return CHSL_PACK.downloadUrl+'?order_id='+encodeURIComponent(p.order_id)+'&payment_id='+encodeURIComponent(p.payment_id)+'&signature='+encodeURIComponent(p.signature);
+}
+function loadRazorpayScript(){
+  return new Promise((resolve,reject)=>{
+    if(window.Razorpay) return resolve();
+    const sc=document.createElement('script');
+    sc.src='https://checkout.razorpay.com/v1/checkout.js';
+    sc.onload=resolve; sc.onerror=()=>reject(new Error('checkout script'));
+    document.head.appendChild(sc);
+  });
+}
+async function startChslCheckout(placement, setStatus, onFallback){
+  setStatus('Opening the secure payment window…');
+  try{
+    const results=await Promise.all([fetch(CHSL_PACK.createUrl,{method:'POST'}), loadRazorpayScript()]);
+    const resp=results[0];
+    const order=await resp.json();
+    if(!resp.ok||!order.orderId) throw new Error(order.error||'order');
+    // callback_url + redirect:true makes Razorpay send the buyer to our server after payment, so it also works when
+    // the payment happens inside a UPI app and this page was closed or reloaded. The server then opens /pack-thanks.html.
+    const rzp=new window.Razorpay({
+      key:order.keyId, amount:order.amount, currency:order.currency, order_id:order.orderId,
+      name:'ReadyMadeQuiz', description:CHSL_PACK.name, theme:{color:'#059669'},
+      callback_url:window.location.origin+CHSL_PACK.callbackPath, redirect:true,
+      modal:{ondismiss:function(){ setStatus(''); }}
+    });
+    if(rzp.on) rzp.on('payment.failed',function(){ setStatus('The payment did not go through. You can try again.'); });
+    trackPack('purchase_start', placement);
+    rzp.open();
+    setStatus('');
+  }catch(e){
+    setStatus('');
+    onFallback();
+  }
+}
+async function recoverChslPurchase(paymentId, contact){
+  const r=await fetch(CHSL_PACK.recoverUrl,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({payment_id:paymentId,contact:contact})});
+  const j=await r.json().catch(()=>({}));
+  if(r.ok&&j.signature) return {order_id:j.order_id,payment_id:j.payment_id,signature:j.signature};
+  throw new Error(j.error||'We could not find this payment.');
 }
 function chslPackCard(placement){
   const P=CHSL_PACK;
   const card=el('div',{css:'background:linear-gradient(135deg,#fffbeb,#fff7ed);border:1.5px solid #fcd34d;border-radius:14px;padding:16px;margin-bottom:18px;'});
-  card.appendChild(el('div',{css:'font-family:Syne,sans-serif;font-weight:800;font-size:15px;color:#0f172a;margin-bottom:5px;',text:'📄 '+P.name}));
-  card.appendChild(el('p',{css:'font-size:12px;color:#475569;line-height:1.6;margin-bottom:12px;',text:P.tests+' full-length CHSL Tier 1 papers as printable PDFs (100 questions each), with answer key and explanations in English and Hindi. One-time payment of ₹'+P.price+'.'}));
-  const panel=el('div',{css:'display:none;font-size:12px;color:#334155;line-height:1.7;background:#fff;border:1px solid #fde68a;border-radius:10px;padding:12px;'});
-  panel.appendChild(el('div',{text:'1. Pay ₹'+P.price+' on the secure Razorpay page (UPI, cards or netbanking). Use the email address where you want the PDFs.'}));
-  panel.appendChild(el('div',{text:'2. We email the PDFs to that address within a few hours.'}));
-  panel.appendChild(el('div',{css:'margin-top:4px;color:#64748b;',text:'Questions? Write to '+P.email}));
-  panel.appendChild(el('a',{href:P.payUrl,target:'_blank',rel:'noopener',css:'display:inline-block;margin-top:10px;background:#059669;color:#fff;font-family:Syne,sans-serif;font-weight:700;font-size:13px;padding:10px 18px;border-radius:10px;text-decoration:none;',text:'Continue to payment →',onClick:()=>trackPack('purchase_start',placement)}));
-  const btn=el('button',{css:'background:linear-gradient(135deg,#f59e0b,#ea580c);color:#fff;border:none;font-family:Syne,sans-serif;font-weight:700;font-size:13px;padding:10px 18px;border-radius:10px;',text:'Get the pack — ₹'+P.price,onClick:()=>{
+  const titleCss='font-family:Syne,sans-serif;font-weight:800;font-size:15px;color:#0f172a;margin-bottom:5px;';
+  const textCss='font-size:12px;color:#475569;line-height:1.6;margin-bottom:12px;';
+  const btnCss='display:inline-block;color:#fff;border:none;font-family:Syne,sans-serif;font-weight:700;font-size:13px;padding:11px 20px;border-radius:10px;text-decoration:none;';
+  function showBought(p){
+    card.innerHTML='';
+    card.style.background='linear-gradient(135deg,#ecfdf5,#f0fdf4)'; card.style.borderColor='#6ee7b7';
+    card.appendChild(el('div',{css:titleCss,text:'✅ '+P.name}));
+    card.appendChild(el('p',{css:textCss,text:'Payment received. Your pack is ready: '+P.tests+' full-length CHSL Tier 1 papers with answer keys and explanations.'}));
+    card.appendChild(el('a',{href:chslDownloadHref(p),download:'',css:btnCss+'background:#059669;',text:'⬇ Download the pack (ZIP)',onClick:function(){ trackPack('pack_download',placement); }}));
+    card.appendChild(el('p',{css:'font-size:11px;color:#64748b;margin-top:10px;line-height:1.6;',text:'Save the file to your phone or computer. This button stays on this device. If the download does not work, email '+P.email+' with your payment ID: '+p.payment_id}));
+  }
+  const bought=getChslPurchase();
+  if(bought){ showBought(bought); return card; }
+  card.appendChild(el('div',{css:titleCss,text:'📄 '+P.name}));
+  card.appendChild(el('p',{css:textCss,text:P.tests+' full-length CHSL Tier 1 papers as printable PDFs (100 questions each), with answer key and explanations in English and Hindi. One-time payment of ₹'+P.price+'. Instant download after payment.'}));
+  const status=el('div',{css:'font-size:12px;color:#b45309;margin-top:8px;min-height:0;'});
+  const setStatus=function(t){ status.textContent=t; };
+  const backup=el('div',{css:'display:none;margin-top:10px;font-size:12px;color:#334155;line-height:1.7;background:#fff;border:1px solid #fde68a;border-radius:10px;padding:12px;'});
+  backup.appendChild(el('div',{text:'The payment window could not open. You can pay with the backup link instead: pay ₹'+P.price+', then email your payment ID to '+P.email+' and we will send the PDFs.'}));
+  backup.appendChild(el('a',{href:P.payUrl,target:'_blank',rel:'noopener',css:btnCss+'background:#475569;margin-top:8px;',text:'Open backup payment link →'}));
+  const btn=el('button',{css:btnCss+'background:linear-gradient(135deg,#f59e0b,#ea580c);cursor:pointer;',text:'Buy now — ₹'+P.price,onClick:function(){
     trackPack('paywall_click',placement);
-    btn.style.display='none';
-    panel.style.display='block';
+    btn.disabled=true; btn.style.opacity='0.7';
+    startChslCheckout(placement,setStatus,function(){ backup.style.display='block'; }).then(function(){ btn.disabled=false; btn.style.opacity='1'; });
   }});
   card.appendChild(btn);
-  card.appendChild(panel);
+  card.appendChild(status);
+  card.appendChild(backup);
+  // Already paid but no download button (closed tab, new phone, cleared browser)? Look the payment up.
+  const recBox=el('div',{css:'display:none;margin-top:12px;font-size:12px;color:#334155;line-height:1.7;background:#fff;border:1px solid #fde68a;border-radius:10px;padding:12px;'});
+  const inCss='width:100%;box-sizing:border-box;padding:9px 10px;margin:6px 0;border:1px solid #cbd5e1;border-radius:8px;font-size:13px;';
+  const idIn=el('input',{type:'text',placeholder:'Payment ID (starts with pay_)',autocomplete:'off',css:inCss});
+  const ctIn=el('input',{type:'text',placeholder:'Email or phone used for payment',autocomplete:'off',css:inCss});
+  const recMsg=el('div',{css:'color:#b45309;margin-top:6px;'});
+  const recBtn=el('button',{css:btnCss+'background:#059669;cursor:pointer;margin-top:4px;',text:'Get my download',onClick:function(){
+    recMsg.textContent='Checking…';
+    recoverChslPurchase(idIn.value.trim(),ctIn.value.trim()).then(function(p){ saveChslPurchase(p); trackPackPurchase(p.payment_id,placement); showBought(p); }).catch(function(e){ recMsg.textContent=e.message; });
+  }});
+  recBox.appendChild(el('div',{text:'Enter the payment ID from your Razorpay receipt and the email or phone number you paid with.'}));
+  recBox.appendChild(idIn); recBox.appendChild(ctIn); recBox.appendChild(recBtn); recBox.appendChild(recMsg);
+  const recLink=el('a',{href:'#',css:'display:block;margin-top:12px;font-size:12px;color:#475569;text-decoration:underline;',text:'Already paid? Get your download',onClick:function(e){ e.preventDefault(); recBox.style.display=(recBox.style.display==='none')?'block':'none'; }});
+  card.appendChild(recLink);
+  card.appendChild(recBox);
   return card;
 }
 
