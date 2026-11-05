@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>Your SSC CHSL Test Pack | ReadyMadeQuiz</title>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2E4YWNRY8E"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){ dataLayer.push(arguments); }
+  gtag('js', new Date());
+  gtag('config', 'G-2E4YWNRY8E');
+</script>
+<style>
+  :root{--bg:#f8fafc;--card:#fff;--text:#0f172a;--muted:#475569;--border:#e2e8f0;--green:#059669;--amber:#b45309;}
+  @media (prefers-color-scheme: dark){:root{--bg:#0f172a;--card:#1e293b;--text:#f1f5f9;--muted:#94a3b8;--border:#334155;--green:#10b981;--amber:#fbbf24;}}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--text);font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;line-height:1.6}
+  main{max-width:520px;margin:0 auto;padding:36px 18px}
+  .card{background:var(--card);border:1px solid var(--border);border-radius:16px;padding:22px}
+  h1{font-size:21px;margin:0 0 8px}
+  p{margin:0 0 12px;color:var(--muted);font-size:14px}
+  .btn{display:inline-block;background:var(--green);color:#fff;font-weight:700;font-size:15px;padding:13px 22px;border-radius:12px;text-decoration:none;border:none;cursor:pointer}
+  .small{font-size:12px}
+  .warn{color:var(--amber)}
+  input{width:100%;padding:11px 12px;margin:0 0 10px;border:1px solid var(--border);border-radius:10px;background:var(--bg);color:var(--text);font-size:14px}
+  a{color:var(--green)}
+  [hidden]{display:none !important}
+  .space{margin-top:16px}
+</style>
+</head>
+<body>
+<main>
+  <div class="card" id="ok" hidden>
+    <h1>✅ Payment received</h1>
+    <p>Thank you! Your SSC CHSL Tier 1 pack (5 full-length tests with answer keys and explanations) is ready.</p>
+    <a class="btn" id="dl" href="#" download>⬇ Download the pack (ZIP)</a>
+    <p class="small space">Save the file to your phone or computer. This button stays on this device. Payment ID: <span id="pid"></span></p>
+    <p class="small">If the download does not work, email readymadequiz.co.in@gmail.com with your payment ID.</p>
+  </div>
+
+  <div class="card" id="failed" hidden>
+    <h1 class="warn">Payment did not complete</h1>
+    <p>We did not receive a confirmed payment. If money was deducted from your account, your bank or Razorpay will normally return it within 5–7 working days. You can also recover your download below if the payment actually went through.</p>
+    <a class="btn" href="/">Back to ReadyMadeQuiz</a>
+  </div>
+
+  <div class="card space" id="recover">
+    <h1>Already paid?</h1>
+    <p>Enter the payment ID from your Razorpay receipt (it starts with <b>pay_</b>) and the email or phone number you used when paying.</p>
+    <input id="rp" placeholder="Payment ID, e.g. pay_AbC123..." autocomplete="off">
+    <input id="rc" placeholder="Email or phone number used for payment" autocomplete="off">
+    <button class="btn" id="rb" type="button">Get my download</button>
+    <p class="small warn space" id="rs"></p>
+  </div>
+  <p class="small space"><a href="/">← Back to ReadyMadeQuiz</a></p>
+</main>
+<script>
+(function(){
+  var KEY='readymadequiz_chsl_purchase_v1', PRICE=99;
+  var $=function(id){return document.getElementById(id);};
+  function load(){ try{ var p=JSON.parse(localStorage.getItem(KEY)||'null'); return (p&&p.order_id&&p.payment_id&&p.signature)?p:null; }catch(e){ return null; } }
+  function save(p){ try{ localStorage.setItem(KEY, JSON.stringify(p)); }catch(e){} }
+  function href(p){ return '/api/chsl-download?order_id='+encodeURIComponent(p.order_id)+'&payment_id='+encodeURIComponent(p.payment_id)+'&signature='+encodeURIComponent(p.signature); }
+  function track(p){
+    try{
+      var flag='readymadequiz_chsl_tracked_'+p.payment_id;
+      if(localStorage.getItem(flag)) return;
+      localStorage.setItem(flag,'1');
+      gtag('event','purchase',{transaction_id:p.payment_id,value:PRICE,currency:'INR',items:[{item_id:'chsl_pack',item_name:'SSC CHSL Tier 1 Printable Test Pack',price:PRICE,quantity:1}]});
+    }catch(e){}
+  }
+  function show(p){
+    $('dl').href=href(p);
+    $('pid').textContent=p.payment_id;
+    $('ok').hidden=false; $('failed').hidden=true; $('recover').hidden=true;
+    $('dl').addEventListener('click',function(){ try{ gtag('event','pack_download',{product:'chsl_pack',placement:'thanks_page'}); }catch(e){} });
+  }
+  var q=new URLSearchParams(location.search);
+  var fromUrl={order_id:q.get('order_id')||'',payment_id:q.get('payment_id')||'',signature:q.get('signature')||''};
+  var status=q.get('status');
+  if(fromUrl.order_id&&fromUrl.payment_id&&fromUrl.signature){
+    save(fromUrl); track(fromUrl); show(fromUrl);
+    try{ history.replaceState(null,'','/pack-thanks.html'); }catch(e){}
+  } else if(status==='failed'){
+    $('failed').hidden=false;
+  } else {
+    var saved=load(); if(saved) show(saved);
+  }
+  $('rb').addEventListener('click',function(){
+    var s=$('rs'); s.textContent='Checking…';
+    fetch('/api/chsl-recover',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({payment_id:$('rp').value.trim(),contact:$('rc').value.trim()})})
+      .then(function(r){ return r.json().then(function(j){ return {ok:r.ok,status:r.status,j:j}; }); })
+      .then(function(x){
+        if(x.ok&&x.j.signature){ var p={order_id:x.j.order_id,payment_id:x.j.payment_id,signature:x.j.signature}; save(p); track(p); s.textContent=''; show(p); }
+        else s.textContent=(x.j&&x.j.error)||'We could not find this payment.';
+      })
+      .catch(function(){ s.textContent='Could not reach the server. Please try again.'; });
+  });
+})();
+</script>
+</body>
+</html>
