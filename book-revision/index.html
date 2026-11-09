@@ -22,7 +22,9 @@ button:disabled{opacity:.5}
 button:focus-visible,input:focus-visible,select:focus-visible{outline:3px solid var(--mark);outline-offset:2px}
 .note{margin:0;padding-left:18px}.note li{margin:6px 0}
 .opt{display:block;width:100%;text-align:left;background:#fff;color:var(--ink);border:1.5px solid var(--line);margin-top:8px;font-weight:500}
-.opt.right{border-color:var(--ok);background:#e8f5ee}.opt.wrong{border-color:var(--red);background:#fbe9e7}
+.opt:disabled{opacity:1}
+.opt.right{border-color:#145a37;background:#1f7a4d;color:#fff;font-weight:700}.opt.right::before{content:"✓ "}
+.opt.wrong{border-color:#8f241c;background:#c8372d;color:#fff;font-weight:700}.opt.wrong::before{content:"✗ "}
 .meta{color:var(--mute);font-size:14px}
 .tip{background:#fffbe0;border-left:4px solid var(--mark);padding:8px 10px;font-size:14px;margin:10px 0 0}
 .exp{border-left:4px solid var(--mark);padding:6px 10px;margin-top:12px;background:#fffbe0}
