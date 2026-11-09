@@ -15,7 +15,7 @@ p.sub{color:var(--mute);margin:0 0 20px}
 .box{border:1.5px solid var(--ink);border-radius:6px;padding:14px;margin:14px 0;background:#fff}
 label{display:block;font-weight:600;margin-bottom:6px}
 input[type=file],input[type=number],select{width:100%;padding:10px;border:1px solid var(--line);border-radius:6px;font:inherit;background:#fff}
-.row{display:flex;gap:10px}.row>div{flex:1}
+.row{display:flex;gap:10px;margin-top:10px}.row>div{flex:1}
 button{font:600 16px system-ui;padding:12px 16px;border:0;border-radius:6px;background:var(--ink);color:#fff;width:100%;margin-top:12px;cursor:pointer}
 button.alt{background:#fff;color:var(--ink);border:1.5px solid var(--ink)}
 button:disabled{opacity:.5}
@@ -24,19 +24,21 @@ button:focus-visible,input:focus-visible,select:focus-visible{outline:3px solid 
 .opt{display:block;width:100%;text-align:left;background:#fff;color:var(--ink);border:1.5px solid var(--line);margin-top:8px;font-weight:500}
 .opt.right{border-color:var(--ok);background:#e8f5ee}.opt.wrong{border-color:var(--red);background:#fbe9e7}
 .meta{color:var(--mute);font-size:14px}
+.tip{background:#fffbe0;border-left:4px solid var(--mark);padding:8px 10px;font-size:14px;margin:10px 0 0}
 .exp{border-left:4px solid var(--mark);padding:6px 10px;margin-top:12px;background:#fffbe0}
 .hide{display:none}.err{color:var(--red);font-weight:600}
 </style>
 </head>
 <body>
 <h1>Book <span>Revision</span></h1>
-<p class="sub">Upload a chapter of your book. Get key points and MCQs from that text only.</p>
+<p class="sub">Upload a PDF or take photos of your book pages. Get key points and MCQs from that text only.</p>
 
 <section id="setup" class="box">
-  <label for="pdf">Book PDF</label>
-  <input id="pdf" type="file" accept="application/pdf">
+  <label for="pdf">Book PDF or page photos (JPG)</label>
+  <input id="pdf" type="file" accept="application/pdf,image/*" multiple>
+  <div class="tip">Photos: keep the page flat, in good light, one page per photo. Choose up to 8 photos.</div>
   <p id="info" class="meta"></p>
-  <div class="row">
+  <div class="row" id="rangeRow">
     <div><label for="from">From page</label><input id="from" type="number" min="1" value="1"></div>
     <div><label for="to">To page</label><input id="to" type="number" min="1" value="10"></div>
   </div>
@@ -68,36 +70,84 @@ button:focus-visible,input:focus-visible,select:focus-visible{outline:3px solid 
 <script>
 pdfjsLib.GlobalWorkerOptions.workerSrc='https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
 const $=id=>document.getElementById(id);
-let pages=[],set=null,deck=[],i=0,wrong=[],correct=0;
+const MAXIMG=8, MAXSIDE=1500, QUAL=0.72;
+let mode='',pages=[],pdfDoc=null,imgs=[],set=null,deck=[],i=0,wrong=[],correct=0;
 const show=(...ids)=>['setup','notes','quiz','done'].forEach(s=>$(s).classList.toggle('hide',!ids.includes(s)));
 
+// Shrink a phone photo so it uploads fast (phone photos are often 5 MB+)
+function toB64(src,w,h){
+  const k=Math.min(1,MAXSIDE/Math.max(w,h)),c=document.createElement('canvas');
+  c.width=Math.round(w*k);c.height=Math.round(h*k);
+  const x=c.getContext('2d');x.fillStyle='#fff';x.fillRect(0,0,c.width,c.height);x.drawImage(src,0,0,c.width,c.height);
+  return c.toDataURL('image/jpeg',QUAL).split(',')[1];
+}
+function photoB64(file){
+  return new Promise((ok,bad)=>{
+    const u=URL.createObjectURL(file),im=new Image();
+    im.onload=()=>{try{ok(toB64(im,im.naturalWidth,im.naturalHeight))}catch(e){bad(e)}URL.revokeObjectURL(u)};
+    im.onerror=()=>bad(new Error('bad image'));im.src=u;
+  });
+}
+
 $('pdf').onchange=async e=>{
-  const f=e.target.files[0];if(!f)return;
-  $('info').textContent='Reading PDF…';$('go').disabled=true;pages=[];
+  const files=[...e.target.files];if(!files.length)return;
+  $('go').disabled=true;$('msg').textContent='';pages=[];imgs=[];pdfDoc=null;mode='';
+  const pdf=files.find(f=>f.type==='application/pdf'||/\.pdf$/i.test(f.name));
   try{
-    const doc=await pdfjsLib.getDocument({data:await f.arrayBuffer()}).promise;
-    for(let n=1;n<=doc.numPages;n++){
-      const t=await(await doc.getPage(n)).getTextContent();
-      pages.push(t.items.map(x=>x.str).join(' ').replace(/\s+/g,' ').trim());
+    if(pdf){
+      $('info').textContent='Reading PDF…';$('rangeRow').classList.remove('hide');
+      pdfDoc=await pdfjsLib.getDocument({data:await pdf.arrayBuffer()}).promise;
+      for(let n=1;n<=pdfDoc.numPages;n++){
+        const t=await(await pdfDoc.getPage(n)).getTextContent();
+        pages.push(t.items.map(x=>x.str).join(' ').replace(/\s+/g,' ').trim());
+      }
+      const filled=pages.filter(p=>p.length>80).length;
+      if(filled<pages.length*0.3){
+        mode='scan';$('to').value=Math.min(5,pages.length);
+        $('info').textContent=pages.length+' pages found. This is a scanned book, so pages will be read as pictures. Pick up to 8 pages.';
+      }else{
+        mode='text';$('to').value=Math.min(10,pages.length);
+        $('info').textContent=pages.length+' pages found. Pick a page range of about 10 pages.';
+      }
+      $('go').disabled=false;
+    }else{
+      $('rangeRow').classList.add('hide');$('info').textContent='Preparing photos…';
+      for(const f of files.slice(0,MAXIMG))imgs.push(await photoB64(f));
+      mode='photos';
+      $('info').textContent=imgs.length+' photo'+(imgs.length>1?'s':'')+' ready (in the order you chose).'+(files.length>MAXIMG?' Only the first '+MAXIMG+' are used.':'');
+      $('go').disabled=false;
     }
-    const filled=pages.filter(p=>p.length>80).length;
-    $('to').value=Math.min(10,pages.length);
-    $('info').textContent=filled<pages.length*0.3
-      ?'This looks like a scanned book with little readable text. It needs OCR first (see README).'
-      :pages.length+' pages found. Pick a page range of about 10 pages.';
-    $('go').disabled=filled===0;
-  }catch(err){$('info').innerHTML='<span class="err">Could not read this PDF.</span>'}
+  }catch(err){$('info').innerHTML='<span class="err">Could not read this file. Try another one.</span>'}
 };
 
 $('go').onclick=async()=>{
-  const a=Math.max(1,+$('from').value),b=Math.min(pages.length,+$('to').value);
-  if(b<a||b-a>19){$('msg').innerHTML='<span class="err">Choose 1 to 20 pages.</span>';return}
-  let text='';for(let n=a;n<=b;n++)text+=`\n[Page ${n}]\n${pages[n-1]}`;
-  $('go').disabled=true;$('msg').textContent='Making your set… about 20 seconds.';
+  $('go').disabled=true;$('msg').textContent='Getting pages ready…';
+  const payload={count:+$('count').value,lang:$('lang').value,firstPage:1};
   try{
-    const r=await fetch('/api/book-generate',{method:'POST',headers:{'Content-Type':'application/json'},
-      body:JSON.stringify({text:text.slice(0,24000),count:+$('count').value,lang:$('lang').value})});
-    const d=await r.json();if(!r.ok)throw new Error(d.error||'Failed');
+    if(mode==='photos'){payload.images=imgs}
+    else{
+      const a=Math.max(1,+$('from').value),b=Math.min(pages.length,+$('to').value),lim=mode==='scan'?MAXIMG:20;
+      if(b<a||b-a+1>lim)throw new Error('Choose 1 to '+lim+' pages');
+      if(mode==='scan'){
+        payload.firstPage=a;payload.images=[];
+        for(let n=a;n<=b;n++){
+          const pg=await pdfDoc.getPage(n),v1=pg.getViewport({scale:1}),vp=pg.getViewport({scale:MAXSIDE/Math.max(v1.width,v1.height)});
+          const c=document.createElement('canvas');c.width=vp.width;c.height=vp.height;
+          const x=c.getContext('2d');x.fillStyle='#fff';x.fillRect(0,0,c.width,c.height);
+          await pg.render({canvasContext:x,viewport:vp}).promise;
+          payload.images.push(c.toDataURL('image/jpeg',QUAL).split(',')[1]);
+        }
+      }else{
+        let t='';for(let n=a;n<=b;n++)t+=`\n[Page ${n}]\n${pages[n-1]}`;
+        payload.text=t.slice(0,24000);
+      }
+    }
+    const body=JSON.stringify(payload);
+    if(body.length>4000000)throw new Error('Files are too big. Choose fewer pages or photos');
+    $('msg').textContent='Making your set… this can take up to a minute.';
+    const r=await fetch('/api/book-generate',{method:'POST',headers:{'Content-Type':'application/json'},body});
+    const d=await r.json().catch(()=>({error:'Server did not answer properly'}));
+    if(!r.ok)throw new Error(d.error||'Failed');
     set=d;$('msg').textContent='';
     $('nl').innerHTML='';d.notes.forEach(n=>{const li=document.createElement('li');li.textContent=n;$('nl').append(li)});
     show('notes');
