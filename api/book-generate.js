@@ -2,7 +2,7 @@
 // Vercel env vars: GEMINI_API_KEY, GEMINI_MODEL (optional), PROVIDER (gemini default or claude),
 // ANTHROPIC_API_KEY, CLAUDE_MODEL (optional)
 
-export const config = { maxDuration: 60 }; // allow up to 60 seconds so bigger requests do not time out
+export const config = { maxDuration: 120 }; // allow up to 2 minutes for slow models
 
 async function callGemini(system, userText, images) {
   const key = process.env.GEMINI_API_KEY;
@@ -16,9 +16,11 @@ async function callGemini(system, userText, images) {
     const model = models[k];
     const generationConfig = { responseMimeType: 'application/json', maxOutputTokens: 8192, temperature: 0.3 };
     if (/2\.5-flash/.test(model)) generationConfig.thinkingConfig = { thinkingBudget: 0 };
+    // Optional: less hidden thinking = faster. Set GEMINI_THINKING_LEVEL (e.g. low or minimal) if your model supports it
+    if (process.env.GEMINI_THINKING_LEVEL) generationConfig.thinkingConfig = { thinkingLevel: process.env.GEMINI_THINKING_LEVEL };
     const r = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`, {
       method: 'POST',
-      signal: AbortSignal.timeout(models.length > 1 ? 28000 : 45000),
+      signal: AbortSignal.timeout(models.length > 1 ? 55000 : 100000),
       headers: { 'content-type': 'application/json', 'x-goog-api-key': key },
       body: JSON.stringify({
         systemInstruction: { parts: [{ text: system }] },
@@ -46,7 +48,7 @@ async function callClaude(system, userText, images) {
   const content = [...images.map(d => ({ type: 'image', source: { type: 'base64', media_type: 'image/jpeg', data: d } })), { type: 'text', text: userText }];
   const r = await fetch('https://api.anthropic.com/v1/messages', {
     method: 'POST',
-    signal: AbortSignal.timeout(45000),
+    signal: AbortSignal.timeout(100000),
     headers: { 'content-type': 'application/json', 'x-api-key': key, 'anthropic-version': '2023-06-01' },
     body: JSON.stringify({
       model: process.env.CLAUDE_MODEL || 'claude-sonnet-5-5',
