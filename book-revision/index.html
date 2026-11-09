@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Book Revision – quick MCQs from your own books</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+<style>
+:root{--paper:#fbfaf5;--ink:#1c2a4a;--mark:#ffe46b;--red:#c8372d;--ok:#1f7a4d;--line:#d9d6c8;--mute:#5d6477}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.55 system-ui,sans-serif;padding:20px 16px 60px;max-width:640px;margin-inline:auto}
+h1{font:700 28px/1.2 Georgia,serif;margin:8px 0 4px}
+h1 span{background:linear-gradient(transparent 55%,var(--mark) 55%)}
+p.sub{color:var(--mute);margin:0 0 20px}
+.box{border:1.5px solid var(--ink);border-radius:6px;padding:14px;margin:14px 0;background:#fff}
+label{display:block;font-weight:600;margin-bottom:6px}
+input[type=file],input[type=number],select{width:100%;padding:10px;border:1px solid var(--line);border-radius:6px;font:inherit;background:#fff}
+.row{display:flex;gap:10px}.row>div{flex:1}
+button{font:600 16px system-ui;padding:12px 16px;border:0;border-radius:6px;background:var(--ink);color:#fff;width:100%;margin-top:12px;cursor:pointer}
+button.alt{background:#fff;color:var(--ink);border:1.5px solid var(--ink)}
+button:disabled{opacity:.5}
+button:focus-visible,input:focus-visible,select:focus-visible{outline:3px solid var(--mark);outline-offset:2px}
+.note{margin:0;padding-left:18px}.note li{margin:6px 0}
+.opt{display:block;width:100%;text-align:left;background:#fff;color:var(--ink);border:1.5px solid var(--line);margin-top:8px;font-weight:500}
+.opt.right{border-color:var(--ok);background:#e8f5ee}.opt.wrong{border-color:var(--red);background:#fbe9e7}
+.meta{color:var(--mute);font-size:14px}
+.exp{border-left:4px solid var(--mark);padding:6px 10px;margin-top:12px;background:#fffbe0}
+.hide{display:none}.err{color:var(--red);font-weight:600}
+</style>
+</head>
+<body>
+<h1>Book <span>Revision</span></h1>
+<p class="sub">Upload a chapter of your book. Get key points and MCQs from that text only.</p>
+
+<section id="setup" class="box">
+  <label for="pdf">Book PDF</label>
+  <input id="pdf" type="file" accept="application/pdf">
+  <p id="info" class="meta"></p>
+  <div class="row">
+    <div><label for="from">From page</label><input id="from" type="number" min="1" value="1"></div>
+    <div><label for="to">To page</label><input id="to" type="number" min="1" value="10"></div>
+  </div>
+  <div class="row">
+    <div><label for="count">Questions</label><select id="count"><option>10</option><option selected>15</option><option>25</option></select></div>
+    <div><label for="lang">Language</label><select id="lang"><option>English</option><option>Hindi</option><option>Hinglish</option></select></div>
+  </div>
+  <button id="go" disabled>Make revision set</button>
+  <p id="msg" class="meta" role="status"></p>
+</section>
+
+<section id="notes" class="box hide"><h2 style="font:700 20px Georgia,serif;margin:0 0 6px">Key points</h2><ul class="note" id="nl"></ul><button id="start">Start quiz</button></section>
+
+<section id="quiz" class="box hide">
+  <div class="meta" id="prog"></div>
+  <h2 id="q" style="font:600 19px/1.4 Georgia,serif;margin:8px 0"></h2>
+  <div id="opts"></div>
+  <div id="exp" class="exp hide"></div>
+  <button id="next" class="hide">Next</button>
+</section>
+
+<section id="done" class="box hide">
+  <h2 style="font:700 22px Georgia,serif;margin:0" id="score"></h2>
+  <p class="meta" id="wrongInfo"></p>
+  <button id="retry">Practise wrong ones again</button>
+  <button id="again" class="alt">New pages</button>
+</section>
+
+<script>
+pdfjsLib.GlobalWorkerOptions.workerSrc='https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+const $=id=>document.getElementById(id);
+let pages=[],set=null,deck=[],i=0,wrong=[],correct=0;
+const show=(...ids)=>['setup','notes','quiz','done'].forEach(s=>$(s).classList.toggle('hide',!ids.includes(s)));
+
+$('pdf').onchange=async e=>{
+  const f=e.target.files[0];if(!f)return;
+  $('info').textContent='Reading PDF…';$('go').disabled=true;pages=[];
+  try{
+    const doc=await pdfjsLib.getDocument({data:await f.arrayBuffer()}).promise;
+    for(let n=1;n<=doc.numPages;n++){
+      const t=await(await doc.getPage(n)).getTextContent();
+      pages.push(t.items.map(x=>x.str).join(' ').replace(/\s+/g,' ').trim());
+    }
+    const filled=pages.filter(p=>p.length>80).length;
+    $('to').value=Math.min(10,pages.length);
+    $('info').textContent=filled<pages.length*0.3
+      ?'This looks like a scanned book with little readable text. It needs OCR first (see README).'
+      :pages.length+' pages found. Pick a page range of about 10 pages.';
+    $('go').disabled=filled===0;
+  }catch(err){$('info').innerHTML='<span class="err">Could not read this PDF.</span>'}
+};
+
+$('go').onclick=async()=>{
+  const a=Math.max(1,+$('from').value),b=Math.min(pages.length,+$('to').value);
+  if(b<a||b-a>19){$('msg').innerHTML='<span class="err">Choose 1 to 20 pages.</span>';return}
+  let text='';for(let n=a;n<=b;n++)text+=`\n[Page ${n}]\n${pages[n-1]}`;
+  $('go').disabled=true;$('msg').textContent='Making your set… about 20 seconds.';
+  try{
+    const r=await fetch('/api/generate',{method:'POST',headers:{'Content-Type':'application/json'},
+      body:JSON.stringify({text:text.slice(0,24000),count:+$('count').value,lang:$('lang').value})});
+    const d=await r.json();if(!r.ok)throw new Error(d.error||'Failed');
+    set=d;$('msg').textContent='';
+    $('nl').innerHTML='';d.notes.forEach(n=>{const li=document.createElement('li');li.textContent=n;$('nl').append(li)});
+    show('notes');
+  }catch(err){$('msg').innerHTML='<span class="err">'+err.message+'. Try again.</span>'}
+  $('go').disabled=false;
+};
+
+$('start').onclick=()=>begin(set.mcqs);
+function begin(list){deck=list;i=0;wrong=[];correct=0;show('quiz');ask()}
+function ask(){
+  const m=deck[i];$('prog').textContent=`Question ${i+1} of ${deck.length}`+(m.page?` · from page ${m.page}`:'');
+  $('q').textContent=m.q;$('exp').classList.add('hide');$('next').classList.add('hide');$('opts').innerHTML='';
+  m.options.forEach((o,k)=>{
+    const b=document.createElement('button');b.className='opt';b.textContent=o;
+    b.onclick=()=>pick(k);$('opts').append(b);
+  });
+}
+function pick(k){
+  const m=deck[i],bs=[...$('opts').children];
+  bs.forEach((b,j)=>{b.disabled=true;if(j===m.answer)b.classList.add('right')});
+  if(k===m.answer)correct++;else{bs[k].classList.add('wrong');wrong.push(m)}
+  $('exp').textContent=m.explain;$('exp').classList.remove('hide');
+  $('next').textContent=i===deck.length-1?'See result':'Next';$('next').classList.remove('hide');
+}
+$('next').onclick=()=>{
+  if(++i<deck.length)return ask();
+  show('done');$('score').textContent=`You got ${correct} of ${deck.length}`;
+  $('wrongInfo').textContent=wrong.length?`${wrong.length} to revise again.`:'All correct. Try new pages.';
+  $('retry').classList.toggle('hide',!wrong.length);
+};
+$('retry').onclick=()=>begin(wrong);
+$('again').onclick=()=>show('setup');
+</script>
+</body>
+</html>
