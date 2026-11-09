@@ -4,17 +4,19 @@
 
 export const config = { maxDuration: 120 }; // allow up to 2 minutes for slow models
 
-async function callGemini(system, userText, images) {
+async function callGemini(system, userText, images, lang = 'English') {
   const key = process.env.GEMINI_API_KEY;
   if (!key) throw new Error('GEMINI_API_KEY is not set in Vercel (add it, then redeploy)');
   // GEMINI_MODEL is tried first; if Google is busy (503/429/500), GEMINI_FALLBACK_MODEL (comma list) is tried next
-  const models = [process.env.GEMINI_MODEL || 'gemini-2.5-flash',
+  const hindi = lang !== 'English'; // Hindi needs more output space, and a stronger model may be set for it
+  const models = [...(hindi && process.env.GEMINI_MODEL_HINDI ? [process.env.GEMINI_MODEL_HINDI] : []),
+    process.env.GEMINI_MODEL || 'gemini-2.5-flash',
     ...(process.env.GEMINI_FALLBACK_MODEL || '').split(',').map(m => m.trim()).filter(Boolean)];
   const parts = [...images.map(d => ({ inlineData: { mimeType: 'image/jpeg', data: d } })), { text: userText }];
   let lastMsg = '';
   for (let k = 0; k < models.length; k++) {
     const model = models[k];
-    const generationConfig = { responseMimeType: 'application/json', maxOutputTokens: 8192, temperature: 0.3 };
+    const generationConfig = { responseMimeType: 'application/json', maxOutputTokens: hindi ? 16000 : 8192, temperature: 0.3 };
     if (/2\.5-flash/.test(model)) generationConfig.thinkingConfig = { thinkingBudget: 0 };
     // Optional: less hidden thinking = faster. Set GEMINI_THINKING_LEVEL (e.g. low or minimal) if your model supports it
     if (process.env.GEMINI_THINKING_LEVEL) generationConfig.thinkingConfig = { thinkingLevel: process.env.GEMINI_THINKING_LEVEL };
@@ -70,34 +72,6 @@ function parseJson(raw) {
 }
 
 export default async function handler(req, res) {
-  if (req.method === 'GET') {
-    // Diagnostics (open in browser): ?models=1 lists usable models, ?test=1&model=NAME times a tiny request
-    const key = process.env.GEMINI_API_KEY;
-    try {
-      if (!key) return res.status(200).json({ error: 'GEMINI_API_KEY is not set' });
-      if (req.query?.models) {
-        const r = await fetch('https://generativelanguage.googleapis.com/v1beta/models?pageSize=100',
-          { headers: { 'x-goog-api-key': key }, signal: AbortSignal.timeout(15000) });
-        const d = await r.json();
-        return res.status(200).json({ status: r.status, models: (d.models || [])
-          .filter(m => (m.supportedGenerationMethods || []).includes('generateContent'))
-          .map(m => m.name.replace('models/', '')), error: d.error?.message });
-      }
-      if (req.query?.test) {
-        const model = req.query.model || process.env.GEMINI_MODEL || 'gemini-2.5-flash';
-        const t = Date.now();
-        const r = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`, {
-          method: 'POST', signal: AbortSignal.timeout(40000),
-          headers: { 'content-type': 'application/json', 'x-goog-api-key': key },
-          body: JSON.stringify({ contents: [{ role: 'user', parts: [{ text: 'Reply with the single word OK' }] }] }),
-        });
-        const d = await r.json().catch(() => ({}));
-        return res.status(200).json({ model, httpStatus: r.status, milliseconds: Date.now() - t,
-          reply: d?.candidates?.[0]?.content?.parts?.[0]?.text || d?.error?.message || '' });
-      }
-    } catch (e) { return res.status(200).json({ error: e.name + ': ' + e.message }); }
-    return res.status(405).json({ error: 'POST only' });
-  }
   if (req.method !== 'POST') return res.status(405).json({ error: 'POST only' });
 
   let body = req.body;
@@ -138,7 +112,7 @@ one clearly correct answer, plausible wrong options, mix of facts, dates, defini
   try {
     let out, lastErr;
     for (let attempt = 0; attempt < 2 && !out; attempt++) {
-      try { out = parseJson(await call(system, userText, images)); } catch (e) { lastErr = e; if (/^TIMEOUT/.test(e.message)) break; }
+      try { out = parseJson(await call(system, userText, images, lang)); } catch (e) { lastErr = e; if (/^TIMEOUT/.test(e.message)) break; }
     }
     if (!out) throw lastErr;
 
