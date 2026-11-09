@@ -146,7 +146,7 @@ $('go').onclick=async()=>{
     if(body.length>4000000)throw new Error('Files are too big. Choose fewer pages or photos');
     $('msg').textContent='Making your set… this can take up to a minute.';
     const r=await fetch('/api/book-generate',{method:'POST',headers:{'Content-Type':'application/json'},body});
-    const d=await r.json().catch(()=>({error:'Server did not answer properly'}));
+    const raw=await r.text();let d;try{d=JSON.parse(raw)}catch{d={error:'Server problem (HTTP '+r.status+'): '+raw.slice(0,150)}}
     if(!r.ok)throw new Error(d.error||'Failed');
     set=d;$('msg').textContent='';
     $('nl').innerHTML='';d.notes.forEach(n=>{const li=document.createElement('li');li.textContent=n;$('nl').append(li)});
