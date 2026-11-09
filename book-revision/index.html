@@ -95,7 +95,7 @@ $('go').onclick=async()=>{
   let text='';for(let n=a;n<=b;n++)text+=`\n[Page ${n}]\n${pages[n-1]}`;
   $('go').disabled=true;$('msg').textContent='Making your set… about 20 seconds.';
   try{
-    const r=await fetch('/api/generate',{method:'POST',headers:{'Content-Type':'application/json'},
+    const r=await fetch('/api/book-generate',{method:'POST',headers:{'Content-Type':'application/json'},
       body:JSON.stringify({text:text.slice(0,24000),count:+$('count').value,lang:$('lang').value})});
     const d=await r.json();if(!r.ok)throw new Error(d.error||'Failed');
     set=d;$('msg').textContent='';
