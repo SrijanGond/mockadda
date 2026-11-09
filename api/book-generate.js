@@ -70,6 +70,34 @@ function parseJson(raw) {
 }
 
 export default async function handler(req, res) {
+  if (req.method === 'GET') {
+    // Diagnostics (open in browser): ?models=1 lists usable models, ?test=1&model=NAME times a tiny request
+    const key = process.env.GEMINI_API_KEY;
+    try {
+      if (!key) return res.status(200).json({ error: 'GEMINI_API_KEY is not set' });
+      if (req.query?.models) {
+        const r = await fetch('https://generativelanguage.googleapis.com/v1beta/models?pageSize=100',
+          { headers: { 'x-goog-api-key': key }, signal: AbortSignal.timeout(15000) });
+        const d = await r.json();
+        return res.status(200).json({ status: r.status, models: (d.models || [])
+          .filter(m => (m.supportedGenerationMethods || []).includes('generateContent'))
+          .map(m => m.name.replace('models/', '')), error: d.error?.message });
+      }
+      if (req.query?.test) {
+        const model = req.query.model || process.env.GEMINI_MODEL || 'gemini-2.5-flash';
+        const t = Date.now();
+        const r = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`, {
+          method: 'POST', signal: AbortSignal.timeout(40000),
+          headers: { 'content-type': 'application/json', 'x-goog-api-key': key },
+          body: JSON.stringify({ contents: [{ role: 'user', parts: [{ text: 'Reply with the single word OK' }] }] }),
+        });
+        const d = await r.json().catch(() => ({}));
+        return res.status(200).json({ model, httpStatus: r.status, milliseconds: Date.now() - t,
+          reply: d?.candidates?.[0]?.content?.parts?.[0]?.text || d?.error?.message || '' });
+      }
+    } catch (e) { return res.status(200).json({ error: e.name + ': ' + e.message }); }
+    return res.status(405).json({ error: 'POST only' });
+  }
   if (req.method !== 'POST') return res.status(405).json({ error: 'POST only' });
 
   let body = req.body;
