@@ -7,26 +7,37 @@ export const config = { maxDuration: 60 }; // allow up to 60 seconds so bigger r
 async function callGemini(system, userText, images) {
   const key = process.env.GEMINI_API_KEY;
   if (!key) throw new Error('GEMINI_API_KEY is not set in Vercel (add it, then redeploy)');
-  const model = process.env.GEMINI_MODEL || 'gemini-2.5-flash';
-  const generationConfig = { responseMimeType: 'application/json', maxOutputTokens: 8192, temperature: 0.3 };
-  if (/2\.5-flash/.test(model)) generationConfig.thinkingConfig = { thinkingBudget: 0 };
+  // GEMINI_MODEL is tried first; if Google is busy (503/429/500), GEMINI_FALLBACK_MODEL (comma list) is tried next
+  const models = [process.env.GEMINI_MODEL || 'gemini-2.5-flash',
+    ...(process.env.GEMINI_FALLBACK_MODEL || '').split(',').map(m => m.trim()).filter(Boolean)];
   const parts = [...images.map(d => ({ inlineData: { mimeType: 'image/jpeg', data: d } })), { text: userText }];
-  const r = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`, {
-    method: 'POST',
-    signal: AbortSignal.timeout(45000),
-    headers: { 'content-type': 'application/json', 'x-goog-api-key': key },
-    body: JSON.stringify({
-      systemInstruction: { parts: [{ text: system }] },
-      contents: [{ role: 'user', parts }],
-      generationConfig,
-    }),
-  });
-  const data = await r.json().catch(() => ({}));
-  if (!r.ok) throw new Error(`Gemini ${r.status}: ${data?.error?.message || 'request failed'} (model: ${model})`);
-  const cand = data.candidates?.[0];
-  const out = (cand?.content?.parts || []).map(p => p.text || '').join('');
-  if (!out) throw new Error('Gemini returned no text' + (cand?.finishReason ? ` (reason: ${cand.finishReason})` : data.promptFeedback?.blockReason ? ` (blocked: ${data.promptFeedback.blockReason})` : ''));
-  return out;
+  let lastMsg = '';
+  for (let k = 0; k < models.length; k++) {
+    const model = models[k];
+    const generationConfig = { responseMimeType: 'application/json', maxOutputTokens: 8192, temperature: 0.3 };
+    if (/2\.5-flash/.test(model)) generationConfig.thinkingConfig = { thinkingBudget: 0 };
+    const r = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`, {
+      method: 'POST',
+      signal: AbortSignal.timeout(models.length > 1 ? 28000 : 45000),
+      headers: { 'content-type': 'application/json', 'x-goog-api-key': key },
+      body: JSON.stringify({
+        systemInstruction: { parts: [{ text: system }] },
+        contents: [{ role: 'user', parts }],
+        generationConfig,
+      }),
+    });
+    const data = await r.json().catch(() => ({}));
+    if (!r.ok) {
+      lastMsg = `Gemini ${r.status}: ${data?.error?.message || 'request failed'} (model: ${model})`;
+      if ([429, 500, 503].includes(r.status) && k < models.length - 1) continue; // busy: try the next model
+      throw new Error(lastMsg);
+    }
+    const cand = data.candidates?.[0];
+    const out = (cand?.content?.parts || []).map(p => p.text || '').join('');
+    if (!out) throw new Error('Gemini returned no text' + (cand?.finishReason ? ` (reason: ${cand.finishReason})` : data.promptFeedback?.blockReason ? ` (blocked: ${data.promptFeedback.blockReason})` : ''));
+    return out;
+  }
+  throw new Error(lastMsg || 'Gemini request failed');
 }
 
 async function callClaude(system, userText, images) {
@@ -89,7 +100,7 @@ one clearly correct answer, plausible wrong options, mix of facts, dates, defini
     try { return await raw(...args); }
     catch (e) {
       if (e.name === 'TimeoutError' || e.name === 'AbortError')
-        throw new Error('TIMEOUT: the AI model took longer than 45 seconds. Try 1 photo, fewer questions, or a lighter model in GEMINI_MODEL');
+        throw new Error('TIMEOUT: the AI model took too long. Try 1 photo, fewer questions, or a lighter model in GEMINI_MODEL');
       throw e;
     }
   };
