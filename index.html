@@ -1545,6 +1545,7 @@ function homeScreen(){
   const quickGrid=el('div',{css:'display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;'});
   const quickCards=[
     ['📰','Current Affairs','Daily digest for exam prep','#0ea5e9','#0284c7',()=>{navigateToCurrentAffairs();S.screen='currentAffairsHome';render();}],
+    ['📘','Book Revision','NEW · Upload book, get MCQs','#f97316','#ea580c',()=>{location.href='/book-revision/';}],
     ['⌨️','Typing Practice','English & Hindi','#0891b2','#0e7490',()=>{S.screen='typingHome';render();}],
     ['📚','Practice by Subject','Maths, Polity, English & more','#7c3aed','#6d28d9',()=>{S.screen='subjectsHome';render();}],
     ['🔖','Mistake Notebook','Revisit questions you got wrong','#db2777','#be185d',()=>{S.screen='mistakesHome';render();}],
