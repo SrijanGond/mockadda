@@ -13,6 +13,7 @@ async function callGemini(system, userText, images) {
   const parts = [...images.map(d => ({ inlineData: { mimeType: 'image/jpeg', data: d } })), { text: userText }];
   const r = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`, {
     method: 'POST',
+    signal: AbortSignal.timeout(45000),
     headers: { 'content-type': 'application/json', 'x-goog-api-key': key },
     body: JSON.stringify({
       systemInstruction: { parts: [{ text: system }] },
@@ -34,6 +35,7 @@ async function callClaude(system, userText, images) {
   const content = [...images.map(d => ({ type: 'image', source: { type: 'base64', media_type: 'image/jpeg', data: d } })), { type: 'text', text: userText }];
   const r = await fetch('https://api.anthropic.com/v1/messages', {
     method: 'POST',
+    signal: AbortSignal.timeout(45000),
     headers: { 'content-type': 'application/json', 'x-api-key': key, 'anthropic-version': '2023-06-01' },
     body: JSON.stringify({
       model: process.env.CLAUDE_MODEL || 'claude-sonnet-5-5',
@@ -82,12 +84,20 @@ one clearly correct answer, plausible wrong options, mix of facts, dates, defini
     : text;
 
   const provider = (process.env.PROVIDER || 'gemini').toLowerCase();
-  const call = provider === 'claude' ? callClaude : callGemini;
+  const raw = provider === 'claude' ? callClaude : callGemini;
+  const call = async (...args) => {
+    try { return await raw(...args); }
+    catch (e) {
+      if (e.name === 'TimeoutError' || e.name === 'AbortError')
+        throw new Error('TIMEOUT: the AI model took longer than 45 seconds. Try 1 photo, fewer questions, or a lighter model in GEMINI_MODEL');
+      throw e;
+    }
+  };
 
   try {
     let out, lastErr;
     for (let attempt = 0; attempt < 2 && !out; attempt++) {
-      try { out = parseJson(await call(system, userText, images)); } catch (e) { lastErr = e; }
+      try { out = parseJson(await call(system, userText, images)); } catch (e) { lastErr = e; if (/^TIMEOUT/.test(e.message)) break; }
     }
     if (!out) throw lastErr;
 
