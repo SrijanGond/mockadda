@@ -1,19 +1,22 @@
 // Place this file at: api/book-generate.js
-// Vercel env vars: GEMINI_API_KEY (required for Gemini), GEMINI_MODEL (optional),
-// PROVIDER (optional: gemini default, or claude), ANTHROPIC_API_KEY, CLAUDE_MODEL (optional)
+// Vercel env vars: GEMINI_API_KEY, GEMINI_MODEL (optional), PROVIDER (gemini default or claude),
+// ANTHROPIC_API_KEY, CLAUDE_MODEL (optional)
 
-async function callGemini(system, text) {
+export const config = { maxDuration: 60 }; // allow up to 60 seconds so bigger requests do not time out
+
+async function callGemini(system, userText, images) {
   const key = process.env.GEMINI_API_KEY;
   if (!key) throw new Error('GEMINI_API_KEY is not set in Vercel (add it, then redeploy)');
   const model = process.env.GEMINI_MODEL || 'gemini-2.5-flash';
   const generationConfig = { responseMimeType: 'application/json', maxOutputTokens: 8192, temperature: 0.3 };
-  if (/2\.5-flash/.test(model)) generationConfig.thinkingConfig = { thinkingBudget: 0 }; // no hidden thinking tokens
+  if (/2\.5-flash/.test(model)) generationConfig.thinkingConfig = { thinkingBudget: 0 };
+  const parts = [...images.map(d => ({ inlineData: { mimeType: 'image/jpeg', data: d } })), { text: userText }];
   const r = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`, {
     method: 'POST',
     headers: { 'content-type': 'application/json', 'x-goog-api-key': key },
     body: JSON.stringify({
       systemInstruction: { parts: [{ text: system }] },
-      contents: [{ role: 'user', parts: [{ text }] }],
+      contents: [{ role: 'user', parts }],
       generationConfig,
     }),
   });
@@ -25,9 +28,10 @@ async function callGemini(system, text) {
   return out;
 }
 
-async function callClaude(system, text) {
+async function callClaude(system, userText, images) {
   const key = process.env.ANTHROPIC_API_KEY;
   if (!key) throw new Error('ANTHROPIC_API_KEY is not set in Vercel');
+  const content = [...images.map(d => ({ type: 'image', source: { type: 'base64', media_type: 'image/jpeg', data: d } })), { type: 'text', text: userText }];
   const r = await fetch('https://api.anthropic.com/v1/messages', {
     method: 'POST',
     headers: { 'content-type': 'application/json', 'x-api-key': key, 'anthropic-version': '2023-06-01' },
@@ -35,7 +39,7 @@ async function callClaude(system, text) {
       model: process.env.CLAUDE_MODEL || 'claude-sonnet-5-5',
       max_tokens: 6000,
       system,
-      messages: [{ role: 'user', content: text }],
+      messages: [{ role: 'user', content }],
     }),
   });
   const data = await r.json().catch(() => ({}));
@@ -43,7 +47,6 @@ async function callClaude(system, text) {
   return data.content.filter(b => b.type === 'text').map(b => b.text).join('');
 }
 
-// Pull the JSON object out of the reply even if the AI adds extra words or code fences
 function parseJson(raw) {
   const clean = raw.replace(/```json|```/g, '').trim();
   const a = clean.indexOf('{'), b = clean.lastIndexOf('}');
@@ -56,24 +59,35 @@ export default async function handler(req, res) {
 
   let body = req.body;
   if (typeof body === 'string') { try { body = JSON.parse(body); } catch { body = {}; } }
-  const { text, count = 15, lang = 'English' } = body || {};
-  if (!text || text.length < 200) return res.status(400).json({ error: 'Not enough readable text in these pages' });
+  const { text, count = 15, lang = 'English', firstPage = 1 } = body || {};
+  const images = (Array.isArray(body?.images) ? body.images : [])
+    .filter(s => typeof s === 'string' && s.length > 1000 && s.length < 1800000)
+    .map(s => s.replace(/^data:image\/\w+;base64,/, ''))
+    .slice(0, 8);
+
+  if (!images.length && (!text || text.length < 200))
+    return res.status(400).json({ error: 'Not enough readable text in these pages' });
 
   const system = `You make revision material for Indian government exam aspirants.
-Use ONLY the book text given. Never add facts from outside it. Skip anything the text does not clearly state.
+Use ONLY the book content given (text, or photos of book pages that you must read carefully, including Hindi). Never add facts from outside it.
+Skip anything that is blurry, cut off, or not clearly stated.
 Return ONLY valid JSON, no markdown, in this shape:
 {"notes":["key fact"],"mcqs":[{"q":"question","options":["A","B","C","D"],"answer":0,"explain":"one line from the book","page":12}]}
 Rules: 8-12 short notes. Exactly ${count} MCQs, 4 options each, answer is the 0-based index of the right option,
 one clearly correct answer, plausible wrong options, mix of facts, dates, definitions, cause-effect.
-"page" is the [Page n] marker the fact came from. Write in ${lang}.`;
+"page" is the page number the fact came from ([Page n] marker for text; for images, image 1 is page ${firstPage}, image 2 is page ${Number(firstPage) + 1}, and so on). Write in ${lang}.`;
+
+  const userText = images.length
+    ? `These are ${images.length} photos of consecutive book pages. Read them and follow the rules.`
+    : text;
 
   const provider = (process.env.PROVIDER || 'gemini').toLowerCase();
   const call = provider === 'claude' ? callClaude : callGemini;
 
   try {
     let out, lastErr;
-    for (let attempt = 0; attempt < 2 && !out; attempt++) {   // one automatic retry
-      try { out = parseJson(await call(system, text)); } catch (e) { lastErr = e; }
+    for (let attempt = 0; attempt < 2 && !out; attempt++) {
+      try { out = parseJson(await call(system, userText, images)); } catch (e) { lastErr = e; }
     }
     if (!out) throw lastErr;
 
@@ -82,7 +96,7 @@ one clearly correct answer, plausible wrong options, mix of facts, dates, defini
       m && m.q && Array.isArray(m.options) && m.options.length === 4 &&
       Number.isInteger(m.answer) && m.answer >= 0 && m.answer < 4 &&
       new Set(m.options).size === 4 && m.explain);
-    if (!out.mcqs.length) throw new Error('AI made no valid questions from this text (try clearer pages)');
+    if (!out.mcqs.length) throw new Error('AI made no valid questions from this content (try clearer pages)');
     return res.status(200).json(out);
   } catch (e) {
     console.error('book-generate failed:', e);
