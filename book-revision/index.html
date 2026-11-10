@@ -80,9 +80,11 @@ button:focus-visible,input:focus-visible,select:focus-visible{outline:3px solid 
 pdfjsLib.GlobalWorkerOptions.workerSrc='https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
 const $=id=>document.getElementById(id);
 const SUPABASE_URL='PASTE_YOUR_SUPABASE_URL_HERE',SUPABASE_ANON='PASTE_YOUR_ANON_KEY_HERE';
-const sb=supabase.createClient(SUPABASE_URL,SUPABASE_ANON);
+let sb=null;
+try{if(!/PASTE_YOUR/.test(SUPABASE_URL+SUPABASE_ANON))sb=supabase.createClient(SUPABASE_URL,SUPABASE_ANON)}catch(e){console.error(e)}
 let session=null;
 async function refreshAuth(){
+  if(!sb){$('loggedOut').innerHTML='<p class="err" style="margin:0">Login is not set up yet: the Supabase URL or key in this page is missing or wrong.</p>';return}
   const {data}=await sb.auth.getSession();session=data.session;
   $('loggedOut').classList.toggle('hide',!!session);$('loggedIn').classList.toggle('hide',!session);
   if(!session){show();return}
@@ -93,7 +95,7 @@ async function refreshAuth(){
 }
 $('login').onclick=()=>sb.auth.signInWithOAuth({provider:'google',options:{redirectTo:location.origin+location.pathname}});
 $('logout').onclick=async()=>{await sb.auth.signOut();refreshAuth()};
-sb.auth.onAuthStateChange(()=>{setTimeout(refreshAuth,0)});
+if(sb)sb.auth.onAuthStateChange(()=>{setTimeout(refreshAuth,0)});
 const MAXIMG=8, MAXSIDE=1500, QUAL=0.72;
 let mode='',pages=[],pdfDoc=null,imgs=[],set=null,deck=[],i=0,wrong=[],correct=0;
 const show=(...ids)=>['setup','notes','quiz','done'].forEach(s=>$(s).classList.toggle('hide',!ids.includes(s)));
