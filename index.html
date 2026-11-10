@@ -880,11 +880,19 @@ async function startChslCheckout(placement, setStatus, onFallback){
     onFallback();
   }
 }
-async function recoverChslPurchase(paymentId, contact){
-  const r=await fetch(CHSL_PACK.recoverUrl,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({payment_id:paymentId,contact:contact})});
-  const j=await r.json().catch(()=>({}));
-  if(r.ok&&j.signature) return {order_id:j.order_id,payment_id:j.payment_id,signature:j.signature};
-  throw new Error(j.error||'We could not find this payment.');
+async function recoverChslPurchase(reference, contact, onWait){
+  const MAX=7;
+  for(let attempt=1; attempt<=MAX; attempt++){
+    const r=await fetch(CHSL_PACK.recoverUrl,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({reference:reference,contact:contact})});
+    const j=await r.json().catch(()=>({}));
+    if(r.ok&&j.signature) return {order_id:j.order_id,payment_id:j.payment_id,signature:j.signature};
+    if(r.status===202 && attempt<MAX){
+      if(onWait) onWait('Confirming your payment… please wait ('+attempt+'/'+(MAX-1)+')');
+      await new Promise(function(done){ setTimeout(done,5000); });
+      continue;
+    }
+    throw new Error(j.error||'We could not find this payment.');
+  }
 }
 function chslPackCard(placement){
   const P=CHSL_PACK;
@@ -898,7 +906,14 @@ function chslPackCard(placement){
     card.appendChild(el('div',{css:titleCss,text:'✅ '+P.name}));
     card.appendChild(el('p',{css:textCss,text:'Payment received. Your pack is ready: '+P.tests+' full-length CHSL Tier 1 papers with answer keys and explanations.'}));
     card.appendChild(el('a',{href:chslDownloadHref(p),download:'',css:btnCss+'background:#059669;',text:'⬇ Download the pack (ZIP)',onClick:function(){ trackPack('pack_download',placement); }}));
-    card.appendChild(el('p',{css:'font-size:11px;color:#64748b;margin-top:10px;line-height:1.6;',text:'Save the file to your phone or computer. This button stays on this device. If the download does not work, email '+P.email+' with your payment ID: '+p.payment_id}));
+    const copyBtn=el('button',{css:'display:block;margin-top:10px;background:#fff;color:#065f46;border:1px solid #6ee7b7;border-radius:8px;font-size:12px;font-weight:600;padding:8px 12px;cursor:pointer;',text:'Copy my download link (to save in WhatsApp)',onClick:function(){
+      const link=window.location.origin+chslDownloadHref(p);
+      const done=function(){ copyBtn.textContent='Link copied. Paste it in WhatsApp or Notes.'; };
+      if(navigator.clipboard&&navigator.clipboard.writeText){ navigator.clipboard.writeText(link).then(done).catch(function(){ window.prompt('Copy this link:',link); }); }
+      else{ window.prompt('Copy this link:',link); }
+    }});
+    card.appendChild(copyBtn);
+    card.appendChild(el('p',{css:'font-size:11px;color:#64748b;margin-top:10px;line-height:1.6;',text:'The file is a ZIP. After downloading, open it from your phone\'s Downloads or Files app. This button stays on this phone; the copied link works on any phone. Problem? Email '+P.email+' with your phone number and we will send it.'}));
   }
   const bought=getChslPurchase();
   if(bought){ showBought(bought); return card; }
@@ -920,16 +935,16 @@ function chslPackCard(placement){
   // Already paid but no download button (closed tab, new phone, cleared browser)? Look the payment up.
   const recBox=el('div',{css:'display:none;margin-top:12px;font-size:12px;color:#334155;line-height:1.7;background:#fff;border:1px solid #fde68a;border-radius:10px;padding:12px;'});
   const inCss='width:100%;box-sizing:border-box;padding:9px 10px;margin:6px 0;border:1px solid #cbd5e1;border-radius:8px;font-size:13px;';
-  const idIn=el('input',{type:'text',placeholder:'Payment ID (starts with pay_)',autocomplete:'off',css:inCss});
-  const ctIn=el('input',{type:'text',placeholder:'Email or phone used for payment',autocomplete:'off',css:inCss});
+  const idIn=el('input',{type:'text',placeholder:'UPI transaction ID (optional)',autocomplete:'off',css:inCss});
+  const ctIn=el('input',{type:'text',placeholder:'Phone number or email used for payment',autocomplete:'off',css:inCss});
   const recMsg=el('div',{css:'color:#b45309;margin-top:6px;'});
   const recBtn=el('button',{css:btnCss+'background:#059669;cursor:pointer;margin-top:4px;',text:'Get my download',onClick:function(){
     recMsg.textContent='Checking…';
-    recoverChslPurchase(idIn.value.trim(),ctIn.value.trim()).then(function(p){ saveChslPurchase(p); trackPackPurchase(p.payment_id,placement); showBought(p); }).catch(function(e){ recMsg.textContent=e.message; });
+    recoverChslPurchase(idIn.value.trim(),ctIn.value.trim(),function(t){ recMsg.textContent=t; }).then(function(p){ saveChslPurchase(p); trackPackPurchase(p.payment_id,placement); showBought(p); }).catch(function(e){ recMsg.textContent=e.message; });
   }});
-  recBox.appendChild(el('div',{text:'Enter the payment ID from your Razorpay receipt and the email or phone number you paid with.'}));
-  recBox.appendChild(idIn); recBox.appendChild(ctIn); recBox.appendChild(recBtn); recBox.appendChild(recMsg);
-  const recLink=el('a',{href:'#',css:'display:block;margin-top:12px;font-size:12px;color:#475569;text-decoration:underline;',text:'Already paid? Get your download',onClick:function(e){ e.preventDefault(); recBox.style.display=(recBox.style.display==='none')?'block':'none'; }});
+  recBox.appendChild(el('div',{text:'Enter the phone number or email you used when paying. The UPI transaction ID is optional.'}));
+  recBox.appendChild(ctIn); recBox.appendChild(idIn); recBox.appendChild(recBtn); recBox.appendChild(recMsg);
+  const recLink=el('a',{href:'#',css:'display:block;margin-top:12px;font-size:12px;color:#475569;text-decoration:underline;',text:'Already paid? Get your download here',onClick:function(e){ e.preventDefault(); recBox.style.display=(recBox.style.display==='none')?'block':'none'; }});
   card.appendChild(recLink);
   card.appendChild(recBox);
   return card;
@@ -1545,7 +1560,6 @@ function homeScreen(){
   const quickGrid=el('div',{css:'display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;'});
   const quickCards=[
     ['📰','Current Affairs','Daily digest for exam prep','#0ea5e9','#0284c7',()=>{navigateToCurrentAffairs();S.screen='currentAffairsHome';render();}],
-    ['📘','Book Revision','NEW · Upload book, get MCQs','#f97316','#ea580c',()=>{location.href='/book-revision/';}],
     ['⌨️','Typing Practice','English & Hindi','#0891b2','#0e7490',()=>{S.screen='typingHome';render();}],
     ['📚','Practice by Subject','Maths, Polity, English & more','#7c3aed','#6d28d9',()=>{S.screen='subjectsHome';render();}],
     ['🔖','Mistake Notebook','Revisit questions you got wrong','#db2777','#be185d',()=>{S.screen='mistakesHome';render();}],
