@@ -98,6 +98,23 @@ one clearly correct answer, plausible wrong options, mix of facts, dates, defini
     ? `These are ${images.length} photos of consecutive book pages. Read them and follow the rules.`
     : text;
 
+  // Login check and credit spend (Supabase). The credit is given back if the AI fails.
+  const token = (req.headers.authorization || '').replace(/^Bearer /i, '');
+  const SB = process.env.SUPABASE_URL, SK = process.env.SUPABASE_SERVICE_ROLE_KEY;
+  if (!SB || !SK) return res.status(500).json({ error: 'Login system is not set up on the server' });
+  const who = token ? await fetch(`${SB}/auth/v1/user`, { headers: { apikey: SK, Authorization: `Bearer ${token}` } }) : null;
+  if (!who || !who.ok) return res.status(401).json({ error: 'Please sign in first' });
+  const uid = (await who.json()).id;
+  const rpc = fn => fetch(`${SB}/rest/v1/rpc/${fn}`, {
+    method: 'POST',
+    // old-style keys (start with eyJ) are JWTs and also go in Authorization; new sb_secret_ keys go in apikey only
+    headers: { apikey: SK, ...(SK.startsWith('eyJ') ? { Authorization: `Bearer ${SK}` } : {}), 'content-type': 'application/json' },
+    body: JSON.stringify({ p_user: uid }),
+  }).then(r => r.json());
+  const left = await rpc('spend_credit');
+  if (typeof left !== 'number') return res.status(500).json({ error: 'Credit system error' });
+  if (left < 0) return res.status(402).json({ error: 'No free sets left. More sets will be available to buy soon' });
+
   const provider = (process.env.PROVIDER || 'gemini').toLowerCase();
   const raw = provider === 'claude' ? callClaude : callGemini;
   const call = async (...args) => {
@@ -125,6 +142,7 @@ one clearly correct answer, plausible wrong options, mix of facts, dates, defini
     return res.status(200).json(out);
   } catch (e) {
     console.error('book-generate failed:', e);
+    await rpc('refund_credit').catch(() => {});
     return res.status(500).json({ error: 'Could not build the set: ' + e.message });
   }
 }
