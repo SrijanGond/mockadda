@@ -112,7 +112,10 @@ one clearly correct answer, plausible wrong options, mix of facts, dates, defini
     body: JSON.stringify({ p_user: uid }),
   }).then(r => r.json());
   const left = await rpc('spend_credit');
-  if (typeof left !== 'number') return res.status(500).json({ error: 'Credit system error' });
+  if (typeof left !== 'number') {
+    console.error('spend_credit failed:', left);
+    return res.status(500).json({ error: 'Credit system error: ' + String(left?.message || left?.hint || JSON.stringify(left)).slice(0, 180) });
+  }
   if (left < 0) return res.status(402).json({ error: 'No free sets left. More sets will be available to buy soon' });
 
   const provider = (process.env.PROVIDER || 'gemini').toLowerCase();
