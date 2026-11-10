@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Book Revision – quick MCQs from your own books</title>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.39.7/dist/umd/supabase.min.js"></script>
 <style>
 :root{--paper:#fbfaf5;--ink:#1c2a4a;--mark:#ffe46b;--red:#c8372d;--ok:#1f7a4d;--line:#d9d6c8;--mute:#5d6477}
 *{box-sizing:border-box}
@@ -35,7 +36,13 @@ button:focus-visible,input:focus-visible,select:focus-visible{outline:3px solid 
 <h1>Book <span>Revision</span></h1>
 <p class="sub">Upload a PDF or take photos of your book pages. Get key points and MCQs from that text only.</p>
 
-<section id="setup" class="box">
+<section id="auth" class="box">
+  <div id="loggedOut"><button id="login" style="margin-top:0">Sign in with Google</button><p class="meta" style="margin-bottom:0">Sign in to get 2 free revision sets.</p></div>
+  <div id="loggedIn" class="hide"><span id="who" class="meta"></span><br><b id="bal">0</b> sets left
+    <button id="logout" class="alt" style="width:auto;padding:6px 12px;margin:0 0 0 8px;font-size:14px">Sign out</button></div>
+</section>
+
+<section id="setup" class="box hide">
   <label for="pdf">Book PDF or page photos (JPG)</label>
   <input id="pdf" type="file" accept="application/pdf,image/*" multiple>
   <div class="tip">Photos: keep the page flat, in good light, one page per photo. Choose up to 8 photos.</div>
@@ -72,6 +79,21 @@ button:focus-visible,input:focus-visible,select:focus-visible{outline:3px solid 
 <script>
 pdfjsLib.GlobalWorkerOptions.workerSrc='https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
 const $=id=>document.getElementById(id);
+const SUPABASE_URL='PASTE_YOUR_SUPABASE_URL_HERE',SUPABASE_ANON='PASTE_YOUR_ANON_KEY_HERE';
+const sb=supabase.createClient(SUPABASE_URL,SUPABASE_ANON);
+let session=null;
+async function refreshAuth(){
+  const {data}=await sb.auth.getSession();session=data.session;
+  $('loggedOut').classList.toggle('hide',!!session);$('loggedIn').classList.toggle('hide',!session);
+  if(!session){show();return}
+  $('who').textContent=session.user.email;
+  if(!['setup','notes','quiz','done'].some(x=>!$(x).classList.contains('hide')))show('setup');
+  const {data:c}=await sb.from('credits').select('balance').maybeSingle();
+  $('bal').textContent=c?c.balance:0;
+}
+$('login').onclick=()=>sb.auth.signInWithOAuth({provider:'google',options:{redirectTo:location.origin+location.pathname}});
+$('logout').onclick=async()=>{await sb.auth.signOut();refreshAuth()};
+sb.auth.onAuthStateChange(()=>{setTimeout(refreshAuth,0)});
 const MAXIMG=8, MAXSIDE=1500, QUAL=0.72;
 let mode='',pages=[],pdfDoc=null,imgs=[],set=null,deck=[],i=0,wrong=[],correct=0;
 const show=(...ids)=>['setup','notes','quiz','done'].forEach(s=>$(s).classList.toggle('hide',!ids.includes(s)));
@@ -147,10 +169,10 @@ $('go').onclick=async()=>{
     const body=JSON.stringify(payload);
     if(body.length>4000000)throw new Error('Files are too big. Choose fewer pages or photos');
     $('msg').textContent='Making your set… this can take up to a minute.';
-    const r=await fetch('/api/book-generate',{method:'POST',headers:{'Content-Type':'application/json'},body});
+    const r=await fetch('/api/book-generate',{method:'POST',headers:{'Content-Type':'application/json','Authorization':'Bearer '+(session?session.access_token:'')},body});
     const raw=await r.text();let d;try{d=JSON.parse(raw)}catch{d={error:'Server problem (HTTP '+r.status+'): '+raw.slice(0,150)}}
     if(!r.ok)throw new Error(d.error||'Failed');
-    set=d;$('msg').textContent='';
+    set=d;$('msg').textContent='';refreshAuth();
     $('nl').innerHTML='';d.notes.forEach(n=>{const li=document.createElement('li');li.textContent=n;$('nl').append(li)});
     show('notes');
   }catch(err){$('msg').innerHTML='<span class="err">'+err.message+'. Try again.</span>'}
