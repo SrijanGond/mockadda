@@ -40,6 +40,8 @@ button:focus-visible,input:focus-visible,select:focus-visible{outline:3px solid 
   <div id="loggedOut"><button id="login" style="margin-top:0">Sign in with Google</button><p class="meta" style="margin-bottom:0">Sign in to get 2 free revision sets.</p></div>
   <div id="loggedIn" class="hide"><span id="who" class="meta"></span><br><b id="bal">0</b> sets left
     <button id="logout" class="alt" style="width:auto;padding:6px 12px;margin:0 0 0 8px;font-size:14px">Sign out</button></div>
+  <p id="dbg" class="err" style="margin:8px 0 0"></p>
+  <p class="meta" style="margin:6px 0 0;font-size:12px">page v3</p>
 </section>
 
 <section id="setup" class="box hide">
@@ -93,9 +95,13 @@ async function refreshAuth(){
   const {data:c}=await sb.from('credits').select('balance').maybeSingle();
   $('bal').textContent=c?c.balance:0;
 }
-$('login').onclick=()=>sb.auth.signInWithOAuth({provider:'google',options:{redirectTo:location.origin+location.pathname}});
+$('login').onclick=async()=>{
+  if(!sb){refreshAuth();return}
+  const {error}=await sb.auth.signInWithOAuth({provider:'google',options:{redirectTo:location.origin+location.pathname}});
+  if(error)$('dbg').textContent='Login error: '+error.message;
+};
 $('logout').onclick=async()=>{await sb.auth.signOut();refreshAuth()};
-if(sb)sb.auth.onAuthStateChange(()=>{setTimeout(refreshAuth,0)});
+if(sb)sb.auth.onAuthStateChange(()=>{setTimeout(refreshAuth,0)});else refreshAuth();
 const MAXIMG=8, MAXSIDE=1500, QUAL=0.72;
 let mode='',pages=[],pdfDoc=null,imgs=[],set=null,deck=[],i=0,wrong=[],correct=0;
 const show=(...ids)=>['setup','notes','quiz','done'].forEach(s=>$(s).classList.toggle('hide',!ids.includes(s)));
