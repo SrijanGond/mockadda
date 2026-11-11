@@ -898,7 +898,7 @@ function chslPackCard(placement){
     card.style.background='linear-gradient(135deg,#ecfdf5,#f0fdf4)'; card.style.borderColor='#6ee7b7';
     card.appendChild(el('div',{css:titleCss,text:'✅ '+P.name}));
     card.appendChild(el('p',{css:textCss,text:'Payment received. Your pack is ready: '+P.tests+' full-length CHSL Tier 1 papers with answer keys and explanations.'}));
-    card.appendChild(el('a',{href:chslDownloadHref(p),download:'',css:btnCss+'background:#059669;',text:'⬇ Download the pack (ZIP)',onClick:function(){ trackPack('pack_download',placement); }}));
+    card.appendChild(el('a',{href:chslDownloadHref(p),download:'',css:btnCss+'background:#059669;',text:'⬇ Download the pack (PDF)',onClick:function(){ trackPack('pack_download',placement); }}));
     card.appendChild(el('p',{css:'font-size:11px;color:#64748b;margin-top:10px;line-height:1.6;',text:'Save the file to your phone or computer. This button stays on this device. If the download does not work, email '+P.email+' with your payment ID: '+p.payment_id}));
   }
   const bought=getChslPurchase();
