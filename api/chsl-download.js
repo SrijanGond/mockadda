@@ -6,7 +6,7 @@
 const crypto = require('crypto');
 const fs = require('fs');
 const path = require('path');
-const { FORMAT, signatureFor, safeEqual, checkPurchase, configured } = require('./_lib/verify');
+const { FORMAT, signatureFor, safeEqual, checkPurchase, configured, isTestPurchase } = require('./_lib/verify');
 
 const FILE_NAME = 'ReadyMadeQuiz_SSC_CHSL_Tier1_Test_Pack_5_Tests.zip';
 
@@ -26,18 +26,18 @@ module.exports = async (req, res) => {
     res.setHeader('Allow', 'GET, HEAD');
     return res.status(405).send('Method not allowed');
   }
-  if (!configured()) return page(res, 500, 'Not available', 'Downloads are not configured yet. Please email us with your payment ID.');
-
   const q = req.query || {};
   const orderId = String(q.order_id || ''), paymentId = String(q.payment_id || ''), signature = String(q.signature || '');
+  const testOk = isTestPurchase(orderId, paymentId, signature);   // true only while PACK_TEST_MODE=on
+  if (!testOk && !configured()) return page(res, 500, 'Not available', 'Downloads are not configured yet. Please email us with your payment ID.');
   if (!FORMAT.order.test(orderId) || !FORMAT.payment.test(paymentId) || !FORMAT.signature.test(signature)) {
     return page(res, 400, 'Invalid download link', 'This link is incomplete. Please use the download button shown after your payment.');
   }
-  if (!safeEqual(signatureFor(orderId, paymentId), signature)) {
+  if (!testOk && !safeEqual(signatureFor(orderId, paymentId), signature)) {
     return page(res, 403, 'Invalid download link', 'We could not verify this payment. If you have paid, please email us with your payment ID.');
   }
   try {
-    const check = await checkPurchase(orderId, paymentId);
+    const check = testOk ? { state: 'ok' } : await checkPurchase(orderId, paymentId);
     if (check.state === 'invalid') return page(res, 403, 'Invalid download link', 'This payment is not for the CHSL pack.');
     if (check.state === 'pending') return page(res, 202, 'Payment being confirmed', 'Your payment has been received and is being confirmed. Please refresh this page in a minute.');
   } catch (e) {
