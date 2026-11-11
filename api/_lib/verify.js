@@ -30,7 +30,14 @@ async function checkPurchase(orderId, paymentId) {
   if (payment.status !== 'captured') return { state: 'pending', payment, order };
   return { state: 'ok', payment, order };
 }
+// ---- TEST MODE: set PACK_TEST_MODE=on in Vercel to download the pack without paying (for testing only).
+// Remove the variable (or set it to off) before launch. The test link only works while the flag is on.
+const TEST_ORDER = 'order_TESTMODE', TEST_PAYMENT = 'pay_TESTMODE';
+function testModeOn() { return process.env.PACK_TEST_MODE === 'on'; }
+function testSignature() { return crypto.createHmac('sha256', process.env.PACK_KEY || 'x').update('test|' + TEST_ORDER + '|' + TEST_PAYMENT).digest('hex'); }
+function isTestPurchase(orderId, paymentId, signature) { return testModeOn() && orderId === TEST_ORDER && paymentId === TEST_PAYMENT && safeEqual(testSignature(), signature); }
+
 function configured() {
   return !!(process.env.RAZORPAY_KEY_ID && process.env.RAZORPAY_KEY_SECRET);
 }
-module.exports = { PRICE_PAISE, FORMAT, signatureFor, safeEqual, razorpay, checkPurchase, configured };
+module.exports = { PRICE_PAISE, FORMAT, signatureFor, safeEqual, razorpay, checkPurchase, configured, testModeOn, testSignature, isTestPurchase, TEST_ORDER, TEST_PAYMENT };
