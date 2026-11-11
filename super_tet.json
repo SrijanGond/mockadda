@@ -536,26 +536,26 @@
           "exp_hi": "RTE अधिनियम 2009 की धारा 12(1)(ग) के अनुसार निजी गैर-सहायता प्राप्त विद्यालयों को प्रवेश-स्तर की कक्षा में ऐसे बच्चों के लिए 25 प्रतिशत सीटें आरक्षित करनी होती हैं।"
         },
         {
-          "q": "'सदाचार' शब्द में कौन-सी संधि है और उसका विच्छेद क्या है?",
+          "q": "'सदाचार' (सत् + आचार) शब्द में कौन-सी संधि है?",
           "opts": [
-            "गुण संधि: सदा + चार",
-            "वृद्धि संधि: सद् + आचार",
-            "दीर्घ संधि: सदा + आचार",
-            "यण संधि: सदा + चार"
+            "गुण संधि",
+            "विसर्ग संधि",
+            "व्यंजन संधि",
+            "दीर्घ स्वर संधि"
           ],
           "ans": 2,
           "subject": "Hindi Language",
-          "exp_en": "'सदा' के अंत का 'आ' और 'आचार' का 'आ' मिलकर 'आ' बनता है, इसलिए यह दीर्घ स्वर संधि है: सदा + आचार = सदाचार।",
+          "exp_en": "'सदाचार' = सत् + आचार। यहाँ 'सत्' के अंतिम व्यंजन 'त्' का स्वर 'आ' से मेल होने पर वह 'द्' हो जाता है, इसलिए यह व्यंजन संधि है।",
           "topic": "संधि",
           "difficulty": "Hard",
-          "q_hi": "'सदाचार' शब्द में कौन-सी संधि है और उसका विच्छेद क्या है?",
+          "q_hi": "'सदाचार' (सत् + आचार) शब्द में कौन-सी संधि है?",
           "opts_hi": [
-            "गुण संधि: सदा + चार",
-            "वृद्धि संधि: सद् + आचार",
-            "दीर्घ संधि: सदा + आचार",
-            "यण संधि: सदा + चार"
+            "गुण संधि",
+            "विसर्ग संधि",
+            "व्यंजन संधि",
+            "दीर्घ स्वर संधि"
           ],
-          "exp_hi": "'सदा' के अंत का 'आ' और 'आचार' का 'आ' मिलकर 'आ' बनता है, इसलिए यह दीर्घ स्वर संधि है: सदा + आचार = सदाचार।"
+          "exp_hi": "'सदाचार' = सत् + आचार। यहाँ 'सत्' के अंतिम व्यंजन 'त्' का स्वर 'आ' से मेल होने पर वह 'द्' हो जाता है, इसलिए यह व्यंजन संधि है।"
         },
         {
           "q": "निम्नलिखित में से किस विकल्प में सभी शब्द शुद्ध वर्तनी वाले हैं?",
@@ -3163,22 +3163,22 @@
           "opts": [
             "हिमालय",
             "सूर्योदय",
-            "सदाचार",
+            "महात्मा",
             "जगदीश"
           ],
           "ans": 3,
           "subject": "Hindi Language",
-          "exp_en": "'जगदीश' = जगत् + ईश; यहाँ 'त्' का 'द्' हो गया, जो व्यंजन संधि है। शेष तीनों स्वर संधि के उदाहरण हैं।",
+          "exp_en": "'जगदीश' = जगत् + ईश; यहाँ 'त्' का 'द्' हो गया, जो व्यंजन संधि है। हिमालय (हिम + आलय), सूर्योदय (सूर्य + उदय) और महात्मा (महा + आत्मा) स्वर संधि के उदाहरण हैं।",
           "topic": "संधि",
           "difficulty": "Medium",
           "q_hi": "निम्नलिखित में से कौन-सा शब्द व्यंजन संधि का उदाहरण है?",
           "opts_hi": [
             "हिमालय",
             "सूर्योदय",
-            "सदाचार",
+            "महात्मा",
             "जगदीश"
           ],
-          "exp_hi": "'जगदीश' = जगत् + ईश; यहाँ 'त्' का 'द्' हो गया, जो व्यंजन संधि है। शेष तीनों स्वर संधि के उदाहरण हैं।"
+          "exp_hi": "'जगदीश' = जगत् + ईश; यहाँ 'त्' का 'द्' हो गया, जो व्यंजन संधि है। हिमालय (हिम + आलय), सूर्योदय (सूर्य + उदय) और महात्मा (महा + आत्मा) स्वर संधि के उदाहरण हैं।"
         },
         {
           "q": "'राम से पत्र लिखा गया।' इस वाक्य में कौन-सा वाच्य है?",
@@ -10041,6 +10041,2511 @@
             "जवाहरलाल नेहरू"
           ],
           "exp_hi": "डॉ. राजेन्द्र प्रसाद भारत के प्रथम राष्ट्रपति थे और 1950 से 1962 तक इस पद पर रहे।"
+        }
+      ]
+    },
+    {
+      "id": "super_tet_5",
+      "title": "UP Super TET Full Mock Test 5 (UPESSC Pattern)",
+      "duration": 120,
+      "difficulty": "Medium",
+      "questionCount": 120,
+      "questions": [
+        {
+          "q": "A child who was once scolded by a teacher in the staff room now feels anxious whenever she simply sees the staff room door. In Pavlov's terms, the staff room door has become a:",
+          "opts": [
+            "Unconditioned response",
+            "Positive reinforcer",
+            "Unconditioned stimulus",
+            "Conditioned stimulus"
+          ],
+          "ans": 3,
+          "subject": "Child Development & Pedagogy",
+          "exp_en": "The door was originally neutral but, after being paired with the scolding, it now produces anxiety by itself, so it is a conditioned stimulus.",
+          "topic": "Pavlov - Classical Conditioning",
+          "difficulty": "Easy",
+          "q_hi": "एक बच्ची को कभी शिक्षक कक्ष में डाँट पड़ी थी, अब वह शिक्षक कक्ष का दरवाज़ा देखते ही घबरा जाती है। पावलोव के अनुसार शिक्षक कक्ष का दरवाज़ा अब क्या बन गया है?",
+          "opts_hi": [
+            "अननुबंधित अनुक्रिया",
+            "सकारात्मक पुनर्बलक",
+            "अननुबंधित उद्दीपक",
+            "अनुबंधित उद्दीपक"
+          ],
+          "exp_hi": "दरवाज़ा पहले तटस्थ था, डाँट के साथ जुड़ने के बाद वह अकेले ही घबराहट उत्पन्न करता है, इसलिए वह अनुबंधित उद्दीपक है।"
+        },
+        {
+          "q": "A Class 2 teacher stops giving extra homework to students who submit their notebooks on time, hoping that this will increase timely submission. According to Skinner, this is an example of:",
+          "opts": [
+            "Extinction",
+            "Positive punishment",
+            "Positive reinforcement",
+            "Negative reinforcement"
+          ],
+          "ans": 3,
+          "subject": "Child Development & Pedagogy",
+          "exp_en": "Removing an unpleasant stimulus (extra homework) after a desired behaviour increases that behaviour, which is negative reinforcement.",
+          "topic": "Skinner - Operant Conditioning",
+          "difficulty": "Medium",
+          "q_hi": "कक्षा 2 की एक शिक्षिका समय पर कॉपी जमा करने वाले बच्चों को अतिरिक्त गृहकार्य देना बंद कर देती है, ताकि समय पर कॉपी जमा करने की प्रवृत्ति बढ़े। स्किनर के अनुसार यह किसका उदाहरण है?",
+          "opts_hi": [
+            "विलोपन",
+            "सकारात्मक दंड",
+            "सकारात्मक पुनर्बलन",
+            "नकारात्मक पुनर्बलन"
+          ],
+          "exp_hi": "वांछित व्यवहार के बाद अप्रिय उद्दीपक (अतिरिक्त गृहकार्य) हटाने से वह व्यवहार बढ़ता है, यही नकारात्मक पुनर्बलन है।"
+        },
+        {
+          "q": "A teacher makes sure children practise addition tables repeatedly because Thorndike's Law of Exercise states that:",
+          "opts": [
+            "Insight leads to sudden learning",
+            "Learning depends only on the learner's readiness",
+            "Satisfying results strengthen a connection",
+            "Repetition strengthens the stimulus-response connection"
+          ],
+          "ans": 3,
+          "subject": "Child Development & Pedagogy",
+          "exp_en": "The Law of Exercise says that connections are strengthened by use and repetition and weakened by disuse.",
+          "topic": "Thorndike - Laws of Learning",
+          "difficulty": "Easy",
+          "q_hi": "शिक्षक बच्चों से जोड़ की पहाड़ों/सारणियों का बार-बार अभ्यास कराता है, क्योंकि थार्नडाइक का अभ्यास का नियम कहता है कि:",
+          "opts_hi": [
+            "अंतर्दृष्टि से अचानक सीखना होता है",
+            "सीखना केवल सीखने वाले की तत्परता पर निर्भर करता है",
+            "संतोषजनक परिणाम संबंध को मज़बूत करते हैं",
+            "दोहराने से उद्दीपक-अनुक्रिया संबंध मज़बूत होता है"
+          ],
+          "exp_hi": "अभ्यास का नियम कहता है कि प्रयोग और दोहराव से संबंध मज़बूत होते हैं और अभ्यास न करने से कमज़ोर पड़ते हैं।"
+        },
+        {
+          "q": "Before teaching a new chapter on 'Our Government', a teacher first gives a short overview that links the chapter to ideas pupils already know. This practice is most closely associated with:",
+          "opts": [
+            "Ausubel's advance organiser",
+            "Pavlov's extinction",
+            "Bruner's enactive representation",
+            "Skinner's shaping"
+          ],
+          "ans": 0,
+          "subject": "Child Development & Pedagogy",
+          "exp_en": "Ausubel proposed advance organisers, introductory material that links new content to existing cognitive structure to promote meaningful learning.",
+          "topic": "Bruner and Ausubel",
+          "difficulty": "Medium",
+          "q_hi": "'हमारी सरकार' पाठ पढ़ाने से पहले शिक्षक एक संक्षिप्त परिचय देता है जो पाठ को बच्चों के पूर्व ज्ञान से जोड़ता है। यह अभ्यास किससे सबसे अधिक संबंधित है?",
+          "opts_hi": [
+            "ऑसुबेल का अग्र-व्यवस्थापक",
+            "पावलोव का विलोपन",
+            "ब्रूनर का क्रियात्मक निरूपण",
+            "स्किनर का आकार देना"
+          ],
+          "exp_hi": "ऑसुबेल ने अग्र-व्यवस्थापक का सुझाव दिया, जो नई सामग्री को मौजूदा संज्ञानात्मक संरचना से जोड़कर अर्थपूर्ण अधिगम को बढ़ावा देता है।"
+        },
+        {
+          "q": "A Class 3 teacher gives a difficult reading task and first models how to read it, then gives hints, and gradually withdraws support as children become confident. This practice is best described as:",
+          "opts": [
+            "Punishment-based learning",
+            "Rote drilling",
+            "Latent learning",
+            "Scaffolding"
+          ],
+          "ans": 3,
+          "subject": "Child Development & Pedagogy",
+          "exp_en": "Scaffolding means giving temporary, adjustable support within the learner's ZPD and gradually removing it as competence grows.",
+          "topic": "Vygotsky and social learning",
+          "difficulty": "Medium",
+          "q_hi": "कक्षा 3 की एक शिक्षिका कठिन पठन कार्य देती है, पहले स्वयं पढ़कर दिखाती है, फिर संकेत देती है और बच्चों का आत्मविश्वास बढ़ने पर धीरे-धीरे सहायता कम कर देती है। इस अभ्यास को सबसे उपयुक्त रूप से कहा जाएगा:",
+          "opts_hi": [
+            "दंड आधारित अधिगम",
+            "रटंत अभ्यास",
+            "अव्यक्त अधिगम",
+            "पाड़ (स्कैफोल्डिंग)"
+          ],
+          "exp_hi": "स्कैफोल्डिंग का अर्थ है बच्चे के ZPD के भीतर अस्थायी और समायोज्य सहायता देना और दक्षता बढ़ने पर उसे धीरे-धीरे हटाना।"
+        },
+        {
+          "q": "Vygotsky described the self-talk that young children use aloud while solving a problem as private speech. In his view, over time this speech:",
+          "opts": [
+            "Becomes egocentric and is abandoned as the child matures",
+            "Disappears completely without any role in thinking",
+            "Is replaced by purely non-verbal imagery",
+            "Becomes internalised as inner speech that guides thought"
+          ],
+          "ans": 3,
+          "subject": "Child Development & Pedagogy",
+          "exp_en": "Vygotsky held that private speech is internalised as inner speech, which becomes a tool for thought and self-regulation (unlike Piaget, who saw it as egocentric).",
+          "topic": "Language and thought",
+          "difficulty": "Medium",
+          "q_hi": "वाइगोत्स्की ने छोटे बच्चों द्वारा समस्या हल करते समय ज़ोर से बोले जाने वाले स्व-संवाद को निजी वाणी कहा। उनके अनुसार समय के साथ यह वाणी:",
+          "opts_hi": [
+            "अहंकेंद्रित हो जाती है और परिपक्व होने पर छोड़ दी जाती है",
+            "पूरी तरह समाप्त हो जाती है और चिंतन में उसकी कोई भूमिका नहीं रहती",
+            "पूरी तरह शाब्दिक रहित बिंबों से बदल जाती है",
+            "आंतरिक वाणी के रूप में आत्मसात हो जाती है जो चिंतन को निर्देशित करती है"
+          ],
+          "exp_hi": "वाइगोत्स्की के अनुसार निजी वाणी आंतरिक वाणी में बदल जाती है, जो चिंतन और स्व-नियमन का साधन बनती है (पियाजे इसे अहंकेंद्रित मानते थे)।"
+        },
+        {
+          "q": "A chimpanzee, after looking at hanging bananas and some boxes for a while, suddenly stacks the boxes and reaches the bananas. Which type of learning does this show?",
+          "opts": [
+            "Insight learning",
+            "Trial and error learning",
+            "Classical conditioning",
+            "Operant conditioning"
+          ],
+          "ans": 0,
+          "subject": "Child Development & Pedagogy",
+          "exp_en": "Kohler's experiments showed insight learning, where the learner suddenly understands the relation between the means and the goal after thinking about the problem.",
+          "topic": "Insight learning",
+          "difficulty": "Medium",
+          "q_hi": "लटके हुए केलों और कुछ बक्सों को कुछ देर देखने के बाद एक चिंपैंज़ी अचानक बक्सों को एक के ऊपर एक रखकर केले तक पहुँच जाता है। यह किस प्रकार के अधिगम को दर्शाता है?",
+          "opts_hi": [
+            "अंतर्दृष्टि अधिगम",
+            "प्रयास-त्रुटि अधिगम",
+            "शास्त्रीय अनुबंधन",
+            "क्रियाप्रसूत अनुबंधन"
+          ],
+          "exp_hi": "कोहलर के प्रयोगों ने अंतर्दृष्टि अधिगम दिखाया, जिसमें सीखने वाला समस्या पर सोचने के बाद साधन और लक्ष्य के संबंध को अचानक समझ लेता है।"
+        },
+        {
+          "q": "Under the RTE Act 2009, which of the following is a correct provision regarding the admission and progress of a child in elementary school?",
+          "opts": [
+            "A child may be held back or expelled in a class if she fails the annual examination",
+            "Private schools need not admit any child from disadvantaged groups",
+            "A school may conduct a screening test for admission to Class 1",
+            "A child cannot be denied admission for lack of an age proof document, and no child shall be required to pass a board examination till completion of elementary education"
+          ],
+          "ans": 3,
+          "subject": "Child Development & Pedagogy",
+          "exp_en": "The RTE Act bars denial of admission for lack of age proof and prohibits board examinations until elementary education is complete; it also bans screening and private schools must reserve 25% seats for disadvantaged groups.",
+          "topic": "RTE Act 2009",
+          "difficulty": "Hard",
+          "q_hi": "RTE अधिनियम 2009 के अंतर्गत, प्रारंभिक विद्यालय में बच्चे के प्रवेश और प्रगति के संबंध में निम्नलिखित में से कौन-सा प्रावधान सही है?",
+          "opts_hi": [
+            "यदि बच्चा वार्षिक परीक्षा में अनुत्तीर्ण हो जाए तो उसे कक्षा में रोका या निकाला जा सकता है",
+            "निजी विद्यालयों को वंचित वर्गों के किसी भी बच्चे को प्रवेश देने की आवश्यकता नहीं है",
+            "विद्यालय कक्षा 1 में प्रवेश के लिए स्क्रीनिंग परीक्षा ले सकता है",
+            "आयु प्रमाण पत्र न होने के कारण किसी बच्चे को प्रवेश से वंचित नहीं किया जा सकता और प्रारंभिक शिक्षा पूर्ण होने तक किसी बच्चे को बोर्ड परीक्षा उत्तीर्ण करना आवश्यक नहीं है"
+          ],
+          "exp_hi": "RTE अधिनियम आयु प्रमाण के अभाव में प्रवेश से इनकार और प्रारंभिक शिक्षा पूर्ण होने तक बोर्ड परीक्षा दोनों को प्रतिबंधित करता है; यह स्क्रीनिंग पर भी रोक लगाता है और निजी विद्यालयों में वंचित वर्गों के लिए 25% सीटें आरक्षित हैं।"
+        },
+        {
+          "q": "A Class 3 teacher asks children to collect different leaves from the school garden, sort them by shape and size, and then talk about their observations. This approach is best described as:",
+          "opts": [
+            "Rote memorisation of facts",
+            "Activity-based learning through direct experience",
+            "Punishment-based discipline",
+            "Teacher-dominated lecture method"
+          ],
+          "ans": 1,
+          "subject": "Child Development & Pedagogy",
+          "exp_en": "Children learn by handling real objects, observing and discussing, which is the essence of activity-based learning.",
+          "topic": "Activity-based teaching",
+          "difficulty": "Easy",
+          "q_hi": "कक्षा 3 का एक शिक्षक बच्चों से विद्यालय के बगीचे से अलग-अलग पत्तियाँ इकट्ठा करवाता है, उन्हें आकार और माप के अनुसार छँटवाता है और फिर उनके अवलोकनों पर चर्चा करवाता है। इस उपागम को सबसे उपयुक्त रूप से क्या कहा जाएगा?",
+          "opts_hi": [
+            "तथ्यों का रटंत अधिगम",
+            "प्रत्यक्ष अनुभव द्वारा गतिविधि-आधारित अधिगम",
+            "दंड-आधारित अनुशासन",
+            "शिक्षक-प्रधान व्याख्यान विधि"
+          ],
+          "exp_hi": "बच्चे वास्तविक वस्तुओं को छूकर, देखकर और चर्चा करके सीखते हैं, जो गतिविधि-आधारित अधिगम का सार है।"
+        },
+        {
+          "q": "A child in Class 4 cannot sit still during lectures but learns fractions quickly when folding paper strips and moulding clay models. According to Gardner, which intelligence is most evident in this child?",
+          "opts": [
+            "Intrapersonal intelligence",
+            "Musical intelligence",
+            "Bodily-kinaesthetic intelligence",
+            "Linguistic intelligence"
+          ],
+          "ans": 2,
+          "subject": "Child Development & Pedagogy",
+          "exp_en": "Learning best through movement and hands-on manipulation of objects indicates bodily-kinaesthetic intelligence.",
+          "topic": "Gardner's Multiple Intelligences",
+          "difficulty": "Medium",
+          "q_hi": "कक्षा 4 का एक बच्चा व्याख्यान के दौरान स्थिर नहीं बैठ पाता, परंतु कागज की पट्टियाँ मोड़कर और मिट्टी के मॉडल बनाकर भिन्न जल्दी सीख लेता है। गार्डनर के अनुसार इस बच्चे में कौन-सी बुद्धि सबसे अधिक दिखती है?",
+          "opts_hi": [
+            "अंतर्वैयक्तिक बुद्धि",
+            "संगीतात्मक बुद्धि",
+            "शारीरिक-गतिबोधक बुद्धि",
+            "भाषायी बुद्धि"
+          ],
+          "exp_hi": "गति और वस्तुओं के हाथ से संचालन द्वारा सबसे अच्छा सीखना शारीरिक-गतिबोधक बुद्धि को दर्शाता है।"
+        },
+        {
+          "q": "Under the RTE Act 2009, a child who has never been admitted to school or has dropped out is admitted to a class appropriate to her age. What must be provided to such a child?",
+          "opts": [
+            "Admission only with a transfer certificate",
+            "Admission only after passing an entrance test",
+            "Special training to bring her on par with other children",
+            "A separate school for late entrants only"
+          ],
+          "ans": 2,
+          "subject": "Child Development & Pedagogy",
+          "exp_en": "Section 4 of the RTE Act provides for special training so that such a child can catch up with age-appropriate peers.",
+          "topic": "RTE Act 2009",
+          "difficulty": "Medium",
+          "q_hi": "शिक्षा का अधिकार अधिनियम 2009 के अंतर्गत, जिस बच्चे का कभी विद्यालय में प्रवेश नहीं हुआ या जिसने पढ़ाई छोड़ दी, उसे उसकी आयु के अनुरूप कक्षा में प्रवेश दिया जाता है। ऐसे बच्चे को क्या उपलब्ध कराया जाना चाहिए?",
+          "opts_hi": [
+            "केवल स्थानांतरण प्रमाणपत्र के साथ प्रवेश",
+            "प्रवेश परीक्षा उत्तीर्ण करने के बाद ही प्रवेश",
+            "अन्य बच्चों के समकक्ष लाने हेतु विशेष प्रशिक्षण",
+            "केवल देर से प्रवेश लेने वालों के लिए अलग विद्यालय"
+          ],
+          "exp_hi": "अधिनियम की धारा 4 में ऐसे बच्चे को आयु-अनुरूप साथियों के समकक्ष लाने के लिए विशेष प्रशिक्षण का प्रावधान है।"
+        },
+        {
+          "q": "A Class 2 child often writes 'b' as 'd' and 'was' as 'saw', though she is otherwise bright. This difficulty is commonly associated with:",
+          "opts": [
+            "Dysgraphia only due to poor eyesight",
+            "Hearing impairment",
+            "Dyscalculia",
+            "Dyslexia"
+          ],
+          "ans": 3,
+          "subject": "Child Development & Pedagogy",
+          "exp_en": "Letter and word reversals in a child of normal intelligence are typical signs of dyslexia, a reading difficulty.",
+          "topic": "Learning difficulties",
+          "difficulty": "Easy",
+          "q_hi": "कक्षा 2 की एक बच्ची प्रायः 'b' को 'd' और 'was' को 'saw' लिखती है, जबकि वह अन्यथा कुशाग्र है। यह कठिनाई सामान्यतः किससे संबंधित है?",
+          "opts_hi": [
+            "केवल कमजोर दृष्टि के कारण डिस्ग्राफिया",
+            "श्रवण बाधिता",
+            "डिस्कैल्कुलिया",
+            "डिस्लेक्सिया"
+          ],
+          "exp_hi": "सामान्य बुद्धि वाले बच्चे में अक्षरों और शब्दों का उलटा लिखना डिस्लेक्सिया, यानी पढ़ने की कठिनाई, का सामान्य लक्षण है।"
+        },
+        {
+          "q": "Which of the following practices by a primary school is consistent with the provisions of the RTE Act 2009?",
+          "opts": [
+            "Expelling a child for repeated poor performance in Class 5",
+            "Conducting Class 1 board examination for admission",
+            "Holding back a child in Class 3 for failing the annual exam",
+            "Continuing a child in the school until completion of elementary education without detention or expulsion"
+          ],
+          "ans": 3,
+          "subject": "Child Development & Pedagogy",
+          "exp_en": "Under the RTE Act, no child can be expelled and a child cannot be held back in Classes 1 to 3. (The 2019 amendment lets states allow holding back in Classes 5 and 8 only after a re-test.) A, B and C go against the Act.",
+          "topic": "RTE Act 2009 and assessment",
+          "difficulty": "Hard",
+          "q_hi": "प्राथमिक विद्यालय की निम्नलिखित में से कौन-सी प्रथा शिक्षा का अधिकार अधिनियम 2009 के प्रावधानों के अनुरूप है?",
+          "opts_hi": [
+            "कक्षा 5 में लगातार खराब प्रदर्शन पर बच्चे को निकालना",
+            "प्रवेश हेतु कक्षा 1 की बोर्ड परीक्षा कराना",
+            "वार्षिक परीक्षा में अनुत्तीर्ण होने पर कक्षा 3 के बच्चे को रोकना",
+            "प्रारंभिक शिक्षा पूर्ण होने तक बिना रोके और निष्कासित किए बच्चे को विद्यालय में बनाए रखना"
+          ],
+          "exp_hi": "RTE अधिनियम के अंतर्गत किसी बच्चे को निकाला नहीं जा सकता और कक्षा 1 से 3 में रोका नहीं जा सकता। (2019 के संशोधन से राज्य कक्षा 5 और 8 में पुनः परीक्षा के बाद रोकने की अनुमति दे सकते हैं।) विकल्प A, B और C अधिनियम के विरुद्ध हैं।"
+        },
+        {
+          "q": "In a model-mountain task, a 5-year-old child believes that the teacher standing on the other side sees exactly the same view as she does. According to Piaget, this shows:",
+          "opts": [
+            "Conservation",
+            "Egocentrism",
+            "Reversibility",
+            "Object permanence"
+          ],
+          "ans": 1,
+          "subject": "Child Development & Pedagogy",
+          "exp_en": "In the preoperational stage children find it hard to take another person's point of view, which Piaget called egocentrism.",
+          "topic": "Piaget cognitive development",
+          "difficulty": "Medium",
+          "q_hi": "एक पर्वत-मॉडल कार्य में 5 वर्ष की बच्ची मानती है कि दूसरी ओर खड़े शिक्षक को भी वही दृश्य दिखता है जो उसे दिखता है। पियाजे के अनुसार यह दर्शाता है:",
+          "opts_hi": [
+            "संरक्षण",
+            "आत्मकेंद्रितता",
+            "उत्क्रमणीयता",
+            "वस्तु स्थायित्व"
+          ],
+          "exp_hi": "पूर्व-संक्रियात्मक अवस्था में बच्चों को दूसरे व्यक्ति का दृष्टिकोण लेना कठिन होता है, जिसे पियाजे ने आत्मकेंद्रितता कहा।"
+        },
+        {
+          "q": "Development proceeds from the head region towards the feet, so a baby controls the head before the legs. This principle is called:",
+          "opts": [
+            "Proximodistal development",
+            "Integration",
+            "Differentiation",
+            "Cephalocaudal development"
+          ],
+          "ans": 3,
+          "subject": "Child Development & Pedagogy",
+          "exp_en": "The cephalocaudal principle says that development proceeds from head to foot, while the proximodistal principle says it proceeds from the centre of the body outwards.",
+          "topic": "Principles of development",
+          "difficulty": "Easy",
+          "q_hi": "विकास सिर से पैरों की ओर बढ़ता है, इसलिए शिशु पैरों से पहले सिर पर नियंत्रण पाता है। इस सिद्धांत को क्या कहते हैं?",
+          "opts_hi": [
+            "निकट-दूर विकास",
+            "समन्वय",
+            "विभेदीकरण",
+            "शिरोपदाभिमुख (सेफेलोकाउडल) विकास"
+          ],
+          "exp_hi": "शिरोपदाभिमुख सिद्धांत के अनुसार विकास सिर से पैर की ओर होता है, जबकि निकट-दूर सिद्धांत के अनुसार शरीर के केंद्र से बाहर की ओर होता है।"
+        },
+        {
+          "q": "Which of the following gives the correct order of Piaget's stages of cognitive development?",
+          "opts": [
+            "Preoperational, sensorimotor, concrete operational, formal operational",
+            "Sensorimotor, preoperational, concrete operational, formal operational",
+            "Sensorimotor, concrete operational, preoperational, formal operational",
+            "Concrete operational, sensorimotor, preoperational, formal operational"
+          ],
+          "ans": 1,
+          "subject": "Child Development & Pedagogy",
+          "exp_en": "Piaget's four stages in order are sensorimotor (0-2 years), preoperational (2-7), concrete operational (7-11) and formal operational (11 years onwards).",
+          "topic": "Piaget cognitive development",
+          "difficulty": "Medium",
+          "q_hi": "पियाजे के संज्ञानात्मक विकास की अवस्थाओं का सही क्रम निम्नलिखित में से कौन-सा है?",
+          "opts_hi": [
+            "पूर्व-संक्रियात्मक, संवेदी-गामक, मूर्त संक्रियात्मक, औपचारिक संक्रियात्मक",
+            "संवेदी-गामक, पूर्व-संक्रियात्मक, मूर्त संक्रियात्मक, औपचारिक संक्रियात्मक",
+            "संवेदी-गामक, मूर्त संक्रियात्मक, पूर्व-संक्रियात्मक, औपचारिक संक्रियात्मक",
+            "मूर्त संक्रियात्मक, संवेदी-गामक, पूर्व-संक्रियात्मक, औपचारिक संक्रियात्मक"
+          ],
+          "exp_hi": "पियाजे की चार अवस्थाएँ क्रम से संवेदी-गामक (0-2 वर्ष), पूर्व-संक्रियात्मक (2-7), मूर्त संक्रियात्मक (7-11) और औपचारिक संक्रियात्मक (11 वर्ष के बाद) हैं।"
+        },
+        {
+          "q": "Which of the following is a central recommendation of NCF 2005 regarding the nature of learning?",
+          "opts": [
+            "Board examinations should be made more rigid",
+            "Learning should be based on rote memorisation of textbook content",
+            "Children construct knowledge, so learning should connect to their experience and reduce rote learning",
+            "Textbooks should be the only source of knowledge"
+          ],
+          "ans": 2,
+          "subject": "Child Development & Pedagogy",
+          "exp_en": "NCF 2005 is based on constructivism and stresses connecting knowledge to children's lives and shifting away from rote learning.",
+          "topic": "National Curriculum Framework",
+          "difficulty": "Medium",
+          "q_hi": "सीखने की प्रकृति के संबंध में एनसीएफ 2005 की प्रमुख अनुशंसा निम्नलिखित में से कौन-सी है?",
+          "opts_hi": [
+            "बोर्ड परीक्षाओं को और कठोर बनाया जाना चाहिए",
+            "सीखना पाठ्यपुस्तक की सामग्री को रटने पर आधारित होना चाहिए",
+            "बच्चे ज्ञान का निर्माण करते हैं, इसलिए सीखना उनके अनुभव से जुड़ा हो और रटंत कम हो",
+            "पाठ्यपुस्तक ही ज्ञान का एकमात्र स्रोत होनी चाहिए"
+          ],
+          "exp_hi": "एनसीएफ 2005 रचनावाद पर आधारित है और ज्ञान को बच्चों के जीवन से जोड़ने तथा रटंत से दूर जाने पर बल देता है।"
+        },
+        {
+          "q": "A student teacher says, 'I follow classroom rules because a good member of the school keeps the social order and does their duty.' Which Kohlberg stage does this reasoning match?",
+          "opts": [
+            "Good interpersonal relationships orientation (Stage 3)",
+            "Instrumental exchange orientation (Stage 2)",
+            "Law-and-order (social order maintaining) orientation (Stage 4)",
+            "Universal ethical principles orientation (Stage 6)"
+          ],
+          "ans": 2,
+          "subject": "Child Development & Pedagogy",
+          "exp_en": "Doing one's duty and upholding social order is the Stage 4 law-and-order orientation of the conventional level.",
+          "topic": "Kohlberg moral development",
+          "difficulty": "Hard",
+          "q_hi": "एक छात्र-शिक्षक कहता है, 'मैं कक्षा के नियम इसलिए मानता हूँ क्योंकि विद्यालय का अच्छा सदस्य सामाजिक व्यवस्था बनाए रखता है और अपना कर्तव्य निभाता है।' यह तर्क कोहलबर्ग की किस अवस्था से मेल खाता है?",
+          "opts_hi": [
+            "अच्छे पारस्परिक संबंध अभिविन्यास (अवस्था 3)",
+            "साधनात्मक विनिमय अभिविन्यास (अवस्था 2)",
+            "कानून और व्यवस्था (सामाजिक व्यवस्था बनाए रखने) का अभिविन्यास (अवस्था 4)",
+            "सार्वभौमिक नैतिक सिद्धांत अभिविन्यास (अवस्था 6)"
+          ],
+          "exp_hi": "कर्तव्य निभाना और सामाजिक व्यवस्था बनाए रखना परंपरागत स्तर की अवस्था 4, कानून और व्यवस्था अभिविन्यास, है।"
+        },
+        {
+          "q": "A Class 4 teacher records observations of each child's participation in group work, oral expression and use of materials throughout the term, and uses these to give feedback to improve learning. This practice is best described as:",
+          "opts": [
+            "Annual written examination",
+            "Diagnostic test given only at the start of the year",
+            "Summative assessment used for ranking students",
+            "Formative assessment as part of continuous evaluation"
+          ],
+          "ans": 3,
+          "subject": "Child Development & Pedagogy",
+          "exp_en": "Ongoing observation during the term with feedback to improve learning is formative assessment, a core feature of continuous evaluation.",
+          "topic": "Continuous and comprehensive evaluation",
+          "difficulty": "Medium",
+          "q_hi": "कक्षा 4 के एक शिक्षक पूरे सत्र में समूह कार्य में प्रत्येक बच्चे की भागीदारी, मौखिक अभिव्यक्ति और सामग्री के उपयोग का अवलोकन दर्ज करते हैं और सीखने में सुधार के लिए इनके आधार पर प्रतिपुष्टि देते हैं। इस प्रक्रिया को सबसे उचित रूप से कहा जाएगा:",
+          "opts_hi": [
+            "वार्षिक लिखित परीक्षा",
+            "केवल सत्र के आरंभ में दिया गया निदानात्मक परीक्षण",
+            "विद्यार्थियों की श्रेणी निर्धारण हेतु योगात्मक मूल्यांकन",
+            "सतत मूल्यांकन के अंतर्गत रचनात्मक मूल्यांकन"
+          ],
+          "exp_hi": "सत्र के दौरान निरंतर अवलोकन और सुधार हेतु प्रतिपुष्टि रचनात्मक मूल्यांकन है, जो सतत मूल्यांकन की मुख्य विशेषता है।"
+        },
+        {
+          "q": "Which statement about growth and development is most accurate for planning primary classroom teaching?",
+          "opts": [
+            "Development is purely quantitative and stops when physical growth stops",
+            "Heredity alone decides development; environment has no role",
+            "All children pass through every stage at exactly the same age",
+            "Development follows a general sequence, but its rate differs from child to child"
+          ],
+          "ans": 3,
+          "subject": "Child Development & Pedagogy",
+          "exp_en": "Development is sequential and continuous, yet individual rates vary due to heredity and environment, so teachers should not expect identical progress.",
+          "topic": "Growth and development stages",
+          "difficulty": "Hard",
+          "q_hi": "प्राथमिक कक्षा शिक्षण की योजना के लिए वृद्धि और विकास के बारे में कौन-सा कथन सर्वाधिक सटीक है?",
+          "opts_hi": [
+            "विकास पूर्णतः मात्रात्मक है और शारीरिक वृद्धि रुकने पर रुक जाता है",
+            "विकास केवल आनुवंशिकता से तय होता है; पर्यावरण की कोई भूमिका नहीं",
+            "सभी बच्चे प्रत्येक अवस्था से ठीक एक ही आयु में गुज़रते हैं",
+            "विकास एक सामान्य क्रम का अनुसरण करता है, परंतु उसकी गति प्रत्येक बच्चे में भिन्न होती है"
+          ],
+          "exp_hi": "विकास क्रमबद्ध और निरंतर होता है, परंतु आनुवंशिकता और पर्यावरण के कारण व्यक्तिगत गति भिन्न होती है, इसलिए शिक्षक को समान प्रगति की अपेक्षा नहीं करनी चाहिए।"
+        },
+        {
+          "q": "In a Class 4 room, two children are repeatedly talking while the teacher explains. Which response reflects positive classroom management?",
+          "opts": [
+            "Move near them, make eye contact, and involve them in the discussion with a question",
+            "Reduce their marks in the unit test",
+            "Announce their names and compare them with disciplined children",
+            "Make them stand outside the class for the whole period"
+          ],
+          "ans": 0,
+          "subject": "Child Development & Pedagogy",
+          "exp_en": "Positive management redirects behaviour through proximity and engagement without humiliating or punishing the child. This keeps the child involved in learning.",
+          "topic": "Classroom management",
+          "difficulty": "Medium",
+          "q_hi": "कक्षा 4 में शिक्षक के समझाते समय दो बच्चे बार-बार बातें कर रहे हैं। सकारात्मक कक्षा-प्रबंधन को कौन-सी प्रतिक्रिया दर्शाती है?",
+          "opts_hi": [
+            "उनके पास जाना, आँख से संपर्क बनाना और प्रश्न पूछकर उन्हें चर्चा में शामिल करना",
+            "इकाई परीक्षा में उनके अंक घटा देना",
+            "उनके नाम घोषित करना और अनुशासित बच्चों से उनकी तुलना करना",
+            "उन्हें पूरे कालांश कक्षा के बाहर खड़ा कर देना"
+          ],
+          "exp_hi": "सकारात्मक प्रबंधन निकटता और सहभागिता के माध्यम से बिना अपमान या दंड के व्यवहार को सही दिशा देता है। इससे बच्चा सीखने से जुड़ा रहता है।"
+        },
+        {
+          "q": "A teacher lets Class 5 children work in mixed-ability groups on a project, where stronger learners explain ideas to peers. Which Vygotskian idea does this practice best use?",
+          "opts": [
+            "Learning is fixed by the child's maturation stage",
+            "Learning is supported by social interaction with more knowledgeable peers",
+            "Learning occurs only through individual trial and error",
+            "Learning depends on rewards given after each correct response"
+          ],
+          "ans": 1,
+          "subject": "Child Development & Pedagogy",
+          "exp_en": "Vygotsky held that cognitive development is shaped by social interaction, with more capable peers helping learners move beyond their current level. Mixed-ability groups provide this support.",
+          "topic": "Teaching methods",
+          "difficulty": "Medium",
+          "q_hi": "एक शिक्षक कक्षा 5 के बच्चों को मिश्रित क्षमता वाले समूहों में परियोजना कार्य करने देते हैं, जहाँ अधिक सक्षम बच्चे साथियों को समझाते हैं। यह व्यवहार वाइगोत्सकी के किस विचार का सर्वोत्तम उपयोग करता है?",
+          "opts_hi": [
+            "सीखना बच्चे की परिपक्वता अवस्था से निश्चित होता है",
+            "अधिक जानकार साथियों के साथ सामाजिक अंतःक्रिया से सीखने को सहायता मिलती है",
+            "सीखना केवल व्यक्तिगत प्रयास और भूल से होता है",
+            "सीखना प्रत्येक सही उत्तर के बाद मिलने वाले पुरस्कार पर निर्भर करता है"
+          ],
+          "exp_hi": "वाइगोत्सकी के अनुसार संज्ञानात्मक विकास सामाजिक अंतःक्रिया से आकार लेता है, जिसमें सक्षम साथी सीखने वालों को उनके वर्तमान स्तर से आगे बढ़ने में मदद करते हैं। मिश्रित समूह यह सहायता देते हैं।"
+        },
+        {
+          "q": "A Class 2 teacher has a child with a hearing impairment and a child who learns slowly. Which planning approach best reflects the principle of inclusion and Universal Design for Learning?",
+          "opts": [
+            "Prepare one lesson and expect every child to adjust to it",
+            "Lower the expectations for these two children and give them no tasks",
+            "Teach the two children separately after school hours",
+            "Plan lessons from the start with multiple ways of presenting, such as pictures, gestures, and concrete objects, and multiple ways of responding"
+          ],
+          "ans": 3,
+          "subject": "Child Development & Pedagogy",
+          "exp_en": "UDL builds flexibility into the lesson from the start by offering multiple means of representation and expression, so that diverse learners can take part together. The other options exclude or under-challenge learners.",
+          "topic": "Inclusive education and learners with special needs",
+          "difficulty": "Hard",
+          "q_hi": "कक्षा 2 के शिक्षक की कक्षा में एक श्रवण बाधित बच्चा और एक धीमी गति से सीखने वाला बच्चा है। समावेशन और सार्वभौमिक अभिकल्प (UDL) के सिद्धांत को कौन-सा नियोजन तरीका सर्वोत्तम दर्शाता है?",
+          "opts_hi": [
+            "एक ही पाठ तैयार करना और अपेक्षा करना कि हर बच्चा उसके अनुसार ढल जाए",
+            "इन दोनों बच्चों से अपेक्षाएँ घटाकर उन्हें कोई कार्य न देना",
+            "इन दोनों बच्चों को विद्यालय के बाद अलग से पढ़ाना",
+            "आरंभ से ही चित्र, संकेत और मूर्त वस्तुओं जैसे प्रस्तुति के अनेक तरीकों तथा प्रतिक्रिया देने के अनेक तरीकों के साथ पाठ की योजना बनाना"
+          ],
+          "exp_hi": "UDL पाठ में आरंभ से ही प्रस्तुति और अभिव्यक्ति के अनेक साधन देकर लचीलापन लाता है, ताकि विविध शिक्षार्थी साथ भाग ले सकें। अन्य विकल्प बच्चों को अलग करते हैं या उन्हें चुनौती नहीं देते।"
+        },
+        {
+          "q": "According to Thorndike's Law of Readiness, learning is most effective when:",
+          "opts": [
+            "The learner is made to repeat the task many times",
+            "The learner is physically and mentally ready to learn",
+            "The learner is punished for every mistake",
+            "The teacher gives long lectures"
+          ],
+          "ans": 1,
+          "subject": "Child Development & Pedagogy",
+          "exp_en": "The Law of Readiness says that a learner learns best when he or she is ready, in body and mind, to respond. Repetition belongs to the Law of Exercise.",
+          "topic": "Thorndike's laws of learning",
+          "difficulty": "Medium",
+          "q_hi": "थॉर्नडाइक के तत्परता के नियम के अनुसार सीखना सबसे अधिक प्रभावी तब होता है जब:",
+          "opts_hi": [
+            "सीखने वाले से कार्य बार-बार दोहराया जाए",
+            "सीखने वाला शारीरिक और मानसिक रूप से सीखने के लिए तैयार हो",
+            "हर गलती पर सीखने वाले को दंड दिया जाए",
+            "शिक्षक लंबे व्याख्यान दे"
+          ],
+          "exp_hi": "तत्परता का नियम कहता है कि सीखने वाला तब सबसे अच्छा सीखता है जब वह शरीर और मन से तैयार हो। दोहराव अभ्यास के नियम से जुड़ा है।"
+        },
+        {
+          "q": "'विद्यालय' शब्द का सही संधि-विच्छेद कौन-सा है?",
+          "opts": [
+            "विद्या + लय",
+            "विद् + आलय",
+            "विद्य + आलय",
+            "विद्या + आलय"
+          ],
+          "ans": 3,
+          "subject": "Hindi Language",
+          "exp_en": "विद्या + आलय में 'आ' और 'आ' मिलकर 'आ' बनता है, इसलिए यह दीर्घ स्वर संधि है।",
+          "topic": "संधि",
+          "difficulty": "Easy",
+          "q_hi": "'विद्यालय' शब्द का सही संधि-विच्छेद कौन-सा है?",
+          "opts_hi": [
+            "विद्या + लय",
+            "विद् + आलय",
+            "विद्य + आलय",
+            "विद्या + आलय"
+          ],
+          "exp_hi": "विद्या + आलय में 'आ' और 'आ' मिलकर 'आ' बनता है, इसलिए यह दीर्घ स्वर संधि है।"
+        },
+        {
+          "q": "'आसमान टूट पड़ना' मुहावरे का अर्थ क्या है?",
+          "opts": [
+            "बहुत ऊँचाई पर पहुँचना",
+            "अचानक भारी विपत्ति आना",
+            "आसमान साफ़ होना",
+            "बहुत प्रसन्न होना"
+          ],
+          "ans": 0,
+          "subject": "Hindi Language",
+          "exp_en": "'आसमान टूट पड़ना' का अर्थ है अचानक बहुत बड़ी विपत्ति आ जाना।",
+          "topic": "मुहावरे और लोकोक्तियाँ",
+          "difficulty": "Medium",
+          "q_hi": "'आसमान टूट पड़ना' मुहावरे का अर्थ क्या है?",
+          "opts_hi": [
+            "बहुत ऊँचाई पर पहुँचना",
+            "अचानक भारी विपत्ति आना",
+            "आसमान साफ़ होना",
+            "बहुत प्रसन्न होना"
+          ],
+          "exp_hi": "'आसमान टूट पड़ना' का अर्थ है अचानक बहुत बड़ी विपत्ति आ जाना।"
+        },
+        {
+          "q": "निम्नलिखित में से कौन-सा वाक्य शुद्ध है?",
+          "opts": [
+            "उसने अपना कार्य सुचारु रूप से सम्पन्न किया।",
+            "कृपया मेरी बातों पर ध्यान देने की कृपा करें।",
+            "मुझे आपसे अनेकों बातें करनी हैं।",
+            "आज की सभा में सारे अध्यापकगण उपस्थित थे।"
+          ],
+          "ans": 0,
+          "subject": "Hindi Language",
+          "exp_en": "वाक्य 'उसने अपना कार्य सुचारु रूप से सम्पन्न किया' शुद्ध है। 'कृपया... कृपा करें' में पुनरुक्ति है, 'अनेकों' अशुद्ध है और 'सारे अध्यापकगण' में 'सारे' तथा 'गण' दोनों का प्रयोग अनावश्यक है।",
+          "topic": "वाक्य शुद्धि",
+          "difficulty": "Medium",
+          "q_hi": "निम्नलिखित में से कौन-सा वाक्य शुद्ध है?",
+          "opts_hi": [
+            "उसने अपना कार्य सुचारु रूप से सम्पन्न किया।",
+            "कृपया मेरी बातों पर ध्यान देने की कृपा करें।",
+            "मुझे आपसे अनेकों बातें करनी हैं।",
+            "आज की सभा में सारे अध्यापकगण उपस्थित थे।"
+          ],
+          "exp_hi": "वाक्य 'उसने अपना कार्य सुचारु रूप से सम्पन्न किया' शुद्ध है। 'कृपया... कृपा करें' में पुनरुक्ति है, 'अनेकों' अशुद्ध है और 'सारे अध्यापकगण' में 'सारे' तथा 'गण' दोनों का प्रयोग अनावश्यक है।"
+        },
+        {
+          "q": "'उन्नति' शब्द का सही संधि-विच्छेद और संधि का प्रकार क्या है?",
+          "opts": [
+            "उत् + नति – व्यंजन संधि",
+            "उन् + नति – स्वर संधि",
+            "उत् + नति – दीर्घ संधि",
+            "उन + नति – विसर्ग संधि"
+          ],
+          "ans": 0,
+          "subject": "Hindi Language",
+          "exp_en": "'उत्' के अंतिम 'त्' का 'न' से मेल होने पर 'त्' 'न्' में बदल जाता है, इसलिए उत् + नति = उन्नति। यह व्यंजन संधि है।",
+          "topic": "संधि",
+          "difficulty": "Medium",
+          "q_hi": "'उन्नति' शब्द का सही संधि-विच्छेद और संधि का प्रकार क्या है?",
+          "opts_hi": [
+            "उत् + नति – व्यंजन संधि",
+            "उन् + नति – स्वर संधि",
+            "उत् + नति – दीर्घ संधि",
+            "उन + नति – विसर्ग संधि"
+          ],
+          "exp_hi": "'उत्' के अंतिम 'त्' का 'न' से मेल होने पर 'त्' 'न्' में बदल जाता है, इसलिए उत् + नति = उन्नति। यह व्यंजन संधि है।"
+        },
+        {
+          "q": "'पृथ्वी' शब्द का पर्यायवाची निम्नलिखित में से कौन-सा है?",
+          "opts": [
+            "धरा",
+            "अनल",
+            "गगन",
+            "सागर"
+          ],
+          "ans": 0,
+          "subject": "Hindi Language",
+          "exp_en": "'धरा' का अर्थ पृथ्वी है, जबकि गगन आकाश, सागर समुद्र और अनल अग्नि के लिए प्रयुक्त होता है।",
+          "topic": "पर्यायवाची शब्द",
+          "difficulty": "Easy",
+          "q_hi": "'पृथ्वी' शब्द का पर्यायवाची निम्नलिखित में से कौन-सा है?",
+          "opts_hi": [
+            "धरा",
+            "अनल",
+            "गगन",
+            "सागर"
+          ],
+          "exp_hi": "'धरा' का अर्थ पृथ्वी है, जबकि गगन आकाश, सागर समुद्र और अनल अग्नि के लिए प्रयुक्त होता है।"
+        },
+        {
+          "q": "'महेश' शब्द का सही संधि-विच्छेद कौन-सा है?",
+          "opts": [
+            "महा + इश",
+            "मही + ईश",
+            "मह + ईश",
+            "महा + ईश"
+          ],
+          "ans": 3,
+          "subject": "Hindi Language",
+          "exp_en": "'महा' के अंत में 'आ' और 'ईश' के आरंभ में 'ई' मिलकर गुण संधि के नियम से 'ए' बनाते हैं, इसलिए महा + ईश = महेश।",
+          "topic": "संधि",
+          "difficulty": "Medium",
+          "q_hi": "'महेश' शब्द का सही संधि-विच्छेद कौन-सा है?",
+          "opts_hi": [
+            "महा + इश",
+            "मही + ईश",
+            "मह + ईश",
+            "महा + ईश"
+          ],
+          "exp_hi": "'महा' के अंत में 'आ' और 'ईश' के आरंभ में 'ई' मिलकर गुण संधि के नियम से 'ए' बनाते हैं, इसलिए महा + ईश = महेश।"
+        },
+        {
+          "q": "'नीरस' शब्द में कौन-सी संधि है और उसका सही विच्छेद क्या है?",
+          "opts": [
+            "गुण संधि — निर + रस",
+            "विसर्ग संधि — निः + रस",
+            "व्यंजन संधि — नीर + स",
+            "दीर्घ संधि — नी + रस"
+          ],
+          "ans": 1,
+          "subject": "Hindi Language",
+          "exp_en": "'निः' के विसर्ग के बाद 'र' आने पर विसर्ग का लोप होकर पूर्व स्वर दीर्घ हो जाता है, इसलिए निः + रस = नीरस; यह विसर्ग संधि है।",
+          "topic": "संधि",
+          "difficulty": "Hard",
+          "q_hi": "'नीरस' शब्द में कौन-सी संधि है और उसका सही विच्छेद क्या है?",
+          "opts_hi": [
+            "गुण संधि — निर + रस",
+            "विसर्ग संधि — निः + रस",
+            "व्यंजन संधि — नीर + स",
+            "दीर्घ संधि — नी + रस"
+          ],
+          "exp_hi": "'निः' के विसर्ग के बाद 'र' आने पर विसर्ग का लोप होकर पूर्व स्वर दीर्घ हो जाता है, इसलिए निः + रस = नीरस; यह विसर्ग संधि है।"
+        },
+        {
+          "q": "निम्नलिखित वाक्यों में से कौन-सा वाक्य शुद्ध है?",
+          "opts": [
+            "मुझसे आशीर्वाद दीजिए कि सफल हो जाऊँ।",
+            "मेरे को आशीर्वाद दीजिए कि मैं सफल हो।",
+            "मुझे आशीर्वाद दीजिए कि मैं सफल हो जाऊँ।",
+            "मैं आपसे आशीर्वाद चाहता हूँ कि मैं सफल होऊँ जाऊँ।"
+          ],
+          "ans": 2,
+          "subject": "Hindi Language",
+          "exp_en": "'मुझे' कर्म के लिए सही प्रयोग है और शेष विकल्पों में अशुद्ध रूप या अनावश्यक पुनरुक्ति है, इसलिए पहला वाक्य शुद्ध है।",
+          "topic": "वाक्य शुद्धि",
+          "difficulty": "Easy",
+          "q_hi": "निम्नलिखित वाक्यों में से कौन-सा वाक्य शुद्ध है?",
+          "opts_hi": [
+            "मुझसे आशीर्वाद दीजिए कि सफल हो जाऊँ।",
+            "मेरे को आशीर्वाद दीजिए कि मैं सफल हो।",
+            "मुझे आशीर्वाद दीजिए कि मैं सफल हो जाऊँ।",
+            "मैं आपसे आशीर्वाद चाहता हूँ कि मैं सफल होऊँ जाऊँ।"
+          ],
+          "exp_hi": "'मुझे' कर्म के लिए सही प्रयोग है और शेष विकल्पों में अशुद्ध रूप या अनावश्यक पुनरुक्ति है, इसलिए पहला वाक्य शुद्ध है।"
+        },
+        {
+          "q": "'अभिमान' शब्द में कौन-सा उपसर्ग लगा है?",
+          "opts": [
+            "अभि",
+            "अ",
+            "अधि",
+            "अभ"
+          ],
+          "ans": 0,
+          "subject": "Hindi Language",
+          "exp_en": "'अभिमान' = अभि + मान। यहाँ 'अभि' उपसर्ग है।",
+          "topic": "उपसर्ग और प्रत्यय",
+          "difficulty": "Medium",
+          "q_hi": "'अभिमान' शब्द में कौन-सा उपसर्ग लगा है?",
+          "opts_hi": [
+            "अभि",
+            "अ",
+            "अधि",
+            "अभ"
+          ],
+          "exp_hi": "'अभिमान' = अभि + मान। यहाँ 'अभि' उपसर्ग है।"
+        },
+        {
+          "q": "निम्नलिखित में से किस शब्द में 'इक' प्रत्यय लगा है और शब्द विशेषण है?",
+          "opts": [
+            "बचपन",
+            "लिखावट",
+            "चतुराई",
+            "सामाजिक"
+          ],
+          "ans": 3,
+          "subject": "Hindi Language",
+          "exp_en": "'सामाजिक' = समाज + इक, जो विशेषण है। 'बचपन' में 'पन', 'लिखावट' में 'आवट' और 'चतुराई' में 'आई' प्रत्यय है।",
+          "topic": "उपसर्ग और प्रत्यय",
+          "difficulty": "Hard",
+          "q_hi": "निम्नलिखित में से किस शब्द में 'इक' प्रत्यय लगा है और शब्द विशेषण है?",
+          "opts_hi": [
+            "बचपन",
+            "लिखावट",
+            "चतुराई",
+            "सामाजिक"
+          ],
+          "exp_hi": "'सामाजिक' = समाज + इक, जो विशेषण है। 'बचपन' में 'पन', 'लिखावट' में 'आवट' और 'चतुराई' में 'आई' प्रत्यय है।"
+        },
+        {
+          "q": "'पढ़ाई' शब्द में कौन-सा प्रत्यय लगा है?",
+          "opts": [
+            "आई",
+            "ई",
+            "पन",
+            "वट"
+          ],
+          "ans": 0,
+          "subject": "Hindi Language",
+          "exp_en": "'पढ़ाई' = पढ़ + आई। यहाँ 'आई' प्रत्यय है, जो क्रिया से भाववाचक संज्ञा बनाता है।",
+          "topic": "उपसर्ग और प्रत्यय",
+          "difficulty": "Easy",
+          "q_hi": "'पढ़ाई' शब्द में कौन-सा प्रत्यय लगा है?",
+          "opts_hi": [
+            "आई",
+            "ई",
+            "पन",
+            "वट"
+          ],
+          "exp_hi": "'पढ़ाई' = पढ़ + आई। यहाँ 'आई' प्रत्यय है, जो क्रिया से भाववाचक संज्ञा बनाता है।"
+        },
+        {
+          "q": "'राम ने रावण को मारा।' इस वाक्य में 'रावण को' में कौन-सा कारक है?",
+          "opts": [
+            "कर्ता कारक",
+            "कर्म कारक",
+            "करण कारक",
+            "संप्रदान कारक"
+          ],
+          "ans": 1,
+          "subject": "Hindi Language",
+          "exp_en": "जिस पर क्रिया का फल पड़ता है, उसमें कर्म कारक होता है। यहाँ मारने की क्रिया का फल रावण पर पड़ा है।",
+          "topic": "कारक और विभक्ति",
+          "difficulty": "Medium",
+          "q_hi": "'राम ने रावण को मारा।' इस वाक्य में 'रावण को' में कौन-सा कारक है?",
+          "opts_hi": [
+            "कर्ता कारक",
+            "कर्म कारक",
+            "करण कारक",
+            "संप्रदान कारक"
+          ],
+          "exp_hi": "जिस पर क्रिया का फल पड़ता है, उसमें कर्म कारक होता है। यहाँ मारने की क्रिया का फल रावण पर पड़ा है।"
+        },
+        {
+          "q": "'पुस्तक' शब्द का बहुवचन रूप कौन-सा है?",
+          "opts": [
+            "पुस्तकों",
+            "पुस्तकें",
+            "पुस्तकाएँ",
+            "पुस्तकियाँ"
+          ],
+          "ans": 1,
+          "subject": "Hindi Language",
+          "exp_en": "अकारांत स्त्रीलिंग शब्दों में 'एँ' जोड़कर बहुवचन बनता है, जैसे पुस्तक से पुस्तकें। 'पुस्तकों' विभक्ति सहित रूप है।",
+          "topic": "लिंग और वचन",
+          "difficulty": "Easy",
+          "q_hi": "'पुस्तक' शब्द का बहुवचन रूप कौन-सा है?",
+          "opts_hi": [
+            "पुस्तकों",
+            "पुस्तकें",
+            "पुस्तकाएँ",
+            "पुस्तकियाँ"
+          ],
+          "exp_hi": "अकारांत स्त्रीलिंग शब्दों में 'एँ' जोड़कर बहुवचन बनता है, जैसे पुस्तक से पुस्तकें। 'पुस्तकों' विभक्ति सहित रूप है।"
+        },
+        {
+          "q": "'मधुशाला' काव्य-कृति के रचयिता कौन हैं?",
+          "opts": [
+            "सूर्यकांत त्रिपाठी निराला",
+            "सुमित्रानंदन पंत",
+            "हरिवंश राय बच्चन",
+            "रामधारी सिंह 'दिनकर'"
+          ],
+          "ans": 2,
+          "subject": "Hindi Language",
+          "exp_en": "'मधुशाला' (1935) हरिवंश राय बच्चन की प्रसिद्ध काव्य-कृति है।",
+          "topic": "हिंदी साहित्य और लेखक",
+          "difficulty": "Medium",
+          "q_hi": "'मधुशाला' काव्य-कृति के रचयिता कौन हैं?",
+          "opts_hi": [
+            "सूर्यकांत त्रिपाठी निराला",
+            "सुमित्रानंदन पंत",
+            "हरिवंश राय बच्चन",
+            "रामधारी सिंह 'दिनकर'"
+          ],
+          "exp_hi": "'मधुशाला' (1935) हरिवंश राय बच्चन की प्रसिद्ध काव्य-कृति है।"
+        },
+        {
+          "q": "'सूर्योदय' शब्द में कौन-सी संधि है?",
+          "opts": [
+            "वृद्धि संधि",
+            "दीर्घ संधि",
+            "यण संधि",
+            "गुण संधि"
+          ],
+          "ans": 3,
+          "subject": "Hindi Language",
+          "exp_en": "सूर्य + उदय में 'अ' और 'उ' मिलकर 'ओ' बनता है, इसलिए यह गुण संधि है।",
+          "topic": "संधि",
+          "difficulty": "Medium",
+          "q_hi": "'सूर्योदय' शब्द में कौन-सी संधि है?",
+          "opts_hi": [
+            "वृद्धि संधि",
+            "दीर्घ संधि",
+            "यण संधि",
+            "गुण संधि"
+          ],
+          "exp_hi": "सूर्य + उदय में 'अ' और 'उ' मिलकर 'ओ' बनता है, इसलिए यह गुण संधि है।"
+        },
+        {
+          "q": "'अर्थ' शब्द के अनेकार्थी रूप में निम्नलिखित में से कौन-से दो अर्थ सही हैं?",
+          "opts": [
+            "बादल और हाथी",
+            "धन और प्रयोजन",
+            "पवन और अग्नि",
+            "नदी और किनारा"
+          ],
+          "ans": 1,
+          "subject": "Hindi Language",
+          "exp_en": "'अर्थ' के अनेक अर्थों में मतलब (आशय), धन और प्रयोजन आते हैं। अन्य विकल्पों के अर्थ इससे संबंधित नहीं हैं।",
+          "topic": "अनेकार्थी और समानार्थी शब्द",
+          "difficulty": "Medium",
+          "q_hi": "'अर्थ' शब्द के अनेकार्थी रूप में निम्नलिखित में से कौन-से दो अर्थ सही हैं?",
+          "opts_hi": [
+            "बादल और हाथी",
+            "धन और प्रयोजन",
+            "पवन और अग्नि",
+            "नदी और किनारा"
+          ],
+          "exp_hi": "'अर्थ' के अनेक अर्थों में मतलब (आशय), धन और प्रयोजन आते हैं। अन्य विकल्पों के अर्थ इससे संबंधित नहीं हैं।"
+        },
+        {
+          "q": "'हे ईश्वर! हमारी रक्षा करो।' इस वाक्य में 'हे ईश्वर' में कौन-सा कारक है?",
+          "opts": [
+            "कर्म कारक",
+            "संप्रदान कारक",
+            "कर्ता कारक",
+            "संबोधन कारक"
+          ],
+          "ans": 3,
+          "subject": "Hindi Language",
+          "exp_en": "किसी को पुकारने या संबोधित करने वाले शब्द में संबोधन कारक होता है, जिसमें 'हे', 'अरे', 'ओ' आदि चिह्न लगते हैं।",
+          "topic": "कारक और विभक्ति",
+          "difficulty": "Hard",
+          "q_hi": "'हे ईश्वर! हमारी रक्षा करो।' इस वाक्य में 'हे ईश्वर' में कौन-सा कारक है?",
+          "opts_hi": [
+            "कर्म कारक",
+            "संप्रदान कारक",
+            "कर्ता कारक",
+            "संबोधन कारक"
+          ],
+          "exp_hi": "किसी को पुकारने या संबोधित करने वाले शब्द में संबोधन कारक होता है, जिसमें 'हे', 'अरे', 'ओ' आदि चिह्न लगते हैं।"
+        },
+        {
+          "q": "'आशा' शब्द का विलोम कौन-सा है?",
+          "opts": [
+            "निराशा",
+            "अपेक्षा",
+            "विश्वास",
+            "इच्छा"
+          ],
+          "ans": 0,
+          "subject": "Hindi Language",
+          "exp_en": "'आशा' का विलोम 'निराशा' है।",
+          "topic": "विलोम शब्द",
+          "difficulty": "Easy",
+          "q_hi": "'आशा' शब्द का विलोम कौन-सा है?",
+          "opts_hi": [
+            "निराशा",
+            "अपेक्षा",
+            "विश्वास",
+            "इच्छा"
+          ],
+          "exp_hi": "'आशा' का विलोम 'निराशा' है।"
+        },
+        {
+          "q": "Choose the correct option to fill in the blank: She was very tired, ______ she finished her homework.",
+          "opts": [
+            "but",
+            "unless",
+            "so that",
+            "because"
+          ],
+          "ans": 0,
+          "subject": "English Language",
+          "exp_en": "The sentence needs a conjunction showing contrast between being tired and finishing homework, so 'but' is correct.",
+          "topic": "Modals and conjunctions",
+          "difficulty": "Easy"
+        },
+        {
+          "q": "Choose the correct indirect speech for: The teacher said, \"The sun rises in the east.\"",
+          "opts": [
+            "The teacher said that the sun was rising in the east.",
+            "The teacher said that the sun had risen in the east.",
+            "The teacher said that the sun rose in the east.",
+            "The teacher said that the sun rises in the east."
+          ],
+          "ans": 3,
+          "subject": "English Language",
+          "exp_en": "A universal truth keeps its present tense in indirect speech even when the reporting verb is in the past tense.",
+          "topic": "Direct and indirect speech",
+          "difficulty": "Medium"
+        },
+        {
+          "q": "Choose the correctly spelt word.",
+          "opts": [
+            "Occurence",
+            "Occurance",
+            "Ocurrence",
+            "Occurrence"
+          ],
+          "ans": 3,
+          "subject": "English Language",
+          "exp_en": "'Occurrence' has double 'c' and double 'r'.",
+          "topic": "Spelling",
+          "difficulty": "Easy"
+        },
+        {
+          "q": "Choose the correct passive voice of: The children have finished the project.",
+          "opts": [
+            "The project had been finished by the children.",
+            "The project is finished by the children.",
+            "The project was finished by the children.",
+            "The project has been finished by the children."
+          ],
+          "ans": 3,
+          "subject": "English Language",
+          "exp_en": "Present perfect active 'have finished' becomes 'has been finished' in the passive, with the object 'project' as the singular subject.",
+          "topic": "Active and passive voice",
+          "difficulty": "Medium"
+        },
+        {
+          "q": "Which sentence correctly uses a modal verb to express a deduction about a past event?",
+          "opts": [
+            "He must have forgotten his keys, because he is knocking at the door.",
+            "He must had forgotten his keys, because he is knocking at the door.",
+            "He must has forgotten his keys, because he is knocking at the door.",
+            "He must forget his keys, because he is knocking at the door."
+          ],
+          "ans": 0,
+          "subject": "English Language",
+          "exp_en": "'Must have + past participle' expresses a logical deduction about a past event; the other options use incorrect verb forms.",
+          "topic": "Modals and conjunctions",
+          "difficulty": "Hard"
+        },
+        {
+          "q": "Which of the following is a receptive skill in language learning?",
+          "opts": [
+            "Writing",
+            "Listening",
+            "Drawing a picture",
+            "Speaking"
+          ],
+          "ans": 1,
+          "subject": "English Language",
+          "exp_en": "Listening and reading are receptive skills because the learner receives and understands language, while speaking and writing are productive skills.",
+          "topic": "LSRW and language acquisition",
+          "difficulty": "Easy"
+        },
+        {
+          "q": "Choose the correct meaning of the idiom 'A blessing in disguise'.",
+          "opts": [
+            "A prayer said in secret",
+            "A person who hides his identity",
+            "Something good that seems bad at first",
+            "A hidden curse"
+          ],
+          "ans": 2,
+          "subject": "English Language",
+          "exp_en": "'A blessing in disguise' means something that appears unfortunate at first but later turns out to be beneficial.",
+          "topic": "Idioms and phrases",
+          "difficulty": "Easy"
+        },
+        {
+          "q": "Choose the one word for: 'A person who is present everywhere at the same time'.",
+          "opts": [
+            "Omnipresent",
+            "Omnipotent",
+            "Omniscient",
+            "Omnivorous"
+          ],
+          "ans": 0,
+          "subject": "English Language",
+          "exp_en": "'Omnipresent' means present everywhere; omniscient means all-knowing, omnipotent means all-powerful, and omnivorous means eating both plants and animals.",
+          "topic": "One-word substitution",
+          "difficulty": "Medium"
+        },
+        {
+          "q": "Which of the following activities best helps Class 3 children to build their English vocabulary?",
+          "opts": [
+            "Matching picture cards with word cards in a group game",
+            "Copying words from a dictionary",
+            "Memorising a list of 50 words overnight",
+            "Punishing children for every wrong word"
+          ],
+          "ans": 0,
+          "subject": "English Language",
+          "exp_en": "Games with pictures and words give meaningful, enjoyable practice, which builds vocabulary better than copying or rote memorisation.",
+          "topic": "Pedagogy of English",
+          "difficulty": "Medium"
+        },
+        {
+          "q": "Choose the word opposite in meaning to 'VICTORY'.",
+          "opts": [
+            "Defeat",
+            "Triumph",
+            "Success",
+            "Win"
+          ],
+          "ans": 0,
+          "subject": "English Language",
+          "exp_en": "'Victory' means winning, and its opposite is 'defeat'. 'Triumph', 'success' and 'win' are similar in meaning.",
+          "topic": "Antonyms",
+          "difficulty": "Easy"
+        },
+        {
+          "q": "Choose the word that is most nearly SAME in meaning to the word 'DILIGENT'.",
+          "opts": [
+            "Hardworking",
+            "Lazy",
+            "Careless",
+            "Clever"
+          ],
+          "ans": 0,
+          "subject": "English Language",
+          "exp_en": "'Diligent' means showing careful and persistent effort, which is 'hardworking'. 'Careless' and 'lazy' are opposites, and 'clever' refers to intelligence, not effort.",
+          "topic": "Synonyms",
+          "difficulty": "Medium"
+        },
+        {
+          "q": "Choose the correct preposition to fill in the blank: The teacher congratulated the student ______ his success in the examination.",
+          "opts": [
+            "for",
+            "on",
+            "at",
+            "with"
+          ],
+          "ans": 1,
+          "subject": "English Language",
+          "exp_en": "The verb 'congratulate' takes 'on' with the achievement: 'congratulate someone on something'.",
+          "topic": "Prepositions",
+          "difficulty": "Medium"
+        },
+        {
+          "q": "Choose the grammatically correct sentence.",
+          "opts": [
+            "She sings good.",
+            "She singing well.",
+            "She sing well.",
+            "She sings well."
+          ],
+          "ans": 3,
+          "subject": "English Language",
+          "exp_en": "An adverb 'well' is used to describe the verb 'sings', and the singular subject takes 'sings'.",
+          "topic": "Adverbs",
+          "difficulty": "Easy"
+        },
+        {
+          "q": "A Class 2 teacher first lets children listen to a short story and speak about it, and only later introduces reading and writing of the same words. Which principle of language teaching does this best follow?",
+          "opts": [
+            "Translation should be the main method of teaching",
+            "Grammar rules should be memorised before listening",
+            "Listening and speaking should precede reading and writing",
+            "Writing should be taught before speaking"
+          ],
+          "ans": 2,
+          "subject": "English Language",
+          "exp_en": "The natural order of language learning is listening, speaking, reading, then writing, so young learners build oral familiarity before print.",
+          "topic": "English language teaching: LSRW and language acquisition",
+          "difficulty": "Medium"
+        },
+        {
+          "q": "Choose the correct option: 'If it rains tomorrow, we ____ the picnic.'",
+          "opts": [
+            "cancelled",
+            "will cancel",
+            "would cancelled",
+            "are cancel"
+          ],
+          "ans": 1,
+          "subject": "English Language",
+          "exp_en": "In a first conditional sentence, the 'if' clause is in the present tense and the main clause takes 'will' plus the base verb.",
+          "topic": "Conditionals",
+          "difficulty": "Medium"
+        },
+        {
+          "q": "A Class 4 teacher notices that a child says 'I goed to the market' while speaking English. Which response is most appropriate according to sound language-learning principles?",
+          "opts": [
+            "Punish the child so that the mistake is not repeated",
+            "Tell the child to stop speaking until grammar rules are learnt",
+            "Respond naturally with 'Oh, you went to the market? What did you buy?' and continue the conversation",
+            "Ask the child to write the correct form fifty times"
+          ],
+          "ans": 2,
+          "subject": "English Language",
+          "exp_en": "Such errors show the child is applying a rule (overgeneralisation), and a gentle recast models the correct form without discouraging communication.",
+          "topic": "English Language Teaching: LSRW and Language Acquisition",
+          "difficulty": "Medium"
+        },
+        {
+          "q": "Choose the correct meaning of the phrase 'to cry over spilt milk'.",
+          "opts": [
+            "To complain loudly to get attention",
+            "To waste food through carelessness",
+            "To feel sorry about something that cannot be undone",
+            "To pretend to be sad in front of others"
+          ],
+          "ans": 2,
+          "subject": "English Language",
+          "exp_en": "The idiom means to grieve or regret a loss or mistake that is already done and cannot be corrected.",
+          "topic": "Idioms and Phrases",
+          "difficulty": "Hard"
+        },
+        {
+          "q": "Choose the correct article(s) to fill in the blank: My brother works in ______ university in Lucknow, and he travels there by ______ auto every day.",
+          "opts": [
+            "a; an",
+            "an; an",
+            "a; the",
+            "an; a"
+          ],
+          "ans": 0,
+          "subject": "English Language",
+          "exp_en": "'University' begins with the consonant sound /j/, so it takes 'a', and 'auto' begins with a vowel sound, so it takes 'an'. Correct pair is therefore 'a; an'.",
+          "topic": "Articles",
+          "difficulty": "Easy"
+        },
+        {
+          "q": "The length of a rectangular field is 24 m and its breadth is 16 m. What is the perimeter of the field?",
+          "opts": [
+            "80 m",
+            "40 m",
+            "60 m",
+            "384 m"
+          ],
+          "ans": 0,
+          "subject": "Mathematics",
+          "exp_en": "Perimeter = 2 x (24 + 16) = 2 x 40 = 80 m.",
+          "topic": "Perimeter and Area",
+          "difficulty": "Easy",
+          "q_hi": "एक आयताकार खेत की लंबाई 24 मी और चौड़ाई 16 मी है। खेत का परिमाप कितना है?",
+          "opts_hi": [
+            "80 मी",
+            "40 मी",
+            "60 मी",
+            "384 मी"
+          ],
+          "exp_hi": "परिमाप = 2 x (24 + 16) = 2 x 40 = 80 मी।"
+        },
+        {
+          "q": "What is the value of 3/4 + 1/8?",
+          "opts": [
+            "1/2",
+            "4/12",
+            "7/8",
+            "5/8"
+          ],
+          "ans": 2,
+          "subject": "Mathematics",
+          "exp_en": "3/4 = 6/8, so 6/8 + 1/8 = 7/8.",
+          "topic": "Fractions and Decimals",
+          "difficulty": "Easy",
+          "q_hi": "3/4 + 1/8 का मान क्या है?",
+          "opts_hi": [
+            "1/2",
+            "4/12",
+            "7/8",
+            "5/8"
+          ],
+          "exp_hi": "3/4 = 6/8, अतः 6/8 + 1/8 = 7/8।"
+        },
+        {
+          "q": "A cuboidal tank is 2 m long, 1.5 m wide and 1 m deep. How many litres of water can it hold when full? (1 m³ = 1000 litres)",
+          "opts": [
+            "300 litres",
+            "30000 litres",
+            "3000 litres",
+            "4500 litres"
+          ],
+          "ans": 2,
+          "subject": "Mathematics",
+          "exp_en": "Volume = 2 x 1.5 x 1 = 3 m³ = 3 x 1000 = 3000 litres.",
+          "topic": "Volume",
+          "difficulty": "Medium",
+          "q_hi": "एक घनाभाकार टंकी 2 मी लंबी, 1.5 मी चौड़ी और 1 मी गहरी है। पूरी भरी होने पर इसमें कितने लीटर पानी आएगा? (1 मी³ = 1000 लीटर)",
+          "opts_hi": [
+            "300 लीटर",
+            "30000 लीटर",
+            "3000 लीटर",
+            "4500 लीटर"
+          ],
+          "exp_hi": "आयतन = 2 x 1.5 x 1 = 3 मी³ = 3 x 1000 = 3000 लीटर।"
+        },
+        {
+          "q": "A Class 4 teacher wants students to understand why 1/2 is greater than 1/3 rather than just memorise the rule. Which approach is most appropriate?",
+          "opts": [
+            "Ask students to memorise that a smaller denominator means a larger fraction",
+            "Give many written exercises comparing fractions without discussion",
+            "Let students fold two identical paper strips into 2 and 3 equal parts and compare the shaded portions",
+            "Tell students to convert all fractions to decimals using a calculator"
+          ],
+          "ans": 2,
+          "subject": "Mathematics",
+          "exp_en": "Concrete, hands-on materials let children see that equal wholes split into fewer parts give larger parts, building conceptual understanding.",
+          "topic": "Pedagogy of Mathematics",
+          "difficulty": "Hard",
+          "q_hi": "कक्षा 4 का एक शिक्षक चाहता है कि विद्यार्थी केवल नियम रटने के बजाय यह समझें कि 1/2, 1/3 से बड़ा क्यों है। कौन सा उपागम सबसे उपयुक्त है?",
+          "opts_hi": [
+            "विद्यार्थियों से रटवाना कि छोटा हर होने पर भिन्न बड़ी होती है",
+            "बिना चर्चा के भिन्नों की तुलना के अनेक लिखित अभ्यास देना",
+            "विद्यार्थियों से एक जैसी दो कागज़ की पट्टियों को 2 और 3 बराबर भागों में मोड़वाकर छायांकित भागों की तुलना करवाना",
+            "सभी भिन्नों को कैलकुलेटर से दशमलव में बदलने को कहना"
+          ],
+          "exp_hi": "मूर्त सामग्री से बच्चे देखते हैं कि समान पूर्ण को कम भागों में बाँटने पर प्रत्येक भाग बड़ा होता है, जिससे अवधारणात्मक समझ बनती है।"
+        },
+        {
+          "q": "What is the next number in the series 3, 6, 12, 24, ...?",
+          "opts": [
+            "48",
+            "30",
+            "42",
+            "36"
+          ],
+          "ans": 0,
+          "subject": "Mathematics",
+          "exp_en": "Each term is double the previous term, so the next term is 24 x 2 = 48.",
+          "topic": "Patterns and series",
+          "difficulty": "Easy",
+          "q_hi": "श्रृंखला 3, 6, 12, 24, ... में अगली संख्या क्या होगी?",
+          "opts_hi": [
+            "48",
+            "30",
+            "42",
+            "36"
+          ],
+          "exp_hi": "प्रत्येक पद पिछले पद का दुगुना है, अतः अगला पद 24 x 2 = 48 है।"
+        },
+        {
+          "q": "A number is multiplied by 6 and then 4 is added to the result. The final answer is 40. What is the number?",
+          "opts": [
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          "ans": 1,
+          "subject": "Mathematics",
+          "exp_en": "6 x number + 4 = 40, so 6 x number = 36 and the number = 6.",
+          "topic": "Algebraic thinking",
+          "difficulty": "Medium",
+          "q_hi": "किसी संख्या को 6 से गुणा करके परिणाम में 4 जोड़ा जाता है। अंतिम उत्तर 40 आता है। वह संख्या क्या है?",
+          "opts_hi": [
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          "exp_hi": "6 x संख्या + 4 = 40, अतः 6 x संख्या = 36 और संख्या = 6।"
+        },
+        {
+          "q": "A Class 3 teacher notices that many children can correctly recite the 6 times table but cannot say how many legs 6 spiders have in all (8 legs each). Which approach would best address this gap?",
+          "opts": [
+            "Ask children to write each table ten times as homework",
+            "Give a timed test of tables every day",
+            "Use concrete objects and everyday situations to connect repeated groups with multiplication",
+            "Teach the rule 'multiply' as a keyword to look for in word problems"
+          ],
+          "ans": 2,
+          "subject": "Mathematics",
+          "exp_en": "The children have memorised procedure without meaning; concrete, contextual experiences build understanding of multiplication as repeated equal groups.",
+          "topic": "Pedagogy of mathematics",
+          "difficulty": "Hard",
+          "q_hi": "कक्षा 3 के एक शिक्षक देखते हैं कि कई बच्चे 6 का पहाड़ा सही बोल लेते हैं, पर यह नहीं बता पाते कि 6 मकड़ियों के कुल कितने पैर हैं (प्रत्येक के 8 पैर)। इस कमी को दूर करने के लिए कौन-सा उपागम सर्वोत्तम होगा?",
+          "opts_hi": [
+            "बच्चों को गृहकार्य में प्रत्येक पहाड़ा दस-दस बार लिखवाना",
+            "प्रतिदिन पहाड़ों की समयबद्ध परीक्षा लेना",
+            "समान समूहों को गुणा से जोड़ने के लिए मूर्त वस्तुओं और दैनिक जीवन की स्थितियों का उपयोग करना",
+            "शब्द-समस्याओं में 'गुणा' को संकेत-शब्द की तरह ढूँढना सिखाना"
+          ],
+          "exp_hi": "बच्चों ने अर्थ समझे बिना केवल रटा है; मूर्त और संदर्भयुक्त अनुभव गुणा को समान समूहों के बार-बार जोड़ के रूप में समझने में सहायक होते हैं।"
+        },
+        {
+          "q": "A shopkeeper marks an article at Rs 800 and allows a discount of 15%. If he still gains 20% on the cost price, what is the cost price of the article?",
+          "opts": [
+            "Rs 680",
+            "Rs 566.67",
+            "Rs 600",
+            "Rs 540"
+          ],
+          "ans": 1,
+          "subject": "Mathematics",
+          "exp_en": "Selling price = 800 x 85/100 = 680. Cost price x 120/100 = 680, so cost price = 680 x 100/120 = 566.67 (approx).",
+          "topic": "Profit and Loss",
+          "difficulty": "Medium",
+          "q_hi": "एक दुकानदार किसी वस्तु का अंकित मूल्य 800 रुपये रखता है और 15% की छूट देता है। यदि फिर भी उसे क्रय मूल्य पर 20% लाभ होता है, तो वस्तु का क्रय मूल्य कितना है?",
+          "opts_hi": [
+            "680 रुपये",
+            "566.67 रुपये",
+            "600 रुपये",
+            "540 रुपये"
+          ],
+          "exp_hi": "विक्रय मूल्य = 800 x 85/100 = 680। क्रय मूल्य x 120/100 = 680, अतः क्रय मूल्य = 680 x 100/120 = 566.67 (लगभग)।"
+        },
+        {
+          "q": "Three bells ring at intervals of 12, 15 and 20 minutes respectively. They ring together at 8:00 a.m. At what time will they next ring together?",
+          "opts": [
+            "9:30 a.m.",
+            "8:30 a.m.",
+            "10:00 a.m.",
+            "9:00 a.m."
+          ],
+          "ans": 3,
+          "subject": "Mathematics",
+          "exp_en": "LCM of 12, 15, 20 = 2² x 3 x 5 = 60 minutes. So they ring together again after 1 hour, at 9:00 a.m.",
+          "topic": "HCF and LCM",
+          "difficulty": "Hard",
+          "q_hi": "तीन घंटियाँ क्रमशः 12, 15 और 20 मिनट के अंतराल पर बजती हैं। वे सुबह 8:00 बजे एक साथ बजती हैं। अगली बार वे एक साथ कितने बजे बजेंगी?",
+          "opts_hi": [
+            "सुबह 9:30 बजे",
+            "सुबह 8:30 बजे",
+            "सुबह 10:00 बजे",
+            "सुबह 9:00 बजे"
+          ],
+          "exp_hi": "12, 15, 20 का LCM = 2² x 3 x 5 = 60 मिनट। अतः वे 1 घंटे बाद, यानी सुबह 9:00 बजे फिर साथ बजेंगी।"
+        },
+        {
+          "q": "A trader buys a fan for Rs 1,250 and sells it for Rs 1,500. What is his profit percent?",
+          "opts": [
+            "20%",
+            "25%",
+            "16²/₃%",
+            "15%"
+          ],
+          "ans": 0,
+          "subject": "Mathematics",
+          "exp_en": "Profit = 1500 - 1250 = Rs 250. Profit % = (250/1250) x 100 = 20%.",
+          "topic": "Profit and Loss",
+          "difficulty": "Easy",
+          "q_hi": "एक व्यापारी एक पंखा Rs 1,250 में खरीदता है और Rs 1,500 में बेच देता है। उसका लाभ प्रतिशत क्या है?",
+          "opts_hi": [
+            "20%",
+            "25%",
+            "16²/₃%",
+            "15%"
+          ],
+          "exp_hi": "लाभ = 1500 - 1250 = Rs 250। लाभ % = (250/1250) x 100 = 20%।"
+        },
+        {
+          "q": "The marks obtained by 5 students in a test are 12, 15, 18, 10 and 20. If a sixth student is included, the mean of all six becomes 16. How many marks did the sixth student get?",
+          "opts": [
+            "22",
+            "19",
+            "21",
+            "20"
+          ],
+          "ans": 2,
+          "subject": "Mathematics",
+          "exp_en": "Total of six = 16 x 6 = 96. Sum of five = 12+15+18+10+20 = 75. Sixth = 96 - 75 = 21.",
+          "topic": "Data Handling",
+          "difficulty": "Medium",
+          "q_hi": "एक परीक्षा में 5 विद्यार्थियों के प्राप्तांक 12, 15, 18, 10 और 20 हैं। यदि छठे विद्यार्थी को शामिल कर लिया जाए तो सभी छह का माध्य 16 हो जाता है। छठे विद्यार्थी के प्राप्तांक कितने हैं?",
+          "opts_hi": [
+            "22",
+            "19",
+            "21",
+            "20"
+          ],
+          "exp_hi": "छह का कुल योग = 16 x 6 = 96। पाँच का योग = 12+15+18+10+20 = 75। छठा = 96 - 75 = 21।"
+        },
+        {
+          "q": "A rectangular garden is 30 m long and 20 m wide. A path 2 m wide is built all around it on the outside. What is the area of the path?",
+          "opts": [
+            "200 m²",
+            "216 m²",
+            "224 m²",
+            "240 m²"
+          ],
+          "ans": 1,
+          "subject": "Mathematics",
+          "exp_en": "Outer rectangle = (30+4) x (20+4) = 34 x 24 = 816 m². Garden = 600 m². Path = 816 - 600 = 216 m².",
+          "topic": "Perimeter, Area and Volume",
+          "difficulty": "Hard",
+          "q_hi": "एक आयताकार बगीचा 30 m लंबा और 20 m चौड़ा है। उसके बाहर चारों ओर 2 m चौड़ा रास्ता बनाया गया है। रास्ते का क्षेत्रफल कितना है?",
+          "opts_hi": [
+            "200 m²",
+            "216 m²",
+            "224 m²",
+            "240 m²"
+          ],
+          "exp_hi": "बाहरी आयत = (30+4) x (20+4) = 34 x 24 = 816 m²। बगीचा = 600 m²। रास्ता = 816 - 600 = 216 m²।"
+        },
+        {
+          "q": "In an examination, a student needs 40% marks to pass. He scored 130 marks and failed by 30 marks. What are the maximum marks of the examination?",
+          "opts": [
+            "500",
+            "350",
+            "450",
+            "400"
+          ],
+          "ans": 3,
+          "subject": "Mathematics",
+          "exp_en": "Passing marks = 130 + 30 = 160. So 40% of total = 160, total = 160 x 100/40 = 400.",
+          "topic": "Percentage",
+          "difficulty": "Medium",
+          "q_hi": "एक परीक्षा में उत्तीर्ण होने के लिए 40% अंक चाहिए। एक विद्यार्थी ने 130 अंक प्राप्त किए और 30 अंकों से अनुत्तीर्ण हो गया। परीक्षा के पूर्णांक कितने हैं?",
+          "opts_hi": [
+            "500",
+            "350",
+            "450",
+            "400"
+          ],
+          "exp_hi": "उत्तीर्ण अंक = 130 + 30 = 160। अतः कुल अंक का 40% = 160, कुल अंक = 160 x 100/40 = 400।"
+        },
+        {
+          "q": "A Class 5 teacher wants children to understand the area of a rectangle rather than only memorise 'length x breadth'. Which activity is most suitable?",
+          "opts": [
+            "Give a long list of area problems to solve at home without discussion",
+            "Ask children to copy the formula ten times in their notebooks",
+            "Let children cover rectangles with unit square tiles, count the squares, and relate rows and columns to the formula",
+            "Tell the formula and immediately test with a written quiz"
+          ],
+          "ans": 2,
+          "subject": "Mathematics",
+          "exp_en": "Concrete tiling lets children discover that the number of squares equals rows x columns, building conceptual understanding before the formula.",
+          "topic": "Pedagogy of Mathematics",
+          "difficulty": "Medium",
+          "q_hi": "कक्षा 5 का एक शिक्षक चाहता है कि बच्चे आयत का क्षेत्रफल केवल 'लंबाई x चौड़ाई' रटने के बजाय समझें। निम्नलिखित में से कौन-सी गतिविधि सबसे उपयुक्त है?",
+          "opts_hi": [
+            "बिना चर्चा के घर पर हल करने के लिए क्षेत्रफल के प्रश्नों की लंबी सूची देना",
+            "बच्चों से सूत्र को अपनी कॉपी में दस बार लिखवाना",
+            "बच्चों को इकाई वर्ग टाइलों से आयत ढकने, वर्ग गिनने और पंक्तियों व स्तंभों को सूत्र से जोड़ने देना",
+            "सूत्र बताकर तुरंत लिखित प्रश्नोत्तरी लेना"
+          ],
+          "exp_hi": "ठोस वस्तुओं से ढकने पर बच्चे स्वयं खोजते हैं कि वर्गों की संख्या = पंक्तियाँ x स्तंभ, जिससे सूत्र से पहले अवधारणात्मक समझ बनती है।"
+        },
+        {
+          "q": "A car travels at a uniform speed of 60 km/h. How far will it travel in 2 hours 30 minutes?",
+          "opts": [
+            "140 km",
+            "120 km",
+            "150 km",
+            "180 km"
+          ],
+          "ans": 2,
+          "subject": "Mathematics",
+          "exp_en": "Distance = speed x time = 60 x 2.5 = 150 km.",
+          "topic": "Time, speed and distance",
+          "difficulty": "Easy",
+          "q_hi": "एक कार 60 किमी/घंटा की एकसमान चाल से चलती है। वह 2 घंटे 30 मिनट में कितनी दूरी तय करेगी?",
+          "opts_hi": [
+            "140 किमी",
+            "120 किमी",
+            "150 किमी",
+            "180 किमी"
+          ],
+          "exp_hi": "दूरी = चाल x समय = 60 x 2.5 = 150 किमी।"
+        },
+        {
+          "q": "What is the value of 0.6 + 0.35 + 2.05?",
+          "opts": [
+            "2.95",
+            "2.90",
+            "3.00",
+            "3.10"
+          ],
+          "ans": 2,
+          "subject": "Mathematics",
+          "exp_en": "0.60 + 0.35 = 0.95, and 0.95 + 2.05 = 3.00.",
+          "topic": "Fractions and decimals",
+          "difficulty": "Easy",
+          "q_hi": "0.6 + 0.35 + 2.05 का मान क्या है?",
+          "opts_hi": [
+            "2.95",
+            "2.90",
+            "3.00",
+            "3.10"
+          ],
+          "exp_hi": "0.60 + 0.35 = 0.95 और 0.95 + 2.05 = 3.00।"
+        },
+        {
+          "q": "The ages of two sisters are in the ratio 3 : 5 and their total age is 40 years. What is the age of the younger sister?",
+          "opts": [
+            "12 years",
+            "15 years",
+            "20 years",
+            "25 years"
+          ],
+          "ans": 1,
+          "subject": "Mathematics",
+          "exp_en": "Total parts = 3 + 5 = 8, so one part = 40/8 = 5 years. Younger sister = 3 x 5 = 15 years.",
+          "topic": "Ratio and proportion",
+          "difficulty": "Medium",
+          "q_hi": "दो बहनों की आयु का अनुपात 3 : 5 है और उनकी कुल आयु 40 वर्ष है। छोटी बहन की आयु कितनी है?",
+          "opts_hi": [
+            "12 वर्ष",
+            "15 वर्ष",
+            "20 वर्ष",
+            "25 वर्ष"
+          ],
+          "exp_hi": "कुल भाग = 3 + 5 = 8, अतः एक भाग = 40/8 = 5 वर्ष। छोटी बहन = 3 x 5 = 15 वर्ष।"
+        },
+        {
+          "q": "10 men can complete a piece of work in 12 days. In how many days will 15 men complete the same work?",
+          "opts": [
+            "6 days",
+            "8 days",
+            "9 days",
+            "18 days"
+          ],
+          "ans": 1,
+          "subject": "Mathematics",
+          "exp_en": "Total work = 10 x 12 = 120 man-days, so 15 men need 120/15 = 8 days.",
+          "topic": "Time and work",
+          "difficulty": "Medium",
+          "q_hi": "10 आदमी एक काम को 12 दिन में पूरा कर सकते हैं। 15 आदमी उसी काम को कितने दिन में पूरा करेंगे?",
+          "opts_hi": [
+            "6 दिन",
+            "8 दिन",
+            "9 दिन",
+            "18 दिन"
+          ],
+          "exp_hi": "कुल कार्य = 10 x 12 = 120 आदमी-दिन, अतः 15 आदमी को 120/15 = 8 दिन लगेंगे।"
+        },
+        {
+          "q": "What is 0.75 written as a fraction in its simplest form?",
+          "opts": [
+            "3/4",
+            "3/5",
+            "75/10",
+            "7/5"
+          ],
+          "ans": 0,
+          "subject": "Mathematics",
+          "exp_en": "0.75 = 75/100; dividing numerator and denominator by 25 gives 3/4.",
+          "topic": "Fractions and decimals",
+          "difficulty": "Easy",
+          "q_hi": "0.75 को उसके सरलतम रूप में भिन्न के रूप में लिखिए।",
+          "opts_hi": [
+            "3/4",
+            "3/5",
+            "75/10",
+            "7/5"
+          ],
+          "exp_hi": "0.75 = 75/100; अंश और हर को 25 से भाग देने पर 3/4 मिलता है।"
+        },
+        {
+          "q": "A fruit seller has 480 mangoes and sells 25% of them. How many mangoes are left?",
+          "opts": [
+            "120",
+            "360",
+            "300",
+            "380"
+          ],
+          "ans": 1,
+          "subject": "Mathematics",
+          "exp_en": "25% of 480 = 120 mangoes are sold, so 480 - 120 = 360 are left.",
+          "topic": "Percentage",
+          "difficulty": "Easy",
+          "q_hi": "एक फल विक्रेता के पास 480 आम हैं और वह उनका 25% बेच देता है। कितने आम बचे?",
+          "opts_hi": [
+            "120",
+            "360",
+            "300",
+            "380"
+          ],
+          "exp_hi": "480 का 25% = 120 आम बिके, अतः 480 - 120 = 360 आम बचे।"
+        },
+        {
+          "q": "What is the area of a circle of radius 7 cm? (Take pi = 22/7)",
+          "opts": [
+            "44 cm²",
+            "154 cm²",
+            "49 cm²",
+            "308 cm²"
+          ],
+          "ans": 1,
+          "subject": "Mathematics",
+          "exp_en": "Area = pi x r x r = 22/7 x 7 x 7 = 154 cm².",
+          "topic": "Perimeter, area and volume",
+          "difficulty": "Medium",
+          "q_hi": "7 सेमी त्रिज्या वाले वृत्त का क्षेत्रफल कितना है? (pi = 22/7 लें)",
+          "opts_hi": [
+            "44 सेमी²",
+            "154 सेमी²",
+            "49 सेमी²",
+            "308 सेमी²"
+          ],
+          "exp_hi": "क्षेत्रफल = pi x r x r = 22/7 x 7 x 7 = 154 सेमी²।"
+        },
+        {
+          "q": "What is 35% of 240?",
+          "opts": [
+            "96",
+            "84",
+            "72",
+            "80"
+          ],
+          "ans": 1,
+          "subject": "Mathematics",
+          "exp_en": "35% of 240 = 35 x 240 / 100 = 84.",
+          "topic": "Percentage",
+          "difficulty": "Easy",
+          "q_hi": "240 का 35% कितना होता है?",
+          "opts_hi": [
+            "96",
+            "84",
+            "72",
+            "80"
+          ],
+          "exp_hi": "240 का 35% = 35 x 240 / 100 = 84।"
+        },
+        {
+          "q": "A sum of Rs 5,000 earns a simple interest of Rs 1,200 in 4 years. What is the rate of interest per annum?",
+          "opts": [
+            "6%",
+            "7.5%",
+            "5%",
+            "8%"
+          ],
+          "ans": 0,
+          "subject": "Mathematics",
+          "exp_en": "R = (SI x 100) / (P x T) = (1200 x 100) / (5000 x 4) = 6%.",
+          "topic": "Simple interest",
+          "difficulty": "Medium",
+          "q_hi": "Rs 5,000 की धनराशि पर 4 वर्ष में Rs 1,200 साधारण ब्याज मिलता है। वार्षिक ब्याज दर क्या है?",
+          "opts_hi": [
+            "6%",
+            "7.5%",
+            "5%",
+            "8%"
+          ],
+          "exp_hi": "दर = (SI x 100) / (P x T) = (1200 x 100) / (5000 x 4) = 6%।"
+        },
+        {
+          "q": "In a class, 60% of the students are girls. If there are 18 boys, how many students are there in the class?",
+          "opts": [
+            "30",
+            "45",
+            "48",
+            "40"
+          ],
+          "ans": 1,
+          "subject": "Mathematics",
+          "exp_en": "Boys are 40% of the total, so total = 18 x 100 / 40 = 45.",
+          "topic": "Percentage",
+          "difficulty": "Hard",
+          "q_hi": "एक कक्षा में 60% विद्यार्थी लड़कियाँ हैं। यदि लड़कों की संख्या 18 है, तो कक्षा में कुल कितने विद्यार्थी हैं?",
+          "opts_hi": [
+            "30",
+            "45",
+            "48",
+            "40"
+          ],
+          "exp_hi": "लड़के कुल का 40% हैं, अतः कुल = 18 x 100 / 40 = 45।"
+        },
+        {
+          "q": "Which is the largest organ of the human body?",
+          "opts": [
+            "Heart",
+            "Liver",
+            "Skin",
+            "Lungs"
+          ],
+          "ans": 2,
+          "subject": "Environmental Studies",
+          "exp_en": "The skin covers the whole body and is the largest organ of the human body.",
+          "topic": "Human body",
+          "difficulty": "Easy",
+          "q_hi": "मानव शरीर का सबसे बड़ा अंग कौन-सा है?",
+          "opts_hi": [
+            "हृदय",
+            "यकृत",
+            "त्वचा",
+            "फेफड़े"
+          ],
+          "exp_hi": "त्वचा पूरे शरीर को ढकती है और मानव शरीर का सबसे बड़ा अंग है।"
+        },
+        {
+          "q": "The process by which green plants prepare their food using sunlight is called:",
+          "opts": [
+            "Respiration",
+            "Transpiration",
+            "Digestion",
+            "Photosynthesis"
+          ],
+          "ans": 3,
+          "subject": "Environmental Studies",
+          "exp_en": "Green plants make food from carbon dioxide and water in the presence of sunlight and chlorophyll, and this process is photosynthesis.",
+          "topic": "Plants and animals",
+          "difficulty": "Easy",
+          "q_hi": "जिस प्रक्रिया से हरे पौधे सूर्य के प्रकाश की सहायता से अपना भोजन बनाते हैं, उसे क्या कहते हैं?",
+          "opts_hi": [
+            "श्वसन",
+            "वाष्पोत्सर्जन",
+            "पाचन",
+            "प्रकाश-संश्लेषण"
+          ],
+          "exp_hi": "हरे पौधे सूर्य के प्रकाश और क्लोरोफिल की उपस्थिति में कार्बन डाइऑक्साइड और जल से भोजन बनाते हैं, यह प्रक्रिया प्रकाश-संश्लेषण है।"
+        },
+        {
+          "q": "Which of the following animals gives us wool?",
+          "opts": [
+            "Cow",
+            "Sheep",
+            "Hen",
+            "Buffalo"
+          ],
+          "ans": 1,
+          "subject": "Environmental Studies",
+          "exp_en": "Wool is obtained from the hair of sheep, which is cleaned, spun into yarn and woven or knitted.",
+          "topic": "Animals and their uses",
+          "difficulty": "Easy",
+          "q_hi": "निम्नलिखित में से कौन-सा जंतु हमें ऊन देता है?",
+          "opts_hi": [
+            "गाय",
+            "भेड़",
+            "मुर्गी",
+            "भैंस"
+          ],
+          "exp_hi": "ऊन भेड़ के बालों से मिलती है, जिसे साफ़ करके सूत में कातकर बुना या गूँथा जाता है।"
+        },
+        {
+          "q": "Which direction is opposite to the direction in which the Sun rises?",
+          "opts": [
+            "North",
+            "North-East",
+            "West",
+            "South"
+          ],
+          "ans": 2,
+          "subject": "Environmental Studies",
+          "exp_en": "The Sun rises in the east, and the direction opposite to east is west.",
+          "topic": "Our country, maps and community helpers",
+          "difficulty": "Easy",
+          "q_hi": "सूर्य जिस दिशा में उगता है, उसकी विपरीत दिशा कौन-सी है?",
+          "opts_hi": [
+            "उत्तर",
+            "उत्तर-पूर्व",
+            "पश्चिम",
+            "दक्षिण"
+          ],
+          "exp_hi": "सूर्य पूर्व में उगता है और पूर्व की विपरीत दिशा पश्चिम होती है."
+        },
+        {
+          "q": "Through which tiny pores on the surface of leaves do plants mainly exchange gases and lose water vapour during transpiration?",
+          "opts": [
+            "Stomata",
+            "Root hairs",
+            "Lenticels of roots",
+            "Veins"
+          ],
+          "ans": 0,
+          "subject": "Environmental Studies",
+          "exp_en": "Stomata are tiny pores on leaves, usually on the underside, that allow gas exchange and release water vapour in transpiration.",
+          "topic": "Plants and animals",
+          "difficulty": "Medium",
+          "q_hi": "पौधे पत्तियों की सतह पर स्थित किन सूक्ष्म छिद्रों से मुख्यतः गैसों का आदान-प्रदान करते हैं और वाष्पोत्सर्जन में जलवाष्प छोड़ते हैं?",
+          "opts_hi": [
+            "रंध्र (स्टोमेटा)",
+            "मूल रोम",
+            "जड़ों के वातरंध्र",
+            "शिराएँ"
+          ],
+          "exp_hi": "रंध्र पत्तियों पर, प्रायः निचली सतह पर, स्थित सूक्ष्म छिद्र हैं जिनसे गैसों का आदान-प्रदान होता है और वाष्पोत्सर्जन में जलवाष्प निकलती है."
+        },
+        {
+          "q": "Which of the following is a non-biodegradable waste that remains in the environment for a very long time?",
+          "opts": [
+            "Cotton cloth",
+            "Plastic bags",
+            "Vegetable peels",
+            "Paper"
+          ],
+          "ans": 1,
+          "subject": "Environmental Studies",
+          "exp_en": "Plastic cannot be broken down by microorganisms easily, so it persists for hundreds of years, unlike peels, paper and cotton which decompose.",
+          "topic": "Pollution and environment conservation",
+          "difficulty": "Hard",
+          "q_hi": "निम्नलिखित में से कौन-सा अपघटित न होने वाला (अजैव निम्नीकरणीय) कचरा है जो पर्यावरण में बहुत लंबे समय तक बना रहता है?",
+          "opts_hi": [
+            "सूती कपड़ा",
+            "प्लास्टिक की थैलियाँ",
+            "सब्ज़ियों के छिलके",
+            "कागज़"
+          ],
+          "exp_hi": "प्लास्टिक को सूक्ष्मजीव आसानी से नहीं तोड़ पाते, इसलिए यह सैकड़ों वर्षों तक बना रहता है, जबकि छिलके, कागज़ और सूती कपड़ा सड़कर नष्ट हो जाते हैं."
+        },
+        {
+          "q": "Which of the following practices best helps reduce solid waste at the source?",
+          "opts": [
+            "Burning garbage in open spaces",
+            "Dumping waste in a nearby pond",
+            "Reusing cloth bags instead of buying plastic bags",
+            "Burying all waste in a field"
+          ],
+          "ans": 2,
+          "subject": "Environmental Studies",
+          "exp_en": "Reusing cloth bags prevents plastic waste from being created in the first place. Burning, dumping and burying only move or worsen the pollution.",
+          "topic": "Pollution and environment conservation",
+          "difficulty": "Medium",
+          "q_hi": "निम्नलिखित में से कौन सी पद्धति स्रोत पर ही ठोस कचरे को कम करने में सबसे अधिक सहायक है?",
+          "opts_hi": [
+            "खुले स्थान में कचरा जलाना",
+            "कचरा पास के तालाब में फेंकना",
+            "प्लास्टिक थैलियाँ खरीदने के बजाय कपड़े के थैलों का पुनः उपयोग करना",
+            "सारा कचरा खेत में दबा देना"
+          ],
+          "exp_hi": "कपड़े के थैलों का पुनः उपयोग करने से प्लास्टिक कचरा बनता ही नहीं है। जलाना, फेंकना और दबाना केवल प्रदूषण को बढ़ाते या स्थानांतरित करते हैं।"
+        },
+        {
+          "q": "The Sarus crane, the State Bird of Uttar Pradesh, is best known as:",
+          "opts": [
+            "The tallest flying bird in the world",
+            "The smallest flying bird in India",
+            "A nocturnal bird of prey",
+            "A bird that lives only in deserts"
+          ],
+          "ans": 0,
+          "subject": "Environmental Studies",
+          "exp_en": "The Sarus crane stands up to about 1.8 m tall and is the tallest flying bird in the world. It lives in wetlands and fields, not deserts.",
+          "topic": "Plants and animals",
+          "difficulty": "Medium",
+          "q_hi": "उत्तर प्रदेश का राज्य पक्षी सारस क्रेन किस रूप में जाना जाता है?",
+          "opts_hi": [
+            "विश्व का सबसे ऊँचा उड़ने वाला पक्षी",
+            "भारत का सबसे छोटा उड़ने वाला पक्षी",
+            "रात्रिचर शिकारी पक्षी",
+            "केवल रेगिस्तान में रहने वाला पक्षी"
+          ],
+          "exp_hi": "सारस क्रेन लगभग 1.8 मीटर तक ऊँचा होता है और विश्व का सबसे ऊँचा उड़ने वाला पक्षी है। यह आर्द्रभूमि और खेतों में रहता है, रेगिस्तान में नहीं।"
+        },
+        {
+          "q": "In India, which season follows the rainy (monsoon) season and comes before winter?",
+          "opts": [
+            "Spring",
+            "Late winter",
+            "Summer",
+            "Autumn"
+          ],
+          "ans": 3,
+          "subject": "Environmental Studies",
+          "exp_en": "In the traditional Indian six-season calendar, Sharad (autumn) comes after Varsha (rainy season) and before Hemant and winter.",
+          "topic": "Weather and seasons",
+          "difficulty": "Easy",
+          "q_hi": "भारत में वर्षा ऋतु के बाद और शीत ऋतु से पहले कौन-सी ऋतु आती है?",
+          "opts_hi": [
+            "वसंत ऋतु",
+            "शिशिर ऋतु",
+            "ग्रीष्म ऋतु",
+            "शरद ऋतु"
+          ],
+          "exp_hi": "भारतीय छह ऋतुओं के क्रम में वर्षा ऋतु के बाद शरद ऋतु आती है, उसके बाद हेमंत और शीत ऋतु आती है।"
+        },
+        {
+          "q": "Which sense organ helps us to taste food?",
+          "opts": [
+            "Nose",
+            "Tongue",
+            "Ear",
+            "Skin"
+          ],
+          "ans": 1,
+          "subject": "Environmental Studies",
+          "exp_en": "The tongue has taste buds that help us to know whether food is sweet, sour, salty or bitter.",
+          "topic": "Human body",
+          "difficulty": "Easy",
+          "q_hi": "कौन-सी ज्ञानेंद्रिय हमें भोजन का स्वाद जानने में मदद करती है?",
+          "opts_hi": [
+            "नाक",
+            "जीभ",
+            "कान",
+            "त्वचा"
+          ],
+          "exp_hi": "जीभ पर स्वाद कलिकाएँ होती हैं जो बताती हैं कि भोजन मीठा, खट्टा, नमकीन या कड़वा है।"
+        },
+        {
+          "q": "In most parts of Uttar Pradesh, the monsoon rains usually begin during which month?",
+          "opts": [
+            "June-July",
+            "April",
+            "November",
+            "March"
+          ],
+          "ans": 0,
+          "subject": "Environmental Studies",
+          "exp_en": "The southwest monsoon reaches Uttar Pradesh around the end of June or in July, bringing most of the state's yearly rainfall.",
+          "topic": "Weather and seasons",
+          "difficulty": "Easy",
+          "q_hi": "उत्तर प्रदेश के अधिकांश भागों में मानसून की वर्षा सामान्यतः किस महीने में शुरू होती है?",
+          "opts_hi": [
+            "जून-जुलाई",
+            "अप्रैल",
+            "नवंबर",
+            "मार्च"
+          ],
+          "exp_hi": "दक्षिण-पश्चिम मानसून जून के अंत या जुलाई में उत्तर प्रदेश पहुँचता है और राज्य की अधिकांश वार्षिक वर्षा लाता है।"
+        },
+        {
+          "q": "Which of the following is a joint family?",
+          "opts": [
+            "Parents and their unmarried children living together",
+            "Two friends sharing a house for work",
+            "Grandparents, parents, uncles, aunts and cousins living together in one household",
+            "A couple living alone in a rented flat"
+          ],
+          "ans": 2,
+          "subject": "Environmental Studies",
+          "exp_en": "A joint family has members of several generations and related branches living together, unlike a nuclear family of parents and children.",
+          "topic": "Family, food and shelter",
+          "difficulty": "Medium",
+          "q_hi": "निम्नलिखित में से कौन-सा संयुक्त परिवार है?",
+          "opts_hi": [
+            "माता-पिता और उनके अविवाहित बच्चे एक साथ रहते हैं",
+            "दो मित्र काम के लिए एक घर साझा करते हैं",
+            "दादा-दादी, माता-पिता, चाचा-चाची और चचेरे भाई-बहन एक ही घर में साथ रहते हैं",
+            "एक दंपति किराये के फ्लैट में अकेले रहता है"
+          ],
+          "exp_hi": "संयुक्त परिवार में कई पीढ़ियों और संबंधित शाखाओं के सदस्य साथ रहते हैं, जबकि एकल परिवार में केवल माता-पिता और बच्चे होते हैं।"
+        },
+        {
+          "q": "A Class 3 teacher wants children to understand that different plants need different amounts of water. Which approach best fits the nature of EVS teaching?",
+          "opts": [
+            "Dictate a list of water needs of plants for the children to memorise",
+            "Show a chart once and ask children to copy it in their notebooks",
+            "Tell children to read the textbook paragraph aloud in chorus",
+            "Let children grow two kinds of plants, water them differently, observe over days and discuss their findings"
+          ],
+          "ans": 3,
+          "subject": "Environmental Studies",
+          "exp_en": "EVS is best learned through first-hand observation, experimentation and discussion, which build understanding rather than rote memory.",
+          "topic": "Pedagogy of Environmental Studies",
+          "difficulty": "Hard",
+          "q_hi": "कक्षा 3 का शिक्षक चाहता है कि बच्चे समझें कि अलग-अलग पौधों को अलग-अलग मात्रा में पानी चाहिए। पर्यावरण अध्ययन शिक्षण की प्रकृति के अनुसार कौन-सा तरीका सबसे उपयुक्त है?",
+          "opts_hi": [
+            "पौधों की पानी की आवश्यकता की सूची बोलकर लिखवाना ताकि बच्चे याद करें",
+            "एक बार चार्ट दिखाकर बच्चों से उसे कॉपी में उतरवाना",
+            "बच्चों से पाठ्यपुस्तक का अनुच्छेद समूह में ज़ोर से पढ़वाना",
+            "बच्चों से दो प्रकार के पौधे उगवाना, उन्हें अलग-अलग पानी देना, कई दिन अवलोकन करना और निष्कर्षों पर चर्चा करना"
+          ],
+          "exp_hi": "पर्यावरण अध्ययन प्रत्यक्ष अवलोकन, प्रयोग और चर्चा से सबसे अच्छा सीखा जाता है, जिससे रटने के बजाय समझ बनती है।"
+        },
+        {
+          "q": "Which of the following is the main cause of water pollution in rivers near towns?",
+          "opts": [
+            "Discharge of untreated sewage and factory waste",
+            "Rainfall in the monsoon",
+            "Planting trees on the banks",
+            "Flow of water over stones"
+          ],
+          "ans": 0,
+          "subject": "Environmental Studies",
+          "exp_en": "Untreated sewage and industrial effluents add harmful substances to rivers and pollute them.",
+          "topic": "Pollution and conservation",
+          "difficulty": "Medium",
+          "q_hi": "शहरों के पास नदियों में जल प्रदूषण का मुख्य कारण निम्नलिखित में से कौन-सा है?",
+          "opts_hi": [
+            "बिना उपचारित किया गया सीवेज और कारखानों का कचरा बहाना",
+            "मानसून में वर्षा",
+            "किनारों पर पेड़ लगाना",
+            "पत्थरों के ऊपर से पानी का बहना"
+          ],
+          "exp_hi": "बिना उपचारित सीवेज और औद्योगिक अपशिष्ट नदियों में हानिकारक पदार्थ मिलाकर उन्हें प्रदूषित करते हैं।"
+        },
+        {
+          "q": "Friction between two surfaces in contact:",
+          "opts": [
+            "Increases the speed of a moving object",
+            "Opposes the motion of the object",
+            "Helps the motion of the object",
+            "Is always zero on rough surfaces"
+          ],
+          "ans": 1,
+          "subject": "Environmental Studies",
+          "exp_en": "Friction acts opposite to the direction of motion (or attempted motion) and tends to slow objects down.",
+          "topic": "Simple science: force",
+          "difficulty": "Medium",
+          "q_hi": "संपर्क में दो सतहों के बीच घर्षण:",
+          "opts_hi": [
+            "गतिशील वस्तु की चाल बढ़ाता है",
+            "वस्तु की गति का विरोध करता है",
+            "वस्तु की गति में सहायता करता है",
+            "खुरदरी सतहों पर सदैव शून्य होता है"
+          ],
+          "exp_hi": "घर्षण गति (या गति के प्रयास) की विपरीत दिशा में कार्य करता है और वस्तुओं को धीमा करता है।"
+        },
+        {
+          "q": "When water vapour changes into liquid water on a cold glass, the process is called:",
+          "opts": [
+            "Condensation",
+            "Melting",
+            "Sublimation",
+            "Evaporation"
+          ],
+          "ans": 0,
+          "subject": "Environmental Studies",
+          "exp_en": "Change of a gas (vapour) into a liquid on cooling is condensation, which forms droplets on a cold glass.",
+          "topic": "Simple science: matter",
+          "difficulty": "Medium",
+          "q_hi": "ठंडे गिलास पर जब जलवाष्प द्रव जल में बदलती है, तो इस प्रक्रिया को कहते हैं:",
+          "opts_hi": [
+            "संघनन",
+            "पिघलना",
+            "ऊर्ध्वपातन",
+            "वाष्पीकरण"
+          ],
+          "exp_hi": "ठंडा होने पर गैस (वाष्प) का द्रव में बदलना संघनन है, जिससे ठंडे गिलास पर बूँदें बनती हैं।"
+        },
+        {
+          "q": "Which of the following materials is translucent?",
+          "opts": [
+            "Clear glass",
+            "Iron sheet",
+            "Wooden board",
+            "Butter paper"
+          ],
+          "ans": 3,
+          "subject": "Environmental Studies",
+          "exp_en": "Butter paper lets some light pass but objects behind it cannot be seen clearly, so it is translucent. Clear glass is transparent; wood and iron are opaque.",
+          "topic": "Simple science: light",
+          "difficulty": "Hard",
+          "q_hi": "निम्नलिखित में से कौन-सी सामग्री पारभासी है?",
+          "opts_hi": [
+            "साफ़ काँच",
+            "लोहे की चादर",
+            "लकड़ी का तख्ता",
+            "तेलिया (बटर) पेपर"
+          ],
+          "exp_hi": "बटर पेपर कुछ प्रकाश गुज़रने देता है पर पीछे की वस्तुएँ स्पष्ट नहीं दिखतीं, इसलिए यह पारभासी है। साफ़ काँच पारदर्शी तथा लकड़ी और लोहा अपारदर्शी हैं।"
+        },
+        {
+          "q": "Which festival is celebrated by lighting diyas to mark the return of Lord Rama to Ayodhya?",
+          "opts": [
+            "Holi",
+            "Eid",
+            "Diwali",
+            "Baisakhi"
+          ],
+          "ans": 2,
+          "subject": "Environmental Studies",
+          "exp_en": "Diwali is celebrated by lighting diyas to mark Lord Rama's return to Ayodhya after 14 years of exile.",
+          "topic": "Festivals and culture",
+          "difficulty": "Easy",
+          "q_hi": "भगवान राम के अयोध्या लौटने की खुशी में दीप जलाकर कौन-सा त्योहार मनाया जाता है?",
+          "opts_hi": [
+            "होली",
+            "ईद",
+            "दीपावली",
+            "बैसाखी"
+          ],
+          "exp_hi": "दीपावली भगवान राम के 14 वर्ष के वनवास के बाद अयोध्या लौटने की खुशी में दीप जलाकर मनाई जाती है।"
+        },
+        {
+          "q": "Which of the following animals is a herbivore?",
+          "opts": [
+            "Lion",
+            "Cow",
+            "Tiger",
+            "Snake"
+          ],
+          "ans": 1,
+          "subject": "Environmental Studies",
+          "exp_en": "A cow eats only plants, so it is a herbivore. Lions, tigers and snakes eat other animals.",
+          "topic": "Plants and animals",
+          "difficulty": "Easy",
+          "q_hi": "निम्नलिखित में से कौन-सा जंतु शाकाहारी है?",
+          "opts_hi": [
+            "शेर",
+            "गाय",
+            "बाघ",
+            "साँप"
+          ],
+          "exp_hi": "गाय केवल पौधे खाती है, इसलिए वह शाकाहारी है। शेर, बाघ और साँप अन्य जंतुओं को खाते हैं।"
+        },
+        {
+          "q": "Deficiency of iron in the diet mainly causes which disease?",
+          "opts": [
+            "Scurvy",
+            "Anaemia",
+            "Rickets",
+            "Night blindness"
+          ],
+          "ans": 1,
+          "subject": "Environmental Studies",
+          "exp_en": "Iron is needed to make haemoglobin in the blood. Its deficiency causes anaemia. Scurvy is due to lack of Vitamin C, rickets of Vitamin D and night blindness of Vitamin A.",
+          "topic": "Health and nutrition",
+          "difficulty": "Medium",
+          "q_hi": "आहार में लोहे (आयरन) की कमी से मुख्यतः कौन-सा रोग होता है?",
+          "opts_hi": [
+            "स्कर्वी",
+            "रक्ताल्पता (एनीमिया)",
+            "रिकेट्स",
+            "रतौंधी"
+          ],
+          "exp_hi": "रक्त में हीमोग्लोबिन बनाने के लिए लोहा आवश्यक है। इसकी कमी से रक्ताल्पता होती है। स्कर्वी विटामिन C, रिकेट्स विटामिन D और रतौंधी विटामिन A की कमी से होते हैं।"
+        },
+        {
+          "q": "Which of the following is the most suitable method of conserving water at home?",
+          "opts": [
+            "Keeping the tap running while brushing teeth",
+            "Washing the car daily with a running hose pipe",
+            "Fixing leaking taps and reusing water from washing vegetables for plants",
+            "Filling the bucket fully and throwing away the leftover water"
+          ],
+          "ans": 2,
+          "subject": "Environmental Studies",
+          "exp_en": "Repairing leaks stops wastage and reusing water for plants makes further use of it. The other options waste water.",
+          "topic": "Natural resources",
+          "difficulty": "Medium",
+          "q_hi": "घर में जल-संरक्षण के लिए निम्नलिखित में से कौन-सी विधि सबसे उपयुक्त है?",
+          "opts_hi": [
+            "दाँत साफ़ करते समय नल खुला रखना",
+            "रोज़ पाइप चलाकर गाड़ी धोना",
+            "टपकते नल ठीक कराना और सब्ज़ी धोने के पानी को पौधों में डालना",
+            "बाल्टी पूरी भरना और बचा हुआ पानी फेंक देना"
+          ],
+          "exp_hi": "टपकते नल ठीक करने से पानी की बर्बादी रुकती है और पानी को पौधों में डालने से उसका पुनः उपयोग होता है। अन्य विकल्पों में पानी व्यर्थ होता है।"
+        },
+        {
+          "q": "Seeds are found inside which part of a plant?",
+          "opts": [
+            "Root",
+            "Stem",
+            "Fruit",
+            "Leaf"
+          ],
+          "ans": 2,
+          "subject": "Environmental Studies",
+          "exp_en": "Seeds develop inside the fruit, which protects them until they are ready to grow.",
+          "topic": "Plants and animals",
+          "difficulty": "Easy",
+          "q_hi": "पौधे के किस भाग के अंदर बीज पाए जाते हैं?",
+          "opts_hi": [
+            "जड़",
+            "तना",
+            "फल",
+            "पत्ती"
+          ],
+          "exp_hi": "बीज फल के अंदर बनते हैं, जो उन्हें अंकुरित होने तक सुरक्षित रखता है।"
+        },
+        {
+          "q": "Which of the following pairs correctly matches a means of communication with its inventor or originator?",
+          "opts": [
+            "Telephone – Morse",
+            "Telephone – Marconi",
+            "Radio (wireless telegraphy) – Marconi",
+            "Telegraph code – Graham Bell"
+          ],
+          "ans": 2,
+          "subject": "Environmental Studies",
+          "exp_en": "Guglielmo Marconi is credited with developing wireless telegraphy (radio). The telephone was invented by Alexander Graham Bell and the telegraph code was developed by Samuel Morse.",
+          "topic": "Transport and communication",
+          "difficulty": "Hard",
+          "q_hi": "निम्नलिखित में से कौन-सा युग्म संचार के साधन और उसके आविष्कारक का सही मिलान करता है?",
+          "opts_hi": [
+            "टेलीफ़ोन – मोर्स",
+            "टेलीफ़ोन – मार्कोनी",
+            "रेडियो (बेतार तार) – मार्कोनी",
+            "तार संकेत-प्रणाली – ग्राहम बेल"
+          ],
+          "exp_hi": "गुग्लिएल्मो मार्कोनी को बेतार तार (रेडियो) के विकास का श्रेय दिया जाता है। टेलीफ़ोन का आविष्कार अलेक्ज़ेंडर ग्राहम बेल ने और तार की संकेत-प्रणाली मोर्स ने विकसित की।"
+        },
+        {
+          "q": "Which of the following is a good conductor of heat?",
+          "opts": [
+            "Wood",
+            "Plastic",
+            "Iron",
+            "Rubber"
+          ],
+          "ans": 2,
+          "subject": "Environmental Studies",
+          "exp_en": "Metals such as iron allow heat to pass through them easily, which is why cooking vessels are made of metal. Wood, plastic and rubber are poor conductors.",
+          "topic": "Heat and materials",
+          "difficulty": "Easy",
+          "q_hi": "निम्नलिखित में से कौन-सा ऊष्मा का अच्छा चालक है?",
+          "opts_hi": [
+            "लकड़ी",
+            "प्लास्टिक",
+            "लोहा",
+            "रबर"
+          ],
+          "exp_hi": "लोहे जैसी धातुओं से ऊष्मा आसानी से गुज़रती है, इसीलिए खाना पकाने के बर्तन धातु के बनते हैं। लकड़ी, प्लास्टिक और रबर कुचालक हैं।"
+        },
+        {
+          "q": "Major Dhyan Chand, the legendary hockey player whose birthday is celebrated as National Sports Day, was born in which city?",
+          "opts": [
+            "Meerut",
+            "Jhansi",
+            "Jalandhar",
+            "Prayagraj"
+          ],
+          "ans": 3,
+          "subject": "General Knowledge & Current Affairs",
+          "exp_en": "Dhyan Chand was born on 29 August 1905 in Prayagraj (then Allahabad), and National Sports Day is observed on 29 August.",
+          "topic": "Sports",
+          "difficulty": "Easy",
+          "q_hi": "महान हॉकी खिलाड़ी मेजर ध्यानचंद, जिनके जन्मदिन को राष्ट्रीय खेल दिवस के रूप में मनाया जाता है, का जन्म किस शहर में हुआ था?",
+          "opts_hi": [
+            "Meerut",
+            "Jhansi",
+            "Jalandhar",
+            "Prayagraj"
+          ],
+          "exp_hi": "ध्यानचंद का जन्म 29 अगस्त 1905 को प्रयागराज (तत्कालीन इलाहाबाद) में हुआ था, और राष्ट्रीय खेल दिवस 29 अगस्त को मनाया जाता है।"
+        },
+        {
+          "q": "Which of the following rivers is a tributary of the Ganga that originates in the Himalayas of Nepal and flows through Uttar Pradesh, joining the Ganga near Chhapra in Bihar after passing through the Terai region?",
+          "opts": [
+            "Ken",
+            "Betwa",
+            "Ghaghara",
+            "Chambal"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge & Current Affairs",
+          "exp_en": "The Ghaghara (Karnali) rises in the Himalayas, flows through Uttar Pradesh and joins the Ganga near Chhapra in Bihar, whereas Betwa, Ken and Chambal are Yamuna tributaries flowing from the peninsular region.",
+          "topic": "Uttar Pradesh geography and rivers",
+          "difficulty": "Hard",
+          "q_hi": "निम्नलिखित में से कौन-सी नदी गंगा की सहायक नदी है जो नेपाल के हिमालय से निकलकर उत्तर प्रदेश के तराई क्षेत्र से बहती हुई बिहार में छपरा के निकट गंगा में मिलती है?",
+          "opts_hi": [
+            "केन",
+            "बेतवा",
+            "घाघरा",
+            "चंबल"
+          ],
+          "exp_hi": "घाघरा (करनाली) हिमालय से निकलकर उत्तर प्रदेश से बहती हुई बिहार में छपरा के निकट गंगा में मिलती है, जबकि बेतवा, केन और चंबल प्रायद्वीपीय क्षेत्र से आने वाली यमुना की सहायक नदियाँ हैं।"
+        },
+        {
+          "q": "Which Article of the Indian Constitution abolishes 'untouchability' and forbids its practice in any form?",
+          "opts": [
+            "Article 17",
+            "Article 15",
+            "Article 21",
+            "Article 14"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge & Current Affairs",
+          "exp_en": "Article 17, under the Right to Equality, abolishes untouchability and makes its practice an offence punishable by law.",
+          "topic": "Indian polity and Constitution",
+          "difficulty": "Medium",
+          "q_hi": "भारतीय संविधान का कौन-सा अनुच्छेद 'अस्पृश्यता' का अंत करता है और किसी भी रूप में इसके आचरण को निषिद्ध करता है?",
+          "opts_hi": [
+            "अनुच्छेद 17",
+            "अनुच्छेद 15",
+            "अनुच्छेद 21",
+            "अनुच्छेद 14"
+          ],
+          "exp_hi": "समता के अधिकार के अंतर्गत अनुच्छेद 17 अस्पृश्यता का अंत करता है और इसके आचरण को कानून के अनुसार दंडनीय अपराध बनाता है।"
+        },
+        {
+          "q": "Who gave the slogan 'Jai Jawan Jai Kisan'?",
+          "opts": [
+            "Jawaharlal Nehru",
+            "Lal Bahadur Shastri",
+            "Mahatma Gandhi",
+            "Indira Gandhi"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge & Current Affairs",
+          "exp_en": "Prime Minister Lal Bahadur Shastri gave the slogan 'Jai Jawan Jai Kisan' in 1965 to honour soldiers and farmers.",
+          "topic": "Indian history and freedom struggle",
+          "difficulty": "Easy",
+          "q_hi": "'जय जवान जय किसान' का नारा किसने दिया?",
+          "opts_hi": [
+            "जवाहरलाल नेहरू",
+            "लाल बहादुर शास्त्री",
+            "महात्मा गांधी",
+            "इंदिरा गांधी"
+          ],
+          "exp_hi": "प्रधानमंत्री लाल बहादुर शास्त्री ने 1965 में सैनिकों और किसानों के सम्मान में 'जय जवान जय किसान' का नारा दिया।"
+        },
+        {
+          "q": "The Chauri Chaura incident of 1922, which led Gandhi to withdraw the Non-Cooperation Movement, took place in which present-day district of Uttar Pradesh?",
+          "opts": [
+            "Gorakhpur",
+            "Azamgarh",
+            "Ballia",
+            "Basti"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge & Current Affairs",
+          "exp_en": "Chauri Chaura is in Gorakhpur district, where a mob set a police station on fire on 4 February 1922. Gandhi withdrew the movement soon after.",
+          "topic": "Uttar Pradesh History",
+          "difficulty": "Medium",
+          "q_hi": "1922 की चौरी चौरा घटना, जिसके कारण गांधी जी ने असहयोग आंदोलन वापस ले लिया, उत्तर प्रदेश के किस वर्तमान जिले में हुई थी?",
+          "opts_hi": [
+            "गोरखपुर",
+            "आज़मगढ़",
+            "बलिया",
+            "बस्ती"
+          ],
+          "exp_hi": "चौरी चौरा गोरखपुर जिले में है, जहाँ 4 फरवरी 1922 को भीड़ ने थाने में आग लगा दी थी। इसके बाद गांधी जी ने आंदोलन वापस ले लिया।"
+        },
+        {
+          "q": "Which was India's first satellite, launched in 1975?",
+          "opts": [
+            "INSAT-1A",
+            "Aryabhata",
+            "Bhaskara",
+            "Rohini"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge & Current Affairs",
+          "exp_en": "Aryabhata, India's first satellite, was launched on 19 April 1975 with the help of a Soviet launch vehicle.",
+          "topic": "Science and Technology",
+          "difficulty": "Medium",
+          "q_hi": "1975 में प्रक्षेपित भारत का पहला उपग्रह कौन सा था?",
+          "opts_hi": [
+            "इनसैट-1ए",
+            "आर्यभट्ट",
+            "भास्कर",
+            "रोहिणी"
+          ],
+          "exp_hi": "आर्यभट्ट भारत का पहला उपग्रह था, जिसे 19 अप्रैल 1975 को सोवियत प्रक्षेपण यान की सहायता से छोड़ा गया।"
+        },
+        {
+          "q": "Who was the first Indian woman to be awarded the Jnanpith Award, in 1976?",
+          "opts": [
+            "Amrita Pritam",
+            "Mahadevi Verma",
+            "Mahasweta Devi",
+            "Ashapurna Devi"
+          ],
+          "ans": 3,
+          "subject": "General Knowledge & Current Affairs",
+          "exp_en": "Ashapurna Devi, a Bengali writer, received the Jnanpith Award in 1976 for 'Pratham Pratishruti', becoming the first woman winner. Mahadevi Verma received it later, in 1982.",
+          "topic": "Awards",
+          "difficulty": "Hard",
+          "q_hi": "1976 में ज्ञानपीठ पुरस्कार पाने वाली पहली भारतीय महिला कौन थीं?",
+          "opts_hi": [
+            "अमृता प्रीतम",
+            "महादेवी वर्मा",
+            "महाश्वेता देवी",
+            "आशापूर्णा देवी"
+          ],
+          "exp_hi": "बंगला लेखिका आशापूर्णा देवी को 1976 में 'प्रथम प्रतिश्रुति' के लिए ज्ञानपीठ पुरस्कार मिला और वे यह सम्मान पाने वाली पहली महिला बनीं। महादेवी वर्मा को यह पुरस्कार बाद में 1982 में मिला।"
+        },
+        {
+          "q": "Who wrote the national song 'Vande Mataram'?",
+          "opts": [
+            "Rabindranath Tagore",
+            "Bankim Chandra Chattopadhyay",
+            "Muhammad Iqbal",
+            "Subramania Bharati"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge & Current Affairs",
+          "exp_en": "'Vande Mataram' was written by Bankim Chandra Chattopadhyay and appeared in his novel 'Anandamath' (1882).",
+          "topic": "Awards, books and authors",
+          "difficulty": "Medium",
+          "q_hi": "राष्ट्रीय गीत 'वंदे मातरम्' की रचना किसने की?",
+          "opts_hi": [
+            "रवींद्रनाथ टैगोर",
+            "बंकिमचंद्र चट्टोपाध्याय",
+            "मुहम्मद इक़बाल",
+            "सुब्रमण्यम भारती"
+          ],
+          "exp_hi": "'वंदे मातरम्' की रचना बंकिमचंद्र चट्टोपाध्याय ने की और यह उनके उपन्यास 'आनंदमठ' (1882) में आया।"
+        },
+        {
+          "q": "Which is the smallest state of India by area?",
+          "opts": [
+            "Sikkim",
+            "Goa",
+            "Tripura",
+            "Mizoram"
+          ],
+          "ans": 1,
+          "subject": "General Knowledge & Current Affairs",
+          "exp_en": "Goa, with an area of about 3,702 sq km, is the smallest state of India by area.",
+          "topic": "Indian geography",
+          "difficulty": "Easy",
+          "q_hi": "क्षेत्रफल की दृष्टि से भारत का सबसे छोटा राज्य कौन-सा है?",
+          "opts_hi": [
+            "सिक्किम",
+            "गोवा",
+            "त्रिपुरा",
+            "मिज़ोरम"
+          ],
+          "exp_hi": "लगभग 3,702 वर्ग किमी क्षेत्रफल के साथ गोवा क्षेत्रफल में भारत का सबसे छोटा राज्य है।"
+        },
+        {
+          "q": "In which year did India become a republic, when the Constitution came into effect?",
+          "opts": [
+            "1947",
+            "1949",
+            "1950",
+            "1952"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge & Current Affairs",
+          "exp_en": "The Constitution came into effect on 26 January 1950, and India became a republic.",
+          "topic": "Indian polity and Constitution",
+          "difficulty": "Easy",
+          "q_hi": "संविधान लागू होने पर भारत किस वर्ष गणराज्य बना?",
+          "opts_hi": [
+            "1947",
+            "1949",
+            "1950",
+            "1952"
+          ],
+          "exp_hi": "संविधान 26 जनवरी 1950 को लागू हुआ और भारत गणराज्य बना।"
+        },
+        {
+          "q": "Who was the first Prime Minister of independent India?",
+          "opts": [
+            "Jawaharlal Nehru",
+            "Lal Bahadur Shastri",
+            "Sardar Vallabhbhai Patel",
+            "Dr. Rajendra Prasad"
+          ],
+          "ans": 0,
+          "subject": "General Knowledge & Current Affairs",
+          "exp_en": "Jawaharlal Nehru became the first Prime Minister of independent India on 15 August 1947 and served until 1964.",
+          "topic": "Indian polity and history",
+          "difficulty": "Easy",
+          "q_hi": "स्वतंत्र भारत के प्रथम प्रधानमंत्री कौन थे?",
+          "opts_hi": [
+            "जवाहरलाल नेहरू",
+            "लाल बहादुर शास्त्री",
+            "सरदार वल्लभभाई पटेल",
+            "डॉ. राजेन्द्र प्रसाद"
+          ],
+          "exp_hi": "जवाहरलाल नेहरू 15 अगस्त 1947 को स्वतंत्र भारत के प्रथम प्रधानमंत्री बने और 1964 तक इस पद पर रहे।"
+        },
+        {
+          "q": "Who founded the Indian National Army (Azad Hind Fauj) in its second phase in 1943 and took its command in Southeast Asia?",
+          "opts": [
+            "Bhagat Singh",
+            "Chandra Shekhar Azad",
+            "Subhas Chandra Bose",
+            "Lala Lajpat Rai"
+          ],
+          "ans": 2,
+          "subject": "General Knowledge & Current Affairs",
+          "exp_en": "Subhas Chandra Bose took over the leadership of the INA from Rash Behari Bose in 1943 in Singapore.",
+          "topic": "Indian history and freedom struggle",
+          "difficulty": "Medium",
+          "q_hi": "1943 में दक्षिण-पूर्व एशिया में आज़ाद हिंद फ़ौज के दूसरे चरण का गठन कर उसकी कमान किसने संभाली?",
+          "opts_hi": [
+            "भगत सिंह",
+            "चंद्रशेखर आज़ाद",
+            "सुभाष चंद्र बोस",
+            "लाला लाजपत राय"
+          ],
+          "exp_hi": "सुभाष चंद्र बोस ने 1943 में सिंगापुर में रास बिहारी बोस से आज़ाद हिंद फ़ौज का नेतृत्व संभाला।"
         }
       ]
     }
