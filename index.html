@@ -863,6 +863,7 @@ async function startChslCheckout(placement, setStatus, onFallback){
     const resp=results[0];
     const order=await resp.json();
     if(!resp.ok||!order.orderId) throw new Error(order.error||'order');
+    if(order.testUrl){ window.location.href=order.testUrl; return; }   // test mode: no payment
     // callback_url + redirect:true makes Razorpay send the buyer to our server after payment, so it also works when
     // the payment happens inside a UPI app and this page was closed or reloaded. The server then opens /pack-thanks.html.
     const rzp=new window.Razorpay({
