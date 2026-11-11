@@ -8,7 +8,7 @@ const fs = require('fs');
 const path = require('path');
 const { FORMAT, signatureFor, safeEqual, checkPurchase, configured, isTestPurchase } = require('./_lib/verify');
 
-const FILE_NAME = 'ReadyMadeQuiz_SSC_CHSL_Tier1_Test_Pack_5_Tests.zip';
+const FILE_NAME = 'ReadyMadeQuiz_SSC_CHSL_Tier1_Test_Pack_5_Tests.pdf';
 
 function page(res, status, title, message) {
   res.setHeader('Content-Type', 'text/html; charset=utf-8');
@@ -54,7 +54,7 @@ module.exports = async (req, res) => {
     decipher.setAuthTag(blob.subarray(12, 28));
     file = Buffer.concat([decipher.update(blob.subarray(28)), decipher.final()]);
   } catch (e) { return page(res, 500, 'File not available', 'We could not prepare the download. Please email us with your payment ID.'); }
-  res.setHeader('Content-Type', 'application/zip');
+  res.setHeader('Content-Type', 'application/pdf');
   res.setHeader('Content-Disposition', 'attachment; filename="' + FILE_NAME + '"');
   res.setHeader('Content-Length', String(file.length));
   res.setHeader('Cache-Control', 'no-store');
