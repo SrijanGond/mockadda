@@ -544,7 +544,16 @@
         "tests": [
           {
             "id": "bpsc_tre_1",
-            "title": "BPSC TRE 4.0 Prelims Mock Test 1",
+            "title": "BPSC TRE 4.0 Prelims Practice Set 1 (History & National Movement)",
+            "duration": 20,
+            "difficulty": "Medium",
+            "questionCount": 25,
+            "correctMarks": 1,
+            "negativeMarks": 0.33
+          },
+          {
+            "id": "bpsc_tre_2",
+            "title": "BPSC TRE 4.0 Prelims Mock Test 2",
             "duration": 120,
             "difficulty": "Medium",
             "questionCount": 150,
@@ -552,8 +561,8 @@
             "negativeMarks": 0.33
           },
           {
-            "id": "bpsc_tre_2",
-            "title": "BPSC TRE 4.0 Prelims Mock Test 2",
+            "id": "bpsc_tre_3",
+            "title": "BPSC TRE 4.0 Prelims Mock Test 3",
             "duration": 120,
             "difficulty": "Medium",
             "questionCount": 150,
