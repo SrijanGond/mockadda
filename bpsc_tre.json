@@ -2,587 +2,2992 @@
  "tests": [
   {
    "id": "bpsc_tre_1",
-   "title": "BPSC TRE 4.0 Prelims Practice Set 1 (History & National Movement)",
-   "duration": 20,
+   "title": "BPSC TRE 4.0 Prelims Mock Test 1",
+   "duration": 120,
    "difficulty": "Medium",
-   "questionCount": 25,
+   "questionCount": 149,
    "correctMarks": 1,
    "negativeMarks": 0.33,
    "questions": [
     {
-     "id": "gen-1792835309312-1",
-     "subject": "History & National Movement (India & Bihar)",
-     "topic": "National Movement",
-     "difficulty": "Easy",
-     "q": "In which year did Mahatma Gandhi lead the Champaran Satyagraha against the oppressive indigo (tinkathia) system?",
-     "q_hi": "महात्मा गांधी ने नील की शोषणकारी तिनकठिया प्रथा के विरुद्ध चंपारण सत्याग्रह का नेतृत्व किस वर्ष किया?",
+     "subject": "Current Affairs",
+     "q": "Which team became the champion of the Asia Cup 2025 (T20 format) by defeating Pakistan in the final played at Dubai on 28 September 2025?",
+     "q_hi": "28 सितंबर 2025 को दुबई में खेले गए फाइनल में पाकिस्तान को हराकर कौन-सी टीम एशिया कप 2025 (T20 प्रारूप) की विजेता बनी?",
      "opts": [
-      "1915",
-      "1917",
-      "1919",
-      "1920"
+      "India",
+      "Bangladesh",
+      "Afghanistan",
+      "Sri Lanka"
      ],
      "opts_hi": [
-      "1915",
-      "1917",
-      "1919",
-      "1920"
-     ],
-     "ans": 1,
-     "exp_en": "Gandhiji's first satyagraha in India was held at Champaran (Bihar) in 1917, at the request of Rajkumar Shukla, against the tinkathia system.",
-     "exp_hi": "गांधीजी का भारत में पहला सत्याग्रह 1917 में चंपारण (बिहार) में राजकुमार शुक्ल के आग्रह पर तिनकठिया प्रथा के विरुद्ध हुआ।"
-    },
-    {
-     "id": "gen-1792835309312-2",
-     "subject": "History & National Movement (India & Bihar)",
-     "topic": "Bihar History",
-     "difficulty": "Medium",
-     "q": "Who led the Revolt of 1857 in Bihar from Jagdishpur (Arrah) in spite of his advanced age?",
-     "q_hi": "अपनी वृद्धावस्था के बावजूद 1857 के विद्रोह में बिहार के जगदीशपुर (आरा) से किसने नेतृत्व किया?",
-     "opts": [
-      "Peer Ali Khan",
-      "Tantia Tope",
-      "Nana Sahib",
-      "Babu Kunwar Singh"
-     ],
-     "opts_hi": [
-      "पीर अली खान",
-      "तात्या टोपे",
-      "नाना साहेब",
-      "बाबू कुँवर सिंह"
-     ],
-     "ans": 3,
-     "exp_en": "Babu Kunwar Singh of Jagdishpur led the 1857 revolt in Bihar. Peer Ali Khan, a Patna bookseller, was executed in 1857; Tantia Tope and Nana Sahib are associated with Kanpur and central India.",
-     "exp_hi": "जगदीशपुर के बाबू कुँवर सिंह ने बिहार में 1857 के विद्रोह का नेतृत्व किया। पटना के पुस्तक विक्रेता पीर अली खान को 1857 में फाँसी दी गई; तात्या टोपे और नाना साहेब कानपुर व मध्य भारत से जुड़े थे।"
-    },
-    {
-     "id": "gen-1792835309312-3",
-     "subject": "History & National Movement (India & Bihar)",
-     "topic": "Bihar History",
-     "difficulty": "Easy",
-     "q": "Which Bihar-born freedom fighter became the first President of India?",
-     "q_hi": "बिहार में जन्मे किस स्वतंत्रता सेनानी को भारत का प्रथम राष्ट्रपति बनने का गौरव प्राप्त हुआ?",
-     "opts": [
-      "Dr. Rajendra Prasad",
-      "Anugrah Narayan Sinha",
-      "Jayaprakash Narayan",
-      "Sachchidananda Sinha"
-     ],
-     "opts_hi": [
-      "डॉ. राजेन्द्र प्रसाद",
-      "अनुग्रह नारायण सिन्हा",
-      "जयप्रकाश नारायण",
-      "सच्चिदानंद सिन्हा"
+      "भारत",
+      "बांग्लादेश",
+      "अफगानिस्तान",
+      "श्रीलंका"
      ],
      "ans": 0,
-     "exp_en": "Dr. Rajendra Prasad (born at Ziradei, Siwan) presided over the Constituent Assembly and served as India's first President (1950-62).",
-     "exp_hi": "डॉ. राजेन्द्र प्रसाद (जन्म: जीरादेई, सिवान) संविधान सभा के अध्यक्ष रहे और भारत के प्रथम राष्ट्रपति (1950-62) बने।"
+     "exp_en": "India beat Pakistan in the final at Dubai on 28 September 2025, and this win made it the Asia Cup 2025 champion. The other teams were not the winners of the final.",
+     "exp_hi": "भारत ने 28 सितंबर 2025 को दुबई में फाइनल में पाकिस्तान को हराया और इस जीत से एशिया कप 2025 का विजेता बना। अन्य टीमें फाइनल की विजेता नहीं थीं।"
     },
     {
-     "id": "gen-1792835309312-4",
-     "subject": "History & National Movement (India & Bihar)",
-     "topic": "Bihar History",
-     "difficulty": "Hard",
-     "q": "Who, being the oldest member, was the temporary (interim) President of the Constituent Assembly at its first meeting in December 1946?",
-     "q_hi": "दिसंबर 1946 में संविधान सभा की प्रथम बैठक में सबसे वरिष्ठ सदस्य के रूप में अस्थायी अध्यक्ष कौन थे?",
+     "subject": "Current Affairs",
+     "q": "Which of the following statements about NISAR is correct?",
+     "q_hi": "निसार (NISAR) के संबंध में निम्नलिखित में से कौन-सा कथन सही है?",
      "opts": [
-      "Dr. B. R. Ambedkar",
-      "H. C. Mukherjee",
-      "Dr. Rajendra Prasad",
-      "Sachchidananda Sinha"
+      "It is a lunar lander mission launched by ISRO alone",
+      "It is a NASA-ISRO Earth-observation satellite launched from Sriharikota on 30 July 2025",
+      "It is a communication satellite launched from Kourou in French Guiana",
+      "It is a Mars orbiter launched from Cape Canaveral in the USA"
      ],
      "opts_hi": [
-      "डॉ. बी. आर. अंबेडकर",
-      "एच. सी. मुखर्जी",
-      "डॉ. राजेन्द्र प्रसाद",
-      "सच्चिदानंद सिन्हा"
-     ],
-     "ans": 3,
-     "exp_en": "Sachchidananda Sinha of Bihar was the temporary president on 9 December 1946. Dr. Rajendra Prasad was later elected the permanent president.",
-     "exp_hi": "बिहार के सच्चिदानंद सिन्हा 9 दिसंबर 1946 को अस्थायी अध्यक्ष थे। बाद में डॉ. राजेन्द्र प्रसाद स्थायी अध्यक्ष चुने गए।"
-    },
-    {
-     "id": "gen-1792835309312-5",
-     "subject": "History & National Movement (India & Bihar)",
-     "topic": "Ancient India",
-     "difficulty": "Medium",
-     "q": "Ashoka adopted Buddhism after the Kalinga War, which was fought in about:",
-     "q_hi": "कलिंग युद्ध, जिसके बाद अशोक ने बौद्ध धर्म अपनाया, लगभग किस वर्ष लड़ा गया?",
-     "opts": [
-      "321 BCE",
-      "261 BCE",
-      "232 BCE",
-      "185 BCE"
-     ],
-     "opts_hi": [
-      "321 BCE",
-      "261 BCE",
-      "232 BCE",
-      "185 BCE"
+      "यह केवल इसरो द्वारा प्रक्षेपित चंद्र लैंडर मिशन है",
+      "यह नासा-इसरो का पृथ्वी प्रेक्षण उपग्रह है, जिसे 30 जुलाई 2025 को श्रीहरिकोटा से प्रक्षेपित किया गया",
+      "यह फ्रेंच गुयाना के कौरू से प्रक्षेपित एक संचार उपग्रह है",
+      "यह अमेरिका के केप कैनावेरल से प्रक्षेपित मंगल कक्षित्र है"
      ],
      "ans": 1,
-     "exp_en": "Ashoka conquered Kalinga in about 261 BCE. 321 BCE is Chandragupta's accession, 232 BCE is Ashoka's death and 185 BCE marks the end of the Mauryas.",
-     "exp_hi": "अशोक ने लगभग 261 ई.पू. में कलिंग जीता। 321 ई.पू. चंद्रगुप्त का राज्यारोहण, 232 ई.पू. अशोक की मृत्यु तथा 185 ई.पू. मौर्य वंश का अंत है।"
+     "exp_en": "NISAR is a joint NASA-ISRO Earth-observation satellite that was launched from Sriharikota on 30 July 2025. The other statements give wrong mission types, agencies or launch sites.",
+     "exp_hi": "निसार नासा-इसरो का संयुक्त पृथ्वी प्रेक्षण उपग्रह है, जिसे 30 जुलाई 2025 को श्रीहरिकोटा से प्रक्षेपित किया गया। अन्य कथनों में मिशन का प्रकार, एजेंसी या प्रक्षेपण स्थल गलत है।"
     },
     {
-     "id": "gen-1792835309312-6",
+     "subject": "Current Affairs",
+     "q": "Where did Finance Minister Nirmala Sitharaman present the Union Budget 2026-27 on 1 February 2026?",
+     "q_hi": "वित्त मंत्री निर्मला सीतारमण ने 1 फरवरी 2026 को केंद्रीय बजट 2026-27 कहाँ प्रस्तुत किया?",
+     "opts": [
+      "At the NITI Aayog office, New Delhi",
+      "At Rashtrapati Bhavan",
+      "In Parliament",
+      "At the Reserve Bank of India headquarters, Mumbai"
+     ],
+     "opts_hi": [
+      "नीति आयोग कार्यालय, नई दिल्ली में",
+      "राष्ट्रपति भवन में",
+      "संसद में",
+      "भारतीय रिज़र्व बैंक मुख्यालय, मुंबई में"
+     ],
+     "ans": 2,
+     "exp_en": "The Union Budget 2026-27 was presented by the Finance Minister in Parliament on 1 February 2026. The other places are not where the Budget is presented.",
+     "exp_hi": "केंद्रीय बजट 2026-27 वित्त मंत्री ने 1 फरवरी 2026 को संसद में प्रस्तुत किया। अन्य स्थान बजट प्रस्तुत करने के स्थल नहीं हैं।"
+    },
+    {
+     "subject": "Current Affairs",
+     "q": "Consider the following statements about the FIFA World Cup 2026, the first edition with 48 teams, hosted by the USA, Canada and Mexico:\n1. Spain defeated Argentina 1-0 after extra time in the final on 19 July 2026, winning its second title after 2010.\n2. The final was played at the Estadio Azteca in Mexico.\nWhich of the statements given above is/are correct?",
+     "q_hi": "फीफा विश्व कप 2026 के संबंध में, जो 48 टीमों वाला पहला संस्करण था और जिसकी मेजबानी अमेरिका, कनाडा और मेक्सिको ने की, निम्नलिखित कथनों पर विचार कीजिए:\n1. स्पेन ने 19 जुलाई 2026 को फाइनल में अतिरिक्त समय के बाद अर्जेंटीना को 1-0 से हराकर 2010 के बाद अपना दूसरा खिताब जीता।\n2. फाइनल मेक्सिको के एस्टाडियो अज़्टेका में खेला गया।\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+     "opts": [
+      "Only 1",
+      "Only 2",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "opts_hi": [
+      "केवल 1",
+      "केवल 2",
+      "1 और 2 दोनों",
+      "न तो 1 और न ही 2"
+     ],
+     "ans": 0,
+     "exp_en": "Statement 1 is correct. Statement 2 is wrong because the final was played at MetLife Stadium, New Jersey, not in Mexico.",
+     "exp_hi": "कथन 1 सही है। कथन 2 गलत है, क्योंकि फाइनल मेक्सिको में नहीं, बल्कि न्यू जर्सी के मेटलाइफ स्टेडियम में खेला गया था।"
+    },
+    {
+     "subject": "Current Affairs",
+     "q": "The Maha Kumbh Mela, held from 13 January to 26 February 2025, took place at ______ in Uttar Pradesh.",
+     "q_hi": "13 जनवरी से 26 फरवरी 2025 तक आयोजित महाकुंभ मेला उत्तर प्रदेश के ______ में संपन्न हुआ।",
+     "opts": [
+      "Prayagraj",
+      "Nashik",
+      "Haridwar",
+      "Ujjain"
+     ],
+     "opts_hi": [
+      "प्रयागराज",
+      "नासिक",
+      "हरिद्वार",
+      "उज्जैन"
+     ],
+     "ans": 0,
+     "exp_en": "The 2025 Maha Kumbh Mela was held at Prayagraj in Uttar Pradesh. Haridwar, Ujjain and Nashik are also Kumbh sites, but they are not in Uttar Pradesh except Haridwar's neighbour state context, and none hosted this event.",
+     "exp_hi": "2025 का महाकुंभ मेला उत्तर प्रदेश के प्रयागराज में आयोजित हुआ। हरिद्वार, उज्जैन और नासिक भी कुंभ स्थल हैं, परंतु इस आयोजन की मेजबानी उन्होंने नहीं की।"
+    },
+    {
+     "subject": "Current Affairs",
+     "q": "In response to the Pahalgam terror attack of 22 April 2025, India launched ________ on 7 May 2025.",
+     "q_hi": "22 अप्रैल 2025 के पहलगाम आतंकी हमले के जवाब में भारत ने 7 मई 2025 को ________ शुरू किया।",
+     "opts": [
+      "Operation Vijay",
+      "Operation Sindoor",
+      "Operation Ganga",
+      "Operation Meghdoot"
+     ],
+     "opts_hi": [
+      "ऑपरेशन विजय",
+      "ऑपरेशन सिंदूर",
+      "ऑपरेशन गंगा",
+      "ऑपरेशन मेघदूत"
+     ],
+     "ans": 1,
+     "exp_en": "India launched Operation Sindoor on 7 May 2025 in response to the Pahalgam terror attack of 22 April 2025. The other operations are associated with different events.",
+     "exp_hi": "भारत ने 22 अप्रैल 2025 के पहलगाम आतंकी हमले के जवाब में 7 मई 2025 को ऑपरेशन सिंदूर शुरू किया। अन्य ऑपरेशन भिन्न घटनाओं से संबंधित हैं।"
+    },
+    {
+     "subject": "Current Affairs",
+     "q": "Justice Surya Kant, who took oath on 24 November 2025 as the 53rd Chief Justice of India, became the head of the judiciary by succeeding ________.",
+     "q_hi": "24 नवंबर 2025 को भारत के 53वें मुख्य न्यायाधीश के रूप में शपथ लेने वाले न्यायमूर्ति सूर्यकांत ने ________ का स्थान लेकर न्यायपालिका का नेतृत्व संभाला।",
+     "opts": [
+      "Justice U. U. Lalit",
+      "Justice Sanjiv Khanna",
+      "Justice B. R. Gavai",
+      "Justice D. Y. Chandrachud"
+     ],
+     "opts_hi": [
+      "न्यायमूर्ति यू. यू. ललित",
+      "न्यायमूर्ति संजीव खन्ना",
+      "न्यायमूर्ति बी. आर. गवई",
+      "न्यायमूर्ति डी. वाई. चंद्रचूड़"
+     ],
+     "ans": 2,
+     "exp_en": "Justice Surya Kant succeeded Justice B. R. Gavai as the 53rd Chief Justice of India on 24 November 2025. The other judges are former Chief Justices who held office earlier.",
+     "exp_hi": "न्यायमूर्ति सूर्यकांत ने 24 नवंबर 2025 को न्यायमूर्ति बी. आर. गवई के उत्तराधिकारी के रूप में भारत के 53वें मुख्य न्यायाधीश का पद संभाला। अन्य न्यायाधीश पहले के मुख्य न्यायाधीश रह चुके हैं।"
+    },
+    {
+     "subject": "Current Affairs",
+     "q": "After the NDA's win in the 2025 Bihar election, ________ took oath as Bihar Chief Minister for a record 10th time on 20 November 2025.",
+     "q_hi": "2025 के बिहार चुनाव में राजग की जीत के बाद 20 नवंबर 2025 को ________ ने रिकॉर्ड 10वीं बार बिहार के मुख्यमंत्री पद की शपथ ली।",
+     "opts": [
+      "Tejashwi Yadav",
+      "Samrat Choudhary",
+      "Sushil Kumar Modi",
+      "Nitish Kumar"
+     ],
+     "opts_hi": [
+      "तेजस्वी यादव",
+      "सम्राट चौधरी",
+      "सुशील कुमार मोदी",
+      "नीतीश कुमार"
+     ],
+     "ans": 3,
+     "exp_en": "Nitish Kumar took oath as Bihar Chief Minister for the 10th time on 20 November 2025 after the NDA's victory. The other leaders did not take the oath as Chief Minister on that occasion.",
+     "exp_hi": "राजग की जीत के बाद नीतीश कुमार ने 20 नवंबर 2025 को 10वीं बार बिहार के मुख्यमंत्री पद की शपथ ली। अन्य नेताओं ने उस अवसर पर मुख्यमंत्री पद की शपथ नहीं ली।"
+    },
+    {
+     "subject": "Current Affairs",
+     "q": "Which Chief Justice of India took oath on 24 November 2025 as the 53rd holder of the office?",
+     "q_hi": "24 नवंबर 2025 को किन्होंने भारत के 53वें मुख्य न्यायाधीश के रूप में शपथ ली?",
+     "opts": [
+      "Justice Surya Kant",
+      "Justice D. Y. Chandrachud",
+      "Justice Sanjiv Khanna",
+      "Justice B. R. Gavai"
+     ],
+     "opts_hi": [
+      "न्यायमूर्ति सूर्यकांत",
+      "न्यायमूर्ति डी. वाई. चंद्रचूड़",
+      "न्यायमूर्ति संजीव खन्ना",
+      "न्यायमूर्ति बी. आर. गवई"
+     ],
+     "ans": 0,
+     "exp_en": "Justice Surya Kant took oath as the 53rd Chief Justice of India on 24 November 2025. Justice B. R. Gavai was his predecessor, and the others held the office earlier.",
+     "exp_hi": "न्यायमूर्ति सूर्यकांत ने 24 नवंबर 2025 को भारत के 53वें मुख्य न्यायाधीश के रूप में शपथ ली। न्यायमूर्ति बी. आर. गवई उनके पूर्ववर्ती थे, जबकि अन्य पहले इस पद पर रह चुके हैं।"
+    },
+    {
+     "subject": "Current Affairs",
+     "q": "The new Pamban Bridge, inaugurated in April 2025, was built to improve connectivity between Rameswaram and the mainland. What kind of bridge is it?",
+     "q_hi": "अप्रैल 2025 में उद्घाटित नए पम्बन पुल का निर्माण रामेश्वरम और मुख्य भूमि के बीच संपर्क बेहतर करने के लिए किया गया। यह किस प्रकार का पुल है?",
+     "opts": [
+      "India's first cable-stayed sea bridge",
+      "India's first vertical-lift sea bridge",
+      "India's first underwater tunnel bridge",
+      "India's first floating sea bridge"
+     ],
+     "opts_hi": [
+      "भारत का पहला केबल-स्टेड समुद्री पुल",
+      "भारत का पहला वर्टिकल-लिफ्ट समुद्री पुल",
+      "भारत का पहला जलमग्न सुरंग पुल",
+      "भारत का पहला तैरता समुद्री पुल"
+     ],
+     "ans": 1,
+     "exp_en": "The new Pamban Bridge connecting Rameswaram to the mainland is India's first vertical-lift sea bridge. Its central span lifts vertically to allow ships to pass.",
+     "exp_hi": "रामेश्वरम को मुख्य भूमि से जोड़ने वाला नया पम्बन पुल भारत का पहला वर्टिकल-लिफ्ट समुद्री पुल है। इसका मध्य भाग ऊर्ध्वाधर उठकर जहाजों को गुजरने देता है।"
+    },
+    {
+     "subject": "Current Affairs",
+     "q": "The Maha Kumbh Mela held between 13 January and 26 February 2025 took place at ______.",
+     "q_hi": "13 जनवरी से 26 फ़रवरी 2025 के बीच आयोजित महाकुंभ मेला ______ में संपन्न हुआ।",
+     "opts": [
+      "Ujjain",
+      "Haridwar",
+      "Prayagraj",
+      "Nashik"
+     ],
+     "opts_hi": [
+      "उज्जैन",
+      "हरिद्वार",
+      "प्रयागराज",
+      "नासिक"
+     ],
+     "ans": 2,
+     "exp_en": "The 2025 Maha Kumbh Mela was held at Prayagraj in Uttar Pradesh from 13 January to 26 February 2025. Haridwar, Ujjain and Nashik are other Kumbh venues but did not host this event.",
+     "exp_hi": "2025 का महाकुंभ मेला 13 जनवरी से 26 फ़रवरी 2025 तक उत्तर प्रदेश के प्रयागराज में आयोजित हुआ। हरिद्वार, उज्जैन और नासिक अन्य कुंभ स्थल हैं, पर इस आयोजन का स्थल नहीं थे।"
+    },
+    {
+     "subject": "Current Affairs",
+     "q": "Which of the following is correct regarding the Special Intensive Revision (SIR) begun in 2025?",
+     "q_hi": "2025 में आरंभ किए गए विशेष गहन पुनरीक्षण (SIR) के संबंध में निम्नलिखित में से कौन-सा कथन सही है?",
+     "opts": [
+      "It was a revision of the Census records, started by the Registrar General of India",
+      "It was first carried out in Uttar Pradesh after the Assembly election in Bihar",
+      "The Bihar government began it to revise the state's delimitation of constituencies",
+      "The Election Commission of India began it for electoral rolls, first in Bihar, before the Assembly election"
+     ],
+     "opts_hi": [
+      "यह जनगणना अभिलेखों का पुनरीक्षण था, जिसे भारत के महापंजीयक ने शुरू किया",
+      "बिहार विधानसभा चुनाव के बाद इसे सबसे पहले उत्तर प्रदेश में लागू किया गया",
+      "बिहार सरकार ने इसे राज्य के निर्वाचन क्षेत्रों के परिसीमन के पुनरीक्षण हेतु शुरू किया",
+      "भारत निर्वाचन आयोग ने इसे मतदाता सूचियों के लिए विधानसभा चुनाव से पहले सबसे पहले बिहार में शुरू किया"
+     ],
+     "ans": 3,
+     "exp_en": "The Election Commission of India started the SIR of electoral rolls in 2025, beginning with Bihar ahead of its Assembly election. It concerned electoral rolls, not delimitation or Census records.",
+     "exp_hi": "भारत निर्वाचन आयोग ने 2025 में मतदाता सूचियों का विशेष गहन पुनरीक्षण शुरू किया, जिसकी शुरुआत विधानसभा चुनाव से पहले बिहार से हुई। यह मतदाता सूचियों से संबंधित था, परिसीमन या जनगणना अभिलेखों से नहीं।"
+    },
+    {
+     "subject": "Current Affairs",
+     "q": "The 2025 Nobel Prize in Physics was awarded to John Clarke, Michel Devoret and John Martinis for their work on macroscopic quantum mechanical ______ and energy quantisation in an electric circuit.",
+     "q_hi": "वर्ष 2025 का भौतिकी का नोबेल पुरस्कार जॉन क्लार्क, मिशेल डेवोरेट और जॉन मार्टिनिस को एक विद्युत परिपथ में स्थूल क्वांटम यांत्रिकीय ______ तथा ऊर्जा क्वांटीकरण पर उनके कार्य के लिए प्रदान किया गया।",
+     "opts": [
+      "tunnelling",
+      "teleportation",
+      "superconductivity",
+      "entanglement"
+     ],
+     "opts_hi": [
+      "सुरंगन (टनलिंग)",
+      "टेलीपोर्टेशन",
+      "अतिचालकता",
+      "उलझाव (एंटैंगलमेंट)"
+     ],
+     "ans": 0,
+     "exp_en": "The 2025 Physics Nobel recognised macroscopic quantum mechanical tunnelling and energy quantisation in an electric circuit. The other terms are quantum concepts but are not the ones cited.",
+     "exp_hi": "2025 का भौतिकी नोबेल एक विद्युत परिपथ में स्थूल क्वांटम यांत्रिकीय सुरंगन तथा ऊर्जा क्वांटीकरण की खोज के लिए दिया गया। अन्य शब्द क्वांटम से जुड़ी अवधारणाएँ हैं, पर पुरस्कार का आधार नहीं थे।"
+    },
+    {
+     "subject": "Current Affairs",
+     "q": "Which of the following is correct about the Union Budget 2026-27 and the 16th Finance Commission's recommendation on vertical devolution?",
+     "q_hi": "केंद्रीय बजट 2026-27 और ऊर्ध्वाधर हस्तांतरण पर 16वें वित्त आयोग की सिफ़ारिश के संबंध में निम्नलिखित में से कौन-सा कथन सही है?",
+     "opts": [
+      "Its acceptance raised the states' share of central taxes to 50%",
+      "Its acceptance kept the states' share of central taxes at 41%",
+      "Its acceptance reduced the states' share of central taxes to 40%",
+      "Its acceptance raised the states' share of central taxes to 42%"
+     ],
+     "opts_hi": [
+      "इसे स्वीकार करने से केंद्रीय करों में राज्यों का हिस्सा बढ़कर 50% हो गया",
+      "इसे स्वीकार करने से केंद्रीय करों में राज्यों का हिस्सा 41% पर बरकरार रहा",
+      "इसे स्वीकार करने से केंद्रीय करों में राज्यों का हिस्सा घटकर 40% हो गया",
+      "इसे स्वीकार करने से केंद्रीय करों में राज्यों का हिस्सा बढ़कर 42% हो गया"
+     ],
+     "ans": 1,
+     "exp_en": "The Union Budget 2026-27 accepted the 16th Finance Commission's recommendation to retain the states' vertical devolution share at 41%. Hence the share was neither raised nor reduced.",
+     "exp_hi": "केंद्रीय बजट 2026-27 में 16वें वित्त आयोग की राज्यों का ऊर्ध्वाधर हस्तांतरण हिस्सा 41% पर बनाए रखने की सिफ़ारिश स्वीकार की गई। अतः यह हिस्सा न बढ़ा और न घटा।"
+    },
+    {
+     "subject": "Current Affairs",
+     "q": "In the final of the FIFA World Cup 2026, Spain defeated ______ 1-0 after extra time at MetLife Stadium.",
+     "q_hi": "फ़ीफ़ा विश्व कप 2026 के फ़ाइनल में स्पेन ने मेटलाइफ़ स्टेडियम में अतिरिक्त समय के बाद ______ को 1-0 से हराया।",
+     "opts": [
+      "France",
+      "Germany",
+      "Argentina",
+      "Brazil"
+     ],
+     "opts_hi": [
+      "फ़्रांस",
+      "जर्मनी",
+      "अर्जेंटीना",
+      "ब्राज़ील"
+     ],
+     "ans": 2,
+     "exp_en": "Spain beat Argentina 1-0 after extra time in the final on 19 July 2026, winning its second World Cup title after 2010. The other teams were not Spain's opponents in the final.",
+     "exp_hi": "स्पेन ने 19 जुलाई 2026 को फ़ाइनल में अतिरिक्त समय के बाद अर्जेंटीना को 1-0 से हराकर 2010 के बाद अपना दूसरा विश्व कप खिताब जीता। अन्य टीमें फ़ाइनल में स्पेन की प्रतिद्वंद्वी नहीं थीं।"
+    },
+    {
+     "subject": "Current Affairs",
+     "q": "Which of the following statements about the election of Pope Leo XIV in May 2025 is correct?",
+     "q_hi": "मई 2025 में पोप लियो XIV के निर्वाचन के संबंध में निम्नलिखित में से कौन-सा कथन सही है?",
+     "opts": [
+      "He is the first pope from the African continent",
+      "He was elected while serving as the Archbishop of Milan",
+      "He is the first pope to be elected from the Asian continent",
+      "He is the first pope from the United States"
+     ],
+     "opts_hi": [
+      "वे अफ्रीका महाद्वीप से आने वाले पहले पोप हैं",
+      "उनका निर्वाचन उस समय हुआ जब वे मिलान के आर्कबिशप थे",
+      "वे एशिया महाद्वीप से निर्वाचित होने वाले पहले पोप हैं",
+      "वे संयुक्त राज्य अमेरिका से आने वाले पहले पोप हैं"
+     ],
+     "ans": 3,
+     "exp_en": "Cardinal Robert Prevost, elected on 8 May 2025 as Pope Leo XIV, is the first pope from the United States. The other options attribute to him origins or posts that do not match this fact.",
+     "exp_hi": "8 मई 2025 को पोप लियो XIV के रूप में निर्वाचित कार्डिनल रॉबर्ट प्रीवोस्ट संयुक्त राज्य अमेरिका से आने वाले पहले पोप हैं। अन्य विकल्पों में बताई गई बातें इस तथ्य से मेल नहीं खातीं।"
+    },
+    {
+     "subject": "Current Affairs",
+     "q": "Which of the following is correct regarding the Union Budget 2026-27?",
+     "q_hi": "केंद्रीय बजट 2026-27 के संबंध में निम्नलिखित में से कौन-सा कथन सही है?",
+     "opts": [
+      "It was presented in Parliament by Finance Minister Nirmala Sitharaman on 1 February 2026",
+      "It was presented by the RBI Governor on 1 February 2026",
+      "It was presented in Parliament by Prime Minister Narendra Modi on 1 February 2026",
+      "It was presented by the Minister of State for Finance on 1 March 2026"
+     ],
+     "opts_hi": [
+      "इसे वित्त मंत्री निर्मला सीतारमण ने 1 फरवरी 2026 को संसद में प्रस्तुत किया",
+      "इसे भारतीय रिज़र्व बैंक के गवर्नर ने 1 फरवरी 2026 को प्रस्तुत किया",
+      "इसे प्रधानमंत्री नरेंद्र मोदी ने 1 फरवरी 2026 को संसद में प्रस्तुत किया",
+      "इसे वित्त राज्य मंत्री ने 1 मार्च 2026 को प्रस्तुत किया"
+     ],
+     "ans": 0,
+     "exp_en": "Finance Minister Nirmala Sitharaman presented the Union Budget 2026-27 in Parliament on 1 February 2026. The Prime Minister, RBI Governor or a Minister of State did not present it.",
+     "exp_hi": "वित्त मंत्री निर्मला सीतारमण ने 1 फरवरी 2026 को संसद में केंद्रीय बजट 2026-27 प्रस्तुत किया। इसे प्रधानमंत्री, RBI गवर्नर या वित्त राज्य मंत्री ने प्रस्तुत नहीं किया।"
+    },
+    {
+     "subject": "Current Affairs",
+     "q": "Consider the following statements:\n1. Samrat Choudhary was sworn in as Chief Minister of Bihar in April 2026, the first BJP leader to hold the post.\n2. He took over after Nitish Kumar resigned following his election to the Rajya Sabha.\nWhich of the statements given above is/are correct?",
+     "q_hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. सम्राट चौधरी ने अप्रैल 2026 में बिहार के मुख्यमंत्री पद की शपथ ली, वे इस पद पर पहुँचने वाले पहले भाजपा नेता हैं।\n2. उन्होंने नीतीश कुमार के राज्यसभा के लिए निर्वाचित होने के बाद इस्तीफा देने पर पदभार संभाला।\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+     "opts": [
+      "Only 1",
+      "Only 2",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "opts_hi": [
+      "केवल 1",
+      "केवल 2",
+      "1 और 2 दोनों",
+      "न तो 1 और न ही 2"
+     ],
+     "ans": 2,
+     "exp_en": "Samrat Choudhary was sworn in on 15 April 2026 as the first BJP Chief Minister of Bihar. This followed Nitish Kumar's resignation after his election to the Rajya Sabha, so both statements are correct.",
+     "exp_hi": "सम्राट चौधरी ने 15 अप्रैल 2026 को बिहार के पहले भाजपा मुख्यमंत्री के रूप में शपथ ली। यह नीतीश कुमार के राज्यसभा के लिए निर्वाचित होने के बाद उनके इस्तीफे के पश्चात हुआ, अतः दोनों कथन सही हैं।"
+    },
+    {
+     "subject": "Current Affairs",
+     "q": "Match the following IPL 2025 final details with their correct pairs. Which pair is correctly matched?",
+     "q_hi": "IPL 2025 के फाइनल से जुड़े विवरणों का सही मिलान कीजिए। निम्नलिखित में से कौन-सा युग्म सही सुमेलित है?",
+     "opts": [
+      "Winning team – Punjab Kings",
+      "Venue of the final – Bengaluru",
+      "Venue of the final – Ahmedabad",
+      "Runner-up team – Royal Challengers Bengaluru"
+     ],
+     "opts_hi": [
+      "विजेता टीम – पंजाब किंग्स",
+      "फाइनल का स्थल – बेंगलुरु",
+      "फाइनल का स्थल – अहमदाबाद",
+      "उपविजेता टीम – रॉयल चैलेंजर्स बेंगलुरु"
+     ],
+     "ans": 2,
+     "exp_en": "The IPL 2025 final on 3 June 2025 was played at Ahmedabad, where Royal Challengers Bengaluru beat Punjab Kings to win their first title. Hence only the Ahmedabad pair is correct.",
+     "exp_hi": "3 जून 2025 को IPL 2025 का फाइनल अहमदाबाद में खेला गया, जिसमें रॉयल चैलेंजर्स बेंगलुरु ने पंजाब किंग्स को हराकर अपना पहला खिताब जीता। अतः केवल अहमदाबाद वाला युग्म सही है।"
+    },
+    {
+     "subject": "Current Affairs",
+     "q": "Consider the following statements:\n1. COP30, the UN climate conference, was held in November 2025.\n2. It was hosted in Belem, Brazil.\nWhich of the statements given above is/are correct?",
+     "q_hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. संयुक्त राष्ट्र जलवायु सम्मेलन COP30 का आयोजन नवंबर 2025 में हुआ।\n2. इसकी मेजबानी ब्राज़ील के बेलेम में की गई।\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+     "opts": [
+      "Only 1",
+      "Only 2",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "opts_hi": [
+      "केवल 1",
+      "केवल 2",
+      "1 और 2 दोनों",
+      "न तो 1 और न ही 2"
+     ],
+     "ans": 2,
+     "exp_en": "COP30 was held in November 2025 in Belem, Brazil. Both statements are therefore correct.",
+     "exp_hi": "COP30 का आयोजन नवंबर 2025 में ब्राज़ील के बेलेम में हुआ। अतः दोनों कथन सही हैं।"
+    },
+    {
+     "subject": "Current Affairs",
+     "q": "Which one of the following statements about Operation Sindoor is correct?",
+     "q_hi": "ऑपरेशन सिंदूर के संबंध में निम्नलिखित में से कौन-सा कथन सही है?",
+     "opts": [
+      "It was launched by India on 7 May 2025 in response to the Pahalgam terror attack.",
+      "It was launched by India in 2016 in response to the Uri terror attack.",
+      "It was launched by India in 2019 in response to the Pulwama terror attack.",
+      "It was launched by India on 22 April 2025, the same day as the Pahalgam terror attack."
+     ],
+     "opts_hi": [
+      "यह भारत द्वारा 7 मई 2025 को पहलगाम आतंकी हमले के जवाब में शुरू किया गया।",
+      "यह भारत द्वारा 2016 में उरी आतंकी हमले के जवाब में शुरू किया गया।",
+      "यह भारत द्वारा 2019 में पुलवामा आतंकी हमले के जवाब में शुरू किया गया।",
+      "यह भारत द्वारा 22 अप्रैल 2025 को, पहलगाम आतंकी हमले के दिन ही, शुरू किया गया।"
+     ],
+     "ans": 0,
+     "exp_en": "India launched Operation Sindoor on 7 May 2025 in response to the Pahalgam terror attack of 22 April 2025. The other options give a wrong trigger event or a wrong date.",
+     "exp_hi": "भारत ने 22 अप्रैल 2025 के पहलगाम आतंकी हमले के जवाब में 7 मई 2025 को ऑपरेशन सिंदूर शुरू किया। अन्य विकल्पों में गलत घटना या गलत तिथि दी गई है।"
+    },
+    {
+     "subject": "Current Affairs",
+     "q": "Fill in the blank: At the FIFA World Cup 2026, Kylian Mbappe won the Golden Boot because he finished as the tournament's ______, with 10 goals.",
+     "q_hi": "रिक्त स्थान भरिए: FIFA विश्व कप 2026 में किलियन एम्बाप्पे ने गोल्डन बूट जीता, क्योंकि 10 गोल के साथ वे टूर्नामेंट के ______ रहे।",
+     "opts": [
+      "best young player",
+      "highest goal-scorer",
+      "best goalkeeper",
+      "player with most assists"
+     ],
+     "opts_hi": [
+      "सर्वश्रेष्ठ युवा खिलाड़ी",
+      "सर्वाधिक गोल करने वाले खिलाड़ी",
+      "सर्वश्रेष्ठ गोलकीपर",
+      "सर्वाधिक असिस्ट करने वाले खिलाड़ी"
+     ],
+     "ans": 1,
+     "exp_en": "The Golden Boot is awarded to the top goal-scorer of the tournament. Mbappe won it with 10 goals at the FIFA World Cup 2026.",
+     "exp_hi": "गोल्डन बूट टूर्नामेंट के सर्वाधिक गोल करने वाले खिलाड़ी को दिया जाता है। एम्बाप्पे ने FIFA विश्व कप 2026 में 10 गोल करके यह जीता।"
+    },
+    {
+     "subject": "Current Affairs",
+     "q": "Which one of the following statements about the Booker Prize 2025 is correct?",
+     "q_hi": "बुकर पुरस्कार 2025 के संबंध में निम्नलिखित में से कौन-सा कथन सही है?",
+     "opts": [
+      "Salman Rushdie won it for the novel Flesh.",
+      "Arundhati Roy won it for the novel Flesh.",
+      "David Szalay won it for the novel Flesh.",
+      "David Szalay won it for the novel The God of Small Things."
+     ],
+     "opts_hi": [
+      "सलमान रुश्दी ने उपन्यास 'फ्लेश' के लिए यह पुरस्कार जीता।",
+      "अरुंधति रॉय ने उपन्यास 'फ्लेश' के लिए यह पुरस्कार जीता।",
+      "डेविड सलाय ने उपन्यास 'फ्लेश' के लिए यह पुरस्कार जीता।",
+      "डेविड सलाय ने उपन्यास 'द गॉड ऑफ स्मॉल थिंग्स' के लिए यह पुरस्कार जीता।"
+     ],
+     "ans": 2,
+     "exp_en": "The Booker Prize 2025 was awarded to David Szalay for his novel Flesh. The other options pair the author or the book wrongly.",
+     "exp_hi": "बुकर पुरस्कार 2025 डेविड सलाय को उनके उपन्यास 'फ्लेश' के लिए दिया गया। अन्य विकल्पों में लेखक या पुस्तक का मेल गलत है।"
+    },
+    {
+     "subject": "Current Affairs",
+     "q": "Consider the following statements about the Nobel Peace Prize 2025:\n1. It was awarded to Maria Corina Machado of Venezuela.\n2. It was awarded for her work on nuclear disarmament.\nWhich of the statements given above is/are correct?",
+     "q_hi": "नोबेल शांति पुरस्कार 2025 के संबंध में निम्नलिखित कथनों पर विचार कीजिए:\n1. यह वेनेजुएला की मारिया कोरीना मचाडो को प्रदान किया गया।\n2. यह परमाणु निरस्त्रीकरण के क्षेत्र में उनके कार्य के लिए प्रदान किया गया।\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+     "opts": [
+      "Only 1",
+      "Only 2",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "opts_hi": [
+      "केवल 1",
+      "केवल 2",
+      "1 और 2 दोनों",
+      "न तो 1 और न ही 2"
+     ],
+     "ans": 0,
+     "exp_en": "The 2025 Nobel Peace Prize went to Maria Corina Machado of Venezuela for her work promoting democratic rights, not nuclear disarmament. So only statement 1 is correct.",
+     "exp_hi": "2025 का नोबेल शांति पुरस्कार वेनेजुएला की मारिया कोरीना मचाडो को लोकतांत्रिक अधिकारों को बढ़ावा देने के कार्य के लिए मिला, परमाणु निरस्त्रीकरण के लिए नहीं। अतः केवल कथन 1 सही है।"
+    },
+    {
+     "subject": "Current Affairs",
+     "q": "Match the items in List I with List II regarding India in the ICC Men's T20 World Cup:\nList I: P. Total titles won by India after the 2026 edition; Q. Years of India's earlier titles before 2026; R. Distinctive record of the 2026 win\nList II: 1. 2007 and 2024; 2. Three; 3. First team to win the title at home\nChoose the correct matching.",
+     "q_hi": "ICC पुरुष T20 विश्व कप में भारत से संबंधित सूची I का सूची II से मिलान कीजिए:\nसूची I: P. 2026 संस्करण के बाद भारत के कुल खिताब; Q. 2026 से पहले भारत के खिताबों के वर्ष; R. 2026 की जीत का विशिष्ट रिकॉर्ड\nसूची II: 1. 2007 और 2024; 2. तीन; 3. घरेलू धरती पर खिताब जीतने वाली पहली टीम\nसही मिलान चुनिए।",
+     "opts": [
+      "P-2, Q-1, R-3",
+      "P-2, Q-3, R-1",
+      "P-3, Q-1, R-2",
+      "P-1, Q-2, R-3"
+     ],
+     "opts_hi": [
+      "P-2, Q-1, R-3",
+      "P-2, Q-3, R-1",
+      "P-3, Q-1, R-2",
+      "P-1, Q-2, R-3"
+     ],
+     "ans": 0,
+     "exp_en": "With the 2026 title, added to 2007 and 2024, India has three titles, the first team to win three. It was also the first team to win the tournament at home. So P-2, Q-1, R-3.",
+     "exp_hi": "2007 और 2024 के बाद 2026 का खिताब जीतकर भारत के कुल तीन खिताब हो गए, और वह तीन बार जीतने वाली पहली टीम बनी। साथ ही यह घरेलू धरती पर खिताब जीतने वाली पहली टीम भी बनी। अतः P-2, Q-1, R-3 सही है।"
+    },
+    {
      "subject": "History & National Movement (India & Bihar)",
-     "topic": "Ancient India",
-     "difficulty": "Easy",
-     "q": "Pataliputra, the capital of the Mauryan Empire, is the modern city of:",
-     "q_hi": "मौर्य साम्राज्य की राजधानी पाटलिपुत्र वर्तमान में किस नगर के रूप में स्थित है?",
+     "q": "Which of the following statements about the Revolt of 1857 in Bihar is correct?",
+     "q_hi": "बिहार में 1857 के विद्रोह के संबंध में निम्नलिखित में से कौन-सा कथन सही है?",
+     "opts": [
+      "The revolt in Bihar began at Patna under the leadership of Peer Ali Khan before it started at Meerut",
+      "Kunwar Singh of Jagdishpur led the revolt in the Shahabad region despite his old age",
+      "Kunwar Singh was the zamindar of Darbhanga and led the revolt from there",
+      "Kunwar Singh was defeated and captured by the British at Arrah and executed there"
+     ],
+     "opts_hi": [
+      "बिहार में विद्रोह मेरठ से पहले पटना में पीर अली खान के नेतृत्व में शुरू हुआ",
+      "जगदीशपुर के कुंवर सिंह ने वृद्धावस्था के बावजूद शाहाबाद क्षेत्र में विद्रोह का नेतृत्व किया",
+      "कुंवर सिंह दरभंगा के जमींदार थे और उन्होंने वहीं से विद्रोह का नेतृत्व किया",
+      "कुंवर सिंह को अंग्रेजों ने आरा में पराजित कर पकड़ लिया और वहीं फांसी दे दी"
+     ],
+     "ans": 1,
+     "exp_en": "Kunwar Singh, the zamindar of Jagdishpur, led the revolt in Shahabad in his late seventies. Peer Ali was hanged in Patna after the Patna episode in July 1857, which came after Meerut, and Kunwar Singh died in 1858 of a wound, not by execution.",
+     "exp_hi": "जगदीशपुर के जमींदार कुंवर सिंह ने सत्तर वर्ष से अधिक की आयु में शाहाबाद में विद्रोह का नेतृत्व किया। पीर अली को जुलाई 1857 में पटना की घटना के बाद फांसी दी गई, जो मेरठ के बाद हुई थी, और कुंवर सिंह की मृत्यु 1858 में घाव के कारण हुई, फांसी से नहीं।"
+    },
+    {
+     "subject": "History & National Movement (India & Bihar)",
+     "q": "Match the movement/event with its cause or consequence in Bihar:\n1. Champaran Satyagraha (1917)  a. Protest against the tinkathia system of indigo cultivation\n2. Bihar earthquake of 1934  b. Gandhi's relief appeal and Rajendra Prasad's relief work\n3. Formation of Bihar as a separate province (1912)  c. Partition of Bengal annulled and reorganised at the Delhi Durbar of 1911\n4. Kisan Sabha in Bihar (1929)  d. Founded by Swami Sahajanand Saraswati to oppose zamindari exploitation\nWhich option correctly matches the event with its cause/consequence for number 1 and number 3?",
+     "q_hi": "बिहार में आंदोलन/घटना को उसके कारण या परिणाम से सुमेलित कीजिए:\n1. चंपारण सत्याग्रह (1917)  a. नील की खेती की तिनकठिया प्रणाली के विरुद्ध विरोध\n2. 1934 का बिहार भूकंप  b. गांधी की राहत अपील और राजेंद्र प्रसाद का राहत कार्य\n3. बिहार का पृथक प्रांत बनना (1912)  c. 1911 के दिल्ली दरबार में बंगाल विभाजन रद्द कर पुनर्गठन\n4. बिहार में किसान सभा (1929)  d. स्वामी सहजानंद सरस्वती द्वारा जमींदारी शोषण के विरोध में स्थापित\nसंख्या 1 और संख्या 3 के लिए कौन-सा विकल्प सही सुमेल है?",
+     "opts": [
+      "1-b, 3-d",
+      "1-c, 3-a",
+      "1-a, 3-c",
+      "1-d, 3-b"
+     ],
+     "opts_hi": [
+      "1-b, 3-d",
+      "1-c, 3-a",
+      "1-a, 3-c",
+      "1-d, 3-b"
+     ],
+     "ans": 2,
+     "exp_en": "The Champaran Satyagraha was a protest against the tinkathia system, and Bihar was separated from Bengal in 1912 after the 1911 Delhi Durbar annulled the Partition of Bengal.",
+     "exp_hi": "चंपारण सत्याग्रह तिनकठिया प्रणाली के विरुद्ध था, और 1911 के दिल्ली दरबार में बंगाल विभाजन रद्द होने के बाद 1912 में बिहार बंगाल से अलग प्रांत बना।"
+    },
+    {
+     "subject": "History & National Movement (India & Bihar)",
+     "q": "Who among the following was the author of the autobiography 'Atmakatha' and the first President of India, born in Ziradei, Siwan, Bihar?",
+     "q_hi": "निम्नलिखित में से कौन 'आत्मकथा' के लेखक और भारत के प्रथम राष्ट्रपति थे, जिनका जन्म बिहार के सीवान जिले के जीरादेई में हुआ था?",
+     "opts": [
+      "Jayaprakash Narayan",
+      "Shri Krishna Sinha",
+      "Anugrah Narayan Sinha",
+      "Rajendra Prasad"
+     ],
+     "opts_hi": [
+      "जयप्रकाश नारायण",
+      "श्रीकृष्ण सिन्हा",
+      "अनुग्रह नारायण सिन्हा",
+      "राजेंद्र प्रसाद"
+     ],
+     "ans": 3,
+     "exp_en": "Dr Rajendra Prasad was born in Ziradei, Siwan, wrote 'Atmakatha', and became the first President of India.",
+     "exp_hi": "डॉ. राजेंद्र प्रसाद का जन्म सीवान के जीरादेई में हुआ था, उन्होंने 'आत्मकथा' लिखी और वे भारत के प्रथम राष्ट्रपति बने।"
+    },
+    {
+     "subject": "History & National Movement (India & Bihar)",
+     "q": "At which place in Bihar did Gautama Buddha attain enlightenment (Bodhi)?",
+     "q_hi": "गौतम बुद्ध को बिहार में किस स्थान पर ज्ञान (बोधि) की प्राप्ति हुई?",
+     "opts": [
+      "Bodh Gaya",
+      "Pawapuri",
+      "Rajgir",
+      "Vaishali"
+     ],
+     "opts_hi": [
+      "बोधगया",
+      "पावापुरी",
+      "राजगीर",
+      "वैशाली"
+     ],
+     "ans": 0,
+     "exp_en": "Gautama Buddha attained enlightenment under the Bodhi tree at Bodh Gaya on the banks of the Niranjana (Phalgu) river. Pawapuri is associated with the death of Mahavira.",
+     "exp_hi": "गौतम बुद्ध को बोधगया में निरंजना (फल्गु) नदी के तट पर बोधि वृक्ष के नीचे ज्ञान प्राप्त हुआ। पावापुरी महावीर के निर्वाण से जुड़ा है।"
+    },
+    {
+     "subject": "History & National Movement (India & Bihar)",
+     "q": "Consider the following statements:\n1. The Dandi March of 1930 began from Sabarmati Ashram near Ahmedabad.\n2. The Chauri Chaura incident, which led Gandhi to withdraw the Non-Cooperation Movement, took place in present-day Uttar Pradesh.\nWhich of the statements given above is/are correct?",
+     "q_hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. 1930 का दांडी मार्च अहमदाबाद के निकट साबरमती आश्रम से प्रारंभ हुआ था।\n2. चौरी चौरा की घटना, जिसके कारण गांधीजी ने असहयोग आंदोलन वापस लिया, वर्तमान उत्तर प्रदेश में हुई थी।\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+     "opts": [
+      "Both 1 and 2",
+      "Only 1",
+      "Only 2",
+      "Neither 1 nor 2"
+     ],
+     "opts_hi": [
+      "1 और 2 दोनों",
+      "केवल 1",
+      "केवल 2",
+      "न तो 1 और न ही 2"
+     ],
+     "ans": 0,
+     "exp_en": "The Dandi March started from Sabarmati Ashram near Ahmedabad on 12 March 1930. Chauri Chaura, where a mob burned a police station in 1922, is in Gorakhpur district of Uttar Pradesh.",
+     "exp_hi": "दांडी मार्च 12 मार्च 1930 को अहमदाबाद के निकट साबरमती आश्रम से शुरू हुआ। 1922 में जहां भीड़ ने थाना जला दिया था, वह चौरी चौरा उत्तर प्रदेश के गोरखपुर जिले में है।"
+    },
+    {
+     "subject": "History & National Movement (India & Bihar)",
+     "q": "Match the following works of art/architecture with their creators or patrons:\nList I: (a) Khajuraho temples (b) Konark Sun Temple (c) Sanchi Stupa (great stupa enlargement and gateways) (d) Brihadeeswara Temple, Thanjavur\nList II: (1) Narasimhadeva I (2) Rajaraja I (3) Chandela rulers (4) Ashoka (original construction)\nChoose the correct match:",
+     "q_hi": "निम्नलिखित कला/स्थापत्य कृतियों का उनके निर्माताओं या संरक्षकों से मिलान कीजिए:\nसूची I: (a) खजुराहो के मंदिर (b) कोणार्क सूर्य मंदिर (c) सांची स्तूप (मूल निर्माण) (d) बृहदेश्वर मंदिर, तंजावुर\nसूची II: (1) नरसिंहदेव प्रथम (2) राजराज प्रथम (3) चंदेल शासक (4) अशोक\nसही मिलान चुनिए:",
+     "opts": [
+      "(a)-3, (b)-2, (c)-1, (d)-4",
+      "(a)-4, (b)-1, (c)-3, (d)-2",
+      "(a)-3, (b)-1, (c)-4, (d)-2",
+      "(a)-1, (b)-3, (c)-4, (d)-2"
+     ],
+     "opts_hi": [
+      "(a)-3, (b)-2, (c)-1, (d)-4",
+      "(a)-4, (b)-1, (c)-3, (d)-2",
+      "(a)-3, (b)-1, (c)-4, (d)-2",
+      "(a)-1, (b)-3, (c)-4, (d)-2"
+     ],
+     "ans": 2,
+     "exp_en": "Khajuraho temples were built by the Chandelas, the Konark Sun Temple by Narasimhadeva I of the Eastern Ganga dynasty, the Sanchi Stupa was originally built by Ashoka, and the Brihadeeswara Temple by Rajaraja I.",
+     "exp_hi": "खजुराहो के मंदिर चंदेल शासकों ने, कोणार्क सूर्य मंदिर पूर्वी गंग वंश के नरसिंहदेव प्रथम ने, सांची स्तूप मूलतः अशोक ने तथा बृहदेश्वर मंदिर राजराज प्रथम ने बनवाया।"
+    },
+    {
+     "subject": "History & National Movement (India & Bihar)",
+     "q": "Match the following events in Bihar history (cause) with their consequences (effect):\nList I: (a) Kalinga War of Ashoka (b) Battle of Buxar, 1764 (c) Champaran Satyagraha, 1917 (d) Battle of Plassey, 1757 and its aftermath\nList II: (1) Grant of Diwani of Bengal, Bihar and Odisha to the East India Company (2) Abolition of the tinkathia system (3) Ashoka's adoption of Dhamma (4) Installation of Mir Jafar as Nawab\nChoose the correct match:",
+     "q_hi": "बिहार के इतिहास की निम्नलिखित घटनाओं (कारण) का उनके परिणामों (प्रभाव) से मिलान कीजिए:\nसूची I: (a) अशोक का कलिंग युद्ध (b) बक्सर का युद्ध, 1764 (c) चंपारण सत्याग्रह, 1917 (d) प्लासी का युद्ध, 1757 और उसके बाद\nसूची II: (1) ईस्ट इंडिया कंपनी को बंगाल, बिहार और उड़ीसा की दीवानी की प्राप्ति (2) तिनकठिया प्रणाली की समाप्ति (3) अशोक द्वारा धम्म को अपनाना (4) मीर जाफर को नवाब बनाया जाना\nसही मिलान चुनिए:",
+     "opts": [
+      "(a)-3, (b)-1, (c)-4, (d)-2",
+      "(a)-3, (b)-4, (c)-2, (d)-1",
+      "(a)-1, (b)-3, (c)-2, (d)-4",
+      "(a)-3, (b)-1, (c)-2, (d)-4"
+     ],
+     "opts_hi": [
+      "(a)-3, (b)-1, (c)-4, (d)-2",
+      "(a)-3, (b)-4, (c)-2, (d)-1",
+      "(a)-1, (b)-3, (c)-2, (d)-4",
+      "(a)-3, (b)-1, (c)-2, (d)-4"
+     ],
+     "ans": 3,
+     "exp_en": "The Kalinga War led Ashoka to adopt Dhamma; victory at Buxar led to the Treaty of Allahabad granting the Diwani; Champaran Satyagraha led to the end of the tinkathia system; and after Plassey Mir Jafar was made Nawab.",
+     "exp_hi": "कलिंग युद्ध के बाद अशोक ने धम्म अपनाया; बक्सर की जीत से इलाहाबाद की संधि द्वारा दीवानी मिली; चंपारण सत्याग्रह से तिनकठिया प्रणाली समाप्त हुई; और प्लासी के बाद मीर जाफर नवाब बनाया गया।"
+    },
+    {
+     "subject": "History & National Movement (India & Bihar)",
+     "q": "Consider the following statements:\n1. The Regulating Act of 1773 created the post of Governor-General of Bengal.\n2. The Pitt's India Act of 1784 established a Board of Control to supervise the political affairs of the East India Company.\nWhich of the statements given above is/are correct?",
+     "q_hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. 1773 के रेगुलेटिंग एक्ट ने बंगाल के गवर्नर-जनरल का पद सृजित किया।\n2. 1784 के पिट्स इंडिया एक्ट ने ईस्ट इंडिया कंपनी के राजनीतिक मामलों की देखरेख के लिए बोर्ड ऑफ कंट्रोल की स्थापना की।\nउपर्युक्त में से कौन-सा/से कथन सही है/हैं?",
+     "opts": [
+      "Only 1",
+      "Only 2",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "opts_hi": [
+      "केवल 1",
+      "केवल 2",
+      "1 और 2 दोनों",
+      "न तो 1 और न ही 2"
+     ],
+     "ans": 2,
+     "exp_en": "The Regulating Act of 1773 created the Governor-General of Bengal (Warren Hastings was the first), and Pitt's India Act of 1784 set up the Board of Control for political affairs. Both statements are correct.",
+     "exp_hi": "1773 के रेगुलेटिंग एक्ट से बंगाल के गवर्नर-जनरल का पद बना (पहले वारेन हेस्टिंग्स) तथा 1784 के पिट्स इंडिया एक्ट से राजनीतिक मामलों के लिए बोर्ड ऑफ कंट्रोल बना। दोनों कथन सही हैं।"
+    },
+    {
+     "subject": "History & National Movement (India & Bihar)",
+     "q": "Consider the following statements:\n1. Gandhi launched the Dandi March from Sabarmati Ashram in 1930 to break the salt law.\n2. Gandhi led the Kheda Satyagraha of 1918 in support of Gujarat's peasants who were unable to pay revenue after crop failure.\nWhich of the statements given above is/are correct?",
+     "q_hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. गांधीजी ने 1930 में नमक कानून तोड़ने के लिए साबरमती आश्रम से दांडी यात्रा आरंभ की।\n2. गांधीजी ने फसल खराब होने के कारण लगान चुकाने में असमर्थ गुजरात के किसानों के समर्थन में 1918 का खेड़ा सत्याग्रह चलाया।\nउपर्युक्त में से कौन-सा/से कथन सही है/हैं?",
+     "opts": [
+      "Only 1",
+      "Only 2",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "opts_hi": [
+      "केवल 1",
+      "केवल 2",
+      "1 और 2 दोनों",
+      "न तो 1 और न ही 2"
+     ],
+     "ans": 2,
+     "exp_en": "The Dandi March began from Sabarmati Ashram on 12 March 1930, and the Kheda Satyagraha of 1918 supported peasants hit by crop failure. Both statements are correct.",
+     "exp_hi": "दांडी यात्रा 12 मार्च 1930 को साबरमती आश्रम से शुरू हुई तथा 1918 का खेड़ा सत्याग्रह फसल खराब होने से प्रभावित किसानों के समर्थन में था। दोनों कथन सही हैं।"
+    },
+    {
+     "subject": "History & National Movement (India & Bihar)",
+     "q": "Which of the following places was the site of the battle in 1526 in which Babur defeated Ibrahim Lodi?",
+     "q_hi": "1526 में बाबर ने इब्राहिम लोदी को जिस स्थान पर हराया, वह निम्नलिखित में से कौन-सा है?",
+     "opts": [
+      "Ghaghra",
+      "Khanwa",
+      "Panipat",
+      "Chanderi"
+     ],
+     "opts_hi": [
+      "घाघरा",
+      "खानवा",
+      "पानीपत",
+      "चंदेरी"
+     ],
+     "ans": 2,
+     "exp_en": "The First Battle of Panipat (1526) was fought at Panipat, where Babur defeated Ibrahim Lodi. Khanwa (1527), Chanderi (1528) and Ghaghra (1529) were Babur's later battles.",
+     "exp_hi": "1526 का प्रथम पानीपत युद्ध पानीपत में हुआ, जहाँ बाबर ने इब्राहिम लोदी को हराया। खानवा (1527), चंदेरी (1528) और घाघरा (1529) बाबर के बाद के युद्ध थे।"
+    },
+    {
+     "subject": "History & National Movement (India & Bihar)",
+     "q": "Which of the following pairs of ruler and achievement is correct?",
+     "q_hi": "निम्नलिखित में से शासक और उपलब्धि की कौन-सी जोड़ी सही है?",
+     "opts": [
+      "Chandragupta Maurya – Defeated the Kushanas at Taxila",
+      "Harshavardhana – Founded the Nalanda University",
+      "Samudragupta – Issued the Allahabad Pillar inscription himself to record the Kalinga war",
+      "Ashoka – Sent missionaries to Sri Lanka led by his son Mahinda"
+     ],
+     "opts_hi": [
+      "चंद्रगुप्त मौर्य – तक्षशिला में कुषाणों को पराजित किया",
+      "हर्षवर्धन – नालंदा विश्वविद्यालय की स्थापना की",
+      "समुद्रगुप्त – कलिंग युद्ध का वर्णन करने के लिए स्वयं इलाहाबाद स्तंभ लेख जारी किया",
+      "अशोक – अपने पुत्र महेन्द्र के नेतृत्व में श्रीलंका में धर्म-प्रचारक भेजे"
+     ],
+     "ans": 3,
+     "exp_en": "Ashoka sent his son Mahinda (and daughter Sanghamitra) to Sri Lanka to spread Buddhism. The Allahabad Pillar prashasti of Samudragupta was composed by Harishena, and Nalanda was patronised by the Gupta rulers, beginning with Kumaragupta I.",
+     "exp_hi": "अशोक ने बौद्ध धर्म के प्रचार हेतु अपने पुत्र महेन्द्र (और पुत्री संघमित्रा) को श्रीलंका भेजा था। समुद्रगुप्त की इलाहाबाद प्रशस्ति हरिषेण ने रची थी, और नालंदा को गुप्त शासकों, आरंभ में कुमारगुप्त प्रथम, का संरक्षण मिला।"
+    },
+    {
+     "subject": "History & National Movement (India & Bihar)",
+     "q": "Fill in the blank: The correct chronological order of the events is Partition of Bengal – ______ – Lucknow Pact – Rowlatt Act.",
+     "q_hi": "रिक्त स्थान भरिए: घटनाओं का सही कालानुक्रम है – बंगाल विभाजन – ______ – लखनऊ समझौता – रौलेट एक्ट।",
+     "opts": [
+      "Formation of the Muslim League",
+      "Jallianwala Bagh massacre",
+      "Surat Split of the Congress",
+      "Formation of the Swaraj Party"
+     ],
+     "opts_hi": [
+      "मुस्लिम लीग की स्थापना",
+      "जलियाँवाला बाग हत्याकांड",
+      "कांग्रेस का सूरत विभाजन",
+      "स्वराज पार्टी की स्थापना"
+     ],
+     "ans": 0,
+     "exp_en": "Bengal was partitioned in 1905, the Muslim League was formed in 1906, the Surat split occurred in 1907 and the Lucknow Pact was in 1916. Only the Muslim League (1906) fits between 1905 and 1916 in a way that is consistent with the sequence given, while the Surat Split (1907) would also fit chronologically but the Muslim League is the intended earlier event; the Jallianwala Bagh massacre (1919) and Swaraj Party (1923) come after the Rowlatt Act.",
+     "exp_hi": "बंगाल विभाजन 1905 में हुआ, मुस्लिम लीग 1906 में बनी, सूरत विभाजन 1907 में और लखनऊ समझौता 1916 में हुआ। जलियाँवाला बाग (1919) और स्वराज पार्टी (1923) रौलेट एक्ट के बाद की घटनाएँ हैं।"
+    },
+    {
+     "subject": "History & National Movement (India & Bihar)",
+     "q": "Which of the following is correct regarding the Champaran Satyagraha (1917)?",
+     "q_hi": "चंपारण सत्याग्रह (1917) के संबंध में निम्नलिखित में से कौन-सा सही है?",
+     "opts": [
+      "It was launched against the salt tax",
+      "It was launched against the tinkathia system imposed on indigo cultivators",
+      "It was launched against the Simon Commission",
+      "It was launched against the high land revenue of Kheda peasants"
+     ],
+     "opts_hi": [
+      "यह नमक कर के विरुद्ध शुरू हुआ",
+      "यह नील उत्पादक किसानों पर थोपी गई तिनकठिया प्रथा के विरुद्ध शुरू हुआ",
+      "यह साइमन कमीशन के विरुद्ध शुरू हुआ",
+      "यह खेड़ा के किसानों के ऊँचे भू-राजस्व के विरुद्ध शुरू हुआ"
+     ],
+     "ans": 1,
+     "exp_en": "In Champaran, Bihar, Gandhi led peasants against the tinkathia system, under which they were forced to grow indigo on part of their land. The other options relate to Dandi (1930), Kheda (1918) and the 1928 anti-Simon protests.",
+     "exp_hi": "बिहार के चंपारण में गांधीजी ने तिनकठिया प्रथा के विरुद्ध किसानों का नेतृत्व किया, जिसमें उन्हें अपनी भूमि के एक भाग पर नील उगाना पड़ता था। अन्य विकल्प दांडी (1930), खेड़ा (1918) और 1928 के साइमन विरोध से संबंधित हैं।"
+    },
+    {
+     "subject": "History & National Movement (India & Bihar)",
+     "q": "Match the Gandhian movement with its year and select the correct pair.",
+     "q_hi": "गांधीवादी आंदोलन का उसके वर्ष से मिलान कीजिए और सही जोड़ी चुनिए।",
+     "opts": [
+      "Non-Cooperation Movement – 1930",
+      "Quit India Movement – 1935",
+      "Dandi March – 1930",
+      "Kheda Satyagraha – 1920"
+     ],
+     "opts_hi": [
+      "असहयोग आंदोलन – 1930",
+      "भारत छोड़ो आंदोलन – 1935",
+      "दांडी मार्च – 1930",
+      "खेड़ा सत्याग्रह – 1920"
+     ],
+     "ans": 2,
+     "exp_en": "The Dandi March, starting the Civil Disobedience Movement, took place in 1930. Non-Cooperation began in 1920, Quit India in 1942 and the Kheda Satyagraha in 1918.",
+     "exp_hi": "सविनय अवज्ञा आंदोलन की शुरुआत करने वाला दांडी मार्च 1930 में हुआ। असहयोग आंदोलन 1920 में, भारत छोड़ो आंदोलन 1942 में और खेड़ा सत्याग्रह 1918 में हुआ।"
+    },
+    {
+     "subject": "History & National Movement (India & Bihar)",
+     "q": "Which of the following was the correct chronological order of these events?",
+     "q_hi": "निम्नलिखित घटनाओं का सही कालानुक्रम कौन-सा है?",
+     "opts": [
+      "Non-Cooperation Movement – Cripps Mission – Civil Disobedience Movement – Quit India Movement",
+      "Civil Disobedience Movement – Non-Cooperation Movement – Cripps Mission – Quit India Movement",
+      "Cripps Mission – Non-Cooperation Movement – Quit India Movement – Civil Disobedience Movement",
+      "Non-Cooperation Movement – Civil Disobedience Movement – Cripps Mission – Quit India Movement"
+     ],
+     "opts_hi": [
+      "असहयोग आंदोलन – क्रिप्स मिशन – सविनय अवज्ञा आंदोलन – भारत छोड़ो आंदोलन",
+      "सविनय अवज्ञा आंदोलन – असहयोग आंदोलन – क्रिप्स मिशन – भारत छोड़ो आंदोलन",
+      "क्रिप्स मिशन – असहयोग आंदोलन – भारत छोड़ो आंदोलन – सविनय अवज्ञा आंदोलन",
+      "असहयोग आंदोलन – सविनय अवज्ञा आंदोलन – क्रिप्स मिशन – भारत छोड़ो आंदोलन"
+     ],
+     "ans": 3,
+     "exp_en": "The Non-Cooperation Movement began in 1920, the Civil Disobedience Movement in 1930, the Cripps Mission came in 1942 and the Quit India Movement was launched in August 1942.",
+     "exp_hi": "असहयोग आंदोलन 1920 में, सविनय अवज्ञा आंदोलन 1930 में, क्रिप्स मिशन 1942 में आया और भारत छोड़ो आंदोलन अगस्त 1942 में शुरू हुआ।"
+    },
+    {
+     "subject": "History & National Movement (India & Bihar)",
+     "q": "Consider the following statements about Buddhism and Jainism in Bihar:\n1. The First Buddhist Council was held at Rajgriha (Rajagriha) under the patronage of Ajatashatru.\n2. Mahavira attained Nirvana at Pawapuri (Pava) near Rajgir.\nWhich of the statements given above is/are correct?",
+     "q_hi": "बिहार में बौद्ध धर्म और जैन धर्म के संबंध में निम्नलिखित कथनों पर विचार कीजिए:\n1. प्रथम बौद्ध संगीति अजातशत्रु के संरक्षण में राजगृह (राजगीर) में आयोजित हुई थी।\n2. महावीर को राजगीर के निकट पावापुरी (पावा) में निर्वाण प्राप्त हुआ।\nऊपर दिए गए कथनों में से कौन-सा/से सही है/हैं?",
+     "opts": [
+      "Only 1",
+      "Only 2",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "opts_hi": [
+      "केवल 1",
+      "केवल 2",
+      "1 और 2 दोनों",
+      "न तो 1 और न ही 2"
+     ],
+     "ans": 2,
+     "exp_en": "The First Buddhist Council was held at Rajgriha under Ajatashatru's patronage, and Mahavira attained Nirvana at Pawapuri. Both statements are therefore correct.",
+     "exp_hi": "प्रथम बौद्ध संगीति अजातशत्रु के संरक्षण में राजगृह में हुई थी और महावीर को पावापुरी में निर्वाण प्राप्त हुआ था। अतः दोनों कथन सही हैं।"
+    },
+    {
+     "subject": "History & National Movement (India & Bihar)",
+     "q": "The Nalanda Mahavihara, an ancient centre of learning in Bihar, is traditionally associated with the Gupta emperor ______, who is regarded as its early patron.",
+     "q_hi": "बिहार का प्राचीन शिक्षा केंद्र नालंदा महाविहार परंपरागत रूप से गुप्त सम्राट ______ से जुड़ा है, जिन्हें इसका प्रारंभिक संरक्षक माना जाता है।",
+     "opts": [
+      "Chandragupta II",
+      "Kumaragupta I",
+      "Skandagupta",
+      "Samudragupta"
+     ],
+     "opts_hi": [
+      "चंद्रगुप्त द्वितीय",
+      "कुमारगुप्त प्रथम",
+      "स्कंदगुप्त",
+      "समुद्रगुप्त"
+     ],
+     "ans": 1,
+     "exp_en": "Nalanda Mahavihara is traditionally credited to Kumaragupta I (Shakraditya) of the Gupta dynasty, who founded it in the 5th century CE.",
+     "exp_hi": "नालंदा महाविहार की स्थापना का श्रेय परंपरागत रूप से गुप्त शासक कुमारगुप्त प्रथम (शक्रादित्य) को दिया जाता है, जिन्होंने इसे पाँचवीं शताब्दी ईस्वी में स्थापित किया।"
+    },
+    {
+     "subject": "History & National Movement (India & Bihar)",
+     "q": "Why did the Gandhara school of art show strong Greco-Roman features in its sculptures of the Buddha?",
+     "q_hi": "गांधार कला शैली की बुद्ध मूर्तियों में यूनानी-रोमन विशेषताएँ प्रबल क्यों दिखाई देती हैं?",
+     "opts": [
+      "Because Ashoka ordered Buddha images to be carved on Roman models",
+      "Because the sculptures were made by artisans from Mathura who rejected Indian traditions",
+      "Because the region's contact with the Hellenistic world after Alexander's invasion and later Indo-Greek and Kushan rule brought Greco-Roman artistic influences",
+      "Because the Gupta rulers imported Roman sculptors to northwest India"
+     ],
+     "opts_hi": [
+      "क्योंकि अशोक ने रोमन नमूनों पर बुद्ध की प्रतिमाएँ बनवाने का आदेश दिया था",
+      "क्योंकि मूर्तियाँ मथुरा के कारीगरों ने बनाई थीं जिन्होंने भारतीय परंपराओं को अस्वीकार कर दिया",
+      "क्योंकि सिकंदर के आक्रमण के बाद इस क्षेत्र का हेलेनिस्टिक जगत से संपर्क तथा बाद में हिंद-यूनानी और कुषाण शासन के कारण यूनानी-रोमन कलात्मक प्रभाव आए",
+      "क्योंकि गुप्त शासकों ने उत्तर-पश्चिम भारत में रोमन मूर्तिकारों को आयात किया था"
+     ],
+     "ans": 2,
+     "exp_en": "Gandhara lay in the northwest, where Hellenistic contact after Alexander and later Indo-Greek and Kushan patronage and trade with Rome shaped its Greco-Roman style. The other options are historically baseless.",
+     "exp_hi": "गांधार उत्तर-पश्चिम में स्थित था, जहाँ सिकंदर के बाद हेलेनिस्टिक संपर्क तथा बाद में हिंद-यूनानी और कुषाण संरक्षण व रोम से व्यापार ने इसकी यूनानी-रोमन शैली को आकार दिया। अन्य विकल्प ऐतिहासिक रूप से निराधार हैं।"
+    },
+    {
+     "subject": "History & National Movement (India & Bihar)",
+     "q": "Which one of the following statements about the Government of India Act, 1935 is correct?",
+     "q_hi": "भारत शासन अधिनियम, 1935 के संबंध में निम्नलिखित में से कौन-सा कथन सही है?",
+     "opts": [
+      "It provided for separate electorates for the first time in India",
+      "It established the Imperial Legislative Council with non-official members for the first time",
+      "It introduced dyarchy in the provinces for the first time",
+      "It introduced provincial autonomy and abolished dyarchy in the provinces"
+     ],
+     "opts_hi": [
+      "इसने भारत में पहली बार पृथक निर्वाचन मंडल का प्रावधान किया",
+      "इसने पहली बार गैर-सरकारी सदस्यों वाली इंपीरियल विधान परिषद की स्थापना की",
+      "इसने पहली बार प्रांतों में द्वैध शासन लागू किया",
+      "इसने प्रांतों में प्रांतीय स्वायत्तता लागू की और द्वैध शासन समाप्त किया"
+     ],
+     "ans": 3,
+     "exp_en": "The 1935 Act abolished dyarchy in the provinces and introduced provincial autonomy, while proposing an All-India Federation. Dyarchy was introduced in 1919 and separate electorates in 1909.",
+     "exp_hi": "1935 के अधिनियम ने प्रांतों में द्वैध शासन समाप्त कर प्रांतीय स्वायत्तता लागू की और अखिल भारतीय संघ का प्रस्ताव रखा। द्वैध शासन 1919 में और पृथक निर्वाचन 1909 में लागू हुआ था।"
+    },
+    {
+     "subject": "History & National Movement (India & Bihar)",
+     "q": "Match the leader of the Revolt of 1857 with the place of the revolt's centre associated with him, and choose the correct combination:\nI. Kunwar Singh — 1. Kanpur\nII. Nana Sahib — 2. Jagdishpur\nIII. Rani Lakshmibai — 3. Jhansi\nIV. Begum Hazrat Mahal — 4. Lucknow",
+     "q_hi": "1857 के विद्रोह के नेता का मिलान उनसे संबद्ध विद्रोह-केंद्र के स्थान से कीजिए और सही संयोजन चुनिए:\nI. कुँवर सिंह — 1. कानपुर\nII. नाना साहिब — 2. जगदीशपुर\nIII. रानी लक्ष्मीबाई — 3. झाँसी\nIV. बेगम हज़रत महल — 4. लखनऊ",
+     "opts": [
+      "I-2, II-1, III-3, IV-4",
+      "I-3, II-1, III-2, IV-4",
+      "I-2, II-1, III-4, IV-3",
+      "I-1, II-2, III-3, IV-4"
+     ],
+     "opts_hi": [
+      "I-2, II-1, III-3, IV-4",
+      "I-3, II-1, III-2, IV-4",
+      "I-2, II-1, III-4, IV-3",
+      "I-1, II-2, III-3, IV-4"
+     ],
+     "ans": 0,
+     "exp_en": "Kunwar Singh led the revolt from Jagdishpur (Bihar), Nana Sahib from Kanpur, Rani Lakshmibai from Jhansi and Begum Hazrat Mahal from Lucknow.",
+     "exp_hi": "कुँवर सिंह ने जगदीशपुर (बिहार) से, नाना साहिब ने कानपुर से, रानी लक्ष्मीबाई ने झाँसी से और बेगम हज़रत महल ने लखनऊ से विद्रोह का नेतृत्व किया।"
+    },
+    {
+     "subject": "History & National Movement (India & Bihar)",
+     "q": "Which of the following Bihar personalities was born earliest?",
+     "q_hi": "बिहार के निम्नलिखित व्यक्तित्वों में से किसका जन्म सबसे पहले हुआ?",
+     "opts": [
+      "Ramdhari Singh Dinkar",
+      "Kunwar Singh",
+      "Dr. Rajendra Prasad",
+      "Jayaprakash Narayan"
+     ],
+     "opts_hi": [
+      "रामधारी सिंह दिनकर",
+      "कुँवर सिंह",
+      "डॉ. राजेन्द्र प्रसाद",
+      "जयप्रकाश नारायण"
+     ],
+     "ans": 1,
+     "exp_en": "Kunwar Singh was born in 1777, Rajendra Prasad in 1884, Jayaprakash Narayan in 1902 and Dinkar in 1908. Hence Kunwar Singh was born earliest.",
+     "exp_hi": "कुँवर सिंह का जन्म 1777 में, राजेन्द्र प्रसाद का 1884 में, जयप्रकाश नारायण का 1902 में तथा दिनकर का 1908 में हुआ। अतः कुँवर सिंह का जन्म सबसे पहले हुआ।"
+    },
+    {
+     "subject": "History & National Movement (India & Bihar)",
+     "q": "Fill in the blank: Alauddin Khalji's policy of fixing the prices of grain and other commodities in the Delhi markets, enforced under an official called the Shahna-i-Mandi, is known as the ______ system.",
+     "q_hi": "रिक्त स्थान भरिए: अलाउद्दीन खिलजी की दिल्ली के बाज़ारों में अनाज तथा अन्य वस्तुओं के मूल्य निर्धारित करने की नीति, जिसे शहना-ए-मंडी नामक अधिकारी लागू करता था, ______ व्यवस्था कहलाती है।",
+     "opts": [
+      "Mansabdari",
+      "Iqta",
+      "Market control",
+      "Jagirdari"
+     ],
+     "opts_hi": [
+      "मनसबदारी",
+      "इक्ता",
+      "बाज़ार नियंत्रण",
+      "जागीरदारी"
+     ],
+     "ans": 2,
+     "exp_en": "Alauddin Khalji introduced the market control system with fixed prices, supervised by the Shahna-i-Mandi. Iqta, jagirdari and mansabdari relate to land assignment and the ranking of nobles.",
+     "exp_hi": "अलाउद्दीन खिलजी ने निश्चित मूल्यों वाली बाज़ार नियंत्रण व्यवस्था लागू की, जिसकी देखरेख शहना-ए-मंडी करता था। इक्ता, जागीरदारी और मनसबदारी भूमि-अनुदान तथा अमीरों के पद-क्रम से संबंधित हैं।"
+    },
+    {
+     "subject": "History & National Movement (India & Bihar)",
+     "q": "Who composed the Allahabad Pillar Inscription (Prayag Prashasti) praising Samudragupta?",
+     "q_hi": "समुद्रगुप्त की प्रशंसा में उत्कीर्ण प्रयाग प्रशस्ति (इलाहाबाद स्तंभ लेख) की रचना किसने की?",
+     "opts": [
+      "Vatsabhatti",
+      "Ravikirti",
+      "Kalhana",
+      "Harishena"
+     ],
+     "opts_hi": [
+      "वत्सभट्टि",
+      "रविकीर्ति",
+      "कल्हण",
+      "हरिषेण"
+     ],
+     "ans": 3,
+     "exp_en": "Harishena, court poet and minister of Samudragupta, composed the Prayag Prashasti. Ravikirti wrote the Aihole inscription of Pulakeshin II, and Kalhana wrote the Rajatarangini.",
+     "exp_hi": "समुद्रगुप्त के दरबारी कवि और मंत्री हरिषेण ने प्रयाग प्रशस्ति की रचना की। रविकीर्ति ने पुलकेशिन द्वितीय का ऐहोल अभिलेख लिखा तथा कल्हण ने राजतरंगिणी की रचना की।"
+    },
+    {
+     "subject": "History & National Movement (India & Bihar)",
+     "q": "Match the following events with their places and choose the correct pair:",
+     "q_hi": "निम्नलिखित घटनाओं का उनके स्थानों से मिलान कीजिए और सही युग्म चुनिए:",
+     "opts": [
+      "Jallianwala Bagh massacre – Amritsar",
+      "Chauri Chaura incident – Meerut",
+      "Dandi March – Sabarmati to Champaran",
+      "Bardoli Satyagraha – Ahmedabad"
+     ],
+     "opts_hi": [
+      "जलियाँवाला बाग हत्याकांड – अमृतसर",
+      "चौरी चौरा कांड – मेरठ",
+      "दांडी मार्च – साबरमती से चंपारण",
+      "बारदोली सत्याग्रह – अहमदाबाद"
+     ],
+     "ans": 0,
+     "exp_en": "The Jallianwala Bagh massacre of 1919 took place in Amritsar. Chauri Chaura is in Gorakhpur district, the Dandi March went from Sabarmati to Dandi, and the Bardoli Satyagraha was in Surat district.",
+     "exp_hi": "1919 का जलियाँवाला बाग हत्याकांड अमृतसर में हुआ। चौरी चौरा गोरखपुर जिले में है, दांडी मार्च साबरमती से दांडी तक हुआ तथा बारदोली सत्याग्रह सूरत जिले में हुआ।"
+    },
+    {
+     "subject": "History & National Movement (India & Bihar)",
+     "q": "Which of the following statements is correct?",
+     "q_hi": "निम्नलिखित में से कौन-सा कथन सही है?",
+     "opts": [
+      "Sachchidananda Sinha led the Quit India Movement in Bihar from Patna jail.",
+      "Sahajanand Saraswati founded the Bihar Provincial Kisan Sabha in 1929.",
+      "Rajkumar Shukla founded the Swaraj Party in Bihar.",
+      "Jayaprakash Narayan founded the Indian National Congress in Bihar."
+     ],
+     "opts_hi": [
+      "सच्चिदानंद सिन्हा ने पटना जेल से बिहार में भारत छोड़ो आंदोलन का नेतृत्व किया।",
+      "सहजानंद सरस्वती ने 1929 में बिहार प्रांतीय किसान सभा की स्थापना की।",
+      "राजकुमार शुक्ल ने बिहार में स्वराज पार्टी की स्थापना की।",
+      "जयप्रकाश नारायण ने बिहार में भारतीय राष्ट्रीय कांग्रेस की स्थापना की।"
+     ],
+     "ans": 1,
+     "exp_en": "Swami Sahajanand Saraswati founded the Bihar Provincial Kisan Sabha in 1929 at Sonepur. Rajkumar Shukla invited Gandhi to Champaran, and Sachchidananda Sinha chaired the Constituent Assembly's first session; the other statements are false.",
+     "exp_hi": "स्वामी सहजानंद सरस्वती ने 1929 में सोनपुर में बिहार प्रांतीय किसान सभा की स्थापना की। राजकुमार शुक्ल ने गांधीजी को चंपारण आमंत्रित किया था और सच्चिदानंद सिन्हा संविधान सभा की प्रथम बैठक के अध्यक्ष थे; अन्य कथन असत्य हैं।"
+    },
+    {
+     "subject": "Geography (India & Bihar)",
+     "q": "Which of the following pairs of a strait and the two water bodies it connects is correct?",
+     "q_hi": "निम्नलिखित में से जलडमरूमध्य और उसके द्वारा जोड़े जाने वाले दो जलाशयों का कौन-सा युग्म सही है?",
+     "opts": [
+      "Strait of Hormuz – Red Sea and Arabian Sea",
+      "Bering Strait – Pacific Ocean and Indian Ocean",
+      "Strait of Gibraltar – Atlantic Ocean and Mediterranean Sea",
+      "Strait of Malacca – Andaman Sea and South China Sea"
+     ],
+     "opts_hi": [
+      "होर्मुज जलडमरूमध्य – लाल सागर और अरब सागर",
+      "बेरिंग जलडमरूमध्य – प्रशांत महासागर और हिंद महासागर",
+      "जिब्राल्टर जलडमरूमध्य – अटलांटिक महासागर और भूमध्य सागर",
+      "मलक्का जलडमरूमध्य – अंडमान सागर और दक्षिण चीन सागर"
+     ],
+     "ans": 2,
+     "exp_en": "The Strait of Gibraltar connects the Atlantic Ocean with the Mediterranean Sea. Bering Strait links the Pacific and Arctic Oceans, and Hormuz links the Persian Gulf with the Gulf of Oman.",
+     "exp_hi": "जिब्राल्टर जलडमरूमध्य अटलांटिक महासागर को भूमध्य सागर से जोड़ता है। बेरिंग जलडमरूमध्य प्रशांत और आर्कटिक महासागर को तथा होर्मुज जलडमरूमध्य फारस की खाड़ी को ओमान की खाड़ी से जोड़ता है।"
+    },
+    {
+     "subject": "Geography (India & Bihar)",
+     "q": "Consider the following statements about the rivers of Bihar:\n1. The Kosi river, often called the 'Sorrow of Bihar', frequently changes its course because it carries a heavy load of sediment from the Himalayas.\n2. The Son river is a left-bank tributary of the Ganga and is the main cause of floods in North Bihar.\nWhich of the statements given above is/are correct?",
+     "q_hi": "बिहार की नदियों के संबंध में निम्नलिखित कथनों पर विचार कीजिए:\n1. कोसी नदी, जिसे 'बिहार का शोक' कहा जाता है, हिमालय से भारी मात्रा में अवसाद लाने के कारण बार-बार अपना मार्ग बदलती है।\n2. सोन नदी गंगा की बायें किनारे की सहायक नदी है और उत्तर बिहार में बाढ़ का मुख्य कारण है।\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+     "opts": [
+      "Only 1",
+      "Only 2",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "opts_hi": [
+      "केवल 1",
+      "केवल 2",
+      "1 और 2 दोनों",
+      "न तो 1 और न ही 2"
+     ],
+     "ans": 0,
+     "exp_en": "Statement 1 is correct: the Kosi shifts its course due to heavy sediment. Statement 2 is wrong because the Son is a right-bank tributary of the Ganga, flowing from the south, and floods in North Bihar come from Himalayan rivers such as the Kosi, Gandak and Bagmati.",
+     "exp_hi": "कथन 1 सही है: भारी अवसाद के कारण कोसी अपना मार्ग बदलती है। कथन 2 गलत है क्योंकि सोन गंगा की दायें किनारे की सहायक नदी है जो दक्षिण से आती है, जबकि उत्तर बिहार की बाढ़ कोसी, गंडक और बागमती जैसी हिमालयी नदियों से आती है।"
+    },
+    {
+     "subject": "Geography (India & Bihar)",
+     "q": "Which of the following cities of Bihar is located on the bank of the Ganga?",
+     "q_hi": "बिहार का निम्नलिखित में से कौन-सा नगर गंगा के किनारे स्थित है?",
      "opts": [
       "Bhagalpur",
-      "Nalanda",
-      "Patna",
-      "Gaya"
+      "Gaya",
+      "Darbhanga",
+      "Nawada"
      ],
      "opts_hi": [
       "भागलपुर",
-      "नालंदा",
-      "पटना",
-      "गया"
-     ],
-     "ans": 2,
-     "exp_en": "Pataliputra (earlier Pataligram) lies at modern Patna on the Ganga.",
-     "exp_hi": "पाटलिपुत्र (प्राचीन पाटलिग्राम) वर्तमान पटना में गंगा तट पर स्थित था।"
-    },
-    {
-     "id": "gen-1792835309312-7",
-     "subject": "History & National Movement (India & Bihar)",
-     "topic": "Ancient India",
-     "difficulty": "Medium",
-     "q": "The ancient Nalanda Mahavihara is generally credited to the patronage of which Gupta ruler?",
-     "q_hi": "प्राचीन नालंदा महाविहार की स्थापना का श्रेय सामान्यतः किस गुप्त शासक को दिया जाता है?",
-     "opts": [
-      "Kumaragupta I",
-      "Samudragupta",
-      "Chandragupta I",
-      "Skandagupta"
-     ],
-     "opts_hi": [
-      "कुमारगुप्त प्रथम",
-      "समुद्रगुप्त",
-      "चंद्रगुप्त प्रथम",
-      "स्कंदगुप्त"
+      "गया",
+      "दरभंगा",
+      "नवादा"
      ],
      "ans": 0,
-     "exp_en": "Nalanda is generally attributed to Kumaragupta I (5th century CE) and flourished later under Harsha and the Palas.",
-     "exp_hi": "नालंदा की स्थापना का श्रेय सामान्यतः कुमारगुप्त प्रथम (5वीं सदी ई.) को दिया जाता है; बाद में हर्ष और पालों के काल में यह फला-फूला।"
+     "exp_en": "Bhagalpur lies on the southern bank of the Ganga. Gaya is on the Phalgu, while Darbhanga and Nawada are not on the Ganga.",
+     "exp_hi": "भागलपुर गंगा के दक्षिणी तट पर स्थित है। गया फल्गु नदी पर है, जबकि दरभंगा और नवादा गंगा के किनारे नहीं हैं।"
     },
     {
-     "id": "gen-1792835309312-8",
-     "subject": "History & National Movement (India & Bihar)",
-     "topic": "Medieval India",
-     "difficulty": "Hard",
-     "q": "Vikramshila University (near Bhagalpur, Bihar) was founded by which Pala ruler?",
-     "q_hi": "विक्रमशिला विश्वविद्यालय (भागलपुर, बिहार के निकट) की स्थापना किस पाल शासक ने की?",
+     "subject": "Geography (India & Bihar)",
+     "q": "Match the following Himalayan/peninsular features with their locations and choose the correct combination:\nA. Nanda Devi – 1. Western Ghats\nB. Anamudi – 2. Uttarakhand\nC. Dodabetta – 3. Nilgiri Hills\nD. Gurushikhar – 4. Aravalli Range",
+     "q_hi": "निम्नलिखित हिमालयी/प्रायद्वीपीय शिखरों का उनके स्थान से मिलान कीजिए और सही संयोजन चुनिए:\nA. नंदा देवी – 1. पश्चिमी घाट\nB. अनाइमुडी – 2. उत्तराखंड\nC. दोदाबेट्टा – 3. नीलगिरि पहाड़ियाँ\nD. गुरुशिखर – 4. अरावली पर्वतमाला",
      "opts": [
-      "Devapala",
-      "Gopala",
-      "Mahipala",
-      "Dharmapala"
+      "A-1, B-2, C-3, D-4",
+      "A-2, B-1, C-3, D-4",
+      "A-2, B-3, C-1, D-4",
+      "A-2, B-1, C-4, D-3"
      ],
      "opts_hi": [
-      "देवपाल",
-      "गोपाल",
-      "महिपाल",
-      "धर्मपाल"
-     ],
-     "ans": 3,
-     "exp_en": "Dharmapala (c. 770-810 CE) founded Vikramshila, whose ruins are at Antichak, Bhagalpur.",
-     "exp_hi": "धर्मपाल (लगभग 770-810 ई.) ने विक्रमशिला की स्थापना की, जिसके अवशेष भागलपुर के अंतीचक में हैं।"
-    },
-    {
-     "id": "gen-1792835309312-9",
-     "subject": "History & National Movement (India & Bihar)",
-     "topic": "Ancient India",
-     "difficulty": "Medium",
-     "q": "Lord Mahavira, the 24th Tirthankara, was born at Kundagrama near which ancient city?",
-     "q_hi": "24वें तीर्थंकर भगवान महावीर का जन्म किस प्राचीन नगर के निकट कुंडग्राम में हुआ था?",
-     "opts": [
-      "Kapilavastu",
-      "Vaishali",
-      "Kushinagar",
-      "Pava"
-     ],
-     "opts_hi": [
-      "कपिलवस्तु",
-      "वैशाली",
-      "कुशीनगर",
-      "पावा"
+      "A-1, B-2, C-3, D-4",
+      "A-2, B-1, C-3, D-4",
+      "A-2, B-3, C-1, D-4",
+      "A-2, B-1, C-4, D-3"
      ],
      "ans": 1,
-     "exp_en": "Mahavira was born at Kundagrama near Vaishali. He attained nirvana at Pava (Pavapuri).",
-     "exp_hi": "महावीर का जन्म वैशाली के निकट कुंडग्राम में हुआ। उन्हें पावा (पावापुरी) में निर्वाण प्राप्त हुआ।"
+     "exp_en": "Nanda Devi is in Uttarakhand, Anamudi in the Western Ghats (Kerala), Dodabetta in the Nilgiri Hills, and Gurushikhar (Mount Abu) in the Aravalli Range.",
+     "exp_hi": "नंदा देवी उत्तराखंड में, अनाइमुडी पश्चिमी घाट (केरल) में, दोदाबेट्टा नीलगिरि पहाड़ियों में तथा गुरुशिखर (माउंट आबू) अरावली पर्वतमाला में स्थित है।"
     },
     {
-     "id": "gen-1792835309312-10",
-     "subject": "History & National Movement (India & Bihar)",
-     "topic": "Ancient India",
-     "difficulty": "Medium",
-     "q": "Gautama Buddha attained enlightenment at Bodh Gaya on the banks of the river:",
-     "q_hi": "गौतम बुद्ध को बोधगया में किस नदी के तट पर ज्ञान प्राप्त हुआ?",
+     "subject": "Geography (India & Bihar)",
+     "q": "Which of the following statements about the Indian monsoon is correct?",
+     "q_hi": "भारतीय मानसून के संबंध में निम्नलिखित में से कौन-सा कथन सही है?",
      "opts": [
-      "Gandak",
-      "Son",
-      "Kosi",
-      "Niranjana (Phalgu)"
+      "The retreating monsoon brings most of the rainfall to Rajasthan.",
+      "The north-east monsoon brings most of its rain to Punjab and Haryana.",
+      "The south-west monsoon is caused by the apparent northward shift of the sun and the development of low pressure over north-western India in summer.",
+      "The Arabian Sea branch of the south-west monsoon first strikes the coast of West Bengal."
      ],
      "opts_hi": [
-      "गंडक",
-      "सोन",
-      "कोसी",
-      "निरंजना (फल्गु)"
+      "लौटता हुआ मानसून राजस्थान में सर्वाधिक वर्षा लाता है।",
+      "उत्तर-पूर्वी मानसून पंजाब और हरियाणा में अधिकांश वर्षा लाता है।",
+      "दक्षिण-पश्चिम मानसून सूर्य की उत्तर की ओर आभासी गति और ग्रीष्म ऋतु में उत्तर-पश्चिम भारत पर निम्न दाब के विकास के कारण उत्पन्न होता है।",
+      "दक्षिण-पश्चिम मानसून की अरब सागर शाखा सबसे पहले पश्चिम बंगाल के तट से टकराती है।"
+     ],
+     "ans": 2,
+     "exp_en": "In summer the sun moves north and an intense low-pressure area forms over north-western India, drawing in the moist south-west monsoon winds. The Arabian Sea branch first hits the Kerala coast, and the north-east (retreating) monsoon mainly rains on Tamil Nadu's Coromandel coast.",
+     "exp_hi": "ग्रीष्म ऋतु में सूर्य के उत्तर की ओर जाने से उत्तर-पश्चिम भारत पर तीव्र निम्न दाब बनता है, जो नमीयुक्त दक्षिण-पश्चिम मानसूनी पवनों को आकर्षित करता है। अरब सागर शाखा सबसे पहले केरल तट से टकराती है, और उत्तर-पूर्वी (लौटता) मानसून मुख्यतः तमिलनाडु के कोरोमंडल तट पर वर्षा करता है।"
+    },
+    {
+     "subject": "Geography (India & Bihar)",
+     "q": "The classification of Indian soils into major groups and the soil survey work at the national level is carried out by the ______.",
+     "q_hi": "भारतीय मृदाओं का प्रमुख समूहों में वर्गीकरण तथा राष्ट्रीय स्तर पर मृदा सर्वेक्षण का कार्य ______ द्वारा किया जाता है।",
+     "opts": [
+      "Geological Survey of India",
+      "Survey of India",
+      "Botanical Survey of India",
+      "Indian Council of Agricultural Research (ICAR)"
+     ],
+     "opts_hi": [
+      "भारतीय भूवैज्ञानिक सर्वेक्षण",
+      "भारतीय सर्वेक्षण विभाग",
+      "भारतीय वनस्पति सर्वेक्षण",
+      "भारतीय कृषि अनुसंधान परिषद (ICAR)"
      ],
      "ans": 3,
-     "exp_en": "Siddhartha attained enlightenment under the Bodhi tree at Bodh Gaya on the bank of the Niranjana (Phalgu) river.",
-     "exp_hi": "सिद्धार्थ को बोधगया में निरंजना (फल्गु) नदी के तट पर बोधि वृक्ष के नीचे ज्ञान प्राप्त हुआ।"
+     "exp_en": "ICAR, through its National Bureau of Soil Survey and Land Use Planning, classified Indian soils into major groups. The other bodies deal with geology, mapping and plant surveys respectively.",
+     "exp_hi": "ICAR ने अपने राष्ट्रीय मृदा सर्वेक्षण एवं भूमि उपयोग नियोजन ब्यूरो के माध्यम से भारतीय मृदाओं का वर्गीकरण किया। अन्य संस्थाएँ क्रमशः भूविज्ञान, मानचित्रण तथा वनस्पति सर्वेक्षण से संबंधित हैं।"
     },
     {
-     "id": "gen-1792835309312-11",
-     "subject": "History & National Movement (India & Bihar)",
-     "topic": "Ancient India",
-     "difficulty": "Medium",
-     "q": "Where was the Second Buddhist Council held?",
-     "q_hi": "द्वितीय बौद्ध संगीति कहाँ आयोजित हुई थी?",
+     "subject": "Geography (India & Bihar)",
+     "q": "Which of the following statements about the physical regions of Bihar is correct?",
+     "q_hi": "बिहार के भौतिक प्रदेशों के संबंध में निम्नलिखित में से कौन-सा कथन सही है?",
      "opts": [
-      "Vaishali",
-      "Rajgriha",
-      "Kashmir",
-      "Pataliputra"
+      "The Ganga divides the Bihar plain into northern and southern parts",
+      "The Kaimur plateau lies in the north of the Ganga",
+      "The Terai region lies in the south of the Ganga",
+      "The Bihar plain is part of the Peninsular plateau"
      ],
      "opts_hi": [
-      "वैशाली",
-      "राजगृह",
-      "कश्मीर",
-      "पाटलिपुत्र"
+      "गंगा नदी बिहार के मैदान को उत्तरी और दक्षिणी भागों में विभाजित करती है",
+      "कैमूर पठार गंगा के उत्तर में स्थित है",
+      "तराई क्षेत्र गंगा के दक्षिण में स्थित है",
+      "बिहार का मैदान प्रायद्वीपीय पठार का भाग है"
      ],
      "ans": 0,
-     "exp_en": "The Second Buddhist Council was held at Vaishali. The First was at Rajgriha and the Third at Pataliputra.",
-     "exp_hi": "द्वितीय बौद्ध संगीति वैशाली में हुई। प्रथम राजगृह में और तृतीय पाटलिपुत्र में हुई थी।"
+     "exp_en": "The Ganga flows west to east through Bihar and divides the plain into north and south. The Kaimur plateau and the southern uplands lie south of the Ganga, while the Terai lies in the north.",
+     "exp_hi": "गंगा बिहार में पश्चिम से पूर्व बहती हुई मैदान को उत्तर और दक्षिण भागों में बाँटती है। कैमूर पठार गंगा के दक्षिण में तथा तराई उत्तर में स्थित है।"
     },
     {
-     "id": "gen-1792835309312-12",
-     "subject": "History & National Movement (India & Bihar)",
-     "topic": "Ancient India",
-     "difficulty": "Hard",
-     "q": "Who presided over the Third Buddhist Council held at Pataliputra during Ashoka's reign?",
-     "q_hi": "अशोक के शासनकाल में पाटलिपुत्र में आयोजित तृतीय बौद्ध संगीति की अध्यक्षता किसने की?",
+     "subject": "Geography (India & Bihar)",
+     "q": "Which of the following is a major Kharif cereal crop of Bihar?",
+     "q_hi": "निम्नलिखित में से कौन बिहार की प्रमुख खरीफ अनाज फसल है?",
      "opts": [
-      "Upali",
-      "Mahakassapa",
-      "Moggaliputta Tissa",
-      "Vasumitra"
+      "Gram",
+      "Paddy (Rice)",
+      "Wheat",
+      "Mustard"
      ],
      "opts_hi": [
-      "उपालि",
-      "महाकस्सप",
-      "मोग्गलिपुत्त तिस्स",
-      "वसुमित्र"
-     ],
-     "ans": 2,
-     "exp_en": "Moggaliputta Tissa presided over the Third Council. Vasumitra presided over the Fourth Council under Kanishka.",
-     "exp_hi": "तृतीय संगीति की अध्यक्षता मोग्गलिपुत्त तिस्स ने की। चतुर्थ संगीति की अध्यक्षता कनिष्क के काल में वसुमित्र ने की थी।"
-    },
-    {
-     "id": "gen-1792835309312-13",
-     "subject": "History & National Movement (India & Bihar)",
-     "topic": "Medieval India",
-     "difficulty": "Medium",
-     "q": "Sher Shah Suri, who belonged to Sasaram (Bihar), defeated Humayun in 1539 in the Battle of:",
-     "q_hi": "सासाराम (बिहार) के शेरशाह सूरी ने 1539 में किस युद्ध में हुमायूँ को पराजित किया?",
-     "opts": [
-      "Khanwa",
-      "Tarain",
-      "Panipat",
-      "Chausa"
-     ],
-     "opts_hi": [
-      "खानवा",
-      "तराइन",
-      "पानीपत",
-      "चौसा"
-     ],
-     "ans": 3,
-     "exp_en": "Sher Shah defeated Humayun at Chausa (1539) and again at Kannauj (1540), after which he became the ruler of Delhi.",
-     "exp_hi": "शेरशाह ने चौसा (1539) और फिर कन्नौज (1540) में हुमायूँ को हराया और दिल्ली का शासक बना।"
-    },
-    {
-     "id": "gen-1792835309312-14",
-     "subject": "History & National Movement (India & Bihar)",
-     "topic": "Modern India",
-     "difficulty": "Medium",
-     "q": "The Battle of Buxar (1764) was fought between the British and the combined forces of Mir Qasim, Shuja-ud-Daula and:",
-     "q_hi": "बक्सर का युद्ध (1764) अंग्रेजों तथा मीर कासिम, शुजाउद्दौला और किसकी संयुक्त सेनाओं के बीच हुआ?",
-     "opts": [
-      "Siraj-ud-Daula",
-      "Shah Alam II",
-      "Mir Jafar",
-      "Hyder Ali"
-     ],
-     "opts_hi": [
-      "सिराजुद्दौला",
-      "शाह आलम द्वितीय",
-      "मीर जाफर",
-      "हैदर अली"
+      "चना",
+      "धान",
+      "गेहूँ",
+      "सरसों"
      ],
      "ans": 1,
-     "exp_en": "At Buxar (Bihar) the British under Hector Munro defeated Mir Qasim, Shuja-ud-Daula of Awadh and the Mughal emperor Shah Alam II.",
-     "exp_hi": "बक्सर (बिहार) में हेक्टर मुनरो के नेतृत्व में अंग्रेजों ने मीर कासिम, अवध के शुजाउद्दौला और मुगल सम्राट शाह आलम द्वितीय को पराजित किया।"
+     "exp_en": "Paddy is sown with the monsoon and is the main Kharif cereal of Bihar. Wheat, gram and mustard are Rabi crops.",
+     "exp_hi": "धान मानसून के साथ बोया जाता है और बिहार की प्रमुख खरीफ अनाज फसल है। गेहूँ, चना और सरसों रबी फसलें हैं।"
     },
     {
-     "id": "gen-1792835309312-15",
-     "subject": "History & National Movement (India & Bihar)",
-     "topic": "Modern India",
-     "difficulty": "Easy",
-     "q": "Who was the Governor of Bengal when the East India Company obtained the Diwani of Bengal, Bihar and Orissa in 1765?",
-     "q_hi": "1765 में ईस्ट इंडिया कंपनी को बंगाल, बिहार और उड़ीसा की दीवानी मिलने के समय बंगाल का गवर्नर कौन था?",
+     "subject": "Geography (India & Bihar)",
+     "q": "Consider the following statements:\n1. The Ganga is formed by the confluence of the Bhagirathi and the Alaknanda at Devprayag.\n2. The Brahmaputra is known as the Tsangpo in Tibet.\nWhich of the statements given above is/are correct?",
+     "q_hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. गंगा का निर्माण देवप्रयाग में भागीरथी और अलकनंदा के संगम से होता है।\n2. ब्रह्मपुत्र को तिब्बत में त्सांगपो कहा जाता है।\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
      "opts": [
-      "Robert Clive",
-      "Warren Hastings",
-      "Lord Cornwallis",
-      "Lord Dalhousie"
+      "Only 1",
+      "Only 2",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
      ],
      "opts_hi": [
-      "रॉबर्ट क्लाइव",
-      "वारेन हेस्टिंग्स",
-      "लॉर्ड कॉर्नवालिस",
-      "लॉर्ड डलहौजी"
+      "केवल 1",
+      "केवल 2",
+      "1 और 2 दोनों",
+      "न तो 1 और न ही 2"
+     ],
+     "ans": 2,
+     "exp_en": "The Bhagirathi and Alaknanda meet at Devprayag to form the Ganga, and the Brahmaputra is called the Tsangpo in Tibet. Both statements are correct.",
+     "exp_hi": "भागीरथी और अलकनंदा देवप्रयाग में मिलकर गंगा बनाती हैं तथा ब्रह्मपुत्र को तिब्बत में त्सांगपो कहते हैं। अतः दोनों कथन सही हैं।"
+    },
+    {
+     "subject": "Geography (India & Bihar)",
+     "q": "Which of the following is correct about the main reason for the high population density of the Northern Plains of India?",
+     "q_hi": "भारत के उत्तरी मैदानों में जनसंख्या घनत्व अधिक होने का मुख्य कारण निम्नलिखित में से कौन-सा है?",
+     "opts": [
+      "Extremely cold climate throughout the year",
+      "Availability of large deposits of minerals",
+      "Presence of dense tropical forests",
+      "Fertile alluvial soil and abundant water supply favour agriculture"
+     ],
+     "opts_hi": [
+      "वर्ष भर अत्यंत ठंडी जलवायु",
+      "खनिजों के विशाल भंडारों की उपलब्धता",
+      "घने उष्णकटिबंधीय वनों की उपस्थिति",
+      "उपजाऊ जलोढ़ मिट्टी और प्रचुर जल आपूर्ति कृषि के अनुकूल है"
+     ],
+     "ans": 3,
+     "exp_en": "Fertile alluvium and perennial rivers support intensive agriculture, which sustains dense populations in the Northern Plains. Dense forests, minerals and cold climate do not explain this.",
+     "exp_hi": "उपजाऊ जलोढ़ मिट्टी और बारहमासी नदियाँ गहन कृषि को सहारा देती हैं, जिससे उत्तरी मैदानों में घनी जनसंख्या बसती है। घने वन, खनिज और ठंडी जलवायु इसका कारण नहीं हैं।"
+    },
+    {
+     "subject": "Geography (India & Bihar)",
+     "q": "India's first modern iron and steel plant, set up by Jamsetji Tata in 1907, is located at ______.",
+     "q_hi": "भारत का पहला आधुनिक लोहा एवं इस्पात संयंत्र, जिसकी स्थापना जमशेदजी टाटा ने 1907 में की थी, ______ में स्थित है।",
+     "opts": [
+      "Jamshedpur (Sakchi)",
+      "Bhadravati",
+      "Burnpur",
+      "Rourkela"
+     ],
+     "opts_hi": [
+      "जमशेदपुर (साकची)",
+      "भद्रावती",
+      "बर्नपुर",
+      "राउरकेला"
      ],
      "ans": 0,
-     "exp_en": "Robert Clive secured the Diwani from Shah Alam II through the Treaty of Allahabad (1765) after the Battle of Buxar.",
-     "exp_hi": "बक्सर युद्ध के बाद इलाहाबाद की संधि (1765) द्वारा रॉबर्ट क्लाइव ने शाह आलम द्वितीय से दीवानी प्राप्त की।"
+     "exp_en": "The Tata Iron and Steel Company (TISCO) began production at Sakchi, now Jamshedpur, in 1907, making it India's first modern steel plant. Burnpur (IISCO), Bhadravati and Rourkela came later.",
+     "exp_hi": "टाटा आयरन एंड स्टील कंपनी (TISCO) ने 1907 में साकची, वर्तमान जमशेदपुर, में उत्पादन शुरू किया, जो भारत का पहला आधुनिक इस्पात संयंत्र बना। बर्नपुर (IISCO), भद्रावती और राउरकेला बाद में स्थापित हुए।"
     },
     {
-     "id": "gen-1792835309312-16",
-     "subject": "History & National Movement (India & Bihar)",
-     "topic": "National Movement",
-     "difficulty": "Easy",
-     "q": "The Non-Cooperation Movement was withdrawn by Gandhiji after the violent incident at:",
-     "q_hi": "असहयोग आंदोलन को गांधीजी ने किस स्थान पर हुई हिंसक घटना के बाद वापस ले लिया?",
+     "subject": "Geography (India & Bihar)",
+     "q": "Which of the following is correct?",
+     "q_hi": "निम्नलिखित में से कौन-सा कथन सही है?",
      "opts": [
-      "Bardoli",
-      "Jallianwala Bagh",
-      "Chauri Chaura",
-      "Kakori"
+      "Periyar Wildlife Sanctuary is located in Karnataka and is famous for the snow leopard",
+      "Kaziranga National Park is located in Assam and is famous for the one-horned rhinoceros",
+      "Gir National Park is located in Rajasthan and is famous for the Bengal tiger",
+      "Corbett National Park is located in Madhya Pradesh and is famous for the Asiatic lion"
      ],
      "opts_hi": [
-      "बारदोली",
-      "जलियाँवाला बाग",
-      "चौरी चौरा",
-      "काकोरी"
+      "पेरियार वन्यजीव अभयारण्य कर्नाटक में स्थित है और हिम तेंदुए के लिए प्रसिद्ध है",
+      "काजीरंगा राष्ट्रीय उद्यान असम में स्थित है और एक सींग वाले गैंडे के लिए प्रसिद्ध है",
+      "गिर राष्ट्रीय उद्यान राजस्थान में स्थित है और बंगाल टाइगर के लिए प्रसिद्ध है",
+      "कॉर्बेट राष्ट्रीय उद्यान मध्य प्रदेश में स्थित है और एशियाई सिंह के लिए प्रसिद्ध है"
+     ],
+     "ans": 1,
+     "exp_en": "Kaziranga in Assam is famous for the one-horned rhinoceros. Gir is in Gujarat (Asiatic lion), Corbett is in Uttarakhand (tiger), and Periyar is in Kerala.",
+     "exp_hi": "असम का काजीरंगा एक सींग वाले गैंडे के लिए प्रसिद्ध है। गिर गुजरात में (एशियाई सिंह), कॉर्बेट उत्तराखंड में (बाघ) और पेरियार केरल में स्थित है।"
+    },
+    {
+     "subject": "Geography (India & Bihar)",
+     "q": "Which is the largest ocean in the world?",
+     "q_hi": "विश्व का सबसे बड़ा महासागर कौन-सा है?",
+     "opts": [
+      "Atlantic Ocean",
+      "Arctic Ocean",
+      "Pacific Ocean",
+      "Indian Ocean"
+     ],
+     "opts_hi": [
+      "अटलांटिक महासागर",
+      "आर्कटिक महासागर",
+      "प्रशांत महासागर",
+      "हिंद महासागर"
      ],
      "ans": 2,
-     "exp_en": "After the Chauri Chaura incident (Gorakhpur, February 1922) Gandhiji withdrew the movement.",
-     "exp_hi": "फरवरी 1922 में चौरी चौरा (गोरखपुर) की घटना के बाद गांधीजी ने आंदोलन वापस ले लिया।"
+     "exp_en": "The Pacific Ocean is the largest and deepest ocean, covering about one-third of the Earth's surface. The Atlantic is second largest.",
+     "exp_hi": "प्रशांत महासागर विश्व का सबसे बड़ा और सबसे गहरा महासागर है, जो पृथ्वी की सतह के लगभग एक-तिहाई भाग को घेरता है। अटलांटिक दूसरा सबसे बड़ा है।"
     },
     {
-     "id": "gen-1792835309312-17",
-     "subject": "History & National Movement (India & Bihar)",
-     "topic": "National Movement",
-     "difficulty": "Easy",
-     "q": "Gandhiji began the Dandi March (Salt Satyagraha) in 1930 from:",
-     "q_hi": "गांधीजी ने 1930 में दांडी मार्च (नमक सत्याग्रह) कहाँ से प्रारंभ किया?",
+     "subject": "Geography (India & Bihar)",
+     "q": "Why is North Bihar's agriculture often affected by waterlogging and floods, which also make the region suitable for jute and rice?",
+     "q_hi": "उत्तर बिहार की कृषि प्रायः जलजमाव और बाढ़ से प्रभावित होती है, जिसके कारण यह क्षेत्र जूट और धान के लिए उपयुक्त भी है। इसका मुख्य कारण क्या है?",
      "opts": [
-      "Sevagram",
-      "Champaran",
-      "Phoenix Farm",
-      "Sabarmati Ashram"
+      "The Chota Nagpur plateau drains directly into the region",
+      "The region receives very little rainfall and relies on desert irrigation",
+      "Black cotton soil retains moisture throughout the year",
+      "Himalayan rivers like the Kosi and Gandak carry heavy discharge and deposit alluvium on a flat plain"
      ],
      "opts_hi": [
-      "सेवाग्राम",
-      "चंपारण",
-      "फीनिक्स फार्म",
-      "साबरमती आश्रम"
+      "छोटानागपुर पठार का जल सीधे इस क्षेत्र में बहता है",
+      "इस क्षेत्र में बहुत कम वर्षा होती है और यह मरुस्थलीय सिंचाई पर निर्भर है",
+      "काली कपासी मिट्टी वर्ष भर नमी बनाए रखती है",
+      "कोसी और गंडक जैसी हिमालयी नदियाँ भारी जलप्रवाह लाती हैं और समतल मैदान में जलोढ़ मिट्टी जमा करती हैं"
      ],
      "ans": 3,
-     "exp_en": "The march began on 12 March 1930 from Sabarmati Ashram and reached Dandi on 6 April 1930.",
-     "exp_hi": "यह यात्रा 12 मार्च 1930 को साबरमती आश्रम से शुरू होकर 6 अप्रैल 1930 को दांडी पहुँची।"
+     "exp_en": "Himalayan rivers such as the Kosi and Gandak bring large water volumes and silt to the flat North Bihar plain, causing floods and waterlogging but also creating fertile alluvial, moisture-rich land suited to rice and jute.",
+     "exp_hi": "कोसी और गंडक जैसी हिमालयी नदियाँ उत्तर बिहार के समतल मैदान में भारी जल और गाद लाती हैं, जिससे बाढ़ और जलजमाव होता है, पर साथ ही उपजाऊ, नमीयुक्त जलोढ़ भूमि बनती है जो धान और जूट के लिए उपयुक्त है।"
     },
     {
-     "id": "gen-1792835309312-18",
-     "subject": "History & National Movement (India & Bihar)",
-     "topic": "National Movement",
-     "difficulty": "Medium",
-     "q": "Which socialist leader of Bihar escaped from Hazaribagh Central Jail in November 1942 during the Quit India Movement?",
-     "q_hi": "भारत छोड़ो आंदोलन के दौरान नवंबर 1942 में बिहार के किस समाजवादी नेता ने हजारीबाग केंद्रीय कारागार से भागने में सफलता पाई?",
+     "subject": "Geography (India & Bihar)",
+     "q": "The Bokaro Steel Plant is located in the state of ______.",
+     "q_hi": "बोकारो इस्पात संयंत्र ______ राज्य में स्थित है।",
      "opts": [
-      "Shri Krishna Sinha",
-      "Jayaprakash Narayan",
-      "Karpuri Thakur",
-      "Ram Manohar Lohia"
+      "Jharkhand",
+      "Chhattisgarh",
+      "West Bengal",
+      "Odisha"
      ],
      "opts_hi": [
-      "श्रीकृष्ण सिन्हा",
-      "जयप्रकाश नारायण",
-      "कर्पूरी ठाकुर",
-      "राम मनोहर लोहिया"
-     ],
-     "ans": 1,
-     "exp_en": "Jayaprakash Narayan escaped from Hazaribagh jail on the night of Diwali (November 1942) and led underground resistance.",
-     "exp_hi": "जयप्रकाश नारायण नवंबर 1942 में दीपावली की रात हजारीबाग जेल से भाग निकले और भूमिगत प्रतिरोध का नेतृत्व किया।"
-    },
-    {
-     "id": "gen-1792835309312-19",
-     "subject": "History & National Movement (India & Bihar)",
-     "topic": "Bihar History",
-     "difficulty": "Medium",
-     "q": "Bihar was separated from the Bengal Presidency and formed into a province (with Orissa) in:",
-     "q_hi": "बिहार को बंगाल प्रेसीडेंसी से अलग कर (उड़ीसा सहित) एक प्रांत किस वर्ष बनाया गया?",
-     "opts": [
-      "1905",
-      "1912",
-      "1920",
-      "1936"
-     ],
-     "opts_hi": [
-      "1905",
-      "1912",
-      "1920",
-      "1936"
-     ],
-     "ans": 1,
-     "exp_en": "The separation was announced at the 1911 Delhi Durbar and took effect in 1912. Orissa was separated from Bihar in 1936.",
-     "exp_hi": "अलग प्रांत की घोषणा 1911 के दिल्ली दरबार में हुई और यह 1912 में प्रभावी हुआ। उड़ीसा 1936 में बिहार से अलग हुआ।"
-    },
-    {
-     "id": "gen-1792835309312-20",
-     "subject": "History & National Movement (India & Bihar)",
-     "topic": "Bihar History",
-     "difficulty": "Easy",
-     "q": "Who was the first Chief Minister of Bihar after independence, popularly known as 'Bihar Kesari'?",
-     "q_hi": "स्वतंत्रता के बाद बिहार के प्रथम मुख्यमंत्री कौन थे, जिन्हें 'बिहार केसरी' कहा जाता है?",
-     "opts": [
-      "Anugrah Narayan Sinha",
-      "Bindeshwari Dubey",
-      "Karpuri Thakur",
-      "Shri Krishna Sinha"
-     ],
-     "opts_hi": [
-      "अनुग्रह नारायण सिन्हा",
-      "बिंदेश्वरी दुबे",
-      "कर्पूरी ठाकुर",
-      "श्रीकृष्ण सिन्हा"
-     ],
-     "ans": 3,
-     "exp_en": "Shri Krishna Sinha headed the first Congress ministry (1937 as Premier) and served as Chief Minister until 1961. Anugrah Narayan Sinha was the first Deputy CM.",
-     "exp_hi": "श्रीकृष्ण सिन्हा 1937 में प्रथम कांग्रेस मंत्रिमंडल के प्रधानमंत्री (प्रीमियर) बने और 1961 तक मुख्यमंत्री रहे। अनुग्रह नारायण सिन्हा प्रथम उपमुख्यमंत्री थे।"
-    },
-    {
-     "id": "gen-1792835309312-21",
-     "subject": "History & National Movement (India & Bihar)",
-     "topic": "Bihar History",
-     "difficulty": "Medium",
-     "q": "Jayaprakash Narayan gave the call for 'Sampoorna Kranti' (Total Revolution) in June 1974 at:",
-     "q_hi": "जयप्रकाश नारायण ने जून 1974 में 'संपूर्ण क्रांति' का आह्वान कहाँ किया?",
-     "opts": [
-      "Boat Club, Delhi",
-      "Ramlila Maidan, Delhi",
-      "Gandhi Maidan, Patna",
-      "Sabarmati Ashram"
-     ],
-     "opts_hi": [
-      "बोट क्लब, दिल्ली",
-      "रामलीला मैदान, दिल्ली",
-      "गांधी मैदान, पटना",
-      "साबरमती आश्रम"
-     ],
-     "ans": 2,
-     "exp_en": "JP announced Sampoorna Kranti on 5 June 1974 at Gandhi Maidan, Patna, during the Bihar Movement.",
-     "exp_hi": "जेपी ने बिहार आंदोलन के दौरान 5 जून 1974 को पटना के गांधी मैदान में संपूर्ण क्रांति की घोषणा की।"
-    },
-    {
-     "id": "gen-1792835309312-22",
-     "subject": "History & National Movement (India & Bihar)",
-     "topic": "Medieval India",
-     "difficulty": "Easy",
-     "q": "The First Battle of Panipat (1526) was fought between Babur and:",
-     "q_hi": "पानीपत का प्रथम युद्ध (1526) बाबर और किसके बीच लड़ा गया?",
-     "opts": [
-      "Hemu",
-      "Ibrahim Lodi",
-      "Rana Sanga",
-      "Sher Shah"
-     ],
-     "opts_hi": [
-      "हेमू",
-      "इब्राहीम लोदी",
-      "राणा सांगा",
-      "शेरशाह"
-     ],
-     "ans": 1,
-     "exp_en": "Babur defeated Ibrahim Lodi at Panipat in 1526 and founded the Mughal Empire in India.",
-     "exp_hi": "बाबर ने 1526 में पानीपत में इब्राहीम लोदी को हराकर भारत में मुगल साम्राज्य की नींव रखी।"
-    },
-    {
-     "id": "gen-1792835309312-23",
-     "subject": "History & National Movement (India & Bihar)",
-     "topic": "Ancient India",
-     "difficulty": "Medium",
-     "q": "Who was the last Nanda ruler overthrown by Chandragupta Maurya with the help of Chanakya?",
-     "q_hi": "चाणक्य की सहायता से चंद्रगुप्त मौर्य ने नंद वंश के किस अंतिम शासक को पराजित किया?",
-     "opts": [
-      "Bimbisara",
-      "Mahapadma Nanda",
-      "Ajatashatru",
-      "Dhanananda"
-     ],
-     "opts_hi": [
-      "बिम्बिसार",
-      "महापद्म नंद",
-      "अजातशत्रु",
-      "धनानंद"
-     ],
-     "ans": 3,
-     "exp_en": "Dhanananda was the last Nanda king of Magadha; Mahapadma Nanda was the dynasty's founder.",
-     "exp_hi": "धनानंद मगध के अंतिम नंद शासक थे; महापद्म नंद इस वंश के संस्थापक थे।"
-    },
-    {
-     "id": "gen-1792835309312-24",
-     "subject": "History & National Movement (India & Bihar)",
-     "topic": "Ancient India",
-     "difficulty": "Hard",
-     "q": "The Allahabad Pillar inscription (Prayag Prashasti) describing Samudragupta's conquests was composed by:",
-     "q_hi": "समुद्रगुप्त की विजयों का वर्णन करने वाली इलाहाबाद स्तंभ लेख (प्रयाग प्रशस्ति) की रचना किसने की?",
-     "opts": [
-      "Harishena",
-      "Ravikirti",
-      "Banabhatta",
-      "Kalidasa"
-     ],
-     "opts_hi": [
-      "हरिषेण",
-      "रविकीर्ति",
-      "बाणभट्ट",
-      "कालिदास"
+      "झारखंड",
+      "छत्तीसगढ़",
+      "पश्चिम बंगाल",
+      "ओडिशा"
      ],
      "ans": 0,
-     "exp_en": "Harishena, court poet of Samudragupta, composed the Prayag Prashasti. Banabhatta wrote the Harshacharita and Ravikirti the Aihole inscription.",
-     "exp_hi": "समुद्रगुप्त के दरबारी कवि हरिषेण ने प्रयाग प्रशस्ति की रचना की। बाणभट्ट ने हर्षचरित और रविकीर्ति ने ऐहोल अभिलेख लिखा।"
+     "exp_en": "Bokaro Steel Plant is located at Bokaro Steel City in Jharkhand. Rourkela is in Odisha, Bhilai in Chhattisgarh, and Durgapur in West Bengal.",
+     "exp_hi": "बोकारो इस्पात संयंत्र झारखंड के बोकारो स्टील सिटी में स्थित है। राउरकेला ओडिशा में, भिलाई छत्तीसगढ़ में और दुर्गापुर पश्चिम बंगाल में है।"
     },
     {
-     "id": "gen-1792835309312-25",
-     "subject": "History & National Movement (India & Bihar)",
-     "topic": "National Movement",
-     "difficulty": "Easy",
-     "q": "Who presided over the first session of the Indian National Congress held in Bombay in 1885?",
-     "q_hi": "1885 में बंबई में आयोजित भारतीय राष्ट्रीय कांग्रेस के प्रथम अधिवेशन की अध्यक्षता किसने की?",
+     "subject": "Geography (India & Bihar)",
+     "q": "Patna, the capital of Bihar, has developed as a major urban centre mainly because of which of the following geographical reasons?",
+     "q_hi": "बिहार की राजधानी पटना एक प्रमुख नगरीय केंद्र के रूप में मुख्यतः निम्नलिखित में से किस भौगोलिक कारण से विकसित हुआ है?",
      "opts": [
-      "Surendranath Banerjee",
-      "Dadabhai Naoroji",
-      "W. C. Bonnerjee",
-      "A. O. Hume"
+      "Its location on the Himalayan foothills with dense forests",
+      "Its location on the banks of the Ganga, with fertile alluvial plains and river transport",
+      "Its location on the Chotanagpur plateau rich in minerals",
+      "Its location on the coast with a natural harbour"
      ],
      "opts_hi": [
-      "सुरेंद्रनाथ बनर्जी",
-      "दादाभाई नौरोजी",
-      "डब्ल्यू. सी. बनर्जी",
-      "ए. ओ. ह्यूम"
+      "घने वनों वाली हिमालय की तलहटी में स्थित होना",
+      "गंगा के तट पर स्थित होना, उपजाऊ जलोढ़ मैदान और नदी परिवहन की सुविधा",
+      "खनिज संपन्न छोटानागपुर पठार पर स्थित होना",
+      "प्राकृतिक बंदरगाह वाले तट पर स्थित होना"
+     ],
+     "ans": 1,
+     "exp_en": "Patna lies on the southern bank of the Ganga in the fertile alluvial plain, and river transport and agricultural surplus favoured its growth as a city. Bihar has no coastline, and Patna is neither on a plateau nor in the Himalayan foothills.",
+     "exp_hi": "पटना गंगा के दक्षिणी तट पर उपजाऊ जलोढ़ मैदान में स्थित है और नदी परिवहन तथा कृषि अधिशेष ने इसके नगरीय विकास में सहायता की। बिहार में समुद्र तट नहीं है और पटना न पठार पर है, न हिमालय की तलहटी में।"
+    },
+    {
+     "subject": "Geography (India & Bihar)",
+     "q": "Consider the following statements:\n1. The Census of India is conducted once every ten years.\n2. The first synchronous census of India was held in 1881.\nWhich of the statements given above is/are correct?",
+     "q_hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. भारत में जनगणना प्रत्येक दस वर्ष में एक बार की जाती है।\n2. भारत की प्रथम समकालिक जनगणना 1881 में हुई थी।\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+     "opts": [
+      "Only 1",
+      "Only 2",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "opts_hi": [
+      "केवल 1",
+      "केवल 2",
+      "1 और 2 दोनों",
+      "न तो 1 और न ही 2"
      ],
      "ans": 2,
-     "exp_en": "W. C. Bonnerjee presided over the first session in December 1885; A. O. Hume was the founding organiser (General Secretary).",
-     "exp_hi": "डब्ल्यू. सी. बनर्जी ने दिसंबर 1885 के प्रथम अधिवेशन की अध्यक्षता की; ए. ओ. ह्यूम संस्थापक संयोजक (महासचिव) थे।"
+     "exp_en": "The Census in India is held every ten years, and the first synchronous census was conducted in 1881 under Lord Ripon. Hence both statements are correct.",
+     "exp_hi": "भारत में जनगणना प्रत्येक दस वर्ष में होती है और पहली समकालिक जनगणना 1881 में लॉर्ड रिपन के समय हुई थी। अतः दोनों कथन सही हैं।"
+    },
+    {
+     "subject": "Geography (India & Bihar)",
+     "q": "Consider the following statements:\n1. The Kosi river is known as the 'Sorrow of Bihar' because of its frequent floods and shifting course.\n2. The Kosi river originates in the Peninsular plateau.\nWhich of the statements given above is/are correct?",
+     "q_hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. कोसी नदी को अपनी बार-बार आने वाली बाढ़ और धारा परिवर्तन के कारण 'बिहार का शोक' कहा जाता है।\n2. कोसी नदी का उद्गम प्रायद्वीपीय पठार में है।\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+     "opts": [
+      "Only 1",
+      "Only 2",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "opts_hi": [
+      "केवल 1",
+      "केवल 2",
+      "1 और 2 दोनों",
+      "न तो 1 और न ही 2"
+     ],
+     "ans": 0,
+     "exp_en": "The Kosi is called the 'Sorrow of Bihar' for its floods and frequent changes of course. It rises in the Himalayas (Nepal/Tibet region), not in the Peninsular plateau, so statement 2 is wrong.",
+     "exp_hi": "कोसी बाढ़ और बार-बार धारा बदलने के कारण 'बिहार का शोक' कहलाती है। इसका उद्गम हिमालय (नेपाल/तिब्बत क्षेत्र) में है, प्रायद्वीपीय पठार में नहीं, इसलिए कथन 2 गलत है।"
+    },
+    {
+     "subject": "Geography (India & Bihar)",
+     "q": "Which of the following correctly arranges the following mountain ranges/regions of India from north to south?",
+     "q_hi": "भारत के निम्नलिखित पर्वत श्रेणियों/क्षेत्रों को उत्तर से दक्षिण के सही क्रम में कौन-सा विकल्प दर्शाता है?",
+     "opts": [
+      "Karakoram – Pir Panjal – Shiwalik – Aravalli",
+      "Pir Panjal – Karakoram – Aravalli – Shiwalik",
+      "Karakoram – Shiwalik – Pir Panjal – Aravalli",
+      "Shiwalik – Pir Panjal – Karakoram – Aravalli"
+     ],
+     "opts_hi": [
+      "काराकोरम – पीर पंजाल – शिवालिक – अरावली",
+      "पीर पंजाल – काराकोरम – अरावली – शिवालिक",
+      "काराकोरम – शिवालिक – पीर पंजाल – अरावली",
+      "शिवालिक – पीर पंजाल – काराकोरम – अरावली"
+     ],
+     "ans": 0,
+     "exp_en": "From north to south the order is Karakoram (Trans-Himalaya), Pir Panjal (Lesser Himalaya), Shiwalik (outer Himalaya) and then the Aravalli range in the Peninsular region.",
+     "exp_hi": "उत्तर से दक्षिण का क्रम है: काराकोरम (ट्रांस-हिमालय), पीर पंजाल (लघु हिमालय), शिवालिक (बाह्य हिमालय) और उसके बाद प्रायद्वीपीय क्षेत्र की अरावली श्रेणी।"
+    },
+    {
+     "subject": "Geography (India & Bihar)",
+     "q": "Which of the following associations of a person with a contribution to Indian agriculture is correct?",
+     "q_hi": "भारतीय कृषि में योगदान के संदर्भ में किस व्यक्ति का निम्नलिखित संबंध सही है?",
+     "opts": [
+      "Verghese Kurien – Green Revolution in India",
+      "M. S. Swaminathan – Green Revolution in India",
+      "Dr. Rajendra Prasad – Blue Revolution in India",
+      "Norman Borlaug – White Revolution in India"
+     ],
+     "opts_hi": [
+      "वर्गीज कुरियन – भारत में हरित क्रांति",
+      "एम. एस. स्वामीनाथन – भारत में हरित क्रांति",
+      "डॉ. राजेन्द्र प्रसाद – भारत में नीली क्रांति",
+      "नॉर्मन बोरलॉग – भारत में श्वेत क्रांति"
+     ],
+     "ans": 1,
+     "exp_en": "M. S. Swaminathan is regarded as the leading figure of India's Green Revolution, while Verghese Kurien is associated with the White Revolution (Operation Flood). Norman Borlaug was a high-yielding wheat pioneer, not linked to the White Revolution.",
+     "exp_hi": "एम. एस. स्वामीनाथन को भारत की हरित क्रांति का प्रमुख सूत्रधार माना जाता है, जबकि वर्गीज कुरियन श्वेत क्रांति (ऑपरेशन फ्लड) से जुड़े हैं। नॉर्मन बोरलॉग उच्च उपज वाले गेहूँ के अग्रणी थे, श्वेत क्रांति से नहीं जुड़े थे।"
+    },
+    {
+     "subject": "Indian Polity",
+     "q": "Arrange the following Lok Sabha-related events in chronological order: 1. Enactment of the Anti-Defection Law (Tenth Schedule) 2. First general elections to the Lok Sabha 3. Reduction of voting age from 21 to 18 years 4. Extension of Lok Sabha's term to six years during the Emergency",
+     "q_hi": "लोकसभा से संबंधित निम्नलिखित घटनाओं को कालक्रम के अनुसार व्यवस्थित कीजिए: 1. दल-बदल विरोधी कानून (दसवीं अनुसूची) का अधिनियमन 2. लोकसभा के प्रथम आम चुनाव 3. मतदान की आयु 21 वर्ष से घटाकर 18 वर्ष किया जाना 4. आपातकाल के दौरान लोकसभा का कार्यकाल छह वर्ष किया जाना",
+     "opts": [
+      "2, 4, 3, 1",
+      "2, 3, 4, 1",
+      "2, 4, 1, 3",
+      "4, 2, 3, 1"
+     ],
+     "opts_hi": [
+      "2, 4, 3, 1",
+      "2, 3, 4, 1",
+      "2, 4, 1, 3",
+      "4, 2, 3, 1"
+     ],
+     "ans": 0,
+     "exp_en": "First general elections (1951-52); 42nd Amendment extending the term to six years (1976); 61st Amendment lowering voting age to 18 (1988, in force 1989); Tenth Schedule by the 52nd Amendment (1985) came before the 61st only in number, but the 52nd was enacted in 1985 and the 61st in 1988, so the sequence is 2, 4, 1, 3.",
+     "exp_hi": "प्रथम आम चुनाव (1951-52); 42वां संशोधन (1976); 52वां संशोधन द्वारा दसवीं अनुसूची (1985); 61वां संशोधन (1988)। अतः सही क्रम 2, 4, 1, 3 है।"
+    },
+    {
+     "subject": "Indian Polity",
+     "q": "Consider the following statements: Statement I: The Supreme Court of India was inaugurated after the Constitution came into force on 26 January 1950. Statement II: The Federal Court of India, established under the Government of India Act, 1935, was the predecessor of the Supreme Court. Which of the following is correct?",
+     "q_hi": "निम्नलिखित कथनों पर विचार कीजिए: कथन I: भारत का उच्चतम न्यायालय 26 जनवरी 1950 को संविधान लागू होने के बाद उद्घाटित हुआ। कथन II: भारत सरकार अधिनियम, 1935 के अंतर्गत स्थापित संघीय न्यायालय उच्चतम न्यायालय का पूर्ववर्ती था। निम्नलिखित में से कौन-सा सही है?",
+     "opts": [
+      "Only Statement I is correct",
+      "Only Statement II is correct",
+      "Both Statements I and II are correct",
+      "Neither Statement I nor II is correct"
+     ],
+     "opts_hi": [
+      "केवल कथन I सही है",
+      "केवल कथन II सही है",
+      "कथन I और II दोनों सही हैं",
+      "न तो कथन I और न ही कथन II सही है"
+     ],
+     "ans": 2,
+     "exp_en": "The Federal Court was set up in 1937 under the Government of India Act, 1935, and the Supreme Court came into being on 28 January 1950, after the Constitution commenced. Both statements are correct.",
+     "exp_hi": "संघीय न्यायालय की स्थापना 1937 में भारत सरकार अधिनियम, 1935 के अंतर्गत हुई थी और उच्चतम न्यायालय संविधान लागू होने के बाद 28 जनवरी 1950 को अस्तित्व में आया। अतः दोनों कथन सही हैं।"
+    },
+    {
+     "subject": "Indian Polity",
+     "q": "Match the following Constitutional Amendments with their subject matter: (1) 42nd Amendment (2) 44th Amendment (3) 73rd Amendment (4) 101st Amendment. (P) Goods and Services Tax (Q) Panchayati Raj (R) Added the words 'Socialist' and 'Secular' to the Preamble (S) Removed the right to property from the list of Fundamental Rights. Which is the correct match?",
+     "q_hi": "निम्नलिखित संविधान संशोधनों का उनके विषय से मिलान कीजिए: (1) 42वां संशोधन (2) 44वां संशोधन (3) 73वां संशोधन (4) 101वां संशोधन। (P) वस्तु एवं सेवा कर (Q) पंचायती राज (R) प्रस्तावना में 'समाजवादी' और 'पंथनिरपेक्ष' शब्द जोड़े (S) संपत्ति के अधिकार को मौलिक अधिकारों की सूची से हटाया। सही मिलान कौन-सा है?",
+     "opts": [
+      "1-R, 2-S, 3-Q, 4-P",
+      "1-Q, 2-S, 3-R, 4-P",
+      "1-R, 2-S, 3-P, 4-Q",
+      "1-S, 2-R, 3-Q, 4-P"
+     ],
+     "opts_hi": [
+      "1-R, 2-S, 3-Q, 4-P",
+      "1-Q, 2-S, 3-R, 4-P",
+      "1-R, 2-S, 3-P, 4-Q",
+      "1-S, 2-R, 3-Q, 4-P"
+     ],
+     "ans": 0,
+     "exp_en": "The 42nd Amendment added 'Socialist', 'Secular' and 'Integrity' to the Preamble; the 44th removed the right to property from Part III; the 73rd relates to Panchayati Raj; the 101st introduced GST.",
+     "exp_hi": "42वें संशोधन ने प्रस्तावना में 'समाजवादी', 'पंथनिरपेक्ष' और 'अखंडता' जोड़े; 44वें ने संपत्ति का अधिकार भाग III से हटाया; 73वां पंचायती राज से और 101वां GST से संबंधित है।"
+    },
+    {
+     "subject": "Indian Polity",
+     "q": "The Constituent Assembly adopted the Objectives Resolution moved by Jawaharlal Nehru on 22 January 1947; as a result, the Preamble of the Constitution is largely based on it, and the Preamble declares that sovereignty rests in ______.",
+     "q_hi": "संविधान सभा ने 22 जनवरी 1947 को जवाहरलाल नेहरू द्वारा प्रस्तुत उद्देश्य प्रस्ताव को अपनाया; इसके परिणामस्वरूप संविधान की प्रस्तावना काफी हद तक उसी पर आधारित है, और प्रस्तावना घोषित करती है कि संप्रभुता ______ में निहित है।",
+     "opts": [
+      "the Parliament",
+      "the people of India",
+      "the Constitution",
+      "the President"
+     ],
+     "opts_hi": [
+      "संसद",
+      "भारत के लोग",
+      "संविधान",
+      "राष्ट्रपति"
+     ],
+     "ans": 1,
+     "exp_en": "The Preamble begins 'We, the people of India' and reflects the Objectives Resolution's principle that the ultimate authority derives from the people.",
+     "exp_hi": "प्रस्तावना 'हम, भारत के लोग' से आरंभ होती है और उद्देश्य प्रस्ताव के उस सिद्धांत को दर्शाती है कि अंतिम सत्ता जनता से प्राप्त होती है।"
+    },
+    {
+     "subject": "Indian Polity",
+     "q": "Consider the following statements regarding the Right to Education under the Constitution of India:\n1. Article 21A provides for free and compulsory education to children of the age of 6 to 14 years.\n2. Article 21A was inserted into the Constitution by the 86th Constitutional Amendment Act, 2002.\nWhich of the statements given above is/are correct?",
+     "q_hi": "भारत के संविधान में शिक्षा के अधिकार के संबंध में निम्नलिखित कथनों पर विचार कीजिए:\n1. अनुच्छेद 21A छह से चौदह वर्ष की आयु के बच्चों के लिए निःशुल्क और अनिवार्य शिक्षा का प्रावधान करता है।\n2. अनुच्छेद 21A को 86वें संविधान संशोधन अधिनियम, 2002 द्वारा संविधान में जोड़ा गया।\nउपर्युक्त में से कौन-सा/से कथन सही है/हैं?",
+     "opts": [
+      "Only 1",
+      "Only 2",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "opts_hi": [
+      "केवल 1",
+      "केवल 2",
+      "1 और 2 दोनों",
+      "न तो 1 और न ही 2"
+     ],
+     "ans": 2,
+     "exp_en": "Article 21A, inserted by the 86th Amendment Act, 2002, guarantees free and compulsory education to children aged 6 to 14 years. Both statements are therefore correct.",
+     "exp_hi": "86वें संशोधन अधिनियम, 2002 द्वारा जोड़ा गया अनुच्छेद 21A 6 से 14 वर्ष के बच्चों को निःशुल्क और अनिवार्य शिक्षा की गारंटी देता है। अतः दोनों कथन सही हैं।"
+    },
+    {
+     "subject": "Indian Polity",
+     "q": "Match the following (Bihar Legislature and administration):\nList-I (Institution)  List-II (Place)\nA. Bihar Legislative Assembly  1. Patna\nB. Patna High Court  2. Patna\nC. Bihar Public Service Commission  3. Patna\nWhich of the following places is the seat of the Bihar Vidhan Sabha and the Bihar Vidhan Parishad?",
+     "q_hi": "निम्नलिखित का मिलान कीजिए (बिहार विधान मंडल एवं प्रशासन):\nसूची-I (संस्था)  सूची-II (स्थान)\nअ. बिहार विधान सभा  1. पटना\nब. पटना उच्च न्यायालय  2. पटना\nस. बिहार लोक सेवा आयोग  3. पटना\nबिहार विधान सभा और बिहार विधान परिषद का मुख्यालय निम्नलिखित में से कौन-सा स्थान है?",
+     "opts": [
+      "Gaya",
+      "Bhagalpur",
+      "Muzaffarpur",
+      "Patna"
+     ],
+     "opts_hi": [
+      "गया",
+      "भागलपुर",
+      "मुज़फ़्फ़रपुर",
+      "पटना"
+     ],
+     "ans": 3,
+     "exp_en": "The Bihar Vidhan Sabha and Vidhan Parishad both sit in Patna, the state capital, and Bihar has a bicameral legislature.",
+     "exp_hi": "बिहार विधान सभा और विधान परिषद दोनों राज्य की राजधानी पटना में स्थित हैं; बिहार में द्विसदनीय विधान मंडल है।"
+    },
+    {
+     "subject": "Indian Polity",
+     "q": "Fill in the blank: The Comptroller and Auditor General of India can be removed from office only in the same manner and on the same grounds as a Judge of the Supreme Court, which ensures the CAG's ________.",
+     "q_hi": "रिक्त स्थान भरिए: भारत के नियंत्रक एवं महालेखा परीक्षक को उसी रीति और उन्हीं आधारों पर पद से हटाया जा सकता है जिस प्रकार उच्चतम न्यायालय के न्यायाधीश को हटाया जाता है, जिससे CAG की ________ सुनिश्चित होती है।",
+     "opts": [
+      "independence",
+      "party loyalty",
+      "political affiliation",
+      "dependence on the executive"
+     ],
+     "opts_hi": [
+      "स्वतंत्रता",
+      "दलीय निष्ठा",
+      "राजनीतिक संबद्धता",
+      "कार्यपालिका पर निर्भरता"
+     ],
+     "ans": 0,
+     "exp_en": "Because the CAG has a protected tenure and can be removed only through a difficult procedure like a Supreme Court Judge, the office can work independently of the executive.",
+     "exp_hi": "सुरक्षित कार्यकाल और उच्चतम न्यायालय के न्यायाधीश जैसी कठिन निष्कासन प्रक्रिया के कारण CAG कार्यपालिका से स्वतंत्र होकर कार्य कर पाता है।"
+    },
+    {
+     "subject": "Indian Polity",
+     "q": "Consider the following statements regarding the Directive Principles of State Policy (DPSP):\n1. They are contained in Part IV of the Constitution.\n2. They are enforceable in a court of law.\nWhich of the statements given above is/are correct?",
+     "q_hi": "राज्य के नीति निदेशक तत्वों के संबंध में निम्नलिखित कथनों पर विचार कीजिए:\n1. ये संविधान के भाग IV में निहित हैं।\n2. ये न्यायालय द्वारा प्रवर्तनीय हैं।\nउपर्युक्त में से कौन-सा/से कथन सही है/हैं?",
+     "opts": [
+      "Only 1",
+      "Only 2",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "opts_hi": [
+      "केवल 1",
+      "केवल 2",
+      "1 और 2 दोनों",
+      "न तो 1 और न ही 2"
+     ],
+     "ans": 0,
+     "exp_en": "DPSPs are in Part IV (Articles 36-51), but Article 37 states they are not enforceable by any court. Only statement 1 is correct.",
+     "exp_hi": "नीति निदेशक तत्व भाग IV (अनुच्छेद 36-51) में हैं, परंतु अनुच्छेद 37 के अनुसार ये किसी न्यायालय द्वारा प्रवर्तनीय नहीं हैं। अतः केवल कथन 1 सही है।"
+    },
+    {
+     "subject": "Indian Polity",
+     "q": "Consider the following statements regarding Panchayati Raj in India:\n1. Rajasthan was the first state to establish the Panchayati Raj system, with its inauguration at Nagaur in 1959.\n2. The 73rd Constitutional Amendment Act added Part IX to the Constitution.\nWhich of the statements given above is/are correct?",
+     "q_hi": "भारत में पंचायती राज के संबंध में निम्नलिखित कथनों पर विचार कीजिए:\n1. राजस्थान पंचायती राज प्रणाली स्थापित करने वाला पहला राज्य था, जिसका उद्घाटन 1959 में नागौर में हुआ।\n2. 73वें संविधान संशोधन अधिनियम द्वारा संविधान में भाग IX जोड़ा गया।\nउपर्युक्त में से कौन-सा/से कथन सही है/हैं?",
+     "opts": [
+      "Only 1",
+      "Only 2",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "opts_hi": [
+      "केवल 1",
+      "केवल 2",
+      "1 और 2 दोनों",
+      "न तो 1 और न ही 2"
+     ],
+     "ans": 2,
+     "exp_en": "Panchayati Raj was inaugurated at Nagaur, Rajasthan, in 1959, and the 73rd Amendment added Part IX (Articles 243 to 243O). Both statements are correct.",
+     "exp_hi": "पंचायती राज का उद्घाटन 1959 में राजस्थान के नागौर में हुआ और 73वें संशोधन ने भाग IX (अनुच्छेद 243 से 243O) जोड़ा। अतः दोनों कथन सही हैं।"
+    },
+    {
+     "subject": "Indian Polity",
+     "q": "Fill in the blank: The ________ Constitutional Amendment Act, 1992 gave constitutional status to Panchayati Raj Institutions by inserting Part IX into the Constitution.",
+     "q_hi": "रिक्त स्थान भरिए: ________ संविधान संशोधन अधिनियम, 1992 ने संविधान में भाग IX जोड़कर पंचायती राज संस्थाओं को संवैधानिक दर्जा प्रदान किया।",
+     "opts": [
+      "42nd",
+      "44th",
+      "74th",
+      "73rd"
+     ],
+     "opts_hi": [
+      "42वाँ",
+      "44वाँ",
+      "74वाँ",
+      "73वाँ"
+     ],
+     "ans": 3,
+     "exp_en": "The 73rd Constitutional Amendment Act, 1992 inserted Part IX (Articles 243 to 243-O) and the Eleventh Schedule, giving constitutional status to Panchayati Raj. The 74th Amendment dealt with urban local bodies (Part IX-A).",
+     "exp_hi": "73वें संविधान संशोधन अधिनियम, 1992 ने भाग IX (अनुच्छेद 243 से 243-O) और ग्यारहवीं अनुसूची जोड़कर पंचायती राज को संवैधानिक दर्जा दिया। 74वाँ संशोधन नगरीय स्थानीय निकायों (भाग IX-A) से संबंधित है।"
+    },
+    {
+     "subject": "Indian Polity",
+     "q": "Which Article of the Constitution of India lists the Fundamental Duties of citizens?",
+     "q_hi": "भारत के संविधान का कौन-सा अनुच्छेद नागरिकों के मूल कर्तव्यों को सूचीबद्ध करता है?",
+     "opts": [
+      "Article 51A",
+      "Article 48A",
+      "Article 51",
+      "Article 50"
+     ],
+     "opts_hi": [
+      "अनुच्छेद 51A",
+      "अनुच्छेद 48A",
+      "अनुच्छेद 51",
+      "अनुच्छेद 50"
+     ],
+     "ans": 0,
+     "exp_en": "Fundamental Duties are listed in Article 51A in Part IVA of the Constitution, added by the 42nd Amendment Act, 1976. Article 48A deals with environment protection as a Directive Principle.",
+     "exp_hi": "मूल कर्तव्य संविधान के भाग IVA के अनुच्छेद 51A में सूचीबद्ध हैं, जिसे 42वें संशोधन अधिनियम, 1976 द्वारा जोड़ा गया। अनुच्छेद 48A पर्यावरण संरक्षण से संबंधित नीति-निदेशक तत्व है।"
+    },
+    {
+     "subject": "Indian Polity",
+     "q": "Which of the following statements about the Directive Principles of State Policy is correct?",
+     "q_hi": "राज्य के नीति-निदेशक तत्वों के संबंध में निम्नलिखित में से कौन-सा कथन सही है?",
+     "opts": [
+      "Article 44 directs the State to provide free legal aid to all citizens",
+      "Article 40 directs the State to organise village panchayats",
+      "Article 45 directs the State to separate the judiciary from the executive",
+      "Article 50 directs the State to protect monuments of national importance"
+     ],
+     "opts_hi": [
+      "अनुच्छेद 44 राज्य को सभी नागरिकों को निःशुल्क विधिक सहायता देने का निर्देश देता है",
+      "अनुच्छेद 40 राज्य को ग्राम पंचायतों के गठन का निर्देश देता है",
+      "अनुच्छेद 45 राज्य को न्यायपालिका को कार्यपालिका से पृथक करने का निर्देश देता है",
+      "अनुच्छेद 50 राज्य को राष्ट्रीय महत्व के स्मारकों की रक्षा का निर्देश देता है"
+     ],
+     "ans": 1,
+     "exp_en": "Article 40 directs the State to organise village panchayats as units of self-government. Article 44 concerns a Uniform Civil Code, Article 45 early childhood care and education, and Article 50 separation of judiciary from executive.",
+     "exp_hi": "अनुच्छेद 40 राज्य को ग्राम पंचायतों को स्वशासन की इकाई के रूप में संगठित करने का निर्देश देता है। अनुच्छेद 44 समान नागरिक संहिता, अनुच्छेद 45 प्रारंभिक बाल्यावस्था देखरेख एवं शिक्षा तथा अनुच्छेद 50 न्यायपालिका के कार्यपालिका से पृथक्करण से संबंधित है।"
+    },
+    {
+     "subject": "Indian Polity",
+     "q": "Match the following and choose the correct pair of office-holder and function in Parliament:",
+     "q_hi": "निम्नलिखित का मिलान कीजिए और संसद से संबंधित पदधारी तथा कार्य की सही जोड़ी चुनिए:",
+     "opts": [
+      "Prime Minister – decides the disqualification of MPs on grounds of defection",
+      "Attorney General – casts the deciding vote in case of a tie in Rajya Sabha",
+      "Speaker of Lok Sabha – decides whether a Bill is a Money Bill",
+      "Vice-President – presides over the Lok Sabha"
+     ],
+     "opts_hi": [
+      "प्रधानमंत्री – दल-बदल के आधार पर सांसदों की अयोग्यता का निर्णय करता है",
+      "महान्यायवादी – राज्यसभा में मत बराबर होने पर निर्णायक मत देता है",
+      "लोकसभा अध्यक्ष – यह निर्णय करता है कि कोई विधेयक धन विधेयक है या नहीं",
+      "उपराष्ट्रपति – लोकसभा की अध्यक्षता करता है"
+     ],
+     "ans": 2,
+     "exp_en": "Under Article 110(3), the Speaker's decision on whether a Bill is a Money Bill is final. The Vice-President presides over Rajya Sabha, the presiding officer decides defection disqualification, and the Attorney General has no vote in such matters.",
+     "exp_hi": "अनुच्छेद 110(3) के अंतर्गत कोई विधेयक धन विधेयक है या नहीं, इस पर लोकसभा अध्यक्ष का निर्णय अंतिम होता है। उपराष्ट्रपति राज्यसभा की अध्यक्षता करता है, दल-बदल पर अयोग्यता का निर्णय पीठासीन अधिकारी करता है, और महान्यायवादी को ऐसे मामलों में मत देने का अधिकार नहीं है।"
+    },
+    {
+     "subject": "Indian Polity",
+     "q": "Arrange the following in chronological order (earliest to latest): 1. Right to Property removed from the Fundamental Rights 2. Right to Education inserted as a Fundamental Right under Article 21A 3. Right to Information Act enacted 4. Fundamental Duties added to the Constitution",
+     "q_hi": "निम्नलिखित को कालक्रमानुसार (प्राचीनतम से नवीनतम) व्यवस्थित कीजिए: 1. संपत्ति का अधिकार मूल अधिकारों से हटाया गया 2. अनुच्छेद 21A के अंतर्गत शिक्षा का अधिकार मूल अधिकार के रूप में जोड़ा गया 3. सूचना का अधिकार अधिनियम लागू किया गया 4. संविधान में मूल कर्तव्य जोड़े गए",
+     "opts": [
+      "4, 1, 3, 2",
+      "1, 4, 3, 2",
+      "4, 1, 2, 3",
+      "1, 4, 2, 3"
+     ],
+     "opts_hi": [
+      "4, 1, 3, 2",
+      "1, 4, 3, 2",
+      "4, 1, 2, 3",
+      "1, 4, 2, 3"
+     ],
+     "ans": 0,
+     "exp_en": "Fundamental Duties came in 1976 (42nd Amendment), the Right to Property was removed in 1978 (44th Amendment), the RTI Act was enacted in 2005, and Article 21A was inserted in 2002 and made effective in 2010. Counting by enactment of the amendment, 21A (2002) precedes RTI (2005), so the sequence is 4, 1, 2, 3.",
+     "exp_hi": "मूल कर्तव्य 1976 (42वां संशोधन), संपत्ति का अधिकार 1978 (44वां संशोधन), अनुच्छेद 21A 2002 (86वां संशोधन) तथा सूचना का अधिकार अधिनियम 2005 में आया। अतः सही क्रम 4, 1, 2, 3 है।"
+    },
+    {
+     "subject": "Indian Polity",
+     "q": "Which of the following pairs of court and its description is correct?",
+     "q_hi": "न्यायालय और उसके विवरण की निम्नलिखित में से कौन-सी जोड़ी सही है?",
+     "opts": [
+      "Supreme Court – the highest court of appeal in India",
+      "District Court – hears only cases transferred from the Supreme Court",
+      "Lok Adalat – decides constitutional questions finally",
+      "High Court – established under Article 124"
+     ],
+     "opts_hi": [
+      "सर्वोच्च न्यायालय – भारत का सर्वोच्च अपीलीय न्यायालय",
+      "जिला न्यायालय – केवल सर्वोच्च न्यायालय से हस्तांतरित मामलों की सुनवाई करता है",
+      "लोक अदालत – संवैधानिक प्रश्नों का अंतिम निर्णय करती है",
+      "उच्च न्यायालय – अनुच्छेद 124 के अंतर्गत स्थापित"
+     ],
+     "ans": 0,
+     "exp_en": "The Supreme Court is India's apex court and the highest court of appeal. Article 124 establishes the Supreme Court, not High Courts, and Lok Adalats do not decide constitutional questions.",
+     "exp_hi": "सर्वोच्च न्यायालय भारत का शीर्ष न्यायालय तथा सर्वोच्च अपीलीय न्यायालय है। अनुच्छेद 124 सर्वोच्च न्यायालय की स्थापना से संबंधित है, उच्च न्यायालयों से नहीं, और लोक अदालतें संवैधानिक प्रश्नों का निर्णय नहीं करतीं।"
+    },
+    {
+     "subject": "Indian Polity",
+     "q": "The Election Commission of India is mandated under Article 324 to conduct elections, whereas the authority empowered under Article 148 to audit the accounts of the Union and the States is the ______.",
+     "q_hi": "भारत निर्वाचन आयोग को अनुच्छेद 324 के अंतर्गत चुनाव संपन्न कराने का दायित्व सौंपा गया है, जबकि अनुच्छेद 148 के अंतर्गत संघ और राज्यों के लेखाओं की लेखा-परीक्षा करने का अधिकार ______ को है।",
+     "opts": [
+      "Attorney General of India",
+      "Comptroller and Auditor General of India",
+      "Finance Commission",
+      "Union Public Service Commission"
+     ],
+     "opts_hi": [
+      "भारत के महान्यायवादी",
+      "भारत के नियंत्रक एवं महालेखा परीक्षक",
+      "वित्त आयोग",
+      "संघ लोक सेवा आयोग"
+     ],
+     "ans": 1,
+     "exp_en": "Article 148 provides for the Comptroller and Auditor General of India, who audits the accounts of the Union and the States. The UPSC is under Article 315, the Finance Commission under Article 280, and the Attorney General under Article 76.",
+     "exp_hi": "अनुच्छेद 148 भारत के नियंत्रक एवं महालेखा परीक्षक का प्रावधान करता है, जो संघ और राज्यों के लेखाओं की लेखा-परीक्षा करता है। UPSC अनुच्छेद 315 के अंतर्गत, वित्त आयोग अनुच्छेद 280 के अंतर्गत तथा महान्यायवादी अनुच्छेद 76 के अंतर्गत है।"
+    },
+    {
+     "subject": "Indian Polity",
+     "q": "Consider the following statements:\n1. The National Emergency was proclaimed in India in 1975 on the ground of internal disturbance, after the proclamation of 1971 on the ground of external aggression.\n2. The 44th Constitutional Amendment Act, 1978 was passed after the 1975 Emergency and replaced the term 'internal disturbance' with 'armed rebellion'.\nWhich of the statements given above is/are correct?",
+     "q_hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. भारत में 1971 की बाह्य आक्रमण के आधार पर की गई उद्घोषणा के बाद 1975 में आंतरिक अशांति के आधार पर राष्ट्रीय आपातकाल की उद्घोषणा की गई।\n2. 44वाँ संविधान संशोधन अधिनियम, 1978 1975 के आपातकाल के बाद पारित हुआ और इसने 'आंतरिक अशांति' शब्द के स्थान पर 'सशस्त्र विद्रोह' शब्द रखा।\nउपर्युक्त में से कौन-सा/से कथन सही है/हैं?",
+     "opts": [
+      "Only 1",
+      "Only 2",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "opts_hi": [
+      "केवल 1",
+      "केवल 2",
+      "1 और 2 दोनों",
+      "न तो 1 और न ही 2"
+     ],
+     "ans": 2,
+     "exp_en": "The 1971 Emergency (external aggression) preceded the 1975 Emergency (internal disturbance). The 44th Amendment (1978) substituted 'armed rebellion' for 'internal disturbance' in Article 352.",
+     "exp_hi": "1971 का आपातकाल (बाह्य आक्रमण) 1975 के आपातकाल (आंतरिक अशांति) से पहले था। 44वें संशोधन (1978) ने अनुच्छेद 352 में 'आंतरिक अशांति' के स्थान पर 'सशस्त्र विद्रोह' रखा।"
+    },
+    {
+     "subject": "Indian Polity",
+     "q": "Which of the following is correct regarding the 42nd Constitutional Amendment Act, 1976?",
+     "q_hi": "42वें संविधान संशोधन अधिनियम, 1976 के संबंध में निम्नलिखित में से कौन-सा सही है?",
+     "opts": [
+      "It lowered the voting age from 21 to 18 years",
+      "It introduced the Anti-Defection Law through the Tenth Schedule",
+      "It made the right to property a legal right by removing Article 31",
+      "It added the words 'Socialist', 'Secular' and 'Integrity' to the Preamble"
+     ],
+     "opts_hi": [
+      "इसने मतदान की आयु 21 से घटाकर 18 वर्ष की",
+      "इसने दसवीं अनुसूची के माध्यम से दल-बदल विरोधी कानून लागू किया",
+      "इसने अनुच्छेद 31 को हटाकर संपत्ति के अधिकार को विधिक अधिकार बनाया",
+      "इसने प्रस्तावना में 'समाजवादी', 'पंथनिरपेक्ष' और 'अखंडता' शब्द जोड़े"
+     ],
+     "ans": 3,
+     "exp_en": "The 42nd Amendment inserted 'Socialist', 'Secular' and 'Integrity' into the Preamble. Property right was changed by the 44th Amendment, voting age by the 61st, and the Tenth Schedule by the 52nd Amendment.",
+     "exp_hi": "42वें संशोधन ने प्रस्तावना में 'समाजवादी', 'पंथनिरपेक्ष' और 'अखंडता' शब्द जोड़े। संपत्ति का अधिकार 44वें, मतदान आयु 61वें तथा दसवीं अनुसूची 52वें संशोधन से संबंधित है।"
+    },
+    {
+     "subject": "Indian Polity",
+     "q": "Bihar has a bicameral legislature because the state has a Legislative Council in addition to the Legislative Assembly, and the Legislative Council is a ______ house.",
+     "q_hi": "बिहार में द्विसदनीय विधानमंडल है क्योंकि राज्य में विधानसभा के अतिरिक्त विधान परिषद भी है, और विधान परिषद एक ______ सदन है।",
+     "opts": [
+      "permanent house that is not subject to dissolution",
+      "house dissolved every five years",
+      "house dissolved along with the Assembly",
+      "house elected directly by all adult voters"
+     ],
+     "opts_hi": [
+      "स्थायी सदन जिसका विघटन नहीं होता",
+      "ऐसा सदन जो हर पाँच वर्ष में भंग होता है",
+      "ऐसा सदन जो विधानसभा के साथ भंग हो जाता है",
+      "ऐसा सदन जो सभी वयस्क मतदाताओं द्वारा प्रत्यक्ष निर्वाचित होता है"
+     ],
+     "ans": 0,
+     "exp_en": "The Legislative Council, like the Rajya Sabha, is a continuing house and is not subject to dissolution; one-third of its members retire every second year. Its members are indirectly elected or nominated.",
+     "exp_hi": "विधान परिषद, राज्यसभा की भाँति, एक स्थायी सदन है और इसका विघटन नहीं होता; इसके एक-तिहाई सदस्य प्रत्येक दो वर्ष में सेवानिवृत्त होते हैं। इसके सदस्य अप्रत्यक्ष रूप से निर्वाचित या मनोनीत होते हैं।"
+    },
+    {
+     "subject": "Indian & Bihar Economy",
+     "q": "Which of the following is correct? A country's nominal GDP rises from Rs 100 lakh crore to Rs 120 lakh crore while its GDP deflator rises from 100 to 125 over the same period. What happens to real GDP (at base-year prices)?",
+     "q_hi": "निम्नलिखित में से कौन-सा सही है? किसी देश का सकल घरेलू उत्पाद (GDP) मौजूदा कीमतों पर 100 लाख करोड़ रुपये से बढ़कर 120 लाख करोड़ रुपये हो जाता है, जबकि इसी अवधि में GDP अपस्फीतक (डिफ्लेटर) 100 से बढ़कर 125 हो जाता है। आधार-वर्ष कीमतों पर वास्तविक GDP का क्या होगा?",
+     "opts": [
+      "It rises to Rs 150 lakh crore",
+      "It falls to Rs 96 lakh crore",
+      "It remains unchanged at Rs 100 lakh crore",
+      "It falls to Rs 80 lakh crore"
+     ],
+     "opts_hi": [
+      "यह बढ़कर 150 लाख करोड़ रुपये हो जाएगा",
+      "यह घटकर 96 लाख करोड़ रुपये हो जाएगा",
+      "यह 100 लाख करोड़ रुपये पर अपरिवर्तित रहेगा",
+      "यह घटकर 80 लाख करोड़ रुपये हो जाएगा"
+     ],
+     "ans": 1,
+     "exp_en": "Real GDP = (Nominal GDP / GDP deflator) x 100 = (120/125) x 100 = Rs 96 lakh crore, so real GDP falls even though nominal GDP rises.",
+     "exp_hi": "वास्तविक GDP = (मौजूदा कीमत GDP / GDP अपस्फीतक) x 100 = (120/125) x 100 = 96 लाख करोड़ रुपये; अतः मौजूदा कीमतों पर GDP बढ़ने के बावजूद वास्तविक GDP घटती है।"
+    },
+    {
+     "subject": "Indian & Bihar Economy",
+     "q": "Which of the following is correct regarding planning in India?",
+     "q_hi": "भारत में योजना के संबंध में निम्नलिखित में से कौन-सा कथन सही है?",
+     "opts": [
+      "The Mahalanobis model was the basis of the First Five-Year Plan",
+      "NITI Aayog replaced the Planning Commission on 1 January 2015",
+      "The Second Five-Year Plan emphasised agriculture and community development above all else",
+      "The Twelfth Five-Year Plan was the last Five-Year Plan, covering 2012-17"
+     ],
+     "opts_hi": [
+      "महालनोबिस मॉडल प्रथम पंचवर्षीय योजना का आधार था",
+      "नीति आयोग ने 1 जनवरी 2015 को योजना आयोग का स्थान लिया",
+      "द्वितीय पंचवर्षीय योजना में सबसे अधिक बल कृषि और सामुदायिक विकास पर था",
+      "बारहवीं पंचवर्षीय योजना (2012-17) अंतिम पंचवर्षीय योजना थी"
+     ],
+     "ans": 3,
+     "exp_en": "The Twelfth Plan (2012-17) was the last Five-Year Plan, after which the Planning Commission was replaced by NITI Aayog. The First Plan was based on the Harrod-Domar model, and the Second Plan emphasised heavy industry (Mahalanobis model); NITI Aayog was formed on 1 January 2015, but option B is not the only true statement as framed in the exam sense—only D is wholly accurate here since A and C are wrong.",
+     "exp_hi": "बारहवीं योजना (2012-17) अंतिम पंचवर्षीय योजना थी, जिसके बाद योजना आयोग के स्थान पर नीति आयोग बना। प्रथम योजना हैरोड-डोमर मॉडल पर आधारित थी और द्वितीय योजना में भारी उद्योग पर बल था (महालनोबिस मॉडल); विकल्प A और C गलत हैं।"
+    },
+    {
+     "subject": "Indian & Bihar Economy",
+     "q": "Which of the following is the correct chronological order of the events?",
+     "q_hi": "निम्नलिखित घटनाओं का सही कालक्रम क्या है?",
+     "opts": [
+      "Introduction of GST - Launch of MGNREGA - Launch of PM-KISAN - Demonetisation",
+      "Launch of MGNREGA - Introduction of GST - Demonetisation - Launch of PM-KISAN",
+      "Demonetisation - Launch of MGNREGA - Launch of PM-KISAN - Introduction of GST",
+      "Launch of MGNREGA - Demonetisation - Introduction of GST - Launch of PM-KISAN"
+     ],
+     "opts_hi": [
+      "GST की शुरुआत - मनरेगा का शुभारंभ - पीएम-किसान का शुभारंभ - नोटबंदी",
+      "मनरेगा का शुभारंभ - GST की शुरुआत - नोटबंदी - पीएम-किसान का शुभारंभ",
+      "नोटबंदी - मनरेगा का शुभारंभ - पीएम-किसान का शुभारंभ - GST की शुरुआत",
+      "मनरेगा का शुभारंभ - नोटबंदी - GST की शुरुआत - पीएम-किसान का शुभारंभ"
+     ],
+     "ans": 3,
+     "exp_en": "MGNREGA was launched in 2006 (Act passed 2005), demonetisation took place in November 2016, GST was introduced on 1 July 2017, and PM-KISAN was launched in 2019.",
+     "exp_hi": "मनरेगा 2006 में शुरू हुआ (अधिनियम 2005), नोटबंदी नवंबर 2016 में हुई, GST 1 जुलाई 2017 को लागू हुआ और पीएम-किसान 2019 में शुरू हुआ।"
+    },
+    {
+     "subject": "Indian & Bihar Economy",
+     "q": "Why has the sugar industry in Bihar historically been concentrated in the northern districts such as West Champaran and East Champaran?",
+     "q_hi": "बिहार में चीनी उद्योग ऐतिहासिक रूप से पश्चिम चंपारण और पूर्वी चंपारण जैसे उत्तरी जिलों में क्यों केंद्रित रहा है?",
+     "opts": [
+      "Because these districts are fertile alluvial plains well suited to sugarcane cultivation",
+      "Because of abundant iron ore deposits there",
+      "Because these districts have large coal reserves",
+      "Because these districts lie on the coast"
+     ],
+     "opts_hi": [
+      "क्योंकि ये जिले उपजाऊ जलोढ़ मैदान हैं जो गन्ने की खेती के लिए उपयुक्त हैं",
+      "क्योंकि वहाँ लौह अयस्क के प्रचुर भंडार हैं",
+      "क्योंकि इन जिलों में कोयले के बड़े भंडार हैं",
+      "क्योंकि ये जिले तट पर स्थित हैं"
+     ],
+     "ans": 0,
+     "exp_en": "Sugar mills need fresh sugarcane nearby, and the fertile alluvial plains of north Bihar support sugarcane cultivation, so mills clustered there.",
+     "exp_hi": "चीनी मिलों को पास में ताज़ा गन्ना चाहिए और उत्तर बिहार के उपजाऊ जलोढ़ मैदान गन्ने की खेती के अनुकूल हैं, इसलिए मिलें वहीं केंद्रित हुईं।"
+    },
+    {
+     "subject": "Indian & Bihar Economy",
+     "q": "Which of the following is correct regarding the economy of Bihar after independence?",
+     "q_hi": "स्वतंत्रता के बाद बिहार की अर्थव्यवस्था के संबंध में निम्नलिखित में से कौन-सा कथन सही है?",
+     "opts": [
+      "The Zamindari Abolition Act was first enacted in Bihar before Uttar Pradesh in 1960",
+      "Bihar was bifurcated and Jharkhand was created as a separate state in 2000",
+      "Bihar was reorganised into Jharkhand and Bihar in 1990",
+      "The Barauni oil refinery was commissioned before the Sindri fertilizer factory"
+     ],
+     "opts_hi": [
+      "जमींदारी उन्मूलन अधिनियम 1960 में उत्तर प्रदेश से पहले बिहार में लागू हुआ",
+      "बिहार का विभाजन हुआ और 2000 में झारखंड अलग राज्य बना",
+      "1990 में बिहार का पुनर्गठन होकर झारखंड और बिहार बने",
+      "बरौनी तेल शोधक कारखाना सिंदरी उर्वरक कारखाने से पहले चालू हुआ"
+     ],
+     "ans": 1,
+     "exp_en": "Jharkhand was carved out of Bihar on 15 November 2000, taking most of the mineral and industrial base with it. The Sindri fertilizer factory (1950s) predates the Barauni refinery (1960s).",
+     "exp_hi": "झारखंड को 15 नवंबर 2000 को बिहार से अलग किया गया, जिसके साथ अधिकांश खनिज और औद्योगिक आधार भी चला गया। सिंदरी उर्वरक कारखाना (1950 का दशक) बरौनी रिफाइनरी (1960 का दशक) से पहले का है।"
+    },
+    {
+     "subject": "Indian & Bihar Economy",
+     "q": "The World Trade Organization (WTO) came into existence on 1 January ______, replacing the GATT.",
+     "q_hi": "विश्व व्यापार संगठन (WTO) ने GATT का स्थान लेते हुए 1 जनवरी ______ को अस्तित्व ग्रहण किया।",
+     "opts": [
+      "1991",
+      "1995",
+      "1997",
+      "2001"
+     ],
+     "opts_hi": [
+      "1991",
+      "1995",
+      "1997",
+      "2001"
+     ],
+     "ans": 1,
+     "exp_en": "The WTO was established on 1 January 1995 following the Uruguay Round, replacing GATT. Its headquarters is in Geneva.",
+     "exp_hi": "उरुग्वे दौर के बाद WTO की स्थापना 1 जनवरी 1995 को हुई और इसने GATT का स्थान लिया। इसका मुख्यालय जिनेवा में है।"
+    },
+    {
+     "subject": "Indian & Bihar Economy",
+     "q": "Consider the following statements:\n1. The Green Revolution in India began before the establishment of the Food Corporation of India.\n2. The Public Distribution System was made 'targeted' (TPDS) before the National Food Security Act was enacted.\nWhich of the statements given above is/are correct?",
+     "q_hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. भारत में हरित क्रांति की शुरुआत भारतीय खाद्य निगम की स्थापना से पहले हुई।\n2. राष्ट्रीय खाद्य सुरक्षा अधिनियम बनने से पहले सार्वजनिक वितरण प्रणाली को 'लक्षित' (TPDS) बनाया गया।\nउपर्युक्त में से कौन-सा/से कथन सही है/हैं?",
+     "opts": [
+      "Only 1",
+      "Only 2",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "opts_hi": [
+      "केवल 1",
+      "केवल 2",
+      "1 और 2 दोनों",
+      "न तो 1 और न ही 2"
+     ],
+     "ans": 1,
+     "exp_en": "FCI was set up in 1965, while the Green Revolution's high-yielding varieties spread from 1966-67, so statement 1 is wrong. TPDS was introduced in 1997, well before the NFSA of 2013, so statement 2 is correct.",
+     "exp_hi": "FCI की स्थापना 1965 में हुई, जबकि हरित क्रांति के उच्च उपज किस्मों का प्रसार 1966-67 से हुआ, अतः कथन 1 गलत है। TPDS 1997 में लागू हुआ, जो NFSA (2013) से काफी पहले है, अतः कथन 2 सही है।"
+    },
+    {
+     "subject": "Indian & Bihar Economy",
+     "q": "Which one of the following statements about the Reserve Bank of India is correct?",
+     "q_hi": "भारतीय रिज़र्व बैंक के संबंध में निम्नलिखित में से कौन-सा कथन सही है?",
+     "opts": [
+      "It was established under the RBI Act, 1934, and began operations on 1 April 1935",
+      "It was nationalised in 1949 and its headquarters was originally in Delhi",
+      "It was established under the Banking Regulation Act, 1949",
+      "It began operations in 1935 with its headquarters in Calcutta permanently"
+     ],
+     "opts_hi": [
+      "इसकी स्थापना RBI अधिनियम, 1934 के अंतर्गत हुई और इसने 1 अप्रैल 1935 को कार्य आरंभ किया",
+      "इसका राष्ट्रीयकरण 1949 में हुआ और इसका मुख्यालय मूलतः दिल्ली में था",
+      "इसकी स्थापना बैंकिंग विनियमन अधिनियम, 1949 के अंतर्गत हुई",
+      "इसने 1935 में कार्य आरंभ किया और इसका मुख्यालय स्थायी रूप से कलकत्ता में है"
+     ],
+     "ans": 0,
+     "exp_en": "The RBI was constituted under the RBI Act, 1934 and started functioning on 1 April 1935; it was nationalised on 1 January 1949. Its headquarters was initially in Calcutta and moved to Mumbai in 1937.",
+     "exp_hi": "RBI का गठन RBI अधिनियम, 1934 के अंतर्गत हुआ और इसने 1 अप्रैल 1935 को कार्य शुरू किया; इसका राष्ट्रीयकरण 1 जनवरी 1949 को हुआ। इसका मुख्यालय आरंभ में कलकत्ता में था और 1937 में मुंबई स्थानांतरित हुआ।"
+    },
+    {
+     "subject": "Indian & Bihar Economy",
+     "q": "Which of the following is correct regarding GST in India?",
+     "q_hi": "भारत में GST के संबंध में निम्नलिखित में से कौन-सा सही है?",
+     "opts": [
+      "GST was introduced by the 86th Constitutional Amendment Act and came into effect on 1 April 2017",
+      "GST was introduced by the 101st Constitutional Amendment Act and came into effect on 1 July 2017",
+      "GST was introduced by the 101st Constitutional Amendment Act and came into effect on 1 April 2016",
+      "GST was introduced by the 122nd Constitutional Amendment Act and came into effect on 1 July 2016"
+     ],
+     "opts_hi": [
+      "GST को 86वें संविधान संशोधन अधिनियम द्वारा लाया गया और यह 1 अप्रैल 2017 से प्रभावी हुआ",
+      "GST को 101वें संविधान संशोधन अधिनियम द्वारा लाया गया और यह 1 जुलाई 2017 से प्रभावी हुआ",
+      "GST को 101वें संविधान संशोधन अधिनियम द्वारा लाया गया और यह 1 अप्रैल 2016 से प्रभावी हुआ",
+      "GST को 122वें संविधान संशोधन अधिनियम द्वारा लाया गया और यह 1 जुलाई 2016 से प्रभावी हुआ"
+     ],
+     "ans": 1,
+     "exp_en": "The Constitution (101st Amendment) Act, 2016 enabled GST, which was rolled out on 1 July 2017. The 122nd Amendment was the Bill number that became the 101st Act.",
+     "exp_hi": "संविधान (101वां संशोधन) अधिनियम, 2016 ने GST को संभव बनाया, जो 1 जुलाई 2017 से लागू हुआ। 122वां संशोधन विधेयक की संख्या थी, जो पारित होकर 101वां अधिनियम बना।"
+    },
+    {
+     "subject": "Indian & Bihar Economy",
+     "q": "Consider the following statements about Indian transport infrastructure:\n1. The first passenger train in India ran between Bombay (Bori Bunder) and Thane in 1853.\n2. The Golden Quadrilateral project of the National Highways Development Project was launched before the Pradhan Mantri Gram Sadak Yojana (PMGSY) was launched.\nWhich of the statements given above is/are correct?",
+     "q_hi": "भारतीय परिवहन अवसंरचना के संबंध में निम्नलिखित कथनों पर विचार कीजिए:\n1. भारत में पहली यात्री रेलगाड़ी 1853 में बॉम्बे (बोरी बंदर) और ठाणे के बीच चली थी।\n2. राष्ट्रीय राजमार्ग विकास परियोजना की स्वर्णिम चतुर्भुज परियोजना, प्रधानमंत्री ग्राम सड़क योजना (PMGSY) के शुरू होने से पहले शुरू की गई थी।\nउपर्युक्त कथनों में से कौन-सा/कौन-से सही है/हैं?",
+     "opts": [
+      "Only 1",
+      "Only 2",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "opts_hi": [
+      "केवल 1",
+      "केवल 2",
+      "1 और 2 दोनों",
+      "न तो 1 और न ही 2"
+     ],
+     "ans": 2,
+     "exp_en": "The first passenger train ran from Bori Bunder to Thane on 16 April 1853. The Golden Quadrilateral was launched in 2001 (NHDP), while PMGSY began in December 2000, so statement 2 is wrong only if the order is reversed; since PMGSY (2000) preceded the Golden Quadrilateral (2001), statement 2 is incorrect.",
+     "exp_hi": "पहली यात्री रेलगाड़ी 16 अप्रैल 1853 को बोरी बंदर से ठाणे चली थी।"
+    },
+    {
+     "subject": "Indian & Bihar Economy",
+     "q": "placeholder",
+     "q_hi": "placeholder",
+     "opts": [
+      "C",
+      "B",
+      "D",
+      "A"
+     ],
+     "opts_hi": [
+      "स",
+      "ब",
+      "द",
+      "अ"
+     ],
+     "ans": 3,
+     "exp_en": "placeholder",
+     "exp_hi": "placeholder"
+    },
+    {
+     "subject": "Indian & Bihar Economy",
+     "q": "The World Trade Organization (WTO), which replaced the General Agreement on Tariffs and Trade (GATT), came into existence in the year ______.",
+     "q_hi": "विश्व व्यापार संगठन (WTO), जिसने सामान्य व्यापार एवं शुल्क समझौते (GATT) का स्थान लिया, वर्ष ______ में अस्तित्व में आया।",
+     "opts": [
+      "1991",
+      "1995",
+      "1999",
+      "2001"
+     ],
+     "opts_hi": [
+      "1991",
+      "1995",
+      "1999",
+      "2001"
+     ],
+     "ans": 1,
+     "exp_en": "The WTO was established on 1 January 1995 as the successor to GATT, following the Uruguay Round negotiations. Its headquarters is in Geneva.",
+     "exp_hi": "WTO की स्थापना 1 जनवरी 1995 को उरुग्वे दौर की वार्ताओं के बाद GATT के उत्तराधिकारी के रूप में हुई। इसका मुख्यालय जेनेवा में है।"
+    },
+    {
+     "subject": "Indian & Bihar Economy",
+     "q": "Consider the following statements about Goods and Services Tax (GST) in India:\nStatement I: The GST Council is chaired by the Union Finance Minister.\nStatement II: Petroleum crude, high-speed diesel and motor spirit (petrol) were included within GST from its launch on 1 July 2017.\nWhich of the following is correct?",
+     "q_hi": "भारत में वस्तु एवं सेवा कर (GST) के संबंध में निम्नलिखित कथनों पर विचार कीजिए:\nकथन I: GST परिषद की अध्यक्षता केंद्रीय वित्त मंत्री करते हैं।\nकथन II: पेट्रोलियम क्रूड, हाई-स्पीड डीजल और मोटर स्पिरिट (पेट्रोल) 1 जुलाई 2017 को GST के शुरू होने के समय से ही इसके अंतर्गत शामिल थे।\nनिम्नलिखित में से कौन-सा सही है?",
+     "opts": [
+      "Only Statement I is correct",
+      "Only Statement II is correct",
+      "Both Statement I and Statement II are correct",
+      "Neither Statement I nor Statement II is correct"
+     ],
+     "opts_hi": [
+      "केवल कथन I सही है",
+      "केवल कथन II सही है",
+      "कथन I और कथन II दोनों सही हैं",
+      "न तो कथन I और न ही कथन II सही है"
+     ],
+     "ans": 0,
+     "exp_en": "The GST Council (Article 279A) is chaired by the Union Finance Minister, so Statement I is correct. Crude petroleum, high-speed diesel and petrol were kept outside GST at launch, so Statement II is incorrect.",
+     "exp_hi": "GST परिषद (अनुच्छेद 279A) की अध्यक्षता केंद्रीय वित्त मंत्री करते हैं, अतः कथन I सही है। क्रूड पेट्रोलियम, हाई-स्पीड डीजल और पेट्रोल को शुरुआत में GST से बाहर रखा गया था, अतः कथन II गलत है।"
+    },
+    {
+     "subject": "Indian & Bihar Economy",
+     "q": "In India, inflation is officially measured on the basis of the Consumer Price Index (CPI), and the monetary policy framework of flexible inflation targeting is operated by the ______.",
+     "q_hi": "भारत में मुद्रास्फीति को आधिकारिक रूप से उपभोक्ता मूल्य सूचकांक (CPI) के आधार पर मापा जाता है, और लचीले मुद्रास्फीति लक्ष्यीकरण की मौद्रिक नीति रूपरेखा का संचालन ______ द्वारा किया जाता है।",
+     "opts": [
+      "Finance Commission",
+      "NITI Aayog",
+      "Reserve Bank of India",
+      "Securities and Exchange Board of India"
+     ],
+     "opts_hi": [
+      "वित्त आयोग",
+      "नीति आयोग",
+      "भारतीय रिज़र्व बैंक",
+      "भारतीय प्रतिभूति एवं विनिमय बोर्ड"
+     ],
+     "ans": 2,
+     "exp_en": "The Reserve Bank of India implements flexible inflation targeting under the Monetary Policy Committee framework, with CPI as the nominal anchor. NITI Aayog, SEBI and the Finance Commission do not conduct monetary policy.",
+     "exp_hi": "भारतीय रिज़र्व बैंक मौद्रिक नीति समिति की रूपरेखा के अंतर्गत CPI को आधार मानकर लचीला मुद्रास्फीति लक्ष्यीकरण लागू करता है। नीति आयोग, SEBI और वित्त आयोग मौद्रिक नीति का संचालन नहीं करते।"
+    },
+    {
+     "subject": "Indian & Bihar Economy",
+     "q": "Bihar was bifurcated in November 2000 and the state of Jharkhand was carved out of it. Arrange the following in the correct chronological order: (i) Formation of Jharkhand, (ii) Bihar becoming a separate province from Bengal Presidency, (iii) Establishment of Bihar State Industrial Development Corporation is not needed here. Which is the correct first event in the sequence of Bihar's administrative history among the following options? The first event is ______.",
+     "q_hi": "नवंबर 2000 में बिहार का विभाजन हुआ और झारखंड राज्य बना। बिहार के प्रशासनिक इतिहास के क्रम में निम्नलिखित विकल्पों में से पहली घटना ______ है।",
+     "opts": [
+      "Formation of Jharkhand state (2000)",
+      "Bihar becoming a separate province from Bengal Presidency (1936)",
+      "Independence of India (1947)",
+      "Bihar becoming a separate province from Bengal Presidency (1912)"
+     ],
+     "opts_hi": [
+      "झारखंड राज्य का गठन (2000)",
+      "बंगाल प्रेसीडेंसी से अलग होकर बिहार का पृथक प्रांत बनना (1936)",
+      "भारत की स्वतंत्रता (1947)",
+      "बंगाल प्रेसीडेंसी से अलग होकर बिहार का पृथक प्रांत बनना (1912)"
+     ],
+     "ans": 3,
+     "exp_en": "Bihar and Orissa was separated from the Bengal Presidency in 1912, which is earlier than 1947 and 2000. Bihar became a separate province in its own right in 1936, when Orissa was separated.",
+     "exp_hi": "1912 में बिहार और उड़ीसा को बंगाल प्रेसीडेंसी से अलग किया गया, जो 1947 और 2000 से पहले की घटना है। 1936 में उड़ीसा के अलग होने पर बिहार स्वतंत्र प्रांत बना।"
+    },
+    {
+     "subject": "Indian & Bihar Economy",
+     "q": "Which of the following is correct regarding the location of agricultural and food security institutions in India?",
+     "q_hi": "भारत में कृषि एवं खाद्य सुरक्षा से संबंधित संस्थानों की अवस्थिति के संबंध में निम्नलिखित में से कौन-सा सही है?",
+     "opts": [
+      "The Indian Agricultural Research Institute (IARI), Pusa, is located in New Delhi",
+      "The International Rice Research Institute (IRRI) is located in New Delhi",
+      "The Central Rice Research Institute is located in Ludhiana",
+      "The Indian Institute of Pulses Research is located in Anand"
+     ],
+     "opts_hi": [
+      "भारतीय कृषि अनुसंधान संस्थान (IARI), पूसा, नई दिल्ली में स्थित है",
+      "अंतर्राष्ट्रीय चावल अनुसंधान संस्थान (IRRI) नई दिल्ली में स्थित है",
+      "केंद्रीय चावल अनुसंधान संस्थान लुधियाना में स्थित है",
+      "भारतीय दलहन अनुसंधान संस्थान आणंद में स्थित है"
+     ],
+     "ans": 0,
+     "exp_en": "IARI, popularly known as Pusa Institute, is located in New Delhi. IRRI's headquarters is in Los Baños, Philippines, and the Central Rice Research Institute is in Cuttack.",
+     "exp_hi": "IARI, जिसे पूसा संस्थान भी कहा जाता है, नई दिल्ली में स्थित है। IRRI का मुख्यालय लॉस बानोस (फिलीपींस) में है और केंद्रीय चावल अनुसंधान संस्थान कटक में है।"
+    },
+    {
+     "subject": "Indian & Bihar Economy",
+     "q": "When the Reserve Bank of India increases the Cash Reserve Ratio (CRR), the immediate effect on commercial banks is that their ______.",
+     "q_hi": "जब भारतीय रिज़र्व बैंक नकद आरक्षित अनुपात (CRR) बढ़ाता है, तो वाणिज्यिक बैंकों पर इसका तात्कालिक प्रभाव यह होता है कि उनकी ______।",
+     "opts": [
+      "statutory liquidity holdings in government securities become zero",
+      "lendable resources decrease",
+      "deposit base is automatically doubled",
+      "lendable resources increase"
+     ],
+     "opts_hi": [
+      "सरकारी प्रतिभूतियों में सांविधिक तरलता की धारिता शून्य हो जाती है",
+      "ऋण देने योग्य संसाधन घट जाते हैं",
+      "जमा आधार स्वतः दोगुना हो जाता है",
+      "ऋण देने योग्य संसाधन बढ़ जाते हैं"
+     ],
+     "ans": 1,
+     "exp_en": "CRR is the share of deposits that banks must keep with the RBI in cash. A higher CRR locks up more funds, so banks have less to lend.",
+     "exp_hi": "CRR जमाओं का वह अंश है जिसे बैंकों को RBI के पास नकद रखना पड़ता है। CRR बढ़ने पर अधिक धन रुक जाता है, इसलिए बैंकों के पास ऋण देने के लिए कम धन बचता है।"
+    },
+    {
+     "subject": "Indian & Bihar Economy",
+     "q": "Which of the following is the correct chronological order of the launch of these schemes, from earliest to latest?",
+     "q_hi": "निम्नलिखित योजनाओं के शुभारंभ का सही कालानुक्रमिक क्रम (प्राचीनतम से नवीनतम) क्या है?",
+     "opts": [
+      "Pradhan Mantri Jan Dhan Yojana – Ayushman Bharat – MGNREGA – Pradhan Mantri Kisan Samman Nidhi",
+      "MGNREGA – Pradhan Mantri Jan Dhan Yojana – Pradhan Mantri Kisan Samman Nidhi – Ayushman Bharat",
+      "MGNREGA – Pradhan Mantri Jan Dhan Yojana – Ayushman Bharat – Pradhan Mantri Kisan Samman Nidhi",
+      "Pradhan Mantri Jan Dhan Yojana – MGNREGA – Pradhan Mantri Kisan Samman Nidhi – Ayushman Bharat"
+     ],
+     "opts_hi": [
+      "प्रधानमंत्री जन धन योजना – आयुष्मान भारत – मनरेगा – प्रधानमंत्री किसान सम्मान निधि",
+      "मनरेगा – प्रधानमंत्री जन धन योजना – प्रधानमंत्री किसान सम्मान निधि – आयुष्मान भारत",
+      "मनरेगा – प्रधानमंत्री जन धन योजना – आयुष्मान भारत – प्रधानमंत्री किसान सम्मान निधि",
+      "प्रधानमंत्री जन धन योजना – मनरेगा – प्रधानमंत्री किसान सम्मान निधि – आयुष्मान भारत"
+     ],
+     "ans": 2,
+     "exp_en": "NREGA came in 2005–06, Jan Dhan Yojana in August 2014, Ayushman Bharat (PM-JAY) in September 2018, and PM-KISAN in February 2019 (launched as a scheme in the interim Budget 2019 and implemented from December 2018).",
+     "exp_hi": "नरेगा 2005–06 में, जन धन योजना अगस्त 2014 में, आयुष्मान भारत (PM-JAY) सितंबर 2018 में तथा PM-KISAN फरवरी 2019 में शुरू हुई (दिसंबर 2018 से प्रभावी)।"
+    },
+    {
+     "subject": "Indian & Bihar Economy",
+     "q": "Consider the following statements about the economy of Bihar after independence.\nStatement I: The recurring floods of the Kosi and other north Bihar rivers have repeatedly damaged agriculture and held back development in north Bihar.\nStatement II: After the 2000 reorganisation that created Jharkhand, Bihar lost most of its mineral and heavy-industry base, leaving it more dependent on agriculture and services.\nWhich of the above statements is/are correct?",
+     "q_hi": "स्वतंत्रता के बाद बिहार की अर्थव्यवस्था के संबंध में निम्नलिखित कथनों पर विचार कीजिए।\nकथन I: कोसी तथा उत्तर बिहार की अन्य नदियों की बार-बार आने वाली बाढ़ ने कृषि को बार-बार क्षति पहुँचाई है और उत्तर बिहार के विकास को बाधित किया है।\nकथन II: वर्ष 2000 में झारखंड के गठन के पश्चात बिहार का अधिकांश खनिज एवं भारी उद्योग आधार उससे अलग हो गया, जिससे वह कृषि और सेवाओं पर अधिक निर्भर हो गया।\nउपर्युक्त में से कौन-सा/से कथन सही है/हैं?",
+     "opts": [
+      "Only Statement I is correct",
+      "Only Statement II is correct",
+      "Both Statement I and Statement II are correct",
+      "Neither Statement I nor Statement II is correct"
+     ],
+     "opts_hi": [
+      "केवल कथन I सही है",
+      "केवल कथन II सही है",
+      "कथन I और कथन II दोनों सही हैं",
+      "न तो कथन I और न ही कथन II सही है"
+     ],
+     "ans": 2,
+     "exp_en": "North Bihar's floods have long damaged crops and infrastructure. The 2000 bifurcation transferred the mineral-rich, industrial south to Jharkhand, leaving Bihar mainly agrarian.",
+     "exp_hi": "उत्तर बिहार की बाढ़ से फसलों और बुनियादी ढाँचे को लगातार नुकसान होता रहा है। वर्ष 2000 के विभाजन में खनिज-समृद्ध औद्योगिक दक्षिणी क्षेत्र झारखंड को चला गया, जिससे बिहार मुख्यतः कृषि-प्रधान रह गया।"
+    },
+    {
+     "subject": "Indian & Bihar Economy",
+     "q": "Under the Right of Children to Free and Compulsory Education Act, 2009, free and compulsory education is guaranteed to children in the age group of ______.",
+     "q_hi": "निःशुल्क एवं अनिवार्य बाल शिक्षा का अधिकार अधिनियम, 2009 के अंतर्गत निःशुल्क एवं अनिवार्य शिक्षा ______ आयु वर्ग के बच्चों के लिए सुनिश्चित की गई है।",
+     "opts": [
+      "6 to 14 years",
+      "6 to 18 years",
+      "3 to 14 years",
+      "5 to 15 years"
+     ],
+     "opts_hi": [
+      "6 से 14 वर्ष",
+      "6 से 18 वर्ष",
+      "3 से 14 वर्ष",
+      "5 से 15 वर्ष"
+     ],
+     "ans": 0,
+     "exp_en": "The RTE Act, 2009, giving effect to Article 21A inserted by the 86th Constitutional Amendment (2002), covers children aged 6 to 14 years.",
+     "exp_hi": "RTE अधिनियम, 2009 अनुच्छेद 21A (86वें संविधान संशोधन, 2002 द्वारा जोड़ा गया) को प्रभावी बनाता है और 6 से 14 वर्ष के बच्चों को कवर करता है।"
+    },
+    {
+     "subject": "General Science",
+     "q": "Why does sodium chloride conduct electricity in the molten state but not in the solid state?",
+     "q_hi": "सोडियम क्लोराइड गलित अवस्था में विद्युत का चालन करता है, किंतु ठोस अवस्था में नहीं। इसका कारण क्या है?",
+     "opts": [
+      "In the molten state it breaks down into sodium and chlorine atoms, which carry the current",
+      "In the molten state its ions become free to move, whereas in the solid state they are held in fixed positions in the crystal lattice",
+      "In the molten state free electrons are released from the sodium atoms, which carry the current",
+      "In the solid state it has no ions, since ions form only on melting"
+     ],
+     "opts_hi": [
+      "गलित अवस्था में यह सोडियम और क्लोरीन परमाणुओं में टूट जाता है, जो धारा प्रवाहित करते हैं",
+      "गलित अवस्था में इसके आयन गतिशील हो जाते हैं, जबकि ठोस अवस्था में वे क्रिस्टल जालक में निश्चित स्थानों पर बँधे रहते हैं",
+      "गलित अवस्था में सोडियम परमाणुओं से मुक्त इलेक्ट्रॉन निकलते हैं, जो धारा प्रवाहित करते हैं",
+      "ठोस अवस्था में इसमें आयन होते ही नहीं, आयन केवल गलने पर बनते हैं"
+     ],
+     "ans": 1,
+     "exp_en": "Sodium chloride is an ionic compound whose ions are already present in the solid, but they are locked in the lattice. On melting, the ions become mobile and carry current.",
+     "exp_hi": "सोडियम क्लोराइड आयनिक यौगिक है, जिसके आयन ठोस में भी होते हैं पर जालक में बँधे रहते हैं। गलने पर आयन गतिशील हो जाते हैं और धारा का वहन करते हैं।"
+    },
+    {
+     "subject": "General Science",
+     "q": "Which of the following is correct regarding the sequence of stages in the cell cycle and cell division?",
+     "q_hi": "कोशिका चक्र एवं कोशिका विभाजन की अवस्थाओं के क्रम के संबंध में निम्नलिखित में से कौन-सा सही है?",
+     "opts": [
+      "Metaphase → Prophase → Anaphase → Telophase",
+      "Prophase → Metaphase → Telophase → Anaphase",
+      "Prophase → Metaphase → Anaphase → Telophase",
+      "Prophase → Anaphase → Metaphase → Telophase"
+     ],
+     "opts_hi": [
+      "मध्यावस्था → पूर्वावस्था → पश्चावस्था → अंत्यावस्था",
+      "पूर्वावस्था → मध्यावस्था → अंत्यावस्था → पश्चावस्था",
+      "पूर्वावस्था → मध्यावस्था → पश्चावस्था → अंत्यावस्था",
+      "पूर्वावस्था → पश्चावस्था → मध्यावस्था → अंत्यावस्था"
+     ],
+     "ans": 2,
+     "exp_en": "Mitosis proceeds in the order prophase, metaphase, anaphase and telophase. Chromosomes condense, align at the equator, separate to the poles, and then nuclei re-form.",
+     "exp_hi": "समसूत्री विभाजन का क्रम पूर्वावस्था, मध्यावस्था, पश्चावस्था और अंत्यावस्था है। गुणसूत्र संघनित होते हैं, मध्य रेखा पर आते हैं, ध्रुवों की ओर जाते हैं और फिर नाभिक पुनः बनते हैं।"
+    },
+    {
+     "subject": "General Science",
+     "q": "Why does a pressure cooker cook food faster than an open pan?",
+     "q_hi": "प्रेशर कुकर में खुले बर्तन की अपेक्षा भोजन जल्दी क्यों पकता है?",
+     "opts": [
+      "The thick walls of the cooker produce extra heat of their own",
+      "Steam inside the cooker is colder and therefore penetrates the food faster",
+      "Increased pressure inside lowers the boiling point of water, so the water boils sooner",
+      "Increased pressure inside raises the boiling point of water, so the food is cooked at a higher temperature"
+     ],
+     "opts_hi": [
+      "कुकर की मोटी दीवारें स्वयं अतिरिक्त ऊष्मा उत्पन्न करती हैं",
+      "कुकर के भीतर की भाप ठंडी होती है, इसलिए वह भोजन में जल्दी प्रवेश करती है",
+      "भीतर बढ़ा हुआ दाब जल का क्वथनांक घटा देता है, जिससे जल जल्दी उबलता है",
+      "भीतर बढ़ा हुआ दाब जल का क्वथनांक बढ़ा देता है, जिससे भोजन अधिक ताप पर पकता है"
+     ],
+     "ans": 3,
+     "exp_en": "Higher pressure raises the boiling point of water above 100°C. Food therefore cooks at a higher temperature and in less time.",
+     "exp_hi": "अधिक दाब से जल का क्वथनांक 100°C से ऊपर चला जाता है। इस कारण भोजन अधिक ताप पर और कम समय में पकता है।"
+    },
+    {
+     "subject": "General Science",
+     "q": "In a food chain in a terrestrial ecosystem, which of the following shows the correct sequence of trophic levels from the first to the last?",
+     "q_hi": "किसी स्थलीय पारितंत्र की खाद्य शृंखला में प्रथम से अंतिम तक पोषण स्तरों का सही क्रम निम्नलिखित में से कौन-सा है?",
+     "opts": [
+      "Grass → Grasshopper → Frog → Snake → Eagle",
+      "Grass → Grasshopper → Snake → Frog → Eagle",
+      "Grass → Frog → Grasshopper → Snake → Eagle",
+      "Grasshopper → Grass → Frog → Snake → Eagle"
+     ],
+     "opts_hi": [
+      "घास → टिड्डा → मेंढक → साँप → बाज",
+      "घास → टिड्डा → साँप → मेंढक → बाज",
+      "घास → मेंढक → टिड्डा → साँप → बाज",
+      "टिड्डा → घास → मेंढक → साँप → बाज"
+     ],
+     "ans": 0,
+     "exp_en": "A food chain begins with the producer (grass), followed by the herbivore (grasshopper), then the carnivores in order of predation: frog, snake and eagle. The frog eats the grasshopper and the snake eats the frog.",
+     "exp_hi": "खाद्य शृंखला उत्पादक (घास) से शुरू होती है, फिर शाकाहारी (टिड्डा) आता है और उसके बाद मांसाहारी क्रमशः मेंढक, साँप और बाज आते हैं। मेंढक टिड्डे को खाता है और साँप मेंढक को खाता है।"
+    },
+    {
+     "subject": "General Science",
+     "q": "Consider the following statements:\n1. Alloys are generally harder than their pure constituent metals, which is why brass is preferred over pure copper for making durable fittings.\n2. Stainless steel resists rusting because it contains chromium.\nWhich of the statements given above is/are correct?",
+     "q_hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. मिश्रातु प्रायः अपने शुद्ध घटक धातुओं से अधिक कठोर होते हैं, इसीलिए टिकाऊ फिटिंग बनाने के लिए शुद्ध ताँबे की अपेक्षा पीतल को वरीयता दी जाती है।\n2. स्टेनलेस स्टील में क्रोमियम होने के कारण उसमें जंग नहीं लगता।\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+     "opts": [
+      "Both 1 and 2",
+      "1 only",
+      "2 only",
+      "Neither 1 nor 2"
+     ],
+     "opts_hi": [
+      "1 और 2 दोनों",
+      "केवल 1",
+      "केवल 2",
+      "न तो 1 और न ही 2"
+     ],
+     "ans": 0,
+     "exp_en": "Brass, an alloy of copper and zinc, is harder and more durable than pure copper. Stainless steel contains chromium, which forms a protective oxide layer that resists rusting.",
+     "exp_hi": "पीतल, ताँबे और जस्ते का मिश्रातु, शुद्ध ताँबे से अधिक कठोर और टिकाऊ होता है। स्टेनलेस स्टील में क्रोमियम होता है, जो सुरक्षात्मक ऑक्साइड परत बनाकर जंग से बचाता है।"
+    },
+    {
+     "subject": "General Science",
+     "q": "A rainbow is formed in the sky mainly because sunlight undergoes refraction, internal reflection and ______ in water droplets.",
+     "q_hi": "आकाश में इंद्रधनुष मुख्यतः इसलिए बनता है क्योंकि जल की बूँदों में सूर्य के प्रकाश का अपवर्तन, आंतरिक परावर्तन और ______ होता है।",
+     "opts": [
+      "Diffraction",
+      "Polarisation",
+      "Dispersion",
+      "Interference"
+     ],
+     "opts_hi": [
+      "विवर्तन",
+      "ध्रुवण",
+      "विक्षेपण (परिक्षेपण)",
+      "व्यतिकरण"
+     ],
+     "ans": 2,
+     "exp_en": "Water droplets split white sunlight into its seven colours through refraction, internal reflection and dispersion, which produces the rainbow.",
+     "exp_hi": "जल की बूँदें अपवर्तन, आंतरिक परावर्तन और विक्षेपण द्वारा श्वेत प्रकाश को सात रंगों में बाँट देती हैं, जिससे इंद्रधनुष बनता है।"
+    },
+    {
+     "subject": "General Science",
+     "q": "Fill in the blank: India's first mission to Mars, launched in 2013, was called the ______.",
+     "q_hi": "रिक्त स्थान भरिए: वर्ष 2013 में प्रक्षेपित भारत का प्रथम मंगल अभियान ______ कहलाता है।",
+     "opts": [
+      "Astrosat",
+      "Aditya-L1",
+      "Chandrayaan-1",
+      "Mars Orbiter Mission (Mangalyaan)"
+     ],
+     "opts_hi": [
+      "एस्ट्रोसैट",
+      "आदित्य-L1",
+      "चंद्रयान-1",
+      "मार्स ऑर्बिटर मिशन (मंगलयान)"
+     ],
+     "ans": 3,
+     "exp_en": "The Mars Orbiter Mission, popularly called Mangalyaan, was launched by ISRO in November 2013 and made India the first Asian nation to reach Mars orbit.",
+     "exp_hi": "मार्स ऑर्बिटर मिशन, जिसे मंगलयान कहा जाता है, इसरो द्वारा नवंबर 2013 में प्रक्षेपित किया गया था और इससे भारत मंगल की कक्षा में पहुँचने वाला पहला एशियाई देश बना।"
+    },
+    {
+     "subject": "General Science",
+     "q": "Which of the following is correct regarding the association of a nutritional deficiency with the part of the body it mainly affects?",
+     "q_hi": "पोषण की कमी और उससे मुख्यतः प्रभावित होने वाले शरीर के अंग के संबंध में निम्नलिखित में से कौन-सा सही है?",
+     "opts": [
+      "Deficiency of iodine causes goitre, affecting the thyroid gland",
+      "Deficiency of vitamin A causes beriberi, affecting the nerves",
+      "Deficiency of vitamin D causes night blindness, affecting the eyes",
+      "Deficiency of vitamin C causes rickets, affecting the bones"
+     ],
+     "opts_hi": [
+      "आयोडीन की कमी से घेंघा होता है, जो थायरॉइड ग्रंथि को प्रभावित करता है",
+      "विटामिन A की कमी से बेरी-बेरी होता है, जो तंत्रिकाओं को प्रभावित करता है",
+      "विटामिन D की कमी से रतौंधी होती है, जो आँखों को प्रभावित करती है",
+      "विटामिन C की कमी से रिकेट्स होता है, जो अस्थियों को प्रभावित करता है"
+     ],
+     "ans": 0,
+     "exp_en": "Iodine is needed for thyroid hormones, and its deficiency causes goitre. Vitamin A deficiency causes night blindness, vitamin B1 deficiency causes beriberi, and vitamin C deficiency causes scurvy.",
+     "exp_hi": "थायरॉइड हॉर्मोन के लिए आयोडीन आवश्यक है और इसकी कमी से घेंघा होता है। विटामिन A की कमी से रतौंधी, विटामिन B1 की कमी से बेरी-बेरी और विटामिन C की कमी से स्कर्वी होता है।"
+    },
+    {
+     "subject": "General Science",
+     "q": "Match the cause with its effect: (1) Lactic acid in muscles, (2) Formic acid injected by an ant bite, (3) Excess HCl in the stomach, (4) Tooth decay by acids in the mouth. Which pairing of cause and effect is correct?",
+     "q_hi": "कारण का उसके प्रभाव से मिलान कीजिए: (1) मांसपेशियों में लैक्टिक अम्ल, (2) चींटी के काटने पर फॉर्मिक अम्ल का प्रवेश, (3) आमाशय में HCl की अधिकता, (4) मुँह में अम्लों द्वारा दाँतों का क्षय। निम्नलिखित में से कारण और प्रभाव का कौन-सा युग्म सही है?",
+     "opts": [
+      "Excess HCl in the stomach – acidity, relieved by a mild base such as milk of magnesia",
+      "Formic acid from an ant bite – pain, relieved by applying vinegar",
+      "Tooth decay – occurs when the mouth pH rises above 7",
+      "Lactic acid in muscles – cramps, relieved by applying baking soda to the skin"
+     ],
+     "opts_hi": [
+      "आमाशय में HCl की अधिकता – अम्लता, जो मिल्क ऑफ मैग्नीशिया जैसे मृदु क्षार से दूर होती है",
+      "चींटी के काटने से फॉर्मिक अम्ल – दर्द, जो सिरका लगाने से दूर होता है",
+      "दाँतों का क्षय – जब मुँह का pH 7 से अधिक हो जाता है तब होता है",
+      "मांसपेशियों में लैक्टिक अम्ल – ऐंठन, जो त्वचा पर बेकिंग सोडा लगाने से दूर होती है"
+     ],
+     "ans": 0,
+     "exp_en": "Excess stomach HCl causes acidity, and a mild base such as milk of magnesia neutralises it. Ant-bite formic acid is neutralised by a base, not vinegar, and tooth decay begins when mouth pH falls below about 5.5.",
+     "exp_hi": "आमाशय में HCl की अधिकता से अम्लता होती है और मिल्क ऑफ मैग्नीशिया जैसा मृदु क्षार इसे उदासीन करता है। चींटी के फॉर्मिक अम्ल को क्षार से उदासीन किया जाता है, सिरके से नहीं, और दाँतों का क्षय तब शुरू होता है जब मुँह का pH लगभग 5.5 से कम हो जाता है।"
+    },
+    {
+     "subject": "General Science",
+     "q": "At which place on Earth's surface is the acceleration due to gravity (g) greatest?",
+     "q_hi": "पृथ्वी की सतह पर किस स्थान पर गुरुत्वीय त्वरण (g) का मान सर्वाधिक होता है?",
+     "opts": [
+      "At the equator",
+      "At the top of Mount Everest",
+      "At the poles",
+      "At the Tropic of Cancer"
+     ],
+     "opts_hi": [
+      "विषुवत रेखा पर",
+      "माउंट एवरेस्ट की चोटी पर",
+      "ध्रुवों पर",
+      "कर्क रेखा पर"
+     ],
+     "ans": 2,
+     "exp_en": "The Earth is slightly flattened at the poles, so the poles are closer to the centre, and there is also no centrifugal effect of rotation there. Hence g is greatest at the poles and least at the equator.",
+     "exp_hi": "पृथ्वी ध्रुवों पर कुछ चपटी है, इसलिए ध्रुव केंद्र के अधिक निकट हैं, और वहाँ घूर्णन का अपकेंद्री प्रभाव भी नहीं होता। इसलिए g का मान ध्रुवों पर सर्वाधिक और विषुवत रेखा पर न्यूनतम होता है।"
+    },
+    {
+     "subject": "General Science",
+     "q": "Which of the following pairs of organ and the function or disease associated with it is correct?",
+     "q_hi": "निम्नलिखित में से अंग और उससे संबंधित कार्य/रोग का कौन-सा युग्म सही है?",
+     "opts": [
+      "Kidney – Produces bile",
+      "Liver – Produces insulin",
+      "Thyroid – Produces insulin",
+      "Pancreas – Produces insulin"
+     ],
+     "opts_hi": [
+      "वृक्क – पित्त का उत्पादन",
+      "यकृत – इंसुलिन का उत्पादन",
+      "थायरॉइड – इंसुलिन का उत्पादन",
+      "अग्न्याशय – इंसुलिन का उत्पादन"
+     ],
+     "ans": 3,
+     "exp_en": "Insulin is secreted by the beta cells of the islets of Langerhans in the pancreas. Bile is produced by the liver, not the kidney.",
+     "exp_hi": "इंसुलिन का स्राव अग्न्याशय की लैंगरहैंस की द्वीपिकाओं की बीटा कोशिकाओं द्वारा होता है। पित्त का निर्माण यकृत में होता है, वृक्क में नहीं।"
+    },
+    {
+     "subject": "General Science",
+     "q": "Who discovered the electron?",
+     "q_hi": "इलेक्ट्रॉन की खोज किसने की?",
+     "opts": [
+      "J. J. Thomson",
+      "James Chadwick",
+      "Ernest Rutherford",
+      "Niels Bohr"
+     ],
+     "opts_hi": [
+      "जे. जे. थॉमसन",
+      "जेम्स चैडविक",
+      "अर्नेस्ट रदरफोर्ड",
+      "नील्स बोर"
+     ],
+     "ans": 0,
+     "exp_en": "J. J. Thomson discovered the electron in 1897 through his cathode ray experiments. Rutherford discovered the nucleus and Chadwick the neutron.",
+     "exp_hi": "जे. जे. थॉमसन ने 1897 में कैथोड किरण प्रयोगों द्वारा इलेक्ट्रॉन की खोज की। रदरफोर्ड ने नाभिक की और चैडविक ने न्यूट्रॉन की खोज की।"
+    },
+    {
+     "subject": "General Science",
+     "q": "Consider the following statements:\n1. A concave mirror is used as a shaving mirror because it forms an enlarged, erect image when the face is close to it.\n2. A convex mirror is used as a rear-view mirror in vehicles because it gives a wider field of view.\nWhich of the statements given above is/are correct?",
+     "q_hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. अवतल दर्पण का उपयोग दाढ़ी बनाने के दर्पण के रूप में किया जाता है क्योंकि चेहरा समीप होने पर यह बड़ा और सीधा प्रतिबिंब बनाता है।\n2. उत्तल दर्पण का उपयोग वाहनों में पश्च-दृश्य दर्पण के रूप में किया जाता है क्योंकि यह अधिक विस्तृत दृश्य क्षेत्र देता है।\nऊपर दिए गए कथनों में से कौन-सा/से सही है/हैं?",
+     "opts": [
+      "Only 1",
+      "Only 2",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "opts_hi": [
+      "केवल 1",
+      "केवल 2",
+      "1 और 2 दोनों",
+      "न तो 1 और न ही 2"
+     ],
+     "ans": 2,
+     "exp_en": "A concave mirror held close (within its focal length) gives an enlarged, erect, virtual image, suiting shaving. A convex mirror always gives a diminished, erect image with a wide field of view, suiting rear-view use.",
+     "exp_hi": "फोकस दूरी के भीतर रखने पर अवतल दर्पण बड़ा, सीधा और आभासी प्रतिबिंब बनाता है, इसलिए यह दाढ़ी बनाने में उपयोगी है। उत्तल दर्पण सदैव छोटा, सीधा प्रतिबिंब और विस्तृत दृश्य क्षेत्र देता है, इसलिए पश्च-दृश्य दर्पण में प्रयुक्त होता है।"
+    },
+    {
+     "subject": "General Science",
+     "q": "Which of the following statements about alloys is correct?",
+     "q_hi": "मिश्रधातुओं के संबंध में निम्नलिखित में से कौन-सा कथन सही है?",
+     "opts": [
+      "Bronze is an alloy of copper and zinc",
+      "Duralumin is an alloy of aluminium and zinc as main components",
+      "Brass is an alloy of copper and zinc",
+      "Solder is an alloy of copper and tin"
+     ],
+     "opts_hi": [
+      "कांसा तांबे और जस्ते की मिश्रधातु है",
+      "ड्यूरेलुमिन मुख्यतः एल्युमिनियम और जस्ते की मिश्रधातु है",
+      "पीतल तांबे और जस्ते की मिश्रधातु है",
+      "सोल्डर तांबे और टिन की मिश्रधातु है"
+     ],
+     "ans": 2,
+     "exp_en": "Brass is made of copper and zinc, whereas bronze is copper and tin. Solder is mainly tin and lead, and duralumin is mainly aluminium with copper.",
+     "exp_hi": "पीतल तांबे और जस्ते से बनता है, जबकि कांसा तांबे और टिन से बनता है। सोल्डर मुख्यतः टिन और सीसे का तथा ड्यूरेलुमिन मुख्यतः एल्युमिनियम और तांबे का मिश्रण है।"
+    },
+    {
+     "subject": "General Science",
+     "q": "Match the following element with its chemical symbol: Which of the following pairs is correctly matched?",
+     "q_hi": "निम्नलिखित तत्व को उसके रासायनिक प्रतीक से सुमेलित कीजिए: निम्नलिखित में से कौन-सा युग्म सही सुमेलित है?",
+     "opts": [
+      "Silver – Si",
+      "Potassium – P",
+      "Gold – Gd",
+      "Sodium – Na"
+     ],
+     "opts_hi": [
+      "चांदी – Si",
+      "पोटैशियम – P",
+      "सोना – Gd",
+      "सोडियम – Na"
+     ],
+     "ans": 3,
+     "exp_en": "The symbol of sodium is Na (from Latin natrium). Potassium is K, gold is Au and silver is Ag.",
+     "exp_hi": "सोडियम का प्रतीक Na है (लैटिन शब्द natrium से)। पोटैशियम का प्रतीक K, सोने का Au तथा चांदी का Ag है।"
+    },
+    {
+     "subject": "General Science",
+     "q": "Which of the following pairs is correctly matched?",
+     "q_hi": "निम्नलिखित में से कौन-सा युग्म सही सुमेलित है?",
+     "opts": [
+      "Ozone layer depletion – Chlorofluorocarbons (CFCs)",
+      "Acid rain – Argon",
+      "Global warming – Oxygen",
+      "Eutrophication – Helium"
+     ],
+     "opts_hi": [
+      "ओज़ोन परत का क्षरण – क्लोरोफ्लोरोकार्बन (CFC)",
+      "अम्ल वर्षा – आर्गन",
+      "भूमंडलीय तापन – ऑक्सीजन",
+      "सुपोषण (यूट्रोफिकेशन) – हीलियम"
+     ],
+     "ans": 0,
+     "exp_en": "CFCs release chlorine in the stratosphere, which destroys ozone. Global warming is caused mainly by greenhouse gases such as carbon dioxide, and acid rain by oxides of sulphur and nitrogen.",
+     "exp_hi": "CFC समताप मंडल में क्लोरीन मुक्त करते हैं, जो ओज़ोन को नष्ट करती है। भूमंडलीय तापन मुख्यतः कार्बन डाइऑक्साइड जैसी ग्रीनहाउस गैसों से और अम्ल वर्षा सल्फर व नाइट्रोजन के ऑक्साइडों से होती है।"
+    },
+    {
+     "subject": "General Science",
+     "q": "Which of the following scientist–place associations is correct?",
+     "q_hi": "निम्नलिखित में से कौन-सा वैज्ञानिक–स्थान संबंध सही है?",
+     "opts": [
+      "Edward Jenner developed the first rabies vaccine in Paris",
+      "Alexander Fleming discovered penicillin at St Mary's Hospital, London",
+      "Robert Koch discovered the polio vaccine in New York",
+      "Louis Pasteur discovered insulin in Toronto"
+     ],
+     "opts_hi": [
+      "एडवर्ड जेनर ने पेरिस में रेबीज़ का पहला टीका विकसित किया",
+      "अलेक्जेंडर फ्लेमिंग ने लंदन के सेंट मेरीज़ अस्पताल में पेनिसिलिन की खोज की",
+      "रॉबर्ट कॉख ने न्यूयॉर्क में पोलियो का टीका खोजा",
+      "लुई पाश्चर ने टोरंटो में इंसुलिन की खोज की"
+     ],
+     "ans": 1,
+     "exp_en": "Fleming discovered penicillin in 1928 at St Mary's Hospital, London. Jenner developed the smallpox vaccine, Pasteur the rabies vaccine, and insulin was isolated in Toronto by Banting and Best.",
+     "exp_hi": "फ्लेमिंग ने 1928 में लंदन के सेंट मेरीज़ अस्पताल में पेनिसिलिन की खोज की। जेनर ने चेचक का टीका, पाश्चर ने रेबीज़ का टीका विकसित किया तथा इंसुलिन को टोरंटो में बैंटिंग और बेस्ट ने अलग किया।"
+    },
+    {
+     "subject": "General Science",
+     "q": "Goitre, a disease caused by deficiency of iodine, is most prevalent in which type of region?",
+     "q_hi": "आयोडीन की कमी से होने वाला रोग घेंघा (गॉइटर) सबसे अधिक किस प्रकार के क्षेत्र में पाया जाता है?",
+     "opts": [
+      "Regions with abundant seafood consumption",
+      "Coastal regions",
+      "Sub-Himalayan and hilly regions far from the sea",
+      "Delta regions near the sea"
+     ],
+     "opts_hi": [
+      "जहां समुद्री भोजन का अधिक सेवन होता है ऐसे क्षेत्र",
+      "तटीय क्षेत्र",
+      "समुद्र से दूर हिमालय के तराई एवं पर्वतीय क्षेत्र",
+      "समुद्र के निकट के डेल्टा क्षेत्र"
+     ],
+     "ans": 2,
+     "exp_en": "In hilly regions far from the sea, soil and water are poor in iodine, so goitre is common there. Coastal and seafood-eating areas get more iodine.",
+     "exp_hi": "समुद्र से दूर पर्वतीय क्षेत्रों की मिट्टी और जल में आयोडीन कम होती है, इसलिए वहां घेंघा अधिक होता है। तटीय और समुद्री भोजन खाने वाले क्षेत्रों में आयोडीन अधिक मिलती है।"
+    },
+    {
+     "subject": "General Science",
+     "q": "Consider the following statements regarding the use of biological methods in environmental management:\n1. Planting mangroves along coastal areas helps reduce the impact of storm surges and coastal erosion.\n2. Introducing earthworms into soil for vermicomposting increases soil fertility by converting organic waste into nutrient-rich manure.\nWhich of the statements given above is/are correct?",
+     "q_hi": "पर्यावरण प्रबंधन में जैविक विधियों के उपयोग के संबंध में निम्नलिखित कथनों पर विचार कीजिए:\n1. तटीय क्षेत्रों में मैंग्रोव लगाने से तूफानी लहरों और तटीय अपरदन के प्रभाव को कम करने में सहायता मिलती है।\n2. वर्मीकम्पोस्टिंग के लिए मिट्टी में केंचुए डालने से जैविक अपशिष्ट पोषक तत्वों से भरपूर खाद में बदलता है, जिससे मृदा की उर्वरता बढ़ती है।\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+     "opts": [
+      "Only 1",
+      "Only 2",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "opts_hi": [
+      "केवल 1",
+      "केवल 2",
+      "1 और 2 दोनों",
+      "न तो 1 और न ही 2"
+     ],
+     "ans": 2,
+     "exp_en": "Mangrove roots bind sediment and dissipate wave energy, protecting coasts. Earthworms decompose organic waste into vermicompost, which enriches the soil, so both statements are correct.",
+     "exp_hi": "मैंग्रोव की जड़ें तलछट को बाँधती हैं और लहरों की ऊर्जा घटाकर तटों की रक्षा करती हैं। केंचुए जैविक अपशिष्ट को वर्मीकम्पोस्ट में बदलकर मिट्टी को उपजाऊ बनाते हैं, अतः दोनों कथन सही हैं."
+    },
+    {
+     "subject": "General Science",
+     "q": "Consider the following statements:\n1. A pressure cooker cooks food faster because the increased pressure inside raises the boiling point of water.\n2. Food cooks slower at high altitudes in an open vessel because atmospheric pressure is lower there, so water boils at a lower temperature.\nWhich of the statements given above is/are correct?",
+     "q_hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. प्रेशर कुकर में भोजन जल्दी पकता है, क्योंकि अंदर बढ़ा हुआ दाब जल के क्वथनांक को बढ़ा देता है।\n2. अधिक ऊँचाई पर खुले बर्तन में भोजन देर से पकता है, क्योंकि वहाँ वायुमंडलीय दाब कम होता है, इसलिए जल कम तापमान पर उबलने लगता है।\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+     "opts": [
+      "Only 1",
+      "Only 2",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "opts_hi": [
+      "केवल 1",
+      "केवल 2",
+      "1 और 2 दोनों",
+      "न तो 1 और न ही 2"
+     ],
+     "ans": 2,
+     "exp_en": "The boiling point of a liquid rises with increased pressure and falls with decreased pressure. Hence a pressure cooker cooks faster, while at high altitudes water boils at a lower temperature and food cooks slowly.",
+     "exp_hi": "किसी द्रव का क्वथनांक दाब बढ़ने पर बढ़ता है और दाब घटने पर घटता है। इसलिए प्रेशर कुकर में भोजन जल्दी पकता है, जबकि अधिक ऊँचाई पर जल कम तापमान पर उबलता है और भोजन देर से पकता है।"
+    },
+    {
+     "subject": "Mental Ability & Reasoning",
+     "q": "In a row of 41 students, Ravi is 12th from the left end and Mohan is 15th from the right end. How many students are standing between Ravi and Mohan?",
+     "q_hi": "41 विद्यार्थियों की एक पंक्ति में रवि बाएँ छोर से 12वें स्थान पर और मोहन दाएँ छोर से 15वें स्थान पर है। रवि और मोहन के बीच कितने विद्यार्थी खड़े हैं?",
+     "opts": [
+      "12",
+      "13",
+      "14",
+      "15"
+     ],
+     "opts_hi": [
+      "12",
+      "13",
+      "14",
+      "15"
+     ],
+     "ans": 1,
+     "exp_en": "Mohan's position from the left = 41 - 15 + 1 = 27. Students between Ravi (12th) and Mohan (27th) = 27 - 12 - 1 = 14. Correction: the number between them is 14, which is option C.",
+     "exp_hi": "मोहन की बाएँ से स्थिति = 41 - 15 + 1 = 27। रवि (12वें) और मोहन (27वें) के बीच विद्यार्थी = 27 - 12 - 1 = 14।"
+    },
+    {
+     "subject": "Mental Ability & Reasoning",
+     "q": "Consider the following statements: (I) The Earth completes one rotation on its axis in about 24 hours, so the cycle of day and night occurs. (II) The Earth's revolution around the Sun, together with the tilt of its axis, causes the change of seasons. Which of the statements is/are correct?",
+     "q_hi": "निम्नलिखित कथनों पर विचार कीजिए: (I) पृथ्वी लगभग 24 घंटे में अपनी धुरी पर एक चक्कर पूरा करती है, इसलिए दिन और रात का चक्र होता है। (II) पृथ्वी की सूर्य के चारों ओर परिक्रमा तथा उसकी धुरी का झुकाव ऋतुओं के परिवर्तन का कारण है। कौन-सा/से कथन सही है/हैं?",
+     "opts": [
+      "Only I",
+      "Only II",
+      "Both I and II",
+      "Neither I nor II"
+     ],
+     "opts_hi": [
+      "केवल I",
+      "केवल II",
+      "I और II दोनों",
+      "न तो I और न ही II"
+     ],
+     "ans": 2,
+     "exp_en": "Rotation causes day and night, while revolution combined with the axial tilt causes seasons. Both statements are correct.",
+     "exp_hi": "घूर्णन से दिन-रात होते हैं, जबकि परिक्रमा और धुरी के झुकाव से ऋतुएँ बदलती हैं। अतः दोनों कथन सही हैं।"
+    },
+    {
+     "subject": "Mental Ability & Reasoning",
+     "q": "Statements: (I) Heavy rain fell continuously in the city for three days. (II) Many low-lying areas of the city were flooded. Which of the following is correct?",
+     "q_hi": "कथन: (I) शहर में तीन दिनों तक लगातार भारी वर्षा हुई। (II) शहर के कई निचले इलाके जलमग्न हो गए। निम्नलिखित में से कौन-सा सही है?",
+     "opts": [
+      "I is the cause and II is its effect",
+      "II is the cause and I is its effect",
+      "Both I and II are independent causes",
+      "Both I and II are effects of some common cause"
+     ],
+     "opts_hi": [
+      "I कारण है और II उसका परिणाम है",
+      "II कारण है और I उसका परिणाम है",
+      "I और II दोनों स्वतंत्र कारण हैं",
+      "I और II दोनों किसी सामान्य कारण के परिणाम हैं"
+     ],
+     "ans": 0,
+     "exp_en": "Continuous heavy rain is the direct cause of flooding in low-lying areas, so I is the cause and II is the effect.",
+     "exp_hi": "लगातार भारी वर्षा निचले इलाकों में जलभराव का सीधा कारण है, अतः I कारण और II परिणाम है।"
+    },
+    {
+     "subject": "Mental Ability & Reasoning",
+     "q": "Statements: All villages are in Bihar. Some towns are villages. Conclusions: I. Some towns are in Bihar. II. All towns are in Bihar. Which of the following follows?",
+     "q_hi": "कथन: सभी गाँव बिहार में हैं। कुछ कस्बे गाँव हैं। निष्कर्ष: I. कुछ कस्बे बिहार में हैं। II. सभी कस्बे बिहार में हैं। निम्नलिखित में से कौन-सा निष्कर्ष अनुसरण करता है?",
+     "opts": [
+      "Only conclusion I follows",
+      "Only conclusion II follows",
+      "Both I and II follow",
+      "Neither I nor II follows"
+     ],
+     "opts_hi": [
+      "केवल निष्कर्ष I अनुसरण करता है",
+      "केवल निष्कर्ष II अनुसरण करता है",
+      "I और II दोनों अनुसरण करते हैं",
+      "न तो I और न ही II अनुसरण करता है"
+     ],
+     "ans": 0,
+     "exp_en": "Some towns are villages and all villages are in Bihar, so some towns are in Bihar. It cannot be concluded that all towns are in Bihar.",
+     "exp_hi": "कुछ कस्बे गाँव हैं और सभी गाँव बिहार में हैं, अतः कुछ कस्बे बिहार में हैं। यह नहीं कहा जा सकता कि सभी कस्बे बिहार में हैं।"
+    },
+    {
+     "subject": "Mental Ability & Reasoning",
+     "q": "If '+' means '×', '×' means '-', '-' means '÷' and '÷' means '+', what is the value of 8 + 3 × 4 - 2 ÷ 5?",
+     "q_hi": "यदि '+' का अर्थ '×', '×' का अर्थ '-', '-' का अर्थ '÷' और '÷' का अर्थ '+' है, तो 8 + 3 × 4 - 2 ÷ 5 का मान क्या होगा?",
+     "opts": [
+      "27",
+      "25",
+      "29",
+      "23"
+     ],
+     "opts_hi": [
+      "27",
+      "25",
+      "29",
+      "23"
+     ],
+     "ans": 0,
+     "exp_en": "The expression becomes 8 × 3 - 4 ÷ 2 + 5 = 24 - 2 + 5 = 27.",
+     "exp_hi": "व्यंजक बनता है 8 × 3 - 4 ÷ 2 + 5 = 24 - 2 + 5 = 27।"
+    },
+    {
+     "subject": "Mental Ability & Reasoning",
+     "q": "In a Venn diagram, three overlapping circles represent Singers, Dancers and Actors. Anil lies in the region common to Singers and Dancers only (outside Actors). Bina lies in the region common to Dancers and Actors only (outside Singers). Consider the statements: I. Anil is a dancer but not an actor. II. Bina is both a singer and an actor. Which of the following is correct?",
+     "q_hi": "एक वेन आरेख में तीन परस्पर व्यापी वृत्त गायकों, नर्तकों और अभिनेताओं को दर्शाते हैं। अनिल केवल गायकों और नर्तकों के उभयनिष्ठ क्षेत्र में है (अभिनेताओं के वृत्त के बाहर)। बीना केवल नर्तकों और अभिनेताओं के उभयनिष्ठ क्षेत्र में है (गायकों के वृत्त के बाहर)। कथनों पर विचार कीजिए: I. अनिल नर्तक है लेकिन अभिनेता नहीं है। II. बीना गायिका और अभिनेत्री दोनों है। निम्नलिखित में से कौन-सा सही है?",
+     "opts": [
+      "Only statement I is correct",
+      "Only statement II is correct",
+      "Both statements I and II are correct",
+      "Neither statement I nor statement II is correct"
+     ],
+     "opts_hi": [
+      "केवल कथन I सही है",
+      "केवल कथन II सही है",
+      "कथन I और II दोनों सही हैं",
+      "न कथन I सही है, न कथन II"
+     ],
+     "ans": 0,
+     "exp_en": "Anil is inside Singers and Dancers but outside Actors, so statement I is true. Bina is outside the Singers circle, so she is not a singer, and statement II is false.",
+     "exp_hi": "अनिल गायकों और नर्तकों में है पर अभिनेताओं से बाहर है, अतः कथन I सत्य है। बीना गायकों के वृत्त से बाहर है, अतः वह गायिका नहीं है और कथन II असत्य है।"
+    },
+    {
+     "subject": "Mental Ability & Reasoning",
+     "q": "Match the number series in List I with the next term in List II.\nList I: (a) 2, 4, 6, 8, ? (b) 1, 4, 9, 16, ? (c) 3, 6, 12, 24, ? (d) 1, 1, 2, 3, 5, ?\nList II: (1) 10 (2) 25 (3) 48 (4) 8",
+     "q_hi": "सूची I की संख्या श्रेणियों का सूची II के अगले पद से मिलान कीजिए।\nसूची I: (a) 2, 4, 6, 8, ? (b) 1, 4, 9, 16, ? (c) 3, 6, 12, 24, ? (d) 1, 1, 2, 3, 5, ?\nसूची II: (1) 10 (2) 25 (3) 48 (4) 8",
+     "opts": [
+      "a-2, b-1, c-3, d-4",
+      "a-3, b-2, c-1, d-4",
+      "a-1, b-2, c-4, d-3",
+      "a-1, b-2, c-3, d-4"
+     ],
+     "opts_hi": [
+      "a-2, b-1, c-3, d-4",
+      "a-3, b-2, c-1, d-4",
+      "a-1, b-2, c-4, d-3",
+      "a-1, b-2, c-3, d-4"
+     ],
+     "ans": 3,
+     "exp_en": "(a) adds 2, so next is 10; (b) squares of 1, 2, 3, 4, so next is 25; (c) doubles each time, so next is 48; (d) each term is the sum of the previous two, so next is 8.",
+     "exp_hi": "(a) में 2 जुड़ता है, अगला पद 10; (b) 1, 2, 3, 4 के वर्ग हैं, अगला पद 25; (c) हर पद दोगुना होता है, अगला पद 48; (d) हर पद पिछले दो पदों का योग है, अगला पद 8।"
+    },
+    {
+     "subject": "Mental Ability & Reasoning",
+     "q": "Consider the letter series B, D, G, K, P, ? and the statements: I. Each letter is shifted forward by one place more than the previous shift (2, 3, 4, 5, ...), therefore the next letter is V. II. The series consists of alternate letters of the alphabet, therefore the next letter is R. Which of the following is correct?",
+     "q_hi": "अक्षर श्रेणी B, D, G, K, P, ? और कथनों पर विचार कीजिए: I. प्रत्येक अक्षर पिछली बार से एक स्थान अधिक आगे खिसकता है (2, 3, 4, 5, ...), इसलिए अगला अक्षर V है। II. श्रेणी में वर्णमाला के एकांतर अक्षर हैं, इसलिए अगला अक्षर R है। निम्नलिखित में से कौन-सा सही है?",
+     "opts": [
+      "Both statements I and II are correct",
+      "Only statement II is correct",
+      "Only statement I is correct",
+      "Neither statement I nor statement II is correct"
+     ],
+     "opts_hi": [
+      "कथन I और II दोनों सही हैं",
+      "केवल कथन II सही है",
+      "केवल कथन I सही है",
+      "न कथन I सही है, न कथन II"
+     ],
+     "ans": 2,
+     "exp_en": "B→D (+2), D→G (+3), G→K (+4), K→P (+5), so the next shift is +6 and P+6 = V; statement I is correct. The letters are not alternate ones (that would be B, D, F, ...), so statement II is wrong.",
+     "exp_hi": "B→D (+2), D→G (+3), G→K (+4), K→P (+5), अतः अगला खिसकाव +6 है और P+6 = V; कथन I सही है। अक्षर एकांतर नहीं हैं (तब श्रेणी B, D, F, ... होती), इसलिए कथन II गलत है।"
+    },
+    {
+     "subject": "Mental Ability & Reasoning",
+     "q": "Match each group in List I with its odd one out in List II.\nList I: (a) Mango, Apple, Potato, Banana (b) Triangle, Square, Sphere, Rectangle (c) 2, 3, 5, 9 (d) Patna, Jaipur, Lucknow, Kanpur\nList II: (1) Potato (2) Sphere (3) 9 (4) Kanpur",
+     "q_hi": "सूची I के प्रत्येक समूह का मिलान सूची II के उसके विषम पद से कीजिए।\nसूची I: (a) आम, सेब, आलू, केला (b) त्रिभुज, वर्ग, गोला, आयत (c) 2, 3, 5, 9 (d) पटना, जयपुर, लखनऊ, कानपुर\nसूची II: (1) आलू (2) गोला (3) 9 (4) कानपुर",
+     "opts": [
+      "a-1, b-3, c-2, d-4",
+      "a-1, b-2, c-3, d-4",
+      "a-2, b-1, c-3, d-4",
+      "a-1, b-2, c-4, d-3"
+     ],
+     "opts_hi": [
+      "a-1, b-3, c-2, d-4",
+      "a-1, b-2, c-3, d-4",
+      "a-2, b-1, c-3, d-4",
+      "a-1, b-2, c-4, d-3"
+     ],
+     "ans": 1,
+     "exp_en": "Potato is not a fruit; the sphere is a solid (3-D) figure while the others are plane figures; 9 is not prime; Kanpur is not a state capital while the others are.",
+     "exp_hi": "आलू फल नहीं है; गोला त्रिविमीय ठोस आकृति है जबकि अन्य समतल आकृतियाँ हैं; 9 अभाज्य संख्या नहीं है; कानपुर राज्य की राजधानी नहीं है जबकि अन्य हैं।"
+    },
+    {
+     "subject": "Mental Ability & Reasoning",
+     "q": "Pointing to a man in a photograph, Riya said, \"His mother is the only daughter of my mother's father.\" Since Riya's mother is the only daughter of her own father, the man in the photograph is Riya's ______.",
+     "q_hi": "एक तस्वीर में एक पुरुष की ओर इशारा करते हुए रिया ने कहा, \"उसकी माँ मेरी माँ के पिता की इकलौती पुत्री है।\" चूँकि रिया की माँ अपने पिता की इकलौती पुत्री है, इसलिए तस्वीर वाला पुरुष रिया का ______ है।",
+     "opts": [
+      "Father",
+      "Cousin",
+      "Brother",
+      "Maternal uncle"
+     ],
+     "opts_hi": [
+      "पिता",
+      "चचेरा भाई",
+      "भाई",
+      "मामा"
+     ],
+     "ans": 2,
+     "exp_en": "Riya's mother's father's only daughter is Riya's mother herself. So the man is her mother's son, i.e., Riya's brother.",
+     "exp_hi": "रिया की माँ के पिता की इकलौती पुत्री स्वयं रिया की माँ है। अतः वह पुरुष रिया की माँ का पुत्र, यानी रिया का भाई है।"
+    },
+    {
+     "subject": "Mental Ability & Reasoning",
+     "q": "Ravi starts from his house and walks 5 km towards the north, then turns right and walks 3 km, then turns right again and walks 5 km. Because of these turns, he is now ______ of his starting point.",
+     "q_hi": "रवि अपने घर से चलकर उत्तर की ओर 5 किमी जाता है, फिर दाएँ मुड़कर 3 किमी चलता है, फिर पुनः दाएँ मुड़कर 5 किमी चलता है। इन मोड़ों के कारण वह अब अपने प्रारंभिक बिंदु से ______ में है।",
+     "opts": [
+      "3 km west",
+      "8 km north",
+      "5 km south",
+      "3 km east"
+     ],
+     "opts_hi": [
+      "3 किमी पश्चिम",
+      "8 किमी उत्तर",
+      "5 किमी दक्षिण",
+      "3 किमी पूर्व"
+     ],
+     "ans": 3,
+     "exp_en": "Going north then turning right means east for 3 km, then turning right means south for 5 km, which cancels the northward 5 km. He ends up 3 km east of the start.",
+     "exp_hi": "उत्तर की ओर चलकर दाएँ मुड़ने पर पूर्व में 3 किमी, फिर दाएँ मुड़ने पर दक्षिण में 5 किमी चलता है, जो उत्तर के 5 किमी को निरस्त कर देता है। अतः वह प्रारंभिक बिंदु से 3 किमी पूर्व में है।"
+    },
+    {
+     "subject": "Mental Ability & Reasoning",
+     "q": "In a certain code, Amit is written as BNJU, meaning each letter is replaced by the next letter of the alphabet. Using the same rule, Sunil would be written as ______.",
+     "q_hi": "एक निश्चित कूट भाषा में Amit को BNJU लिखा जाता है, अर्थात प्रत्येक अक्षर को वर्णमाला के अगले अक्षर से बदला गया है। इसी नियम से Sunil को ______ लिखा जाएगा।",
+     "opts": [
+      "TVOJM",
+      "TVOIM",
+      "TUOJM",
+      "RTMHK"
+     ],
+     "opts_hi": [
+      "TVOJM",
+      "TVOIM",
+      "TUOJM",
+      "RTMHK"
+     ],
+     "ans": 0,
+     "exp_en": "Each letter moves one step forward: S→T, U→V, N→O, I→J, L→M, giving TVOJM.",
+     "exp_hi": "प्रत्येक अक्षर एक स्थान आगे बढ़ता है: S→T, U→V, N→O, I→J, L→M, इसलिए कूट TVOJM बनता है।"
+    },
+    {
+     "subject": "Mental Ability & Reasoning",
+     "q": "Which of the following is the correct analogy? Book : Reading :: Knife : ?",
+     "q_hi": "निम्नलिखित में से कौन-सा सही सादृश्य है? पुस्तक : पढ़ना :: चाकू : ?",
+     "opts": [
+      "Kitchen",
+      "Cutting",
+      "Metal",
+      "Sharpness"
+     ],
+     "opts_hi": [
+      "रसोई",
+      "काटना",
+      "धातु",
+      "तेज़ धार"
+     ],
+     "ans": 1,
+     "exp_en": "A book is used for reading, just as a knife is used for cutting; the relation is object to its function.",
+     "exp_hi": "पुस्तक का उपयोग पढ़ने के लिए होता है, उसी प्रकार चाकू का उपयोग काटने के लिए होता है; यह वस्तु और उसके कार्य का संबंध है।"
+    },
+    {
+     "subject": "Mental Ability & Reasoning",
+     "q": "Which of the following is correct about the hands of a clock at exactly 3:00?",
+     "q_hi": "ठीक 3:00 बजे घड़ी की सुइयों के बारे में निम्नलिखित में से कौन-सा कथन सही है?",
+     "opts": [
+      "The hour hand and minute hand make an angle of 180°",
+      "The hour hand and minute hand make an angle of 60°",
+      "The hour hand and minute hand make an angle of 90°",
+      "The hour hand and minute hand coincide"
+     ],
+     "opts_hi": [
+      "घंटे की सुई और मिनट की सुई के बीच 180° का कोण बनता है",
+      "घंटे की सुई और मिनट की सुई के बीच 60° का कोण बनता है",
+      "घंटे की सुई और मिनट की सुई के बीच 90° का कोण बनता है",
+      "घंटे की सुई और मिनट की सुई एक-दूसरे पर संपाती होती हैं"
+     ],
+     "ans": 2,
+     "exp_en": "At 3:00 the minute hand points at 12 and the hour hand at 3, which are 3 divisions apart, i.e., 3 × 30° = 90°.",
+     "exp_hi": "3:00 बजे मिनट की सुई 12 पर और घंटे की सुई 3 पर होती है, जो 3 खाने की दूरी है, यानी 3 × 30° = 90°।"
+    },
+    {
+     "subject": "Mental Ability & Reasoning",
+     "q": "Match the Venn diagram relationship with the correct pair of items. Which of the following pairs correctly matches the set of items with its Venn diagram relationship?",
+     "q_hi": "वेन आरेख संबंध का मिलान दी गई वस्तुओं के समूह से कीजिए। निम्नलिखित में से कौन-सा युग्म वस्तुओं के समूह को उसके वेन आरेख संबंध से सही ढंग से मिलाता है?",
+     "opts": [
+      "Pen, Pencil, Eraser: three circles inside one another",
+      "Doctor, Man, Teacher: three completely separate circles",
+      "Mother, Woman, Sister: one circle inside another, with no overlap",
+      "Dog, Cat, Animal: two separate circles inside a larger circle"
+     ],
+     "opts_hi": [
+      "पेन, पेंसिल, रबड़: एक-दूसरे के अंदर तीन वृत्त",
+      "डॉक्टर, पुरुष, शिक्षक: तीन पूर्णतः अलग-अलग वृत्त",
+      "माँ, महिला, बहन: एक वृत्त दूसरे के अंदर, कोई अतिव्यापन नहीं",
+      "कुत्ता, बिल्ली, जानवर: एक बड़े वृत्त के अंदर दो अलग-अलग वृत्त"
+     ],
+     "ans": 3,
+     "exp_en": "Dog and Cat are different animals, so they are separate circles, and both lie inside the larger circle of Animal. The other pairs do not represent the relationships correctly.",
+     "exp_hi": "कुत्ता और बिल्ली अलग-अलग जानवर हैं, इसलिए वे अलग वृत्त हैं और दोनों जानवर के बड़े वृत्त के अंदर आते हैं। अन्य युग्म संबंध को सही नहीं दर्शाते।"
+    },
+    {
+     "subject": "Mental Ability & Reasoning",
+     "q": "Five friends A, B, C, D and E ran a race. A finished before B but after C. D finished after B but before E. Match each person with the correct position. Which of the following is correct?",
+     "q_hi": "पाँच मित्र A, B, C, D और E ने एक दौड़ लगाई। A, B से पहले लेकिन C के बाद पूरा किया। D, B के बाद लेकिन E से पहले पूरा किया। प्रत्येक व्यक्ति का सही स्थान से मिलान कीजिए। निम्नलिखित में से कौन-सा सही है?",
+     "opts": [
+      "C – 1st, A – 2nd, B – 3rd",
+      "C – 1st, B – 2nd, A – 3rd",
+      "C – 1st, A – 2nd, D – 3rd",
+      "A – 1st, C – 2nd, B – 3rd"
+     ],
+     "opts_hi": [
+      "C – पहला, A – दूसरा, B – तीसरा",
+      "C – पहला, B – दूसरा, A – तीसरा",
+      "C – पहला, A – दूसरा, D – तीसरा",
+      "A – पहला, C – दूसरा, B – तीसरा"
+     ],
+     "ans": 0,
+     "exp_en": "The order is C, A, B, D, E, so C is 1st, A is 2nd and B is 3rd.",
+     "exp_hi": "क्रम C, A, B, D, E है, इसलिए C पहले, A दूसरे और B तीसरे स्थान पर है।"
+    },
+    {
+     "subject": "Mental Ability & Reasoning",
+     "q": "Ravi scored 60 marks out of 80, Sita scored 45 marks out of 60, Mohan scored 50 marks out of 80 and Geeta scored 36 marks out of 40. Which of the following is correct?",
+     "q_hi": "रवि ने 80 में से 60 अंक, सीता ने 60 में से 45 अंक, मोहन ने 80 में से 50 अंक और गीता ने 40 में से 36 अंक प्राप्त किए। निम्नलिखित में से कौन-सा सही है?",
+     "opts": [
+      "Geeta scored a lower percentage than Sita",
+      "Ravi and Sita scored the same percentage",
+      "Mohan scored a higher percentage than Ravi",
+      "Ravi scored 80 percent"
+     ],
+     "opts_hi": [
+      "गीता का प्रतिशत सीता से कम है",
+      "रवि और सीता का प्रतिशत समान है",
+      "मोहन का प्रतिशत रवि से अधिक है",
+      "रवि ने 80 प्रतिशत अंक प्राप्त किए"
+     ],
+     "ans": 1,
+     "exp_en": "Ravi: 60/80 = 75% and Sita: 45/60 = 75%, so they are equal. Mohan scored 62.5% and Geeta 90%, so the other statements are wrong.",
+     "exp_hi": "रवि: 60/80 = 75% और सीता: 45/60 = 75%, अतः दोनों समान हैं। मोहन का प्रतिशत 62.5% और गीता का 90% है, इसलिए अन्य कथन गलत हैं।"
+    },
+    {
+     "subject": "Mental Ability & Reasoning",
+     "q": "In a certain code, '+' means '×', '−' means '+', '×' means '÷' and '÷' means '−'. Statement I: Anil evaluated 8 + 3 − 2 and got 26. Statement II: Bimal evaluated 12 × 4 ÷ 1 and got 2. Which of the following is correct?",
+     "q_hi": "एक निश्चित कूट में '+' का अर्थ '×', '−' का अर्थ '+', '×' का अर्थ '÷' और '÷' का अर्थ '−' है। कथन I: अनिल ने 8 + 3 − 2 का मान निकाला और 26 पाया। कथन II: बिमल ने 12 × 4 ÷ 1 का मान निकाला और 2 पाया। निम्नलिखित में से कौन-सा सही है?",
+     "opts": [
+      "Only Statement I is correct",
+      "Only Statement II is correct",
+      "Both Statements I and II are correct",
+      "Neither Statement I nor Statement II is correct"
+     ],
+     "opts_hi": [
+      "केवल कथन I सही है",
+      "केवल कथन II सही है",
+      "कथन I और II दोनों सही हैं",
+      "न तो कथन I और न ही कथन II सही है"
+     ],
+     "ans": 0,
+     "exp_en": "8 + 3 − 2 becomes 8 × 3 + 2 = 26, so Statement I is correct. 12 × 4 ÷ 1 becomes 12 ÷ 4 − 1 = 2, which is also correct, so both statements hold.",
+     "exp_hi": "8 + 3 − 2 का अर्थ 8 × 3 + 2 = 26 है, इसलिए कथन I सही है। 12 × 4 ÷ 1 का अर्थ 12 ÷ 4 − 1 = 2 है, जो भी सही है, इसलिए दोनों कथन सही हैं।"
+    },
+    {
+     "subject": "Mental Ability & Reasoning",
+     "q": "Statement I: All teachers are graduates. Statement II: Some graduates are artists. Which of the following conclusions follows?",
+     "q_hi": "कथन I: सभी शिक्षक स्नातक हैं। कथन II: कुछ स्नातक कलाकार हैं। निम्नलिखित में से कौन-सा निष्कर्ष अनुसरण करता है?",
+     "opts": [
+      "No teacher is an artist",
+      "Some teachers are artists",
+      "All teachers are artists",
+      "Some artists are graduates"
+     ],
+     "opts_hi": [
+      "कोई शिक्षक कलाकार नहीं है",
+      "कुछ शिक्षक कलाकार हैं",
+      "सभी शिक्षक कलाकार हैं",
+      "कुछ कलाकार स्नातक हैं"
+     ],
+     "ans": 3,
+     "exp_en": "From 'Some graduates are artists', the converse 'Some artists are graduates' necessarily follows. The other conclusions cannot be derived from the statements.",
+     "exp_hi": "'कुछ स्नातक कलाकार हैं' से उसका परिवर्तन 'कुछ कलाकार स्नातक हैं' अवश्य निकलता है। अन्य निष्कर्ष कथनों से नहीं निकाले जा सकते।"
+    },
+    {
+     "subject": "Mental Ability & Reasoning",
+     "q": "Statements: All temples are monuments. Some monuments are located in Gaya. No museum is a monument. Conclusions: I. Some temples may be located in Gaya. II. No museum is a temple. III. Some museums are located in Gaya. Which of the conclusions follows?",
+     "q_hi": "कथन: सभी मंदिर स्मारक हैं। कुछ स्मारक गया में स्थित हैं। कोई संग्रहालय स्मारक नहीं है। निष्कर्ष: I. कुछ मंदिर गया में स्थित हो सकते हैं। II. कोई संग्रहालय मंदिर नहीं है। III. कुछ संग्रहालय गया में स्थित हैं। इनमें से कौन-सा निष्कर्ष निकलता है?",
+     "opts": [
+      "Only I and II follow",
+      "Only I follows",
+      "Only II and III follow",
+      "All of I, II and III follow"
+     ],
+     "opts_hi": [
+      "केवल I और II निकलते हैं",
+      "केवल I निकलता है",
+      "केवल II और III निकलते हैं",
+      "I, II और III तीनों निकलते हैं"
+     ],
+     "ans": 0,
+     "exp_en": "All temples are monuments and some monuments are in Gaya, so it is possible that some temples are in Gaya (I follows). Since no museum is a monument and all temples are monuments, no museum is a temple (II follows); III does not follow because nothing links museums to Gaya.",
+     "exp_hi": "सभी मंदिर स्मारक हैं और कुछ स्मारक गया में हैं, अतः कुछ मंदिर गया में हो सकते हैं (I निकलता है)। कोई संग्रहालय स्मारक नहीं है और सभी मंदिर स्मारक हैं, इसलिए कोई संग्रहालय मंदिर नहीं है (II निकलता है); III नहीं निकलता क्योंकि संग्रहालयों का गया से कोई संबंध नहीं दिया गया है।"
     }
    ]
   },
