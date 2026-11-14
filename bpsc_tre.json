@@ -5,7 +5,7 @@
    "title": "BPSC TRE 4.0 Prelims Mock Test 1",
    "duration": 120,
    "difficulty": "Medium",
-   "questionCount": 149,
+   "questionCount": 150,
    "correctMarks": 1,
    "negativeMarks": 0.33,
    "questions": [
@@ -2988,6 +2988,26 @@
      "ans": 0,
      "exp_en": "All temples are monuments and some monuments are in Gaya, so it is possible that some temples are in Gaya (I follows). Since no museum is a monument and all temples are monuments, no museum is a temple (II follows); III does not follow because nothing links museums to Gaya.",
      "exp_hi": "सभी मंदिर स्मारक हैं और कुछ स्मारक गया में हैं, अतः कुछ मंदिर गया में हो सकते हैं (I निकलता है)। कोई संग्रहालय स्मारक नहीं है और सभी मंदिर स्मारक हैं, इसलिए कोई संग्रहालय मंदिर नहीं है (II निकलता है); III नहीं निकलता क्योंकि संग्रहालयों का गया से कोई संबंध नहीं दिया गया है।"
+    },
+    {
+     "subject": "Indian Polity",
+     "q": "Which Article of the Constitution of India abolishes 'Untouchability' and forbids its practice in any form?",
+     "q_hi": "भारत के संविधान का कौन-सा अनुच्छेद 'अस्पृश्यता' का अंत करता है और किसी भी रूप में इसके आचरण को निषिद्ध करता है?",
+     "opts": [
+      "Article 14",
+      "Article 15",
+      "Article 16",
+      "Article 17"
+     ],
+     "opts_hi": [
+      "अनुच्छेद 14",
+      "अनुच्छेद 15",
+      "अनुच्छेद 16",
+      "अनुच्छेद 17"
+     ],
+     "ans": 3,
+     "exp_en": "Article 17 abolishes Untouchability and makes its practice in any form a punishable offence. Article 14 deals with equality before law, Article 15 prohibits discrimination on grounds of religion, race, caste, sex or place of birth, and Article 16 guarantees equality of opportunity in public employment.",
+     "exp_hi": "अनुच्छेद 17 अस्पृश्यता का अंत करता है और किसी भी रूप में इसके आचरण को दंडनीय अपराध बनाता है। अनुच्छेद 14 विधि के समक्ष समता, अनुच्छेद 15 धर्म, मूलवंश, जाति, लिंग या जन्मस्थान के आधार पर विभेद का प्रतिषेध, और अनुच्छेद 16 लोक नियोजन में अवसर की समता से संबंधित है।"
     }
    ]
   },
