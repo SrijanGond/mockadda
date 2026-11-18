@@ -1,9 +1,11 @@
-// POST /api/chsl-recover  {"contact": "phone or email used at checkout", "reference": "optional UPI transaction ID / UTR or pay_... id"}
+// POST /api/chsl-recover
+//   {"contact": "phone or email used at checkout", "reference": "optional UPI transaction ID / UTR or pay_... id", "exam": "super_tet"}
+//     -> finds ALL of this buyer's purchases for that exam (packs and bundles): { purchases: [{product, order_id, payment_id, signature}] }
+//   {"contact": ..., "product": "chsl"}   (older form) -> finds one purchase of that product: { order_id, payment_id, signature }
 // For buyers who paid but never saw the download button (closed tab, new phone, cleared browser).
 // Students usually only have the UPI transaction ID, so the phone number or email they paid with is what proves the
-// purchase; the transaction ID is optional and just narrows the search. Returns the same download details the buyer
-// would have received straight after paying.
-const { PRICE_PAISE, FORMAT, signatureFor, razorpay, checkPurchase, configured } = require('./_lib/verify');
+// purchase; the transaction ID is optional and just narrows the search.
+const { PRODUCTS, getProduct, FORMAT, signatureFor, razorpay, checkPurchase, classifyPurchase, configured } = require('./_lib/verify');
 
 const last10 = (s) => String(s || '').replace(/\D/g, '').slice(-10);
 const clean = (s) => String(s || '').trim().replace(/\s+/g, '').toLowerCase();
@@ -33,6 +35,15 @@ module.exports = async (req, res) => {
   if (typeof body === 'string') { try { body = JSON.parse(body); } catch (e) { body = {}; } }
   const contact = String(body.contact || '').trim().slice(0, 120);
   const reference = String(body.reference || body.payment_id || '').trim().slice(0, 80);
+
+  const examKey = body.exam ? String(body.exam) : null;
+  const examProducts = examKey ? Object.keys(PRODUCTS).filter((k) => PRODUCTS[k].exam === examKey) : null;
+  if (examKey && !examProducts.length) return res.status(400).json({ error: 'Unknown exam' });
+  const productKey = body.product === undefined ? 'chsl' : String(body.product);
+  const product = examKey ? null : getProduct(productKey);
+  if (!examKey && !product) return res.status(400).json({ error: 'Unknown product' });
+  const minPrice = examKey ? Math.min(...examProducts.map((k) => PRODUCTS[k].price)) : product.price;
+
   const matchContact = contactMatcher(contact);
   if (!matchContact) return res.status(400).json({ error: 'Please enter the 10-digit phone number or the email address you used when paying.' });
   const matchRef = referenceMatcher(reference);
@@ -51,15 +62,27 @@ module.exports = async (req, res) => {
       }
     }
     candidates = candidates
-      .filter((p) => p && FORMAT.order.test(String(p.order_id || '')) && (p.status === 'captured' || p.status === 'authorized') && p.amount >= PRICE_PAISE)
+      .filter((p) => p && FORMAT.order.test(String(p.order_id || '')) && (p.status === 'captured' || p.status === 'authorized') && p.amount >= minPrice)
       .filter(matchContact).filter(matchRef)
-      .sort((a, b) => (b.created_at || 0) - (a.created_at || 0))
-      .slice(0, 5);
+      .sort((a, b) => (b.created_at || 0) - (a.created_at || 0));
+
     let pending = false;
-    for (const p of candidates) {
-      const check = await checkPurchase(p.order_id, p.id);
-      if (check.state === 'ok') return res.status(200).json({ order_id: p.order_id, payment_id: p.id, signature: signatureFor(p.order_id, p.id) });
-      if (check.state === 'pending') pending = true;
+    if (!examKey) {   // older form: one product
+      for (const p of candidates.slice(0, 5)) {
+        const check = await checkPurchase(p.order_id, p.id, productKey);
+        if (check.state === 'ok') return res.status(200).json({ order_id: p.order_id, payment_id: p.id, signature: signatureFor(p.order_id, p.id) });
+        if (check.state === 'pending') pending = true;
+      }
+    } else {          // every purchase this buyer made for the exam
+      const found = {};
+      for (const p of candidates.slice(0, 8)) {
+        const c = await classifyPurchase(p.order_id, p.id);
+        if (c.state === 'invalid' || c.product.exam !== examKey) continue;
+        if (c.state === 'pending') { pending = true; continue; }
+        if (!found[c.key]) found[c.key] = { product: c.key, order_id: p.order_id, payment_id: p.id, signature: signatureFor(p.order_id, p.id) };
+      }
+      const purchases = Object.keys(found).map((k) => found[k]);
+      if (purchases.length) return res.status(200).json({ purchases, order_id: purchases[0].order_id, payment_id: purchases[0].payment_id, signature: purchases[0].signature });
     }
     if (pending) return res.status(202).json({ error: 'Your payment is being confirmed. Please try again in a few minutes.' });
     return res.status(404).json(notFound);
