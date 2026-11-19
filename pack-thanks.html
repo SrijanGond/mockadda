@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="robots" content="noindex,nofollow">
-<title>Your SSC CHSL Test Pack | ReadyMadeQuiz</title>
+<title>Your Test Pack | ReadyMadeQuiz</title>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-2E4YWNRY8E"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -34,8 +34,8 @@
 <main>
   <div class="card" id="ok" hidden>
     <h1>✅ Payment received</h1>
-    <p>Thank you! Your SSC CHSL Tier 1 pack (5 full-length tests with answer keys and explanations) is ready.</p>
-    <a class="btn" id="dl" href="#" download>⬇ Download the pack (PDF)</a>
+    <p id="intro">Thank you! Your pack is ready.</p>
+    <div id="dlbox"></div>
     <p class="small space">Save the file to your phone or computer. This button stays on this device. Payment ID: <span id="pid"></span></p>
     <p class="small">If the download does not work, email readymadequiz.co.in@gmail.com with your payment ID.</p>
   </div>
@@ -58,43 +58,72 @@
 </main>
 <script>
 (function(){
-  var KEY='readymadequiz_chsl_purchase_v1', PRICE=99;
   var $=function(id){return document.getElementById(id);};
-  function load(){ try{ var p=JSON.parse(localStorage.getItem(KEY)||'null'); return (p&&p.order_id&&p.payment_id&&p.signature)?p:null; }catch(e){ return null; } }
-  function save(p){ try{ localStorage.setItem(KEY, JSON.stringify(p)); }catch(e){} }
-  function href(p){ return '/api/chsl-download?order_id='+encodeURIComponent(p.order_id)+'&payment_id='+encodeURIComponent(p.payment_id)+'&signature='+encodeURIComponent(p.signature); }
-  function track(p){
+  var q=new URLSearchParams(location.search);
+  var PROD=q.get('product')||'chsl', EXAM=q.get('exam')||'ssc_chsl';
+  var CAT={exams:{},all:{}};
+  function skey(k){ return 'readymadequiz_'+k+'_purchase_v1'; }
+  function load(k){ try{ var p=JSON.parse(localStorage.getItem(skey(k))||'null'); return (p&&p.order_id&&p.payment_id&&p.signature)?p:null; }catch(e){ return null; } }
+  function save(k,p){ try{ localStorage.setItem(skey(k), JSON.stringify({order_id:p.order_id,payment_id:p.payment_id,signature:p.signature})); }catch(e){} }
+  function href(pack,p){ return '/api/chsl-download?order_id='+encodeURIComponent(p.order_id)+'&payment_id='+encodeURIComponent(p.payment_id)+'&signature='+encodeURIComponent(p.signature)+'&product='+encodeURIComponent(pack); }
+  function item(k){ return CAT.all[k]||null; }
+  function covers(k){ var it=item(k); return (it&&it.kind==='bundle'&&it.includes)?it.includes.slice():[k]; }   // packs a purchase gives access to
+  function track(k,p){
     try{
-      var flag='readymadequiz_chsl_tracked_'+p.payment_id;
+      var flag='readymadequiz_tracked_'+p.payment_id;
       if(localStorage.getItem(flag)) return;
       localStorage.setItem(flag,'1');
-      gtag('event','purchase',{transaction_id:p.payment_id,value:PRICE,currency:'INR',items:[{item_id:'chsl_pack',item_name:'SSC CHSL Tier 1 Printable Test Pack',price:PRICE,quantity:1}]});
+      var it=item(k)||{}, price=Math.round((it.price||0)/100);
+      gtag('event','purchase',{transaction_id:p.payment_id,value:price,currency:'INR',items:[{item_id:it.note||k,item_name:it.name||k,price:price,quantity:1}]});
     }catch(e){}
   }
-  function show(p){
-    $('dl').href=href(p);
-    $('pid').textContent=p.payment_id;
+  // list = [{key: purchased catalog key, p: {order_id, payment_id, signature}}]
+  function show(list){
+    var box=$('dlbox'); box.innerHTML=''; var seen={}, names=[];
+    list.forEach(function(x){
+      covers(x.key).forEach(function(pk){
+        if(seen[pk]) return; seen[pk]=1;
+        var it=item(pk), a=document.createElement('a');
+        a.className='btn'; a.style.marginBottom='8px'; a.style.display='block';
+        a.href=href(pk,x.p); a.setAttribute('download','');
+        a.textContent='⬇ Download '+(it?it.title:'the pack')+' (PDF)';
+        a.addEventListener('click',function(){ try{ gtag('event','pack_download',{product:(it&&it.note)||pk,placement:'thanks_page'}); }catch(e){} });
+        box.appendChild(a); if(it) names.push(it.name);
+      });
+    });
+    $('intro').textContent='Thank you! '+(names.length?'Your '+names.join(' and ')+(names.length>1?' are':' is')+' ready.':'Your pack is ready.');
+    $('pid').textContent=list[0].p.payment_id;
     $('ok').hidden=false; $('failed').hidden=true; $('recover').hidden=true;
-    $('dl').addEventListener('click',function(){ try{ gtag('event','pack_download',{product:'chsl_pack',placement:'thanks_page'}); }catch(e){} });
   }
-  var q=new URLSearchParams(location.search);
-  var fromUrl={order_id:q.get('order_id')||'',payment_id:q.get('payment_id')||'',signature:q.get('signature')||''};
-  var status=q.get('status');
-  if(fromUrl.order_id&&fromUrl.payment_id&&fromUrl.signature){
-    save(fromUrl); track(fromUrl); show(fromUrl);
-    try{ history.replaceState(null,'','/pack-thanks.html'); }catch(e){}
-  } else if(status==='failed'){
-    $('failed').hidden=false;
-  } else {
-    var saved=load(); if(saved) show(saved);
+  function allSaved(){
+    var out=[]; Object.keys(CAT.all).forEach(function(k){ var p=load(k); if(p) out.push({key:k,p:p}); });
+    if(!out.length){ var p=load(PROD); if(p) out.push({key:PROD,p:p}); }
+    return out;
   }
+  var ready=fetch('/api/catalog').then(function(r){ return r.ok?r.json():null; }).then(function(c){ if(c&&c.all) CAT=c; }).catch(function(){});
+  ready.then(function(){
+    var fromUrl={order_id:q.get('order_id')||'',payment_id:q.get('payment_id')||'',signature:q.get('signature')||''};
+    var status=q.get('status');
+    if(fromUrl.order_id&&fromUrl.payment_id&&fromUrl.signature){
+      save(PROD,fromUrl); track(PROD,fromUrl);
+      var list=allSaved(); if(!list.some(function(x){ return x.key===PROD; })) list.unshift({key:PROD,p:fromUrl});
+      show(list);
+      try{ history.replaceState(null,'','/pack-thanks.html'); }catch(e){}
+    } else if(status==='failed'){
+      $('failed').hidden=false;
+    } else {
+      var saved=allSaved(); if(saved.length) show(saved);
+    }
+  });
   $('rb').addEventListener('click',function(){
     var s=$('rs'); s.textContent='Checking…';
-    fetch('/api/chsl-recover',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({reference:$('rp').value.trim(),contact:$('rc').value.trim()})})
+    fetch('/api/chsl-recover',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({exam:EXAM,reference:$('rp').value.trim(),contact:$('rc').value.trim()})})
       .then(function(r){ return r.json().then(function(j){ return {ok:r.ok,status:r.status,j:j}; }); })
       .then(function(x){
-        if(x.ok&&x.j.signature){ var p={order_id:x.j.order_id,payment_id:x.j.payment_id,signature:x.j.signature}; save(p); track(p); s.textContent=''; show(p); }
-        else s.textContent=(x.j&&x.j.error)||'We could not find this payment.';
+        if(x.ok&&x.j.purchases&&x.j.purchases.length){
+          x.j.purchases.forEach(function(p){ save(p.product,p); track(p.product,p); });
+          s.textContent=''; show(allSaved());
+        } else s.textContent=(x.j&&x.j.error)||'We could not find this payment.';
       })
       .catch(function(){ s.textContent='Could not reach the server. Please try again.'; });
   });
