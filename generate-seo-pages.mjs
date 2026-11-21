@@ -26,7 +26,7 @@ const SITE = 'https://www.readymadequiz.co.in';
 const BRAND = 'ReadyMadeQuiz';
 const YEAR = new Date().getFullYear();
 const SAMPLE_QUESTIONS = 5;                     // sample questions shown on each test page
-const EXTRA_URLS = ['/upsssc-pet/', '/current-affairs']; // other real pages to keep in the sitemap
+const EXTRA_URLS = ['/upsssc-pet/', '/ssc-chsl/', '/super-tet/', '/current-affairs']; // other real pages to keep in the sitemap
 const outRoot = join(__dirname, 'seo-pages');
 
 const meta = JSON.parse(readFileSync(join(__dirname, 'meta.json'), 'utf8'));
