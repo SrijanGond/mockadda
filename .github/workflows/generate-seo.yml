@@ -38,6 +38,6 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
           git add -A
-          git commit -m "SEO: regenerate static pages and sitemap [skip ci]" || echo "No changes"
+          git commit -m "SEO: regenerate static pages and sitemap" || echo "No changes"
           git pull --rebase
           git push
