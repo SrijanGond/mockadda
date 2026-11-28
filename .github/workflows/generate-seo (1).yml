@@ -1,0 +1,43 @@
+name: Generate SEO pages
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main, master ]
+    paths:
+      - 'meta.json'
+      - 'exam-guides.json'
+      - 'generate-seo-pages.mjs'
+      - '*.json'
+      - '!current_affairs.json'   # the Sheet sync pushes this often; it does not need a rebuild
+
+# one run at a time; a newer push cancels an older run that is still waiting
+concurrency:
+  group: generate-seo
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Generate pages
+        run: node generate-seo-pages.mjs
+      - name: Move results into place
+        run: |
+          cp -r seo-pages/. .
+          rm -rf seo-pages
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add -A
+          git commit -m "SEO: regenerate static pages and sitemap [skip ci]" || echo "No changes"
+          git pull --rebase
+          git push
