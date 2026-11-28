@@ -1,8 +1,24 @@
 name: Generate SEO pages
+
 on:
   workflow_dispatch:
+  push:
+    branches: [ main, master ]
+    paths:
+      - 'meta.json'
+      - 'exam-guides.json'
+      - 'generate-seo-pages.mjs'
+      - '*.json'
+      - '!current_affairs.json'   # the Sheet sync pushes this often; it does not need a rebuild
+
+# one run at a time; a newer push cancels an older run that is still waiting
+concurrency:
+  group: generate-seo
+  cancel-in-progress: true
+
 permissions:
   contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -22,5 +38,6 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
           git add -A
-          git commit -m "SEO: static exam and mock test pages, new sitemap" || echo "No changes"
+          git commit -m "SEO: regenerate static pages and sitemap [skip ci]" || echo "No changes"
+          git pull --rebase
           git push
